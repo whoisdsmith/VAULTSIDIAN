@@ -1,18 +1,17 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+# to exclude Obsidian workspace settings (including plugin and hotkey configurations)
+.obsidian/*
 
-# Other files and folders
-.settings/
+# OR only to exclude workspace cache
+.obsidian/workspace/*
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+# Exclude plugins
+.obsidian/plugins/*
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+
+# This file is used to keep track of last auto backup/pull
+.obsidian-git-data
+
+
+# Add below lines to exclude OS settings and caches
+.trash/
+.DS_Store
