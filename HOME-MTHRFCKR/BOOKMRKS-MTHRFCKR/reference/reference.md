@@ -22,7 +22,7 @@
 
 [Ebooks](ebooks.md)
 
-[EDU](edu.md)
+[EDU](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/reference/edu.md)
 
 [GrammerSpellingEtc](grammerspellingetc.md)
 
