@@ -1,14 +1,3 @@
-***
-***
-**[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
-***
-***
-
-**[Table of Contents](https://i.imgur.com/dxiGLuY.png)** - For mobile users
-
-***
-***
-
 # ► Download Directories
 
 * **Note** - Some Open Directories grab IP's, so use a VPN or Tor when accessing them.
