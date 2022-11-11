@@ -1,14 +1,3 @@
-***
-***
-**[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
-***
-***
-
-**[Table of Contents](https://i.imgur.com/ILsqBZJ.png)** - For mobile users
-
-***
-*** 
-
 # ► Learning / Cheat Sheets
 
 * ⭐ **[StackOverflow](https://stackoverflow.com/)**, [StackAnon](https://stackanon.com/), [DecodingDevOps](https://www.decodingdevops.com/) or [Stack Roboflow](https://stackroboflow.com/) - Developer Q&A

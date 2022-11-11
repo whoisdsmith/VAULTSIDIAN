@@ -1,14 +1,3 @@
-***
-***
-**[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
-***
-***
-
-**[Table of Contents](https://i.imgur.com/yIPDO6j.png)** - For mobile users
-
-***
-***
-
 # ► Streaming
 
 ## ▷ Courses

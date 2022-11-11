@@ -1,13 +1,3 @@
-***
-***
-**[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
-***
-***
-
-**[Table of Contents](https://i.imgur.com/rmFqFQs.png)** - For mobile users
-
-***
-
 # ► Android Adblocking
 
 * ⭐ **[APK Adblocking Guide](https://redd.it/oyfmr1)**
