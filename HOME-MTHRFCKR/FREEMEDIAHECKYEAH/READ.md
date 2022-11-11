@@ -1,15 +1,8 @@
-***
-***
-**[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
-***
-***
+# Reading Related
 
-**[Table of Contents](https://i.imgur.com/p52DeiL.png)** - For mobile users
+---
 
-***
-***
-
-# ► Audiobook Sites
+## ► Audiobook Sites
 
 * ⭐ **[Audiobook CSE](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd)** - Multi-Site Audiobook Search
 * ⭐ **[Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124)**
@@ -55,7 +48,7 @@
 
 *** 
 
-# ► Reading Sites
+## ► Reading Sites
 
 * ⭐ **[Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8)** / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39) / [5](https://ravebooksearch.com/) - Search Multiple Sites at once 
 * ⭐ **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - ctrl+f and type "Books / Comics / Magazines"
@@ -189,7 +182,7 @@
 
 ***
 
-## ▷ PDF Search
+### ▷ PDF Search
 
 * ⭐ **[PDFDrive](https://pdfdrive.com/)** - Books 
 * [Ocean of PDF](https://oceanofpdf.com/) - Books / Comics
@@ -213,7 +206,7 @@
 
 ***
 
-## ▷ Classic Sites
+### ▷ Classic Sites
 
 * [Classic Bookshelf](http://www.classicbookshelf.com/library/)
 * [Page by Page Books](https://www.pagebypagebooks.com/) 
@@ -230,7 +223,7 @@
 
 ***
 
-## ▷ Religion / Esoterica
+### ▷ Religion / Esoterica
 
 * ⭐ **[Sacred Text Archive](https://www.sacred-texts.com/index.htm)** - Religion / Mythology / Folklore / Esoterica
 * ⭐ **[ARCHIVES](https://discord.gg/occult)** - Occult / Witchcraft / Religion
@@ -332,7 +325,7 @@
 
 ***
 
-## ▷ Special Interest
+### ▷ Special Interest
 
 * ⭐ **[Cookbooks / Recipes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_cooking)** - Cookbook and Recipe Sites
 * ⭐ **[Wikiquote](https://en.wikiquote.org)**, [Wisdom of Chopra](http://www.wisdomofchopra.com/), [SearchQuotes](https://www.searchquotes.com/), [ThinkExist](http://thinkexist.com/), [Stoic Quotes](https://stoic-quotes.com/), [QuotationsPage](http://www.quotationspage.com/), [BrainyQuote](https://www.brainyquote.com/), [QuoteGarden](https://www.quotegarden.com/), [Quote Collections](https://redd.it/dlao3b) or [Glimbay](https://www.glimbay.com/) - Quotes
@@ -384,7 +377,7 @@
 
 ***
 
-# ► Educational Sites
+## ► Educational Sites
 
 * ⭐ **[MyAnonaMouse](https://www.myanonamouse.net/)** - [Interviews](https://www.myanonamouse.net/inviteapp.php)
 * ⭐ **[Digitalbookindex](http://www.digitalbookindex.org)**
@@ -521,7 +514,7 @@
 
 ***
 
-## ▷ History Sites
+### ▷ History Sites
 
 * ⭐ **[Project Gutenberg](https://www.gutenberg.org/)** - Historical Fiction / Nonfiction / [Australia](http://gutenberg.net.au/) / [Canada](http://gutenberg.ca/index.html) / [Nordic](http://runeberg.org/)
 * ⭐ **[/HIS/STORY Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_.2Fhis.2Fstory_collection)** - Drive 
@@ -563,7 +556,7 @@
 
 ***
 
-## ▷ Programming Sites
+### ▷ Programming Sites
 
 * ⭐ **[O'Reilly](https://www.oreilly.com/)** - Tech / Programming / [Downloader](https://github.com/lorenzodifuccia/safaribooks) / Infinite trial by clearing cookies & making new account
 * ⭐ **[ForCoder](http://forcoder.su/)**, [ScanLibs](https://scanlibs.com/) or [CoderProg](https://coderprog.com/)
@@ -603,7 +596,7 @@
 
 ***
 
-## ▷ Documents / Articles
+### ▷ Documents / Articles
 
 * ⭐ **[TheFreeLibrary](https://www.thefreelibrary.com/)** - Articles
 * ⭐ **[Sci-Hub](https://sci-hub.se/)** - Science Articles / Research Papers
@@ -713,7 +706,7 @@
 
 ***
 
-## ▷ Manual Sites
+### ▷ Manual Sites
 
 * [Manuals & Schematics](https://redd.it/nlw3er), [SafeManuals](https://safe-manuals.com/), [Manuzoid](https://manuzoid.com/), [Wedophones](http://wedophones.com/Manuals/), [manualzz](https://manualzz.com/), [SAS](http://www.univertron.com/SAS/manuals/) or [ManualsLib](https://www.manualslib.com/) - Manual Directories
 * [ManualLib](https://www.manuallib.com/) - Manual Search
@@ -733,7 +726,7 @@
 
 ***
 
-## ▷ Reference Sites
+### ▷ Reference Sites
 
 * ⭐ **[Wikipedia](https://www.wikipedia.org/)** or [WikiFox](https://wikifox.ml/) - Encyclopedia
 * ⭐ **Wikipedia Tools** - [Improved UI](https://www.wikiwand.com/), [2](https://www.modernwiki.app/) / [Top Pages](https://top.hatnote.com/) / [Deleted Pages](https://deletionpedia.org/en/Main_Page) / [Galaxy View](https://wiki.polyfra.me/) / [Read Only](http://static.wiki/) / [Extract Text](https://github.com/attardi/wikiextractor) / [Shorten URLs](https://meta.wikimedia.org/wiki/Special:UrlShortener)
@@ -805,9 +798,9 @@
 
 ***
 
-# ► Visual Media Sites
+## ► Visual Media Sites
 
-## ▷ Comic Sites
+### ▷ Comic Sites
 
 * ⭐ **[Comic CSE](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg)** - Multi-Site Comic Search
 * ⭐ **[ReadComicsOnline](https://readcomiconline.li/)**
@@ -864,7 +857,7 @@
 
 ***
 
-## ▷ Manga Sites
+### ▷ Manga Sites
 
 * ⭐ **[Manga CSE](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0) - Multi-Site Manga Search
 * ⭐ **[The Index](https://theindex.moe/library/manga)** - Manga Site List
@@ -1012,7 +1005,7 @@
 
 ***
 
-## ▷ Light Novel Sites
+### ▷ Light Novel Sites
 
 * ⭐ **[TheIndex](https://theindex.moe/library/novels)** - Light Novel Site Index
 * ⭐ **[Novel Updates](https://www.novelupdates.com/)** 
@@ -1102,7 +1095,7 @@
 
 ***
 
-## ▷ Magazine Sites
+### ▷ Magazine Sites
 
 * ⭐ **[Mobilism Magazines](https://forum.mobilism.org/viewforum.php?f=123)**
 * ⭐ **[PDFMagazines](https://pdfmagazines.club/)**
@@ -1140,7 +1133,7 @@
 
 ***
 
-## ▷ Newspaper Sites
+### ▷ Newspaper Sites
 
 * ⭐ **[Mobilism Newspapers](https://forum.mobilism.org/viewforum.php?f=123)**
 * ⭐ **[Google Newspaper Search](https://news.google.com/newspapers)**
@@ -1165,7 +1158,7 @@
 
 ***
 
-# ► Tracking / Discovery
+## ► Tracking / Discovery
 
 * ⭐ **[GoodReads](https://www.goodreads.com/)** - Books / Comics / Manga / [DL Button](https://github.com/laxyapahuja/bunken)
 * ⭐ **[MyAnimeList](https://myanimelist.net/)** - Manga / Light Novels
@@ -1215,7 +1208,7 @@
 
 ***
 
-# ► Ebook Readers
+## ► Ebook Readers
 
 * ⭐ **[Ebook Reader Index](https://wiki.mobileread.com/wiki/E-book_software)** - List of Ebook Readers
 * ⭐ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_reading) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_reading) Readers** - Mobile Browser Readers
@@ -1264,7 +1257,7 @@
 
 ***
 
-# ► Helpful Sites / Apps
+## ► Helpful Sites / Apps
 
 * ⭐ **[DownloadBookFromIPFS](https://greasyfork.org/en/scripts/428894-downloadbookfromipfs)** - Add Button to Download Books from IPFS
 * ⭐ **[EBook Converters](https://wiki.mobileread.com/wiki/E-book_conversion)** - List of Ebook Converters

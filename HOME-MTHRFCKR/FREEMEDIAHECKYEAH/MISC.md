@@ -1,14 +1,3 @@
-***
-***
-**[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
-***
-***
-
-**[Table of Contents](https://i.imgur.com/yRB5plO.png)** - For mobile users
-
-***
-*** 
-
 # ► Indexes
 
 * ⭐ **[FMHY Guides](https://freemediaheckyeah.ml/guides)** / [2](https://fmhy.tk/guides) or [Mega Rentry](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mega_rentry) - List of Guides

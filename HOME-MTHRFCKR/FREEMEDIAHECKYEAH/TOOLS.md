@@ -1,15 +1,8 @@
-***
-***
-**[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
-***
-***
+# Tools Related
 
-**[Table of Contents](https://i.imgur.com/KSQAUFG.png)** - For mobile users
+---
 
-***
-*** 
-
-# ► General Tools
+## ► General Tools
 
 * ⭐ **[Multi-Tool Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_tool_sites)** - Sites with Multiple Tools
 * ⭐ **[MiXLab](https://colab.research.google.com/github/shirooo39/MiXLab/blob/master/MiXLab.ipynb)** - Multi-Tool Google Colab
@@ -117,7 +110,7 @@
 
 ***
 
-## ▷ Text Tools
+### ▷ Text Tools
 
 * ⭐ **[Text Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_editors)** - Text Editing Tools
 * ⭐ **[Note Taking / Scheduling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps)** - Note Taking / To-Do Apps
@@ -257,11 +250,7 @@
 
 ***
 
-## ▷ [Image Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools)
-
-***
-
-## ▷ Video Tools
+### ▷ Video Tools
 
 * ⭐ **[Awesome Video](https://github.com/krzemienski/awesome-video)** - Video Tool Index
 * ⭐ **[Video Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_players)** - Video Players & Tools
@@ -418,7 +407,7 @@
 
 ***
 
-## ▷ Audio Tools
+### ▷ Audio Tools
 
 * ⭐ **[Awesome Music](https://github.com/ciconia/awesome-music)** - Music Resource Index 
 * ⭐ **[Awesome Music Production](https://github.com/ad-si/awesome-music-production)** - Music Production Index 
@@ -612,15 +601,7 @@
 
 ***
 
-## ▷ [Gaming Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools)
-
-***
-
-## ▷ [Educational Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_educational_tools)
-
-***
-
-## ▷ Career Tools
+### ▷ Career Tools
 
 * ⭐ **[5000 Best Job Sites](http://5000best.com/websites/Jobs/)**, [JobsFromLarry](https://www.jobsfromlarry.com/), [4DayWeek](https://4dayweek.io/) or [Indeed](https://www.indeed.com/) - Job Search Sites
 * ⭐ **[Resume Makers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_resume_makers)** - Create Resumes for Free
@@ -711,11 +692,7 @@
 
 ***
 
-## ▷ [Developer Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools)
-
-*** 
-
-# ► Internet Tools
+## ► Internet Tools
 
 * ⭐ **[Internet Privacy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_browser_tools)** - Internet & Browser Privacy Tools 
 * ⭐ **[Password Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_managers)** - Manage / Save Passwords
@@ -883,7 +860,7 @@
 
 ***
 
-## ▷ Browsers
+### ▷ Browsers
 
 * ⭐ **[Browsers](https://en.m.wikipedia.org/wiki/Comparison_of_web_browsers)**, [2](https://en.m.wikipedia.org/wiki/List_of_web_browsers) - Normal Web Browsers
 * ⭐ **[Privacy Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_based_browsers)** - Privacy Focused Browsers 
@@ -933,7 +910,7 @@
 
 ***
 
-## ▷ Search Tools
+### ▷ Search Tools
 
 * ⭐ **[Alternative Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_search_engines)**
 * ⭐ **[Streaming CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_streaming_site_cse)** - Search General Streaming Sites
@@ -1019,7 +996,7 @@
 
 ***
 
-## ▷ URL Tools
+### ▷ URL Tools
 
 * ⭐ **[Encode / Decode URLs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encode_.2F_decode_urls)** - URL Encoding / Decoding Tools
 * ⭐ **[Flagfox](https://flagfox.wordpress.com/)** - Displays Country's Flag on Sites / [Adds Many URL Tools](https://i.imgur.com/zDaLZxC.png)
@@ -1106,7 +1083,7 @@
 
 ***
 
-## ▷ Reddit Tools
+### ▷ Reddit Tools
 
 * ⭐ **[Reddit Enhancement Suite](https://redditenhancementsuite.com/)**, [Reddit Fix](https://greasyfork.org/en/scripts/404497-reddit-fix) or [RedditMod2](https://greasyfork.org/en/scripts/29724-redditmod2) - Browser Extensions / Scripts
 * ⭐ **[redditlist](http://redditlist.com/)**, [sayit](https://anvaka.github.io/sayit/), [Vizit](http://redditstuff.github.io/sna/vizit/), [Map of Reddit](https://anvaka.github.io/map-of-reddit), [Subbed](https://www.subbed.org/), [RedditViz](https://rhiever.github.io/redditviz/) or [subreddits](http://subreddits.org/) - Subreddit Indexes
@@ -1172,7 +1149,7 @@
 
 ***
 
-## ▷ Discord Tools
+### ▷ Discord Tools
 
 **WARNING** - Misuse of Chat Archivers, Deleters, Mods & 3rd Party Clients is against Discords TOS, so use them at your own risk. 
 
@@ -1328,7 +1305,7 @@
 
 ***
 
-## ▷ Telegram Tools
+### ▷ Telegram Tools
 
 * ⭐ **[Telegram File Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_file_tools)** - File Tools for Telegram
 * [borodutch.eth](https://borodutch.com/) - Telegram Tools
@@ -1376,7 +1353,7 @@
 
 ***
 
-## ▷ YouTube Tools
+### ▷ YouTube Tools
 
 * ⭐ **[YouTube Advanced Search](https://playlists.at/youtube/search/)**
 * ⭐ **[YouTube Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_video_downloaders)** - Download Videos from YouTube
@@ -1484,7 +1461,7 @@
 
 ***
 
-## ▷ Twitch Tools
+### ▷ Twitch Tools
 
 * ⭐ **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_twitch_adblockers)** - Block Ads on Twitch
 * [Twitch Databse](https://twitchdatabase.com/) or [SullyGnome](https://sullygnome.com/) - Twitch Tools and Analytics
@@ -1528,7 +1505,7 @@ Twitch Stream Tracker
 
 ***
 
-## ▷ Twitter Tools
+### ▷ Twitter Tools
 
 * ⭐ **[NoFT](https://noft.gg/)** - Automatically Block all NFT Profile Pictures / [GitHub](https://github.com/ottomated/noft)
 * [TwopCharts](https://twopcharts.com/) - Multiple Twitter Tools 
@@ -1610,7 +1587,7 @@ Twitch Stream Tracker
 
 ***
 
-## ▷ 4chan Tools
+### ▷ 4chan Tools
 
 * [Lurka](https://github.com/AdamSalma/Lurka) - 4chan Desktop Client
 * [SpookyX](https://github.com/Fiddlekins/SpookyX), [4chan X](https://greasyfork.org/en/scripts/7750-4chan-x) / [Themes](https://github.com/KevinParnell/OneeChan) or [Dollchan](https://dollchan.net/) - Adds Features to Imageboards
@@ -1626,7 +1603,7 @@ Twitch Stream Tracker
 
 ***
 
-## ▷ Facebook Tools
+### ▷ Facebook Tools
 
 * [Facebook CSE](https://cse.google.com/cse?cx=65eb7b6b8baf5a5cb) - Search Facebook
 * [FBPurity](https://www.fbpurity.com/) or [Social Fixer](https://socialfixer.com/) - Facebook Enhancement Extension
@@ -1657,7 +1634,7 @@ Twitch Stream Tracker
 
 ***
 
-# ► System Tools
+## ► System Tools
 
 * ⭐ **[Windows Piracy Guides](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_windows_piracy_guides)**
 * ⭐ **[Windows ISO's](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_iso)** - Download Windows
@@ -1992,7 +1969,7 @@ Twitch Stream Tracker
 
 ***
 
-## ▷ Customization
+### ▷ Customization
 
 * ⭐ **[Wallpaper Sites / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - Download Wallpapers
 * ⭐ **[Rainmeter](https://www.rainmeter.net/)** - Desktop Customization / [Skins](https://github.com/khanhas/MagickMeter), [2](https://visualskins.com/) / [Utilities](https://github.com/Jax-Core), [2](https://www.deviantart.com/jaxoriginals) 
@@ -2059,7 +2036,7 @@ Twitch Stream Tracker
 
 ***
 
-## ▷ File Tools
+### ▷ File Tools
 
 * ⭐ **[File Hosting / Cloud Storage](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_sharing_tools)** - Share, Store & Sync Files
 * ⭐ **[Multi-Site Cloud Storage Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_cloud_storage_managers)** - Manage Cloud Files on Multiple Sites
@@ -2246,17 +2223,3 @@ Twitch Stream Tracker
 * [Linux Reader](https://www.diskinternals.com/linux-reader/) - Access Linux Files on Windows
 
 ***
-
-## ▷ [Linux Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_linux_tools_.2F_apps)
-
-***
-
-## ▷ [Mac Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_mac_tools_.2F_apps)
-
-***
-
-## ▷ [Android Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_tools)
-
-***
-
-## ▷ [iOS Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_tools)

@@ -1,4 +1,46 @@
-# ► Android Adblocking
+# Mobile Phone Related
+
+---
+
+## ► Android Misc
+
+---
+
+### Android Audio Players
+
+[VLC](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://f-droid.org/packages/is.xyz.mpv), [Foobar2000](https://www.foobar2000.org/apk), [Vanilla Music](https://f-droid.org/packages/ch.blinkenlights.android.vanilla), [Vinyl Music Player](https://f-droid.org/packages/com.poupa.vinylmusicplayer), [BlackHole](https://github.com/Sangwan5688/BlackHole), [RAAG](https://github.com/raag-music/raag/), [Metro](https://f-droid.org/en/packages/io.github.muntashirakon.Music/), [Pulse Music](https://f-droid.org/en/packages/com.hardcodecoder.pulsemusic/), [Musicolet](https://play.google.com/store/apps/details?id=in.krosbits.musicolet&hl=en_US&gl=US), [RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer), [Auxio](https://f-droid.org/en/packages/org.oxycblt.auxio/), [RetroPad](https://jamesob.com/apps/retropod.html), [Apollo-Music](https://github.com/nuclearfog/Apollo-Music), [Music Player GO](https://github.com/enricocid/Music-Player-GO), [Nyx](https://play.google.com/store/apps/details?id=com.awedea.nyx), [Serenity](https://github.com/YajanaRao/Serenity), [ExoPlayer](https://github.com/google/ExoPlayer), [Timber](https://github.com/naman14/Timber), [TimberX](https://github.com/naman14/TimberX), [Howl](https://github.com/Iamlooker/Howl), [SoundSpice](https://github.com/farshed/SoundSpice-mobile), [Bungee](https://github.com/OpenConsultingGroup/Flutter-Music-App), [DialogMusicPlayer](https://github.com/VishnuSanal/DialogMusicPlayer, [Mucke](https://github.com/moritz-weber/mucke)
+
+***
+
+### Android Browsers
+
+⭐ **[Android Browser Wiki](https://en.m.wikipedia.org/wiki/Comparison_of_web_browsers)** / [2](https://en.m.wikipedia.org/wiki/List_of_web_browsers)
+
+[Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser), [Kiwi](https://kiwibrowser.com/), [Stargon Browser](https://play.google.com/store/apps/details?id=net.onecook.browser), [Berry Browser](https://play.google.com/store/apps/details?id=jp.ejimax.berrybrowser), [Ecoasia](https://play.google.com/store/apps/details?id=com.ecosia.android), [AlohaBrowser](https://alohabrowser.com/), [Naked Browser](https://play.google.com/store/apps/details?id=com.fevdev.nakedbrowser), [Via](https://play.google.com/store/apps/details?id=mark.via.gp), [Lynket](https://github.com/arunkumar9t2/lynket-browser), [Lightning](https://github.com/anthonycr/Lightning-Browser), [Dot Browser](https://github.com/dothq/browser-android) , [Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) (Debloated FF), [Float](https://play.google.com/store/apps/details?id=com.xpp.floatbrowser), [EinkBro](https://f-droid.org/packages/info.plateaukao.einkbro/) (Eink)
+
+***
+
+### Android Note Apps
+
+[xaviertobin](https://play.google.com/store/apps/details?id=com.xaviertobin.noted), [colornote](https://www.colornote.com/), [notion](https://www.notion.so/), [joplinapp](https://joplinapp.org/), [standardnotes](https://standardnotes.org/), [zoho](https://www.zoho.com/notebook/), [getupnote](https://play.google.com/store/apps/details?id=com.getupnote.android), [onenote](https://support.microsoft.com/en-us/office/microsoft-onenote-for-android-46b4b49d-2bef-4746-9c30-6abb5e20b688), [markor](https://fossdroid.com/a/markor.html), [Leaflet](https://github.com/PotatoProject/Leaflet), [neuriNote](https://github.com/appml/neutrinote), [easy4u](https://play.google.com/store/apps/details?id=co.easy4u.writer), [orgzly](http://www.orgzly.com/), [Markor](https://gsantner.net/project/markor.html) / [GitHub](https://github.com/gsantner/markor), [sNotz](https://sunilpaulmathew.github.io/sNotz/) / [GitHub](https://github.com/sunilpaulmathew/sNotz), [JustNote](https://justnote.cc/), [Quillnote](https://play.google.com/store/apps/details?id=org.qosp.notes), [Note to Self](https://play.google.com/store/apps/details?id=com.makenotetoself)
+
+***
+
+### Android Operating Systems
+
+⭐ **[Android Rom List](https://github.com/musabcel/android_rom_list)**
+
+[LineageOS](https://www.lineageos.org/), [Replicant](https://www.replicant.us/), [potatoproject](https://potatoproject.co/), [ArrowOS](https://arrowos.net/download), [CDroid](https://crdroid.net/), [HavocOS](https://sourceforge.net/projects/havoc-os/), [Corvusrom](https://www.corvusrom.com/), [BlissRoms](https://downloads.blissroms.org/), [ParanoidAndroid](https://paranoidandroid.co/), [PixelExperience](https://download.pixelexperience.org/), [Evolution-x](https://evolution-x.org/), [e.foundation](https://e.foundation/), [BeyondROM_S20](https://t.me/BeyondROM_S20), [ProtonAOSP](https://protonaosp.org/) / [GitHub](https://github.com/ProtonAOSP), [Anarchy-Droid](https://anarchy-droid.com/) / [Github](https://github.com/amo13/Anarchy-Droid), [Evolution X](https://evolution-x.org/), [ProjectBlaze](https://github.com/ProjectBlaze)
+
+***
+
+### Android TV IPTV Players
+
+[TiviMate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv), [implayer](https://implayer.tv/), [iptvsmarters](https://www.iptvsmarters.com/), [ottnavigator](https://play.google.com/store/apps/details?id=studio.scillarium.ottnavigator). [homeiptv](https://www.homeiptv.com/)
+
+***
+
+## ► Android Adblocking
 
 * ⭐ **[APK Adblocking Guide](https://redd.it/oyfmr1)**
 * ⭐ **[AdGuard Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_adguard_premium)** - Adblocking App
@@ -23,7 +65,7 @@
 
 ***
 
-# ► Android Privacy
+## ► Android Privacy
 
 * ⭐ **[Awesome Android Security](https://github.com/ashishb/android-security-awesome)** - Android Security Resources 
 * ⭐ **[Privacy Based Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_based_browsers)** - Browsers with a focus on Privacy 
@@ -107,7 +149,7 @@
 
 ***
 
-# ► Android Emulators 
+## ► Android Emulators 
 
 * ⭐ **[Nox](https://www.bignox.com/)** - [Screenshot](https://i.imgur.com/VuFLWbW.jpg) / [Debloater](https://gist.github.com/Log1x/12d330ef7685d6fbc611d1d57efb5c29)
 * ⭐ **[Android Studio Emulator](https://developer.android.com/studio/run/managing-avds#createavd)**
@@ -131,7 +173,7 @@
 
 ***
 
-# ► Android Tools
+## ► Android Tools
 
 * ⭐ **[Custom Android Operating Systems](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_operating_systems)**
 * ⭐ **[Magisk](https://github.com/topjohnwu/Magisk)** or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - Android Root Tool / [Mods](https://t.me/magiskmod_update) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [Manager](https://github.com/Fox2Code/FoxMagiskModuleManager) / [SafteyNet Fix](https://github.com/kdrag0n/safetynet-fix) / [Modules](https://www.androidacy.com/magisk-modules-repository/)
@@ -460,7 +502,7 @@
 
 ***
 
-# ► Android APKs
+## ► Android APKs
 
 * ⭐ **[Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8)** / [CSE 2](https://cse.google.com/cse?cx=73948689c2c206528) / [CSE 3](https://cse.google.com/cse?cx=a805854b6a196d6a6) - Multi-Site APK Search
 * ⭐ **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)** - Modded / [App](https://forum.mobilism.org/app/)
@@ -666,7 +708,7 @@
 
 ***
 
-# ► Android Torrenting
+## ► Android Torrenting
 
 * ⭐ **[VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - Get a VPN before torrenting
 * ⭐ **[LibreTorrent](https://gitlab.com/proninyaroslav/libretorrent)** - [Screenshot](https://i.imgur.com/HbQZ8Hd.png)
@@ -686,7 +728,7 @@
 
 ***
 
-# ► Android Reading
+## ► Android Reading
 
 * ⭐ **[Mobilism](https://forum.mobilism.org/app/)** or [LibGen](https://github.com/manuelvargastapia/libgen_mobile_app) - Ebook Site Apps
 * ⭐ **[Librera](http://librera.mobi/)**  - Ebook Reader
@@ -731,7 +773,7 @@
 
 ***
 
-# ► Android Audio
+## ► Android Audio
 
 * ⭐ **[Android Audio Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_audio_players)** - Music Players / Libraries
 * ⭐ **[Spotify APK](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_modded_spotify_apk)** (No Ads) - Streaming / [Version Manager](https://github.com/xManager-v2/xManager-Spotify) / [Friend Activity](https://spotivity.vercel.app/) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://f-droid.org/packages/com.rohit2810.spotit/), [3](https://github.com/aghontpi/ad-silence) / [Stats](https://stats.fm/)
@@ -783,7 +825,7 @@
 
 ***
 
-## ▷ Android Podcasts / Radio
+### ▷ Android Podcasts / Radio
 
 * ⭐ **[Spotify APK](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_modded_spotify_apk)** - Podcasts / No Ads
 * [Escapepod](https://f-droid.org/en/packages/org.y20k.escapepod/) - Podcasts
@@ -809,7 +851,7 @@
 
 ***
 
-## ▷ Android Relaxation
+### ▷ Android Relaxation
 
 * [Rainy Mood](https://play.google.com/store/apps/details?id=com.TailoredMusic.RainyMood), [Raining.fm](https://play.google.com/store/apps/details?id=fm.raining.rainingfm&amp;hl=en), [Rain Sounds](https://sleeprelaxapps.github.io/rainsounds/) or [RainySounds](https://rainysounds.online/) - Ambient Rain
 * [Noizio](https://play.google.com/store/apps/details?id=com.noizio&amp;hl=en_US) - Nature Sounds / Relaxation 
@@ -820,7 +862,7 @@
 
 ***
 
-# ► Android Streaming
+## ► Android Streaming
 
 * ⭐ **[CloudStream](https://cloudstream.cf/)** - Movies / TV / Anime / Chromecast / [Discord](https://discord.gg/5Hus6fM) / [Forks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cloudstream_forks) / [Trakt](https://2ecbbd610840-trakt.baby-beamup.club/)
 * ⭐ **[HDO Box](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=hdo+box&sf=titleonly)** - Movies / TV
@@ -875,7 +917,7 @@
 
 ***
 
-## ▷ Android Anime
+### ▷ Android Anime
 
 * [Crunrchyroll Mod](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_crunrchyroll_mod) - Anime / Premium Crunchyroll
 * [FireAnime](https://github.com/XenTeckzX/FireAnime) - Chromecast
@@ -900,7 +942,7 @@
 
 ***
 
-## ▷ Android Live TV 
+### ▷ Android Live TV 
 
 * [OLATV](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ola_tv)
 * [Live NetTV](https://www.livenettv.bz/)
@@ -912,7 +954,7 @@
 
 ***
 
-# ► iOS Jailbreaking
+## ► iOS Jailbreaking
 
 * ⭐ **[Complete Jailbreak Chart](https://appledb.dev/)** - Jailbreak Tools Index
 * [PostBox](https://www.postbox.news/) - Jailbreak News App / [Discord](https://discord.gg/maPagQDmnw)
@@ -974,7 +1016,7 @@
 
 ***
 
-# ► iOS Adblocking
+## ► iOS Adblocking
 
 * ⭐ **[AdGuard Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_adguard_premium)**, [2](https://testflight.apple.com/join/XqF1FkBg) - Adblocker / [Config](https://1fichier.com/?ef26ks4abjzct7o1k8os) / [Remote](https://apps.apple.com/app/apple-store/id1543143740)
 * [Hyperweb](https://hyperweb.app/) or [Net Guard](https://apps.apple.com/us/app/net-guard-amp-ad-blocker/id1557627020) - iOS Safari Adblock
@@ -994,7 +1036,7 @@
 
 ***
 
-# ► iOS Privacy
+## ► iOS Privacy
 
 * [Julioverne](https://julio.hackyouriphone.org/) - Privacy Tools 
 * [iOS-Privacy-Guide](https://github.com/paulaime/iOS-Privacy-Guide) - iOS Privacy Guide
@@ -1014,7 +1056,7 @@
 
 ***
 
-# ► iOS Tools
+## ► iOS Tools
 
 * ⭐ **[Hyperweb](https://hyperweb.app/)** - iOS Safari Improvement + Adblock Extension
 * ⭐ **[Mobile Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - Mobile Wallpaper Sites & Apps
@@ -1128,7 +1170,7 @@
 
 ***
 
-# ► iOS Apps
+## ► iOS Apps
 
 * ⭐ **[Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)** - Open Source iOS App Index
 * [CyPwn](https://repo.cypwn.xyz/), [2](https://ipa.cypwn.xyz/) - App Repository / [Discord](https://discord.gg/cypwn)
@@ -1168,7 +1210,7 @@
 
 ***
 
-# ► iOS Audio
+## ► iOS Audio
 
 * ⭐ **[Spotify++](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_spotify.2B.2B)**, **[Spotilife](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_spotilife)**, [Tweaked Spotify](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_tweaked_spotify) or [Spotify](https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580) - Streaming / [Listening Stats](https://apps.apple.com/us/app/spotistats-for-spotify/id1526912392)
 * [YTMusilife](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ytmusilife) / [2](https://repo.hackyouriphone.org/ytmusilife), [YTMusicUltimate](https://github.com/ginsudev/YTMusicUltimate) or [YouTube Music Patched](https://appdb.to/app/cydia/1900000831) - Streaming
@@ -1199,7 +1241,7 @@
 
 ***
 
-## ▷ iOS Podcasts / Radio
+### ▷ iOS Podcasts / Radio
 
 * ⭐ **[Spotify](https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580)** - Podcasts
 * [IHeartRadio](https://apps.apple.com/us/app/iheartradio/id290638154) - Podcasts / Radio
@@ -1211,7 +1253,7 @@
 
 ***
 
-## ▷ iOS Relaxation
+### ▷ iOS Relaxation
 
 * ⭐ **[Calm](https://repo.danielpitra.cz/depiction.php?id=com.strejda603.calmpremium)** (Premium) - Relaxation, Sleep & Meditation
 * [Rainy Mood](https://apps.apple.com/us/app/rainy-mood/id566752651) - Rain Sounds
@@ -1223,7 +1265,7 @@
 
 ***
 
-# ► iOS Streaming
+## ► iOS Streaming
 
 * [Kodi](https://kodi.tv/) - /r/Addons4Kodi / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
 * [Video Lite](https://apps.apple.com/sa/app/video-lite-no-ads/id1598997500) - Video Browser w/Adblock
@@ -1248,7 +1290,7 @@
 
 ***
 
-## ▷ iOS Anime 
+### ▷ iOS Anime 
 
 * [NineAnimator](https://nineanimator.marcuszhou.com/) - [Discord](https://discord.gg/dzTVzeW)
 * [Tweaked Crunchyroll ++](http://www.iosemulatorspot.com/tweaked-crunchyroll/) - Tweaked Crunchyroll
@@ -1257,7 +1299,7 @@
 
 ***
 
-## ▷ iOS Live TV
+### ▷ iOS Live TV
 
 * [Airy TV](https://airy.tv/) - Legal / Live TV  
 * [STBEmu](https://apps.apple.com/app/stbemutv/id1567306197) - Emulate a STB and watch IPTV
@@ -1265,7 +1307,7 @@
 
 ***
 
-# ► iOS Torrenting
+## ► iOS Torrenting
 
 * ⭐ **[VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - Get a VPN before torrenting
 * [iTransmission](https://iosninja.io/ipa-library/download-itransmission-ipa-ios), [iTorrent](https://github.com/XITRIX/iTorrent), [SwiftyTorrent](https://github.com/danylokos/SwiftyTorrent), [iOS-Torrent-Client](https://github.com/nneonneo/iOS-Torrent-Client) or [Torrentula](http://cydia.saurik.com/package/com.ichanti.torrentula/) - Torrent Client
@@ -1273,7 +1315,7 @@
 
 ***
 
-# ► iOS Reading 
+## ► iOS Reading 
 
 * ⭐ **[Paperback](https://paperback.moe/)** - Manga Reader / [Discord](https://discord.gg/Ny83JV3)
 * ⭐ **[Aidoku](https://aidoku.app/)** - Manga Reader
@@ -1289,3 +1331,4 @@
 * [NovelLoop](https://apps.apple.com/in/app/novelloop/id1170755867) - Light Novels
 * [Libby](https://apps.apple.com/us/app/libby-by-overdrive/id1076402606) - Borrow Digital Library Books
 * [K2pdfopt](https://willus.com/k2pdfopt/) - Optimize PDF/DJVU Files for Mobile E-Readers
+
