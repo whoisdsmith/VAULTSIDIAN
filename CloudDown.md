@@ -25,9 +25,6 @@
 `-inurl:(htm|html|php|pls|txt) intitle:index.of “last modified” (mp4|wma|aac|avi)`
 
 
-
-
-
 ---
 
 # Telegram File Tools
