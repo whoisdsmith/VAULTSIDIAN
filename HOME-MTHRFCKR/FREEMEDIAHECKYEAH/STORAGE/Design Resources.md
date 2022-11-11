@@ -1,6 +1,34 @@
 # Design Resources
 
 ## AI Image Generators
+
+---
+
+* ⭐ **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)**, [AI Creation Tool Mega](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) or [SD Akashic](https://github.com/Maks-s/sd-akashic) - AI Image Generation Resources
+* ⭐ **[Craiyon](https://www.craiyon.com/)** / [2](https://hotpot.ai/dalle-mini)
+* ⭐ **Craiyon Tools** - [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb) / [Fix](https://youtu.be/eq5Ckrzc6kk) / [Generative Engine](https://experiments.runwayml.com/generative_engine/)
+* ⭐ **[Stable Diffusion](https://discord.com/invite/stablediffusion)** or [Unstable Diffusion](https://discord.com/invite/unstablediffusion) - Discord Servers
+* [Mage](https://www.mage.space/)
+* [DALL·E Flow](https://github.com/jina-ai/dalle-flow) / [Colab](https://colab.research.google.com/github/jina-ai/dalle-flow/blob/main/client.ipynb)
+* [ruDALL-E](https://rudalle.ru/en/) / [Telegram](https://t.me/sber_rudalle_xl_bot)
+* [Midjourney](https://www.midjourney.com/)
+* [Dezgo](https://dezgo.com/)
+* [aiimag.es](https://sunija.itch.io/aiimages)
+* [Stable Diffusion Models](https://cyberes.github.io/stable-diffusion-models/)
+* [InPainter](https://inpainter.vercel.app/paint)
+* [Dreambooth](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion)
+* [Stable Diffusion InPainting](https://huggingface.co/spaces/fffiloni/stable-diffusion-inpainting) / [Guide](https://rentry.org/drfar)
+* [Diffuse The Rest](https://huggingface.co/spaces/huggingface/diffuse-the-rest)
+* [StabilityAI](https://huggingface.co/spaces/stabilityai/stable-diffusion)
+* [StableDiffusionUI](https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl) / [WebUI](https://github.com/neonsecret/stable-diffusion-webui), [2](https://github.com/AUTOMATIC1111/stable-diffusion-webui) / [Docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) / [Simplified](https://github.com/pinilpypinilpy/sd-webui-colab-simplified) / [Colab](https://colab.research.google.com/github/lstein/stable-diffusion/blob/main/notebooks/Stable_Diffusion_AI_Notebook.ipynb) / [Single Click](https://github.com/cmdr2/stable-diffusion-ui)
+* [Stable Horde](https://stablehorde.net/) / [Client](https://dbzer0.itch.io/stable-horde-client)
+* [NovelAI](https://rentry.org/sdg_FAQ)
+* [InvokeAI](https://github.com/invoke-ai/InvokeAI)
+* [SD GUITard](https://colab.research.google.com/drive/1KeNq05lji7p-WDS2BL-86Z8Y9SluGng4?usp=sharing)
+* [Voldy](https://rentry.org/voldy), [AyyMD](https://rentry.org/ayymd-stable-diffustion-v1_4-guide), [AMD Guide](https://rentry.org/sdamd), [Textard](https://rentry.org/textard), [Native Isekai Too](https://rentry.org/sd-nativeisekaitoo) or [CPUtard](https://rentry.org/cputard) - Stable Diffusion Guides
+
+***
+
 ## Background Removers
 
 [Remove.bg](https://www.remove.bg/) / [Gimp](https://github.com/manu12121999/RemoveBG-GIMP), [Remove Background](https://pixlr.com/remove-background/), [Rembg](https://github.com/danielgatis/rembg), [Adobe BG Remover](https://www.adobe.com/express/feature/image/remove-background), [bgremover](https://icons8.com/bgremover), [Removal.ai](https://removal.ai/upload/), [Trace](https://www.stickermule.com/trace), [BackgroundCut](https://backgroundcut.co/), [Retoucher](https://retoucher.online/), [Erase-BG](https://www.erase.bg/en/upload), [FocoClippings](https://www.fococlipping.com/), [fotor](https://www.fotor.com/features/background-remover), [ClippingsMagic](https://clippingmagic.com/), [BGEraser](https://bgeraser.com/)
@@ -21,6 +49,13 @@
 ***
 
 ## Color Pickers
+
+---
+
+[Colordot](http://color.hailpixel.com/), [Sorted Colors](https://enes.in/sorted-colors/), [spencerhamm](https://chroma.spencerhamm.com/), [color.adobe](https://color.adobe.com/explore), [colorhexpicker](https://www.colorhexpicker.com/), [obscuredetour](https://color.obscuredetour.com/), [colorkit](https://colorkit.io/), [colorpicker](https://colorpicker.fr/), [culrs](https://www.culrs.com/), [colorwise](https://colorwise.io/), [geenes](https://geenes.app/welcome), [image-color](https://image-color.com/), [instant-eyedropper](http://instant-eyedropper.com/), [khroma](http://khroma.co/), [colorpicker](https://annystudio.com/software/colorpicker/), [materialpalettes](https://materialpalettes.com/), [picular](https://picular.co/), [react-color](http://casesandberg.github.io/react-color/), [viz-palette](https://projects.susielu.com/viz-palette), [leonardocolor](https://leonardocolor.io/), [Any11](http://clrs.cc/a11y/), [imagecolorpicker](https://imagecolorpicker.com/), [cccolor](https://fffuel.co/cccolor/), [Instant Eyedropper](https://github.com/miaupaw/instant-eyedropper), [ColorKit Color Picker](https://colorkit.co/color-picker/)
+
+---
+
 ## Design Resources
 
 [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](http://freebies.bypeople.com/), [ImCreator](http://www.imcreator.com/free), [DesignBundles](https://designbundles.net/free-design-resources), [DesignResources](https://designresourc.es/), [UIOnline](https://uionline.io/), [psddd](https://psddd.co/), [GraphicBurger](https://graphicburger.com/), [GraphicsFuel](https://www.graphicsfuel.com/), [Pixeden](https://www.pixeden.com/), [SketchRepo](https://sketchrepo.com/), [Interfaces](https://interfacer.xyz/), [Freebiesbug](http://freebiesbug.com/), [Sketch App Sources](https://www.sketchappsources.com/), [FreebiesUI](https://freebiesui.com/), [Envato Elements Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_envato_elements_collection), [CreativeFabrica](https://www.creativefabrica.com/freebies/), [Toools.design](https://www.toools.design/), [Evernote.Design](https://www.evernote.design/), [gfxtra31](https://www.gfxtra31.com/), [xsgames](https://xsgames.co/devassets/), [design.dev](https://design.dev/), [uistore](https://www.uistore.design/), [charco](https://www.charco.design/), [craftwork](https://craftwork.design/freebies/), [pixelbuddha](https://pixelbuddha.net/), [Squax](https://t.me/squaxassets), [designlab](https://t.me/designlabb), [All4Designer](https://t.me/all4designer), [Kropes editing leak](https://discord.gg/bMmqQdXAhp)
@@ -35,41 +70,6 @@
 
 ***
 
-## Wallpapers
-
-* ⭐ **[wallhaven](https://wallhaven.cc/)**
-* ⭐ **[Wallpaper Abyss](https://wall.alphacoders.com/)**
-
-[UnixPorn](https://discord.gg/unixporn), [HD wallpapers](https://www.hdwallpapers.net/), [WallpaperFusion](https://www.wallpaperfusion.com/), [WallpaperAccess](https://wallpaperaccess.com/), [Wallpapers.com](https://wallpapers.com/), [Wallpaper Safari](https://wallpapersafari.com/), [CoolBackgrounds](https://coolbackgrounds.io/), [sys.re](https://sys.re/pics/wallpapers/), [WallpaperCave](https://wallpapercave.com/), [Positron Dream](https://www.positrondream.com/), [WalLegend](https://wallegend.net/en/), [SkinBase](https://skinbase.org/), [GetWalls](https://getwalls.io/), [Wallpapers](http://wallpapers.net/), [DualMonitorBackgrounds](https://www.dualmonitorbackgrounds.com/), [SocWall](https://www.socwall.com/), [ThewWallpapers](https://thewallpapers.org/), [WPGallery](http://www.wpgallery.com/), [wallpaperstock](https://wallpaperstock.net/), [vlad.studio](https://vlad.studio/wallpapers/?sort=free&filter=all), [ewallpapers](http://www.ewallpapers.eu/), [Bing Wallpaper](https://bingwallpaper.anerg.com/), [simpledesktops](http://simpledesktops.com/), [doostihaa](http://dl1.doostihaa.com/files/Wallpaper/), [Mac Wallpapers](https://goo.gl/photos/HjY1hmo6p3jfFz8a7) [2](https://photos.google.com/share/AF1QipNNQyeVrqxBdNmBkq9ILswizuj-RYJFNt5GlxJZ90Y6hx0okrVSLKSnmFFbX7j5Mg?key=RV8tSXVJVGdfS1RIQUI0Q3RZZVhlTmw0WmhFZ2V3), [Microsoft Wallpapers](https://wallpapers.microsoft.design/) / [2](https://mega.nz/folder/QZwW1LLZ#WFjZoQNQm7LfyQzr_rUNIA/folder/MEZTVYDB), [3](https://onedrive.live.com/?authkey=%21AGFudU5q0LqPcSY&id=84D7E222958B8EFB%2118111&cid=84D7E222958B8EFB), [WallpaperHub](https://wallpaperhub.app/), [Wallpaper Tip](https://wallpapertip.com/), [WallpaperFlare](https://www.wallpaperflare.com/), [hdqwalls](https://hdqwalls.com/), [uhdpaper](https://www.uhdpaper.com/), [wallpapersden](https://wallpapersden.com/), [arrowwallpapers](https://arrowwallpapers.blogspot.com/), [MovieMania](https://www.moviemania.io/), [Xbox Wallpapers](https://www.xbox.com/en-us/wallpapers/), [vsthemes](https://vsthemes.org/en/pictures/), [wallpaperscraft](https://wallpaperscraft.com/), [backiee](https://backiee.com/), [hdwallpapers](https://www.hdwallpapers.in/), [wallpaper-house](https://wallpaper-house.com/), [pixelstalk](https://www.pixelstalk.net/), [7-themes](http://7-themes.com/), [gettywallpapers](http://m.gettywallpapers.com/), [wallpaperset](https://wallpaperset.com/), [wallpapershome](https://wallpapershome.com/), [teahub](https://www.teahub.io/), [sfwallpaper](http://sfwallpaper.com/), [99images](https://www.99images.com/), [wallpaperbetter](https://www.wallpaperbetter.com/), [wallpaperforu](https://wallpaperforu.com/), [wallpapercrafter](https://wallpapercrafter.com/), [wallpapersmug](https://wallpapersmug.com/), [goldposter](https://wallpaper.goldposter.com/), [pikist](https://www.pikist.com/), [hdwallsbox](https://hdwallsbox.com/), [wallpaperbat](https://wallpaperbat.com/), [wallhere](https://wallhere.com/), [ilikewallpaper](https://www.ilikewallpaper.net/), [wallup](https://wallup.net/), [wallpaperup](https://www.wallpaperup.com/), [setaswall](https://www.setaswall.com/), [peakpx](https://www.peakpx.com/), [itl](https://www.itl.cat/), [papers](https://papers.co/), [pixel4k](https://www.pixel4k.com/), [suwalls](https://suwalls.com/), [GDrive Collection](https://photos.google.com/share/AF1QipO7LmX8oM3ZAyUuPAtwIWzbO5TjAppRfQ880DSuFR6jjcEzFysj4pAWThXUzO_tiw?key=aURJRDlneERpMmJnRmphdHRFRmdTMHJmbmlxZTNR) / [2](https://photos.google.com/share/AF1QipM66C99gz4-hP2dN_IdxdwWLz2cTTWuVARgxiqF3kNc_m0t2yxNCk8opZH6x7LIlQ?pli=1&key=LXROOG52Qi1STEZXeG1xaVk4UG02dUduSDBRUGZB) / [3](https://drive.google.com/drive/folders/1McO4o16fppflfn8I_62cML_s29nc1SvF), [drawstructure](https://drawstructure.vercel.app/), [ps4wallpapers](https://www.ps4wallpapers.com/), [wallha](https://wallha.com/), [justinmaller](http://justinmaller.com/wallpapers/), [4kwallpapers](https://4kwallpapers.com/), [wallpaperswide](http://wallpaperswide.com/), [wallpaper.dog](https://wallpaper.dog/), [MoeWalls](https://moewalls.com/)
-
-**Telegram Wallpaper Channels**
-
-[wallpapers](https://t.me/wallpapers/), [ull_HD_4K_wallpapers](https://t.me/Full_HD_4K_wallpapers/), [WallpapersGram](https://t.me/WallpapersGram/), [picsart_hd_background](https://t.me/picsart_hd_background), [Anime_WallpapersHD](https://t.me/Anime_WallpapersHD/), [allwallpaper](https://t.me/allwallpaper), [Wallpaper](https://t.me/Wallpaper), [ZedgeImagesBot](https://t.me/ZedgeImagesBot), [picsart_hd_background](https://t.me/picsart_hd_background), [wallpaperselection](https://t.me/wallpaperselection) [Hk3To](https://t.me/Hk3To) [jianoliuwalls](https://t.me/jianoliuwalls) [G_Walls](https://t.me/G_Walls) [EZwalls](https://t.me/EZwalls), [pengwyn](https://t.me/pengwyn), [wallpapersite](https://www.wallpapersite.com/)
-
-**Wallpaper Managers**
-
-[Wallpaper Engine](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_wallpaper_engine) / [PKG to Zip](https://github.com/TheRioMiner/Wallpaper-Engine-Pkg-to-Zip), [ScreenPlay](https://screen-play.app/), [backiee](https://www.microsoft.com/en-in/p/backiee-wallpaper-studio-10/9wzdncrfhzcd?activetab=pivot:overviewtab), [Daily Reddit Wallpaper](https://github.com/ssimunic/Daily-Reddit-Wallpaper), [Daily Bing Wallpaper](https://github.com/sfn101/bing-daily-lively-wallpaper), [Awesome Wallpaper](http://awesome-wallpaper.com/), [tanck.nl](https://tanck.nl/wallpaper/)
-
-* [Wallery](https://github.com/metafates/Wallery) - Display Wallpapers
-* [Faerber](https://farbenfroh.io/faerber) - Edit Wallpaper to Match Color Scheme
-
-**Animated Wallpapers**
-
-[/r/LivingBackgrounds](https://reddit.com/r/LivingBackgrounds), [wallpaperwaifu](https://wallpaperwaifu.com/), [Scenic Illustrations](https://www.pixeltrue.com/scenic-illustrations), [MyLiveWallpapers](https://mylivewallpapers.com/), [AnimatedBackgrounds](https://animatedbackgrounds.me/), [Lively](https://rocksdanister.github.io/lively/) (Create)
-
-**Mobile Wallpapers**
-
-⭐ **[Mobile Abyss](https://mobile.alphacoders.com/)**
-
-[Wallpaper Engine](https://www.wallpaperengine.io/android/en), [wallhaven](https://wallhaven.cc/search?categories=110&purity=100&ratios=portrait), [wallpaperfusion](https://www.wallpaperfusion.com/Apps/), [wallpaperaccess](https://wallpaperaccess.com/cat/devices), [wallpapers.com](https://wallpapers.com/mobile), [wallpapersafari](https://wallpapersafari.com/), [wallpapercave](https://wallpapercave.com/categories/devices), [positrondream](https://www.positrondream.com/wallpapers-all), [wallpaperstock](https://wallpaperstock.net/mobile-wallpapers.html), [simpledesktops](http://simpledesktops.com/app/android/), [wallpapertip](https://www.wallpapertip.com/), [wallpaperflare](https://www.wallpaperflare.com/search?wallpaper=vertical), [hdqwalls](https://hdqwalls.com/), [wallpapersden](https://wallpapersden.com/), [arrowwallpapers](https://arrowwallpapers.blogspot.com/), [moviemania](https://www.moviemania.io/phone), [iOS Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9/) / [2](https://photos.google.com/share/AF1QipNi8VN2pw2Ya_xCV8eFgzEZmiXDy1-GwhXbqFtvXoH3HypF10as9puV8FdoVZpOZA?key=WkZjQTIxQTM5a01oZkNUYTE2ZllKTVJKZk1CMTR3), [VectorifyDaHome](https://github.com/enricocid/VectorifyDaHome), [backiee](https://backiee.com/), [AnimeLibrary_MobileWallpapers](https://t.me/AnimeLibrary_MobileWallpapers/), [Wallpapers_Phone_Mobile](https://t.me/Wallpapers_Phone_Mobile/), [iphone11papers](https://iphone11papers.com/), [Wallpapers Clan](https://wallpapers-clan.com/), [Wallme](https://f-droid.org/packages/com.alaory.wallmewallpaper/)
-
-* [Darkinator](https://play.google.com/store/apps/details?id=com.tfuerholzer.darkmodewallpaper) - Change Wallpaper Depending on System Theme
-* [wallpaperwaifu](https://wallpaperwaifu.com/), [Muzei](https://github.com/muzei/muzei), [Chroma Galaxy](https://play.google.com/store/apps/details?id=com.at2_software.terracollageapp), [Doodle](https://patrickzedler.com/doodle/), [GIFLiveWallpaper](https://play.google.com/store/apps/details?id=com.awesome.giflivewallpaper), [AnyVideo](https://play.google.com/store/apps/details?id=com.mclwp.anyvideolivewallpaper) or [LiveLoop](https://play.google.com/store/apps/details?id=com.wallpaper.liveloop) - Live Android Wallpapers
-* [Dynamic Wallpaper](https://play.google.com/store/apps/details?id=rk.android.app.dynamic.wallpaper) - Wallpapers that Change Based on Battery
-* [koncius](https://play.google.com/store/apps/details?id=com.koncius.video.wallpaper) - Android Video to Wallpaper
-* [Das Image](https://apps.apple.com/ca/app/das-image-search-and-explore/id1464079804) - iOS Wallpaper App
-
-***
 ## Icon Download Sites
 
 ⭐ **[Awesome Icons](https://github.com/notlmn/awesome-icons)**
@@ -150,15 +150,7 @@
 
 [qimgv](https://github.com/easymodo/qimgv), [XnView](https://www.xnview.com/en/), [nomacs](https://nomacs.org/), [ImageGlass](https://imageglass.org/), [PhotoQt](https://github.com/luspi/photoqt), [Win 7 Photos](https://mega.nz/file/94AwRBiZ#ySswvrH88PlmNrLcbmrIZROWVcmLum-N0tAZS31l72U), [PicView](https://github.com/Ruben2776/PicView), [JPEGView](https://github.com/sylikc/jpegview), [Image Eye](https://www.fmjsoft.com/imageeye.html), [qView](https://interversehq.com/qview/), [Quick Picture Viewer](https://moduleart.github.io/quick-picture-viewer/) / [Git](https://github.com/ModuleArt/quick-picture-viewer), [Fragment](https://www.fragmentapp.info/), [qView](https://github.com/jurplel/qView), [HoneyView](https://en.bandisoft.com/honeyview/)
 
-***
-
 ---
-
-
-
-[Colordot](http://color.hailpixel.com/), [Sorted Colors](https://enes.in/sorted-colors/), [spencerhamm](https://chroma.spencerhamm.com/), [color.adobe](https://color.adobe.com/explore), [colorhexpicker](https://www.colorhexpicker.com/), [obscuredetour](https://color.obscuredetour.com/), [colorkit](https://colorkit.io/), [colorpicker](https://colorpicker.fr/), [culrs](https://www.culrs.com/), [colorwise](https://colorwise.io/), [geenes](https://geenes.app/welcome), [image-color](https://image-color.com/), [instant-eyedropper](http://instant-eyedropper.com/), [khroma](http://khroma.co/), [colorpicker](https://annystudio.com/software/colorpicker/), [materialpalettes](https://materialpalettes.com/), [picular](https://picular.co/), [react-color](http://casesandberg.github.io/react-color/), [viz-palette](https://projects.susielu.com/viz-palette), [leonardocolor](https://leonardocolor.io/), [Any11](http://clrs.cc/a11y/), [imagecolorpicker](https://imagecolorpicker.com/), [cccolor](https://fffuel.co/cccolor/), [Instant Eyedropper](https://github.com/miaupaw/instant-eyedropper), [ColorKit Color Picker](https://colorkit.co/color-picker/)
-
-***
 
 ## Multi Image Tool Sites
 
@@ -196,29 +188,38 @@
 ***
 
 
+## Wallpapers
 
+* ⭐ **[wallhaven](https://wallhaven.cc/)**
+* ⭐ **[Wallpaper Abyss](https://wall.alphacoders.com/)**
 
-* ⭐ **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)**, [AI Creation Tool Mega](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) or [SD Akashic](https://github.com/Maks-s/sd-akashic) - AI Image Generation Resources
-* ⭐ **[Craiyon](https://www.craiyon.com/)** / [2](https://hotpot.ai/dalle-mini)
-* ⭐ **Craiyon Tools** - [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb) / [Fix](https://youtu.be/eq5Ckrzc6kk) / [Generative Engine](https://experiments.runwayml.com/generative_engine/)
-* ⭐ **[Stable Diffusion](https://discord.com/invite/stablediffusion)** or [Unstable Diffusion](https://discord.com/invite/unstablediffusion) - Discord Servers
-* [Mage](https://www.mage.space/)
-* [DALL·E Flow](https://github.com/jina-ai/dalle-flow) / [Colab](https://colab.research.google.com/github/jina-ai/dalle-flow/blob/main/client.ipynb)
-* [ruDALL-E](https://rudalle.ru/en/) / [Telegram](https://t.me/sber_rudalle_xl_bot)
-* [Midjourney](https://www.midjourney.com/)
-* [Dezgo](https://dezgo.com/)
-* [aiimag.es](https://sunija.itch.io/aiimages)
-* [Stable Diffusion Models](https://cyberes.github.io/stable-diffusion-models/)
-* [InPainter](https://inpainter.vercel.app/paint)
-* [Dreambooth](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion)
-* [Stable Diffusion InPainting](https://huggingface.co/spaces/fffiloni/stable-diffusion-inpainting) / [Guide](https://rentry.org/drfar)
-* [Diffuse The Rest](https://huggingface.co/spaces/huggingface/diffuse-the-rest)
-* [StabilityAI](https://huggingface.co/spaces/stabilityai/stable-diffusion)
-* [StableDiffusionUI](https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl) / [WebUI](https://github.com/neonsecret/stable-diffusion-webui), [2](https://github.com/AUTOMATIC1111/stable-diffusion-webui) / [Docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) / [Simplified](https://github.com/pinilpypinilpy/sd-webui-colab-simplified) / [Colab](https://colab.research.google.com/github/lstein/stable-diffusion/blob/main/notebooks/Stable_Diffusion_AI_Notebook.ipynb) / [Single Click](https://github.com/cmdr2/stable-diffusion-ui)
-* [Stable Horde](https://stablehorde.net/) / [Client](https://dbzer0.itch.io/stable-horde-client)
-* [NovelAI](https://rentry.org/sdg_FAQ)
-* [InvokeAI](https://github.com/invoke-ai/InvokeAI)
-* [SD GUITard](https://colab.research.google.com/drive/1KeNq05lji7p-WDS2BL-86Z8Y9SluGng4?usp=sharing)
-* [Voldy](https://rentry.org/voldy), [AyyMD](https://rentry.org/ayymd-stable-diffustion-v1_4-guide), [AMD Guide](https://rentry.org/sdamd), [Textard](https://rentry.org/textard), [Native Isekai Too](https://rentry.org/sd-nativeisekaitoo) or [CPUtard](https://rentry.org/cputard) - Stable Diffusion Guides
+[UnixPorn](https://discord.gg/unixporn), [HD wallpapers](https://www.hdwallpapers.net/), [WallpaperFusion](https://www.wallpaperfusion.com/), [WallpaperAccess](https://wallpaperaccess.com/), [Wallpapers.com](https://wallpapers.com/), [Wallpaper Safari](https://wallpapersafari.com/), [CoolBackgrounds](https://coolbackgrounds.io/), [sys.re](https://sys.re/pics/wallpapers/), [WallpaperCave](https://wallpapercave.com/), [Positron Dream](https://www.positrondream.com/), [WalLegend](https://wallegend.net/en/), [SkinBase](https://skinbase.org/), [GetWalls](https://getwalls.io/), [Wallpapers](http://wallpapers.net/), [DualMonitorBackgrounds](https://www.dualmonitorbackgrounds.com/), [SocWall](https://www.socwall.com/), [ThewWallpapers](https://thewallpapers.org/), [WPGallery](http://www.wpgallery.com/), [wallpaperstock](https://wallpaperstock.net/), [vlad.studio](https://vlad.studio/wallpapers/?sort=free&filter=all), [ewallpapers](http://www.ewallpapers.eu/), [Bing Wallpaper](https://bingwallpaper.anerg.com/), [simpledesktops](http://simpledesktops.com/), [doostihaa](http://dl1.doostihaa.com/files/Wallpaper/), [Mac Wallpapers](https://goo.gl/photos/HjY1hmo6p3jfFz8a7) [2](https://photos.google.com/share/AF1QipNNQyeVrqxBdNmBkq9ILswizuj-RYJFNt5GlxJZ90Y6hx0okrVSLKSnmFFbX7j5Mg?key=RV8tSXVJVGdfS1RIQUI0Q3RZZVhlTmw0WmhFZ2V3), [Microsoft Wallpapers](https://wallpapers.microsoft.design/) / [2](https://mega.nz/folder/QZwW1LLZ#WFjZoQNQm7LfyQzr_rUNIA/folder/MEZTVYDB), [3](https://onedrive.live.com/?authkey=%21AGFudU5q0LqPcSY&id=84D7E222958B8EFB%2118111&cid=84D7E222958B8EFB), [WallpaperHub](https://wallpaperhub.app/), [Wallpaper Tip](https://wallpapertip.com/), [WallpaperFlare](https://www.wallpaperflare.com/), [hdqwalls](https://hdqwalls.com/), [uhdpaper](https://www.uhdpaper.com/), [wallpapersden](https://wallpapersden.com/), [arrowwallpapers](https://arrowwallpapers.blogspot.com/), [MovieMania](https://www.moviemania.io/), [Xbox Wallpapers](https://www.xbox.com/en-us/wallpapers/), [vsthemes](https://vsthemes.org/en/pictures/), [wallpaperscraft](https://wallpaperscraft.com/), [backiee](https://backiee.com/), [hdwallpapers](https://www.hdwallpapers.in/), [wallpaper-house](https://wallpaper-house.com/), [pixelstalk](https://www.pixelstalk.net/), [7-themes](http://7-themes.com/), [gettywallpapers](http://m.gettywallpapers.com/), [wallpaperset](https://wallpaperset.com/), [wallpapershome](https://wallpapershome.com/), [teahub](https://www.teahub.io/), [sfwallpaper](http://sfwallpaper.com/), [99images](https://www.99images.com/), [wallpaperbetter](https://www.wallpaperbetter.com/), [wallpaperforu](https://wallpaperforu.com/), [wallpapercrafter](https://wallpapercrafter.com/), [wallpapersmug](https://wallpapersmug.com/), [goldposter](https://wallpaper.goldposter.com/), [pikist](https://www.pikist.com/), [hdwallsbox](https://hdwallsbox.com/), [wallpaperbat](https://wallpaperbat.com/), [wallhere](https://wallhere.com/), [ilikewallpaper](https://www.ilikewallpaper.net/), [wallup](https://wallup.net/), [wallpaperup](https://www.wallpaperup.com/), [setaswall](https://www.setaswall.com/), [peakpx](https://www.peakpx.com/), [itl](https://www.itl.cat/), [papers](https://papers.co/), [pixel4k](https://www.pixel4k.com/), [suwalls](https://suwalls.com/), [GDrive Collection](https://photos.google.com/share/AF1QipO7LmX8oM3ZAyUuPAtwIWzbO5TjAppRfQ880DSuFR6jjcEzFysj4pAWThXUzO_tiw?key=aURJRDlneERpMmJnRmphdHRFRmdTMHJmbmlxZTNR) / [2](https://photos.google.com/share/AF1QipM66C99gz4-hP2dN_IdxdwWLz2cTTWuVARgxiqF3kNc_m0t2yxNCk8opZH6x7LIlQ?pli=1&key=LXROOG52Qi1STEZXeG1xaVk4UG02dUduSDBRUGZB) / [3](https://drive.google.com/drive/folders/1McO4o16fppflfn8I_62cML_s29nc1SvF), [drawstructure](https://drawstructure.vercel.app/), [ps4wallpapers](https://www.ps4wallpapers.com/), [wallha](https://wallha.com/), [justinmaller](http://justinmaller.com/wallpapers/), [4kwallpapers](https://4kwallpapers.com/), [wallpaperswide](http://wallpaperswide.com/), [wallpaper.dog](https://wallpaper.dog/), [MoeWalls](https://moewalls.com/)
+
+**Telegram Wallpaper Channels**
+
+[wallpapers](https://t.me/wallpapers/), [ull_HD_4K_wallpapers](https://t.me/Full_HD_4K_wallpapers/), [WallpapersGram](https://t.me/WallpapersGram/), [picsart_hd_background](https://t.me/picsart_hd_background), [Anime_WallpapersHD](https://t.me/Anime_WallpapersHD/), [allwallpaper](https://t.me/allwallpaper), [Wallpaper](https://t.me/Wallpaper), [ZedgeImagesBot](https://t.me/ZedgeImagesBot), [picsart_hd_background](https://t.me/picsart_hd_background), [wallpaperselection](https://t.me/wallpaperselection) [Hk3To](https://t.me/Hk3To) [jianoliuwalls](https://t.me/jianoliuwalls) [G_Walls](https://t.me/G_Walls) [EZwalls](https://t.me/EZwalls), [pengwyn](https://t.me/pengwyn), [wallpapersite](https://www.wallpapersite.com/)
+
+**Wallpaper Managers**
+
+[Wallpaper Engine](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_wallpaper_engine) / [PKG to Zip](https://github.com/TheRioMiner/Wallpaper-Engine-Pkg-to-Zip), [ScreenPlay](https://screen-play.app/), [backiee](https://www.microsoft.com/en-in/p/backiee-wallpaper-studio-10/9wzdncrfhzcd?activetab=pivot:overviewtab), [Daily Reddit Wallpaper](https://github.com/ssimunic/Daily-Reddit-Wallpaper), [Daily Bing Wallpaper](https://github.com/sfn101/bing-daily-lively-wallpaper), [Awesome Wallpaper](http://awesome-wallpaper.com/), [tanck.nl](https://tanck.nl/wallpaper/)
+
+* [Wallery](https://github.com/metafates/Wallery) - Display Wallpapers
+* [Faerber](https://farbenfroh.io/faerber) - Edit Wallpaper to Match Color Scheme
+
+**Animated Wallpapers**
+
+[/r/LivingBackgrounds](https://reddit.com/r/LivingBackgrounds), [wallpaperwaifu](https://wallpaperwaifu.com/), [Scenic Illustrations](https://www.pixeltrue.com/scenic-illustrations), [MyLiveWallpapers](https://mylivewallpapers.com/), [AnimatedBackgrounds](https://animatedbackgrounds.me/), [Lively](https://rocksdanister.github.io/lively/) (Create)
+
+**Mobile Wallpapers**
+
+⭐ **[Mobile Abyss](https://mobile.alphacoders.com/)**
+
+[Wallpaper Engine](https://www.wallpaperengine.io/android/en), [wallhaven](https://wallhaven.cc/search?categories=110&purity=100&ratios=portrait), [wallpaperfusion](https://www.wallpaperfusion.com/Apps/), [wallpaperaccess](https://wallpaperaccess.com/cat/devices), [wallpapers.com](https://wallpapers.com/mobile), [wallpapersafari](https://wallpapersafari.com/), [wallpapercave](https://wallpapercave.com/categories/devices), [positrondream](https://www.positrondream.com/wallpapers-all), [wallpaperstock](https://wallpaperstock.net/mobile-wallpapers.html), [simpledesktops](http://simpledesktops.com/app/android/), [wallpapertip](https://www.wallpapertip.com/), [wallpaperflare](https://www.wallpaperflare.com/search?wallpaper=vertical), [hdqwalls](https://hdqwalls.com/), [wallpapersden](https://wallpapersden.com/), [arrowwallpapers](https://arrowwallpapers.blogspot.com/), [moviemania](https://www.moviemania.io/phone), [iOS Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9/) / [2](https://photos.google.com/share/AF1QipNi8VN2pw2Ya_xCV8eFgzEZmiXDy1-GwhXbqFtvXoH3HypF10as9puV8FdoVZpOZA?key=WkZjQTIxQTM5a01oZkNUYTE2ZllKTVJKZk1CMTR3), [VectorifyDaHome](https://github.com/enricocid/VectorifyDaHome), [backiee](https://backiee.com/), [AnimeLibrary_MobileWallpapers](https://t.me/AnimeLibrary_MobileWallpapers/), [Wallpapers_Phone_Mobile](https://t.me/Wallpapers_Phone_Mobile/), [iphone11papers](https://iphone11papers.com/), [Wallpapers Clan](https://wallpapers-clan.com/), [Wallme](https://f-droid.org/packages/com.alaory.wallmewallpaper/)
+
+* [Darkinator](https://play.google.com/store/apps/details?id=com.tfuerholzer.darkmodewallpaper) - Change Wallpaper Depending on System Theme
+* [wallpaperwaifu](https://wallpaperwaifu.com/), [Muzei](https://github.com/muzei/muzei), [Chroma Galaxy](https://play.google.com/store/apps/details?id=com.at2_software.terracollageapp), [Doodle](https://patrickzedler.com/doodle/), [GIFLiveWallpaper](https://play.google.com/store/apps/details?id=com.awesome.giflivewallpaper), [AnyVideo](https://play.google.com/store/apps/details?id=com.mclwp.anyvideolivewallpaper) or [LiveLoop](https://play.google.com/store/apps/details?id=com.wallpaper.liveloop) - Live Android Wallpapers
+* [Dynamic Wallpaper](https://play.google.com/store/apps/details?id=rk.android.app.dynamic.wallpaper) - Wallpapers that Change Based on Battery
+* [koncius](https://play.google.com/store/apps/details?id=com.koncius.video.wallpaper) - Android Video to Wallpaper
+* [Das Image](https://apps.apple.com/ca/app/das-image-search-and-explore/id1464079804) - iOS Wallpaper App
 
 ***
