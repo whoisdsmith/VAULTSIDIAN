@@ -1,182 +1,29 @@
+
+
 # HOME-MTHRFCKR
 
 ---
 
-%% Begin Waypoint %%
-- **[HOME-MTHRFCKR](./HOME-MTHRFCKR.md)**
-	- **[BOOKMRKS-MTHRFCKR](./BOOKMRKS-MTHRFCKR/BOOKMRKS-MTHRFCKR.md)**
-	- **DEV-STAX**
-		- **readme**
-			- [activity-feeds-and-chat-messaging](./DEV-STAX/readme/activity-feeds-and-chat-messaging.md)
-			- [app-hosting](./DEV-STAX/readme/app-hosting.md)
-			- [app-testing](./DEV-STAX/readme/app-testing.md)
-			- [application-performance-monitoring](./DEV-STAX/readme/application-performance-monitoring.md)
-			- [code-collaboration-tools](./DEV-STAX/readme/code-collaboration-tools.md)
-			- [code-review-and-coverage](./DEV-STAX/readme/code-review-and-coverage.md)
-			- [content-as-a-service](./DEV-STAX/readme/content-as-a-service.md)
-			- [content-delivery-networks](./DEV-STAX/readme/content-delivery-networks.md)
-			- [continuous-integrationdelivery](./DEV-STAX/readme/continuous-integrationdelivery.md)
-			- [data-mining](./DEV-STAX/readme/data-mining.md)
-			- [database-management](./DEV-STAX/readme/database-management.md)
-			- [dependency-management](./DEV-STAX/readme/dependency-management.md)
-			- [dns-hosting](./DEV-STAX/readme/dns-hosting.md)
-			- [emailing](./DEV-STAX/readme/emailing.md)
-			- [error-reporting](./DEV-STAX/readme/error-reporting.md)
-			- [file-transformation](./DEV-STAX/readme/file-transformation.md)
-			- [logging](./DEV-STAX/readme/logging.md)
-			- [messaging-queue-services](./DEV-STAX/readme/messaging-queue-services.md)
-			- [misc](./DEV-STAX/readme/misc.md)
-			- [mobile-analytics](./DEV-STAX/readme/mobile-analytics.md)
-			- [monitoring](./DEV-STAX/readme/monitoring.md)
-			- [push-notifications](./DEV-STAX/readme/push-notifications.md)
-			- [scheduling-and-booking](./DEV-STAX/readme/scheduling-and-booking.md)
-			- [searching](./DEV-STAX/readme/searching.md)
-			- [security](./DEV-STAX/readme/security.md)
-			- [serverless-app-hosting](./DEV-STAX/readme/serverless-app-hosting.md)
-			- [static-app-hosting](./DEV-STAX/readme/static-app-hosting.md)
-			- [user-authentication](./DEV-STAX/readme/user-authentication.md)
-			- [web-scraping](./DEV-STAX/readme/web-scraping.md)
-			- [website-audit](./DEV-STAX/readme/website-audit.md)
-		- [README](./DEV-STAX/README.md)
-		- [SUMMARY](./DEV-STAX/SUMMARY.md)
-	- **[FREEMEDIAHECKYEAH](./FREEMEDIAHECKYEAH/FREEMEDIAHECKYEAH.md)**
-		- [ADBLOCK](./FREEMEDIAHECKYEAH/ADBLOCK.md)
-		- [ANDROID](./FREEMEDIAHECKYEAH/ANDROID.md)
-		- [AUDIO](./FREEMEDIAHECKYEAH/AUDIO.md)
-		- [base64](./FREEMEDIAHECKYEAH/base64.md)
-		- [DEV](./FREEMEDIAHECKYEAH/DEV.md)
-		- [DOWNLOAD](./FREEMEDIAHECKYEAH/DOWNLOAD.md)
-		- [EDU](./FREEMEDIAHECKYEAH/EDU.md)
-		- [FIND SITES](./FREEMEDIAHECKYEAH/FIND%20SITES.md)
-		- **FMHY Collections**
-			- [Best-Sites](./FREEMEDIAHECKYEAH/FMHY%20Collections/Best-Sites.md)
-			- [Course-Collections](./FREEMEDIAHECKYEAH/FMHY%20Collections/Course-Collections.md)
-			- [Torrent2GdriveTelegramBots](./FREEMEDIAHECKYEAH/FMHY%20Collections/Torrent2GdriveTelegramBots.md)
-			- [Udemy Course Drives](./FREEMEDIAHECKYEAH/FMHY%20Collections/Udemy%20Course%20Drives.md)
-		- **FMHY Guides**
-			- [BEGINNERS](./FREEMEDIAHECKYEAH/FMHY%20Guides/BEGINNERS.md)
-			- [FilterStalker](./FREEMEDIAHECKYEAH/FMHY%20Guides/FilterStalker.md)
-			- [PirateWindows](./FREEMEDIAHECKYEAH/FMHY%20Guides/PirateWindows.md)
-			- [RAREFILMSGUIDE](./FREEMEDIAHECKYEAH/FMHY%20Guides/RAREFILMSGUIDE.md)
-			- [win activation](./FREEMEDIAHECKYEAH/FMHY%20Guides/win%20activation.md)
-		- **FMHY Resources**
-			- [backups](./FREEMEDIAHECKYEAH/FMHY%20Resources/backups.md)
-			- [EditFMHY](./FREEMEDIAHECKYEAH/FMHY%20Resources/EditFMHY.md)
-			- [FAQ](./FREEMEDIAHECKYEAH/FMHY%20Resources/FAQ.md)
-			- [FMHY Discord Template](./FREEMEDIAHECKYEAH/FMHY%20Resources/FMHY%20Discord%20Template.md)
-			- [FMHY Logos](./FREEMEDIAHECKYEAH/FMHY%20Resources/FMHY%20Logos.md)
-			- [INDEX (GitHub)](./FREEMEDIAHECKYEAH/FMHY%20Resources/INDEX%20(GitHub).md)
-			- [INDEX (reddit)](./FREEMEDIAHECKYEAH/FMHY%20Resources/INDEX%20(reddit).md)
-			- [INDEX (Rentry)](./FREEMEDIAHECKYEAH/FMHY%20Resources/INDEX%20(Rentry).md)
-			- [INDEX (saidit)](./FREEMEDIAHECKYEAH/FMHY%20Resources/INDEX%20(saidit).md)
-			- [RentryCommands](./FREEMEDIAHECKYEAH/FMHY%20Resources/RentryCommands.md)
-			- [revolt-commands](./FREEMEDIAHECKYEAH/FMHY%20Resources/revolt-commands.md)
-			- [serverinformation](./FREEMEDIAHECKYEAH/FMHY%20Resources/serverinformation.md)
-		- [FMHY](./FREEMEDIAHECKYEAH/FMHY.md)
-		- [FREEMEDIAHECKYEAH](./FREEMEDIAHECKYEAH/FREEMEDIAHECKYEAH.md)
-		- [IMG](./FREEMEDIAHECKYEAH/IMG.md)
-		- [LINUX](./FREEMEDIAHECKYEAH/LINUX.md)
-		- [MISC](./FREEMEDIAHECKYEAH/MISC.md)
-		- [MovieRecs](./FREEMEDIAHECKYEAH/MovieRecs.md)
-		- [READ](./FREEMEDIAHECKYEAH/READ.md)
-		- [scanlation](./FREEMEDIAHECKYEAH/scanlation.md)
-		- [SITEHUNT](./FREEMEDIAHECKYEAH/SITEHUNT.md)
-		- [smolOD](./FREEMEDIAHECKYEAH/smolOD.md)
-		- **[STORAGE](./FREEMEDIAHECKYEAH/STORAGE/STORAGE.md)**
-			- [3D](./FREEMEDIAHECKYEAH/STORAGE/3D.md)
-			- [Android](./FREEMEDIAHECKYEAH/STORAGE/Android.md)
-			- [Audio](./FREEMEDIAHECKYEAH/STORAGE/Audio.md)
-			- [Browser Related](./FREEMEDIAHECKYEAH/STORAGE/Browser%20Related.md)
-			- [Cloud Related](./FREEMEDIAHECKYEAH/STORAGE/Cloud%20Related.md)
-			- [Communication Related](./FREEMEDIAHECKYEAH/STORAGE/Communication%20Related.md)
-			- [Computer Related](./FREEMEDIAHECKYEAH/STORAGE/Computer%20Related.md)
-			- [Design Resources](./FREEMEDIAHECKYEAH/STORAGE/Design%20Resources.md)
-			- [Developer Tools](./FREEMEDIAHECKYEAH/STORAGE/Developer%20Tools.md)
-			- [Downloads](./FREEMEDIAHECKYEAH/STORAGE/Downloads.md)
-			- [EDU  Learning](./FREEMEDIAHECKYEAH/STORAGE/EDU%20%20Learning.md)
-			- [Email](./FREEMEDIAHECKYEAH/STORAGE/Email.md)
-			- [Media](./FREEMEDIAHECKYEAH/STORAGE/Media.md)
-			- [Misc](./FREEMEDIAHECKYEAH/STORAGE/Misc.md)
-			- [Networking](./FREEMEDIAHECKYEAH/STORAGE/Networking.md)
-			- [Privacy](./FREEMEDIAHECKYEAH/STORAGE/Privacy.md)
-			- [Productivity](./FREEMEDIAHECKYEAH/STORAGE/Productivity.md)
-			- [Search Tools](./FREEMEDIAHECKYEAH/STORAGE/Search%20Tools.md)
-			- [STORAGE](./FREEMEDIAHECKYEAH/STORAGE/STORAGE.md)
-			- [Text Related](./FREEMEDIAHECKYEAH/STORAGE/Text%20Related.md)
-			- [Video Related](./FREEMEDIAHECKYEAH/STORAGE/Video%20Related.md)
-		- [TEST SITES](./FREEMEDIAHECKYEAH/TEST%20SITES.md)
-		- [TOOLS](./FREEMEDIAHECKYEAH/TOOLS.md)
-		- [TORRENT](./FREEMEDIAHECKYEAH/TORRENT.md)
-		- [VIDEO](./FREEMEDIAHECKYEAH/VIDEO.md)
-		- [YT-Stream](./FREEMEDIAHECKYEAH/YT-Stream.md)
-	- **FREESOURCES**
-		- **readme**
-			- [analytics-events-and-statistics](./FREESOURCES/readme/analytics-events-and-statistics.md)
-			- [apis-data-and-ml](./FREESOURCES/readme/apis-data-and-ml.md)
-			- [artifact-repos](./FREESOURCES/readme/artifact-repos.md)
-			- [authentication-authorization-and-user-management](./FREESOURCES/readme/authentication-authorization-and-user-management.md)
-			- [baas](./FREESOURCES/readme/baas.md)
-			- [browser-based-hardware-emulation-written-in-javascript](./FREESOURCES/readme/browser-based-hardware-emulation-written-in-javascript.md)
-			- [cdn-and-protection](./FREESOURCES/readme/cdn-and-protection.md)
-			- [ci-and-cd](./FREESOURCES/readme/ci-and-cd.md)
-			- [cloud-management-solutions](./FREESOURCES/readme/cloud-management-solutions.md)
-			- [cms](./FREESOURCES/readme/cms.md)
-			- [code-quality](./FREESOURCES/readme/code-quality.md)
-			- [code-search-and-browsing](./FREESOURCES/readme/code-search-and-browsing.md)
-			- [commenting-platforms](./FREESOURCES/readme/commenting-platforms.md)
-			- [crash-and-exception-handling](./FREESOURCES/readme/crash-and-exception-handling.md)
-			- [data-visualization-on-maps](./FREESOURCES/readme/data-visualization-on-maps.md)
-			- [dbaas](./FREESOURCES/readme/dbaas.md)
-			- [design-and-ui](./FREESOURCES/readme/design-and-ui.md)
-			- [design-inspiration](./FREESOURCES/readme/design-inspiration.md)
-			- [dev-blogging-sites](./FREESOURCES/readme/dev-blogging-sites.md)
-			- [dns](./FREESOURCES/readme/dns.md)
-			- [docker-related](./FREESOURCES/readme/docker-related.md)
-			- [domain](./FREESOURCES/readme/domain.md)
-			- [email](./FREESOURCES/readme/email.md)
-			- [flutter-related-and-building-ios-apps-without-mac](./FREESOURCES/readme/flutter-related-and-building-ios-apps-without-mac.md)
-			- [font](./FREESOURCES/readme/font.md)
-			- [forms](./FREESOURCES/readme/forms.md)
-			- [game-development](./FREESOURCES/readme/game-development.md)
-			- [iaas](./FREESOURCES/readme/iaas.md)
-			- [ide-and-code-editing](./FREESOURCES/readme/ide-and-code-editing.md)
-			- [international-mobile-number-verification-api-and-sdk](./FREESOURCES/readme/international-mobile-number-verification-api-and-sdk.md)
-			- [issue-tracking-and-project-management](./FREESOURCES/readme/issue-tracking-and-project-management.md)
-			- [log-management](./FREESOURCES/readme/log-management.md)
-			- [major-cloud-providers](./FREESOURCES/readme/major-cloud-providers.md)
-			- [management-system](./FREESOURCES/readme/management-system.md)
-			- [messaging-and-streaming](./FREESOURCES/readme/messaging-and-streaming.md)
-			- [miscellaneous](./FREESOURCES/readme/miscellaneous.md)
-			- [monitoring](./FREESOURCES/readme/monitoring.md)
-			- [non-dev](./FREESOURCES/readme/non-dev.md)
-			- [other-free-resources](./FREESOURCES/readme/other-free-resources.md)
-			- [paas](./FREESOURCES/readme/paas.md)
-			- [package-build-system](./FREESOURCES/readme/package-build-system.md)
-			- [payment-and-billing-integration](./FREESOURCES/readme/payment-and-billing-integration.md)
-			- [privacy-management](./FREESOURCES/readme/privacy-management.md)
-			- [remote-desktop-tools](./FREESOURCES/readme/remote-desktop-tools.md)
-			- [screenshot-apis](./FREESOURCES/readme/screenshot-apis.md)
-			- [search](./FREESOURCES/readme/search.md)
-			- [security-and-pki](./FREESOURCES/readme/security-and-pki.md)
-			- [software-devdesign-tools](./FREESOURCES/readme/software-devdesign-tools.md)
-			- [source-code-repos](./FREESOURCES/readme/source-code-repos.md)
-			- [storage-and-media-processing](./FREESOURCES/readme/storage-and-media-processing.md)
-			- [testing](./FREESOURCES/readme/testing.md)
-			- [tools-for-teams-and-collaboration](./FREESOURCES/readme/tools-for-teams-and-collaboration.md)
-			- [translation-management](./FREESOURCES/readme/translation-management.md)
-			- [tunneling-webrtc-web-socket-servers-and-other-routers](./FREESOURCES/readme/tunneling-webrtc-web-socket-servers-and-other-routers.md)
-			- [vagrant-related](./FREESOURCES/readme/vagrant-related.md)
-			- [visitor-session-recording](./FREESOURCES/readme/visitor-session-recording.md)
-			- [web-hosting](./FREESOURCES/readme/web-hosting.md)
-		- [README](./FREESOURCES/README.md)
-		- [SUMMARY](./FREESOURCES/SUMMARY.md)
-	- [HOME-MTHRFCKR](./HOME-MTHRFCKR.md)
-	- **[Resources](./Resources/Resources.md)**
-	- [Untitled](./Untitled.md)
+![](C4F8497E-266F-4946-95E9-A5A0ED808E96.png)
 
-%% End Waypoint %%
+---
+
+| [DAILY NOTES](DAILY%20NOTES.md) | [BOOKMRKS-MTHRFCKR](BOOKMRKS-MTHRFCKR.md) | 
+
+| [[DEV-STAX]] | [FREEMEDIAHECKYEAH](FREEMEDIAHECKYEAH.md) |
+
+| [[FREESOURCES]] | [NOTES](NOTES.md) | 
+
+| [RESOURCES](HOME-MTHRFCKR/RESOURCES/Resources.md) | [SEARCH PARTY](SEARCH%20PARTY.md) | 
+
+
+
+
+
+
 
 
 ---
+
 
 

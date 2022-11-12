@@ -18,14 +18,14 @@
 
 
 
-[Apps](Search%20Party/Apps.md)
+[Apps](Apps.md)
 
 
 [Archived Pages](Archived%20Pages.md)
 
 
 
-[Audio](Search%20Party/Audio.md)
+[Audio](Audio.md)
 
 
 
@@ -43,7 +43,7 @@
 
 
 
-[Custom-Search-Engines](Search%20Party/Custom-Search-Engines.md)
+[Custom-Search-Engines](Custom-Search-Engines.md)
 
 
 
@@ -71,7 +71,7 @@
 
 
 
-[Files](Search%20Party/Files.md)
+[Files](Files.md)
 
 
 
@@ -79,7 +79,7 @@
 
 
 
-[General](Search%20Party/General.md)
+[General](General.md)
 
 
 
@@ -107,7 +107,7 @@
 
 
 
-[Misc](Search%20Party/Misc.md)
+[Misc](Misc.md)
 
 
 
@@ -175,11 +175,11 @@
 
 
 
-[Tools](Search%20Party/Tools.md)
+[Tools](Tools.md)
 
 
 
-[Torrents](Search%20Party/Torrents.md)
+[Torrents](Torrents.md)
 
 
 
@@ -187,7 +187,7 @@
 
 
 
-[Video](Search%20Party/Video.md)
+[Video](Video.md)
 
 
 

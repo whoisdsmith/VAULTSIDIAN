@@ -8,7 +8,7 @@ name : <% tp.date.now("DDMMYYYY") %>
 ---
 
 **Tags**:: #daily  
-**Links**::[[ Daily Note]]
+**Links**::[[ DAILY NOTES]]
 
 ---
 

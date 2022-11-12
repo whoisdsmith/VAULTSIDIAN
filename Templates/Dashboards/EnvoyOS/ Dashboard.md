@@ -134,7 +134,7 @@ description: Main Dashboard fo this Vault
   📅 Daily Stuff
 </div>
 
-# [[ Daily Note]]
+# [[ DAILY NOTES]]
 
 # [[ Notebooks]]
 

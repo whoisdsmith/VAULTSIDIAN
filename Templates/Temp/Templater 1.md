@@ -7,7 +7,7 @@ tags: #📖
 
 Primary Categories: [[01 - Administration](01%20-%20Administration.md)  
 Secondary Categories: [[02 - Obsidian](02%20-%20Obsidian.md) - [[02 - Resources]]  
-Links: [[../../../../../BOOKMRKS-MTHRFCKR/Awesome%20Piracy/Automation.md]] - [[Templates]] - [[../../HOME-MTHRFCKR/Resources/Github/Github.md]]  
+Links: [[../../../../../BOOKMRKS-MTHRFCKR/Awesome%20Piracy/Automation.md]] - [[Templates]] - [[Github]]  
 Search Tag: #📖  
 
 # [[../../../../../..//Templates/Template%20Hub/Templates/Obsidian-Vault-Structure/03%20-%20Content/Templater.md]]

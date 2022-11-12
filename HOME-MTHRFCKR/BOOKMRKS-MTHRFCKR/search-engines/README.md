@@ -2,11 +2,11 @@
 
 ***
 
-[Custom-Search-Engines](custom-search-engines.md)
+[Custom-Search-Engines](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/search-engines/custom-search-engines.md)
 
-[Files](files.md)
+[Files](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/search-engines/files.md)
 
-[General](general.md)
+[General](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/search-engines/general.md)
 
 [People Search Tools](people-search-tools.md)
 

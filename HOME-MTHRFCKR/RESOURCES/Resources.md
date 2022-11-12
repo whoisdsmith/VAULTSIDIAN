@@ -4,7 +4,7 @@
 
 %% Begin Waypoint %%
 
-- **[Resources](../../..//HOME-MTHRFCKR/Resources/Resources.md)**
+- **[Resources](../../..//HOME-MTHRFCKR/RESOURCES/Resources.md)**
 	- **[Awesome](Awesome/Awesome.md)**
 	- [Blog Post Workflow](Blog%20Post%20Workflow.md)
 	- [Bookmarklets guide](Bookmarklets%20guide.md)
@@ -12,7 +12,7 @@
 	- **[Github](Github/Github.md)**
 	- [Hack-Your-Growth](Hack-Your-Growth.md)
 	- [Helpful Tech Resources](Helpful%20Tech%20Resources.md)
-	- [Resources](../../..//HOME-MTHRFCKR/Resources/Resources.md)
+	- [Resources](../../..//HOME-MTHRFCKR/RESOURCES/Resources.md)
 
 %% End Waypoint %%
 
