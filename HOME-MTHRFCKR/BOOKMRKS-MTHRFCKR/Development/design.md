@@ -140,7 +140,7 @@
 
 - [Design rocks](https://www.design.rocks/)
 
-- [MEGA](https://mega.nz/#F!yDgHWILD!ZH3Z1Tdmv9S9R0-CVGOFVQ)
+- [MEGA](https://mega.nz/#F!yDgHWILD!ZH3Z1Tdmv9S9R0-CVGOFVQ) #MEGA 
 
 - [Namecheap](https://www.namecheap.com/)
 

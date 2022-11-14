@@ -22,7 +22,7 @@ Diabolic Traffic Bot v6.42–The Most Powerful Traffic Bot Boost your Views, Sta
 
 The Most Powerful Traffic Bot will create an endless stream of visitors, views, votes and impressions and boost your stats incredibly! Diabolic Traffic Bot generates unlimited web traffic to any website, video or blog.
 
-https://mega.nz/file/C7wzmYLC#-1rPy6ZG7JExPuE6ll0MSZx_TzEU7vrzjCz7yKk5Y54
+[MEGA](MEGA.md)
 
 # Lead Grabber PRO
 
@@ -44,69 +44,12 @@ https://anonfiles.com/V9k8CdYau2/Leaked_Tools_2021_rar
 
 # Learning
 
-## Learning
-
-Advanced Penetration Testing:  
-https://mega.nz/#!rOowCA6L!rLmfn-cda99y9VF9NaV53xQEzIY_wHVtyRodLU-qKyg
-
-The Basics of Web Hacking:  
-https://mega.nz/#!veogDIDB!F7jKWnuYmiA31vI7AcUbOJ_8bpttxz4wDIDEjxzJBDc
-
-The Basics of Hacking and Penetration Testing:  
-https://mega.nz/#!yHpgQKrL!ctQd0e-yzb1QXoYk01yPTA9jl78TbNaZI4GoLdg6PSo
-
-The Art of Deception by Kevin Mitnick:  
-https://mega.nz/#!zCoCmChR!yR6BzKz4sva2qAzRMCju1jpHphgwe12ssZLknBNk4yc
-
-SQL Injection Attacks and Defense  
-https://mega.nz/#!Kf4CXSYQ!ZovQRMu6VMwkdLqOFhuUi4wCj7Pq0PJgiHZiItUt0DY
-
-Metasploit - The Penetration Tester’s Guide:  
-https://mega.nz/#!Heg0jCQZ!Y6ZftkyGJc8Rw2WI63v213iIl_SMEtY1qBsb7p2nQjs
-
-Ethical Hacking and Penetration Testing Guide:  
-https://mega.nz/#!XKgAEIqJ!jQ0ohALFI2fKrO6S5JzRjOZn6YmAMqKgkCPQLM0Peew
-
-Network Attacks and Exploitation - A Framework:  
-https://mega.nz/#!jSpChSpb!UGry-SnTLB3s4qMfh29s6jDromDGQc8I_fkWIqAY6rc
+[MEGA](MEGA.md)
 
 Python Web Penetration Testing Cookbook:  
 https://difl.host/6e39ff5edc948cb1/09._Python_Web_Penetration_Testing_Cookbook.pdf
 
-XSS Attacks - Cross Site Scripting Exploits and Defense:  
-https://mega.nz/#!faoQUSYa!qAda14pWUjd5u4wjOYmzCI52UMa1rUFulh7V0kBGZk8
-
-The Web Application Hacker’s Handbook:  
-https://mega.nz/#!DWowAYRA!hVGYbGKJCcbUh83yztODz-8aMZZbJMWPoCdmr5Z4C9w
-
-Ethical Hacking and Countermeasures:  
-https://mega.nz/#!aX4CEAgS!tpFivx91Ips2rR3UnVdtlgvx1oOmi-qEtCu29DlO9uQ
-
-Reversing - Secrets of Reverse Engineering:  
-https://mega.nz/#!jSwgGCyY!MB5a5s9wpaWEEGnhi5j_73kMtPIQx0rEuQXv5_Y_gd4
-
-Network Security Bible:  
-https://mega.nz/#!CGgCiKqC!PXzqsNN2PPc-PUVyAwbfknTHEA-QBvjwvpjjQgZnYMo
-
-Hacking Web Applications - Hacking Exposed:  
-https://mega.nz/#!3KhWgIzQ!QQ8O9k6lp7vmYWzrbxbs8ItSVbYpSluYfktCxWURZGs
-
-Hacking for Dummies:  
-https://mega.nz/#!6exQSaLK!ur1W05ChW7_ipTYtEK6QKpIlyoqLyS82RGsEUEzFQDQ
-
-Hacking Wireless Network for Dummies:  
-https://mega.nz/#!Le5kmAAT!TvvIUOn5TQ4HsS4qrTAX6dOD0JG4tZ9FtLj6bEFGg2M  
-Professional Penetration Testing:  
-https://mega.nz/#!rfxERC5B!GWFniwOY738v8URo3HsnQwVV5h957-Ppx7FxMwYmJCI
-
-Gray Hat Hacking - The Ethical Hacker’s Handbook:  
-https://mega.nz/#!XLo2hYAK!8bmNXXPvSgIotZTsPbGaR-dSj9MfyOoNmm7iZ2me798
-
-Hack Attacks Testing:  
-https://mega.nz/#!PPpwGKTT!pkJBqjgeN_BJWe8PRveaA4nwRICK7WQ80BUowDSVfXI
-
-Basic Security Testing with Kali Linux:  
-https://mega.nz/#!Sfx2WCBC!oh0fxNYfOqiyCNoeyqayetg_e2G3B8ZF7M3lr3NMCgU
+[MEGA](MEGA.md)
 
 Mastering Kali Linux for Advanced Penetration Testing:  
 https://difl.host/ba9765fffecd1e25/27._Mastering_Kali_Linux_For_Advanced_Penetration_Testing.pdf
@@ -117,20 +60,7 @@ https://difl.host/ab3e7a5e5a023fdc/28._Kali_Linux_CTF_Blueprints.pdf
 Kali Linux - Assuring Security by Penetration Testing:  
 https://difl.host/670feaf53fca0080/30._Kali_Linux-_Assuring_Security_by_Penetration_Testing.pdf
 
-CISSP - Certified Information Systems Security Professional:  
-https://mega.nz/#!aHgkjC6A!Z0ox5K8qeLeobE6VoBeXsrO5mxu68HeaczcCFRg5hC8
-
-Computer Security and Cryptography:  
-https://mega.nz/#!KTgklaza!nnLb6e1SWgEL6D3kqdY2FLmHhK8wuxHUyJM-ghiC4JI
-
-Python For Beginners:  
-https://mega.nz/#!3Goi3IAQ!BlJ7rynz9UHI74hTmlJzroUgbOiy1O-cpFun5qeNjVg
-
-Some videos of a fat ass guy teaching stuff  
-https://mega.nz/folder/bUxVXB6T#Sk4IfPgjdCIDlF1THTXTKg
-
-There is Diffent things in here that i can learn  
-https://mega.nz/folder/bUxVXB6T#Sk4IfPgjdCIDlF1THTXTKg
+[MEGA](MEGA.md)
 
 01 Computer Forensics Introduction  
   02 Computer Forensics Process  
@@ -154,8 +84,7 @@ https://mega.nz/folder/bUxVXB6T#Sk4IfPgjdCIDlF1THTXTKg
   20 Investigative Report  
   21 Expert Witness
 
-Social Engineering tutorial  
-https://mega.nz/folder/UEN3SIyI#KSNM7PZqXKBrbK5gjeANAg
+[MEGA](MEGA.md)
 
 **Use at own risk**
 
@@ -166,8 +95,7 @@ https://mega.nz/folder/UEN3SIyI#KSNM7PZqXKBrbK5gjeANAg
 https://anonfiles.com/VeYeY0t6uf/Latest_Gift_Card_Carding_Method_txt  
 https://cdn.discordapp.com/attachments/839351266663727144/841216693891366942/Linkvertise_Search_Engine.txt  
 https://anonfiles.com/VeYeY0t6uf/Latest_Gift_Card_Carding_Method_txt  
-Verify Paypal Without CC:  
-https://mega.nz/file/JAVggLQI#xDEbyfxhT5x4ToRPHcdJzPO5Fz0CbclI0LyasoCeglQ  
+[MEGA](MEGA.md) 
 Latest Netflix Method:  
 https://www.bigtricks.in/unlimitedproof-trick-get-netflix-premium-account-free-lifetime-netflix-premium-membership-trick/  
 free G2A games :: https://cdn.discordapp.com/attachments/653519497717874688/712797803948146708/G2A-FREE-GAMES.txt  
@@ -271,8 +199,7 @@ Edu Mail :
 https://cdn.discordapp.com/attachments/668482975276466226/726138666929618984/EDU_Emails.pdf  
 https://anonfiles.com/NaRbebmeb1/dd44833f-1553996258/EDU-Method.pdf - Method v2  
 https://cdn.discordapp.com/attachments/748334078884839455/750427293809246329/free_domain.txt  
-850+ WORDPRESS THEMES AND PLUGINGS :  
-https://mega.nz/folder/MBJnSQbS#j89MKGjVDpuOcyo1LRPWqg/folder/9cZFkYBT  
+[MEGA](MEGA.md)
 What to do:
 
 1. Got to https://tecknity.com/tecknity-cookies-extension/
@@ -361,8 +288,8 @@ https://ghostbin.co/paste/cb836
 https://pastebin.com/4yBF94BU  
 https://pastebin.com/hYr0UGbM  
 https://pastebin.com/Up7eQMHt  
-https://mega.nz/folder/CJwGAQJC#Z_d27iQAUJPHVf3WptSFCQ  
-my 3k methods https://mega.nz/file/SN80wZBA#rEYGgpnZttvJHw_nthmPVlm4TjqYeP_2scY4AjvQNZs
+[MEGA](MEGA.md)
+[MEGA](MEGA.md)
 
 # Ninja Tools
 

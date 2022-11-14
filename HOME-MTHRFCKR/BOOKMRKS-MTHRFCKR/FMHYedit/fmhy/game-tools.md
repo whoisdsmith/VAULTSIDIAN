@@ -242,7 +242,7 @@
 
 ### ▷ Steam Tools
 
-* ⭐ [**Andy's Steam Crack Guide**](https://rentry.org/steamcrackguidebyanddy) / [2](https://redd.it/pmim9t) - How-to Add Cracked Games to Steam / [Client](https://mega.nz/file/mpdAXKTZ#3CVjRZG1i8K\_Zn8b9IIARbIZZE73KdzazVHMDcaWZJc)
+* ⭐ [**Andy's Steam Crack Guide**](https://rentry.org/steamcrackguidebyanddy) / [2](https://redd.it/pmim9t) - How-to Add Cracked Games to Steam / [Client](https://mega.nz/file/mpdAXKTZ#3CVjRZG1i8K\_Zn8b9IIARbIZZE73KdzazVHMDcaWZJc) #MEGA 
 * ⭐ [**A Collection of Steam Tools**](https://steamcommunity.com/sharedfiles/filedetails/?id=451698754) or [SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10\&t=65887) - Steam Tools Index
 * [Depressurizer](https://github.com/Depressurizer/Depressurizer) - Steam Library Organizer
 * [SteamDB](https://steamdb.info/) - Steam Insights Tool

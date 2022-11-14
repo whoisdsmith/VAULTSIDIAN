@@ -791,13 +791,7 @@ _here zyx will be replaced by your future worker names.
       * SEARCH_API_LINK - Search api app link. Get your api from deploying this [repository](https://github.com/Ryuk-me/Torrent-Api-py).
     
     
-      * MEGA_API_KEY - [Mega.nz](http://Mega.nz) API key to mirror [mega.nz](http://mega.nz) links. Get it from [Mega SDK Page](https://mega.nz/sdk)
-    
-    
-      * MEGA_EMAIL_ID - E-Mail ID used to sign up on [mega.nz](http://mega.nz) for using premium account
-    
-    
-      * MEGA_PASSWORD - Password for [mega.nz](http://mega.nz) account.
+[MEGA](MEGA.md)
     
     
     

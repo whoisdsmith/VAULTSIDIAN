@@ -30,11 +30,8 @@ sidebar_label: DDL
   - [youtube-dl-helper](https://youtube-dl-helper.github.io/) - Uses youtube-dl to download video/audio from many sites without requiring you to use the command-line (for Windows).
 - [wget](http://www.gnu.org/software/wget/) - `wget` is a free and open source tool for downloading files using HTTP, HTTPS, FTP and FTPS. It can be easily called from scripts, cronjobs, terminals without X-Windows support, etc.
   - [wget for Windows](http://eternallybored.org/misc/wget/) - A command-line utility for retrieving files using HTTP, HTTPS and FTP protocols.
-- [MEGAsync](http://mega.nz/sync) - Easy automated synchronisation between your computer and your MEGA account. Can stream Mega videos directly.
-  - [MegaCrypt.js](https://github.com/JohnDeved/megacrypt.js) - MegaCrypt.js lets you share your Mega.nz files without actually having to share any Mega.nz links by encrypting them to create a secure proxy to your files.
-  - [megabasterd](https://github.com/tonikelope/megabasterd) - Yet another unofficial (and ugly) cross-platform MEGA downloader/uploader/streaming suite.
-  - [megadown](https://github.com/tonikelope/megadown) - Bash script for download files from mega.nz and megacrypter.
-  - [megatools](https://github.com/megous/megatools) - Open-source command line tools and C library (libmega) - for accessing Mega.co.nz cloud storage.
+- [MEGAsync](http://mega.nz/sync) #MEGA - Easy automated synchronisation between your computer and your MEGA account. Can stream Mega videos directly. 
+[MEGA](MEGA.md)
 - [annie](https://github.com/iawia002/annie) - Fast, simple and clean video downloader.
 - [aria2](http://aria2.github.io/) - A lightweight multi-protocol & multi-source command-line download utility.
 - [Photon](https://github.com/alanzhangzm/Photon) - A lightweight multi-threaded downloader based on aria2.
@@ -221,7 +218,7 @@ sidebar_label: DDL
 - [OffCloud](https://offcloud.com/?=85a8b709) - A simple, elegant and intuitive SaaS to retrieve any data from the cloud.
 - [Reevown](https://reevown.com/) - A free download service with which you can perform premium downloads.
 - [File sharing table](https://nafanz.github.io/) - Regularly updated table of information about file hosts.
-- [Mega](https://mega.nz/)
+- [Mega](https://mega.nz/) #MEGA 
 - [RapidGator](https://rapidgator.net/)
 - [4shared](https://www.4shared.com/)
 - [Mediafire](https://www.mediafire.com/)

@@ -1136,195 +1136,12 @@
 
 - [Alchemy Index](https://www.sacred-texts.com/alc/index.htm)
 
-- [MEGA](https://mega.nz/folder/jlEwhYyJ#iK4mVC4y5iwk_cr3eIpX4g)
+---
 
-- [MEGA](https://mega.nz/folder/hQVFBDbT#f3gOa3LUAHJXJJbFZfDytg)
+- [MEGA](MEGA.md)
 
-- [MEGA](https://mega.nz/folder/FSZHwKBa#iGFBQB78N-gUs4KCl31B9g)
 
-- [MEGA](https://mega.nz/folder/gxIHkQaa#CKCdB3_bO0bKYG36fen4OQ)
-
-- [MEGA](https://mega.nz/folder/vaQHlIQb#i8B7gVZmR46O2FC67U15UA)
-
-- [MEGA](https://mega.nz/folder/r0JDiAQZ#kw3kkOc0EoXtdgqG5dPkRg)
-
-- [MEGA](https://mega.nz/folder/wQp0jaSC#cE7-P1fX0FkxU2LXAHm80A)
-
-- [MEGA](https://mega.nz/folder/efY0AR4T#0jnk5etjz1jfX2kmhvdJYw)
-
-- [MEGA](https://mega.nz/folder/GF5zTIbJ#UcubyKl1B2YW0HiaMmim9Q)
-
-- [MEGA](https://mega.nz/folder/l7B00TyL#a3mH425zcaBuILkWJ5h3FQ)
-
-- [MEGA](https://mega.nz/folder/iO4kTDIQ#ufiZtn1RSSd8mu3EF-7zfg)
-
-- [MEGA](https://mega.nz/folder/wt5HGICC#TnMvorTOW_k3hsTHEW4x9w)
-
-- [MEGA](https://mega.nz/folder/3GhkAJwD#gRdopc_Uz23qmxPxi3rWgQ)
-
-- [MEGA](https://mega.nz/folder/9bZBhQCb#elESQt19RiLB7DW1wZS6xg)
-
-- [MEGA](https://mega.nz/folder/11IDBAgA#aZ0mCPN8EuwX3lP3tBT7Zw)
-
-- [MEGA](https://mega.nz/folder/tkxC2IbS#tuCovFzaVY8rAVYBU3VR4g)
-
-- [MEGA](https://mega.nz/folder/1DRUUBoR#K1ywmHQSe3SnqjpWkV0o7g)
-
-- [MEGA](https://mega.nz/folder/9p12DRCJ#68qN43PeG_7ASqA6uYXVBw/folder/4wMRQQiL)
-
-- [MEGA](https://mega.nz/folder/26AFVYqY#W0MeKpwUkDXtDoWHhvOSaw)
-
-- [MEGA](https://mega.nz/folder/xDBggB5R#__8JJX9IVYZKaOxNTWX2ww)
-
-- [MEGA](https://mega.nz/folder/XHoiCDgC#oMbKU6pHPzV-6l9qBQcBbw)
-
-- [MEGA](https://mega.nz/folder/xZh1hIhT#1y_H1VgKH7xP8f57YYvIhA)
-
-- [MEGA](https://mega.nz/folder/DUwSWLpT#fbqm6GMSIhB45PZqZv35jA)
-
-- [MEGA](https://mega.nz/folder/b5IDSKYD#59Sl_gG5Py_lrTw-vqjTVA)
-
-- [MEGA](https://mega.nz/folder/aFdGDKzS#uOJxSGciWEbSsZQgzPlAag/folder/3dEzRbYY)
-
-- [MEGA](https://mega.nz/#F!1s9E3SZL!P_tynGmLjPHURAugHkn7Hw)
-
-- [MEGA](https://mega.nz/#F!BNljAKhB!eY3NfH3DZtthocohW8Lwwg)
-
-- [MEGA](https://mega.nz/#F!dlZlDbqL!TXG5bGvWufONkrQAL7b7jA)
-
-- [MEGA](https://mega.nz/#F!E4cSzYBZ!SPeQA0WuSMVh_oQtpYnN5w)
-
-- [MEGA](https://mega.nz/#F!gehhiaKI!PfYluqpWY4vfowImabzsLQ)
-
-- [MEGA](https://mega.nz/#F!hQVFBDbT!f3gOa3LUAHJXJJbFZfDytg)
-
-- [MEGA](https://mega.nz/#F!jBk3nBwC!3kbcd3Yb0I1Dkw6GCBLY1A)
-
-- [MEGA](https://mega.nz/#F!jN8GTSaJ!xN6x5Pv9dhqT6yLhO6r2Ow)
-
-- [MEGA](https://mega.nz/#F!K1MnlSzJ!fyLhNA7V_m1z9JZfPW0alg)
-
-- [MEGA](https://mega.nz/#F!kd9h1A6Y!1waeMtxUpksB9eQsws0Zcg)
-
-- [MEGA](https://mega.nz/#F!SfZyUYRK!yW7p_LkWtooQaVZ3Vr6WLQ)
-
-- [15.36 MB file on MEGA](https://mega.nz/file/CpRkwTrD#9NihefiFDBirhwtXqSvjWAhrFzUPcJveCeePfWh1lmo)
-
-- [1.94 GB file on MEGA](https://mega.nz/file/cwdgkD6D#9jGB_AYdtcKURyGF36aMCdDBXnylfEVqFZDs8DU4Spg)
-
-- [3.02 GB file on MEGA](https://mega.nz/file/E5MwmT5Z#YP-vMSTcm8voKjb72_nHsLYH1AGmliWsbUGXVJhNHDE)
-
-- [4.74 GB file on MEGA](https://mega.nz/file/EhUQnJgT#2lmr0DfCDoY3x4DFhthJo_3iz3XPB9DeLjmx2wBz1vs)
-
-- [5.28 GB file on MEGA](https://mega.nz/file/I4UyCLhY#vtl7oDV1kll4vrBRJV8ahQatsBSPmuiBvF7eFehJN9c)
-
-- [2.77 GB file on MEGA](https://mega.nz/file/Q5AzEQYB#c2H4gaVzVHAOwo45DafdlDsd340ShNxdc_CzSwdBMGE)
-
-- [189.8 MB file on MEGA](https://mega.nz/file/QUNASIQZ#RDRA-Q0bVrcaw5i7chJXDKYsSm1mjo7IxIVSqNf3edI)
-
-- [4.28 GB file on MEGA](https://mega.nz/file/tsMyXTqa#0Yiw8BSo7IpJytlKGNy3KCKMkn_H6x3bw4DHRmiSRn8)
-
-- [696.81 MB file on MEGA](https://mega.nz/file/V1NmiRyK#kLWeSwP3tx8gzuXpJyvVPDEXyisOIcsBmOE3pvdU0yE)
-
-- [851.4 MB file on MEGA](https://mega.nz/file/xkshVIBJ#ZGG_iGzOjLFFR8mYmpGlGFtcEseYMzj_SIREge-XOlw)
-
-- [36.66 MB file on MEGA](https://mega.nz/file/zqoEWZaQ#qNAN8JnV_79gII4ofMs4ZwMAcydZAQw6Gdng_QEyNDw)
-
-- [50.83 TB folder on MEGA](https://mega.nz/folder/01F2XbgA#u2Si5JL2Vd0hAd7sYU59ig)
-
-- [295.74 TB folder on MEGA](https://mega.nz/folder/4l81jAha#ed19dxGXCtd-VWCEd-flxA)
-
-- [1.04 TB folder on MEGA](https://mega.nz/folder/4t4hhCTa#zIiMZBRVAibATtHxwQ2b_w)
-
-- [157.11 GB folder on MEGA](https://mega.nz/folder/9ZckiLLJ#jH3CcsgJ1q5StsPC29zP-Q)
-
-- [5.99 GB folder on MEGA](https://mega.nz/folder/A15gybjB#s_vaCKHVR35X704ot2g7LQ)
-
-- [11.76 GB folder on MEGA](https://mega.nz/folder/aJoDFaoI#ttGQwG2opF8YUT6FYiCIPw)
-
-- [5.96 TB folder on MEGA](https://mega.nz/folder/B9B1iIZL#1GYxeVaTj3prxSR8kDyRyQ)
-
-- [11.34 GB folder on MEGA](https://mega.nz/folder/bbwn0IrI#fwxcM4YiLJTO-HoiGBKRjg)
-
-- [2.64 GB folder on MEGA](https://mega.nz/folder/BlRVyArK#84n4ZhYZCRXLjt-KEP6u6g)
-
-- [988.36 MB folder on MEGA](https://mega.nz/folder/DihiHYYJ#qwDp56twKmwPdDMqGR_kLA)
-
-- [File folder on MEGA](https://mega.nz/folder/F59WkSqQ#quGKSFIswBgv0rxAAaF8Pg)
-
-- [4.66 GB folder on MEGA](https://mega.nz/folder/F5QwxJQa#ruNhz08Cl599MChOBbQeGA)
-
-- [7.37 GB folder on MEGA](https://mega.nz/folder/Fc5HjABT#kDNrkB97DPt9L_dysk4jCw)
-
-- [10.31 GB folder on MEGA](https://mega.nz/folder/flYQGbzI#p1AFjtMuCLHQqocJqxV7rg)
-
-- [320.41 MB folder on MEGA](https://mega.nz/folder/fv4lCaZQ#6tS6HpQiWAjx6Ibr1N_D8w)
-
-- [582.7 GB folder on MEGA](https://mega.nz/folder/G5MQDb5K#lJ9F3clmlPVtSaaa7-5l6g)
-
-- [582.7 GB folder on MEGA](https://mega.nz/folder/h48HGAba#98YOtp3nhgDtKpeSO7PqSQ)
-
-- [File folder on MEGA](https://mega.nz/folder/ig0CBbLS#pGy_4LFIXKdtF_Ey5CVCdw/folder/TpVG3ITY)
-
-- [101.16 GB folder on MEGA](https://mega.nz/folder/iIsEkb4B#4tdNHUYTKTJDeIxI2FZE3A)
-
-- [80.19 TB folder on MEGA](https://mega.nz/folder/iYQ3SYbA#_o9eO4o1eiCd8QsCTU7iUw)
-
-- [6.2 GB folder on MEGA](https://mega.nz/folder/j3oEWa6Q#p-maimh5W4WFWOLwTVw0Fg/folder/zqxS0KTY)
-
-- [17.83 TB folder on MEGA](https://mega.nz/folder/Jk8RjIBA#_dTNthUX3LL7OwSaauqIpw)
-
-- [50.81 TB folder on MEGA](https://mega.nz/folder/jotyXZgJ#u1bncm3OWEk2wc9gXxhTbQ)
-
-- [0 byte folder on MEGA](https://mega.nz/folder/k4BhVaBL#R8dm8N_nTP-JdI9RVHcHIg)
-
-- [6.05 TB folder on MEGA](https://mega.nz/folder/K65nkYCA#alk8QsudxHOxCCRFMlDCJg)
-
-- [44.31 GB folder on MEGA](https://mega.nz/folder/kQBXHKwA#-osWRLNCXAsd62ln8wKa8w)
-
-- [10.1 MB folder on MEGA](https://mega.nz/folder/LBA0AB4S#z0QoDfFcJkeh2QXWvynZ2Q)
-
-- [831.51 GB folder on MEGA](https://mega.nz/folder/lm5lgQxT#Qh52YqE0-kwP_-eWohMBbw)
-
-- [843.02 MB folder on MEGA](https://mega.nz/folder/mEkDBSYI#WZVE8ptR90ZH00nBzmDIOw)
-
-- [4.82 GB folder on MEGA](https://mega.nz/folder/MQBRHBJA#L_on3h-XUrtbc719UaMygw)
-
-- [1.9 TB folder on MEGA](https://mega.nz/folder/mqxiBRTJ#0bnSa35nknxUqOCr-xdGYg)
-
-- [7.86 TB folder on MEGA](https://mega.nz/folder/pAl0wRKK#FIZzbYjkT_09qRT5BS2GXQ)
-
-- [17.04 TB folder on MEGA](https://mega.nz/folder/Pt8AHLAC#tAte3gNlNossthoHiSCL5w)
-
-- [258.97 GB folder on MEGA](https://mega.nz/folder/QEV0jKYZ#-BVVScey6draL30yB_KowA)
-
-- [17.14 GB folder on MEGA](https://mega.nz/folder/rVcExIbB#VN9alzay0OrctggvEn1DUg)
-
-- [5.96 TB folder on MEGA](https://mega.nz/folder/shpz0ACQ#tdyaQi9HcVM-oKH9NxVewA)
-
-- [0 byte folder on MEGA](https://mega.nz/folder/TDozVaoD#2qK5YTtpg6dmkqye2C2Kfg)
-
-- [108.94 GB folder on MEGA](https://mega.nz/folder/utchyAAK#GTVl1fINpekEch95xj8Fmg)
-
-- [0 byte folder on MEGA](https://mega.nz/folder/w8VHhSaY#fsM0AdXn8a3bRljWfJSdVg)
-
-- [3.96 GB folder on MEGA](https://mega.nz/folder/woQFAaLT#Eqvaip0R-kXi-lD8OIch7g)
-
-- [4.53 GB folder on MEGA](https://mega.nz/folder/wzYFiYJQ#QGzohLivw1ahdExps1cQWA)
-
-- [29.57 GB folder on MEGA](https://mega.nz/folder/x4VG3DRL#lqecF4q2ywojGLE0O8cu4A)
-
-- [File folder on MEGA](https://mega.nz/folder/xfpEjSRI#Xvt1Snz6X23VawtrDkgFqw)
-
-- [2.85 GB folder on MEGA](https://mega.nz/folder/Y6RXXKbJ#pnAdcdkSXw7wujTIhN5Blw)
-
-- [5.38 TB folder on MEGA](https://mega.nz/folder/yu4S3BJQ#bhtA-OIeQ2bnuM2bPcU2wQ/folder/Hr4GXT4L)
-
-- [4.14 GB folder on MEGA](https://mega.nz/folder/zfJQyLrT#uvGAaSb7Bs5bggzXXWqosQ)
-
-- [File folder on MEGA](https://mega.nz/folder/ZLB3CSwK#EXp6VnwcAEI1WE8xVwZZuQ)
-
-- [1.25 GB folder on MEGA](https://mega.nz/folder/ZMlxhYLA#sG-opuADdkNiu9-IdeJO4Q)
+---
 
 
 
@@ -4588,7 +4405,7 @@
 
 - [Avira PhantomVPN Infinite Trial iOS Guide (Jailbroken)](https://rentry.co/PhantomVPNiOS)
 
-- [https://mega.nz/folder/aFdGDKzS#uOJxSGciWEbSsZQgzPlAag/file/XUcC0aJT](https://rentry.co/skat9)
+[MEGA](MEGA.md)
 
 - [Small Open Directories](https://rentry.co/smolOD)
 
@@ -4596,7 +4413,7 @@
 
 - [Spotify Premium iOS Guide (Jailbroken)](https://rentry.co/SpotilifeGuide)
 
-- [https://mega.nz/folder/efY0AR4T#0jnk5etjz1jfX2kmhvdJYw](https://rentry.co/toa8s)
+[MEGA](MEGA.md)
 
 - [Retro Tab](https://rentry.co/vin7x)
 

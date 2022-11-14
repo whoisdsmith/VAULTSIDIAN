@@ -125,7 +125,7 @@ sidebar_label: Dump
 - [K!M](https://k.im/) - Might replaces the original Megaupload (_one day_).
 - [LinkSnappy](https://linksnappy.com/)
 - [Mediafire](https://www.mediafire.com/)
-- [Mega.nz](https://mega.nz/) - (_privacy concerns_).
+- [Mega.nz](https://mega.nz/) #MEGA - (_privacy concerns_).
 - [PutLocker](https://www5.putlockertv.to/)
 - [RapidGator](https://rapidgator.net/)
 - [Sendspace](https://www.sendspace.com/)

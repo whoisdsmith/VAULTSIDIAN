@@ -80,7 +80,7 @@ https://anonfiles.com/h3J4Y7W6oe/ebay_Checker_Account_By_X-KILLER_rar
 https://anonfiles.com/Nenf87Hapd/Instagram_Account_Checker_anom  
 https://anonfiles.com/Nenf87Hapd  
 https://pastebin.com/brXVzdE7  
-steam checker https://mega.nz/#!Rls3ma4D!Z3w2tQAfrWGjEftoZ1zYIb1OTqtrn15-rnSbu6zF2dQ  
+[MEGA](MEGA.md) 
 https://anonfiles.com/V1i9RaSbnf/Facebook_Accounts_Checker_By_X-SLAYER_zip  
 https://anonfiles.com/78D0dfO1o6/Netflix_Accounts_Checker_v1.0_By_X-LINE_rar  
 https://anonfiles.com/dal73ej3p7/Spotify_Checker_By_Zqink_rar  
@@ -106,37 +106,7 @@ https://anonfiles.com/73n7SbG5pa/Checkers_by_Prince_Jack_zip
 https://rghost.net/7GTGBSZZ8  
 https://anonfiles.com/x5Waa1yfpc/Best_Checkers_For_Gamers_Vol.1_rar  
 https://anonfiles.com/7bF5G9Ibob/Checkers_-_All_Working_rar  
-Mega.nz - https://mega.nz/file/TRMB1aJR#G4au3Lwcw-ckFTjoW0ZoDGSeKvXq-lFRF26iaik_YCs  
-4Shared - https://mega.nz/file/WAVhyYBI#YC9G7vTaXffPxPyjvje-T5xJXEQWbV1gkgMaJQ-wX6I  
-AIO Checker - https://mega.nz/file/DBEV2KLJ#SwTMFCQ8AqDnwrQwAr5uZI0DLw--IBzUF0Eg0D3FJF0  
-All Main Brute - https://mega.nz/file/KVFz1SpB#hRAiyRmFUY9gIy3aVRvAJZngHL4-vOaWHTumDwG6CZo  
-Apple Valid Emails Checker - https://mega.nz/file/2FE3EYJZ#n9BNo_xQtSqRTY8ys1_wTDCcW5A-MP-_JBuMSgQ-IFI  
-Axenta Fortnite Checker - https://mega.nz/file/7cVn0YJD#fyjlq2cgpkZn7BAR_wrPskJ0TxecsZ3dpD7IvSovu78  
-Nord VPN Checker - https://mega.nz/file/zAdFVS5L#TXnnBDsmPUp2rxl2QVl96ROCB-BgcEX04PBbIMZ4iPA  
-Netflix Checker - https://mega.nz/file/3JNhUApL#m2Iuuux9qwwKJZIwegNtGm4iqN4CqllbI_ovHYy-8RI  
-Wish Checker - https://mega.nz/file/qQFR0CRA#MqGaZTyoxtLMXxGOdcNIL3esAfPVSXCaBdNuhI8HOSk  
-CrunchyRoll Checker - https://mega.nz/file/KRN1GIYa#ZeCUEkZsIzufIEdrD2Znud1PzHvx2N4gH_hNkKCT5Uk  
-CyberGhost VPN Checker - https://mega.nz/file/CEMXQKbT#BAd89pQN2iTUSkRFXFHVkc0nlnk3ajST38xvp8JmxAk  
-Disney Checker - https://mega.nz/file/rBE3laiT#XxGNaC5TQfzUNI6HbEQ-RpdqIDLrbNudwSHfsI7UIfw  
-Ebay Checker - https://mega.nz/file/rQVX1QRJ#oXp2lSts2fOY8iRpmp3fueiPULY3htBgyvlL2eaguvM  
-Ebay Register Checker - https://mega.nz/file/mYVX1Q7S#-wSLpLkedlmmeUf4KuSak5pTJCXP3YrFvOmVnAGj3TY  
-ExpressVPN Checker - https://mega.nz/file/yZFDBK5I#NjXHImyQp4daeFtdHC0MdOgnAkyDDuVhQBey8w4EjZE  
-Fortlegends Checker - https://mega.nz/file/jZclVQ5Y#RGU8lPEJyLFKWKqyH9aYgNActTgW1SuH-Kt1OMOJ2sM  
-Fortnite Checker - https://mega.nz/file/uVVz1C5C#hQc6d-ptPKF-SPF2Dd0mT8_Ld6vbW--zvo0Eotl5yzk  
-IP Vanish - https://mega.nz/file/2cc1SKzZ#MOVY_DdjReCqDrrgWXRXgZF5YMkd57mSB-SANfFEJ5Y  
-LOL Checker - https://mega.nz/file/yQED1SKY#lf66k0pOB-ZaGhBvgzWfw4OKQ4RB-WDbXQGGdyGA3OI  
-LoL Checker - https://mega.nz/file/aRFBzQyK#H3onMa4UXRGmaD7Fou5Czd1fbR8oV6MTEd6QjgTcE08  
-Luckie Games Checker - https://mega.nz/file/DFE3yQSA#u_3pXAdj1oba2k7HPMixBuNPI3cAheHMQ5pZHXQpM4k  
-MediaFire Checker - https://mega.nz/file/3VcRVaxT#pkYxo9lStf2f4cQRya8r3iwxssnbuBRraQ-EXWNU8nw  
-MEGA Checker - https://mega.nz/file/LAF3labQ#CmcPxiXVreva5gBHwxi48pajctys_euQYUYjeoH6l7U  
-Minecraft Checker - https://mega.nz/file/mAMVjK6L#AM0--h2lKBMQdO76heWrfpcOg90KmmtIbKMUWrhvIQM  
-Minecraft_Checker - https://mega.nz/file/jccjRI5I#rLAwR34IVaFgUYe5dVh1MOdDzWEZZvkro_h1R3eaxi0  
-MultiX (MultiChecker) - https://mega.nz/file/TVVFjCCB#eMSIkVxzJU0tMwuzZUXa5FfPVVLAOLEvW-ZQym8-Ch4  
-Netflix - https://mega.nz/file/yAFVHAQB#RcrinPib8QuPVwGWEoJblLK902DubRFhRW2Rl8Gn4ys  
-Netflix Checker - https://mega.nz/file/rZNFFC4Z#klm2JMYLsWJPgsH9LM8zcDi3UQ6hd_Y6sfq89-BBCqI  
-Netflix Checker v0.2 - https://mega.nz/file/aAdlmQhS#TuKCATSY5VgBe5HlAJ5_V41T09zYygD-CG6jJocy-d8  
-Netflix Checker v1 - https://mega.nz/file/2dERUCZL#OvHoQe7kj6EEq4kTTGeRql1Yxw5mpy8qcOxiIDcBlus  
-Nord VPN - https://mega.nz/file/uIMjSSTa#k2cy4SRljhjpH0-0ITbZRHvjCGlW8vIGum33zb2_Fhk  
+[MEGA](MEGA.md) 
 https://anonfiles.com/X1g6y8B9o1/Checkers_rar  
 https://anonfiles.com/14i8m1Faoe/Amazon_Giftcard_checker_July_2020_Updated_exe  
 https://anonfiles.com/V6X7jfC3oe/Paypal_Checker_By_G-KLITREALREAL_zip  
@@ -220,11 +190,13 @@ https://anonfiles.com/t372q4Mbo8/Spotify_Checker_N.to_-_Cracked_rar
 https://anonfiles.com/vcK345x8pb/SMAIO_CHECKER_CRACKED_rar  
 https://anonfiles.com/zbdcy2icpc/Venom_Cracked_rar  
 https://anonfiles.com/dfSeV2z1pb/_P.Y.G_IDA_Pro_7.5_SP3_x86_x64_ARM_ARM64_PPC_PPC64_MIPS_7z  
-https://mega.nz/file/FWIxiY4Y#NXMmUDrPDmqyH3xFbNqSU47uOCpCaniUcW7qY-hicIM  
+ 
 https://dimensionbots.com/socialmediabot.php  
 Vmware 20H2 Crack Password 123  
 https://www.mediafire.com/file/08uz04bbzsvr0nq/_Getintopc.com_VMware_Workstation_Pro_16.0.0.59684.rar/file  
-https://mega.nz/file/mskgwIZZ#VXrPH5PvFFP-JFHYLu39IqR3FKTlmP4dY-rZJ7xMss4  
+
+[MEGA](MEGA.md)
+
 https://anonfile.com/04V86erebd  
 https://anonfile.com/3fcezdYcn5/Warzone_Silent_Exploit_Crack_by_Eladictocosy_zip  
 https://anonfile.com/572eK8Mbn1/Cracked_exploits_rar  
@@ -263,7 +235,7 @@ Cracking tool to unlock zip or rar files passwords using brute force.
 https://github.com/IvanHanonoCozzetti/Zip-Cracker  
 VPN ACCS https://leak.sx/dispenser_vpn.php  
 CRACKED VPN https://anonfiles.com/75O4x5x0p7/ProtonVPN_CRACKED_zip  
-MASS DDos Pack https://mega.nz/#F!g7hgXAQK!gn0KLD-jWIICOiQPaSw3Bg  
+
 https://drive.google.com/file/d/1cxiIYj8Z2yycR9DZ5jRGyQhjFQfImuJU/view  
 https://anonfiles.com/32Z283H3p6 Chris Crack  
 https://www66.zippyshare.com/v/B98Mm3Df/file.html  
@@ -280,26 +252,23 @@ https://anonfile.com/y29688A4n2/WSH_Rat_Cracked_rar
 https://anonfile.com/3fcezdYcn5/Warzone_Silent_Exploit_Crack_by_Eladictocosy_zip  
 https://anonfiles.com/rfG1t19dp4 LEAKED FILES FROM EMA  
 https://www1.zippyshare.com/v/4LOCA8b4/file.html  
-VoiceMod Pro https://mega.nz/file/UUV1BKpC#S-pUfdQP2GWq7nJX3ne4T7Zv8-9L7ZJ9QWYnvWYOqhs  
-Wallpaper Engine https://mega.nz/file/KOYGXboD#PRZH-x1NUPbUdq34I4pu_p44NV_u1X21K9TJPG5C3xU  
+
 Animated Wallpapers https://www.desktophut.com/  
 https://uploadhub.co/c76fc9a2ecdf2ec6db3ac05051dfdc3e/AGFY-Cyberpunk.2077.v1.03.rar  
-PhotoShop 2021 https://mega.nz/file/PM8wXAgQ#PsjIhp4ThkwT8ggivuCYUvrfBEg-Gm6MshEJd8-yZdE  
-Premire Pro 2020 https://mega.nz/file/CNhnCLiD#Artp0Otbn5bZ65nf1FLsw-y-rmJFWxbUXE7ZnhIa36A  
+
 ASSASSIN'S CREED VALHALLA https://www80.zippyshare.com/v/9VlGBLI6/file.html torrent Assassins.Creed.Valhalla-FULL.UNLOCKED.torrent  
 Watch Dogs 2 https://uploadhub.co/150272b8c3d996b666ed718dc5d2773b  
 Windows Activator https://uploadhub.co/39bc2b81d44133a898f915066d3ae49e  
-FL Studio https://mega.nz/file/b5g1SYRT#mhcPGuryntOAfuCJUV5Jk8iMrhzYNvFbZb7VCmaWA4E  
-https://mega.nz/file/IKQjTQCL#a9tDYsrn0gpAQeFdYWIHXXwl5DocKE0DzmM4HIkaGQU  
+  
 Adobe cracks: https://main.rfsadobea.workers.dev/0:/ Username: telegram Password: raymondfreesoftware  
 [GDrive] Vegas Pro 18.0.0.373 https://drive.google.com/drive/folders/1zP2ziP6sf98cBfMDVvW4Mqsrg2NfCvuq?usp=sharing  
 https://drive.google.com/file/d/1_uRIyh4I20v-qDwQ53dSxOAvlrp-DS5r/view  
-https://mega.nz/folder/NYxglASK#-rdHhjXoKSi8DOFCZtz8ng  
+
 https://drive.google.com/file/d/1WKAhudqft4vNOWKcs7A9D0gaH2qdAQYI/view  
 https://drive.google.com/drive/folders/1p9E1MbNyU903zgIZByrl0eS_N6UrKHvg?usp=sharing  
 Spamisfun CRACK :: https://cdn.discordapp.com/attachments/785327015611858954/785329065841524736/spamis.fun.zip  
 Xyliase account creator crack :: https://cdn.discordapp.com/attachments/785327015611858954/785328905330360330/Xyliase-master.zip  
-NANO | Premiere Pro https://mega.nz/folder/4AIWAJDZ#P-PeBeyTz-KRbQk3Gvl88g  
+
 NANO | Sony Vegas Pro https://mysoftwarefree.com/vegas-pro-17/  
 NANO | Spotify Premium [W10] http://www.mediafire.com/file/av7fwq311nls5wn/Spotify+Sin+ADS.rar/file  
 NANO | WinRAR https://mysoftwarefree.com/winrar-free-download/  
@@ -370,7 +339,7 @@ https://github.com/programmingAthlete/BruteSniffing_Fisher
 https://github.com/BlackArch/blackarch-site/blob/master/data/tools  
 https://checkz.net/ online account checker proxyless  
 https://anonfiles.com/DdQbK1Nbo8/EyeLeacher_zip  
-https://mega.nz/file/aC5lVaaL#VhXI2vjVg6J2EsUBs7CecyYn0ARPrUAfDABcP2MraesZip  
+
 Cracking Tool Links [Updated]  
 ——————————————————————————
 KeyLoggers Pack https://gofile.io/d/1fkilp  
@@ -415,8 +384,7 @@ How to use:
 1. Enter the username below, select any filters & click the search icon
 2. Results will present as icons on the left, & in a searchable table on the right
 
-Some db leak  
-https://mega.nz/#F!kx5wSCjY!yjeNjMkutvJtnn9PVyiwog  
+
 Eye leacher is a paste scraper which scrapes accounts and other valuable things. I've gotton over 200k accounts using this.  
 https://anonfiles.com/DdQbK1Nbo8/EyeLeacher_zip  
 https://asciinema.org/a/46601  
@@ -464,7 +432,7 @@ https://github.com/kuburan/txtool
 https://github.com/Chudry/Xerror  
 https://github.com/hacktoolspack/hack-tools/tree/master/ARCANUS-master  
 https://www.mediafire.com/folder/anuon978r6ih5/2+DDoS+.exe%27s  
-https://mega.nz/#F!g7hgXAQK!gn0KLD-jWIICOiQPaSw3Bg  
+
 https://github.com/m4ll0k/Awesome-Hacking-Tools  
 https://github.com/maurosoria/dirsearch  
 https://github.com/BlackArch/blackarch-site/blob/master/data/tools  
@@ -479,33 +447,14 @@ https://github.com/kuburan/txtool
 https://github.com/Chudry/Xerror  
 My pack https://drive.google.com/drive/folders/1VWGS_BKcJjsa_bi3mzCKd6pfwKnJTiKs?usp=sharing  
 Free boost rewards https://drive.google.com/file/d/1hHSvy2axqiBtxfzpQBcCO82S2imsea-_/view?usp=sharing  
-https://mega.nz/file/iY1GgY5C#lJCOi4mn-Gfikwrt9YtHlQNFP7ZFUjCr87M-lu21hR8  
-https://mega.nz/folder/GN9i0SbK#bILVm8v3kIUvI9iqtrw8Qw  
-https://mega.nz/folder/ecsEGaBL#m3C277t6ymQx3zUYgrm1jw  
-https://mega.nz/folder/ShUBXSzT#dC85xs9xpkvDp0s0jOCd3Q  
-https://mega.nz/folder/n1UDVQrL#bEDNmuRXLB_H5Qp3ebET3g  
-https://mega.nz/folder/KY0GCCCa#9YGl4tYrOv9CIvCwXI0YnQ  
-https://mega.nz/folder/Hcs2WCCT#Ig_fSu-0HH_2An5HU1DWkA/folder/GElSFA7S  
-https://mega.nz/folder/KE0SCIzJ#fl3-HkAeNHnz5FEMO_3lTw  
-https://mega.nz/folder/PAt2DI4a#zPBBZ1dyGwKd-8hcAkerww  
-https://mega.nz/folder/nEtWEYIb#wiWGpmfJVHingw5l40ietg  
+[404 - Not Found! - AnonFiles](https://anonfiles.com/X7V8icn5bf/Crack_Pack_rar)
+https://anonfiles.com/QeAdz666na/Mega_Crack_Pack_Priv_rar  
 https://anonfiles.com/Z6U2h2g0od/Xeds_Crack_Pack_V6_rar  
-https://mega.nz/folder/npFHXAgI#6KaqDPPDYWgjkZFPUo6n7A  
-https://anonfiles.com/61D88a95n8/Ultra_Crack_Pack_rar  
-https://mega.nz/folder/npNR2ASD#KqgDmnkr1gHFwMDdloLlVw  
 https://anonfiles.com/N4rcF025o3/Exclusive_Cracking_Pack_2020_-_100_Cracking_Tools_and_Configs_and_More_By_Lix_zip  
 https://anonfiles.com/u0v4j3A0n1/Hacking_Pack_CRACKED.TO_rar  
-https://mega.nz/folder/eqo2TZbS#XhKCvB4eF9HVOmM9XciPHA  
-https://mega.nz/file/EF9SHTbL#draYkjFv5n55rWag-5s75AeWjNPGiEo-NAYTaqGoYLw  
-https://mega.nz/folder/OlMHjAaT#BikqVyATlUYm0ylrymEvaA  
-https://mega.nz/folder/PBsESQLC#kXeeJeyuFnwPZTXIxr0BTQ  
-https://mega.nz/folder/mB1wHC4A#kWz_YgmMwfDpDcqitS4Cuw  
-https://mega.nz/folder/7Q1EjK5T#I8vM8K-5LIY3_hWjWbORcg  
-https://mega.nz/folder/qd1mFYiD#zFT5IE2yD5ALlK04pdX3ZA  
-https://anonfiles.com/QeAdz666na/Mega_Crack_Pack_Priv_rar  
-https://mega.nz/folder/C9MTlSQb#iG2PdZ_KxoxkM-Ovm8NLsg  
-https://anonfiles.com/X7V8icn5bf/Crack_Pack_rar  
-https://mega.nz/folder/nEtWEYIb#wiWGpmfJVHingw5l40ietg  
+https://anonfiles.com/61D88a95n8/Ultra_Crack_Pack_rar  
+
+
 doxx:  
 https://pastebin.com/wvCLmsju  
 https://cdn.discordapp.com/attachments/719502302922276955/719502356181417994/STEAM_ACHIEVEMENT_UNLOCKER.rar  
@@ -516,37 +465,7 @@ Spotify acccount maker :: https://cdn.discordapp.com/attachments/785327015611858
 Bitcoin hacks :: https://cdn.discordapp.com/attachments/785327015611858954/785330443188699176/BitGen_Source.rar  
 zoom code scraper :: https://cdn.discordapp.com/attachments/785327015611858954/785330633413099540/Zoom-Code-Scraper-master.zip
 
-Mix  
-https://mega.nz/file/W48kQZiJ#Yz8C245LX8v485nhMMXPZ5i-rjtm1QCBZHzLZOaYP6w  
-Contains:
 
-BlackBullet COLLECTION  
-Bots–Traffic–Automatic Tools  
-Checkers PACK  
-Crypters & Binders  
-Crypto Bots–Utilities–Btc TOOLS  
-DDOS–DDOSER Tools  
-Dorkers Premium  
-DRIVERS Tools & Utilities PACK  
-Hacking Software  
-Keyloggers PACK  
-Malware–Worms & Stealers  
-OpenBullet COLLECTION  
-Proxy & VPN Tools & Utilities PACK  
-Proxy Tools and Grabbers  
-RATS PACK  
-RATS PACK–copia  
-Remote Hacking Tools PACK  
-SEO Tools & Utilities  
-SQLi TOOLS  
-USB Tools PACK  
-Video Downloaders  
-Virtual PC & Sandbox Programs PACK  
-Vulnerable Scanners  
-Youtube–Twitch–Social TOOLS  
-All in One Windows TOOLS–Optimizers–Boosters–Fixers–SpeedUP  
-Basic Utilities Tools  
-**Use at own risk**
 
 # Hacking Tutorials
 
@@ -650,118 +569,7 @@ https://github.com/Bl1xY/CookieCatch
 
 # Learning
 
-## Learning
 
-Advanced Penetration Testing:  
-https://mega.nz/#!rOowCA6L!rLmfn-cda99y9VF9NaV53xQEzIY_wHVtyRodLU-qKyg
-
-The Basics of Web Hacking:  
-https://mega.nz/#!veogDIDB!F7jKWnuYmiA31vI7AcUbOJ_8bpttxz4wDIDEjxzJBDc
-
-The Basics of Hacking and Penetration Testing:  
-https://mega.nz/#!yHpgQKrL!ctQd0e-yzb1QXoYk01yPTA9jl78TbNaZI4GoLdg6PSo
-
-The Art of Deception by Kevin Mitnick:  
-https://mega.nz/#!zCoCmChR!yR6BzKz4sva2qAzRMCju1jpHphgwe12ssZLknBNk4yc
-
-SQL Injection Attacks and Defense  
-https://mega.nz/#!Kf4CXSYQ!ZovQRMu6VMwkdLqOFhuUi4wCj7Pq0PJgiHZiItUt0DY
-
-Metasploit - The Penetration Tester’s Guide:  
-https://mega.nz/#!Heg0jCQZ!Y6ZftkyGJc8Rw2WI63v213iIl_SMEtY1qBsb7p2nQjs
-
-Ethical Hacking and Penetration Testing Guide:  
-https://mega.nz/#!XKgAEIqJ!jQ0ohALFI2fKrO6S5JzRjOZn6YmAMqKgkCPQLM0Peew
-
-Network Attacks and Exploitation - A Framework:  
-https://mega.nz/#!jSpChSpb!UGry-SnTLB3s4qMfh29s6jDromDGQc8I_fkWIqAY6rc
-
-Python Web Penetration Testing Cookbook:  
-https://difl.host/6e39ff5edc948cb1/09._Python_Web_Penetration_Testing_Cookbook.pdf
-
-XSS Attacks - Cross Site Scripting Exploits and Defense:  
-https://mega.nz/#!faoQUSYa!qAda14pWUjd5u4wjOYmzCI52UMa1rUFulh7V0kBGZk8
-
-The Web Application Hacker’s Handbook:  
-https://mega.nz/#!DWowAYRA!hVGYbGKJCcbUh83yztODz-8aMZZbJMWPoCdmr5Z4C9w
-
-Ethical Hacking and Countermeasures:  
-https://mega.nz/#!aX4CEAgS!tpFivx91Ips2rR3UnVdtlgvx1oOmi-qEtCu29DlO9uQ
-
-Reversing - Secrets of Reverse Engineering:  
-https://mega.nz/#!jSwgGCyY!MB5a5s9wpaWEEGnhi5j_73kMtPIQx0rEuQXv5_Y_gd4
-
-Network Security Bible:  
-https://mega.nz/#!CGgCiKqC!PXzqsNN2PPc-PUVyAwbfknTHEA-QBvjwvpjjQgZnYMo
-
-Hacking Web Applications - Hacking Exposed:  
-https://mega.nz/#!3KhWgIzQ!QQ8O9k6lp7vmYWzrbxbs8ItSVbYpSluYfktCxWURZGs
-
-Hacking for Dummies:  
-https://mega.nz/#!6exQSaLK!ur1W05ChW7_ipTYtEK6QKpIlyoqLyS82RGsEUEzFQDQ
-
-Hacking Wireless Network for Dummies:  
-https://mega.nz/#!Le5kmAAT!TvvIUOn5TQ4HsS4qrTAX6dOD0JG4tZ9FtLj6bEFGg2M  
-Professional Penetration Testing:  
-https://mega.nz/#!rfxERC5B!GWFniwOY738v8URo3HsnQwVV5h957-Ppx7FxMwYmJCI
-
-Gray Hat Hacking - The Ethical Hacker’s Handbook:  
-https://mega.nz/#!XLo2hYAK!8bmNXXPvSgIotZTsPbGaR-dSj9MfyOoNmm7iZ2me798
-
-Hack Attacks Testing:  
-https://mega.nz/#!PPpwGKTT!pkJBqjgeN_BJWe8PRveaA4nwRICK7WQ80BUowDSVfXI
-
-Basic Security Testing with Kali Linux:  
-https://mega.nz/#!Sfx2WCBC!oh0fxNYfOqiyCNoeyqayetg_e2G3B8ZF7M3lr3NMCgU
-
-Mastering Kali Linux for Advanced Penetration Testing:  
-https://difl.host/ba9765fffecd1e25/27._Mastering_Kali_Linux_For_Advanced_Penetration_Testing.pdf
-
-Kali Linux CTF Blueprints:  
-https://difl.host/ab3e7a5e5a023fdc/28._Kali_Linux_CTF_Blueprints.pdf
-
-Kali Linux - Assuring Security by Penetration Testing:  
-https://difl.host/670feaf53fca0080/30._Kali_Linux-_Assuring_Security_by_Penetration_Testing.pdf
-
-CISSP - Certified Information Systems Security Professional:  
-https://mega.nz/#!aHgkjC6A!Z0ox5K8qeLeobE6VoBeXsrO5mxu68HeaczcCFRg5hC8
-
-Computer Security and Cryptography:  
-https://mega.nz/#!KTgklaza!nnLb6e1SWgEL6D3kqdY2FLmHhK8wuxHUyJM-ghiC4JI
-
-Python For Beginners:  
-https://mega.nz/#!3Goi3IAQ!BlJ7rynz9UHI74hTmlJzroUgbOiy1O-cpFun5qeNjVg
-
-Some videos of a fat ass guy teaching stuff  
-https://mega.nz/folder/bUxVXB6T#Sk4IfPgjdCIDlF1THTXTKg
-
-There is Diffent things in here that i can learn  
-https://mega.nz/folder/bUxVXB6T#Sk4IfPgjdCIDlF1THTXTKg
-
-01 Computer Forensics Introduction  
-  02 Computer Forensics Process  
-  03 Searching and Seizing  
-  04 Digital Evidence  
-  05 First Responder Procedures  
-  06 Forensics Lab  
-  07 Hard Disk and File Systems  
-  08 Windows Forensics  
-  09 Data Acquition and duplication  
-  10 Recovering Deleted Files and Partitions  
-  11 Using Access Data FTK  
-  12 Using Encase  
-  13 Password crackers  
-  14 Log Correction  
-  15 Network Forensics  
-  16 Wireless Attack  
-  17 Web Attacks  
-  18 Email Crimes  
-  19 Mobile investigation  
-  20 Investigative Report  
-  21 Expert Witness
-
-Social Engineering tutorial  
-https://mega.nz/folder/UEN3SIyI#KSNM7PZqXKBrbK5gjeANAg
 
 **Use at own risk**
 
@@ -771,7 +579,7 @@ https://mega.nz/folder/UEN3SIyI#KSNM7PZqXKBrbK5gjeANAg
 
 https://github.com/Reza-saeedi/Malware-Detection-Tools  
 https://github.com/MalwareStudio/Virus_Destructive  
-Malware maker pack https://mega.nz/folder/hiQAlBpC#mvB3Ni0-yzxRSeVYKNQq1w  
+[MEGA](MEGA.md)
 https://github.com/RPISEC/Malware  
 https://github.com/RamadhanAmizudin/malware  
 https://github.com/vxunderground/MalwareSourceCode  
@@ -785,8 +593,7 @@ https://github.com/sweetsoftware/Ares
 https://github.com/Kkevsterrr/backdoorme
 
 ⭐️ [INFERNO AIO+] KEYLOGGER ⭐️  
-Modern command line tool for virus creation. Written on C# for Windows.  
-https://mega.nz/file/QDQCQbLC#g3br9NeM_a-PCLN3CKovz_9FiPn2-bABqjRykf5eS8M  
+[MEGA](MEGA.md)
 [!] Attention [!]  
 Some Antiviruses may remove the program.  
 [!] Features [!]  
@@ -829,7 +636,7 @@ VirusTotal checker.
 https://www.varonis.com/blog/malware-coding-lessons-people-part-learning-write-custom-fud-fully-undetected-malware/  
 https://github.com/Reza-saeedi/Malware-Detection-Tools  
 https://github.com/MalwareStudio/Virus_Destructive  
-Malware maker pack https://mega.nz/folder/hiQAlBpC#mvB3Ni0-yzxRSeVYKNQq1w  
+[MEGA](MEGA.md) 
 https://github.com/RPISEC/Malware  
 https://github.com/bartblaze/PHP-backdoors  
 https://github.com/secretsquirrel/the-backdoor-factory
@@ -837,8 +644,7 @@ https://github.com/secretsquirrel/the-backdoor-factory
 https://anonfiles.com/VeYeY0t6uf/Latest_Gift_Card_Carding_Method_txt  
 https://cdn.discordapp.com/attachments/839351266663727144/841216693891366942/Linkvertise_Search_Engine.txt  
 https://anonfiles.com/VeYeY0t6uf/Latest_Gift_Card_Carding_Method_txt  
-Verify Paypal Without CC:  
-https://mega.nz/file/JAVggLQI#xDEbyfxhT5x4ToRPHcdJzPO5Fz0CbclI0LyasoCeglQ  
+[MEGA](MEGA.md) 
 Latest Netflix Method:  
 https://www.bigtricks.in/unlimitedproof-trick-get-netflix-premium-account-free-lifetime-netflix-premium-membership-trick/  
 free G2A games :: https://cdn.discordapp.com/attachments/653519497717874688/712797803948146708/G2A-FREE-GAMES.txt  
@@ -942,8 +748,7 @@ Edu Mail :
 https://cdn.discordapp.com/attachments/668482975276466226/726138666929618984/EDU_Emails.pdf  
 https://anonfiles.com/NaRbebmeb1/dd44833f-1553996258/EDU-Method.pdf - Method v2  
 https://cdn.discordapp.com/attachments/748334078884839455/750427293809246329/free_domain.txt  
-850+ WORDPRESS THEMES AND PLUGINGS :  
-https://mega.nz/folder/MBJnSQbS#j89MKGjVDpuOcyo1LRPWqg/folder/9cZFkYBT  
+[MEGA](MEGA.md)
 What to do:
 
 1. Got to https://tecknity.com/tecknity-cookies-extension/
@@ -1032,8 +837,8 @@ https://ghostbin.co/paste/cb836
 https://pastebin.com/4yBF94BU  
 https://pastebin.com/hYr0UGbM  
 https://pastebin.com/Up7eQMHt  
-https://mega.nz/folder/CJwGAQJC#Z_d27iQAUJPHVf3WptSFCQ  
-my 3k methods https://mega.nz/file/SN80wZBA#rEYGgpnZttvJHw_nthmPVlm4TjqYeP_2scY4AjvQNZs
+[MEGA](MEGA.md)
+[MEGA](MEGA.md)
 
 # Nmap -sp ip(port)
 
@@ -1346,7 +1151,7 @@ Desync.vip Source Code : https://anonfile.com/P7L2kdp9oc/desync.vip_source_code_
 
 Trixware Source Code : https://anonfile.com/f2t3hfS2na/TrixWare_Source_zip  
 
-njRAT Source Code : https://mega.nz/folder/mPBSQSiA#dC9YLMyOZVk72orABAwl0A  
+[MEGA](MEGA.md)
 
 python:
 

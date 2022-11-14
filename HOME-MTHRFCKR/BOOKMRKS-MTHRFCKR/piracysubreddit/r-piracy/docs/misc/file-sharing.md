@@ -13,7 +13,7 @@ sidebar_label: File Sharing
 - [Flareget](http://flareget.com/) - Full featured, multi-threaded download manager and accelerator.
 - [Fopnu](http://fopnu.com/) - Fopnu is a new and decentralized network tool to share files over P2P.
 - [Nord Locker](https://nordlocker.com/) - Store and share your files securely, 5 GB are free.
-- [Mega.nz Website](http://mega.nz/#sync) - Easy automated syncing between your computers and your MEGA cloud drive.
+- [Mega.nz Website](http://mega.nz/#sync) #MEGA  - Easy automated syncing between your computers and your MEGA cloud drive.
 - [Meiga](http://meiga.igalia.com/) - A tool that makes possible to share selected local directories via web.
 - [NitroShare](http://nitroshare.net/) - Cross-Platform network file transfer application.
 - [OnionShare](http://onionshare.org/) - Securely and anonymously share a file of any size.
