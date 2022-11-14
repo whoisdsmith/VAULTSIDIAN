@@ -265,7 +265,7 @@
 * [GdriveXbot](https://t.me/GdriveXbot), [google-drive-telegram-bot](https://github.com/viperadnan-git/), [HK_upload_bot](https://t.me/HK_driveupload_bot), [gdrive_upload_bot](https://t.me/gdrive_upload_bot), [Python Aria Mirror Bot](https://github.com/lzzy12/python-aria-mirror-bot), [driveuploadbot](https://t.me/driveuploadbot) or [gdriveupme_bot](https://t.me/gdriveupme_bot) - Google Drive Telegram upload bots
 * [Google Drive Bot](https://t.me/Gdriveit_bot) - Google Drive Client in Telegram
 * [SearchX](https://github.com/iamLiquidX/SearchX) - Telegram GDrive Search Bot
-* [MEGA Uploader X](https://t.me/MegaUploadXbot) or [Mega.nz-Bot](https://github.com/Itz-fork/Mega.nz-Bot) - Remote Mega File Upload Bot
+* [MEGA Uploader X](https://t.me/MegaUploadXbot) or [Mega.nz-Bot](https://github.com/Itz-fork/Mega.nz-Bot) - Remote Mega File Upload Bot #MEGA 
 * [OneDrive X](https://t.me/onedrivexbot) - Remote OneDrive File Upload Bot
 * [Teledrive](https://github.com/mgilangjanuar/teledrive) - Telegram File Storage
 * [Uploader x Bot](https://t.me/uploader_x_bot ) - Telegram Video Upload Bot

@@ -96,7 +96,7 @@
 
 **[DownloadHa](https://www.downloadha.com) / [Open Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_download_directories) / [Usenet](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_usenet)** - Download video, audio, games, software & more
 **[FileCR](https://filecr.com/en/) / [Mobilism](https://forum.mobilism.org/)** - Trusted software sites / [Assistant Bypass](https://greasyfork.org/en/scripts/448254-filecr-assistant-bypass)
-**[Rinzry](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rinzry) / [50TB Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_50tb_mega_drive)** - Fast video downloads
+**[Rinzry](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rinzry) / [50TB Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_50tb_mega_drive)** - Fast video downloads 
 **[AnimeKaizoku](https://animekaizoku.com/)** - Fast anime downloads
 **[FitGirl Repacks](https://fitgirl-repacks.site/) / [SteamRIP](https://steamrip.com/)** - Game download sites / [Discord](https://discord.gg/fitgirlrepacks)
 **[AlvRo](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_alvro) / [Vimms Lair](https://vimm.net/)** - ROM download sites / [Emulators](https://emulation.gametechwiki.com/)

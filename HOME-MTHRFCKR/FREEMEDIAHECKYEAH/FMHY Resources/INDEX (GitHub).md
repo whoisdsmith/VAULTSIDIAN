@@ -84,7 +84,7 @@
 
 # [🌏 Non-English](https://github.com/nbats/FMHY/wiki/%F0%9F%8C%8F-Non-English)
 
-**International Piracy Sites** 
+**International Piracy Sites**
 
 ***
 ***

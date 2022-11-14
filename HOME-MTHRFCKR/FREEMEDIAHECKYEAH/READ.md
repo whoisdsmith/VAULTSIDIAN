@@ -8,7 +8,7 @@
 * ⭐ **[Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124)**
 * ⭐ **[Audiobook Bay](http://audiobookbay.fi/)** - Torrents
 * ⭐ **[Tokybook](https://tokybook.com/)** - Listen Online
-* ⭐ **[Top 1000 Audiobooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_audiobook_megadrive)** - Audiobooks / Drive
+* ⭐ **[Top 1000 Audiobooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_audiobook_megadrive)** #MEGA  - Audiobooks / Drive
 * [HotAudiobooks](https://hotaudiobooks.com) - Listen Online 
 * [Audiobooks For Soul](https://audiobookforsoul.net/) - Listen Online
 * [HDAudiobooks](https://hdaudiobooks.com/) - Listen Online
@@ -69,7 +69,7 @@
 * [EBOOKS SET 2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ebooks_set_2) - Books / Drive
 * [Bookstagram](https://vk.com/bookstagram_eng) - Books / Magazines 
 * [ebook3000.co](https://www.ebook3000.co/) - Books / Magazines / NSFW
-* [29GB Mega Folder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_29gb_mega_folder) - Books 
+* [29GB Mega Folder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_29gb_mega_folder) #MEGA  - Books 
 * [just a digital library](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_just_a_digital_library) - Books
 * [Nikola](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_nikola) - Books
 * [Read Any Book](https://www.readanybook.com/) - Books
@@ -276,7 +276,7 @@
 * [Occult and Magick Guides](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_occult_and_magick_guides) - Occult 
 * [Azrk's library](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_azrk.27s_library) - Occult / Esoterica / Satanism / Religion / Ect.
 * [Rosicrucian Esotericism Lecture](https://wn.rsarchive.org/GA/GA0109/19090603p01.html) - Rosicrucian Esotericism
-* [Spirituality Megadrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_spirituality_megadrive) 
+* [Spirituality Megadrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_spirituality_megadrive) #MEGA 
 * [IAPSOP](http://iapsop.com/) - Spiritualist / Occult Periodicals
 * [Beyond Weird](https://www.beyondweird.com/) - Witchcraft / Conspiracies
 * [Archive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_archive) - Conspiracy / Occult / Metaphysics

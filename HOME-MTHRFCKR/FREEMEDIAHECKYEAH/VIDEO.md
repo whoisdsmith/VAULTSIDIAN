@@ -633,7 +633,7 @@
 * [HDMP4Mania](https://hdmp4mania1.net/showcat.php?catid=2) - Movies
 * [DDLBase](https://ddlbase.net/) - Movies / TV
 * [megaDDL](https://megaddl.co/) - Movies / TV
-* [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV
+* [Movies Ni Pipay](https://moviesnipipay.me/) #MEGA - Movies / TV
 * [EE3](https://ee3.me/) - Movies / Invite Code: mpgh
 * [Reqzone](https://reqzone.com/) - Movies / TV
 * [KatMovieHD](https://katmoviehd.rs/category/hollywood-eng/) - Movies / TV / Anime / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
@@ -684,7 +684,7 @@
 * [Privatemoviez](https://privatemoviez.co/) - Movies / TV
 * [SkyMoviesHD](https://skymovieshd.news/category/Hollywood-English-Movies.html) - Movies
 * [HDFriday](https://hdfriday.com/category/download-hollywood-movies/) - Movies
-* [MegaUploadAgora](https://www.megauploadagora.com.br/) - Movies / TV
+* [MegaUploadAgora](https://www.megauploadagora.com.br/) #MEGA - Movies / TV
 * [Top100](https://top100.to/) - Movies / TV
 * [Wtfmovies](https://www.wtfmovies.xyz/) - Movies / TV
 * [Cartoons Raw](https://sites.google.com/view/cartoonraws-disney/home) - Cartoons
@@ -718,7 +718,7 @@
 ### ▷ Drives / Directories
 
 * ⭐ **[Rinzry](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rinzry)** - Movies / TV / Anime
-* ⭐ **[50TB](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_50tb_mega_drive)** - Movies
+* ⭐ **[50TB](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_50tb_mega_drive)** #MEGA  - Movies
 * ⭐ **[Rek's Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rek.27s_drive)** - Movies / Anime
 * [Telegram Video Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_video_download)
 * [Media](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_media) - Movies / TV / Anime
@@ -730,9 +730,9 @@
 * [Movies, Series... in English](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_movies.2C_series..._in_english) - Movies / TV
 * [wenubgang](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_wenubgang) - TV / Anime
 * [مسلسلات اجنبية‬‎](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_.645.633.644.633.644.627.62A_.627.62C.646.628.64A.629) - TV
-* [Remux Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_17tb_mega_drive) - HD Movies
+* [Remux Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_17tb_mega_drive) #MEGA  - HD Movies
 * [4K Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_4k_movie_collection) - HD Movies
-* [r/MegaLinks Backup](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_r.2Fmegalinks_backup) / [Search](https://megadb.tweakly.net/)
+* [r/MegaLinks Backup](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_r.2Fmegalinks_backup) #MEGA / [Search](https://megadb.tweakly.net/) #MEGA 
 * [TeamDrive Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_teamdrive_indexes) - Movies / TV
 * [Play Rdp](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_play_rdp) - Korean Drama / [Discord](https://discord.com/invite/fpnvKDw)
 * [Unbeatable Banzuke](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_unbeatable_banzuke) - Unbeatable Banzuke
@@ -1167,7 +1167,7 @@
 * [VueTube](https://vuetube.app/) / [GitHub](https://github.com/VueTubeApp/VueTube)
 * [uYouPlus](https://github.com/qnblackcat/uYouPlus)
 * [WebTube](https://webtubeapp.xyz/)
-* [Revanced Creator](https://github.com/XDream8/revanced-creator), [Revanced Builder](https://mega.nz/file/Omxn2T6L#PAJJ5V_ricfBt78CSqg21rL6rt-hP9RIUWbSyspEqQk), [revanced-build-template](https://github.com/n0k0m3/revanced-build-template), [Revanced Repo](https://github.com/Lyceris-chan/revanced-repo) or [Docker-Py-ReVanced](https://github.com/nikhilbadyal/docker-py-revanced) - Build Revanced App
+* [Revanced Creator](https://github.com/XDream8/revanced-creator), [Revanced Builder](https://mega.nz/file/Omxn2T6L#PAJJ5V_ricfBt78CSqg21rL6rt-hP9RIUWbSyspEqQk) #MEGA , [revanced-build-template](https://github.com/n0k0m3/revanced-build-template), [Revanced Repo](https://github.com/Lyceris-chan/revanced-repo) or [Docker-Py-ReVanced](https://github.com/nikhilbadyal/docker-py-revanced) - Build Revanced App
 
 ***
 
@@ -1203,7 +1203,7 @@
 * ⭐ **[YTMDL](https://ytmdl.deepjyoti30.dev/)** / [GitHub](https://github.com/deepjyoti30/ytmdl)
 * ⭐ **[Ripping Guide](https://redd.it/vv27dy)**
 
-[YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched), [Gramophy](https://github.com/rnayabed/gramophy), [YTMP3](https://ytmp3.ch/), [2](https://ytmp3.cc/), [3](https://ytmp3.eu/), [mps-youtube](https://github.com/mps-youtube/mps-youtube), [Ontiva](https://ontiva.com/), [YMP4](https://ymp4.cc/), [YouTube to MP3 Converter](https://www.mediahuman.com/youtube-to-mp3/22/), [loader](https://loader.to/), [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material), [DeURL](http://deturl.com/), [Yout](https://yout.com/), [FLVto](https://www.flvto.biz/en83/), [FreeMake](https://www.freemake.com/free_video_downloader/), [AudioJack](http://blue9.github.io/AudioJack-GUI/), [megaconverter](https://megaconverter.net/), [videovor](https://www.videovor.com/en), [onlinevideoconverter](https://onlinevideoconverter.pro/), [savemp3](https://savemp3.cc/), [mp3youtubeconverter](https://mp3youtubeconverter.org/), [mp3fy](https://mp3fy.com/en37/), [youtubeplaylist](https://youtubeplaylist.cc/), [musicmp3](https://musicmp3.ru/), [y2mp3](https://www.y2mp3.net/), [mpgun](https://mpgun.com/convert-mp3-mp4-compliant), [ymp4](https://www.ymp4.download/), [mp3download](https://mp3download.to), [snappea](https://www.snappea.com/en7/), [ytmp3x](https://ytmp3x.com/), [ytformp3](https://ytformp3.com/), [snappea](https://www.snappea.com/), [mp3.studio](https://mp3.studio/), [y2meta](https://www.y2meta.com/), [okmusi](https://okmusi.com/), [myfreemp3](https://myfreemp3.to/), [topsandtees](https://getx.topsandtees.space/1YZ7z886l5), [mp3download](https://mp3download.one/en3, [ytmp4converter](https://ytmp4converter.com/), [ytm-proxy](https://github.com/harmonoid/ytm-proxy), [c-youtube](https://www.c-youtube.com/), [YT-RED-UI](https://github.com/adanvdo/YT-RED-UI), [tubemp3](https://tubemp3.to/), [dirpy](https://dirpy.com/), [y2mate](https://y2mate.pw/), [YT_Downloaders](https://rentry.co/YT_Downloaders), [soundloaders](https://www.soundloaders.com/)
+[YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched), [Gramophy](https://github.com/rnayabed/gramophy), [YTMP3](https://ytmp3.ch/), [2](https://ytmp3.cc/), [3](https://ytmp3.eu/), [mps-youtube](https://github.com/mps-youtube/mps-youtube), [Ontiva](https://ontiva.com/), [YMP4](https://ymp4.cc/), [YouTube to MP3 Converter](https://www.mediahuman.com/youtube-to-mp3/22/), [loader](https://loader.to/), [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material), [DeURL](http://deturl.com/), [Yout](https://yout.com/), [FLVto](https://www.flvto.biz/en83/), [FreeMake](https://www.freemake.com/free_video_downloader/), [AudioJack](http://blue9.github.io/AudioJack-GUI/), [megaconverter](https://megaconverter.net/) #MEGA , [videovor](https://www.videovor.com/en), [onlinevideoconverter](https://onlinevideoconverter.pro/), [savemp3](https://savemp3.cc/), [mp3youtubeconverter](https://mp3youtubeconverter.org/), [mp3fy](https://mp3fy.com/en37/), [youtubeplaylist](https://youtubeplaylist.cc/), [musicmp3](https://musicmp3.ru/), [y2mp3](https://www.y2mp3.net/), [mpgun](https://mpgun.com/convert-mp3-mp4-compliant), [ymp4](https://www.ymp4.download/), [mp3download](https://mp3download.to), [snappea](https://www.snappea.com/en7/), [ytmp3x](https://ytmp3x.com/), [ytformp3](https://ytformp3.com/), [snappea](https://www.snappea.com/), [mp3.studio](https://mp3.studio/), [y2meta](https://www.y2meta.com/), [okmusi](https://okmusi.com/), [myfreemp3](https://myfreemp3.to/), [topsandtees](https://getx.topsandtees.space/1YZ7z886l5), [mp3download](https://mp3download.one/en3, [ytmp4converter](https://ytmp4converter.com/), [ytm-proxy](https://github.com/harmonoid/ytm-proxy), [c-youtube](https://www.c-youtube.com/), [YT-RED-UI](https://github.com/adanvdo/YT-RED-UI), [tubemp3](https://tubemp3.to/), [dirpy](https://dirpy.com/), [y2mate](https://y2mate.pw/), [YT_Downloaders](https://rentry.co/YT_Downloaders), [soundloaders](https://www.soundloaders.com/)
 
 ***
 
@@ -1212,7 +1212,7 @@
 * ⭐ **[YT-DL](https://github.com/ytdl-org/youtube-dl)** / [GUIs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_yt-dl_tools)
 * ⭐ **[YT-DLP](https://github.com/yt-dlp/yt-dlp)**
 
-[YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched), [ytmp3](https://ytmp3.cc), [Local Youtube Downloader](https://greasyfork.org/en/scripts/369400-local-youtube-downloader), [Tartube](https://github.com/axcore/tartube), [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material), [Youtube Video Downloader](https://github.com/OmarAflak/Youtube-Video-Downloader), [YouTube MP4](https://youtubemp4.to/), [DeURL](http://deturl.com/), [Ontiva](https://ontiva.com/), [YMP4](https://ymp4.cc/), [LocoDownloader](https://locoloader.com/), [FLVto](https://www.flvto.biz/en80/), [FreeMake](https://www.freemake.com/free_video_downloader/), [megaconverter](https://megaconverter.net/), [videovor](https://www.videovor.com/en), [onlinevideoconverter](https://onlinevideoconverter.pro/), [projectlounge ytdl](https://projectlounge.pw/ytdl), [snappea](https://www.snappea.com/en7/), [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader), [savemp3](https://savemp3.cc/), [mp3youtubeconverter](https://mp3youtubeconverter.org/), [mpgun](https://mpgun.com/convert-mp3-mp4-compliant), [pobieracz](https://pobieracz.net/), [ymp4](https://www.ymp4.download/), [snappea](https://www.snappea.com/), [ytmp4converter](https://ytmp4converter.com/), [AllToMP3](https://alltomp3.org/), [YT-RED-UI](https://github.com/adanvdo/YT-RED-UI), [y2mate](https://y2mate.pw/), [YT_Downloaders](https://rentry.co/YT_Downloaders)
+[YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched), [ytmp3](https://ytmp3.cc), [Local Youtube Downloader](https://greasyfork.org/en/scripts/369400-local-youtube-downloader), [Tartube](https://github.com/axcore/tartube), [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material), [Youtube Video Downloader](https://github.com/OmarAflak/Youtube-Video-Downloader), [YouTube MP4](https://youtubemp4.to/), [DeURL](http://deturl.com/), [Ontiva](https://ontiva.com/), [YMP4](https://ymp4.cc/), [LocoDownloader](https://locoloader.com/), [FLVto](https://www.flvto.biz/en80/), [FreeMake](https://www.freemake.com/free_video_downloader/), [megaconverter](https://megaconverter.net/) #MEGA , [videovor](https://www.videovor.com/en), [onlinevideoconverter](https://onlinevideoconverter.pro/), [projectlounge ytdl](https://projectlounge.pw/ytdl), [snappea](https://www.snappea.com/en7/), [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader), [savemp3](https://savemp3.cc/), [mp3youtubeconverter](https://mp3youtubeconverter.org/), [mpgun](https://mpgun.com/convert-mp3-mp4-compliant), [pobieracz](https://pobieracz.net/), [ymp4](https://www.ymp4.download/), [snappea](https://www.snappea.com/), [ytmp4converter](https://ytmp4converter.com/), [AllToMP3](https://alltomp3.org/), [YT-RED-UI](https://github.com/adanvdo/YT-RED-UI), [y2mate](https://y2mate.pw/), [YT_Downloaders](https://rentry.co/YT_Downloaders)
 
 **Playlists**
 

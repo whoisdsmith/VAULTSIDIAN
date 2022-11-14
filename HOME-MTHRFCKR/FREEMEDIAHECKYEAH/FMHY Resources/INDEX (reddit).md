@@ -84,7 +84,7 @@
 
 #[🌏 Non-English](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/non-eng)
 
-**International Piracy Sites** 
+**International Piracy Sites**
 
 ***
 ***

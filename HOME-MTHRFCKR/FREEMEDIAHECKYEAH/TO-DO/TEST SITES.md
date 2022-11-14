@@ -535,7 +535,7 @@ https://greasyfork.org/en/scripts/427254-preventpagevisibility
 https://greasyfork.org/en/scripts/451507-xbox-cloud-gaming-vibration  
 https://github.com/OriginalAlien/CourseHero-Tool/  
 https://differentperspectivesinmyroom.blogspot.com/ (says to send an email for each download?)  
-https://mega.nz/file/btcWDQpS#P0m3P2WkgA0GDH0pcvZD-8T2TL81qXZD7kuCESC60UU + [Video](https://youtube.com/watch?v=B-4HF9P2Scs) (adds cracked games to steam library? probably best to test in a VM)  
+https://mega.nz/file/btcWDQpS#P0m3P2WkgA0GDH0pcvZD-8T2TL81qXZD7kuCESC60UU #MEGA + [Video](https://youtube.com/watch?v=B-4HF9P2Scs) (adds cracked games to steam library? probably best to test in a VM)  
 https://steamdlc.xyz/  
 https://beta.dreamstudio.ai/  
 https://leechpremium.net/uploaded  

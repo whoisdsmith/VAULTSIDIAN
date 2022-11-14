@@ -29,7 +29,7 @@
 * [Napalm FTP](https://www.searchftps.net/), [Mamont](https://www.mmnt.ru/int/) or [Search-22](https://search-22.com/ftp-search-tools) - FTP Search
 * [dedigger](https://www.dedigger.com/) - GDrive File Search 
 [Discord](HOME-MTHRFCKR/NOTES/Discord.md)
-* [MegaDownload](http://megadownload.net/) - Mega File Search 
+[MEGA](MEGA.md)
 * [Create Open Directory Search Engine](https://redd.it/d3w2fu)
 * [Open Directory Downloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) or [AutoIndex](http://autoindex.sourceforge.net/) - Open Directory Indexer 
 * [Directory Lister](https://directorylister.com/) or [OpenDirectoryDownloader](https://open-directory-downloader.herokuapp.com/) - Open Directory Explorer
@@ -67,7 +67,7 @@
 * [psychodownloads](http://psychodownloads.com/forum.php) - Video / Audio / Software / Android / Games / ROMs / Books / Magazines / NSFW
 * [Merlin Warez](https://merlinwz.com/) - Video / Audio / Games / Software / Books / Audiobooks / Comics / Magazines 
 * [Warez Heaven](https://www.warezheaven.com/index.php) - Video / Audio / Software / Games / ROMs / Books / NSFW
-* [MegaDDL](http://megaddl.net/) - Video / Audio / Software / Games / Books 
+[MEGA](MEGA.md)
 * [wJungle](https://wjungle.net/) - Video / Audio / Books / Games / Android / NSFW
 * [Sbenny's Forum](https://forum.sbenny.com/) - Video / Audio / Software / ROMs / Books / Android / [Discord](https://discord.gg/kf9FKQx)
 * [Amader Forum](http://amaderforum.us/) - Video / Games / Software / Android / Books / NSFW
@@ -830,7 +830,7 @@
 
 **Bots**
 
-[Torrent all-in-one bot](https://github.com/patheticGeek/torrent-aio-bot), [Codemaster](https://github.com/mohitjoshi155/Codemaster), [Mirror-Bot](https://github.com/KenHV/Mirror-Bot), [TorrentLeech](https://github.com/alfianandaa/TorrentLeech-Gdrive), [google-drive-torrent](https://github.com/karl-chan/google-drive-torrent), [torrents-to-google_drive](https://github.com/dabare/torrents-to-google_drive), [EmbetaCloud](https://github.com/Mrigank11/embetacloud), [TorrentMega2GoogleDrive](https://github.com/kakamband/TorrentMega2GoogleDrive), [Torrent-To-Google-Drive-Downloader](https://github.com/puki56/Torrent-To-Google-Drive-Downloader), [Torrents-to-Google-Drive](https://github.com/cheems/Torrents-to-Google-Drive), [Slam MirrorBot](https://github.com/SlamDevs/slam-mirrorbot)
+[Torrent all-in-one bot](https://github.com/patheticGeek/torrent-aio-bot), [Codemaster](https://github.com/mohitjoshi155/Codemaster), [Mirror-Bot](https://github.com/KenHV/Mirror-Bot), [TorrentLeech](https://github.com/alfianandaa/TorrentLeech-Gdrive), [google-drive-torrent](https://github.com/karl-chan/google-drive-torrent), [torrents-to-google_drive](https://github.com/dabare/torrents-to-google_drive), [EmbetaCloud](https://github.com/Mrigank11/embetacloud), [TorrentMega2GoogleDrive](https://github.com/kakamband/TorrentMega2GoogleDrive) #MEGA , [Torrent-To-Google-Drive-Downloader](https://github.com/puki56/Torrent-To-Google-Drive-Downloader), [Torrents-to-Google-Drive](https://github.com/cheems/Torrents-to-Google-Drive), [Slam MirrorBot](https://github.com/SlamDevs/slam-mirrorbot)
 
 **Telegram Bots**
 
@@ -894,7 +894,7 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage
 
 ***
 
-##### 50TB Mega Drive
+##### 50TB Mega Drive #MEGA 
 
 `aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9qb3R5WFpnSiN1MWJuY20zT1dFazJ3YzlnWHhoVGJRCmh0dHBzOi8vbWVnYS5uei9mb2xkZXIvMDFGMlhiZ0EjdTJTaTVKTDJWZDBoQWQ3c1lVNTlpZw==`
 
@@ -906,7 +906,7 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage
 
 ***
 
-##### 17TB Mega Drive
+##### 17TB Mega Drive #MEGA 
 
 `aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9KazhSaklCQSNfZFROdGhVWDNMTDdPd1NhYXVxSXB3`
 
@@ -960,7 +960,7 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage
 
 ***
 
-##### r/MegaLinks Backup
+##### r/MegaLinks Backup #MEGA 
 
 `aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9mdjRsQ2FaUSM2dFM2SHBRaVdBang2SWJyMU5fRDh3Cmh0dHBzOi8vd3d3NzEuemlwcHlzaGFyZS5jb20vdi9iZWhMaGszRi9maWxlLmh0bWw=`
 
@@ -1264,7 +1264,7 @@ pass: paluch
 
 ***
 
-##### Audiobook Megadrive
+##### Audiobook Megadrive #MEGA 
 
 `aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9oNDhIR0FiYSM5OFlPdHAzbmhnRHRLcGVTTzdQcVNRCmh0dHBzOi8vbWVnYS5uei9mb2xkZXIvRzVNUURiNUsjbEo5RjNjbG1sUFZ0U2FhYTctNWw2Zw==`
 
@@ -1276,7 +1276,7 @@ pass: paluch
 
 ***
 
-##### 29GB Mega Folder
+##### 29GB Mega Folder #MEGA 
 
 `aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci94NFZHM0RSTCNscWVjRjRxMnl3b2pHTEUwTzhjdTRB`
 
@@ -1373,7 +1373,7 @@ pass: paluch
 
 ***
 
-##### Spirituality Megadrive
+##### Spirituality Megadrive #MEGA 
 
 `aHR0cHM6Ly9tZWdhLm56LyNGIWtkOWgxQTZZITF3YWVNdHhVcGtzQjllUXN3czBaY2c=`
 
@@ -1706,7 +1706,7 @@ pass: paluch
 
 *** 
 
-##### Course Megadrives
+##### Course Megadrives #MEGA 
 
 `aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9wQWwwd1JLSyNGSVp6Yllqa1RfMDlxUlQ1QlMyR1hRIApodHRwczovL21lZ2EubnovZm9sZGVyLzR0NGhoQ1RhI3pJaU1aQlJWQWliQVR0SHh3UTJiX3cgCmh0dHBzOi8vbWVnYS5uei9mb2xkZXIvaUlzRWtiNEIjNHRkTkhVWVRLVEpEZUl4STJGWkUzQSAKaHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9COUIxaUlaTCMxR1l4ZVZhVGozcHJ4U1I4a0R5UnlRIApodHRwczovL21lZ2EubnovZm9sZGVyL3NocHowQUNRI3RkeWFRaTlIY1ZNLW9LSDlOeFZld0EgCmh0dHBzOi8vbWVnYS5uei9mb2xkZXIvbG01bGdReFQjUWg1MllxRTAta3dQXy1lV29oTUJidyAKaHR0cHM6Ly9tZWdhLm56L2ZvbGRlci95dTRTM0JKUSNiaHRBLU9JZVEyYm51TTJiUGNVMndRL2ZvbGRlci9IcjRHWFQ0TApodHRwczovL21lZ2EubnovZm9sZGVyL0s2NW5rWUNBI2FsazhRc3VkeEhPeENDUkZNbERDSmc=`
 
@@ -1856,7 +1856,7 @@ pass: paluch
 
 *** 
 
-##### Mega Rentry
+##### Mega Rentry #MEGA 
 
 `aHR0cHM6Ly9yZW50cnkuY28vTWVnYS1SZW50cnk=`
 
@@ -1952,7 +1952,7 @@ pass: paluch
 
 ***
 
-##### Large Collection of Useful Mega DL's
+##### Large Collection of Useful Mega DL's #MEGA 
 
 `aHR0cHM6Ly9wYXN0ZWJpbi5jb20vWk10WmEySlY=`
 
