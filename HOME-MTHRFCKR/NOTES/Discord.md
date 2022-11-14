@@ -24,34 +24,17 @@
 
 ### Discord Servers
 
-* [The Ratio](https://discordapp.com/invite/wab3Qag) Community of seedbox enthusiasts. Buying advice, application setup, and automation help.
-* [DoujinStyle](https://discord.gg/z2QDFdA) Discord server with Doujin related materials. Things such as Japanese doujin music and games
-* [The Eye](https://discordapp.com/invite/py3kX3Z) Official Discord server for [the-eye.eu](http://the-eye.eu)
-* [PlayStation Homebrew](https://discord.gg/JJnvEN8) Home of /r/ps3homebrew and /r/ps4homebrew.
-* [Snahp.it](https://discord.gg/ypyKZCj) Official Discord server for [snahp.it](http://snahp.it).
-* [WarezNX](https://discord.gg/d6xxuPq) Nintendo Switch Warez server. (/hbg/ has more up to date games as of April 2019)
-* [/hbg/ Homebrew General](https://discord.io/homebrew) A Discord server that shares Nintendo Switch Games.
-* [/r/soccerstreams](https://discord.gg/geyTtth) Official Discord server for the recently-killed /r/soccerstreams subreddit.
+
 * [APK'S 2 Day](https://discord.gg/2qWqzN8) This is a discord server that acts as a hub for numerous streaming apps.
 * ⭐ **[mega.archive](https://discord.gg/R3zEZUPp3Q)** / [Chat](https://discord.gg/ZRhpUtzvkC) - Megadrive Archive
 * [Sala De Espera](https://matrix.to/#/!qbOtnJEDGsPuWZBHLX:matrix.org?via=matrix.org) / [Discord](https://discord.gg/ZRhpUtzvkC) or [No Bucks Given](https://discord.gg/By53hyhUFS) / [Revolt](https://divolt.xyz/invite/BM9hvM0E) - Drive Sharing Communities
-
 - [Freemediaheckyeah](https://discord.com/invite/vgnaeka) - The official FreeMediaHeckYeah Discord server.
 - [Snahp.it](https://discord.gg/ypyKZCj) - Official Discord server for snahp.it.
 - [f/MEGAlinks](https://discordapp.com/invite/xk7HEE3) - Official f/MEGAlinks Discord server.
-- [/hbg/ Homebrew General](https://discord.io/homebrew) - A Discord server that shares *newer* Nintendo Switch Games.
-- [r/PkgLinks](https://discord.io/PkgLinks) - Reddup game sharing Discord Server.
-- [r/soccerstreams](https://discord.gg/geyTtth) - Official Discord server for the recently-killed /r/soccerstreams subreddit.
 - [9YearOldPirates](https://discord.gg/3YCF8u) - Official Discord server for the 9YearOldPirates relaese group.
-- [AniméGlare](https://discordapp.com/invite/RMjHm4F1) - Official AniméGlare Discord channel.
-- [AniméVibe](https://discordapp.com/invite/4QGvkw8) - Official AniméVibe Discord channel.
-- [APK'S 2 Day](https://discord.gg/2qWqzN8) - This is a discord server that acts as a hub for numerous streaming apps.
 - [ApolloTV](https://discordapp.com/invite/DT9SgYE) - The official ApolloTV Discord server.
-- [DoujinStyle](https://discord.gg/z2QDFdA) - Discord server with Doujin related materials. Things such as Japanese doujin music & games.
-- [DreamTV](https://discordapp.com/invite/FQkQz6g) - A Discord server for the official DreamTV Android app.
 - [legal acquisition club](https://discordapp.com/invite/UmWJVvH) - A piracy server to discuss and share movies, tv and apps.
 - [Morph TV (Morpheus Fork)](https://discordapp.com/invite/gVxP2Gq) - Morph TV (Morpheus Fork) - official Discord server.
-- [PlayStation Homebrew](https://discord.gg/JJnvEN8) - Home of /r/ps3homebrew and /r/ps4homebrew.
 - [The Eye](https://discordapp.com/invite/py3kX3Z) - Official Discord server for The-Eye.eu.
 - [The Ratio](https://discordapp.com/invite/wab3Qag) - A community of seedbox enthusiasts. Buying advice, application setup, and automation help.
 - [WarezNX](https://discord.gg/d6xxuPq) - Nintendo Switch Warez community server.
@@ -63,14 +46,10 @@
 - [Commit Your Code!](https://bit.ly/30YfIop) - Geared towards developers (+ career advice)
 - [EddieHub](https://discord.com/invite/jZQs6Wus) - Geared towards developers interested in open source
 - [4C](https://discord.gg/M5TKk7NH) - Geared towards people that create (tech) content online
-
 * [Sonic Getaway](https://discord.gg/audiophile) - Music / Audio / Audio Gear Discussion
 * [WarezBot](https://github.com/enzobes/WarezBot) - Discord Scene Release Tracker
-
 - [Buildspace](https://buildspace.so/) - Geared towards developers interested in Web3
-
 * [Discord search](https://disboard.org/de/search)
-
 - [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter)
 - [discord-open-source](https://github.com/discord/discord-open-source)
 - [awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities)
@@ -79,9 +58,7 @@
 - [Discord](https://discord.com/invite/6hr2Xsm)
 - [Discord](https://discord.gg/QhaKfHwWmV)
 - [Discord Bot](https://github.com/brandongallagher1999/1337x-Bot)
-
 * [Discord](https://discord.new/fcgpDbxVrj4q)
-
 - [Discord](https://discord.gg/JWqrdfN9Y8)
 - [Discord](https://discord.gg/ZQjfHkNHXC)
 
@@ -212,15 +189,6 @@
 
 [CustomRP](https://www.customrp.xyz/), [EasyRP](https://github.com/Pizzabelly/EasyRP), [RPCEngine](https://github.com/qoobes/rpcengine), [discord-custom-rich-presence](https://github.com/HyperBeasty/discord-custom-rich-presence), [CustomDiscordRPC](https://github.com/PryosCode/CustomDiscordRPC), [Discord-CustomRP](https://github.com/maximmax42/Discord-CustomRP), [Discord RPC Client](https://github.com/Metalloriff/discord-rpc-client), [Discord-Rich-Presence](https://github.com/BlobbyDev/Discord-Rich-Presence), [Discord RPC](https://github.com/discord/discord-rpc), [DiscordRPCMaker](https://drpcm.t1c.dev/)
 
-### Switch Homebrew Discord Servers
-
-* https://discord.gg/switchway
-* https://discord.gg/pytKu48eMk
-* https://discord.gg/EZMAupDvWE
-* https://discord.gg/UkwVjft
-* https://discord.gg/MfXkAMwW6Z
-* https://discord.gg/tuT59S2zcv
-* https://discord.gg/VAadvt9KFH
 
 ***
 
