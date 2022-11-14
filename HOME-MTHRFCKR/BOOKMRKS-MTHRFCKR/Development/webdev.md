@@ -532,7 +532,7 @@
 **Webhooks**
 
 * [Hookdoo Homepage](https://hookdoo.com/)
-* [Introduction - Discord Webhooks Guide](https://birdie0.github.io/discord-webhooks-guide/)
+[Discord](HOME-MTHRFCKR/NOTES/Discord.md)
 
 #### Indexing-WebCrawling
 

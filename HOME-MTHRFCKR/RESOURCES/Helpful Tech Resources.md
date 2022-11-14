@@ -233,14 +233,4 @@ If you need help with writing technical documentation or blogposts
 | [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions)                      | Links to frequently asked questions on tech interviews                                                                         |
 | [Toastmasters](https://www.toastmasters.org/)                                                                | Join a toastmasters group anywhere in the world to get better at public speaking
 
-## Cool Discord Communities
-
-| Name                                                         | Notes                                                     |
-|--------------------------------------------------------------|-----------------------------------------------------------|
-| [The Programmer Hangout](https://theprogrammershangout.com/) | Geared towards all kind of developers                     |
-| [Devcord](https://devcord.com/)                              | Geared towards web developers                             |
-| [The Coding Den](https://discord.com/invite/code)            | Geared towards developers that have questions / need help |
-| [Commit Your Code!](https://bit.ly/30YfIop)                  | Geared towards developers (+ career advice)               |
-| [EddieHub](https://discord.com/invite/jZQs6Wus)              | Geared towards developers interested in open source       |
-| [4C](https://discord.gg/M5TKk7NH)                            | Geared towards people that create (tech) content online   |
-| [Buildspace](https://buildspace.so/)                         | Geared towards developers interested in Web3              |
+[Discord](HOME-MTHRFCKR/NOTES/Discord.md)

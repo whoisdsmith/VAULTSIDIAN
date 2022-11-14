@@ -30,9 +30,8 @@ sidebar_label: Telegram
 ## Bridges
 
 - [matterbridge](https://github.com/42wim/matterbridge) - Bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams and more with REST API (mattermost not required!)
-- [TediCross](https://github.com/TediCross/TediCross) - Bot which bridges Telegram chats with Discord channels.
+[Discord](HOME-MTHRFCKR/NOTES/Discord.md)
 - [teleirc](https://github.com/RITlug/teleirc) - Go implementation of a Telegram <=> IRC bridge for use with any IRC channel and Telegram group.
-- [Transferbot](https://github.com/corusm/Transferbot) - Bot that transfers Messages from Telegram to Discord and back.
 
 ## Discussion Channels
 

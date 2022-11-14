@@ -934,13 +934,7 @@
 
 - [Home Page](https://www.dfir.training/)
 
-### Discord (tools)
-
-- [Search Discord Servers](https://disboard.org/search)
-
-- [Index](https://www.leaked.site/index.php?resolver%2Fdiscord.0%2F=)
-
-- [Serverse](https://extraction.team/serverse.html)
+[Discord](HOME-MTHRFCKR/NOTES/Discord.md)
 
 
 

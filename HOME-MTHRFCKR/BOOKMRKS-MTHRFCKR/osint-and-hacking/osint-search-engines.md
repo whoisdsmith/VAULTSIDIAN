@@ -1600,7 +1600,7 @@
 
 - [Pinterest - PinGroupie](http://pingroupie.com/)
 
-- [Public Discord Servers](https://disboard.org/servers)
+[Discord](HOME-MTHRFCKR/NOTES/Discord.md)
 
 - [Reddit - Karma Decay (image search)](http://karmadecay.com/)
 
@@ -2054,23 +2054,7 @@
 
 
 
-### DISCORD
-
-- [Discord Me](https://discord.me/)
-
-- [Enlarge Discord avatars](https://discordzoom.com/en)
-
-- [DiscordOSINT](https://github.com/atoncehussein/DiscordOSINT)
-
-- [Discord Servers Portal](https://www.discordportal.com/)
-
-- [Discord Center](https://discord.center/)
-
-- [Discord Bots](https://discordbotlist.com/)
-
-- [Discord Bots](https://top.gg/)
-
-- [Discord Bots](https://discord.bots.gg/)
+[Discord](HOME-MTHRFCKR/NOTES/Discord.md)
 
 
 

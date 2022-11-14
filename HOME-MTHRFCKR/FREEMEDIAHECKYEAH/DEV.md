@@ -92,16 +92,10 @@
 * [Input Delay Test](https://input-delay.glitch.me/) - Input Delay Experiment
 * [Asynchronous Messaging](https://github.com/clemensv/messaging) - Asynchronous Messaging Resources
 * [CoreFTP](http://www.coreftp.com/) - FTP Client
-* [Discord Developer Portal](https://discord.com/developers/docs/topics/community-resources) - Integrate Services with Discord
-* [CodeBlockLang](https://hastebin.com/usofubagoh.ts) - Discord Code Blocks
-* [discord.py](https://github.com/Rapptz/discord.py), [Kord](https://github.com/kordlib/kord), [Discord4J](https://discord4j.com/), [enhanced-discord.py](https://github.com/iDevision/enhanced-discord.py) - Discord API Wrapper
-* [discord-api-libs](https://github.com/Apacheli/discord-api-libs) - Community Libraries for Discord API
-* [Discord-panel](https://github.com/Notavone/discord-panel) - Discord Bot Server Manager
-* [Javacord](https://javacord.org/) - Discord Bot Creation Library
-* [Pylon](https://pylon.bot/) or [Bot Designer for Discord](https://apps.apple.com/us/app/bot-designer-for-discord/id1495536477) (Mac) - Discord Bot Builder
+[Discord](HOME-MTHRFCKR/NOTES/Discord.md)
 * [Telegram Bot API](https://github.com/tdlib/telegram-bot-api) or [PHP Telegram Bot](https://github.com/php-telegram-bot/core) - Telegram Bot API
 * [botwiki](https://botwiki.org/) - Learn How to Make Bots
-* [Sleepy Discord](https://github.com/yourWaifu/sleepy-discord) - C++ Library for Discord
+[Discord](HOME-MTHRFCKR/NOTES/Discord.md)
 * [Twitter (un)official Consumer Key](https://gist.github.com/shobotch/5160017) - Twitter Consumer Keys
 * [Birdsite](https://birdsite.slashdev.space/) - Twitter to ActivityPub Bridge
 * [rss-to-activitypub](https://portal.0svc.com/convert/) - RSS to ActivityPub Converter
@@ -733,7 +727,7 @@ Automated Incident Response and Forensics Framework
 * [GitHub Snake](https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66) - Enable Snake Game on GitHub Readme
 * [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) or [GPRM](https://gprm.itsvg.in/) - Generate Git Profile Readme
 * [GitStalk](https://gitstalk.netlify.app/) - GitHub Profile Info Search
-* [Discord MD Badge](https://github.com/montylion/discord-md-badge) - Add Discord Badge to GitHub
+[Discord](HOME-MTHRFCKR/NOTES/Discord.md)
 * [Github vscode icons](https://github.com/dderevjanik/github-vscode-icons) - VSCode Icons
 * [github-material-icons-extension](https://github.com/Claudiohbsantos/github-material-icons-extension) - Material Icons
 * [gist.io](https://gist.io/) - Git Blog Platform
@@ -807,7 +801,7 @@ Automated Incident Response and Forensics Framework
 * [Roadmap](https://roadmap.sh/) - Developer Roadmaps / Guides 
 * [Android Developer Roadmap](https://github.com/skydoves/android-developer-roadmap)
 * [IT Course Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_it_courses) - IT Courses
-* [Python Discord](https://pythondiscord.com/resources/) or [Python Reference](https://github.com/rasbt/python_reference) - Python Learning Resources
+[Discord](HOME-MTHRFCKR/NOTES/Discord.md)
 * [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python) - Python Guide
 * [CodingBat](https://codingbat.com/) or [PyQuickie](https://chrome.google.com/webstore/detail/pyquickie/okpdnfgpbpifbncoleieajiblmebbkci) - Python / Java Practice
 * [Java Beginners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_java_beginners) - Java Tutorials
@@ -964,8 +958,7 @@ Automated Incident Response and Forensics Framework
 * Comic Lessons - [DNS](https://howdns.works/) / [DNSSEC](https://howdnssec.works/) / [HTTPS](https://howhttps.works/) 
 * [PromptPapers](https://github.com/thunlp/PromptPapers) - Pre-Trained Language Model Tuning Papers
 * [Learn to Make Netflix Clone](https://github.com/kubowania/netflix-clone-graphql-datastax)
-* [Discord.js Guide](https://discordjs.guide/) - Discord.js Bot Guide
-* [vcokltfre](https://vcokltfre.dev/) - Discord.py Bot Guide
+[Discord](HOME-MTHRFCKR/NOTES/Discord.md)
 * [free-ai-resources](https://github.com/mrsaeeddev/free-ai-resources) - AI Learning Resources
 * [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - Machine Learning Coding Lessons 
 * [minitorch](https://github.com/minitorch/minitorch) - Machine Learning Engineering Course Code
@@ -982,7 +975,7 @@ Automated Incident Response and Forensics Framework
 * [WebdevHome](https://webdevhome.github.io/), [Charm](https://charm.sh/) or [Tiny Tools](https://tinytools.directory/) / [2](https://github.com/everestpipkin/tools-list) - Programming Tool Indexes
 * [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Programming Site Index 
 * [Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping) - Web Scraping Tool Index
-* [Awesome-Discord-Communities](https://github.com/mhxion/awesome-discord-communities) - Programming / Developer / Discord Communities 
+[Discord](HOME-MTHRFCKR/NOTES/Discord.md)
 * [TechBliss](https://www.techbliss.org/) - Coding Forum
 * [iTabCode](https://www.itabcode.net/) - Programming / Computer Science Forum
 * [Awesome Twitter Accounts](https://github.com/yask123/AwesomeTwitterAccounts) or [Awesome Twitter Communities](https://github.com/mattn/awesome-twitter-communities) - Curated List of Programming Related Twitter Pages 
@@ -1013,7 +1006,7 @@ Automated Incident Response and Forensics Framework
 * [Awesome Emacs](https://github.com/emacs-tw/awesome-emacs) or [Melpa](https://melpa.org/)  - Emacs Packages
 * [WebDen](https://webden.dev/) or [CodeEval](https://www.codeeval.dev/) - Code Playground
 * [Qovery](https://www.qovery.com/) - AWS Development Platform
-* [I run code](https://github.com/engineer-man/piston-bot) - Evaluate Code Snippets via Discord
+[Discord](HOME-MTHRFCKR/NOTES/Discord.md)
 * [Shell Cloud](https://shell.cloud.google.com/) - Google Cloud Shell Environment
 * [ShellcodeTemplate](https://github.com/Cracked5pider/ShellcodeTemplate) - Modifiable Shellcode Template 
 * [Spork](https://spork.sh/) - P2P Sockets CLI / [GitHub](https://github.com/atek-cloud/spork) / [Discord](https://discord.gg/UUCVrFYksv)
@@ -1168,7 +1161,7 @@ Automated Incident Response and Forensics Framework
 * [Shizuku](https://shizuku.rikka.app/) - Connect Apps to APIs
 * [NativeScript](https://github.com/NativeScript/NativeScript) - Access APIs from JavaScript
 * [Stein](https://steinhq.com/) - Turn Google Sheets into Database API / [GitHub](https://github.com/SteinHQ)
-* [Lanyard](https://github.com/Phineas/lanyard) - Export Discord Rich Presence to API Endpoint / Websocket
+[Discord](HOME-MTHRFCKR/NOTES/Discord.md)
 * [CollectionConcurrencyKit](https://github.com/JohnSundell/CollectionConcurrencyKit) - Async & Concurrent Versions of Swift APIs
 * [Shizuku](https://github.com/RikkaApps/Shizuku) - Use System APIs Directly with ABD / Root 
 * [Algolia](https://www.algolia.com/), [TypeSense](https://typesense.org/), [StorkSearch](https://stork-search.net/), [Solr](https://solr.apache.org/), [MeiliSearch](https://meilisearch.com/), [Sphinx](http://sphinxsearch.com/) or [FusionBot](https://www.fusionbot.com/) - Search API

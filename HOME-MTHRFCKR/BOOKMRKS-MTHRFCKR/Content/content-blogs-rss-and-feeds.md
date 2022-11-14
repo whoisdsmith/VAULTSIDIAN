@@ -586,7 +586,7 @@
 
 - [Benjamin Coe (@BenjaminCoe) / Twitter](https://twitter.com/benjamincoe)
 
-- [Join the bdlukaa Discord Server!](https://discord.gg/VhDsNvhbhc)
+[Discord](HOME-MTHRFCKR/NOTES/Discord.md)
 
 - [bdougie.live](https://bdougie.live/)
 

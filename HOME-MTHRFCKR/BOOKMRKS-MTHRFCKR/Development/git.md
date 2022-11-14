@@ -360,7 +360,7 @@
 
 - [sirishortcuts](https://github.com/jensbrehmen/sirishortcuts)
 
-- [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter)
+[Discord](HOME-MTHRFCKR/NOTES/Discord.md)
 
 - [repofinder](https://github.com/HomemadeToast57/repofinder)
 
@@ -648,7 +648,7 @@
 
 - [Zero-to-Emacs-and-Org-roam](https://github.com/nobiot/Zero-to-Emacs-and-Org-roam)
 
-- [discord-open-source](https://github.com/discord/discord-open-source)
+[Discord](HOME-MTHRFCKR/NOTES/Discord.md)
 
 - [Presentations](https://github.com/mac4n6/Presentations)
 
@@ -894,7 +894,7 @@
 
 - [hackingtool](https://github.com/Hacking-repo/hackingtool)
 
-- [awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities)
+[Discord](HOME-MTHRFCKR/NOTES/Discord.md)
 
 - [datasploit](https://github.com/DataSploit/datasploit)
 
