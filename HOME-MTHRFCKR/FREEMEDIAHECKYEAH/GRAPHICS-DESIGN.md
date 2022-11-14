@@ -4,7 +4,7 @@
 
 ## Design
 
-[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](http://freebies.bypeople.com/), [ImCreator](http://www.imcreator.com/free), [DesignBundles](https://designbundles.net/free-design-resources), [DesignResources](https://designresourc.es/), [UIOnline](https://uionline.io/), [psddd](https://psddd.co/), [GraphicBurger](https://graphicburger.com/), [GraphicsFuel](https://www.graphicsfuel.com/), [Pixeden](https://www.pixeden.com/), [SketchRepo](https://sketchrepo.com/), [Interfaces](https://interfacer.xyz/), [Freebiesbug](http://freebiesbug.com/), [Sketch App Sources](https://www.sketchappsources.com/), [FreebiesUI](https://freebiesui.com/), [Envato Elements Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_envato_elements_collection), [CreativeFabrica](https://www.creativefabrica.com/freebies/), [Toools.design](https://www.toools.design/), [Evernote.Design](https://www.evernote.design/), [gfxtra31](https://www.gfxtra31.com/), [xsgames](https://xsgames.co/devassets/), [design.dev](https://design.dev/), [uistore](https://www.uistore.design/), [charco](https://www.charco.design/), [craftwork](https://craftwork.design/freebies/), [pixelbuddha](https://pixelbuddha.net/), [Squax](https://t.me/squaxassets), [designlab](https://t.me/designlabb), [All4Designer](https://t.me/all4designer), [Discord](HOME-MTHRFCKR/NOTES/Discord.md)
+[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](http://freebies.bypeople.com/), [ImCreator](http://www.imcreator.com/free), [DesignBundles](https://designbundles.net/free-design-resources), [DesignResources](https://designresourc.es/), [UIOnline](https://uionline.io/), [psddd](https://psddd.co/), [GraphicBurger](https://graphicburger.com/), [GraphicsFuel](https://www.graphicsfuel.com/), [Pixeden](https://www.pixeden.com/), [SketchRepo](https://sketchrepo.com/), [Interfaces](https://interfacer.xyz/), [Freebiesbug](http://freebiesbug.com/), [Sketch App Sources](https://www.sketchappsources.com/), [FreebiesUI](https://freebiesui.com/), [Envato Elements Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_envato_elements_collection), [CreativeFabrica](https://www.creativefabrica.com/freebies/), [Toools.design](https://www.toools.design/), [Evernote.Design](https://www.evernote.design/), [gfxtra31](https://www.gfxtra31.com/), [xsgames](https://xsgames.co/devassets/), [design.dev](https://design.dev/), [uistore](https://www.uistore.design/), [charco](https://www.charco.design/), [craftwork](https://craftwork.design/freebies/), [pixelbuddha](https://pixelbuddha.net/), [Squax](https://t.me/squaxassets), [designlab](https://t.me/designlabb), [All4Designer](https://t.me/all4designer), [Discord](../NOTES/Discord.md)
 
 ***
 
@@ -54,7 +54,7 @@
 
 **Hosting**
 
-[WebOasis IPFS](https://weboasis.app/ipfs/), [IMGrPost](https://imgrpost.com/), [ImgBB](https://imgbb.com/), [Shutterfly](https://www.shutterfly.com/), [Imgur](https://imgur.com/) / [Frontend](https://rimgo.bus-hit.me/), [2](https://git.voidnet.tech/kev/imgin), [3](https://codeberg.org/video-prize-ranch/rimgo), [4](https://i.bcow.xyz/), [5](https://codeberg.org/3np/rimgu) / [Proxy](https://imgin.voidnet.tech/), [FreeImage.Host](https://freeimage.host/), [snipboard](https://snipboard.io/), [vaa.red](https://upload.vaa.red/), [Postimages](https://postimages.org/), [imgbox](https://imgbox.com/), [pasteboard](http://www.pasteboard.co/), [vgy](https://vgy.me/), [i](https://tikolu.net/i/), [tixte](https://tixte.com/), [linkpicture](https://www.linkpicture.com/), [imagebam](https://www.imagebam.com/), [imagevenue](https://www.imagevenue.com/), [ipfs pics](http://ipfs.pics/), [pixelfed](https://pixelfed.org/), [talaikis](https://ipfs.talaikis.com/upload), [imgchest](https://imgchest.com/), [anhsieuviet](https://anhsieuviet.com/), [ụphinh](https://uphinh.vn/), [upanhtv](https://upanh.tv/), [upanhme](https://upanh.me/), [sendpic](http://sendpic.org/), [pixelfed](https://pixelfed.social/, [Lutim](https://lutim.lagout.org/), [Lensdump](https://lensdump.com/) / [Discord](HOME-MTHRFCKR/NOTES/Discord.md), [prnt.sc](https://prnt.sc/)
+[WebOasis IPFS](https://weboasis.app/ipfs/), [IMGrPost](https://imgrpost.com/), [ImgBB](https://imgbb.com/), [Shutterfly](https://www.shutterfly.com/), [Imgur](https://imgur.com/) / [Frontend](https://rimgo.bus-hit.me/), [2](https://git.voidnet.tech/kev/imgin), [3](https://codeberg.org/video-prize-ranch/rimgo), [4](https://i.bcow.xyz/), [5](https://codeberg.org/3np/rimgu) / [Proxy](https://imgin.voidnet.tech/), [FreeImage.Host](https://freeimage.host/), [snipboard](https://snipboard.io/), [vaa.red](https://upload.vaa.red/), [Postimages](https://postimages.org/), [imgbox](https://imgbox.com/), [pasteboard](http://www.pasteboard.co/), [vgy](https://vgy.me/), [i](https://tikolu.net/i/), [tixte](https://tixte.com/), [linkpicture](https://www.linkpicture.com/), [imagebam](https://www.imagebam.com/), [imagevenue](https://www.imagevenue.com/), [ipfs pics](http://ipfs.pics/), [pixelfed](https://pixelfed.org/), [talaikis](https://ipfs.talaikis.com/upload), [imgchest](https://imgchest.com/), [anhsieuviet](https://anhsieuviet.com/), [ụphinh](https://uphinh.vn/), [upanhtv](https://upanh.tv/), [upanhme](https://upanh.me/), [sendpic](http://sendpic.org/), [pixelfed](https://pixelfed.social/, [Lutim](https://lutim.lagout.org/), [Lensdump](https://lensdump.com/) / [Discord](../NOTES/Discord.md), [prnt.sc](https://prnt.sc/)
 
 **Processing**
 
@@ -459,7 +459,7 @@
 
 * [ImgFlip](https://imgflip.com/memegenerator), [RocketMeme](https://www.rocketmeme.com/create), [Meme Town](https://meme.town/), [DrMemes](https://www.drmemes.com/), [MemeBetter](https://memebetter.com/) or [Emacs Meme Generator](https://github.com/larsmagne/meme) - Meme Creators
 * [MemeAtlas](https://www.memeatlas.com/) - Meme Database
-* [Memegine](https://memegine.com/) - Meme Search Engine
+* [Memegine](https://memegine.com/) - Meme Search Engine #Search 
 * [Templates](https://drive.google.com/drive/folders/1Z4PSi2XmZ6x8I891xZSg5Cl4oNEOIRhh) - Meme Templates
 * [Wojak Paradise](https://wojakparadise.net/) - Wojak Gallery
 * [Frinkiac](https://frinkiac.com/) - Simpsons Meme Generator 
@@ -525,21 +525,21 @@
 ### ► Download Images
 
 * ⭐ **[Image Download Site Index](https://start.me/p/jj0JAp/designer)** - Download Images, Illustrations, Icons & more
-* ⭐ **[Lexica](https://lexica.art/)**, [Laion](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images) or [Krea](https://www.krea.ai/) / [Discord](https://discord.gg/rJurUAR8Kz) - AI Image Search
+* ⭐ **[Lexica](https://lexica.art/)**, [Laion](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images) or [Krea](https://www.krea.ai/) / [Discord](https://discord.gg/rJurUAR8Kz) - AI Image Search #Search 
 * ⭐ **[Stock Photo Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_stock_photo_sites)** - Download Stock Photos / Vectors / Illustrations
 * ⭐ **[Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_icon_download_sites)** - Download Icons
-* ⭐ **[Reverse Image Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reverse_image_search)** - Search by Image
+* ⭐ **[Reverse Image Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reverse_image_search)** - Search by Image #Search 
 * [GFX Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_design_resources) - Graphic Design Resources
 * [Image Download Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_download_extensions)
 * [RipMe](https://github.com/RipMeApp/ripme), [ImgDownloader](https://imgdownloader.com/), [gallery-dl](https://github.com/mikf/gallery-dl), [SCrawler](https://github.com/AAndyProgram/SCrawler) or [Image Extractor](https://extract.pics/) - Image Download Tools
-* [picsearch](https://www.picsearch.com/), [Yandex Images](https://yandex.ru/images) or [Google Images](https://images.google.com/) - Image Search
+* [picsearch](https://www.picsearch.com/), [Yandex Images](https://yandex.ru/images) or [Google Images](https://images.google.com/) - Image Search #Search 
 * [Clip Retrieval](https://rom1504.github.io/clip-retrieval/) - Clip Retrieval System
-* [RootAbout](https://rootabout.com/) - Archive / OpenlLibrary Reverse Image Search 
+* [RootAbout](https://rootabout.com/) - Archive / OpenlLibrary Reverse Image Search #Search 
 * [PicTriev](http://www.pictriev.com/) - Find Look-Alike Images 
-* [PimEyes](https://pimeyes.com/en/) - Reverse Face Image Search 
-* [trace.moe](https://trace.moe/) - Anime Scene Reverse Image Search 
-* [Multicolr](https://labs.tineye.com/multicolr/) - Color Based Reverse Image Search
-* [icon_finder](https://codeberg.org/cauf/icon_finder) - Search for Icons via Patterns
+* [PimEyes](https://pimeyes.com/en/) - Reverse Face Image Search #Search 
+* [trace.moe](https://trace.moe/) - Anime Scene Reverse Image Search #Search 
+* [Multicolr](https://labs.tineye.com/multicolr/) - Color Based Reverse Image Search #Search 
+* [icon_finder](https://codeberg.org/cauf/icon_finder) - Search for Icons via Patterns #Search 
 * [pfps.gg](https://pfps.gg/) - Profile Picture Index
 * [OpenMoji](https://openmoji.org/) - Emojis
 * [PimpMyDrawing](https://pimpmydrawing.com/) - Human Silhouettes
@@ -560,14 +560,14 @@
 * [Placeit](https://placeit.net/) - Image Templates
 * [Crello](https://crello.com/) - Image Templates / Editor
 * [Kemono](https://kemono.party/) - Patreon Content / Some NSFW / Use Adblock
-* [Worldvectorlogo](https://worldvectorlogo.com/), [PNGGrid](https://pnggrid.com/), [Logos & Badges Bundle](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_logos_.26amp.3B_badges_bundle), [Brands of the World](https://www.brandsoftheworld.com/), [Logos Download](https://logos-download.com/), [Logodust](https://logodust.com/), [Logowik](https://logowik.com/), [Logo Wine](https://www.logo.wine/), [logospire](http://logospire.com/), [logotalkz](http://www.logotalkz.com/), [LogoSearch](https://logosear.ch/), [logopond](https://logopond.com/), [logotouse](https://www.logotouse.com/), [logolounge](https://www.logolounge.com/), [logomoose](https://www.logomoose.com/) - Logo Designs
+* [Worldvectorlogo](https://worldvectorlogo.com/), [PNGGrid](https://pnggrid.com/), [Logos & Badges Bundle](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_logos_.26amp.3B_badges_bundle), [Brands of the World](https://www.brandsoftheworld.com/), [Logos Download](https://logos-download.com/), [Logodust](https://logodust.com/), [Logowik](https://logowik.com/), [Logo Wine](https://www.logo.wine/), [logospire](http://logospire.com/), [logotalkz](http://www.logotalkz.com/), [LogoSearch](https://logosear.ch/) #Search, [logopond](https://logopond.com/), [logotouse](https://www.logotouse.com/), [logolounge](https://www.logolounge.com/), [logomoose](https://www.logomoose.com/) - Logo Designs
 * [MariaLetta](https://github.com/MariaLetta/mega-doodles-pack) - Free Doodles
 * [Replacement Sky](https://replacement-sky.com/) - Skies for Photoshop
 * [AmbientCG](https://ambientcg.com/), [TextureTown](https://textures.neocities.org/), [Lost and Taken](https://lostandtaken.com/), [3D textures](https://icons8.com/l/3d-textures/), [Textureking](https://www.textureking.com/), [Texture Labs](https://texturelabs.org/), [Transparent Textures](https://www.transparenttextures.com/), [Texture Club](https://www.sketchuptextureclub.com/), [TexturesForFree](https://texturesforfree.com/), [fatstrawberry](https://www.fatstrawberry.co.uk/) or [Texture Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_texture_collection) - Download Textures
 * [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) or [Pattern Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_pattern_collection) - Download Patterns
 * [Watercolor Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_watercolor_collection) - Download Watercolor Pictures
 * [google-images-download](https://github.com/Joeclinton1/google-images-download) - Download Images from Google Images 
-* [googleimagerestored](https://github.com/fanfare/googleimagesrestored) - Old Google Image Search 
+* [googleimagerestored](https://github.com/fanfare/googleimagesrestored) - Old Google Image Search #Search
 * [dzi-dl](https://github.com/ryanfb/dzi-dl) - Deep Zoom Image Downloader 
 * [YouTube Thumbnail Grabber](https://boingboing.net/features/getthumbs), [YouTube Screenshot](https://www.youtubescreenshot.com/) or [Get YT Thumbnail](http://www.get-youtube-thumbnail.com/) - Grab YouTube Thumbnails 
 * [imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - Booru Image Downloader / [Viewer](https://github.com/loadletter/grabber-viewer) 
@@ -730,7 +730,7 @@
 * [WhatIsRhino](https://lemamichael.github.io/WhatIsRhino/) - Modded iOS App
 * [imginn](https://imginn.com/), [YooYing](https://www.yooying.com/), [Picuki](https://www.picuki.com/), [profile-picture-viewer](https://github.com/Ademking/profile-picture-viewer) or [Dumpor](https://dumpor.com/) - Instagram Viewer
 * [FeedInABox](https://t.me/FeedinboxBot) - Telegram Bot
-* [Instagram Search Tool](https://www.aware-online.com/en/osint-tools/instagram-search-tool/) - Search Tool 
+* [Instagram Search Tool](https://www.aware-online.com/en/osint-tools/instagram-search-tool/) - Search Tool #Search 
 * [Osintgram](https://github.com/Datalux/Osintgram) - Osintgram Analysis
 * [Instagram-Explorer](https://www.osintcombine.com/instagram-explorer) - Explore Pictures by Location 
 * [Save Instagram](https://gist.github.com/g-rohit/f47170c8b3b302bcbe214ba624d636bc) - Enable Right Click / Save on Instagram 
@@ -744,7 +744,7 @@
 * [Resizegram](https://resizegram.com/) - Resize Videos
 * [PyInstaLive](https://github.com/dvingerh/PyInstaLive) - Download Instagram Livestreams / Replays 
 * [otzberg](https://www.otzberg.net/iguserid/index.php) or [Find-User-ID](https://codeofaninja.com/tools/find-instagram-user-id/) - ID Finder
-* [SearchMyBio](http://searchmy.bio/) - Bio Search
+* [SearchMyBio](http://searchmy.bio/) - Bio Search #Search 
 * [StatFlux](http://statflux.com/) - Instagram Analytics 
 * [Image Counter](https://openuserjs.org/scripts/darkred/Instagram_-_visible_images_counter) - Count images on a page 
 * [InstaAddict](https://github.com/Androz2091/instaddict) - Instagram Addiction Test

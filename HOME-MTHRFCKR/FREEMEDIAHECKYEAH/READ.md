@@ -4,7 +4,7 @@
 
 ## ► Audiobook Sites
 
-* ⭐ **[Audiobook CSE](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd)** - Multi-Site Audiobook Search
+* ⭐ **[Audiobook CSE](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd)** - Multi-Site Audiobook Search #Search 
 * ⭐ **[Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124)**
 * ⭐ **[Audiobook Bay](http://audiobookbay.fi/)** - Torrents
 * ⭐ **[Tokybook](https://tokybook.com/)** - Listen Online
@@ -158,7 +158,7 @@
 * [Flibusta](https://flibusta.is/) - Books / [I2P](http://flibusta.i2p/), [2](http://zmw2cyw2vj7f6obx3msmdvdepdhnw2ctc4okza2zjxlukkdfckhq.b32.i2p/) / Requires account
 * [The Free Book Library](http://ebooks.i2p/) - Books / I2P Required
 * [DailyLit](https://dailylit.com/) - Books  
-* [Ebooks Searcher](https://ebook-searcher.com/) - Multi-Site Book Search 
+* [Ebooks Searcher](https://ebook-searcher.com/) - Multi-Site Book Search #Search 
 * [Weird Old Book Finder](https://weird-old-book-finder.glitch.me/) - Find Old Books
 * [FreeBooksSifter](https://www.freebooksifter.com/) - Free Amazon E-Book 
 * [HundredZeros](http://hundredzeros.com/) or [FreeReadFeed](https://www.freereadfeed.com/) - Free Kindle Books 
@@ -177,32 +177,32 @@
 * [/r/Freenookbooks](https://reddit.com/r/Freenookbooks/)
 * [/r/bookdownloads](https://reddit.com/r/bookdownloads/)
 * [/r/KindleFreebies](https://reddit.com/r/KindleFreebies/)
-* [WorldCat](https://www.worldcat.org/) or [TRL](https://www.trl.org/) - Search Local Libraries / [Extension](https://www.libraryextension.com/)  
+* [WorldCat](https://www.worldcat.org/) or [TRL](https://www.trl.org/) - Search Local Libraries  #Search / [Extension](https://www.libraryextension.com/)  
 * [Snippet Tape](http://snippet-tape.herokuapp.com/) - Access Google Books "Missing Pages" / [Article](https://medium.com/@designing/how-i-hacked-google-books-missing-pages-f2d85289ca26)
 
 ***
 
 ### ▷ PDF Search
 
-* ⭐ **[PDFDrive](https://pdfdrive.com/)** - Books 
-* [Ocean of PDF](https://oceanofpdf.com/) - Books / Comics
-* [pdfroom](https://pdfroom.com/) - Books / Comics 
-* [Pdfgeni](http://www.pdfgeni.com/) - Books 
-* [PDFGrab](https://pdfgrab.com/) - Books 
-* [Ebook PDF](https://ebookpdf.com/) - Books 
-* [KuPDF](https://kupdf.net/) - Books 
-* [ePDF](https://epdf.pub/) - Books
-* [Moam](https://moam.info/) - Books
-* [PDFCookie](https://pdfcookie.com/) - Books
-* [PDFSearches](https://pdfsearches.com/) - Books
-* [OiiPDF](https://oiipdf.com/) - Books
-* [PDFSlide](https://pdfslide.net/) - Books 
-* [EDoc](https://www.edoc.site/) - Books
-* [PDFDuck](https://pdfduck.com/) - Books 
-* [pdforigin](https://www.pdforigin.info/) - Books 
-* [PDF Stop](https://pdfstop.com/) - Books
-* [freepdfbook](http://www.freepdfbook.com/) - Books 
-* [Amazonaws](https://www.google.com/search?q=site%3As3.amazonaws.com+%3CSearch+term%3E+filetype%3Apdf) - Amazon PDF Search 
+* ⭐ **[PDFDrive](https://pdfdrive.com/)** - Books #Search 
+* [Ocean of PDF](https://oceanofpdf.com/) - Books / Comics #Search 
+* [pdfroom](https://pdfroom.com/) - Books / Comics  #Search 
+* [Pdfgeni](http://www.pdfgeni.com/) - Books #Search 
+* [PDFGrab](https://pdfgrab.com/) - Books #Search 
+* [Ebook PDF](https://ebookpdf.com/) - Books #Search 
+* [KuPDF](https://kupdf.net/) - Books #Search 
+* [ePDF](https://epdf.pub/) - Books #Search 
+* [Moam](https://moam.info/) - Books #Search 
+* [PDFCookie](https://pdfcookie.com/) - Books #Search 
+* [PDFSearches](https://pdfsearches.com/) - Books #Search 
+* [OiiPDF](https://oiipdf.com/) - Books #Search 
+* [PDFSlide](https://pdfslide.net/) - Books #Search 
+* [EDoc](https://www.edoc.site/) - Books #Search 
+* [PDFDuck](https://pdfduck.com/) - Books #Search 
+* [pdforigin](https://www.pdforigin.info/) - Books #Search 
+* [PDF Stop](https://pdfstop.com/) - Books #Search 
+* [freepdfbook](http://www.freepdfbook.com/) - Books #Search 
+* [Amazonaws](https://www.google.com/search?q=site%3As3.amazonaws.com+%3CSearch+term%3E+filetype%3Apdf) - Amazon PDF Search #Search 
 
 ***
 
@@ -328,7 +328,7 @@
 ### ▷ Special Interest
 
 * ⭐ **[Cookbooks / Recipes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_cooking)** - Cookbook and Recipe Sites
-* ⭐ **[Wikiquote](https://en.wikiquote.org)**, [Wisdom of Chopra](http://www.wisdomofchopra.com/), [SearchQuotes](https://www.searchquotes.com/), [ThinkExist](http://thinkexist.com/), [Stoic Quotes](https://stoic-quotes.com/), [QuotationsPage](http://www.quotationspage.com/), [BrainyQuote](https://www.brainyquote.com/), [QuoteGarden](https://www.quotegarden.com/), [Quote Collections](https://redd.it/dlao3b) or [Glimbay](https://www.glimbay.com/) - Quotes
+* ⭐ **[Wikiquote](https://en.wikiquote.org)**, [Wisdom of Chopra](http://www.wisdomofchopra.com/), [SearchQuotes](https://www.searchquotes.com/) #Search , [ThinkExist](http://thinkexist.com/), [Stoic Quotes](https://stoic-quotes.com/), [QuotationsPage](http://www.quotationspage.com/), [BrainyQuote](https://www.brainyquote.com/), [QuoteGarden](https://www.quotegarden.com/), [Quote Collections](https://redd.it/dlao3b) or [Glimbay](https://www.glimbay.com/) - Quotes
 * ⭐ **[do_k_ument](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_do_k_ument)** - Survival, Forging, Smithing, Weapons Training, Field Manuals
 * [Short Stories](https://short-stories.co/) or [Library of Short Stories](https://www.libraryofshortstories.com/) - Short Stories
 * [Everything2](https://everything2.com/) - Short Stories / Poetry / Writing Help
@@ -433,7 +433,7 @@
 * [Dummies Store](https://t.me/dummiesbook) - Books for Dummies Collection 
 * [Saylor Academy](https://learn.saylor.org/) - Courses 
 * [eBookers](https://t.me/ebookers) - Telegram  
-* [Textbook Search Engine](https://cse.google.com/cse/publicurl?cx=011394183039475424659:5bfyqg89ers), [2](https://cse.google.com/cse?cx=001639227550064093264:dznewka3cca) - Search for Textbooks
+* [Textbook Search Engine](https://cse.google.com/cse/publicurl?cx=011394183039475424659:5bfyqg89ers), [2](https://cse.google.com/cse?cx=001639227550064093264:dznewka3cca) - Search for Textbooks #Search 
 * [Open Textbook Library](https://open.umn.edu/opentextbooks/) - Textbooks
 * [grade12books](https://t.me/grade12books) - Textbooks  
 * [TextBookGo](http://textbookgo.com/) - TextBooks
@@ -449,7 +449,7 @@
 * [MetPublications](https://www.metmuseum.org/art/metpublications/titles-with-full-text-online) - Art Books
 * [Oxford Bookworms](https://t.me/OxfordBookworms) - Books / Audiobooks / telegram  
 * [Digital Libraries / Archives](https://oedb.org/ilibrarian/250-plus-killer-digital-libraries-and-archives/) - Online university libraries
-* [OpenDOAR](https://v2.sherpa.ac.uk/opendoar/) - Academic Repository Search  
+* [OpenDOAR](https://v2.sherpa.ac.uk/opendoar/) - Academic Repository Search  #Search 
 * [Quantum Web Directory](https://qntm2017.github.io/qntm/OV.html) - Science / Tech / Math / Physics 
 * [arXiv](https://arxiv.org/) - Science / Math / Physics
 * [IntechOpen](https://www.intechopen.com/) - Science
@@ -606,20 +606,20 @@
 * [Heystacks](https://heystacks.org/) - Public Google Docs
 * [IDEAS](https://ideas.repec.org/) - Economic Research Papers
 * [Alex Catalogue](http://www.infomotions.com/alex/) - English / Philosophy Documents  
-* [FindPDFDoc](http://www.findpdfdoc.com/) - Document Search 
-* [PDFSlide](https://pdfslide.net/) - Document Search 
-* [EDoc](https://edoc.tips/) - Document Search 
-* [IDoc](https://idoc.pub/) - Document Search
-* [lens](https://www.lens.org/) - Document Search
-* [base-search](https://www.base-search.net/) - Document Search
-* [dimensions](https://app.dimensions.ai/discover/publication) - Document Search
-* [Share OSF](https://share.osf.io/) - Document Search
-* [VDocuments ](https://vdocuments.site/) - Document Search 
-* [repo.zenk](https://repo.zenk-security.com/) - Document Search 
-* [docplayer](https://docplayer.net/) - Document Search 
-* [DocDroid](https://www.google.com/search?q=site%3Adocdroid.net) - Document Search 
-* [Higher Intellect](https://preterhuman.net/) - Document Search 
-* [qDoc](https://qdoc.tips/) - Document Search
+* [FindPDFDoc](http://www.findpdfdoc.com/) - Document Search #Search 
+* [PDFSlide](https://pdfslide.net/) - Document Search  #Search 
+* [EDoc](https://edoc.tips/) - Document Search #Search 
+* [IDoc](https://idoc.pub/) - Document Search #Search 
+* [lens](https://www.lens.org/) - Document Search #Search 
+* [base-search](https://www.base-search.net/) - Document Search #Search 
+* [dimensions](https://app.dimensions.ai/discover/publication) - Document Search #Search 
+* [Share OSF](https://share.osf.io/) - Document Search #Search 
+* [VDocuments ](https://vdocuments.site/) - Document Search #Search
+* [repo.zenk](https://repo.zenk-security.com/) - Document Search #Search 
+* [docplayer](https://docplayer.net/) - Document Search  #Search 
+* [DocDroid](https://www.google.com/search?q=site%3Adocdroid.net) - Document Search  #Search 
+* [Higher Intellect](https://preterhuman.net/) - Document Search #Search 
+* [qDoc](https://qdoc.tips/) - Document Search #Search 
 * [ReadSomethingGreat](https://www.readsomethinggreat.com/) - Internet Articles 
 * [Google Scholar](https://scholar.google.com/) - Articles
 * [Mendeley](https://www.mendeley.com/) - Articles / [Data](https://data.mendeley.com/) / [Reference Manager](https://www.mendeley.com/download-reference-manager/)
@@ -629,9 +629,9 @@
 * [MyScienceWork](https://www.mysciencework.com/) - Science Articles
 * [BiologyOnline](https://www.biologyonline.com/) - Biology Articles
 * [Academia](https://www.academia.edu/) - Academic Papers
-* [Scinapse](https://scinapse.io/) - Academic Paper Search 
-* [Semantic Scholar](https://www.semanticscholar.org/) - Scientific Paper Search
-* [Consensus](https://consensus.app/) or [Elicit](https://elicit.org/) - Scientific Paper Consensus Search
+* [Scinapse](https://scinapse.io/) - Academic Paper Search #Search
+* [Semantic Scholar](https://www.semanticscholar.org/) - Scientific Paper Search #Search 
+* [Consensus](https://consensus.app/) or [Elicit](https://elicit.org/) - Scientific Paper Consensus Search #Search 
 * [Connected Papers](https://www.connectedpapers.com/) or [LitMaps](https://app.litmaps.co/) - Find Connected Academic Papers 
 * [FreeFullPDF](https://freefullpdf.com/) - Science / Articles
 * [KUNDOC](https://coek.info/) - Science / Articles
@@ -709,7 +709,7 @@
 ### ▷ Manual Sites
 
 * [Manuals & Schematics](https://redd.it/nlw3er), [SafeManuals](https://safe-manuals.com/), [Manuzoid](https://manuzoid.com/), [Wedophones](http://wedophones.com/Manuals/), [manualzz](https://manualzz.com/), [SAS](http://www.univertron.com/SAS/manuals/) or [ManualsLib](https://www.manualslib.com/) - Manual Directories
-* [ManualLib](https://www.manuallib.com/) - Manual Search
+* [ManualLib](https://www.manuallib.com/) - Manual Search 
 * [Floss Manuals](https://www.flossmanuals.net/) - Software Manuals
 * [iFixIt](https://www.ifixit.com/Guide) - Repair Manuals
 * [RepairWiki](https://repair.wiki/w/Repair_Wiki) - Repair Articles

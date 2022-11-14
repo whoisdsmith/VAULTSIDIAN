@@ -1,5 +1,7 @@
 # Search operators you can use with Gmail - Gmail Help
 
+---
+
 **Want to get more out of Google apps at work or school?**  [Sign up for a Google Workspace trial at no charge](https://gsuite.google.com/signup/basic/welcome?utm_source=apps-help-center&utm_medium=et&utm_content=sign_up&utm_campaign=FY20-Q3-global-gmail-help-center-snippet).
 
 You can use words or symbols called search operators to filter your Gmail search results. You can also combine operators to filter your results even more.

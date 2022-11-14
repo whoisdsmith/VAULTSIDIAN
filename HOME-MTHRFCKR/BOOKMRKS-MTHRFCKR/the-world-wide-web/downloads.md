@@ -1138,7 +1138,7 @@
 
 ---
 
-- [MEGA](MEGA.md)
+- [MEGA](../../NOTES/MEGA.md)
 
 
 ---
@@ -4405,7 +4405,7 @@
 
 - [Avira PhantomVPN Infinite Trial iOS Guide (Jailbroken)](https://rentry.co/PhantomVPNiOS)
 
-[MEGA](MEGA.md)
+[MEGA](../../NOTES/MEGA.md)
 
 - [Small Open Directories](https://rentry.co/smolOD)
 
@@ -4413,7 +4413,7 @@
 
 - [Spotify Premium iOS Guide (Jailbroken)](https://rentry.co/SpotilifeGuide)
 
-[MEGA](MEGA.md)
+[MEGA](../../NOTES/MEGA.md)
 
 - [Retro Tab](https://rentry.co/vin7x)
 

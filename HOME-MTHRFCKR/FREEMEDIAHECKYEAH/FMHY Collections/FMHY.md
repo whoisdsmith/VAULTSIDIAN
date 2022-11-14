@@ -13492,7 +13492,7 @@
 -   [Google Drive PDF Downloader](https://github.com/zeltox/Google-Drive-PDF-Downloader) - Download Protected GDrive PDFs
 -   [PDFCoffee](https://pdfcoffee.com/) - Upload PDF, Word or PowerPoint Files
 -   [Adobe Sign](https://www.adobe.com/acrobat/online/sign-pdf.html) - Fill & sign a PDF
-[MEGA](MEGA.md)
+[MEGA](../../NOTES/MEGA.md)
 -   [GDrive Guides](https://t.me/gdriveguides) - GDrive Guides / Discussion / [Support](https://t.me/CloneSupport)
 -   [Any File to GDrive](https://github.com/cheems/Any-file-to-Google-Drive) or [Bhadoo Cloud Drive](https://github.com/adarsha2003/Bhadoo-Cloud-Drive) - DDL to GDrive Tool
 -   [DriveUploader](https://driveuploader.com/) - Receive Files via GDrive

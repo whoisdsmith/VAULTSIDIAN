@@ -106,7 +106,7 @@
 		- [financial](projects/financial.md)
 		- [journal](projects/journal.md)
 		- [projects](projects/projects.md)
-	- [README](README.md)
+	- [README](../../README.md)
 	- **[reference](reference/reference.md)**
 		- [academic-and-grey-literature-research-tools](reference/academic-and-grey-literature-research-tools.md)
 		- [academic](reference/academic.md)
@@ -155,7 +155,7 @@
 		- [private-generator-tracker](the-world-wide-web/private-generator-tracker.md)
 		- [raindrops](the-world-wide-web/raindrops.md)
 		- [README](the-world-wide-web/README.md)
-	- [tools](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/tools.md)
+	- [tools](tools.md)
 	- **[useful-stuff](useful-stuff/useful-stuff.md)**
 		- [useful-stuff](useful-stuff/useful-stuff.md)
 

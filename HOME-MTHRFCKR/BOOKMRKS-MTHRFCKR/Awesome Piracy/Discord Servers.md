@@ -1,1 +1,1 @@
-[Discord](HOME-MTHRFCKR/NOTES/Discord.md)
+[Discord](../../NOTES/Discord.md)

@@ -275,7 +275,7 @@
 * [Lynis](https://github.com/CISOfy/lynis) - Linux Security Auditing Tool
 * [Twilio Authy](https://snapcraft.io/authy) - Linux Two-Factor Authentication
 * [Lockigest](https://github.com/elmsec/lockigest) - Screen Locker
-* [Menu Searx](https://github.com/MossyMossMoss/menu-searx) - SearX Search Tool
+* [Menu Searx](https://github.com/MossyMossMoss/menu-searx) - SearX Search Tool #Search 
 * [Mistborn](https://gitlab.com/cyber5k/mistborn) - Manage Cloud Security Apps
 * [OpenSnitch](https://github.com/evilsocket/opensnitch) or [Gufw](http://gufw.org/) - Linux Firewall
 * [Tracee](https://github.com/aquasecurity/tracee) - Runtime Security and Forensics

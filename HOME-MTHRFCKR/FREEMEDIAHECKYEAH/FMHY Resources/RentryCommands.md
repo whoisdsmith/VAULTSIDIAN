@@ -44,7 +44,7 @@
 [Privacy Matters](<https://www.securemessagingapps.com/>) - Privacy Based Messaging App Comparisons  
 [Encrypted Messangers](<https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU>)  
 [SMS Verification Sites](<https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sms_verification_sites>) - Anonymous Text Verification  
-[searx](<https://asciimoo.github.io/searx/>) or [DuckDuckGo](<https://duckduckgo.com/>) - Privacy Search / [Compare Engines](<https://searchengine.party/>)  
+[searx](<https://asciimoo.github.io/searx/>) or [DuckDuckGo](<https://duckduckgo.com/>) - Privacy Search / [Compare Engines](<https://searchengine.party/>)  #Search 
 [Encrypted Email](<https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_email_services>) / [Temp Email](<https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites>)  
 [Have I been Pwned?](<https://haveibeenpwned.com/>) - Monitor Email Breaches  
 [2FA Directory](<https://2fa.directory/>) - Sites with 2FA Support  

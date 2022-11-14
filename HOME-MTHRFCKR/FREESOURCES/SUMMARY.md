@@ -1,6 +1,6 @@
 # Table of contents
 
-* [FREESOURCES](README.md)
+* [FREESOURCES](../../README.md)
   * [Analytics, Events and Statistics](readme/analytics-events-and-statistics.md)
   * [APIs, Data and ML](readme/apis-data-and-ml.md)
   * [Artifact Repos](readme/artifact-repos.md)

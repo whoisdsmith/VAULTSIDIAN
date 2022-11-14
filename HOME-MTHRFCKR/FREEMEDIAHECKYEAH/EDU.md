@@ -34,9 +34,9 @@
 * [CourseF](https://www.coursef.com/) - Courses
 * [Study is wonderful](https://github.com/xioacd99/study-is-wonderful) - Courses
 * [Open HPI](https://open.hpi.de/) - Courses
-* [FindAndSolve](https://www.findandsolve.com/) or [CourseBuffet](https://www.coursebuffet.com/) - Search Engine
+* [FindAndSolve](https://www.findandsolve.com/) or [CourseBuffet](https://www.coursebuffet.com/) - Search Engine #Search 
 * [LearnOutLoud](https://www.learnoutloud.com/) - Documentaries / Courses
-* [Class Central](https://www.classcentral.com/) - Search for Courses
+* [Class Central](https://www.classcentral.com/) - Search for Courses #Search 
 * [cs1000](https://cs1000.vercel.app/) - Educational Video 
 * [Topic Play](https://topicplay.com/) - Educational Videos
 * [media.ccc.de](https://media.ccc.de/) or [SlidePlayer](https://slideplayer.com/) - Educational Presentations
@@ -119,7 +119,7 @@
 * ⭐ **[OneHack](https://onehack.us/)** - Courses
 * ⭐ **[HackNation](https://hacksnation.com/)** - Courses
 * ⭐ **[Course Megadrives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_course_megadrives)** or **[Large Collection of Useful Mega DL's](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_large_collection_of_useful_mega_dl.27s)** #MEGA  - Courses / Drives
-* [Course Search Engine](https://cse.google.com/cse?cx=a02efb0346a176b46) - Search for Courses
+* [Course Search Engine](https://cse.google.com/cse?cx=a02efb0346a176b46) - Search for Courses #Search 
 * [Reks Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rek.27s_drive) - Courses
 * [OpenDirectory](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_opendirectory) - Courses
 * [11k+ Courses SpreadSheet](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_11k.2B_courses_spreadsheet) - Courses
@@ -314,7 +314,7 @@
 * [fxSolver](https://www.fxsolver.com/), [Kalker](https://kalker.xyz/) / [GitHub](https://github.com/PaddiM8/kalker) or [The Engineering ToolBox](https://www.engineeringtoolbox.com/) - Engineering & Scientific Calculator
 * [SciDAVis ](https://sourceforge.net/projects/scidavis/) - Scientific Data Plotter
 * [FreeFEM](https://freefem.org/) - Partial Differential Equations Solver
-* [Approach0](https://approach0.xyz/search/) - Math Formula Search
+* [Approach0](https://approach0.xyz/search/) - Math Formula Search #Search 
 * [Online Math Tools](https://onlinemathtools.com/) - Multiple Math Tools
 * [Falstad](http://www.falstad.com/) - Math & Physics Apps / Simulations
 * [3b1b](https://github.com/3b1b/videos) / [2](https://github.com/3b1b/manim) - Generate Explanatory Math Videos 
@@ -637,7 +637,7 @@ Simulator
 * [Sight Singing Factory](https://www.sightreadingfactory.com/) - Sight Singing Practice
 * [Nutkus](https://sourceforge.net/projects/nutkus/) - Notation Learning Game
 * [A-Complete-UTAU-Tutorial-For-Beginners](https://www.quotev.com/story/9299060/A-Complete-UTAU-Tutorial-For-Beginners) - UTAU Tutorial
-* [MusicStaff](https://musicstaff.com/) - Music Teacher Search
+* [MusicStaff](https://musicstaff.com/) - Music Teacher Search #Search 
 * [NoteFlight](https://noteflight.com/), [Lets Compose](https://lets-compose.sourceforge.io/), [MCMusicEditor](https://www.mcmusiceditor.com/), [Flat](https://flat.io/), [FinaleMusic](https://www.finalemusic.com/products/notepad/), [Score Perfect Professional](https://archive.org/details/score-perfect-professional-lite-5.1/), [MuseScore](https://musescore.org/en/download), [canorus](https://github.com/canorusmusic/canorus), [MusicWorks](https://www.tierramedia.com/), [Notasi Angka](https://notasi-angka.sourceforge.io/) or [Trinket](https://trinket.io/) - Create & Share Music Scores
 * [Qin](https://qin.sourceforge.io/) - Create Qin Music Scores
 * [Access Music](http://accessmusic.sourceforge.net/) - Create Music Score for Blind Users
@@ -662,7 +662,7 @@ Simulator
 * [Dance Mat Typing](https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z3c6tfr) - Touch Typing Tutorial
 * [Spreeder](https://www.spreeder.com/) - Learn to Read Faster
 * [Fact Directory](https://fact.directory/) - Fact / Knowledge Databases
-* [Refseek](https://www.refseek.com/) or [Merlot](https://www.merlot.org/merlot/index.htm) - Academic Search Engine
+* [Refseek](https://www.refseek.com/) or [Merlot](https://www.merlot.org/merlot/index.htm) - Academic Search Engine #Search 
 * [Explorabl.es](https://explorabl.es/) or [MinuteLabs](https://minutelabs.io/) - Interactive Learning / Lessons 
 * [/r/educationalgifs](https://reddit.com/r/educationalgifs)  - Learn With GIFs 
 * [Information Is Beautiful](https://informationisbeautiful.net/) - Data / Information / Infographics / Visualizations 
@@ -749,7 +749,7 @@ Simulator
 * [The Trolley Problem Game](https://newfastuff.com/the-trolley-problem-game/) - The Trolley Problem
 * [GCFGlobal](https://edu.gcfglobal.org/) - Tech Tutorials
 * [CS 182 Deep learning](https://cs182sp21.github.io/) - Deep Neural Network Lesson Slides
-* [OpenSyllabus](https://opensyllabus.org/) or [LanguageDrops](https://languagedrops.com/) - Syllabus Search / Info
+* [OpenSyllabus](https://opensyllabus.org/) or [LanguageDrops](https://languagedrops.com/) - Syllabus Search / Info #Search 
 * [PowerInBooks](https://powerinbooks.xyz/temp/) or [LitSolutions](https://www.litsolutions.org/) - Textbook Solutions 
 * [LabXchange](https://www.labxchange.org/) - Science / Interactive
 * [AskNature](https://asknature.org/) - Natural Strategies / Solutions 
@@ -850,7 +850,7 @@ Simulator
 * [Reddit-wiki-programming](https://github.com/antariksh17/Reddit-wiki-programming) - Computer Science Learning Resources
 * [CompSciLib](https://www.compscilib.com/) - Computer Science Tools
 * [Niche](https://www.niche.com/) or [Top Universities](https://www.topuniversities.com/) - University & School Rankings
-* [BachelorStudies](https://bachelorstudies.com/) - Bachelor Degree Search 
+* [BachelorStudies](https://bachelorstudies.com/) - Bachelor Degree Search #Search 
 * [College Map](https://nces.ed.gov/ipeds/collegemap/) - College Information Map
 * [RateMyDorm](https://ratemydorm.com) or [:)](https://docs.google.com/document/d/14Mn1CrA-CV5YZAkOZtrMKTmn2O4oL-2EhIXhzXZbO0A/edit#) - College Dorm Reviews
 * [RateMyProfessor](https://www.ratemyprofessors.com/) - Professor Ratings
@@ -871,7 +871,7 @@ Simulator
 
 ### Calibre Tools
 
-[Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_libraries), [2](https://reddit.com/r/opencalibre) / [Search](https://www.shodan.io/search?query=server%3A+calibre) / [Web App](https://github.com/janeczku/calibre-web)  
+[Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_libraries) #Search , [2](https://reddit.com/r/opencalibre) / [Search](https://www.shodan.io/search?query=server%3A+calibre) / [Web App](https://github.com/janeczku/calibre-web)  
 
 ***
 
