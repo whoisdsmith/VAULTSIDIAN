@@ -137,31 +137,13 @@
 
 ***
 
-### BetterDiscord Tools
-
-[Plugins](https://betterdiscord.app/plugins) / [Themes](https://www.limeshark.dev/editor), [2](https://bdeditor.dev/) / [Support](https://discord.gg/0Tmfo5ZbORCRqbAd)
+[Discord](HOME-MTHRFCKR/NOTES/Discord.md)
 
 ***
 
-### Discord Embed Generators
+[Discord](HOME-MTHRFCKR/NOTES/Discord.md)
 
-[Discohook](https://discohook.org/), [Rauf's Embed Generator](https://embed.rauf.wtf), [discord.club](https://discord.club/embedg/), [0x71](https://em.0x71.cc/), [Webhook Gold](https://webhook.discord.gold/), [PSDiscord](https://github.com/EvotecIT/PSDiscord), [Rauf's Embed Generator](https://test.rauf.workers.dev/)
-
-***
-
-### Discord Server / Bot Lists
-
-[Disboard](https://disboard.org/), [DiscordLabs](https://www.discordlabs.org/), [RovelStars](https://discord.rovelstars.com/), [DiscordServers](https://discordservers.com/), [Discord Street](https://discord.st/), [discordlist.io](https://discordlist.io/), [DiscordServers.me](https://discordservers.me/), [Discords](https://discords.com/), [Discord Me](https://discord.me/), [Disforge](https://disforge.com/), [FindADiscord](https://findadiscord.com/)
-
-#### **Bots**
-
-[BotBlock](https://botblock.org/), [Top.gg](https://top.gg/), [Bots on Discord](https://bots.ondiscord.xyz/), [Discord Bots Labs](https://bots.discordlabs.org/), [Discord Bots](https://discord.bots.gg/), [Top Bots](https://s.advaith.io/topbots), [motiondevelopment](https://www.motiondevelopment.top/), [infinitybotlist](https://infinitybotlist.com/), [discordservices](https://discordservices.net/), [discordbots](https://discordbots.co/), [discordbots](https://discordbots.app/), [discordbotlist](https://discordbotlist.com/), [discord-botlist](https://discord-botlist.eu/), [carbonitex](https://www.carbonitex.net/), [botlist](https://botlist.me/), [blist](https://blist.xyz/), [bladelist](https://bladelist.gg/), [topcord](https://topcord.xyz/), [yabl](https://yabl.xyz/), [wonderbotlist](https://wonderbotlist.com/), [voidbots](https://voidbots.net/)
-
-***
-
-### Custom Rich Discord Presence
-
-[CustomRP](https://www.customrp.xyz/), [EasyRP](https://github.com/Pizzabelly/EasyRP), [RPCEngine](https://github.com/qoobes/rpcengine), [discord-custom-rich-presence](https://github.com/HyperBeasty/discord-custom-rich-presence), [CustomDiscordRPC](https://github.com/PryosCode/CustomDiscordRPC), [Discord-CustomRP](https://github.com/maximmax42/Discord-CustomRP), [Discord RPC Client](https://github.com/Metalloriff/discord-rpc-client), [Discord-Rich-Presence](https://github.com/BlobbyDev/Discord-Rich-Presence), [Discord RPC](https://github.com/discord/discord-rpc), [DiscordRPCMaker](https://drpcm.t1c.dev/)
+[Discord](HOME-MTHRFCKR/NOTES/Discord.md)
 
 ***
 
@@ -397,17 +379,7 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 
 ***
 
-### Switch Homebrew Discord Servers
-
-* https://discord.gg/switchway
-* https://discord.gg/pytKu48eMk
-* https://discord.gg/EZMAupDvWE
-* https://discord.gg/UkwVjft
-* https://discord.gg/MfXkAMwW6Z
-* https://discord.gg/tuT59S2zcv
-* https://discord.gg/VAadvt9KFH
-
-***
+[Discord](HOME-MTHRFCKR/NOTES/Discord.md)
 
 ### Multireddits
 

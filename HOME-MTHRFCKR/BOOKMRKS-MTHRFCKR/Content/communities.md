@@ -82,33 +82,7 @@
 
 
 
-## Discord
-
-- [DISBOARD](https://disboard.org/)
-
-- [Browse Public Dutch Discord Servers](https://discordservers.com/search/dutch)
-
-- [Discord History search (script)](https://dht.chylex.com/)
-
-- [Discord Lookup](https://discord.id/)
-
-- [Discord.st](https://discord.st/)
-
-- [DiscordBee - Public Discord Server List](https://discordbee.com/servers?q=dutch)
-
-- [DiscordHub](https://discordhub.com/user/search)
-
-- [DiscordServers](https://discordservers.com/)
-
-- [Join the FilePursuit Discord Server!](https://discord.gg/xRfFd8h)
-
-- [Join the The Megadrive Discord Server!](https://discord.gg/h2P5zsNMxZ)
-
-- [Public Discord Servers & Discord Channels](https://discord.me/servers)
-
-- [disboard.org/nl/search](https://disboard.org/nl/search)
-
-- [Join the PiratePC Discord Server!](https://discord.com/invite/NZ976ZApBe)
+[Discord](HOME-MTHRFCKR/NOTES/Discord.md)
 
 
 
