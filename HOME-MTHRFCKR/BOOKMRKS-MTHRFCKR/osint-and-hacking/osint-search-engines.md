@@ -554,7 +554,7 @@
 
 - [Thenameapp.com](https://thenameapp.com/)
 
-- [Username Search](https://usersearch.org/index.php)
+[Usernames](Usernames.md) #username  
 
 
 
@@ -1106,7 +1106,7 @@
 
 - [Lullar](https://com.lullar.com/)
 
-- [Lullar Com - Search People Profile by Email or Username](https://lullar-com-3.appspot.com/en)
+[Usernames](Usernames.md) #username  
 
 - [MarketVisual Search](https://marketvisual.com/)
 

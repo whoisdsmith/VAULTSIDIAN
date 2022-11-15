@@ -376,7 +376,8 @@ https://haveibeenpwned.com/Passwords
 https://binlist.pro/  
 https://haveibeenpwned.com/PwnedWebsites
 
-https://whatsmyname.app/  
+[Usernames](Usernames.md) #username 
+
 WhatsMyName.app how to use  
 This tool allows you to enumerate usernames across many websites  
 How to use:

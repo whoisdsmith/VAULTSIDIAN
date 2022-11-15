@@ -1037,8 +1037,7 @@
 - [True People Search - People search](https://www.truepeoplesearch.com/)
 - [Twitter geolocation dork](https://twitter.com/search?q=geocode%3A38.952451%2C-90.195011%2C1km&src=typd)
 - [US & World newspapers](https://search.findmypast.com/search/british-newspapers)
-- [USA - Public Records](https://www.publicrecords.onlinesearches.com/)
-- [Username search tool](https://www.aware-online.com/en/osint-tools/username-search-tool/)
+[Usernames](Usernames.md)
 - [Vimeo search tool](https://www.aware-online.com/en/osint-tools/vimeo-search-tool/)
 - [Web archive search tool](https://www.aware-online.com/osint-tools/web-archive-search-tool/)
 - [Website search tool](https://www.aware-online.com/en/osint-tools/website-search-tool/)
@@ -1868,7 +1867,7 @@
 * [LumenDatabase](https://lumendatabase.org/) - Search DMCA Takedown Requests
 * [Refseek](https://www.refseek.com/) - Academic Search Engine
 * [GrayHatWarfare](http://buckets.grayhatwarfare.com/) - Amazon s3 Buckets Search
-* [UserSearch](https://usersearch.org/) or [WhatsMyName](https://whatsmyname.app/) - Username Search
+[Usernames](Usernames.md) #username  
 * [FindAGrave](https://findagrave.com/) - Gravestone Search
 * [Telegago](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0) or [TG CSE](https://cse.google.com/cse?cx=006249643689853114236:a3iibfpwexa) - Telegram CSE
 * [ISearchFrom](http://isearchfrom.com/) - Change Location / Device for Google Search

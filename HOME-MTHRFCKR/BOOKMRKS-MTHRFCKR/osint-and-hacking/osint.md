@@ -7082,13 +7082,13 @@
 
 - [Loginella.site](https://loginella.site/)
 
-- [Username Checker](https://namecheck.bloggingehow.com/)
+[Usernames](Usernames.md) #username  
 
 - [Namevine](https://namevine.com/)
 
 - [WhatsMyName Web](https://whatsmyname.app/)
 
-- [Free Username Search](https://www.peekyou.com/username)
+[Usernames](Usernames.md) #username  
 
 ### Telegram
 

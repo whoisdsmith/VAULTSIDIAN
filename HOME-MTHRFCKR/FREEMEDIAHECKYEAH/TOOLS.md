@@ -825,7 +825,7 @@
 * [LocalHost](http://localhost.run/) - Connect Web Apps to Internet
 * [Integrated Inbox](https://integratedinbox.com/) - Gmail Google Web App Integration
 * [EasyMailForGmail](https://easymailforgmail.com/) - Gmail Desktop Client
-* [Namechk](https://namechk.com/), [CheckUserNames](https://knowem.com/), [NameCheckr](https://www.namecheckr.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - Check Username Availability
+[Usernames](Usernames.md) #username  
 * [HostsDock](https://eshengsky.github.io/HostsDock/) - Manage & Switch Hosts 
 * [Multiple IP / Network Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_.2F_network_tools) 
 * [IP Checkers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_checkers) - Check Your IP Address
@@ -1313,7 +1313,7 @@ Twitch Stream Tracker
 * [accountanalysis](https://accountanalysis.app/), [Allegdly](https://makeadverbsgreatagain.org/allegedly/) or [SocialBearing](https://socialbearing.com/) - Analyze Twitter Accounts
 * [memory.lol](https://github.com/travisbrown/memory.lol/) - Twitter Account Archive
 * [RedBlock](https://github.com/gaeulbyul/RedBlock) - Block Multiple Users on Twitter
-* [TweeterID](https://tweeterid.com/) - Twitter User ID & Username Converter 
+[Usernames](Usernames.md) #username 
 * [Spoonbill](https://spoonbill.io/) - Track Profile Changes of People you Follow 
 * [SocialRank](https://socialrank.com/) - Find Your Most Valuable Followers 
 * [Twitual](http://twitual.com/) or [DoesFollow](https://doesfollow.com/) - Follower / Following Analysis 

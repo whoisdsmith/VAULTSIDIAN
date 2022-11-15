@@ -23,9 +23,9 @@
 * [All – Tiny Helpers](https://tiny-helpers.dev/)
 * [GRC's | DNS Nameserver Performance Benchmark](https://www.grc.com/dns/benchmark.htm)
 * [DNS Performance - Compare the speed and uptime of enterprise and commercial DNS services | DNSPerf](https://www.dnsperf.com/dns-providers-list/)
-* [CheckUsernames - Social Media Username Search by KnowEm](https://checkusernames.com/)
+[Usernames](Usernames.md)#username  
 * [namecheckr | Social and Domain Name Availability Search For Brand Professionals](https://www.namecheckr.com/)
-* [Namechk - Username and Domain Name Checker - Search All Domain Names and User Names to see if they're available](https://namechk.com/)
+[Usernames](Usernames.md) #username  
 * [MegaEase](https://megaease.com/easegress/)
 * [Vite](https://vitejs.dev/)
 * [Webhook.site - Test, process and transform emails and HTTP requests](https://webhook.site/#!/0c3f60d4-a527-4bf1-b1a7-e1e4be87f32b)
