@@ -60,9 +60,9 @@
 * [Egui Node Graph](https://github.com/setzer22/egui_node_graph) - Build Node Graph Apps in Rust
 * Generate Fake Data - [Ruby](https://github.com/faker-ruby/faker) / [Swift](https://github.com/vadymmarkov/Fakery)
 * [Awesome Big Data](https://github.com/0xnr/awesome-bigdata) - Big Data Resource Index
-* [Libraries.io](https://libraries.io/) - Package, Framework & Tool Search
+* [Libraries.io](https://libraries.io/) - Package, Framework & Tool Search #Search 
 * [ToolJet](https://tooljet.com/) - Internal Tool Framework / Deployment / [GitHub](https://github.com/ToolJet/ToolJet)
-* [Deps.dev](https://deps.dev/) - Open Source Package Search
+* [Deps.dev](https://deps.dev/) - Open Source Package Search #Search 
 * [Packagedna](https://github.com/TelefonicaTC2Tech/packagedna) - Package Analyzing Software
 * [PackageCloud](https://packagecloud.io/) or [pnpm](http://pnpm.io/) - Package Manager / Deployment
 * [Upgraderoo](https://upgraderoo.janez.tech/) - Automatic NPM Package Updates
@@ -92,10 +92,10 @@
 * [Input Delay Test](https://input-delay.glitch.me/) - Input Delay Experiment
 * [Asynchronous Messaging](https://github.com/clemensv/messaging) - Asynchronous Messaging Resources
 * [CoreFTP](http://www.coreftp.com/) - FTP Client
-[Discord](HOME-MTHRFCKR/NOTES/Discord.md)
+[Discord](../NOTES/Discord.md)
 * [Telegram Bot API](https://github.com/tdlib/telegram-bot-api) or [PHP Telegram Bot](https://github.com/php-telegram-bot/core) - Telegram Bot API
 * [botwiki](https://botwiki.org/) - Learn How to Make Bots
-[Discord](HOME-MTHRFCKR/NOTES/Discord.md)
+[Discord](../NOTES/Discord.md)
 * [Twitter (un)official Consumer Key](https://gist.github.com/shobotch/5160017) - Twitter Consumer Keys
 * [Birdsite](https://birdsite.slashdev.space/) - Twitter to ActivityPub Bridge
 * [rss-to-activitypub](https://portal.0svc.com/convert/) - RSS to ActivityPub Converter
@@ -150,9 +150,9 @@
 * [Package Web](https://github.com/rsc/web) - Basic Site Serving Framework
 * [webdev](https://www.reddit.com/user/Romaixn/m/webdev/) - Web Developer Multireddit
 * [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) - Web Developer Toolbar Extension
-* [ElasticSearch](https://github.com/elastic/elasticsearch) - Search & Analytics Engine
+* [ElasticSearch](https://github.com/elastic/elasticsearch) - Search & Analytics Engine #Search 
 * [Search Engine Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_seo_tools) - SEO Tools
-* [SerPreview](https://serpreviewtool.com/) - Site Search Results Preview
+* [SerPreview](https://serpreviewtool.com/) - Site Search Results Preview #Search 
 * [Charles 3](https://www.charlesproxy.com/download/previous-release/) or [ProxyMan](https://proxyman.io/) - Web Debugging Proxy Apps
 * [CORS Proxy](https://corsproxy.github.io/) - Free CORS Proxy
 * [Tabler](https://tabler.io/) - Site Admin Dashboard
@@ -295,7 +295,7 @@
 * [Vidlery](http://vidlery.com/) - Animated Webpage Background
 * [Box-Shadow](https://box-shadow.art/) - Box Shadow Generator
 * [Shadow Palette Generator](https://www.joshwcomeau.com/shadow-palette/) - CSS Shadow Generator
-* [MapBox](https://www.mapbox.com/) - Live Maps, Location Search & More
+* [MapBox](https://www.mapbox.com/) - Live Maps, Location Search & More #Search 
 * [Maps-Core](https://openmobilemaps.io/) - Mobile Map SDK
 * [Kontactr](https://kontactr.com/), [Tally](https://tally.so/), [99Inbound](https://www.99inbound.com/), [Forms.id](https://forms.id/), [Form.taxi](https://form.taxi/) or [Formsend](https://formsend.org/) - Form Creator
 * [Loading.io](https://loading.io/) - Customizable Loading SVG
@@ -664,7 +664,7 @@ Automated Incident Response and Forensics Framework
 * ⭐ **[GitHub Awesome](https://app.polymersearch.com/discover/github-awesome)**, [awesome-lis](https://github.com/topics/awesome-list) or [awesome-github](https://github.com/fffaraz/awesome-github) - List Indexes
 * [GitLab](https://about.gitlab.com/), [FSFE](https://git.fsfe.org/) or [NotABug](https://notabug.org/) - GitHub Alternatives
 * [GitHubStatus](https://www.githubstatus.com/) - GitHub Outage Status
-* [Git Explorer](https://gitexplorer.com/), [Git Cheatsheet](http://www.ndpsoftware.com/git-cheatsheet.html) or [Git Commands](https://gabrieldejesus.github.io/git-commands/), [2](https://github.com/gabrieldejesus/git-commands) - Git Command Lists / Search
+* [Git Explorer](https://gitexplorer.com/), [Git Cheatsheet](http://www.ndpsoftware.com/git-cheatsheet.html) or [Git Commands](https://gabrieldejesus.github.io/git-commands/), [2](https://github.com/gabrieldejesus/git-commands) - Git Command Lists / Search #Search 
 * [GitHub Desktop](https://desktop.github.com/) or [Tower](https://www.git-tower.com/) - GitHub Client
 * [GitHub.Dev](https://github.dev/) - GitHub Web App
 * [refined-github](https://github.com/refined-github/refined-github) or [Ungit](https://github.com/FredrikNoren/ungit) - Improved GitHub Interface
@@ -694,8 +694,8 @@ Automated Incident Response and Forensics Framework
 * [Awesome First PR Oppotunities](https://github.com/MunGell/awesome-for-beginners) - Beginner Friendly FOSS Project Index
 * [Git Extensions](https://gitextensions.github.io/) or [Thermal](https://thermal.codecarrot.net/) - Git Repository Manager
 * [GitZip](https://gitzip.org/) or [DownGit](https://minhaskamal.github.io/DownGit) - Download GitHub Repository Sub-Folders / Files
-* [GitHub Wiki Search](https://github.com/linyows/github-wiki-search) - Search GitHub Repository Wikis
-* [useful-forks](https://useful-forks.github.io/) or [GitPop3](https://andremiras.github.io/gitpop3/) - GitHub Fork Search 
+* [GitHub Wiki Search](https://github.com/linyows/github-wiki-search) - Search GitHub Repository Wikis #Search 
+* [useful-forks](https://useful-forks.github.io/) or [GitPop3](https://andremiras.github.io/gitpop3/) - GitHub Fork Search #Search 
 * [Active-Forks](https://techgaun.github.io/active-forks/index.html) - Find Active GitHub Forks / [GitHub](https://github.com/techgaun/active-forks)
 * [grep.app](https://grep.app/) - Git Repository Index
 * [StarGrab](https://github.com/zekroTJA/stargrab) - Mirror GitHub Repositories
@@ -726,8 +726,8 @@ Automated Incident Response and Forensics Framework
 * [GitHub Spray](https://github.com/Annihil/github-spray) - Draw on Github Contribution Page
 * [GitHub Snake](https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66) - Enable Snake Game on GitHub Readme
 * [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) or [GPRM](https://gprm.itsvg.in/) - Generate Git Profile Readme
-* [GitStalk](https://gitstalk.netlify.app/) - GitHub Profile Info Search
-[Discord](HOME-MTHRFCKR/NOTES/Discord.md)
+* [GitStalk](https://gitstalk.netlify.app/) - GitHub Profile Info Search #Search 
+[Discord](../NOTES/Discord.md)
 * [Github vscode icons](https://github.com/dderevjanik/github-vscode-icons) - VSCode Icons
 * [github-material-icons-extension](https://github.com/Claudiohbsantos/github-material-icons-extension) - Material Icons
 * [gist.io](https://gist.io/) - Git Blog Platform
@@ -801,7 +801,7 @@ Automated Incident Response and Forensics Framework
 * [Roadmap](https://roadmap.sh/) - Developer Roadmaps / Guides 
 * [Android Developer Roadmap](https://github.com/skydoves/android-developer-roadmap)
 * [IT Course Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_it_courses) - IT Courses
-[Discord](HOME-MTHRFCKR/NOTES/Discord.md)
+[Discord](../NOTES/Discord.md)
 * [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python) - Python Guide
 * [CodingBat](https://codingbat.com/) or [PyQuickie](https://chrome.google.com/webstore/detail/pyquickie/okpdnfgpbpifbncoleieajiblmebbkci) - Python / Java Practice
 * [Java Beginners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_java_beginners) - Java Tutorials
@@ -958,7 +958,7 @@ Automated Incident Response and Forensics Framework
 * Comic Lessons - [DNS](https://howdns.works/) / [DNSSEC](https://howdnssec.works/) / [HTTPS](https://howhttps.works/) 
 * [PromptPapers](https://github.com/thunlp/PromptPapers) - Pre-Trained Language Model Tuning Papers
 * [Learn to Make Netflix Clone](https://github.com/kubowania/netflix-clone-graphql-datastax)
-[Discord](HOME-MTHRFCKR/NOTES/Discord.md)
+[Discord](../NOTES/Discord.md)
 * [free-ai-resources](https://github.com/mrsaeeddev/free-ai-resources) - AI Learning Resources
 * [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - Machine Learning Coding Lessons 
 * [minitorch](https://github.com/minitorch/minitorch) - Machine Learning Engineering Course Code
@@ -975,7 +975,7 @@ Automated Incident Response and Forensics Framework
 * [WebdevHome](https://webdevhome.github.io/), [Charm](https://charm.sh/) or [Tiny Tools](https://tinytools.directory/) / [2](https://github.com/everestpipkin/tools-list) - Programming Tool Indexes
 * [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Programming Site Index 
 * [Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping) - Web Scraping Tool Index
-[Discord](HOME-MTHRFCKR/NOTES/Discord.md)
+[Discord](../NOTES/Discord.md)
 * [TechBliss](https://www.techbliss.org/) - Coding Forum
 * [iTabCode](https://www.itabcode.net/) - Programming / Computer Science Forum
 * [Awesome Twitter Accounts](https://github.com/yask123/AwesomeTwitterAccounts) or [Awesome Twitter Communities](https://github.com/mattn/awesome-twitter-communities) - Curated List of Programming Related Twitter Pages 
@@ -1006,7 +1006,7 @@ Automated Incident Response and Forensics Framework
 * [Awesome Emacs](https://github.com/emacs-tw/awesome-emacs) or [Melpa](https://melpa.org/)  - Emacs Packages
 * [WebDen](https://webden.dev/) or [CodeEval](https://www.codeeval.dev/) - Code Playground
 * [Qovery](https://www.qovery.com/) - AWS Development Platform
-[Discord](HOME-MTHRFCKR/NOTES/Discord.md)
+[Discord](../NOTES/Discord.md)
 * [Shell Cloud](https://shell.cloud.google.com/) - Google Cloud Shell Environment
 * [ShellcodeTemplate](https://github.com/Cracked5pider/ShellcodeTemplate) - Modifiable Shellcode Template 
 * [Spork](https://spork.sh/) - P2P Sockets CLI / [GitHub](https://github.com/atek-cloud/spork) / [Discord](https://discord.gg/UUCVrFYksv)
@@ -1068,12 +1068,12 @@ Automated Incident Response and Forensics Framework
 * [The SHA-256 Project](https://github.com/oconnor663/sha256_project) - Develop SHA-256 from Scratch
 * [substitute](https://github.com/comex/substitute) - Free Runtime Modification Library
 * [Awesome Machine Learning Art](https://github.com/vibertthio/awesome-machine-learning-art) - Machine Learning Art Resource Index 
-* [Sourcegraph](https://sourcegraph.com/) or [Ag](https://geoff.greer.fm/ag/) / [GitHub](https://github.com/ggreer/the_silver_searcher) - Code Searching
-* [searchcode](http://searchcode.com/) or [PublicWWW](http://publicwww.com/) - Source Code Search
+* [Sourcegraph](https://sourcegraph.com/) or [Ag](https://geoff.greer.fm/ag/) / [GitHub](https://github.com/ggreer/the_silver_searcher) - Code Searching #Search 
+* [searchcode](http://searchcode.com/) or [PublicWWW](http://publicwww.com/) - Source Code Search #Search 
 * [Sourcecodester](https://www.sourcecodester.com/), [Code Projects](https://www.code-projects.org/), [Codastro](https://codeastro.com/), [Kashipara](https://www.kashipara.com/) or [ItSourceCode](https://www.itsourcecode.com/) - Source Code Projects
 * [magic-string](https://github.com/Rich-Harris/magic-string) - String Editor
 * [SciTE](https://www.scintilla.org/SciTE.html) - Source Code Editor for Win32 and X
-* [CodeGrepper](https://www.codegrepper.com/) - Code Search Extension
+* [CodeGrepper](https://www.codegrepper.com/) - Code Search Extension #Search 
 * [ShortCode](https://shortcode.dev/), [Google Code Archive](https://code.google.com/archive/), [CodeList](https://www.codelist.cc/) or [bl.ocks](https://bl.ocks.org/) - Script / Code Indexes
 * [MoonScript](https://moonscript.org/) - Dynamic Scripting Language
 * [Carbon](https://dreamy-ptolemy-eb4e80.netlify.app/), [2](https://carbon.now.sh/) - Source Code Screenshot Tool
@@ -1085,7 +1085,7 @@ Automated Incident Response and Forensics Framework
 * [OhMyPosh](https://ohmyposh.dev/) - Terminal Theme Engine
 * [Dracula](https://draculatheme.com/) - Dark Theme for Code Editors / Terminal Emulators 
 * [Zero Dark Matrix](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) - Chrome Devtools Dark Theme 
-* [Tantiny](https://github.com/baygeldin/tantiny) - Full-Text Ruby Search
+* [Tantiny](https://github.com/baygeldin/tantiny) - Full-Text Ruby Search #Search 
 * [GNU Octave](https://www.gnu.org/software/octave/) - Scientific Programming Language
 * [Rescript](https://rescript-lang.org/) -Javascript Editor / Language
 * [Awesome Javascript](https://github.com/sorrycc/awesome-javascript) - Javascript Resources
@@ -1161,10 +1161,10 @@ Automated Incident Response and Forensics Framework
 * [Shizuku](https://shizuku.rikka.app/) - Connect Apps to APIs
 * [NativeScript](https://github.com/NativeScript/NativeScript) - Access APIs from JavaScript
 * [Stein](https://steinhq.com/) - Turn Google Sheets into Database API / [GitHub](https://github.com/SteinHQ)
-[Discord](HOME-MTHRFCKR/NOTES/Discord.md)
+[Discord](../NOTES/Discord.md)
 * [CollectionConcurrencyKit](https://github.com/JohnSundell/CollectionConcurrencyKit) - Async & Concurrent Versions of Swift APIs
 * [Shizuku](https://github.com/RikkaApps/Shizuku) - Use System APIs Directly with ABD / Root 
-* [Algolia](https://www.algolia.com/), [TypeSense](https://typesense.org/), [StorkSearch](https://stork-search.net/), [Solr](https://solr.apache.org/), [MeiliSearch](https://meilisearch.com/), [Sphinx](http://sphinxsearch.com/) or [FusionBot](https://www.fusionbot.com/) - Search API
+* [Algolia](https://www.algolia.com/), [TypeSense](https://typesense.org/), [StorkSearch](https://stork-search.net/), [Solr](https://solr.apache.org/), [MeiliSearch](https://meilisearch.com/), [Sphinx](http://sphinxsearch.com/) or [FusionBot](https://www.fusionbot.com/) - Search API #Search 
 * [Reacher](https://reacher.email/) - Email Verification API
 * [instagrapi](https://github.com/adw0rd/instagrapi) - Unofficial Instagram API for Python
 * [TextNow API](https://github.com/leogomezz4t/PyTextNow_API) - Python Texting API 
@@ -1286,8 +1286,8 @@ Automated Incident Response and Forensics Framework
 * [git:logs](https://www.gitlogs.com/), [Awesome Made by Russians](https://github.com/igoradamenko/awesome-made-by-russians), [Awesome Made by Brazilians](https://github.com/felipefialho/awesome-made-by-brazilians), [awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps), [opensauced](https://hot.opensauced.pizza/), [Awesome Stars](https://githubmemory.com/repo/abhijithvijayan/awesome-stars), [LibHunt](https://www.libhunt.com/), [RepoHunt](https://repo-hunt.signalnerve.workers.dev/, [freesoft](https://freesoft.dev/), [/r/coolgithubprojects](https://reddit.com/r/coolgithubprojects) - Github Project Indexes
 * [Active Github Forks](https://techgaun.github.io/active-forks/) - List of active github forks
 * [Lovely Forks](https://github.com/musically-ut/lovely-forks) - View a Repositories Forks
-* [Git Search Engine](https://zzollo.co/) or [GitHub Memory](https://githubmemory.com/) - Search GitHub, GitLab etc.
-* [OSAlternative](http://www.osalternative.com/) - Git Project Search
+* [Git Search Engine](https://zzollo.co/) or [GitHub Memory](https://githubmemory.com/) - Search GitHub #Search , GitLab etc.
+* [OSAlternative](http://www.osalternative.com/) - Git Project Search #Search 
 * [ReleasEye](https://releaseeye.info/) - Git Project Release Tracker
 
 ***

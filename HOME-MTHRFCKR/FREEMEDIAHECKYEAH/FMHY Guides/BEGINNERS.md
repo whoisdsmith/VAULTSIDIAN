@@ -66,7 +66,7 @@
 
 ###Privacy
 
-**[DuckDuckGo](https://duckduckgo.com/)** - Tracker free web search
+**[DuckDuckGo](https://duckduckgo.com/)** - Tracker free web search #Search 
 **[ProtonMail](https://protonmail.com/)** - Encrypted email service
 **[Authy](https://authy.com/)** - Prevent logins without user authentication
 **[HolyUnblocker](https://www.holyubofficial.net/)** - View sites blocked by ISP / school
@@ -85,8 +85,8 @@
 **[Zoro](https://zoro.to/) / [9Anime](https://www.9anime.to/)** - Fast  anime streaming
 **[SportsSurge](https://sportsurge.net/)** - Live sports streaming 
 **[Spotify](https://spotify.com/) / [YouTube Music](https://music.youtube.com/)** - Music & podcast streaming / [Spotify Adblock](https://github.com/amd64fox/SpotX)
-**[Streaming CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_streaming_site_cse) / [TV CSE](https://cse.google.com/cse?cx=006516753008110874046:hrhinud6efg)** - Multi-site search
-**[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei) / [2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu)** - Multi-site anime search
+**[Streaming CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_streaming_site_cse) / [TV CSE](https://cse.google.com/cse?cx=006516753008110874046:hrhinud6efg)** - Multi-site search #Search 
+**[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei) / [2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu)** - Multi-site anime search #Search 
 **[How-to Find Rare Movies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-rare-movies)** - Find obscure films
 
 ***
@@ -102,11 +102,11 @@
 **[AlvRo](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_alvro) / [Vimms Lair](https://vimm.net/)** - ROM download sites / [Emulators](https://emulation.gametechwiki.com/)
 **[Free MP3 Download](https://free-mp3-download.net/)** - MP3 / FLAC downloads
 **[Soulseek](https://slsknet.org/)** - Audio download app
-**[Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z) / [2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h)** - Multi-site download search
-**[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr#gsc.tab=0) / [2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [3](https://cse.google.com/cse?cx=aab218d0aa53e3578#gsc.tab=0)** - Multi-site video download search
-**[Anime  Download CSE](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8)** - Multi-site anime download search
-**[Game Download CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_download_cse)** - Multi-site game download search
-**[Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io) / [2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w)** - Multi-site audio download search
+**[Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z) / [2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h)** - Multi-site download search #Search 
+**[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr#gsc.tab=0) / [2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [3](https://cse.google.com/cse?cx=aab218d0aa53e3578#gsc.tab=0)** - Multi-site video download search #Search 
+**[Anime  Download CSE](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8)** - Multi-site anime download search #Search 
+**[Game Download CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_download_cse)** - Multi-site game download search #Search 
+**[Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io) / [2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w)** - Multi-site audio download search #Search 
 
 ***
 ***
@@ -121,11 +121,11 @@
 **[Stremio](https://www.stremio.com/)** - Torrent video streaming app
 **[EZTV](https://eztv.re/)** - TV / Anime torrents
 **[Nyaa](https://nyaa.si/)** - Anime Torrents
-**[Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj) / [2](https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n)** - Multi-site torrent search
-**[Video Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:gaoebxgop7j)** - Multi-site video torrent search
-**[Anime Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:lamzt6ls4iz)** - Multi-site anime torrent search
-**[Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx) / [2](https://idleendeavor.github.io/gamesearch/)** - Multi-site game torrent search
-**[Audio Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:v75cyb4ci55)** - Multi-site audio torrent search
+**[Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj) / [2](https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n)** - Multi-site torrent search #Search 
+**[Video Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:gaoebxgop7j)** - Multi-site video torrent search #Search 
+**[Anime Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:lamzt6ls4iz)** - Multi-site anime torrent search #Search 
+**[Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx) / [2](https://idleendeavor.github.io/gamesearch/)** - Multi-site game torrent search #Search 
+**[Audio Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:v75cyb4ci55)** - Multi-site audio torrent search #Search 
 
 ***
 ***
@@ -136,10 +136,10 @@
 **[Audiobook Bay](http://audiobookbay.ws/)** - Audiobook torrents
 **[ReadComicsOnline](https://readcomiconline.li/)** - Read comics online
 **[MangaReader](https://mangareader.to/)** - Read manga online
-**[Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8) / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39) / [5](https://ravebooksearch.com/)** - Multi-site book search
-**[Audiobook CSE](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd)** - Multi-site audiobook search
-**[Comic CSE](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg)** - Multi-site comic search
-**[Manga CSE](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z) / [2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0)** - Multi-site manga search
+**[Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8) / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39) / [5](https://ravebooksearch.com/)** - Multi-site book search #Search 
+**[Audiobook CSE](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd)** - Multi-site audiobook search #Search 
+**[Comic CSE](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg)** - Multi-site comic search #Search 
+**[Manga CSE](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z) / [2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0)** - Multi-site manga search #Search 
 **[Ebook Reader Index](https://wiki.mobileread.com/wiki/E-book_software)** - List of ebook readers
 
 ***
@@ -154,7 +154,7 @@
 **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398) / [FileCR](https://filecr.com/android/) / [ReXdl](https://rexdl.com/)** - Modded APKs 
 **[/r/ApkApps Megathread](https://apksapps.notion.site/apksapps/096ef38f452342ba99b4e1509a449729?v=9970360b443643789c333bd2c7180009)** - Updated list of modded APKs / [Subreddit](https://www.reddit.com/r/ApksApps) / [Discord](https://discord.gg/Kr5EWKZU5Y) / [Telegram](https://t.me/joinchat/MwYScFfTq3XkY0wIEDLA3g)
 **[APKMirror](https://www.apkmirror.com/) / [F-Droid](https://f-droid.org/)** - Untouched APKs
-**[Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8) / [2](https://cse.google.com/cse?cx=73948689c2c206528) / [3](https://cse.google.com/cse?cx=a805854b6a196d6a6)**  - Multi-site APK search
+**[Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8) / [2](https://cse.google.com/cse?cx=73948689c2c206528) / [3](https://cse.google.com/cse?cx=a805854b6a196d6a6)**  - Multi-site APK search #Search 
 **[Stremio](https://www.stremio.com/) / [CloudStream](https://cloudstream.cf/) / [CinemaHD](https://github.com/TeruSetephen/cinemaapk)** - Video streaming apps / Use VPN for Stremio
 **[Kodi](https://kodi.tv/)** - iOS / Android TV compatible streaming app / [/r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
 **[ReVanced Manager](https://github.com/revanced/revanced-manager)** - Ad free YouTube

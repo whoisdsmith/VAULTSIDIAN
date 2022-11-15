@@ -17,7 +17,7 @@
 * [Musify](https://github.com/gokadzev/Musify) - Streaming
 * [Muffon](https://github.com/staniel359/muffon) - Streaming
 * [Deezer](https://www.deezer.com/) - Streaming
-* [OdesliBot](https://t.me/odesli_bot) - Audio Stream Search Bot
+* [OdesliBot](https://t.me/odesli_bot) - Audio Stream Search Bot #Search 
 * [MusicBucket](https://musicbucket.net/) - Track / Share Music / Telegram
 * [JukeboxStar](https://jukeboxstar.com/) - Collaborative Playlist Streaming
 * [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) - Unlock Unavailable Netease Music
@@ -116,7 +116,7 @@
 * [BlogTalkRadio](https://www.blogtalkradio.com/popular) - Podcasts
 * [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts) - Podcasts for Software Engineers
 * [CPod](https://github.com/z-------------/CPod) - Podcast App
-* [Odesli](https://odesli.co/) - Podcast Search
+* [Odesli](https://odesli.co/) - Podcast Search #Search 
 * [Drive & Listen](https://driveandlisten.herokuapp.com/) or [DrivenListen](https://drivenlisten.com/) - Radio Driving Simulator 
 * [Archive.org](https://archive.org/details/audio?&sort=-downloads&page=1) - News / Classic Radio / Podcasts
 * [Dumb Old Time Radio](http://www.dumb.com/oldtimeradio/) or [Old Time Radio](https://oldtime.radio/) - Classic Radio
@@ -151,7 +151,7 @@
 * [Worldwide Radio](http://forums.mozillazine.org/viewtopic.php?t=3039738) - Radio Extension
 * [CaribouLite](https://github.com/cariboulabs/cariboulite) - Raspberry-Pi Tx/Rx 6GHz SDR
 * [SiriusXM](https://redd.it/txqtsx) - Free SiriusXM Guide / [Activator](https://parker-stephens.github.io/siriusxm-activator/)
-* [Audioburst](https://search.audioburst.com/) - Podcast Clip Search
+* [Audioburst](https://search.audioburst.com/) - Podcast Clip Search #Search 
 * [castero](https://github.com/xgi/castero) - TUI Terminal Podcast Client
 * [Grover](https://www.microsoft.com/store/productId/9NBLGGH6C4BC) or [GPodder](http://gpodder.org/) - Podcast Client
 * [Spotify Podcast Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders) - Download Podcasts from Spotify
@@ -256,7 +256,7 @@
 * [gaana-downloader-extension)](https://github.com/tuhinpal/gaana-downloader-extension) - Gaana Downloader
 * [you-get](https://you-get.org/) or [irs](https://github.com/cooperhammond/irs) - Audio Command Line Download Tool
 * [music-downloader](https://github.com/Dayhawk007/music-downloader) - Python Music Download Script
-* [VK::MP3](https://metacpan.org/pod/VK::MP3) - VK MP3 Search Tool 
+* [VK::MP3](https://metacpan.org/pod/VK::MP3) - VK MP3 Search Tool  #Search 
 * [fetch-audio-from-fm](https://github.com/zhenze12345/fetch-audio-from-fm) - Download FM Site Audio 
 
 ***
@@ -264,9 +264,9 @@
 ### ▷ Download Sites
 
 * **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** to skip annoying link shorteners.
-* ⭐ **[Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w) - Multi-Site Search
+* ⭐ **[Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w) - Multi-Site Search #Search 
 * ⭐ **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - ctrl+f and type "audio"
-* ⭐ **[Free MP3 Download](https://free-mp3-download.net/)** - Search / MP3 / FLAC
+* ⭐ **[Free MP3 Download](https://free-mp3-download.net/)** - Search / MP3 / FLAC #Search 
 * ⭐ **[Mudome](https://mudome.org/)** - MP3 / FLAC
 * ⭐ **[Damon's Game Soundtracks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_damon.27s_game_soundtracks)**, [Squid-Board](https://www.squid-board.ru/) / [2](https://www.squid-board.org/), [Khinsider](https://downloads.khinsider.com/) / [Downloader](https://codeberg.org/sun/VGMLoader) / [2](https://github.com/obskyr/khinsider), [Duke4 SC-55](https://sc55.duke4.net/games.php), [Project2612](https://project2612.org/index.php), [GameOST](https://gameost.net/), [VGMRips](https://vgmrips.net/packs/) or [Zophar's](https://www.zophar.net/music) - Video Game Soundtracks
 * [The Last Disaster](https://thelastdisaster.vip/), [2](https://thelastdisaster.org/) - MP3 / FLAC
@@ -334,10 +334,10 @@
 * [iTopMusicx](https://itopmusicx.com/) - iTunes M4A
 * [Plus Premieres](http://www128.pluspremieres.biz/) - iTunes M4A
 * [TvG](https://tvg-blog.tumblr.com/) - MP3 / Rare Music
-* [zippyshare DJs](https://www.zippysharedjs.com/) - Zippyshare File Search 
+* [zippyshare DJs](https://www.zippysharedjs.com/) - Zippyshare File Search  #Search 
 * [Archive.org](https://archive.org/details/audio) - DL / Stream / MP3 
 * [xprm](https://xprm.net/) - MP3 / DL / Stream / Requests
-* [Jimmy R](http://www.jimmyr.com/mp3_search.php) or [Musgle](http://www.musgle.com/) - Google Directory Search / MP3
+* [Jimmy R](http://www.jimmyr.com/mp3_search.php) or [Musgle](http://www.musgle.com/) - Google Directory Search / MP3 #Search 
 * [The Noise-Arch Archive](https://archive.org/details/noise-arch) - Underground Cassette Tapes
 * [Unreleased Disco](https://unreleased.me/) - MP3 / Unreleased Singles / [Subreddit](https://reddit.com/r/UnreleasedDisco)
 * [Take Metal](http://takemetal.org/) - Metal / MP3
@@ -585,7 +585,7 @@
 * [8notes](https://www.8notes.com/)
 * [imslp](https://imslp.org/wiki/Main_Page)
 * [mutopiaproject](https://www.mutopiaproject.org/)
-* [sheetsearch](https://www.sheetsearch.com/)
+* [sheetsearch](https://www.sheetsearch.com/) #Search 
 * [Sheet-Music](https://sheet-music.xyz/)
 * [sheetmusicfox](http://www.sheetmusicfox.com/)
 * [musopen](https://musopen.org/)

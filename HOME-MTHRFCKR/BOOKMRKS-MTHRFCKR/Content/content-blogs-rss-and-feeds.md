@@ -586,7 +586,7 @@
 
 - [Benjamin Coe (@BenjaminCoe) / Twitter](https://twitter.com/benjamincoe)
 
-[Discord](HOME-MTHRFCKR/NOTES/Discord.md)
+[Discord](../../NOTES/Discord.md)
 
 - [bdougie.live](https://bdougie.live/)
 

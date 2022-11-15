@@ -22,7 +22,7 @@ Diabolic Traffic Bot v6.42–The Most Powerful Traffic Bot Boost your Views, Sta
 
 The Most Powerful Traffic Bot will create an endless stream of visitors, views, votes and impressions and boost your stats incredibly! Diabolic Traffic Bot generates unlimited web traffic to any website, video or blog.
 
-[MEGA](MEGA.md)
+[MEGA](../../../NOTES/MEGA.md)
 
 # Lead Grabber PRO
 
@@ -44,12 +44,12 @@ https://anonfiles.com/V9k8CdYau2/Leaked_Tools_2021_rar
 
 # Learning
 
-[MEGA](MEGA.md)
+[MEGA](../../../NOTES/MEGA.md)
 
 Python Web Penetration Testing Cookbook:  
 https://difl.host/6e39ff5edc948cb1/09._Python_Web_Penetration_Testing_Cookbook.pdf
 
-[MEGA](MEGA.md)
+[MEGA](../../../NOTES/MEGA.md)
 
 Mastering Kali Linux for Advanced Penetration Testing:  
 https://difl.host/ba9765fffecd1e25/27._Mastering_Kali_Linux_For_Advanced_Penetration_Testing.pdf
@@ -60,7 +60,7 @@ https://difl.host/ab3e7a5e5a023fdc/28._Kali_Linux_CTF_Blueprints.pdf
 Kali Linux - Assuring Security by Penetration Testing:  
 https://difl.host/670feaf53fca0080/30._Kali_Linux-_Assuring_Security_by_Penetration_Testing.pdf
 
-[MEGA](MEGA.md)
+[MEGA](../../../NOTES/MEGA.md)
 
 01 Computer Forensics Introduction  
   02 Computer Forensics Process  
@@ -84,7 +84,7 @@ https://difl.host/670feaf53fca0080/30._Kali_Linux-_Assuring_Security_by_Penetrat
   20 Investigative Report  
   21 Expert Witness
 
-[MEGA](MEGA.md)
+[MEGA](../../../NOTES/MEGA.md)
 
 **Use at own risk**
 
@@ -95,7 +95,7 @@ https://difl.host/670feaf53fca0080/30._Kali_Linux-_Assuring_Security_by_Penetrat
 https://anonfiles.com/VeYeY0t6uf/Latest_Gift_Card_Carding_Method_txt  
 https://cdn.discordapp.com/attachments/839351266663727144/841216693891366942/Linkvertise_Search_Engine.txt  
 https://anonfiles.com/VeYeY0t6uf/Latest_Gift_Card_Carding_Method_txt  
-[MEGA](MEGA.md) 
+[MEGA](../../../NOTES/MEGA.md) 
 Latest Netflix Method:  
 https://www.bigtricks.in/unlimitedproof-trick-get-netflix-premium-account-free-lifetime-netflix-premium-membership-trick/  
 free G2A games :: https://cdn.discordapp.com/attachments/653519497717874688/712797803948146708/G2A-FREE-GAMES.txt  
@@ -199,7 +199,7 @@ Edu Mail :
 https://cdn.discordapp.com/attachments/668482975276466226/726138666929618984/EDU_Emails.pdf  
 https://anonfiles.com/NaRbebmeb1/dd44833f-1553996258/EDU-Method.pdf - Method v2  
 https://cdn.discordapp.com/attachments/748334078884839455/750427293809246329/free_domain.txt  
-[MEGA](MEGA.md)
+[MEGA](../../../NOTES/MEGA.md)
 What to do:
 
 1. Got to https://tecknity.com/tecknity-cookies-extension/
@@ -288,8 +288,8 @@ https://ghostbin.co/paste/cb836
 https://pastebin.com/4yBF94BU  
 https://pastebin.com/hYr0UGbM  
 https://pastebin.com/Up7eQMHt  
-[MEGA](MEGA.md)
-[MEGA](MEGA.md)
+[MEGA](../../../NOTES/MEGA.md)
+[MEGA](../../../NOTES/MEGA.md)
 
 # Ninja Tools
 

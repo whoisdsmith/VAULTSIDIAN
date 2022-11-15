@@ -1,6 +1,6 @@
 # Table of contents
 
-* [💴 DEV-STAX](README.md)
+* [💴 DEV-STAX](../../README.md)
   * [Activity Feeds & Chat Messaging](readme/activity-feeds-and-chat-messaging.md)
   * [App Hosting](readme/app-hosting.md)
   * [App Testing](readme/app-testing.md)

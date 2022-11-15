@@ -112,7 +112,7 @@
 * [Standaloneinstaller](https://standaloneinstaller.com/) - Check Software Safety
 * [Dangerzone](https://dangerzone.rocks/) - Convert dangerous PDF to safe PDF
 * [ThreatMap](https://threatmap.checkpoint.com/) - Live Malware Distribution Map
-* [VirusShare](https://virusshare.com/) or [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/) - Malware Search
+* [VirusShare](https://virusshare.com/) or [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/) - Malware Search #Search 
 * [X-Force Exchange](https://exchange.xforce.ibmcloud.com/) - Security Threat Intelligence Platform
 * [CVE Details](https://www.cvedetails.com/) - CVE Details
 * [Web Of Trust](https://www.mywot.com/), [Talos](https://talosintelligence.com/) or [ScamRate](https://www.scamrate.com/) - Check Website Safety
@@ -140,10 +140,10 @@
 * [DefenderUI](https://www.defenderui.com/) - Improved Windows Defender UI
 * [wideredist](https://gitlab.com/urbanware-org/wideredist) - Update Windows Defender Definitions Locally
 * [Antivirus Removal Tool](https://antivirus-removal-tool.com/) - Antivirus Software Removal Tool
-* [Malware Search+++](https://addons.mozilla.org/en-US/firefox/addon/malware-search-plusplusplus/) - Malware Search Extension
+* [Malware Search+++](https://addons.mozilla.org/en-US/firefox/addon/malware-search-plusplusplus/) - Malware Search Extension #Search 
 * [JShelter](https://jshelter.org/) - Anti-Malware Extension
 * [VirusTotalAV_bot](https://t.me/VirusTotalAV_bot) - Telegram File Scanner
-* [Malware Analysis Search](https://cse.google.com/cse?cx=011750002002865445766%3Apc60zx1rliu)
+* [Malware Analysis Search](https://cse.google.com/cse?cx=011750002002865445766%3Apc60zx1rliu) #Search 
 * [CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner) - Log4j2 CVE-2021-44228 Vulnerability Scanner
 
 ***
@@ -254,9 +254,9 @@
 
 ### Manually Scrape Sites
 
-Add the following commands to a search to manually scrape each site.
+Add the following commands to a search to manually scrape each site. #Search 
 
-**Try on [google](https://www.google.com/), [duckduckgo](https://duckduckgo.com/), [yandex](https://yandex.com) & [yahoo.](https://search.yahoo.com/web)**
+**Try on [google](https://www.google.com/), [duckduckgo](https://duckduckgo.com/), [yandex](https://yandex.com) & [yahoo.](https://search.yahoo.com/web)** #Search 
 
 `site:vup.to`
 
@@ -322,10 +322,10 @@ Add the following commands to a search to manually scrape each site.
 
 ### Reverse Image Search
 
-* ⭐ **[Search by Image](https://github.com/dessant/search-by-image)**
-* ⭐ **[TinEye](https://tineye.com/)** / [Extension](https://tineye.com/extensions)
+* ⭐ **[Search by Image](https://github.com/dessant/search-by-image)** #Search 
+* ⭐ **[TinEye](https://tineye.com/)** / [Extension](https://tineye.com/extensions) #Search 
 
-[Duplichecker](https://www.duplichecker.com/reverse-image-search.php), [Image Raider](https://infringement.report/api/raider-reverse-image-search/), [ascii2d](https://ascii2d.net/), [iqdb](http://iqdb.org/), [Reverse Image Analyser](https://www.osintcombine.com/reverse-image-analyzer), [same.energy](https://same.energy/), [SauceNao](https://saucenao.com/) / [Extension](https://saucenao.com/tools/), [Yandex Images](https://yandex.com/images/), [VISE](https://www.robots.ox.ac.uk/~vgg/software/vise/), [SmartImage](https://github.com/Decimation/SmartImage), [berify](https://www.berify.com/), [Reverse Image Search](https://www.reverse-image-search.org/), [RevEye](https://github.com/steven2358/reveye), [immerse](https://www.immerse.zone/), [ReverseImageSearch](https://www.reverseimagesearch.com/), [MaxURL](https://qsniyg.github.io/maxurl/)
+[Duplichecker](https://www.duplichecker.com/reverse-image-search.php), [Image Raider](https://infringement.report/api/raider-reverse-image-search/), [ascii2d](https://ascii2d.net/), [iqdb](http://iqdb.org/), [Reverse Image Analyser](https://www.osintcombine.com/reverse-image-analyzer), [same.energy](https://same.energy/), [SauceNao](https://saucenao.com/) / [Extension](https://saucenao.com/tools/), [Yandex Images](https://yandex.com/images/), [VISE](https://www.robots.ox.ac.uk/~vgg/software/vise/), [SmartImage](https://github.com/Decimation/SmartImage), [berify](https://www.berify.com/), [Reverse Image Search](https://www.reverse-image-search.org/), [RevEye](https://github.com/steven2358/reveye), [immerse](https://www.immerse.zone/), [ReverseImageSearch](https://www.reverseimagesearch.com/), [MaxURL](https://qsniyg.github.io/maxurl/) #Search 
 
 ***
 
@@ -391,7 +391,7 @@ Add the following commands to a search to manually scrape each site.
 
 ⭐ **[URL Void](https://www.urlvoid.com/)**
 
-[ThreatStop](https://threatstop.com/checkip), [urlscan.io](https://urlscan.io/), [Scamadviser](https://www.scamadviser.com/), [SiteSheck](https://sitecheck.sucuri.net/), [IsLegitSite](https://www.islegitsite.com/), [scanurl](https://scanurl.net/), [Dr. Web](https://vms.drweb.ru/online/), [Google Safe Browsing](https://transparencyreport.google.com/safe-browsing/search), [Online Link Scan](http://onlinelinkscan.com/)
+[ThreatStop](https://threatstop.com/checkip), [urlscan.io](https://urlscan.io/), [Scamadviser](https://www.scamadviser.com/), [SiteSheck](https://sitecheck.sucuri.net/), [IsLegitSite](https://www.islegitsite.com/), [scanurl](https://scanurl.net/), [Dr. Web](https://vms.drweb.ru/online/), [Google Safe Browsing](https://transparencyreport.google.com/safe-browsing/search) #Search , [Online Link Scan](http://onlinelinkscan.com/)
 
 ***
 
@@ -464,7 +464,7 @@ Add the following commands to a search to manually scrape each site.
 
 ### Tor Search Engines
 
-[Search-Darkweb](https://iaca-darkweb-tools.com/search-darkweb/), [Phobos](http://phobosxilamwcg75xt22id7aywkzol6q6rfl2flipcqoc4e4ahima5id.onion/), [Onions Search](https://onionsearchengine.com/), [OnionLandSearch](https://onionlandsearchengine.com/), [Ahmia](https://ahmia.fi/) / [Git](https://github.com/ahmia/ahmia-site ), [Onion.live](https://onion.live/), [Darkdump](https://github.com/josh0xA/darkdump), [SearX](http://5plvrsgydwy2sgce.onion/), [Phobos](http://phobosxilamwcg75xt22id7aywkzol6q6rfl2flipcqoc4e4ahima5id.onion/), [OnionLand Search Engine](http://3bbaaaccczcbdddz.onion/), [Onion Search Service](http://oss7wrm7xvoub77o.onion/), [Onion Search Engine](http://5u56fjmxu63xcmbk.onion/) / [2](http://onionf4j3fwqpeo5.onion/), [Onion Center](http://oikgfwfqmqkph4rl.onion/), [Onion Bag](http://onionbagy25be2bg.onion/), [Not Evil](http://hss3uro2hsxfogfq.onion/), [MultiVAC](http://multivacigqzqqon.onion/), [I2P Search](http://i2psesltivefcujc.onion/), [Haystak](http://haystakvxad7wbk5.onion/), [Grams](http://grams7ebnju7gwjl.onion/), [Google.Onion](http://ggonionvhfq7brmj.onion/), [Excavator](http://2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion/), [Evo Search](http://evo7no6twwwrm63c.onion/), [DDG](http://3g2upl4pq6kufc4m.onion/), [Dark Web Links](http://jdpskjmgy6kk4urv.onion/), [Candle](http://gjobqjj7wyczbqie.onion/), [BTDigg](http://btdiggwzoyrwwbiv.onion/), [Tor.Link](https://tor.link/)
+[Search-Darkweb](https://iaca-darkweb-tools.com/search-darkweb/), [Phobos](http://phobosxilamwcg75xt22id7aywkzol6q6rfl2flipcqoc4e4ahima5id.onion/), [Onions Search](https://onionsearchengine.com/), [OnionLandSearch](https://onionlandsearchengine.com/), [Ahmia](https://ahmia.fi/) / [Git](https://github.com/ahmia/ahmia-site ), [Onion.live](https://onion.live/), [Darkdump](https://github.com/josh0xA/darkdump), [SearX](http://5plvrsgydwy2sgce.onion/), [Phobos](http://phobosxilamwcg75xt22id7aywkzol6q6rfl2flipcqoc4e4ahima5id.onion/), [OnionLand Search Engine](http://3bbaaaccczcbdddz.onion/), [Onion Search Service](http://oss7wrm7xvoub77o.onion/), [Onion Search Engine](http://5u56fjmxu63xcmbk.onion/) / [2](http://onionf4j3fwqpeo5.onion/), [Onion Center](http://oikgfwfqmqkph4rl.onion/), [Onion Bag](http://onionbagy25be2bg.onion/), [Not Evil](http://hss3uro2hsxfogfq.onion/), [MultiVAC](http://multivacigqzqqon.onion/), [I2P Search](http://i2psesltivefcujc.onion/), [Haystak](http://haystakvxad7wbk5.onion/), [Grams](http://grams7ebnju7gwjl.onion/), [Google.Onion](http://ggonionvhfq7brmj.onion/), [Excavator](http://2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion/), [Evo Search](http://evo7no6twwwrm63c.onion/), [DDG](http://3g2upl4pq6kufc4m.onion/), [Dark Web Links](http://jdpskjmgy6kk4urv.onion/), [Candle](http://gjobqjj7wyczbqie.onion/), [BTDigg](http://btdiggwzoyrwwbiv.onion/), [Tor.Link](https://tor.link/) #Search 
 
 ***
 
@@ -488,13 +488,13 @@ Add the following commands to a search to manually scrape each site.
 qBitorrent Tools
 
 * [Multi-Connection](https://github.com/qBitMF/qBitMF) / [Screenshot](https://i.imgur.com/CM4H3Jt.png)
-* [Plugins](https://github.com/qbittorrent/search-plugins#search-plugins)
+* [Plugins](https://github.com/qbittorrent/search-plugins#search-plugins) #Search 
 * [Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition)
 * [Themes](https://github.com/jagannatharjun/qbt-theme) / [Dark Theme](https://draculatheme.com/qbittorrent)
 * [iOS Theme](https://github.com/ntoporcov/iQbit/)
 * [Docker Build](https://github.com/linuxserver/docker-qbittorrent), [2](https://github.com/binhex/arch-qbittorrentvpn)
 * [Web Client](https://github.com/sobuj53/web_qbittorrent), [2](https://github.com/WDaan/VueTorrent)
-[MEGA](MEGA.md)
+[MEGA](../NOTES/MEGA.md)
 * [Gdrive Upload](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent.ipynb)
 * [API Endpoints](https://rentry.co/qBitEndpoints)
 
@@ -731,7 +731,7 @@ qBitorrent Tools
 * [Brave Browser Hardening](https://gitlab.com/CHEF-KOCH/brave-browser-hardening) - Privacy Hardened Brave
 * [How Secure is My Password](https://www.security.org/how-secure-is-my-password/) - Password Strength Checker
 * [h8Mail](http://github.com/khast3x/h8mail) - Multiple Data Breach Checks
-* [Snusbase](https://snusbase.com/), [Leak Lookup](http://leak-lookup.com/), [Trufflehog](https://github.com/trufflesecurity/trufflehog) or [leakpeek](https://leakpeek.com/) - Data Breach Search Engine
+* [Snusbase](https://snusbase.com/), [Leak Lookup](http://leak-lookup.com/), [Trufflehog](https://github.com/trufflesecurity/trufflehog) or [leakpeek](https://leakpeek.com/) - Data Breach Search Engine #Search 
 * [DataBunker](https://databunker.org/) - Data Leak Prevention
 * [Creepjs](https://abrahamjuliot.github.io/creepjs) or [LocateJS](https://z0ccc.github.io/LocateJS/) - Check for Browser / Extension Leaks
 * [RS Lookup](http://rslookup.com/) - Check if your RuneScape data has been breached
@@ -809,23 +809,23 @@ qBitorrent Tools
 
 ### ▷ Search Engines
 
-* ⭐ **[Search Engine Party](https://searchengine.party/)** - Privacy Search Engine Comparisons
-* ⭐ **[DuckDuckGo](https://duckduckgo.com/)** - [Shortcuts](https://duckduckgo.com/bang)
-* ⭐ **[searx](https://asciimoo.github.io/searx/)** - [Instances](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_searx_instances) / [Desktop](https://notabug.org/CYBERDEViL/searx-qt)
-* [Qwant](https://www.qwant.com/)
-* [Swisscows](https://swisscows.com/)
-* [Metager](https://metager.org/)
-* [YaCy](https://yacy.net/)
-* [Mojeek](https://www.mojeek.com/)
-* [SKYN3T](https://skyn3t.in/)
-* [Brave Search](https://search.brave.com/)
-* [Snopyta](https://search.snopyta.org/)
-* [peekier](https://peekier.com/)
-* [neeva](https://neeva.com/)
-* [Kagi](https://kagi.com/)
-* [ekoru](https://ekoru.org/)
-* [Gibiru](https://gibiru.com/)
-* [Whoogle](https://github.com/benbusby/whoogle-search) - Easy to self-host SE with Google results
+* ⭐ **[Search Engine Party](https://searchengine.party/)** - Privacy Search Engine Comparisons #Search 
+* ⭐ **[DuckDuckGo](https://duckduckgo.com/)** - [Shortcuts](https://duckduckgo.com/bang) #Search 
+* ⭐ **[searx](https://asciimoo.github.io/searx/)** - [Instances](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_searx_instances) / [Desktop](https://notabug.org/CYBERDEViL/searx-qt) #Search 
+* [Qwant](https://www.qwant.com/) #Search 
+* [Swisscows](https://swisscows.com/) #Search 
+* [Metager](https://metager.org/) #Search 
+* [YaCy](https://yacy.net/) #Search 
+* [Mojeek](https://www.mojeek.com/) #Search
+* [SKYN3T](https://skyn3t.in/) #Search
+* [Brave Search](https://search.brave.com/) #Search
+* [Snopyta](https://search.snopyta.org/) #Search 
+* [peekier](https://peekier.com/) #Search
+* [neeva](https://neeva.com/) #Search 
+* [Kagi](https://kagi.com/) #Search
+* [ekoru](https://ekoru.org/) #Search
+* [Gibiru](https://gibiru.com/) #Search 
+* [Whoogle](https://github.com/benbusby/whoogle-search) - Easy to self-host SE with Google results #Search 
 
 ***
 

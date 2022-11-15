@@ -44,7 +44,7 @@ All Credit Goes To Original Creator @255kb
 * [Monitoring](readme/monitoring.md)
 * [Push Notifications](readme/push-notifications.md)
 * [Scheduling & Booking](readme/scheduling-and-booking.md)
-* [Searching](readme/searching.md)
+* [Searching](readme/searching.md) #Search 
 * [Security](HOME-MTHRFCKR/DEV-STAX/Security.md)
 * [Serverless App Hosting](readme/serverless-app-hosting.md)
 * [Static App Hosting](readme/static-app-hosting.md)

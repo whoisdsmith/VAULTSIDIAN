@@ -11,8 +11,8 @@
 	- [devops](devops.md)
 	- [git](git.md)
 	- [programming](programming.md)
-	- [README](README.md)
-	- [resources](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/Development/resources.md)
+	- [README](../../../README.md)
+	- [resources](resources.md)
 	- [ui-graphics](ui-graphics.md)
 	- [webdev](webdev.md)
 

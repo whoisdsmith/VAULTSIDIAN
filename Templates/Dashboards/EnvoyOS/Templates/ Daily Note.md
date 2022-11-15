@@ -8,7 +8,7 @@ name : <% tp.date.now("DDMMYYYY") %>
 ---
 
 **Tags**:: #daily  
-**Links**::[[ DAILY NOTES]]
+**Links**::[[ DAILY NOTES](../../../../HOME-MTHRFCKR/DAILY%20NOTES/DAILY%20NOTES.md)
 
 ---
 

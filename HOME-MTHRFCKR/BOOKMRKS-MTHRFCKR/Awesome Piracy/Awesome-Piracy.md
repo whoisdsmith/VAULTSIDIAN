@@ -28,7 +28,7 @@ Some items in this list could easily fit in more than one category, so to make s
 
 [Streaming Sites](Streaming%20Sites.md)
 
-[Gaming](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/Awesome%20Piracy/Gaming.md)
+[Gaming](Gaming.md)
 
 [Music](Music.md)
 
@@ -53,4 +53,4 @@ Some items in this list could easily fit in more than one category, so to make s
 
 [Content Discovery](Content%20Discovery.md)
 
-[Misc](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/Awesome%20Piracy/Misc.md)
+[Misc](Misc.md)

@@ -104,7 +104,7 @@ http://www.theabsolute.net/sware/
 https://github.com/ashishb/osx-and-ios-security-awesome  
 https://kkovacs.eu/cool-but-obscure-unix-tools  
 https://ufile.io/0ln9jrmg  
-https://searchengine.party/  
+https://searchengine.party/  #Search 
 http://www.cloudtrip.com/  
 https://wiki.techxodus.org/en/home  
 https://www.wintools.info/  
@@ -180,7 +180,7 @@ https://t.me/rfsnotes
 https://github.com/jivoi/awesome-osint  
 https://github.com/lockfale/OSINT-Framework  
 https://github.com/Ph055a/OSINT_Collection  
-http://www.searchtheweb.com/  
+http://www.searchtheweb.com/  #Search 
 https://github.com/imuledx/OSINT_sources  
 https://github.com/sinwindie/OSINT  
 https://github.com/hgascon/security-datasets  
@@ -251,7 +251,7 @@ https://netbootcamp.org/
 https://dehashed.com/  
 https://thecyberpost.com/  
 https://intelx.io/  
-https://midasearch.org/  
+https://midasearch.org/  #Search 
 https://yoga.osint.ninja/  
 https://start.me/p/b5Aow7/asint_collection  
 https://start.me/p/aL1rYE/tracing-arms-identifying-combatants  
@@ -273,7 +273,7 @@ https://start.me/p/1kvvxN/faros-osint-resources
 https://start.me/p/7kxyy2/osint-tools-curated-by-lorand-bodo  
 https://start.me/p/rxRbpo/ti  
 https://geekvisit.com/  
-https://start.me/p/ELXg5a/domainname-and-ip-search  
+https://start.me/p/ELXg5a/domainname-and-ip-search  #Search 
 https://start.me/p/ekq7Al/digital-forensics  
 https://start.me/p/7k4BnY/mapping-monitoring  
 https://start.me/p/Wp1kpe/socmint  
@@ -286,7 +286,7 @@ https://start.me/p/7k48PK/jungla-osint-por-ra1000
 https://start.me/p/GEbBzz/access-osint  
 https://start.me/p/q6QJXo/azuleonyx-osint  
 https://start.me/p/1kwrGp/terrorism-financing  
-https://start.me/p/RMKeQv/search-social-media  
+https://start.me/p/RMKeQv/search-social-media  #Search 
 https://start.me/p/jjBklr/hacking-ctf  
 https://start.me/p/aLBELX/tutorials  
 https://start.me/p/0PGKad/darkweb  
@@ -308,7 +308,7 @@ https://start.me/p/xbqGMR/osint-investigacion-digital-para-delitos-financieros
 https://start.me/p/1kvvxN/faros-osint-resources  
 https://start.me/p/7kxyy2/osint-tools-curated-by-lorand-bodo  
 https://start.me/p/rxRbpo/ti  
-https://start.me/p/ELXg5a/domainname-and-ip-search  
+https://start.me/p/ELXg5a/domainname-and-ip-search  #Search 
 https://start.me/p/ekq7Al/digital-forensics  
 https://start.me/p/7k4BnY/mapping-monitoring  
 https://start.me/p/Wp1kpe/socmint  
@@ -360,7 +360,7 @@ https://www.uk-osint.net/
 https://www.andyblackassociates.co.uk/resources-andy-black-associates/osint-toolkit/  
 https://thecyberpost.com/  
 https://intelx.io/  
-https://midasearch.org/  
+https://midasearch.org/  #Search 
 https://yoga.osint.ninja/  
 https://github.com/jivoi/awesome-osint  
 https://github.com/lockfale/OSINT-Framework  
@@ -423,7 +423,7 @@ https://www.osintessentials.com/home
 https://www.osinttechniques.com/osint-tools.html  
 https://hastebin.com/qamiyawiwo.nginx  
 https://thetutormagazine.com/30-free-resources-for-graphic-designers-2021/  
-https://start.me/p/RMKeQv/search-social-media  
+https://start.me/p/RMKeQv/search-social-media  #Search 
 https://start.me/p/jjBklr/hacking-ctf  
 https://start.me/p/aLBELX/tutorials  
 https://start.me/p/0PGKad/darkweb  
@@ -438,7 +438,7 @@ https://start.me/p/GE7JQb/osint
 https://start.me/p/Zz4gyM/security  
 https://start.me/p/kxB4eX/brians-links-to-things  
 https://start.me/p/q6naJo/osint-links  
-https://start.me/p/b56G5Q/search-engines  
+https://start.me/p/b56G5Q/search-engines  #Search 
 https://start.me/p/gyvaAJ/open-source-investigative-tools  
 https://start.me/p/rxeRqr/aml-toolbox?embed=1&locale=cs  
 https://start.me/p/m6OJgv/the-bbc-africa-eye-forensics-dashboard  
@@ -460,7 +460,7 @@ https://bin.snopyta.org/?b1c49ff40392b339#95sifuGegiAwJ6FyKqbLNoRNtVJNJBGbhird36
 https://blog.with2.net/sp/?cid=1128  
 https://blog.the-ebook-reader.com/2015/06/12/list-of-android-apps-with-text-to-speech-support/  
 https://dshield.org/tools/  
- https://seirdy.one/2021/03/10/search-engines-with-own-indexes.html  
+ https://seirdy.one/2021/03/10/search-engines-with-own-indexes.html  #Search 
 https://inventory.raw.pm/  
 https://internetcurated.com/  
 https://bin.disroot.org/?b8fefcd8eed189d7#5qTmQCW2H7FDsQ4ny1FVf59EfMErw4aJ3Q5qU76VJyXS  
@@ -518,13 +518,13 @@ https://openedx.atlassian.net/wiki/spaces/COMM/pages/162245773/Sites+powered+by+
 https://weboas.is/forum/index.php?topic=366.0  
 https://weboas.is/forum/index.php?topic=108.0  
  https://mschf.xyz/  
-https://startpage.com/sp/search?q=site:github.com/*/*dl  
+https://startpage.com/sp/search?q=site:github.com/*/*dl  #Search 
 http://gnoted.com/100-twitter-tools-ultimate-power-collection  
 https://start.me/p/GE7JQb/osint  
 https://start.me/p/Zz4gyM/security  
 https://start.me/p/kxB4eX/brians-links-to-things  
 https://start.me/p/q6naJo/osint-links  
-https://start.me/p/b56G5Q/search-engines  
+https://start.me/p/b56G5Q/search-engines  #Search 
 https://start.me/p/gyvaAJ/open-source-investigative-tools  
 https://start.me/p/rxeRqr/aml-toolbox?embed=1&locale=cs  
 https://start.me/p/m6OJgv/the-bbc-africa-eye-forensics-dashboard  
@@ -537,7 +537,7 @@ https://start.me/p/OmExgb/terrorism-radicalisation-research-dashboard
 https://start.me/p/QRENnO/databases  
 https://start.me/p/8yN1wM/cyber-investigations-research  
 https://start.me/p/7kzDqv/osint-utopia-category  
-https://start.me/p/L1YnjG/search-tools  
+https://start.me/p/L1YnjG/search-tools  #Search 
 https://start.me/p/Om7x8L/kyc-aml-fintech  
 https://start.me/p/V0PXgr/int-infra  
 https://start.me/p/ZGAzN7/verification-toolset  
