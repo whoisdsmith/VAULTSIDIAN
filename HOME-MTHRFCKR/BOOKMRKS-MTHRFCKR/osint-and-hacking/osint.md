@@ -934,7 +934,7 @@
 
 - [Home Page](https://www.dfir.training/)
 
-[Discord](../../NOTES/Discord.md)
+[Discord](HOME-MTHRFCKR/NOTES/Discord.md)
 
 
 

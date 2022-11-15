@@ -137,13 +137,13 @@
 
 ***
 
-[Discord](../../NOTES/Discord.md)
+[Discord](HOME-MTHRFCKR/NOTES/Discord.md)
 
 ***
 
-[Discord](../../NOTES/Discord.md)
+[Discord](HOME-MTHRFCKR/NOTES/Discord.md)
 
-[Discord](../../NOTES/Discord.md)
+[Discord](HOME-MTHRFCKR/NOTES/Discord.md)
 
 ***
 
@@ -379,7 +379,7 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 
 ***
 
-[Discord](../../NOTES/Discord.md)
+[Discord](HOME-MTHRFCKR/NOTES/Discord.md)
 
 ### Multireddits
 

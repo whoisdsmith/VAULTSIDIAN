@@ -233,4 +233,4 @@ If you need help with writing technical documentation or blogposts
 | [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions)                      | Links to frequently asked questions on tech interviews                                                                         |
 | [Toastmasters](https://www.toastmasters.org/)                                                                | Join a toastmasters group anywhere in the world to get better at public speaking
 
-[Discord](../NOTES/Discord.md)
+[Discord](HOME-MTHRFCKR/NOTES/Discord.md)

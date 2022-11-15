@@ -1067,7 +1067,7 @@
 
 ***
 
-[Discord](../NOTES/Discord.md)
+[Discord](HOME-MTHRFCKR/NOTES/Discord.md)
 
 ### ▷ Telegram Tools
 
