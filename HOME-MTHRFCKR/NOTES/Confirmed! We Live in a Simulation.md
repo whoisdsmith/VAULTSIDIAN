@@ -1,0 +1,79 @@
+# Confirmed! We Live in a Simulation
+
+![Confirmed! We Live in a Simulation](https://static.scientificamerican.com/sciam/cache/file/4E7B29CD-3194-4938-89018A61D1E5B075.jpg)
+
+Credit: [Sean Gladwell _Getty Images_](https://www.gettyimages.com/detail/photo/futuristic-abstract-royalty-free-image/1302464394?adppopup=true)
+
+Ever since the philosopher Nick Bostrom proposed in the_ Philosophical Quarterly_ that the universe and everything in it might be a [simulation](https://academic.oup.com/pq/article-abstract/53/211/243/1610975?redirectedFrom=fulltext), there has been intense public speculation and debate about the nature of reality. Such public intellectuals as Tesla leader and prolific Twitter gadfly Elon Musk have opined about the statistical inevitability of our world being little more than cascading green code. Recent papers have built on the original hypothesis to further refine the [statistical bounds of the hypothesis](https://www.mdpi.com/2218-1997/6/8/109), arguing that the [chance that we live in a simulation may be 50–50](https://www.scientificamerican.com/article/do-we-live-in-a-simulation-chances-are-about-50-50/).
+
+Advertisement
+
+The claims have been afforded some credence by repetition by luminaries no less esteemed than Neil deGrasse Tyson, the director of Hayden Planetarium and America’s favorite science popularizer. Yet there have been skeptics. Physicist Frank Wilczek has [argued](https://www.wsj.com/articles/are-we-living-in-a-simulated-world-11578581268) that there’s too much wasted complexity in our universe for it to be simulated. Building complexity requires energy and time. Why would a conscious, intelligent designer of realities waste so many resources into making our world more complex than it needs to be? It's a hypothetical question, but still may be needed.: Others, such as physicist and science communicator [Sabine Hossenfelder](http://backreaction.blogspot.com/2017/03/no-we-probably-dont-live-in-computer.html), have argued that the question is not scientific anyway. Since the simulation hypothesis does not arrive at a falsifiable prediction, we can’t really test or disprove it, and hence it’s not worth seriously investigating.
+
+However, all these discussions and studies of the simulation hypothesis have, I believe, missed a key element of scientific inquiry: plain old empirical assessment and data collection. To understand if we live in a simulation we need to start by looking at the fact that we already have computers running all kinds of simulations for lower level “intelligences” or algorithms. For easy visualization, we can imagine these intelligences as any nonperson characters in any video game that we play, but in essence any algorithm operating on any computing machine would qualify for our thought experiment. We don’t need the intelligence to be conscious, and we don’t need it to even be very complex, because the evidence we are looking for is “experienced” by all computer programs, simple or complex, running on all machines, slow or fast.
+
+All computing hardware leaves an artifact of its existence within the world of the simulation it is running. This artifact is the processor speed. If for a moment we imagine that we are a software program running on a computing machine, the only and inevitable artifact of the hardware supporting us, within our world, would be the processor speed. All other laws we would experience would be the laws of the simulation or the software we are a part of. If we were a Sim or a Grand Theft Auto character these would be the laws of the game. But anything we do would also be constrained by the processor speed no matter the laws of the game. No matter how complete the simulation is, the processor speed would intervene in the operations of the simulation.
+
+Advertisement
+
+In computing systems, of course, this intervention of the processing speed into the world of the algorithm being executed happens even at the most fundamental level. Even at the most fundamental level of simple operations such as addition or subtraction, the processing speed dictates a physical reality onto the operation that is detached from the simulated reality of the operation itself.
+
+Here’s a simple example. A 64-bit processor would perform a subtraction between say 7,862,345 and 6,347,111 in the same amount of time as it would take to perform a subtraction between two and one (granted all numbers are defined as the same variable type). In the simulated reality, seven million is a very large number, and one is a comparatively very small number. In the physical world of the processor, the difference in scale between these two numbers is irrelevant. Both subtractions in our example constitute one operation and would take the same time. Here we can clearly now see the difference between a “simulated” or abstract world of programmed mathematics and a “real” or physical world of microprocessor operations.
+
+Advertisement
+
+Within the abstract world of programmed mathematics, the processing speed of operations per second will be observed, felt, experienced, noted as an artifact of underlying physical computing machinery. This artifact will appear as an additional component of any operation that is unaffected by the operation in the simulated reality. The value of this additional component of the operation would simply be defined as the time taken to perform one operation on variables up to a maximum limit that is the memory container size for the variable. So, in an eight-bit computer, for instance to oversimplify, this would be 256. The value of this additional component will be the same for all numbers up to the maximum limit. The additional hardware component will thus be irrelevant for any operations within the simulated reality except when it is discovered as the maximum container size. The observer within the simulation has no frame for quantifying the processor speed except when it presents itself as an upper limit.
+
+If we live in a simulation, then our universe should also have such an artifact. We can now begin to articulate some properties of this artifact that would help us in our search for such an artifact in our universe.
+
+  * The artifact is as an additional component of every operation that is unaffected by the magnitude of the variables being operated upon and is irrelevant within the simulated reality until a maximum variable size is observed.
+  * The artifact presents itself in the simulated world as an upper limit.
+  * The artifact cannot be explained by underlying mechanistic laws of the simulated universe. It has to be accepted as an assumption or “given” within the operating laws of the simulated universe.
+  * The effect of the artifact or the anomaly is absolute. No exceptions.
+
+Now that we have some defining features of the artifact, of course it becomes clear what the artifact manifests itself as within our universe. The artifact is manifested as the speed of light.
+
+Advertisement
+
+Space is to our universe what numbers are to the simulated reality in any computer. Matter moving through space can simply be seen as operations happening on the variable space. If matter is moving at say 1,000 miles per second, then 1,000 miles worth of space is being transformed by a function, or operated upon every second. If there were some hardware running the simulation called “space” of which matter, energy, you, me, everything is a part, then one telltale sign of the artifact of the hardware within the simulated reality “space” would be a maximum limit on the container size for space on which one operation can be performed. Such a limit would appear in our universe as a maximum speed.
+
+This maximum speed is the speed of light. We don’t know what hardware is running the simulation of our universe or what properties it has, but one thing we can say now is that the memory container size for the variable space would be about 300,000 kilometers if the processor performed one operation per second.
+
+This helps us arrive at an interesting observation about the nature of space in our universe. If we are in a simulation, as it appears, then space is an abstract property written in code. It is not real. It is analogous to the numbers seven million and one in our example, just different abstract representations on the same size memory block. Up, down, forward, backward, 10 miles, a million miles, these are just symbols. The speed of anything moving through space (and therefore changing space or performing an operation on space) represents the extent of the causal impact of any operation on the variable “space.” This causal impact cannot extend beyond about 300,000 km given the universe computer performs one operation per second. 
+
+Advertisement
+
+We can see now that the speed of light meets all the criteria of a hardware artifact identified in our observation of our own computer builds. It remains the same irrespective of observer (simulated) speed, it is observed as a maximum limit, it is unexplainable by the physics of the universe, and it is absolute. The speed of light is a hardware artifact showing we live in a simulated universe.
+
+But this is not the only indication that we live in a simulation. Perhaps the most pertinent indication has been hiding right in front of our eyes. Or rather behind them. To understand what this critical indication is, we need to go back to our empirical study of simulations we know of. Imagine a character in a role-playing game (RPG), say a Sim or the player character in Grand Theft Auto. The algorithm that represents the character and the algorithm that represents the game environment in which the character operates are intertwined at many levels. But even if we assume that the character and the environment are separate, the character does not need a visual projection of its point of view in order to interact with the environment. 
+
+The algorithms take into account some of the environmental variables and some of the character’s state variables to project and determine the behavior of both the environment and the character. The visual projection or what we see on the screen is for our benefit. It is a subjective projection of some of the variables within the program so that we can experience the sensation of being in the game. The audiovisual projection of the game is an integrated subjective interface for the benefit of us, essentially someone controlling the simulation. The integrated subjective interface has no other reason to exist except to serve us. A similar thought experiment can be run with movies. Movies often go into the point of view of characters and try to show us things from their perspective. Whether or not a particular movie scene does that or not, what’s projected on the screen and the speakers—the integrated experience of the film—has no purpose for the characters in the film. It is entirely for our benefit.
+
+Advertisement
+
+Pretty much since the dawn of philosophy we have been asking the question: Why do we need consciousness? What purpose does it serve? Well, the purpose is easy to extrapolate once we concede the simulation hypothesis. Consciousness is an integrated (combining five senses) subjective interface between the self and the rest of the universe. The only reasonable explanation for its existence is that it is there to be an “experience.” That’s its primary raison d’être. Parts of it may or may not provide any kind of evolutionary advantage or other utility. But the sum total of it exists as an experience and hence must have the primary function of being an experience. An experience by itself as a whole is too energy-expensive and information-restrictive to have evolved as an evolutionary advantage. The simplest explanation for the existence of an experience or qualia is that it exists for the purpose of being an experience.
+
+There is nothing in philosophy or science, no postulates, theories or laws, that would predict the emergence of this experience we call consciousness. Natural laws do not call for its existence, and it certainly does not seem to offer us any evolutionary advantages. There can only be two explanations for its existence. First is that there are evolutionary forces at work that we don’t know of or haven’t theorized yet that select for the emergence of the experience called consciousness. The second is that the experience is a function we serve, a product that we create, an experience we generate as human beings. Who do we create this product for? How do they receive the output of the qualia generating algorithms that we are? We don’t know. But one thing’s for sure, we do create it. We know it exists. That’s the only thing we can be certain about. And that we don’t have a dominant theory to explain why we need it.
+
+So here we are generating this product called consciousness that we apparently don’t have a use for, that is an experience and hence must serve as an experience. The only logical next step is to surmise that this product serves someone else. 
+
+Advertisement
+
+Now, one criticism that can be raised of this line of thinking is that unlike the RPG characters in, say. Grand Theft Auto, we actually experience the qualia ourselves. If this is a product for someone else than why are we experiencing it? Well, the fact is the characters in Grand Theft Auto also experience some part of the qualia of their existence. The experience of the characters is very different from the experience of the player of the game, but between the empty character and the player there is a gray area where parts of the player and parts of the character combine to some type of consciousness. 
+
+The players feel some of the disappointments and joys that are designed for the character to feel. The character experiences the consequences of the player’s behavior. This is a very rudimentary connection between the player and the character, but already with virtual reality devices we are seeing the boundaries blur. When we are riding a roller coaster as a character in say the Oculus VR device, we feel the gravity. 
+
+Where is that gravity coming from? It exists somewhere in the space between the character that is riding the roller coaster and our minds occupying the “mind” of the character. It can certainly be imagined that in the future this in-between space would be wider. It is certainly possible that as we experience the world and generate qualia, we are experiencing some teeny tiny part of the qualia ourselves while maybe a more information-rich version of the qualia is being projected to some other mind for whose benefit the experience of consciousness first came into existence.  
+
+Advertisement
+
+So, there you have it. The simplest explanation for the existence of consciousness is that it is an experience being created, by our bodies, but not for us. We are qualia-generating machines. Like characters in Grand Theft Auto, we exist to create integrated audiovisual outputs. Also, as with characters in Grand Theft Auto, our product mostly likely is for the benefit of someone experiencing our lives through us.
+
+What are the implications of this monumental find? Well, first of all we can’t question Elon Musk again. Ever. Secondly, we must not forget what the simulation hypothesis really is. It is the ultimate conspiracy theory. The mother of all conspiracy theories, the one that says that everything, with the exception of nothing, is fake and a conspiracy designed to fool our senses. All our worst fears about powerful forces at play controlling our lives unbeknownst to us, have now come true. And yet this absolute powerlessness, this perfect deceit offers us no way out in its reveal. All we can do is come to terms with the reality of the simulation and make of it what we can. 
+
+Here, on earth. In this life. 
+
+
+___
+
+#article 
