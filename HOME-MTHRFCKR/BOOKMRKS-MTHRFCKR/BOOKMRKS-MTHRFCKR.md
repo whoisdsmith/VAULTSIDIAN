@@ -6,6 +6,7 @@
 %% Begin Waypoint %%
 - **[BOOKMRKS-MTHRFCKR](./BOOKMRKS-MTHRFCKR.md)**
 	- **[Awesome Piracy](./Awesome%20Piracy/Awesome%20Piracy.md)**
+	- [Badges](./Badges.md)
 	- [BOOKMRKS-MTHRFCKR](./BOOKMRKS-MTHRFCKR.md)
 	- **[Cata-List](./Cata-List/Cata-List.md)**
 	- **[CHAMPAGNE-GUIDES](./CHAMPAGNE-GUIDES/CHAMPAGNE-GUIDES.md)**
