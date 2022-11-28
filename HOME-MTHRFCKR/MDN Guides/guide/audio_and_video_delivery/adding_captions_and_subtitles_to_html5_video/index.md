@@ -17,7 +17,7 @@ In other articles we looked at how to [build a cross browser video player](/en-U
 
 In this article, we will refer to the Video player with captions example. This example uses an excerpt from the [Sintel open movie](https://durian.blender.org/), created by the [Blender Foundation](https://www.blender.org/about/foundation/).
 
-![Video player with stand controls such as play, stop, volume, and captions on and off. The video playing shows a scene of a man holding a spear-like weapon, and a caption reads "Esta hoja tiene pasado oscuro."](video-player-with-captions.png)
+![Video player with stand controls such as play, stop, volume, and captions on and off. The video playing shows a scene of a man holding a spear-like weapon, and a caption reads "Esta hoja tiene pasado oscuro."](HOME-MTHRFCKR/MDN%20Guides/guide/audio_and_video_delivery/adding_captions_and_subtitles_to_html5_video/video-player-with-captions.png)
 
 > **Note:** You can find the [source on GitHub](https://github.com/iandevlin/iandevlin.github.io/tree/master/mdn/video-player-with-captions), and also [view the example live](https://iandevlin.github.io/mdn/video-player-with-captions/).
 

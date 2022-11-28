@@ -21,7 +21,7 @@ An HTML document is a plaintext document structured with {{Glossary("element","e
 
 You can extend HTML tags with {{Glossary("attribute","attributes")}}, which provide additional information affecting how the browser interprets the element:
 
-![Detail of the structure of an HTML element](anatomy-of-an-html-element.png)
+![Detail of the structure of an HTML element](../html/anatomy-of-an-html-element.png)
 
 An HTML file is normally saved with an `.htm` or `.html` extension, served by a {{Glossary("Server","web server")}}, and can be rendered by any {{Glossary("Browser","Web browser")}}.
 
