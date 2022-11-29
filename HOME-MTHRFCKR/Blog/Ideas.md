@@ -1,0 +1,4 @@
+# Ideas
+
+mylifeintheuniverse  
+mylifeinthe.universe
