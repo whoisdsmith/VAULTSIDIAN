@@ -6,7 +6,7 @@
 - [osint](osint)
 - [osint-search-engines](osint-search-engines)
 - [SEARCH PARTY MTHRFCKR](SEARCH PARTY MTHRFCKR)
-- [TOOLS](TOOLS)
+- [tools](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/tools.md)
 - [tools-box](tools-box)
 - [webdev](webdev)
 

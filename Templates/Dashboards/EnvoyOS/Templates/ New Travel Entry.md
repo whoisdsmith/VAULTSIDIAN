@@ -9,7 +9,7 @@ status:
 ---
 
 **Tags**:: #travel  
-**Links**:: [[ Travel]]
+**Links**:: [[ travel]]
 
 ---
 

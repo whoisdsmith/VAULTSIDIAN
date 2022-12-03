@@ -41,11 +41,11 @@ coverY: 0
 
 **Courses, Documentaries, Calculators, Language Learning, Tools**
 
-## [🔧 Tools](TOOLSGuide.md)
+## [🔧 Tools](TOOLSGUIDE.md)
 
 **General Tools, Internet Tools, System Tools, Gaming Tools**
 
-## [📂 Miscellaneous](MISCGuide.md)
+## [📂 Miscellaneous](MISCGUIDE.md)
 
 **Extensions, Indexes, News, Health, Cooking, Fun Sites**
 

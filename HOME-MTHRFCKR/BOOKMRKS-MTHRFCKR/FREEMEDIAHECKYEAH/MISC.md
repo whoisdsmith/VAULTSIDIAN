@@ -124,10 +124,10 @@
 * [Babiato](https://babiato.co/) 
 * [FileSharingTalk](https://filesharingtalk.com/forum.php)
 * [No Thought is a Crime](https://ntc.party/) - Internet Censorship Discussion
-[Discord](HOME-MTHRFCKR/NOTES/Discord.md)
+[Discord](HOME-MTHRFCKR/DEV-DOCS/Discord.md)
 * [GDrive Guides](https://t.me/gdriveguides) - GDrive Guides / Discussion / [Support](https://t.me/CloneSupport)
 * [Fileforums](https://fileforums.com/) - Gaming / Emulator / Data Compression Discussion
-* [Pirate Haven](https://pirate-haven.github.io/) - Guides / Discussion / [Discord](HOME-MTHRFCKR/NOTES/Discord.md)
+* [Pirate Haven](https://pirate-haven.github.io/) - Guides / Discussion / [Discord](HOME-MTHRFCKR/DEV-DOCS/Discord.md)
 * [Gamesurge](https://gamesurge.net/) - Gaming IRC Community
 * [GenP](https://www.reddit.com/r/GenP) - Adobe Software Patcher / [Discord](https://discord.com/invite/X9ZuegSM4N)
 * [Torrent Community](https://t.me/TorrentCommunity) - Telegram
@@ -480,7 +480,7 @@
 * [Incredibox](https://www.incredibox.com/demo/) - Make Beatboxing Beats
 * [Pixels Fighting](http://pixelsfighting.com/) - Watch A Pixel Battle 
 * [lofi-player](https://magenta.tensorflow.org/lofi-player), [2](https://magenta.github.io/lofi-player/) - Create Room / Lo-Fi Player
-* [HYDRA](https://hydra.ojack.xyz/) - Live Coding Networked Visuals / [Discord](HOME-MTHRFCKR/NOTES/Discord.md)
+* [HYDRA](https://hydra.ojack.xyz/) - Live Coding Networked Visuals / [Discord](HOME-MTHRFCKR/DEV-DOCS/Discord.md)
 * [Michaelbach](https://michaelbach.de/ot/) - Optical Illusions 
 * [Urlebird](https://urlebird.com/) - 3rd Party TikTok with better UI
 * [AfterTheTone](https://afterthetone.com/) - Random Answering Machine Messages

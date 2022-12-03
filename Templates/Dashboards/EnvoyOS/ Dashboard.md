@@ -161,7 +161,7 @@ description: Main Dashboard fo this Vault
 
 # [[ Bucket List]]
 
-# [[ Travel]]
+# [[ travel]]
 
 # [[ brain dump]]
 
@@ -192,7 +192,7 @@ background: linear-gradient(0deg, rgba(34,193,195,0.6516981792717087) 0%, rgba(2
 
 # [[ Dream Life]]
 
-# [[ Reading]]
+# [[ reading]]
 
 # [[ Grow Room]]
 

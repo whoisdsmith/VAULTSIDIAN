@@ -1600,7 +1600,7 @@
 
 - [Pinterest - PinGroupie](http://pingroupie.com/)
 
-[Discord](HOME-MTHRFCKR/NOTES/Discord.md)
+[Discord](HOME-MTHRFCKR/DEV-DOCS/Discord.md)
 
 - [Reddit - Karma Decay (image search)](http://karmadecay.com/)
 
@@ -2054,7 +2054,7 @@
 
 
 
-[Discord](HOME-MTHRFCKR/NOTES/Discord.md)
+[Discord](HOME-MTHRFCKR/DEV-DOCS/Discord.md)
 
 
 

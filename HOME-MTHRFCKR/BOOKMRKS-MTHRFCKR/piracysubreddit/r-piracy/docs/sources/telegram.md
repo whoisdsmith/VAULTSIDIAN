@@ -30,7 +30,7 @@ sidebar_label: Telegram
 ## Bridges
 
 - [matterbridge](https://github.com/42wim/matterbridge) - Bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams and more with REST API (mattermost not required!)
-[Discord](HOME-MTHRFCKR/NOTES/Discord.md)
+[Discord](HOME-MTHRFCKR/DEV-DOCS/Discord.md)
 - [teleirc](https://github.com/RITlug/teleirc) - Go implementation of a Telegram <=> IRC bridge for use with any IRC channel and Telegram group.
 
 ## Discussion Channels

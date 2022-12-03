@@ -144,6 +144,24 @@
 		- [osint](./osint-and-hacking/osint.md)
 		- [startme-resources](./osint-and-hacking/startme-resources.md)
 	- [peelopaaludirectory](./peelopaaludirectory.md)
+	- **Piracy**
+		- [AWESOME-REDDIT](./Piracy/AWESOME-REDDIT.md)
+		- [C0D3BL0CKS PIRACY BOOTY](./Piracy/C0D3BL0CKS%20PIRACY%20BOOTY.md)
+		- [DEVTOOLS](./Piracy/DEVTOOLS.md)
+		- [DOWNLOADPIRACYGUIDE](./Piracy/DOWNLOADPIRACYGUIDE.md)
+		- [ENTERTAINMENT-TOOLS](./Piracy/ENTERTAINMENT-TOOLS.md)
+		- [FILE TOOLS](./Piracy/FILE%20TOOLS.md)
+		- [GAME-TOOLS](./Piracy/GAME-TOOLS.md)
+		- [GAMETOOLS](./Piracy/GAMETOOLS.md)
+		- [GRAPHIC DESIGN MASTER LIST](./Piracy/GRAPHIC%20DESIGN%20MASTER%20LIST.md)
+		- [INDEXES](./Piracy/INDEXES.md)
+		- [INTERNET TOOLS](./Piracy/INTERNET%20TOOLS.md)
+		- [LIST OF WEBSITES TO KNOW ANYTHING ABOUT EVERYTHING](./Piracy/LIST%20OF%20WEBSITES%20TO%20KNOW%20ANYTHING%20ABOUT%20EVERYTHING.md)
+		- [MISC](./Piracy/MISC.md)
+		- [MISCGUIDE](./Piracy/MISCGUIDE.md)
+		- [NSFWPIRACY](./Piracy/NSFWPIRACY.md)
+		- [SITEHUNT](./Piracy/SITEHUNT.md)
+		- [TOOLSGUIDE](./Piracy/TOOLSGUIDE.md)
 	- [piracy](./piracy.md)
 	- **piracysubreddit**
 		- **r-piracy**
@@ -249,6 +267,7 @@
 		- [publications](./reference/publications.md)
 		- [reference-tools](./reference/reference-tools.md)
 		- [reference](./reference/reference.md)
+	- [resources](./resources.md)
 	- **[SEARCH PARTY](./SEARCH%20PARTY/SEARCH%20PARTY.md)**
 		- [SEARCH PARTY MTHRFCKR](./SEARCH%20PARTY/SEARCH%20PARTY%20MTHRFCKR.md)
 		- [SEARCH PARTY](./SEARCH%20PARTY/SEARCH%20PARTY.md)
