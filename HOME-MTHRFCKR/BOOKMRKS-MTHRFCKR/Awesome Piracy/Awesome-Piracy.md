@@ -42,7 +42,7 @@ Some items in this list could easily fit in more than one category, so to make s
 
 [Automation](Automation.md)
 
-[Networking](Networking.md)
+[Networking](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/Awesome%20Piracy/Networking.md)
 
 [Mobile Apps](Mobile%20Apps.md)
 

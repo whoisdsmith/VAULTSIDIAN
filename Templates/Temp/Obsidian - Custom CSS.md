@@ -7,7 +7,7 @@ tags: #📖
 
 Primary Categories: [[01 - Administration](01%20-%20Administration.md)  
 Secondary Categories: [[02 - Obsidian](02%20-%20Obsidian.md) - [[02 - Resources]]  
-Links: [[CSS]] - [[Styling]] - [[Customization]]  
+Links: [[css]] - [[Styling]] - [[Customization]]  
 Search Tag: #📖  
 
 # [[Obsidian - Custom CSS](../../..//Templates/Temp/Obsidian%20-%20Custom%20CSS.md)

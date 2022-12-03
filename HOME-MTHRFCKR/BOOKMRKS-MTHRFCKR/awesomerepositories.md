@@ -11,7 +11,7 @@ _A curated list of GitHub Repositories full of FREE Resources._
 
 </div> <br>
 
-> _Pull Requests are being welcomed.Please see the [Contributing Guide](CONTRIBUTING.md) before opening a Pull Request._
+> _Pull Requests are being welcomed.Please see the [Contributing Guide](HOME-MTHRFCKR/Software-Tools/CONTRIBUTING.md) before opening a Pull Request._
 
 ## Index
 

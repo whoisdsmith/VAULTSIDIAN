@@ -98,7 +98,7 @@ This specification depends on the Infra Standard. [[INFRA]](https://url.spec.wha
 Some terms used in this specification are defined in the following standards and specifications:
 
 -   DOM Standard [[DOM]](https://url.spec.whatwg.org//#biblio-dom)
--   Encoding Standard [[ENCODING]](https://url.spec.whatwg.org//#biblio-encoding)
+-   Encoding Standard [[encoding]](https://url.spec.whatwg.org//#biblio-encoding)
 -   File API [[FILEAPI]](https://url.spec.whatwg.org//#biblio-fileapi)
 -   HTML Standard [[HTML]](https://url.spec.whatwg.org//#biblio-html)
 -   Media Source Extensions [[MEDIA-SOURCE]](https://url.spec.whatwg.org//#biblio-media-source)
