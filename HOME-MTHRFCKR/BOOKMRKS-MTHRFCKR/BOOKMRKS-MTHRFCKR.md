@@ -5,15 +5,25 @@
 
 %% Begin Waypoint %%
 - **[BOOKMRKS-MTHRFCKR](./BOOKMRKS-MTHRFCKR.md)**
+	- [alternativesoftwareappsites](./alternativesoftwareappsites.md)
 	- **[Awesome Piracy](./Awesome%20Piracy/Awesome%20Piracy.md)**
+	- [awesomedeployyourown](./awesomedeployyourown.md)
+	- [awesomegooglecloudplatform](./awesomegooglecloudplatform.md)
+	- [awesomeinternetfinds](./awesomeinternetfinds.md)
+	- [awesomemarkdown](./awesomemarkdown.md)
+	- [awesomerepositories](./awesomerepositories.md)
+	- [awesomestartpage](./awesomestartpage.md)
+	- [awesometextediting](./awesometextediting.md)
 	- [Badges](./Badges.md)
 	- [BOOKMRKS-MTHRFCKR](./BOOKMRKS-MTHRFCKR.md)
+	- [c0d3bl0ckspiracybooty](./c0d3bl0ckspiracybooty.md)
 	- **[Cata-List](./Cata-List/Cata-List.md)**
 	- **[CHAMPAGNE-GUIDES](./CHAMPAGNE-GUIDES/CHAMPAGNE-GUIDES.md)**
 	- **[CHAMPAGNE-PIRACY-WIKI](./CHAMPAGNE-PIRACY-WIKI/CHAMPAGNE-PIRACY-WIKI.md)**
 	- [CloudDown](./CloudDown.md)
 	- **[Content](./Content/Content.md)**
 	- **[DAILY NOTES](./DAILY%20NOTES/DAILY%20NOTES.md)**
+	- [designresourcesfordevelopers](./designresourcesfordevelopers.md)
 	- **[DEV-STAX](./DEV-STAX/DEV-STAX.md)**
 		- [DEV-STAX](./DEV-STAX/DEV-STAX.md)
 		- **readme**
@@ -50,6 +60,11 @@
 		- [README](./DEV-STAX/README.md)
 		- [SUMMARY](./DEV-STAX/SUMMARY.md)
 	- **[Development](./Development/Development.md)**
+	- [disrootbinencryptedpastebinbyprivatebin](./disrootbinencryptedpastebinbyprivatebin.md)
+	- [disrootbinencryptedpastebinbyprivatebin2](./disrootbinencryptedpastebinbyprivatebin2.md)
+	- [disrootbinencryptedpastebinbyprivatebin3](./disrootbinencryptedpastebinbyprivatebin3.md)
+	- [disrootbinencryptedpastebinbyprivatebin4](./disrootbinencryptedpastebinbyprivatebin4.md)
+	- [disrootbinencryptedpastebinbyprivatebin5](./disrootbinencryptedpastebinbyprivatebin5.md)
 	- **[Esoteria-Avenue](./Esoteria-Avenue/Esoteria-Avenue.md)**
 	- **[FMHYedit](./FMHYedit/FMHYedit.md)**
 	- **[FREEMEDIAHECKYEAH](./FREEMEDIAHECKYEAH/FREEMEDIAHECKYEAH.md)**
@@ -115,7 +130,10 @@
 			- [web-hosting](./FREESOURCES/readme/web-hosting.md)
 		- [README](./FREESOURCES/README.md)
 		- [SUMMARY](./FREESOURCES/SUMMARY.md)
+	- [greatlistofwebsitestoknowanythingabouteverything](./greatlistofwebsitestoknowanythingabouteverything.md)
 	- **[Guided-Sites](./Guided-Sites/Guided-Sites.md)**
+	- [jailbreak](./jailbreak.md)
+	- [jailbreak2](./jailbreak2.md)
 	- **music**
 		- [music-dl](./music/music-dl.md)
 		- [Music](./music/Music.md)
@@ -125,6 +143,8 @@
 		- [osint-search-engines](./osint-and-hacking/osint-search-engines.md)
 		- [osint](./osint-and-hacking/osint.md)
 		- [startme-resources](./osint-and-hacking/startme-resources.md)
+	- [peelopaaludirectory](./peelopaaludirectory.md)
+	- [piracy](./piracy.md)
 	- **piracysubreddit**
 		- **r-piracy**
 			- **docs**
@@ -202,6 +222,7 @@
 		- [notetaking](./pkms/notetaking.md)
 		- [obsidian](./pkms/obsidian.md)
 		- [PKMS](./pkms/PKMS.md)
+	- [privatebin](./privatebin.md)
 	- **[projects](./projects/projects.md)**
 		- [data-integration-and-visualisers](./projects/data-integration-and-visualisers.md)
 		- [financial](./projects/financial.md)
@@ -251,6 +272,7 @@
 		- [mobile](./technology/mobile.md)
 		- [pc](./technology/pc.md)
 		- [README](./technology/README.md)
+	- [texttools](./texttools.md)
 	- **the-world-wide-web**
 		- [awesome-internet-finds](./the-world-wide-web/awesome-internet-finds.md)
 		- [browser-related](./the-world-wide-web/browser-related.md)
@@ -260,9 +282,14 @@
 		- [private-generator-tracker](./the-world-wide-web/private-generator-tracker.md)
 		- [raindrops](./the-world-wide-web/raindrops.md)
 		- [README](./the-world-wide-web/README.md)
+	- [thebookofsecretknowledge](./thebookofsecretknowledge.md)
+	- [theworldwideweb](./theworldwideweb.md)
+	- [theworldwideweb2](./theworldwideweb2.md)
 	- [tools](./tools.md)
 	- **[useful-stuff](./useful-stuff/useful-stuff.md)**
 		- [useful-stuff](./useful-stuff/useful-stuff.md)
+	- [webby](./webby.md)
+	- [wh0isdsmithbookmarkcollection](./wh0isdsmithbookmarkcollection.md)
 
 %% End Waypoint %%
 

@@ -1,0 +1,130 @@
+
+## ▷ Video Tools
+
+-   **[Video Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_players)** - _Video Players & Tools_
+-   **[Media Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_media_servers)** - _Servers to Host / Play Media_
+-   **[Video Stream Sync](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_stream_sync)** - _Video Streaming Sync / Watch Parties_
+-   **[Video Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_editors)** - _Video Editing Software & Sites_
+-   **[Graphic Design Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_gfx_design_software)** - _Download GFX Design Software_
+-   **[Stock Videos](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_stock_video_sites)** - _Free Stock Video Footage_
+-   **[Video Hosting Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_hosting_sites)** - _Upload / Stream Videos_
+-   **[VideoHelp](https://www.videohelp.com/software)** - _Video Software Archive_
+-   **[Video File Converters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_converters)** - _Video Converters / Encoders_
+-   **[Video Encoding Guides](https://sometimes-archives-things.github.io/archived-things/)** - _Learn how to Encode Videos_
+-   **[Screen Recorders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_screen_recorders)** - _Record your Screen_
+-   **[Multi-Site Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_video_downloaders)**
+-   **[YouTube Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_video_downloaders)**
+-   [DL YouTube Videos without Extensions](https://onehack.us/t/how-to-download-youtube-videos-without-external-tools-or-extensions/)
+-   [VideoTuts](http://videotuts.ru/) - _Video Design Tutorials / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)_
+-   [Team V.R releases](https://codec.kiev.ua/releases.html) - _Professional Video, Audio & Adobe Software / Plugins_
+-   [VideoSmaller](https://www.videosmaller.com/) or [MP4Compress](https://www.mp4compress.com/) - _Video Compressor_
+-   [youtube-cld](https://github.com/anatolykopyl/youtube-cdl) - _Bulk YouTube Channel Downloader_
+-   [SaveVK](https://savevk.com/) - _Download VK videos_
+-   [DMVideo](https://dmvideo.download/) - _DailyMotion Video Downloader_
+-   [VLive Downloads](https://home.soshistagram.com/naver_v/) - _VLive Video Downloader_
+-   [GetFVid](https://www.getfvid.com/) or [Facebook DL](https://github.com/sdushantha/facebook-dl) - _Facebook Video Downloader_
+-   [kmttg](https://www.videohelp.com/software/kmttg) - _TivoToGo Download Manager_
+-   [TikTok Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tiktok_video_downloaders) - _Download TikTok Videos_
+-   [myfaveTT](https://myfavett.com/) - _Download Your Liked TikTok Videos_
+-   [TikUp](https://github.com/Coloradohusky/TikUp) - _TikTok Auto Download / Upload_
+-   [How to Rip Videos from Amazon](https://web.archive.org/web/20210102125108/https://www.reddit.com/r/Piracy/comments/kmodia/improved_text_video_tutorial_on_how_to_rip_from/), [2](https://web.archive.org/web/20210112204744/https://old.reddit.com/r/Piracy/comments/km1pkl/how_to_rip_from_amazon_loselessly/), [3](https://0bin.net/paste/cYxSEPRq#w7i1vJSMVKTRKgGmdURaXdvNpimP2p9IxgF38I75NUQ)
+-   [How to Rip Videos from Disney+](https://redd.it/ncyxzx), [2](https://web.archive.org/web/20210516014412/https://old.reddit.com/r/Piracy/comments/ncyxzx/tutorial_how_to_rip_moviesshows_from_disney_plus/)
+-   [PlayPhrase](https://playphrase.me/), [Filmot](https://filmot.com/) or [Yarn](https://yarn.co/), [2](https://getyarn.io/) - _Clip Quote Search Engine_
+-   [FFmpeg](https://ffmpeg.org/) - _Video / Audio Recorder, Converter & Streaming_
+-   FFmpeg Tools - [Frontend](https://github.com/llamaret/MystiQ) / [GUI](https://axiomui.github.io/), [2](https://github.com/MattMcManis/Axiom) / [M3u8 Download](https://gist.github.com/tzmartin/fb1f4a8e95ef5fb79596bd4719671b5d) / [Autobuild](https://github.com/m-ab-s/media-autobuild_suite) / [Guide](https://github.com/leandromoreira/ffmpeg-libav-tutorial) / [Cheat Sheet](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730)
+-   [VideoProc](https://www.videoproc.com/) - _Video Processing Software_
+-   [Swivel](https://www.newgrounds.com/wiki/creator-resources/flash-resources/swivel) - _SWF to Video Converter_
+-   [MotionFactory](https://www.motionfactory.io/) - _Video Editing Workflow Manager_
+-   [Awesome Streaming Tools](https://github.com/juancarlospaco/awesome-streaming-tools) or [OBS Ninja](https://obs.ninja/) - _Streaming Tools Indexes_
+-   [SteamLabs](https://streamlabs.com/) - _Streaming Tools_
+-   [VegasScripts](https://github.com/otomad/VegasScripts) - _MAGIX Vegas Scripts_
+-   [OBS](https://obsproject.com/), [Wigistream](https://wigistream.to/) or [Streamlabs-OBS](https://github.com/stream-labs/streamlabs-obs) - _Video Recording / Live Streaming / [Virtual Cam](https://obsproject.com/forum/resources/obs-virtualcam.949/) / [Tweaks](http://discord.gg/CTT)_
+-   [Stream Elements](https://streamelements.com/) - _Streaming Service Manager_
+-   [Restream](https://restream.io/) - _Multi-Site Streaming Tool_
+-   [LiveRecord](https://github.com/lovezzzxxx/liverecord) - _Automatic Stream Recorder_
+-   [LiveMonitor](https://github.com/lovezzzxxx/livemonitor) - _Live Stream Detection_
+-   [real-url](https://github.com/wbt5/real-url) - _Copy Live Stream URLs_
+-   [WDFlat](https://www.wdflat.com/) - _Stream Elements_
+-   [Streamon](https://getstreamon.com/) - _Stream to Instagram from PC / [GitHub](https://github.com/haxzie/instagram-live-streamer)_
+-   [VTuber References](https://docs.google.com/spreadsheets/d/15UpI8GEqv22T45AD3L1EgcPB4l2Tvr64aDgLq7xZfMA/htmlview%20or%20%5BVtube%20Studio%5D(https://denchisoft.com/) - _VTuber Tools_
+-   [Kalidoface 3D](https://3d.kalidoface.com/), [Animaze](https://www.animaze.us/) or [Gazo Tuber](https://ai-risun.itch.io/gazo-tuber) - _VTuber Characters_
+-   [avatarify-python](https://github.com/alievk/avatarify-python) or [veadotube](https://olmewe.itch.io/veadotube-mini) - _Video Call Avatars_
+-   [screengif](https://github.com/dergachev/screengif), [gifcap](https://gifcap.dev/) / [GitHub](https://github.com/joaomoreno/gifcap) or [licecap](https://www.cockos.com/licecap/) - _Turn Screencasts into GIFs_
+-   [Nimbus Capture](https://nimbusweb.me/screenshot.php) - _Screenshot / Video Capture Tool_
+-   [Stream Recorder](https://www.hlsloader.com/) - _Streaming Video Recorder_
+-   [GifW00t](https://github.com/yaronn/GifW00t) - _Javascript Web Recorder_
+-   [PseudoTV](https://github.com/DEFENDORe/pseudotv) - _Create TV Channels using Plex Library_
+-   [Greety](https://greety.co/) - _Send Video Christmas Cards_
+-   [Avidemux](http://fixounet.free.fr/avidemux/) - _Cut / Filter / Encode_
+-   [vidcutter](https://github.com/ozmartian/vidcutter) - _Cut Videos_
+-   [ShortApp](https://shortsapp.com/) - _Cut Video / Audio into Shorts_
+-   [WeGreyScale](https://www.wegrayscale.com/) - _Greyscale Videos / Images_
+-   [Croosfade](https://crossfade.io/) - _Video and Audio Crossfading_
+-   [MKV Muxing Batch GUI](https://github.com/yaser01/mkv-muxing-batch-gui) - _Mux Videos_
+-   [blur](https://github.com/f0e/blur) - _Add Motion Blur to Videos / [Tutorial](https://youtu.be/16-KU4r3BcA)_
+-   [Webm Generator](https://github.com/dfaker/WebmGenerator) - _Webm Editor_
+-   [MergeMP4](https://maple3142.github.io/mergemp4/) - _Merge MP4 Video & Audio_
+-   [Video Cleaner](https://videocleaner.com/) or [Video Enhance AI](https://www.topazlabs.com/video-enhance-ai) - _Video Enhancement Tool_
+-   [Flowframes](https://nmkd.itch.io/flowframes) or [SVP](https://www.svp-team.com/) - _Video Interpolation_
+-   [Creator Resources](https://www.newgrounds.com/wiki/creator-resources/) - _Art & Animation Resource Index_
+-   [OpenToonz](https://opentoonz.github.io/e/), [Wick Editor](https://www.wickeditor.com/editor/), [Clipnote Studio](https://calcium-chan.itch.io/clipnote) or [Pencil2D](https://www.pencil2d.org/) - _Animation Tools_
+-   [Animaker](https://www.animaker.com/) - _Animated Video Creator_
+-   [Unreal Engine](https://www.unrealengine.com/) - _3D Creation Tool_
+-   [PlanetSide](https://planetside.co.uk/) - _CG Environment Generator_
+-   [AnimeEffects](http://animeeffects.org/en/), [nve](https://maurycyliebner.github.io/), [Expressive](https://www.expressivesuite.com/) or [Synfig](https://www.synfig.org/) - _2D Animation Tool_
+-   [Storyboarder](https://wonderunit.com/storyboarder/) - _Quickly Visualize & Test Animations / [GitHub](https://github.com/wonderunit/storyboarder)_
+-   [LibreSprite](https://libresprite.github.io/), [Pixel Compresor](https://makham.itch.io/pixel-composer), [JPixel](https://emad.itch.io/jpixel) or [SpookyGhost](https://encelo.itch.io/spookyghost) - _Pixel Art Animation Tools_
+-   [BestSnip](https://bestsnip.com/animation/) or [Mulator](https://multator.ru/) - _Online Animation Tool_
+-   [Mixamo](https://www.mixamo.com/) - _3D Character Animation Tool_
+-   [Vinci](https://vinci.surreal-ai.com/home/free-talking-avatar) - _Create Talking AI_
+-   [NATRON](https://natrongithub.github.io/) - _Compositing Software_
+-   [Blender Open Movies](https://youtube.com/playlist?list=PLav47HAVZMjnTFVZL-aImCQIC0uLZtNCz) - _CGI Assets_
+-   [Motion Den](https://motionden.com/), [Lumen5](https://lumen5.com/) or [VideoCreek](https://videocreek.com/) - _Video Template Editor_
+-   [Vidlogo](https://vidlogo.com/) - _Add Watermark to Video_
+-   [Beatflyer](https://beatflyer.com/) - _Video Flyer Generator_
+-   [Footage](https://footage.app/) - _Create Advertisment Videos_
+-   [MKVToolNix](https://www.matroska.org/downloads/mkvtoolnix.html) - _MKV Editing Tools_
+-   [MKVCleaver](https://blogs.sapib.ca/apps/mkvcleaver/) - _MKVExtract GUI_
+-   [MKV-Optimizer](https://www.videohelp.com/software/MKV-Optimizer) - _Remove Audio Tracks from MKV Files_
+-   [MakeMKV](https://www.makemkv.com/) - _Create MKV From Blu-Ray / DVD_
+-   [ImgBurn](https://www.imgburn.com/), [DeepBurner](http://www.deepburner.com/) or [Alcohol Soft](https://www.alcohol-soft.com/) - _CD / DVD Burning_
+-   [VidCoder](https://vidcoder.net/) - _DVD / Blu-Ray Ripping_
+-   [DVDFab](https://www.dvdfab.cn/free.htm) - _Free DVD Related Programs_
+-   [h265ize](https://github.com/FallingSnow/h265ize) - _HEVC Encoder / [Enhanced](https://github.com/alextrv/enhanced-h264ify)_
+-   [Monzoom](https://www.monzoom.com/) - _Video Assets_
+-   [MovieTools](https://movietools.info/) - _Video Backgrounds_
+-   [Unscreen](https://www.unscreen.com/), [Remove Video Background](https://socialbook.io/remove-video-background) or [Remove Video BG](https://bgrem.deelvin.com/remove_video_bg/) - _Remove Video Background_
+-   [Source Filmmaker](https://store.steampowered.com/app/1840/Source_Filmmaker/) - _Steam Movie-Making Tool_
+-   [HTML5 video player enhanced script](https://greasyfork.org/en/scripts/381682-html5)
+-   [Plyr](https://plyr.io/) - _Online HTML5, YouTube and Vimeo Player / [GitHub](https://github.com/sampotts/plyr)_
+-   [zeroTube](http://127.0.0.1:43110/1FUQPLXHimgCvYHH7v3bJXspJ7bMBUXcEb) - _Decentralized Video Platform on ZeroNet using WebTorrent + [GitHub](https://github.com/rllola/zeroTube/)_
+-   [HoraHora](https://github.com/horahoradev/horahora) - _Self-Hosted Video Host_
+-   [MotionMonkey](https://omega.gg/MotionMonkey/) - _Stream Online Videos in Player_
+-   [StreamLink](https://streamlink.github.io/) - _Extract Videos from Sites to Players_
+-   [Hohoema](https://github.com/tor4kichi/Hohoema) - _Nico Nico Video Player_
+-   [polsy.org.uk](http://polsy.org.uk/) - _Alt Players for Video Sites_
+
+-   [After Effects Templates](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_after_effects_templates) - _Download After Effect Templates_
+-   [FootageCrate](https://footagecrate.com/), [MATESFX](https://www.freevideoeffect.com/), [FreeVideoEffect](https://freevideoeffect.com/), [IntroHD](https://www.introhd.net/) or [VFXDownload](https://www.vfxdownload.net/) - _Video Effects_
+-   [Tyle](https://tyle.io/) - _Photo Slideshow Video Maker_
+-   [Rollideo](https://rollideo.com/) - _Text to Speech / Subtitles_
+-   [video2x](https://github.com/k4yt3x/video2x) - _Video Upscaler_
+-   [Anime4K](https://github.com/bloc97/Anime4K) - _Anime Video Upscaler_
+-   [Video Vault](https://www.bravenewtech.org/) or [mmhmm](https://www.mmhmm.app/) - _Video Preservation Tool_
+-   [videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - _Duplicate Video Finder_
+-   [WebcamTests](https://webcamtests.com/) - _Test your Webcam_
+-   [Snap Camera](https://snapcamera.snapchat.com/) - _Webcam Chat Lenses_
+-   [VideoMail](https://www.videomail.io/) - _Webcam to Email Tool_
+-   [VCam](https://www.xsplit.com/vcam) - _Remove Webcam Background_
+-   [DeepFaceLive](https://github.com/iperov/DeepFaceLive) - _Webcam Face Swap Tool_
+-   [NVIDIA BROADCAST](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/) or [Webcamoid](https://webcamoid.github.io/) - _Webcam Manager_
+-   [SimSwap](https://github.com/neuralchen/SimSwap) - _Video Face Swap Tool_
+-   [DeepFaceLab](https://github.com/iperov/DeepFaceLab) - _Deepfake Video Creator_
+-   [Air Pi Play](https://github.com/rahul-thakoor/air-pi-play) - _Rasberry Pi Screen Sharing_
+-   [4K Media](https://4kmedia.org/) - _Free 4K Video Demos_
+-   [L3-WEB-DL-Script](https://github.com/parnexcodes/widevine-L3-WEB-DL-Script) or [uwuwvdl](https://github.com/Ori5000/uwuwvdl) - _Widevine L3 DL Script_
+-   [Video Decrypter](https://github.com/CrackerCat/video_decrypter) - _Widevine DRM Decrypter_
+-   [Custom NVIDIA Shield TV](https://www.reddit.com/r/ShieldAndroidTV/comments/o6o5dz/new_guide_use_a_custom_launcher_shield_tv_with/) - _Custom NVIDIA Shield TV Launcher_
+
+___
+

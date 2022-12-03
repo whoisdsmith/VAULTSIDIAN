@@ -1,0 +1,162 @@
+#  ▷ Audio Tools
+
+
+-   **[Awesome Music](https://github.com/ciconia/awesome-music)** - _Music Resource Index_
+-   **[Awesome Music Production](https://github.com/ad-si/awesome-music-production)** - _Music Production Index_
+-   **[Hitsquad](http://www.hitsquad.com/smm/)** - _Audio Tools / Software Index_
+-   **[Audio Players / Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players)** - _Organize & Play Audio Files_
+-   **[Audio Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_servers)** - _Host & Play Audio Files via Server_
+-   **[Tune My Music](https://www.tunemymusic.com/)** - _Transfer Music Library Between Services_
+-   **[Audio Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_audio_software)** - _Audio Software Downloads_
+-   **[Audio Editors / Recorders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_editors)** - _Edit, Record & Create Audio_
+-   **[Online Audio Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_online_audio_editors)** - _Edit Audio / Create Music Online_
+-   **[Audio Download Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_download_apps)** - _Download Audio from Various Sites_
+-   **[YouTube Audio Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - _Download from YouTube_
+-   **[Equalizer APO](https://equalizerapo.com/)** - _Audio Equalizer / [Noise Suppression](https://github.com/werman/noise-suppression-for-voice)_
+-   **[AutoEq](https://github.com/jaakkopasanen/AutoEq)** - _Auto Headphone Equalizer_
+-   **[Awesome Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)** - _Audio Visualization Resource Index_
+-   **[Determine Audio File Quality](https://redd.it/3l0yxp)**, [Lossless Audio Checker](https://losslessaudiochecker.com/), [Spek](http://spek.cc/) or [Spectro](http://spectro.enpts.com/) - _Determine Quality of Audio Files_
+-   **[Comparison of Audio Compression](https://nigelcoldwell.co.uk/audio/)** - _Audio Compression Examples_
+-   [Scarbir](https://www.scarbir.com/) or [Crinacle](https://crinacle.com/) - _Headset & Earphone Comparisons_
+-   [AccurateRip](http://www.accuraterip.com/) - _Verify Ripped Tracks are Error Free_
+-   [Team V.R releases](https://codec.kiev.ua/releases.html) - _Professional Video, Audio & Adobe Software / Plugins_
+-   [Audio Plugins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_plugins) - _VST Plugins_
+-   [Free Sound Effects](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sfx_.2F_loops) - _SFX & Loops_
+-   [Fairusify](https://fairuseify.ml/) - _Make a Copyrighted Song Fair Use_
+-   [rFXGen](https://raylibtech.itch.io/rfxgen), [Bfxr](https://iznaut.itch.io/bfxr), [ChipTone](https://sfbgames.itch.io/chiptone) or [SFXR](https://sfxr.me/) - _Sounds Effects Creator_
+-   [TheAudioScene](https://theaudioscene.net/) - _DAWs / VSTi / Samples / Presets_
+-   [Fresh Stuff For You](https://freshstuff4you.com/) - _DAWs / Samples / Presets_
+-   [Plugin Clouds Archive](https://t.me/plugincloudsarchive) - _DAW Plugins_
+-   [FlsAudio](https://flsaudio.com/en/gb/) - _FLStudio Samples / Presets / Plugins_
+-   [MilkyTracker](https://milkytracker.org/) - _.MOD & .XM Module Creator_
+-   [LoopTorrent](https://looptorrent.net/) - _VST Plugins_
+-   [CrackCartel Vault](https://mega.nz/folder/DtUT0QaI#5NwiaqJwToyTOHCchavUnQ), [GoAudio](https://www.goaudio.cc/) / [2](https://goaudio.me/), [Baomay01](https://baomay01.info/), [RKHive](https://rkhive.com/), [Sounds MP3](https://allsoundsaround.com/) or [SamplesTorrent](https://samplestorrent.com/) - _Audio Samples_
+-   [AirWindows](http://www.airwindows.com/) - _Reverbs / Equalizers / Plugins_
+-   [Music Learning Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_music_learning) - _Learn How to Play Music_
+-   [Jukebox](https://jukebox.today/) or [jqbx](http://jqbx.fm/) - _Music Sync / Listening Parties_
+-   [Versefy](https://versefy.app/) - _Lyrics Finder for Spotify, Tidal & VLC_
+-   [Whyp](https://whyp.it/) - _Audio Host_
+-   [Aux](https://aux.app/) - _Audio Project Host_
+-   [Audiocheck](https://www.audiocheck.net/) - _Audio Tests_
+-   [Online Mic Test](https://onlinemictest.com/), [Mic Tests](https://mictests.com/) or [Check Mic](https://webcammictest.com/check-mic.html) - _Mic Test_
+-   [Sound Meter](https://mybrowseraddon.com/sound-meter.html) - _Measure Surrounding Sound Level_
+-   [Audio-Router](https://github.com/audiorouterdev/audio-router) - _Route Audio from Programs to Devices_
+-   [AAFDCHDriverMod](https://github.com/AlanFinotty/AAFDCHDriverMod) or [Ultimate Realtek HD Audio Driver Mod](https://1drv.ms/f/s!AkGtxiGigudSzVLpSjYdvkAqrejL) - _Realtek Audio Driver_
+-   [ASIO4ALL](https://www.asio4all.org/) - _ASIO Audio Driver_
+-   [FXSound](https://www.fxsound.com/) - _Sound Booster & Equalizer_
+-   [HeSuVi](https://sourceforge.net/projects/hesuvi/) - _Headphone Surround Virtualizations_
+-   [REAL](https://github.com/miniant-git/REAL) - _Reduce Win 10 Audio Latency_
+-   [LatencyMon](https://www.resplendence.com/latencymon) - _Analyze Audio Latency of System_
+-   [easyeffects](https://github.com/wwmm/easyeffects) - _Audio Manipulation for PipeWire_
+-   [SoundSync](https://soundsync.app/) - _Sound System Sync_
+-   [VCV Rack](https://vcvrack.com/) - _Eurorack Simulator_
+-   [Cable](https://vb-audio.com/Cable/) - _Virtual Audio Cable_
+-   [Album Artwork](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - _Download Album Art_
+-   [Song Identification Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_song_identification) - _Identify Playing Songs_
+-   [EXP Soundboard](https://sourceforge.net/projects/expsoundboard/) - _Soundboard Program_
+-   [MyInstants](https://www.myinstants.com/index/us/), [InternetsFun](https://instantsfun.es/) or [Soundboard.com](https://www.soundboard.com/) - _Online Soundboard_
+-   [Soundpad](https://www.leppsoft.com/soundpad/) - _Voicechat Soundboard_
+-   [Monash IO](https://monash.io/) or [AudioRelay](https://audiorelay.net/) - _Stream PC Audio to Phone_
+-   [iPod.js](https://tannerv.com/ipod/) - _iPod Themed Web Music Player_
+-   [Gelli](https://github.com/dkanada/gelli) - _Jellyfin Music Player_
+-   [Sonixd](https://github.com/jeffvli/sonixd) - _Subsonic/Jellyfin Compatible Desktop Music Player_
+-   [Butterchurn Visualizer](https://butterchurnviz.com/) - _Audio Visualizer_
+-   [MusicVid](https://musicvid.org/), [Vizzy](https://vizzy.io/) or [Specterr](https://specterr.com/) - _Create Audio Visualizers_
+-   [yt2pod](https://github.com/frou/yt2pod) - _Create Podcasts from YouTube Channels_
+-   [Deemixrr](https://github.com/TheUltimateC0der/Deemixrr) - _Automated Music Manager_
+-   [FFmpeg](https://ffmpeg.org/) - _Video / Audio Recorder, Converter & Streaming_
+-   FFmpeg Tools - [Frontend](https://github.com/llamaret/MystiQ) / [GUI](https://axiomui.github.io/), [2](https://github.com/MattMcManis/Axiom), [3](https://jeanslack.github.io/Videomass/) / [M3u8 Download](https://gist.github.com/tzmartin/fb1f4a8e95ef5fb79596bd4719671b5d) / [Autobuild](https://github.com/m-ab-s/media-autobuild_suite)
+-   [SonoBus](https://sonobus.net/) - _Audio Server for Streaming_
+-   [Audio Converters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_converters) - _Audio Conversion Sites & Programs_
+-   [Faasoft FLAC Converter](https://www.faasoft.com/articles/flac-converter-mac-and-windows.html) - _FLAC Converter_
+-   [CUETools](http://cue.tools/wiki/CUETools) - _Lossless Audio / CUE Sheet Converter_
+-   [FLAC Frontend](http://flacfrontend.sourceforge.net/) - _FLAC Tools_
+-   [FLStudio Skins](https://mega.nz/folder/LBA0AB4S#z0QoDfFcJkeh2QXWvynZ2Q) - _Skins for FLStudio_
+-   [Webamp](https://webamp.org/) - _Winamp in Browser_
+-   [Winamp Skin Museum](https://skins.webamp.org/) - _Skins for Winamp / Webamp_
+-   [WACUP](https://getwacup.com/) - _Winamp update project_
+-   [Mod Archive](https://modarchive.org/) - _Audio Modules_
+-   [Mixxx](https://mixxx.org/), [rekordbox](https://rekordbox.com/en/) or [Serato](https://serato.com/) - _DJ Software_
+-   [Chrome Song Maker](https://musiclab.chromeexperiments.com/Song-Maker/), [Bosca Ceoil](https://terrycavanagh.itch.io/bosca-ceoil) or [Strofe](https://www.strofe.com/) - _Simple Audio Creators_
+-   [Moises](https://moises.ai/) - _Live Music Mixer_
+-   [WD-1](https://www.worteldrie.com/WD5/), [Citizen DJ](https://citizen-dj.labs.loc.gov/loc-variety-stage/remix/), [YOU.DJ](https://you.dj/), [Until AM](http://mix.until.am/) or [Webx0x Beats](https://webx0x.com/beats/new) - _Online DJ / Beat Creator_
+-   [RaveDJ](https://rave.dj/) - _Easily Mix Songs Together_
+-   [EZStems](https://www.ezstems.com/) - _Create Audio STEMS_
+-   [WebAssembly Music Experiment](https://petersalomonsen.com/webassemblymusic/livecodev2/) - _Create Songs with Code_
+-   [WebSynths](http://www.websynths.com/) - _Browser-Based Instruments_
+-   [JummBox](https://jummbus.bitbucket.io/), [Pata Tracker](https://pixwlk.itch.io/pata-tracker) or [Klystrack](https://github.com/kometbomb/klystrack) - _Chiptune Music Creator_
+-   [Melody Generator](https://dopeloop.ai/melody-generator) - _MIDI Melody Generator_
+-   [BitMidi](https://bitmidi.com/) or [VGMusic](http://www.vgmusic.com/)\- _MIDI Files_
+-   [QueenMusicHall](http://www.queenmusichall.cz/) - _Queen MIDIs, Audio, Photos_
+-   [AmazingMIDI](http://www.pluto.dti.ne.jp/araki/amazingmidi/) - _Transcribe WAV to MIDI / [Archive](https://archive.org/details/tucows_327319_AmazingMIDI)_
+-   [Orca](https://hundredrabbits.itch.io/orca) - _Live Coding Audio_
+-   [madeon](https://adventuremachine.4thfloorcreative.co.uk/) - _Create Music with Madeon Samples_
+-   [danielx](https://danielx.net/composer/) - _Mario Paint Audio Editor_
+-   [FamiTracker](http://www.famitracker.com/) or [Famistudio](https://bleubleu.itch.io/famistudio) - _NES / Famicon Audio Editor_
+-   [LittleSoundDJ](https://www.littlesounddj.com/lsd/index.php) - _Gameboy Audio Editor_
+-   [Open Note Block Studio](https://opennbs.org/) - _Minecraft Note Block Song Editor_
+-   [Acid Machine 2](http://errozero.co.uk/acid-machine/) - _Acid Techno Machine_
+-   [Roland 808303.studio](https://808303.studio/) - _Online Drum Machine / TB-303 Bass Synth_
+-   [iO-808](https://io808.com/), [Sequencer64](https://www.sequencer64.com/) or [Hammmerhead](http://www.threechords.com/hammerhead/) - _Online Drum Machine_
+-   [orDrumbox](https://www.ordrumbox.com/) - _Drum Machine_
+-   [Dot Piano](https://dotpiano.com/) or [Piano Online](https://magicode.me/piano-online) - _Online Piano_
+-   [Petaporon](https://pixwlk.itch.io/petaporon) - _Piano Sequencer / [Editor](https://pixwlk.itch.io/petaporon-editor)_
+-   [MK-1](https://ericrosenbaum.github.io/MK-1/) - _Online Sampling Keyboard_
+-   [Theremin](https://femurdesign.com/theremin/) - _Online Synth / Theremin_
+-   [Audio Synthesizers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_synthesizers) - _Audio Synthesizer Sites & Apps_
+-   [Vital](https://vital.audio/) - _Spectral Warping Wavetable Synth_
+-   [Sample-Stitch](http://samplestitch.com.s3-website-us-east-1.amazonaws.com/) - _Pop Song Sample Mixer_
+-   [Nightcore Maker](https://nightcoremaker.com/) - _Create Nightcore Versions of Songs_
+-   [CSound](https://csound.com/) - _Music Computing System_
+-   [Helio](https://helio.fm/) - _Music Composition Software_
+-   [Melodai.art](https://melodai.art/) - _AI Melody Generator_
+-   [AudioAlter](https://audioalter.com/preset/8d-audio) - _Create '8D' Audio_
+-   [Karaoke Maker](https://www.edityouraudio.com/karaoke-maker), [Musicara](https://www.musicara.ml/) or [X-Minus](https://x-minus.pro/) - _Create Karaoke Songs_
+-   [Clyp](https://clyp.it/), [Audio Recording](https://codepen.io/eddch/full/ZMOjPL), [Vocaroo](https://vocaroo.com/) or [Vocaroo](https://www.vocaroo.com/), [VoiceSpice](https://voicespice.com/) or [Reverb Record](https://record.reverb.chat/) - _Online Audio Recorder_
+-   [MP3Smaller](https://www.mp3smaller.com/) - _MP3 Compressor_
+-   [MP3Food](https://mp3food.com/) - _Online Audio Cutter / Merger_
+-   [The Trimmer Bot](https://t.me/The_Trimmer_bot) - _Video Trimmer Telegram Bot_
+-   [ShortApp](https://shortsapp.com/) - _Cut Video / Audio into Shorts_
+-   [lalal.ai](https://www.lalal.ai/), [Flacon](https://flacon.github.io/) or [SongDonkey](https://songdonkey.ai/) - _Audio Track Splitter_
+-   [Get Song BPM](https://getsongbpm.com/) - _Song Tempo Database_
+-   [MusicSpeedChanger](https://musicspeedchanger.com/) - _Music Speed Changer_
+-   [Arpeggiator](https://codepen.io/jakealbaugh/full/qNrZyw) - _Musical Chord Progression_
+-   [beets.io](http://beets.io/) / [2](https://github.com/beetbox/beets), [Zortam](https://www.zortam.com/), [MP3Tag](https://www.mp3tag.de/en/), [MusicBee](https://getmusicbee.com/) or [MusicBrainz](https://picard.musicbrainz.org/) - _Music Metadata Organizer_
+-   [Mooval](https://www.mooval.de/) - _Move Songs to or from Programs / Sites_
+-   [Croosfade](https://crossfade.io/) - _Video and Audio Crossfading_
+-   [ZzFXM](https://keithclark.github.io/ZzFXM/) - _JavaScript Music Renderer_
+-   [YADG](https://yadg.cc/) - _Scrape / Render Music via Templates / [API](https://yadg.cc/api/)_
+-   [Text to Speech](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_to_speech) - _Text to Speech Sites / Apps_
+-   [Clash](https://clash.me/) or [FakeYou](https://fakeyou.com/) - _Media Based Text to Speech_
+-   [Audiogrep](http://antiboredom.github.io/audiogrep/) or [mp4grep](https://github.com/o-oconnell/mp4grep) - _Audio Transcribing / [GitHub](https://github.com/antiboredom/audiogrep)_
+-   [FastHub](https://fasthub.net/) - _Text to Speech Translation Tool_
+-   [Splitter](https://www.splitter.ai/) or [melody ml](https://melody.ml/) - _Separate voice from instrumentals_
+-   [VocalRemover](http://vocalremover.org/) / [GUI](https://github.com/Anjok07/ultimatevocalremovergui) / [2](https://github.com/Anjok07/ultimatevocalremovergui/tree/v5-beta-cml), [PhonicMind](https://phonicmind.com/), [AIVocalRemover](https://aivocalremover.com/), [Ultimate Vocal Remover](https://colab.research.google.com/github/NaJeongMo/Colaboratory-Notebook-for-Ultimate-Vocal-Remover/blob/main/Vocal%20Remover%205_arch.ipynb) or [Remove Vocals](https://www.remove-vocals.com/) - _Remove / Isolate Vocal Tracks_
+-   [Acapella-Extractor](https://www.acapella-extractor.com/) or [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - _Remove Background Tracks from Songs_
+-   [VoiceFX](https://blog.xaymar.com/projects/voicefx/) - _Remove Background Noise from Voice Recordings_
+-   [Krisp](https://krisp.ai/) - _Noise Cancellation Software_
+-   [Wave Link](https://help.elgato.com/hc/en-us/articles/360044566172-Wave-Link-First-Time-Setup-for-Windows-10) or [VoiceMeeter](https://vb-audio.com/Voicemeeter/index.htm) / [Infinite Pro Trial](https://gist.github.com/programminghoch10/b6021e40cc1905d2b01a1571c6c96f17) - _Audio Mixer_
+-   [Banana](https://vb-audio.com/Voicemeeter/banana.htm) - _Voice Audio Mixer_
+-   [Voice Changer](https://voicechanger.io/), [voice-changer](https://www.voice-changer.org/), [VoiceChanger](https://www.nchsoftware.com/voicechanger/index.html), [VoiceMod](https://filecr.com/?s=VoiceMod+Pro), [MorphVOX](https://filecr.com/?s=MorphVOX+Pro), [MyVoiceMod](https://myvoicemod.com/) or [ClownFish](https://clownfish-translator.com/voicechanger/) - _Voice Changer_
+-   [Voice Cloning App](https://github.com/BenAAndrew/Voice-Cloning-App) or [Real Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - _Clone Voices_
+-   [Sound Branch](https://soundbran.ch/) - _Create / Share / Podcasts / Voice Messages_
+-   [Gibber](https://gibber.cc/) - _Audiovisual Code Composer_
+-   [AAXtoMP3](https://github.com/KrumpetPirate/AAXtoMP3) - _Convert AAX to MP3 / FLAC / M4A / OPUS_
+-   [inAudible](https://github.com/rmcrackan/inAudible) - _Audible to MP3 converter_
+-   [Soundiiz](https://soundiiz.com/) - _Transfer Playlists Between Streaming Platforms_
+-   [Exact Audio Copy](https://www.exactaudiocopy.de/) or [Whipper](https://github.com/whipper-team/whipper) - _CD / DVD Audio Ripper_
+-   [OnlineToneGenerator](https://onlinetonegenerator.com/) - _Multiple Audio Tools_
+-   [#fretflip](https://fretflip.com/) - _Create / Print Guitar Scales & Chord Charts_
+-   [HookTheory](https://www.hooktheory.com/trends) - _Chord Progression Library_
+-   [MusicKit](https://musickit.jull.dev/) - _Metronome, Tuner & Tone Generator_
+-   [REW](http://www.roomeqwizard.com/) - _Room Acoustic, Loudspeaker and audio device measurement_
+-   [Tuner Ninja](https://tuner.ninja/) - _Instrument Tuner_
+-   [PIXELSYNTH](https://ojack.xyz/PIXELSYNTH/) - _Image to Sound Synthesizer_
+-   [img-encode](https://github.com/alexadam/img-encode) - _Image to Audio Converter_
+-   [weird-converter](https://github.com/AlbertSuarez/weird-converter) - _Image to Audio / Audio to Image Converter_
+-   [FindSounds](https://www.findsounds.com/) - _Sound Search Engine_
+-   [mathewvp](http://midi.mathewvp.com/) - _Edit / Create / Polyphonic ringtones_
+-   [librosa](https://librosa.org/) - _Audio Analysis / Information Retrieval / [Github](https://github.com/librosa/librosa)_
+-   [Auphonic](https://auphonic.com/) - _Audio Leveler_
+-   [LightHost](https://github.com/rolandoislas/LightHost) - _VST / AU Host_
+-   [OPUS](https://opus-codec.org/) - _Audio Codec / [Bitrate Optimization](https://github.com/master-of-zen/BOPUS)_
