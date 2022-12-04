@@ -1,7 +1,10 @@
+# Preliminaries
+
 {{($page.frontmatter.start = 1) ? null : null}}
+
 ## Preliminaries
 
-### 1. Characters and lines
+### 1. Characters and Lines
 
 Any sequence of [characters](https://github.github.com/gfm/#character) is a valid CommonMark document.  
 
@@ -28,9 +31,9 @@ A [space](https://github.github.com/gfm/#space) is `U+0020`.
 
 A [non-whitespace character](https://github.github.com/gfm/#non-whitespace-character) is any character that is not a [whitespace character](https://github.github.com/gfm/#whitespace-character).  
 
-An [ASCII punctuation character](https://github.github.com/gfm/#ascii-punctuation-character) is `!`, `"`, `#`, `$`, `%`, `&`, `'`, `(`, `)`,`*`, `+`, `,`, `-`, `.`, `/` (U+0021–2F), 
-`:`, `;`, `<`, `=`, `>`, `?`, `@` (U+003A–0040),
-`[`, `\`, `]`, `^`, `_`, `` ` `` (U+005B–0060), 
+An [ASCII punctuation character](https://github.github.com/gfm/#ascii-punctuation-character) is `!`, `"`, `#`, `$`, `%`, `&`, `'`, `(`, `)`,`*`, `+`, `,`, `-`, `.`, `/` (U+0021–2F),  
+`:`, `;`, `<`, `=`, `>`, `?`, `@` (U+003A–0040),  
+`[`, `\`, `]`, `^`, `_`, `` ` `` (U+005B–0060),  
 `{`, `|`, `}`, or `~` (U+007B–007E).
 
 A [punctuation character](https://github.github.com/gfm/#punctuation-character) is an [ASCII punctuation character](https://github.github.com/gfm/#ascii-punctuation-character) or anything in the general Unicode categories`Pc`, `Pd`, `Pe`, `Pf`, `Pi`, `Po`, or `Ps`.  
@@ -39,7 +42,7 @@ A [punctuation character](https://github.github.com/gfm/#punctuation-character)
 
 Tabs in lines are not expanded to [spaces](https://github.github.com/gfm/#space). However, in contexts where whitespace helps to define block structure, tabs behave as if they were replaced by spaces with a tab stop of 4 characters.  
 
-Thus, for example, a tab can be used instead of four spaces in an indented code block. (Note, however, that internal tabs are passed through as literal tabs, not expanded to spaces.) 
+Thus, for example, a tab can be used instead of four spaces in an indented code block. (Note, however, that internal tabs are passed through as literal tabs, not expanded to spaces.)  
 <Example :index="$page.frontmatter.start++"/>   
 
 <Example :index="$page.frontmatter.start++"/>
@@ -65,6 +68,6 @@ Normally the `>` that begins a block quote may be followed optionally by a spa
 
 <Example :index="$page.frontmatter.start++"/>
 
-### 3. Insecure characters
+### 3. Insecure Characters
 
 For security reasons, the Unicode character `U+0000` must be replaced with the REPLACEMENT CHARACTER (`U+FFFD`).  

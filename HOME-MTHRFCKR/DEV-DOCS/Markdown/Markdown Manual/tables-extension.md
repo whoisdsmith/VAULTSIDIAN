@@ -1,5 +1,8 @@
+# tables-extension
+
 {{($page.frontmatter.start = 198) ? null : null}}
-### Tables (extension)
+
+## Tables (extension)
 
 GFM enables the `table` extension, where an additional leaf block type is available.  
 

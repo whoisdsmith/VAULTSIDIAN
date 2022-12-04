@@ -1,3 +1,5 @@
+# Use-root-for-flexible-type
+
 ## Use `:root` for Flexible Type
 
 The type font size in a responsive layout should be able to adjust with each viewport. You can calculate the font size based on the viewport height and width using `:root`:

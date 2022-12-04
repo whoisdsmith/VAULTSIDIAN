@@ -1,5 +1,8 @@
+# task-list-items
+
 {{($page.frontmatter.start = 279) ? null : null}}
-### Task list items (extension)
+
+## Task List Items (extension)
 
 GFM enables the `tasklist` extension, where an additional processing step is performed on [list items](https://github.github.com/gfm/#list-items).  
 A [task list item](https://github.github.com/gfm/#task-list-item) is a [list item](https://github.github.com/gfm/#list-items) where the first block in it is a paragraph which begins with a [task list item marker](https://github.github.com/gfm/#task-list-item-marker) and at least one whitespace character before any other content.  

@@ -1,5 +1,8 @@
+# autolinks-extension
+
 {{($page.frontmatter.start = 621) ? null : null}}
-### Autolinks (extension)
+
+## Autolinks (extension)
 
 GFM enables the `autolink` extension, where autolinks will be recognised in a greater number of conditions.  
 [Autolink](https://github.github.com/gfm/#autolink)s can also be constructed without requiring the use of `<` and to `>` to delimit them, although they will be recognized under a smaller set of circumstances. All such recognized autolinks can only come at the beginning of a line, after whitespace, or any of the delimiting characters `*`, `_`, `~`, and `(`.  
@@ -31,9 +34,11 @@ An [extended url autolink](https://github.github.com/gfm/#extended-url-autolink
 
 An [extended email autolink](https://github.github.com/gfm/#extended-email-autolink) will be recognised when an email address is recognised within any text node. Email addresses are recognised according to the following rules:  
 
-*   One ore more characters which are alphanumeric, or `.`, `-`, `_`, or `+`.
-*   An `@` symbol.
-*   One or more characters which are alphanumeric, or `.`, `-`, or `_`. At least one of the characters here must be a period (`.`). The last character must not be one of `-` or `_`. If the last character is a period (`.`), it will be excluded from the autolink.
+* One ore more characters which are alphanumeric, or `.`, `-`, `_`, or `+`.
+
+* An `@` symbol.
+
+* One or more characters which are alphanumeric, or `.`, `-`, or `_`. At least one of the characters here must be a period (`.`). The last character must not be one of `-` or `_`. If the last character is a period (`.`), it will be excluded from the autolink.
 
 The scheme `mailto:` will automatically be added to the generated link:  
 <Example :index="$page.frontmatter.start++"/>

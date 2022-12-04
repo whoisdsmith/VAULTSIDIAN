@@ -1,30 +1,51 @@
+# Css-snippets
+
 ## CSS Snippets
 
 Small tweaks to add to your `vault/.obsidian/snippets` folder.
 
   * Collapsing Sidebar
+
   * Bullet Point Relationship Lines
+
   * Auto-fading UI
+
   * Smaller Scrollbar
+
   * Subtler Folding Gutter Arrows
+
   * Hyphenation and Justification
+
   * Enlarge Image on Hover
+
   * Nicer Checkboxes
+
   * Stylish Block Quotes
+
   * Bigger Link Popup Preview
+
   * Custom Icons Differing Files and Folders
+
   * Custom Icons for Specific Folders
+
   * Tag Pills
+
   * Custom Icons for Frontmatter Tags
+
   * Outliner For The Outline and File Explorer
+
   * Better Bullet Points in Edit Mode
+
   * Image Cards
+
   * Media Grid
 
 Not enough? There are many other places related to snippets:
 
   * [#custom-css at Obsidian Forum](https://forum.obsidian.md/tag/custom-css/l/top)
+
   * [CSS snippets in Obsidian Help](https://help.obsidian.md/How+to/Add+custom+styles#Use+Themes+and+or+CSS+snippets)
+
   * [Other GitHub repositories](https://github.com/search?q=obsidian-snippets)
 
 ### [Collapsing Sidebar](/kmaasrud/awesome-obsidian/blob/master/code/css-snippets/collapsing-sidebar.css)

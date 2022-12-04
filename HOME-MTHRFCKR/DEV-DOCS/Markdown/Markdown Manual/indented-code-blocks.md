@@ -1,5 +1,8 @@
+# indented-code-blocks
+
 {{($page.frontmatter.start = 77) ? null : null}}
-### Indented code blocks
+
+## Indented Code Blocks
 
 An [indented code block](https://github.github.com/gfm/#indented-code-block) is composed of one or more [indented chunks](https://github.github.com/gfm/#indented-chunk) separated by blank lines. An [indented chunk](https://github.github.com/gfm/#indented-chunk) is a sequence of non-blank lines, each indented four or more spaces. The contents of the code block are the literal contents of the lines, including trailing [line endings](https://github.github.com/gfm/#line-ending), minus four spaces of indentation. An indented code block has no [info string](https://github.github.com/gfm/#info-string).  
 An indented code block cannot interrupt a paragraph, so there must be a blank line between a paragraph and a following indented code block. (A blank line is not needed, however, between a code block and a following paragraph.)  

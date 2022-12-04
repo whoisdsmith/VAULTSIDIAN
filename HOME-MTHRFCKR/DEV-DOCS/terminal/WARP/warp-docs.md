@@ -508,6 +508,7 @@ windows:
           cwd: /Users/warp-user
         color: green
 ```
+
 ```
 
 ### Tabs[](https://docs.warp.dev/features/entry/workflows#workflow-file-format#tabs)
@@ -515,35 +516,42 @@ windows:
 Here's a sample configuration that shows how tabs are structured.
 
 ```
+
 # Warp Launch Configuration
+
 #
-# This configuration has two windows.
-# The first window executes two commands on start.
-# The second window has a split pane that executes a command on start.
+# This Configuration Has Two Windows.
+
+# The First Window Executes Two Commands on Start.
+
+# The Second Window Has a Split Pane That Executes a Command on Start.
 
 ---
-name: Example Configuration With Starting Commands
+
+name: Example Configuration With Starting Commands  
 windows:
+
   - tabs:
-      - title: documents
-        layout:
-          cwd: /Users/warp-user/Documents
-          commands:
-            - exec: ls
-            - exec: code .
+      - title: documents  
+        layout:  
+          cwd: /Users/warp-user/Documents  
+          commands:  
+            - exec: ls  
+            - exec: code .  
         color: blue
   - tabs:
-      - title: downloads
-        layout:
-          split_direction: vertical
-          panes:
-            - cwd: /Users/warp-user/Downloads
-              commands:
-                - exec: curl http://example.com -o my.file
-            - cwd: /Users/warp-user
-              commands:
-                - exec: ssh user@remote.server.com
+      - title: downloads  
+        layout:  
+          split_direction: vertical  
+          panes:  
+            - cwd: /Users/warp-user/Downloads  
+              commands:  
+                - exec: curl http://example.com -o my.file  
+            - cwd: /Users/warp-user  
+              commands:  
+                - exec: ssh user@remote.server.com  
         color: green
+
 ```
 
 ### 

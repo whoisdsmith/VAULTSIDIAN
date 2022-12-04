@@ -1,11 +1,13 @@
+# your-complete-guide-to-free-google-services
+
 ![Guide to free google services](https://www.coolheadtech.com/hubfs/Stock%20images/Free%20Stuff%20card%20with%20sky%20background.jpeg)
 
 Have you always wanted to [](http://cloud.google.com/)[test out the benefits of the GCP](http://cloud.google.com/) (Google Cloud Platform), but you weren't sure if you had the budget? Well, here is your complete guide to free Google services.
 
 You'd be surprised how much you can get without paying a penny on Google's Free Tier. The free cloud platform tier allows you to access the incredible features of Google's cloud in two different ways:
 
--   12-month free trial
--   Always Free
+- 12-month free trial
+- Always Free
 
 So, how exactly do [these free options work](https://www.appsadmins.com/g-suite-migration-kit-options), how can you sign up for them, and what kind of features are included?
 
@@ -17,10 +19,10 @@ Let's start by looking at the 12-month free trial for Google Cloud Platform.
 
 This trial gives you $300 of free Google credits, to use on all the resources and tools that appeal most to you in the Google platform. You can sign up for this trial if:
 
--   You haven't been a GCP customer before
--   You've never had the free trial before
--   Your account is billing enabled (visit the [](http://cloud.google.com/compute/docs/console)[Google Cloud Platform Console](http://cloud.google.com/compute/docs/console) to do this)
--   You're not setting up a business account with a term sheet
+- You haven't been a GCP customer before
+- You've never had the free trial before
+- Your account is billing enabled (visit the [](http://cloud.google.com/compute/docs/console)[Google Cloud Platform Console](http://cloud.google.com/compute/docs/console) to do this)
+- You're not setting up a business account with a term sheet
 
 The 12-month free trial works like this: When you set up your first billing account, complete with your credit card or bank details, Google will give you $300 of free credit that you can apply to various GCP resources. Importantly, you can't have more than 8 cores running at the same time or add GPUs to your system. In addition to a few resource constraints, Google also highlights that users can't access their free trial to mine cryptocurrency. Your test will end as soon as you either spend your $300 in credit or complete a year with the Google Cloud Platform service.
 
@@ -48,9 +50,9 @@ This program provides users with basic access to many of the most [common GCP re
 
 You can apply for the Always Free program if you:
 
--   Have an account in good standing
--   Have an upgraded billing account
--   Don't have a custom contract with Google
+- Have an account in good standing
+- Have an upgraded billing account
+- Don't have a custom contract with Google
 
 If you're not eligible for Always Free, you'll be charged as standard for all of the Google Cloud services that you access. All you need to do to get started is start using your resources within limits outlined by the [](http://cloud.google.com/free/docs/gcp-free-tier#always-free-usage-limits)[Google Always Free requirements](http://cloud.google.com/free/docs/gcp-free-tier#always-free-usage-limits).
 
@@ -60,19 +62,19 @@ Importantly, the limits on what's available for Always Free will vary from one s
 
 Essentially, accessing the Always Free program on Google Cloud gives you basic access to many of the popular services available from Google, Of course, there is a limit to the resources that you can access without paying for a Google account. Here are some of the limits you can expect:
 
--   [App Engine:](http://cloud.google.com/appengine/docs) 5GB of storage, 28 front-end instance hours per day, 9 back-end instance hours each day, 1GB of egress each day, 100 emails per day, 1000 search operations, shared memcache.
--   [Cloud Firestore](http://cloud.google.com/firestore/docs): 1GB of storage, 20,000 writes, 50,000 reads, 20,000 deletes each day.
--   [Compute Engine](http://cloud.google.com/compute/docs/console): 1 non-preemptible VM instance per month in specific US regions. Compute Engine also offers a range of discounts for sustained virtual machine use.
--   [Cloud storage](http://cloud.google.com/storage/docs): 1GB of egress from North America to various region destinations aside from Australia and China.
--   [Cloud Functions](http://cloud.google.com/functions/docs): 400,000 GB-seconds, 200,000 GHz-seconds and 5GB of network egress each month. 2 million invocations each month.
--   [Kubernetes Engine](http://cloud.google.com/kubernetes-engine/docs): No cluster management fee for clusters of various sizes.
--   [Stackdriver:](http://cloud.google.com/stackdriver/docs) Free monthly logging
--   [BigQuery:](http://cloud.google.com/bigquery/docs) 1,000 units per month, 1TB of querying each month, 10 GB of storage each month.
--   [Cloud Vision](http://cloud.google.com/vision/docs): 1,000 Units each month.
--   [Cloud Natural Language: 5](http://cloud.google.com/natural-language/docs),000 units each month
--   [Cloud Shell](http://cloud.google.com/shell/docs): Free access and 5GB of persistent disk storage
--   [Cloud Build:](http://cloud.google.com/cloud-build/docs/) 120 minutes of building each day
--   [Cloud Source repositories](http://cloud.google.com/source-repositories/docs): 50GB Egress, 50GB Storage, up to 5 users
+- [App Engine:](http://cloud.google.com/appengine/docs) 5GB of storage, 28 front-end instance hours per day, 9 back-end instance hours each day, 1GB of egress each day, 100 emails per day, 1000 search operations, shared memcache.
+- [Cloud Firestore](http://cloud.google.com/firestore/docs): 1GB of storage, 20,000 writes, 50,000 reads, 20,000 deletes each day.
+- [Compute Engine](http://cloud.google.com/compute/docs/console): 1 non-preemptible VM instance per month in specific US regions. Compute Engine also offers a range of discounts for sustained virtual machine use.
+- [Cloud storage](http://cloud.google.com/storage/docs): 1GB of egress from North America to various region destinations aside from Australia and China.
+- [Cloud Functions](http://cloud.google.com/functions/docs): 400,000 GB-seconds, 200,000 GHz-seconds and 5GB of network egress each month. 2 million invocations each month.
+- [Kubernetes Engine](http://cloud.google.com/kubernetes-engine/docs): No cluster management fee for clusters of various sizes.
+- [Stackdriver:](http://cloud.google.com/stackdriver/docs) Free monthly logging
+- [BigQuery:](http://cloud.google.com/bigquery/docs) 1,000 units per month, 1TB of querying each month, 10 GB of storage each month.
+- [Cloud Vision](http://cloud.google.com/vision/docs): 1,000 Units each month.
+- [Cloud Natural Language: 5](http://cloud.google.com/natural-language/docs),000 units each month
+- [Cloud Shell](http://cloud.google.com/shell/docs): Free access and 5GB of persistent disk storage
+- [Cloud Build:](http://cloud.google.com/cloud-build/docs/) 120 minutes of building each day
+- [Cloud Source repositories](http://cloud.google.com/source-repositories/docs): 50GB Egress, 50GB Storage, up to 5 users
 
 If you exceed any of the usage limits that have been set out for the Always Free Google Cloud Platform program, then you'll automatically be billed for the standard rates of the services that you're using. One useful way to make sure that you don't go over your budget with your GCP strategy is to set up alerts for your budget in the [](http://cloud.google.com/billing/docs/how-to/budgets)[Google Cloud Platform Console](http://cloud.google.com/billing/docs/how-to/budgets). This will mean that you get an instant alert when you're about to hit your usage limits.
 

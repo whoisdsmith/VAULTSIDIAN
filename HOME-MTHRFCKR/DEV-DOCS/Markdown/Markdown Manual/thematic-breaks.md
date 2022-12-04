@@ -1,5 +1,8 @@
+# thematic-breaks
+
 {{($page.frontmatter.start = 13) ? null : null}}
-### Thematic breaks
+
+## Thematic Breaks
 
 A line consisting of 0-3 spaces of indentation, followed by a sequence of three or more matching `-`, `_`, or `*`characters, each followed optionally by any number of spaces or tabs, forms a [thematic break](https://github.github.com/gfm/#thematic-break).  
 

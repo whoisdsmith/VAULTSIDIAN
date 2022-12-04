@@ -1,3 +1,5 @@
+# lesson-1-what-is-the-shell
+
 Simply put, the shell is a program that takes commands from the keyboard and gives them to the operating system to perform. In the old days, it was the only user interface available on a Unix-like system such as Linux. Nowadays, we have _graphical user interfaces (GUIs)_ in addition to _command line interfaces (CLIs)_ such as the shell.
 
 On most Linux systems a program called `[bash](http://linuxcommand.org/lc3_man_pages/bash1.html)` (which stands for Bourne Again SHell, an enhanced version of the original Unix shell program, `sh`, written by Steve Bourne) acts as the shell program. Besides `bash`, there are other shell programs available for Linux systems. These include: `ksh`, `tcsh` and `zsh`.
@@ -28,7 +30,7 @@ Wonderful! Now press the up-arrow key. Watch how our previous command "kdkjflajf
 
 Recall the "kdkjflajfks" command using the up-arrow key if needed. Now, try the left and right-arrow keys. We can position the text cursor anywhere in the command line. This allows us to easily correct mistakes.
 
-## You're not operating as root, are you?
+## You're Not Operating as Root, Are You?
 
 If the last character of your shell prompt is # rather than $, you are operating as the _superuser_. This means that you have administrative privileges. This can be dangerous, since you are able to delete or overwrite any file on the system. Unless you absolutely need administrative privileges, do not operate as the superuser.
 
@@ -40,6 +42,6 @@ Besides using the mouse to scroll the contents of the terminal window, we can ca
 
 ## Further Reading
 
--   The [Wikipedia entry for Steve Bourne](https://en.wikipedia.org/wiki/Stephen_R._Bourne), developer of the original Bourne shell
--   The [Wikipedia article on the Unix shell](https://en.wikipedia.org/wiki/Unix_shell), the place where all this fun got started
--   The ["Power Terminals"](http://linuxcommand.org/lc3_adv_powerterm.php) Adventure
+- The [Wikipedia entry for Steve Bourne](https://en.wikipedia.org/wiki/Stephen_R._Bourne), developer of the original Bourne shell
+- The [Wikipedia article on the Unix shell](https://en.wikipedia.org/wiki/Unix_shell), the place where all this fun got started
+- The ["Power Terminals"](http://linuxcommand.org/lc3_adv_powerterm.php) Adventure

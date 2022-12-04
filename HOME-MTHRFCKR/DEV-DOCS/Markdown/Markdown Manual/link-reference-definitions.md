@@ -1,5 +1,8 @@
+# link-reference-definitions
+
 {{($page.frontmatter.start = 161) ? null : null}}
-### Link reference definitions
+
+## Link Reference Definitions
 
 A [link reference definition](https://github.github.com/gfm/#link-reference-definition) consists of a [link label](https://github.github.com/gfm/#link-label), indented up to three spaces, followed by a colon (`:`), optional [whitespace](https://github.github.com/gfm/#whitespace) (including up to one [line ending](https://github.github.com/gfm/#line-ending)), a [link destination](https://github.github.com/gfm/#link-destination), optional [whitespace](https://github.github.com/gfm/#whitespace) (including up to one [line ending](https://github.github.com/gfm/#line-ending)), and an optional [link title](https://github.github.com/gfm/#link-title), which if it is present must be separated from the [link destination](https://github.github.com/gfm/#link-destination)by [whitespace](https://github.github.com/gfm/#whitespace). No further [non-whitespace characters](https://github.github.com/gfm/#non-whitespace-character) may occur on the line.  
 

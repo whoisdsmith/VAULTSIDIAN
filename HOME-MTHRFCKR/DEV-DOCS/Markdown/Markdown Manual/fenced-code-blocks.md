@@ -1,10 +1,15 @@
+# fenced-code-blocks
+
 {{($page.frontmatter.start = 89) ? null : null}}
-### Fenced code blocks
+
+## Fenced Code Blocks
 
 A [code fence](https://github.github.com/gfm/#code-fence) is a sequence of at least three consecutive backtick characters (`` ` ``) or tildes (`~`). (Tildes and backticks cannot be mixed.) A [fenced code block](https://github.github.com/gfm/#fenced-code-block) begins with a code fence, indented no more than three spaces.  
 
 The line with the opening code fence may optionally contain some text following the code fence; this is trimmed of leading and trailing whitespace and called the [info string](https://github.github.com/gfm/#info-string). The [info string](https://github.github.com/gfm/#info-string) may not contain any backtick characters. (The reason for this restriction is that otherwise some inline code would be incorrectly interpreted as the beginning of a fenced code block.) 
+
  
+
 The content of the code block consists of all subsequent lines, until a closing [code fence](https://github.github.com/gfm/#code-fence) of the same type as the code block began with (backticks or tildes), and with at least as many backticks or tildes as the opening code fence. If the leading code fence is indented N spaces, then up to N spaces of indentation are removed from each line of the content (if present). (If a content line is not indented, it is preserved unchanged. If it is indented less than N spaces, all of the indentation is removed.)  
 
 The closing code fence may be indented up to three spaces, and may be followed only by spaces, which are ignored. If the end of the containing block (or document) is reached and no closing code fence has been found, the code block contains all of the lines after the opening code fence until the end of the containing block (or document). (An alternative spec would require backtracking in the event that a closing code fence is not found. But this makes parsing much less efficient, and there seems to be no real down side to the behavior described here.)  
@@ -74,15 +79,15 @@ Fenced code blocks can interrupt paragraphs, and can be followed directly by par
 Other blocks can also occur before and after fenced code blocks without an intervening blank line:  
 <Example :index="$page.frontmatter.start++"/>
 
-An [info string](https://github.github.com/gfm/#info-string) can be provided after the opening code fence.
-Although this spec doesn't mandate any particular treatment of the info string, the first word is typically used to specify the language of the code block. In HTML output, the language is normally indicated by adding a class to the `code` element consisting of `language-` followed by the language name.    
+An [info string](https://github.github.com/gfm/#info-string) can be provided after the opening code fence.  
+Although this spec doesn't mandate any particular treatment of the info string, the first word is typically used to specify the language of the code block. In HTML output, the language is normally indicated by adding a class to the `code` element consisting of `language-` followed by the language name.  
 <Example :index="$page.frontmatter.start++"/>
 
 <Example :index="$page.frontmatter.start++"/>
 
 <Example :index="$page.frontmatter.start++"/>
 
-[Info strings](https://github.github.com/gfm/#info-string) for backtick code blocks cannot contain backticks:      
+[Info strings](https://github.github.com/gfm/#info-string) for backtick code blocks cannot contain backticks:  
 <Example :index="$page.frontmatter.start++"/>
 
 [Info strings](https://github.github.com/gfm/#info-string) for tilde code blocks can contain backticks and tildes:     

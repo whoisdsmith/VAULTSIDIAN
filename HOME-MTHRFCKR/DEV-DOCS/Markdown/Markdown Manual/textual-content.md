@@ -1,5 +1,8 @@
+# textual-content
+
 {{($page.frontmatter.start = 671) ? null : null}}
-### Textual content
+
+## Textual Content
 
 Any characters not given an interpretation by the above rules will be parsed as plain textual content.  
 <Example :index="$page.frontmatter.start++"/>
@@ -8,4 +11,5 @@ Any characters not given an interpretation by the above rules will be parsed as 
 
 Internal spaces are preserved verbatim:  
 <Example :index="$page.frontmatter.start++"/>
+
     

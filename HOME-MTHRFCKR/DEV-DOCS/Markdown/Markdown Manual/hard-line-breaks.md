@@ -1,5 +1,8 @@
+# hard-line-breaks
+
 {{($page.frontmatter.start = 654) ? null : null}}
-## Hard line breaks
+
+## Hard Line Breaks
 
 A line break (not in a code span or HTML tag) that is preceded by two or more spaces and does not occur at the end of a block is parsed as a [hard line break](https://github.github.com/gfm/#hard-line-break) (rendered in HTML as a `<br />` tag):  
 <Example :index="$page.frontmatter.start++"/>

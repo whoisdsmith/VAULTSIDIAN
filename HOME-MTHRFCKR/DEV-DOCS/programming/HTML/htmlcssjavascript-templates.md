@@ -1,4 +1,6 @@
-## HTML/CSS/JavaScript templates:
+# Htmlcssjavascript-templates
+
+## HTML/CSS/JavaScript Templates:
 
 | Website |
 | ------- |
@@ -13,5 +15,5 @@
 | https://graygrids.com |
 | https://tailwindtemplates.co/ |
 | https://themeselection.com/ |
-
+  
 [⬆ back to top](#table-of-contents)

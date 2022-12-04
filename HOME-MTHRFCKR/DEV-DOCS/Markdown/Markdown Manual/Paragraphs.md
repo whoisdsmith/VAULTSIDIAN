@@ -1,5 +1,8 @@
+# Paragraphs
+
 {{($page.frontmatter.start = 189) ? null : null}}
-### Paragraphs
+
+## Paragraphs
 
 A sequence of non-blank lines that cannot be interpreted as other kinds of blocks forms a [paragraph](https://github.github.com/gfm/#paragraph). The contents of the paragraph are the result of parsing the paragraph’s raw content as inlines. The paragraph’s raw content is formed by concatenating the lines and removing initial and final [whitespace](https://github.github.com/gfm/#whitespace).  
 A simple example with two paragraphs:  

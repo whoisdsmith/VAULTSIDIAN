@@ -1,5 +1,8 @@
+# Lists
+
 {{($page.frontmatter.start = 281) ? null : null}}
-### Lists
+
+## Lists
 
 A [list](https://github.github.com/gfm/#list) is a sequence of one or more list items [of the same type](https://github.github.com/gfm/#of-the-same-type). The list items may be separated by any number of blank lines.  
 Two list items are [of the same type](https://github.github.com/gfm/#of-the-same-type) if they begin with a [list marker](https://github.github.com/gfm/#list-marker) of the same type. Two list markers are of the same type if (a) they are bullet list markers using the same character (`-`, `+`, or `*`) or (b) they are ordered list numbers with the same delimiter (either `.` or `)`).  

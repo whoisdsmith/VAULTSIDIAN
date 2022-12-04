@@ -1,3 +1,5 @@
+# Use-unset-instead-of-resetting-all-properties
+
 ## Use `unset` Instead of Resetting All Properties
 
 When resetting an element's properties, it's not necessary to reset each individual property:

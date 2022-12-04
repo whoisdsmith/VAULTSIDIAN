@@ -1,4 +1,4 @@
-# Infinite loop - Wikipedia
+# Infinite Loop - Wikipedia
 
 This article is about the programming term. For the street named after this term, see [Infinite Loop (street)](/wiki/Infinite_Loop_\(street\)). For the book by Michael S. Malone, see [Infinite Loop (book)](/wiki/Infinite_Loop_\(book\)).
 
@@ -7,14 +7,21 @@ This article is about the programming term. For the street named after this term
 [Loop constructs](/wiki/Control_flow#Loops)
 
   * [Do while loop](/wiki/Do_while_loop)
+
   * [While loop](/wiki/While_loop)
+
   * [For loop](/wiki/For_loop)
+
   * [Foreach loop](/wiki/Foreach_loop)
+
   * Infinite loop
+
   * [Control flow](/wiki/Control_flow)
 
   * [v](/wiki/Template:Loop_constructs)
+
   * [t](/wiki/Template_talk:Loop_constructs)
+
   * [e](https://en.wikipedia.org/w/index.php?title=Template:Loop_constructs&action=edit)
 
 In [computer programming](/wiki/Computer_programming), an **infinite loop** (or **endless loop**)[1][2] is a sequence of instructions that, as written, will continue endlessly, unless an external intervention occurs ("pull the plug"). It may be intentional. 
@@ -22,26 +29,47 @@ In [computer programming](/wiki/Computer_programming), an **infinite loop** (or 
 ## Contents
 
   * 1 Overview
+
   * 2 Details
+
   * 3 Intended vs unintended looping
+
     * 3.1 Intentional looping
+
       * 3.1.1 Multi-threading
+
     * 3.2 Unintentional looping
+
   * 4 Interruption
+
   * 5 Language support
+
   * 6 Examples of intentional infinite loops
+
   * 7 Examples of unintentional infinite loops
+
     * 7.1 Mathematical errors
+
     * 7.2 Rounding errors
+
   * 8 Multi-party loops
+
   * 9 Pseudo-infinite loops
+
     * 9.1 Very large numbers
+
     * 9.2 Impossible termination condition
+
     * 9.3 Infinite recursion
+
     * 9.4 Break statement
+
     * 9.5 Alderson loop
+
   * 10 See also
+
   * 11 References
+
   * 12 External links
 
 ## Overview
@@ -51,6 +79,7 @@ This differs from:
   * "a type of computer program that runs the same instructions continuously until it is either stopped or interrupted."[3]
 
 Consider the following [pseudocode](/wiki/Pseudocode): 
+
     
     
     how_many = 0
@@ -770,10 +799,10 @@ Consider the following [pseudocode](/wiki/Pseudocode):
     
     
     
-  *[[v]: View this template
-  *[[t]: Discuss this template
-  *[[e]: Edit this template
 
+  *[[v]: View this template  
+  *[[t]: Discuss this template  
+  *[[e]: Edit this template
 
 ___
 

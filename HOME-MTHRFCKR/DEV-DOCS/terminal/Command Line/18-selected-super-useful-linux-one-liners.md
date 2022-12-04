@@ -1,4 +1,6 @@
-## Functional, Practical, and some also extremely Dangerous
+# 18-selected-super-useful-linux-one-liners
+
+## Functional, Practical, and Some Also Extremely Dangerous
 
 ![](https://miro.medium.com/max/700/1*M-mBApgNHf389mgB5AQUyA.jpeg)
 
@@ -8,9 +10,9 @@ In this post, I compile a series of commands demonstrating how powerful it is to
 
 Be careful when running some of them because you could lose all your data. However, others will be very handy to you for increasing your productivity. Let’s start.
 
-## Dangerous commands
+## Dangerous Commands
 
-## Only execute them if you are sure of what you are doing
+## Only Execute Them if You Are Sure of What You Are Doing
 
 I have added at the beginning and at the end of the command the word “- -” so that you cannot copy and paste it.
 
@@ -38,7 +40,7 @@ You will quickly damage your file system if you run any command and dump its out
 $ -- "a command" > /dev/sda --
 ```
 
-## Write random data to the disk
+## Write Random Data to the Disk
 
 This command is helpful if, for example, you want to overwrite the sectors of your hard disk so that the data cannot be recovered. Remember that recovering the data with specialized tools is simple if you format the disk.
 
@@ -48,7 +50,7 @@ If you use this command in a loop and run it 3 or 4 times, it will give you enou
 $ -- dd if=/dev/urandom of=/dev/disk --//for i in {1..10}; do dd if=/dev/urandom of=/dev/disk; done
 ```
 
-## 3\. Delete all
+## 3\. Delete All
 
 This command deletes everything, including files on the hard disk and connected removable devices, making it extremely dangerous as it does not even ask for confirmation.
 
@@ -60,11 +62,11 @@ With “/,” we are telling the command to start in the root directory, which c
 $ -- rm -rf --no-preserve-root / --
 ```
 
--   From POSIX 7th version you need to use the “no-preserve-root” flag. This flag is used to avoid treating “/” in a special way.
+- From POSIX 7th version you need to use the “no-preserve-root” flag. This flag is used to avoid treating “/” in a special way.
 
-## Regular commands
+## Regular Commands
 
-## 4\. Find out the Top Most Used Commands
+## 4\. Find Out the Top Most Used Commands
 
 This one-liner command is handy if you want to know which commands you use the most. With -n X, you indicate how many you want to show. For example, n -10 shows the ten most used commands.
 
@@ -76,7 +78,7 @@ cat ~/.bash_history | tr "\|\;" "\n" | sed -e "s/^ //g" | cut -d " " -f 1 | sort
 
 Screenshot with the result of the command execution.
 
-## 5\. Find a List of Unique Words in a file
+## 5\. Find a List of Unique Words in a File
 
 The following one-liner command is used to enumerate words that have alphabets. The “tr” command converts the characters that are not alphabets to a new line. Next, we will use the “sed” command to remove the empty lines, and finally, we will uniquely sort the same, avoiding duplicates using the “sort” command.
 
@@ -84,7 +86,7 @@ The following one-liner command is used to enumerate words that have alphabets. 
 tr -c a-zA-Z '\n' < someFile.txt  | sed '/^$/d' | sort | uniq -i -c
 ```
 
-## 6\. Colorize the output of ps
+## 6\. Colorize the Output of Ps
 
 This one-liner command colorizes the output of ps to show services in red and session leaders in green.
 
@@ -98,7 +100,7 @@ ps ajxf | awk '{ if($2 == $4) { if ($1 == 1) { print "\033[35m" $0"\033[0m"}  el
 
 Screenshot with the result of the command execution.
 
-## 7\. Change to the previous working directory
+## 7\. Change to the Previous Working Directory
 
 Super helpful and often not used. If you want to return to the previous directory, just run the following command.
 
@@ -106,7 +108,7 @@ Super helpful and often not used. If you want to return to the previous director
 cd -
 ```
 
-## 8\. Traceroute and ping combined
+## 8\. Traceroute and Ping Combined
 
 This command is a combination of ping and traceroute commands. It is a diagnostic tool that continuously sends packets showing ping time for each hop.
 
@@ -118,7 +120,7 @@ mtr google.com
 
 Screenshot with the result of the command execution.
 
-## 9\. Find the last command that begins with “xxx” without executing it
+## 9\. Find the Last Command That Begins with “xxx” without Executing it
 
 In this example, we are looking for the first command starting with “cp”.
 
@@ -130,7 +132,7 @@ In this example, we are looking for the first command starting with “cp”.
 
 Screenshot with the result of the command execution.
 
-## 10\. How to run a command N times
+## 10\. How to Run a Command N Times
 
 I don’t think it needs any explanation: a loop and the command you want to be executed on each iteration.
 
@@ -138,7 +140,7 @@ I don’t think it needs any explanation: a loop and the command you want to be 
 for i in {1..10}; do command; done
 ```
 
-## 11\. Add a clock to your terminal
+## 11\. Add a Clock to Your Terminal
 
 By executing the following commands, you can add a clock to your terminal that will be maintained as long as you do not close it.
 
@@ -150,7 +152,7 @@ while sleep 1;do tput sc;tput cup 0 $(($(tput cols)-29));date;tput rc;done &
 
 Screenshot with the result of the command execution.
 
-## 12\. Find duplicate files
+## 12\. Find Duplicate Files
 
 A simple way to search for duplicate files. To do so, it obtains the hash of the files and compares them.
 
@@ -158,7 +160,7 @@ A simple way to search for duplicate files. To do so, it obtains the hash of the
 find -not -empty -type f -printf "%s" |  sort -rn |  uniq -d |  xargs -I{} -n1  find -type f -size {}c -print0 |  xargs -0  md5sum |  sort |  uniq -w32 --all-repeated=separate
 ```
 
-## 13\. Set an audible alarm when an IP address comes online
+## 13\. Set an Audible Alarm When an IP Address Comes Online
 
 That command sequence can be helpful for many things. For example, it can alert you to a sound when a server is back online.
 
@@ -169,7 +171,7 @@ The “-a” flag is used to indicate a sound when the server receives a packet.
 ping -i 120 -a IP_address
 ```
 
-## 14\. Delete all files in a folder that don’t match a specific file extension
+## 14\. Delete All Files in a Folder That don’t Match a Specific File Extension
 
 How often has it happened to you that you want to clean up a directory but leave some files? Instead of doing it little by little, with this command, you can do it in one step indicating which files you want to leave undeleted.
 
@@ -177,7 +179,7 @@ How often has it happened to you that you want to clean up a directory but leave
 rm !(*.xls|*.slsx|*.csv)
 ```
 
-## 15\. Remove all but one specific file
+## 15\. Remove All but One Specific File
 
 This command is similar to the previous one, but we will indicate only one file in this case.
 
@@ -185,7 +187,7 @@ This command is similar to the previous one, but we will indicate only one file 
 rm -f !(theFile.txt)
 ```
 
-## 16\. Generate a random password of a specified size
+## 16\. Generate a Random Password of a Specified Size
 
 If it happens to you like me that when you want to generate a password, you don’t know what to put, you can use this command to do it for you.
 
@@ -195,7 +197,7 @@ With the flag -c 8, you can indicate the size you want your password to be.
 date +%s | sha256sum | base64 | head -c 8; echo
 ```
 
-## 17\. Recursively remove all empty directories
+## 17\. Recursively Remove All Empty Directories
 
 A simple way to search for all empty directories and delete them.
 
@@ -203,7 +205,7 @@ A simple way to search for all empty directories and delete them.
 find . -type d -empty -delete
 ```
 
-## 18\. Copy the permissions of file1 the same as file2
+## 18\. Copy the Permissions of file1 the Same as file2
 
 A simple way to copy permissions from file2 to file1
 
@@ -211,7 +213,7 @@ A simple way to copy permissions from file2 to file1
 chmod --reference file2 file1
 ```
 
-## Final thoughts
+## Final Thoughts
 
 The command line is lovely, and you can do infinite things with it. I hope you have found this post helpful!
 

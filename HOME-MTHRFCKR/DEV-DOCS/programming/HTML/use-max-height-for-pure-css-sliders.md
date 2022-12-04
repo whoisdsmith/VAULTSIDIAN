@@ -1,3 +1,5 @@
+# Use-max-height-for-pure-css-sliders
+
 ## Use `max-height` for Pure CSS Sliders
 
 Implement CSS-only sliders using `max-height` with overflow hidden:

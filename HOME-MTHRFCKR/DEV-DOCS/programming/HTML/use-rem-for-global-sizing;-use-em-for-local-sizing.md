@@ -1,3 +1,5 @@
+# use-rem-for-global-sizing;-use-em-for-local-sizing
+
 ## Use `rem` for Global Sizing; Use `em` for Local Sizing
 
 After setting the base font size at the root (`html { font-size: 100%; }`), set the font size for textual elements to `em`:

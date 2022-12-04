@@ -1,5 +1,8 @@
+# raw-html
+
 {{($page.frontmatter.start = 632) ? null : null}}
-### Raw HTML
+
+## Raw HTML
 
 Text between `<` and `>` that looks like an HTML tag is parsed as a raw HTML tag and will be rendered in HTML without escaping. Tag and attribute names are not limited to current HTML tags, so custom tags (and even, say, DocBook tags) may be used.  
 Here is the grammar for tags:  
@@ -10,7 +13,9 @@ An [attribute](https://github.github.com/gfm/#attribute) consists of [whitesp
 An [attribute name](https://github.github.com/gfm/#attribute-name) consists of an ASCII letter, `_`, or `:`, followed by zero or more ASCII letters, digits, `_`, `.`, `:`, or `-`. (Note: This is the XML specification restricted to ASCII. HTML5 is laxer.)  
 
 An [attribute value specification](https://github.github.com/gfm/#attribute-value-specification) consists of optional [whitespace](https://github.github.com/gfm/#whitespace), a `=` character, optional [whitespace](https://github.github.com/gfm/#whitespace), and an [attribute value](https://github.github.com/gfm/#attribute-value). 
+
  
+
 An [attribute value](https://github.github.com/gfm/#attribute-value) consists of an [unquoted attribute value](https://github.github.com/gfm/#unquoted-attribute-value), a [single-quoted attribute value](https://github.github.com/gfm/#single-quoted-attribute-value), or a [double-quoted attribute value](https://github.github.com/gfm/#double-quoted-attribute-value).  
 
 An [unquoted attribute value](https://github.github.com/gfm/#unquoted-attribute-value) is a nonempty string of characters not including [whitespace](https://github.github.com/gfm/#whitespace), `"`, `'`, `=`, `<`, `>`, or `` ` ``.  
@@ -36,7 +41,7 @@ An [HTML tag](https://github.github.com/gfm/#html-tag) consists of an [open t
 Here are some simple open tags:  
 <Example :index="$page.frontmatter.start++"/>
 
-Empty elements:
+Empty elements:  
 <Example :index="$page.frontmatter.start++"/>
 
 [Whitespace](https://github.github.com/gfm/#whitespace) is allowed:  

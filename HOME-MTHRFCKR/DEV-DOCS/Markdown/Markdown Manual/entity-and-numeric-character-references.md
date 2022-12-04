@@ -1,5 +1,8 @@
+# entity-and-numeric-character-references
+
 {{($page.frontmatter.start = 321) ? null : null}}
-### Entity and numeric character references
+
+## Entity and Numeric Character References
 
 Valid HTML entity references and numeric character references can be used in place of the corresponding Unicode character, with the following exceptions:
 

@@ -1,5 +1,8 @@
+# Autolinks
+
 {{($page.frontmatter.start = 602) ? null : null}}
-### Autolinks
+
+## Autolinks
 
 [Autolink](https://github.github.com/gfm/#autolink)s are absolute URIs and email addresses inside `<` and `>`. They are parsed as links, with the URL or email address as the link label.  
 A [URI autolink](https://github.github.com/gfm/#uri-autolink) consists of `<`, followed by an [absolute URI](https://github.github.com/gfm/#absolute-uri) followed by `>`. It is parsed as a link to the URI, with the URI as the link’s label.  

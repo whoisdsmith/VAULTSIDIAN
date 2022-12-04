@@ -1,25 +1,36 @@
+# Links
+
 {{($page.frontmatter.start = 493) ? null : null}}
-### Links
+
+## Links
 
 A link contains [link text](https://github.github.com/gfm/#link-text) (the visible text), a [link destination](https://github.github.com/gfm/#link-destination) (the URI that is the link destination), and optionally a [link title](https://github.github.com/gfm/#link-title). There are two basic kinds of links in Markdown. In [inline links](https://github.github.com/gfm/#inline-link) the destination and title are given immediately after the link text. In [reference links](https://github.github.com/gfm/#reference-link) the destination and title are defined elsewhere in the document.  
 A [link text](https://github.github.com/gfm/#link-text) consists of a sequence of zero or more inline elements enclosed by square brackets (`[` and `]`). The following rules apply:  
 
-*   Links may not contain other links, at any level of nesting. If multiple otherwise valid link definitions appear nested inside each other, the inner-most definition is used.
-*   Brackets are allowed in the [link text](https://github.github.com/gfm/#link-text) only if (a) they are backslash-escaped or (b) they appear as a matched pair of brackets, with an open bracket `[`, a sequence of zero or more inlines, and a close bracket `]`.
-*   Backtick [code spans](https://github.github.com/gfm/#code-spans), [autolinks](https://github.github.com/gfm/#autolinks), and raw [HTML tags](https://github.github.com/gfm/#html-tag) bind more tightly than the brackets in link text. Thus, for example, ``[foo`]` `` could not be a link text, since the second `]` is part of a code span.
-*   The brackets in link text bind more tightly than markers for [emphasis and strong emphasis](https://github.github.com/gfm/#emphasis-and-strong-emphasis). Thus, for example, `*[foo*](url)` is a link.
+* Links may not contain other links, at any level of nesting. If multiple otherwise valid link definitions appear nested inside each other, the inner-most definition is used.
+
+* Brackets are allowed in the [link text](https://github.github.com/gfm/#link-text) only if (a) they are backslash-escaped or (b) they appear as a matched pair of brackets, with an open bracket `[`, a sequence of zero or more inlines, and a close bracket `]`.
+
+* Backtick [code spans](https://github.github.com/gfm/#code-spans), [autolinks](https://github.github.com/gfm/#autolinks), and raw [HTML tags](https://github.github.com/gfm/#html-tag) bind more tightly than the brackets in link text. Thus, for example, ``[foo`]` `` could not be a link text, since the second `]` is part of a code span.
+
+* The brackets in link text bind more tightly than markers for [emphasis and strong emphasis](https://github.github.com/gfm/#emphasis-and-strong-emphasis). Thus, for example, `*[foo*](url)` is a link.
 
 A [link destination](https://github.github.com/gfm/#link-destination) consists of either  
 
-*   a sequence of zero or more characters between an opening `<` and a closing `>` that contains no spaces, line breaks, or unescaped `<` or `>` characters, or
-*   a nonempty sequence of characters that does not start with `<`, does not include ASCII space or control characters, and includes parentheses only if (a) they are backslash-escaped or (b) they are part of a balanced pair of unescaped parentheses.(Implementations may impose limits on parentheses nesting to avoid performance issues, but at least three levels of nesting should be supported.)
+* a sequence of zero or more characters between an opening `<` and a closing `>` that contains no spaces, line breaks, or unescaped `<` or `>` characters, or
+
+* a nonempty sequence of characters that does not start with `<`, does not include ASCII space or control characters, and includes parentheses only if (a) they are backslash-escaped or (b) they are part of a balanced pair of unescaped parentheses.(Implementations may impose limits on parentheses nesting to avoid performance issues, but at least three levels of nesting should be supported.)
 
 A [link title](https://github.github.com/gfm/#link-title) consists of either  
 
-*   a sequence of zero or more characters between straight double-quote characters (`"`), including a `"`character only if it is backslash-escaped, or
-*   a sequence of zero or more characters between straight single-quote characters (`'`), including a `'`character only if it is backslash-escaped, or
-*   a sequence of zero or more characters between matching parentheses (`(...)`), including a `(` or `)` character only if it is backslash-escaped.
+* a sequence of zero or more characters between straight double-quote characters (`"`), including a `"`character only if it is backslash-escaped, or
+
+* a sequence of zero or more characters between straight single-quote characters (`'`), including a `'`character only if it is backslash-escaped, or
+
+* a sequence of zero or more characters between matching parentheses (`(...)`), including a `(` or `)` character only if it is backslash-escaped.
+
                                                  
+
 Although [link titles](https://github.github.com/gfm/#link-title) may span multiple lines, they may not contain a [blank line](https://github.github.com/gfm/#blank-line).  
 An [inline link](https://github.github.com/gfm/#inline-link) consists of a [link text](https://github.github.com/gfm/#link-text) followed immediately by a left parenthesis `(`, optional [whitespace](https://github.github.com/gfm/#whitespace), an optional [link destination](https://github.github.com/gfm/#link-destination), an optional [link title](https://github.github.com/gfm/#link-title) separated from the link destination by [whitespace](https://github.github.com/gfm/#whitespace), optional [whitespace](https://github.github.com/gfm/#whitespace), and a right parenthesis `)`. The link’s text consists of the inlines contained in the [link text](https://github.github.com/gfm/#link-text)(excluding the enclosing square brackets). The link’s URI consists of the link destination, excluding enclosing `<...>` if present, with backslash-escapes in effect as described above. The link’s title consists of the link title, excluding its enclosing delimiters, with backslash-escapes in effect as described above.  
 Here is a simple inline link:  
@@ -43,13 +54,13 @@ The destination cannot contain line breaks, even if enclosed in pointy brackets:
 
 <Example :index="$page.frontmatter.start++"/>
 
-The destination can contain `)` if it is enclosed in pointy brackets:
+The destination can contain `)` if it is enclosed in pointy brackets:  
 <Example :index="$page.frontmatter.start++"/>
 
-Pointy brackets that enclose links must be unescaped:
+Pointy brackets that enclose links must be unescaped:  
 <Example :index="$page.frontmatter.start++"/>
 
-These are not links, because the opening pointy bracket is not matched properly:
+These are not links, because the opening pointy bracket is not matched properly:  
 <Example :index="$page.frontmatter.start++"/>
 
 Parentheses inside the link destination may be escaped:  

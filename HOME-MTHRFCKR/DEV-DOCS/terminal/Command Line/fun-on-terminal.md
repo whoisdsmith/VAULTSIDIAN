@@ -1,3 +1,5 @@
+# fun-on-terminal
+
 The Linux command line is not only a place for complex and powerful commands but also a fun playground. In this article, I have compiled a list of interesting Linux commands you can have fun with.
 
 ## **1\. cmatrix**
@@ -20,7 +22,7 @@ cmatrix
 
 cmatrix
 
-## 2\. xcowsay
+## 2\. Xcowsay
 
 For absolutely no reason, watch a cow say things for you. The xcowsay command accepts a text and displays a cow speaking it.
 
@@ -40,7 +42,7 @@ xcowsay Linux is Fun!
 
 xcowsay
 
-## 3\. sl
+## 3\. Sl
 
 Wanna travel with Command-Line? The steam Locomotive command is the right pick. Watch a locomotive span across your terminal. 🚂
 
@@ -60,7 +62,7 @@ sl
 
 sl
 
-## 4\. aafire
+## 4\. Aafire
 
 Set your terminal of fire 🔥 Check out this lit command.
 
@@ -80,7 +82,7 @@ aafire
 
 aafire
 
-## 5\. asciiquarium
+## 5\. Asciiquarium
 
 Okay, so you don’t like fire. How about having your own aquarium in the terminal 🌊 Try the asciiquarium command.  
 _P.S. For the mentioned steps, make sure to have the snap store installed._
@@ -101,7 +103,7 @@ asciiquarium
 
 asciiquarium
 
-## 6\. xeyes
+## 6\. Xeyes
 
 Run the xeyes command to watch these eyes stare right at you. 👀
 
@@ -121,7 +123,7 @@ xeyes
 
 xeyes
 
-## 7\. asciiview
+## 7\. Asciiview
 
 Curious what the image would look like in an only-ASCII world? Asciiview will generate them right for you. 🤖
 
@@ -141,7 +143,7 @@ asciiview your_image.png
 
 asciiview
 
-## 8\. yes
+## 8\. Yes
 
 Say yes to echo. This command prints the line continuously unless you stop it explicitly. (**_Hint: Try Ctrl+C_**)
 
@@ -161,7 +163,7 @@ yes You are Hacked
 
 yes
 
-## 9\. fortune
+## 9\. Fortune
 
 Leveraging the power of advanced deep learning and Artificial Intelligence, the command will tell your exact fortune. 🔮  
 (_Just Kidding, it generates a random fortune text_)
@@ -182,7 +184,7 @@ fortune
 
 fortune
 
-## 10\. Bonus: banner + lolcat
+## 10\. Bonus: Banner + Lolcat
 
 Who said terminal is all about just plain characters and black and white stuff? Try this hack and build amazing looking banners.
 

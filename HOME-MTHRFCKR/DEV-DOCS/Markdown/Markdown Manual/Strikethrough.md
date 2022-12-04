@@ -1,5 +1,8 @@
+# Strikethrough
+
 {{($page.frontmatter.start = 491) ? null : null}}
-### Strikethrough (extension)
+
+## Strikethrough (extension)
 
 GFM enables the `strikethrough` extension, where an additional emphasis type is available.  
 Strikethrough text is any text wrapped in two tildes (`~`).  

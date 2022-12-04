@@ -1,4 +1,7 @@
-### Setext headings
+# setext-headings
+
+## Setext Headings
+
 {{($page.frontmatter.start = 50) ? null : null}}
 
 A [setext heading](https://github.github.com/gfm/#setext-heading) consists of one or more lines of text, each containing at least one [non-whitespace character](https://github.github.com/gfm/#non-whitespace-character), with no more than 3 spaces indentation, followed by a [setext heading underline](https://github.github.com/gfm/#setext-heading-underline). The lines of text must be such that, were they not followed by the setext heading underline, they would be interpreted as a paragraph: they cannot be interpretable as a [code fence](https://github.github.com/gfm/#code-fence), [ATX heading](https://github.github.com/gfm/#atx-headings), [block quote](https://github.github.com/gfm/#block-quotes), [thematic break](https://github.github.com/gfm/#thematic-breaks), [list item](https://github.github.com/gfm/#list-items), or [HTML block](https://github.github.com/gfm/#html-blocks).  
@@ -81,10 +84,10 @@ If you want a heading with `> foo` as its literal text, you can use backslash 
 
 One can find four different interpretations:  
 
-1.  paragraph “Foo”, heading “bar”, paragraph “baz”
-2.  paragraph “Foo bar”, thematic break, paragraph “baz”
-3.  paragraph “Foo bar — baz”
-4.  heading “Foo bar”, paragraph “baz”
+1. paragraph “Foo”, heading “bar”, paragraph “baz”
+2. paragraph “Foo bar”, thematic break, paragraph “baz”
+3. paragraph “Foo bar — baz”
+4. heading “Foo bar”, paragraph “baz”
 
 We find interpretation 4 most natural, and interpretation 4 increases the expressive power of CommonMark, by allowing multiline headings. Authors who want interpretation 1 can put a blank line after the first paragraph:  
 <Example :index="$page.frontmatter.start++"/>
@@ -97,4 +100,3 @@ or use a thematic break that cannot count as a [setext heading underline](https
 
 Authors who want interpretation 3 can use backslash escapes:  
 <Example :index="$page.frontmatter.start++"/>
-

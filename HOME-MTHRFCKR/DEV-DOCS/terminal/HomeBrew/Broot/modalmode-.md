@@ -1,8 +1,10 @@
+# Modalmode-
+
 The "modal mode", which may be familiar to vim users, changes a little the way you interact with broot:
 
--   The input at the bottom isn't immediately focused, you must type a space, a `:`, or a `/` to focus it. And you unfocus it with the escape key.
--   The upside is you can use keyboard shortcuts without ctrl, for example you may move the selection with j and k.
--   The downside is you have one letter more to type to start searching, which isn't to dismiss as searching is usually the first thing you do in broot.
+- The input at the bottom isn't immediately focused, you must type a space, a `:`, or a `/` to focus it. And you unfocus it with the escape key.
+- The upside is you can use keyboard shortcuts without ctrl, for example you may move the selection with j and k.
+- The downside is you have one letter more to type to start searching, which isn't to dismiss as searching is usually the first thing you do in broot.
 
 I recommand you **don't** activate this mode until you really tried broot. Broot isn't a text editor and can't be confused with one. This mode may be more comfortable when you constantly jump from vim to broot but only after you understood how broot works.
 
@@ -20,8 +22,8 @@ If `modal` isn't set to `true`, the single letter shortcuts you define in config
 
 Broot may be in one of two modes:
 
-1.  **input** mode, with the input field at the bottom focused and received standard keys
-2.  **command** mode, with input not focused, and single key shortcuts enabled
+1. **input** mode, with the input field at the bottom focused and received standard keys
+2. **command** mode, with input not focused, and single key shortcuts enabled
 
 In _command_ mode, you'll find those keys already configured: _`j` and `k` to go down and up_ `h` and `l` to go to parent or to enter a directory
 

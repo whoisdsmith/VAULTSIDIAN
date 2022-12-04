@@ -1,5 +1,8 @@
+# Images
+
 {{($page.frontmatter.start = 580) ? null : null}}
-### Images
+
+## Images
 
 Syntax for images is like the syntax for links, with one difference. Instead of [link text](https://github.github.com/gfm/#link-text), we have an [image description](https://github.github.com/gfm/#image-description). The rules for this are the same as for [link text](https://github.github.com/gfm/#link-text), except that (a) an image description starts with `![` rather than `[`, and (b) an image description may contain links. An image description has inline elements as its contents. When an image is rendered to HTML, this is standardly used as the image’s `alt` attribute.  
 <Example :index="$page.frontmatter.start++"/>
@@ -55,4 +58,5 @@ If you just want a literal `!` followed by bracketed text, you can backslash-e
 
 If you want a link after a literal `!`, backslash-escape the `!`:  
 <Example :index="$page.frontmatter.start++"/>
+
     

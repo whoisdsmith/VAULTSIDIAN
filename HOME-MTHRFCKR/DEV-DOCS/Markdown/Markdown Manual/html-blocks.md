@@ -1,28 +1,31 @@
+# html-blocks
+
 {{($page.frontmatter.start = 118) ? null : null}}
-### HTML blocks
+
+## HTML Blocks
 
 An [HTML block](https://github.github.com/gfm/#html-block) is a group of lines that is treated as raw HTML (and will not be escaped in HTML output).  
 
 There are seven kinds of [HTML block](https://github.github.com/gfm/#html-block), which can be defined by their start and end conditions. The block begins with a line that meets a [start condition](https://github.github.com/gfm/#start-condition) (after up to three spaces optional indentation). It ends with the first subsequent line that meets a matching [end condition](https://github.github.com/gfm/#end-condition), or the last line of the document or other [container block](https://github.github.com/gfm/#container-block)), if no line is encountered that meets the [end condition](https://github.github.com/gfm/#end-condition). If the first line meets both the [start condition](https://github.github.com/gfm/#start-condition) and the [end condition](https://github.github.com/gfm/#end-condition), the block will contain just that line.  
 
-1.  **Start condition:** line begins with the string `<script`, `<pre`, or `<style` (case-insensitive), followed by whitespace, the string `>`, or the end of the line.  
+1. **Start condition:** line begins with the string `<script`, `<pre`, or `<style` (case-insensitive), followed by whitespace, the string `>`, or the end of the line.  
     **End condition:** line contains an end tag `</script>`, `</pre>`, or `</style>` (case-insensitive; it need not match the start tag).  
     
-2.  **Start condition:** line begins with the string `<!--`.  
+2. **Start condition:** line begins with the string `<!--`.  
     **End condition:** line contains the string `-->`.  
     
-3.  **Start condition:** line begins with the string `<?`.  
+3. **Start condition:** line begins with the string `<?`.  
     **End condition:** line contains the string `?>`.  
     
-4.  **Start condition:** line begins with the string `<!` followed by an uppercase ASCII letter.  
+4. **Start condition:** line begins with the string `<!` followed by an uppercase ASCII letter.  
     **End condition:** line contains the character `>`.  
     
-5.  **Start condition:** line begins with the string `<![CDATA[`.  
+5. **Start condition:** line begins with the string `<![CDATA[`.  
     **End condition:** line contains the string `]]>`.  
     
-6.  **Start condition:** line begins the string `<` or `</` followed by one of the strings (case-insensitive) `address`, `article`, `aside`, `base`, `basefont`, `blockquote`, `body`, `caption`, `center`, `col`, `colgroup`, `dd`, `details`, `dialog`, `dir`, `div`, `dl`, `dt`, `fieldset`, `figcaption`, `figure`, `footer`, `form`, `frame`, `frameset`, `h1`, `h2`, `h3`, `h4`, `h5`, `h6`, `head`, `header`, `hr`, `html`, `iframe`, `legend`, `li`, `link`, `main`, `menu`, `menuitem`, `nav`, `noframes`, `ol`, `optgroup`, `option`, `p`, `param`, `section`, `source`, `summary`, `table`, `tbody`, `td`, `tfoot`, `th`, `thead`, `title`, `tr`, `track`, `ul`, followed by [whitespace](https://github.github.com/gfm/#whitespace), the end of the line, the string `>`, or the string `/>`.  
+6. **Start condition:** line begins the string `<` or `</` followed by one of the strings (case-insensitive) `address`, `article`, `aside`, `base`, `basefont`, `blockquote`, `body`, `caption`, `center`, `col`, `colgroup`, `dd`, `details`, `dialog`, `dir`, `div`, `dl`, `dt`, `fieldset`, `figcaption`, `figure`, `footer`, `form`, `frame`, `frameset`, `h1`, `h2`, `h3`, `h4`, `h5`, `h6`, `head`, `header`, `hr`, `html`, `iframe`, `legend`, `li`, `link`, `main`, `menu`, `menuitem`, `nav`, `noframes`, `ol`, `optgroup`, `option`, `p`, `param`, `section`, `source`, `summary`, `table`, `tbody`, `td`, `tfoot`, `th`, `thead`, `title`, `tr`, `track`, `ul`, followed by [whitespace](https://github.github.com/gfm/#whitespace), the end of the line, the string `>`, or the string `/>`.  
     **End condition:** line is followed by a [blank line](https://github.github.com/gfm/#blank-line).
-7.  **Start condition:** line begins with a complete [open tag](https://github.github.com/gfm/#open-tag) or [closing tag](https://github.github.com/gfm/#closing-tag) (with any [tag name](https://github.github.com/gfm/#tag-name) other than `script`, `style`, or `pre`) or a complete closing tag,followed only by [whitespace](https://github.github.com/gfm/#whitespace) or the end of the line.  
+7. **Start condition:** line begins with a complete [open tag](https://github.github.com/gfm/#open-tag) or [closing tag](https://github.github.com/gfm/#closing-tag) (with any [tag name](https://github.github.com/gfm/#tag-name) other than `script`, `style`, or `pre`) or a complete closing tag,followed only by [whitespace](https://github.github.com/gfm/#whitespace) or the end of the line.  
     **End condition:** line is followed by a [blank line](https://github.github.com/gfm/#blank-line).
 
 HTML blocks continue until they are closed by their appropriate [end condition](https://github.github.com/gfm/#end-condition), or the last line of the document or other [container block](https://github.github.com/gfm/#container-block). This means any HTML **within an HTML block** that might otherwise be recognised as a start condition will be ignored by the parser and passed through as-is, without changing the parser’s state.  
@@ -133,7 +136,6 @@ An HTML block of types 1–6 can interrupt a paragraph, and need not be preceded
 However, a following blank line is needed, except at the end of a document, and except for blocks of types 1–5, [above](https://github.github.com/gfm/#html-block) HTML block:  
 <Example :index="$page.frontmatter.start++"/>
 
-
 HTML blocks of type 7 cannot interrupt a paragraph:  
 <Example :index="$page.frontmatter.start++"/>
 
@@ -143,9 +145,11 @@ This rule differs from John Gruber’s original Markdown syntax specification, w
 
 In some ways Gruber’s rule is more restrictive than the one given here:  
 
-*   It requires that an HTML block be preceded by a blank line.
-*   It does not allow the start tag to be indented.
-*   It requires a matching end tag, which it also does not allow to be indented.
+* It requires that an HTML block be preceded by a blank line.
+
+* It does not allow the start tag to be indented.
+
+* It requires a matching end tag, which it also does not allow to be indented.
 
 Most Markdown implementations (including some of Gruber’s own) do not respect all of these restrictions.  
 There is one respect, however, in which Gruber’s rule is more liberal than the one given here, since it allows blank lines to occur inside an HTML block. There are two reasons for disallowing them here. First, it removes the need to parse balanced tags, which is expensive and can require backtracking from the end of the document if no matching end tag is found. Second, it provides a very simple and flexible way of including Markdown content inside HTML tags: simply separate the Markdown from the HTML using blank lines:  
