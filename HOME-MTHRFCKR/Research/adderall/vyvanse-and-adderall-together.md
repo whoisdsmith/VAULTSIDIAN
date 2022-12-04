@@ -28,7 +28,7 @@ _In this article, we’ll look at the dangers and benefits of taking Vyvanse and
 
 * * *
 
-## Side effects of taking Vyvanse and Adderall together
+## Side Effects of Taking Vyvanse and Adderall Together
 
 Aside from increasing attention and motivation, Adderall and Vyvanse have other adverse effects. Some individuals abuse them recreationally or without a prescription. Abuse of amphetamines has negative long-term and short-term consequences, including heart attacks, diseased heart muscle, and sudden death. In addition to these adverse side effects, they can also increase the heart rate and blood pressure.
 
@@ -42,7 +42,7 @@ While both adderall and Vyvanse have fewer side effects, the two drugs may incre
 
 * * *
 
-## Does it make sense to stack Adderall and Vyvanse?
+## Does it Make Sense to Stack Adderall and Vyvanse?
 
 While the wholesale price for Adderall is about $113 per bottle, the generic version is less expensive. However, Vyvanse does not have a generic version. Unlike Adderall, which is available in generic form, the price of Vyvanse will vary depending on the pharmacy and the strength. Both adderall and Vyvanse are associated with a number of side effects, and taking them together may lead to a higher price than if you take them separately.
 
@@ -54,7 +54,7 @@ People with a history of addiction to antidepression drugs should avoid taking t
 
 * * *
 
-## Dosage: How much Adderall and Vyvanse should you take?
+## Dosage: How Much Adderall and Vyvanse Should You Take?
 
 Dosage of Vyvanse (Vyvanse) and Adderall (Adderall) together is not recommended. While they work in different ways to treat ADHD, they do have some similarities. Both add-on medications have similar side effects, such as dry mouth, headache, weight loss, and insomnia. But when taken together, these medications may cause additive effects, such as high blood pressure and a rapid heartbeat. To avoid these undesirable side effects, make sure to consult with your healthcare professional before starting any new treatment plan.
 
@@ -78,7 +78,7 @@ While Vyvanse is often marketed as a “smoother” than Adderall, it’s possib
 
 * * *
 
-## Other drugs to avoid mixing with Vyvanse
+## Other Drugs to Avoid Mixing with Vyvanse
 
 There are some other drugs to avoid while taking Vyvansy and Adderall together, and there are also a few food and drink items to stay away from while taking both medications. These include Zoloft (a selective serotonin reuptake inhibitor) and vitamin C supplements, which increase blood acidity. Caffeine, on the other hand, is a stimulant, so it can increase the effects of the amphetamine.
 
@@ -101,7 +101,6 @@ Alcohol and other alcohol are known to interact with Adderall. However, these in
 [P. Tardner](https://www.ijest.org/author/p_tardner/)
 
 Paul Tardner is the Lead Author at IJEST.org. Paul is a former academic and research scientists. He now dedicates his time to his own research into natural biohacking, with a particular focus on cognitive enhancement.
-
 
 ___
 

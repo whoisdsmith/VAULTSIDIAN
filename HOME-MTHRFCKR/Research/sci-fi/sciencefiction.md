@@ -1,4 +1,4 @@
-# Science Fiction 
+# Science Fiction
 
 [[A – Z of Science Fiction words]]
 
@@ -15,5 +15,3 @@
 [[Science Fiction Words]]
 
 [[Science Fiction Vocabulary]]
-
-

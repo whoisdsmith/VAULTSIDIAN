@@ -1,6 +1,6 @@
+# aos-blog
+
 pretty space words
-
-
 
 **aphelion** - the point in the orbit of a planet, asteroid, or comet at which it is farthest from the Sun.  
 
@@ -73,4 +73,3 @@ pretty space words
 **solstice** - when the sun is at either its highest or lowest point in the sky at noon, when day is longest and shortest respectively.
 
 **zenith** - the highest point reached on the celestial sphere located directly overhead from an observer.
-

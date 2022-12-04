@@ -1,12 +1,12 @@
-
 # Sci-fi Keywords
+
 ---
 
  
+
 Abolish, Absolute, Acceleration, Achromatic, Adventure, Aerolite, Affect, AI's, Albedo, Alchemy, Aldebaran, Alien, Aliens, Alignment, Allegory, Alliance, Alpha Rays, Alteration, Alternate Universe, Alternatives, Android, Androids, Angstrom Unit, Animation, Anti-Gravity, Anti-Utopia, Aphelion, Apogee, Apollo, Appeal, Archimedes’ Principle, Argon, Artificial Intelligence, Artificial Radioactivity, Asteroid, Asteroids, Astrocompass, Athermancy, Atmosphere, Atmosphere, Atom, Atomic Bomb, Atomic Weight, Atomic, Aurora Borealis, Automation, Azimuth, 
 
 ---
-
 
 Band Spectra, Barren, Behavior, Beta Rays, Betatron, Betelgeuse, Binary System, Binomial, Bionic, Bivalent, Bizarre, Black Body Radiation, Black Hole, Books, Boyle’ Law, Brain Relativity, Breach, Brownian Movement, 
 
@@ -25,7 +25,6 @@ Earth, Eclipse, Ecliptic, Eerie, Effects, Electrode, Electrolysis, Electromagnet
 ---
 
 Faculae, Fahrenheit Degree, Falling Star, Fantastic, Fantasy, Far-Fetched, Field, Fighting, Films, Fire, Fireball, Fission, Fitzgerald Contraction, Flames, Fluorescence, Flying Saucer, Force, Forcefield, Fourth Dimension, Frequency, Friction, Function, Fundamental, Futurism, Futuristic, 
-
 
 ---
 

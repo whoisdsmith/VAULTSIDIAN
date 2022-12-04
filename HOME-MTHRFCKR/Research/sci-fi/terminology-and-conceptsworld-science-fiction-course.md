@@ -22,15 +22,12 @@ spyfi,
 
 **A few other sites for SF terminology and concepts  
 **[101 SF Tropes Writers Should (??) Use](https://www.writerswrite.co.za/101-sci-fi-tropes-for-writers/)  
-[75 Words Every SF Fan Should Know  
-](http://www.techrepublic.com/blog/geekend/75-words-every-sci-fi-fan-should-know/)[Glossary of SF Ideas, Technology, and Inventions  
-](http://www.technovelgy.com/ct/ctnlistalpha.asp)**by [device](http://www.technovelgy.com/ct/ctnlistalpha.asp) name, by [author](http://www.technovelgy.com/ct/AuthorList.asp), by [category](http://www.technovelgy.com/ct/Science_List.asp), or [novel/story title](http://www.technovelgy.com/ct/NovelList.asp)  
-[ ](http://www.techrepublic.com/blog/geekend/75-words-every-sci-fi-fan-should-know/)[Oxford Dictionary of Science Fiction](http://cbbcat.net/search~S19?/Xbrave+new+words&searchscope=19&SORT=DZ/Xbrave+new+words&searchscope=19&SORT=DZ&extended=0&SUBKEY=brave+new+words/1%2C27%2C27%2CB/frameset&FF=Xbrave+new+words&searchscope=19&SORT=DZ&4%2C4%2C) (ebook in Bowdoin’s library)  
-[ ](http://www.wardshelley.com/paintings/pages/fullpics/HistSciFi2.jpg)[SF subgenres](http://bestsciencefictionbooks.com/)  
-[ ](http://www.technovelgy.com/ct/ctnlistalpha.asp)[SF author pen names](http://www.scifi.darkroastedblend.com/2007/08/authors-pseudonyms.html)  
-[ ](http://www.technovelgy.com/ct/ctnlistalpha.asp)[SF Glossary  
-](http://www.catb.org/esr/sf-words/glossary.html)[SF literature and film vocab list](http://www.jessesword.com/sf/list)  
-[ ](http://www.supersummary.com/science-fiction-fantasy-guide/)List of [fictional computers](http://en.wikipedia.org/wiki/List_of_fictional_computers)
+[75 Words Every SF Fan Should Know](http://www.techrepublic.com/blog/geekend/75-words-every-sci-fi-fan-should-know/)[Glossary of SF Ideas, Technology, and Inventions](http://www.technovelgy.com/ct/ctnlistalpha.asp)**by [device](http://www.technovelgy.com/ct/ctnlistalpha.asp) name, by [author](http://www.technovelgy.com/ct/AuthorList.asp), by [category](http://www.technovelgy.com/ct/Science_List.asp), or [novel/story title](http://www.technovelgy.com/ct/NovelList.asp)  
+[](http://www.techrepublic.com/blog/geekend/75-words-every-sci-fi-fan-should-know/)[Oxford Dictionary of Science Fiction](http://cbbcat.net/search~S19?/Xbrave+new+words&searchscope=19&SORT=DZ/Xbrave+new+words&searchscope=19&SORT=DZ&extended=0&SUBKEY=brave+new+words/1%2C27%2C27%2CB/frameset&FF=Xbrave+new+words&searchscope=19&SORT=DZ&4%2C4%2C) (ebook in Bowdoin’s library)  
+[](http://www.wardshelley.com/paintings/pages/fullpics/HistSciFi2.jpg)[SF subgenres](http://bestsciencefictionbooks.com/)  
+[](http://www.technovelgy.com/ct/ctnlistalpha.asp)[SF author pen names](http://www.scifi.darkroastedblend.com/2007/08/authors-pseudonyms.html)  
+[](http://www.technovelgy.com/ct/ctnlistalpha.asp)[SF Glossary](http://www.catb.org/esr/sf-words/glossary.html)[SF literature and film vocab list](http://www.jessesword.com/sf/list)  
+[](http://www.supersummary.com/science-fiction-fantasy-guide/)List of [fictional computers](http://en.wikipedia.org/wiki/List_of_fictional_computers)
 
 * * *
 
@@ -54,7 +51,7 @@ Some Themes and Concepts
 
 **Alien Species/Worlds**
 
-  1. [ Alien Invasion](http://tvtropes.org/pmwiki/pmwiki.php/Main/AlienInvasion): Beings from space come to Earth to conquer. See also: [TV Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/AlienInvasion).
+  1. [Alien Invasion](http://tvtropes.org/pmwiki/pmwiki.php/Main/AlienInvasion): Beings from space come to Earth to conquer. See also: [TV Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/AlienInvasion).
   2. [Arelogy](https://en.wiktionary.org/wiki/areology): the study of Mars, esp. the geology
   3. [BEM](http://www.jessesword.com/sf/view/205): Abbreviation for [bug-eyed monster](http://www.jessesword.com/sf/view/301), or an extra-terrestrial monster with bulging eyes. See also: [SFE](http://www.sf-encyclopedia.com/entry/bem).
   4. [First Contact](http://www.jessesword.com/sf/view/455): The first meeting between two different intelligent species. See also: [TV Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/FirstContact). [SFE](http://www.sf-encyclopedia.com/entry/first_contact).
@@ -68,6 +65,7 @@ Some Themes and Concepts
   12. [Xenology](http://www.jessesword.com/sf/view/383): The scientific study of extraterrestrial phenomena, esp. xenobiology.
 
   
+
 **Humanity**
 
   12. [Cyborg](http://www.jessesword.com/sf/view/296): “cybernetic organism”: a living organism with biological and machine components. The biological part is not necessarily of human origin.
@@ -77,7 +75,7 @@ Some Themes and Concepts
   16. [Meatspace](http://www.urbandictionary.com/define.php?term=meatspace%20): the “real” world of flesh and blood, as distinct from virtual/cyberspace.
   17. [Mutant](http://www.jessesword.com/sf/view/72): a human imagined as having arisen by genetic mutation, esp. one with freakish or grossly abnormal anatomy, abilities, etc. See also: [TV Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/Mutants).
   18. [Posthuman](http://www.jessesword.com/sf/view/496): A descendant of humans who is sufficiently different from present-day humans in form or capabilities to be regarded as a new species or otherwise fundamentally different from present-day humans. See also: [SFE](http://www.sf-encyclopedia.com/entry/posthuman).
-  19.  [Precog](http://www.jessesword.com/sf/view/1094): A person with precognitive abilities.
+  19. [Precog](http://www.jessesword.com/sf/view/1094): A person with precognitive abilities.
   20. [Singularity](http://www.jessesword.com/sf/view/294): The transition to posthumanity. See also: [TV Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSingularity). [SFE](http://www.sf-encyclopedia.com/entry/singularity).
   21. [Transhuman](http://www.jessesword.com/sf/view/1390)/ Transhumanism: A human who has through evolution or augmentation acquired capabilities beyond the normal human range sufficient to be regarded as no longer merely human. See also: [TV Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/Transhuman). [H+ movement](http://humanityplus.org/%20). [Wikipedia](http://en.wikipedia.org/wiki/Transhumanism).
   22. [Wetware](http://tvtropes.org/pmwiki/pmwiki.php/Main/WetwareCPU): A biological system and typically refers to the human brain and nervous system. It can also come to mean bacterial computers and organic based processing agents. See also:  [TV Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/WetwareCPU).
@@ -107,6 +105,7 @@ Some Themes and Concepts
   42. [Unobtanium](http://tvtropes.org/pmwiki/pmwiki.php/Main/Unobtainium): The exotic metal or other material that is needed to make the nifty machines and plot enabling gadgets to work. See also:  [TV Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/Unobtainium).
 
   
+
 **SF “Laws”**
 
   40. [Asimov’s 3 Laws of Robotics](http://tvtropes.org/pmwiki/pmwiki.php/Main/ThreeLawsCompliant): Programmed safeguards robots follow in the absence of human control. 1) A robot may not injure a human being or, through inaction, allow a human being to come to harm. 2) A robot must obey orders given to it by human beings, except where such orders would conflict with the First Law. 3) A robot must protect its own existence, as long as such protection does not conflict with the First or Second Laws. See also: [TV Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/ThreeLawsCompliant).
@@ -115,6 +114,7 @@ Some Themes and Concepts
   43. [H. G. Wells’s Law:](http://www.sf-encyclopedia.com/entry/wellss_law) A sf or fantasy story should contain only a single extraordinary assumption.
 
   
+
 **Some Subgenres**
 
   45. [Afrofuturism](http://www.sf-encyclopedia.com/entry/afrofuturism): A form of science fiction that uses Fantasy, Science Fiction, and Magic Realism to examine black culture. See also: [TV Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/Afrofuturism). [SFE](http://www.sf-encyclopedia.com/entry/afrofuturism).
@@ -151,6 +151,7 @@ Some Themes and Concepts
   76. [Utopian sf](http://en.wikipedia.org/wiki/Utopian_and_dystopian_fiction): The utopia and its offshoot, the dystopia, are genres of literature that explore social and political structures. Utopian fiction is the creation of an ideal society, or utopia, as the setting for a novel. See also:  [TV Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/Utopia).
 
   
+
 **Some Themes and Concepts**
 
   73. [Arcology](http://en.wikipedia.org/wiki/Arcology): visionary architect Paolo Soleri’s theory for an architecture that fuses archeology+ecology and thinks in terms of creature structures and cities that have as little impact on the environment as possible.
@@ -194,7 +195,6 @@ Some Themes and Concepts
 ![](http://i.creativecommons.org/l/by-nc/3.0/88x31.png)  
 The information on this website is licensed under [Creative Commons 4.0](http://creativecommons.org/licenses/by-nc/4.0/).  
 The images are © [Franco Brambilla](http://francobrambilla.com/home.html).
-
 
 ___
 

@@ -18,5 +18,4 @@ I don’t feel suicidal in any way, I don’t have the effort or ambition to end
 An infinite loop, which repeats indefinitely, is often created when a programmer writes a loop in which the expression tested never becomes false.
 ```
 
-
 ---

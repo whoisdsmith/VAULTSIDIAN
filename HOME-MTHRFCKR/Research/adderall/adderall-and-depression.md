@@ -60,7 +60,7 @@ For Adderall to work effectively, it must have an effect on the brain’s chemis
 
 * * *
 
-## **Symptoms of Adderall Depression**
+## **Symptoms Of Adderall Depression**
 
 Symptoms of Adderall depression can manifest in a variety of ways. The first symptom of this condition is feeling bloated. The person may also be irritable, agitated, or have trouble sleeping. The medication also causes the user to lose interest in activities that they once enjoyed. They may experience a loss of interest in daily tasks and lose their enjoyment in activities they once loved. Further, the person may experience a loss of pleasure in activities they used to find pleasure.
 
@@ -92,7 +92,7 @@ However, it must be said that Adderall use can cause many more problems than it 
 
 * * *
 
-## **Conclusion: Should you use Adderall for depression?**
+## **Conclusion: Should You Use Adderall for depression?**
 
 The short answer to this question is “no”.
 
@@ -115,7 +115,6 @@ While some individual cases of depression and anxiety can be managed with Addera
 [P. Tardner](https://www.ijest.org/author/p_tardner/)
 
 Paul Tardner is the Lead Author at IJEST.org. Paul is a former academic and research scientists. He now dedicates his time to his own research into natural biohacking, with a particular focus on cognitive enhancement.
-
 
 ___
 

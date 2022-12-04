@@ -148,7 +148,6 @@ But it’s not the mind-expanding sixties anymore. Every era, it seems, has its 
 
 This winter, I spoke again with Alex, the Harvard graduate, and found that, after a break of several months, he had gone back to taking Adderall—a small dose every day. He felt that he was learning to use the drug in a more “disciplined” manner. Now, he said, it was less about staying up late to finish work he should have done earlier, and more “about staying focussed on work, which makes me want to work longer hours.” What employer would object to that? ♦
 
-
 ---- 
 
 [1]:	https://www.newyorker.com/cartoon/a14131

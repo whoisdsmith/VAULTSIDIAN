@@ -1,3 +1,5 @@
+# glossary-of-astronomy-terms-astronomy-reference-guide-on-sea-and-sky
+
 A
 
 Absolute Magnitude  

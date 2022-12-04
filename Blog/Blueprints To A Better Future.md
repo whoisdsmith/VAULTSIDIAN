@@ -1,5 +1,7 @@
+# Blueprints To A Better Future
 
 ## Blueprints To A Better Future
+
 ---
 
 - **Always** **Communicate**
@@ -9,7 +11,7 @@
 - **Always Be Honest.** 
    - If you do or say something bad, own that shit and apologize. 
    - Pride and being stubborn has no place when it comes to making mistakes. That's the devils work and fuck that guy.
-   -  When you lie your relationship will bleed and so will the person you lied to.
+   - When you lie your relationship will bleed and so will the person you lied to.
 
 - **Understand YOUR Needs and the things YOU value.** 
    - It's just important to understand THEIR needs and what they value as well.

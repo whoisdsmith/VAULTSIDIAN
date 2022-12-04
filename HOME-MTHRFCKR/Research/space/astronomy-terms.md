@@ -1,9 +1,10 @@
+# astronomy-terms
+
 Knowing some of the most oft-used astronomy terms will help you better understand the nuts and bolts of stargazing and the science of astronomy.
 
 What’s the difference between a reflector and a refractor? Why is a [meteor not a meteorite](http://skyandtelescope.org/observing/celestial-objects-to-watch/about-meteors/)?
 
 Whether you're choosing a telescope, deep in the pages of [_Sky & Telescope_](http://skyandtelescope.org/subscribe), or [planning your trip to the next big celestial event](https://skyandtelescope.org/astronomy-travel), the astronomy glossary below will get you up-to-speed on the essentials.
-
 
 [![Galaxy Alphabet - Astronomy Terms](https://skyandtelescope.org/wp-content/uploads/et950y_big.png)](http://skyandtelescope.org/wp-content/uploads/et950y_big.png)
 

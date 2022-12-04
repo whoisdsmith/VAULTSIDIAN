@@ -1,4 +1,4 @@
- # Word List for Equinox, Space and Solstice (356)
+# Word List for Equinox, Space and Solstice (356)
 
   * **A)**
 
@@ -93,12 +93,14 @@ Vaporize, Variation, Variety, Vast, Vehicle, Velocity, Vent, Venus, Vibration, V
 Waning moon, Warming, Wavelength, Waxing moon, Weather, Weightlessness, Whirl
 
   * **X)**
+
   * **Y)**
+
   * **Z)**
 
 Zeal, Zenith, Zero, Zodiac, Zone
 
-**Planets in the solar system listed in proximity to the sun**   
+**Planets in the solar system listed in proximity to the sun**  
 Mercury  
 Venus  
 Earth  
@@ -107,4 +109,5 @@ Jupiter
 Saturn  
 Uranus  
 Neptune  
+
   

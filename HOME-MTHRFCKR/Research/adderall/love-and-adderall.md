@@ -20,7 +20,6 @@ He says I am sweet, too, and kind. I want to tell him that these are common trai
 
 “Thank you,” is all I say, and it is all that I can reveal for now.
 
-
 ___
 
 #article #adderall

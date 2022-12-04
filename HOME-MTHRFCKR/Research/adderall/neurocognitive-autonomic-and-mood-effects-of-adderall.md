@@ -164,7 +164,7 @@ This research was supported by grants awarded to. L. Weyandt and T. L. White (co
 
 The authors report no competing biomedical financial interests or potential conflicts of interest. The founding sponsors had no role in the design of the study; in the collection, analyses, or interpretation of data; in the writing of the manuscript, and in the decision to publish the results.
 
-## Article information
+## Article Information
 
 Pharmacy (Basel). 2018 Sep; 6(3): 58. 
 
@@ -293,7 +293,6 @@ Articles from Pharmacy: Journal of Pharmacy Education and Practice are provided 
 58\. Cropsey K.L., Schiavon S., Hendricks P.S., Froelich M., Lentowicz I., Fargason R. Mixed-amphetamine salts expectancies among college students: Is stimulant induced cognitive enhancement a placebo effect? Drug Alcohol Depend. 2017;178:302–309. doi: 10.1016/j.drugalcdep.2017.05.024. [[PubMed](/pubmed/28686989)] [[CrossRef](//dx.doi.org/10.1016%2Fj.drugalcdep.2017.05.024)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Drug+Alcohol+Depend.&title=Mixed-amphetamine+salts+expectancies+among+college+students:+Is+stimulant+induced+cognitive+enhancement+a+placebo+effect?&author=K.L.+Cropsey&author=S.+Schiavon&author=P.S.+Hendricks&author=M.+Froelich&author=I.+Lentowicz&volume=178&publication_year=2017&pages=302-309&pmid=28686989&doi=10.1016/j.drugalcdep.2017.05.024&)]
 
 59\. Venter A.M., Scott E. Maximizing power in randomized designs when N is small. In: Hoyle R.H., editor. Statistical Strategies for Small Sample Research. Sage Publications; Thousand Oaks, CA, USA: 1999. pp. 33–57. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Statistical+Strategies+for+Small+Sample+Research&author=A.M.+Venter&author=E.+Scott&publication_year=1999&)]
-
 
 ___
 

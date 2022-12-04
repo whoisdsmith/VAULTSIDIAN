@@ -1,4 +1,4 @@
-# Nine sci-fi subgenres to help you understand the future
+# Nine Sci-fi Subgenres to Help You Understand the Future
 
 ![](https://cms.qz.com/wp-content/uploads/2018/11/ANH-FF-006K-e1541158154693.jpg?quality=75&strip=all&w=410&h=230)
 
@@ -40,7 +40,7 @@ This doesn’t mean that chaohuan is afraid of being provocative. As Ash argues 
 
 Pixabay
 
-### What to read
+### What to Read
 
 **Han Song, _2066: Red Star Over America_ (2000) **
 
@@ -70,7 +70,7 @@ In February, 2016, How We Get To Next published a whole month of articles on thi
 
 Wakanda in Marvel’s “Black Panther.”
 
-### What to read
+### What to Read
 
 **N. K. Jemisin, _The Fifth Season_ (2015)**
 
@@ -94,7 +94,7 @@ Like [vaporwave](https://en.wikipedia.org/wiki/Vaporwave), the mid-2010s musical
 
 > Gulf futurism offers no new imagery to displace the hegemonic ones in power—instead setting up the scaffolding to reproduce the injustices, structural degradation, and racial erasures of the present. As ethnofuturisms go, it feels like there’s something missing, too. Where’s the longing, the displacement, the impossibility of return? Where’s the Afghan, the Filipino, the Indian, the Iranian, the Somali, the Pakistani, the Bangladeshi, the Iraqi, and all the other non-Khaleeji Arabs all bound up into one pathologised brown body? [. . .] At base, Gulf futurism is “plus ça change futurism,” all wrapped up in what a friend has dubbed “flying force fields of neo-Arabness.” [. . .] How can it be sci-fi without social justice?
 
-### What to consume
+### What to Consume
 
 Gulf Futurism hasn’t really produced novels as such. Instead, check out:
 
@@ -117,7 +117,7 @@ So says author Jane Rawson, speaking in 2018 to Ben Brooker about Australian lit
 
 Similarly, media theorist McKenzie Wark has [written](https://www.versobooks.com/blogs/3356-on-the-obsolescence-of-the-bourgeois-novel-in-the-anthropocene) about the “obsolescence of the bourgeois novel in the Anthropocene.” That is, “climate change exceeds what the form of the bourgeois novel can express.” He recommends “cli-fi” as a genre, though he notes that “it includes some quite terrible books,” such as Ian McEwan’s _Solar_, in which “the imminent collapse of industrial civilization” is mapped onto that most literary of topics, “a middle-aged white man’s issues with his penis.”
 
-### Better options include:
+### Better Options Include:
 
 **Margaret Atwood, the _MaddAddam_ trilogy (beginning with _Oryx and Crake_, published in 2003)**
 
@@ -143,7 +143,7 @@ As Olivia Rosane [puts it](http://reallifemag.com/anthem-of-the-sun/), what if w
 
 Solarpunk is the opposite of cyberpunk’s nihilism, offering stories, the founders say, about “ingenuity, positive creation, independence, and community.” These narratives are often framed around infrastructure as both a form of resistance and as the foundations for a new way of life—the eponymous solar panels feature heavily.
 
-### What to read
+### What to Read
 
 **Kim Stanley Robinson, _Mars_ trilogy (beginning with _Red Mars_,1992)**
 
@@ -183,11 +183,11 @@ It’s a sweltering summer day in the suburbs of Washington, DC, and when Eddie 
 
 Other classics of this microgenre include J. G. Ballard’s novel _The Burning World_ (1964, later renamed _The Drought_), as well as the movies _Tank Girl_ (1995) and _Mad Max: Fury Road_ (2015).
 
-## 7\. Kitchen sink dystopia
+## 7\. Kitchen Sink Dystopia
 
 Think of this microgenre as “minimally speculative futures,” if you like—a mode of storytelling that seems wholly mundane and normal until something goes a bit wrong. Fiction writer Brendan C. Byrne calls it the “day to day debasement of Super Late Capitalism.”
 
-### What to read
+### What to Read
 
 **Madeline Ashby, [“Domestic Violence”](https://slate.com/technology/2018/03/domestic-violence-a-new-short-story-from-madeline-ashby.html) (2018)**
 
@@ -209,7 +209,7 @@ At the other end of the scale to kitchen sink dystopias is this microgenre, whic
 
 Several of the writers we’ve seen already are working at the interstellar scale, including N. K. Jemisin (see №2, Afrofuturism, above) with her _Broken Earth_ trilogy, and Kim Stanley Robinson (№5, Solarpunk) with _2312_.
 
-### Three more to read
+### Three More to Read
 
 **Ann Leckie, _Ancillary Justice_ (2013)**
 
@@ -231,7 +231,7 @@ Time for some tentacles!
 
 It’s not actually new—the name has been around since 2002—but definitely weird. Unlike the other speculative fiction subgenres discussed here, The New Weird draws on supernatural horror as much as on fantasy and sci-fi tropes. Bodies often don’t get to be wholly human: a central character may be a mutated bear, or have a scarab beetle for a head. Plants and fungi tend to be able to do a lot more than plants and fungi are supposed to be able to do. The mood is eerie and uneasy.
 
-### Definitive texts
+### Definitive Texts
 
 **China Miéville, _The Scar_ (2002)**
 
@@ -246,7 +246,6 @@ Langan is known as a horror writer—but then again, speculative fiction isn’t
 The government science agency sends expeditions into Area X, but they tend to disappear unpleasantly. _Annihilation_ plays on fears of both the real-life Chernobyl nuclear exclusion zone and the radical otherness of nature itself.
 
 _This article was originally published on [How We Get To Next](https://howwegettonext.com/), under a CC BY-SA 4.0 license. Read more about [republishing How We Get To Next articles](https://howwegettonext.com/you-can-republish-our-content-30a38cc49c07). Sign up to the How We Get To Next newsletter [here](http://storythings.us7.list-manage1.com/subscribe?u=ac3c63206e0226f0b2c43f01d&id=f18977f495)._
-
 
 ___
 

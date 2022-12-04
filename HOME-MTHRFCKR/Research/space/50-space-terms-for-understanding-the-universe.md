@@ -1,6 +1,6 @@
 # NASA // Wikimedia Commons
 
-## 50 space terms for understanding the universe
+## 50 Space Terms for Understanding the Universe
 
 Oct. 1, 2020, marks the 62nd birthday of the National Aeronautics and Space Agency, or NASA. The agency was founded in 1958, the same year President Dwight D. Eisenhower signed the National Aeronautics and Space Act and one year after the Soviets launched Sputnik 1, the world’s first artificial satellite. NASA was designed from the start to push the bounds of space exploration with research into aerospace and aeronautics as well as with a civilian space program.
 
@@ -14,7 +14,7 @@ As the agency unrelentingly forged a path toward astronomical discovery, [NASA a
 
 1 / 50
 
-## 
+##
 
 #1. Aberration of light
 
@@ -28,7 +28,7 @@ Similar to how raindrops hit a moving car window as if from an angle, an aberrat
 
 Skatebiker // Wikimedia Commons
 
-## 
+##
 
 #2. Alpha Centauri
 
@@ -40,7 +40,7 @@ Alpha Centauri is the name of the closest star system to earth. It comprises two
 
 3 / 50
 
-## 
+##
 
 #3. Andromeda Galaxy
 
@@ -50,7 +50,7 @@ Also known as M31, this galaxy is the closest to the Milky Way, where the Earth 
 
 4 / 50
 
-## 
+##
 
 #4. Asteroid
 
@@ -62,7 +62,7 @@ Asteroids are chunks of rock or metal that used to be parts of other small plane
 
 NASA Space Place // Wikimedia Commons
 
-## 
+##
 
 #5. Barycenter
 
@@ -72,7 +72,7 @@ A barycenter is the common center mass around which a solar system orbits. While
 
 6 / 50
 
-## 
+##
 
 #6. Big Bang
 
@@ -84,7 +84,7 @@ The Big Bang Theory is a model describing the origin of the universe. It explain
 
 7 / 50
 
-## 
+##
 
 #7. Binary star
 
@@ -98,7 +98,7 @@ Binary stars are systems that only contain two stars that orbit together. Togeth
 
 NASA // Wikimedia Commons
 
-## 
+##
 
 #8. Black hole
 
@@ -110,7 +110,7 @@ Made famous by Einstein’s theory of general relativity, a black hole is the sm
 
 9 / 50
 
-## 
+##
 
 #9. Brown dwarf
 
@@ -122,7 +122,7 @@ A brown dwarf is born from a collapse of gas and dust, similar to stars. This co
 
 10 / 50
 
-## 
+##
 
 #10. Celestial sphere
 
@@ -132,7 +132,7 @@ A celestial sphere is a tool used in spherical astronomy. It is a sphere with a 
 
 11 / 50
 
-## 
+##
 
 #11. Comet
 
@@ -146,7 +146,7 @@ Besides being a beautiful phenomenon that’s rarely visible from Earth, comets 
 
 Gh5046 // Wikimedia Commons
 
-## 
+##
 
 #12. Constellation
 
@@ -158,7 +158,7 @@ One of the first things we learn about space is its many constellations. From Or
 
 13 / 50
 
-## 
+##
 
 #13. Dark energy
 
@@ -172,7 +172,7 @@ Like the cosmic mystery its name evokes, dark energy is hard to define. The easi
 
 Smithsonian Institution // Wikimedia Commons
 
-## 
+##
 
 #14. Dark matter
 
@@ -186,7 +186,7 @@ Somewhat similar to dark energy, dark matter also covers a large chunk of the un
 
 NASA/JPL-Caltech // Wikimedia Commons
 
-## 
+##
 
 #15. Doppler shift
 
@@ -198,7 +198,7 @@ Also known to most as the Doppler effect, the Doppler shift explains the phenome
 
 16 / 50
 
-## 
+##
 
 #16. Eclipse
 
@@ -210,7 +210,7 @@ An eclipse refers to one body in space moving into the shadow of another body. E
 
 17 / 50
 
-## 
+##
 
 #17. Equinox
 
@@ -224,7 +224,7 @@ During an equinox, Earth experiences an even 12 hours of daytime and 12 hours of
 
 Alexander Mokletsov // Wikimedia Commons
 
-## 
+##
 
 #18. Escape velocity
 
@@ -236,7 +236,7 @@ Escape velocity is the speed that an object needs in order to escape a planet or
 
 19 / 50
 
-## 
+##
 
 #19. Exoplanet
 
@@ -250,7 +250,7 @@ When planets exist beyond our solar system and orbit a star other than the sun,
 
 Department of Energy. Office of Public Affairs // Wikimedia Commons
 
-## 
+##
 
 #20. Fermi paradox
 
@@ -262,7 +262,7 @@ Named after Italian-American physicist Enrico Fermi, the Fermi paradox is a theo
 
 21 / 50
 
-## 
+##
 
 #21. Galaxy
 
@@ -276,7 +276,7 @@ We all know that we live in the Milky Way galaxy, but [what exactly is a galaxy]
 
 NASA/GSFC // Wikimedia Commons
 
-## 
+##
 
 #22. Gamma-ray burst
 
@@ -290,7 +290,7 @@ A gamma-ray burst is the most violent type of explosion in the universe. The exp
 
 Jim Campbell/Aero-News Network // Wikipedia
 
-## 
+##
 
 #23. Gravity
 
@@ -304,7 +304,7 @@ Based on the Latin word for “weight,” gravity is a natural phenomenon where 
 
 Bruno Gilli/ESO // Wikimedia Commons
 
-## 
+##
 
 #24. Hypergalaxy
 
@@ -318,7 +318,7 @@ A hypergalaxy consists of one large dominant galaxy surrounded by various smalle
 
 Bob King // Wikimedia Commons
 
-## 
+##
 
 #25. Light-year
 
@@ -328,7 +328,7 @@ A light-year is as simple a concept as its name suggests. It is an astronomical 
 
 26 / 50
 
-## 
+##
 
 #26. Magellanic clouds
 
@@ -340,7 +340,7 @@ Understanding Magellanic clouds has become a propelling source of understanding 
 
 27 / 50
 
-## 
+##
 
 #27. Magnitude
 
@@ -354,7 +354,7 @@ Magnitude refers to a mathematical measurement for something's size or extent in
 
 Navicore // Wikimedia Commons
 
-## 
+##
 
 #28. Meteor
 
@@ -366,7 +366,7 @@ A meteor is a rocky object or asteroid that vaporizes when entering the Earth’
 
 29 / 50
 
-## 
+##
 
 #29. Milky Way
 
@@ -378,7 +378,7 @@ The Earth’s galactic home, the Milky Way is a spiral galaxy that is constantly
 
 30 / 50
 
-## 
+##
 
 #30. Moon
 
@@ -390,7 +390,7 @@ The moon is a heavenly body that orbits the Earth and happens to be the easiest 
 
 31 / 50
 
-## 
+##
 
 #31. Nebula
 
@@ -404,7 +404,7 @@ A nebula is a large cloud of dust and gas in space that is produced when a star 
 
 Internet Archive Book Images // Wikimedia Commons
 
-## 
+##
 
 #32. Nebular hypothesis
 
@@ -418,7 +418,7 @@ The Nebular hypothesis is the most widely accepted theory of how our solar syste
 
 Casey Reed - Penn State University // Wikimedia Commons
 
-## 
+##
 
 #33. Neutron star
 
@@ -430,7 +430,7 @@ Neutron stars are small, but very dense objects that are birthed by the explosiv
 
 34 / 50
 
-## 
+##
 
 #34. Oort Cloud
 
@@ -444,7 +444,7 @@ Named after astronomer Jan Oort whose theory about a cloud comprising a shell of
 
 NASA // Wikimedia Commons
 
-## 
+##
 
 #35. Orbit
 
@@ -456,7 +456,7 @@ In short, an orbit is the gravitationally curved trajectory of an object in spac
 
 36 / 50
 
-## 
+##
 
 #36. Parallax
 
@@ -468,7 +468,7 @@ Measuring using parallax involves estimating the distance of nearby celestial ob
 
 37 / 50
 
-## 
+##
 
 #37. Quasar
 
@@ -480,7 +480,7 @@ Quasars are large distant objects in space that are powered by large, powerful b
 
 38 / 50
 
-## 
+##
 
 #38. Red giant
 
@@ -492,7 +492,7 @@ A red giant is a star that is reaching its final days and approaching death. If 
 
 39 / 50
 
-## 
+##
 
 #39. Red shift
 
@@ -504,7 +504,7 @@ Red shift and blue shift explain how light changes wavelength as objects in spac
 
 40 / 50
 
-## 
+##
 
 #40. Solar system
 
@@ -516,7 +516,7 @@ A solar system is a gravitationally bound system of a sun and the objects that o
 
 41 / 50
 
-## 
+##
 
 #41. Solar wind
 
@@ -530,7 +530,7 @@ Solar wind is a wind streaming solar particles and plasma from the sun. As a so
 
 Creative Commons // Wikimedia Commons
 
-## 
+##
 
 #42. Spaghettification
 
@@ -542,7 +542,7 @@ Sometimes referred to as the “noodle effect,” Spaghettification is when the 
 
 43 / 50
 
-## 
+##
 
 #43. Star
 
@@ -554,7 +554,7 @@ Other than serving as beautiful guiding lights in our sky, stars are astronomica
 
 44 / 50
 
-## 
+##
 
 #44. Star cluster
 
@@ -564,7 +564,7 @@ In the same way that planets can be gravitationally bound to the sun, causing th
 
 45 / 50
 
-## 
+##
 
 #45. Supernova
 
@@ -576,7 +576,7 @@ A supernova is the largest explosion that can be seen with the human eye. A supe
 
 46 / 50
 
-## 
+##
 
 #46. Telescope
 
@@ -590,7 +590,7 @@ A telescope is the signature tool of astronomers to see far objects out in space
 
 Public Domain // Wikimedia Commons
 
-## 
+##
 
 #47. Theory of relativity
 
@@ -602,7 +602,7 @@ The theory of relativity was developed by Albert Einstein in 1905 and includes 
 
 Lookang // Wikimedia Commons
 
-## 
+##
 
 #48. Tides
 
@@ -612,7 +612,7 @@ Tides are the rise and fall of sea level that is caused by the gravitational pul
 
 49 / 50
 
-## 
+##
 
 #49. White dwarf
 
@@ -624,7 +624,7 @@ A white dwarf is a relatively small star that is about the size of a planet that
 
 50 / 50
 
-## 
+##
 
 #50. Universe
 

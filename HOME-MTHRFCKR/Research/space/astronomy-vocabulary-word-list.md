@@ -1,3 +1,5 @@
+# astronomy-vocabulary-word-list
+
 A
 
 albedo

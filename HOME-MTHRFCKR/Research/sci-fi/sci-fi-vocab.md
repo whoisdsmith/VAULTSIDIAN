@@ -1,80 +1,79 @@
-# Sci-Fi Vocabulary Word List 
+# Sci-Fi Vocabulary Word List
 
-**A**
+**A**  
 Abolish, Adventure, Affect, Alchemy, Alignment, Allegory, Alliance, Alteration, Alternatives, Animation, Anti-utopia, Appeal, Atmosphere, Atomic, Automation
 
-**B**
+**B**  
 Barren, Behavior, Bizarre, Books, Breach
 
-**C**
+**C**  
 Cause, Change, Characterization, Characters, Chemical, Cinema, Civilize, Cliffhanger, Clone, Comments, Concepts, Conductivity, Creativity, Creatures, Culture, Cyborgs
 
-**D**
+**D**  
 Danger, Death, Deed, Dense, Development, Discovery, Disease, Distant, Disturbance, Document, Dreamer, Drugs
 
-**E**
+**E**  
 Earth, Eerie, Effects, Enemy, Energy, Envision, Episode, Events, Evidence, Experiment, Experimental, Explanation, Exploration, Explosion, Exposure, Extreme
 
-**F**
+**F**  
 Fantastic, Fantasy, Far-fetched, Fighting, Films, Fire, Fireball, Flames, Force, Force field, Function, Fundamental, Futuristic
 
-**G**
+**G**  
 Galaxy, Gale, Glimpses, Gothic, Gravitation
 
-**H**
+**H**  
 Hallucinate, Herbs, Hobby, Holographic, Horror, Hypnosis, Hypothesis
 
-**I**
+**I**  
 Ideal, Identical, Identification, Illegal, Illness, Illusion, Imaginary, Imagination, Increase, Inexplicable, Influences, Inhabitant, Interpret, Investigation
 
-**J**
+**J**  
 Jargon, Judgment, Jumble
 
-**K**
+**K**  
 Keen
 
-**L**
+**L**  
 Law, Lawless, Legal, Literature, Lunar
 
-**M**
+**M**  
 Magic, Magnetism, Manuscript, Marvel, Marvelous, Meteors, Microbe, Miraculous, Mistakes, Monstrous, Moon, Motion, Movies, Murky, Mysterious, Myth
 
-**N**
+**N**  
 Nightmare, Nordic, Novels, Nuclear
 
-**O**
+**O**  
 Oasis, Observation, Odd, Option, Oracle, Order, Organize
 
-**P**
+**P**  
 Paralysis, Particle, Personality, Pestilence, Physical, Planet, Pleasure, Politics, Popular, Population, Potential, Potion, Prediction, Prehistoric, Preserve, Pressure, Probe, Problem, Product, Pulp, Purpose
 
-**Q**
+**Q**  
 Quantity, Queasy, Quest, Questions, Quirk
 
-**R**
+**R**  
 Reaction, Realistic, Reality, Recovery, Revolutionary, Righteous, Robots
 
-**S**
+**S**  
 Safety, Salvation, Scare, Scenario, Scope, Security, Senses, Sequence, Situation, Sounds, Space, Space station, Speculative, Speed of light, Spirit, Stage, Stark, Stars, Strange, Suspense, Synthetic
 
-**T**
+**T**  
 Tale, Technology, Temperature, Tense, Theoretical, Theory, Time, Time travel, Token, Trap, Travel
 
-**U**
+**U**  
 Undercurrent, Unexplainable, Unification, Unique, Universe, Unleash, Unmanned, Urge, Utopia
 
-**V**
+**V**  
 Vacuum, Victim, Violence, Virtual, Voyage
 
-**W**
+**W**  
 Wary, Weird, Whole, Wily, Winged, Wisdom, World
 
-**X**
+**X**  
 X-ray vision
 
-**Y**
+**Y**  
 Yearning
 
-**Z**
+**Z**  
 Zeal, Zeitgeist
-

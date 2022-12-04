@@ -1,3 +1,5 @@
+# a-–-z-of-science-fiction-words
+
 A useful guide to scientific words for the Science Fiction enthusiast. It first appeared as monthly instalments in _Authentic Science Fiction_ and was printed and published as a booklet by Hamilton & co., in the Goldhawk Road, London W 12. It was compiled by H.J. Campbell. Being 1954 very little is related to computers. At C you will find Cybernetics and at B Betelgeuse...
 
 **[[Absolute]].** Not relative. Independent of all scale and comparisons. E.g., zero temperature, number, the speed of light.

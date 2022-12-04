@@ -1,4 +1,4 @@
-# Central serous chorioretinopathy associated with Adderall (dextroamphetamine-amphetamine) and topical steroid use
+# Central Serous Chorioretinopathy Associated with Adderall (dextroamphetamine-amphetamine) and Topical Steroid Use
 
 Joseph B. Alsberge, Daniel Y. Lee, and J. Michael Jumper
 
@@ -18,11 +18,11 @@ Though we cannot prove causality, the course of events was suggestive of a direc
 
 **Keywords: **Adderall, Central serous chorioretinopathy, Corticosteroids, Dextroamphetamine-amphetamine, Sympathomimetics
 
-## 1\. Introduction
+## 1\. Introduction
 
 Central serous chorioretinopathy (CSC) is a condition characterized by serous retinal detachment related to choroidal hyperpermeability and dysfunction of the retinal pigment epithelium.1 Whereas multiple studies have found a correlation between steroids and CSC,1 there are very few prior reports of CSC associated with the use of sympathomimetic agents.2, 3, 4 We report a case of CSC in a patient taking the sympathomimetic drug Adderall (dextroamphetamine-amphetamine) and a topical steroid cream. The subretinal fluid persisted despite cessation of the steroid cream but resolved after discontinuation of the Adderall, and recurred when the Adderall was restarted.
 
-## 2\. Findings
+## 2\. Findings
 
 A 34-year-old man presented for evaluation of a “dark cloud” in his left eye for three months. He had never had this problem before. Past medical history included attention deficit hyperactivity disorder (ADHD) for which he had been taking Adderall for the past ten years, currently at a dosage of 30 mg per day, and also eczema for which he had been using mometasone 0.1% topical cream for the past year. He was otherwise healthy and denied recent stress and “type A” personality traits. Vision was 20/20 in the right eye and 20/30 in the left eye. Examination of the right eye showed a subtle small cluster of yellow deposits at the level of the retinal pigment epithelium in the macula, but was otherwise unremarkable ([Fig. 1](/pmc/articles/PMC8924628/figure/fig1/?report=objectonly)A). Examination of the left eye revealed a localized serous detachment in the macula ([Fig. 2](/pmc/articles/PMC8924628/figure/fig2/?report=objectonly)A). Optical coherence tomography (OCT) of the right eye showed choroidal thickening but no subretinal fluid ([Fig. 1](/pmc/articles/PMC8924628/figure/fig1/?report=objectonly)C), and the left eye showed choroidal thickening and subretinal fluid ([Fig. 2](/pmc/articles/PMC8924628/figure/fig2/?report=objectonly)C). He was diagnosed with central serous chorioretinopathy and advised to stop the mometasone steroid cream, which he did immediately. At three and four months follow up, however, he remained with persistent subretinal fluid ([Fig. 2](/pmc/articles/PMC8924628/figure/fig2/?report=objectonly)D).
 
@@ -42,7 +42,7 @@ At the four months follow up visit, he was advised to stop the Adderall, which h
 
 He returned two months later (nine months from his initial visit) with decreased vision in the left eye. Two months previously he had started atomoxetine as an alternative treatment for ADHD at 40 mg daily. He took the atomoxetine for two weeks but then stopped due to side effects of headache and nausea. He then restarted the Adderall at 40 mg per day and after being on it for a month noticed again a dark cloud in his left eye. He denied any steroid use. Acuity was decreased to 20/25 in the left eye and there was recurrent subretinal fluid in the macula ([Fig. 2](/pmc/articles/PMC8924628/figure/fig2/?report=objectonly)F). He was advised to stop the Adderall. He returned three weeks later and reported again that his vision began to improve within a matter of days after stopping the Adderall. Acuity was 20/20 in the left eye and OCT showed resolved subretinal fluid ([Fig. 2](/pmc/articles/PMC8924628/figure/fig2/?report=objectonly)G).
 
-## 3\. Discussion
+## 3\. Discussion
 
 Adderall, which is used in the treatment of ADHD and narcolepsy, is a central nervous system stimulant that increases synaptic concentrations of norepinephrine, dopamine, and serotonin through multiple mechanisms.5 It has been reported to be one of the most commonly prescribed agents for ADHD in the United States6 and the most frequently abused prescription stimulant among college students.7
 
@@ -56,11 +56,11 @@ Evidence of autonomic nervous system dysfunction with a predominance of sympathe
 
 Though we cannot rule out the possibility that the patient had prior episodes of CSC that went undetected, his presumed first episode developed after taking Adderall for a decade. Of note, he had started the steroid cream one year prior to presentation. A synergistic effect between steroids and catecholamines in CSC pathogenesis has been proposed.14 Corticosteroids may influence the transcription of genes for α- and β-adrenergic receptors.15,16 It is possible that the introduction of exogenous steroid potentiated the effect of the Adderall. If the steroid cream increased his sensitivity to Adderall, the sensitivity continued for an extended period after cessation of the steroid, as he had a recurrent CSC episode after restarting the Adderall despite having been off the steroid for eight and half months.
 
-## 4\. Conclusions
+## 4\. Conclusions
 
 Though we cannot prove causality based on this single case, the course of events was suggestive of a direct relationship between Adderall use and CSC in this patient, with exogenous steroid as a possible modifying factor. Naranjo and colleagues developed a probability scale to assess for a causal relationship between the administration of a drug and a subsequent adverse clinical event.17 Using this probability scale, we calculated a total score of 5 for the case reported here, assigning it to the “probable” adverse drug reaction category. Further study is needed.
 
-## Patient consent
+## Patient Consent
 
 The patient provided verbal consent to publish the case. This report does not contain any personal information that could lead to identification of the patient.
 
@@ -68,7 +68,7 @@ The patient provided verbal consent to publish the case. This report does not co
 
 Northwest Permanente.
 
-### Conflict of interest
+### Conflict of Interest
 
 None of the authors have a proprietary interest in the material presented in this study.
 
@@ -76,7 +76,7 @@ None of the authors have a proprietary interest in the material presented in thi
 
 The authors attest that they meet the current ICMJE criteria for authorship.
 
-## Article information
+## Article Information
 
 Am J Ophthalmol Case Rep. 2022 Jun; 26: 101482. 
 
@@ -131,7 +131,6 @@ Articles from American Journal of Ophthalmology Case Reports are provided here c
 16\. Hadcock J.R., Malbon C.C. Regulation of beta-adrenergic receptors by "permissive" hormones: glucocorticoids increase steady-state levels of receptor mRNA. Proc Natl Acad Sci U S A. 1988 Nov;85(22):8415–8419. [[PMC free article](/pmc/articles/PMC282468/?report=reader)] [[PubMed](/pubmed/2847159)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Proc+Natl+Acad+Sci+U+S+A&title=Regulation+of+beta-adrenergic+receptors+by+"permissive"+hormones:+glucocorticoids+increase+steady-state+levels+of+receptor+mRNA&author=J.R.+Hadcock&author=C.C.+Malbon&volume=85&issue=22&publication_year=1988+Nov&pages=8415-8419&pmid=2847159&)]
 
 17\. Naranjo C.A., Busto U., Sellers E.M., et al. A method for estimating the probability of adverse drug reactions. Clin Pharmacol Ther. 1981;30(2):239–245. [[PubMed](/pubmed/7249508)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Clin+Pharmacol+Ther&title=A+method+for+estimating+the+probability+of+adverse+drug+reactions&author=C.A.+Naranjo&author=U.+Busto&author=E.M.+Sellers&volume=30&issue=2&publication_year=1981&pages=239-245&pmid=7249508&)]
-
 
 ___
 

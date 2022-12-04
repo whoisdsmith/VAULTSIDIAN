@@ -2,12 +2,9 @@
 
 ![A Complete Glossary Of Terms For Science Fiction Writers](https://www.writerswrite.co.za/wp-content/uploads/2019/08/A-Complete-Glossary-Of-Terms-For-Science-Fiction-Writers-8.jpg)
 
-
 To write a good Science Fiction book, you need to know all the **[tropes**](https://writerswrite.co.za/101-sci-fi-tropes-for-writers/) in the **[genre**](https://writerswrite.co.za/the-17-most-popular-genres-in-fiction-and-why-they-matter/) (as well as the [two types of science fiction](https://writerswrite.co.za/the-2-types-of-science-fiction-plots-how-to-write-them/)), and you need to come up with a great idea. But, you still need to include all the **[elements of a good book**](https://writerswrite.co.za/the-7-critical-elements-of-a-great-book/).
 
-
 These elements include the following characters:
-
 
   1. [Protagonist](https://writerswrite.co.za/the-protagonist-as-a-literary-device/)
   2. [Antagonist](https://writerswrite.co.za/the-antagonist-as-a-literary-device/)
@@ -16,12 +13,9 @@ These elements include the following characters:
 
 As well as a plot, a [setting](https://writerswrite.co.za/12-crucial-things-to-remember-about-setting-in-storytelling/), and [story goals](https://writerswrite.co.za/the-story-goal-the-key-to-creating-a-solid-plot-structure/) for your characters.
 
-
 In particular, [setting](https://writerswrite.co.za/world-building-for-every-genre-the-ultimate-setting-list/) is even more important in the Science Fiction genre. It is what your core audience is really there for.
 
-
 [Suggested reading:
-
 
   1. [What J. K. Rowling & Other Bestselling Authors Know About Setting](https://writerswrite.co.za/what-the-best-authors-know-about-setting/)
   2. [What Fantasy (& Science Fiction) Writers Can Teach Us About Setting](https://writerswrite.co.za/awesome-lessons-fantasy-writers-can-teach-us-about-setting/)
@@ -33,9 +27,7 @@ In particular, [setting](https://writerswrite.co.za/world-building-for-every-gen
 
 That being said, these are all the important words and phrases you need to know to write a science fiction book, short story, script, or game.
 
-
 ## A Complete **Glossary Of Terms For Science Fiction Writers**
-
 
   1. **[[Advanced Technology]]**. Often, science fiction universes have technologies that are beyond what humans are capable of doing at the present, such as the iPad-like devices used in mid-nighties science fiction shows. And, most will have technologies that are actually impossible to create. This is how you introduce magic into your world without calling it magic.
   2. **[[AI Artificial Intelligence]]**. These are human-created intelligent beings that live in a virtual environment such as on a computer. [Hal](https://en.wikipedia.org/wiki/HAL_9000) from _2001_ is iconic in this regard.
@@ -111,5 +103,3 @@ Christopher writes and facilitates for Writers Write. Follow him on Twitter: [@C
   5. [7 Ways To Create A Spectacular Magic System For Your Novel](https://writerswrite.co.za/7-ways-to-create-a-spectacular-magic-system-for-your-novel/)
   6. [3 Truly Odd Protagonists & Why We Really Really Like Them](https://writerswrite.co.za/3-truly-odd-protagonists-why-we-really-really-like-them/)
   7. [101 Sci-Fi Tropes For Writers](https://writerswrite.co.za/101-sci-fi-tropes-for-writers/)
-
-
