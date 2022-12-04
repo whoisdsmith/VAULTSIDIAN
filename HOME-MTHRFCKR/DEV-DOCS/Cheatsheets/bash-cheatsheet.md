@@ -5,22 +5,23 @@ source: https://devhints.io/bash
 author: 
 ---
 
-# Bash scripting cheatsheet
+# Bash Scripting Cheatsheet
 
 > ## Excerpt
 > Variables · Functions · Interpolation · Brace expansions · Loops · Conditional execution · Command substitution · One-page guide to Bash scripting
 
 ---
-# Bash scripting _cheatsheet_
 
-## [#](https://devhints.io/bash#getting-started)Getting started
+# Bash Scripting _cheatsheet_
+
+## [#](https://devhints.io/bash#getting-started)Getting Started
 
 ### Introduction
 
 This is a quick reference to getting started with Bash scripting.
 
--   [Learn bash in y minutes](https://learnxinyminutes.com/docs/bash/) _(learnxinyminutes.com)_
--   [Bash Guide](http://mywiki.wooledge.org/BashGuide) _(mywiki.wooledge.org)_
+- [Learn bash in y minutes](https://learnxinyminutes.com/docs/bash/) _(learnxinyminutes.com)_
+- [Bash Guide](http://mywiki.wooledge.org/BashGuide) _(mywiki.wooledge.org)_
 
 ### Example
 
@@ -40,7 +41,7 @@ echo "$NAME"
 echo "${NAME}!"
 ```
 
-### String quotes
+### String Quotes
 
 ```bash
 NAME="John"
@@ -48,7 +49,7 @@ echo "Hi $NAME"  #=> Hi John
 echo 'Hi $NAME'  #=> Hi $NAME
 ```
 
-### Shell execution
+### Shell Execution
 
 ```bash
 echo "I'm in $(pwd)"
@@ -58,7 +59,7 @@ echo "I'm in `pwd`"
 
 See [Command substitution](http://wiki.bash-hackers.org/syntax/expansion/cmdsubst)
 
-### Conditional execution
+### Conditional Execution
 
 ```bash
 git commit && git push
@@ -89,7 +90,7 @@ fi
 
 See: [Conditionals](https://devhints.io/bash#conditionals)
 
-### Strict mode
+### Strict Mode
 
 ```bash
 set -euo pipefail
@@ -98,7 +99,7 @@ IFS=$'\n\t'
 
 See: [Unofficial bash strict mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 
-### Brace expansion
+### Brace Expansion
 
 ```bash
 echo {A,B}.js
@@ -122,7 +123,7 @@ Same as `1 2 3 4 5`
 
 See: [Brace expansion](http://wiki.bash-hackers.org/syntax/expansion/brace)
 
-## [#](https://devhints.io/bash#parameter-expansions)Parameter expansions
+## [#](https://devhints.io/bash#parameter-expansions)Parameter Expansions
 
 ### Basics
 
@@ -260,7 +261,7 @@ echo ${STR^}   #=> "Hello world!" (uppercase 1st letter)
 echo ${STR^^}  #=> "HELLO WORLD!" (all uppercase)
 ```
 
-### Default values
+### Default Values
 
 Expression
 
@@ -286,7 +287,7 @@ Omitting the `:` removes the (non)nullity checks, e.g. `${FOO-val}` expands to `
 
 ## [#](https://devhints.io/bash#loops)Loops
 
-### Basic for loop
+### Basic for Loop
 
 ```bash
 for i in /etc/rc.*; do
@@ -294,7 +295,7 @@ for i in /etc/rc.*; do
 done
 ```
 
-### C-like for loop
+### C-like for Loop
 
 ```bash
 for ((i = 0 ; i < 100 ; i++)); do
@@ -310,7 +311,7 @@ for i in {1..5}; do
 done
 ```
 
-#### With step size
+#### With Step Size
 
 ```bash
 for i in {5..50..5}; do
@@ -318,7 +319,7 @@ for i in {5..50..5}; do
 done
 ```
 
-### Reading lines
+### Reading Lines
 
 ```bash
 cat file.txt | while read line; do
@@ -336,7 +337,7 @@ done
 
 ## [#](https://devhints.io/bash#functions)Functions
 
-### Defining functions
+### Defining Functions
 
 ```bash
 myfunc() {
@@ -355,7 +356,7 @@ function myfunc() {
 myfunc "John"
 ```
 
-### Returning values
+### Returning Values
 
 ```bash
 myfunc() {
@@ -368,7 +369,7 @@ myfunc() {
 result="$(myfunc)"
 ```
 
-### Raising errors
+### Raising Errors
 
 ```bash
 myfunc() {
@@ -472,7 +473,7 @@ Regexp
 
 Numeric conditions
 
-#### More conditions
+#### More Conditions
 
 Condition
 
@@ -494,7 +495,7 @@ And
 
 Or
 
-### File conditions
+### File Conditions
 
 Condition
 
@@ -588,7 +589,7 @@ fi
 
 ## [#](https://devhints.io/bash#arrays)Arrays
 
-### Defining arrays
+### Defining Arrays
 
 ```bash
 Fruits=('Apple' 'Banana' 'Orange')
@@ -600,7 +601,7 @@ Fruits[1]="Banana"
 Fruits[2]="Orange"
 ```
 
-### Working with arrays
+### Working with Arrays
 
 ```bash
 echo ${Fruits[0]}           # Element #0
@@ -650,7 +651,7 @@ sounds[wolf]="howl"
 
 Declares `sound` as a Dictionary object (aka associative array).
 
-### Working with dictionaries
+### Working with Dictionaries
 
 ```bash
 echo ${sounds[dog]} # Dog's sound
@@ -662,7 +663,7 @@ unset sounds[dog]   # Delete dog
 
 ### Iteration
 
-#### Iterate over values
+#### Iterate Over Values
 
 ```bash
 for val in "${sounds[@]}"; do
@@ -670,7 +671,7 @@ for val in "${sounds[@]}"; do
 done
 ```
 
-#### Iterate over keys
+#### Iterate Over Keys
 
 ```bash
 for key in "${!sounds[@]}"; do
@@ -689,7 +690,7 @@ set -o pipefail   # Unveils hidden failures
 set -o nounset    # Exposes unset variables
 ```
 
-### Glob options
+### Glob Options
 
 ```bash
 shopt -s nullglob    # Non-matching globs are removed  ('*.foo' => '')
@@ -801,7 +802,7 @@ Expand `n`th token to last from most recent command
 
 ## [#](https://devhints.io/bash#miscellaneous)Miscellaneous
 
-### Numeric calculations
+### Numeric Calculations
 
 ```bash
 $((a + 200))      # Add 200 to $a
@@ -834,14 +835,14 @@ python hello.py < foo.txt      # feed foo.txt to stdin for python
 diff <(ls -r) <(ls)            # Compare two stdout without files
 ```
 
-### Inspecting commands
+### Inspecting Commands
 
 ```bash
 command -V cd
 #=> "cd is a function/alias/whatever"
 ```
 
-### Trap errors
+### Trap Errors
 
 ```bash
 trap 'echo Error at about $LINENO' ERR
@@ -872,13 +873,13 @@ case "$1" in
 esac
 ```
 
-### Source relative
+### Source Relative
 
 ```bash
 source "${0%/*}/../share/foo.sh"
 ```
 
-### printf
+### Printf
 
 ```bash
 printf "Hello %s, I'm %s" Sven Olga
@@ -891,13 +892,13 @@ printf "This is how you print a float: %f" 2
 #=> "This is how you print a float: 2.000000"
 ```
 
-### Directory of script
+### Directory of Script
 
 ```bash
 DIR="${0%/*}"
 ```
 
-### Getting options
+### Getting Options
 
 ```bash
 while [[ "$1" =~ ^- && ! "$1" == "--" ]]; do case $1 in
@@ -923,7 +924,7 @@ hello world
 END
 ```
 
-### Reading input
+### Reading Input
 
 ```bash
 echo -n "Proceed? [y/n]: "
@@ -935,7 +936,7 @@ echo $ans
 read -n 1 ans    # Just one character
 ```
 
-### Special variables
+### Special Variables
 
 Expression
 
@@ -963,7 +964,7 @@ Last argument of the previous command
 
 See [Special parameters](http://wiki.bash-hackers.org/syntax/shellvars#special_parameters_and_shell_variables).
 
-### Go to previous directory
+### Go to Previous Directory
 
 ```bash
 pwd # /home/user/foo
@@ -973,7 +974,7 @@ cd -
 pwd # /home/user/foo
 ```
 
-### Check for command’s result
+### Check for command’s Result
 
 ```bash
 if ping -c 1 google.com; then
@@ -981,7 +982,7 @@ if ping -c 1 google.com; then
 fi
 ```
 
-### Grep check
+### Grep Check
 
 ```bash
 if grep -q 'foo' ~/.bash_history; then
@@ -989,10 +990,10 @@ if grep -q 'foo' ~/.bash_history; then
 fi
 ```
 
-## [#](https://devhints.io/bash#also-see)Also see
+## [#](https://devhints.io/bash#also-see)Also See
 
--   [Bash-hackers wiki](http://wiki.bash-hackers.org/) _(bash-hackers.org)_
--   [Shell vars](http://wiki.bash-hackers.org/syntax/shellvars) _(bash-hackers.org)_
--   [Learn bash in y minutes](https://learnxinyminutes.com/docs/bash/) _(learnxinyminutes.com)_
--   [Bash Guide](http://mywiki.wooledge.org/BashGuide) _(mywiki.wooledge.org)_
--   [ShellCheck](https://www.shellcheck.net/) _(shellcheck.net)_
+- [Bash-hackers wiki](http://wiki.bash-hackers.org/) _(bash-hackers.org)_
+- [Shell vars](http://wiki.bash-hackers.org/syntax/shellvars) _(bash-hackers.org)_
+- [Learn bash in y minutes](https://learnxinyminutes.com/docs/bash/) _(learnxinyminutes.com)_
+- [Bash Guide](http://mywiki.wooledge.org/BashGuide) _(mywiki.wooledge.org)_
+- [ShellCheck](https://www.shellcheck.net/) _(shellcheck.net)_

@@ -1,15 +1,16 @@
-# Vim cheatsheet
+# Vim Cheatsheet
 
 > ## Excerpt
 > One-page guide to Vim: usage, examples, and more. Vim is a very efficient text editor. This reference was made for Vim 8.0. For shortcut notation, see :help key-notation.
 
 ---
+
 # Vim _cheatsheet_
 
 [Vim](https://www.vim.org/) is a very efficient text editor. This reference was made for Vim 8.0.  
 For shortcut notation, see `:help key-notation`.
 
-## [#](https://devhints.io/vim#getting-started)Getting started
+## [#](https://devhints.io/vim#getting-started)Getting Started
 
 ### Exiting
 
@@ -183,7 +184,7 @@ Next whole word under cursor
 
 Previous whole word under cursor
 
-#### Tab pages
+#### Tab Pages
 
 Shortcut
 
@@ -275,7 +276,7 @@ Undo changes
 
 Redo changes
 
-### Exiting insert mode
+### Exiting Insert Mode
 
 Shortcut
 
@@ -323,7 +324,7 @@ Paste from system clipboard
 
 Paste to system clipboard
 
-### Visual mode
+### Visual Mode
 
 Shortcut
 
@@ -341,7 +342,7 @@ Enter visual line mode
 
 Enter visual block mode
 
-#### In visual mode
+#### In Visual Mode
 
 Shortcut
 
@@ -375,7 +376,7 @@ Operator
 
 Motion
 
-### Operators list
+### Operators List
 
 Shortcut
 
@@ -457,7 +458,7 @@ Delete selection
 
 See: `:help motion.txt`
 
-## [#](https://devhints.io/vim#text-objects)Text objects
+## [#](https://devhints.io/vim#text-objects)Text Objects
 
 ### Usage
 
@@ -475,7 +476,7 @@ Operator
 
 Text object
 
-### Text objects
+### Text Objects
 
 Shortcut
 
@@ -835,7 +836,7 @@ Paste under the current indentation level
 
 Convert Windows line endings to Unix line endings
 
-### Command line
+### Command Line
 
 Shortcut
 
@@ -853,7 +854,7 @@ Paste from “ register
 
 Auto-completion of path in insert mode
 
-### Text alignment
+### Text Alignment
 
 ```
 :center [width]
@@ -875,7 +876,7 @@ Shows the result of the division : ‘64’
 
 Do this in insert mode.
 
-### Exiting with an error
+### Exiting with an Error
 
 ```
 :cq
@@ -884,7 +885,7 @@ Do this in insert mode.
 
 Works like `:qa`, but throws an error. Great for aborting Git commands.
 
-### Spell checking
+### Spell Checking
 
 Shortcut
 

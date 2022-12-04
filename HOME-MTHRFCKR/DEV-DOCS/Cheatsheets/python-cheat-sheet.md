@@ -1,27 +1,15 @@
-# Python Cheat Sheet by DaveChild - Download free from Cheatography - Cheatography.com: Cheat Sheets For Every Occasion
-
-
+# Python Cheat Sheet by DaveChild - Download Free From Cheatography - Cheatography.com: Cheat Sheets For Every Occasion
 
 > ## Excerpt
 > The Python cheat sheet is a one-page reference sheet for the Python programming language.
 
-
-
-
 ---
+
 # Python Cheat Sheet by [DaveChild](http://www.cheatography.com/davechild/)
-
-
-
-
 
 The Python cheat sheet is a one-page reference sheet for the Python programming language.
 
-
-
-
-
-### Python sys Variables
+## Python Sys Variables
 
 argv
 
@@ -75,7 +63,7 @@ winver
 
 Version number
 
-### Python sys.argv
+## Python sys.argv
 
 sys.argv\[0\]
 
@@ -100,7 +88,7 @@ sys.argv\[4\]
 sys.argv for the command:  
 $ python foo.py bar -c qux --h
 
-### Python os Variables
+## Python Os Variables
 
 altsep
 
@@ -145,7 +133,7 @@ Path separator
 Registered OS names: "posix", "nt",  
 "mac", "os2", "ce", "java", "riscos"
 
-### Python Class Special Methods
+## Python Class Special Methods
 
 \_\_new\_\_(cls)
 
@@ -189,7 +177,7 @@ Registered OS names: "posix", "nt",
 
  
 
-### Python List Methods
+## Python List Methods
 
 append(item)
 
@@ -209,7 +197,7 @@ sort()
 
 insert(position, item)
 
-### Python String Methods
+## Python String Methods
 
 capitalize() \*
 
@@ -287,7 +275,7 @@ lower() \*
 
 Methods marked \* are locale dependant for 8-bit strings.
 
-### Python File Methods
+## Python File Methods
 
 close()
 
@@ -315,7 +303,7 @@ writelines(list)
 
 readline(size)
 
-### Python Indexes and Slices
+## Python Indexes and Slices
 
 len(a)
 
@@ -365,7 +353,7 @@ Indexes and Slices of a=\[0,1,2,3,4,5\]
 
  
 
-### Python Datetime Methods
+## Python Datetime Methods
 
 today()
 
@@ -383,7 +371,7 @@ fromtimestamp(timestamp)
 
 utcfromtimestamp(timestamp)
 
-### Python Time Methods
+## Python Time Methods
 
 replace()
 
@@ -399,7 +387,7 @@ tzname()
 
 strftime(format)
 
-### Python Date Formatting
+## Python Date Formatting
 
 %a
 

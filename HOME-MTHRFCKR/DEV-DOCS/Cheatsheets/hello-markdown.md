@@ -4,11 +4,11 @@ Markdown is a popular format for writing documents, aims to achieve common forma
 
 Instead of explaining everything, which makes beginners scared, this doc wanted to show you commonly used features in 5 minutes.
 
-# Heading level 1
+# Heading Level 1
 
-## Heading level 2
+## Heading Level 2
 
-### Heading level 3
+### Heading Level 3
 
 As you can see, headings start with # sign, from level 1 to level 6.
 

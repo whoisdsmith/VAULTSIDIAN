@@ -1,16 +1,17 @@
-# Python cheatsheet
+# Python Cheatsheet
 
 > ## Excerpt
 > The one-page guide to Python: usage, examples, links, snippets, and more.
 
 ---
-### Tuples (immutable)
+
+## Tuples (immutable)
 
 ```
 tuple = ()
 ```
 
-### Lists (mutable)
+## Lists (mutable)
 
 ```
 list = []
@@ -42,7 +43,7 @@ sorted(list)       # returns sorted copy of list
 ",".join(list)     # returns a string with list elements seperated by comma
 ```
 
-### Dict
+## Dict
 
 ```
 dict = {}
@@ -55,7 +56,7 @@ dict.setdefault("key", 1)
 **dict           # expands all k/v pairs in place
 ```
 
-### Iteration
+## Iteration
 
 ```
 for item in ["a", "b", "c"]:
@@ -66,7 +67,7 @@ for key, val in dict.items():
 for index, item in enumerate(list):
 ```
 
-### [String](https://docs.python.org/2/library/stdtypes.html#string-methods)
+## [String](https://docs.python.org/2/library/stdtypes.html#string-methods)
 
 ```
 str[0:4]
@@ -104,7 +105,7 @@ str.islower()
     '"Isn\'t," they said.'
 ```
 
-### Casting
+## Casting
 
 ```
 int(str)
@@ -114,7 +115,7 @@ str(float)
 'string'.encode()
 ```
 
-### Comprehensions
+## Comprehensions
 
 ```
 [fn(i) for i in list]            # .map
@@ -124,7 +125,7 @@ filter(fn, list)                 # .filter, returns iterator
 [fn(i) for i in list if i > 0]   # .filter.map
 ```
 
-### Regex
+## Regex
 
 ```
 import re
@@ -138,7 +139,7 @@ expr.match(...)
 expr.sub(...)
 ```
 
-## File manipulation
+## File Manipulation
 
 ### Reading
 
@@ -153,7 +154,7 @@ print file.readline() # Reading one line
 file.seek(0, 0) # place the cursor at the beginning of the file
 ```
 
-### Writing (overwrite)
+### Writing (overwrite)
 
 ```py
 file = open("hello.txt", "w") # open in write mode 'w'
@@ -165,7 +166,7 @@ file.writelines(text_lines)
 file.close()
 ```
 
-### Writing (append)
+### Writing (append)
 
 ```py
 file = open("Hello.txt", "a") # open in append mode
@@ -173,7 +174,7 @@ file.write("Hello World again")
 file.close()
 ```
 
-### Context manager
+### Context Manager
 
 ```py
 with open("welcome.txt", "r") as file:
@@ -183,4 +184,4 @@ with open("welcome.txt", "r") as file:
 # It closes the file automatically at the end of scope, no need for `file.close()`.
 ```
 
--   [](https://www.facebook.com/sharer/sharer.php?u=https://devhints.io/python.html)
+- [](https://www.facebook.com/sharer/sharer.php?u=https://devhints.io/python.html)

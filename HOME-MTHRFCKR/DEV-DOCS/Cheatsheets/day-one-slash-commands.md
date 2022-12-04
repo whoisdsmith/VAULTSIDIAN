@@ -11,6 +11,7 @@ author:
 > How to use Slash Commands for shortcuts and quick actions in Day One entries
 
 ---
+
 # Slash Commands for Day One
 
 How to use Slash Commands for shortcuts and quick actions in Day One entries

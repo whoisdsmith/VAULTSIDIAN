@@ -1,9 +1,10 @@
-# Markdown cheatsheet
+# Markdown Cheatsheet
 
 > ## Excerpt
 > The one-page guide to Markdown: usage, examples, links, snippets, and more.
 
 ---
+
 # Markdown _cheatsheet_
 
 ## [#](https://devhints.io/markdown#reference)Reference
@@ -132,7 +133,7 @@ codeFences.withLanguage()
 > > Blockquote
 ```
 
-### Horizontal line
+### Horizontal Line
 
 ```markdown
 ----
@@ -155,4 +156,3 @@ Column 1 Heading | Column 2 Heading
 --- | ---
 Some content | Other content
 ```
-

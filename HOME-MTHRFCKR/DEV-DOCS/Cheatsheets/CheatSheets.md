@@ -1,3 +1,5 @@
+# CheatSheets
+
 ## CheatSheets
 
 | Repository                                                                  | Description                                                       | License                                                                               |
@@ -11,13 +13,17 @@
 | [Git and GitHub](https://github.com/tiimgreen/github-cheat-sheet)           | A list of cool features of Git and GitHub.                        | [MIT](https://github.com/tiimgreen/github-cheat-sheet/blob/master/LICENSE)            |
 | [Python](https://github.com/gto76/python-cheatsheet)                        | Comprehensive Python Cheatsheet                                   | No License                                                                            |
 | [Vim](https://github.com/pawelbr/vim-cheatsheet)                            | Shortcuts that will help you to become an advance VIM user.       | [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/legalcode)                    |
-
+  
 **[⬆ Back to Index](#index)**
 
 ## Cheat Sheets
 
   * [Regular Expressions Cheat Sheet](https://www.cheatography.com/davechild/cheat-sheets/regular-expressions/)
+
   * [Regex Cheat Sheet](http://www.rexegg.com/regex-quickstart.html)
+
   * [MIT Cheat Sheet](http://web.mit.edu/hackl/www/lab/turkshop/slides/regex-cheatsheet.pdf)
+
   * [Java Cheat Sheet](https://zeroturnaround.com/rebellabs/java-regular-expressions-cheat-sheet/)
+
   * [JavaScript Cheat Sheet](https://www.debuggex.com/cheatsheet/regex/javascript)

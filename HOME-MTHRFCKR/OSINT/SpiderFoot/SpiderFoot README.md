@@ -2,7 +2,6 @@
 
 ---
 
-
 [![](https://camo.githubusercontent.com/c2d3bee30e866c9ada599abd5fb753a8350f55c887516edc6eea2518e6190523/68747470733a2f2f7777772e737069646572666f6f742e6e65742f77702d636f6e74656e742f7468656d65732f737069646572666f6f742f696d672f737069646572666f6f742d776964652e706e67)](https://www.spiderfoot.net/r.php?u=aHR0cHM6Ly93d3cuc3BpZGVyZm9vdC5uZXQv&s=os_gh)
 
 [![License](https://camo.githubusercontent.com/83d3746e5881c1867665223424263d8e604df233d0a11aae0813e0414d433943/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d626c75652e737667)](https://raw.githubusercontent.com/smicallef/spiderfoot/master/LICENSE) [![Python Version](https://camo.githubusercontent.com/5507484da1f64c90d0092df9bf42fe157503da1d6aad92319544fe87da76ce90/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d332e372b2d677265656e)](https://www.python.org) [![Stable Release](https://camo.githubusercontent.com/6511c219e5ad011cb73182b49caa8bf01c2621f8ded89ff09085688f90ad1cb1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f76657273696f6e2d342e302d626c75652e737667)](https://github.com/smicallef/spiderfoot/releases/tag/v4.0) [![CI status](https://github.com/smicallef/spiderfoot/workflows/Tests/badge.svg)](https://github.com/smicallef/spiderfoot/actions?query=workflow%3A%22Tests%22) [![Last Commit](https://camo.githubusercontent.com/2515f8e4f4f0609067d6a3c4d9a330b20b4338cf1f15c5b4305b40be277fb5ed/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f736d6963616c6c65662f737069646572666f6f74)](https://github.com/smicallef/spiderfoot/commits/master) [![Codecov](https://camo.githubusercontent.com/38f2e9a67fe8a627fe47d15c876b770135789a18ddc189cc319a82c26ed51e0f/68747470733a2f2f636f6465636f762e696f2f6769746875622f736d6963616c6c65662f737069646572666f6f742f636f7665726167652e737667)](https://codecov.io/github/smicallef/spiderfoot) [![Twitter Follow](https://camo.githubusercontent.com/0cda6561e845f5f9c736a96ff61ddad017efb6172d93f7f263d4c24819fd3815/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f737069646572666f6f743f6c6162656c3d666f6c6c6f77267374796c653d736f6369616c)](https://twitter.com/spiderfoot) [![Discord](https://camo.githubusercontent.com/8a8268da66dd30c405282d93af0df04e8c755874e7d8949fc2190936792b4e46/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f373730353234343332343634323136303734)](https://discord.gg/vyvztrG)
@@ -13,84 +12,84 @@ SpiderFoot has an embedded web-server for providing a clean and intuitive web-ba
 
 [![](https://camo.githubusercontent.com/ad9d19da767dc57fe8dcbf3f70504e796a51c51095da0466f526ad135b34ab72/68747470733a2f2f7777772e737069646572666f6f742e6e65742f77702d636f6e74656e742f75706c6f6164732f323032322f30342f6f70656e736f757263652d73637265656e73686f742d76342e706e67)](https://camo.githubusercontent.com/ad9d19da767dc57fe8dcbf3f70504e796a51c51095da0466f526ad135b34ab72/68747470733a2f2f7777772e737069646572666f6f742e6e65742f77702d636f6e74656e742f75706c6f6164732f323032322f30342f6f70656e736f757263652d73637265656e73686f742d76342e706e67)
 
-### FEATURES
+## FEATURES
 
--   Web based UI or CLI
--   Over 200 modules (see below)
--   Python 3.7+
--   YAML-configurable [correlation engine](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/smicallef/spiderfoot/blob/master/correlations/README.md) with [37 pre-defined rules](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/smicallef/spiderfoot/blob/master/correlations)
--   CSV/JSON/GEXF export
--   API key export/import
--   SQLite back-end for custom querying
--   Highly configurable
--   Fully documented
--   Visualisations
--   TOR integration for dark web searching
--   Dockerfile for Docker-based deployments
--   Can call other tools like DNSTwist, Whatweb, Nmap and CMSeeK
--   [Actively developed since 2012!](https://medium.com/@micallst/lessons-learned-from-my-10-year-open-source-project-4a4c8c2b4f64)
+- Web based UI or CLI
+- Over 200 modules (see below)
+- Python 3.7+
+- YAML-configurable [correlation engine](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/smicallef/spiderfoot/blob/master/correlations/README.md) with [37 pre-defined rules](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/smicallef/spiderfoot/blob/master/correlations)
+- CSV/JSON/GEXF export
+- API key export/import
+- SQLite back-end for custom querying
+- Highly configurable
+- Fully documented
+- Visualisations
+- TOR integration for dark web searching
+- Dockerfile for Docker-based deployments
+- Can call other tools like DNSTwist, Whatweb, Nmap and CMSeeK
+- [Actively developed since 2012!](https://medium.com/@micallst/lessons-learned-from-my-10-year-open-source-project-4a4c8c2b4f64)
 
-### WANT MORE?
+## WANT MORE?
 
 Need more from SpiderFoot? Check out [SpiderFoot HX](https://www.spiderfoot.net/hx) for:
 
--   100% Cloud-based and managed for you
--   Attack Surface Monitoring with change notifications by email, REST and Slack
--   Multiple targets per scan
--   Multi-user collaboration
--   Authenticated and 2FA
--   Investigations
--   Customer support
--   Third party tools pre-installed & configured
--   Drive it with a fully RESTful API
--   TOR integration built-in
--   Screenshotting
--   Bring your own Python SpiderFoot modules
--   Feed scan data to Splunk, ElasticSearch and REST endpoints
+- 100% Cloud-based and managed for you
+- Attack Surface Monitoring with change notifications by email, REST and Slack
+- Multiple targets per scan
+- Multi-user collaboration
+- Authenticated and 2FA
+- Investigations
+- Customer support
+- Third party tools pre-installed & configured
+- Drive it with a fully RESTful API
+- TOR integration built-in
+- Screenshotting
+- Bring your own Python SpiderFoot modules
+- Feed scan data to Splunk, ElasticSearch and REST endpoints
 
 See the full set of differences between SpiderFoot HX and the open source version [here](https://www.spiderfoot.net/open-source-vs-hx/).
 
-### USES
+## USES
 
 SpiderFoot can be used offensively (e.g. in a red team exercise or penetration test) for reconnaissance of your target or defensively to gather information about what you or your organisation might have exposed over the Internet.
 
 You can target the following entities in a SpiderFoot scan:
 
--   IP address
--   Domain/sub-domain name
--   Hostname
--   Network subnet (CIDR)
--   ASN
--   E-mail address
--   Phone number
--   Username
--   Person's name
--   Bitcoin address
+- IP address
+- Domain/sub-domain name
+- Hostname
+- Network subnet (CIDR)
+- ASN
+- E-mail address
+- Phone number
+- Username
+- Person's name
+- Bitcoin address
 
 SpiderFoot's 200+ modules feed each other in a publisher/subscriber model to ensure maximum data extraction to do things like:
 
--   [Host/sub-domain/TLD enumeration/extraction](https://asciinema.org/a/295912)
--   [Email address, phone number and human name extraction](https://asciinema.org/a/295947)
--   [Bitcoin and Ethereum address extraction](https://asciinema.org/a/295957)
--   [Check for susceptibility to sub-domain hijacking](https://asciinema.org/a/344377)
--   DNS zone transfers
--   [Threat intelligence and Blacklist queries](https://asciinema.org/a/295949)
--   API integration with [SHODAN](https://asciinema.org/a/127601), [HaveIBeenPwned](https://asciinema.org/a/128731), [GreyNoise](https://asciinema.org/a/295943), AlienVault, SecurityTrails, etc.
--   [Social media account enumeration](https://asciinema.org/a/295923)
--   [S3/Azure/Digitalocean bucket enumeration/scraping](https://asciinema.org/a/295941)
--   IP geo-location
--   Web scraping, web content analysis
--   [Image, document and binary file meta data analysis](https://asciinema.org/a/296274)
--   Dark web searches
--   [Port scanning and banner grabbing](https://asciinema.org/a/295939)
--   [Data breach searches](https://asciinema.org/a/296145)
--   So much more...
+- [Host/sub-domain/TLD enumeration/extraction](https://asciinema.org/a/295912)
+- [Email address, phone number and human name extraction](https://asciinema.org/a/295947)
+- [Bitcoin and Ethereum address extraction](https://asciinema.org/a/295957)
+- [Check for susceptibility to sub-domain hijacking](https://asciinema.org/a/344377)
+- DNS zone transfers
+- [Threat intelligence and Blacklist queries](https://asciinema.org/a/295949)
+- API integration with [SHODAN](https://asciinema.org/a/127601), [HaveIBeenPwned](https://asciinema.org/a/128731), [GreyNoise](https://asciinema.org/a/295943), AlienVault, SecurityTrails, etc.
+- [Social media account enumeration](https://asciinema.org/a/295923)
+- [S3/Azure/Digitalocean bucket enumeration/scraping](https://asciinema.org/a/295941)
+- IP geo-location
+- Web scraping, web content analysis
+- [Image, document and binary file meta data analysis](https://asciinema.org/a/296274)
+- Dark web searches
+- [Port scanning and banner grabbing](https://asciinema.org/a/295939)
+- [Data breach searches](https://asciinema.org/a/296145)
+- So much more...
 
-### INSTALLING & RUNNING
+## INSTALLING & RUNNING
 
 To install and run SpiderFoot, you need at least Python 3.7 and a number of Python libraries which you can install with `pip`. We recommend you install a packaged release since master will often have bleeding edge features and modules that aren't fully tested.
 
-#### Stable build (packaged release):
+### Stable Build (packaged release):
 
 ```
  wget https://github.com/smicallef/spiderfoot/archive/v4.0.tar.gz
@@ -100,7 +99,7 @@ To install and run SpiderFoot, you need at least Python 3.7 and a number of Pyth
  python3 ./sf.py -l 127.0.0.1:5001
 ```
 
-#### Development build (cloning git master branch):
+### Development Build (cloning Git Master branch):
 
 ```
  git clone https://github.com/smicallef/spiderfoot.git

@@ -8,6 +8,7 @@
 ---
 
 You can open Working Copy and make it go to a specific screen with a URL: 
+
     
     
     working-copy://open?repo=my%20project&path=README.md&mode=content
@@ -1199,18 +1200,16 @@ You can open Working Copy and make it go to a specific screen with a URL:
     
     
 
+# URL Schemes in Working Copy
 
-
-
-# URL schemes in Working Copy
-
-# Controlling Working Copy with URL schemes
+# Controlling Working Copy with URL Schemes
 
 To allow integration with other applications and automated workflows [Working Copy](/) can be opened with special URL schemes and controlled with x-callback-url. Commands that change data or read content out of Working Copy is protected by a secret key. 
 
-## Opening Working Copy at specific screens
+## Opening Working Copy at Specific Screens
 
 You can open Working Copy and make it go to a specific screen with a URL: 
+
     
     
     working-copy://open?repo=my%20project&path=README.md&mode=content
@@ -2524,7 +2523,6 @@ You can open Working Copy and make it go to a specific screen with a URL:
     
     
     
-
 
 # Links
 

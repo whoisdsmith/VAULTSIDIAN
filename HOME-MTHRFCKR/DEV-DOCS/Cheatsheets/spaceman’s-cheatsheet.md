@@ -1,9 +1,10 @@
-# Spacemacs cheatsheet
+# Spacemacs Cheatsheet
 
 > ## Excerpt
 > One-page guide to Spacemacs: usage, examples, and more. Spacemacs is a distribution for Emacs.
 
 ---
+
 # Spacemacs _cheatsheet_
 
 This page is a work in progress. You can help by [suggesting edits](https://github.com/rstacruz/cheatsheets/blob/master/spacemacs.md)!
@@ -264,7 +265,7 @@ Line numbers
 
 `n`
 
-## [#](https://devhints.io/spacemacs#major-modes)Major modes
+## [#](https://devhints.io/spacemacs#major-modes)Major Modes
 
 ### Markdown
 
@@ -280,9 +281,9 @@ Insert horizontal rule
 
 Insert H1
 
-## [#](https://devhints.io/spacemacs#other-layers)Other layers
+## [#](https://devhints.io/spacemacs#other-layers)Other Layers
 
-### version-control
+### Version-control
 
 Shortcut
 
@@ -322,7 +323,7 @@ Show GitHub URL
 
 Version control is provided by Magit.
 
-## [#](https://devhints.io/spacemacs#emacs-standard)Emacs standard
+## [#](https://devhints.io/spacemacs#emacs-standard)Emacs Standard
 
 ### File
 

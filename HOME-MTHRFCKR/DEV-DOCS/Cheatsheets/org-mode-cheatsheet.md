@@ -1,9 +1,10 @@
-# Org Mode cheatsheet
+# Org Mode Cheatsheet
 
 > ## Excerpt
 > One-page guide to Org Mode: usage, examples, and more. Org mode is for keeping hierarchal notes (and more) in Emacs.
 
 ---
+
 # Org Mode _cheatsheet_
 
 This page is a work in progress. You can help by [suggesting edits](https://github.com/rstacruz/cheatsheets/blob/master/org-mode.md)!
@@ -39,7 +40,7 @@ To buy:
    + Mozarella
 ```
 
-### Inline styles
+### Inline Styles
 
 ```org
 *bold*
@@ -50,7 +51,7 @@ _underline_
 +strike-through+
 ```
 
-### To do
+### To Do
 
 ```org
 * TODO buy airplane
@@ -60,7 +61,7 @@ Cycle by using `S-LEFT` / `S-RIGHT`. List all TODO’s via `C-c C-v`.
 
 ## [#](https://devhints.io/org-mode#shortcuts)Shortcuts
 
-### Basic shortcuts
+### Basic Shortcuts
 
 Description
 

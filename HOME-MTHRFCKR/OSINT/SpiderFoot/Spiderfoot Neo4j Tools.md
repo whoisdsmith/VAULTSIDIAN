@@ -6,8 +6,6 @@
 
 Import, visualize, and analyze SpiderFoot OSINT data in Neo4j, a graph database
 
-
-
 [![A big graph](https://user-images.githubusercontent.com/20261699/129272391-ba0299a1-83da-4037-a55d-d607b620dc05.png)](https://user-images.githubusercontent.com/20261699/129272391-ba0299a1-83da-4037-a55d-d607b620dc05.png)
 
 ## Step 1: Installation
@@ -96,6 +94,5 @@ optional arguments:
                         Algorithm to use when suggesting targets
   -v, -d, --debug       Verbose / debug
 ```
-
 
 ---

@@ -2,7 +2,7 @@
 
 [HashKiller Online Hash Cracker](https://hashkiller.co.uk/)
 
-[5 Tools to Detect Digitally Altered
+[5 Tools to Detect Digitally Altered  
 Images](https://medium.com/@raebaker/5-tools-to-detect-digitally-altered-images-719db4015b5d)
 
 [Exifdata](http://exifdata.com/)
@@ -13,7 +13,7 @@ Images](https://medium.com/@raebaker/5-tools-to-detect-digitally-altered-images-
 
 [Forensically](https://29a.ch/photo-forensics#forensic-magnifier)
 
-[List of digital forensics
+[List of digital forensics  
 tools](https://en.wikipedia.org/wiki/List_of_digital_forensics_tools)
 
 [InVid](http://www.invid-project.eu/)

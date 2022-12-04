@@ -51,32 +51,32 @@
 `automake `  
 `bat `  
 `bmon `  - Utility Monitor  
-`bottom ` 
+`bottom `  
 `boxes `  
 `bpython `  
 `--completion `  
 `-gem `  
 `-pip `  
-`broot `   - File Explorer
+`broot `   - File Explorer  
 `bulk_extractor `  
 `coreutils `  
 `ncurses `  
 `newt `  
-`tmux `  - Multiple Terminal Windows
-`byobu `  - text-based window manager and terminal multiplexer
+`tmux `  - Multiple Terminal Windows  
+`byobu `  - text-based window manager and terminal multiplexer  
 `glib `  
 `python@3.9 `  
-`cheat `  - Cheatsheets
+`cheat `  - Cheatsheets  
 `chkrootkit `  
 `cmake `  
 `cmatrix `  
 `cowsay `  
-`ctop `  - utility Monitor
+`ctop `  - utility Monitor  
 `curl `  
 `docker `  
 `docx2txt `  
-`duf `  - Disk Usage/Free Utility
-`dust `  - Disk Usage
+`duf `  - Disk Usage/Free Utility  
+`dust `  - Disk Usage  
 `libpq `  
 `php `  
 `easyengine `  
@@ -98,13 +98,13 @@
 `fortune `  
 `fping `  
 `fswatch `  
-`fzf `  - general-purpose command-line fuzzy finder
+`fzf `  - general-purpose command-line fuzzy finder  
 `gdk-pixbuf `  
 `gh `  
 `ghc `  
-`glances `  - Utility Monitor
+`glances `  - Utility Monitor  
 `global `  
-`glow `  - Markdown Renderer
+`glow `  - Markdown Renderer  
 `go `  
 `goaccess `  
 `gotop `  
@@ -136,20 +136,20 @@
 `lsd `  
 `luajit-openresty `  
 `lychee `  
-`macchina `  - System Info
+`macchina `  - System Info  
 `macvim `  
 `maven `  
-`mcfly `  - Shell History
-`micro `  - Text Editor
+`mcfly `  - Shell History  
+`micro `  - Text Editor  
 `midnight-commander `  
 `monika `  
 `moreutils `  
 `mpd `  
 `mtr `  
-`mutt `  - email client
+`mutt `  - email client  
 `mysql `  
 `mytop `  
-`navi `  - An interactive cheatsheet tool for the command-line
+`navi `  - An interactive cheatsheet tool for the command-line  
 `nmap `  
 `pandoc `  
 `nb `  
