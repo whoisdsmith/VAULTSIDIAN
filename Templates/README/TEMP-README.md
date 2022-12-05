@@ -79,4 +79,4 @@ GitHub Template Repository for ScribeMD
 
 ## Changelog
 
-Please refer to [`CHANGELOG.md`](CHANGELOG.md).
+Please refer to [`CHANGELOG.md`](changelog.md).

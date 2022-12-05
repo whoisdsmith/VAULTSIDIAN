@@ -20,7 +20,7 @@ Some items in this list could easily fit in more than one category, so to make s
 
 [VPNs](VPNs.md)
 
-[Privacy](Privacy.md)
+[Privacy](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/Awesome%20Piracy/Privacy.md)
 
 [Torrenting](Torrenting.md)
 
@@ -40,7 +40,7 @@ Some items in this list could easily fit in more than one category, so to make s
 
 [Design](Design.md)
 
-[Automation](Automation.md)
+[Automation](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/Awesome%20Piracy/Automation.md)
 
 [Networking](Networking.md)
 
