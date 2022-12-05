@@ -4,19 +4,19 @@
 
 %% Begin Waypoint %%
 - **[NOTES](../../..//HOME-MTHRFCKR/NOTES/NOTES.md)**
-	- [a-context-based-information-refinding-system](a-context-based-information-refinding-system.md)
+	- [a-context-based-information-refinding-system](HOME-MTHRFCKR/NOTES/a-context-based-information-refinding-system.md)
 	- [abstract](abstract.md)
 	- **adderall**
-		- [adderall-and-depression](adderall/adderall-and-depression.md)
+		- [adderall-and-depression](HOME-MTHRFCKR/NOTES/adderall/adderall-and-depression.md)
 		- [Adderall](adderall/Adderall.md)
 		- [amphetamine-past-and-present-–-a-pharmacological-and-clinical-perspective](adderall/amphetamine-past-and-present-%E2%80%93-a-pharmacological-and-clinical-perspective.md)
-		- [an-analysis-of-adhd-drugs-ritalin-and-adderall](adderall/an-analysis-of-adhd-drugs-ritalin-and-adderall.md)
-		- [central-serous-chorioretinopathy](adderall/central-serous-chorioretinopathy.md)
-		- [long-term-side-effects](adderall/long-term-side-effects.md)
+		- [an-analysis-of-adhd-drugs-ritalin-and-adderall](HOME-MTHRFCKR/NOTES/adderall/an-analysis-of-adhd-drugs-ritalin-and-adderall.md)
+		- [central-serous-chorioretinopathy](HOME-MTHRFCKR/NOTES/adderall/central-serous-chorioretinopathy.md)
+		- [long-term-side-effects](HOME-MTHRFCKR/NOTES/adderall/long-term-side-effects.md)
 		- [love-and-adderall-rediscovered](adderall/love-and-adderall-rediscovered.md)
-		- [neurocognitive-autonomic-and-mood-effects-of-adderall](adderall/neurocognitive-autonomic-and-mood-effects-of-adderall.md)
-		- [the-underground-world-of-neuroenhancing-drugs](adderall/the-underground-world-of-neuroenhancing-drugs.md)
-		- [vyvanse-and-adderall-together](adderall/vyvanse-and-adderall-together.md)
+		- [neurocognitive-autonomic-and-mood-effects-of-adderall](HOME-MTHRFCKR/NOTES/adderall/neurocognitive-autonomic-and-mood-effects-of-adderall.md)
+		- [the-underground-world-of-neuroenhancing-drugs](HOME-MTHRFCKR/NOTES/adderall/the-underground-world-of-neuroenhancing-drugs.md)
+		- [vyvanse-and-adderall-together](HOME-MTHRFCKR/NOTES/adderall/vyvanse-and-adderall-together.md)
 	- [awesome-selfhosted-automation-2](awesome-selfhosted-automation-2.md)
 	- [confirmed!-we-live-in-a-simulation](confirmed!-we-live-in-a-simulation.md)
 	- **data**
@@ -83,7 +83,7 @@
 	- **sci-fi**
 		- [awesome-sci-fi](sci-fi/awesome-sci-fi.md)
 		- [keywords](sci-fi/keywords.md)
-		- [vocab](sci-fi/vocab.md)
+		- [vocab](HOME-MTHRFCKR/NOTES/sci-fi/vocab.md)
 	- [sci-fi-2](sci-fi-2.md)
 	- [science-fiction-2](science-fiction-2.md)
 	- [search-operators-you-can-use-with-gmail](search-operators-you-can-use-with-gmail.md)

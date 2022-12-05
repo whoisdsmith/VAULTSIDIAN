@@ -2,7 +2,7 @@
 
 ---
 
-## [[Academic.md]]
+## [[HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/Search/Academic]]
 ## [[Alternative--Search--Engines.md]]
 ## [[Archived Pages](Archived%20Pages.md)
 ## [[C0D3BL0CK Custom Search Engines](C0D3BL0CK%20Custom%20Search%20Engines.md)
