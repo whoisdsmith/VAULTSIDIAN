@@ -23,9 +23,9 @@
 * [All – Tiny Helpers](https://tiny-helpers.dev/)
 * [GRC's | DNS Nameserver Performance Benchmark](https://www.grc.com/dns/benchmark.htm)
 * [DNS Performance - Compare the speed and uptime of enterprise and commercial DNS services | DNSPerf](https://www.dnsperf.com/dns-providers-list/)
-[Usernames](Usernames.md)#username  
+[Usernames](../SEARCH%20PARTY/Usernames.md)#username  
 * [namecheckr | Social and Domain Name Availability Search For Brand Professionals](https://www.namecheckr.com/)
-[Usernames](Usernames.md) #username  
+[Usernames](../SEARCH%20PARTY/Usernames.md) #username  
 * [MegaEase](https://megaease.com/easegress/)
 * [Vite](https://vitejs.dev/)
 * [Webhook.site - Test, process and transform emails and HTTP requests](https://webhook.site/#!/0c3f60d4-a527-4bf1-b1a7-e1e4be87f32b)
@@ -532,7 +532,7 @@
 **Webhooks**
 
 * [Hookdoo Homepage](https://hookdoo.com/)
-[Discord](HOME-MTHRFCKR/DEV-DOCS/Discord.md)
+[Discord](../../DEV-DOCS/discord.md)
 
 #### Indexing-WebCrawling
 

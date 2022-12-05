@@ -3,5 +3,5 @@
 ## 🗃️ Databases
 
 View cheatsheets  
-[SQL](SQL.md)  
+[SQL](../../BOOKMRKS-MTHRFCKR/Software-Tools/Frontend/sql.md)  
 [NoSQL](NoSQL.md)

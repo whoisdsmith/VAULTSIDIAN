@@ -214,7 +214,7 @@
 * [Schare](https://vast.ai/)
 * [NudeVista Free Porn Search Engine](https://nudevista.com/)
 * [SSL/TLS Certificates Data | Spyse](https://spyse.com/search/certificate?q=domain%3Asilensec.com)
-[Discord](HOME-MTHRFCKR/DEV-DOCS/Discord.md)
+[Discord](../../DEV-DOCS/discord.md)
 * [Facebook graph search](https://mtg-bi.com/content/facebook-graph-search-workaround)
 * [Facebook Search](https://www.intel-sw.com/blog/facebook-search)
 * [Google Social Search](https://www.social-searcher.com/google-social-search)
@@ -233,7 +233,7 @@
 * ["WordPress Search](https://en.search.wordpress.com/)
 * [Blogspot Blog Search](https://www.searchblogspot.com/)
 * ["Search for Charts by Data Visualization Functions](https://datavizcatalogue.com/search.html)
-[Usernames](Usernames.md) #username  
+[Usernames](../SEARCH%20PARTY/Usernames.md) #username  
 * [Search is Back - Extra Search tool](https://searchisback.com/)
 * [Facebook Search Tool](https://www.aware-online.com/osint-tools/facebook-search-tool)
 * [#instagram - Twitter Search](https://twitter.com/search?q=%23instagram)

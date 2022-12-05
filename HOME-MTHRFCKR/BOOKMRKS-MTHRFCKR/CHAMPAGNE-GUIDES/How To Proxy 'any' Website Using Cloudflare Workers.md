@@ -791,7 +791,7 @@ _here zyx will be replaced by your future worker names.
       * SEARCH_API_LINK - Search api app link. Get your api from deploying this [repository](https://github.com/Ryuk-me/Torrent-Api-py).
     
     
-[MEGA](../../NOTES/MEGA.md)
+[MEGA](../../NOTES/mega.md)
     
     
     

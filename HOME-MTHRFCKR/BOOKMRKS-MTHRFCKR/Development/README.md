@@ -8,15 +8,15 @@
 
 ***
 
-[Design](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/Development/design.md)
+[Design](design.md)
 
 [DevOps](devops.md)
 
 [Git](git.md)
 
-[Programming](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/Development/programming.md)
+[Programming](programming.md)
 
-[Resources](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/Development/resources.md)
+[Resources](resources.md)
 
 [WebDev](webdev.md)
 

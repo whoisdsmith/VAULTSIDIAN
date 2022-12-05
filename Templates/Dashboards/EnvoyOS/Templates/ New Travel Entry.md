@@ -9,7 +9,7 @@ status:
 ---
 
 **Tags**:: #travel  
-**Links**:: [[ travel]]
+**Links**:: [[ ../../../../HOME-MTHRFCKR/DEV-DOCS/Automation/RSSHub/travel.md]]
 
 ---
 

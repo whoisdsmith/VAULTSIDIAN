@@ -84,7 +84,7 @@ The following information is in the Template:
 
 <br>
 
-`RELATIVES` (with [[files]] on Mother and Father)
+`RELATIVES` (with [[../../HOME-MTHRFCKR/NOTES/documents/files.md]] on Mother and Father)
 - Mother's Name [[File]]:
 - Father's Name [[File]]:
 - Brothers/ Sisters: 

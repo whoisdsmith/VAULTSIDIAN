@@ -4,7 +4,7 @@
 
 ## AUDIO AND MUSIC
 
-**[[AUDIO]]**
+**[[FREEMEDIAHECKYEAH/AUDIO.md]]**
 
 **[[Folders/Bookmarks/Piracy/AUDIOPIRACYGUIDE]]**
 
@@ -18,13 +18,13 @@
 
 ## DOWNLOADING AND TORRENTS 
 
-##### [[CLI-DOWNLOAD-TOOLS]]
+##### [[PiratezParty/Cli-download-tools.md]]
 
 ##### [[Folders/Bookmarks/Piracy/DOWNLOADPIRACYGUIDE]]
 
 ##### [[Folders/Bookmarks/Piracy/TORRENTS]]
 
-##### [[TORRENT2GDRIVETELEGRAMBOTS]]
+##### [[FREEMEDIAHECKYEAH/FMHY%20Collections/Torrent2GdriveTelegramBots.md]]
 
 ##### [[TORRENTS AND TRACKERS]]
 
@@ -39,17 +39,17 @@
 
 ##### [[Folders/Bookmarks/Piracy/BACKUPS]]
 
-##### [[INDEXES]]
+##### [[Piracy/INDEXES.md]]
 
-##### [[INDEX (reddit)]]
+##### [[INDEX (reddit)](FREEMEDIAHECKYEAH/FMHY%20Resources/INDEX%20(reddit).md)
 
 ##### [[Index (Lemmy)]]
 
-##### [[INDEX (saidit)]]
+##### [[INDEX (saidit)](FREEMEDIAHECKYEAH/FMHY%20Resources/INDEX%20(saidit).md)
 
-##### [[INDEX (GitHub)]]
+##### [[INDEX (GitHub)](FREEMEDIAHECKYEAH/FMHY%20Resources/INDEX%20(GitHub).md)
 
-##### [[INDEX (Rentry)]]
+##### [[INDEX (Rentry)](FREEMEDIAHECKYEAH/FMHY%20Resources/INDEX%20(Rentry).md)
 
 ##### [[Folders/Bookmarks/Piracy/MISC]]
 
@@ -77,7 +77,7 @@
 
 **[[DESIGN RESOURCES]]**
 
-**[[GRAPHIC DESIGN MASTER LIST]]**
+**[[GRAPHIC DESIGN MASTER LIST](Piracy/GRAPHIC%20DESIGN%20MASTER%20LIST.md)**
 
 **[[STOCK IMAGE AND VIDEO]]**
 
@@ -85,7 +85,7 @@
 
 ##  INTERNET
 
-**[[SERVERINFORMATION]]**
+**[[FREEMEDIAHECKYEAH/FMHY%20Resources/serverinformation.md]]**
 
 **[[Folders/Bookmarks/ADBLOCKVPNGUIDE]]**
 
@@ -97,11 +97,11 @@
 
 ## LISTS AND LIKES
 
-**[[GENERAL-AWESOME-COLLECTION]]**
+**[[PiratezParty/General-Awesome-Collection.md]]**
 
 **[[Resources/Piracy/LINKS]]**
 
-**[[LIST OF WEBSITES TO KNOW ANYTHING ABOUT EVERYTHING]]**
+**[[LIST OF WEBSITES TO KNOW ANYTHING ABOUT EVERYTHING](Piracy/LIST%20OF%20WEBSITES%20TO%20KNOW%20ANYTHING%20ABOUT%20EVERYTHING.md)**
 
 **[[NEW LIST]]**
 
@@ -111,20 +111,20 @@
 
 **[[NEW SITE LISTS]]**
 
-**[[HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/FREEMEDIAHECKYEAH/TO-DO/SITEHUNT]]**
+**[[FREEMEDIAHECKYEAH/TO-DO/SITEHUNT.md]]**
 
 
 ---
 
 ## MAC-PC-LINUX
 
-**[[PIRATEWINDOWS]]**
+**[[FREEMEDIAHECKYEAH/FMHY%20Guides/PirateWindows.md]]**
 
 **[[LINUXPIRACY]]**
 
 **[[Folders/Bookmarks/Piracy/LINUXGUIDE]]**
 
-**[[SERVERINFORMATION]]**
+**[[FREEMEDIAHECKYEAH/FMHY%20Resources/serverinformation.md]]**
 
 
 ---
@@ -137,7 +137,7 @@
 
 **[[Folders/Bookmarks/Piracy/VIDEO]]**
 
-**[[RAREFILMSGUIDE]]**
+**[[FREEMEDIAHECKYEAH/FMHY%20Guides/RAREFILMSGUIDE.md]]**
 
 
 ---
@@ -147,7 +147,7 @@
 
 **[[Folders/Bookmarks/Piracy/ANDROIDPIRACYGUIDE]]**
 
-**[[ANDROID-EMULATORS]]**
+**[[PiratezParty/Android-Emulators.md]]**
 
 
 ## MISC
@@ -171,7 +171,7 @@
 ## SOCIAL
 
 
-**[[AWESOME-REDDIT]]**
+**[[Piracy/AWESOME-REDDIT.md]]**
 
 
 ## TOOLS
@@ -188,11 +188,11 @@
 
 **[[SYSTEM TOOLS]]**
 
-**[[FILE TOOLS]]**
+**[[FILE TOOLS](Piracy/FILE%20TOOLS.md)**
 
-**[[ENTERTAINMENT-TOOLS]]**
+**[[Piracy/ENTERTAINMENT-TOOLS.md]]**
 
-**[[Search-Tools]]**
+**[[Search/Search-Tools.md]]**
 
 
 ---

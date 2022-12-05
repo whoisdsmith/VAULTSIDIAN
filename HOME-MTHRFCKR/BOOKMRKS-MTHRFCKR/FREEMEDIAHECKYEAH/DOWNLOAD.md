@@ -7,7 +7,7 @@
 * **Note** - Some Open Directories grab IP's, so use a VPN or Tor when accessing them.
 * ⭐ **[/r/opendirectories](https://www.reddit.com/r/opendirectories/)** - Open Directories Subreddit / [Telegram](https://t.me/r_OpenDirectories) / /u/ODScanner
 * ⭐ **[Open Directory Search String Builders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_open_directory_search_string_builder)**, [2](https://redd.it/933pzm), [3](https://redd.it/g4kfem), [4](https://redd.it/lj0a1e), [5](http://torrbot.com/)
-[Discord](HOME-MTHRFCKR/DEV-DOCS/Discord.md)
+[Discord](../../DEV-DOCS/discord.md)
 * [EyeDex](https://www.eyedex.org/), [ODCrawler](https://odcrawler.xyz/), [ODS](https://sites.google.com/view/l33tech/tools/ods) or [mmnt](https://www.mmnt.net/) - Open Directory Search Engine
 * [Alive Data Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_alive_data_indexes)
 * [Google TeamDrives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_google_teamdrives) 
@@ -28,7 +28,7 @@
 * [Open Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_open_directory_indexes) - Open Directory Indexes
 * [Napalm FTP](https://www.searchftps.net/), [Mamont](https://www.mmnt.ru/int/) or [Search-22](https://search-22.com/ftp-search-tools) - FTP Search
 * [dedigger](https://www.dedigger.com/) - GDrive File Search 
-[Discord](HOME-MTHRFCKR/DEV-DOCS/Discord.md)
+[Discord](../../DEV-DOCS/discord.md)
 * [MegaDownload](http://megadownload.net/) - Mega File Search 
 * [Create Open Directory Search Engine](https://redd.it/d3w2fu)
 * [Open Directory Downloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) or [AutoIndex](http://autoindex.sourceforge.net/) - Open Directory Indexer 
@@ -51,7 +51,7 @@
 * ⭐ **[DirtyWarez](https://forum.dirtywarez.com/)** - Video / Audio / Games / Software / Books / Comics 
 * ⭐ **[patoghu](https://patoghu.com/)** - Video / Audio / Software / Android / Games / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * ⭐ **[Bitdownload](http://bitdownload.ir/)** - Video / Audio / Software / Games / Android / Courses / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
-* ⭐ **[The-Eye](https://the-eye.eu/)** - Audio / ROMs / Books / Comics / Magazines / Software / [Discord](HOME-MTHRFCKR/DEV-DOCS/Discord.md)
+* ⭐ **[The-Eye](https://the-eye.eu/)** - Audio / ROMs / Books / Comics / Magazines / Software / [Discord](../../DEV-DOCS/discord.md)
 * [DDLValley](https://www.ddlvalley.me/) - Video / Audio / Games / ROMs / Software / Android / Books / Comics / Magazines
 * [Archive.org](https://archive.org/) - Video / Audio / Magazines / Newspapers / ROMs / [Downloader](https://github.com/MiniGlome/Archive.org-Downloader)
 * [WarezForums](https://warezforums.com/) - Video / Audio / Games / ROMs / Software / Books / Comics / Android / [Account Application](https://t.me/joinchat/AAAAAFRH5fns4IiE-T2TcA)
@@ -158,7 +158,7 @@
 * ⭐ **[YasDL](https://yasdl.com/)** - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [soft98](https://soft98.ir/) - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [downloadly](https://downloadly.ir/), [2](https://downloadly.net/) - Software / Courses / Persian VPN Required
-* [PiratePC](https://piratepc.me/) - [Discord](HOME-MTHRFCKR/DEV-DOCS/Discord.md)
+* [PiratePC](https://piratepc.me/) - [Discord](../../DEV-DOCS/discord.md)
 * [SamLab](https://samlab.ws/) - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [FTUApps](https://ftuapps.dev/)
 * [AIOWares](https://www.aiowares.com/)
@@ -490,7 +490,7 @@
 
 * ⭐ **[Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n) / [librex](https://github.com/hnhx/librex) - Multi Site Search #Search 
 * ⭐ **[1337x](https://1337x.to/)** - Video / Audio / Games / Software / NSFW
-* ⭐ **1337x Tools** - [Mirrors](https://1337x.to/about) / [Discord](HOME-MTHRFCKR/DEV-DOCS/Discord.md) / [Telegram Bot](https://t.me/search_content_bot), [2](https://github.com/xbIm/1337x-torrent-telegram-bot) / [IMDb Ratings](https://github.com/kotylo/1337imdb) / [Proxy](https://redd.it/tz7nyx), [2](https://pastebin.com/3n5K0QrP) / [Enhancements](https://greasyfork.org/en/scripts/33379)
+* ⭐ **1337x Tools** - [Mirrors](https://1337x.to/about) / [Discord](../../DEV-DOCS/discord.md) / [Telegram Bot](https://t.me/search_content_bot), [2](https://github.com/xbIm/1337x-torrent-telegram-bot) / [IMDb Ratings](https://github.com/kotylo/1337imdb) / [Proxy](https://redd.it/tz7nyx), [2](https://pastebin.com/3n5K0QrP) / [Enhancements](https://greasyfork.org/en/scripts/33379)
 * ⭐ **[RARBG](https://rarbg.to)** - Video / Audio / Games / Software / NSFW
 * ⭐ **RARBG Tools** - [Python Interface](https://github.com/verybada/rarbgapi) / [Advanced Filters](https://greasyfork.org/en/scripts/29661-rarbg-advanced-filters) / [Add Links](https://greasyfork.org/en/scripts/23493-rarbg-torrent-and-magnet-links) / [Thumbnails](https://github.com/keyboardslayer/rarbg-thumbnails) / [IMDb Ratings](https://greasyfork.org/en/scripts/36751-rarbg) / [Proxy](https://proxyrarbg.org/)
 * ⭐ **[RuTracker](http://rutracker.org)**, [2](https://rutracker.nl/), [3](https://rutracker.net/) - Video / Audio / Games / Software / Android / Comics / Magazines
@@ -604,7 +604,7 @@
 * ⭐ **[T2M](https://nutbread.github.io/t2m/)** / [2](https://github.com/nutbread/t2m) or [Torrent Kitty](https://www.torrentkitty.tv/) / [2](https://www.torrentkitty.com) / [3](https://www.torrentkitty.net/) / [4](https://www.torrentkitty.lol/) / [5](https://torrentkitty.se/) - Torrent to Magnet Converter
 * ⭐ **[Auto Torrent Tools List](https://redd.it/hbwnb2)**, [FlexGet](https://flexget.com/) or [/r/softwarr](https://reddit.com/r/softwarr) - Autodownload Tools
 * [Torrent Legality](https://i.imgur.com/eNdboCs.png) - Torrenting Laws by Country
-[Discord](HOME-MTHRFCKR/DEV-DOCS/Discord.md)
+[Discord](../../DEV-DOCS/discord.md)
 * [btcache](https://btcache.me/), [iTorrents](https://itorrents.org) or [Torrage](https://torrage.info/) - Torrent Storage Cache
 * [WebTorrent Checker](https://checker.openwebtorrent.com/) - Check Health of a Torrent
 * [mgnet](http://mgnet.me/) or [MagLit](https://maglit.me/) - Magnet Link Shortener

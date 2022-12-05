@@ -18,7 +18,7 @@
 
 ## DOWNLOADING AND TORRENTS 
 
-##### [[CLI-DOWN[[HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/Piracy/DOWNLOADPIRACYGUIDE]]OWNLOADPIRACYGUIDE.md]]
+##### [[CLI-DOWN[[DOWNLOADPIRACYGUIDE.md]]OWNLOADPIRACYGUIDE.md]]
 
 ##### [[../piracysubreddit/r-piracy/docs/sources/torrents.md]]
 
@@ -37,7 +37,7 @@
 
 ##### [[../FMHYedit/fmhy/backups.md]]
 
-####[[HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/Piracy/MISC]]XES.md]]
+####[[MISC.md]]XES.md]]
 
 ##### [[INDEX (reddit)](../../Documentation/Resources/Piracy%20(1)/INDEX%20(reddit).md)
 
@@ -71,7 +71,7 @@
 
 **[[../FMHYedit/fmhy/img-tools.md]]**
 
-**[[NEW MEDIA TOO[[HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/Piracy/SITEHUNT]]DESIGN RESOURCES]]**
+**[[NEW MEDIA TOO[[SITEHUNT.md]]DESIGN RESOURCES]]**
 
 **[[GRAPHIC DESIGN MASTER LIST](GRAPHIC%20DESIGN%20MASTER%20LIST.md)**
 
@@ -93,7 +93,7 @@
 
 ## LISTS AND LIKES
 
-**[[GENERAL-AWESOME-COLLECTION]]**
+**[[../PiratezParty/General-Awesome-Collection.md]]**
 
 **[[../../../Snippets/Links.md]]**
 
@@ -143,7 +143,7 @@
 
 **[[../FMHYedit/fmhy/androidpiracyguide.md]]**
 
-**[[ANDROID-EMULATORS]]**
+**[[../PiratezParty/Android-Emulators.md]]**
 
 
 ## MISC

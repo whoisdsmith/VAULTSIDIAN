@@ -126,7 +126,7 @@ The `rel` attribute has no default value. If the attribute is omitted or if none
     <link rel="icon" href="favicon.ico" />
     ```
 
-    If there are multiple `<link rel="icon">`s, the browser uses their [`../../../../BOOKMRKS-MTHRFCKR/Awesome%20Piracy/Media.md`](media) attribute, [`type`](/en-US/docs/Web/HTML/Element/link#attr-type), and [`sizes`](sizes) attributes to select the most appropriate icon. If several icons are equally appropriate, the last one is used. If the most appropriate icon is later found to be inappropriate, for example because it uses an unsupported format, the browser proceeds to the next-most appropriate, and so on.
+    If there are multiple `<link rel="icon">`s, the browser uses their [`../../../../BOOKMRKS-MTHRFCKR/Awesome%20Piracy/Media.md`](../../../../../BOOKMRKS-MTHRFCKR/Awesome%20Piracy/Media.md) attribute, [`type`](/en-US/docs/Web/HTML/Element/link#attr-type), and [`sizes`](sizes) attributes to select the most appropriate icon. If several icons are equally appropriate, the last one is used. If the most appropriate icon is later found to be inappropriate, for example because it uses an unsupported format, the browser proceeds to the next-most appropriate, and so on.
 
     > **Note:** Prior to Firefox 83 the [crossorigin](/en-US/docs/Web/HTML/Attributes/crossorigin) attribute was not supported for `rel="icon"` there is also [an open issue for Chrome](https://bugs.chromium.org/p/chromium/issues/detail?id=1121645).
 
@@ -193,7 +193,7 @@ The `rel` attribute has no default value. If the attribute is omitted or if none
 
     When used with the [alternate](#alternate) keyword, it defines an alternative style sheet. In this case, include a non-empty [`title`](type).
 
-    The external stylesheet will not be used or even downloaded if the media does not match the value of the [`../../../../BOOKMRKS-MTHRFCKR/Awesome%20Piracy/Media.md`](media) attribute.
+    The external stylesheet will not be used or even downloaded if the media does not match the value of the [`../../../../BOOKMRKS-MTHRFCKR/Awesome%20Piracy/Media.md`](../../../../../BOOKMRKS-MTHRFCKR/Awesome%20Piracy/Media.md) attribute.
 
     Requires the use of the CORS protocol for cross-origin fetching.
 

@@ -8,7 +8,7 @@
 
 [Financial](financial.md)
 
-[Journal](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/projects/journal.md)
+[Journal](journal.md)
 
 [Lifeline Development](../../Lifeline%20Development.md)
 

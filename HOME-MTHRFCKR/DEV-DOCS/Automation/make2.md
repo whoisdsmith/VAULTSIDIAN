@@ -4,51 +4,51 @@
 
 ---
 
-## [[Make API Documentation](make%20api%20documentation.md)
+## [[Make API Documentation](Make/make%20api%20documentation.md)
 
-## [[Types of modules](types%20of%20modules.md)
+## [[Types of modules](Make/types%20of%20modules.md)
 
-## [[xml]]
+## [[Make/xml.md]]
 
-## [[.[[HOME-MTHRFCKR/DEV-DOCS/Automation/IFTTT/glossary]]tation/Make/make-rss.md]]
+## [[.[[IFTTT/glossary.md]]tation/Make/make-rss.md]]
 
-## [[json]]
+## [[Make/json.md]]
 
-## [[http]]
+## [[Make/http.md]]
 
 ## [[Folders/Documentation/Make/Tools]]
 
-## [[HOME-MTHRFCKR/DEV-DOCS/Automation/Make/email]]
+## [[Make/email.md]]
 
 ## [[Folders/Documentation/Make/Image]]
 
-## [[router]]
+## [[Make/router.md]]
 
-## [[iterator]]
+## [[Make/iterator.md]]
 
-## [[make-webhooks]]
+## [[Make/make-webhooks.md]]
 
 ## [[IFTTT/glossary.md]]
 
-## [[converger]]
+## [[Make/converger.md]]
 
-## [[wordpress]]
+## [[Make/wordpress.md]]
 
-## [[aggregator]]
+## [[Make/aggregator.md]]
 
-## [[Data store](data%20store.md)
+## [[Data store](Make/data%20store.md)
 
-## [[Text Parser](text%20parser.md)
+## [[Text Parser](Make/text%20parser.md)
 
-## [[Flow control](flow%20control.md)
+## [[Flow control](Make/flow%20control.md)
 
-## [[Data structures](data%20structures.md)
+## [[Data structures](Make/data%20structures.md)
 
-## [[Types of modules](types%20of%20modules.md)
+## [[Types of modules](Make/types%20of%20modules.md)
 
-## [[Replacing Legacy Modules with New Modules](replacing%20legacy%20modules%20with%20new%20modules.md)
+## [[Replacing Legacy Modules with New Modules](Make/replacing%20legacy%20modules%20with%20new%20modules.md)
 
-## [[How to get Text Parser to produce an output value](how%20to%20get%20text%20parser%20to%20produce%20an%20output%20value.md)
+## [[How to get Text Parser to produce an output value](Make/how%20to%20get%20text%20parser%20to%20produce%20an%20output%20value.md)
 
 ## [[Replacing Google Sheets legacy Modules with New Modules]]
 

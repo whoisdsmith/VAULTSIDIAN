@@ -6,10 +6,10 @@
 
 [[Incase You Don't Know Or I Forget]] 
 
-[[Spelling]] 
+[[spelling.md]] 
 
 [[Love Is Living Tissue]] 
 
-[[Philosativity]] 
+[[philosativity.md]] 
 
 [[_Everett_]]

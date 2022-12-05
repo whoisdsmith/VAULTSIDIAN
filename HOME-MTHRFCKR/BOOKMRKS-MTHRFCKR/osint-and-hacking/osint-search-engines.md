@@ -554,7 +554,7 @@
 
 - [Thenameapp.com](https://thenameapp.com/)
 
-[Usernames](Usernames.md) #username  
+[Usernames](../SEARCH%20PARTY/Usernames.md) #username  
 
 
 
@@ -1106,7 +1106,7 @@
 
 - [Lullar](https://com.lullar.com/)
 
-[Usernames](Usernames.md) #username  
+[Usernames](../SEARCH%20PARTY/Usernames.md) #username  
 
 - [MarketVisual Search](https://marketvisual.com/)
 
@@ -1600,7 +1600,7 @@
 
 - [Pinterest - PinGroupie](http://pingroupie.com/)
 
-[Discord](HOME-MTHRFCKR/DEV-DOCS/Discord.md)
+[Discord](../../DEV-DOCS/discord.md)
 
 - [Reddit - Karma Decay (image search)](http://karmadecay.com/)
 
@@ -2054,7 +2054,7 @@
 
 
 
-[Discord](HOME-MTHRFCKR/DEV-DOCS/Discord.md)
+[Discord](../../DEV-DOCS/discord.md)
 
 
 

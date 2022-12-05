@@ -38,11 +38,11 @@ Some items in this list could easily fit in more than one category, so to make s
 
 [Media](Media.md)
 
-[Design](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/Awesome%20Piracy/Design.md)
+[Design](Design.md)
 
 [Automation](Automation.md)
 
-[Networking](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/Awesome%20Piracy/Networking.md)
+[Networking](Networking.md)
 
 [Mobile Apps](Mobile%20Apps.md)
 
@@ -53,4 +53,4 @@ Some items in this list could easily fit in more than one category, so to make s
 
 [Content Discovery](Content%20Discovery.md)
 
-[Misc](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/Awesome%20Piracy/Misc.md)
+[Misc](Misc.md)

@@ -360,6 +360,6 @@ Send them along to the markdown-discuss mailing list. Thanks!
 [[Notes and Links/Abstract.md]]
 [[Notes and Links/A Context-based Information Refinding System.md]]
 [[Day Planners/Day Planner-20220119.md]]
-[[Awesome]]
+[[../../../DEV-DOCS/Awesome/awesome.md]]
 [[Folders/Awesome/Markdown/Awesome-markdown]]
-[[Awesome lists about all kinds of interesting topics]]
+[[Awesome lists about all kinds of interesting topics](../Awesome%20lists%20about%20all%20kinds%20of%20interesting%20topics.md)

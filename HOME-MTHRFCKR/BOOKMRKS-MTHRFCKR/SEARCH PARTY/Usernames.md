@@ -2,13 +2,13 @@
 
 ---
 
-- [general](general)
-- [osint](osint)
-- [osint-search-engines](osint-search-engines)
+- [../Search/General.md](general)
+- [../../OSINT/Osint-Bookmarks/OSINT.md](HOME-MTHRFCKR/OSINT/Osint-Bookmarks/OSINT.md)
+- [../osint-and-hacking/osint-search-engines.md](osint-search-engines)
 - [SEARCH PARTY MTHRFCKR](SEARCH PARTY MTHRFCKR)
-- [tools](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/tools.md)
-- [tools-box](tools-box)
-- [webdev](webdev)
+- [tools](../tools.md)
+- [../Software-Tools/readme/tools-box.md](tools-box)
+- [webdev](../Weboasis/webdev.md)
 
 ---
 

@@ -2,12 +2,11 @@
 
 ---
 
-## [[Blueprints On Building A Solid Foundation]]
-## [[Family]]
-## [[Just Some Shit/Chapters/Blueprints/Friends]]
-## [[Life]]
-## [[Love]]
+%% Begin Waypoint %%
+- **[blueprints](../../../..//Blog/chapters/blueprints/blueprints.md)**
+	- [blueprints-on-building-a-solid-foundation](blueprints-on-building-a-solid-foundation.md)
+	- [blueprints](../../../..//Blog/chapters/blueprints/blueprints.md)
+	- [time-capsule-letter](time-capsule-letter.md)
 
----
-
+%% End Waypoint %%
 

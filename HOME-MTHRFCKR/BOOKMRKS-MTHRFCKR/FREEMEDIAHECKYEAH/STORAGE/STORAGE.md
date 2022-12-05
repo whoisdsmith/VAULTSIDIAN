@@ -137,13 +137,13 @@
 
 ***
 
-[Discord](HOME-MTHRFCKR/DEV-DOCS/Discord.md)
+[Discord](../../../DEV-DOCS/discord.md)
 
 ***
 
-[Discord](HOME-MTHRFCKR/DEV-DOCS/Discord.md)
+[Discord](../../../DEV-DOCS/discord.md)
 
-[Discord](HOME-MTHRFCKR/DEV-DOCS/Discord.md)
+[Discord](../../../DEV-DOCS/discord.md)
 
 ***
 
@@ -379,7 +379,7 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 
 ***
 
-[Discord](HOME-MTHRFCKR/DEV-DOCS/Discord.md)
+[Discord](../../../DEV-DOCS/discord.md)
 
 ### Multireddits
 

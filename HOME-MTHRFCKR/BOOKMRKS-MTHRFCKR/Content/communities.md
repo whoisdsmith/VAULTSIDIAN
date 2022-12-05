@@ -82,7 +82,7 @@
 
 
 
-[Discord](HOME-MTHRFCKR/DEV-DOCS/Discord.md)
+[Discord](../../DEV-DOCS/discord.md)
 
 
 

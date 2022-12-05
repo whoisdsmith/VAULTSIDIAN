@@ -31,7 +31,7 @@ sidebar_label: DDL
 - [wget](http://www.gnu.org/software/wget/) - `wget` is a free and open source tool for downloading files using HTTP, HTTPS, FTP and FTPS. It can be easily called from scripts, cronjobs, terminals without X-Windows support, etc.
   - [wget for Windows](http://eternallybored.org/misc/wget/) - A command-line utility for retrieving files using HTTP, HTTPS and FTP protocols.
 - [MEGAsync](http://mega.nz/sync) #MEGA - Easy automated synchronisation between your computer and your MEGA account. Can stream Mega videos directly. 
-[MEGA](../../../../../NOTES/MEGA.md)
+[MEGA](../../../../../NOTES/mega.md)
 - [annie](https://github.com/iawia002/annie) - Fast, simple and clean video downloader.
 - [aria2](http://aria2.github.io/) - A lightweight multi-protocol & multi-source command-line download utility.
 - [Photon](https://github.com/alanzhangzm/Photon) - A lightweight multi-threaded downloader based on aria2.

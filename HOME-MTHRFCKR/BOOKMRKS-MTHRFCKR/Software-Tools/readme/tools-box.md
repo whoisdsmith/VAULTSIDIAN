@@ -80,7 +80,7 @@ https://anonfiles.com/h3J4Y7W6oe/ebay_Checker_Account_By_X-KILLER_rar
 https://anonfiles.com/Nenf87Hapd/Instagram_Account_Checker_anom  
 https://anonfiles.com/Nenf87Hapd  
 https://pastebin.com/brXVzdE7  
-[MEGA](../../../NOTES/MEGA.md) 
+[MEGA](../../../NOTES/mega.md) 
 https://anonfiles.com/V1i9RaSbnf/Facebook_Accounts_Checker_By_X-SLAYER_zip  
 https://anonfiles.com/78D0dfO1o6/Netflix_Accounts_Checker_v1.0_By_X-LINE_rar  
 https://anonfiles.com/dal73ej3p7/Spotify_Checker_By_Zqink_rar  
@@ -106,7 +106,7 @@ https://anonfiles.com/73n7SbG5pa/Checkers_by_Prince_Jack_zip
 https://rghost.net/7GTGBSZZ8  
 https://anonfiles.com/x5Waa1yfpc/Best_Checkers_For_Gamers_Vol.1_rar  
 https://anonfiles.com/7bF5G9Ibob/Checkers_-_All_Working_rar  
-[MEGA](../../../NOTES/MEGA.md) 
+[MEGA](../../../NOTES/mega.md) 
 https://anonfiles.com/X1g6y8B9o1/Checkers_rar  
 https://anonfiles.com/14i8m1Faoe/Amazon_Giftcard_checker_July_2020_Updated_exe  
 https://anonfiles.com/V6X7jfC3oe/Paypal_Checker_By_G-KLITREALREAL_zip  
@@ -195,7 +195,7 @@ https://dimensionbots.com/socialmediabot.php
 Vmware 20H2 Crack Password 123  
 https://www.mediafire.com/file/08uz04bbzsvr0nq/_Getintopc.com_VMware_Workstation_Pro_16.0.0.59684.rar/file  
 
-[MEGA](../../../NOTES/MEGA.md)
+[MEGA](../../../NOTES/mega.md)
 
 https://anonfile.com/04V86erebd  
 https://anonfile.com/3fcezdYcn5/Warzone_Silent_Exploit_Crack_by_Eladictocosy_zip  
@@ -376,7 +376,7 @@ https://haveibeenpwned.com/Passwords
 https://binlist.pro/  
 https://haveibeenpwned.com/PwnedWebsites
 
-[Usernames](Usernames.md) #username 
+[Usernames](../../SEARCH%20PARTY/Usernames.md) #username 
 
 WhatsMyName.app how to use  
 This tool allows you to enumerate usernames across many websites  
@@ -580,7 +580,7 @@ https://github.com/Bl1xY/CookieCatch
 
 https://github.com/Reza-saeedi/Malware-Detection-Tools  
 https://github.com/MalwareStudio/Virus_Destructive  
-[MEGA](../../../NOTES/MEGA.md)
+[MEGA](../../../NOTES/mega.md)
 https://github.com/RPISEC/Malware  
 https://github.com/RamadhanAmizudin/malware  
 https://github.com/vxunderground/MalwareSourceCode  
@@ -594,7 +594,7 @@ https://github.com/sweetsoftware/Ares
 https://github.com/Kkevsterrr/backdoorme
 
 ⭐️ [INFERNO AIO+] KEYLOGGER ⭐️  
-[MEGA](../../../NOTES/MEGA.md)
+[MEGA](../../../NOTES/mega.md)
 [!] Attention [!]  
 Some Antiviruses may remove the program.  
 [!] Features [!]  
@@ -637,7 +637,7 @@ VirusTotal checker.
 https://www.varonis.com/blog/malware-coding-lessons-people-part-learning-write-custom-fud-fully-undetected-malware/  
 https://github.com/Reza-saeedi/Malware-Detection-Tools  
 https://github.com/MalwareStudio/Virus_Destructive  
-[MEGA](../../../NOTES/MEGA.md) 
+[MEGA](../../../NOTES/mega.md) 
 https://github.com/RPISEC/Malware  
 https://github.com/bartblaze/PHP-backdoors  
 https://github.com/secretsquirrel/the-backdoor-factory
@@ -645,7 +645,7 @@ https://github.com/secretsquirrel/the-backdoor-factory
 https://anonfiles.com/VeYeY0t6uf/Latest_Gift_Card_Carding_Method_txt  
 https://cdn.discordapp.com/attachments/839351266663727144/841216693891366942/Linkvertise_Search_Engine.txt  
 https://anonfiles.com/VeYeY0t6uf/Latest_Gift_Card_Carding_Method_txt  
-[MEGA](../../../NOTES/MEGA.md) 
+[MEGA](../../../NOTES/mega.md) 
 Latest Netflix Method:  
 https://www.bigtricks.in/unlimitedproof-trick-get-netflix-premium-account-free-lifetime-netflix-premium-membership-trick/  
 free G2A games :: https://cdn.discordapp.com/attachments/653519497717874688/712797803948146708/G2A-FREE-GAMES.txt  
@@ -749,7 +749,7 @@ Edu Mail :
 https://cdn.discordapp.com/attachments/668482975276466226/726138666929618984/EDU_Emails.pdf  
 https://anonfiles.com/NaRbebmeb1/dd44833f-1553996258/EDU-Method.pdf - Method v2  
 https://cdn.discordapp.com/attachments/748334078884839455/750427293809246329/free_domain.txt  
-[MEGA](../../../NOTES/MEGA.md)
+[MEGA](../../../NOTES/mega.md)
 What to do:
 
 1. Got to https://tecknity.com/tecknity-cookies-extension/
@@ -838,8 +838,8 @@ https://ghostbin.co/paste/cb836
 https://pastebin.com/4yBF94BU  
 https://pastebin.com/hYr0UGbM  
 https://pastebin.com/Up7eQMHt  
-[MEGA](../../../NOTES/MEGA.md)
-[MEGA](../../../NOTES/MEGA.md)
+[MEGA](../../../NOTES/mega.md)
+[MEGA](../../../NOTES/mega.md)
 
 # Nmap -sp ip(port)
 
@@ -1152,7 +1152,7 @@ Desync.vip Source Code : https://anonfile.com/P7L2kdp9oc/desync.vip_source_code_
 
 Trixware Source Code : https://anonfile.com/f2t3hfS2na/TrixWare_Source_zip  
 
-[MEGA](../../../NOTES/MEGA.md)
+[MEGA](../../../NOTES/mega.md)
 
 python:
 

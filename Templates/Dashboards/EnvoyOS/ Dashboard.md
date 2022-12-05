@@ -161,7 +161,7 @@ description: Main Dashboard fo this Vault
 
 # [[ Bucket List]]
 
-# [[ travel]]
+# [[ ../../../HOME-MTHRFCKR/DEV-DOCS/Automation/RSSHub/travel.md]]
 
 # [[ brain dump]]
 
@@ -192,7 +192,7 @@ background: linear-gradient(0deg, rgba(34,193,195,0.6516981792717087) 0%, rgba(2
 
 # [[ Dream Life]]
 
-# [[ reading]]
+# [[ ../../../HOME-MTHRFCKR/DEV-DOCS/Automation/RSSHub/reading.md]]
 
 # [[ Grow Room]]
 

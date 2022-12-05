@@ -934,7 +934,7 @@
 
 - [Home Page](https://www.dfir.training/)
 
-[Discord](HOME-MTHRFCKR/DEV-DOCS/Discord.md)
+[Discord](../../DEV-DOCS/discord.md)
 
 
 
@@ -7082,13 +7082,13 @@
 
 - [Loginella.site](https://loginella.site/)
 
-[Usernames](Usernames.md) #username  
+[Usernames](../SEARCH%20PARTY/Usernames.md) #username  
 
 - [Namevine](https://namevine.com/)
 
 - [WhatsMyName Web](https://whatsmyname.app/)
 
-[Usernames](Usernames.md) #username  
+[Usernames](../SEARCH%20PARTY/Usernames.md) #username  
 
 ### Telegram
 

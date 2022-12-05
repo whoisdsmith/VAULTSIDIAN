@@ -36,7 +36,7 @@
  <br>
 
  ## Template 
- - You will notice that each person has 2 sets of brackets around them, example: [[Father]], this lets you do a right click on each person and --> create file.
+ - You will notice that each person has 2 sets of brackets around them, example: [[../Dashboards/Rainbell-Homepage/10%20-%20People/Family/Father.md]], this lets you do a right click on each person and --> create file.
 
 
  - You can have a file on each person and you can input much more detailed information such as full name, date of birth, place of Birth, date of death, text/many notes and any amount of text, import screenshots, photos, .txt files etc.. 

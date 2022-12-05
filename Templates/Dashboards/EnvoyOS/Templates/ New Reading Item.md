@@ -8,7 +8,7 @@ description: A basic structure for a reading source such as a book or article
 ---
 
 **Tags**:: #reading  
-**Links**:: [[ reading]]  
+**Links**:: [[ ../../../../HOME-MTHRFCKR/DEV-DOCS/Automation/RSSHub/reading.md]]  
 **Format**:: <% tp.system.suggester(["Book", "E-Book", "Article", "Blog Post", "PDF", "Custom"], ["Book", "E-Book", "Article", "Blog Post", "PDF", ""]) %>  
 **Author**::  
 **ISBN**::  
