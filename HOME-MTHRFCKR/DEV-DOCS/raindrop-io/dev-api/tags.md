@@ -1,5 +1,7 @@
 # Tags
 
+---
+
 {% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/tags/{collectionId}" method="get" summary="Get tags" %}
 {% swagger-description %}
 

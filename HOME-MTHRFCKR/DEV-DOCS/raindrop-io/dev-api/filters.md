@@ -1,8 +1,10 @@
 # Filters
 
+---
+
 To help users easily find their content you can suggest context aware filters like we have in Raindrop.io app
 
-![Filters right above search field](<../.gitbook/assets/filters (1).png>)
+---
 
 ## Fields
 
@@ -19,6 +21,8 @@ To help users easily find their content you can suggest context aware filters li
 | tags             | `Array<Object>` | List of tags in format `{"_id": "tag name", "count": 1}` |
 | types            | `Array<Object>` | List of types in format `{"_id": "type", "count": 1}`    |
 
+---
+
 {% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/raindrops/{collectionId}/filters" method="get" summary="Get filters" %}
 {% swagger-description %}
 
@@ -27,7 +31,7 @@ To help users easily find their content you can suggest context aware filters li
 {% swagger-parameter in="path" name="collectionId" type="string" %}
 Collection ID. 
 
-`0`
+0
 
  for all
 {% endswagger-parameter %}
@@ -40,7 +44,7 @@ Sort tags by:
 
 
 
-**`-count`**
+-count
 
  by count, default
 
@@ -49,7 +53,7 @@ Sort tags by:
 
 
 
-**`_id`**
+ _id
 
  by name
 {% endswagger-parameter %}
@@ -59,6 +63,7 @@ Check "raindrops" documentation for more details
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
+
 ```javascript
 {
   "result": true,
@@ -104,5 +109,8 @@ Check "raindrops" documentation for more details
   ]
 }
 ```
+
 {% endswagger-response %}
 {% endswagger %}
+
+---

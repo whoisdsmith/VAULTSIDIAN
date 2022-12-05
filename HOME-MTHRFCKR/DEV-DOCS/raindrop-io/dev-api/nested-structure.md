@@ -1,10 +1,10 @@
 # Nested structure
 
+---
+
 ### Overview
 
 If you look into Raindrop UI you will notice a sidebar in left corner, where collections are located. Collections itself divided by groups. Groups useful to create separate sets of collections, for example "Home", "Work", etc.
-
-![](../../.gitbook/assets/sidebar.png)
 
 `Groups` array is a single place where user **root** collection list and order is persisted. Why just not to save order position inside collection item itself? Because collections can be shared and they group and order can vary from user to user.
 
@@ -53,3 +53,4 @@ Sort order of root collections persisted in `groups[].collections` array
 
 Sort order of child collections persisted in collection itself in `sort` field
 
+---

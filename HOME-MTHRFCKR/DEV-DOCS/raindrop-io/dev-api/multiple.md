@@ -1,10 +1,6 @@
----
-description: >-
-  In this page you will find how to retrieve, create, update or delete multiple
-  raindrops at once.
----
-
 # Multiple raindrops
+
+---
 
 ### Common parameters
 
@@ -18,6 +14,8 @@ To filter, sort or limit raindrops use one of the parameters described below. Ch
 | page         | `Integer`        | Query parameter. 0, 1, 2, 3 ...                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | perpage      | `Integer`        | Query parameter. How many raindrops per page. 50 max                                                                                                                                                                                                                                                                                                                                                                                                             |
 | ids          | `Array<Integer>` | You can specify exact raindrop ID's for batch update/remove methods                                                                                                                                                                                                                                                                                                                                                                                              |
+
+---
 
 {% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/raindrops/{collectionId}" method="get" summary="Get raindrops" %}
 {% swagger-description %}
@@ -45,8 +43,7 @@ Collection ID
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
-```
-```
+
 {% endswagger-response %}
 {% endswagger %}
 
@@ -75,6 +72,8 @@ Maximum 100 objects in array!
     ]
 }
 ```
+
+
 {% endswagger-response %}
 {% endswagger %}
 
@@ -211,11 +210,15 @@ When
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
+
 ```javascript
 {
     "result": true,
     "modified": 330
 }
 ```
+
 {% endswagger-response %}
 {% endswagger %}
+
+---

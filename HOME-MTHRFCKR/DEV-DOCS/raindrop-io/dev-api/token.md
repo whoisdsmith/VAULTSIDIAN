@@ -1,5 +1,7 @@
 # Obtain access token
 
+---
+
 External applications could obtain a user authorized API token via the OAuth2 protocol. Before getting started, developers need to create their applications in [App Management Console](https://app.raindrop.io/settings/integrations) and configure a valid OAuth redirect URL. A registered Raindrop.io application is assigned a unique `Client ID` and `Client Secret` which are needed for the OAuth2 flow.
 
 This procedure is comprised of several steps, which will be described below.

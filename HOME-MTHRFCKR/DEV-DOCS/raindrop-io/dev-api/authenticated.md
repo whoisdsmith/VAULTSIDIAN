@@ -1,11 +1,18 @@
-# Authenticated user
+# Authenticated User
 
-{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/user" method="get" summary="Get user" %}
-{% swagger-description %}
-Get currently authenticated user details
-{% endswagger-description %}
+---
 
-{% swagger-response status="200" description="" %}
+`{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/user" method="get" summary="Get user" %}`
+
+`{% swagger-description %}`
+
+`Get currently authenticated user details  
+{% endswagger-description %}`
+
+`{% swagger-response status="200" description="" %}`
+
+---
+
 ```javascript
 {
     "result": true,
@@ -53,25 +60,30 @@ Get currently authenticated user details
   }
 }
 ```
+
 {% endswagger-response %}
 
 {% swagger-response status="401" description="" %}
-```http
-Unauthorized
-```
-{% endswagger-response %}
+
+`http`
+
+`Unauthorized`
+
+
+{% endswagger-response %}  
 {% endswagger %}
 
-{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/user/{id}" method="get" summary="Get user by ID" %}
-{% swagger-description %}
-Get's publicly available user details
+{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/user/{id}" method="get" summary="Get user by ID" %}  
+{% swagger-description %}  
+Get's publicly available user details  
 {% endswagger-description %}
 
-{% swagger-parameter in="path" name="id" type="number" %}
-User ID
+{% swagger-parameter in="path" name="id" type="number" %}  
+User ID  
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
+
 ```javascript
 {
   "result": true,
@@ -84,9 +96,11 @@ User ID
   }
 }
 ```
+
 {% endswagger-response %}
 
 {% swagger-response status="404" description="" %}
+
 ```javascript
 {
   "error": -1,
@@ -94,12 +108,13 @@ User ID
   "result": false
 }
 ```
-{% endswagger-response %}
+
+{% endswagger-response %}  
 {% endswagger %}
 
-{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/user" method="put" summary="Update user" %}
-{% swagger-description %}
-To change email, config, password, etc... you can do it from single endpoint 
+{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/user" method="put" summary="Update user" %}  
+{% swagger-description %}  
+To change email, config, password, etc…you can do it from single endpoint  
 {% endswagger-description %}
 
 {% swagger-parameter in="body" name="groups" type="array" %}
@@ -127,6 +142,7 @@ To change email, config, password, etc... you can do it from single endpoint
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
+
 ```javascript
 {
     "result": true,
@@ -135,9 +151,11 @@ To change email, config, password, etc... you can do it from single endpoint
     }
 }
 ```
+
 {% endswagger-response %}
 
 {% swagger-response status="400" description="" %}
+
 ```javascript
 //email specified but empty
 {
@@ -167,54 +185,52 @@ To change email, config, password, etc... you can do it from single endpoint
   "errorMessage": "User validation failed: config.raindrops_sort: `1` is not a valid enum value for path `raindrops_sort`., config: Validation failed: raindrops_sort: `1` is not a valid enum value for path `raindrops_sort`."
 }
 ```
-{% endswagger-response %}
+
+{% endswagger-response %}  
 {% endswagger %}
 
-{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/user/connect/{provider}" method="get" summary="Connect social network account" %}
-{% swagger-description %}
-Connect social network account as sign in authentication option
+{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/user/connect/{provider}" method="get" summary="Connect social network account" %}  
+{% swagger-description %}  
+Connect social network account as sign in authentication option  
 {% endswagger-description %}
 
-{% swagger-parameter in="path" name="provider" type="string" %}
+{% swagger-parameter in="path" name="provider" type="string" %}  
 `facebook`
 
- 
+---
+google
 
-`google`
+twitter
 
- 
+vkontakte
 
-`twitter`
+dropbox
 
- 
+gdrive  
 
-`vkontakte`
+---
 
- 
-
-`dropbox`
-
- or 
-
-`gdrive`
 {% endswagger-parameter %}
 
 {% swagger-response status="307" description="" %}
-```http
-Location: https://some.com/...
-```
-{% endswagger-response %}
+
+http
+
+`Location: https://some.com/...`
+
+
+{% endswagger-response %}  
 {% endswagger %}
 
-{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/user/connect/{provider}/revoke" method="get" summary="Disconnect social network account" %}
-{% swagger-description %}
-Disconnect social network account from available authentication options
+{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/user/connect/{provider}/revoke" method="get" summary="Disconnect social network account" %}  
+{% swagger-description %}  
+Disconnect social network account from available authentication options  
 {% endswagger-description %}
 
-{% swagger-parameter in="path" name="provider" type="string" %}
+{% swagger-parameter in="path" name="provider" type="string" %}  
 `facebook`
 
- 
+---
 
 `google`
 
@@ -230,13 +246,15 @@ Disconnect social network account from available authentication options
 
 `dropbox`
 
- or 
+ or
 
 `gdrive`
+
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
-```
-```
-{% endswagger-response %}
+
+{% endswagger-response %}  
 {% endswagger %}
+
+---

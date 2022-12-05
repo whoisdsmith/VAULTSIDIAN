@@ -1,5 +1,7 @@
 # Highlights
 
+---
+
 Single `highlight` object:
 
 | Field   | Type     | Description                                                                                                                                                                                                                                                                                                          |
@@ -12,6 +14,7 @@ Single `highlight` object:
 | created | `String` | Creation date of highlight                                                                                                                                                                                                                                                                                           |
 | tags    | `Array`  | Tags list                                                                                                                                                                                                                                                                                                            |
 | link    | `String` | Highlighted page URL                                                                                                                                                                                                                                                                                                 |
+
 
 {% swagger method="get" path="/rest/v1/highlights" baseUrl="https://api.raindrop.io" summary="Get all highlights" %}
 {% swagger-description %}
@@ -27,6 +30,9 @@ How many highlights per page. 50 max. Default 25
 {% endswagger-parameter %}
 
 {% swagger-response status="200: OK" description="" %}
+
+---
+
 ```javascript
 {
     "result": true,
@@ -56,6 +62,8 @@ How many highlights per page. 50 max. Default 25
     ]
 }
 ```
+
+
 {% endswagger-response %}
 {% endswagger %}
 
@@ -77,6 +85,7 @@ How many highlights per page. 50 max. Default 25
 {% endswagger-parameter %}
 
 {% swagger-response status="200: OK" description="" %}
+
 ```javascript
 {
     "result": true,
@@ -106,6 +115,8 @@ How many highlights per page. 50 max. Default 25
     ]
 }
 ```
+
+
 {% endswagger-response %}
 {% endswagger %}
 
@@ -119,6 +130,7 @@ Existing raindrop ID
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
+
 ```javascript
 {
     "result": true,
@@ -145,6 +157,8 @@ Existing raindrop ID
     }
 }
 ```
+
+
 {% endswagger-response %}
 {% endswagger %}
 
@@ -178,6 +192,7 @@ Existing raindrop ID
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
+
 ```javascript
 {
     "result": true,
@@ -204,6 +219,8 @@ Existing raindrop ID
     }
 }
 ```
+
+
 {% endswagger-response %}
 {% endswagger %}
 
@@ -241,6 +258,7 @@ Should be empty string
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
+
 ```javascript
 {
     "result": true,
@@ -265,6 +283,8 @@ Should be empty string
             }
         ]    }}
 ```
+
+
 {% endswagger-response %}
 {% endswagger %}
 
@@ -294,6 +314,7 @@ Should be empty string
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
+
 ```javascript
 {
     "result": true,
@@ -319,5 +340,9 @@ Should be empty string
         ]
     }}
 ```
+
+
 {% endswagger-response %}
 {% endswagger %}
+
+---

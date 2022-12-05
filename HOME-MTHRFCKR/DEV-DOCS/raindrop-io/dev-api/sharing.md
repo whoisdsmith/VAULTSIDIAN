@@ -1,11 +1,6 @@
----
-description: >-
-  Collection can be shared with other users, which are then called
-  collaborators, and this section describes the different commands that are
-  related to sharing.
----
-
 # Sharing
+
+---
 
 ### Collaborators
 

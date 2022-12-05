@@ -1,5 +1,7 @@
 # Terms & Guidelines
 
+---
+
 ### How may I use the API? <a href="#how-may-i-use-the-api" id="how-may-i-use-the-api"></a>
 
 #### DO <a href="#do" id="do"></a>
@@ -37,3 +39,5 @@ Your use of the Raindrop.io API is at your own discretion and risk, and you will
 ### Terms Can Change <a href="#terms-can-change" id="terms-can-change"></a>
 
 Raindrop.io reserves the right to update and change these terms at any time without notice.\
+
+---

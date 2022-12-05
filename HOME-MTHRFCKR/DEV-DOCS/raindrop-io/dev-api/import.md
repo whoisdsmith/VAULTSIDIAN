@@ -1,8 +1,6 @@
----
-description: Handy methods to implement import functionality
----
-
 # Import
+
+---
 
 {% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/import/url/parse" method="get" summary="Parse URL" %}
 {% swagger-description %}
@@ -14,6 +12,7 @@ URL
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
+
 ```javascript
 //Success
 {
@@ -81,6 +80,8 @@ URL
   "result": true
 }
 ```
+
+
 {% endswagger-response %}
 {% endswagger %}
 
@@ -94,6 +95,7 @@ URL's
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="ids array contains ID of existing bookmarks" %}
+
 ```javascript
 //Found
 {
@@ -110,6 +112,7 @@ URL's
     "ids": []
 }
 ```
+
 {% endswagger-response %}
 {% endswagger %}
 
@@ -132,6 +135,7 @@ File
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
+
 ```javascript
 {
   "result": true,
@@ -185,5 +189,9 @@ File
   ]
 }
 ```
+
+
 {% endswagger-response %}
 {% endswagger %}
+
+---

@@ -1,11 +1,13 @@
 # Collection methods
 
+---
 {% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/collections" method="get" summary="Get root collections" %}
 {% swagger-description %}
 Returns JSON-encoded array containing all root collections
 {% endswagger-description %}
 
 {% swagger-response status="200" description="" %}
+
 ```javascript
 {
   "result": true,
@@ -38,6 +40,8 @@ Returns JSON-encoded array containing all root collections
   ]
 }
 ```
+
+
 {% endswagger-response %}
 {% endswagger %}
 
@@ -51,6 +55,8 @@ Returns JSON-encoded array containing all nested collections (that have positive
 {% endswagger-description %}
 
 {% swagger-response status="200" description="" %}
+
+
 ```javascript
 {
   "result": true,
@@ -84,6 +90,8 @@ Returns JSON-encoded array containing all nested collections (that have positive
   ]
 }
 ```
+
+
 {% endswagger-response %}
 {% endswagger %}
 
@@ -97,6 +105,8 @@ Collection ID
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
+
+
 ```javascript
 {
   "result": true,
@@ -130,6 +140,8 @@ Collection ID
   }
 }
 ```
+
+
 {% endswagger-response %}
 {% endswagger %}
 
@@ -165,6 +177,7 @@ Collection cover url
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
+
 ```javascript
 {
     "result": true,
@@ -173,9 +186,13 @@ Collection cover url
     }
 }
 ```
+
+
 {% endswagger-response %}
 
 {% swagger-response status="400" description="Incorrect 'view' field value" %}
+
+
 ```javascript
 {
     "result": false,
@@ -183,6 +200,8 @@ Collection cover url
     "errorMessage": "Collection validation failed: view: `bla` is not a valid enum value for path `view`."
 }
 ```
+
+
 {% endswagger-response %}
 {% endswagger %}
 
@@ -226,6 +245,8 @@ Collection cover url
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
+
+
 ```javascript
 {
     "result": true,
@@ -234,6 +255,8 @@ Collection cover url
     }
 }
 ```
+
+
 {% endswagger-response %}
 {% endswagger %}
 
@@ -255,6 +278,7 @@ File
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
+
 ```javascript
 {
     "result": true,
@@ -263,6 +287,8 @@ File
     }
 }
 ```
+
+
 {% endswagger-response %}
 {% endswagger %}
 
@@ -281,11 +307,14 @@ Existing collection ID
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
+
 ```javascript
 {
     "result": true
 }
 ```
+
+
 {% endswagger-response %}
 {% endswagger %}
 
@@ -308,8 +337,7 @@ Array of collection ID
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
-```
-```
+
 {% endswagger-response %}
 {% endswagger %}
 
@@ -343,11 +371,14 @@ Possible values:
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
+
 ```javascript
 {
     "result": true
 }
 ```
+
+
 {% endswagger-response %}
 {% endswagger %}
 
@@ -366,11 +397,13 @@ FALSE = collapse all
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
+
 ```javascript
 {
     "result": true
 }
 ```
+
 {% endswagger-response %}
 {% endswagger %}
 
@@ -392,8 +425,7 @@ Collection ID's
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
-```
-```
+
 {% endswagger-response %}
 {% endswagger %}
 
@@ -403,12 +435,14 @@ Collection ID's
 {% endswagger-description %}
 
 {% swagger-response status="200" description="" %}
+
 ```javascript
 {
     "result": true,
     "count": 3
 }
 ```
+
 {% endswagger-response %}
 {% endswagger %}
 
@@ -418,11 +452,13 @@ Collection ID's
 {% endswagger-description %}
 
 {% swagger-response status="200" description="" %}
+
 ```javascript
 {
   "result": true
 }
 ```
+
 {% endswagger-response %}
 {% endswagger %}
 
@@ -432,6 +468,7 @@ Collection ID's
 {% endswagger-description %}
 
 {% swagger-response status="200" description="" %}
+
 ```javascript
 {
   "items": [
@@ -462,6 +499,8 @@ Collection ID's
   "result": true
 }
 ```
+
 {% endswagger-response %}
 {% endswagger %}
 
+---

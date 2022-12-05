@@ -1,8 +1,9 @@
 # Covers/icons
 
+---
 In your app you could easily make icon/cover selector from more than 10 000 icons
 
-![](../../.gitbook/assets/icon-finder.png)
+---
 
 {% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/collections/covers/{text}" method="get" summary="Search for cover" %}
 {% swagger-description %}
@@ -14,6 +15,7 @@ For example "pokemon"
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
+
 ```javascript
 {
   "items": [
@@ -38,6 +40,7 @@ For example "pokemon"
   "result": true
 }
 ```
+
 {% endswagger-response %}
 {% endswagger %}
 
@@ -51,6 +54,7 @@ For example "pokemon"
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
+
 ```javascript
 {
   "items": [
@@ -73,5 +77,8 @@ For example "pokemon"
   ]
 }
 ```
+
 {% endswagger-response %}
 {% endswagger %}
+
+---

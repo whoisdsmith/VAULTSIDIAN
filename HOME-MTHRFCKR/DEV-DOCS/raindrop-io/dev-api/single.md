@@ -1,10 +1,6 @@
----
-description: >-
-  In this page you will find how to retrieve, create, update or delete single
-  raindrop.
----
-
 # Single raindrop
+
+---
 
 {% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/raindrop/{id}" method="get" summary="Get raindrop" %}
 {% swagger-description %}
