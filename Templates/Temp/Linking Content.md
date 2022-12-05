@@ -10,7 +10,7 @@ Secondary Categories: [[02 - Obsidian](02%20-%20Obsidian.md) - [[02 - Resources]
 Links: [[Linking]] - [[Zettlekasten]] - [[Data Discovery]]  
 Search Tag: #📖  
 
-# [[Linking Content](../../..//Templates/Temp/Linking%20Content.md)
+# [[Linking Content](Linking%20Content.md)
 
 # Description
 

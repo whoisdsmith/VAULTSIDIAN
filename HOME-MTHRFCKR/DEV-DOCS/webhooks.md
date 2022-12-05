@@ -4,7 +4,7 @@
 
 ## [[Webhooks Explained]]
 
-## [[Automation/Make/make-webhooks.md]]
+## [[automation/Make/make-webhooks.md]]
 
 ## [[Guilded Webhooks Guide  ifttt]]
 

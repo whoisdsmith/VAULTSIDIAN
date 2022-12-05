@@ -24,7 +24,7 @@
 - Fix collection search
 
 ## 5.4.21
-- New feature: [Highlights](HOME-MTHRFCKR/DEV-DOCS/raindrop-io/help-docs/highlights.md)
+- New feature: [Highlights](highlights.md)
 - Fix login issue in Add bookmark dialog in Firefox extension
 
 ## 5.4.16

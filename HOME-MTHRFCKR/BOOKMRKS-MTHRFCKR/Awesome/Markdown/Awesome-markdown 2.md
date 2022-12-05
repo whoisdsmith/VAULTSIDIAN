@@ -526,6 +526,6 @@ Send them along to the markdown-discuss mailing list. Thanks!
 [[Notes and Links/Abstract.md]]
 [[Notes and Links/A Context-based Information Refinding System.md]]
 [[Day Planners/Day Planner-20220119.md]]
-[[../../../DEV-DOCS/Awesome/awesome.md]]
+[[../../../DEV-DOCS/awesome/awesome.md]]
 [[Resources/Awesome/Awesome-markdown]]
 [[../Awesome-Main.md]]

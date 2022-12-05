@@ -10,7 +10,7 @@ Secondary Categories: [[02 - Obsidian](02%20-%20Obsidian.md) - [[02 - Resources]
 Links: [[Getting Started]]  
 Search Tag: #📖  
 
-# [[Obsidian - Getting Started](../../..//Templates/Temp/Obsidian%20-%20Getting%20Started.md)
+# [[Obsidian - Getting Started](Obsidian%20-%20Getting%20Started.md)
 
 ![[Pasted image 20210907111121.png](Template%20Hub/Templates/Obsidian-Vault-Structure/03%20-%20Content/files/Pasted%20image%2020210907111121.png)
 

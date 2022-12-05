@@ -65,7 +65,7 @@
 
 ##### [[AE TEMPLATES]]
 
-**[[../../../Snippets/Images.md]]**
+**[[snippets/Images]]**
 
 **[[IMAGE EDITING]]**
 
@@ -95,7 +95,7 @@
 
 **[[../PiratezParty/General-Awesome-Collection.md]]**
 
-**[[../../../Snippets/Links.md]]**
+**[[snippets/Links]]**
 
 **[[LIST OF WEBSITES TO KNOW ANYTHING ABOUT EVERYTHING](LIST%20OF%20WEBSITES%20TO%20KNOW%20ANYTHING%20ABOUT%20EVERYTHING.md)**
 

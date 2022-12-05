@@ -2,7 +2,7 @@
 
 > A curated list of fun libs/packages/languages that have no real purpose but to make a developer chuckle.
 
-For now this is a really short list, so please contribute. Read [the guide](../../../DEV-DOCS/Automation/Pipedream/CONTRIBUTING.md) and make a pull request or just ping me on Twitter [@mislavcimpersak](https://twitter.com/mislavcimpersak) with some funny stuff.
+For now this is a really short list, so please contribute. Read [the guide](../../../DEV-DOCS/automation/Pipedream/CONTRIBUTING.md) and make a pull request or just ping me on Twitter [@mislavcimpersak](https://twitter.com/mislavcimpersak) with some funny stuff.
 
 
 ## Contents

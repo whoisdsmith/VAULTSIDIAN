@@ -113,7 +113,7 @@
 
 </details><details> <summary>02.00-footer/</summary>
 
-# [02.00-footer/footnotes.md](footnotes.md)
+# [02.00-footer/footnotes.md](snippets/markdown-snippets/footnotes.md)
 
 ---
 

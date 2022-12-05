@@ -4,7 +4,7 @@
 
 %% Begin Waypoint %%
 - **[Awesome Piracy](../../../..//HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/Awesome%20Piracy/Awesome%20Piracy.md)**
-	- [Automation](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/Awesome%20Piracy/Automation.md)
+	- [Automation](Automation.md)
 	- [Awesome Piracy](../../../..//HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/Awesome%20Piracy/Awesome%20Piracy.md)
 	- [Awesome-Piracy](Awesome-Piracy.md)
 	- [AwesomeP](AwesomeP.md)
@@ -18,9 +18,9 @@
 	- [Misc](Misc.md)
 	- [Mobile Apps](Mobile%20Apps.md)
 	- [Movies](Movies.md)
-	- [Music](Music.md)
+	- [Music](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/Awesome%20Piracy/Music.md)
 	- [Networking](Networking.md)
-	- [Privacy](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/Awesome%20Piracy/Privacy.md)
+	- [Privacy](Privacy.md)
 	- [Reading and Learning](Reading%20and%20Learning.md)
 	- [Software](Software.md)
 	- [Streaming Sites](Streaming%20Sites.md)

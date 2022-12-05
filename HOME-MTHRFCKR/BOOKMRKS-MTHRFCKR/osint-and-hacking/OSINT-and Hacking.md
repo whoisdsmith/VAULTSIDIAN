@@ -4,7 +4,7 @@
 
 ***
 
-[OSINT](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/osint-and-hacking/osint.md)
+[OSINT](osint.md)
 
 [OSINT SEARCH ENGINES](osint-search-engines.md)
 

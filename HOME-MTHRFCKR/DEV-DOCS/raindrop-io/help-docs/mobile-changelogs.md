@@ -7,7 +7,7 @@
 - Fix audio filter icon
 
 ## 4.4.4
-- New feature: [Highlights](HOME-MTHRFCKR/DEV-DOCS/raindrop-io/help-docs/highlights.md)
+- New feature: [Highlights](highlights.md)
 - Remove Facebook SDK (hugely improve privacy)
 - Bug fixes
     - Fix preview of HTTP (non-secure) links on iOS

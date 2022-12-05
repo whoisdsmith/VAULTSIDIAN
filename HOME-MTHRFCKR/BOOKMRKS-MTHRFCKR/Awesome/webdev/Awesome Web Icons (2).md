@@ -6,7 +6,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 You can follow me on [Twitter](https://twitter.com/vkarampinis).
 
-Please read the [contribution guidelines](../../../DEV-DOCS/Automation/Pipedream/CONTRIBUTING.md) before contributing
+Please read the [contribution guidelines](../../../DEV-DOCS/automation/Pipedream/CONTRIBUTING.md) before contributing
 
 ## Contents
 

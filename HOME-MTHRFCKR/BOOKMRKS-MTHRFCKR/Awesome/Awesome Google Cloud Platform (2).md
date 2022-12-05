@@ -154,4 +154,4 @@ This list is not an official Google product. Links on this list also are not nec
 
 ### Contributing
 
-If you have found or built something awesome that uses Google Cloud Platform, please follow the instructions in [../../DEV-DOCS/Automation/Pipedream/CONTRIBUTING.md](CONTRIBUTING.md) to get it included here.
+If you have found or built something awesome that uses Google Cloud Platform, please follow the instructions in [../../DEV-DOCS/Automation/Pipedream/CONTRIBUTING.md](../../DEV-DOCS/automation/Pipedream/CONTRIBUTING.md) to get it included here.

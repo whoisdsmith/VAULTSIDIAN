@@ -26,7 +26,7 @@
 	- **[life-is-a-simulation](life-is-a-simulation/life-is-a-simulation.md)**
 	- [loop](loop.md)
 	- **[mthrfckr](mthrfckr/mthrfckr.md)**
-	- [music](music.md)
+	- [music](Blog/music.md)
 	- [my-internal-code-is-corrupted](my-internal-code-is-corrupted.md)
 	- [obsidian-day-one](obsidian-day-one.md)
 	- [social](social.md)

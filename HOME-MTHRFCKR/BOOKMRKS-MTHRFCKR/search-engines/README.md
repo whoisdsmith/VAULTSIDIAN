@@ -4,7 +4,7 @@
 
 [Custom-Search-Engines](custom-search-engines.md)
 
-[Files](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/search-engines/files.md)
+[Files](files.md)
 
 [General](general.md)
 

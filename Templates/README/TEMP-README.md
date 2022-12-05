@@ -58,10 +58,10 @@ GitHub Template Repository for ScribeMD
     language, formats, and tooling formats.
   - Add any needed [CSpell](https://cspell.org/) dictionaries to
     [`cspell.config.yaml`](cspell.config.yaml).
-  - Update the [`../../../../../../LICENSE`](LICENSE) copyright year(s) if necessary.
+  - Update the [`../../../../../../../../../../LICENSE`](LICENSE) copyright year(s) if necessary.
   - Update the project name, description, and authors in
     [`pyproject.toml`](pyproject.toml).
-  - Modify the [`README.md`](../../..//Templates/README/TEMP-README.md)/README.md`](README.md) to document the new repository.
+  - Modif[`README.md`](TEMP-README.md)ME.md)/README.md`](README.md) to document the new repository.
   - [Classify your repository with topics](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics),
     and set the repository description on GitHub.
   - [Disable merge commits and squash merging](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/configuring-pull-request-merges/about-merge-methods-on-github)
@@ -79,4 +79,4 @@ GitHub Template Repository for ScribeMD
 
 ## Changelog
 
-Please refer to [`CHANGELOG.md`](changelog.md).
+Please refer to [`CHANGELOG.md`](../../HOME-MTHRFCKR/DEV-DOCS/raindrop-io/dev-api/changelog.md).

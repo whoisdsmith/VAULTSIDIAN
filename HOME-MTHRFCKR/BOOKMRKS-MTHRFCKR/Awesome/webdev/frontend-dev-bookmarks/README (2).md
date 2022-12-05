@@ -17,7 +17,7 @@ This is the current version, which receives ongoing updates. If you want the goo
 
 The outward or visible aspect of a website.
 
-+ **[Animation](../../../../../Snippets/Animation.md)**: The process of creating motion and shape change.
++ **[Animation](snippets/Animation.md)**: The process of creating motion and shape change.
 + **[Typography](../../../Software-Tools/Frontend/typography.md)**: The style, arrangement, or appearance of typeset matter.
 + **[Visualization](visualization.md)**: Placing data in a visual context.
 
@@ -38,7 +38,7 @@ Ability of a product to work with different input/output devices and rendering s
 
 + **[Cross Browser](cross-browser.md)**: Cross-browser refers to the ability of a website, web application, HTML construct or client-side script to function in environments that provide its required features and to bow out or degrade gracefully when features are absent or lacking.
 + **[E-Mail](e-mail.md)**: Preparing HTML based electronic mail.
-+ **[Keyboard](../../../../../Snippets/markdown-snippets/keyboard.md)**: Working with keyboard input in a web browser.
++ **[Keyboard](keyboard.md)**: Working with keyboard input in a web browser.
 + **[Mobile](Folders/Awesome/Web%20Dev/frontend-dev-bookmarks-master/compatibility/mobile.md)**: Development of websites optimized for viewing on smartphone and tablet devices.
 + **[Printers](printers.md)**: Manipulation of printer output through CSS.
 + **[Responsive Web Design (RWD)](responsive-web-design-rwd.md)**: RWD responds to the needs of the users and the devices they’re using. The layout changes based on the size and capabilities of the device.

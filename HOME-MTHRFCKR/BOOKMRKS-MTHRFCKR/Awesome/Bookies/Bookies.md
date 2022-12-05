@@ -50,7 +50,7 @@
 	- [jobquiz_career_test](jobquiz_career_test.md)
 	- [jobquiz](jobquiz.md)
 	- [logb_personality_test](logb_personality_test.md)
-	- [macos](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/Awesome/Bookies/macos.md)
+	- [macos](macos.md)
 	- [network](network.md)
 	- [nsfw](nsfw.md)
 	- [orientation_test](orientation_test.md)

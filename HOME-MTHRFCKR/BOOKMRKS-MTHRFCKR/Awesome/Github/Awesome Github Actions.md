@@ -546,7 +546,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Setup Auto-scaled self-hosted GitHub Actions Runners on AWS Spot-instances](https://040code.github.io/2020/05/25/scaling-selfhosted-action-runners)
 - [Getting the Gist of GitHub Actions](https://gist.github.com/br3ndonland/f9c753eb27381f97336aa21b8d932be6)
 
-> Please don't hesitate to make a PR if you have more resources to share. Check out [../../../DEV-DOCS/Automation/Pipedream/CONTRIBUTING.md](contributing.md) for more information.
+> Please don't hesitate to make a PR if you have more resources to share. Check out [../../../DEV-DOCS/Automation/Pipedream/CONTRIBUTING.md](../../../DEV-DOCS/automation/Pipedream/CONTRIBUTING.md) for more information.
 
 ## License
 

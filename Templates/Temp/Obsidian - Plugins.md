@@ -10,7 +10,7 @@ Secondary Categories: [[02 - Obsidian](02%20-%20Obsidian.md) - [[02 - Resources]
 Links: [[Plugins]] - [[Required]] - [[Configuration]]  
 Search Tag: #📖  
 
-# [[Obsidian - Plugins](../../..//Templates/Temp/Obsidian%20-%20Plugins.md)
+# [[Obsidian - Plugins](Obsidian%20-%20Plugins.md)
 
 ## Required
 
@@ -19,8 +19,8 @@ Search Tag: #📖
 
 ## Additional
 
-[[../../../../../Obsidian/obsidian-hub/02%20-%20Comm[[Admonition.md]]s/02.05%20All%20Co[[Admonition.md]]ons/Plugins/dataview.md]]  
-[[Admonition.md]]  
+[[../../../../../Obsidian/obsidian-hub/02%20-%20Comm[[Admonition]]s/02.05%20All%20Co[[Admonition]]ons/Plugins/dataview.md]]  
+[[Admonition]]  
 
 ___
 

@@ -1,6 +1,6 @@
 # Make
 
-![[../../../Templates/Dashboards/EnvoyOS/Attachments/banners/logo.png]]
+![[logo.png]]
 
 ---
 

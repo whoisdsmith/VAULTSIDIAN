@@ -8,7 +8,7 @@
 	- [adblockvpnguide](adblockvpnguide.md)
 	- [androidpiracyguide](androidpiracyguide.md)
 	- [audiopiracyguide](audiopiracyguide.md)
-	- [backups](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/FMHYedit/fmhy/backups.md)
+	- [backups](backups.md)
 	- [base64](base64.md)
 	- [beginners-guide-to-piracy](beginners-guide-to-piracy.md)
 	- [devtools](devtools.md)
