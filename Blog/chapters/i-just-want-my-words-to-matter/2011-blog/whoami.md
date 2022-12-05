@@ -1,0 +1,13 @@
+# WHOAMI
+
+At this point in life I'm a 35 year old single father of 3 beautiful children. Currently trying to rebuild my life after a heartbreaking divorce and a meth addiction. There are so many reasons why I am where I am, some are simply because of misfortune and things out of my control but most were honestly my fault.
+
+At a young age we develop certain senses of wrong and right, good and bad and so on. My life has always been run by emotions, my moods and my choices always stem from whatever emotion I am feeling at those times.
+
+In 2008 I was diagnosed with ADHD and put on Adderall by 2012 I was on the maximum dosage of 60 mg a day. That drug was my lifeline, it made me into a completely different person, it made me dive head first into my passion of creating music and thrive in every work environment I was in. It got me promoted to jobs I never would have been interested in before, I was making money I had never been able to make previously, but it came with a price. The biggest price of them all. It cost me my wife, my children and my friend's. I put all my time and effort into things that really didn't matter at the end of the day, all my attention went to myself and how long can you neglect the people that love and care about you before they give up on you? 6 years was my answer to that. 6 years of neglect to my then wife and to my son and my daughter's, to my friends and family members. I was a recluse. A machine, a robot working only for myself and when everything finally came crashing down, the last person I wnted to blame was myself. I wanted to be angry at everyone else but myself, I wanted crucify those closest, mostly my ex wife. I know she tried to get me to see where I was going wrong and what I was doing wrong. How I was lacking in being a boyfriend, than in being a husband and finally in being a father.
+
+I care so deeply about people yet I lack so much in showing it.
+
+Date:	September 17, 2021 at 3:46:52 PM EDT
+
+---
