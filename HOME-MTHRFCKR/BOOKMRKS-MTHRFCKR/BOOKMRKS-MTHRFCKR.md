@@ -5,15 +5,12 @@
 
 %% Begin Waypoint %%
 - **[BOOKMRKS-MTHRFCKR](./BOOKMRKS-MTHRFCKR.md)**
+	- **ai**
+		- [ai-generative-art-tools](./ai/ai-generative-art-tools.md)
+		- [singularity-ai](./ai/singularity-ai.md)
 	- [alternativesoftwareappsites](./alternativesoftwareappsites.md)
 	- **[Awesome](./Awesome/Awesome.md)**
 	- **[Awesome Piracy](./Awesome%20Piracy/Awesome%20Piracy.md)**
-	- [awesomedeployyourown](./awesomedeployyourown.md)
-	- [awesomegooglecloudplatform](./awesomegooglecloudplatform.md)
-	- [awesomemarkdown](./awesomemarkdown.md)
-	- [awesomerepositories](./awesomerepositories.md)
-	- [awesomestartpage](./awesomestartpage.md)
-	- [awesometextediting](./awesometextediting.md)
 	- [badges](./badges.md)
 	- [BOOKMRKS-MTHRFCKR](./BOOKMRKS-MTHRFCKR.md)
 	- [c0d3bl0ckspiracybooty](./c0d3bl0ckspiracybooty.md)

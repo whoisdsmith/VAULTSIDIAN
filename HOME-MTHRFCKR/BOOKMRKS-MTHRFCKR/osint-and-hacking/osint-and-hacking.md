@@ -1,14 +1,13 @@
-# OSINT and HAcking
+# OSINT and Hacking
 
----
+## OSINT and Hacking
 
-%% Begin Waypoint %%
-- **[osint-and-hacking](./osint-and-hacking.md)**
-	- [OSINT-and Hacking](./OSINT-and%20Hacking.md)
-	- [osint-and-hacking](./osint-and-hacking.md)
-	- [osint-search-engines](./osint-search-engines.md)
-	- [osint](./osint.md)
-	- [startme-resources](./startme-resources.md)
+***
 
-%% End Waypoint %%
+[OSINT](osint.md)
 
+[OSINT SEARCH ENGINES](osint-search-engines.md)
+
+[Start.me Resources](start.me-resources.md)
+
+***
