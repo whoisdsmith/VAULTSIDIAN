@@ -1,8 +1,8 @@
-# All loops with example in TypeScript - LearnCodeWeb
+# All Loops with Example in TypeScript - LearnCodeWeb
 
 [ ![All loops with example in TypeScript][image-1] ][1]
 
----- 
+----
 
 In this chapter, we will discuss in detail definite and indefinite loops in [TypeScript][2].
 
@@ -18,37 +18,31 @@ TypeScript gives different kinds of loops to control looping requirements. The f
 
 ![][image-3]
 
-### Definite Loop
+## Definite Loop
 
-A loop whose number of repetitions is fixed is known as a **definite loop**. The _for loop_ is an application of a definite loop.
+A loop whose number of repetitions is fixed is known as a **definite loop**. The *for loop* is an application of a definite loop.
 
-S.No.
-**Loop Name**
-Loops & Description
-
-1.
-for
+S.No.  
+**Loop Name**  
+Loops & Description  
+for  
 The for loop is an implementation of a definite loop.
 
-### Indefinite Loop
+## Indefinite Loop
 
 An indefinite loop is used when the number of repetitions in a loop is unknown.
 
 Indefinite loops can be implemented using.
 
-S.No
-**Loop Name**
-Loops & Description
-
-1.
-while
-The while loop executes the instructions each time the condition specified evaluates to true.
-
-2.
-do…while
+S.No  
+**Loop Name**  
+Loops & Description  
+while  
+The while loop executes the instructions each time the condition specified evaluates to true.  
+do…while  
 The do…while loop is similar to the while loop except that the do…while loop doesn’t evaluate the condition for the first time the loop executes.
 
-### Example: while versus do..while
+## Example: While Versus do..while
 
 1
 
@@ -122,7 +116,7 @@ It will run following [JavaScript][3] code on composing.
 
 The above code will produce the following output.
 
-## The break Statement
+## The Break Statement
 
 The **break** statement allows us to take control out of a setup. If we use a **break** in a loop, it will cause the program to exit the loop. Its syntax is as follows.
 
@@ -158,7 +152,7 @@ Now, take a look at the following example code.
 
 ````if`` `(i % 5 == 0) {`
 
-````console.log (``"The first multiple of 5  between 1 and 10 is : "``+i)``
+````console.log (``"The first multiple of 5 between 1 and 10 is : "``+i)``
 
 ````break``  
 
@@ -196,7 +190,7 @@ On compiling, it will generate the following JavaScript code.
 
 ````if`` `(i % 5 == 0) {`
 
-````console.log(``"The first multiple of 5  between 1 and 10 is : "`` `\+ i);`
+````console.log(``"The first multiple of 5 between 1 and 10 is : "`` `\+ i);`
 
 ````break``;``
 
@@ -205,6 +199,7 @@ On compiling, it will generate the following JavaScript code.
 ````i++;``
 
 `}`
+
 ```
 It shows the following output.
 
@@ -419,8 +414,7 @@ while(true) {
 * * *
 ```
 
-
----- 
+----
 
 [1]:	https://learncodeweb.com/typescript/all-loops-with-example-in-typescript/
 [2]:	https://learncodeweb.com/learn/typescript/

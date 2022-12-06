@@ -1,8 +1,8 @@
 # How to Build a Lyrics Website with Laravel Scout and Algolia - SitePoint
 
-In this tutorial, we will create a minimal lyrics web site using Laravel Scout and [Algolia][1]. To do so, we need a CRUD app to work with our data, and a search interface to let users search through the content. However, instead of creating the full app from scratch, let’s just install the [finished CRUD][2] app that we’ve created for this tutorial. 
+In this tutorial, we will create a minimal lyrics web site using Laravel Scout and [Algolia][1]. To do so, we need a CRUD app to work with our data, and a search interface to let users search through the content. However, instead of creating the full app from scratch, let’s just install the [finished CRUD][2] app that we’ve created for this tutorial.
 
-Algolia is a hosted search engine API, providing us with all the tools and resources we’ll ever need to create products with awesome search capabilities. 
+Algolia is a hosted search engine API, providing us with all the tools and resources we’ll ever need to create products with awesome search capabilities.
 
 ![Search stock vector image][image-1]
 
@@ -16,13 +16,14 @@ By the end of the tutorial, we’ll have a product like this:
 
 I assume you already have your development environment up and running. However, If you need a good development environment to get into action right away, you should use [Homestead Improved][3].
 
-_Stranger to Vagrant? Read [this][4]. Want to go more in depth? Buy our [book on PHP Environments!][5]_
+*Stranger to Vagrant? Read [this][4]. Want to go more in depth? Buy our [book on PHP Environments!][5]*
 
 Feel free to skip this part if you already have a similar application or you have enough experience to build one relatively quickly.
 
 ### CRUD Application
 
 The most convenient way to download the pre-built CRUD project is to clone it:
+
 ```
 git clone git@github.com:lavary/lyrics-crud.git coolyrics
 cd coolyrics
@@ -1149,8 +1150,7 @@ To move even further, you may go to your Algolia profile, and change the setting
 If you have any questions on the topic or if we’ve missed anything, let us know in the comments below!
 ```
 
-
----- 
+----
 
 [1]:	http://algolia.com
 [2]:	https://github.com/lavary/lyrics-crud

@@ -1,8 +1,6 @@
-# info \<Smith.D\>
+# Info \<Smith.D\>
 
 int end
-
-
 
 cout \<\< "Simulation Is A Sucess" \<\< endl;
 

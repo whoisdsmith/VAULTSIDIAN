@@ -1,6 +1,6 @@
-# Looping over arrays and objects in JavaScript
+# Looping Over Arrays and Objects in JavaScript
 
-You have **2** free member-only stories left this month. 
+You have **2** free member-only stories left this month.
 
 ![][image-1]
 
@@ -11,6 +11,7 @@ A common problem many programmers encounter is looping over an enumerable data s
 ## While Loop
 
 Let’s start with a simple problem. The task is to print out a series of messages stored in an array. A simple while loop using the array index can get the job done, as seen below.
+
 ```
 messageArray = ["hello","how are you?",  
                 "how's the weather",  
@@ -157,8 +158,7 @@ The code above does the same job as Object.keys. The main difference is that thi
   * As a developer, you must choose which tool to apply based on the problem to solve and its context.
 ```
 
-
----- 
+----
 
 [1]:	https://unsplash.com/@patmcmanaman?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
 [2]:	https://unsplash.com/s/photos/circle?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText

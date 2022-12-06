@@ -34,7 +34,7 @@
 | :smiling_imp: `:smiling_imp:` | :neutral_face: `:neutral_face:` | :no_mouth: `:no_mouth:` |
 | :innocent: `:innocent:` | :alien: `:alien:` |   |
 
-## Heart and special emojies[](https://markdown-templates.github.io/markdown-emojis/#heart-and-special-emojies)
+## Heart and Special emojies[](https://markdown-templates.github.io/markdown-emojis/#heart-and-special-emojies)
 
 | :yellow_heart: `:yellow_heart:` | :black_heart: `:black_heart:` | :gift_heart: `:gift_heart:` |
 | --- | --- | --- |

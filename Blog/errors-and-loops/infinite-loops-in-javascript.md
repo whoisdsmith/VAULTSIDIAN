@@ -1,8 +1,8 @@
 # Infinite Loops in Javascript
 
 While working with loops in JavaScript, there is always the danger of your loop not terminating and running forever. Such a loop is called an infinite loop. In this article, we are going to see how to detect and escape infinite loops.  
-  
 
+  
 
 ## Table of Contents
 
@@ -10,15 +10,17 @@ While working with loops in JavaScript, there is always the danger of your loop 
   * How to avoid running into infinite loops?
   * Other Related Concepts
 
-
-## What are infinite loops?
+## What Are Infinite Loops?
 
 An infinite loop is a piece of code that keeps running forever as the terminating condition is never reached. An infinite loop can crash your program or browser and freeze your computer. To avoid such incidents it is important to be aware of infinite loops so that we can avoid them.  
+
   
+
 Let us see some examples of how we can run into infinite loops.  
+
   
+
 One of the most common infinite loops is when the condition of the while statement is set to true. Below is an example of code that will run forever.  
-  
 
 ```
 // Initiate an infinite loop
@@ -79,7 +81,6 @@ for (;;) {}
 In general, if by accident, you do end up with an infinite loop, and you’re not sure of the cause,  insert one or more debugger and/or console.log() statements within the loop statement block to display the current value of the counter variable. This might help you understand what happens to the variable when it passes through the loop each time.  
 ```
 
-
----- 
+----
 
 #article #infiniteloop

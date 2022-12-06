@@ -1,4 +1,4 @@
-# JS Infinite loops — killing ‘em
+# JS Infinite Loops—Killing ‘em
 
 ![][image-1]
 
@@ -6,7 +6,7 @@ Having worked on Analytics and ChatBot platforms, one important thing I observed
 
 I had primarily worked on the data visualization area of the product and we realized soon we cannot accommodate all kinds of customers’ requirements(every possible chart type). Some of these requirements were not anticipated and some of them were not worthy to include in the product. To solve this problem, I had to develop a feature in which there will be a code editor where people can write JS code to develop visualization of any sort. The code they write will be run in an iframe with the required data along with jQuery and D3.
 
-Similarly, in case of ChatBots, we had to provide a JS editor in which people do loads of state management, external API calls and data transformations. This untrusted code will run in [NodeJS VM][1] which is a controlled sandbox where only a few modules(xml parser, JSON parser, node-fetch, JWT token creation, cryptojs) are available via context, not even _require_, _fs_, _http, etc,_ are available. The VM has timeout option through which we can specify when the VM should terminate the operation and exit.
+Similarly, in case of ChatBots, we had to provide a JS editor in which people do loads of state management, external API calls and data transformations. This untrusted code will run in [NodeJS VM][1] which is a controlled sandbox where only a few modules(xml parser, JSON parser, node-fetch, JWT token creation, cryptojs) are available via context, not even *require*, *fs*, *http, etc,* are available. The VM has timeout option through which we can specify when the VM should terminate the operation and exit.
 
 ![][image-2]
 
@@ -28,9 +28,10 @@ recursion
 
 Recursion cannot keep the system occupied forever as it will throw “Maximum Call Stack Size Reached” exception which can be caught and that will free the event loop to serve next request.
 
-So potentially, _while, for and do while_ are the three constructs that can create infinite loops (Correct me if I am wrong). Back to code injection, we cannot simply inject code into a program using string match. That is very dangerous and could go wrong easily. The best solution to inject code at right place is using [AST(Abstract Syntax Tree)][4]. Take a look at how AST will look like in [ASTExplorer][5]. With AST, we don’t have to do any guess work, but by traversing through the nodes, we will be able to find all _while, for or do while_ loops and inject code precisely.
+So potentially, *while, for and do while* are the three constructs that can create infinite loops (Correct me if I am wrong). Back to code injection, we cannot simply inject code into a program using string match. That is very dangerous and could go wrong easily. The best solution to inject code at right place is using [AST(Abstract Syntax Tree)][4]. Take a look at how AST will look like in [ASTExplorer][5]. With AST, we don’t have to do any guess work, but by traversing through the nodes, we will be able to find all *while, for or do while* loops and inject code precisely.
 
 Feeling nostalgia?? When we speak about AST and code injection, if you are using ES6, first thing that will come to your mind is Babel. Using [babel-core][6] we can create AST out of our JS code. Babel also provides a way to filter a specific statement type(while statement or for statement) using visitor pattern. [Check this plugins development handbook from Babel.][7] With this visitor pattern, we can find all while, for, do..while loops in all of our code and transform them to anything we want. In this case we will inject a simple condition to throw exception if it exceeds time limit.
+
 ```
 **var **fs = require("fs");  
 **var **babel = require("babel-core");  
@@ -111,8 +112,7 @@ ASTs are awesome.
 Hope this saves someone’s time.
 ```
 
-
----- 
+----
 
 [1]:	https://nodejs.org/api/vm.html
 [2]:	https://blog.codepen.io/2016/06/08/can-adjust-infinite-loop-protection-timing/

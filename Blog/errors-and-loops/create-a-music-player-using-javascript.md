@@ -1,10 +1,10 @@
-# Create a Music Player using JavaScript - GeeksforGeeks
+# Create a Music Player Using JavaScript - GeeksforGeeks
 
 As streaming is increasingly being adopted by users, online media players have become essential for consuming media on the internet. Music players allow one to enjoy music in any browser and supports a lot of the features of an offline music player.  
 We will be creating a music player with a clean user interface that can be used to play music in the browser. We will also implement features like seeking and volume control. HTML has several methods in the HTMLMediaElement interface that can be used to play audio files and control its playback without using any other library.  
 We will start by creating the HTML layout first that defines the structure of the player, make it look good by styling using CSS and then write the player logic for all the functions in JavaScript.  
 **The HTML Layout**  
-The HTML layout defines the element structure that would be shown on the page. The player can be divided into the following portions: 
+The HTML layout defines the element structure that would be shown on the page. The player can be divided into the following portions:
 
   * **Details Portion:** This section shows the details of the current track being played. It includes the track number, track album, track name and track artist.
   * **Buttons Portion:** This section shows the buttons that are used to control the playback of the track. It includes the play/pause button, the previous and next track buttons. They would have an onclick() method that calls a specific function defined in the JavaScript file.
@@ -12,9 +12,7 @@ The HTML layout defines the element structure that would be shown on the page. T
 
 We will be using FontAwesome icons to get the icons for all the buttons used on the page. The custom CSS and JavaScript we will write later is also linked in the file.  
 
-
-
-## **The HTML code is as follows:**  
+## **The HTML Code is as follows:**
 
 html
 
@@ -26,17 +24,17 @@ html
 
 ````<``title``>Simple Music Player</``title``>``
 
-\`  \`
+\` \`
 
-````<``link`` ``rel``=``"stylesheet"`` 
+````<``link`` ``rel``=``"stylesheet"``
 
 ````href``=``
 
 ``"<https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css>"``>``
 
-\` \` 
+\` \`
 
-\`  \`
+\` \`
 
 ````<``link`` ``rel``=``"stylesheet"`` ``type``=``"text/css"`` ``href``=``"style.css"``>``
 
@@ -46,9 +44,9 @@ html
 
 ````<``div`` ``class``=``"player"``>``
 
-\` \` 
+\` \`
 
-\`    \`
+\` \`
 
 ````<``div`` ``class``=``"details"``>``
 
@@ -62,9 +60,9 @@ html
 
 ````</``div``>``
 
-\` \` 
+\` \`
 
-\`    \`
+\` \`
 
 ````<``div`` ``class``=``"buttons"``>``
 
@@ -88,9 +86,9 @@ html
 
 ````</``div``>``
 
-\` \` 
+\` \`
 
-\`    \`
+\` \`
 
 ````<``div`` ``class``=``"slider_container"``>``
 
@@ -104,9 +102,9 @@ html
 
 ````</``div``>``
 
-\` \` 
+\` \`
 
-\`    \`
+\` \`
 
 ````<``div`` ``class``=``"slider_container"``>``
 
@@ -122,9 +120,9 @@ html
 
 ````</``div``>``
 
-\` \` 
+\` \`
 
-\`  \`
+\` \`
 
 ````<``script`` ``src``=``"main.js"``></``script``>``
 
@@ -132,12 +130,12 @@ html
 
 ``</``html``>``
 
-## **The CSS Styling**  
+## **The CSS Styling**
+
 Using CSS we can style the different portions to make it more visually appealing:  
 
   
   
-
 
   * The flex layout is used to arrange the various elements of the player and align them to the middle of the page.
   * The track art image is given a fixed dimension and made rounded using the border-radius property.
@@ -150,17 +148,17 @@ css
 
 ````background-color``: lightgreen;``
 
-\` \` 
+\` \`
 
-\`  \`
+\` \`
 
 ````transition: background-color .``5``s;``
 
 `}`
 
-\` \` 
+\` \`
 
-\`   \`
+\` \`
 
 `.player {`
 
@@ -176,7 +174,7 @@ css
 
 `}`
 
-\` \` 
+\` \`
 
 `.details {`
 
@@ -192,7 +190,7 @@ css
 
 `}`
 
-\` \` 
+\` \`
 
 `.track-art {`
 
@@ -214,7 +212,7 @@ css
 
 `}`
 
-\` \` 
+\` \`
 
 `.now-playing {`
 
@@ -222,7 +220,7 @@ css
 
 `}`
 
-\` \` 
+\` \`
 
 `.track-name {`
 
@@ -230,7 +228,7 @@ css
 
 `}`
 
-\` \` 
+\` \`
 
 `.track-artist {`
 
@@ -238,9 +236,9 @@ css
 
 `}`
 
-\` \` 
+\` \`
 
-\`   \`
+\` \`
 
 `.buttons {`
 
@@ -252,7 +250,7 @@ css
 
 `}`
 
-\` \` 
+\` \`
 
 `.playpause-track,`
 
@@ -264,15 +262,15 @@ css
 
 ````opacity: ``0.8``;``
 
-\` \` 
+\` \`
 
-\`  \`
+\` \`
 
 ````transition: opacity .``2``s;``
 
 `}`
 
-\` \` 
+\` \`
 
 `.playpause-track:hover,`
 
@@ -284,7 +282,7 @@ css
 
 `}`
 
-\` \` 
+\` \`
 
 `.slider_container {`
 
@@ -300,7 +298,7 @@ css
 
 `}`
 
-\` \` 
+\` \`
 
 `.seek_slider, .volume_slider {`
 
@@ -322,7 +320,7 @@ css
 
 `}`
 
-\` \` 
+\` \`
 
 `.seek_slider::-webkit-slider-thumb,`
 
@@ -346,7 +344,7 @@ css
 
 `}`
 
-\` \` 
+\` \`
 
 `.seek_slider:hover,`
 
@@ -356,7 +354,7 @@ css
 
 `}`
 
-\` \` 
+\` \`
 
 `.seek_slider {`
 
@@ -364,7 +362,7 @@ css
 
 `}`
 
-\` \` 
+\` \`
 
 `.volume_slider {`
 
@@ -372,7 +370,7 @@ css
 
 `}`
 
-\` \` 
+\` \`
 
 `.current-time,`
 
@@ -382,7 +380,7 @@ css
 
 `}`
 
-\` \` 
+\` \`
 
 `i.fa-volume-down,`
 
@@ -392,9 +390,9 @@ css
 
 `}`
 
-\` \` 
+\` \`
 
-\`   \`
+\` \`
 
 ``i.fa-play-``circle``,``
 
@@ -408,16 +406,17 @@ css
 
 `}`
 
-The result of the HTML layout and CSS styling would give the following appearance: 
+The result of the HTML layout and CSS styling would give the following appearance:
 
 ![html\_css\_output][image-1]
 
-## **JavaScript logic of the player:**  
+## **JavaScript Logic of the player:**
+
 The logic of the player is defined in the JavaScript file. There are several functions that work together to handle all the functions of the player.  
 **Step 1:** Defining all the variables and accessing the HTML elements  
 The required elements in the HTML layout that are to be dynamically changed are first selected using the querySelector() method. They are then assigned variable names so that they could be accessed and modified. Other variables that would be accessed throughout the program are also defined.
 
-### javascript
+### Javascript
 
 ``let now_playing = document.querySelector(``".now-playing"``);``
 
@@ -427,7 +426,7 @@ The required elements in the HTML layout that are to be dynamically changed are 
 
 ``let track_artist = document.querySelector(``".track-artist"``);``
 
-\` \` 
+\` \`
 
 ``let playpause_btn = document.querySelector(``".playpause-track"``);``
 
@@ -435,7 +434,7 @@ The required elements in the HTML layout that are to be dynamically changed are 
 
 ``let prev_btn = document.querySelector(``".prev-track"``);``
 
-\` \` 
+\` \`
 
 ``let seek_slider = document.querySelector(``".seek_slider"``);``
 
@@ -445,7 +444,7 @@ The required elements in the HTML layout that are to be dynamically changed are 
 
 ``let total_duration = document.querySelector(``".total-duration"``);``
 
-\` \` 
+\` \`
 
 `let track_index = 0;`
 
@@ -453,11 +452,11 @@ The required elements in the HTML layout that are to be dynamically changed are 
 
 `let updateTimer;`
 
-\` \` 
+\` \`
 
 ``let curr_track = document.createElement(``'audio'``);``
 
-\` \` 
+\` \`
 
 `let track_list = [`
 
@@ -505,38 +504,43 @@ To load a track, a function loadTrack() is defined which handles the following t
 
   * **Reset all the values of the previous track**  
 	A resetValues() function is created which handles the resetting of the duration value and the slider to their initial values before a new track starts. This prevents the jumping of the seek slider while the new track loads.
+
   * **Loading the track**  
 	The audio element is assigned a new source using its src property. It may be given any path from the filesystem or a URL. The load() method is then used on the audio element to get the track ready.
+
   * **Updating the track art to be shown**  
 	The track art is fetched from the array and assigned with the help of the backgroundImage property.
+
   * **Updating the track details to be shown**  
 	The track details are fetched from the array and assigned with the help of the textContent property.
+
   * **Adding event listeners to the track**  
 	The media element has two event listeners added to it, the first one to update the current seek position and the second one to load the next track when the current track finishes.
+
   * **Setting a random colored background**  
 	A coloured background is generated by randomising the red, green and blue values used and setting it as a color. The effect is animated by using the transition property on the background-color.
 
-### javascript
+### Javascript
 
 `function` `loadTrack(track_index) {`
 
-\`  \`
+\` \`
 
 ````clearInterval(updateTimer);``
 
 ````resetValues();``
 
-\` \` 
+\` \`
 
-\`  \`
+\` \`
 
 ````curr_track.src = track_list[track_index].path;``
 
 ````curr_track.load();``
 
-\` \` 
+\` \`
 
-\`  \`
+\` \`
 
 ````track_art.style.backgroundImage =``
 
@@ -550,37 +554,37 @@ To load a track, a function loadTrack() is defined which handles the following t
 
 ````"PLAYING "`` ``\+ (track_index + 1) + ``" OF "`` `\+ track_list.length;`
 
-\` \` 
+\` \`
 
-\`  \`
+\` \`
 
-\`  \`
+\` \`
 
 ````updateTimer = setInterval(seekUpdate, 1000);``
 
-\` \` 
+\` \`
 
-\`  \`
+\` \`
 
-\`  \`
+\` \`
 
 ````curr_track.addEventListener(``"ended"``, nextTrack);``
 
-\` \` 
+\` \`
 
-\`  \`
+\` \`
 
 ````random_bg_color();``
 
 `}`
 
-\` \` 
+\` \`
 
 `function` `random_bg_color() {`
 
-\`  \`
+\` \`
 
-\`  \`
+\` \`
 
 ````let red = Math.floor(Math.random() * 256) + 64;``
 
@@ -588,21 +592,21 @@ To load a track, a function loadTrack() is defined which handles the following t
 
 ````let blue = Math.floor(Math.random() * 256) + 64;``
 
-\` \` 
+\` \`
 
-\`  \`
+\` \`
 
 ````let bgColor = ``"rgb("`` ``\+ red + ``", "`` ``\+ green + ``", "`` ``\+ blue + ``")"``;``
 
-\` \` 
+\` \`
 
-\`  \`
+\` \`
 
 ````document.body.style.background = bgColor;``
 
 `}`
 
-\` \` 
+\` \`
 
 `function` `resetValues() {`
 
@@ -619,15 +623,15 @@ A function playTrack() handles the playing of the currently loaded track. The pl
 A function pauseTrack() handles the playing of the currently loaded track. The pause() method of the HTMLMediaElement API is used for this function. The icon of the button also changes back to the play icon. This is done by using one of the icons from the FontAwesome library and inserting it using innerHTML.  
 These two functions are invoked depending on whether the track is currently playing or not. The playpause() function handles the actual play/pause control of the track.  
 A function prevTrack() handles the loading of the previous track and moving the index backward. The index is reset to the last track when the index reaches the first track. The loadTrack() method defined above is used for loading the new track.  
-Similarly, a function nextTrack() handles the loading of the next track and moving the index forward. The index is reset to the first track when the index reaches the last track. The loadTrack() method defined above is used for loading the new track. 
+Similarly, a function nextTrack() handles the loading of the next track and moving the index forward. The index is reset to the first track when the index reaches the last track. The loadTrack() method defined above is used for loading the new track.
 
-### javascript
+### Javascript
 
 `function` `playpauseTrack() {`
 
-\`  \`
+\` \`
 
-\`  \`
+\` \`
 
 ````if`` `(!isPlaying) playTrack();`
 
@@ -635,49 +639,49 @@ Similarly, a function nextTrack() handles the loading of the next track and movi
 
 `}`
 
-\` \` 
+\` \`
 
 `function` `playTrack() {`
 
-\`  \`
+\` \`
 
 ````curr_track.play();``
 
 ````isPlaying = ``true``;``
 
-\` \` 
+\` \`
 
-\`  \`
+\` \`
 
 ````playpause_btn.innerHTML = ``'<i class="fa fa-pause-circle fa-5x"></i>'``;``
 
 `}`
 
-\` \` 
+\` \`
 
 `function` `pauseTrack() {`
 
-\`  \`
+\` \`
 
 ````curr_track.pause();``
 
 ````isPlaying = ``false``;``
 
-\` \` 
+\` \`
 
-\`  \`
+\` \`
 
 ````playpause_btn.innerHTML = ``'<i class="fa fa-play-circle fa-5x"></i>'``;``
 
 `}`
 
-\` \` 
+\` \`
 
 `function` `nextTrack() {`
 
-\`  \`
+\` \`
 
-\`  \`
+\` \`
 
 ````if`` `(track_index < track_list.length - 1)`
 
@@ -685,9 +689,9 @@ Similarly, a function nextTrack() handles the loading of the next track and movi
 
 ````else`` `track_index = 0;`
 
-\` \` 
+\` \`
 
-\`  \`
+\` \`
 
 ````loadTrack(track_index);``
 
@@ -695,13 +699,13 @@ Similarly, a function nextTrack() handles the loading of the next track and movi
 
 `}`
 
-\` \` 
+\` \`
 
 `function` `prevTrack() {`
 
-\`  \`
+\` \`
 
-\`  \`
+\` \`
 
 ````if`` `(track_index > 0)`
 
@@ -709,9 +713,9 @@ Similarly, a function nextTrack() handles the loading of the next track and movi
 
 ````else`` `track_index = track_list.length - 1;`
 
-\`   \` 
+\` \`
 
-\`  \`
+\` \`
 
 ````loadTrack(track_index);``
 
@@ -720,58 +724,61 @@ Similarly, a function nextTrack() handles the loading of the next track and movi
 `}`
 
 **Step 4:** Configuring the sliders portion  
-We will be setting up two sliders that control the seek slider and the volume slider. 
+We will be setting up two sliders that control the seek slider and the volume slider.
 
   * **The seek slider**  
 	The seek slider shows the current playback position on a slider by updating it with the current time of the track. A new function is created seekUpdate() which handles the updating of the seek slider relative to the current time of the track. The seek slider position is calculated and set using the value property.  
 	Now, this function has to be called every time the track progresses further. This can be done by scheduling it to be updated every second. This can be done using the setInterval() method with an interval of 1000 milliseconds. This timer is cleared every time a new track is loaded.  
 	This function also handles the changing of the time elapsed and the total duration of the track, which is updated every time this function fires. The minutes and the seconds are separately calculated and properly formatted to be displayed.
-	 
-  * **The volume slider**  
-	The volume slider is used to display an set the current volume of the track. A new function is created setVolume() which handles the setting of the volume slider whenever the user changes it.
+
 	 
 
-### javascript
+  * **The volume slider**  
+	The volume slider is used to display an set the current volume of the track. A new function is created setVolume() which handles the setting of the volume slider whenever the user changes it.
+
+	 
+
+### Javascript
 
 `function` `seekTo() {`
 
-\`  \`
+\` \`
 
-\`  \`
+\` \`
 
-\`  \`
+\` \`
 
 ````seekto = curr_track.duration * (seek_slider.value / 100);``
 
-\` \` 
+\` \`
 
-\`  \`
+\` \`
 
 ````curr_track.currentTime = seekto;``
 
 `}`
 
-\` \` 
+\` \`
 
 `function` `setVolume() {`
 
-\`  \`
+\` \`
 
-\`  \`
+\` \`
 
 ````curr_track.volume = volume_slider.value / 100;``
 
 `}`
 
-\` \` 
+\` \`
 
 `function` `seekUpdate() {`
 
 ````let seekPosition = 0;``
 
-\` \` 
+\` \`
 
-\`  \`
+\` \`
 
 ````if`` `(!isNaN(curr_track.duration)) {`
 
@@ -779,9 +786,9 @@ We will be setting up two sliders that control the seek slider and the volume sl
 
 ````seek_slider.value = seekPosition;``
 
-\` \` 
+\` \`
 
-\`    \`
+\` \`
 
 ````let currentMinutes = Math.floor(curr_track.currentTime / 60);``
 
@@ -791,9 +798,9 @@ We will be setting up two sliders that control the seek slider and the volume sl
 
 ````let durationSeconds = Math.floor(curr_track.duration - durationMinutes * 60);``
 
-\` \` 
+\` \`
 
-\`    \`
+\` \`
 
 ````if`` ``(currentSeconds < 10) { currentSeconds = ``"0"`` `\+ currentSeconds; }`
 
@@ -803,9 +810,9 @@ We will be setting up two sliders that control the seek slider and the volume sl
 
 ````if`` ``(durationMinutes < 10) { durationMinutes = ``"0"`` `\+ durationMinutes; }`
 
-\` \` 
+\` \`
 
-\`    \`
+\` \`
 
 ````curr_time.textContent = currentMinutes + ``":"`` `\+ currentSeconds;`
 
@@ -817,13 +824,13 @@ We will be setting up two sliders that control the seek slider and the volume sl
 
 **Step 5:** Starting the player  
 The first track is loaded by calling the loadTrack() function. This will load the first track from the tracklist and update all the details of the track. The user can then start playing the track using the play button. The previous and next track button would load the previous and next track respectively and start playing them.  
-The next track is automatically loaded when a track finishes playing. The user can seek to a position in the track using the seek slider. The volume can also be adjusted using the volume slider. 
+The next track is automatically loaded when a track finishes playing. The user can seek to a position in the track using the seek slider. The volume can also be adjusted using the volume slider.
 
 **Final Demonstration**  
-The player is now ready to be used in any browser. New tracks can be added to the tracklist to play the music of your choice. 
+The player is now ready to be used in any browser. New tracks can be added to the tracklist to play the music of your choice.
 
 **Try Online:** [https://ide.geeksforgeeks.org/tryit.php/T3gdWUn4aX][1]  
-**Source Code:** [https://github.com/sayantanm19/js-music-player][2] 
+**Source Code:** [https://github.com/sayantanm19/js-music-player][2]
 
 HTML is the foundation of webpages, is used for webpage development by structuring websites and web apps.You can learn HTML from the ground up by following this [HTML Tutorial][3] and [HTML Examples][4].
 
@@ -835,7 +842,7 @@ CSS is the foundation of webpages, is used for webpage development by styling we
 
 
 
----- 
+----
 
 [1]:	https://ide.geeksforgeeks.org/tryit.php/T3gdWUn4aX
 [2]:	https://github.com/sayantanm19/js-music-player

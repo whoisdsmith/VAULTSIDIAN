@@ -1,6 +1,6 @@
 # JavaScript Glossary | Codecademy
 
-_Update: Cheat Sheets BETA is here!_
+*Update: Cheat Sheets BETA is here!*
 
   * Introduction to JavaScript: [Introduction][1]
   * Introduction to JavaScript: [Conditionals][2]
@@ -9,11 +9,12 @@ _Update: Cheat Sheets BETA is here!_
 
 # Arrays
 
-## Accessing array elements
+## Accessing Array Elements
 
 You can get elements out of arrays if you know their index. Array elements’ indices start at 0 and increment by 1, so the first element’s index is 0, the second element’s index is 1, the third element’s index is 2, etc.
 
 **Syntax**
+
 ```
 array[index];
 
@@ -1698,8 +1699,7 @@ const name = 'Michael'
 name = 'Samuel'
 ```
 
-
----- 
+----
 
 [1]:	https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/reference
 [2]:	https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-control-flow/reference

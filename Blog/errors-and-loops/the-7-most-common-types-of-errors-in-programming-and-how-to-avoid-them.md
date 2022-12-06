@@ -16,8 +16,6 @@ For example, let’s say the correct syntax for printing something is `print('he
 
 As your proficiency with programming language increases, you will make syntax errors less frequently. The easiest way to prevent them from causing you problems is to be aware of them early. Many text editors or IDEs will come with the ability to warn you about syntax errors at the time of writing.
 
-
-
 ## 2\. Logic Errors
 
 Logic errors can be the hardest to track down. Everything looks like it is working; you have just programmed the computer to do the wrong thing. Technically the program is correct, but the results won’t be what you expected.
@@ -67,12 +65,12 @@ Having functional tests that always include edge-cases like zero, or negative nu
 The computer that your program is on will allocate a fixed amount of resources to the running of it. If something in your code forces the computer to try and allocate more resources than it has, it can create a resource error.
 
 If you accidentally wrote a loop that your code could never exit from, you would eventually run out of resources. In this example, the while loop will keep on adding new elements to an array. Eventually, you will run out of memory.
+
 ```
  while(true)
    my_array << 'new array element'
  end 
 ```
-
 
 Resource errors can be hard to chase down because the machine you’re developing on can often be higher quality than the servers running your code. It is also hard to mimic real-world use from your local computer.
 
@@ -83,6 +81,7 @@ Resource errors are an example of a type of error in programming that might be s
 There are lots of load-testing applications and services that you can use to test what happens when multiple people try and run your code at once. Then, you can tune the testing to suit what is realistic for your application.
 
 ## 7. Interface Errors
+
 Interface errors occur when there is a disconnect between how you meant your program to be used and how it is actually used. Most things in software follow standards. If input your program receives doesn’t conform to the standards, you might get an interface error.
 
 For example, an interface error might happen if you have an API that requires that specific parameters are set and those parameters are not set.
@@ -103,9 +102,9 @@ Hopefully, this guide has prepared you for the different types of errors in prog
 
 If you’ve been writing code for a long time, please comment below with some errors you’ve made recently, to help serve as reassurance for people who haven’t been writing code as long!
 
----- 
+----
 
-# article Errors
+# Article Errors
 
 [1]:	https://en.wikipedia.org/wiki/Edsger_W._Dijkstra
 [2]:	https://en.wikipedia.org/wiki/Mars_Climate_Orbiter#Cause_of_failure

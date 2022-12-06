@@ -3,6 +3,7 @@
 ---
 
 %% Begin Waypoint %%
+
 - **[jssal-2012](../../../../..//Blog/chapters/just-some-shit-about-life/jssal-2012/jssal-2012.md)**
 	- [how-i-feel](how-i-feel.md)
 	- [jssal-2012](../../../../..//Blog/chapters/just-some-shit-about-life/jssal-2012/jssal-2012.md)

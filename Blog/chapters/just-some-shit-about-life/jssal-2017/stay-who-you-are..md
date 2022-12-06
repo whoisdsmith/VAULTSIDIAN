@@ -1,8 +1,8 @@
 # Stay Who You Are.
 
-`Be the best friend you can be to those who care about you.` 
+`Be the best friend you can be to those who care about you.`
 
-`Always continue to better yourself.` 
+`Always continue to better yourself.`
 
 `Accept who you are and do the best you can, to love and take care of yourself.`
 

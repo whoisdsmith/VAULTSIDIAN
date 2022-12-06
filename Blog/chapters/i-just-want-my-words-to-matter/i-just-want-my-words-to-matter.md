@@ -3,6 +3,7 @@
 ---
 
 %% Begin Waypoint %%
+
 - **[i-just-want-my-words-to-matter](../../../..//Blog/chapters/i-just-want-my-words-to-matter/i-just-want-my-words-to-matter.md)**
 	- **[2011-blog](2011-blog/2011-blog.md)**
 	- [analogy](analogy.md)
@@ -69,4 +70,3 @@
 	- [untitled](untitled.md)
 
 %% End Waypoint %%
-

@@ -18,8 +18,8 @@ function getQuote() {
         randomQuote = request.quoteText;  
         randomAuthor = request.quoteAuthor;  
         $('#text').html(randomQuote);  
-        if (randomAuthor === "")        { randomAuthor="Unknown";  
-        }    $('#author').html(randomAuthor);  
+        if (randomAuthor === "") { randomAuthor="Unknown";  
+        } $('#author').html(randomAuthor);  
  },  
       error: function(xhr, status, error)  
 {  

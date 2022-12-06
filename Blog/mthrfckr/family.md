@@ -22,7 +22,7 @@ Born in 13 Apr 1939 and died in 21 Mar 1999 Marshall, Michigan Mary Helen Goodma
 
 [Ernest B. “Ernie” Smith (1936-unknown) - Find A Grave Memorial](https://www.findagrave.com/memorial/183859433/ernest-b-smith)
 
-Ernest, 81, of Marshall died on Sunday, September 24, 2017, at his home following a long illness. Ernie was born to Johnnie and Lizzie (Slone) Smith. He attended school in Kentucky. On August 5, 1955, he married Mary H. Goodman. She preceded him in death on March 21, 1999. On July 5, 2002, he married Nancy...
+Ernest, 81, of Marshall died on Sunday, September 24, 2017, at his home following a long illness. Ernie was born to Johnnie and Lizzie (Slone) Smith. He attended school in Kentucky. On August 5, 1955, he married Mary H. Goodman. She preceded him in death on March 21, 1999. On July 5, 2002, he married Nancy…
 
 [Jensen B. Smith Obituary, Tekonsha, MI | Craig K. Kempf Funeral Home and Cremation Services, Marshall, Michigan](http://www.kempffuneralhome.com/obituary/Jensen-B.-Smith/Tekonsha-MI/1107269)
 

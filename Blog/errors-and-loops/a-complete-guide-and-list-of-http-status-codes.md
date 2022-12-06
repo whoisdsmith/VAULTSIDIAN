@@ -2,8 +2,6 @@
 
 ![list of http status codes](https://kinsta.com/wp-content/uploads/2020/02/http-status-codes-1024x512.png)
 
-
-
 HTTP status codes are like short notes from a server that get tacked onto a web page. They’re not actually part of the [site’s content](https://kinsta.com/blog/evergreen-content/). Instead, they’re messages from the server letting you know how things went when it received the request to view a certain page.
 
 These kinds of messages are returned every time your browser interacts with a server, even if you don’t see them. If you’re a website owner or [developer](https://kinsta.com/blog/hire-wordpress-developer/), understanding **HT****TP status codes **is critical. When they do show up, HTTP status codes are an invaluable tool for diagnosing and fixing website configuration errors.
@@ -12,7 +10,7 @@ This article introduces several server status and error codes, and explains what
 
 Let’s dive in!
 
-### Table of Contents
+## Table of Contents
 
   1. What Are HTTP Status Codes?
   2. Understanding HTTP Status Code Classes
@@ -20,7 +18,7 @@ Let’s dive in!
   4. A Complete Guide and List of HTTP Status Codes
   5. Where to Learn More About HTTP Status Codes
 
-### Prefer to watch the [video version](https://www.youtube.com/watch?v=jTo8U2WeQl8)?
+## Prefer to Watch the [video version](https://www.youtube.com/watch?v=jTo8U2WeQl8)?
 
 ## What Are HTTP Status Codes?
 
@@ -38,7 +36,7 @@ To see HTTP status codes with one of these tools, look for the line appearing ne
 
 ## Understanding HTTP Status Code Classes
 
-HTTP status codes are divided into 5 “classes”. These are groupings of responses that have similar or related meanings. Knowing what they are can help you quickly determine the general substance of a status code _before_ you go about looking up its specific meaning.
+HTTP status codes are divided into 5 “classes”. These are groupings of responses that have similar or related meanings. Knowing what they are can help you quickly determine the general substance of a status code *before* you go about looking up its specific meaning.
 
 The five classes include:
 
@@ -54,10 +52,9 @@ Within each of these classes, a variety of server codes exist and may be returne
 
 Search engine bots see HTTP status codes while they’re [crawling your site](https://kinsta.com/blog/wordpress-sitemap/). In some cases, these messages can influence if and how your pages get indexed, as well as how [search engines](https://kinsta.com/blog/alternative-search-engines/) perceive the health of your site.
 
-Generally speaking, 100- and 200-level HTTP status codes won’t have much impact on your [SEO](https://kinsta.com/blog/what-does-seo-stand-for/). They signal that everything is working as it should on your site, and enable search engine bots to continue on their way. However, they aren’t going to boost your rankings either.
+Generally speaking, 100and 200-level HTTP status codes won’t have much impact on your [SEO](https://kinsta.com/blog/what-does-seo-stand-for/). They signal that everything is working as it should on your site, and enable search engine bots to continue on their way. However, they aren’t going to boost your rankings either.
 
-
-For the most part, it’s the higher-level codes that matter for SEO. 400- and 500-level responses [can prevent bots from crawling and indexing your pages](https://kinsta.com/blog/wordpress-robots-txt/). Too many of these errors can also indicate that your site isn’t of high quality, possibly lowering your rankings.
+For the most part, it’s the higher-level codes that matter for SEO. 400and 500-level responses [can prevent bots from crawling and indexing your pages](https://kinsta.com/blog/wordpress-robots-txt/). Too many of these errors can also indicate that your site isn’t of high quality, possibly lowering your rankings.
 
 300-level codes have a bit more complicated relationship with SEO. The main thing you need to know to understand their impact is the difference between permanent and temporary redirects, which we’ll cover in more detail in the relevant section below.
 
@@ -80,7 +77,7 @@ You may find pages with 300-, 400-, and 500-level HTTP status codes under the **
 
 ![search console redirect](https://kinsta.com/wp-content/uploads/2020/02/search-console-redirect-1.png)A page with a redirect in Google Search Console’s Coverage report.
 
-400- and 500-level status codes will likely turn up under **Error**.
+400and 500-level status codes will likely turn up under **Error**.
 
 Another way to view HTTP status codes is by using the **URL Inspection** tool. If Google is unable to index a specific page due to an error, you’ll see that here:
 
@@ -129,10 +126,10 @@ This is the best kind of HTTP status code to receive. A 200-level response means
 At the 400 level, HTTP status codes start to become problematic. These are error codes specifying that there’s a fault with your browser and/or request.
 
   * **400: **“Bad Request.” The server can’t return a response due to an error on the client’s end. See our guide for [resolving this error](https://kinsta.com/knowledgebase/400-bad-request/).
-  * **401:** “[Unauthorized](https://kinsta.com/knowledgebase/401-error/)” or “Authorization Required.” This is returned by the server when the target resource lacks valid authentication credentials. You might see this if you’ve set up basic HTTP authentication using [htpasswd](https://kinsta.com/help/htpasswd/).
+  * **401:** “[Unauthorized](https://kinsta.com/knowledgebase/401-error/)” or “Authorization Required.” This is returned by the server when the target resource lacks valid authentication credentials. You might see this if you’ve set up basic HTTP authentication using [htpasswd](https://kinsta.com/help/htpasswd/).  
 ![Nginx 401 authorization required error in Chrome](https://kinsta.com/wp-content/uploads/2019/08/nginx-401-authorization-required-chrome-1.png)Nginx 401 authorization required error in Chrome
 
-  * **402: **“Payment Required.” Originally, this code was created for use as part of a digital cash system. However, that plan never followed through. Instead, it’s used by a variety of platforms to indicate that a request cannot be fulfilled, usually due to a lack of required funds. Common instances include: 
+  * **402: **“Payment Required.” Originally, this code was created for use as part of a digital cash system. However, that plan never followed through. Instead, it’s used by a variety of platforms to indicate that a request cannot be fulfilled, usually due to a lack of required funds. Common instances include:
     * You’ve reached your daily request limit to the [Google Developers API](https://developers.google.com/products/develop).
     * You haven’t paid your [Shopify](https://kinsta.com/blog/woocommerce-vs-shopify/) fees and your store has been temporarily deactivated.
     * Your payment via [Stripe](https://kinsta.com/blog/stripe-vs-paypal/) has failed, or Stripe is trying to [prevent a fraudulent payment](https://kinsta.com/blog/credit-card-fraud-stripe/).
@@ -151,25 +148,25 @@ At the 400 level, HTTP status codes start to become problematic. These are error
   * **415:** “Unsupported Media Type.” The request includes a media type that the server or resource doesn’t support.
   * **416:** “Range Not Satisfiable.” Your request was for a portion of a resource that the server is unable to return.
   * **417:** “Expectation Failed.” The server is unable to meet the requirements specified in the request’s expect header field.
-  * **418:** “I’m a teapot.” This code is returned by teapots that receive requests to brew coffee. It’s also an [April Fool’s Joke from 1998](https://tools.ietf.org/html/rfc2324).
+  * **418:** “I’m a teapot.” This code is returned by teapots that receive requests to brew coffee. It’s also an [April Fool’s Joke from 1998](https://tools.ietf.org/html/rfc2324).  
 ![im a teapot http status code](https://kinsta.com/wp-content/uploads/2020/02/im-a-teapot-1.png)418 “I’m a teapot” status code
 
   * **422:** “Unprocessable Entity.” The client request contains semantic errors, and the server can’t process it.
   * **425:** “Too Early.” This code is sent when the server is unwilling to process a request because it may be replayed.
   * **426:** “Upgrade Required.” Due to the contents of the request’s upgrade header field, the client should switch to a different protocol.
   * **428:** “Precondition Required.” The server requires conditions to be specified before processing the request.
-  * **429:** “Too many requests.” This is generated by the server when the user has sent too many requests in a given amount of time (rate-limiting). This can sometimes occur due to bots or scripts attempting to access your site. In this case, you might want to try [changing your WordPress login URL](https://kinsta.com/blog/wordpress-login-url/#change-login-page). You can also check out our guide to [fixing a 429 “Too Many Requests” error](https://kinsta.com/knowledgebase/429-too-many-requests/).
+  * **429:** “Too many requests.” This is generated by the server when the user has sent too many requests in a given amount of time (rate-limiting). This can sometimes occur due to bots or scripts attempting to access your site. In this case, you might want to try [changing your WordPress login URL](https://kinsta.com/blog/wordpress-login-url/#change-login-page). You can also check out our guide to [fixing a 429 “Too Many Requests” error](https://kinsta.com/knowledgebase/429-too-many-requests/).  
 ![429 too many requests](https://kinsta.com/wp-content/uploads/2016/08/429-too-many-requests-1-1.png)429 too many requests
 
   * **431:** “Request Header Fields Too Large.” The server can’t process the request because the header fields are too large. This may indicate a problem with a single header field, or all of them collectively.
-  * **451: **“Unavailable for Legal Reasons.” The operator of the server has received a demand to prohibit access to the resource you’ve requested (or a set of resources including the one you’ve requested). Fun fact: This code is a reference to Ray Bradbury’s novel _[Fahrenheit 451](https://www.arts.gov/national-initiatives/nea-big-read/fahrenheit-451)__._
+  * **451: **“Unavailable for Legal Reasons.” The operator of the server has received a demand to prohibit access to the resource you’ve requested (or a set of resources including the one you’ve requested). Fun fact: This code is a reference to Ray Bradbury’s novel *[Fahrenheit 451](https://www.arts.gov/national-initiatives/nea-big-read/fahrenheit-451)__.*
   * **499:** “Client closed request.” This is returned by NGINX when the client closes the request while [Nginx](https://kinsta.com/knowledgebase/what-is-nginx/) is still processing it.
 
 ### 500 Status Codes
 
 500-level status codes are also considered errors. However, they denote that the problem is on the server’s end. This can make them more difficult to resolve.
 
-  * **500:** “There was an error on the server and the request could not be completed.” This is generic code that simply means “internal server error”. Something went wrong on the server and the requested resource was not delivered. This code is typically generated by third-party plugins, faulty PHP, or even the connection to the database breaking. Check out our tutorials on how to [fix the error establishing a database connection](https://kinsta.com/blog/error-establishing-a-database-connection/) and other ways to resolve a [500 internal server error](https://kinsta.com/blog/500-internal-server-error/).
+  * **500:** “There was an error on the server and the request could not be completed.” This is generic code that simply means “internal server error”. Something went wrong on the server and the requested resource was not delivered. This code is typically generated by third-party plugins, faulty PHP, or even the connection to the database breaking. Check out our tutorials on how to [fix the error establishing a database connection](https://kinsta.com/blog/error-establishing-a-database-connection/) and other ways to resolve a [500 internal server error](https://kinsta.com/blog/500-internal-server-error/).  
 ![error establishing a database connection](https://kinsta.com/wp-content/uploads/2016/08/browser-error-establishing-a-database-connection-e1502738213406-1.png)Error establishing a database connection
 
   * **501:** “Not Implemented.” This error indicates that the server does not support the functionality required to fulfill the request. This is almost always a problem on the web server itself, and usually must be resolved by the host. Check out our recommendations on how to resolve a [501 not implemented error](https://kinsta.com/knowledgebase/501-not-implemented-error/).
@@ -198,7 +195,7 @@ Knowing these status codes may help you resolve some unique issues while maintai
 
 While they may seem confusing or intimidating on the surface, HTTP status codes are actually very informative. By learning some of the common ones, you can troubleshoot problems on your site more quickly.
 
-In this post, we’ve defined 40+ HTTP status codes that you may encounter. From the milder 100- and 200-level codes to the trickier 400- and 500-level errors, making sense of these messages is crucial for [maintaining your website](https://kinsta.com/blog/wordpress-maintenance/) and making sure it’s accessible to users. 
+In this post, we’ve defined 40+ HTTP status codes that you may encounter. From the milder 100and 200-level codes to the trickier 400and 500-level errors, making sense of these messages is crucial for [maintaining your website](https://kinsta.com/blog/wordpress-maintenance/) and making sure it’s accessible to users.
 
 * * *
 
@@ -206,4 +203,4 @@ In this post, we’ve defined 40+ HTTP status codes that you may encounter. From
 
 ___
 
-#article #Error 
+#article #Error

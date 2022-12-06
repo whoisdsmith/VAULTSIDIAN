@@ -1,4 +1,4 @@
-# javascript
+# Javascript
 
 \`\`\`\`\`\`let now\_playing = document.querySelector(".now-playing");
 

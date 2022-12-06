@@ -3,6 +3,7 @@
 ---
 
 %% Begin Waypoint %%
+
 - **[jssal-2017](../../../../..//Blog/chapters/just-some-shit-about-life/jssal-2017/jssal-2017.md)**
 	- [date-061817](date-061817.md)
 	- [datefebruary-19-2018-at-52411-am-pst](datefebruary-19-2018-at-52411-am-pst.md)
@@ -37,5 +38,3 @@
 	- [stay-who-you-are.](stay-who-you-are..md)
 
 %% End Waypoint %%
-
-

@@ -1,4 +1,4 @@
-# Blueprints On Building A Solid Foundation 
+# Blueprints On Building A Solid Foundation
 
 ## In Life
 
@@ -7,7 +7,7 @@
 - **Listen** With The Intent To **Understand** Not Just To **Respond**.
 - **Give** **More** Than You **Take**.
 - **Don’t Be Afraid** To **Ask For Help**.
-- **Think** Before You **Speak**. 
+- **Think** Before You **Speak**.
 - If Something Is **Important** To **You**, Let It Be Known With **Passion**.
 - Learn How To **Control Your Emotions Without Becoming Emotionless**.
 - Figure Out What You Are **Passionate** About And **Pursue It Endlessly**.

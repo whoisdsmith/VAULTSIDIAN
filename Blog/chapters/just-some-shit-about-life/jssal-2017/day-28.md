@@ -4,7 +4,7 @@ Taryn is coming over tonight!
 
 Chores.
 
--clean room
--make bed
--clean bathroom
+-clean room  
+-make bed  
+-clean bathroom  
 -pickup house

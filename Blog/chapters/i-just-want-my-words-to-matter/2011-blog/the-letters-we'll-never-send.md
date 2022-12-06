@@ -1,4 +1,4 @@
-# The letters we'll never send
+# The Letters We'll Never Send
 
 At this point in life I'm a 35 year old single father of 3 beautiful children. Currently trying to rebuild my life after a heartbreaking divorce and a meth addiction. There are so many reasons why I am where I am, some are simply because of misfortune and things out of my control but most were honestly my fault.
 

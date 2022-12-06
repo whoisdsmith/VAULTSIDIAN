@@ -1,15 +1,15 @@
 # Just Some Shit About Life - 2013
 
----- 
+----
 
-[[Table Of Continents]] 
+[[Table Of Continents]]
 
-[[Incase You Don't Know Or I Forget]] 
+[[Incase You Don't Know Or I Forget]]
 
-[[spelling.md]] 
+[[spelling.md]]
 
-[[Love Is Living Tissue]] 
+[[Love Is Living Tissue]]
 
-[[philosativity.md]] 
+[[philosativity.md]]
 
 [[_Everett_]]

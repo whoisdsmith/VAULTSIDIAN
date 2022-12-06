@@ -1,3 +1,5 @@
+# code-ex
+
 ```
 		`var userInput;
 	   var more;
@@ -10,6 +12,5 @@
 document.write(&quot;Not in range&quot;);
 ```
 
-	
-}
+}  
 document.write(&quot;Not in range&quot;);\`\`

@@ -1,4 +1,4 @@
-# How they make you feel
+# How They Make You Feel
 
 Throughout life, I've often heard people say “you never forget the way people make you feel”  
 and that is.. so spot on.  

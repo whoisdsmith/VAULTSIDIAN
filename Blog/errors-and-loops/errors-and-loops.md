@@ -3,6 +3,7 @@
 ---
 
 %% Begin Waypoint %%
+
 - **[errors-and-loops](../../..//Blog/errors-and-loops/errors-and-loops.md)**
 	- [127-helpful-javascript-snippets-part-1-of-6](127-helpful-javascript-snippets-part-1-of-6.md)
 	- [a-complete-guide-and-list-of-http-status-codes](a-complete-guide-and-list-of-http-status-codes.md)
@@ -27,5 +28,3 @@
 	- [types-of-programming-errors](types-of-programming-errors.md)
 
 %% End Waypoint %%
-
-

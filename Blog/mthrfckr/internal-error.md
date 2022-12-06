@@ -7,14 +7,14 @@
     
     
 
-Do you ever stop and ask yourself 
+Do you ever stop and ask yourself
 
 	How did I get here? 
 		When did this path I’ve been on, start to veer off course? 
 			Why did I make those decisions that initially lead me to here?
     
 
-Every day is the same day over and over again. 
+Every day is the same day over and over again.
 
     
 

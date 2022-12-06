@@ -1,4 +1,6 @@
-Drawing you a picture of how you make me feel, using words in the form of an analogy 
+# analogy
+
+Drawing you a picture of how you make me feel, using words in the form of an analogy
 
 It starts with a top view of an ledge of a cliff.
 
@@ -12,7 +14,7 @@ But you don’t fall the whole way down, you catch yourself on another ledge but
 
 So you cry out for help, scared, anxious, sad and alone
 
-I hear those cries and I already know where you’re at and what’s happened, so I bring food, water, flashlights and rope 
+I hear those cries and I already know where you’re at and what’s happened, so I bring food, water, flashlights and rope
 
 I arrive on top of the place you have just fallen from and I assure you everything is going to be fine and to remain calm
 

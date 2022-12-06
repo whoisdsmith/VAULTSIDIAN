@@ -194,7 +194,6 @@ ___
 					- 3.0
 				- VCA
 			- PSU's
-
 - **Operating Systems**
 	- Windows
 		- Windows 95
@@ -231,7 +230,6 @@ ___
 - CAD
 	- AUTOCAD
 	- Solidworks
-- 
 
 Computer Networking  
 Data Recovery

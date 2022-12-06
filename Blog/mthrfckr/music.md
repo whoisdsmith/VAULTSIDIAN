@@ -184,7 +184,7 @@ Pop music, lyrics, and videos from Tekonsha, MI on ReverbNation
 
 [Download Hacking Workspace Scene C4d and Octane - DesireFX.COM](https://www.desirefx.com/hacking-workspace-scene-c4d-and-octane)
 
-3D Scene of Hacking Workspace C4d and Octane Formats: FBX | C4D | TEX | LUT Scene details: Polygon mesh Highly detailed Cinema4d Scene, compatibles with OCTANE, includes big amount of Octane shaders, textures and decals, and Scifi models. Most of the the modeling was done in Moi3d then imported to C4d for extra Sub-d...Read More
+3D Scene of Hacking Workspace C4d and Octane Formats: FBX | C4D | TEX | LUT Scene details: Polygon mesh Highly detailed Cinema4d Scene, compatibles with OCTANE, includes big amount of Octane shaders, textures and decals, and Scifi models. Most of the the modeling was done in Moi3d then imported to C4d for extra Sub-d…Read More
 
 [50 Realistic Galaxy Watercolor Backgrounds Collection » GFXhome WS](https://gfxhome.ws/922997-50-realistic-galaxy-watercolor-backgrounds-collection.html)
 

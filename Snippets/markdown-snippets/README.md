@@ -1,4 +1,4 @@
-<h1 align="center">  </h1>
+<h1 align="center"> </h1>
 
 <p align="center">
 
@@ -20,7 +20,7 @@
 
 </p>
 
-<p align="center">  </p>
+<p align="center"> </p>
 
 <h2 align="center"> :zap: Usage </h2>
 
