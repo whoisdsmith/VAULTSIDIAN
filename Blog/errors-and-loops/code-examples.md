@@ -1,4 +1,4 @@
-# code-examples
+# Code-examples
 
 <input type="date" name="myInput" value="2022-03-30">
 

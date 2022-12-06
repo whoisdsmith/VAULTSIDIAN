@@ -3,6 +3,7 @@
 ---
 
 %% Begin Waypoint %%
+
 - **[chapters](../../..//Blog/chapters/chapters.md)**
 	- **[blueprints](blueprints/blueprints.md)**
 	- [chapters](../../..//Blog/chapters/chapters.md)

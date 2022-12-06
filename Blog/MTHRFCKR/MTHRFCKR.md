@@ -3,6 +3,7 @@
 ---
 
 %% Begin Waypoint %%
+
 - **[mthrfckr](./mthrfckr.md)**
 	- [3rr0r](./3rr0r.md)
 	- [10-years-of-music-love-and-losing-mthrfckr](./10-years-of-music-love-and-losing-mthrfckr.md)
@@ -70,7 +71,6 @@
 	- [your-room-in-blue-mthrfckr](./your-room-in-blue-mthrfckr.md)
 
 %% End Waypoint %%
-
 
 ---
 

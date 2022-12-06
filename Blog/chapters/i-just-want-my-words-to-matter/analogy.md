@@ -1,4 +1,4 @@
-# analogy
+# Analogy
 
 Drawing you a picture of how you make me feel, using words in the form of an analogy
 

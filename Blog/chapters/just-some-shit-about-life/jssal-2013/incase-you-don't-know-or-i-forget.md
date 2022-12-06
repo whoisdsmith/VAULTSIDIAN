@@ -1,4 +1,4 @@
-# incase-you-don't-know-or-i-forget
+# Incase-you-don't-know-or-i-forget
 
 ## Incase You Don't Know Or I Forget
 

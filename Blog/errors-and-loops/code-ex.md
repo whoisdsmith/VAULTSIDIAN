@@ -1,4 +1,4 @@
-# code-ex
+# Code-ex
 
 ```
 		`var userInput;

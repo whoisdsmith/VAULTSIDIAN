@@ -1,4 +1,4 @@
-# spelling
+# Spelling
 
 ## Spelling
 

@@ -3,6 +3,7 @@
 ---
 
 %% Begin Waypoint %%
+
 - **[life-is-a-simulation](../../..//Blog/life-is-a-simulation/life-is-a-simulation.md)**
 	- [backgrounds](backgrounds.md)
 	- [icons](icons.md)
@@ -11,8 +12,3 @@
 	- [life-is-a-simulation](../../..//Blog/life-is-a-simulation/life-is-a-simulation.md)
 
 %% End Waypoint %%
-
-
-
-
-

@@ -1,4 +1,4 @@
-# theme
+# Theme
 
 ## 1
 

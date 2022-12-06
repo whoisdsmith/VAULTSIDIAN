@@ -1,4 +1,4 @@
-# js
+# Js
 
 \`\`\`\`\`\`let now\_playing = document.querySelector(".now-playing");  
 let track\_art = document.querySelector(".track-art");  

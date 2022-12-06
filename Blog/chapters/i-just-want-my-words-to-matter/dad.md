@@ -1,4 +1,4 @@
-# dad
+# Dad
 
 My favorite part of my dads chapter, wasn’t just that he was my dad, it was the part where he didn’t have to be and chose to be. My biological father pretty much left me and my mom on our own and up until I was 5 years old I knew there was something missing in my life and than this man showed up with his contagious smile wearing his invisible cape and took me in as his son
 

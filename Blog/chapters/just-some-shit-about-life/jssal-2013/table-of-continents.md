@@ -1,4 +1,4 @@
-# table-of-continents
+# Table-of-continents
 
 ## Table Of Continents
 
