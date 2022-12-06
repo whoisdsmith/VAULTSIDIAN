@@ -1,10 +1,3 @@
----
-created: 2022-08-08T11:43:51 (UTC -04:00)
-tags: []
-source: https://whoisdsmith.ctrlaltback.space/18-selected-super-useful-linux-one-liners/
-author: 
----
-
 # 18 Selected Super-Useful Linux One-Liners–MTHRFCKR
 
 ---

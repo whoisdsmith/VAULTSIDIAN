@@ -1,10 +1,3 @@
----
-created: 2022-08-08T11:47:14 (UTC -04:00)
-tags: []
-source: https://whoisdsmith.ctrlaltback.space/10-years-of-music-love-losing/
-author: 
----
-
 # 10 Years of Music, Love and Losing.–MTHRFCKR
 
 ---

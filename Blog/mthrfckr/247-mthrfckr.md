@@ -1,10 +1,3 @@
----
-created: 2022-08-08T11:47:14 (UTC -04:00)
-tags: []
-source: https://whoisdsmith.ctrlaltback.space/247/
-author: 
----
-
 # 2:47–MTHRFCKR
 
 ---

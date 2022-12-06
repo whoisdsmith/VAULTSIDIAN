@@ -1,10 +1,3 @@
----
-created: 2022-08-08T11:45:17 (UTC -04:00)
-tags: []
-source: https://whoisdsmith.ctrlaltback.space/611/
-author: 
----
-
 # MTHRFCKR
 
 ---
@@ -22,7 +15,6 @@ author:
 	- [astronaudia-album-release-041522-mthrfckr](./astronaudia-album-release-041522-mthrfckr.md)
 	- [black-crab](./black-crab.md)
 	- [blog-name-generator](./blog-name-generator.md)
-	- [Blog](./Blog.md)
 	- [blogs](./blogs.md)
 	- [blueprints-on-building-a-solid-foundation](./blueprints-on-building-a-solid-foundation.md)
 	- [blueprints-to-a-better-future](./blueprints-to-a-better-future.md)

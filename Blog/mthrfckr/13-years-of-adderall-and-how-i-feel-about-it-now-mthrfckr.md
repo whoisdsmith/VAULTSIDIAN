@@ -1,10 +1,3 @@
----
-created: 2022-08-08T11:46:12 (UTC -04:00)
-tags: []
-source: https://whoisdsmith.ctrlaltback.space/13-years-of-adderall-and-how-i-feel-about-it-now/
-author: 
----
-
 # 13 Years of Adderall and How I Feel About It Now–MTHRFCKR
 
 ---
