@@ -1,5 +1,7 @@
 # Blueprints On Building A Solid Foundation
 
+---
+
 ## In Life
 
 - **Always Be Kind**.
@@ -20,3 +22,6 @@
 - **Always** Be **Honest**, No Matter What’s At Stake.
 - **Be Present**, Both **Mentally** And **Physically**.
 - **Love** And **Lust** Are Two Completely Different Feelings. **Understand Them Both**.
+
+
+---

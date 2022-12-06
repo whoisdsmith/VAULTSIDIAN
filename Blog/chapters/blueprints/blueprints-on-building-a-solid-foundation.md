@@ -1,5 +1,7 @@
 # Blueprints On Building A Solid Foundation
 
+---
+
 ## In Life
 
 - **Always Be Kind**.
@@ -14,9 +16,14 @@
 - **Be Forgiving**.
 - Learn To **Let Shit Go**.
 
+---
+
+
 ## In Love
 
 - **Communication** Is The Number One Key To A Successful Relationship.
 - **Always** Be **Honest**, No Matter What’s At Stake.
 - **Be Present**, Both **Mentally** And **Physically**.
 - **Love** And **Lust** Are Two Completely Different Feelings. **Understand Them Both**.
+
+---

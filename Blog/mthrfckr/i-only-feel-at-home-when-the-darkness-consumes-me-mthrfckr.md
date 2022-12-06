@@ -1,12 +1,4 @@
----
-created: 2022-08-08T11:47:14 (UTC -04:00)
-tags: []
-source: https://whoisdsmith.ctrlaltback.space/i-only-feel-at-home-when-the-darkness-consumes-me/
-author: 
----
-
-# I Only Feel at Home When the Darkness Consumes Me.–MTHRFCKR
-
+# I Only Feel at Home When the Darkness Consumes Me.
 ---
 
 ## [Uncategorized](https://whoisdsmith.ctrlaltback.space/category/uncategorized/) · August 20, 2011

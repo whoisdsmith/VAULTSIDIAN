@@ -1,10 +1,3 @@
----
-created: 2022-08-08T11:46:12 (UTC -04:00)
-tags: []
-source: https://whoisdsmith.ctrlaltback.space/weboas-is/
-author: 
----
-
 # Weboas.is–MTHRFCKR
 
 ---

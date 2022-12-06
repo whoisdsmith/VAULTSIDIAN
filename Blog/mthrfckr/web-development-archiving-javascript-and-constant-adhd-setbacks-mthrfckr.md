@@ -1,10 +1,3 @@
----
-created: 2022-08-08T11:45:17 (UTC -04:00)
-tags: []
-source: https://whoisdsmith.ctrlaltback.space/web-development-archiving-javascript-and-constant-adhd-setbacks/
-author: 
----
-
 # Web Development, Archiving, JavaScript and Constant ADHD Setbacks–MTHRFCKR
 
 ---

@@ -1,10 +1,3 @@
----
-created: 2022-08-08T11:43:51 (UTC -04:00)
-tags: []
-source: https://whoisdsmith.ctrlaltback.space/essential-linux-commands/
-author: 
----
-
 # Essential Linux Commands–MTHRFCKR
 
 ---

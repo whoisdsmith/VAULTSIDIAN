@@ -1,10 +1,3 @@
----
-created: 2022-08-08T11:46:12 (UTC -04:00)
-tags: []
-source: https://whoisdsmith.ctrlaltback.space/heard-this-remix-today-made-a-video-for-it/
-author: 
----
-
 # Here’s The First Look At The New M-BLOOD “Walls” Music Video I Made.–MTHRFCKR
 
 ---

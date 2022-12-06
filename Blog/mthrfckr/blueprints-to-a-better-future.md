@@ -1,7 +1,5 @@
 # Blueprints To A Better Future
 
-## Blueprints To A Better Future
-
 ---
 
 - **Always** **Communicate**
@@ -23,3 +21,6 @@
    - This really should be Number 1 on this subject because people don't understand that you can't just jump into a new relationship right after your previous one fails.
    - You have to heal your wounds. You have to understand why the relationship ended. You have to feel that pain and those aches in your stomach to the full extent.
    - **DO NOT** run from that pain. Face it and find acceptance and closure before moving on.
+
+
+----

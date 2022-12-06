@@ -1,10 +1,3 @@
----
-created: 2022-08-08T11:46:12 (UTC -04:00)
-tags: []
-source: https://whoisdsmith.ctrlaltback.space/yesterday-i-started-my-journey-with-obsidian-kind-of/
-author: 
----
-
 # Yesterday, I Started My Journey with Obsidian. Kind Of.–MTHRFCKR
 
 ---

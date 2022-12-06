@@ -6,7 +6,8 @@
 
 <input type="date" name="myInput" value="2022-03-30">
 
-``var randomQuote = "";  
+```java
+var randomQuote = "";  
 var randomAuthor = "";
 
 function getQuote() {  
@@ -39,4 +40,5 @@ $(document).ready(function() {
     var url="https://twitter.com/intent/tweet?text=\"" + randomQuote + "\" -" + randomAuthor;  
 $("#tweet").attr('href', url);  
 window.open(url);});  
-  });`
+  });
+```

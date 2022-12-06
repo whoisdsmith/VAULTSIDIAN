@@ -1,10 +1,3 @@
----
-created: 2022-08-08T11:47:14 (UTC -04:00)
-tags: []
-source: https://whoisdsmith.ctrlaltback.space/your-room-in-blue/
-author: 
----
-
 # Your Room in Blue.–MTHRFCKR
 
 ---

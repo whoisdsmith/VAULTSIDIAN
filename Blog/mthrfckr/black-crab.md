@@ -1,6 +1,7 @@
 # Dead People - Stay Dead
 
-https://flic.kr/p/2naUvZH
+
+---
 
 Last night we watched the movie “Black Crab” on Netflix. Overall I give it 3 out of 5 Stars. Great cinematic visuals with great acting by Rooney Mara (Prometheus) Movie wise I felt like it was another country’s Version of “Red Dawn”
 

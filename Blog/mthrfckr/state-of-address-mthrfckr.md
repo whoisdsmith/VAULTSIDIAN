@@ -5,7 +5,7 @@ source: https://whoisdsmith.ctrlaltback.space/state-of-address/
 author: 
 ---
 
-# State of Address–MTHRFCKR
+# State of Address
 
 ---
 
@@ -30,3 +30,6 @@ Most important, don’t make the same mistakes I have. Don’t be anything like 
 I love you.
 
 Dad.
+
+
+---

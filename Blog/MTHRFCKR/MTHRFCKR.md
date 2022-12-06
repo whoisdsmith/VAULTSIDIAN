@@ -3,7 +3,6 @@
 ---
 
 %% Begin Waypoint %%
-
 - **[mthrfckr](./mthrfckr.md)**
 	- [3rr0r](./3rr0r.md)
 	- [10-years-of-music-love-and-losing-mthrfckr](./10-years-of-music-love-and-losing-mthrfckr.md)
@@ -21,7 +20,7 @@
 	- [blueprints-to-a-better-future](./blueprints-to-a-better-future.md)
 	- [dad-mthrfckr](./dad-mthrfckr.md)
 	- [dad](./dad.md)
-	- [dead-people-stay-dead-mthrfckr](./dead-people-stay-dead-mthrfckr.md)
+	- [dead-people-stay-dead](./dead-people-stay-dead.md)
 	- [essential-linux-commands-mthrfckr](./essential-linux-commands-mthrfckr.md)
 	- [family](./family.md)
 	- [fun-on-terminal-mthrfckr](./fun-on-terminal-mthrfckr.md)
