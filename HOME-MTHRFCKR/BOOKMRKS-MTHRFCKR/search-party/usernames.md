@@ -2,13 +2,13 @@
 
 ---
 
-- [../Search/General.md](../Search/General.md)
+- [../Search/General.md](general.md)
 - [../../OSINT/Osint-Bookmarks/OSINT.md](../../OSINT/Osint-Bookmarks/OSINT.md)
 - [../osint-and-hacking/../osint-and-hacking/osint-search-engines.md.md](osint-search-engines)
 - [SEARCH PARTY MTHRFCKR](SEARCH PARTY MTHRFCKR)
-- [tools](../tools.md)
+- [tools](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/awesome-piracy/tools.md)
 - [../Software-Tools/readme/../Software-Tools/readme/tools-box.md.md](tools-box)
-- [webdev](../Weboasis/webdev.md)
+- [webdev](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/awesome-piracy/weboasis/webdev.md)
 
 ---
 

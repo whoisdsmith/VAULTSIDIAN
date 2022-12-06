@@ -63,7 +63,7 @@ The book: [https://www.thesprintbook.com/](https://www.google.com/url?q=https://
 [Lorem ipsum  Placeholder Content](Lorem%20ipsum%20%20Placeholder%20Content.md)
 [Photography](Awesome/MILANS%20ULTIMATE%20RESOURCE%20LIST/Photography.md)
 [Mockups](Mockups.md)
-[Music](Music.md)
+[music](Blog/music.md)
 [Videos](Awesome/MILANS%20ULTIMATE%20RESOURCE%20LIST/Videos.md)
 [Tools](Awesome/MILANS%20ULTIMATE%20RESOURCE%20LIST/Tools.md)
 [Typography (resources + open source)](Typography%20(resources%20+%20open%20source).md)

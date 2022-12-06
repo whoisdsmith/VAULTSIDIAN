@@ -36,7 +36,7 @@
 
 [PDF Sites](pdf-sites.md)
 
-[Publications](publications.md)
+[Publications](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/reference/publications.md)
 
 [Reference Tools](reference-tools.md)
 

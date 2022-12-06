@@ -12,9 +12,9 @@
 	- [git](git.md)
 	- [programming](programming.md)
 	- [README](../../../README.md)
-	- [resources](resources.md)
+	- [resources](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/development/resources.md)
 	- [ui-graphics](ui-graphics.md)
-	- [webdev](webdev.md)
+	- [webdev](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/development/webdev.md)
 
 %% End Waypoint %%
 

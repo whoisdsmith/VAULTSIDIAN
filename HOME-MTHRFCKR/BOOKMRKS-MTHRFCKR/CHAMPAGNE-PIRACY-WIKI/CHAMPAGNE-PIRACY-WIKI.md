@@ -3,18 +3,8 @@
 ---
 
 %% Begin Waypoint %%
-
-- **[CHAMPAGNE-PIRACY-WIKI](../../../..//HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/CHAMPAGNE-PIRACY-WIKI/CHAMPAGNE-PIRACY-WIKI.md)**
-	- [Activate Windows & Office Products!](Activate%20Windows%20&%20Office%20Products!.md)
-	- [CHAMPAGNE-PIRACY-WIKI](../../../..//HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/CHAMPAGNE-PIRACY-WIKI/CHAMPAGNE-PIRACY-WIKI.md)
-	- [Direct Links to Other Useful Resources!](Direct%20Links%20to%20Other%20Useful%20Resources!.md)
-	- [Gaming Sources](Gaming%20Sources.md)
-	- [Literature Sources](Literature%20Sources.md)
-	- [Music Download](Music%20Download.md)
-	- [Online Streaming](Online%20Streaming.md)
-	- [TODO](TODO.md)
-	- [Web Browsing Extensions](Web%20Browsing%20Extensions.md)
-	- [Windows & MAC Software](Windows%20&%20MAC%20Software.md)
+- **[champagne-piracy-wiki](./champagne-piracy-wiki.md)**
+	- [champagne-piracy-wiki](./champagne-piracy-wiki.md)
 
 %% End Waypoint %%
 
@@ -120,4 +110,4 @@ These will come in handy with what you are about to attempt.
 
 [Direct Links to Other Useful Resources!](Direct%20Links%20to%20Other%20Useful%20Resources!.md)
 
-[TODO](TODO.md) 
+[todo](../awesome-piracy/todo.md) 

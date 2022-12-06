@@ -19,6 +19,7 @@
 		- [vyvanse-and-adderall-together](./adderall/vyvanse-and-adderall-together.md)
 	- [awesome-selfhosted-automation-2](./awesome-selfhosted-automation-2.md)
 	- [confirmed!-we-live-in-a-simulation](./confirmed!-we-live-in-a-simulation.md)
+	- **[daily-notes](./daily-notes/daily-notes.md)**
 	- **data**
 		- [databases](./data/databases.md)
 		- [databreach](./data/databreach.md)
