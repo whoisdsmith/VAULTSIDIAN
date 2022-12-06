@@ -1,11 +1,11 @@
 # Table of contents
 
-* [Overview](../../../../R[Terms & Guidelines](terms.md)s](terms.md)
+* [Overview](../../../../R[Terms & Guidelines](02-terms.md)s](terms.md)
 
 ## Rest API v1 <a href="#v1" id="v1"></a>
 
 * [authentication](HOME-MTHRFCKR/DEV-DOCS/raindrop-io/RD-Dev-API/v1/authentication/authentication.md)
-  * [Obtain access token](token.md)
+  * [Obtain access token](04-token.md)
   * [Make authorized calls](calls.md)
 * [Collections](collections.md)
   * [Collection methods](methods.md)

@@ -1,4 +1,4 @@
-# # Authentication
+# Authentication
   
   In order to make authorized calls to Raindrop.io API, you must do the following:
   

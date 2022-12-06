@@ -4,7 +4,7 @@
 
 This is the official documentation for Raindrop.io API. A reference to the functionality our public API provides with detailed description of each API endpoint, parameters, and examples.
 
-Please note that you must [register your application](https://app.raindrop.io/#/settings/apps/dev) and authenticate with OAuth when making requests. Before doing so, be sure to read our [Terms & Guidelines](terms.md) to learn how the API may be used.
+Please note that you must [register your application](https://app.raindrop.io/#/settings/apps/dev) and authenticate with OAuth when making requests. Before doing so, be sure to read our [Terms & Guidelines](02-terms.md) to learn how the API may be used.
 
 ### Format
 
@@ -36,9 +36,9 @@ Payload of POST requests has to be JSON-encoded and accompanied with `Content-Ty
 
 All timestamps are returned in ISO 8601 format:
 
-```bash
-YYYY-MM-DDTHH:MM:SSZ
-```
+
+`YYYY-MM-DDTHH:MM:SSZ`
+
 
 ### Rate Limiting <a id="rate-limiting"></a>
 
@@ -69,9 +69,14 @@ The API supports Cross Origin Resource Sharing \(CORS\) for AJAX requests. You c
 Here’s a sample request sent from a browser hitting `http://example.com`:
 
 ```http
+
 HTTP/1.1 200 OK
 Access-Control-Allow-Origin: http://example.com
 Access-Control-Expose-Headers: ETag, Content-Type, Accept, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
 Access-Control-Allow-Credentials: true
+
+
 ```
+
+---
 
