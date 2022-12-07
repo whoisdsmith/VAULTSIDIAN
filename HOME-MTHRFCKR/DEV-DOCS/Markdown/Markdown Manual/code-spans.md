@@ -46,12 +46,11 @@ Note that browsers will typically collapse consecutive spaces when rendering `<c
 Note that backslash escapes do not work in code spans. All backslashes are treated literally:  
 <Example :index="$page.frontmatter.start++"/>
 
-Backslash escapes are never needed, because one can always choose a string of *n* backtick characters as delimiters, where the code does not contain any strings of exactly *n* backtick characters. 
+Backslash escapes are never needed, because one can always choose a string of *n* backtick characters as delimiters, where the code does not contain any strings of exactly *n* backtick characters.
 
 <Example :index="$page.frontmatter.start++"/>
 
 <Example :index="$page.frontmatter.start++"/>
- 
 
 Code span backticks have higher precedence than any other inline constructs except HTML tags and autolinks. Thus, for example, this is not parsed as emphasized text, since the second `*` is part of a code span:  
 <Example :index="$page.frontmatter.start++"/>

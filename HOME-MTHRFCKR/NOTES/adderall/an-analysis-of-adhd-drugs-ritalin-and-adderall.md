@@ -16,7 +16,6 @@ This Article iHonors Journal by an authors brought to you for fized adminiree an
 Recommended Citation
 Sherzada, Awista (2012) "Available at:http://scholarspace.jccc.edu/honorAn Analysis of ADHD Drs\_journal/vol3/iss1/2ugs: Ritalin and Adderall," _JCCC Honors Journal_ : Vol. 3: Iss. 1, Article 2.
 
-
 ## An Analysis of ADHD Drugs: Ritalin and Adderall
 
 **Abs** Ritalin and Adde **tract** rall are commonly prescribed drugs for the treatment of the attention-deficit hyperactivity
@@ -52,8 +51,8 @@ odorless, white solid as crystalline powder [3].
 1
 Sherzada: An Analysis of ADHD Drugs: Ritalin and Adderall
 ```
-Published by ScholarSpace @ JCCC, 2012
 
+Published by ScholarSpace @ JCCC, 2012
 
 ```
 Methylphenidate
@@ -72,8 +71,8 @@ elements carbon, hydrogen, and nitrogen with a molecular weight totaling to 135.
 2
 JCCC Honors Journal, Vol. 3 [2012], Iss. 1, Art. 2
 ```
-[http://scholarspace.jccc.edu/honors\_journal/vol3/iss1/][1]
 
+[http://scholarspace.jccc.edu/honors\_journal/vol3/iss1/][1]
 
 ```
 chemical structure also reveals a benzene aromatic ring bonded with an amine side group. Before
@@ -97,8 +96,8 @@ Action potentials generate and travel along axons of neurons to activate synapti
 3
 Sherzada: An Analysis of ADHD Drugs: Ritalin and Adderall
 ```
-Published by ScholarSpace @ JCCC, 2012
 
+Published by ScholarSpace @ JCCC, 2012
 
 ```
 between each other. Regulation of neurotransmitters such as dopamine is achieved through cell-
@@ -121,8 +120,8 @@ medically used to increase levels of dopamine and related neurotransmitters in t
 4
 JCCC Honors Journal, Vol. 3 [2012], Iss. 1, Art. 2
 ```
-[http://scholarspace.jccc.edu/honors\_journal/vol3/iss1/][2]
 
+[http://scholarspace.jccc.edu/honors\_journal/vol3/iss1/][2]
 
 ```
 Dopamine
@@ -143,8 +142,8 @@ neurotransmitters in their synapses and the inhibition of DAT during treatment s
 5
 Sherzada: An Analysis of ADHD Drugs: Ritalin and Adderall
 ```
-Published by ScholarSpace @ JCCC, 2012
 
+Published by ScholarSpace @ JCCC, 2012
 
 ```
 release of dopamine and norepinephrine into the synapse. MPH has the capability to occupy
@@ -173,8 +172,8 @@ performed by making the dopamine transporters work in reverse [7]. Subsequently,
 6
 JCCC Honors Journal, Vol. 3 [2012], Iss. 1, Art. 2
 ```
-[http://scholarspace.jccc.edu/honors\_journal/vol3/iss1/][3]
 
+[http://scholarspace.jccc.edu/honors\_journal/vol3/iss1/][3]
 
 ```
 also has the power to inhibit the enzyme that is responsible for the breakdown of
@@ -203,8 +202,8 @@ have a history of addiction to drugs and alcohol [20]. The Food and Drug Adminis
 7
 Sherzada: An Analysis of ADHD Drugs: Ritalin and Adderall
 ```
-Published by ScholarSpace @ JCCC, 2012
 
+Published by ScholarSpace @ JCCC, 2012
 
 ```
 also issues an additional “Black Box” warning label which means that medical studies indicate
@@ -233,8 +232,8 @@ The most common adverse reactions in children ages 6 to 12 are loss of appetite,
 8
 JCCC Honors Journal, Vol. 3 [2012], Iss. 1, Art. 2
 ```
-[http://scholarspace.jccc.edu/honors\_journal/vol3/iss1/][4]
 
+[http://scholarspace.jccc.edu/honors\_journal/vol3/iss1/][4]
 
 ```
 abdominal pain, emotional liability, vomiting, nervousness, nausea, and fever [23]. In
@@ -262,8 +261,8 @@ New York State Psychiatric Institute emphasizes: “Adderall is a very powerful 
 9
 Sherzada: An Analysis of ADHD Drugs: Ritalin and Adderall
 ```
-Published by ScholarSpace @ JCCC, 2012
 
+Published by ScholarSpace @ JCCC, 2012
 
 ```
 undoubtedly works for ADHD, but there are alternatives with less abuse potential that should be
@@ -292,14 +291,15 @@ and Adderall both act to stimulate the nervous system, there are several notable
 10
 JCCC Honors Journal, Vol. 3 [2012], Iss. 1, Art. 2
 ```
-[http://scholarspace.jccc.edu/honors\_journal/vol3/iss1/][5]
 
+[http://scholarspace.jccc.edu/honors\_journal/vol3/iss1/][5]
 
 ```
 between the two. It is not suggested for one to be better than the other because the effectiveness
 of each drug varies from person to person. The drug selected to use for treatment of ADHD
 symptoms is determined by a trained physician.
 ```
+
 #### REFERENCES
 
 ```
@@ -310,8 +310,8 @@ disorder/complete-index.shtml
 11
 Sherzada: An Analysis of ADHD Drugs: Ritalin and Adderall
 ```
-Published by ScholarSpace @ JCCC, 2012
 
+Published by ScholarSpace @ JCCC, 2012
 
 ```
 [3] Pubchem: Methylphenidate-compound summary. Retrieved from National Center for
@@ -349,8 +349,8 @@ http://www.psychatlanta.com/documents/ritalin.pdf
 12
 JCCC Honors Journal, Vol. 3 [2012], Iss. 1, Art. 2
 ```
-[http://scholarspace.jccc.edu/honors\_journal/vol3/iss1/][6]
 
+[http://scholarspace.jccc.edu/honors\_journal/vol3/iss1/][6]
 
 ```
 [18] Willets, S. (2008, September 12).Types of ritalin. Retrieved from
@@ -371,11 +371,12 @@ Publishing Co. website: http://www.adderall.net/#dextroamphetamine
 13
 Sherzada: An Analysis of ADHD Drugs: Ritalin and Adderall
 ```
+
 Published by ScholarSpace @ JCCC, 201
 
-[1]:	http://scholarspace.jccc.edu/honors_journal/vol3/iss1/
-[2]:	http://scholarspace.jccc.edu/honors_journal/vol3/iss1/
-[3]:	http://scholarspace.jccc.edu/honors_journal/vol3/iss1/
-[4]:	http://scholarspace.jccc.edu/honors_journal/vol3/iss1/
-[5]:	http://scholarspace.jccc.edu/honors_journal/vol3/iss1/
-[6]:	http://scholarspace.jccc.edu/honors_journal/vol3/iss1/
+[1]: http://scholarspace.jccc.edu/honors_journal/vol3/iss1/
+[2]: http://scholarspace.jccc.edu/honors_journal/vol3/iss1/
+[3]: http://scholarspace.jccc.edu/honors_journal/vol3/iss1/
+[4]: http://scholarspace.jccc.edu/honors_journal/vol3/iss1/
+[5]: http://scholarspace.jccc.edu/honors_journal/vol3/iss1/
+[6]: http://scholarspace.jccc.edu/honors_journal/vol3/iss1/

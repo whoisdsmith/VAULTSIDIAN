@@ -8,7 +8,7 @@ If you’re not familiar with [IFTTT](http://ifttt.com/day_one) (If This Then Th
 
 ## Get started
 
-IFTTT requires Day One Sync. Day One Sync is available to all Plus (grandfathered) and Premium users. 
+IFTTT requires Day One Sync. Day One Sync is available to all Plus (grandfathered) and Premium users.
 
 You will create a free account at [IFTTT.com.](http://IFTTT.com) Then you can begin creating "applets". These are the services you can connect that will automatically create entries based on the criteria you choose.  You can have entries created in Day One every time you send a tweet, or post a new Facebook status.  You can send an email to IFTTT that will create entries in Day One.  
 
@@ -18,7 +18,7 @@ Connect here: <https://ifttt.com/day_one/>
 
 Note: We currently limit up to 100 entries created per day via IFTTT.
 
-Names of encrypted journals will not appear on IFTTT. The order will coincide with the journal order in the app. The journal ID can also be located to match up the correct encrypted journal. See [here](https://help.dayoneapp.com/en/articles/3613974-locating-a-journal-id). 
+Names of encrypted journals will not appear on IFTTT. The order will coincide with the journal order in the app. The journal ID can also be located to match up the correct encrypted journal. See [here](https://help.dayoneapp.com/en/articles/3613974-locating-a-journal-id).
 
 ## Troubleshooting
 
@@ -26,7 +26,6 @@ If your journals do not appear when creating a new applet, you may not be connec
 
 Please see this guide on reconnecting a service on IFTTT: <https://help.ifttt.com/hc/en-us/articles/115010229587-How-do-I-change-the-account-associated-with-a-service->
 
-
 ___
 
-#article #DayOne
+# article #DayOne

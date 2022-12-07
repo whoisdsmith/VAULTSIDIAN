@@ -1,6 +1,6 @@
 [Thème numérologique](http://www.psycho-tests.fr/numerologie/resultat-numerologique.php)
 
-Result : 
+Result :
 
 # THÈME NUMÉROLOGIQUE N° 9
 

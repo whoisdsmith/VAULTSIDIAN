@@ -188,8 +188,6 @@
 
 - [Generation Adderall (Published 2016)](https://www.nytimes.com/2016/10/16/magazine/generation-adderall-addiction.html)
 
-
-
 ### Data
 
 - [Insights Found By Analyzing My Text Messages](http://integritydatainsights.com/insights-found-by-analyzing-my-text-messages/)
@@ -205,8 +203,6 @@
 - [The romantic side of data science: Analyzing a relationship through a year worth of text messages](https://towardsdatascience.com/the-romantic-side-of-data-science-analyzing-a-relationship-through-a-year-worth-of-text-messages-be7e32d81fa9)
 
 - [frustrated robot | frustrated robot](https://www.frustratedrobot.com/)
-
-
 
 ### Dev-Sites
 
@@ -1670,8 +1666,6 @@
 
 - [zserge's blog](https://zserge.com/)
 
-
-
 ### Medium Blogs
 
 - [Argonyte](https://medium.com/@argonyte.cybersec)
@@ -1695,8 +1689,6 @@
 - [The OSINT Toolkit](https://medium.com/osint/the-osint-toolkit-3b9233d1cdf9)
 
 - [What The OSINT!](https://medium.com/what-the-osint)
-
-
 
 ### OSINT Blogs
 
@@ -2064,10 +2056,6 @@
 
 - [ZK Learning Resources](https://learn.0xparc.org/)
 
-
-
-
-
 ### Create Blog
 
 - ["Vortex](https://dimension.dev/vortex?ref=producthunt)
@@ -2102,21 +2090,15 @@
 
 - [Arbital](https://arbital.com/)
 
-
-
 ### Forums
 
 - [Linus Tech Tips](https://linustechtips.com/)
-
-
 
 ### People To Follow
 
 - [Mark Koester Personal Blog | Mark Koester](http://www.markwk.com/)
 
 - [Git better with fzf and Fish - BrettTerpstra.com](https://brettterpstra.com/2021/11/25/git-better-with-fzf-and-fish)
-
-
 
 ### Podcasts
 

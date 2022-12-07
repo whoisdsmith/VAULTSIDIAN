@@ -8,9 +8,9 @@ Code steps let you execute [Node.js v14 (opens new window)](https://nodejs.org/)
 
 Choose a language to get started:
 
--   [Node.js (Javascript)](https://pipedream.com/docs/code/nodejs/)
--   [Python](https://pipedream.com/docs/code/python/)
--   [Go](https://pipedream.com/docs/code/go/)
--   [Bash](https://pipedream.com/docs/code/bash/)
+- [Node.js (Javascript)](https://pipedream.com/docs/code/nodejs/)
+- [Python](https://pipedream.com/docs/code/python/)
+- [Go](https://pipedream.com/docs/code/go/)
+- [Bash](https://pipedream.com/docs/code/bash/)
 
 If you'd like to see another, specific language supported, please [let us know (opens new window)](https://pipedream.com/community).

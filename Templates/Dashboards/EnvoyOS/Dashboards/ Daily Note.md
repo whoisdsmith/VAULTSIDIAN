@@ -44,8 +44,8 @@ description: A Dashboard for Daily Logs
 
 ```dataview
 TABLE
-	file.cday AS "Created At"
-	
+ file.cday AS "Created At"
+ 
 FROM "Daily Log"
 WHERE file.cday.month = this.file.mtime.month
 SORT file.ctime DESC
@@ -66,8 +66,8 @@ SORT file.ctime DESC
 
 ```dataview
 TABLE
-	file.cday AS "Created At"
-	
+ file.cday AS "Created At"
+ 
 FROM "Daily Log"
 WHERE file.cday.month + 1 = this.file.mtime.month
 SORT file.ctime DESC

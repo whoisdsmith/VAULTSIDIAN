@@ -1,6 +1,7 @@
 # Vim Cheatsheet
 
 > ## Excerpt
+
 > One-page guide to Vim: usage, examples, and more. Vim is a very efficient text editor. This reference was made for Vim 8.0. For shortcut notation, see :help key-notation.
 
 ---

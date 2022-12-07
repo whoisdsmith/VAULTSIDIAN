@@ -26,17 +26,12 @@ Tags: [IFTTT](https://whoisdsmith.ctrlaltback.space/tag/ifttt/)[Spotify](https:/
 ### You May Also like…
 
 - [![Into The Unknown of The Cosmos](https://whoisdsmith.ctrlaltback.space/wp-content/themes/dashscroll/img/thumb-medium.png)](https://whoisdsmith.ctrlaltback.space/into-the-unknown-of-the-cosmos/)
-    
 
 ### [Into The Unknown of The Cosmos](https://whoisdsmith.ctrlaltback.space/into-the-unknown-of-the-cosmos/)
 
-    
 - [![The Ultimate IFTTT Guide](https://whoisdsmith.ctrlaltback.space/wp-content/themes/dashscroll/img/thumb-medium.png)](https://whoisdsmith.ctrlaltback.space/the-ultimate-ifttt-guide/)
-    
 
 ### [The Ultimate IFTTT Guide](https://whoisdsmith.ctrlaltback.space/the-ultimate-ifttt-guide/)
-
-    
 
 - [**Next** Next Post](https://whoisdsmith.ctrlaltback.space/611/)
 - [**Previous** Webby’s Bookmark Collection](https://whoisdsmith.ctrlaltback.space/webbys-bookmark-collection/)

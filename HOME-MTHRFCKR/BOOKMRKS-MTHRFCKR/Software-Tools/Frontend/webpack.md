@@ -14,13 +14,13 @@ module.exports = {
 
 # Config to Enable Root Importing
 
-https://github.com/hiiamyes/cheat-sheet/blob/master/vscode/vscode.md#import-path-base-url
+<https://github.com/hiiamyes/cheat-sheet/blob/master/vscode/vscode.md#import-path-base-url>
 
 # Analyzer
 
 Official
 
-https://github.com/webpack/analyse
+<https://github.com/webpack/analyse>
 
 ```
 webpack --profile --json > stats.json
@@ -34,7 +34,7 @@ OSS
 
 - [webpack-visualizer](https://chrisbateman.github.io/webpack-visualizer/)
 
-https://chrisbateman.github.io/webpack-visualizer/
+<https://chrisbateman.github.io/webpack-visualizer/>
 
 ```
 webpack --json > stats.json

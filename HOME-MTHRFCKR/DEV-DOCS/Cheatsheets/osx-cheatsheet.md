@@ -1,6 +1,7 @@
 # OS X Cheatsheet
 
 > ## Excerpt
+
 > The one-page guide to OS X: usage, examples, links, snippets, and more.
 
 ---

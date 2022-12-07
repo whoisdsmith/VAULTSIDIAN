@@ -1,16 +1,15 @@
 # Editing and formatting entries in Day One for iOS
 
-Tap an entry in the [Timeline](http://help.dayoneapp.com/day-one-2-0/journal-views-in-day-one-ios) view. Then tap anywhere in the body to place the cursor and begin editing. Screen shots show iPhone but these functions are the same for iPad as well. 
+Tap an entry in the [Timeline](http://help.dayoneapp.com/day-one-2-0/journal-views-in-day-one-ios) view. Then tap anywhere in the body to place the cursor and begin editing. Screen shots show iPhone but these functions are the same for iPad as well.
 
 ![](https://downloads.intercomcdn.com/i/o/74098941/7ee9b9cfdab36ae831e58332/Tap+to+edit.png)
 
-Tap the **_Aa_** icon at the top right of the keyboard to access Headers, Bold, Italics, Highlighting, Numbered Lists, Bullets, Checklists, Quotes, Horizontal Lines, Indent, Outdent. 
+Tap the **_Aa_** icon at the top right of the keyboard to access Headers, Bold, Italics, Highlighting, Numbered Lists, Bullets, Checklists, Quotes, Horizontal Lines, Indent, Outdent.
 
 ![](https://downloads.intercomcdn.com/i/o/312452371/8bab2f151b28eadebd34f974/iPhone+formatting.png)
 
-Users can also manually type using Markdown and the text will convert to Rich Text automatically. For example, type a hashtag (#) and a space and you will initiate a Header 1. 
-    
-    
+Users can also manually type using Markdown and the text will convert to Rich Text automatically. For example, type a hashtag (#) and a space and you will initiate a Header 1.
+
     # Header 1  
     ## Header 2  
     ### Header 3  
@@ -53,13 +52,7 @@ Users can also manually type using Markdown and the text will convert to Rich Te
     ![](https://downloads.intercomcdn.com/i/o/74099433/52edf264a8d2c7163fb603b2/Done+to+close+entry.png)
     
     ## 
-    
-    
-    
-    
-    
-
 
 ___
 
-#article #DayOne
+# article #DayOne

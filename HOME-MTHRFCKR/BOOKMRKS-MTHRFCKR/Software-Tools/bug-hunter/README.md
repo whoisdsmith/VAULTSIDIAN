@@ -6,18 +6,18 @@
 
 - [Tools](#tools)
 - [Exploit](#exploit)
-    - [Google Maps](#google-maps)
-    - [Algolia](#algolia)
-    - [AWS Access Key ID & Secret](#aws-access-key-id--secret)
-    - [Slack API Token](#slack-api-token)
-    - [Facebook Access Token](#facebook-access-token)
-    - [Github client id and client secret](#github-client-id-and-client-secret)
-    - [Twilio Account_sid and Auth Token](#twilio-account_sid-and-auth-token)
-    - [Twitter API Secret](#twitter-api-secret)
-    - [Twitter Bearer Token](#twitter-bearer-token)
-    - [Gitlab Personal Access Token](#gitlab-personal-access-token)
-    - [HockeyApp API Token](#hockeyapp-api-token)
-    - [Auth Bypass using pre-published Machine Key](#auth-bypass-using-pre-published-machine-key)
+  - [Google Maps](#google-maps)
+  - [Algolia](#algolia)
+  - [AWS Access Key ID & Secret](#aws-access-key-id--secret)
+  - [Slack API Token](#slack-api-token)
+  - [Facebook Access Token](#facebook-access-token)
+  - [Github client id and client secret](#github-client-id-and-client-secret)
+  - [Twilio Account_sid and Auth Token](#twilio-account_sid-and-auth-token)
+  - [Twitter API Secret](#twitter-api-secret)
+  - [Twitter Bearer Token](#twitter-bearer-token)
+  - [Gitlab Personal Access Token](#gitlab-personal-access-token)
+  - [HockeyApp API Token](#hockeyapp-api-token)
+  - [Auth Bypass using pre-published Machine Key](#auth-bypass-using-pre-published-machine-key)
 
 ## Tools
 
@@ -30,12 +30,12 @@ The following commands can be used to takeover accounts or extract personal info
 
 ### Google Maps
 
-Use : https://github.com/ozguralp/gmapsapiscanner/
+Use : <https://github.com/ozguralp/gmapsapiscanner/>
 
 Impact:
 
-* Consuming the company's monthly quota or can over-bill with unauthorized usage of this service and do financial damage to the company
-* Conduct a denial of service attack specific to the service if any limitation of maximum bill control settings exist in the Google account
+- Consuming the company's monthly quota or can over-bill with unauthorized usage of this service and do financial damage to the company
+- Conduct a denial of service attack specific to the service if any limitation of maximum bill control settings exist in the Google account
 
 ### Algolia
 
@@ -102,7 +102,7 @@ curl -H "X-HockeyAppToken: ad136912c642076b0d1f32ba161f1846b2c" https://rink.hoc
 
 That machine key is used for encryption and decryption of forms authentication cookie data and view-state data, and for verification of out-of-process session state identification.
 
-Example of a machineKey from https://docs.microsoft.com/en-us/iis/troubleshoot/security-issues/troubleshooting-forms-authentication.
+Example of a machineKey from <https://docs.microsoft.com/en-us/iis/troubleshoot/security-issues/troubleshooting-forms-authentication>.
 
 ```xml
 <machineKey validationKey="87AC8F432C8DB844A4EFD024301AC1AB5808BEE9D1870689B63794D33EE3B55CDB315BB480721A107187561F388C6BEF5B623BF31E2E725FC3F3F71A32BA5DFC" decryptionKey="E001A307CCC8B1ADEA2C55B1246CDCFE8579576997FF92E7" validation="SHA1" />
@@ -120,7 +120,7 @@ $ AspDotNetWrapper.exe --decryptDataFilePath C:\DecryptedText.txt
 
 ## References
 
-* [Finding Hidden API Keys & How to use them - Sumit Jain - August 24, 2019](https://medium.com/@sumitcfe/finding-hidden-api-keys-how-to-use-them-11b1e5d0f01d)
-* [Private API key leakage due to lack of access control - yox - August 8, 2018](https://hackerone.com/reports/376060)
-* [Project Blacklist3r - November 23, 2018 - @notsosecure](https://www.notsosecure.com/project-blacklist3r/)
-* [Saying Goodbye to my Favorite 5 Minute P1 - Allyson O'Malley - January 6, 2020](https://www.allysonomalley.com/2020/01/06/saying-goodbye-to-my-favorite-5-minute-p1/)
+- [Finding Hidden API Keys & How to use them - Sumit Jain - August 24, 2019](https://medium.com/@sumitcfe/finding-hidden-api-keys-how-to-use-them-11b1e5d0f01d)
+- [Private API key leakage due to lack of access control - yox - August 8, 2018](https://hackerone.com/reports/376060)
+- [Project Blacklist3r - November 23, 2018 - @notsosecure](https://www.notsosecure.com/project-blacklist3r/)
+- [Saying Goodbye to my Favorite 5 Minute P1 - Allyson O'Malley - January 6, 2020](https://www.allysonomalley.com/2020/01/06/saying-goodbye-to-my-favorite-5-minute-p1/)

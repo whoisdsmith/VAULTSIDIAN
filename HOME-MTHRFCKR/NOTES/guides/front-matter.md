@@ -1,6 +1,6 @@
 [![front matter](https://blog.bookbaby.com/wp-content/uploads/2019/11/FrontMatter_Banner-696x557.jpg "front matter")](https://blog.bookbaby.com/wp-content/uploads/2019/11/FrontMatter_Banner.jpg)
 
-## What you include in the front matter of your book depends on the information you want to impart to your reader to help enhance, explain, or set things up.
+## What you include in the front matter of your book depends on the information you want to impart to your reader to help enhance, explain, or set things up
 
 The front matter of a book is everything between the front cover and page one, where your story begins. All the information before that — the title pages, copyright page, prologue, etc. — make up the front matter. After that comes the body text, then the back matter.
 
@@ -28,11 +28,11 @@ The copyright page is usually the verso of the title page and has the copyright 
 
 Traditionally, the copyright page content is centered, starting half-way down the page, or justified on the left margin.
 
-#### You can also add:
+#### You can also add
 
 _All rights reserved. No part of this book may be reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopying, recording, or by any information storage and retrieval system without the written permission of the author, except where permitted by law._
 
-#### Fiction might include:
+#### Fiction might include
 
 _This is a work of fiction. Any resemblance to actual events or persons, living or dead, is entirely coincidental._
 
@@ -61,4 +61,3 @@ ___
 **Second half title.** In a book where the front matter is long, a second half title page (with just the title of the book) can serve to mark the end of the front matter and mark the start of the story. Though, sometimes a second half title page will be followed by an epigraph or illustration.
 
 Try pulling books off your shelf, fiction and nonfiction, and pay attention to how the front matter is handled to get an idea of how you’d like the introductory pages of your book to read. Then get to it!
-

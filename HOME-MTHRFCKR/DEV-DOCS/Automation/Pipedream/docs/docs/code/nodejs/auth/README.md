@@ -1,12 +1,12 @@
-# Connecting apps in Node.js 
+# Connecting apps in Node.js
 
 When you use [prebuilt actions](/components/actions/) tied to apps, you don't need to write the code to authorize API requests. Just [connect your account](/connected-accounts/#connecting-accounts) for that app and run your workflow.
 
 But sometimes you'll need to [write your own code](/code/nodejs/). You can also connect apps to custom code steps, using the auth information to authorize requests to that app.
 
-For example, you may want to send a Slack message from a step. We use Slack's OAuth integration to authorize sending messages from your workflows. 
+For example, you may want to send a Slack message from a step. We use Slack's OAuth integration to authorize sending messages from your workflows.
 
-To wire up a Slack account to a workflow, define it as a `prop` to the workflow. 
+To wire up a Slack account to a workflow, define it as a `prop` to the workflow.
 
 ```javascript
 import { WebClient } from '@slack/web-api'

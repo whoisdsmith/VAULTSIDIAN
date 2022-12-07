@@ -93,7 +93,7 @@
 * [Safe Substance](https://safesubstance.com/) - Drug Combination Info / Harm Reduction
 * [Stolen Camera Finder](https://www.stolencamerafinder.com/) - Find Stolen Cameras
 * [AFreeSMS](https://www.afreesms.com/freesms/) - Send Free Texts
-* [Parcelsapp](https://parcelsapp.com/en/) or [17Track ](https://www.17track.net/en)- International Package Tracking
+* [Parcelsapp](https://parcelsapp.com/en/) or [17Track](https://www.17track.net/en)- International Package Tracking
 * [Sweet Home 3D](http://www.sweethome3d.com/) - Interior Design App
 * [Interiorai](https://interiorai.com/) - AI Interior Design Tool
 * [EasyEDA](https://easyeda.com/editor) - Electronic Circuit Design Tool
@@ -1251,7 +1251,7 @@
 * [SteamRPC](https://github.com/Crementif/SteamRPC) - Convert Steam Rich Presence to Discord Rich Presence
 * [Discord-Linux](https://discord-linux.com/) - Linux Container Bot
 * [Discord.io](https://discord.io/) or [dsc.gg](https://dsc.gg/) - Create Custom Discord Invites
-* [1337x-Bot ](https://github.com/brandongallagher1999/1337x-Bot)- 1337x Discord Bot
+* [1337x-Bot](https://github.com/brandongallagher1999/1337x-Bot)- 1337x Discord Bot
 * [Chuu](https://github.com/ishwi/Chuu) or [FMcord](https://discord.bots.gg/bots/521041865999515650) - Last.fm Discord Bot
 * [fmbot](https://fmbot.xyz/) - Discord Voice Chat Scrobbling
 * [Craig](https://craig.chat/) - Voice Channel Recorder / [Backup](https://craig.chat/home/giarc)
@@ -1356,7 +1356,7 @@
 * [Shieldy Bot](https://t.me/shieldy\_bot) - Spam Protection Bot / [GitHub](https://github.com/1inch/shieldy)
 * [Telegram Scraper](https://www.telegramscraper.com/) - Telegram Member / Group Export
 * [Telegram Email](https://t.me/etlgr\_bot) - Send / Receive Emails via Telegram
-* [rss2tg\_bot ](https://t.me/rss2tg\_bot)- RSS Feed Bot
+* [rss2tg_bot](https://t.me/rss2tg\_bot)- RSS Feed Bot
 * [Telegago](https://cse.google.com/cse?\&cx=006368593537057042503:efxu7xprihg#gsc.tab=0) or [TG CSE](https://cse.google.com/cse?cx=006249643689853114236:a3iibfpwexa) - Telegram CSE
 * [ShortUrLinksbot](https://t.me/ShortUrLinksbot) or [ShortUrlBot](https://t.me/ShortUrlBot) - Link Shortener Bot
 * [TLG.NAME](https://www.tlg.name/) - Telegram Link Creator

@@ -18,8 +18,6 @@
 
 - [Prisma](https://www.prisma.io/)
 
-
-
 ## Audio
 
 - [AV Linux MX Edition – bandshed.net](http://www.bandshed.net/avlinux)
@@ -37,8 +35,6 @@
 - [mStream - Open Source Music Streaming](https://mstream.io/)
 
 - [Strix Music • Home](https://www.strixmusic.com/)
-
-
 
 ## Cloud Dev
 
@@ -70,13 +66,9 @@
 
 - [Workspaces — Gitpod](https://gitpod.io/workspaces)
 
-
-
 ## Decentralized
 
 - [Handshake](https://handshake.org/)
-
-
 
 ## Deployment
 
@@ -86,8 +78,6 @@
 
 - [Digger - One click AWS](https://digger.dev/)
 
-
-
 ## Search
 
 - [Hello: Search Engine for Developers](https://beta.sayhello.so/?ref=producthunt)
@@ -95,8 +85,6 @@
 - [Snipt: Code Snippets Search Engine](https://www.snipt.dev/)
 
 - [Search Aggregate](https://searchaggregate.com/)
-
-
 
 ## Tools
 

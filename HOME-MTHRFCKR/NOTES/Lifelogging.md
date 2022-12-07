@@ -91,9 +91,9 @@ had finished the work. Two main challenges to be tackled are
 shown as follows.
 ```
 
-1.  In natural conversation, people often use pronouns to de-  
+1. In natural conversation, people often use pronouns to de-  
     scribe objects that were previously mentioned.
-2.  Inferencing speaker’s life event may require information  
+2. Inferencing speaker’s life event may require information  
     from other speaker’s utterances.  
     For example, understanding that “this morning” in the third  
     utterance represents the time of S1 finishing the work depends  
@@ -113,7 +113,7 @@ shown as follows.
     strategies. The life events of speakers detected by our sys-  
     tem are based on the predictions of the three modules. The
 
-(^1) https://nlg.tw/ConvLogMiner  
+(^1) <https://nlg.tw/ConvLogMiner>  
 Demonstrations Track
 
 ```
@@ -189,12 +189,12 @@ Figure 2: System Overview of ConvLogMiner.
 details will be described in Section 2. The contributions of  
 this work are threefold as follows.
 
-1.  This work introduces a new direction of lifelogging to  
+1. This work introduces a new direction of lifelogging to  
     facilitate future research.
-2.  We construct a novel system to demonstrate life event  
+2. We construct a novel system to demonstrate life event  
     detection in the conversation in real-time. Experimental  
     results show promising performances are achieved.
-3.  In addition to the demonstration system, we also con-  
+3. In addition to the demonstration system, we also con-  
     struct a human-annotated conversational lifelog dataset.
 
 ## 2 ConvLogMiner
@@ -312,10 +312,10 @@ Table 1: Most frequent event types and their related predicates.
 turn of a conversation, an annotator is asked to label life  
 events appearing in the conversation by the following steps:
 
-1.  Whether the last utterance triggers one or more life  
+1. Whether the last utterance triggers one or more life  
     events in the conversation.
-2.  Specify the actor and the predicate of each life event.
-3.  According to FrameNet ontology\[Fillmoreet al., 2002\],  
+2. Specify the actor and the predicate of each life event.
+3. According to FrameNet ontology\[Fillmoreet al., 2002\],  
     select a suitable frame name as event type for each pred-  
     icate.  
     To verify the quality of annotations, we select 40 conversa-  

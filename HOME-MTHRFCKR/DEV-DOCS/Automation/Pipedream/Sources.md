@@ -4,21 +4,21 @@ Event sources operate primarily as workflow triggers. When you add a new app-bas
 
 Event sources run as their own resources, separate from workflows, for two reasons:
 
--   A single event sources can trigger more than one workflow. If you have a data source that you want to run _multiple_ workflows, you can create an event source once and use it as the trigger for each workflow.
--   If you need to consume events emitted by event sources in your own application, you don't need to run a workflow: you can use Pipedream's [REST API](https://pipedream.com/docs/api/rest/) or a [private, real-time SSE stream](https://pipedream.com/docs/api/sse/) to access the event data directly.
+- A single event sources can trigger more than one workflow. If you have a data source that you want to run _multiple_ workflows, you can create an event source once and use it as the trigger for each workflow.
+- If you need to consume events emitted by event sources in your own application, you don't need to run a workflow: you can use Pipedream's [REST API](https://pipedream.com/docs/api/rest/) or a [private, real-time SSE stream](https://pipedream.com/docs/api/sse/) to access the event data directly.
 
 You can view your event sources at [https://pipedream.com/sources (opens new window)](https://pipedream.com/sources). Here, you'll see the events a specific source has emitted, as well as the logs and configuration for that source.
 
--   [Overview](https://pipedream.com/docs/#overview)
--   [Creating event sources](https://pipedream.com/docs/#creating-event-sources)
-    -   [Creating a source from the UI](https://pipedream.com/docs/#creating-a-source-from-the-ui)
-    -   [Creating a source from the CLI](https://pipedream.com/docs/#creating-a-source-from-the-cli)
--   [Consuming events from sources](https://pipedream.com/docs/#consuming-events-from-sources)
--   [Example: HTTP source](https://pipedream.com/docs/#example-http-source)
--   [Example: Cron jobs](https://pipedream.com/docs/#example-cron-jobs)
--   [Example: RSS](https://pipedream.com/docs/#example-rss)
--   [Publishing a new event source, or modifying an existing source](https://pipedream.com/docs/#publishing-a-new-event-source-or-modifying-an-existing-source)
--   [Limits](https://pipedream.com/docs/#limits)
+- [Overview](https://pipedream.com/docs/#overview)
+- [Creating event sources](https://pipedream.com/docs/#creating-event-sources)
+  - [Creating a source from the UI](https://pipedream.com/docs/#creating-a-source-from-the-ui)
+  - [Creating a source from the CLI](https://pipedream.com/docs/#creating-a-source-from-the-cli)
+- [Consuming events from sources](https://pipedream.com/docs/#consuming-events-from-sources)
+- [Example: HTTP source](https://pipedream.com/docs/#example-http-source)
+- [Example: Cron jobs](https://pipedream.com/docs/#example-cron-jobs)
+- [Example: RSS](https://pipedream.com/docs/#example-rss)
+- [Publishing a new event source, or modifying an existing source](https://pipedream.com/docs/#publishing-a-new-event-source-or-modifying-an-existing-source)
+- [Limits](https://pipedream.com/docs/#limits)
 
 ## [#](https://pipedream.com/docs/#overview) Overview
 
@@ -54,9 +54,9 @@ You can also trigger a [Pipedream workflow](https://pipedream.com/docs/workflows
 
 Finally, you can consume events programmatically, outside the Pipedream platform, in a few different ways:
 
--   In real-time, using the [SSE stream](https://pipedream.com/docs/api/sse/) linked to your source
--   In real-time, via the CLI's [`pd events` command](https://pipedream.com/docs/api/sse/#subscribe-to-new-events-using-the-pipedream-cli)
--   In batch, using the [REST API](https://pipedream.com/docs/#rest-api)
+- In real-time, using the [SSE stream](https://pipedream.com/docs/api/sse/) linked to your source
+- In real-time, via the CLI's [`pd events` command](https://pipedream.com/docs/api/sse/#subscribe-to-new-events-using-the-pipedream-cli)
+- In batch, using the [REST API](https://pipedream.com/docs/#rest-api)
 
 ## [#](https://pipedream.com/docs/#example-http-source) Example: HTTP source
 
@@ -64,9 +64,9 @@ The simplest event source is an **HTTP source**.
 
 When you create an HTTP source:
 
--   You get a unique HTTP endpoint that you can send any HTTP request to.
--   You can view the details of any HTTP request sent to your endpoint: its payload, headers, and more.
--   You can delete the source and its associated events once you're done.
+- You get a unique HTTP endpoint that you can send any HTTP request to.
+- You can view the details of any HTTP request sent to your endpoint: its payload, headers, and more.
+- You can delete the source and its associated events once you're done.
 
 HTTP sources are essentially [request bins (opens new window)](https://requestbin.com/) that can be managed via API.
 

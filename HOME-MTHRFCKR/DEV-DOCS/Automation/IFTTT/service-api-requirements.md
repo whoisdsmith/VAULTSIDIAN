@@ -14,8 +14,8 @@ Designate an **API URL prefix** for all of your API endpoints in your service co
 
 ###### Examples
 
--   https://api.service.com
--   https://service.com/api
+- <https://api.service.com>
+- <https://service.com/api>
 
 ###### Endpoint paths
 
@@ -23,21 +23,20 @@ Endpoints are scoped to the current version of the IFTTT Service Protocol by app
 
 ###### Examples
 
--   {{api\_url\_prefix}}/ifttt/v1/triggers/any\_new\_photo
--   {{api\_url\_prefix}}/ifttt/v1/actions/post\_photo
+- {{api\_url\_prefix}}/ifttt/v1/triggers/any\_new\_photo
+- {{api\_url\_prefix}}/ifttt/v1/actions/post\_photo
 
 Use **UTF-8** as the response encoding and support HTTP-level **compression**. Requests from IFTTT to your service API have the following headers:
 
 ###### Headers
 
--   ```
+- ```
     
     Accept:          application/json
     Accept-Charset:  utf-8
     Accept-Encoding: gzip, deflate
     Content-Type:    application/json
     ```
-    
 
 ###### HTTP status codes
 
@@ -58,15 +57,13 @@ Provide response bodies as **JSON objects**. Success responses have a top-level 
 
 ###### Raw body on success
 
--   `` ``` {   "data": {     // The value of `data` varies, but is typically     // either an object or array     ...   } }  ``` ``
-    
+- `` ``` {   "data": {     // The value of `data` varies, but is typically     // either an object or array     ...   } }  ``` ``
 
 Error responses have a top-level `errors` array. Each element of `errors` is an object with a `message` property whose value is a user-friendly error message.
 
 ###### Raw body on error
 
--   ` ``` {   "errors": [     {       "message": "Something went wrong!"     }   ] }  ``` `
-    
+- ` ``` {   "errors": [     {       "message": "Something went wrong!"     }   ] }  ``` `
 
 ### Service authentication
 
@@ -74,8 +71,8 @@ If your service requires user authentication, users must connect your service be
 
 Service authentication has two steps:
 
-1.  [Authentication flow](https://ifttt.com/docs/api_reference#authentication-flow). This step authorizes IFTTT to make requests to your service API on behalf of the user.
-2.  Fetching and storing basic [user information](https://ifttt.com/docs/api_reference#user-information) from your service API.
+1. [Authentication flow](https://ifttt.com/docs/api_reference#authentication-flow). This step authorizes IFTTT to make requests to your service API on behalf of the user.
+2. Fetching and storing basic [user information](https://ifttt.com/docs/api_reference#user-information) from your service API.
 
 **Note:** If your service interacts with user data, authentication is required. Trigger/query/action fields designed to circumvent that requirement (ex. a user's API key) will not be approved.
 
@@ -97,52 +94,49 @@ To begin authentication, IFTTT redirects the user to your **OAuth2 Authorization
 
 ###### Request
 
--   Method
-    
+- Method
+
     GET
-    
+
     URL
-    
+
     Your OAuth2 Authorization URL
-    
 
 ###### Parameters
 
--   client\_id
-    
+- client\_id
+
     IFTTT’s client ID for your service as set in your service configuration.
-    
+
     response\_type
-    
+
     code
-    
+
     scope
-    
+
     ifttt
-    
+
     The ifttt scope should provide access to resources for every trigger and action in your service. This way, users will not need to repeat the authentication flow to use all of your queries, triggers, and actions.
-    
+
     You may override this parameter by specifying your own scope in the OAuth2 Authorization URL specified in the Service Authentication settings.
-    
+
     state
-    
+
     An anti-forgery token provided by IFTTT.
-    
+
     redirect\_uri
-    
+
     `https://ifttt.com/channels/{{service_id}}/authorize`
-    
+
     `service_id` is a string used to represent your service in URLs. You can set in your service configuration.
-    
+
     Though we provide the `redirect_uri` parameter, we encourage you to always use the redirect URL provided in [Authentication settings](https://platform.ifttt.com/mkt/api%2Fauthentication) over simply redirecting users to the parameter’s value.
-    
 
 ###### Example
 
--   ```
+- ```
     https://api.example-service.org/oauth2/authorize?client_id=94b26e58a3a88d5c&response_type=code&redirect_uri=https%3A%2F%2Fifttt.com%2Fchannels%2Fexample_channel%2Fauthorize&scope=ifttt&state=a00caec8dbd08e50
     ```
-    
 
 ###### Response
 
@@ -156,26 +150,24 @@ Once a user authorizes IFTTT, you should redirect the user to IFTTT’s **channe
 
 ###### URL
 
--   `https://ifttt.com/channels/{{service_id}}/authorize`  
+- `https://ifttt.com/channels/{{service_id}}/authorize`  
     The `service_id` is a string used to represent your service in URLs. You can set it in your service configuration.
 
 ###### Parameters
 
--   code
-    
+- code
+
     The authorization code you generated.
-    
+
     state
-    
+
     The anti-forgery token provided by IFTTT in the original request.
-    
 
 ###### Example
 
--   ```
+- ```
     https://ifttt.com/channels/example_channel/authorize?code=67a8ad40341224c1&state=a00caec8dbd08e50
     ```
-    
 
 ###### User denies IFTTT
 
@@ -183,22 +175,20 @@ Should the user deny IFTTT access to your service, you should redirect them to I
 
 ###### Request
 
--   URL
-    
+- URL
+
     `https://ifttt.com/channels/{{service_id}}/authorize`  
     `service_id` is a string used to represent your service in URLs. You can set it in your service configuration.
-    
+
     Parameters
-    
+
     `error` access\_denied
-    
 
 ###### Example
 
--   ```
+- ```
     https://ifttt.com/channels/example_channel/authorize?error=access_denied
     ```
-    
 
 ###### Token exchange
 
@@ -208,31 +198,30 @@ After IFTTT has received an authorization code for the user, it will make a `POS
 
 ###### Body Parameters
 
--   grant\_type
-    
+- grant\_type
+
     authorization\_code
-    
+
     code
-    
+
     The authorization code generated earlier in this flow.
-    
+
     client\_id
-    
+
     IFTTT’s client ID for your service as set in your service configuration.
-    
+
     client\_secret
-    
+
     IFTTT’s client secret for your service as set in your service configuration.
-    
+
     redirect\_uri
-    
+
     https://ifttt.com/channels/{{service\_id}}/authorize  
     `service_id` is a string used to represent your service in URLs. You can set it in your service configuration.
-    
 
 ###### Example
 
--   ```
+- ```
     
     POST /oauth2/token HTTP/1.1
     Host: api.example-service.com
@@ -240,7 +229,6 @@ After IFTTT has received an authorization code for the user, it will make a `POS
     
     grant_type=authorization_code&code=67a8ad40341224c1&client_id=83465ab42&client_secret=c4f7defe91df9b23&redirect_uri=https%3A//ifttt.com/channels/service_id/authorize
     ```
-    
 
 ###### Response
 
@@ -248,33 +236,31 @@ If the authorization code is **valid**, provide the following response:
 
 ###### HTTP
 
--   Status
-    
+- Status
+
     200
-    
+
     Headers
-    
+
     `Content-Type application/json; charset=utf-8`
-    
 
 ###### Body
 
--   `token_type`
-    
+- `token_type`
+
     Bearer
-    
+
     `access_token`
-    
+
     A token IFTTT will use to make authenticated calls to your API.
-    
+
     `refresh_token`
-    
+
     (optional) If enabled, refresh token IFTTT will use to refresh access tokens.
-    
 
 ###### Example
 
--   ```
+- ```
     
     HTTP/1.1 200 OK
     Content-Type: application/json; charset=utf-8
@@ -284,35 +270,32 @@ If the authorization code is **valid**, provide the following response:
       "access_token": "b29a71b4c58c22af116578a6be6402d2"
     }
     ```
-    
 
 If the authorization code is **not valid**, respond with a 400 status code and body as shown in the following example:
 
 ###### HTTP
 
--   Status
-    
+- Status
+
     400
-    
+
     Headers
-    
+
     `Content-Type application/json; charset=utf-8`
-    
 
 ###### Body
 
--   `error`
-    
+- `error`
+
     invalid\_grant
-    
+
     `error_description`
-    
+
     (optional) Description of the error. Do not disclose specific tokens or authentication codes here
-    
 
 ###### Example
 
--   ```
+- ```
     
     HTTP/1.1 400 OK
     Content-Type: application/json; charset=utf-8
@@ -322,7 +305,6 @@ If the authorization code is **not valid**, respond with a 400 status code and b
       "error_description": "The code or token used is not valid"
     }
     ```
-    
 
 ### Refresh Tokens
 
@@ -338,41 +320,39 @@ After token expiry, IFTTT will make a `POST` request to your **OAuth2 Token Endp
 
 ###### HTTP
 
--   Method
-    
+- Method
+
     POST
-    
+
     URL
-    
+
     OAuth2 Token Endpoint
-    
+
     Headers
-    
+
     `Content-Type application/x-www-form-urlencoded`
-    
 
 ###### Body
 
--   `grant_type`
-    
+- `grant_type`
+
     refresh\_token
-    
+
     `client_id`
-    
+
     IFTTT’s client ID for your service as set in your service configuration.
-    
+
     `client_secret`
-    
+
     IFTTT’s client secret for your service as set in your service configuration.
-    
+
     `refresh_token`
-    
+
     The refresh token retrieved in the [token exchange](https://ifttt.com/docs/api_reference#token-exchange) step of the [Authentication Flow](https://ifttt.com/docs/api_reference#authentication-flow)
-    
 
 ###### Example
 
--   ```
+- ```
     
     POST /oauth2/token HTTP/1.1
     Host: api.example-service.com
@@ -380,7 +360,6 @@ After token expiry, IFTTT will make a `POST` request to your **OAuth2 Token Endp
     
     grant_type=refresh_token&client_id=83465ab42&client_secret=c4f7defe91df9b23&refresh_token=c8764378d9879ffeadfcc233effafb23bbdbfe
     ```
-    
 
 ###### Response
 
@@ -388,29 +367,27 @@ If the refresh token is **valid**, provide the following response:
 
 ###### HTTP
 
--   Status
-    
+- Status
+
     200
-    
+
     Headers
-    
+
     `Content-Type: application/json; charset=utf-8`
-    
 
 ###### Body
 
--   `access_token`
-    
+- `access_token`
+
     The updated access token.
-    
+
     `refresh_token`
-    
+
     The updated refresh token.
-    
 
 ###### Example
 
--   ```
+- ```
     
     HTTP/1.1 200 OK
     Content-Type: application/json; charset=utf-8
@@ -420,35 +397,32 @@ If the refresh token is **valid**, provide the following response:
       "refresh_token": "d7676beda76c38762349bac98cba799"
     }
     ```
-    
 
 If the refresh token is **not valid**, respond with a 400 status code and body as shown in the following example:
 
 ###### HTTP
 
--   Status
-    
+- Status
+
     400
-    
+
     Headers
-    
+
     `Content-Type application/json; charset=utf-8`
-    
 
 ###### Body
 
--   `error`
-    
+- `error`
+
     invalid\_grant
-    
+
     `error_description`
-    
+
     (optional) Description of the error. Do not disclose specific tokens or authentication codes here
-    
 
 ###### Example
 
--   ```
+- ```
     
     HTTP/1.1 400 OK
     Content-Type: application/json; charset=utf-8
@@ -458,7 +432,6 @@ If the refresh token is **not valid**, respond with a 400 status code and body a
       "error_description": "The code or token used is not valid"
     }
     ```
-    
 
 ### User information
 
@@ -470,16 +443,16 @@ Occasionally, IFTTT will make requests to this endpoint to verify that the user�
 
 ###### HTTP
 
--   Method
-    
+- Method
+
     GET
-    
+
     URL
-    
+
     `{{api_url_prefix}}/ifttt/v1/user/info`
-    
+
     Headers
-    
+
     ```
     
     Authorization: Bearer {{user_access_token}}
@@ -488,11 +461,10 @@ Occasionally, IFTTT will make requests to this endpoint to verify that the user�
     Accept-Encoding: gzip, deflate
     X-Request-ID: {{random_uuid}}
     ```
-    
 
 ###### Example
 
--   ```
+- ```
     
     GET /ifttt/v1/user/info HTTP/1.1
     Host: api.example-service.com
@@ -502,7 +474,6 @@ Occasionally, IFTTT will make requests to this endpoint to verify that the user�
     Accept-Encoding: gzip, deflate
     X-Request-ID: 434d757081c94013b1b28f2087d28a98
     ```
-    
 
 ###### Response
 
@@ -510,35 +481,33 @@ Requests to the user information endpoint should generate the following response
 
 ###### HTTP
 
--   Status
-    
+- Status
+
     200
-    
+
     Headers
-    
+
     `Content-Type: application/json; charset=utf-8`
-    
 
 The body of the response is a JSON object with one top-level field, `data`, with three fields:
 
 ###### Body
 
--   `name`
-    
+- `name`
+
     (string) Full name, username, email, or other identification to display to the user.
-    
+
     `id`
-    
+
     (string) An unchangeable, permanent identifier to uniquely identify the resource owner within your service. We advise against using access tokens, emails, usernames, or phone numbers for this as the identifier cannot be changed. \*\*Up to 200 characters.\*\*
-    
+
     `url`
-    
+
     (optional string) URL to user’s dashboard or configuration page on your service’s website.
-    
 
 ###### Example
 
--   ```
+- ```
     
     HTTP/1.1 200 OK
     Content-Type: application/json; charset=utf-8
@@ -551,7 +520,6 @@ The body of the response is a JSON object with one top-level field, `data`, with
       }
     }
     ```
-    
 
 As with all other endpoints which require authentication via access token, you should return a [401 status](https://ifttt.com/docs/api_reference#http-status-codes) to indicate that the access token is invalid or expired.
 
@@ -569,18 +537,17 @@ To fetch new items IFTTT will make the following request to your **trigger endpo
 
 ###### HTTP
 
--   Method
-    
+- Method
+
     POST
-    
+
     URL
-    
+
     `{{api_url_prefix}}/ifttt/v1/triggers/{{trigger_slug}}`
-    
 
 ###### Headers (authenticated services)
 
--   ```
+- ```
     
     Authorization: Bearer {{user_access_token}}
     Accept: application/json
@@ -589,11 +556,10 @@ To fetch new items IFTTT will make the following request to your **trigger endpo
     Content-Type: application/json
     X-Request-ID: {{random_uuid}}
     ```
-    
 
 ###### Headers (non-authenticated services)
 
--   ```
+- ```
     
     IFTTT-Service-Key: {{ifttt_service_key}}
     Accept: application/json
@@ -602,36 +568,34 @@ To fetch new items IFTTT will make the following request to your **trigger endpo
     Content-Type: application/json
     X-Request-ID: {{random_uuid}}
     ```
-    
 
 ###### Body
 
--   `trigger_identity`
-    
+- `trigger_identity`
+
     (string) A unique identifier for this set of trigger fields for a given Applet (see [Trigger Identity](https://ifttt.com/docs/api_reference#trigger-identity)).
-    
+
     `triggerFields`
-    
+
     (object) Map of trigger field slugs to values.
-    
+
     `limit`
-    
+
     (optional integer) Maximum number of items to be returned, default 50.
-    
+
     `user`
-    
+
     (object) Information about the IFTTT user related to this request.
-    
+
     `ifttt_source`
-    
+
     (optional object) Information about the personal Applet on IFTTT that triggered this request. If present, this will have an id uniquely identifying the Applet and a url pointing to a web page describing it. Note that only the user will be able to see this page, since personal Applets are private. In the future, these fields may point to an entity other than a personal Applet.
-    
 
 This example excludes the optional limit parameter. Only the 50 most recent items should be returned, in descending chronological order.
 
 ###### EXAMPLE: default limit
 
--   ```
+- ```
     
     POST /ifttt/v1/triggers/new_photo_in_album_with_hashtag HTTP/1.1
     Host: api.example-service.com
@@ -657,13 +621,12 @@ This example excludes the optional limit parameter. Only the 50 most recent item
       }
     }
     ```
-    
 
 This example provides the limit parameter.
 
 ###### EXAMPLE: explicit limit
 
--   ```
+- ```
     
     POST /ifttt/v1/triggers/new_photo_in_album_with_hashtag HTTP/1.1
     Host: api.example-service.com
@@ -689,34 +652,32 @@ This example provides the limit parameter.
       }
     }
     ```
-    
 
 ###### Response
 
 Responses contain an array of item objects. Items are **a stream of unique events on a timeline**, and each item has:
 
--   One field for every [ingredient](https://ifttt.com/docs/api_reference#ingredients) in the trigger.
--   A **unique identifier** used to prevent Applets from firing more than once on the same item.
--   A **timestamp** in Unix seconds. Items in the stream must be in **descending** order by the timestamp.
+- One field for every [ingredient](https://ifttt.com/docs/api_reference#ingredients) in the trigger.
+- A **unique identifier** used to prevent Applets from firing more than once on the same item.
+- A **timestamp** in Unix seconds. Items in the stream must be in **descending** order by the timestamp.
 
 Responses should be structured as follows:
 
 ###### HTTP
 
--   Status
-    
+- Status
+
     200
-    
+
     Headers
-    
+
     `Content-Type application/json; charset=utf-8`
-    
 
 For the Body you get a JSON object which contains an array, data, of item objects. Items have one key-value pair for each ingredient slug and value, and a meta object with two fields:
 
 ###### BODY
 
--   ```
+- ```
     
       "data": [
         {
@@ -731,11 +692,10 @@ For the Body you get a JSON object which contains an array, data, of item object
         }
       ]
     ```
-    
 
 ###### Response Example
 
--   ```
+- ```
     
     HTTP/1.1 200 OK
     Content-Type: application/json; charset=utf-8
@@ -763,7 +723,6 @@ For the Body you get a JSON object which contains an array, data, of item object
       ]
     }
     ```
-    
 
 ### Trigger Identity
 
@@ -777,32 +736,31 @@ Note that this field can safely be ignored. However, it becomes powerful when us
 
 Consider the following hypothetical publish/subscribe scenario for a connected car product:
 
-1.  A user creates an Applet (or many Applets) that trigger on “Check Engine Light”.
-2.  The trigger endpoint is immediately called and the API stores the `trigger_identity` for that user and associates that value with a “Check Engine Light” event on their vehicle.
-3.  The API notifies the vehicle that it wants to subscribe to “Check Engine Light” events and the vehicle begins sending this data to the cloud.
-4.  At some point in the future, a user deletes or updates their Applet(s) such that they no longer have any Applets that trigger on the event “Check Engine Light”.
-5.  IFTTT calls the `DELETE` endpoint (example below).
-6.  The API does a lookup on `trigger_identity` for that user and notifies the associated vehicle to stop sending “Check Engine Light” events.
-7.  The API may then clean up or remove the storage of all the events associated with “Check Engine Light” for that user.
+1. A user creates an Applet (or many Applets) that trigger on “Check Engine Light”.
+2. The trigger endpoint is immediately called and the API stores the `trigger_identity` for that user and associates that value with a “Check Engine Light” event on their vehicle.
+3. The API notifies the vehicle that it wants to subscribe to “Check Engine Light” events and the vehicle begins sending this data to the cloud.
+4. At some point in the future, a user deletes or updates their Applet(s) such that they no longer have any Applets that trigger on the event “Check Engine Light”.
+5. IFTTT calls the `DELETE` endpoint (example below).
+6. The API does a lookup on `trigger_identity` for that user and notifies the associated vehicle to stop sending “Check Engine Light” events.
+7. The API may then clean up or remove the storage of all the events associated with “Check Engine Light” for that user.
 
 ###### Request
 
 ###### HTTP
 
--   Method
-    
+- Method
+
     DELETE
-    
+
     URL
-    
+
     ```
     {{api_url_prefix}}/ifttt/v1/triggers/{{trigger_slug}}/trigger_identity/{{trigger_identity}}
     ```
-    
 
 ###### Headers (authenticated services)
 
--   ```
+- ```
     
     Authorization: Bearer {{user_access_token}}
     Accept: application/json
@@ -811,11 +769,10 @@ Consider the following hypothetical publish/subscribe scenario for a connected c
     Content-Type: application/json
     X-Request-ID: {{random_uuid}}
     ```
-    
 
 ###### Example
 
--   ```
+- ```
     
     DELETE /ifttt/v1/triggers/new_photo_in_album_with_hashtag/trigger_identity/92429d82a41e93048 HTTP/1.1
     Host: api.example-service.com
@@ -826,29 +783,26 @@ Consider the following hypothetical publish/subscribe scenario for a connected c
     Content-Type: application/json
     X-Request-ID: 7f7cd9e0d8154531bbf36da8fe24b449
     ```
-    
 
 ###### Response
 
 ###### HTTP
 
--   Status
-    
+- Status
+
     200
-    
+
     Headers
-    
+
     `Content-Type: application/json; charset=utf-8`
-    
 
 ###### Example
 
--   ```
+- ```
     
     HTTP/1.1 200 OK
     Content-Type: application/json; charset=utf-8
     ```
-    
 
 ### Realtime API
 
@@ -870,18 +824,17 @@ We also recommend that you send an `X-Request-ID` header with a UUID. Should the
 
 ###### HTTP
 
--   Method
-    
+- Method
+
     POST
-    
+
     URL
-    
+
     `https://realtime.ifttt.com/v1/notifications`
-    
 
 ###### Headers
 
--   ```
+- ```
     
     IFTTT-Service-Key: {{ifttt_service_key}}
     Accept: application/json
@@ -890,20 +843,18 @@ We also recommend that you send an `X-Request-ID` header with a UUID. Should the
     Content-Type: application/json
     X-Request-ID: {{random_uuid}}
     ```
-    
 
 A JSON object which contains an array, `data`, of objects which each have a `user_id` or `trigger_identity`:
 
 ###### Body
 
--   data\[user\_id\]
-    
+- data\[user\_id\]
+
     (string) The same id for the user that is returned by your user information endpoint.
-    
+
     data\[trigger\_identity\]
-    
+
     (string) A unique identifier for a given set of trigger fields, sent to your API with every trigger endpoint request.
-    
 
 **Using `trigger_identity` will improve the performance of your integration with IFTTT**. When the IFTTT Realtime API receives a `user_id` each of that user's triggers must be polled for, even though likely only a few of them have fresh data. For example, if a user had 100 Applets using your service's triggers, when that `user_id` is sent to the Realtime API IFTTT will need to run 100 checks for fresh data. This is a lot of extra time spent processing for both you and IFTTT, and reducing this time means your users' Applets will run faster. By using `trigger_identity`, IFTTT can poll your service for only the relevant fresh data.
 
@@ -911,7 +862,7 @@ The Realtime request can contain up to 1000 user\_ids and/or trigger\_identities
 
 ###### Example
 
--   ```
+- ```
     
     POST /v1/notifications HTTP/1.1
     Host: realtime.ifttt.com
@@ -937,7 +888,6 @@ The Realtime request can contain up to 1000 user\_ids and/or trigger\_identities
       ]
     }
     ```
-    
 
 ### Trigger fields
 
@@ -945,8 +895,8 @@ Trigger fields can have a [**dynamic validation of a text input**](https://ifttt
 
 With a drop-down, we provide two different choices:
 
-1.  A dynamic drop-down selector. We provide you with a unique API endpoint based on the trigger field's name you can use to dynamically grab the list of options from your server.
-2.  A manual drop-down to manually add a list of options that the user can select from.
+1. A dynamic drop-down selector. We provide you with a unique API endpoint based on the trigger field's name you can use to dynamically grab the list of options from your server.
+2. A manual drop-down to manually add a list of options that the user can select from.
 
 It is possible to validate all trigger fields using a single unique endpoint using [**contextual validation**](https://ifttt.com/docs/api_reference#trigger-field-contextual-validation).
 
@@ -962,18 +912,17 @@ For **drop-down selector** trigger fields, you can dynamically provide user-spec
 
 ###### HTTP
 
--   Method
-    
+- Method
+
     POST
-    
+
     URL
-    
+
     `{{api_url_prefix}}/ifttt/v1/triggers/{{trigger_slug}}/fields/{{trigger_field_slug}}/options`
-    
 
 ###### Headers (authenticated services)
 
--   ```
+- ```
     
     Authorization: Bearer {{user_access_token}}
     Accept: application/json
@@ -981,11 +930,10 @@ For **drop-down selector** trigger fields, you can dynamically provide user-spec
     Accept-Encoding: gzip, deflate
     X-Request-ID: {{random_uuid}}
     ```
-    
 
 ###### Headers (non-authenticated services)
 
--   ```
+- ```
     
     IFTTT-Service-Key: {{ifttt_service_key}}
     Accept: application/json
@@ -993,11 +941,10 @@ For **drop-down selector** trigger fields, you can dynamically provide user-spec
     Accept-Encoding: gzip, deflate
     X-Request-ID: {{random_uuid}}
     ```
-    
 
 ###### Example
 
--   ```
+- ```
     
     POST /ifttt/v1/triggers/new_photo_in_album_with_hashtag/fields/album_name/options HTTP/1.1
     Host: api.example-service.com
@@ -1009,7 +956,6 @@ For **drop-down selector** trigger fields, you can dynamically provide user-spec
     
     {}
     ```
-    
 
 ###### Response
 
@@ -1017,31 +963,29 @@ Your trigger field’s dynamic options endpoint should generate the following re
 
 ###### HTTP
 
--   Status
-    
+- Status
+
     200
-    
+
     Headers
-    
+
     `Content-Type: application/json; charset=utf-8`
-    
 
 A JSON object which contains an array, `data`, of option objects:
 
 ###### Body
 
--   label
-    
+- label
+
     (string) A user-facing label.
-    
+
     value
-    
+
     (string) The actual field value.
-    
 
 ###### Example
 
--   ```
+- ```
     
     HTTP/1.1 200 OK
     Content-Type: application/json; charset=utf-8
@@ -1072,7 +1016,6 @@ A JSON object which contains an array, `data`, of option objects:
       ]
     }
     ```
-    
 
 ##### Dynamic checkboxes
 
@@ -1084,18 +1027,17 @@ For **checkbox** trigger fields, you can dynamically provide user-specific optio
 
 ###### HTTP
 
--   Method
-    
+- Method
+
     POST
-    
+
     URL
-    
+
     `{{api_url_prefix}}/ifttt/v1/triggers/{{trigger_slug}}/fields/{{trigger_field_slug}}/options`
-    
 
 ###### Headers (authenticated services)
 
--   ```
+- ```
     
     Authorization: Bearer {{user_access_token}}
     Accept: application/json
@@ -1103,11 +1045,10 @@ For **checkbox** trigger fields, you can dynamically provide user-specific optio
     Accept-Encoding: gzip, deflate
     X-Request-ID: {{random_uuid}}
     ```
-    
 
 ###### Headers (non-authenticated services)
 
--   ```
+- ```
     
     IFTTT-Service-Key: {{ifttt_service_key}}
     Accept: application/json
@@ -1115,11 +1056,10 @@ For **checkbox** trigger fields, you can dynamically provide user-specific optio
     Accept-Encoding: gzip, deflate
     X-Request-ID: {{random_uuid}}
     ```
-    
 
 ###### Example
 
--   ```
+- ```
     
     POST /ifttt/v1/triggers/new_photo_in_album_with_hashtag/fields/album_name/options HTTP/1.1
     Host: api.example-service.com
@@ -1131,7 +1071,6 @@ For **checkbox** trigger fields, you can dynamically provide user-specific optio
     
     {}
     ```
-    
 
 ###### Response
 
@@ -1139,31 +1078,29 @@ Your trigger field’s dynamic options endpoint should generate the following re
 
 ###### HTTP
 
--   Status
-    
+- Status
+
     200
-    
+
     Headers
-    
+
     `Content-Type: application/json; charset=utf-8`
-    
 
 A JSON object which contains an array, `data`, of option objects:
 
 ###### Body
 
--   label
-    
+- label
+
     (string) A user-facing label.
-    
+
     value
-    
+
     (string) The actual field value.
-    
 
 ###### Example
 
--   ```
+- ```
     
     HTTP/1.1 200 OK
     Content-Type: application/json; charset=utf-8
@@ -1194,7 +1131,6 @@ A JSON object which contains an array, `data`, of option objects:
       ]
     }
     ```
-    
 
 ##### Trigger field dynamic validation
 
@@ -1204,18 +1140,17 @@ For **text** trigger fields, you can dynamically validate user input. IFTTT will
 
 ###### HTTP
 
--   Method
-    
+- Method
+
     POST
-    
+
     URL
-    
+
     `{{api_url_prefix}}/ifttt/v1/triggers/{{trigger_slug}}/fields/{{trigger_field_slug}}/validate`
-    
 
 ###### Headers (authenticated services)
 
--   ```
+- ```
     
     Authorization: Bearer {{user_access_token}}
     Accept: application/json
@@ -1223,11 +1158,10 @@ For **text** trigger fields, you can dynamically validate user input. IFTTT will
     Accept-Encoding: gzip, deflate
     X-Request-ID: {{random_uuid}}
     ```
-    
 
 ###### Headers (non-authenticated services)
 
--   ```
+- ```
     
     IFTTT-Service-Key: {{ifttt_service_key}}
     Accept: application/json
@@ -1235,18 +1169,16 @@ For **text** trigger fields, you can dynamically validate user input. IFTTT will
     Accept-Encoding: gzip, deflate
     X-Request-ID: {{random_uuid}}
     ```
-    
 
 ###### Body
 
--   value
-    
+- value
+
     (string) User input to be validated
-    
 
 ###### Example
 
--   ```
+- ```
     
     POST /ifttt/v1/triggers/new_photo_in_album_with_hashtag/fields/album_name/validate HTTP/1.1
     Host: api.example-service.com
@@ -1261,7 +1193,6 @@ For **text** trigger fields, you can dynamically validate user input. IFTTT will
       "value": "Street Art"
     }
     ```
-    
 
 ###### Response
 
@@ -1269,31 +1200,29 @@ Your trigger field’s dynamic validation endpoint should generate the following
 
 ###### HTTP
 
--   Status
-    
+- Status
+
     200, regardless of whether or not the user input is valid
-    
+
     Headers
-    
+
     `Content-Type: application/json; charset=utf-8`
-    
 
 For the body you get a JSON object which contains an object, `data`:
 
 ###### Body
 
--   data\[valid\]
-    
+- data\[valid\]
+
     (boolean) Validity of user’s input.
-    
+
     data\[message\]
-    
+
     (optional string) Explanation to display to user if input was invalid.
-    
 
 ###### Example: Valid Input
 
--   ```
+- ```
     
     HTTP/1.1 200 OK
     Content-Type: application/json; charset=utf-8
@@ -1304,11 +1233,10 @@ For the body you get a JSON object which contains an object, `data`:
       }
     }
     ```
-    
 
 ###### Example: Invalid Input
 
--   ```
+- ```
     
     HTTP/1.1 200 OK
     Content-Type: application/json; charset=utf-8
@@ -1320,7 +1248,6 @@ For the body you get a JSON object which contains an object, `data`:
       }
     }
     ```
-    
 
 ##### Trigger field contextual validation
 
@@ -1334,18 +1261,17 @@ IFTTT will make the following request to your service API:
 
 ###### HTTP
 
--   Method
-    
+- Method
+
     POST
-    
+
     URL
-    
+
     `{{api_url_prefix}}/ifttt/v1/triggers/{{trigger_slug}}/validate`
-    
 
 ###### Headers (authenticated services)
 
--   ```
+- ```
     
     Authorization: Bearer {{user_access_token}}
     Accept: application/json
@@ -1353,11 +1279,10 @@ IFTTT will make the following request to your service API:
     Accept-Encoding: gzip, deflate
     X-Request-ID: {{random_uuid}}
     ```
-    
 
 ###### Headers (non-authenticated services)
 
--   ```
+- ```
     
     IFTTT-Service-Key: {{ifttt_service_key}}
     Accept: application/json
@@ -1365,18 +1290,16 @@ IFTTT will make the following request to your service API:
     Accept-Encoding: gzip, deflate
     X-Request-ID: {{random_uuid}}
     ```
-    
 
 ###### Body
 
--   values
-    
+- values
+
     (object) Trigger fields with their values
-    
 
 ###### Example
 
--   ```
+- ```
     
     POST /ifttt/v1/triggers/new_comment_on_card/validate HTTP/1.1
     Host: api.example-service.com
@@ -1394,15 +1317,14 @@ IFTTT will make the following request to your service API:
       }
     }
     ```
-    
 
 ###### Example
 
 The use of contextual validation comes in handy when a trigger field needs to be validated, but the validation depends on another trigger field. Take the following scenario:
 
-1.  The trigger has two trigger fields, `board` and `card`.
-2.  The `board` name is unique, and a `card` exists within a `board`. However, cards can have the same name across different boards.
-3.  Validating that the `card` exists becomes simple because the value of `board` is known.
+1. The trigger has two trigger fields, `board` and `card`.
+2. The `board` name is unique, and a `card` exists within a `board`. However, cards can have the same name across different boards.
+3. Validating that the `card` exists becomes simple because the value of `board` is known.
 
 If [**dynamic validation**](https://ifttt.com/docs/api_reference#trigger-field-dynamic-validation) is used for the `card` trigger field, it is difficult to know which `card` the user intends to trigger on during validation if the user has multiple `cards` with the same name.
 
@@ -1412,27 +1334,25 @@ Your trigger’s contextual validation endpoint should generate the following re
 
 ###### HTTP
 
--   Status
-    
+- Status
+
     200, regardless of whether or not the user input is valid
-    
+
     Headers
-    
+
     `Content-Type: application/json; charset=utf-8`
-    
 
 For the body you get a JSON object which contains an object, `data`:
 
 ###### Body
 
--   data
-    
+- data
+
     (object) [dynamic validation](https://ifttt.com/docs/api_reference#trigger-field-dynamic-validation) objects for each trigger field.
-    
 
 ###### Example: Valid Input
 
--   ```
+- ```
     
     HTTP/1.1 200 OK
     Content-Type: application/json; charset=utf-8
@@ -1448,11 +1368,10 @@ For the body you get a JSON object which contains an object, `data`:
       }
     }
     ```
-    
 
 ###### Example: Invalid Input
 
--   ```
+- ```
     
     HTTP/1.1 200 OK
     Content-Type: application/json; charset=utf-8
@@ -1469,7 +1388,6 @@ For the body you get a JSON object which contains an object, `data`:
       }
     }
     ```
-    
 
 ##### Location-based input
 
@@ -1477,7 +1395,7 @@ Location-based trigger fields enable users to specify whether Applets should run
 
 ###### Example
 
--   ```
+- ```
     "triggerFields": {
       "location": {
         "lat": 37.783923707779095,
@@ -1489,7 +1407,6 @@ Location-based trigger fields enable users to specify whether Applets should run
       },
     }
     ```
-    
 
 ### Applet Templates
 
@@ -1497,45 +1414,45 @@ When you create a new trigger and define the data the trigger will make availabl
 
 Below you'll find helpful tips for each of the action categories:
 
-#### 📱 Mobile push notification tips:
+#### 📱 Mobile push notification tips
 
--   Should be friendly and personal! Use 'you' instead of 'my'.
--   Don't make the content too dense. Inform the user of the most important information about the event.
--   Avoid ingredients that point to URLs.
+- Should be friendly and personal! Use 'you' instead of 'my'.
+- Don't make the content too dense. Inform the user of the most important information about the event.
+- Avoid ingredients that point to URLs.
 
-#### 💬 Short message tips:
+#### 💬 Short message tips
 
--   Provide the most important information using ingredients that keep the message contextual to the event.
--   Keep in mind that the message might be truncated based on character restrictions.
--   Include a URL ingredient if one is available.
+- Provide the most important information using ingredients that keep the message contextual to the event.
+- Keep in mind that the message might be truncated based on character restrictions.
+- Include a URL ingredient if one is available.
 
-#### 📜 Long post tips:
+#### 📜 Long post tips
 
--   Use the 'Post body' field to craft a delightful message for users. HTML is accepted, so be sure to add formatting that might enhance the message.
--   Keep in mind that this content is used in email actions, which are widely used. 'Post title' is the subject and 'Post body' is the body of the email.
+- Use the 'Post body' field to craft a delightful message for users. HTML is accepted, so be sure to add formatting that might enhance the message.
+- Keep in mind that this content is used in email actions, which are widely used. 'Post title' is the subject and 'Post body' is the body of the email.
 
-#### 📃 Plaintext file tips:
+#### 📃 Plaintext file tips
 
--   Plaintext files are great for record keeping. Be sure to use all relevant ingredients in the 'Plaintext body'.
--   If the 'Filename' is static (ex. Saved tracks on Spotify), one document will be created and then appended to for each subsequent event.
--   If the 'Filename' contains a dynamic ingredient (ex. Track saved on `{{SavedAt}}`), a new file will be created with each event because it will have a unique filename.
--   The 'Folder path' specified will be created if it does not yet exist for the user.
+- Plaintext files are great for record keeping. Be sure to use all relevant ingredients in the 'Plaintext body'.
+- If the 'Filename' is static (ex. Saved tracks on Spotify), one document will be created and then appended to for each subsequent event.
+- If the 'Filename' contains a dynamic ingredient (ex. Track saved on `{{SavedAt}}`), a new file will be created with each event because it will have a unique filename.
+- The 'Folder path' specified will be created if it does not yet exist for the user.
 
-#### 📊 Spreadsheet tips:
+#### 📊 Spreadsheet tips
 
--   Spreadsheets are great for record keeping. Be sure to use all relevant ingredients.
--   Use ||| to separate cells in a row of a spreadsheet (ex. "`{{Ingredient1}}`|||`{{Ingredient2}}`|||`{{Ingredient3}}`")
--   If you would like to use an image in one of the cells use =IMAGE("`{{ingredient}}`";1).
+- Spreadsheets are great for record keeping. Be sure to use all relevant ingredients.
+- Use ||| to separate cells in a row of a spreadsheet (ex. "`{{Ingredient1}}`|||`{{Ingredient2}}`|||`{{Ingredient3}}`")
+- If you would like to use an image in one of the cells use =IMAGE("`{{ingredient}}`";1).
 
-#### 🗣 Phone call tips:
+#### 🗣 Phone call tips
 
--   The contents here will be read aloud when the phone call action runs. Keep that in mind when formatting the template.
--   A good starting place for this template is to reference the contents you wrote for the notification template.
+- The contents here will be read aloud when the phone call action runs. Keep that in mind when formatting the template.
+- A good starting place for this template is to reference the contents you wrote for the notification template.
 
-#### 📅 Calendar event tips:
+#### 📅 Calendar event tips
 
--   You need to have at least one timestamp ingredient included in the 'Quick add text' so that the calendar action knows when to create the event.
--   If your trigger produces the start time and end time of the event, be sure to use both ingredients in the template (ex. "Some event occurred from `{{StartTime}}` to `{{EndTime}}`")
+- You need to have at least one timestamp ingredient included in the 'Quick add text' so that the calendar action knows when to create the event.
+- If your trigger produces the start time and end time of the event, be sure to use both ingredients in the template (ex. "Some event occurred from `{{StartTime}}` to `{{EndTime}}`")
 
 ### Actions
 
@@ -1547,18 +1464,17 @@ For each new trigger item, IFTTT will push data to your **action endpoint** with
 
 ###### HTTP
 
--   Method
-    
+- Method
+
     POST
-    
+
     URL
-    
+
     `{{api_url_prefix}}/ifttt/v1/actions/{{action_slug}}`
-    
 
 ###### Headers (authenticated services)
 
--   ```
+- ```
     
     Authorization: Bearer {{user_access_token}}
     Accept: application/json
@@ -1567,11 +1483,10 @@ For each new trigger item, IFTTT will push data to your **action endpoint** with
     Content-Type: application/json
     X-Request-ID: {{random_uuid}}
     ```
-    
 
 ###### Headers (non-authenticated services)
 
--   ```
+- ```
     
     IFTTT-Service-Key: {{ifttt_service_key}}
     Accept: application/json
@@ -1580,26 +1495,24 @@ For each new trigger item, IFTTT will push data to your **action endpoint** with
     Content-Type: application/json
     X-Request-ID: {{random_uuid}}
     ```
-    
 
 ###### Body
 
--   actionFields
-    
+- actionFields
+
     (object) Map of action field slugs to values.
-    
+
     user
-    
+
     (object) Information about the IFTTT user related to this request.
-    
+
     ifttt\_source
-    
+
     (optional object) Information about the personal Applet on IFTTT that triggered this request. If present, this will have an id uniquely identifying the Applet and a url pointing to a web page describing it. Note that only the user will be able to see this page, since personal Applets are private. In the future, these fields may point to an entity other than a personal Applet.
-    
 
 ###### Example
 
--   ```
+- ```
     
     POST /ifttt/v1/actions/new_status_update HTTP/1.1
     Host: api.example-service.com
@@ -1624,7 +1537,6 @@ For each new trigger item, IFTTT will push data to your **action endpoint** with
       }
     }
     ```
-    
 
 ###### Response
 
@@ -1632,31 +1544,29 @@ Your action endpoint should generate the response below:
 
 ###### HTTP
 
--   Status
-    
+- Status
+
     200
-    
+
     Headers
-    
+
     `Content-Type: application/json; charset=utf-8`
-    
 
 A JSON object which contains an array, `data`, of a single item object:
 
 ###### Body
 
--   `data[0][id]`
-    
+- `data[0][id]`
+
     (string) A database ID, timestamp, URL, or other value which uniquely identifies the resource created or modified during action execution.
-    
+
     `data[0][url]`
-    
+
     (optional string) URL to the created or modified resource.
-    
 
 ###### Example
 
--   ```
+- ```
     
     HTTP/1.1 200 OK
     Content-Type: application/json; charset=utf-8
@@ -1670,7 +1580,6 @@ A JSON object which contains an array, `data`, of a single item object:
       ]
     }
     ```
-    
 
 ##### Skipping Actions
 
@@ -1680,7 +1589,7 @@ A “skip” error has a property `status` that must always be set to `"SKIP"`. 
 
 ###### Example
 
--   ```
+- ```
     
     HTTP/1.1 400 Bad request
     Content-Type: application/json; charset=utf-8
@@ -1694,7 +1603,6 @@ A “skip” error has a property `status` that must always be set to `"SKIP"`. 
       ]
     }
     ```
-    
 
 ### Action fields
 
@@ -1702,8 +1610,8 @@ Action fields can be populated via a static text input or a drop-down. Unlike tr
 
 With a drop-down, we provide two different choices:
 
-1.  A dynamic drop-down selector. We provide you with a unique API endpoint based on the action field's name you can use to dynamically grab the list of options from your server.
-2.  A manual drop-down to manually add a list of options that the user can select from.
+1. A dynamic drop-down selector. We provide you with a unique API endpoint based on the action field's name you can use to dynamically grab the list of options from your server.
+2. A manual drop-down to manually add a list of options that the user can select from.
 
 #### Action field dynamic options
 
@@ -1717,18 +1625,17 @@ For action fields using the **dynamic drop-down selector**, you can dynamically 
 
 ###### HTTP
 
--   Method
-    
+- Method
+
     POST
-    
+
     URL
-    
+
     `{{api_url_prefix}}/ifttt/v1/actions/{{action_slug}}/fields/{{action_field_slug}}/options`
-    
 
 ###### Headers (authenticated services)
 
--   ```
+- ```
     
     Authorization: Bearer {{user_access_token}}
     Accept: application/json
@@ -1736,11 +1643,10 @@ For action fields using the **dynamic drop-down selector**, you can dynamically 
     Accept-Encoding: gzip, deflate
     X-Request-ID: {{random_uuid}}
     ```
-    
 
 ###### Headers (non-authenticated services)
 
--   ```
+- ```
     
     IFTTT-Service-Key: {{ifttt_service_key}}
     Accept: application/json
@@ -1748,13 +1654,12 @@ For action fields using the **dynamic drop-down selector**, you can dynamically 
     Accept-Encoding: gzip, deflate
     X-Request-ID: {{random_uuid}}
     ```
-    
 
 An empty JSON object
 
 ###### Example
 
--   ```
+- ```
     
     POST /ifttt/v1/actions/post_photo_to_album/fields/album_name/options HTTP/1.1
     Host: api.example-service.com
@@ -1766,7 +1671,6 @@ An empty JSON object
     
     {}
     ```
-    
 
 ###### Response
 
@@ -1774,31 +1678,29 @@ Your action field’s dynamic options endpoints should generate the following re
 
 ###### HTTP
 
--   Status
-    
+- Status
+
     200
-    
+
     Headers
-    
+
     `Content-Type: application/json; charset=utf-8`
-    
 
 For the body you will get a JSON object which contains an array, data, of option objects:
 
 ###### Body
 
--   data\[label\]
-    
+- data\[label\]
+
     (string) A user-facing label.
-    
+
     data\[value\]
-    
+
     (string) The actual field value.
-    
 
 ###### Example
 
--   ```
+- ```
     
     HTTP/1.1 200 OK
     Content-Type: application/json; charset=utf-8
@@ -1829,7 +1731,6 @@ For the body you will get a JSON object which contains an array, data, of option
       ]
     }
     ```
-    
 
 ##### Dynamic checkboxes
 
@@ -1841,18 +1742,17 @@ For **checkbox** action fields, you can dynamically provide user-specific option
 
 ###### HTTP
 
--   Method
-    
+- Method
+
     POST
-    
+
     URL
-    
+
     `{{api_url_prefix}}/ifttt/v1/actions/{{action_slug}}/fields/{{action_field_slug}}/options`
-    
 
 ###### Headers (authenticated services)
 
--   ```
+- ```
     
     Authorization: Bearer {{user_access_token}}
     Accept: application/json
@@ -1860,11 +1760,10 @@ For **checkbox** action fields, you can dynamically provide user-specific option
     Accept-Encoding: gzip, deflate
     X-Request-ID: {{random_uuid}}
     ```
-    
 
 ###### Headers (non-authenticated services)
 
--   ```
+- ```
     
     IFTTT-Service-Key: {{ifttt_service_key}}
     Accept: application/json
@@ -1872,13 +1771,12 @@ For **checkbox** action fields, you can dynamically provide user-specific option
     Accept-Encoding: gzip, deflate
     X-Request-ID: {{random_uuid}}
     ```
-    
 
 An empty JSON object
 
 ###### Example
 
--   ```
+- ```
     
     POST /ifttt/v1/actions/post_photo_to_album/fields/album_name/options HTTP/1.1
     Host: api.example-service.com
@@ -1890,7 +1788,6 @@ An empty JSON object
     
     {}
     ```
-    
 
 ###### Response
 
@@ -1898,31 +1795,29 @@ Your action field’s dynamic options endpoints should generate the following re
 
 ###### HTTP
 
--   Status
-    
+- Status
+
     200
-    
+
     Headers
-    
+
     `Content-Type: application/json; charset=utf-8`
-    
 
 For the body you will get a JSON object which contains an array, data, of option objects:
 
 ###### Body
 
--   data\[label\]
-    
+- data\[label\]
+
     (string) A user-facing label.
-    
+
     data\[value\]
-    
+
     (string) The actual field value.
-    
 
 ###### Example
 
--   ```
+- ```
     
     HTTP/1.1 200 OK
     Content-Type: application/json; charset=utf-8
@@ -1953,7 +1848,6 @@ For the body you will get a JSON object which contains an array, data, of option
       ]
     }
     ```
-    
 
 ### Queries
 
@@ -1965,18 +1859,17 @@ To fetch new query data IFTTT will make the following request to your **query en
 
 ###### HTTP
 
--   Method
-    
+- Method
+
     POST
-    
+
     URL
-    
+
     `{{api_url_prefix}}/ifttt/v1/queries/{{query_slug}}`
-    
 
 ###### Headers (authenticated services)
 
--   ```
+- ```
     
     Authorization: Bearer {{user_access_token}}
     Accept: application/json
@@ -1985,11 +1878,10 @@ To fetch new query data IFTTT will make the following request to your **query en
     Content-Type: application/json
     X-Request-ID: {{random_uuid}}
     ```
-    
 
 ###### Headers (non-authenticated services)
 
--   ```
+- ```
     
     IFTTT-Service-Key: {{ifttt_service_key}}
     Accept: application/json
@@ -1998,38 +1890,36 @@ To fetch new query data IFTTT will make the following request to your **query en
     Content-Type: application/json
     X-Request-ID: {{random_uuid}}
     ```
-    
 
 ###### Body
 
--   queryFields
-    
+- queryFields
+
     (object) Map of query field slugs to values.
-    
+
     cursor
-    
+
     (optional string) Reference to the next page of the result set.
-    
+
     limit
-    
+
     (optional number) Max number of rows to return in a response, default 50.
-    
+
     include
-    
+
     (optional string array) Ingredient slugs to resolve and include in the query response.
-    
+
     user
-    
+
     (object) Information about the IFTTT user related to this request.
-    
+
     ifttt\_source
-    
+
     (optional object) Information about the personal Applet on IFTTT that triggered this request. If present, this will have an id uniquely identifying the Applet and a url pointing to a web page describing it. Note that only the user will be able to see this page, since personal Applets are private. In the future, these fields may point to an entity other than a personal Applet.
-    
 
 ###### Example
 
--   ```
+- ```
     
     POST /ifttt/v1/queries/list_album_photos HTTP/1.1
     Host: api.example-service.com
@@ -2053,7 +1943,6 @@ To fetch new query data IFTTT will make the following request to your **query en
       }
     }
     ```
-    
 
 ###### Response
 
@@ -2061,18 +1950,17 @@ Your query endpont should generate the response below:
 
 ###### HTTP
 
--   Status
-    
+- Status
+
     200
-    
+
     Headers
-    
+
     `Content-Type application/json; charset=utf-8`
-    
 
 ###### BODY
 
--   ```
+- ```
     
       "data": [
         {
@@ -2090,13 +1978,12 @@ Your query endpont should generate the response below:
         },
       ]
     ```
-    
 
 Responses should contain an array of rows. Each row should have one attribute for every ingredient in the query.
 
 ###### Response Example
 
--   ```
+- ```
     
     HTTP/1.1 200 OK
     Content-Type: application/json; charset=utf-8
@@ -2116,13 +2003,12 @@ Responses should contain an array of rows. Each row should have one attribute fo
       ]
     }
     ```
-    
 
 Queries should support pagination. A query request can have `cursor` and/or `limit` attributes that control pagination.
 
 ###### Example
 
--   ```
+- ```
     
     POST /ifttt/v1/queries/list_album_photos HTTP/1.1
     Host: api.example-service.com
@@ -2147,13 +2033,12 @@ Queries should support pagination. A query request can have `cursor` and/or `lim
       }
     }
     ```
-    
 
 The response should contain `limit` rows (default 50). If the result set is larger than the `limit`, a `cursor` should be present and reference the next page.
 
 ###### Paginated Response Example: page 1
 
--   ```
+- ```
     
     HTTP/1.1 200 OK
     Content-Type: application/json; charset=utf-8
@@ -2169,13 +2054,12 @@ The response should contain `limit` rows (default 50). If the result set is larg
       "cursor": "seijjh24ks"
     }
     ```
-    
 
 If used in a subsequent query request, `cursor` should reference the next page of the result set.
 
 ###### Example
 
--   ```
+- ```
     
     POST /ifttt/v1/queries/list_album_photos HTTP/1.1
     Host: api.example-service.com
@@ -2201,13 +2085,12 @@ If used in a subsequent query request, `cursor` should reference the next page o
       }
     }
     ```
-    
 
 The response should contain the next `limit` rows of the result set. The last page should not have the `cursor` attribute.
 
 ###### Paginated Response Example: page 2
 
--   ```
+- ```
     
     HTTP/1.1 200 OK
     Content-Type: application/json; charset=utf-8
@@ -2222,7 +2105,6 @@ The response should contain the next `limit` rows of the result set. The last pa
       ]
     }
     ```
-    
 
 ##### Nested results
 
@@ -2232,7 +2114,7 @@ The following is an example that demonstrates both scenarios. Here we request a 
 
 ###### Example
 
--   ```
+- ```
     
     POST /ifttt/v1/queries/list_album_photos HTTP/1.1
     Host: api.example-service.com
@@ -2257,13 +2139,12 @@ The following is an example that demonstrates both scenarios. Here we request a 
       }
     }
     ```
-    
 
 The response should contain a resolved `likes` subquery and unresolved `dislikes` subquery. In both cases inclusion of the `queryFields` attribute is mandatory.
 
 ###### Response Example: resolved subquery
 
--   ```
+- ```
     
     HTTP/1.1 200 OK
     Content-Type: application/json; charset=utf-8
@@ -2292,7 +2173,6 @@ The response should contain a resolved `likes` subquery and unresolved `dislikes
       ]
     }
     ```
-    
 
 ##### Trigger-based queries
 
@@ -2314,18 +2194,17 @@ For **drop-down selector** query fields, you can dynamically provide user-specif
 
 ###### HTTP
 
--   Method
-    
+- Method
+
     POST
-    
+
     URL
-    
+
     `{{api_url_prefix}}/ifttt/v1/queries/{{query_slug}}/fields/{{query_field_slug}}/options`
-    
 
 ###### Headers (authenticated services)
 
--   ```
+- ```
     
     Authorization: Bearer {{user_access_token}}
     Accept: application/json
@@ -2333,11 +2212,10 @@ For **drop-down selector** query fields, you can dynamically provide user-specif
     Accept-Encoding: gzip, deflate
     X-Request-ID: {{random_uuid}}
     ```
-    
 
 ###### Headers (non-authenticated services)
 
--   ```
+- ```
     
     IFTTT-Service-Key: {{ifttt_service_key}}
     Accept: application/json
@@ -2345,13 +2223,12 @@ For **drop-down selector** query fields, you can dynamically provide user-specif
     Accept-Encoding: gzip, deflate
     X-Request-ID: {{random_uuid}}
     ```
-    
 
 An empty JSON object
 
 ###### Example
 
--   ```
+- ```
     
     POST /ifttt/v1/queries/list_album_photos/fields/album_name/options HTTP/1.1
     Host: api.example-service.com
@@ -2363,7 +2240,6 @@ An empty JSON object
     
     {}
     ```
-    
 
 ###### Response
 
@@ -2371,31 +2247,29 @@ Your query field’s dynamic options endpoints should generate the following res
 
 ###### HTTP
 
--   Status
-    
+- Status
+
     200
-    
+
     Headers
-    
+
     `Content-Type: application/json; charset=utf-8`
-    
 
 For the body you will get a JSON object which contains an array, data, of option objects:
 
 ###### Body
 
--   data\[label\]
-    
+- data\[label\]
+
     (string) A user-facing label.
-    
+
     data\[value\]
-    
+
     (string) The actual field value.
-    
 
 ###### Example
 
--   ```
+- ```
     
     HTTP/1.1 200 OK
     Content-Type: application/json; charset=utf-8
@@ -2426,7 +2300,6 @@ For the body you will get a JSON object which contains an array, data, of option
       ]
     }
     ```
-    
 
 ### Ingredients
 
@@ -2434,7 +2307,7 @@ An ingredient is a data point returned by a trigger or a query. Typically a resp
 
 ###### BODY
 
--   ```
+- ```
     
       "data": [
         {
@@ -2452,7 +2325,6 @@ An ingredient is a data point returned by a trigger or a query. Typically a resp
         },
       ]
     ```
-    
 
 The response above can be represented as a table
 
@@ -2473,12 +2345,12 @@ Ingredients that use the **Date** or **Date with time** are timestamps in the [W
 
 ###### Example: Date only
 
--   `2013-12-31`  
+- `2013-12-31`  
     `2014-01-01`
 
 ###### Example: Date & Time
 
--   `2013-11-04T09:23:00Z`  
+- `2013-11-04T09:23:00Z`  
     `2013-11-04T09:23:00-07:00`
 
 #### Nested ingredients
@@ -2495,18 +2367,17 @@ IFTTT will make the following request to check your service’s API status:
 
 ###### HTTP
 
--   Method
-    
+- Method
+
     GET
-    
+
     URL
-    
+
     `{{api_url_prefix}}/ifttt/v1/status`
-    
 
 ###### Headers
 
--   ```
+- ```
     
     IFTTT-Service-Key: {{ifttt_service_key}}
     Accept: application/json
@@ -2514,11 +2385,10 @@ IFTTT will make the following request to check your service’s API status:
     Accept-Encoding: gzip, deflate
     X-Request-ID: {{random_uuid}}
     ```
-    
 
 ###### Example
 
--   ```
+- ```
     
     GET /ifttt/v1/status HTTP/1.1
     Host api.example-service.com
@@ -2528,7 +2398,6 @@ IFTTT will make the following request to check your service’s API status:
     Accept-Encoding: gzip, deflate
     X-Request-ID: 0715f98e65f749aba2fc243eac1e3c09
     ```
-    
 
 ###### Response
 
@@ -2536,30 +2405,27 @@ The service status endpoint should generate the following response:
 
 ###### HTTP
 
--   Status
-    
+- Status
+
     200 or 503
-    
+
     Body
-    
+
     none
-    
 
 ###### Example: service OK
 
--   ```
+- ```
     
     HTTP/1.1 200 OK
     ```
-    
 
 ###### Example: service unavailable
 
--   ```
+- ```
     
     HTTP/1.1 503 Unavailable
     ```
-    
 
 ___
 
@@ -2579,21 +2445,20 @@ For this example we'll use [OpenAPI Generator Gradle Plugin](https://github.com/
 
 Initialize a gradle project
 
--   ```
+- ```
             
-    $ mkdir service-api-example
-    $ cd service-api-example
-    $ gradle wrapper --gradle-version 6.7.1
-    $ mkdir -p src/main/resources
-    $ mkdir -p src/main/java/com/example/service/
+    mkdir service-api-example
+    cd service-api-example
+    gradle wrapper --gradle-version 6.7.1
+    mkdir -p src/main/resources
+    mkdir -p src/main/java/com/example/service/
               
             
     ```
-    
 
 Create `build.gradle`
 
--   ```
+- ```
             
     plugins {
       id 'org.openapi.generator' version '4.3.1'
@@ -2642,7 +2507,6 @@ Create `build.gradle`
               
             
     ```
-    
 
 Download [OpenAPI definition for IFTTT Service API](https://github.com/IFTTT/service-api/blob/master/service-api.yaml) into `src/main/resources/service-api.yaml`.
 
@@ -2654,7 +2518,7 @@ Now we can add our own implementation. For this example we'll implement just one
 
 Create API implementation `src/main/java/com/example/service/IftttApiController.java`
 
--   ```
+- ```
             
     package com.example.service;
     
@@ -2672,11 +2536,10 @@ Create API implementation `src/main/java/com/example/service/IftttApiController.
             
           
     ```
-    
 
 Create the main class `src/main/java/com/example/service/Application.java`
 
--   ```
+- ```
             
     package com.example.service;
     
@@ -2692,13 +2555,12 @@ Create the main class `src/main/java/com/example/service/Application.java`
             
           
     ```
-    
 
 Run the app `./gradlew bootRun`.
 
 Check the app status `curl --verbose localhost:8080/ifttt/v1/status`. You should see a successful 200 response with no body.
 
-#### Next steps:
+#### Next steps
 
--   Learn about [testing your service](https://ifttt.com/docs/testing).
--   Explore the [Connect API](https://ifttt.com/docs/connect_api).
+- Learn about [testing your service](https://ifttt.com/docs/testing).
+- Explore the [Connect API](https://ifttt.com/docs/connect_api).

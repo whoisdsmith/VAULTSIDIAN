@@ -32,8 +32,6 @@
 
 - [Org-roam](https://www.orgroam.com/)
 
-
-
 ## Database
 
 - [Navicat Data Modeler | Supreme Database Modeling and Design Tool](https://www.navicat.com/en/products/navicat-data-modeler)
@@ -41,8 +39,6 @@
 - [Free Remote MySQL](https://www.remotemysql.com/)
 
 - [Tour - Topincs](https://www.topincs.com/tour)
-
-
 
 ## Developer
 
@@ -70,13 +66,9 @@
 
 - [OS.js](https://www.os-js.org/)
 
-
-
 ## Javascript
 
 - [CodeSnippet.Run - JavaScript code snippet runner for Web](https://www.codesnippet.run/?ref=producthunt)
-
-
 
 ## JSON
 
@@ -85,8 +77,6 @@
 - [JSONPlaceholder - Free Fake REST API](https://jsonplaceholder.typicode.com/)
 
 - [JSON Storage & JSON Hosting Service - JSONBin.io](https://jsonbin.io/?ref=producthunt)
-
-
 
 ## Markdown
 
@@ -131,8 +121,6 @@
 - [Creating Timelines in Markdown](https://chrisrosser.net/posts/2020/06/05/wwb-5-creating-timelines-in-markdown/)
 
 - [Timeline in Markdown](https://cawal.github.io/markdown/2017/10/13/timeline_in_markdown.html)
-
-
 
 ## Misc
 
@@ -180,8 +168,6 @@
 
 - [How Do I Make "Super Awesome Vertical Timeline" use a JSON data source?](https://stackoverflow.com/questions/17956279/how-do-i-make-super-awesome-vertical-timeline-use-a-json-data-source)
 
-
-
 ## Python
 
 - [Extracting Song Data From the Spotify API Using Python](https://rsci.app.link/ik6jrRug4lb?_p=c71029c19f1c6df4fc1c87)
@@ -189,8 +175,6 @@
 - [Extracting Song Data From the Spotify API Using Python](https://link.medium.com/ik6jrRug4lb)
 
 - [Nuitka the Python Compiler](https://nuitka.net/)
-
-
 
 ## Regex
 
@@ -208,13 +192,9 @@
 
 - [Rubular](https://rubular.com/)
 
-
-
 ## Snippets
 
 - [Lepton - A Lean Snippet Manager powered by GitHub Gist](https://hackjutsu.com/Lepton/)
-
-
 
 ## Terminal
 

@@ -1,6 +1,6 @@
 # CLI
 
-https://github.com/aws/aws-cli/
+<https://github.com/aws/aws-cli/>
 
 ```
 aws [options] <command> <subcommand> [parameters]
@@ -16,8 +16,8 @@ aws s3 cp --profile pangolin s3://yes-pangolin/db-backup/$file ./
 
 **macOS**
 
-v1: https://docs.aws.amazon.com/cli/latest/userguide/install-macos.html  
-v2: https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-mac.html
+v1: <https://docs.aws.amazon.com/cli/latest/userguide/install-macos.html>  
+v2: <https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-mac.html>
 
 The AWS CLI version 2 has no dependencies on other software packages. It has a self-contained, embedded copy of all dependencies included in the installer. You no longer need to install and maintain Python to use the AWS CLI.
 
@@ -34,7 +34,7 @@ $ aws --version
 
 **Linux**
 
-https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-linux.html
+<https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-linux.html>
 
 ```
 sudo apt install unzip
@@ -106,12 +106,12 @@ lrwxrwxrwx 1 ec2-user ec2-user 49 Oct 22 09:49 /usr/local/bin/aws -> /usr/local/
 Now delete the two symlinks in the first folder. If your user account already has write permission to these folders, you don't need to use sudo.
 
 ```
-$ sudo rm /usr/local/bin/aws
-$ sudo rm /usr/local/bin/aws_completer
+sudo rm /usr/local/bin/aws
+sudo rm /usr/local/bin/aws_completer
 ```
 
 Finally, you can delete the main installation folder. Use sudo to gain write access to the /usr/local folder.
 
 ```
-$ sudo rm -rf /usr/local/aws-cli
+sudo rm -rf /usr/local/aws-cli
 ```

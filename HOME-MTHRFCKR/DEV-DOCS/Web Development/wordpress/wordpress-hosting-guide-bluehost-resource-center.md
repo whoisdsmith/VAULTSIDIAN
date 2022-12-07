@@ -116,28 +116,28 @@ For example, you may be looking to set up an [online store](https://www.bluehost
 
 #### What can plugins do?
 
--   Check comments for spam
--   Improve your SEO
--   Display media such as  
+- Check comments for spam
+- Improve your SEO
+- Display media such as  
     slideshows, galleries, and sliders.
--   Speed up your site
--   Subscribe visitors to an email list
--   Help you set up an online store
--   Connect your account with Google Analytics
--   Add more advanced navigation
--   Protect your site against hackers
--   Build and run multilingual sites
--   Check comments for spam
--   Improve your SEO
--   Display media such as  
+- Speed up your site
+- Subscribe visitors to an email list
+- Help you set up an online store
+- Connect your account with Google Analytics
+- Add more advanced navigation
+- Protect your site against hackers
+- Build and run multilingual sites
+- Check comments for spam
+- Improve your SEO
+- Display media such as  
     slideshows, galleries, and sliders.
--   Speed up your site
--   Subscribe visitors to an email list
--   Help you set up an online store
--   Connect your account with Google Analytics
--   Add more advanced navigation
--   Protect your site against hackers
--   Build and run multilingual sites
+- Speed up your site
+- Subscribe visitors to an email list
+- Help you set up an online store
+- Connect your account with Google Analytics
+- Add more advanced navigation
+- Protect your site against hackers
+- Build and run multilingual sites
 
 ##### Let the Numbers Speak for Themselves
 
@@ -245,41 +245,49 @@ ___
 ### WordPress Walkthrough Series
 
 #### Part 1: Welcome to our  
+
 WordPress Tutorial Series
 
 This series of WordPress tutorials will walk you through everything you need to set up and operate an effective website. It’s much easier and quicker than you anticipated, and it costs you next to nothing.
 
 #### Part 2: How to Log In to Your  
+
 WordPress Admin
 
 In this video you’ll be learning how to log into your administration area — where you control everything about your website — and use the admin tools.
 
 #### Part 3: How to Add Pages to Your  
+
 WordPress Website
 
 The instant you install WordPress, you have a fully functional website — all you need to do is add content and choose a design. This video will show you how to add pages to your website.
 
 #### Part 4: How to Add Posts to Your  
+
 WordPress Website
 
 This video will show you how to add posts to your website. Posts are similar to pages but are usually used for blogs, where new blog posts push older ones down the list, keeping your site fresh and interesting.
 
 #### Part 5: How to Use Categories  
+
 and Tags on Your WordPress Website
 
 This video will explain the difference between categories and tags and will show you how to effectively use them on your WordPress site.
 
 #### Part 6: How to Use Plugins on  
+
 Your WordPress Website
 
 Now that you know how to add content, this video will teach you about adding functionality through plugins. Plugins automatically add features like contact forms, image galleries, shopping carts, discussion forums, and just about anything else you can imagine to make your site a useful, dynamic experience.
 
 #### Part 7: How to Install a Theme on  
+
 Your WordPress Website
 
 Themes are design templates that you can assign to your website to instantly change its appearance, and sometimes its functionality as well. In this video, you’ll learn how to choose and install themes, and how to make a few simple customizations as well.
 
 #### Part 8: How to Use WordPress  
+
 User Roles
 
 If you’re a business owner, you probably have more important things to do than manage the site, and would rather assign that to one or more of your employees. If so, then you’ll want to create user accounts for them. This video will explain the five types of WordPress users and help you decide which are best for your business model.
@@ -475,17 +483,17 @@ ___
 
 ## Additional Resources
 
--   [5 Easy Fixes for Common WordPress Issues](https://bluehost.blog/wordpress-2/5-easy-fixes-for-common-wordpress-issues-6954/)
--   [Choosing the Right Theme for Your Blog](https://bluehost.blog/wordpress-2/choosing-right-theme-blog-6565/)
--   [Optimize Your WordPress Website’s Images With These 3 Plugins](https://bluehost.blog/wordpress-2/optimize-your-websites-images-with-these-3-wordpress-plugins-6904/)
--   [10 Tips and Tricks for Improving SEO on Your WordPress Website](https://bluehost.blog/seo/tips-tricks-improving-seo-wordpress-website-6785/)
--   [How to Become a WordPress Contributor?](https://bluehost.blog/wordpress-2/how-to-become-a-wordpress-contributor-7359/)
--   [10 Useful and Fun WordPress Plugins](https://bluehost.blog/wordpress-2/10-useful-fun-wordpress-plug-ins-6383/)
--   [60 Resources, Tips, and Hacks for Supercharging Your WordPress Site](https://bluehost.blog/educational/60-3259/)
--   [How to Migrate Your WordPress Website to a New Domain](https://bluehost.blog/wordpress-2/migrate-wordpress-site-new-domain-4132/)
--   [10 Things to Consider When Building Your Site on WordPress](https://bluehost.blog/wordpress-2/ten-things-to-consider-when-building-your-site-on-wordpress-5438/)
+- [5 Easy Fixes for Common WordPress Issues](https://bluehost.blog/wordpress-2/5-easy-fixes-for-common-wordpress-issues-6954/)
+- [Choosing the Right Theme for Your Blog](https://bluehost.blog/wordpress-2/choosing-right-theme-blog-6565/)
+- [Optimize Your WordPress Website’s Images With These 3 Plugins](https://bluehost.blog/wordpress-2/optimize-your-websites-images-with-these-3-wordpress-plugins-6904/)
+- [10 Tips and Tricks for Improving SEO on Your WordPress Website](https://bluehost.blog/seo/tips-tricks-improving-seo-wordpress-website-6785/)
+- [How to Become a WordPress Contributor?](https://bluehost.blog/wordpress-2/how-to-become-a-wordpress-contributor-7359/)
+- [10 Useful and Fun WordPress Plugins](https://bluehost.blog/wordpress-2/10-useful-fun-wordpress-plug-ins-6383/)
+- [60 Resources, Tips, and Hacks for Supercharging Your WordPress Site](https://bluehost.blog/educational/60-3259/)
+- [How to Migrate Your WordPress Website to a New Domain](https://bluehost.blog/wordpress-2/migrate-wordpress-site-new-domain-4132/)
+- [10 Things to Consider When Building Your Site on WordPress](https://bluehost.blog/wordpress-2/ten-things-to-consider-when-building-your-site-on-wordpress-5438/)
 
 ### References
 
-1.  [https://www.codeinwp.com/blog/wordpress-statistics/](https://www.codeinwp.com/blog/wordpress-statistics/)
-2.  [http://expandedramblings.com/index.php/wordpress-statistics/2/](http://expandedramblings.com/index.php/wordpress-statistics/2/)
+1. [https://www.codeinwp.com/blog/wordpress-statistics/](https://www.codeinwp.com/blog/wordpress-statistics/)
+2. [http://expandedramblings.com/index.php/wordpress-statistics/2/](http://expandedramblings.com/index.php/wordpress-statistics/2/)

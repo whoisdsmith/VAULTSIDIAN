@@ -1,10 +1,11 @@
 # tmux
-- https://tmuxcheatsheet.com/
-- Source: https://gist.github.com/henrik/1967800
+
+- <https://tmuxcheatsheet.com/>
+- Source: <https://gist.github.com/henrik/1967800>
 
 ## Installation
 
-https://linuxize.com/post/getting-started-with-tmux/#installing-tmux-on-macos
+<https://linuxize.com/post/getting-started-with-tmux/#installing-tmux-on-macos>
 
 mac
 

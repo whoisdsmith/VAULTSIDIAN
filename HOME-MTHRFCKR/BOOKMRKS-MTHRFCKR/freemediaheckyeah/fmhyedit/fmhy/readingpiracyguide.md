@@ -126,7 +126,7 @@
 * [Free-eBooks](https://www.free-ebooks.net/best-books) - Books
 * [eBookHunter.net](https://www.ebookhunter.net/) - Books
 * [Planet eBook](https://www.planetebook.com/) - Books
-* [Loyal Books ](http://www.loyalbooks.com/)- Books
+* [Loyal Books](http://www.loyalbooks.com/)- Books
 * [obooko](https://www.obooko.com/) - Books
 * [Get Free eBooks](https://www.getfreeebooks.com/) - Books
 * [eBooksBag](https://ebooksbag.com/) - Books
@@ -614,7 +614,7 @@
 * [base-search](https://www.base-search.net/) - Document Search
 * [dimensions](https://app.dimensions.ai/discover/publication) - Document Search
 * [Share OSF](https://share.osf.io/) - Document Search
-* [VDocuments ](https://vdocuments.site/)- Document Search
+* [VDocuments](https://vdocuments.site/)- Document Search
 * [repo.zenk](https://repo.zenk-security.com/) - Document Search
 * [docplayer](https://docplayer.net/) - Document Search
 * [DocDroid](https://www.google.com/search?q=site%3Adocdroid.net) - Document Search
@@ -1249,7 +1249,7 @@
 * [Browser Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki\_browser\_ebook\_readers) - Read Books in Browser
 * [dotepub](https://dotepub.com/) - Convert Webpages to EBooks
 * [Kindle to PDF](https://redd.it/bm837l) - Kindle to PDF Conversion Guide
-* [Ebook Sender](https://telegram.me/to\_kindle\_bot), [SendEpubToKindle](https://www.sendepubtokindle.com/), [Kobo ](https://send.djazz.se/)/ [GitHub](https://github.com/daniel-j/send2ereader) or [ebook\_to\_kindle\_bot](https://t.me/ebook\_to\_kindle\_bot) - Send Ebooks to Kindle
+* [Ebook Sender](https://telegram.me/to\_kindle\_bot), [SendEpubToKindle](https://www.sendepubtokindle.com/), [Kobo](https://send.djazz.se/)/ [GitHub](https://github.com/daniel-j/send2ereader) or [ebook\_to\_kindle\_bot](https://t.me/ebook\_to\_kindle\_bot) - Send Ebooks to Kindle
 * [Kindle Server](https://github.com/edgartaor/kindleServer) - Send HTML to Kindle
 * [md2mobi](https://md2mobi.lapw.at/) - HTML to Kindle Converter
 * [Kindle Software Jailbreak](https://www.mobileread.com/forums/showthread.php?t=346037\&highlight=Jailbreak) - Jailbreak Kindle

@@ -1,6 +1,7 @@
 # Command Line Interface (CLI) | Day One Help
 
 > ## Excerpt
+
 > Instructions for installing and using CLI with Day One 2.0
 
 ---
@@ -171,7 +172,7 @@ If the DAYONE\_APP\_PATH environment variable is defined we will look for Day On
 These paths are searched in order, first one that works is the one used:
 
 1. DAYONE\_APP\_PATH
-    
+
 2. /Applications/Day One.app
-    
+
 3. Asking system for path to app for com.bloombuilt.dayone-mac

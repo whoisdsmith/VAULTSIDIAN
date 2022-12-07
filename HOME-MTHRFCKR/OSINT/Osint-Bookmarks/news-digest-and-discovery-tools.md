@@ -1,4 +1,4 @@
-##  News Digest and Discovery Tools
+## News Digest and Discovery Tools
 
 * [Flipboard](https://flipboard.com)
 * [Hubii](http://hubii.com)

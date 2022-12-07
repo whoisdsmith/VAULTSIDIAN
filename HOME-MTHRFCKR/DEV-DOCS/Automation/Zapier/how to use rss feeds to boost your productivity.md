@@ -6,26 +6,25 @@ I was confused—RSS hasn't disappeared. I use it every single day. It's an inte
 
 If you think RSS died when Google Reader shut down—or if you're unaware, or only vaguely aware, of how to use RSS feeds—this guide is for you.
 
--   [What is RSS?](https://zapier.com/blog/how-to-use-rss-feeds/#what-is-rss)
-    
--   [How to use RSS feeds](https://zapier.com/blog/how-to-use-rss-feeds/#how-to-use-rss)
-    
--   [Keep track of blog posts, YouTube channels, and podcasts](https://zapier.com/blog/how-to-use-rss-feeds/#blogs)
-    
--   [Receive email newsletters in your RSS reader](https://zapier.com/blog/how-to-use-rss-feeds/#newsletters)
-    
--   [View social media accounts from an RSS feed](https://zapier.com/blog/how-to-use-rss-feeds/#social-media)
-    
--   [Discover newly-posted jobs](https://zapier.com/blog/how-to-use-rss-feeds/#jobs)
-    
--   [Create email newsletters automatically](https://zapier.com/blog/how-to-use-rss-feeds/#create-newsletters)
-    
--   [Create social media posts automatically](https://zapier.com/blog/how-to-use-rss-feeds/#create-social)
-    
--   [Monitor brand mentions](https://zapier.com/blog/how-to-use-rss-feeds/#monitor-mentions)
-    
--   [Do something with what you've read](https://zapier.com/blog/how-to-use-rss-feeds/#read-later)
-    
+- [What is RSS?](https://zapier.com/blog/how-to-use-rss-feeds/#what-is-rss)
+
+- [How to use RSS feeds](https://zapier.com/blog/how-to-use-rss-feeds/#how-to-use-rss)
+
+- [Keep track of blog posts, YouTube channels, and podcasts](https://zapier.com/blog/how-to-use-rss-feeds/#blogs)
+
+- [Receive email newsletters in your RSS reader](https://zapier.com/blog/how-to-use-rss-feeds/#newsletters)
+
+- [View social media accounts from an RSS feed](https://zapier.com/blog/how-to-use-rss-feeds/#social-media)
+
+- [Discover newly-posted jobs](https://zapier.com/blog/how-to-use-rss-feeds/#jobs)
+
+- [Create email newsletters automatically](https://zapier.com/blog/how-to-use-rss-feeds/#create-newsletters)
+
+- [Create social media posts automatically](https://zapier.com/blog/how-to-use-rss-feeds/#create-social)
+
+- [Monitor brand mentions](https://zapier.com/blog/how-to-use-rss-feeds/#monitor-mentions)
+
+- [Do something with what you've read](https://zapier.com/blog/how-to-use-rss-feeds/#read-later)
 
 ## What is RSS?
 
@@ -151,7 +150,7 @@ With RSS by Zapier, you can connect your RSS feed to your social media profiles 
 
 Maybe you frequently share industry articles with your coworkers or manage a social media account where you want to share interesting content from elsewhere. Try these workflows, which will automatically share what you're reading without needing to copy and paste.
 
-[Add a digest step](https://zapier.com/help/create/storage-and-digests/compile-data-in-a-digest-in-zaps)—available on our [paid plans](https://zapier.com/app/billing/plans)—to create and send out a digest of your favorite articles at a predetermined time. 
+[Add a digest step](https://zapier.com/help/create/storage-and-digests/compile-data-in-a-digest-in-zaps)—available on our [paid plans](https://zapier.com/app/billing/plans)—to create and send out a digest of your favorite articles at a predetermined time.
 
 ## Monitor brand mentions in a feed
 
@@ -171,7 +170,7 @@ Using the methods described above, you can subscribe to your competitors' blogs 
 
 ## Do something with what you've read
 
-Sometimes we read for pleasure, and other times we pick up useful insights we may want to try later, like a new recipe or a productivity tip suggested in an article. Try these Zaps to turn those updates into tasks to accomplish later. 
+Sometimes we read for pleasure, and other times we pick up useful insights we may want to try later, like a new recipe or a productivity tip suggested in an article. Try these Zaps to turn those updates into tasks to accomplish later.
 
 **New to Zapier?** It's a tool that helps anyone connect apps and automate workflows—without any complicated code. [Sign up for free](https://zapier.com/sign-up/).
 

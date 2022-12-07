@@ -2,7 +2,7 @@
 
 ---
 
-https://fileinfo.com/extension/%s
+<https://fileinfo.com/extension/%s>
 
 [https://fileinfo.com/extension/%s](https://fileinfo.com/extension/%s)
 
@@ -156,7 +156,6 @@ The Internet privacy company that empowers you to seamlessly take control of you
 
 [Yippy](https://yippy.com)
 
-
 ___
 
-#article #search #bookmarks
+# article #search #bookmarks

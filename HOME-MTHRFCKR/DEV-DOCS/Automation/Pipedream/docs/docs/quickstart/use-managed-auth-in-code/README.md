@@ -23,6 +23,7 @@ This will add a code step **scaffolded using Google Sheets' standard API togethe
 ![image-20210525184735774](./images/image-20210525184735774.png)
 
 ### Use a connected account in a code step
+
 Next, let's test the scaffolded code. First, select the same account you used in the previous step (to save data to Google Sheets). It needs to be the same account because we're going to retrieve data from that sheet in just a moment.
 
 ![select-account](./images/select-account.gif)
@@ -92,7 +93,7 @@ Here are more details about the changes (you can also skip ahead to deploy and t
 
 1. Set `headers` to the the first array element of `steps.google_sheets.$return_value.values`
 2. Set `rows` to the remainder of the array (i.e., the elements with the data)
-3. Return the result of `rowsToObjects(headers, rows) ` to export it from the step so we can reference it in our response
+3. Return the result of `rowsToObjects(headers, rows)` to export it from the step so we can reference it in our response
 4. We can delete the `console.log` statement and the comment
 
 Next, **Deploy** and test your workflow to validate the step returns the data you expect.

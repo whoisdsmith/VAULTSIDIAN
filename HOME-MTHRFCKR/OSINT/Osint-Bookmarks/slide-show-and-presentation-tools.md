@@ -1,4 +1,4 @@
-##  Slide Show and Presentation Tools
+## Slide Show and Presentation Tools
 
 * [Canva](https://www.canva.com/create/presentations)
 * [Convert Words to Time](https://wordstotime.com) - Converts the number of words in a presentation or speech to how many minutes it will take to read.
@@ -25,4 +25,5 @@
 * [vcasmo](http://www.vcasmo.com)
 * [Visme](http://www.visme.co)
 * [Zoho Docs](https://www.zoho.com/docs/show.html)
+
 ---

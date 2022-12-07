@@ -1,9 +1,8 @@
 <p align="center">
 
-<img width="124" height="100" src="/images/twitter/TwitterLogo.png">    
+<img width="124" height="100" src="/images/twitter/TwitterLogo.png">
 </p>
 <h1 align="center"><strong>Twitter Workflow Automation</strong></h1>
-
 
 <p align="center">Patterns for processing streams of tweets and interacting with the Twitter API</p>
 
@@ -16,6 +15,7 @@
 &nbsp;&nbsp;
 
 ## Example Workflows
+
 Workflows are linear sequences of steps — just Node.js code —hosted and run by Pipedream.
 
 **You can copy the workflows below and run them in your Pipedream account** [**for free**](https://docs.pipedream.com/pricing/ ). They run code on new tweets and interact with the Twitter API in creative ways. You can modify or extend them in any way you'd like, [**running your own Node code**](https://docs.pipedream.com/workflows/steps/code/) or using [**pre-built functions**](https://docs.pipedream.com/workflows/steps/actions/) to connect to [**200+ integrated apps**](https://docs.pipedream.com/apps/all-apps/).
@@ -111,9 +111,7 @@ Then, you can trigger a [**Pipedream workflow**](https://pipedream.com/new) — 
     <kbd><img alt="New workflow source" width="550" src="/images/twitter/new-workflow-source.png"></kbd>
 </p>
 
-
 They should work as is, but you can modify them in any way. For example, you can add a step to [**run any Node.js code**](https://docs.pipedream.com/workflows/steps/code/) or use [**pre-built functions**](https://docs.pipedream.com/workflows/steps/actions/) to send data to other destinations.
-
 
 &nbsp;&nbsp;
 
@@ -153,7 +151,7 @@ $ curl -H "Authorization: Bearer API_KEY" \
 Note the?limit=1query string. You can vary the number of events returned (most recent first) by setting this param.
 
 Please [**reach out**](https://docs.pipedream.com/support/) with any questions or feedback. We're happy to add other Twitter-specific developer resources to this list, and we'd love to hear what can be improved about event sources or the example workflows.
-    
+
 &nbsp;&nbsp;
 
 ___

@@ -1,4 +1,4 @@
-##  Pastebins
+## Pastebins
 
 *Find information that has been uploaded to Pastebin & alternative pastebin-type sites*
 

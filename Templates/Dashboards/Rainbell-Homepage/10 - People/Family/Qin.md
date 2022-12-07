@@ -20,17 +20,17 @@ Phone：`=(this.phone)`
 
 ```dataview
 TABLE WITHOUT ID
-	link(file.name) as "日期",
-	Reading AS "🌄",
-	Birds AS "🐥",
-	Workout AS "🏃‍♂️",
-	E-mail AS "💌",
-	Writing AS "📝",
-	Mood AS "👾",
-	Summary
-	FROM "00 - DailyNotes/DailyNote" 
-	SORT file.name DESC
-	LIMIT 7
+ link(file.name) as "日期",
+ Reading AS "🌄",
+ Birds AS "🐥",
+ Workout AS "🏃‍♂️",
+ E-mail AS "💌",
+ Writing AS "📝",
+ Mood AS "👾",
+ Summary
+ FROM "00 - DailyNotes/DailyNote" 
+ SORT file.name DESC
+ LIMIT 7
 ```
 
 ## Tasks This Week

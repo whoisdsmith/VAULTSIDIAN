@@ -1,6 +1,6 @@
 ## Online Streaming
 
-##### Watch Films & TV Shows!
+##### Watch Films & TV Shows
 
 * * *
 
@@ -70,7 +70,7 @@ Use these websites to catch up your favourite shows and films as well as discove
 
 ###### ****Spanish Streaming****
 
-🔸 [ EntrePeliculasySeries](https://entrepeliculasyseries.nz/)  
+🔸 [EntrePeliculasySeries](https://entrepeliculasyseries.nz/)  
 🔸 [Cuevena2](https://www.cuevana2.info/)  
 🔸 [MiraDeTodo](https://miradetodo.de/)  
 🔸 [PelisPlus](https://www2.pelisplus.cx/)  
@@ -87,14 +87,14 @@ Use these websites to catch up your favourite shows and films as well as discove
 🔸 [FILMFANS](https://filmfans.org/) ⬇️  
 🔸 [NOX.TO](https://nox.to/) ⬇️
 
-##### Watch Asian Dramas & Movies!
+##### Watch Asian Dramas & Movies
 
 * * *
 
 🔸 [DramaCool](https://www.dramacool9.co/) 1080p  
 🔸 [GoPlay](https://goplay.ml/) & their [Discord](https://discord.gg/yY2P3DQR8S) 1080p
 
-  * You need to be logged into reddit on web browser to use the first link. Otherwise go to their discord and generate access token.
+* You need to be logged into reddit on web browser to use the first link. Otherwise go to their discord and generate access token.
 
 🔸 [AsianCrush](https://www.asiancrush.com/) 1080p+VPN  
 🔸 [RakutenViki](https://www.viki.com/) 1080p paid.  
@@ -112,7 +112,7 @@ Use these websites to catch up your favourite shows and films as well as discove
 🔸 [NewHKDrama](https://www.newhkdrama.com/)  
 🔸 [FDrama](http://fdrama.net/)
 
-##### Watch Live Sports & Replays!
+##### Watch Live Sports & Replays
 
 * * *
 
@@ -147,7 +147,7 @@ Use these websites to catch up your favourite shows and films as well as discove
 🔸 [WatchWrestling.show](https://watchwrestling.show/)  
 🔸 [WeakStreams.com](http://weakstreams.com/)
 
-##### Watch IPTV / Live TV!
+##### Watch IPTV / Live TV
 
 * * *
 
@@ -174,7 +174,7 @@ Use these websites to catch up your favourite shows and films as well as discove
 🔸 [Volume.com](http://volume.com/)  
 🔸 [YupTV.com](http://yupptv.com/livetv)
 
-##### Watch Anime Online!
+##### Watch Anime Online
 
 * * *
 
@@ -183,7 +183,7 @@ Use these websites to catch up your favourite shows and films as well as discove
 🔸 [GogoAnime.gg](https://gogoanime.gg/)  
 🔸 [123Anime](https://123anime.to/) ⬇️
 
-##### Watch Cartoons Online!
+##### Watch Cartoons Online
 
 * * *
 

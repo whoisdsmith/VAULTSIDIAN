@@ -14,7 +14,7 @@ My favorite bytes from the wonderful book [Facts and Fallacies of Software Engin
 * Reuse-in-the-small (libraries of subroutines) began nearly 50 years ago and is a well-solved problem. Discussion There is a tendency in the computing world to assume that any good idea that comes along must be a new idea. Case in point—reuse. **See also** [From Local to Global Coordination: Lessons from
 Software Reuse](https://www.cc.gatech.edu/~beki/c16.pdf)
 * The primary controversy here is that too many people in the computing field think that reuse is a brand-new idea. As a result, there is enormous (and often hyped) enthusiasm for this concept, an enthusiasm that would be more realistic if people understood its history and its failure to grow over the years.
-* Two "rules of three" in reuse: 
+* Two "rules of three" in reuse:
   * (a) It is three times as difficult to build reusable components as single use components.
   * (b) AA reusable component should be tried out in three different applications before it will be sufficiently general to accept into a reuse library.
 * Reusable components are harder to develop and require more verification than their single-task brethren.
@@ -25,7 +25,7 @@ Software Reuse](https://www.cc.gatech.edu/~beki/c16.pdf)
 * Notice that the underlying theme of many of the facts in this book is that the construction of software is a complex, deeply intellectual task, one that shows little possibility of being made simple. Automation is the ultimate trivialization of this nontrivial activity, and those who claim that it has been achieved are doing serious harm to the software field in its quest for better realistic tools and techniques.
 * The debugging process is the detective story of programming. You play Sherlock Holmes in pursuit of the elusive software bug. And, like Sherlock Holmes, you need to enlist your brain and any brain-supporting things you can think of.
 * In this era of automated everything, it is all too easy to leave the work of software testing to tools and techniques. But doing so would be a mistake.
-* Research study has shown that inspections can detect up to 90 percent of the errors in a software product before any test cases have been run. 
+* Research study has shown that inspections can detect up to 90 percent of the errors in a software product before any test cases have been run.
 * Error removal is a complex task, and it requires all the armament the tester can muster.
 * Computer scientists have long said that formal verification, if done sufficiently rigorously, will be enough. Fault-tolerance advocates have taken the position that self-checking software, which detects and recovers from errors, will be enough. Testing people have sometimes said that 100 percent test coverage will be enough. Name your favorite error removal poison, and someone has probably made grandiose claims for it.
 * In any case, I think most would agree that our field is so busy with its foot pressed to the gas pedal that it rarely has time to think about how it could be going better, not just faster. We speak of working smarter, not harder. But who has time to get in a position of working smarter?
@@ -37,7 +37,7 @@ Software Reuse](https://www.cc.gatech.edu/~beki/c16.pdf)
 * There's an old software saying that I'd like to make into the following corollary: Old hardware becomes obsolete; old software goes into production every night.
 * Software people tend to behave as if the original development of the software product is all that matters. So do academics teaching software classes.
 * **See also** Boehm, Barry W. 1975. "The High Cost of Software." In Practical Strategies for Developing Large Software Systems, edited by Ellis Horowitz. Reading, MA: Addison-Wesley.
-* **See also** Lientz, Bennet P. E., Burton Swanson, and G.E. Tompkins. 1976. "Characteristics of Applications Software Maintenance." UCLA Graduate School of Management. 
+* **See also** Lientz, Bennet P. E., Burton Swanson, and G.E. Tompkins. 1976. "Characteristics of Applications Software Maintenance." UCLA Graduate School of Management.
 * When software is originally developed, the customers and future users really have only a partial vision of what that product can and will do for them. It's only after the product goes into production and the users use it for awhile that they begin to realize how much more the software product could be revised to do. And, frequently, they request that those changes be made.
 * Changing existing product is always difficult, no matter how "soft" the software product really is.
 * The 60/60 rule: 60 percent of software's dollar is spent on maintenance, and 60 percent of that maintenance is enhancement. Enhancing old software is, therefore, a big deal.
@@ -66,7 +66,7 @@ Software Reuse](https://www.cc.gatech.edu/~beki/c16.pdf)
 * Better software engineering development leads to more maintenance, not less.
 * **See also** Dekleva, Sasa M. 1992. "The Influence of the Information System Development Approach on Maintenance." Management Information Systems Quarterly, Sept. This study looked at the effect of using "modern development methods" on software projects from the point of view of their subsequent maintenance.
 * These systems took longer to maintain than the others because more modifications were being made to them. And more modifications were being made because it was easier to enhance these better-built systems.
-* We neither agree on a workable definition nor agree on whose responsibility quality in the software product is. 
+* We neither agree on a workable definition nor agree on whose responsibility quality in the software product is.
 * Modifiability, one of those attributes, is a matter of knowing how to build software in such a way that it can be easily modified.
 * Reliability is about building software in ways that minimize the chance of it containing errors and then following that up with an error removal process that uses as many of the multifaceted error removal options as makes sense.
 * Quality is one of the most deeply technical issues in the software field.
@@ -74,12 +74,12 @@ Software Reuse](https://www.cc.gatech.edu/~beki/c16.pdf)
 * It is nearly impossible to put a number on understandability or modifiability or testability or most of the other quality -ilities.
 * **See also** Glass, Robert L. 1992. Building Quality Software. Englewood Cliffs, NJ: Prentice-Hall. In Section 3.9.1, State of the Theory, this book is an analysis of the DoD report discussed earlier.
 * Quality in the software field is about a collection of seven attributes that a quality software product should have: portability, reliability, efficiency, usability (human engineering), testability, understandability, and modifiability.
-  1. Portability is about creating a software product that is easily moved to another platform. 
-  2. Reliability is about a software product that does what it's supposed to do, dependably. 
-  3. Efficiency is about a software product that economizes on both running time and space consumption. 
-  4. Human engineering (also known as usability) is about a software product that is easy and comfortable to use. 
-  5. Testability is about a software product that is easy to test. 
-  6. Understandability is about a software product that is easy for a maintainer to comprehend. 
+  1. Portability is about creating a software product that is easily moved to another platform.
+  2. Reliability is about a software product that does what it's supposed to do, dependably.
+  3. Efficiency is about a software product that economizes on both running time and space consumption.
+  4. Human engineering (also known as usability) is about a software product that is easy and comfortable to use.
+  5. Testability is about a software product that is easy to test.
+  6. Understandability is about a software product that is easy for a maintainer to comprehend.
   7. Modifiability is about a software product that is easy for a maintainer to change.
 * Quality is not user satisfaction, meeting requirements, meeting cost and schedule targets, or reliability.
 * User satisfaction = Meets requirements + delivered when needed + appropriate cost + quality product.

@@ -155,7 +155,7 @@ This connects you with Tor2web, which then talks to the onion service via Tor an
 - [Wise Anti-Malware](https://www.wisecleaner.com/wise-anti-malware.html) - Anti-Malware
 - [Rewind](https://github.com/Neo23x0/Rewind) - Immediate Virus Infection Counter Measures
 - [Spybot](https://www.safer-networking.org/products/spybot-free-edition/) or [SUPERAntiSpyware](https://www.superantispyware.com/free-edition.html) - Anti-spyware
-- [LMT Anti-Logger ](https://leminhthanh.me/antilogger/) - Anti-Loggers (e.g. Keyloggers)
+- [LMT Anti-Logger](https://leminhthanh.me/antilogger/) - Anti-Loggers (e.g. Keyloggers)
 - [VT4Browsers](https://support.virustotal.com/hc/en-us/articles/115002700745-Browser-Extensions) - Easily Scan Downloads
 - [Cuckoo](https://cuckoosandbox.org/) - Malware Analysis Tool
 - [WireShark](https://www.wireshark.org/) - Network Protocol Analyzer

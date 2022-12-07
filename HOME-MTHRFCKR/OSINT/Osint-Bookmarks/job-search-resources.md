@@ -1,4 +1,4 @@
-##  Job Search Resources
+## Job Search Resources
 
 * [Beyond](http://www.beyond.com)
 * [CampusCareerCenter](http://www.campuscareercenter.com)
@@ -24,4 +24,5 @@
 * [Xing](http://www.xing.com)
 * [ZipRecruiter](https://www.ziprecruiter.com)
 * [RecruitEm](https://recruitin.net/)
+
 ---

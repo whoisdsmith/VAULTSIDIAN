@@ -2,10 +2,10 @@
 
 ## XMLHttpRequest.withCredentials
 
-https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/withCredentials  
-https://github.com/axios/axios/issues/2714
+<https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/withCredentials>  
+<https://github.com/axios/axios/issues/2714>
 
-https://stackoverflow.com/questions/54845053/express-react-with-cors-setting-http-only-secure-cookie-for-react-spa
+<https://stackoverflow.com/questions/54845053/express-react-with-cors-setting-http-only-secure-cookie-for-react-spa>
 
 So after trying some different things, the issue was with setting the domain in res.cookie to the subdomain. I changed that code to:
 
@@ -20,7 +20,7 @@ So after trying some different things, the issue was with setting the domain in 
 
 and now the cookie is being set.
 
-https://yukaii.tw/hi-tips/2017-04-13-rewrite-cookie-cross-subdomain-using-nginx/
+<https://yukaii.tw/hi-tips/2017-04-13-rewrite-cookie-cross-subdomain-using-nginx/>
 
 Change  
 `Set-Cookie: xxx.id=123nfasdf;lkjn; Domain=hello.world`  

@@ -18,7 +18,7 @@ ___
 
 ## [2\. Customize your filter rules](https://zapier.com/help/create/customize/add-conditions-to-zaps-with-filters#customize-your-filter-rules)
 
-[![Let’s take the example of a Zap that triggers from new submissions to a form, and we only want it to run if the user who submitted has an email address that ends in `@zapier.com`. We can set up a filter that looks at the Email field from our trigger, choose the rule to be (Text) Contains, and set the value to be `@zapier.com`. ](https://cdn.zappy.app/254e568d7a382fa61e2326bcee9c31f2.png)](https://cdn.zappy.app/254e568d7a382fa61e2326bcee9c31f2.png)
+[Let’s take the example of a Zap that triggers from new submissions to a form, and we only want it to run if the user who submitted has an email address that ends in `@zapier.com`. We can set up a filter that looks at the Email field from our trigger, choose the rule to be (Text) Contains, and set the value to be `@zapier.com`.](https://cdn.zappy.app/254e568d7a382fa61e2326bcee9c31f2.png)](https://cdn.zappy.app/254e568d7a382fa61e2326bcee9c31f2.png)
 
 Rules only work for the type of data specified in parentheses. For example, rules that begin with “(Text)” only work with text fields, and rules that begin with “(Number)” only work with number fields. Learn about the [different types of filter rules](https://zapier.com/help/create/customize/filter-and-path-rules-in-zaps).
 

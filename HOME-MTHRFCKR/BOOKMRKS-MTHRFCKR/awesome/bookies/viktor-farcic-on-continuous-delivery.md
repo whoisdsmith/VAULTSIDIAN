@@ -5,7 +5,7 @@ By Viktor Farcic [https://www.youtube.com/watch?v=mW_gkQnF4eU](https://www.youtu
 * every green commit is deployable
 * break silos : no departments, no silos. especially no CI/CD department
 * refactor 2-3 hours every day (to make your application deployable, testable, ...
-* educate others (the point is not for you to make the work / build pipelines for others) but others need to learn and do it 
+* educate others (the point is not for you to make the work / build pipelines for others) but others need to learn and do it
 * be small : split monoliths (otherwise they take a long time to test / refactor / build / need big teams etc)
 * practice TDD. no tests, no commits
 * define your CD pipeline as code (no more clicking around)

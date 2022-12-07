@@ -108,15 +108,11 @@
 
 - [Anytype Community](https://community.anytype.io/)
 
-
-
 ## Docker
 
 - [Hello from Personal Management System | Personal Management System](https://volmarg.github.io/)
 
 - [Gist - Data becomes knowledge](https://www.gistapp.com/?ref=producthunt)
-
-
 
 ## iOS
 
@@ -134,13 +130,9 @@
 
 - [‎Kase: Your Personal Database](https://apps.apple.com/us/app/kase-your-personal-database/id1481308987)
 
-
-
 ## Linux
 
 - [Focalboard: Open source alternative to Trello, Asana, and Notion](https://www.focalboard.com/)
-
-
 
 ## MacOS
 
@@ -155,8 +147,6 @@
 - [Note taking and mind mapping combined in one app](https://brainio.com/#/)
 
 - [cryo file manager](https://cryonet.io/?ref=producthunt)
-
-
 
 ## Online
 
@@ -228,8 +218,6 @@
 
 - [Build a Wiki on Google Drive - Kbee](https://www.kbee.app/?ref=producthunt)
 
-
-
 ## Packages
 
 - [Screenshot tour · zadam/trilium Wiki · GitHub](https://github.com/zadam/trilium/wiki/Screenshot-tour)
@@ -252,8 +240,6 @@
 
 - [Index - Archivy](https://archivy.github.io/)
 
-
-
 ## VS Code
 
 - [Dendron](https://www.dendron.so//)
@@ -261,8 +247,6 @@
 - [Foam - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=foam.foam-vscode)
 
 - [Foam](https://foambubble.github.io/foam)
-
-
 
 ## Windows
 

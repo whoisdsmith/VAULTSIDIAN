@@ -24,7 +24,7 @@ Search Tag: #📖
 
 ___
 
-## Resources:
+## Resources
 
 | Hyperlink | Info |
 | --------- | ---- |

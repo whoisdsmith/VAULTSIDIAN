@@ -1,10 +1,11 @@
 This template needs DataView plugin
 ---
+
 created: ["{{date}} {{time}}"]
 tags: ["#Log/DaiLylog"]
 ---
 
-# Metadata:
+# Metadata
 
 - Tag:: #Log/dailylog
 - Created:: {{date: DD-MM-YYYY}}
@@ -38,4 +39,4 @@ tags: ["#Log/DaiLylog"]
 ## 📅 Today's Notes
 
 - 🕛9:00
-	- Wok up and
+  - Wok up and

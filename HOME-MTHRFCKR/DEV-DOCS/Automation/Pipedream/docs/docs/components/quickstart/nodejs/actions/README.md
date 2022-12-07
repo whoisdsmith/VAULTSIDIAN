@@ -11,8 +11,7 @@ This document is intended for developers who want to author and edit [Pipedream 
 - Use props to capture user input
 - Update an action
 - Use npm packages
-- Use Pipedream managed auth for a 3rd party app 
-
+- Use Pipedream managed auth for a 3rd party app
 
 ::: tip
 If you previously developed actions using Pipedream's UI, we recommend reviewing our [migration guide](/components/migrating/) after completing this quickstart.
@@ -24,7 +23,7 @@ If you previously developed actions using Pipedream's UI, we recommend reviewing
 - Download and install the [Pipedream CLI](/cli/install/)
 - Once the CLI is installed, [link your Pipedream account](/cli/login/#existing-pipedream-account) to the CLI by running `pd login` in your terminal
 
->  **NOTE:** See the [CLI reference](/cli/reference/) for detailed usage and examples beyond those covered below.
+> **NOTE:** See the [CLI reference](/cli/reference/) for detailed usage and examples beyond those covered below.
 
 ## Walkthrough
 
@@ -39,7 +38,7 @@ We recommend that you complete the examples below in order.
 **hello [name]! (~5 minutes)**
 
 - Capture user input using a `string` prop
-- Publish a new version of your action 
+- Publish a new version of your action
 - Update the action in your workflow
 
 **Use an npm Package (~5 mins)**
@@ -54,7 +53,7 @@ We recommend that you complete the examples below in order.
 - Connect your Github account to the action in a Pipedream workflow
 - Retrieve details for a repo and return them from the action
 
-### hello world!
+### hello world
 
 The following code represents a simple component that can be published as an action ([learn more](/components/api/) about the component structure). When used in a workflow, it will export `hello world!` as the return value for the step.
 
@@ -96,7 +95,7 @@ To test the action:
 
 4. Click on **My Actions** and then select the **Action Demo** action to add it to your workflow.
    ![image-20210411165325045](https://res.cloudinary.com/pipedreamin/image/upload/v1618550730/docs/components/image-20210411165325045_ia5sd5.png)
-   
+
 5. Deploy your workflow
 
 6. Click **RUN NOW** to execute your workflow and action
@@ -107,7 +106,7 @@ You should see `hello world!` returned as the value for `steps.action_demo.$retu
 
 Keep the browser tab open. We'll return to this workflow in the rest of the examples as we update the action.
 
-### hello [name]!
+### hello [name]
 
 Next, let's update the component to capture some user input. First, add a `string` [prop](/components/api/#props) called `name` to the component.
 
@@ -190,7 +189,7 @@ Next, let's update the action in the workflow from the previous example and run 
 
    ![image-20210411164514490](https://res.cloudinary.com/pipedreamin/image/upload/v1618550730/docs/components/image-20210411164514490_qghbzf.png)
 
-2. After saving the workflow, you should see an input field appear. Enter a value for the `Name` input (e.g., `foo`). 
+2. After saving the workflow, you should see an input field appear. Enter a value for the `Name` input (e.g., `foo`).
    ![image-20210411165053922](https://res.cloudinary.com/pipedreamin/image/upload/v1618550730/docs/components/image-20210411165053922_pckn5y.png)
 3. Deploy the workflow and click **RUN NOW**
 
@@ -285,7 +284,7 @@ export default {
   props: {},
   async run() {
     const response = await axios.get("https://swapi.dev/api/people/1/")
-		return `hello ${response.data.name}!`
+  return `hello ${response.data.name}!`
   },
 }
 ```
@@ -359,7 +358,7 @@ export default {
 The value for the `app` property is the name slug for the app in Pipedream. This is not currently discoverable, but it will be in the near future on app pages in the [Pipedream Marketplace](https://pipedream.com/explore). For the time being, if you want to know how to reference an app, please please [reach out](https://pipedream.com/community).
 :::
 
-Next, update the `run()` method to get a repo from Github and return it. For this example, we'll pass static values to get the `pipedreamhq/pipedream` repo. Notice that we're passing the `oauth_access_token` in the authorization header by referencing the `$auth` property of the app prop — `this.github.$auth.oauth_access_token`. You can discover how to reference auth tokens in the **Authentication Strategy** section for each app in the [Pipedream Marketplace](https://pipedream.com/explore). 
+Next, update the `run()` method to get a repo from Github and return it. For this example, we'll pass static values to get the `pipedreamhq/pipedream` repo. Notice that we're passing the `oauth_access_token` in the authorization header by referencing the `$auth` property of the app prop — `this.github.$auth.oauth_access_token`. You can discover how to reference auth tokens in the **Authentication Strategy** section for each app in the [Pipedream Marketplace](https://pipedream.com/explore).
 
 ```javascript
 import { Octokit } from '@octokit/rest';
@@ -423,7 +422,6 @@ export default {
 }
 ```
 
-
 Finally, update the version to `0.0.4`. If you fail to update the version, the CLI will throw an error.
 
 ```javascript
@@ -482,4 +480,3 @@ Select an existing account or connect a new one, and then deploy your workflow a
 You're ready to start authoring and publishing actions on Pipedream! You can also check out the [detailed component reference](/components/api/#component-api) at any time!
 
 If you have any questions or feedback, please [reach out](https://pipedream.com/community)!
-

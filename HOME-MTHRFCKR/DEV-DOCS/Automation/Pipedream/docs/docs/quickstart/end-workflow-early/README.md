@@ -6,7 +6,6 @@ Next, let's update our workflow to filter out `favicon.ico` requests. This examp
 If you didn't complete the previous examples, we recommend you start from the [beginning of this guide](/quickstart/). If you still want to start here, [copy this workflow](https://pipedream.com/@gettingstarted/quickstart-insert-data-into-google-sheets-p_KwCAR9z) and then follow the instructions below. If you have any issues completing this example, you can [view, copy and run a completed version](https://pipedream.com/@gettingstarted/quickstart-end-workflow-early-p_RRCgNRQ).
 :::
 
-
 In the last example, two rows may be added to Google Sheets when we load the endpoint URL in our browser. That's because most modern web browsers automatically make a request for a [`favicon.ico`](https://en.wikipedia.org/wiki/Favicon) file. While this is an artifact of loading the workflow's endpoint in our browser, it provides a good opportunity to demonstrate `$end()`.
 
 First, select an event that represents a `favicon.ico` request:

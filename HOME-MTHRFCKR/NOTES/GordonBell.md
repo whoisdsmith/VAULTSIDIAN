@@ -25,4 +25,4 @@ Proc. Sixth Australasian Workshop on Grid Computing and e-Research (AusGrid 2008
 3
 ```
 
--   CRPIT Volume 82 - Grid Computing and e-Research
+- CRPIT Volume 82 - Grid Computing and e-Research

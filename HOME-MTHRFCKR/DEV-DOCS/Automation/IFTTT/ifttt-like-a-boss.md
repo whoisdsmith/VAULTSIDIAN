@@ -26,10 +26,10 @@ So let’s take my example and set up a button that opens my garage with some co
 
 Inlight of this we’ll change our applet to be **time** dependent.
 
-**Trigger service: **[Flic](https://ifttt.com/flic)  
+**Trigger service:**[Flic](https://ifttt.com/flic)  
 **Trigger:** Outlander button is clicked
 
-**Action service: **[Particle](https://ifttt.com/particle)  
+**Action service:**[Particle](https://ifttt.com/particle)  
 **Action:** Toggle Open Close function
 
 When you choose a trigger you’ll notice there are two new options available, **Add Query** and **Add Filter** the latter option is disabled until you choose your next action which is a little counter intuitive. The query lets you choose an additonal service that provides you parameters you can use in your filter.
@@ -48,7 +48,6 @@ Now we can publish our applet and when the time hits 4pm-6pm our button will wor
 
 Happy creating (:
 
-
 ___
 
-#article #ifttt
+# article #ifttt

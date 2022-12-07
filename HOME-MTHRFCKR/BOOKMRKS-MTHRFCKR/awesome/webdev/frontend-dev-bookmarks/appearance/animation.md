@@ -9,6 +9,7 @@ The process of creating motion and shape change.
 [![Twitter](https://img.shields.io/badge/follow-twitter-55acee.svg?style=flat-square)](https://twitter.com/FrontendDir)
 
 -----------------------------------------
+
 + **[Animate.css](http://daneden.github.io/animate.css/)**: Just-add-water CSS animations.
 + **[Animate.less](https://github.com/machito/animate.less)**: A bunch of cool, fun, and cross-browser animations converted into LESS for you to use in your Bootstrap projects.
 + **[Anime.js](https://github.com/juliangarnier/anime)**: Anime is a flexible yet lightweight JavaScript animation library. It works with CSS, Individual Transforms, SVG, DOM attributes and JS Objects.
@@ -20,9 +21,9 @@ The process of creating motion and shape change.
 + **[Emile.js](https://github.com/madrobby/emile)**: Emile.js is a no-frills stand-alone CSS animation JavaScript framework.
 + **[Firmin](http://extralogical.net/projects/firmin/)**: Firmin is a JavaScript animation library using CSS transforms and transitions.
 + **[GreenSock Animation Platform](http://www.greensock.com/get-started-js/)**: GreenSock Animation Platform is a suite of tools for scripted animation.
-    + **[Codepen Repository](http://codepen.io/GreenSock/)**: Codepen repository with examples of Greensock usage and code.
-    + **[Examples](http://ahrengot.com/tutorials/greensock-javascript-animation/)**: Here are a couple of examples demonstrating the core features of the Greensock Animation Platform.
-    + **[Learning Center](http://www.greensock.com/learning/)**: Tutorials and videos for GreenSock Animation Platform.
+  + **[Codepen Repository](http://codepen.io/GreenSock/)**: Codepen repository with examples of Greensock usage and code.
+  + **[Examples](http://ahrengot.com/tutorials/greensock-javascript-animation/)**: Here are a couple of examples demonstrating the core features of the Greensock Animation Platform.
+  + **[Learning Center](http://www.greensock.com/learning/)**: Tutorials and videos for GreenSock Animation Platform.
 + **[JQuery Transit](http://ricostacruz.com/jquery.transit/)**: Super-smooth CSS3 transformations and transitions for jQuery.
 + **[Janis](https://github.com/MikeMcTiernan/Janis)**: Janis is a lightweight Javascript framework that provides simple animations via CSS transitions for modern browsers on the web as well as mobile devices.
 + **[Keanu](https://github.com/wambotron/Keanu)**: Keanu is a micro-lib for animation on Canvas/JS.
@@ -40,10 +41,9 @@ The process of creating motion and shape change.
 + **[Twitter Fave Animation](https://cssanimation.rocks/twitter-fave/)**: Rather than rely on CSS transitions, the new animation makes use of a series of images. Here’s how to recreate the animation using the CSS animation steps timing function.
 + **[Web Animation Past, Present, and Future (2016)](http://alistapart.com/article/web-animation-past-present-and-future)**: Rachel Nabors explores the world of web animation standards, platforms and tools in 2016: SVG, SMIL, GreenSock AP, Framer, Browser Tooling etc.
 + **[Web Animations API](http://w3c.github.io/web-animations/)**: Web Animations is a new JavaScript API for driving animated content on the web. By unifying the animation features of SVG and CSS, Web Animations unlocks features previously only usable declaratively, and exposes powerful, high-performance animation capabilities to developers.
-    + **[Are we animated yet?](https://birtles.github.io/areweanimatedyet/)**: This page tracks the progress of implementing the Web Animations API in Firefox.
-    + **[WAAPI Browser Support Test (+ Polyfill)](http://codepen.io/danwilson/pen/XmWraY)**: This codepen tests whether and to which extend your browser supports Web Animations API. The test is run after including the Polyfill.
-    + **[Web Animations Polyfill](https://github.com/web-animations/web-animations-js)**: JavaScript implementation of the Web Animations API.
-
+  + **[Are we animated yet?](https://birtles.github.io/areweanimatedyet/)**: This page tracks the progress of implementing the Web Animations API in Firefox.
+  + **[WAAPI Browser Support Test (+ Polyfill)](http://codepen.io/danwilson/pen/XmWraY)**: This codepen tests whether and to which extend your browser supports Web Animations API. The test is run after including the Polyfill.
+  + **[Web Animations Polyfill](https://github.com/web-animations/web-animations-js)**: JavaScript implementation of the Web Animations API.
 
 ------------------
 

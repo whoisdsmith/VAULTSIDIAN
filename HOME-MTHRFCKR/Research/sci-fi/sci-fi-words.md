@@ -1,7 +1,5 @@
 # Science Fiction Vocabulary
 
-  
-
 [[Artificial Intelligence]]  
 The Study And Design Of Intelligent Agents, Like Robots Or Software
 
@@ -94,8 +92,6 @@ Relating To Human Beings, Eventually Dying
 
 [[Mutation]]  
 Change In Genetic Material
-
-  
 
 [[Nebula]]  
 An Interstellar Cloud Of Dust, Hydrogen Gas And Plasma

@@ -1,18 +1,27 @@
 [my-personality-test.com](https://my-personality-test.com/) - Personality Type Indicator
 
 ## Result (2020)
+
 **INTJ The Visionaries**
 
 ### 46% INTROVERTED
+
 Thought oriented, Reserved, Reflective, Observant
+
 ### 8% INTUITIVE
+
 Imaginative, Future oriented, Conceptual, Abstract
+
 ### 17% THINKING
+
 Logical, Reasonable, Level headed, Values fairness
+
 ### 4% JUDGING
+
 Organised, Systematic, Achievement oriented, Planner
 
 ## INTJ Characteristics
+
 INTJs make up 2.9% of the population.
 
 * Strategic, and goal-oriented – great at solving problems
@@ -27,7 +36,7 @@ INTJs make up 2.9% of the population.
 
 [Source](https://www.truity.com/personality-type/ISFP/careers)
 
-### Top careers for the ISFP include:
+### Top careers for the ISFP include
 
 * Fashion Designer
 * Interior Designer
@@ -76,6 +85,7 @@ INTJs make up 2.9% of the population.
 * Bookkeeper
 
 ### ISFP Careers to Avoid
+
 It is important to note that any personality type can be successful in any occupation. However, some occupations are well suited to the natural talents and preferred work style of the ISFP, while other occupations demand modes of thinking and behavior that do not come as naturally to the ISFP. Occupations that require the ISFP to operate outside their natural preferences may prove stressful or draining, and often sound unappealing to ISFPs who are choosing a career.
 
 The following occupations have been found to be unpopular among ISFPs, based on data gathered from surveys of the general population.
@@ -100,12 +110,13 @@ The following occupations have been found to be unpopular among ISFPs, based on 
 * Architect
 
 ### The ISFP on a Team
+
 ISFPs are sensitive, helpful team members who look for opportunities to contribute in an immediate, practical way. They want to assist other people and provide support, and often take on the role of listener. Oriented to cooperation, the ISFP will look for ways to compromise and accommodate others. They tend to step in when others need help and are often prepared with specific, relevant data that can help the team understand the facts of the situation.
 
 ISFPs are at their best when they can work with others in a supportive, action-oriented role. They excel at creatively solving problems to meet people’s immediate needs. ISFPs shy away from theory and future projections, and may become impatient with ideas that have no concrete benefit for people. ISFPs are characteristically unassuming, and may be reluctant to advocate strongly for their own perspective on a team. They can become frustrated with team members who are domineering or competitive, and do best on a caring, egalitarian team where everyone’s contribution is appreciated.
 
-
 ### The ISFP as a Leader
+
 In leadership positions, ISFPs are driven by a personal mission and interested in helping their teams cooperate to accomplish realistic goals. Their strengths lie in understanding the needs and concerns of the people they work with and adapting gracefully to changing circumstances. ISFP leaders are practical and down-to-earth, good at sizing up resources and assessing the requirements of the current situation. They are good at building trust and leading by example, preferring to be quietly supportive rather than authoritarian or domineering.
 
 ISFPs often prefer not to be in a leadership role, but are sometimes motivated to take the lead when the project is personally significant to them. When they do lead, they do best heading a small, cooperative team to achieve practical and tangible results.
@@ -114,7 +125,7 @@ ISFPs often prefer not to be in a leadership role, but are sometimes motivated t
 
 [IDRlabs](https://www.idrlabs.com/test.php) - personality type test (2021)
 
-## Description :fr:
+## Description :fr
 
 Fiable, bienveillant et loyal à ceux qui vous sont proches, vous avez une excellente compréhension des réalités factuelles qui vous entourent, ainsi qu’une attention aux détails, chacune de ces qualités vous poussant à vous rapprocher naturellement des autres et de leurs besoins émotionnels. Bienfaisant et attentif, vous avez tendance à assumer rapidement vos responsabilités et à aider les autres dès que vous déterminez qu’une tâche pourrait leur servir. Même si votre entourage n’en est pas vraiment conscient, vous avez tendance à prendre en charge beaucoup de responsabilités. Malgré cela, ce n’est souvent qu’en votre absence que les autres remarquent l’immense contribution que vous apportez habituellement afin de vous assurer que tout fonctionne parfaitement autour de vous et que tout un chacun est pris en considération et se sent à l'aise. Consciencieux, rigoureux, et peut-être un peu perfectionniste, vous n’êtes pas du genre à courir impulsivement après des perspectives incertaines, sans avoir d’abord terminé les efforts requis. Vous avez tendance à trouver une grande satisfaction dans le travail acharné vers l’atteinte de vos buts et dans le soutien inconditionnel aux autres, démontrant ainsi votre souci des autres par vos actions et préférant guider par votre exemple calme et digne.
 
@@ -125,6 +136,7 @@ Fiable, bienveillant et loyal à ceux qui vous sont proches, vous avez une excel
 *"We need to be organized to work together. A readiness to cooperate is one of the factors that give us all hope."*
 
 ### ISFJs at a Glance
+
 * Quiet, cordial, and conscientious.
 * Nurturing, patient, and considerate.
 * Humble and understated cooperators, who prefer to let the facts speak for themselves.
@@ -132,6 +144,7 @@ Fiable, bienveillant et loyal à ceux qui vous sont proches, vous avez une excel
 * Draw on an inner world of rich nonverbal impressions, frequently "just knowing" that something is right.
 
 ### ISFJs as They Typically Are
+
 ISFJs are warm and reassuring individuals who facilitate cooperation between people and appeal to what is best in others. While their outer lives are usually focused on kindness, considerate action, and the welfare of others, the inner life of an ISFJ tends to revolve around a private repository of deeply-internalized personal experience and rich nonverbal impressions. It is through this combination of inner and outer processes that the ISFJ develops their unique and commendable strengths of civility, conscientiousness, and a practical respect for the facts.
 
 ISFJs tend to place an emphasis on kindness in their everyday lives. They tend to be sensitive and alert to division and discord amongst those close to them, which they feel especially strongly, and ISFJs are often willing to go to great lengths to heal the rifts in their community. When engaged in the peacekeeper mode, an ISFJ will put a considerable amount of effort, and perhaps even a jot of self-sacrifice, into reaching the goal of social conciliation and harmony in their environment. And more often than not, the ISFJ will undertake these labors without expecting others to do the same in return.
@@ -149,6 +162,7 @@ With their warmth, kindness, and seriousness of purpose, the presence of an ISFJ
 *"The small individual contributors of caring, friendship, forgiveness, and love from each of us can form a phalanx, an army, with great capability."*
 
 ### ISFJs as They Typically Are
+
 Warm-hearted and congenial, ISFJs are quiet - and sometimes overlooked - individuals who genuinely like getting to know other people and helping them. They often enjoy conversing with others and learning all the details of their lives, such as who they are, who they are married to, where they work, whether they have children, and where they grew up. They tend to be very accepting and forgiving of people and they like to get a firm grasp of the identities of others, so that they have a solid idea of what the person is like. They tend to easily pick up on the emotional states of others and are often quite skilled at soothing them and smoothing over awkward situations.
 
 ISFJs generally carry themselves with a sense of social etiquette. Often they will seem to know exactly how to act in order to come across as friendly and constructive so that both parties will get the most out of the social situation.

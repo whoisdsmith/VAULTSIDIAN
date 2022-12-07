@@ -8,8 +8,8 @@ We welcome all pull requests. Suggestions and feedback are also welcomed [here](
 
 ## Join the discussion
 
-1.  [Telegram Group](https://t.me/rsshub)
-2.  [GitHub Issues](https://github.com/DIYgod/RSSHub/issues)
+1. [Telegram Group](https://t.me/rsshub)
+2. [GitHub Issues](https://github.com/DIYgod/RSSHub/issues)
 
 ## Submit new RSS rule
 
@@ -29,13 +29,13 @@ Create a new js script in [/lib/routes/](https://github.com/DIYgod/RSSHub/tree/m
 
 #### Acquiring Data
 
--   Typically, the data are acquired via HTTP requests (via API or webpage) sent by [got](https://github.com/sindresorhus/got)
--   Occasionally [puppeteer](https://github.com/GoogleChrome/puppeteer) is required for browser stimulation and page rendering in order to acquire the data
+- Typically, the data are acquired via HTTP requests (via API or webpage) sent by [got](https://github.com/sindresorhus/got)
+- Occasionally [puppeteer](https://github.com/GoogleChrome/puppeteer) is required for browser stimulation and page rendering in order to acquire the data
 
--   The acquired data are most likely in JSON or HTML format
--   For HTML format, [cheerio](https://github.com/cheeriojs/cheerio) is used for further processing
+- The acquired data are most likely in JSON or HTML format
+- For HTML format, [cheerio](https://github.com/cheeriojs/cheerio) is used for further processing
 
--   Below is a list of data acquisition methods, ordered by the **「level of recommendation」**
+- Below is a list of data acquisition methods, ordered by the **「level of recommendation」**
 
     1. **Acquire data via API using got**
 
@@ -386,18 +386,18 @@ ctx.state.data = {
 
 ### Add the documentation
 
-1.  Update the corresponding file in [documentation (/docs/en/)](https://github.com/DIYgod/RSSHub/blob/master/docs/en) directory, preview the docs via `npm run docs:dev`
+1. Update the corresponding file in [documentation (/docs/en/)](https://github.com/DIYgod/RSSHub/blob/master/docs/en) directory, preview the docs via `npm run docs:dev`
 
-    -   Documentation uses vue component:
-        -   `author`: route authors, separated by a single space
-        -   `example`: route example
-        -   `path`: route path
-        -   `:paramsDesc`: route parameters description, in array, supports markdown
+    - Documentation uses vue component:
+        - `author`: route authors, separated by a single space
+        - `example`: route example
+        - `path`: route path
+        - `:paramsDesc`: route parameters description, in array, supports markdown
             1. parameter description must be in the order of its appearance in route path
             1. missing description will cause errors in `npm run docs:dev`
             1. `'` `"` must be escaped as `\'` `\"`
             1. it's redundant to indicate `optional/required` as the component will prepend based on `?`
-    -   Documentation examples:
+    - Documentation examples:
 
         1. No parameter:
 
@@ -453,9 +453,9 @@ ctx.state.data = {
 
         * * *
 
-1.  Please be sure to close the tag of `<Route>`!
+1. Please be sure to close the tag of `<Route>`!
 
-1.  Execute `npm run format` to lint the code before you commit and open a pull request
+1. Execute `npm run format` to lint the code before you commit and open a pull request
 
 ## Submit new RSSHub Radar rule
 
@@ -571,9 +571,9 @@ Note that the `target` method runs in a sandbox, any changes to `document` will 
 
 [RSSBud](https://github.com/Cay-Zhang/RSSBud) supports RSSHub Radar rules and will also be updated automatically, but please note that:
 
--   Using `'.'` subdomain allows RSSBud to support common mobile domains such as `m` / `mobile`
+- Using `'.'` subdomain allows RSSBud to support common mobile domains such as `m` / `mobile`
 
--   Using `document` in `target` does not apply to RSSBud: RSSBud is not a browser extension, it only fetches and analyzes the URL of a website
+- Using `document` in `target` does not apply to RSSBud: RSSBud is not a browser extension, it only fetches and analyzes the URL of a website
 
 ### Additional Information
 

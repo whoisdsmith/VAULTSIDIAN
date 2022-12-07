@@ -102,6 +102,7 @@
 * Ignorantia juris non excusat or ignorantia legis neminem excusat (Latin phrase for "ignorance of the law does not excuse")
 * Slow is steady. Steady is smooth. Smooth is fast. [Source](https://twitter.com/DanielMiessler/status/1406038903878868992)
 * How to kill stress and nervousness:
+>
 > * It's practice, not performance.
 > * It's a puzzle, not a test.
 > * It's a journey, not an end.

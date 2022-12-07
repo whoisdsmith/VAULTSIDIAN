@@ -19,6 +19,7 @@ Please read the [contribution guidelines](../../../DEV-DOCS/automation/Pipedream
 - [Tools](#tools)
 
 ## Archive of Icons
+
 - [iconmonstr](http://iconmonstr.com/) - Discover over 3000  free simple icons in varius collections.
 - [TheNounProject](https://thenounproject.com/) - Search over 150,000 icons designed by creators from arround the world.
 - [svg-icon](https://github.com/leungwensen/svg-icon) - An ultimate svg icons collection done right, with over 4,000 SVG icons out of the box.
@@ -29,6 +30,7 @@ Please read the [contribution guidelines](../../../DEV-DOCS/automation/Pipedream
 - [LogoSear.ch](https://logosear.ch/search.html) - SVG logo search engine with over 200,000 logos indexed.
 
 ## Generic
+
 - [Simple icons](https://simpleicons.org/) - Over 1000 Free SVG icons for popular brands.
 - [Devicon](https://konpa.github.io/devicon/) - A set of icons representing programming languages, designing & development tools. You can use it as a font or directly copy/paste the svg code into your project.
 - [Feather](https://feathericons.com/) - A collection of simply beautiful open source icons.
@@ -76,10 +78,12 @@ Please read the [contribution guidelines](../../../DEV-DOCS/automation/Pipedream
 - [Akar Icons](https://github.com/artcoholic/akar-icons) - Perfectly rounded icon library made for designers and developers as React components.
 
 ## Map / Countries
+
 - [StateFace](http://propublica.github.io/stateface/) - All 50 states plus D.C. and a wee continental U.S. map.
 - [flag-icon-css](http://lipis.github.io/flag-icon-css/) - A collection of all country flags in SVG — plus the CSS for easier integration.
 
 ## Social
+
 - [Mono Social Icons Font](http://drinchev.github.io/monosocialiconsfont/)
 - [Social Media Icons Pack](https://www.fontfabric.com/fonts/social-media-icons-pack/) - Socialico is a package of 74 social media icons, combined within a single weight font.
 - [Social Share Kit](http://socialsharekit.com/) - Social network icons, share buttons, share count, floating/sticky button bar and popups.
@@ -87,18 +91,21 @@ Please read the [contribution guidelines](../../../DEV-DOCS/automation/Pipedream
 - [Zocial](https://github.com/adamstac/zocial) - Sass and Compass CSS3 social buttons framework.
 
 ## Weather
+
 - [Meteocons](http://www.alessioatzeni.com/meteocons/) - 40+ icons available in PSD, CSH, EPS, SVG, Desktop font and Web font.
 - [Weather 7 Icon Font Set](http://www.pixeden.com/icon-fonts/weather-7-icon-font-set) - A complete set of 60 weather icons inspired by iOS 7.
 - [Weather Icons](https://erikflowers.github.io/weather-icons/) - 222 Weather Themed Icons and CSS.
 
 ## Merchants
-- [Bitcoin-Icons](https://github.com/BitcoinDesign/Bitcoin-Icons) - Bitcoin Icons is an open-source/open-design set of icons made for Bitcoin centric applications. 
+
+- [Bitcoin-Icons](https://github.com/BitcoinDesign/Bitcoin-Icons) - Bitcoin Icons is an open-source/open-design set of icons made for Bitcoin centric applications.
 - [CMC Cryptocurrency Icons](https://github.com/ErikThiart/cryptocurrency-icons) - all the cryptocurrency icons available on coinmarketcap.
 - [Cryptocurrency Icons](https://github.com/spothq/cryptocurrency-icons) - over 6000 crypto currencies icons in 4 styles and a range of sizes. Completely free.
 - [Payment Webfont](http://www.orlandotm.com/payment-webfont/) - An SVG webfont full of icons of main payment systems.
 - [PaymentFont](http://paymentfont.io/) - A sleek webfont containing 95 icons of all main payment operators and methods.
 
 ## Tools
+
 - [fontello](http://fontello.com/) - Icon fonts generator.
 - [svg-icon](http://leungwensen.github.io/svg-icon/) - Select as many SVG icons as you need, and download as an SVG symbols sprite file.
 - [svgtofont](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.

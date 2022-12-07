@@ -5,7 +5,7 @@ source: https://dev.to/eludadev/take-your-github-repository-to-the-next-level-17
 author: 
 ---
 
-# Take Your Github Repository To The Next Level - DEV Community 
+# Take Your Github Repository To The Next Level - DEV Community
 
 ---
 I’ve been using Github for a very long time now, and along the way I’ve been gathering a step-by-step guide on creating the perfect Github repository. If you haven’t guessed already, this article is an enhanced version of that guide.
@@ -40,24 +40,23 @@ The wrong name can do worse than fail to connect with users. In contrast, a clea
 
 Here are 12 helpful suggestions on how to come up with a winning name for your project:
 
-1.  **Avoid hard-to-spell names.**
-    
-2.  **Conduct a thorough Internet search.**
-    
-3.  **Get the .dev or .io domain name.**
-    
-4.  **Use a name that conveys some meaning.**
-    
-5.  **Get feedback on the name.**
-    
-6.  **Make sure the name sounds good when said aloud.**
-    
-7.  **Use resources available for brainstorming names:**
-    
+1. **Avoid hard-to-spell names.**
 
--   [VisualThesaurus.com](http://www.visualthesaurus.com/)
--   [Shopify Business Name Generator](https://www.shopify.com/tools/business-name-generator)
--   [Business Name Generator](https://businessnamegenerator.com/)
+2. **Conduct a thorough Internet search.**
+
+3. **Get the .dev or .io domain name.**
+
+4. **Use a name that conveys some meaning.**
+
+5. **Get feedback on the name.**
+
+6. **Make sure the name sounds good when said aloud.**
+
+7. **Use resources available for brainstorming names:**
+
+- [VisualThesaurus.com](http://www.visualthesaurus.com/)
+- [Shopify Business Name Generator](https://www.shopify.com/tools/business-name-generator)
+- [Business Name Generator](https://businessnamegenerator.com/)
 
 ### [](https://dev.to/eludadev/take-your-github-repository-to-the-next-level-17ge?signin=true#examples)Examples
 
@@ -78,10 +77,10 @@ Users are more likely to support a project that has an attention-grabbing cover 
 
 But you don’t have to be a designer to create amazing visuals for your project, because there’s a dizzying amount of free graphic design tools on the Internet:
 
--   [Figma](https://www.figma.com/graphic-design-tool/)
--   [VistaCreate](https://create.vista.com/)
--   [Desygner](https://desygner.com/)
--   [Canva](https://www.canva.com/)
+- [Figma](https://www.figma.com/graphic-design-tool/)
+- [VistaCreate](https://create.vista.com/)
+- [Desygner](https://desygner.com/)
+- [Canva](https://www.canva.com/)
 
 ### [](https://dev.to/eludadev/take-your-github-repository-to-the-next-level-17ge?signin=true#examples)Examples
 
@@ -111,10 +110,10 @@ This is your chance to explain the project in one paragraph. If you do this well
 
 In general, the description should answer a short list of basic questions:
 
--   **What is this repo or project?**
--   **How does it work?**
--   **Who will use this repo or project?**
--   **What is the goal of this project?**
+- **What is this repo or project?**
+- **How does it work?**
+- **Who will use this repo or project?**
+- **What is the goal of this project?**
 
 If you follow these steps, not only will it be easier for developers to know how to become involved with the project, but it will be easy for non-coders to understand what the code is designed to do, and how they too can become involved!
 
@@ -133,15 +132,15 @@ If you follow these steps, not only will it be easier for developers to know how
 
 People love animated imagery! You can use GIFs to visually show many things:
 
--   How your program is used.
--   The best features of your program.
--   A visual guide to achieve some specific task.
+- How your program is used.
+- The best features of your program.
+- A visual guide to achieve some specific task.
 
 And there’s a wide variety of free tools that you can use to create said videos, including but not limited to:
 
--   [Ascii Cinema](https://asciinema.org/) to record your terminal sessions.
--   [Loom](https://www.loom.com/) or [OBS](https://obsproject.com/) to record any part of your screen.
--   [Veed](https://www.veed.io/) to edit videos online.
+- [Ascii Cinema](https://asciinema.org/) to record your terminal sessions.
+- [Loom](https://www.loom.com/) or [OBS](https://obsproject.com/) to record any part of your screen.
+- [Veed](https://www.veed.io/) to edit videos online.
 
 ### [](https://dev.to/eludadev/take-your-github-repository-to-the-next-level-17ge?signin=true#examples)Examples
 
@@ -153,9 +152,9 @@ And there’s a wide variety of free tools that you can use to create said video
 
 If the user has to install your program before using it, you should add a detailed section that explains how the user can do it. Here are some general rules to follow:
 
--   Don’t jump any steps.
--   Have different sections for each operation system (Linux, macOS, Windows).
--   Show how the user can fix the most common errors.
+- Don’t jump any steps.
+- Have different sections for each operation system (Linux, macOS, Windows).
+- Show how the user can fix the most common errors.
 
 I also recommend using the HTML [`<details>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details) tag to create a collapsing menu. It results in a much cleaner README file!
 
@@ -197,7 +196,7 @@ There’s nothing better than a nice community! If the user ever needs help, the
 
 Here are 3 general steps towards building a great community for your project:
 
-### [](https://dev.to/eludadev/take-your-github-repository-to-the-next-level-17ge?signin=true#step-91-lets-connect)Step 9.1 - Let’s Connect!
+### [](https://dev.to/eludadev/take-your-github-repository-to-the-next-level-17ge?signin=true#step-91-lets-connect)Step 9.1 - Let’s Connect
 
 Add a “Let’s Connect!” section to your README, where you reveal several links to the platforms where your community resides: [Discord](https://discord.com/), [Gitter](https://gitter.im/), [Slack](https://slack.com/), or even simply an email address!
 
@@ -235,9 +234,9 @@ Since open-source inherently welcomes outside contributors, it’s important to 
 
 You should include a `CONTRIBUTING.md` file in your repo, which outlines the following:
 
--   If there are any additional setup steps specific for development.
--   Whether there are explicit Instructions for running tests before contributions are accepted.
--   Whether potential contributors should ask before they make significant changes.
+- If there are any additional setup steps specific for development.
+- Whether there are explicit Instructions for running tests before contributions are accepted.
+- Whether potential contributors should ask before they make significant changes.
 
 [Here’s a template of a `CONTRIBUTIONS.md` file.](https://github.com/probot/template/blob/master/CODE_OF_CONDUCT.md)
 
@@ -280,32 +279,32 @@ What features are you going to add in the next version? When do you plan to rele
 Github has a [releases feature](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases) that lets you show a history of your project’s versions. In every release, you should [write a changelog](https://keepachangelog.com/en/1.0.0/) that describes what’s new and what was removed from that version.
 
 > ### [](https://dev.to/eludadev/take-your-github-repository-to-the-next-level-17ge?signin=true#how-do-i-make-a-good-changelog)How do I make a good changelog?
-> 
+>
 > #### [](https://dev.to/eludadev/take-your-github-repository-to-the-next-level-17ge?signin=true#guiding-principles)Guiding Principles
-> 
-> -   Changelogs are _for humans_, not machines.
-> -   There should be an entry for every single version.
-> -   The same types of changes should be grouped.
-> -   Versions and sections should be linkable.
-> -   The latest version comes first.
-> -   The release date of each version is displayed.
-> -   Mention whether you follow [Semantic Versioning](https://semver.org/).
-> 
+>
+> - Changelogs are _for humans_, not machines.
+> - There should be an entry for every single version.
+> - The same types of changes should be grouped.
+> - Versions and sections should be linkable.
+> - The latest version comes first.
+> - The release date of each version is displayed.
+> - Mention whether you follow [Semantic Versioning](https://semver.org/).
+>
 > #### [](https://dev.to/eludadev/take-your-github-repository-to-the-next-level-17ge?signin=true#types-of-changes)Types of changes
-> 
-> -   `Added` for new features.
->     
-> -   `Changed` for changes in existing functionality.
->     
-> -   `Deprecated` for soon-to-be removed features.
->     
-> -   `Removed` for now removed features.
->     
-> -   `Fixed` for any bug fixes.
->     
-> -   `Security` in case of vulnerabilities.
->     
-> 
+>
+> - `Added` for new features.
+>
+> - `Changed` for changes in existing functionality.
+>
+> - `Deprecated` for soon-to-be removed features.
+>
+> - `Removed` for now removed features.
+>
+> - `Fixed` for any bug fixes.
+>
+> - `Security` in case of vulnerabilities.
+>
+>
 > — [keepachangelog.com](https://keepachangelog.com/en/1.0.0/)
 
 ### [](https://dev.to/eludadev/take-your-github-repository-to-the-next-level-17ge?signin=true#examples)Examples
@@ -344,8 +343,8 @@ ___
 
 **Credits: ❤️**
 
--   Thanks to [Benny Neugebauer](https://dev.to/bennycode) for suggesting sections 12 and 13.
--   Thanks to [Paul McGann](https://dev.to/paulmcgann) for suggesting OBS in step 5.
+- Thanks to [Benny Neugebauer](https://dev.to/bennycode) for suggesting sections 12 and 13.
+- Thanks to [Paul McGann](https://dev.to/paulmcgann) for suggesting OBS in step 5.
 
 Those were 15 steps towards creating a killer Github repository. They’re not rocket science, but they can have a great effect on the success of your project!
 
@@ -353,15 +352,15 @@ Those were 15 steps towards creating a killer Github repository. They’re not r
 
 ![eludadev image](https://res.cloudinary.com/practicaldev/image/fetch/s--5za4Y1ib--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/practicaldev/image/fetch/s--4GC_tERd--/c_fill%2Cf_auto%2Cfl_progressive%2Ch_150%2Cq_auto%2Cw_150/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/833086/70bc7202-cda0-4493-9c55-1796fb35454e.png)
 
-](https://dev.to/eludadev)
+](<https://dev.to/eludadev>)
 
 > ![unknown tweet media content](https://res.cloudinary.com/practicaldev/image/fetch/s--HWrEmTbZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/FTD028VWUAMfpod.jpg)
-> 
+>
 > Aloha, web developers! 👋  
 > If you struggle with memorizing the whopping amount of selectors out there, know that you'r not alone.
-> 
+>
 > I have a cure for this problem. It's literally free. Print it. Make it your desktop background. Or even print it on a t-shirt. It's yours forever.
-> 
+>
 > 18:14 PM - 18 May 2022
-> 
->  [![Twitter reply action](https://res.cloudinary.com/practicaldev/image/fetch/s--fFnoeFxk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev.to/assets/twitter-reply-action-238fe0a37991706a6880ed13941c3efd6b371e4aefe288fe8e0db85250708bc4.svg)](https://twitter.com/intent/tweet?in_reply_to=1526989502199234567)[![Twitter retweet action](https://res.cloudinary.com/practicaldev/image/fetch/s--k6dcrOn8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev.to/assets/twitter-retweet-action-632c83532a4e7de573c5c08dbb090ee18b348b13e2793175fea914827bc42046.svg) ](https://twitter.com/intent/retweet?tweet_id=1526989502199234567)[![Twitter like action](https://res.cloudinary.com/practicaldev/image/fetch/s--SRQc9lOp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev.to/assets/twitter-like-action-1ea89f4b87c7d37465b0eb78d51fcb7fe6c03a089805d7ea014ba71365be5171.svg)](https://twitter.com/intent/like?tweet_id=1526989502199234567)
+>
+> [![Twitter reply action](https://res.cloudinary.com/practicaldev/image/fetch/s--fFnoeFxk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev.to/assets/twitter-reply-action-238fe0a37991706a6880ed13941c3efd6b371e4aefe288fe8e0db85250708bc4.svg)](https://twitter.com/intent/tweet?in_reply_to=1526989502199234567)[![Twitter retweet action](https://res.cloudinary.com/practicaldev/image/fetch/s--k6dcrOn8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev.to/assets/twitter-retweet-action-632c83532a4e7de573c5c08dbb090ee18b348b13e2793175fea914827bc42046.svg) ](https://twitter.com/intent/retweet?tweet_id=1526989502199234567)[![Twitter like action](https://res.cloudinary.com/practicaldev/image/fetch/s--SRQc9lOp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev.to/assets/twitter-like-action-1ea89f4b87c7d37465b0eb78d51fcb7fe6c03a089805d7ea014ba71365be5171.svg)](https://twitter.com/intent/like?tweet_id=1526989502199234567)

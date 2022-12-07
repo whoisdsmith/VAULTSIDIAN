@@ -33,4 +33,4 @@ Tags::
 | Day   | 29  | 30  |     |     |     |     |     |
 | Notes      |     |     |     |     |     |     |     |
 
-## Congratulations! You Made it to 30 Days! You See if You Can Keep Going.
+## Congratulations! You Made it to 30 Days! You See if You Can Keep Going

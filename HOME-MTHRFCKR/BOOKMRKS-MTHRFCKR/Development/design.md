@@ -108,21 +108,15 @@
 
 - [Playground AI](https://playgroundai.com/login)
 
-
-
 ## 3D
 
 - [3D models database | Printables.com](https://www.printables.com/)
 
 - [Thangs | Free 3D model community | Geometric Search](https://thangs.com/)
 
-
-
 ## Animation
 
 - [Kinegram](https://kinegram.app/)
-
-
 
 ## Design
 
@@ -140,7 +134,7 @@
 
 - [Design rocks](https://www.design.rocks/)
 
-- [MEGA](https://mega.nz/#F!yDgHWILD!ZH3Z1Tdmv9S9R0-CVGOFVQ) #MEGA 
+- [MEGA](https://mega.nz/#F!yDgHWILD!ZH3Z1Tdmv9S9R0-CVGOFVQ) #MEGA
 
 - [Namecheap](https://www.namecheap.com/)
 
@@ -149,8 +143,6 @@
 - [Trello.com](https://trello.com/b/TCIgF8sF/design-br-vip)
 
 - [Behance](https://www.behance.net/collection/4860923/Free-Fonts)
-
-
 
 ## Fonts
 
@@ -246,8 +238,6 @@
 
 - [How to download paid fonts for free : Piracy](https://redd.it/8tqfg6)
 
-
-
 ## Icons
 
 - [Free Icons PNG, ICO, ICNS and Vector file SVG](https://icon-icons.com/)
@@ -298,8 +288,6 @@
 
 - [Free Icons Web](http://www.freeiconsweb.com/)
 
-
-
 ## Images
 
 - [KREA — explore great prompts.](https://www.krea.ai/)
@@ -308,8 +296,6 @@
 
 - [Artbreeder](https://artbreeder.com/)
 
-
-
 ## Logos
 
 - [Brands of the World™ | Download vector logos and logotypes](https://www.brandsoftheworld.com/)
@@ -317,8 +303,6 @@
 - [Logodownload.org](https://logodownload.org/)
 
 - [Company Logo Downloads - Vector Logos, Arms (AI, EPS, SVG, PNG )](http://www.logoeps.net/)
-
-
 
 ## Mockup's
 
@@ -382,8 +366,6 @@
 
 - [Unplast](https://unblast.com/mockups)
 
-
-
 ## Multimedia
 
 ### Graphics
@@ -395,8 +377,6 @@
 ### Download Packs
 
 - [Gift4designer](https://gift4designer.com/)
-
-
 
 ### Stock Footage
 
@@ -426,10 +406,6 @@
 
 - [Videohive Folders download ‹ TopFiles.org](https://topfiles.org/list/bjwor3ifkm)
 
-
-
-
-
 ### Photoshop
 
 - [16 Best Sites to Find Free PSD Templates for Photoshop](https://www.thebalance.com/free-psd-templates-for-adobe-photoshop-1358114)
@@ -449,8 +425,6 @@
 - [ProDesignTools: Helping Adobe® Users Since 2009](https://prodesigntools.com/)
 
 - [PSDKeys](https://psdkeys.com/)
-
-
 
 ### Resources
 
@@ -482,8 +456,6 @@
 
 - [goabstract/Awesome-Design-Tools: The best design tools and plugins for everything 👉](https://github.com/goabstract/Awesome-Design-Tools#stock-videos)
 
-
-
 ### Graphics Resources
 
 - [GFX Download | Free After effects template, Photoshop GFX packs, and much more…](https://gfxdrug.com/)
@@ -497,10 +469,6 @@
 - [Freefx.net](https://www.freefx.net/)
 
 - [GFXhome for Graphic Designers](https://gfxhome.ws/index.php)
-
-
-
-
 
 ### Video Resource Toolbox
 
@@ -528,8 +496,6 @@
 
 - [free after effects templates | after effects intro template | ShareAE » page 5](https://www.shareae.com/page/5)
 
-
-
 ### Film Writing Software
 
 - [Hollywood Camera Work :: Causality Story Sequencer :: Main](https://www.hollywoodcamerawork.com/causality.html)
@@ -544,8 +510,6 @@
 
 - [WriterDuet | Professional Screenwriting Software You'll Love](https://writerduet.com/?link=QJF56RRE)
 
-
-
 ### Lighting and Equipment Resources
 
 - [10 Best Video Equipment Rental Options for Filmmakers](https://www.studiobinder.com/blog/video-equipment-rental)
@@ -557,8 +521,6 @@
 - [Shooting Solo: A Low Budget Filmmaker's Equipment List](https://www.desktop-documentaries.com/low-budget-filmmakers-equipment-list.html)
 
 - [Video Equipment Rental | Video Camera Rental | BorrowLenses](https://www.borrowlenses.com/video)
-
-
 
 ### Royalty Free Video and Images and Music
 
@@ -585,8 +547,6 @@
 - [Vlog No Copyright Music](https://www.youtube.com/channel/UCEickjZj99-JJIU8_IJ7J-Q)
 
 - [www.lifeofvids.com/](https://www.lifeofvids.com/)
-
-
 
 ### Shooting and Editing Tools
 
@@ -620,8 +580,6 @@
 
 - [‎Shot Designer on the App&nbsp;Store](https://apps.apple.com/us/app/shot-designer/id556342711)
 
-
-
 ### SourceCon Blogs
 
 - [DIY Sourcing like those Cheesy Make your own Slime Videos but way Nerdier- Greg Hawkes](https://www.sourcecon.com/diy-sourcing-like-those-cheesy-make-your-own-slime-videos-but-way-nerdier)
@@ -633,8 +591,6 @@
 - [Integrating Video into Outreach - Greg Hawkes](https://www.sourcecon.com/integrating-video-into-outreach)
 
 - [Using Videos to Source - Josef Kadlec](https://www.sourcecon.com/video-sourcing)
-
-
 
 ### Tutorials & YouTube Channels
 
@@ -656,8 +612,6 @@
 
 - [TechGumbo](https://www.youtube.com/channel/UCaSM4GqhbaVmRT7fmmFmR1w)
 
-
-
 ### Video Editing Communities and Forums
 
 - [NewTubers](https://www.reddit.com/r/NewTubers)
@@ -672,8 +626,6 @@
 
 - [r/videography](https://www.reddit.com/r/videography)
 
-
-
 ### Video Hosting Platforms
 
 - [Dailymotion](https://www.dailymotion.com/us)
@@ -687,8 +639,6 @@
 - [Vimeo](https://vimeo.com/)
 
 - [Wix Video Overview | WIX App Market | Wix.comWix.comFacebookTwitterYouTubePinterestInstagramLinkedIn](https://www.wix.com/app-market/wix-video/overview)
-
-
 
 ### Webcam
 
@@ -709,8 +659,6 @@
 - [webcam streaming video live views : 123cam directory of thousands of live webcams on the Internet: 123cam.com](https://123cam.com/)
 
 - [PuZo.org](https://www.puzo.org/)
-
-
 
 ### YouTube
 
@@ -768,12 +716,6 @@
 
 - [Yousub.info](https://yousub.info/)
 
-
-
-
-
-
-
 ### Pallets
 
 - [0to255](https://www.0to255.com/)
@@ -793,8 +735,6 @@
 - [Colours](https://ww12.webcolourdata.com/)
 
 - [Www.canva.com](https://www.canva.com/colors/color-palettes)
-
-
 
 ### Patterns
 
@@ -828,8 +768,6 @@
 
 - [Unsplash Backgrounds](https://unsplash.com/backgrounds)
 
-
-
 ### Placeholder
 
 - [Jeffsum | Text Generator](https://jeffsum.com/)
@@ -843,8 +781,6 @@
 - [Placeholder.pics](https://placeholder.pics/)
 
 - [Placemat](https://placem.at/)
-
-
 
 ### PNGs
 
@@ -876,8 +812,6 @@
 
 - [Png image Vectors, Photos and PSD files | Free Download](https://www.freepik.com/search?dates=any&format=search&page=1&query=png+image&selection=1&sort=popular)
 
-
-
 ### Shutterstock
 
 - [Stock Photo and Image Portfolio by faestock | Shutterstock](https://www.shutterstock.com/g/faestock)
@@ -901,8 +835,6 @@
 - [Stock Photo Downloader](https://tomato.to/)
 
 - [Find Stock](https://nohat.cc/tool/findstock)
-
-
 
 ### Stock Photos
 
@@ -1032,8 +964,6 @@
 
 - [splashbase](https://www.splashbase.co/)
 
-
-
 ### SVG
 
 - [Zdog](https://zzz.dog/)
@@ -1042,15 +972,11 @@
 
 - [Svgrepo](https://www.svgrepo.com/)
 
-
-
 ### Templates
 
 - [Gift 4 Designer](https://gift4designer.net/)
 
 - [Templates4share.com - Free Web Templates, Themes and Graphic for Designers](http://templates4share.com/)
-
-
 
 ### Vectors
 

@@ -9,6 +9,7 @@ The style, arrangement, or appearance of typeset matter.
 [![Twitter](https://img.shields.io/badge/follow-twitter-55acee.svg?style=flat-square)](https://twitter.com/FrontendDir)
 
 -----------------------------------------
+
 + **[A Comprehensive Guide to Font Loading Strategies](https://www.zachleat.com/web/comprehensive-webfonts/)**: Zach Leatherman describes different approaches to loading of web fonts.
 + **[Adobe Edge Web Fonts](https://edgewebfonts.adobe.com/fonts)**: Edge Web Fonts is a free service that provides access to a large library of fonts for your website. It’s one of the Edge Tools & Services from Adobe. Use of the service is free and unlimited.
 + **[Baseline.js](https://github.com/daneden/Baseline.js)**: A simple jQuery plugin for restoring vertical baselines thrown off by odd image sizes.
@@ -30,7 +31,6 @@ The style, arrangement, or appearance of typeset matter.
 + **[bacon](http://baconforme.com/)**: Bacon is a jQuery plugin that allows you to wrap text around a bezier curve or a line.
 + **[slabText](https://github.com/freqDec/slabText/)**: A jQuery plugin for producing big, bold & responsive headlines.
 + **[trunk8](http://jrvis.com/trunk8/)**: trunk8 is an intelligent text truncation plugin to jQuery. When applied to a large block of text, trunk8 will cut off just enough text to prevent it from spilling over.
-
 
 ------------------
 

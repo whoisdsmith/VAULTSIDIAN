@@ -24,7 +24,7 @@ Tags:: [[+Daily Notes]]
 
 ---
 
-### Notes Created Today:
+### Notes Created Today
 
 ```dataview
 List FROM "" WHERE file.cday = date("<%tp.date.now("YYYY-MM-DD")%>") SORT file.ctime asc
@@ -32,7 +32,7 @@ List FROM "" WHERE file.cday = date("<%tp.date.now("YYYY-MM-DD")%>") SORT file.c
 
 ---
 
-### Notes Modified Today:
+### Notes Modified Today
 
 ```dataview
 List FROM "" WHERE file.mday = date("<%tp.date.now("YYYY-MM-DD")%>") SORT file.mtime asc

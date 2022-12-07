@@ -23,9 +23,9 @@ week: <% tp.date.now("YYYY-WW") %>
 ## Birds
 
 **[[<% tp.date.now("YYYY-MM-DD", 0, tp.file.title, "YYYY-MM-DD") %>]]**  
-#BirdDiet  
-#BirdHealth  
-#BirdLog  
+# BirdDiet  
+# BirdHealth  
+# BirdLog  
 ^1
 
 Weekly Log: [[<%tp.date.now("YYYY-WW",0, tp.file.title, "YYYY-MM-DD")%>]]

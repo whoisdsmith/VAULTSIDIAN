@@ -7,18 +7,9 @@
 
 &nbsp;
 
-
-
-
-
 # MOBILE
 
 &nbsp;
-
-
-
-
-
 
 For mobile Movies & TV apps, jump to the [**Movies & TV section**](https://www.reddit.com/r/Piracy/wiki/megathread/movies_and_tv) of the megathread.
 
@@ -42,20 +33,13 @@ For mobile Movies & TV apps, jump to the [**Movies & TV section**](https://www.r
 
 &nbsp;
 
-
 * See /r/ApksApps for more Android apps
 
 * See /r/moddedandroidapps for more Android apps
 
 * See /r/sideloaded for iOS
 
-
 &nbsp;
-
-
-
-
-
 
 ## ► Android Music Apps
 
@@ -72,11 +56,6 @@ For mobile Movies & TV apps, jump to the [**Movies & TV section**](https://www.r
 * [YMusic](https://forum.xda-developers.com/android/apps-games/app-youtube-music-sound-stream-youtubes-t3399722) - Youtube Music player and downloader
 &nbsp;
 
-
-
-
-
-
 ## ► Torrent Clients
 
 * [LibreTorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) - Ad-free, open-source torrent client for Android.
@@ -91,12 +70,6 @@ For mobile Movies & TV apps, jump to the [**Movies & TV section**](https://www.r
 
 &nbsp;
 
-
-
-
-
-
-
 ## ► Clean APK Mirrors
 
 * [apkmirror.com](https://www.apkmirror.com/) - Contains untouched and signed release apks. Useful if searching for a prior version of an application.
@@ -108,13 +81,6 @@ For mobile Movies & TV apps, jump to the [**Movies & TV section**](https://www.r
 * [PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) - Play Store APK downloader
 
 &nbsp;
-
-
-
-
-
-
-
 
 ## ► Android Cracked/Modded App Markets & Repos
 
@@ -142,13 +108,6 @@ For mobile Movies & TV apps, jump to the [**Movies & TV section**](https://www.r
 
 &nbsp;
 
-
-
-
-
-
-
-
 ## ► iOS Cracked App Markets & Repos
 
 * [Mobilism](https://forum.mobilism.org/viewforum.php?f=1&sid=de0c8bc8562b4de21af5092ee62b8a86) - Mobilism's app to browse their cracked apps & ebook catalogue
@@ -160,7 +119,7 @@ For mobile Movies & TV apps, jump to the [**Movies & TV section**](https://www.r
 * [cydia.iphonecake.com](https://cydia.iphonecake.com)
 
 * [cydia.kiiimo.org]
-(https://cydia.kiiimo.org)
+(<https://cydia.kiiimo.org>)
 
 * [cydiageek.yourepo.com](https://cydiageek.yourepo.com/)
 

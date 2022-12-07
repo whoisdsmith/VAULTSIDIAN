@@ -10,20 +10,15 @@ This is the documentation for the new WordPress app. [Here is the documentation 
 
 ## Getting Started with WordPress
 
-
-
-
-
-](https://www.make.com/en/help/apps/website-building/wordpress#getting-started-with-wordpress-968742_body)
+](<https://www.make.com/en/help/apps/website-building/wordpress#getting-started-with-wordpress-968742_body>)
 
 The WordPress modules allow you to monitor, publish, update, delete, or search posts, pages, comments, media, users, and tags on your WordPress site.
 
 Prerequisites
 
--   WordPress installed on your server or webhosting – you can download WordPress at [wordpress.org/download/](https://wordpress.org/download/) and install by following the instructions on [wordpress.org/support/article/how-to-install-wordpress](https://wordpress.org/support/article/how-to-install-wordpress/).
-    
--   [Make Connector](https://wordpress.org/plugins/integromat-connector/) **plugin** – get the plugin at [wordpress.org/plugins/Make\-connector](https://wordpress.org/plugins/integromat-connector/).
-    
+- WordPress installed on your server or webhosting – you can download WordPress at [wordpress.org/download/](https://wordpress.org/download/) and install by following the instructions on [wordpress.org/support/article/how-to-install-wordpress](https://wordpress.org/support/article/how-to-install-wordpress/).
+
+- [Make Connector](https://wordpress.org/plugins/integromat-connector/) **plugin** – get the plugin at [wordpress.org/plugins/Make\-connector](https://wordpress.org/plugins/integromat-connector/).
 
 ### Note
 
@@ -33,65 +28,59 @@ The module dialog fields that are displayed in **bold** (in the Make scenario, *
 
 ## Connecting WordPress to Make
 
-
-
-
-
-](https://www.make.com/en/help/apps/website-building/wordpress#connecting-wordpress-to-make-968742_body)
+](<https://www.make.com/en/help/apps/website-building/wordpress#connecting-wordpress-to-make-968742_body>)
 
 To connect your WordPress account to Make, the [Make Connector](https://wordpress.org/plugins/integromat-connector/) plugin has to be installed in your WordPress installation.
 
-1.  Visit [https://wordpress.org/plugins/Make\-connector](https://wordpress.org/plugins/integromat-connector/) and **download** the _Make Connector_ plugin ([direct link](https://downloads.wordpress.org/plugin/integromat-connector.zip)).
-    
-2.  Log in to your WordPress administration and navigate to _Plugins_.
-    
+1. Visit [https://wordpress.org/plugins/Make\-connector](https://wordpress.org/plugins/integromat-connector/) and **download** the _Make Connector_ plugin ([direct link](https://downloads.wordpress.org/plugin/integromat-connector.zip)).
+
+2. Log in to your WordPress administration and navigate to _Plugins_.
+
     ![61d6be64a5383.gif](https://www.make.com/en/help/apps/website-building/wordpress../../image/1621f61c0b80cc.gif)
-    
-3.  Click the _Add New_ button.
-    
+
+3. Click the _Add New_ button.
+
     ![61d6be66efe5a.png](https://www.make.com/en/help/apps/website-building/wordpress../../image/1621f61c0e1add.png)
-    
-4.  Click on the _Upload plugin_ button, _browse_ and select the plugin ZIP file. Click _Install now_ to install the plugin.
-    
+
+4. Click on the _Upload plugin_ button, _browse_ and select the plugin ZIP file. Click _Install now_ to install the plugin.
+
     ![61d6be686ce59.gif](https://www.make.com/en/help/apps/website-building/wordpress../../image/1621f61c0e763e.gif)
-    
-5.  After the installation is finished, click on the _Activate Plugin_ button (![61d6be6b2a6b5.png](https://www.make.com/en/help/apps/website-building/wordpress../../image/1621f61c1144cf.png)).
-    
-6.  Open Make plugin from the menu on the left and copy the provided API Key.
-    
+
+5. After the installation is finished, click on the _Activate Plugin_ button (![61d6be6b2a6b5.png](https://www.make.com/en/help/apps/website-building/wordpress../../image/1621f61c1144cf.png)).
+
+6. Open Make plugin from the menu on the left and copy the provided API Key.
+
     ![61d6be6c41a28.gif](https://www.make.com/en/help/apps/website-building/wordpress../../image/1621f61c118f8d.gif)
-    
-7.  Go to Make and open the _Create a connection_ dialog of the desired _WordPress_ module. Enter the _REST API Base URL_ of your WordPress site (for example _https://my-wordpress-site.com**/wp-json**_) and the _API Key_ you have copied in step 6 above to the respective fields.
-    
-8.  Establish a connection by clicking the _Continue_ button.
-    
+
+7. Go to Make and open the _Create a connection_ dialog of the desired _WordPress_ module. Enter the _REST API Base URL_ of your WordPress site (for example _<https://my-wordpress-site.com**/wp-json>**_) and the _API Key_ you have copied in step 6 above to the respective fields.
+
+8. Establish a connection by clicking the _Continue_ button.
+
     ![61d6be6f422be.png](https://www.make.com/en/help/apps/website-building/wordpress../../image/1621f61c136ed4.png)
-    
 
 The connection has been established. You can proceed with setting up the module.
 
 ## Custom Fields
 
-1.  To work with object's custom fields you want to include in module's output you need to activate the desired fields in the [MakeConnector](https://wordpress.org/plugins/integromat-connector/) plugin.
-    
-2.  Install the Make Connector plugin as described in the [Connecting WordPress to](https://www.make.com/en/help/apps/website-building/wordpresswordpress.html#connecting-wordpress-to-make-968742 "Connecting WordPress to Make") Make section above.
-    
-3.  If needed, follow these [instructions](https://www.wpbeginner.com/wp-tutorials/wordpress-custom-fields-101-tips-tricks-and-hacks/) in order to add a custom field to your post, page, media, or another object.
-    
-4.  Navigate to Make _> Custom API Fields_ settings.
-    
+1. To work with object's custom fields you want to include in module's output you need to activate the desired fields in the [MakeConnector](https://wordpress.org/plugins/integromat-connector/) plugin.
+
+2. Install the Make Connector plugin as described in the [Connecting WordPress to](https://www.make.com/en/help/apps/website-building/wordpresswordpress.html#connecting-wordpress-to-make-968742 "Connecting WordPress to Make") Make section above.
+
+3. If needed, follow these [instructions](https://www.wpbeginner.com/wp-tutorials/wordpress-custom-fields-101-tips-tricks-and-hacks/) in order to add a custom field to your post, page, media, or another object.
+
+4. Navigate to Make _> Custom API Fields_ settings.
+
     ![61d6be70b20f2.gif](https://www.make.com/en/help/apps/website-building/wordpress../../image/1621f61c13c666.gif)
-    
-5.  Select the desired object's custom fields you want to include in the module's output.
-    
+
+5. Select the desired object's custom fields you want to include in the module's output.
+
     ![61d6be73ee882.gif](https://www.make.com/en/help/apps/website-building/wordpress../../image/1621f61c176fe2.gif)
-    
-6.  Click on the _Save Settings_ button.
-    
-7.  The selected custom fields are now available in the module's output.
-    
+
+6. Click on the _Save Settings_ button.
+
+7. The selected custom fields are now available in the module's output.
+
     ![61d6be773758d.png](https://www.make.com/en/help/apps/website-building/wordpress../../image/1621f61c19913d.png)
-    
 
 ## Posts
 
@@ -99,11 +88,7 @@ The connection has been established. You can proceed with setting up the module.
 
 ### Watch Posts
 
-
-
-
-
-](https://www.make.com/en/help/apps/website-building/wordpress#watch-posts-968742_body)
+](<https://www.make.com/en/help/apps/website-building/wordpress#watch-posts-968742_body>)
 
 Triggers when a new object is added.
 
@@ -113,11 +98,7 @@ Triggers when a new object is added.
 
 ### Search Posts
 
-
-
-
-
-](https://www.make.com/en/help/apps/website-building/wordpress#search-posts-968742_body)
+](<https://www.make.com/en/help/apps/website-building/wordpress#search-posts-968742_body>)
 
 Searches for a post and returns its details.
 
@@ -129,11 +110,7 @@ For descriptions of fields under _Advanced settings_ please refer to the [WordPr
 
 ### Get a Post
 
-
-
-
-
-](https://www.make.com/en/help/apps/website-building/wordpress#get-a-post-968742_body)
+](<https://www.make.com/en/help/apps/website-building/wordpress#get-a-post-968742_body>)
 
 Retrieves post details.
 
@@ -143,11 +120,7 @@ Retrieves post details.
 
 ### Create a Post
 
-
-
-
-
-](https://www.make.com/en/help/apps/website-building/wordpress#create-a-post-968742_body)
+](<https://www.make.com/en/help/apps/website-building/wordpress#create-a-post-968742_body>)
 
 Creates an object.
 
@@ -157,11 +130,7 @@ Creates an object.
 
 ### Update a Post
 
-
-
-
-
-](https://www.make.com/en/help/apps/website-building/wordpress#update-a-post-968742_body)
+](<https://www.make.com/en/help/apps/website-building/wordpress#update-a-post-968742_body>)
 
 Allows you to modify the existing post.
 
@@ -173,11 +142,7 @@ Please find the descriptions of the fields in the section [Create a Post](https:
 
 ### Delete a Post
 
-
-
-
-
-](https://www.make.com/en/help/apps/website-building/wordpress#delete-a-post-968742_body)
+](<https://www.make.com/en/help/apps/website-building/wordpress#delete-a-post-968742_body>)
 
 Deletes a specified WordPress object (post, page, media, product, ...)
 
@@ -189,11 +154,7 @@ Deletes a specified WordPress object (post, page, media, product, ...)
 
 ### Watch Categories
 
-
-
-
-
-](https://www.make.com/en/help/apps/website-building/wordpress#watch-categories-968742_body)
+](<https://www.make.com/en/help/apps/website-building/wordpress#watch-categories-968742_body>)
 
 Triggers when a new category is created.
 
@@ -203,11 +164,7 @@ Triggers when a new category is created.
 
 ### Search Categories
 
-
-
-
-
-](https://www.make.com/en/help/apps/website-building/wordpress#search-categories_body)
+](<https://www.make.com/en/help/apps/website-building/wordpress#search-categories_body>)
 
 <table class="informaltable frame-void rules-rows"><colgroup><col><col></colgroup><tbody><tr><td class="td"><p><span class="bold bold"><strong>Connection</strong></span></p></td><td class="td"><p><a class="link" href="https://www.make.com/en/help/apps/website-building/wordpresswordpress.html#connecting-wordpress-to-make-968742" title="Connecting WordPress to Make">Establish a connection to your WordPress.</a></p></td></tr><tr><td class="td"><p><span class="bold bold"><strong>Search</strong></span></p></td><td class="td"><p>Enter the search term.</p></td></tr><tr><td class="td"><p><span class="bold bold"><strong>Parent Category</strong></span></p></td><td class="td"><p>Select the category to filter results by its subcategories.</p></td></tr><tr><td class="td"><p><span class="bold bold"><strong>Post Type</strong></span></p></td><td class="td"><p>Select the type to filter results by specific post.</p></td></tr><tr><td class="td"><p><span class="bold bold"><strong>Post</strong></span></p></td><td class="td"><p>Select the specific post to filter results by.</p></td></tr><tr><td class="td"><p><span class="bold bold"><strong>Field</strong></span></p></td><td class="td"><p>Select the fields you want to order returned fields by.</p></td></tr><tr><td class="td"><p><span class="bold bold"><strong>Order</strong></span></p></td><td class="td"><p>Select the ascending or descending order of returned results.</p></td></tr><tr><td class="td"><p><span class="bold bold"><strong>Limit</strong></span></p></td><td class="td"><p>Set the maximum number of categories <span class="phrase">Make</span> will return during one cycle.</p></td></tr></tbody></table>
 
@@ -217,11 +174,7 @@ For descriptions of fields under _Advanced settings_ please refer to the [WordPr
 
 ### Get a Category
 
-
-
-
-
-](https://www.make.com/en/help/apps/website-building/wordpress#get-a-category-968742_body)
+](<https://www.make.com/en/help/apps/website-building/wordpress#get-a-category-968742_body>)
 
 Retrieves the category details.
 
@@ -231,11 +184,7 @@ Retrieves the category details.
 
 ### Create a Category
 
-
-
-
-
-](https://www.make.com/en/help/apps/website-building/wordpress#create-a-category-968742_body)
+](<https://www.make.com/en/help/apps/website-building/wordpress#create-a-category-968742_body>)
 
 Adds a new category.
 
@@ -245,11 +194,7 @@ Adds a new category.
 
 ### Update a Category
 
-
-
-
-
-](https://www.make.com/en/help/apps/website-building/wordpress#update-a-category-968742_body)
+](<https://www.make.com/en/help/apps/website-building/wordpress#update-a-category-968742_body>)
 
 Modifies an existing category.
 
@@ -261,11 +206,7 @@ Please find the descriptions of the fields in the section [Create a Category](ht
 
 ### Delete a Category
 
-
-
-
-
-](https://www.make.com/en/help/apps/website-building/wordpress#delete-a-category-968742_body)
+](<https://www.make.com/en/help/apps/website-building/wordpress#delete-a-category-968742_body>)
 
 Deletes a specified category.
 
@@ -277,11 +218,7 @@ Deletes a specified category.
 
 ### Watch Comments
 
-
-
-
-
-](https://www.make.com/en/help/apps/website-building/wordpress#watch-comments-968742_body)
+](<https://www.make.com/en/help/apps/website-building/wordpress#watch-comments-968742_body>)
 
 Triggers when a new comment is posted.
 
@@ -291,11 +228,7 @@ Triggers when a new comment is posted.
 
 ### Search Comments
 
-
-
-
-
-](https://www.make.com/en/help/apps/website-building/wordpress#search-comments-968742_body)
+](<https://www.make.com/en/help/apps/website-building/wordpress#search-comments-968742_body>)
 
 Searches for the comment and returns its details.
 
@@ -307,11 +240,7 @@ For descriptions of fields under _Advanced settings_ please refer to the [WordPr
 
 ### Get a Comment
 
-
-
-
-
-](https://www.make.com/en/help/apps/website-building/wordpress#get-a-comment-968742_body)
+](<https://www.make.com/en/help/apps/website-building/wordpress#get-a-comment-968742_body>)
 
 Retrieves details of a specified comment.
 
@@ -321,11 +250,7 @@ Retrieves details of a specified comment.
 
 ### Create a Comment
 
-
-
-
-
-](https://www.make.com/en/help/apps/website-building/wordpress#create-a-comment-968742_body)
+](<https://www.make.com/en/help/apps/website-building/wordpress#create-a-comment-968742_body>)
 
 Creates a comment.
 
@@ -335,11 +260,7 @@ Creates a comment.
 
 ### Update a Comment
 
-
-
-
-
-](https://www.make.com/en/help/apps/website-building/wordpress#update-a-comment-968742_body)
+](<https://www.make.com/en/help/apps/website-building/wordpress#update-a-comment-968742_body>)
 
 Allows you to modify an existing comment.
 
@@ -351,11 +272,7 @@ Please find the descriptions of the fields in the section [Create a Comment](htt
 
 ### Delete a Comment
 
-
-
-
-
-](https://www.make.com/en/help/apps/website-building/wordpress#delete-a-comment-968742_body)
+](<https://www.make.com/en/help/apps/website-building/wordpress#delete-a-comment-968742_body>)
 
 Deletes a specified comment.
 
@@ -367,11 +284,7 @@ Deletes a specified comment.
 
 ### Watch Media Items
 
-
-
-
-
-](https://www.make.com/en/help/apps/website-building/wordpress#watch-media-items-968742_body)
+](<https://www.make.com/en/help/apps/website-building/wordpress#watch-media-items-968742_body>)
 
 Triggers when new media is added to the library.
 
@@ -381,11 +294,7 @@ Triggers when new media is added to the library.
 
 ### Search Media Items
 
-
-
-
-
-](https://www.make.com/en/help/apps/website-building/wordpress#search-media-items_body)
+](<https://www.make.com/en/help/apps/website-building/wordpress#search-media-items_body>)
 
 Searches for media items.
 
@@ -397,11 +306,7 @@ For descriptions of fields under _Advanced settings_ please refer to the [WordPr
 
 ### Get a Media Item
 
-
-
-
-
-](https://www.make.com/en/help/apps/website-building/wordpress#get-a-media-item-968742_body)
+](<https://www.make.com/en/help/apps/website-building/wordpress#get-a-media-item-968742_body>)
 
 Retrieves the details for a specified media item.
 
@@ -411,11 +316,7 @@ Retrieves the details for a specified media item.
 
 ### Create a Media Item
 
-
-
-
-
-](https://www.make.com/en/help/apps/website-building/wordpress#create-a-media-item-968742_body)
+](<https://www.make.com/en/help/apps/website-building/wordpress#create-a-media-item-968742_body>)
 
 Creates a media item.
 
@@ -425,11 +326,7 @@ Creates a media item.
 
 ### Update a Media Item
 
-
-
-
-
-](https://www.make.com/en/help/apps/website-building/wordpress#update-a-media-item-968742_body)
+](<https://www.make.com/en/help/apps/website-building/wordpress#update-a-media-item-968742_body>)
 
 Allows you to modify an existing media item.
 
@@ -441,11 +338,7 @@ Please find the descriptions of the fields in the section [Create a Media Item](
 
 ### Delete Media Item
 
-
-
-
-
-](https://www.make.com/en/help/apps/website-building/wordpress#delete-media-item-968742_body)
+](<https://www.make.com/en/help/apps/website-building/wordpress#delete-media-item-968742_body>)
 
 Deletes specified media.
 
@@ -457,11 +350,7 @@ Deletes specified media.
 
 ### Watch Users
 
-
-
-
-
-](https://www.make.com/en/help/apps/website-building/wordpress#watch-users-968742_body)
+](<https://www.make.com/en/help/apps/website-building/wordpress#watch-users-968742_body>)
 
 Triggers when a new user is added.
 
@@ -471,11 +360,7 @@ Triggers when a new user is added.
 
 ### Search Users
 
-
-
-
-
-](https://www.make.com/en/help/apps/website-building/wordpress#search-users-968742_body)
+](<https://www.make.com/en/help/apps/website-building/wordpress#search-users-968742_body>)
 
 Searches for the user by the search term.
 
@@ -485,11 +370,7 @@ Searches for the user by the search term.
 
 ### Get a User
 
-
-
-
-
-](https://www.make.com/en/help/apps/website-building/wordpress#get-a-user-968742_body)
+](<https://www.make.com/en/help/apps/website-building/wordpress#get-a-user-968742_body>)
 
 Retrieves specified user details.
 
@@ -499,11 +380,7 @@ Retrieves specified user details.
 
 ### Create a User
 
-
-
-
-
-](https://www.make.com/en/help/apps/website-building/wordpress#create-a-user-968742_body)
+](<https://www.make.com/en/help/apps/website-building/wordpress#create-a-user-968742_body>)
 
 Creates a new user.
 
@@ -513,11 +390,7 @@ Creates a new user.
 
 ### Update a User
 
-
-
-
-
-](https://www.make.com/en/help/apps/website-building/wordpress#update-a-user-968742_body)
+](<https://www.make.com/en/help/apps/website-building/wordpress#update-a-user-968742_body>)
 
 Allows you to modify existing user information.
 
@@ -529,11 +402,7 @@ Please find the descriptions of the fields in the section, [Create a User](https
 
 ### Delete a User
 
-
-
-
-
-](https://www.make.com/en/help/apps/website-building/wordpress#delete-a-user-968742_body)
+](<https://www.make.com/en/help/apps/website-building/wordpress#delete-a-user-968742_body>)
 
 Deletes a specified user.
 
@@ -545,11 +414,7 @@ Deletes a specified user.
 
 ### Watch Tags
 
-
-
-
-
-](https://www.make.com/en/help/apps/website-building/wordpress#watch-tags-968742_body)
+](<https://www.make.com/en/help/apps/website-building/wordpress#watch-tags-968742_body>)
 
 Triggers when a new tag is added.
 
@@ -559,11 +424,7 @@ Triggers when a new tag is added.
 
 ### Search Tags
 
-
-
-
-
-](https://www.make.com/en/help/apps/website-building/wordpress#search-tags_body)
+](<https://www.make.com/en/help/apps/website-building/wordpress#search-tags_body>)
 
 Searches for tags.
 
@@ -573,11 +434,7 @@ Searches for tags.
 
 ### Get a Tag
 
-
-
-
-
-](https://www.make.com/en/help/apps/website-building/wordpress#get-a-tag-968742_body)
+](<https://www.make.com/en/help/apps/website-building/wordpress#get-a-tag-968742_body>)
 
 Retrieves specified tag details.
 
@@ -587,11 +444,7 @@ Retrieves specified tag details.
 
 ### Create a Tag
 
-
-
-
-
-](https://www.make.com/en/help/apps/website-building/wordpress#create-a-tag-968742_body)
+](<https://www.make.com/en/help/apps/website-building/wordpress#create-a-tag-968742_body>)
 
 Creates a new tag.
 
@@ -601,11 +454,7 @@ Creates a new tag.
 
 ### Update a Tag
 
-
-
-
-
-](https://www.make.com/en/help/apps/website-building/wordpress#update-a-tag-968742_body)
+](<https://www.make.com/en/help/apps/website-building/wordpress#update-a-tag-968742_body>)
 
 Allows you to modify an existing tag.
 
@@ -617,11 +466,7 @@ Please find the descriptions of the fields in the section, [Create a Tag](https:
 
 ### Delete a Tag
 
-
-
-
-
-](https://www.make.com/en/help/apps/website-building/wordpress#delete-a-tag-968742_body)
+](<https://www.make.com/en/help/apps/website-building/wordpress#delete-a-tag-968742_body>)
 
 Deletes a specified tag.
 
@@ -637,11 +482,7 @@ Allows you to perform a custom API call.
 
 ### Example of Use - List Pages
 
-
-
-
-
-](https://www.make.com/en/help/apps/website-building/wordpress#example-of-use---list-pages-968742_body)
+](<https://www.make.com/en/help/apps/website-building/wordpress#example-of-use---list-pages-968742_body>)
 
 The following API call returns all pages in your WordPress:
 
@@ -657,11 +498,7 @@ In our example, 8 pages were returned:
 
 ### Search Taxonomies
 
-
-
-
-
-](https://www.make.com/en/help/apps/website-building/wordpress#search-taxonomies_body)
+](<https://www.make.com/en/help/apps/website-building/wordpress#search-taxonomies_body>)
 
 Retrieves taxonomies based on filter settings, including custom taxonomies.
 

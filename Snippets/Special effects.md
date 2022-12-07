@@ -32,10 +32,10 @@ div.popover.hover-popover, .menu, .suggestion-container {
 
 ## Sticky Notes
 
-/* NOTE: syntax to be used to have a sticky rendered  
+/*NOTE: syntax to be used to have a sticky rendered
 /* <p class="stickies">Some text</p> */
 
-/* From Gabroel - https://discord.com/channels/686053708261228577/702656734631821413/789334135788273724 and scroll down that page. Code was not quite correct, so here is the right code. */
+/* From Gabroel - <https://discord.com/channels/686053708261228577/702656734631821413/789334135788273724> and scroll down that page. Code was not quite correct, so here is the right code. */
 
 ```css
 .stickies {
@@ -139,9 +139,9 @@ div.popover.hover-popover, .menu, .suggestion-container {
 }
 ```
 
-/* Another sticky possibility from j314 - https://discord.com/channels/686053708261228577/702656734631821413/801873554785566760  
+/* Another sticky possibility from j314 - <https://discord.com/channels/686053708261228577/702656734631821413/801873554785566760>  
 /* NOTE: syntax to be used to have a sticky rendered  
-/* <p class="sticky">Some text</p> */
+/*<p class="sticky">Some text</p>*/
 
 ```css
 .sticky {
@@ -163,9 +163,9 @@ div.popover.hover-popover, .menu, .suggestion-container {
 
 ## Images with a Piece of Scotch Tape Effect - Thanks to Lithou*/
 
-/* placement of images */  
-/* After putting the code below, you can get the tape effect doing ![[imagename.png#tape]] */  
-/* refer to Lithou's sandbox https://github.com/lithou/sandbox */
+/*placement of images*/  
+/*After putting the code below, you can get the tape effect doing ![[imagename.png#tape]]*/  
+/* refer to Lithou's sandbox <https://github.com/lithou/sandbox> */
 
 ```css
 div{
@@ -187,7 +187,7 @@ div{
         }
 ```
 
-/* tape */
+/*tape*/
 
 ```css
 div[alt*="+tape"] {
@@ -243,7 +243,7 @@ div[alt*="+tape"]::before {
         }
 ```
 
-/* Push Pin */
+/*Push Pin*/
 
 ```css
 div[alt*="+pin"] {
@@ -289,7 +289,7 @@ div[alt*="+pin"] {
             clip-path: ellipse(45% 35% at 50% 50%);}
 ```
 
-/* Banner and HR */
+/*Banner and HR*/
 
 ```css
         div[alt*="+banner"]{
@@ -312,9 +312,9 @@ div[alt*="+pin"] {
         div[alt*="+hr"]>img{
             margin-top: -200px;
             }
-```        
+```
 
-/* Custom Core Flags */
+/*Custom Core Flags*/
 
 ```css
 div[alt*="+custom1"]{
@@ -333,8 +333,8 @@ div[alt*="+custom1"]{
     }
 ```
 
-/* Modifier Flags */  
-    /* Orientation and position */
+/*Modifier Flags*/  
+    /*Orientation and position*/
 
 ```css
 div[alt*="-left"]{
@@ -349,7 +349,7 @@ div[alt*="-left"]{
         div[alt*="-abs"]{position: absolute;}
 ```
 
-/* Size */
+/*Size*/
 
 ```css
 div[alt*="-thumb"]{width: 11.50%;}
@@ -360,7 +360,7 @@ div[alt*="-thumb"]{width: 11.50%;}
         div[alt*="-cwidth"]{float: none;margin-left: -10%;width: 120%;}
 ```
 
-/* Borders */
+/*Borders*/
 
 ```css
 div[alt*="-border1"]>img{border: solid black 3px;}
@@ -375,7 +375,7 @@ div[alt*="-bthick"]>img{border-width: 5px;}
 div[alt*="-bthin"]>img{border-width: 1px;}
 ```
 
-/* Div Borders */
+/*Div Borders*/
 
 ```css
 div[alt*="-divborder1"]{border: solid #336699 2px;}

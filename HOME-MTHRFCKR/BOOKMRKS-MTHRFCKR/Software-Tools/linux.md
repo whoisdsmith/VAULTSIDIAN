@@ -2,7 +2,7 @@
 
 ## Check disk space
 
-https://opensource.com/article/18/7/how-check-free-disk-space-linux
+<https://opensource.com/article/18/7/how-check-free-disk-space-linux>
 
 ```
 <!-- disk free -->

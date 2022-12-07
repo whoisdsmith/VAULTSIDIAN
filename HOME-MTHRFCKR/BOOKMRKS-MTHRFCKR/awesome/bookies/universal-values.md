@@ -1,6 +1,6 @@
 [Les valeurs universelles de Schwartz](http://valeurs.universelles.free.fr/test.html) - [FR] Le questionnaire Schwartz Value Survey
 
-Result : 
+Result :
 
 * Autonomie = 6
 * Universalisme = 5.5

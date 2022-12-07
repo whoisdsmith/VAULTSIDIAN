@@ -1,21 +1,20 @@
 # Params
 
-Params are form inputs that can be added to code steps in a workflow to abstract data from the code and improve reusability. Most actions use params to capture user input (e.g., to allow users to customize the URL, method and payload for the Send HTTP Request action). Params support the entry of simple values (e.g., `hello world` or `123`) or expressions in <code v-pre>{{...}}</code> that can reference objects in scope (e.g., <code v-pre>{{event.foo}}</code>) or run basic Node code (e.g., <code v-pre>{{JSON.stringify(event.foo)}}</code>). 
+Params are form inputs that can be added to code steps in a workflow to abstract data from the code and improve reusability. Most actions use params to capture user input (e.g., to allow users to customize the URL, method and payload for the Send HTTP Request action). Params support the entry of simple values (e.g., `hello world` or `123`) or expressions in <code v-pre>{{...}}</code> that can reference objects in scope (e.g., <code v-pre>{{event.foo}}</code>) or run basic Node code (e.g., <code v-pre>{{JSON.stringify(event.foo)}}</code>).
 
 <iframe width="560" height="350" src="https://www.youtube.com/embed/6eq813uEExc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-  * [Entering Expressions](#entering-expressions)
-    + [Use the object explorer](#use-the-object-explorer)
-    + [Manually enter or edit an expression](#manually-enter-or-edit-an-expression)
-    + [Paste a reference from a step export](#paste-a-reference-from-a-step-export)
-  * [Params Types](#params-types)
-    + [Basic Params](#basic-params)
-    + [Structured Params](#structured-params)
-  * [Sharing Params Values in Workflow Templates](#sharing-params-values-in-workflow-templates)
-  * [Configuring Custom Params](#configuring-custom-params)
-    + [Adding params to a code step](#adding-params-to-a-code-step)
-    + [Configuring the params form](#configuring-the-params-form)
-
+* [Entering Expressions](#entering-expressions)
+  * [Use the object explorer](#use-the-object-explorer)
+  * [Manually enter or edit an expression](#manually-enter-or-edit-an-expression)
+  * [Paste a reference from a step export](#paste-a-reference-from-a-step-export)
+* [Params Types](#params-types)
+  * [Basic Params](#basic-params)
+  * [Structured Params](#structured-params)
+* [Sharing Params Values in Workflow Templates](#sharing-params-values-in-workflow-templates)
+* [Configuring Custom Params](#configuring-custom-params)
+  * [Adding params to a code step](#adding-params-to-a-code-step)
+  * [Configuring the params form](#configuring-the-params-form)
 
 ## Entering Expressions
 
@@ -26,6 +25,7 @@ While the data expected by each input depends on the data type (e.g., string, in
 There are three ways to enter expressions in a params form — you can use the object explorer, enter it manually, or paste a reference from a step export.
 
 ### Use the object explorer
+
 When you click into a params input, an object explorer expands below the input. You can explore all the objects in scope, filter for keywords (e.g., a key name), and then select the element to insert into the form as an expression.
 
 ![img](./images/params-object-explorer.gif)
@@ -56,8 +56,6 @@ Basic params support simple values or, expressions in <code v-pre>{{...}}</code>
 | **Number**  | You can enter a simple value (e.g., `123`), an expression that evaluates to a number in <code v-pre>{{...}}</code> (e.g., <code v-pre>{{event.foo}}</code> or <code v-pre>{{1+1}}</code>), or select a reference from the object explorer. |
 | **Integer** | You can enter a simple value (e.g., `123`), an expression that evaluates to an integer in <code v-pre>{{...}}</code> (e.g., <code v-pre>{{event.foo}}</code> or <code v-pre>{{1+1}}</code>), or select a reference from the object explorer. |
 
-
-
 ### Structured Params
 
 Structured params provide a guided approach to enter values expected for a specific input. You can turn off structured mode at any time to enter an expression for the the param.
@@ -77,7 +75,7 @@ By default, any data you enter in a params form is private to workflow editors. 
 
 ![img](./images/params-visibility.gif)
 
-## Configuring Custom Params 
+## Configuring Custom Params
 
 ### Adding params to a code step
 
@@ -97,7 +95,6 @@ console.log(url)
 ```
 
 > Reminder: Workflow code is [public](/public-workflows/) by default, so use params or environment variables for sensitive data. Alternatively, you can make your workflow code private.
-
 
 ### Configuring the params form
 

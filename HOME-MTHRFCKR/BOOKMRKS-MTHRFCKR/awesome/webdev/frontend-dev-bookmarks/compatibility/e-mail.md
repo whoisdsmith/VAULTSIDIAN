@@ -9,6 +9,7 @@ Preparing HTML based electronic mail.
 [![Twitter](https://img.shields.io/badge/follow-twitter-55acee.svg?style=flat-square)](https://twitter.com/FrontendDir)
 
 -----------------------------------------
+
 + **[Bulletproof E-Mail Buttons](https://buttons.cm/)**: Design gorgeous buttons using progressively enhanced VML and CSS.
 + **[Email Lab](https://github.com/sparkbox/email-lab)**: This a project for developing and testing email templates. It uses Grunt to streamline and simplify the creation of email templates. Email template can be built with re-usable components.
 + **[Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate)**: Use these code examples as a guideline for formatting your HTML email to avoid some of the major styling pitfalls in HTML email design.
@@ -20,7 +21,6 @@ Preparing HTML based electronic mail.
 + **[Responsive Email Design](https://www.campaignmonitor.com/dev-resources/guides/mobile/)**: In this guide, the author will cover the fundamentals of designing and building a mobile-friendly email and back it all up with some neat tips and techniques.
 + **[Responsive Email Templates](http://zurb.com/playground/responsive-email-templates)**: Zurb Studios put together this set of super awesome email templates so that you can make your email campaigns responsive.
 + **[The Ultimate Guide to CSS](https://www.campaignmonitor.com/css/)**: A complete breakdown of the CSS support for the top 10 most popular mobile, web and desktop email clients on the planet.
-
 
 ------------------
 

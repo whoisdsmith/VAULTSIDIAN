@@ -1,4 +1,5 @@
 ## Public Records
+
 - [Australiapublicrecord.com](https://australiapublicrecord.com/)
 - [Melissa](https://melissadata.com/)
 - [RecordsPedia](https://recordspedia.com/)
@@ -21,4 +22,5 @@
 - [qPublic](https://qpublic.schneidercorp.com/)
 - [SCRA](https://scra.dmdc.osd.mil/scra#/home)
 - [People Search](https://www.instantcheckmate.com/)
+
 ---

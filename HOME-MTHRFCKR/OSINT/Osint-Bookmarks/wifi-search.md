@@ -1,4 +1,5 @@
 ## Wifi Search
+
 - [Instabridge.com](https://instabridge.com/)
 - [Wiman](https://www.wiman.me/)
 - [Openwifispots.com](https://openwifispots.com/)

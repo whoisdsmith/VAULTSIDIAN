@@ -18,4 +18,4 @@ I spent a lot of the last 2 years going through these and I’m incredibly sad t
 
 ![](https://c0debl0ck.files.wordpress.com/2022/03/img_6128-1.jpg?w=1024)
 
-https://raindrop.io/whoisdsmith/webby-s-bookmark-collection-23678574
+<https://raindrop.io/whoisdsmith/webby-s-bookmark-collection-23678574>

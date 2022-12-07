@@ -8,6 +8,7 @@ author:
 # Bash Scripting Cheatsheet
 
 > ## Excerpt
+
 > Variables · Functions · Interpolation · Brace expansions · Loops · Conditional execution · Command substitution · One-page guide to Bash scripting
 
 ---

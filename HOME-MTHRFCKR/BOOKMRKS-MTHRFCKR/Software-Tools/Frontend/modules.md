@@ -2,7 +2,7 @@
 
 # ECMAScript 6 / ES2015 Modules
 
-https://2ality.com/2014/09/es6-modules-final.html
+<https://2ality.com/2014/09/es6-modules-final.html>
 
 The goal for ECMAScript 6 modules was to create a format that both users of CommonJS and of AMD are happy with:
 

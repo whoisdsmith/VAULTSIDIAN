@@ -2,10 +2,10 @@
 
 General Data Protection Regulation
 
-https://gdpr-info.eu/
-https://gdpr.eu/
+<https://gdpr-info.eu/>
+<https://gdpr.eu/>
 
-https://www.cookiebot.com/en/gdpr-cookies/#:~:text=GDPR%20cookie%20consent%20is%20when,data%2C%20while%20visiting%20your%20site.
+<https://www.cookiebot.com/en/gdpr-cookies/#:~:text=GDPR%20cookie%20consent%20is%20when,data%2C%20while%20visiting%20your%20site>.
 
 ## GDPR cookie consent
 
@@ -14,7 +14,7 @@ GDPR cookie consent is when users give their informed, explicit, unambiguous con
 
 ## Do all Cookies require Opt-In?
 
-https://law.stackexchange.com/questions/29083/gdpr-compliance-do-all-cookies-require-opt-in
+<https://law.stackexchange.com/questions/29083/gdpr-compliance-do-all-cookies-require-opt-in>
 
 Not all cookies require consent.
 
@@ -24,11 +24,11 @@ This WP29 Opinion is based upon Directive 2002/58/EC ("ePrivacy Directive"), and
 
 ## Strictly necessary cookies
 
-https://stackoverflow.com/questions/50513448/gdpr-and-cookies-that-do-not-store-personal-data?rq=1
+<https://stackoverflow.com/questions/50513448/gdpr-and-cookies-that-do-not-store-personal-data?rq=1>
 
 However, you don't need consent where the cookie or other technology is "strictly necessary" to provide you with the service the user is seeking – for example, cookies which may be needed to provide you with a functioning website which the user wants to access.
 
-https://gdpr.eu/cookies/#:~:text=Strictly%20necessary%20cookies%20%E2%80%94%20These%20cookies,example%20of%20strictly%20necessary%20cookies.
+<https://gdpr.eu/cookies/#:~:text=Strictly%20necessary%20cookies%20%E2%80%94%20These%20cookies,example%20of%20strictly%20necessary%20cookies>.
 
 Strictly necessary cookies — These cookies are essential for you to browse the website and use its features, such as accessing secure areas of the site. Cookies that allow web shops to hold your items in your cart while you are shopping online are an example of strictly necessary cookies. These cookies will generally be first-party session cookies. While it is not required to obtain consent for these cookies, what they do and why they are necessary should be explained to the user.
 
@@ -36,7 +36,7 @@ Strictly necessary cookies — These cookies are essential for you to browse the
 
 ## Cookie compliance
 
-https://gdpr.eu/cookies/#:~:text=Strictly%20necessary%20cookies%20%E2%80%94%20These%20cookies,example%20of%20strictly%20necessary%20cookies.
+<https://gdpr.eu/cookies/#:~:text=Strictly%20necessary%20cookies%20%E2%80%94%20These%20cookies,example%20of%20strictly%20necessary%20cookies>.
 
 To comply with the regulations governing cookies under the GDPR and the ePrivacy Directive you must:
 

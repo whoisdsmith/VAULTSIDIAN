@@ -1,6 +1,7 @@
 # Generate multiple .txt files from Linux command line - Super User
 
 > ## Excerpt
+
 > I'm using Ubuntu and I need to generate multiple .txt files from a large .txt file that contains a word in each new line.
 
 Steps:
@@ -12,9 +13,9 @@ I'm using Ubuntu and I need to generate multiple .txt files from a large .txt fi
 
 Steps:
 
-1.  Take one word from the large .txt list, e.g. **foo**
-2.  generate .txt and name it \[word\].txt, e.g. **foo.txt**
-3.  \[word\].txt should contain only the \[word\], e.g. **foo.txt** >contains **foo** text inside
+1. Take one word from the large .txt list, e.g. **foo**
+2. generate .txt and name it \[word\].txt, e.g. **foo.txt**
+3. \[word\].txt should contain only the \[word\], e.g. **foo.txt** >contains **foo** text inside
 
 I found that you can generate a .txt from the command line like this:
 
@@ -30,7 +31,7 @@ asked Sep 14 '19 at 18:15
 
 ![](https://www.gravatar.com/avatar/d279d9f0a1e6847b048e9c742e281cb1?s=64&d=identicon&r=PG)
 
-](https://superuser.com/users/866914/tom)
+](<https://superuser.com/users/866914/tom>)
 
 1
 
@@ -53,7 +54,7 @@ answered Sep 14 '19 at 18:52
 
 ![](https://i.stack.imgur.com/C2mem.jpg?s=64&g=1)
 
-](https://superuser.com/users/1063077/ajgringo619)
+](<https://superuser.com/users/1063077/ajgringo619>)
 
 [ajgringo619](https://superuser.com/users/1063077/ajgringo619)ajgringo619
 
@@ -75,9 +76,9 @@ done < "$filename"
 
 Improvements:
 
--   [all variables quoted](https://unix.stackexchange.com/a/131767/108618)
--   [`printf` instead of `echo`](https://unix.stackexchange.com/q/65803/108618)
--   [empty `IFS`](https://unix.stackexchange.com/a/209184/108618)
+- [all variables quoted](https://unix.stackexchange.com/a/131767/108618)
+- [`printf` instead of `echo`](https://unix.stackexchange.com/q/65803/108618)
+- [empty `IFS`](https://unix.stackexchange.com/a/209184/108618)
 
 Some of them may not be strictly necessary if `your_data_file` really contains "a word in each new line" as stated in the question body. But [your comment](https://superuser.com/q/1482643/432690#comment2236131_1482656) mentions handling "multiple words in one line that contains spaces", this requires non-robust solutions to be improved. It's better to get used to good practices in shell scripting and to write robust code from the start.
 
@@ -87,7 +88,7 @@ answered Sep 16 '19 at 6:39
 
 ![](https://www.gravatar.com/avatar/4c5b24abfdbe0d1ba60f3c012b5f85fe?s=64&d=identicon&r=PG)
 
-](https://superuser.com/users/432690/kamil-maciorowski)
+](<https://superuser.com/users/432690/kamil-maciorowski>)
 
 [Kamil Maciorowski](https://superuser.com/users/432690/kamil-maciorowski)Kamil Maciorowski
 
@@ -95,11 +96,11 @@ answered Sep 16 '19 at 6:39
 
 This might be a lot quicker for a large file...
 
-#!/bin/bash
+# !/bin/bash
 
 filename=/path/to/your\_data\_file
 
-sort -u "$filename" | 
+sort -u "$filename" |
 ( IFS=
   while read -r line
   do
@@ -113,7 +114,7 @@ answered Sep 15 '19 at 10:53
 
 ![](https://i.stack.imgur.com/OPf7Z.jpg?s=64&g=1)
 
-](https://superuser.com/users/346288/hannu)
+](<https://superuser.com/users/346288/hannu>)
 
 [Hannu](https://superuser.com/users/346288/hannu)Hannu
 
@@ -123,19 +124,19 @@ answered Sep 15 '19 at 10:53
 
 ## Your Answer
 
--   Links
--   Images
--   Styling/Headers
--   Lists
--   Blockquotes
--   Code
--   HTML
--   Tables
--   [Advanced help](https://superuser.com/editing-help)
+- Links
+- Images
+- Styling/Headers
+- Lists
+- Blockquotes
+- Code
+- HTML
+- Tables
+- [Advanced help](https://superuser.com/editing-help)
 
 In most cases, a plain URL will be recognized as such and automatically linked:
 
-Visit https://area51.stackexchange.com/ regularly!
+Visit <https://area51.stackexchange.com/> regularly!
 Use angle brackets to force linking: Have you seen <https://superuser.com>?
 
 To create fancier links, use Markdown:
@@ -183,13 +184,15 @@ Smaller Subheader
 Use hash marks if you need several levels of headers:
 
 \# Header 1 #
+
 ## Header 2 ##
+
 ### Header 3 ###
 
 Both bulleted and numbered lists are possible:
 
 \- Use a minus sign for a bullet
-+ Or plus sign
+- Or plus sign
 \* Or an asterisk
 
 1. Numbered lists are easy
@@ -203,7 +206,7 @@ Both bulleted and numbered lists are possible:
  \- Four spaces again.
 2. You can have multiple
  paragraphs in a list items.
- 
+
  Just be sure to indent.
 
 \> Create a blockquote by
@@ -240,7 +243,7 @@ If you want to have a preformatted block within a list, indent by eight spaces:
 
 1\. This is normal text.
 2. So is this, but now follows a code block:
- 
+
  Skip a line and indent eight spaces.
  That's four spaces for the list
  and four to trigger the code block.
@@ -255,11 +258,9 @@ Markdown is smart enough not to mangle your span-level HTML:
 
 Block-level HTML elements have a few restrictions:
 
-1.  They must be separated from surrounding text by blank lines.
-2.  The begin and end tags of the outermost block element must not be indented.
-3.  Markdown can't be used within HTML blocks.
-
-  
+1. They must be separated from surrounding text by blank lines.
+2. The begin and end tags of the outermost block element must not be indented.
+3. Markdown can't be used within HTML blocks.
 
 <pre>
     You can <em>not</em> use Markdown in here.
@@ -272,8 +273,8 @@ You can create tables using the [GitHub-flavored markdown format](https://github
 | First    | row            |
 | Second   | row            |
 
--   A header row is required and must be followed by a separator row with the same number of cells
--   Cells are separated by a pipe (`|`) symbol
+- A header row is required and must be followed by a separator row with the same number of cells
+- Cells are separated by a pipe (`|`) symbol
 
 Set the **alignment** of a table column by placing a `:` on the left, right, or both sides of a separator in the separator line.
 
@@ -281,4 +282,4 @@ Set the **alignment** of a table column by placing a `:` on the left, right, or 
 |:---- |:------:| -----:|
 | One  | Two    | Three |
 
-## Not the answer you're looking for? Browse other questions tagged [linux](https://superuser.com/questions/tagged/linux "show questions tagged 'linux'") [command-line](https://superuser.com/questions/tagged/command-line "show questions tagged 'command-line'") [bash](https://superuser.com/questions/tagged/bash "show questions tagged 'bash'") [batch](https://superuser.com/questions/tagged/batch "show questions tagged 'batch'") [generator](https://superuser.com/questions/tagged/generator "show questions tagged 'generator'") or [ask your own question](https://superuser.com/questions/ask).
+## Not the answer you're looking for? Browse other questions tagged [linux](https://superuser.com/questions/tagged/linux "show questions tagged 'linux'") [command-line](https://superuser.com/questions/tagged/command-line "show questions tagged 'command-line'") [bash](https://superuser.com/questions/tagged/bash "show questions tagged 'bash'") [batch](https://superuser.com/questions/tagged/batch "show questions tagged 'batch'") [generator](https://superuser.com/questions/tagged/generator "show questions tagged 'generator'") or [ask your own question](https://superuser.com/questions/ask)

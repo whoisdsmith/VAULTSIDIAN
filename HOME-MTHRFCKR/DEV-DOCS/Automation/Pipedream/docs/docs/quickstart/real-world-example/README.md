@@ -72,7 +72,7 @@ const _ = require('lodash')
 // Function to return a friendly language name (or "Unknown") for ISO language codes
 function getLanguageName(isocode) {
   try { return ISO6391.getName(isocode) }
-	catch (err) { return 'Unknown' }
+ catch (err) { return 'Unknown' }
 }
 
 // Function to format numbers over 1000 from Stack Overflow https://stackoverflow.com/questions/9461621/format-a-number-as-2-5k-if-a-thousand-or-more-otherwise-900
@@ -82,9 +82,9 @@ function kFormatter(num) {
 
 // Format the Tweet (including line breaks) as a quoted Slack message
 const quotedMessage = steps.trigger.event.full_text
-	.split('\n')
-	.map(line => `> ${line}`)
-	.join('\n')
+ .split('\n')
+ .map(line => `> ${line}`)
+ .join('\n')
 
 // Construct URLs to reference in the formatted message
 const tweetUrl = `https://twitter.com/${steps.trigger.event.user.screen_name}/statuses/${steps.trigger.event.id_str}`
@@ -104,80 +104,80 @@ const mediaType = _.get(steps, 'trigger.event.entities.media[0].type')
 // Format the message as Slack blocks - https://api.slack.com/block-kit
 const blocks = []
 blocks.push({
-	"type": "section",
-	"text": {
-		"type": "mrkdwn",
-		"text": `*<${tweetUrl}|New Mention> by <${userUrl}|${steps.trigger.event.user.screen_name}> (${steps.trigger.event.created_at}):*\n${quotedMessage}`
-	},
-		"accessory": {
-			"type": "image",
-			"image_url": steps.trigger.event.user.profile_image_url_https,
-			"alt_text": "Profile picture"
-		}
+ "type": "section",
+ "text": {
+  "type": "mrkdwn",
+  "text": `*<${tweetUrl}|New Mention> by <${userUrl}|${steps.trigger.event.user.screen_name}> (${steps.trigger.event.created_at}):*\n${quotedMessage}`
+ },
+  "accessory": {
+   "type": "image",
+   "image_url": steps.trigger.event.user.profile_image_url_https,
+   "alt_text": "Profile picture"
+  }
 })
 
 console.log(mediaType)
 
 // If the Tweet contains a photo add it to the message
 if(mediaUrl && mediaType === 'photo') {
-	blocks.push({
-		"type": "image",
-		"image_url": mediaUrl,
-		"alt_text": "Tweet Image"
-	})
+ blocks.push({
+  "type": "image",
+  "image_url": mediaUrl,
+  "alt_text": "Tweet Image"
+ })
 }
 
 // Populate the context elements, button and footer
 blocks.push({
-	"type": "context",
-	"elements": [
-		{
-			"type": "mrkdwn",
-			"text": `*User:* ${steps.trigger.event.user.screen_name}`
-		},
-		{
-			"type": "mrkdwn",
-			"text": `*Followers:* ${kFormatter(steps.trigger.event.user.followers_count)}`
-		},
-		{
-			"type": "mrkdwn",
-			"text": `*Location:* ${steps.trigger.event.user.location}`
-		},
-		{
-			"type": "mrkdwn",
-			"text": `*Language:* ${getLanguageName(steps.trigger.event.lang)} (${steps.trigger.event.lang})`
-		},
-		{
-			"type": "mrkdwn",
-			"text": `*Description:* ${steps.trigger.event.user.description}`
-		}
-	]
+ "type": "context",
+ "elements": [
+  {
+   "type": "mrkdwn",
+   "text": `*User:* ${steps.trigger.event.user.screen_name}`
+  },
+  {
+   "type": "mrkdwn",
+   "text": `*Followers:* ${kFormatter(steps.trigger.event.user.followers_count)}`
+  },
+  {
+   "type": "mrkdwn",
+   "text": `*Location:* ${steps.trigger.event.user.location}`
+  },
+  {
+   "type": "mrkdwn",
+   "text": `*Language:* ${getLanguageName(steps.trigger.event.lang)} (${steps.trigger.event.lang})`
+  },
+  {
+   "type": "mrkdwn",
+   "text": `*Description:* ${steps.trigger.event.user.description}`
+  }
+ ]
 },
 {
-	"type": "actions",
-	"elements": [
-		{
-			"type": "button",
-			"text": {
-				"type": "plain_text",
-				"text": "View on Twitter",
-				"emoji": true
-			},
-			"url": tweetUrl
-		}
-	]
+ "type": "actions",
+ "elements": [
+  {
+   "type": "button",
+   "text": {
+    "type": "plain_text",
+    "text": "View on Twitter",
+    "emoji": true
+   },
+   "url": tweetUrl
+  }
+ ]
 },
 {
-	"type": "context",
-	"elements": [
-		{
-			"type": "mrkdwn",
-			"text": `Sent via <https://pipedream.com/@/${steps.trigger.context.workflow_id}|Pipedream>`
-		}
-	]
+ "type": "context",
+ "elements": [
+  {
+   "type": "mrkdwn",
+   "text": `Sent via <https://pipedream.com/@/${steps.trigger.context.workflow_id}|Pipedream>`
+  }
+ ]
 },
 {
-	"type": "divider"
+ "type": "divider"
 })
 
 return blocks

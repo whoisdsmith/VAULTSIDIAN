@@ -1,4 +1,5 @@
 ## Working with Document Metadata
+
 - [psal/anonymouth](https://github.com/psal/anonymouth)
 - [Doc Scrubber™](https://www.brightfort.com/docscrubber.html)
 - [AutoMetadata - Inspect and Edit Metadata in PDF Documents](https://www.evermap.com/autometadata.asp)
@@ -9,4 +10,5 @@
 - [Metashield Clean-up Online](https://metashieldclean-up.elevenpaths.com/)
 - [PDF metadata editor: change metadata of PDF document](https://pdfcandy.com/edit-pdf-meta.html)
 - [Read PDF Metadata, View PDF Metadata Online | PDFYeah](https://www.pdfyeah.com/view-pdf-metadata)
+
 ---

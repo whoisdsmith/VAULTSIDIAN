@@ -1,4 +1,4 @@
-##  Q&A Sites
+## Q&A Sites
 
 * [Answers.com](http://www.answers.com)
 * [Ask](http://www.ask.com)
@@ -7,4 +7,5 @@
 * [StackExchange](http://stackexchange.com)
 * [Yahoo Answers](http://answers.yahoo.com)
 * [Ответы](https://otvet.mail.ru/)
+
 ---

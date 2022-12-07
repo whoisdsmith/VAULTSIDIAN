@@ -11,7 +11,7 @@ Logiciels Open source, add-in, plugin,… sont ses outils du quotidien.
 
 Sa plus grande force réside dans sa capacité à apprendre par lui-même ce dont il a besoin pour mener une tâche à bien.
 
-## Result (2015) 
+## Result (2015)
 
 Pas de doute, vous êtes un Ninja
 Tel un vrai couteau suisse, il fonctionne étonnamment bien dans une équipe. Tout le monde remarque sa nature infatigable, sans pour autant comprendre comment il fait tout si bien et si vite.

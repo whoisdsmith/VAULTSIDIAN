@@ -194,8 +194,8 @@ In order to perform a test that is complete, we should follow some guidelines:
 - verify each functionality (each method);
 - perform the tests according to a specific order (the order of method application is often important);
 - ensure that each statement is executed at least once (for example, when we have a conditional statement,  
-	we have to perform the test for various configurations of the input, in such a way that the boolean condition  
-	becomes respectively true and false);
+ we have to perform the test for various configurations of the input, in such a way that the boolean condition  
+ becomes respectively true and false);
 - detect and test special cases (for example, an empty file as input to a method that reads from a file).
 
 ## 10.7 Techniques for Detecting Errors (debugging)
@@ -410,7 +410,7 @@ occur in the Java virtual machine during program execution. This class includes:
 - arithmetic exceptions (example: division by zero),
 - reference exceptions (example: try to access an object through a reference that isnull), and
 - exceptions when indexing an array (example: trying to access an element of the array with an index that  
-	is either too small or too large).
+ is either too small or too large).
 
 Note:It is not necessary that the subclasses ofRuntimeExceptionare mentioned in thethrowsclause (this is  
 why they are celledunchecked).
@@ -528,10 +528,10 @@ finally-block
 
 - try-block: sequence of statements that will be executed under the control of the followingcatchclauses
 - catch-block: sequence of statements that will be executed if a statement in thetry-blockgenerates  
-	an exception of the type specified in the correspondingcatchclause
+ an exception of the type specified in the correspondingcatchclause
 - finally-block : sequence of statements that will be always executed (both in the case where the  
-	try-blockis executed without exceptions, and in the case where acatch-blockis executed to catch an  
-	exception).
+ try-blockis executed without exceptions, and in the case where acatch-blockis executed to catch an  
+ exception).
 
 Semantics:
 
@@ -908,11 +908,11 @@ exceptions that could be thrown by the program.
 Exercise 10.7. Write a class containing the following static methods:
 
 - fileExists(), that takes as a parameter a string and returns a boolean value that istrue, if the file  
-	whose name is passed as parameter exists, andfalseotherwise;
+ whose name is passed as parameter exists, andfalseotherwise;
 - isInt(), that takes as parameter a string and returns a boolean value that istrueif the string represents  
-	an integer, andfalseotherwise.
+ an integer, andfalseotherwise.
 - isDouble(), that takes as parameter a string and returns a boolean value that istrueif the string  
-	represents a real number, andfalseotherwise.
+ represents a real number, andfalseotherwise.
 
 Solve the exercise by suitably catching exceptions.
 
@@ -920,9 +920,9 @@ Exercise 10.8. Define the exceptions that are necessary to catch the possible er
 classMatrixof Exercise 9.9.
 
 - ExceptionWrongMatrixValuesthat is thrown in the methodread()if the data on the file does not  
-	correspond to numeric values, or if the data are not consistent with the form of a matrix (e.g., the rows  
-	have different length);
+ correspond to numeric values, or if the data are not consistent with the form of a matrix (e.g., the rows  
+ have different length);
 - ExceptionWrongMatrixDimensionthat is thrown in the methodread()if the data on the file do not  
-	correspond to the dimension of the matrix.
+ correspond to the dimension of the matrix.
 
 Modify the classMatrixin such a way that it generates the new exceptions when necessary.

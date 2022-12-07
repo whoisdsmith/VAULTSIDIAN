@@ -28,15 +28,9 @@ Access level. Possible values:
 
 \
 
-
-
-
 **`member`**
 
 \
-
-
-
 
 **`viewer`**
 {% endswagger-parameter %}
@@ -46,11 +40,11 @@ The user email(s) with whom to share the project.
 
 \
 
-
 Maximum 10
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
+
 ```javascript
 {
     "result": true,
@@ -60,9 +54,11 @@ Maximum 10
     ]
 }
 ```
+
 {% endswagger-response %}
 
 {% swagger-response status="400" description="" %}
+
 ```javascript
 //'emails' array is empty
 {
@@ -76,9 +72,11 @@ Maximum 10
     "errorMessage": "you cant send more than 10 invites at once"
 }
 ```
+
 {% endswagger-response %}
 
 {% swagger-response status="403" description="" %}
+
 ```javascript
 //When user have more than 100 pending invitations:
 {
@@ -92,6 +90,7 @@ Maximum 10
     "errorMessage": "you dont have permissions to invite more people"
 }
 ```
+
 {% endswagger-response %}
 {% endswagger %}
 
@@ -105,6 +104,7 @@ Existing collection ID
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
+
 ```javascript
 {
   "items": [
@@ -120,6 +120,7 @@ Existing collection ID
   "result": true
 }
 ```
+
 {% endswagger-response %}
 {% endswagger %}
 
@@ -129,8 +130,7 @@ There two possible results of calling this method, depends on who authenticated 
 
 \
 
-
-\- 
+\-
 
 **Owner**
 
@@ -138,8 +138,7 @@ There two possible results of calling this method, depends on who authenticated 
 
 \
 
-
-\- 
+\-
 
 **Member or viewer**
 
@@ -151,11 +150,13 @@ Existing collection ID
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
+
 ```javascript
 {
     "result": true
 }
 ```
+
 {% endswagger-response %}
 {% endswagger %}
 
@@ -175,17 +176,19 @@ Existing collection ID
 {% swagger-parameter in="body" name="role" type="string" %}
 **`member`**
 
- or 
+ or
 
 **`viewer`**
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
+
 ```javascript
 {
     "result": true
 }
 ```
+
 {% endswagger-response %}
 {% endswagger %}
 
@@ -203,11 +206,13 @@ Existing collection ID
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
+
 ```javascript
 {
     "result": true
 }
 ```
+
 {% endswagger-response %}
 {% endswagger %}
 
@@ -225,15 +230,18 @@ Secret token from email
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
+
 ```javascript
 {
     "result": true,
     "role": "member"
 }
 ```
+
 {% endswagger-response %}
 
 {% swagger-response status="403" description="" %}
+
 ```javascript
 //Incorrect token
 {
@@ -255,5 +263,6 @@ Secret token from email
     "errorMessage": "You already owner of this collection"
 }
 ```
+
 {% endswagger-response %}
 {% endswagger %}

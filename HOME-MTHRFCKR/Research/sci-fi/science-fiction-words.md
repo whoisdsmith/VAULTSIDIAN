@@ -1,183 +1,183 @@
 # Science Fiction Words
 
-## [[Absolute]].
+## [[Absolute]]
 
 Not relative. Independent of all scale and comparisons. E.g., zero temperature, number, the speed of light.
 
-## [[Acceleration]].
+## [[Acceleration]]
 
 Rate of change of velocity. Increasing velocity is positive acceleration; decreasing velocity is negative acceleration. The average acceleration of any body falling to Earth in a vacuum is 32 feet per second per second.
 
-## [[Achromatic]].
+## [[Achromatic]]
 
 Applied to optical apparatus which gives images free from colored fringes. A. lenses have one sense of crown glass and one of flint glass. The flint lens corrects dispersion caused by the crown glass.
 
-## [[Aerolite]].
+## [[Aerolite]]
 
 (Sometimes called ‘aerolith’).  
 A stony meteorite, as distinct from a metallic one. A meteorite that is a mixture of stone and metal, but preponderantly stone would be called aerolithic.
 
-## [[Albedo]].
+## [[Albedo]]
 
 A measure of the brightness of celestial bodies that shine by reflected light. Technically, it is the amount of light a body reflects in proportion to the amount that falls on it. The Moon’s albedo is 7%; that of Venus 65%.
 
-## [[Aldebaran]].
+## [[Aldebaran]]
 
 A star of the first magnitude in the constellation of Taurus. The brightest star near the Pleiades. It is much used in navigation.
 
-## [[Alpha rays]].
+## [[Alpha rays]]
 
 Streams of high-velocity Helium nuclei, composed of two protons (alpha particles) emitted from radioactive elements. A. rays produce ionisation in gases they pass through, and are easily absorbed by solid matter.
 
-## [[Angstrom unit]].
+## [[Angstrom unit]]
 
 A distance of ten to the minus ten of a metre. One ten thousandth of a micron. It is the unit of distance most used as a measurement of electromagnetic wavelengths. Named after the Swedish physicist A. J. Angstrom.
 
-## [[Aphelion]].
+## [[Aphelion]]
 
 The point on the Earth’s orbit where it is at greatest distance from the Sun. There are two such positions, one at each end of an elipse. These positions correspond to summer winter. (From ‘ap’ meaning away, and ‘helios’ meaning Sun.)
 
-## [[Apogee]].
+## [[Apogee]]
 
 The point in the orbit of any celestial body at which it is farthest from Earth. The Sun is at apogee when the Earth is at aphelion. (From ‘goes’ meaning Earth.)
 
-## [[Archimedes’ principle]].
+## [[Archimedes’ principle]]
 
 The weight of the water displaced by a body that is floated or immersed is numerically equal to the apparent loss of weight of the body.
 
-## [[Argon]].
+## [[Argon]]
 
 An inert gas, present in the atmosphere to the extent of 0.8%. Used commercially for filling electric bulbs.
 
-## [[Artificial radioactivity]].
+## [[Artificial radioactivity]]
 
 Radioactivity induced by the bombardment of normally stable substance with charged particles of high energy or with neutrons. Consists in the emission of beta and gamma rays.
 
-## [[Asteroids]].
+## [[Asteroids]]
 
 A belt of minor planets circling the Sun between Mars and Jupiter. There are over 1,500 of them, but none is much larger than 300 miles in diameter. On October 30th, 1937, the asteroid Hermes came within 485,000 miles of Earth–closer than any celestial body except the Moon. Hermes is only one mile in diameter.
 
-## [[Astrocompass]].
+## [[Astrocompass]]
 
 Instrument that gives direction based on the positions of the stars and is independent of magnetism.
 
-## [[Athermancy]].
+## [[Athermancy]]
 
 Opaqueness to radiant heat. A theoretical black body is completely athermant, i.e., absorbs all the radiant heat that falls upon it. A theoretical white body is completely non-athermant, i.e., reflects all the radiant heat that falls upon it. Other bodies show degrees of A.
 
-## [[Atmosphere]].
+## [[Atmosphere]]
 
 The gaseous layer above the surface of a celestial body. Earth’s atmosphere ceases to show significant resistance above about 500 miles. There is no sudden stop. The thinness gradually increases until no atoms are detectable in any reasonable sample. The pressure exerted by these miles of air at sea level is about 14.7 lbs. per sq. inch.
 
-## [[Atom]].
+## [[Atom]]
 
 The smallest unit of matter that will take part in chemical reactions. Consists of a positively charged nucleus composed of protons and neutrons, and a variable number of orbital rings of electrons. It is the number of these electrons that determines the chemical properties of the atom.
 
-## [[Atomic bomb]].
+## [[Atomic bomb]]
 
 An arrangement whereby a maximum number of nuclear fissions occur in minimum time by the very rapid collision of two subcritical masses of fissile material, the first fission setting off a chain reaction that is complete in a period of time of the order of one hundred thousandth of a second.
 
-## [[Atomic weight]].
+## [[Atomic weight]]
 
 The total weight of a neutral atom relative to the atomic weight of oxygen, which is taken as 16.00.
 
-## [[Aurora borealis]].
+## [[Aurora borealis]]
 
 Coloured luminescent phenomena occuring in the polar regions as a result of solar radiation associated with sunspots.
 
-## [[Azimuth]].
+## [[Azimuth]]
 
 The angle that the meridian and the vertical circle through a celestial body make with the zenith, measured as an arc on the horizon.
 
-## [[Band spectra]].
+## [[Band spectra]]
 
 Whereas atoms give spectra consisting of a series of separate lines, molecules absorb or emit light to give band spectra. Examination of band spectra has given us a good deal of knowledge about sunspots and the cooler stars. Recently, certain band spectra in interstellar space were identified with molecules of carbon and hydrogen.
 
-## [[Betelgeuse]].
+## [[Betelgeuse]]
 
 A supergiant red star in the constellation of Orion. Michelson in 1920 at Mt. Wilson, proved that this star is larger than Earth’s orbit. Yet its density is lower than that of fairly good vacuum.
 
-## [[Binary system]].
+## [[Binary system]]
 
 Two stars revolving around a common centre of gravity somewhere between them. 17,180 binaries have been listed. They furnish far more knowledge of stellar physics than any single star could do and are under very active observation–although over a hundred years must pass before the collection of certain relevant data can be completed.
 
-## [[Beta rays]].
+## [[Beta rays]]
 
 Streams of fast-moving electrons and positrons, of much greater penetrating power than alpha rays. They are emitted by radioactive elements with velocities that sometimes exceed 98% of the velocity of light.
 
-## [[Betatron]].
+## [[Betatron]]
 
 An apparatus for speeding up electrons to very high energy values. A varying magnetic field, perpendicular to the electrons’ circular orbits, furnishes the accelerating force in a high vacuum.
 
-## [[Binomial]].
+## [[Binomial]]
 
 A mathematical expression is binomial when it is concerned with the difference or the sum of two terms
 
-## [[Bivalent]].
+## [[Bivalent]]
 
 The property of having two chemical bonds available for reactions. A bivalent atom could unite with two monovalent atoms or one divalent atom.
 
-## [[Black body radiation]].
+## [[Black body radiation]]
 
 Radiation emitted by an ideal black body, which absorbs all incident radiations and thus radiates itself only as an expression of its temperature.
 
-## [[Boyle’ Law]].
+## [[Boyle’ Law]]
 
 The volume of a given amount of gas is inversely proportional to the pressure, at constant temperature.
 
-## [[Brownian movement]].
+## [[Brownian movement]]
 
 Patternless vibrations of small particles cause by the bombardment of molecules composing the medium.
 
-## [[Catalyst]].
+## [[Catalyst]]
 
 A substance which alters the rate of a chemical reaction without itself undergoing any change. Our digestive juices are catalysts produced by living cells.
 
-## [[Celestial equator]].
+## [[Celestial equator]]
 
 The circle which the plane of the Earth’s equator makes on meeting the Celestial Sphere.
 
-## [[Celestial Sphere]].
+## [[Celestial Sphere]]
 
 An imaginary sphere on which the heavenly bodies are supposed to lie. We stand at its centre.
 
-## [[Cepheid variables]].
+## [[Cepheid variables]]
 
 Stars that fluctuate in brightness over a given period. The longer the period, the brighter the star. These variables enable astronomers to measure very great distances.
 
-## [[Chromosphere]].
+## [[Chromosphere]]
 
 Layer outside the photosphere of the Sun. The chromosphere is normally only visible at total eclipse.
 
-## [[Cloud chamber]].
+## [[Cloud chamber]]
 
 An instrument used for the study of alpha, beta, gamma and x-rays, in which the rays are passed through a vessel supersaturated with water vapour, leaving tracks of water droplets caused by ionisation.
 
-## [[Clusters]].
+## [[Clusters]]
 
 Groups of stars. Open clusters, like the Pleiades, consist of 500 stars over a wide area. Globular clusters, like NGC6553, are composed of thousands of stars in a compact mass lying outside the Milky Way.
 
-## [[Ceolostat]].
+## [[Ceolostat]]
 
 An instrument consisting of a mirror mounted so that it turns on an axis parallel to the Earth’s. Clockwork drives it westwards as the Earth turns eastwards; it reflects a constant image into a stationary telescope.
 
-## [[Colour]].
+## [[Colour]]
 
 Imaginary property caused by the effect of electromagnetic waves on the retina. Each colour of of the spectrum has its own wave length.
 
-## [[Comet]].
+## [[Comet]]
 
 A hazy cloud of gas with a bright nucleus and a faint tail, moving under the Sun’s attraction in a highly eccentric orbit.
 
-## [[Commutator]].
+## [[Commutator]]
 
 Instrument for reversing the direction of an electric current.
 
-## [[Complementary colours]].
+## [[Complementary colours]]
 
 Colours which in combination produce white.
 
-## [[Condensation]].
+## [[Condensation]]
 
 The phenomen of the return to the liquid state of a substance that has become vaporized.
 
@@ -189,235 +189,235 @@ any arrangement for bringing a beam of light to a point. Chemical: Apparatus for
 
 Figures resulting from cutting a cone at various levels and in various planes.
 
-## [[Conjunction]].
+## [[Conjunction]]
 
 Any body in line with the Sun and the Earth is in conjunction. On the near side it is the inferior conjunction; on the far side it is the superior conjunction. In the opposite direction to the Sun, it is in opposition.
 
-## [[Continuum]].
+## [[Continuum]]
 
 An intermingling series of continuous components. Three space dimensions and the time dimension are continuous components intermingling to form the four dimensional continuum of the everyday world.
 
-## [[Corona]].
+## [[Corona]]
 
 The Sun’s incandescant halo that is only visible during total eclipses.
 
-## [[Cosmic dust]].
+## [[Cosmic dust]]
 
 Tiny particles of matter up to a hundredth of a millimeter in diameter that are present throughout the whole of space.
 
-## [[Cosmic rays]].
+## [[Cosmic rays]]
 
 Energetic charged particles colliding with Earth from outer space. Mostly protons, but also some electrons and a few heavy atomic nuclei–up to the atomic weight of iron.
 
-## [[Cosmic static]].
+## [[Cosmic static]]
 
 Long wave radio emissions coming from extended regions of the Milky Way. Not observable beyond 30 degrees either side of the Milky Way, and most intense in Sagittarius.
 
-## [[Cosmogony]].
+## [[Cosmogony]]
 
 Theoretical explanation of the origin of celestial bodies individually collectively.
 
-## [[Crab nebula]].
+## [[Crab nebula]]
 
 Exploding remains of a supernova that was observed by Chinese astronomers in A.D. 1054. Still exploding at the rate of many hundreds of miles a second. The star it came from had a luminosity equivalent to 30 millions of our Sun!
 
-## [[Critical mass]].
+## [[Critical mass]]
 
 The minimum mass of fissionable material that can undergo a self-sustained chain reaction of nuclear fissions, such that the total fissions occur within a very short time. One of the most closely guarded of atomic secrets. The atomic bomb contains two pieces of fissionable material that are hurled together to make critical mass at the moment of explosion.
 
-## [[Curie]].
+## [[Curie]]
 
 Unit of radioactivity that is equivalent to the amount of a radioactive substance that decays at the rate of 3.7X1010 per second.
 
-## [[Cybernetics]].
+## [[Cybernetics]]
 
 The study of communication and control mechanism in machines and living things. The science of the relationships between the central control, the peripheral effectors and the communication channels between.
 
-## [[Cyclotron]].
+## [[Cyclotron]]
 
 Instrument for accelerating electrons or other charged particles by dragging them magnetically between two hollow semi-circular electrodes.
 
-## [[Dark nebula]].
+## [[Dark nebula]]
 
 Obscuring clouds in the Milky Way consisting of myriads of cosmic dust particles.
 
-## [[Deimos]].
+## [[Deimos]]
 
 Mars’ smallest moon; five miles in diameter.
 
-## [[Deliquescent]].
+## [[Deliquescent]]
 
 The property of picking up water from the environment and dissolving in it. A deliquescent substance becomes a liquid when exposed to ordinary air.
 
-## [[Delta rays]].
+## [[Delta rays]]
 
 Low speed electrons that have been emitted by a substance under bombardment of alpha rays.
 
-## [[Desiccation]].
+## [[Desiccation]]
 
 The process of drying; removal of water.
 
-## [[Deuterium]].
+## [[Deuterium]]
 
 Isotope of hydrogen obtained by fractional electrolysis of water. In combination with oxygen gives heavy water.
 
-## [[Dialysis]].
+## [[Dialysis]]
 
 Phenomenon of selective diffusion of colloids through a semi-permeable membrane.
 
-## [[Diathermancy]].
+## [[Diathermancy]]
 
 Transparency to heat.
 
-## [[Diatomic]].
+## [[Diatomic]]
 
 Molecule composed of two atoms of the same kind.
 
-## [[Dielectric]].
+## [[Dielectric]]
 
 Synonym for a non-conductor.
 
-## [[Diffuse nebulae]].
+## [[Diffuse nebulae]]
 
 Formless masses of clouded luminosity, as seen in Orion, for example.
 
-## [[Digit]].
+## [[Digit]]
 
 One twelfth of the diameter of the Sun or Moon. Used in measuring the extent of eclipses.
 
-## [[Diode]].
+## [[Diode]]
 
 Thermionic valve containing two electrodes in the form of anode and cathode.
 
-## [[Deport]].
+## [[Deport]]
 
 Unit of lentiform power, in which the reciprocal of the focal length of a lens in metres is expressed as so many deportees.
 
-## [[Dispersion]].
+## [[Dispersion]]
 
 Resolution of mixed light into separate wave bands, as in a spectroscope.
 
-## [[Diurnal]].
+## [[Diurnal]]
 
 An action or process occurring every twenty-four hours. Man, and other animals that sleep at night, are said to have a diurnal rhythm. Diurnality on other planets need not be correlated with twenty-four hours; it is the length of day that matters.
 
-## [[Doppler effect]].
+## [[Doppler effect]]
 
 The frequency of any wave phenomenon appears greater to an observer moving away. This principle has been extended to the nebulae, which appear to give off a redder (i.e. lower frequency) light than they would if they maintained the same position relative to Earth. Such observations indicate that the nebulae are all receding from Earth (and its Galaxy).
 
-## [[Ductility]].
+## [[Ductility]]
 
 A metal is said to be perfectly ductile when it is capable of being drawn out to great length.
 
-## [[Duralumin]].
+## [[Duralumin]]
 
 A hard aluminium containing 4 per cent copper and traces of manganese, magnesium and silicon.
 
-## [[Dwarf star]].
+## [[Dwarf star]]
 
 Main sequence stars of absolute magnitude greater than 1. Stars of low luminosity.
 
-## [[Dynamite]].
+## [[Dynamite]]
 
 Nitroglycerine absorbed in Kieselguhr. Kieselguhr is an inactive earth consisting of the siliceous skeletal remains of diatoms.
 
-## [[Dyne]].
+## [[Dyne]]
 
 The absolute unit of force. A dyne, acting on a mass of one gram will give it an acceleration of one centimetre per second per second.
 
-## [[Eclipse]].
+## [[Eclipse]]
 
 Obstruction of the light from a luminous body by another celestial body between it and the observer or between the luminous body and its illuminant.
 
-## [[Ecliptic]].
+## [[Ecliptic]]
 
 The apparent path of the Sun on the celestial sphere, i.e. relative to the stars.
 
-## [[Electrode]].
+## [[Electrode]]
 
 An electric terminal used to transfer an electric charge through a surrounding medium to another electrode. Positive electrodes are anodes; negative electrodes are cathodes.
 
-## [[Electrolysis]].
+## [[Electrolysis]]
 
 The chemical splitting of a medium into components by the passage of an electric current.
 
-## [[Electromagnetic waves]].
+## [[Electromagnetic waves]]
 
 Waves that do not require a medium for their passage, and which travel at the speed of light (which is one form of electromagnetic wave; other forms are infrared, ultraviolet, x-rays, wireless waves, gamma rays, etc.).
 
-## [[Electron]].
+## [[Electron]]
 
 A subatomic particle of negative charge, with a mass of 9.107X10-28 and a charge of 4.803X10-10 electrostatic units. Electrons form spheres of negative charge surrounding the positively charged atomic nucleus.
 
-## [[Electron microscope]].
+## [[Electron microscope]]
 
 Device for the high magnification of a very thin object in vacuo by means of a beam of electrons in place of visible light.
 
-## [[Electrostatic unit of electricity]].
+## [[Electrostatic unit of electricity]]
 
 The amount of electricity that repels a similar amount with a force of one dyne when placed one centimeter from it in a vacuum.
 
-## [[Element]].
+## [[Element]]
 
 A substance composed of one kind of atom only.
 
-## [[Emission spectrum]].
+## [[Emission spectrum]]
 
 Spectrum obtained by examination of light coming from an actual source (i.e., not reflected light).
 
-## [[Endothermic]].
+## [[Endothermic]]
 
 A reaction is endothermic when heat is absorbed in the course of it.
 
-## [[Energy]].
+## [[Energy]]
 
 Capability of doing work. The particular form that energy takes depends on the characteristics of the system in which it is produced.
 
-## [[Entropy]].
+## [[Entropy]]
 
 A measure of the degree of molecular disorder of a system, based on the ratio of the amount of heat absorbed to the absolute temperature at which it is absorbed. Entropy cannot decrease but must either remain constant for any particular system or must increase. Since all reactions in the universe are fundamentally irreversible, total universal entropy is increasing. In other words, the universe is becoming more and more disorderly!
 
-## [[Equilibrium]].
+## [[Equilibrium]]
 
 A state in which opposing forces are exactly balanced.
 
-## [[Equinox]].
+## [[Equinox]]
 
 Point at which the Sun’s apparent path (ecliptic) intersects the celestial equator.
 
-## [[Erg]].
+## [[Erg]]
 
 Physical unit of work; done by one dyne acting over a distance of one centimeter.
 
-## [[Faculae]].
+## [[Faculae]]
 
 Bright spots or ‘torches’ near the edge of the Sun.
 
-## [[Fahrenheit degree]].
+## [[Fahrenheit degree]]
 
 1/180th of the difference between the temperature of melting ice and the boiling point of water under standard pressure (760mm, Hg.).
 
-## [[Falling star]].
+## [[Falling star]]
 
 Erroneous name for the luminescent phenomena associated with a meteorite.
 
-## [[Fission]].
+## [[Fission]]
 
 The breakdown of atomic constituents into a lighted atom and radioactive products.
 
-## [[Fitzgerald contraction]].
+## [[Fitzgerald contraction]]
 
 The contraction in length in the direction of motion experienced by a body moving at very high velocities. The theory was put forward by Fitzgerald in 1893, and was confirmed by the relativity theory (Einstein, 1905).
 
-## [[Fluorescence]].
+## [[Fluorescence]]
 
 The property of substances such as quinine sulphate to absorb light (or other electromagnetic radiation) of one colour (or wavelength) and to emit light of another colour (or wavelength) at the same time or later. An independent source of light is essential.
 
-## [[Fourth dimension]].
+## [[Fourth dimension]]
 
 Now accepted and proved by the relativity theory to be time. A material object cannot be properly described without mention of its time position. Non-materially, mathematical equations can describe relations in any number of hypothetical dimensions. Such dimensions are known technically as hyperspace.
 
-## [[Frequency]].
+## [[Frequency]]
 
 The number of vibrations per second of a wave motion. Equal to the velocity divided by the wavelength.
 

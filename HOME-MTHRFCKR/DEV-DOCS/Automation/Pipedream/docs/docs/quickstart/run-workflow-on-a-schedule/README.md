@@ -32,9 +32,9 @@ When you inspect the execution, you'll notice that `steps.get_request` returned 
 
 ![image-20210525191520789](./images/image-20210525191520789.png)
 
-However, we don't want that to happen on our `/keepwarm` invocations. Let's fix that by adding a `$end()` statement to the HTTP workflow. 
+However, we don't want that to happen on our `/keepwarm` invocations. Let's fix that by adding a `$end()` statement to the HTTP workflow.
 
-Switch back to your HTTP triggered workflow, select the most recent event and expand `steps.trigger.raw_event`. The `uri` for the request should be `/keepwarm`. 
+Switch back to your HTTP triggered workflow, select the most recent event and expand `steps.trigger.raw_event`. The `uri` for the request should be `/keepwarm`.
 
 ![image-20210525191622270](./images/image-20210525191622270.png)
 

@@ -104,7 +104,7 @@ _Structured documents in text with formatting conventions_
 
 **Markdown** -- see [Awesome Markdown](https://github.com/mundimark/awesome-markdown)
 
--   [**Kramdown**](https://kramdown.gettalong.org/) -- see [Awesome Kramdown](https://github.com/viennahtml/awesome-kramdown)
+- [**Kramdown**](https://kramdown.gettalong.org/) -- see [Awesome Kramdown](https://github.com/viennahtml/awesome-kramdown)
 
 **Wikipedia Markup / Wiki Text**
 
@@ -126,9 +126,9 @@ _Structured documents in text with formatting conventions_
 
 #### More
 
--   [Compare Wiki Syntax @ WikiMatrix](http://www.wikimatrix.org/syntax.php)
--   [Markup & Markdown Madness!](https://markupmadness.github.io/)
--   [Lightweight markup language @ Wikipedia](https://en.wikipedia.org/wiki/Lightweight_markup_language)
+- [Compare Wiki Syntax @ WikiMatrix](http://www.wikimatrix.org/syntax.php)
+- [Markup & Markdown Madness!](https://markupmadness.github.io/)
+- [Lightweight markup language @ Wikipedia](https://en.wikipedia.org/wiki/Lightweight_markup_language)
 
 ## Datafile Formats
 
@@ -150,7 +150,7 @@ _Values, records, hierarchies (trees), types & more_
 
 [**Plain Text Accounting**](http://plaintextaccounting.org/) by Simon Michael et al
 
--   [**Ledger Syntax Quick Reference**](http://plaintextaccounting.org/quickref)
+- [**Ledger Syntax Quick Reference**](http://plaintextaccounting.org/quickref)
 
 [**Mundi Mark**](https://mundimark.github.io/) - all about markup & markdown
 

@@ -1,6 +1,6 @@
--   [Make Help Center](https://www.make.com/en/help/index-en.html)
--   [Modules](https://www.make.com/en/help/modules.html)
--   How to get Text Parser to produce an output value
+- [Make Help Center](https://www.make.com/en/help/index-en.html)
+- [Modules](https://www.make.com/en/help/modules.html)
+- How to get Text Parser to produce an output value
 
 Case scenario example, you would like to parse the filetype of a file document "filename.docx" and the extension of the filename always varies from docx to pdf to CSV.
 

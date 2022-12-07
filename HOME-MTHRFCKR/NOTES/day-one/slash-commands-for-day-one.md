@@ -30,19 +30,18 @@ Slash Commands are now available for quick keyboard shortcut inputs to insert th
 
 ## macOS
 
-In an entry on macOS, start typing the slash `/` an the suggestions will appear for the Slash Commands. 
+In an entry on macOS, start typing the slash `/` an the suggestions will appear for the Slash Commands.
 
 ![](https://downloads.intercomcdn.com/i/o/368273342/7a34e50cf69f6f54633b99a2/Screen+Shot+2021-07-27+at+10.22.55+AM.png)
 
 ## iOS
 
-There are not suggestions when you start typing slash commands on iOS yet, but they will be added. To use Slash Commands, type them out and tap Spacebar to activate. 
+There are not suggestions when you start typing slash commands on iOS yet, but they will be added. To use Slash Commands, type them out and tap Spacebar to activate.
 
 ![](https://downloads.intercomcdn.com/i/o/368268867/b28cbee62e6d249fd6344407/GIF+image-34F40EE038C9-1.gif)
 
-## 
-
+##
 
 ___
 
-#article #DayOne
+# article #DayOne

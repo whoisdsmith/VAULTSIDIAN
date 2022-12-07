@@ -39,10 +39,10 @@ python
 
 ```dataview
 table
-		语言,
- 		框架,
-		简述,
-		file.cday AS "创建时间"
+  语言,
+   框架,
+  简述,
+  file.cday AS "创建时间"
 from #code_snippet and !"40 - Obsidian/模板"
 where date(today) - file.ctime <=dur(7 days)
 sort file.mtime desc

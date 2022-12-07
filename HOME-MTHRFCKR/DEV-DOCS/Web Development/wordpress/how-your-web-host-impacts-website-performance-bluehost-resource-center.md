@@ -34,9 +34,9 @@ Anything longer than this and your bounce rates are bound to increase.
 
 Your web hosting speed is affected by:
 
--   **Type of hard drive:** Web hosts can have Solid State Drives (SSDs) or Hard Disk Drives (HDDs).
--   **RAM:** Random Access Memory (RAM) is the amount of storage your web host provides to store your scripts.
--   **Bandwidth:** Determines how much data your web host can transfer.
+- **Type of hard drive:** Web hosts can have Solid State Drives (SSDs) or Hard Disk Drives (HDDs).
+- **RAM:** Random Access Memory (RAM) is the amount of storage your web host provides to store your scripts.
+- **Bandwidth:** Determines how much data your web host can transfer.
 
 When you’re picking a web host, you must look at these factors before purchasing. That way, you’ll prevent web hosting speed from driving customers away.
 
@@ -136,7 +136,7 @@ Typically, you get a fixed number of domain-specific addresses depending on your
 
 ### 5\. Routine Maintenance
 
-Another major benefit of web hosting is that the host performs backend maintenance. 
+Another major benefit of web hosting is that the host performs backend maintenance.
 
 There’s no need for you to install and maintain servers in-house, so you save the time and money your organization would’ve spent on server installation, maintenance, and IT professionals.
 
@@ -154,9 +154,9 @@ In the previous section, we mentioned that web hosting speed is dependent on thr
 
 For a positive web host impact on your website, the provider should:
 
-1.  **Use SSDs over HDDs:** SSDs are faster and more reliable than a standard hard drive.
-2.  **Provide adequate RAM:** If you’re creating a lightweight basic website, around 2GB of RAM is enough, but most dynamic websites require more RAM.
-3.  **Allocate bandwidth:** The higher the bandwidth, the faster your website functions.
+1. **Use SSDs over HDDs:** SSDs are faster and more reliable than a standard hard drive.
+2. **Provide adequate RAM:** If you’re creating a lightweight basic website, around 2GB of RAM is enough, but most dynamic websites require more RAM.
+3. **Allocate bandwidth:** The higher the bandwidth, the faster your website functions.
 
 If your website is a creative and dynamic one, we recommend using a [dedicated hosting plan](https://www.bluehost.com/blog/) or [Virtual Private Server](https://www.bluehost.com/hosting/vps) (VPS) hosting. With these plans, you don’t have to share resources with others on the same server, thus boosting your web hosting speed.
 

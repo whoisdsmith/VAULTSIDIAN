@@ -20,7 +20,7 @@
 
 ##### [[../FREEMEDIAHECKYEAH/FMHY%20Collections/Torrent2GdriveTelegramBots.md]][[torrentpiracyguide]]eah/fmhyedit/fmhy/torrentpi[[HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/awesome-piracy/misc]]ediaheckyeah/fmhyedit/fmhy/backups.md]]
 
-####[[m[[HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/awesome-piracy/misc]].md]]
+#### [[m[[HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/awesome-piracy/misc]].md]]
 
 ##### [[INDEX (reddit)](../../Documentation/Resources/Piracy%20(1)/INDEX%20(reddit).md)
 
@@ -36,7 +36,7 @@
 
 ##### [[Resources/Piracy/README]]
 
-##[[HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/freemediaheckyeah/fmhyedit/fmhy/storage]]md]]
+## [[HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/freemediaheckyeah/fmhyedit/fmhy/storage]]md]]
 
 ---
 
@@ -55,7 +55,7 @@
 
 ---
 
-##  INTERNET
+## INTERNET
 
 **[[../FREEMEDIAHECKYEAH/FMHY%20Resources/serverinformation.md]]**
 
@@ -83,7 +83,6 @@
 
 **[[piracy/sitehunt.md]]**
 
-
 ---
 
 ## MAC-PC-LINUX
@@ -97,28 +96,24 @@
 **[[../FREEMEDIAH[[linuxguide]]
 
 ## MEDIA
+
 [[android-emulators]]eckyeah/fmhyedit/fmhy/videopiracyguide.md]]**
 
 **[[Resources/Piracy/VIDEO]]**
 
 **[[[[nsfwpiracy]]EAH/FMHY%20Guides/RAREFILMSGUIDE.md]]**
 
-
 ---
 
-
-##  MOBILE
+## MOBILE
 
 **[[../../[[HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/awesome-piracy/piracy/awes[[HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/awesome-piracy/awesome-reddit]]arty/Android-Emulators.md]]**
-
 
 ## MI[[android-emulators]]eckyeah/fmhyedit/fmhy/readingpir[[readingpiracyguide]]R/awesome-piracy/p[[HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/awesome-piracy/entertainment-tools]]
 
 ---
 
-
 ## SOCIAL
-
 
 **[[HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/awesome-piracy/p[[HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/awesome-piracy/awesome-reddit]]ENERAL TOOLS]]**
 [[toolsguide]]OLS]]**

@@ -9,6 +9,7 @@ A podcast is a form of digital media that consists of an episodic series of audi
 [![Twitter](https://img.shields.io/badge/follow-twitter-55acee.svg?style=flat-square)](https://twitter.com/FrontendDir)
 
 -----------------------------------------
+
 + **[Adventures in Angular](https://devchat.tv/adv-in-angular)**: Adventures in Angular is a weekly podcast dedicated to the Angular JavaScript framework and related technologies, tools, languages, and practices.
 + **[CDNify Podcasts](https://itunes.apple.com/us/podcast/cdnify/id786191888)**: The CDNify podcast covers all things tech, startup, web performance and acceleration.
 + **[JavaScript Air](https://javascriptair.com/)**: The live broadcast podcast all about JavaScript.
@@ -18,7 +19,6 @@ A podcast is a form of digital media that consists of an episodic series of audi
 + **[The Big Web Show](http://5by5.tv/bigwebshow)**: The award winning Big Web Show features special guests and topics like web publishing, art direction, content strategy, typography, web technology, and more. It's everything web that matters.
 + **[The Web Ahead](http://5by5.tv/webahead)**: Conversations with world experts on changing technologies and future of the web. The Web Ahead is your shortcut to keeping up.
 + **[Web Security Warrior](https://devchat.tv/web-sec-warriors)**: Web Security Warriors is a weekly discussion by developers about keeping websites, data, servers, and other internet outposts secure.
-
 
 ------------------
 

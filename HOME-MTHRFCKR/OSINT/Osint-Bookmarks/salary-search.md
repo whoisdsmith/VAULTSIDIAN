@@ -1,4 +1,5 @@
 ## Salary Search
+
 - [Equilar.com](https://www.equilar.com/)
 - [Salarylist.com](https://www.salarylist.com/)
 - [Executive Paywatch](https://aflcio.org/paywatch)

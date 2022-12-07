@@ -1,4 +1,4 @@
-# Space 
+# Space
 
 [[50 space terms for understanding the universe]]
 
@@ -17,4 +17,3 @@
 [[Space Scoop]]
 
 [[The A–Z of Space]]
-

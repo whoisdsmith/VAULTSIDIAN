@@ -58,5 +58,3 @@ If you just want a literal `!` followed by bracketed text, you can backslash-e
 
 If you want a link after a literal `!`, backslash-escape the `!`:  
 <Example :index="$page.frontmatter.start++"/>
-
-    

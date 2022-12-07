@@ -54,7 +54,6 @@ Not affiliated with a product or API directly? That's okay. As an individual, yo
 
 Now that you understand what an IFTTT integration can do for your business and products, let's move on to [how to get started…](https://ifttt.com/docs/process_overview)
 
-
 ---
 
-#ifttt 
+# ifttt

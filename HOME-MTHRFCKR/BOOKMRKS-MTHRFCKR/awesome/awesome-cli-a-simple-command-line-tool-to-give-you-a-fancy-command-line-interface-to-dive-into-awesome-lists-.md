@@ -6,18 +6,18 @@ Awesome CLI is a simple command line tool to give you a fancy command line inter
 
 ___
 
--   [Introduction](https://github.com/umutphp/awesome-cli#introduction)
--   [How To Use](https://github.com/umutphp/awesome-cli#how-to-use)
-    -   [Interactive Mode](https://github.com/umutphp/awesome-cli#interactive-mode)
-    -   [Random Mode](https://github.com/umutphp/awesome-cli#random-mode)
-    -   [Surprise Mode](https://github.com/umutphp/awesome-cli#surprise-mode)
--   [How To Install](https://github.com/umutphp/awesome-cli#how-to-install)
-    -   [Basic](https://github.com/umutphp/awesome-cli#basic)
-    -   [Build as binary](https://github.com/umutphp/awesome-cli#build-as-binary)
-    -   [Download and use official binary](https://github.com/umutphp/awesome-cli#download-and-use-official-binary)
-    -   [CLI Options](https://github.com/umutphp/awesome-cli#cli-options)
-    -   [Sample Execution](https://github.com/umutphp/awesome-cli#sample-execution)
--   [How To Contribute](https://github.com/umutphp/awesome-cli#how-to-contribute)
+- [Introduction](https://github.com/umutphp/awesome-cli#introduction)
+- [How To Use](https://github.com/umutphp/awesome-cli#how-to-use)
+  - [Interactive Mode](https://github.com/umutphp/awesome-cli#interactive-mode)
+  - [Random Mode](https://github.com/umutphp/awesome-cli#random-mode)
+  - [Surprise Mode](https://github.com/umutphp/awesome-cli#surprise-mode)
+- [How To Install](https://github.com/umutphp/awesome-cli#how-to-install)
+  - [Basic](https://github.com/umutphp/awesome-cli#basic)
+  - [Build as binary](https://github.com/umutphp/awesome-cli#build-as-binary)
+  - [Download and use official binary](https://github.com/umutphp/awesome-cli#download-and-use-official-binary)
+  - [CLI Options](https://github.com/umutphp/awesome-cli#cli-options)
+  - [Sample Execution](https://github.com/umutphp/awesome-cli#sample-execution)
+- [How To Contribute](https://github.com/umutphp/awesome-cli#how-to-contribute)
 
 ___
 
@@ -34,8 +34,8 @@ The CLI starts with the root repository [sindresorhus/awesome](https://github.co
 In order to use awesome-cli interactively, just execute it without giving any option. You will walk through the categories and repositories by using "↓ ↑ → ←" buttons. Your choices will be saved to use them in [surprise mode](https://github.com/umutphp/awesome-cli#surprise-mode).
 
 \> $ awesome-cli
-Use the arrow keys to navigate: ↓ ↑ → ← 
-? Select from 'Awesome' list: 
+Use the arrow keys to navigate: ↓ ↑ → ←
+? Select from 'Awesome' list:
   ▸ Platforms
     Programming Languages
     Front-End Development
@@ -57,7 +57,7 @@ aweome-cli Version 0.3.0
 ✔ Eta
 ✔ Community
 ✔ IRC
-https://kiwiirc.com/client/irc.freenode.net/#eta-lang
+<https://kiwiirc.com/client/irc.freenode.net/#eta-lang>
 
 ### Surprise Mode
 
@@ -69,7 +69,7 @@ aweome-cli Version 0.3.0
 ✔ Docker
 ✔ Videos
 ✔ From Local Docker Development to Production Deployments
-https://www.youtube.com/watch?v=7CZFpHUPqXw
+<https://www.youtube.com/watch?v=7CZFpHUPqXw>
 
 ## How To Install
 
@@ -94,7 +94,7 @@ Follow the steps;
 
 Visit the [latest release](https://github.com/umutphp/awesome-cli/releases/latest) page and download the binary correspondingly.
 
-\> $ wget -O /usr/local/bin/awesome-cli https://latest-binary-url
+\> $ wget -O /usr/local/bin/awesome-cli <https://latest-binary-url>
 \> $ awesome-cli
 
 ### CLI Options
@@ -120,7 +120,7 @@ aweome-cli Version 0.2.0
 ✔ Linux
 ✔ Applications
 ✔ Gedit
-https://wiki.gnome.org/Apps/Gedit
+<https://wiki.gnome.org/Apps/Gedit>
 
 ## How To Contribute
 

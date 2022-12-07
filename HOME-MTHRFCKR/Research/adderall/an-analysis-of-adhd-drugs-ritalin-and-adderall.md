@@ -374,9 +374,9 @@ Sherzada: An Analysis of ADHD Drugs: Ritalin and Adderall
 
 Published by ScholarSpace @ JCCC, 201
 
-[1]:	http://scholarspace.jccc.edu/honors_journal/vol3/iss1/
-[2]:	http://scholarspace.jccc.edu/honors_journal/vol3/iss1/
-[3]:	http://scholarspace.jccc.edu/honors_journal/vol3/iss1/
-[4]:	http://scholarspace.jccc.edu/honors_journal/vol3/iss1/
-[5]:	http://scholarspace.jccc.edu/honors_journal/vol3/iss1/
-[6]:	http://scholarspace.jccc.edu/honors_journal/vol3/iss1/
+[1]: http://scholarspace.jccc.edu/honors_journal/vol3/iss1/
+[2]: http://scholarspace.jccc.edu/honors_journal/vol3/iss1/
+[3]: http://scholarspace.jccc.edu/honors_journal/vol3/iss1/
+[4]: http://scholarspace.jccc.edu/honors_journal/vol3/iss1/
+[5]: http://scholarspace.jccc.edu/honors_journal/vol3/iss1/
+[6]: http://scholarspace.jccc.edu/honors_journal/vol3/iss1/

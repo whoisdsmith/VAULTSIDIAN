@@ -8,6 +8,7 @@ author:
 # OCCWeb - CLOUD9
 
 > ## Excerpt
+
 > CLOUD9 24.0.1
 
 ---
@@ -385,15 +386,15 @@ CLOUD9 24.0.1
 
 check dependencies of the server environment
 
-### Usage
+###  Usage
 
 \* \`check \[--output \[OUTPUT\]\]\`
 
 check dependencies of the server environment
 
-### Options
+###  Options
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -405,7 +406,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -417,7 +418,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -429,7 +430,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -441,7 +442,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -453,7 +454,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -465,7 +466,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -477,7 +478,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -489,7 +490,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -507,7 +508,7 @@ Skip global warnings, show command output only
 
 Display help for a command
 
-### Usage
+###  Usage
 
 \* \`help \[--format FORMAT\] \[--raw\] \[--\] \[<command\_name>\]\`
 
@@ -521,9 +522,9 @@ You can also output the help in other formats by using the --format�
 
 To display the list of available commands, please use the list command.
 
-### Arguments
+###  Arguments
 
-#### \`command\_name\`
+####  \`command\_name\`
 
 The command name
 
@@ -533,9 +534,9 @@ The command name
 
 \* Default: \`'help'\`
 
-### Options
+###  Options
 
-#### \`--format\`
+####  \`--format\`
 
 The output format (txt, xml, json, or md)
 
@@ -547,7 +548,7 @@ The output format (txt, xml, json, or md)
 
 \* Default: \`'txt'\`
 
-#### \`--raw\`
+####  \`--raw\`
 
 To output raw command help
 
@@ -559,7 +560,7 @@ To output raw command help
 
 \* Default: \`false\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -571,7 +572,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -583,7 +584,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -595,7 +596,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -607,7 +608,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -619,7 +620,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -631,7 +632,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -643,7 +644,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -661,7 +662,7 @@ Skip global warnings, show command output only
 
 List commands
 
-### Usage
+###  Usage
 
 \* \`list \[--raw\] \[--format FORMAT\] \[--\] \[<namespace>\]\`
 
@@ -681,9 +682,9 @@ It's also possible to get raw list of commands (useful for embedding�
 
   php /index.php list --raw
 
-### Arguments
+###  Arguments
 
-#### \`namespace\`
+####  \`namespace\`
 
 The namespace name
 
@@ -693,9 +694,9 @@ The namespace name
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--raw\`
+####  \`--raw\`
 
 To output raw command list
 
@@ -707,7 +708,7 @@ To output raw command list
 
 \* Default: \`false\`
 
-#### \`--format\`
+####  \`--format\`
 
 The output format (txt, xml, json, or md)
 
@@ -725,15 +726,15 @@ The output format (txt, xml, json, or md)
 
 show some status information
 
-### Usage
+###  Usage
 
 \* \`status \[--output \[OUTPUT\]\]\`
 
 show some status information
 
-### Options
+###  Options
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -745,7 +746,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -757,7 +758,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -769,7 +770,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -781,7 +782,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -793,7 +794,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -805,7 +806,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -817,7 +818,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -829,7 +830,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -847,15 +848,15 @@ Skip global warnings, show command output only
 
 run upgrade routines after installation of a new release. The release has to be installed before.
 
-### Usage
+###  Usage
 
 \* \`upgrade\`
 
 run upgrade routines after installation of a new release. The release has to be installed before.
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -867,7 +868,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -879,7 +880,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -891,7 +892,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -903,7 +904,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -915,7 +916,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -927,7 +928,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -939,7 +940,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -957,15 +958,15 @@ Skip global warnings, show command output only
 
 check code to be compliant
 
-### Usage
+###  Usage
 
 \* \`app:check-code \[-c|--checker CHECKER\] \[--skip-checkers\] \[--skip-validate-info\] \[--\] <app-id>\`
 
 check code to be compliant
 
-### Arguments
+###  Arguments
 
-#### \`app-id\`
+####  \`app-id\`
 
 check the specified app
 
@@ -975,9 +976,9 @@ check the specified app
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--checker|-c\`
+####  \`--checker|-c\`
 
 enable the specified checker(s)
 
@@ -989,7 +990,7 @@ enable the specified checker(s)
 
 \* Default: \`array (  0 => 'private',  1 => 'deprecation',  2 => 'strong-comparison',)\`
 
-#### \`--skip-checkers\`
+####  \`--skip-checkers\`
 
 skips the the code checkers to only check info.xml, language and database schema
 
@@ -1001,7 +1002,7 @@ skips the the code checkers to only check info.xml, language and data
 
 \* Default: \`false\`
 
-#### \`--skip-validate-info\`
+####  \`--skip-validate-info\`
 
 skips the info.xml/version check
 
@@ -1013,7 +1014,7 @@ skips the info.xml/version check
 
 \* Default: \`false\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -1025,7 +1026,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -1037,7 +1038,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -1049,7 +1050,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -1061,7 +1062,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -1073,7 +1074,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -1085,7 +1086,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -1097,7 +1098,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -1115,15 +1116,15 @@ Skip global warnings, show command output only
 
 disable an app
 
-### Usage
+###  Usage
 
 \* \`app:disable <app-id>...\`
 
 disable an app
 
-### Arguments
+###  Arguments
 
-#### \`app-id\`
+####  \`app-id\`
 
 disable the specified app
 
@@ -1133,9 +1134,9 @@ disable the specified app
 
 \* Default: \`array ()\`
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -1147,7 +1148,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -1159,7 +1160,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -1171,7 +1172,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -1183,7 +1184,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -1195,7 +1196,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -1207,7 +1208,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -1219,7 +1220,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -1237,15 +1238,15 @@ Skip global warnings, show command output only
 
 enable an app
 
-### Usage
+###  Usage
 
 \* \`app:enable \[-g|--groups GROUPS\] \[-f|--force\] \[--\] <app-id>...\`
 
 enable an app
 
-### Arguments
+###  Arguments
 
-#### \`app-id\`
+####  \`app-id\`
 
 enable the specified app
 
@@ -1255,9 +1256,9 @@ enable the specified app
 
 \* Default: \`array ()\`
 
-### Options
+###  Options
 
-#### \`--groups|-g\`
+####  \`--groups|-g\`
 
 enable the app only for a list of groups
 
@@ -1269,7 +1270,7 @@ enable the app only for a list of groups
 
 \* Default: \`array ()\`
 
-#### \`--force|-f\`
+####  \`--force|-f\`
 
 enable the app regardless of the Nextcloud version requirement
 
@@ -1281,7 +1282,7 @@ enable the app regardless of the Nextcloud version requirement
 
 \* Default: \`false\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -1293,7 +1294,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -1305,7 +1306,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -1317,7 +1318,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -1329,7 +1330,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -1341,7 +1342,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -1353,7 +1354,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -1365,7 +1366,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -1383,15 +1384,15 @@ Skip global warnings, show command output only
 
 Get an absolute path to the app directory
 
-### Usage
+###  Usage
 
 \* \`app:getpath \[--output \[OUTPUT\]\] \[--\] <app>\`
 
 Get an absolute path to the app directory
 
-### Arguments
+###  Arguments
 
-#### \`app\`
+####  \`app\`
 
 Name of the app
 
@@ -1401,9 +1402,9 @@ Name of the app
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -1415,7 +1416,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -1427,7 +1428,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -1439,7 +1440,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -1451,7 +1452,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -1463,7 +1464,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -1475,7 +1476,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -1487,7 +1488,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -1499,7 +1500,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -1517,15 +1518,15 @@ Skip global warnings, show command output only
 
 install an app
 
-### Usage
+###  Usage
 
 \* \`app:install \[--keep-disabled\] \[-f|--force\] \[--allow-unstable\] \[--\] <app-id>\`
 
 install an app
 
-### Arguments
+###  Arguments
 
-#### \`app-id\`
+####  \`app-id\`
 
 install the specified app
 
@@ -1535,9 +1536,9 @@ install the specified app
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--keep-disabled\`
+####  \`--keep-disabled\`
 
 don't enable the app afterwards
 
@@ -1549,7 +1550,7 @@ don't enable the app afterwards
 
 \* Default: \`false\`
 
-#### \`--force|-f\`
+####  \`--force|-f\`
 
 install the app regardless of the Nextcloud version requirement
 
@@ -1561,7 +1562,7 @@ install the app regardless of the Nextcloud version requirement
 
 \* Default: \`false\`
 
-#### \`--allow-unstable\`
+####  \`--allow-unstable\`
 
 allow installing an unstable releases
 
@@ -1573,7 +1574,7 @@ allow installing an unstable releases
 
 \* Default: \`false\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -1585,7 +1586,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -1597,7 +1598,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -1609,7 +1610,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -1621,7 +1622,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -1633,7 +1634,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -1645,7 +1646,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -1657,7 +1658,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -1675,15 +1676,15 @@ Skip global warnings, show command output only
 
 List all available apps
 
-### Usage
+###  Usage
 
 \* \`app:list \[--output \[OUTPUT\]\] \[--shipped SHIPPED\]\`
 
 List all available apps
 
-### Options
+###  Options
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -1695,7 +1696,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--shipped\`
+####  \`--shipped\`
 
 true - limit to shipped apps only, false - limit to non-shipped apps only
 
@@ -1707,7 +1708,7 @@ true - limit to shipped apps only, false - limit to non-shipped apps
 
 \* Default: \`NULL\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -1719,7 +1720,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -1731,7 +1732,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -1743,7 +1744,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -1755,7 +1756,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -1767,7 +1768,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -1779,7 +1780,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -1791,7 +1792,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -1809,15 +1810,15 @@ Skip global warnings, show command output only
 
 remove an app
 
-### Usage
+###  Usage
 
 \* \`app:remove \[--keep-data\] \[--\] <app-id>\`
 
 remove an app
 
-### Arguments
+###  Arguments
 
-#### \`app-id\`
+####  \`app-id\`
 
 remove the specified app
 
@@ -1827,9 +1828,9 @@ remove the specified app
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--keep-data\`
+####  \`--keep-data\`
 
 keep app data and do not remove them
 
@@ -1841,7 +1842,7 @@ keep app data and do not remove them
 
 \* Default: \`false\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -1853,7 +1854,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -1865,7 +1866,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -1877,7 +1878,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -1889,7 +1890,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -1901,7 +1902,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -1913,7 +1914,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -1925,7 +1926,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -1943,15 +1944,15 @@ Skip global warnings, show command output only
 
 update an app or all apps
 
-### Usage
+###  Usage
 
 \* \`app:update \[--all\] \[--showonly\] \[--allow-unstable\] \[--\] \[<app-id>\]\`
 
 update an app or all apps
 
-### Arguments
+###  Arguments
 
-#### \`app-id\`
+####  \`app-id\`
 
 update the specified app
 
@@ -1961,9 +1962,9 @@ update the specified app
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--all\`
+####  \`--all\`
 
 update all updatable apps
 
@@ -1975,7 +1976,7 @@ update all updatable apps
 
 \* Default: \`false\`
 
-#### \`--showonly\`
+####  \`--showonly\`
 
 show update(s) without updating
 
@@ -1987,7 +1988,7 @@ show update(s) without updating
 
 \* Default: \`false\`
 
-#### \`--allow-unstable\`
+####  \`--allow-unstable\`
 
 allow updating to unstable releases
 
@@ -1999,7 +2000,7 @@ allow updating to unstable releases
 
 \* Default: \`false\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -2011,7 +2012,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -2023,7 +2024,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -2035,7 +2036,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -2047,7 +2048,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -2059,7 +2060,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -2071,7 +2072,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -2083,7 +2084,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -2101,15 +2102,15 @@ Skip global warnings, show command output only
 
 reset audio player library
 
-### Usage
+###  Usage
 
 \* \`audioplayer:reset \[--all\] \[--\] \[<user\_id>...\]\`
 
 reset audio player library
 
-### Arguments
+###  Arguments
 
-#### \`user\_id\`
+####  \`user\_id\`
 
 reset the whole library of the given user(s)
 
@@ -2119,9 +2120,9 @@ reset the whole library of the given user(s)
 
 \* Default: \`array ()\`
 
-### Options
+###  Options
 
-#### \`--all\`
+####  \`--all\`
 
 reset the whole library of all known users
 
@@ -2133,7 +2134,7 @@ reset the whole library of all known users
 
 \* Default: \`false\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -2145,7 +2146,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -2157,7 +2158,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -2169,7 +2170,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -2181,7 +2182,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -2193,7 +2194,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -2205,7 +2206,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -2217,7 +2218,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -2235,15 +2236,15 @@ Skip global warnings, show command output only
 
 scan for new audio files; use -v for debugging
 
-### Usage
+###  Usage
 
 \* \`audioplayer:scan \[--all\] \[--\] \[<user\_id>...\]\`
 
 scan for new audio files; use -v for debugging
 
-### Arguments
+###  Arguments
 
-#### \`user\_id\`
+####  \`user\_id\`
 
 scan all audio files of the given user(s)
 
@@ -2253,9 +2254,9 @@ scan all audio files of the given user(s)
 
 \* Default: \`array ()\`
 
-### Options
+###  Options
 
-#### \`--all\`
+####  \`--all\`
 
 scan all audio files of all known users
 
@@ -2267,7 +2268,7 @@ scan all audio files of all known users
 
 \* Default: \`false\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -2279,7 +2280,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -2291,7 +2292,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -2303,7 +2304,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -2315,7 +2316,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -2327,7 +2328,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -2339,7 +2340,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -2351,7 +2352,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -2369,15 +2370,15 @@ Skip global warnings, show command output only
 
 Use ajax to run background jobs
 
-### Usage
+###  Usage
 
 \* \`background:ajax\`
 
 Use ajax to run background jobs
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -2389,7 +2390,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -2401,7 +2402,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -2413,7 +2414,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -2425,7 +2426,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -2437,7 +2438,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -2449,7 +2450,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -2461,7 +2462,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -2479,15 +2480,15 @@ Skip global warnings, show command output only
 
 Use cron to run background jobs
 
-### Usage
+###  Usage
 
 \* \`background:cron\`
 
 Use cron to run background jobs
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -2499,7 +2500,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -2511,7 +2512,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -2523,7 +2524,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -2535,7 +2536,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -2547,7 +2548,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -2559,7 +2560,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -2571,7 +2572,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -2589,15 +2590,15 @@ Skip global warnings, show command output only
 
 Use webcron to run background jobs
 
-### Usage
+###  Usage
 
 \* \`background:webcron\`
 
 Use webcron to run background jobs
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -2609,7 +2610,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -2621,7 +2622,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -2633,7 +2634,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -2645,7 +2646,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -2657,7 +2658,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -2669,7 +2670,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -2681,7 +2682,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -2699,15 +2700,15 @@ Skip global warnings, show command output only
 
 Execute a single background job manually
 
-### Usage
+###  Usage
 
 \* \`background-job:execute \[--force-execute\] \[--\] <job-id>\`
 
 Execute a single background job manually
 
-### Arguments
+###  Arguments
 
-#### \`job-id\`
+####  \`job-id\`
 
 The ID of the job in the database
 
@@ -2717,9 +2718,9 @@ The ID of the job in the database
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--force-execute\`
+####  \`--force-execute\`
 
 Force execute the background job, independent from last run and being reserved
 
@@ -2731,7 +2732,7 @@ Force execute the background job, independent from last run and being�
 
 \* Default: \`false\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -2743,7 +2744,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -2755,7 +2756,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -2767,7 +2768,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -2779,7 +2780,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -2791,7 +2792,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -2803,7 +2804,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -2815,7 +2816,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -2833,15 +2834,15 @@ Skip global warnings, show command output only
 
 test the SSE broadcaster
 
-### Usage
+###  Usage
 
 \* \`broadcast:test <uid> \[<name>\]\`
 
 test the SSE broadcaster
 
-### Arguments
+###  Arguments
 
-#### \`uid\`
+####  \`uid\`
 
 the UID of the users to receive the event
 
@@ -2851,7 +2852,7 @@ the UID of the users to receive the event
 
 \* Default: \`NULL\`
 
-#### \`name\`
+####  \`name\`
 
 the event name
 
@@ -2861,9 +2862,9 @@ the event name
 
 \* Default: \`'test'\`
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -2875,7 +2876,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -2887,7 +2888,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -2899,7 +2900,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -2911,7 +2912,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -2923,7 +2924,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -2935,7 +2936,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -2947,7 +2948,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -2965,15 +2966,15 @@ Skip global warnings, show command output only
 
 Delete an app config value
 
-### Usage
+###  Usage
 
 \* \`config:app:delete \[--output \[OUTPUT\]\] \[--error-if-not-exists\] \[--\] <app> <name>\`
 
 Delete an app config value
 
-### Arguments
+###  Arguments
 
-#### \`app\`
+####  \`app\`
 
 Name of the app
 
@@ -2983,7 +2984,7 @@ Name of the app
 
 \* Default: \`NULL\`
 
-#### \`name\`
+####  \`name\`
 
 Name of the config to delete
 
@@ -2993,9 +2994,9 @@ Name of the config to delete
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -3007,7 +3008,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--error-if-not-exists\`
+####  \`--error-if-not-exists\`
 
 Checks whether the config exists before deleting it
 
@@ -3019,7 +3020,7 @@ Checks whether the config exists before deleting it
 
 \* Default: \`false\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -3031,7 +3032,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -3043,7 +3044,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -3055,7 +3056,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -3067,7 +3068,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -3079,7 +3080,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -3091,7 +3092,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -3103,7 +3104,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -3121,15 +3122,15 @@ Skip global warnings, show command output only
 
 Get an app config value
 
-### Usage
+###  Usage
 
 \* \`config:app:get \[--output \[OUTPUT\]\] \[--default-value \[DEFAULT-VALUE\]\] \[--\] <app> <name>\`
 
 Get an app config value
 
-### Arguments
+###  Arguments
 
-#### \`app\`
+####  \`app\`
 
 Name of the app
 
@@ -3139,7 +3140,7 @@ Name of the app
 
 \* Default: \`NULL\`
 
-#### \`name\`
+####  \`name\`
 
 Name of the config to get
 
@@ -3149,9 +3150,9 @@ Name of the config to get
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -3163,7 +3164,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--default-value\`
+####  \`--default-value\`
 
 If no default value is set and the config does not exist, the command will exit with 1
 
@@ -3175,7 +3176,7 @@ If no default value is set and the config does not exist, the comma
 
 \* Default: \`NULL\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -3187,7 +3188,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -3199,7 +3200,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -3211,7 +3212,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -3223,7 +3224,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -3235,7 +3236,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -3247,7 +3248,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -3259,7 +3260,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -3277,15 +3278,15 @@ Skip global warnings, show command output only
 
 Set an app config value
 
-### Usage
+###  Usage
 
 \* \`config:app:set \[--output \[OUTPUT\]\] \[--value VALUE\] \[--update-only\] \[--\] <app> <name>\`
 
 Set an app config value
 
-### Arguments
+###  Arguments
 
-#### \`app\`
+####  \`app\`
 
 Name of the app
 
@@ -3295,7 +3296,7 @@ Name of the app
 
 \* Default: \`NULL\`
 
-#### \`name\`
+####  \`name\`
 
 Name of the config to set
 
@@ -3305,9 +3306,9 @@ Name of the config to set
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -3319,7 +3320,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--value\`
+####  \`--value\`
 
 The new value of the config
 
@@ -3331,7 +3332,7 @@ The new value of the config
 
 \* Default: \`NULL\`
 
-#### \`--update-only\`
+####  \`--update-only\`
 
 Only updates the value, if it is not set before, it is not being added
 
@@ -3343,7 +3344,7 @@ Only updates the value, if it is not set before, it is not being a
 
 \* Default: \`false\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -3355,7 +3356,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -3367,7 +3368,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -3379,7 +3380,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -3391,7 +3392,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -3403,7 +3404,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -3415,7 +3416,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -3427,7 +3428,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -3445,15 +3446,15 @@ Skip global warnings, show command output only
 
 Import a list of configs
 
-### Usage
+###  Usage
 
 \* \`config:import \[<file>\]\`
 
 Import a list of configs
 
-### Arguments
+###  Arguments
 
-#### \`file\`
+####  \`file\`
 
 File with the json array to import
 
@@ -3463,9 +3464,9 @@ File with the json array to import
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -3477,7 +3478,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -3489,7 +3490,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -3501,7 +3502,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -3513,7 +3514,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -3525,7 +3526,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -3537,7 +3538,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -3549,7 +3550,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -3567,15 +3568,15 @@ Skip global warnings, show command output only
 
 List all configs
 
-### Usage
+###  Usage
 
 \* \`config:list \[--output \[OUTPUT\]\] \[--private\] \[--\] \[<app>\]\`
 
 List all configs
 
-### Arguments
+###  Arguments
 
-#### \`app\`
+####  \`app\`
 
 Name of the app ("system" to get the config.php values, "all" for all apps and system)
 
@@ -3585,9 +3586,9 @@ Name of the app ("system" to get the config.php values, "all" for al
 
 \* Default: \`'all'\`
 
-### Options
+###  Options
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -3599,7 +3600,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'json\_pretty'\`
 
-#### \`--private\`
+####  \`--private\`
 
 Use this option when you want to include sensitive configs like passwords, salts, ...
 
@@ -3611,7 +3612,7 @@ Use this option when you want to include sensitive configs like passw
 
 \* Default: \`false\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -3623,7 +3624,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -3635,7 +3636,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -3647,7 +3648,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -3659,7 +3660,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -3671,7 +3672,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -3683,7 +3684,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -3695,7 +3696,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -3713,15 +3714,15 @@ Skip global warnings, show command output only
 
 Delete a system config value
 
-### Usage
+###  Usage
 
 \* \`config:system:delete \[--output \[OUTPUT\]\] \[--error-if-not-exists\] \[--\] <name>...\`
 
 Delete a system config value
 
-### Arguments
+###  Arguments
 
-#### \`name\`
+####  \`name\`
 
 Name of the config to delete, specify multiple for array parameter
 
@@ -3731,9 +3732,9 @@ Name of the config to delete, specify multiple for array parameter
 
 \* Default: \`array ()\`
 
-### Options
+###  Options
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -3745,7 +3746,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--error-if-not-exists\`
+####  \`--error-if-not-exists\`
 
 Checks whether the config exists before deleting it
 
@@ -3757,7 +3758,7 @@ Checks whether the config exists before deleting it
 
 \* Default: \`false\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -3769,7 +3770,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -3781,7 +3782,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -3793,7 +3794,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -3805,7 +3806,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -3817,7 +3818,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -3829,7 +3830,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -3841,7 +3842,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -3859,15 +3860,15 @@ Skip global warnings, show command output only
 
 Get a system config value
 
-### Usage
+###  Usage
 
 \* \`config:system:get \[--output \[OUTPUT\]\] \[--default-value \[DEFAULT-VALUE\]\] \[--\] <name>...\`
 
 Get a system config value
 
-### Arguments
+###  Arguments
 
-#### \`name\`
+####  \`name\`
 
 Name of the config to get, specify multiple for array parameter
 
@@ -3877,9 +3878,9 @@ Name of the config to get, specify multiple for array parameter
 
 \* Default: \`array ()\`
 
-### Options
+###  Options
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -3891,7 +3892,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--default-value\`
+####  \`--default-value\`
 
 If no default value is set and the config does not exist, the command will exit with 1
 
@@ -3903,7 +3904,7 @@ If no default value is set and the config does not exist, the comma
 
 \* Default: \`NULL\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -3915,7 +3916,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -3927,7 +3928,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -3939,7 +3940,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -3951,7 +3952,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -3963,7 +3964,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -3975,7 +3976,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -3987,7 +3988,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -4005,15 +4006,15 @@ Skip global warnings, show command output only
 
 Set a system config value
 
-### Usage
+###  Usage
 
 \* \`config:system:set \[--output \[OUTPUT\]\] \[--type TYPE\] \[--value VALUE\] \[--update-only\] \[--\] <name>...\`
 
 Set a system config value
 
-### Arguments
+###  Arguments
 
-#### \`name\`
+####  \`name\`
 
 Name of the config parameter, specify multiple for array parameter
 
@@ -4023,9 +4024,9 @@ Name of the config parameter, specify multiple for array parameter
 
 \* Default: \`array ()\`
 
-### Options
+###  Options
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -4037,7 +4038,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--type\`
+####  \`--type\`
 
 Value type \[string, integer, double, boolean\]
 
@@ -4049,7 +4050,7 @@ Value type \[string, integer, double, boolean\]
 
 \* Default: \`'string'\`
 
-#### \`--value\`
+####  \`--value\`
 
 The new value of the config
 
@@ -4061,7 +4062,7 @@ The new value of the config
 
 \* Default: \`NULL\`
 
-#### \`--update-only\`
+####  \`--update-only\`
 
 Only updates the value, if it is not set before, it is not being added
 
@@ -4073,7 +4074,7 @@ Only updates the value, if it is not set before, it is not being a
 
 \* Default: \`false\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -4085,7 +4086,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -4097,7 +4098,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -4109,7 +4110,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -4121,7 +4122,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -4133,7 +4134,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -4145,7 +4146,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -4157,7 +4158,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -4175,15 +4176,15 @@ Skip global warnings, show command output only
 
 Create a dav addressbook
 
-### Usage
+###  Usage
 
 \* \`dav:create-addressbook <user> <name>\`
 
 Create a dav addressbook
 
-### Arguments
+###  Arguments
 
-#### \`user\`
+####  \`user\`
 
 User for whom the addressbook will be created
 
@@ -4193,7 +4194,7 @@ User for whom the addressbook will be created
 
 \* Default: \`NULL\`
 
-#### \`name\`
+####  \`name\`
 
 Name of the addressbook
 
@@ -4203,9 +4204,9 @@ Name of the addressbook
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -4217,7 +4218,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -4229,7 +4230,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -4241,7 +4242,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -4253,7 +4254,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -4265,7 +4266,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -4277,7 +4278,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -4289,7 +4290,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -4307,15 +4308,15 @@ Skip global warnings, show command output only
 
 Create a dav calendar
 
-### Usage
+###  Usage
 
 \* \`dav:create-calendar <user> <name>\`
 
 Create a dav calendar
 
-### Arguments
+###  Arguments
 
-#### \`user\`
+####  \`user\`
 
 User for whom the calendar will be created
 
@@ -4325,7 +4326,7 @@ User for whom the calendar will be created
 
 \* Default: \`NULL\`
 
-#### \`name\`
+####  \`name\`
 
 Name of the calendar
 
@@ -4335,9 +4336,9 @@ Name of the calendar
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -4349,7 +4350,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -4361,7 +4362,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -4373,7 +4374,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -4385,7 +4386,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -4397,7 +4398,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -4409,7 +4410,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -4421,7 +4422,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -4439,15 +4440,15 @@ Skip global warnings, show command output only
 
 Delete a dav calendar
 
-### Usage
+###  Usage
 
 \* \`dav:delete-calendar \[--birthday\] \[-f|--force\] \[--\] <uid> \[<name>\]\`
 
 Delete a dav calendar
 
-### Arguments
+###  Arguments
 
-#### \`uid\`
+####  \`uid\`
 
 User who owns the calendar
 
@@ -4457,7 +4458,7 @@ User who owns the calendar
 
 \* Default: \`NULL\`
 
-#### \`name\`
+####  \`name\`
 
 Name of the calendar to delete
 
@@ -4467,9 +4468,9 @@ Name of the calendar to delete
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--birthday\`
+####  \`--birthday\`
 
 Delete the birthday calendar
 
@@ -4481,7 +4482,7 @@ Delete the birthday calendar
 
 \* Default: \`false\`
 
-#### \`--force|-f\`
+####  \`--force|-f\`
 
 Force delete skipping trashbin
 
@@ -4493,7 +4494,7 @@ Force delete skipping trashbin
 
 \* Default: \`false\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -4505,7 +4506,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -4517,7 +4518,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -4529,7 +4530,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -4541,7 +4542,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -4553,7 +4554,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -4565,7 +4566,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -4577,7 +4578,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -4595,15 +4596,15 @@ Skip global warnings, show command output only
 
 List all calendars of a user
 
-### Usage
+###  Usage
 
 \* \`dav:list-calendars <uid>\`
 
 List all calendars of a user
 
-### Arguments
+###  Arguments
 
-#### \`uid\`
+####  \`uid\`
 
 User for whom all calendars will be listed
 
@@ -4613,9 +4614,9 @@ User for whom all calendars will be listed
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -4627,7 +4628,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -4639,7 +4640,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -4651,7 +4652,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -4663,7 +4664,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -4675,7 +4676,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -4687,7 +4688,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -4699,7 +4700,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -4717,15 +4718,15 @@ Skip global warnings, show command output only
 
 Move a calendar from an user to another
 
-### Usage
+###  Usage
 
 \* \`dav:move-calendar \[-f|--force\] \[--\] <name> <sourceuid> <destinationuid>\`
 
 Move a calendar from an user to another
 
-### Arguments
+###  Arguments
 
-#### \`name\`
+####  \`name\`
 
 Name of the calendar to move
 
@@ -4735,7 +4736,7 @@ Name of the calendar to move
 
 \* Default: \`NULL\`
 
-#### \`sourceuid\`
+####  \`sourceuid\`
 
 User who currently owns the calendar
 
@@ -4745,7 +4746,7 @@ User who currently owns the calendar
 
 \* Default: \`NULL\`
 
-#### \`destinationuid\`
+####  \`destinationuid\`
 
 User who will receive the calendar
 
@@ -4755,9 +4756,9 @@ User who will receive the calendar
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--force|-f\`
+####  \`--force|-f\`
 
 Force the migration by removing existing shares and renaming calendars in case of conflicts
 
@@ -4769,7 +4770,7 @@ Force the migration by removing existing shares and renaming calendars�
 
 \* Default: \`false\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -4781,7 +4782,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -4793,7 +4794,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -4805,7 +4806,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -4817,7 +4818,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -4829,7 +4830,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -4841,7 +4842,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -4853,7 +4854,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -4871,15 +4872,15 @@ Skip global warnings, show command output only
 
 Remove invalid dav shares
 
-### Usage
+###  Usage
 
 \* \`dav:remove-invalid-shares\`
 
 Remove invalid dav shares
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -4891,7 +4892,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -4903,7 +4904,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -4915,7 +4916,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -4927,7 +4928,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -4939,7 +4940,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -4951,7 +4952,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -4963,7 +4964,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -4979,13 +4980,13 @@ Skip global warnings, show command output only
 
 \------------------------
 
-### Usage
+###  Usage
 
 \* \`dav:retention:clean-up\`
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -4997,7 +4998,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -5009,7 +5010,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -5021,7 +5022,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -5033,7 +5034,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -5045,7 +5046,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -5057,7 +5058,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -5069,7 +5070,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -5087,15 +5088,15 @@ Skip global warnings, show command output only
 
 Sends event reminders
 
-### Usage
+###  Usage
 
 \* \`dav:send-event-reminders\`
 
 Sends event reminders
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -5107,7 +5108,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -5119,7 +5120,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -5131,7 +5132,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -5143,7 +5144,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -5155,7 +5156,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -5167,7 +5168,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -5179,7 +5180,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -5197,15 +5198,15 @@ Skip global warnings, show command output only
 
 Synchronizes the birthday calendar
 
-### Usage
+###  Usage
 
 \* \`dav:sync-birthday-calendar \[<user>\]\`
 
 Synchronizes the birthday calendar
 
-### Arguments
+###  Arguments
 
-#### \`user\`
+####  \`user\`
 
 User for whom the birthday calendar will be synchronized
 
@@ -5215,9 +5216,9 @@ User for whom the birthday calendar will be synchronized
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -5229,7 +5230,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -5241,7 +5242,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -5253,7 +5254,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -5265,7 +5266,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -5277,7 +5278,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -5289,7 +5290,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -5301,7 +5302,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -5319,15 +5320,15 @@ Skip global warnings, show command output only
 
 Synchronizes users to the system addressbook
 
-### Usage
+###  Usage
 
 \* \`dav:sync-system-addressbook\`
 
 Synchronizes users to the system addressbook
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -5339,7 +5340,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -5351,7 +5352,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -5363,7 +5364,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -5375,7 +5376,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -5387,7 +5388,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -5399,7 +5400,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -5411,7 +5412,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -5429,15 +5430,15 @@ Skip global warnings, show command output only
 
 Add missing optional columns to the database tables
 
-### Usage
+###  Usage
 
 \* \`db:add-missing-columns \[--dry-run\]\`
 
 Add missing optional columns to the database tables
 
-### Options
+###  Options
 
-#### \`--dry-run\`
+####  \`--dry-run\`
 
 Output the SQL queries instead of running them.
 
@@ -5449,7 +5450,7 @@ Output the SQL queries instead of running them.
 
 \* Default: \`false\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -5461,7 +5462,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -5473,7 +5474,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -5485,7 +5486,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -5497,7 +5498,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -5509,7 +5510,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -5521,7 +5522,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -5533,7 +5534,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -5551,15 +5552,15 @@ Skip global warnings, show command output only
 
 Add missing indices to the database tables
 
-### Usage
+###  Usage
 
 \* \`db:add-missing-indices \[--dry-run\]\`
 
 Add missing indices to the database tables
 
-### Options
+###  Options
 
-#### \`--dry-run\`
+####  \`--dry-run\`
 
 Output the SQL queries instead of running them.
 
@@ -5571,7 +5572,7 @@ Output the SQL queries instead of running them.
 
 \* Default: \`false\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -5583,7 +5584,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -5595,7 +5596,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -5607,7 +5608,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -5619,7 +5620,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -5631,7 +5632,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -5643,7 +5644,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -5655,7 +5656,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -5673,15 +5674,15 @@ Skip global warnings, show command output only
 
 Add missing primary keys to the database tables
 
-### Usage
+###  Usage
 
 \* \`db:add-missing-primary-keys \[--dry-run\]\`
 
 Add missing primary keys to the database tables
 
-### Options
+###  Options
 
-#### \`--dry-run\`
+####  \`--dry-run\`
 
 Output the SQL queries instead of running them.
 
@@ -5693,7 +5694,7 @@ Output the SQL queries instead of running them.
 
 \* Default: \`false\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -5705,7 +5706,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -5717,7 +5718,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -5729,7 +5730,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -5741,7 +5742,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -5753,7 +5754,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -5765,7 +5766,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -5777,7 +5778,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -5795,15 +5796,15 @@ Skip global warnings, show command output only
 
 Convert the ID columns of the filecache to BigInt
 
-### Usage
+###  Usage
 
 \* \`db:convert-filecache-bigint\`
 
 Convert the ID columns of the filecache to BigInt
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -5815,7 +5816,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -5827,7 +5828,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -5839,7 +5840,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -5851,7 +5852,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -5863,7 +5864,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -5875,7 +5876,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -5887,7 +5888,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -5905,15 +5906,15 @@ Skip global warnings, show command output only
 
 Convert charset of MySQL/MariaDB to use utf8mb4
 
-### Usage
+###  Usage
 
 \* \`db:convert-mysql-charset\`
 
 Convert charset of MySQL/MariaDB to use utf8mb4
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -5925,7 +5926,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -5937,7 +5938,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -5949,7 +5950,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -5961,7 +5962,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -5973,7 +5974,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -5985,7 +5986,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -5997,7 +5998,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -6015,7 +6016,7 @@ Skip global warnings, show command output only
 
 Convert the Nextcloud database to the newly configured one
 
-### Usage
+###  Usage
 
 \* \`db:convert-type \[--port PORT\] \[--password PASSWORD\] \[--clear-schema\] \[--all-apps\] \[--chunk-size CHUNK-SIZE\] \[--\] <type> <username> <hostname> <
 
@@ -6023,9 +6024,9 @@ database>\`
 
 Convert the Nextcloud database to the newly configured one
 
-### Arguments
+###  Arguments
 
-#### \`type\`
+####  \`type\`
 
 the type of the database to convert to
 
@@ -6035,7 +6036,7 @@ the type of the database to convert to
 
 \* Default: \`NULL\`
 
-#### \`username\`
+####  \`username\`
 
 the username of the database to convert to
 
@@ -6045,7 +6046,7 @@ the username of the database to convert to
 
 \* Default: \`NULL\`
 
-#### \`hostname\`
+####  \`hostname\`
 
 the hostname of the database to convert to
 
@@ -6055,7 +6056,7 @@ the hostname of the database to convert to
 
 \* Default: \`NULL\`
 
-#### \`database\`
+####  \`database\`
 
 the name of the database to convert to
 
@@ -6065,9 +6066,9 @@ the name of the database to convert to
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--port\`
+####  \`--port\`
 
 the port of the database to convert to
 
@@ -6079,7 +6080,7 @@ the port of the database to convert to
 
 \* Default: \`NULL\`
 
-#### \`--password\`
+####  \`--password\`
 
 the password of the database to convert to. Will be asked when not specified. Can also be passed via stdin.
 
@@ -6091,7 +6092,7 @@ the password of the database to convert to. Will be asked when not 
 
 \* Default: \`NULL\`
 
-#### \`--clear-schema\`
+####  \`--clear-schema\`
 
 remove all tables from the destination database
 
@@ -6103,7 +6104,7 @@ remove all tables from the destination database
 
 \* Default: \`false\`
 
-#### \`--all-apps\`
+####  \`--all-apps\`
 
 whether to create schema for all apps instead of only installed apps
 
@@ -6115,7 +6116,7 @@ whether to create schema for all apps instead of only installed apps
 
 \* Default: \`false\`
 
-#### \`--chunk-size\`
+####  \`--chunk-size\`
 
 the maximum number of database rows to handle in a single query, bigger tables will be handled in chunks of this size. Lower this if the process r
 
@@ -6129,7 +6130,7 @@ uns out of memory during conversion.
 
 \* Default: \`'1000'\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -6141,7 +6142,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -6153,7 +6154,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -6165,7 +6166,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -6177,7 +6178,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -6189,7 +6190,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -6201,7 +6202,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -6213,7 +6214,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -6231,7 +6232,7 @@ Skip global warnings, show command output only
 
 Clear all duplicates and information for discovery
 
-### Usage
+###  Usage
 
 \* \`duplicates:clear \[-f|--force\] \[--output \[OUTPUT\]\]\`
 
@@ -6239,9 +6240,9 @@ Remove links to interactively recognized duplicate files from the datab
 
 This action doesn't remove the files from your file system.
 
-### Options
+###  Options
 
-#### \`--force|-f\`
+####  \`--force|-f\`
 
 don't ask any questions
 
@@ -6253,7 +6254,7 @@ don't ask any questions
 
 \* Default: \`false\`
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -6265,7 +6266,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -6277,7 +6278,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -6289,7 +6290,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -6301,7 +6302,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -6313,7 +6314,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -6325,7 +6326,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -6337,7 +6338,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -6349,7 +6350,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -6367,15 +6368,15 @@ Skip global warnings, show command output only
 
 Find all duplicates files
 
-### Usage
+###  Usage
 
 \* \`duplicates:find-all \[-u|--user USER\] \[-p|--path PATH\] \[--output \[OUTPUT\]\]\`
 
 Find all duplicates files
 
-### Options
+###  Options
 
-#### \`--user|-u\`
+####  \`--user|-u\`
 
 scan files of the specified user
 
@@ -6387,7 +6388,7 @@ scan files of the specified user
 
 \* Default: \`array ()\`
 
-#### \`--path|-p\`
+####  \`--path|-p\`
 
 limit scan to this path, eg. --path="./Photos"
 
@@ -6399,7 +6400,7 @@ limit scan to this path, eg. --path="./Photos"
 
 \* Default: \`array ()\`
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -6411,7 +6412,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -6423,7 +6424,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -6435,7 +6436,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -6447,7 +6448,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -6459,7 +6460,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -6471,7 +6472,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -6483,7 +6484,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -6495,7 +6496,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -6513,15 +6514,15 @@ Skip global warnings, show command output only
 
 List all duplicates files
 
-### Usage
+###  Usage
 
 \* \`duplicates:list \[-u|--user USER\] \[--output \[OUTPUT\]\]\`
 
 List all duplicates files
 
-### Options
+###  Options
 
-#### \`--user|-u\`
+####  \`--user|-u\`
 
 scan files of the specified user
 
@@ -6533,7 +6534,7 @@ scan files of the specified user
 
 \* Default: \`array ()\`
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -6545,7 +6546,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -6557,7 +6558,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -6569,7 +6570,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -6581,7 +6582,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -6593,7 +6594,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -6605,7 +6606,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -6617,7 +6618,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -6629,7 +6630,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -6647,15 +6648,15 @@ Skip global warnings, show command output only
 
 Change key storage root
 
-### Usage
+###  Usage
 
 \* \`encryption:change-key-storage-root \[<newRoot>\]\`
 
 Change key storage root
 
-### Arguments
+###  Arguments
 
-#### \`newRoot\`
+####  \`newRoot\`
 
 new root of the key storage relative to the data folder
 
@@ -6665,9 +6666,9 @@ new root of the key storage relative to the data folder
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -6679,7 +6680,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -6691,7 +6692,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -6703,7 +6704,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -6715,7 +6716,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -6727,7 +6728,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -6739,7 +6740,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -6751,7 +6752,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -6769,7 +6770,7 @@ Skip global warnings, show command output only
 
 Disable server-side encryption and decrypt all files
 
-### Usage
+###  Usage
 
 \* \`encryption:decrypt-all \[<user>\]\`
 
@@ -6777,9 +6778,9 @@ This will disable server-side encryption and decrypt all files for all
 
 o user access his files during this process!
 
-### Arguments
+###  Arguments
 
-#### \`user\`
+####  \`user\`
 
 user for which you want to decrypt all files (optional)
 
@@ -6789,9 +6790,9 @@ user for which you want to decrypt all files (optional)
 
 \* Default: \`''\`
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -6803,7 +6804,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -6815,7 +6816,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -6827,7 +6828,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -6839,7 +6840,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -6851,7 +6852,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -6863,7 +6864,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -6875,7 +6876,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -6893,15 +6894,15 @@ Skip global warnings, show command output only
 
 Disable encryption
 
-### Usage
+###  Usage
 
 \* \`encryption:disable\`
 
 Disable encryption
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -6913,7 +6914,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -6925,7 +6926,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -6937,7 +6938,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -6949,7 +6950,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -6961,7 +6962,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -6973,7 +6974,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -6985,7 +6986,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -7003,15 +7004,15 @@ Skip global warnings, show command output only
 
 Enable encryption
 
-### Usage
+###  Usage
 
 \* \`encryption:enable\`
 
 Enable encryption
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -7023,7 +7024,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -7035,7 +7036,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -7047,7 +7048,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -7059,7 +7060,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -7071,7 +7072,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -7083,7 +7084,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -7095,7 +7096,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -7113,15 +7114,15 @@ Skip global warnings, show command output only
 
 Encrypt all files for all users
 
-### Usage
+###  Usage
 
 \* \`encryption:encrypt-all\`
 
 This will encrypt all files for all users. Please make sure that no user access his files during this process!
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -7133,7 +7134,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -7145,7 +7146,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -7157,7 +7158,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -7169,7 +7170,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -7181,7 +7182,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -7193,7 +7194,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -7205,7 +7206,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -7223,15 +7224,15 @@ Skip global warnings, show command output only
 
 List all available encryption modules
 
-### Usage
+###  Usage
 
 \* \`encryption:list-modules \[--output \[OUTPUT\]\]\`
 
 List all available encryption modules
 
-### Options
+###  Options
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -7243,7 +7244,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -7255,7 +7256,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -7267,7 +7268,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -7279,7 +7280,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -7291,7 +7292,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -7303,7 +7304,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -7315,7 +7316,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -7327,7 +7328,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -7345,15 +7346,15 @@ Skip global warnings, show command output only
 
 Migrate the format of the keystorage to a newer format
 
-### Usage
+###  Usage
 
 \* \`encryption:migrate-key-storage-format\`
 
 Migrate the format of the keystorage to a newer format
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -7365,7 +7366,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -7377,7 +7378,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -7389,7 +7390,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -7401,7 +7402,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -7413,7 +7414,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -7425,7 +7426,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -7437,7 +7438,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -7455,15 +7456,15 @@ Skip global warnings, show command output only
 
 Set the encryption default module
 
-### Usage
+###  Usage
 
 \* \`encryption:set-default-module <module>\`
 
 Set the encryption default module
 
-### Arguments
+###  Arguments
 
-#### \`module\`
+####  \`module\`
 
 ID of the encryption module that should be used
 
@@ -7473,9 +7474,9 @@ ID of the encryption module that should be used
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -7487,7 +7488,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -7499,7 +7500,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -7511,7 +7512,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -7523,7 +7524,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -7535,7 +7536,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -7547,7 +7548,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -7559,7 +7560,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -7577,15 +7578,15 @@ Skip global warnings, show command output only
 
 Show current key storage root
 
-### Usage
+###  Usage
 
 \* \`encryption:show-key-storage-root\`
 
 Show current key storage root
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -7597,7 +7598,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -7609,7 +7610,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -7621,7 +7622,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -7633,7 +7634,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -7645,7 +7646,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -7657,7 +7658,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -7669,7 +7670,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -7687,15 +7688,15 @@ Skip global warnings, show command output only
 
 Lists the current status of encryption
 
-### Usage
+###  Usage
 
 \* \`encryption:status \[--output \[OUTPUT\]\]\`
 
 Lists the current status of encryption
 
-### Options
+###  Options
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -7707,7 +7708,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -7719,7 +7720,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -7731,7 +7732,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -7743,7 +7744,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -7755,7 +7756,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -7767,7 +7768,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -7779,7 +7780,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -7791,7 +7792,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -7809,15 +7810,15 @@ Skip global warnings, show command output only
 
 cleanup filecache
 
-### Usage
+###  Usage
 
 \* \`files:cleanup\`
 
 cleanup filecache
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -7829,7 +7830,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -7841,7 +7842,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -7853,7 +7854,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -7865,7 +7866,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -7877,7 +7878,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -7889,7 +7890,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -7901,7 +7902,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -7919,15 +7920,15 @@ Skip global warnings, show command output only
 
 Try and repair malformed filesystem tree structures
 
-### Usage
+###  Usage
 
 \* \`files:repair-tree \[--dry-run\]\`
 
 Try and repair malformed filesystem tree structures
 
-### Options
+###  Options
 
-#### \`--dry-run\`
+####  \`--dry-run\`
 
 \* Accept value: no
 
@@ -7937,7 +7938,7 @@ Try and repair malformed filesystem tree structures
 
 \* Default: \`false\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -7949,7 +7950,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -7961,7 +7962,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -7973,7 +7974,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -7985,7 +7986,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -7997,7 +7998,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -8009,7 +8010,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -8021,7 +8022,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -8039,15 +8040,15 @@ Skip global warnings, show command output only
 
 rescan filesystem
 
-### Usage
+###  Usage
 
 \* \`files:scan \[--output \[OUTPUT\]\] \[-p|--path PATH\] \[--all\] \[--unscanned\] \[--shallow\] \[--home-only\] \[--\] \[<user\_id>...\]\`
 
 rescan filesystem
 
-### Arguments
+###  Arguments
 
-#### \`user\_id\`
+####  \`user\_id\`
 
 will rescan all files of the given user(s)
 
@@ -8057,9 +8058,9 @@ will rescan all files of the given user(s)
 
 \* Default: \`array ()\`
 
-### Options
+###  Options
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -8071,7 +8072,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--path|-p\`
+####  \`--path|-p\`
 
 limit rescan to this path, eg. --path="/alice/files/Music", the user\_id is determined by the path and the user\_id parameter and --all are ignored
 
@@ -8083,7 +8084,7 @@ limit rescan to this path, eg. --path="/alice/files/Music", the user\_id
 
 \* Default: \`NULL\`
 
-#### \`--all\`
+####  \`--all\`
 
 will rescan all files of all known users
 
@@ -8095,7 +8096,7 @@ will rescan all files of all known users
 
 \* Default: \`false\`
 
-#### \`--unscanned\`
+####  \`--unscanned\`
 
 only scan files which are marked as not fully scanned
 
@@ -8107,7 +8108,7 @@ only scan files which are marked as not fully scanned
 
 \* Default: \`false\`
 
-#### \`--shallow\`
+####  \`--shallow\`
 
 do not scan folders recursively
 
@@ -8119,7 +8120,7 @@ do not scan folders recursively
 
 \* Default: \`false\`
 
-#### \`--home-only\`
+####  \`--home-only\`
 
 only scan the home storage, ignoring any mounted external storage or share
 
@@ -8131,7 +8132,7 @@ only scan the home storage, ignoring any mounted external storage or 
 
 \* Default: \`false\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -8143,7 +8144,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -8155,7 +8156,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -8167,7 +8168,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -8179,7 +8180,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -8191,7 +8192,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -8203,7 +8204,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -8215,7 +8216,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -8233,15 +8234,15 @@ Skip global warnings, show command output only
 
 rescan the AppData folder
 
-### Usage
+###  Usage
 
 \* \`files:scan-app-data \[--output \[OUTPUT\]\] \[--\] \[<folder>\]\`
 
 rescan the AppData folder
 
-### Arguments
+###  Arguments
 
-#### \`folder\`
+####  \`folder\`
 
 The appdata subfolder to scan
 
@@ -8251,9 +8252,9 @@ The appdata subfolder to scan
 
 \* Default: \`''\`
 
-### Options
+###  Options
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -8265,7 +8266,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -8277,7 +8278,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -8289,7 +8290,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -8301,7 +8302,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -8313,7 +8314,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -8325,7 +8326,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -8337,7 +8338,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -8349,7 +8350,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -8367,15 +8368,15 @@ Skip global warnings, show command output only
 
 All files and folders are moved to another user - outgoing shares and incoming user file shares (optionally) are moved as well.
 
-### Usage
+###  Usage
 
 \* \`files:transfer-ownership \[--path PATH\] \[--move\] \[--transfer-incoming-shares \[TRANSFER-INCOMING-SHARES\]\] \[--\] <source-user> <destination-user>\`
 
 All files and folders are moved to another user - outgoing shares and incoming user file shares (optionally) are moved as well.
 
-### Arguments
+###  Arguments
 
-#### \`source-user\`
+####  \`source-user\`
 
 owner of files which shall be moved
 
@@ -8385,7 +8386,7 @@ owner of files which shall be moved
 
 \* Default: \`NULL\`
 
-#### \`destination-user\`
+####  \`destination-user\`
 
 user who will be the new owner of the files
 
@@ -8395,9 +8396,9 @@ user who will be the new owner of the files
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--path\`
+####  \`--path\`
 
 selectively provide the path to transfer. For example --path="folder\_name"
 
@@ -8409,7 +8410,7 @@ selectively provide the path to transfer. For example --path="folder\_na
 
 \* Default: \`''\`
 
-#### \`--move\`
+####  \`--move\`
 
 move data from source user to root directory of destination user, which must be empty
 
@@ -8421,7 +8422,7 @@ move data from source user to root directory of destination user, whi
 
 \* Default: \`false\`
 
-#### \`--transfer-incoming-shares\`
+####  \`--transfer-incoming-shares\`
 
 transfer incoming user file shares to destination user. Usage: --transfer-incoming-shares=1 (value required)
 
@@ -8433,7 +8434,7 @@ transfer incoming user file shares to destination user. Usage: --transf
 
 \* Default: \`'2'\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -8445,7 +8446,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -8457,7 +8458,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -8469,7 +8470,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -8481,7 +8482,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -8493,7 +8494,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -8505,7 +8506,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -8517,7 +8518,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -8535,15 +8536,15 @@ Skip global warnings, show command output only
 
 Add a group
 
-### Usage
+###  Usage
 
 \* \`group:add \[--display-name DISPLAY-NAME\] \[--\] <groupid>\`
 
 Add a group
 
-### Arguments
+###  Arguments
 
-#### \`groupid\`
+####  \`groupid\`
 
 Group id
 
@@ -8553,9 +8554,9 @@ Group id
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--display-name\`
+####  \`--display-name\`
 
 Group name used in the web UI (can contain any characters)
 
@@ -8567,7 +8568,7 @@ Group name used in the web UI (can contain any characters)
 
 \* Default: \`NULL\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -8579,7 +8580,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -8591,7 +8592,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -8603,7 +8604,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -8615,7 +8616,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -8627,7 +8628,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -8639,7 +8640,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -8651,7 +8652,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -8669,15 +8670,15 @@ Skip global warnings, show command output only
 
 add a user to a group
 
-### Usage
+###  Usage
 
 \* \`group:adduser <group> <user>\`
 
 add a user to a group
 
-### Arguments
+###  Arguments
 
-#### \`group\`
+####  \`group\`
 
 group to add the user to
 
@@ -8687,7 +8688,7 @@ group to add the user to
 
 \* Default: \`NULL\`
 
-#### \`user\`
+####  \`user\`
 
 user to add to the group
 
@@ -8697,9 +8698,9 @@ user to add to the group
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -8711,7 +8712,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -8723,7 +8724,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -8735,7 +8736,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -8747,7 +8748,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -8759,7 +8760,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -8771,7 +8772,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -8783,7 +8784,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -8801,15 +8802,15 @@ Skip global warnings, show command output only
 
 Remove a group
 
-### Usage
+###  Usage
 
 \* \`group:delete <groupid>\`
 
 Remove a group
 
-### Arguments
+###  Arguments
 
-#### \`groupid\`
+####  \`groupid\`
 
 Group name
 
@@ -8819,9 +8820,9 @@ Group name
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -8833,7 +8834,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -8845,7 +8846,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -8857,7 +8858,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -8869,7 +8870,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -8881,7 +8882,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -8893,7 +8894,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -8905,7 +8906,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -8923,15 +8924,15 @@ Skip global warnings, show command output only
 
 Show information about a group
 
-### Usage
+###  Usage
 
 \* \`group:info \[--output \[OUTPUT\]\] \[--\] <groupid>\`
 
 Show information about a group
 
-### Arguments
+###  Arguments
 
-#### \`groupid\`
+####  \`groupid\`
 
 Group id
 
@@ -8941,9 +8942,9 @@ Group id
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -8955,7 +8956,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -8967,7 +8968,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -8979,7 +8980,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -8991,7 +8992,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -9003,7 +9004,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -9015,7 +9016,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -9027,7 +9028,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -9039,7 +9040,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -9057,15 +9058,15 @@ Skip global warnings, show command output only
 
 list configured groups
 
-### Usage
+###  Usage
 
 \* \`group:list \[-l|--limit \[LIMIT\]\] \[-o|--offset \[OFFSET\]\] \[-i|--info\] \[--output \[OUTPUT\]\]\`
 
 list configured groups
 
-### Options
+###  Options
 
-#### \`--limit|-l\`
+####  \`--limit|-l\`
 
 Number of groups to retrieve
 
@@ -9077,7 +9078,7 @@ Number of groups to retrieve
 
 \* Default: \`'500'\`
 
-#### \`--offset|-o\`
+####  \`--offset|-o\`
 
 Offset for retrieving groups
 
@@ -9089,7 +9090,7 @@ Offset for retrieving groups
 
 \* Default: \`'0'\`
 
-#### \`--info|-i\`
+####  \`--info|-i\`
 
 Show additional info (backend)
 
@@ -9101,7 +9102,7 @@ Show additional info (backend)
 
 \* Default: \`false\`
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -9113,7 +9114,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -9125,7 +9126,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -9137,7 +9138,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -9149,7 +9150,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -9161,7 +9162,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -9173,7 +9174,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -9185,7 +9186,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -9197,7 +9198,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -9215,15 +9216,15 @@ Skip global warnings, show command output only
 
 remove a user from a group
 
-### Usage
+###  Usage
 
 \* \`group:removeuser <group> <user>\`
 
 remove a user from a group
 
-### Arguments
+###  Arguments
 
-#### \`group\`
+####  \`group\`
 
 group to remove the user from
 
@@ -9233,7 +9234,7 @@ group to remove the user from
 
 \* Default: \`NULL\`
 
-#### \`user\`
+####  \`user\`
 
 user to remove from the group
 
@@ -9243,9 +9244,9 @@ user to remove from the group
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -9257,7 +9258,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -9269,7 +9270,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -9281,7 +9282,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -9293,7 +9294,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -9305,7 +9306,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -9317,7 +9318,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -9329,7 +9330,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -9347,15 +9348,15 @@ Skip global warnings, show command output only
 
 Create a new group folder
 
-### Usage
+###  Usage
 
 \* \`groupfolders:create \[--output \[OUTPUT\]\] \[--\] <name>\`
 
 Create a new group folder
 
-### Arguments
+###  Arguments
 
-#### \`name\`
+####  \`name\`
 
 Name of the new folder
 
@@ -9365,9 +9366,9 @@ Name of the new folder
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -9379,7 +9380,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -9391,7 +9392,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -9403,7 +9404,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -9415,7 +9416,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -9427,7 +9428,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -9439,7 +9440,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -9451,7 +9452,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -9463,7 +9464,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -9481,15 +9482,15 @@ Skip global warnings, show command output only
 
 Delete group folder
 
-### Usage
+###  Usage
 
 \* \`groupfolders:delete \[-f|--force\] \[--output \[OUTPUT\]\] \[--\] <folder\_id>\`
 
 Delete group folder
 
-### Arguments
+###  Arguments
 
-#### \`folder\_id\`
+####  \`folder\_id\`
 
 Id of the folder to rename
 
@@ -9499,9 +9500,9 @@ Id of the folder to rename
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--force|-f\`
+####  \`--force|-f\`
 
 Skip confirmation
 
@@ -9513,7 +9514,7 @@ Skip confirmation
 
 \* Default: \`false\`
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -9525,7 +9526,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -9537,7 +9538,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -9549,7 +9550,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -9561,7 +9562,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -9573,7 +9574,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -9585,7 +9586,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -9597,7 +9598,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -9609,7 +9610,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -9627,15 +9628,15 @@ Skip global warnings, show command output only
 
 Trigger expiry of versions and trashbin for files stored in group folders
 
-### Usage
+###  Usage
 
 \* \`groupfolders:expire \[--output \[OUTPUT\]\]\`
 
 Trigger expiry of versions and trashbin for files stored in group folders
 
-### Options
+###  Options
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -9647,7 +9648,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -9659,7 +9660,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -9671,7 +9672,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -9683,7 +9684,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -9695,7 +9696,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -9707,7 +9708,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -9719,7 +9720,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -9731,7 +9732,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -9749,15 +9750,15 @@ Skip global warnings, show command output only
 
 Edit the groups that have access to a group folder
 
-### Usage
+###  Usage
 
 \* \`groupfolders:group \[-d|--delete\] \[--output \[OUTPUT\]\] \[--\] <folder\_id> <group> \[<permissions>...\]\`
 
 Edit the groups that have access to a group folder
 
-### Arguments
+###  Arguments
 
-#### \`folder\_id\`
+####  \`folder\_id\`
 
 Id of the folder to configure
 
@@ -9767,7 +9768,7 @@ Id of the folder to configure
 
 \* Default: \`NULL\`
 
-#### \`group\`
+####  \`group\`
 
 The group to configure
 
@@ -9777,7 +9778,7 @@ The group to configure
 
 \* Default: \`NULL\`
 
-#### \`permissions\`
+####  \`permissions\`
 
 The permissions to set for the group, leave empty for read only
 
@@ -9787,9 +9788,9 @@ The permissions to set for the group, leave empty for read only
 
 \* Default: \`array ()\`
 
-### Options
+###  Options
 
-#### \`--delete|-d\`
+####  \`--delete|-d\`
 
 Remove access for the group
 
@@ -9801,7 +9802,7 @@ Remove access for the group
 
 \* Default: \`false\`
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -9813,7 +9814,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -9825,7 +9826,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -9837,7 +9838,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -9849,7 +9850,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -9861,7 +9862,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -9873,7 +9874,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -9885,7 +9886,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -9897,7 +9898,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -9915,15 +9916,15 @@ Skip global warnings, show command output only
 
 List the configured group folders
 
-### Usage
+###  Usage
 
 \* \`groupfolders:list \[--output \[OUTPUT\]\]\`
 
 List the configured group folders
 
-### Options
+###  Options
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -9935,7 +9936,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -9947,7 +9948,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -9959,7 +9960,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -9971,7 +9972,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -9983,7 +9984,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -9995,7 +9996,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -10007,7 +10008,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -10019,7 +10020,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -10037,7 +10038,7 @@ Skip global warnings, show command output only
 
 Configure advanced permissions for a configured group folder
 
-### Usage
+###  Usage
 
 \* \`groupfolders:permissions \[-e|--enable\] \[-d|--disable\] \[-m|--manage-add\] \[-r|--manage-remove\] \[-u|--user USER\] \[-g|--group GROUP\] \[-t|--test\] \[-
 
@@ -10045,9 +10046,9 @@ Configure advanced permissions for a configured group folder
 
 Configure advanced permissions for a configured group folder
 
-### Arguments
+###  Arguments
 
-#### \`folder\_id\`
+####  \`folder\_id\`
 
 Id of the folder to configure
 
@@ -10057,7 +10058,7 @@ Id of the folder to configure
 
 \* Default: \`NULL\`
 
-#### \`path\`
+####  \`path\`
 
 The path within the folder to set permissions for
 
@@ -10067,7 +10068,7 @@ The path within the folder to set permissions for
 
 \* Default: \`NULL\`
 
-#### \`permissions\`
+####  \`permissions\`
 
 \* Is required: no
 
@@ -10075,9 +10076,9 @@ The path within the folder to set permissions for
 
 \* Default: \`array ()\`
 
-### Options
+###  Options
 
-#### \`--enable|-e\`
+####  \`--enable|-e\`
 
 Enable advanced permissions for the folder
 
@@ -10089,7 +10090,7 @@ Enable advanced permissions for the folder
 
 \* Default: \`false\`
 
-#### \`--disable|-d\`
+####  \`--disable|-d\`
 
 Disable advanced permissions for the folder
 
@@ -10101,7 +10102,7 @@ Disable advanced permissions for the folder
 
 \* Default: \`false\`
 
-#### \`--manage-add|-m\`
+####  \`--manage-add|-m\`
 
 Add manage permission for user or group
 
@@ -10113,7 +10114,7 @@ Add manage permission for user or group
 
 \* Default: \`false\`
 
-#### \`--manage-remove|-r\`
+####  \`--manage-remove|-r\`
 
 Remove manage permission for user or group
 
@@ -10125,7 +10126,7 @@ Remove manage permission for user or group
 
 \* Default: \`false\`
 
-#### \`--user|-u\`
+####  \`--user|-u\`
 
 The user to configure the permissions for
 
@@ -10137,7 +10138,7 @@ The user to configure the permissions for
 
 \* Default: \`NULL\`
 
-#### \`--group|-g\`
+####  \`--group|-g\`
 
 The group to configure the permissions for
 
@@ -10149,7 +10150,7 @@ The group to configure the permissions for
 
 \* Default: \`NULL\`
 
-#### \`--test|-t\`
+####  \`--test|-t\`
 
 Test the permissions for the set path
 
@@ -10161,7 +10162,7 @@ Test the permissions for the set path
 
 \* Default: \`false\`
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -10173,7 +10174,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -10185,7 +10186,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -10197,7 +10198,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -10209,7 +10210,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -10221,7 +10222,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -10233,7 +10234,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -10245,7 +10246,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -10257,7 +10258,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -10275,15 +10276,15 @@ Skip global warnings, show command output only
 
 Edit the quota of a configured group folder
 
-### Usage
+###  Usage
 
 \* \`groupfolders:quota \[--output \[OUTPUT\]\] \[--\] <folder\_id> <quota>\`
 
 Edit the quota of a configured group folder
 
-### Arguments
+###  Arguments
 
-#### \`folder\_id\`
+####  \`folder\_id\`
 
 Id of the folder to configure
 
@@ -10293,7 +10294,7 @@ Id of the folder to configure
 
 \* Default: \`NULL\`
 
-#### \`quota\`
+####  \`quota\`
 
 New value for the quota of the folder
 
@@ -10303,9 +10304,9 @@ New value for the quota of the folder
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -10317,7 +10318,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -10329,7 +10330,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -10341,7 +10342,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -10353,7 +10354,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -10365,7 +10366,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -10377,7 +10378,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -10389,7 +10390,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -10401,7 +10402,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -10419,15 +10420,15 @@ Skip global warnings, show command output only
 
 Rename group folder
 
-### Usage
+###  Usage
 
 \* \`groupfolders:rename \[--output \[OUTPUT\]\] \[--\] <folder\_id> <name>\`
 
 Rename group folder
 
-### Arguments
+###  Arguments
 
-#### \`folder\_id\`
+####  \`folder\_id\`
 
 Id of the folder to rename
 
@@ -10437,7 +10438,7 @@ Id of the folder to rename
 
 \* Default: \`NULL\`
 
-#### \`name\`
+####  \`name\`
 
 New value name of the folder
 
@@ -10447,9 +10448,9 @@ New value name of the folder
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -10461,7 +10462,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -10473,7 +10474,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -10485,7 +10486,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -10497,7 +10498,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -10509,7 +10510,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -10521,7 +10522,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -10533,7 +10534,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -10545,7 +10546,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -10563,15 +10564,15 @@ Skip global warnings, show command output only
 
 Scan a group folder for outside changes
 
-### Usage
+###  Usage
 
 \* \`groupfolders:scan \[--output \[OUTPUT\]\] \[--\] <folder\_id>\`
 
 Scan a group folder for outside changes
 
-### Arguments
+###  Arguments
 
-#### \`folder\_id\`
+####  \`folder\_id\`
 
 Id of the folder to configure
 
@@ -10581,9 +10582,9 @@ Id of the folder to configure
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -10595,7 +10596,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -10607,7 +10608,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -10619,7 +10620,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -10631,7 +10632,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -10643,7 +10644,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -10655,7 +10656,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -10667,7 +10668,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -10679,7 +10680,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -10697,15 +10698,15 @@ Skip global warnings, show command output only
 
 Empty the groupfolder trashbin
 
-### Usage
+###  Usage
 
 \* \`groupfolders:trashbin:cleanup \[-f|--force\] \[--output \[OUTPUT\]\] \[--\] \[<folder\_id>\]\`
 
 Empty the groupfolder trashbin
 
-### Arguments
+###  Arguments
 
-#### \`folder\_id\`
+####  \`folder\_id\`
 
 Id of the groupfolder
 
@@ -10715,9 +10716,9 @@ Id of the groupfolder
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--force|-f\`
+####  \`--force|-f\`
 
 Skip confirmation
 
@@ -10729,7 +10730,7 @@ Skip confirmation
 
 \* Default: \`false\`
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -10741,7 +10742,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -10753,7 +10754,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -10765,7 +10766,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -10777,7 +10778,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -10789,7 +10790,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -10801,7 +10802,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -10813,7 +10814,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -10825,7 +10826,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -10843,15 +10844,15 @@ Skip global warnings, show command output only
 
 Check integrity of an app using a signature.
 
-### Usage
+###  Usage
 
 \* \`integrity:check-app \[--output \[OUTPUT\]\] \[--path \[PATH\]\] \[--\] <appid>\`
 
 Check integrity of an app using a signature.
 
-### Arguments
+###  Arguments
 
-#### \`appid\`
+####  \`appid\`
 
 Application to check
 
@@ -10861,9 +10862,9 @@ Application to check
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -10875,7 +10876,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--path\`
+####  \`--path\`
 
 Path to application. If none is given it will be guessed.
 
@@ -10887,7 +10888,7 @@ Path to application. If none is given it will be guessed.
 
 \* Default: \`NULL\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -10899,7 +10900,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -10911,7 +10912,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -10923,7 +10924,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -10935,7 +10936,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -10947,7 +10948,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -10959,7 +10960,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -10971,7 +10972,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -10989,15 +10990,15 @@ Skip global warnings, show command output only
 
 Check integrity of core code using a signature.
 
-### Usage
+###  Usage
 
 \* \`integrity:check-core \[--output \[OUTPUT\]\]\`
 
 Check integrity of core code using a signature.
 
-### Options
+###  Options
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -11009,7 +11010,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -11021,7 +11022,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -11033,7 +11034,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -11045,7 +11046,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -11057,7 +11058,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -11069,7 +11070,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -11081,7 +11082,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -11093,7 +11094,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -11111,15 +11112,15 @@ Skip global warnings, show command output only
 
 Signs an app using a private key.
 
-### Usage
+###  Usage
 
 \* \`integrity:sign-app \[--path PATH\] \[--privateKey PRIVATEKEY\] \[--certificate CERTIFICATE\]\`
 
 Signs an app using a private key.
 
-### Options
+###  Options
 
-#### \`--path\`
+####  \`--path\`
 
 Application to sign
 
@@ -11131,7 +11132,7 @@ Application to sign
 
 \* Default: \`NULL\`
 
-#### \`--privateKey\`
+####  \`--privateKey\`
 
 Path to private key to use for signing
 
@@ -11143,7 +11144,7 @@ Path to private key to use for signing
 
 \* Default: \`NULL\`
 
-#### \`--certificate\`
+####  \`--certificate\`
 
 Path to certificate to use for signing
 
@@ -11155,7 +11156,7 @@ Path to certificate to use for signing
 
 \* Default: \`NULL\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -11167,7 +11168,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -11179,7 +11180,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -11191,7 +11192,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -11203,7 +11204,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -11215,7 +11216,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -11227,7 +11228,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -11239,7 +11240,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -11257,15 +11258,15 @@ Skip global warnings, show command output only
 
 Sign core using a private key.
 
-### Usage
+###  Usage
 
 \* \`integrity:sign-core \[--privateKey PRIVATEKEY\] \[--certificate CERTIFICATE\] \[--path PATH\]\`
 
 Sign core using a private key.
 
-### Options
+###  Options
 
-#### \`--privateKey\`
+####  \`--privateKey\`
 
 Path to private key to use for signing
 
@@ -11277,7 +11278,7 @@ Path to private key to use for signing
 
 \* Default: \`NULL\`
 
-#### \`--certificate\`
+####  \`--certificate\`
 
 Path to certificate to use for signing
 
@@ -11289,7 +11290,7 @@ Path to certificate to use for signing
 
 \* Default: \`NULL\`
 
-#### \`--path\`
+####  \`--path\`
 
 Path of core to sign
 
@@ -11301,7 +11302,7 @@ Path of core to sign
 
 \* Default: \`NULL\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -11313,7 +11314,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -11325,7 +11326,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -11337,7 +11338,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -11349,7 +11350,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -11361,7 +11362,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -11373,7 +11374,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -11385,7 +11386,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -11403,15 +11404,15 @@ Skip global warnings, show command output only
 
 Create javascript translation files for a given app
 
-### Usage
+###  Usage
 
 \* \`l10n:createjs \[<app> \[<lang>...\]\]\`
 
 Create javascript translation files for a given app
 
-### Arguments
+###  Arguments
 
-#### \`app\`
+####  \`app\`
 
 name of the app
 
@@ -11421,7 +11422,7 @@ name of the app
 
 \* Default: \`NULL\`
 
-#### \`lang\`
+####  \`lang\`
 
 name of the language
 
@@ -11431,9 +11432,9 @@ name of the language
 
 \* Default: \`array ()\`
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -11445,7 +11446,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -11457,7 +11458,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -11469,7 +11470,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -11481,7 +11482,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -11493,7 +11494,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -11505,7 +11506,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -11517,7 +11518,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -11535,15 +11536,15 @@ Skip global warnings, show command output only
 
 manipulate logging backend
 
-### Usage
+###  Usage
 
 \* \`log:file \[--enable\] \[--file FILE\] \[--rotate-size ROTATE-SIZE\]\`
 
 manipulate logging backend
 
-### Options
+###  Options
 
-#### \`--enable\`
+####  \`--enable\`
 
 enable this logging backend
 
@@ -11555,7 +11556,7 @@ enable this logging backend
 
 \* Default: \`false\`
 
-#### \`--file\`
+####  \`--file\`
 
 set the log file path
 
@@ -11567,7 +11568,7 @@ set the log file path
 
 \* Default: \`NULL\`
 
-#### \`--rotate-size\`
+####  \`--rotate-size\`
 
 set the file size for log rotation, 0 = disabled
 
@@ -11579,7 +11580,7 @@ set the file size for log rotation, 0 = disabled
 
 \* Default: \`NULL\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -11591,7 +11592,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -11603,7 +11604,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -11615,7 +11616,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -11627,7 +11628,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -11639,7 +11640,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -11651,7 +11652,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -11663,7 +11664,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -11681,15 +11682,15 @@ Skip global warnings, show command output only
 
 manage logging configuration
 
-### Usage
+###  Usage
 
 \* \`log:manage \[--backend BACKEND\] \[--level LEVEL\] \[--timezone TIMEZONE\]\`
 
 manage logging configuration
 
-### Options
+###  Options
 
-#### \`--backend\`
+####  \`--backend\`
 
 set the logging backend \[file, syslog, errorlog, systemd\]
 
@@ -11701,7 +11702,7 @@ set the logging backend \[file, syslog, errorlog, systemd\]
 
 \* Default: \`NULL\`
 
-#### \`--level\`
+####  \`--level\`
 
 set the log level \[debug, info, warning, error, fatal\]
 
@@ -11713,7 +11714,7 @@ set the log level \[debug, info, warning, error, fatal\]
 
 \* Default: \`NULL\`
 
-#### \`--timezone\`
+####  \`--timezone\`
 
 set the logging timezone
 
@@ -11725,7 +11726,7 @@ set the logging timezone
 
 \* Default: \`NULL\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -11737,7 +11738,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -11749,7 +11750,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -11761,7 +11762,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -11773,7 +11774,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -11785,7 +11786,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -11797,7 +11798,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -11809,7 +11810,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -11827,15 +11828,15 @@ Skip global warnings, show command output only
 
 Tail the nextcloud logfile
 
-### Usage
+###  Usage
 
 \* \`log:tail \[-f|--follow\] \[--output \[OUTPUT\]\] \[--\] \[<lines>\]\`
 
 Tail the nextcloud logfile
 
-### Arguments
+###  Arguments
 
-#### \`lines\`
+####  \`lines\`
 
 The number of log entries to print
 
@@ -11845,9 +11846,9 @@ The number of log entries to print
 
 \* Default: \`'10'\`
 
-### Options
+###  Options
 
-#### \`--follow|-f\`
+####  \`--follow|-f\`
 
 Output new log entries as they appear
 
@@ -11859,7 +11860,7 @@ Output new log entries as they appear
 
 \* Default: \`false\`
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -11871,7 +11872,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -11883,7 +11884,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -11895,7 +11896,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -11907,7 +11908,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -11919,7 +11920,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -11931,7 +11932,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -11943,7 +11944,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -11955,7 +11956,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -11973,15 +11974,15 @@ Skip global warnings, show command output only
 
 Watch the nextcloud logfile
 
-### Usage
+###  Usage
 
 \* \`log:watch \[--output \[OUTPUT\]\]\`
 
 Watch the nextcloud logfile
 
-### Options
+###  Options
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -11993,7 +11994,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -12005,7 +12006,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -12017,7 +12018,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -12029,7 +12030,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -12041,7 +12042,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -12053,7 +12054,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -12065,7 +12066,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -12077,7 +12078,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -12095,15 +12096,15 @@ Skip global warnings, show command output only
 
 update the systems data-fingerprint after a backup is restored
 
-### Usage
+###  Usage
 
 \* \`maintenance:data-fingerprint\`
 
 update the systems data-fingerprint after a backup is restored
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -12115,7 +12116,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -12127,7 +12128,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -12139,7 +12140,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -12151,7 +12152,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -12163,7 +12164,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -12175,7 +12176,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -12187,7 +12188,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -12205,15 +12206,15 @@ Skip global warnings, show command output only
 
 Update database mimetypes and update filecache
 
-### Usage
+###  Usage
 
 \* \`maintenance:mimetype:update-db \[--repair-filecache\]\`
 
 Update database mimetypes and update filecache
 
-### Options
+###  Options
 
-#### \`--repair-filecache\`
+####  \`--repair-filecache\`
 
 Repair filecache for all mimetypes, not just new ones
 
@@ -12225,7 +12226,7 @@ Repair filecache for all mimetypes, not just new ones
 
 \* Default: \`false\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -12237,7 +12238,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -12249,7 +12250,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -12261,7 +12262,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -12273,7 +12274,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -12285,7 +12286,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -12297,7 +12298,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -12309,7 +12310,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -12327,15 +12328,15 @@ Skip global warnings, show command output only
 
 Update mimetypelist.js
 
-### Usage
+###  Usage
 
 \* \`maintenance:mimetype:update-js\`
 
 Update mimetypelist.js
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -12347,7 +12348,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -12359,7 +12360,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -12371,7 +12372,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -12383,7 +12384,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -12395,7 +12396,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -12407,7 +12408,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -12419,7 +12420,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -12437,15 +12438,15 @@ Skip global warnings, show command output only
 
 set maintenance mode
 
-### Usage
+###  Usage
 
 \* \`maintenance:mode \[--on\] \[--off\]\`
 
 set maintenance mode
 
-### Options
+###  Options
 
-#### \`--on\`
+####  \`--on\`
 
 enable maintenance mode
 
@@ -12457,7 +12458,7 @@ enable maintenance mode
 
 \* Default: \`false\`
 
-#### \`--off\`
+####  \`--off\`
 
 disable maintenance mode
 
@@ -12469,7 +12470,7 @@ disable maintenance mode
 
 \* Default: \`false\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -12481,7 +12482,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -12493,7 +12494,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -12505,7 +12506,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -12517,7 +12518,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -12529,7 +12530,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -12541,7 +12542,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -12553,7 +12554,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -12571,15 +12572,15 @@ Skip global warnings, show command output only
 
 repair this installation
 
-### Usage
+###  Usage
 
 \* \`maintenance:repair \[--include-expensive\]\`
 
 repair this installation
 
-### Options
+###  Options
 
-#### \`--include-expensive\`
+####  \`--include-expensive\`
 
 Use this option when you want to include resource and load expensive tasks
 
@@ -12591,7 +12592,7 @@ Use this option when you want to include resource and load expensive�
 
 \* Default: \`false\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -12603,7 +12604,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -12615,7 +12616,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -12627,7 +12628,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -12639,7 +12640,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -12651,7 +12652,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -12663,7 +12664,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -12675,7 +12676,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -12693,15 +12694,15 @@ Skip global warnings, show command output only
 
 Apply custom theme changes
 
-### Usage
+###  Usage
 
 \* \`maintenance:theme:update\`
 
 Apply custom theme changes
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -12713,7 +12714,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -12725,7 +12726,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -12737,7 +12738,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -12749,7 +12750,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -12761,7 +12762,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -12773,7 +12774,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -12785,7 +12786,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -12803,15 +12804,15 @@ Skip global warnings, show command output only
 
 Updates the .htaccess file
 
-### Usage
+###  Usage
 
 \* \`maintenance:update:htaccess\`
 
 Updates the .htaccess file
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -12823,7 +12824,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -12835,7 +12836,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -12847,7 +12848,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -12859,7 +12860,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -12871,7 +12872,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -12883,7 +12884,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -12895,7 +12896,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -12913,15 +12914,15 @@ Skip global warnings, show command output only
 
 clean up orphaned DB entries (this happens also periodically on the background)
 
-### Usage
+###  Usage
 
 \* \`music:cleanup\`
 
 clean up orphaned DB entries (this happens also periodically on the background)
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -12933,7 +12934,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -12945,7 +12946,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -12957,7 +12958,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -12969,7 +12970,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -12981,7 +12982,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -12993,7 +12994,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -13005,7 +13006,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -13023,7 +13024,7 @@ Skip global warnings, show command output only
 
 export user playlist(s) to file(s)
 
-### Usage
+###  Usage
 
 \* \`music:playlist-export \[--all\] \[--group GROUP\] \[--list-id LIST-ID\] \[--list-name LIST-NAME\] \[--all-lists\] \[--dir DIR\] \[--overwrite\] \[--\] \[<user\_i
 
@@ -13031,9 +13032,9 @@ d>...\]\`
 
 export user playlist(s) to file(s)
 
-### Arguments
+###  Arguments
 
-#### \`user\_id\`
+####  \`user\_id\`
 
 specify one or more targeted users
 
@@ -13043,9 +13044,9 @@ specify one or more targeted users
 
 \* Default: \`array ()\`
 
-### Options
+###  Options
 
-#### \`--all\`
+####  \`--all\`
 
 target all known users
 
@@ -13057,7 +13058,7 @@ target all known users
 
 \* Default: \`false\`
 
-#### \`--group\`
+####  \`--group\`
 
 specify a targeted group to include all users of that group
 
@@ -13069,7 +13070,7 @@ specify a targeted group to include all users of that group
 
 \* Default: \`array ()\`
 
-#### \`--list-id\`
+####  \`--list-id\`
 
 ID of the playlist to export
 
@@ -13081,7 +13082,7 @@ ID of the playlist to export
 
 \* Default: \`array ()\`
 
-#### \`--list-name\`
+####  \`--list-name\`
 
 name of the playlist to export
 
@@ -13093,7 +13094,7 @@ name of the playlist to export
 
 \* Default: \`array ()\`
 
-#### \`--all-lists\`
+####  \`--all-lists\`
 
 export all playlists of the user
 
@@ -13105,7 +13106,7 @@ export all playlists of the user
 
 \* Default: \`false\`
 
-#### \`--dir\`
+####  \`--dir\`
 
 target directory, relative to the user home folder (the dir must exist)
 
@@ -13117,7 +13118,7 @@ target directory, relative to the user home folder (the dir must exis
 
 \* Default: \`''\`
 
-#### \`--overwrite\`
+####  \`--overwrite\`
 
 overwrite the target file if it already exists
 
@@ -13129,7 +13130,7 @@ overwrite the target file if it already exists
 
 \* Default: \`false\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -13141,7 +13142,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -13153,7 +13154,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -13165,7 +13166,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -13177,7 +13178,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -13189,7 +13190,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -13201,7 +13202,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -13213,7 +13214,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -13231,15 +13232,15 @@ Skip global warnings, show command output only
 
 import user playlist(s) from file(s)
 
-### Usage
+###  Usage
 
 \* \`music:playlist-import \[--all\] \[--group GROUP\] \[--file FILE\] \[--overwrite\] \[--append\] \[--\] \[<user\_id>...\]\`
 
 import user playlist(s) from file(s)
 
-### Arguments
+###  Arguments
 
-#### \`user\_id\`
+####  \`user\_id\`
 
 specify one or more targeted users
 
@@ -13249,9 +13250,9 @@ specify one or more targeted users
 
 \* Default: \`array ()\`
 
-### Options
+###  Options
 
-#### \`--all\`
+####  \`--all\`
 
 target all known users
 
@@ -13263,7 +13264,7 @@ target all known users
 
 \* Default: \`false\`
 
-#### \`--group\`
+####  \`--group\`
 
 specify a targeted group to include all users of that group
 
@@ -13275,7 +13276,7 @@ specify a targeted group to include all users of that group
 
 \* Default: \`array ()\`
 
-#### \`--file\`
+####  \`--file\`
 
 path of the playlist file, relative to the user home folder; \* and ? are treated as wildcards within the file name but not on the directory name
 
@@ -13287,7 +13288,7 @@ path of the playlist file, relative to the user home folder; \* and�
 
 \* Default: \`array ()\`
 
-#### \`--overwrite\`
+####  \`--overwrite\`
 
 overwrite the target playlist if it already exists
 
@@ -13299,7 +13300,7 @@ overwrite the target playlist if it already exists
 
 \* Default: \`false\`
 
-#### \`--append\`
+####  \`--append\`
 
 append imported tracks to an existing playlist if found
 
@@ -13311,7 +13312,7 @@ append imported tracks to an existing playlist if found
 
 \* Default: \`false\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -13323,7 +13324,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -13335,7 +13336,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -13347,7 +13348,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -13359,7 +13360,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -13371,7 +13372,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -13383,7 +13384,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -13395,7 +13396,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -13413,15 +13414,15 @@ Skip global warnings, show command output only
 
 add a podcast channel from an RSS feed
 
-### Usage
+###  Usage
 
 \* \`music:podcast-add \[--all\] \[--group GROUP\] \[--rss RSS\] \[--\] \[<user\_id>...\]\`
 
 add a podcast channel from an RSS feed
 
-### Arguments
+###  Arguments
 
-#### \`user\_id\`
+####  \`user\_id\`
 
 specify one or more targeted users
 
@@ -13431,9 +13432,9 @@ specify one or more targeted users
 
 \* Default: \`array ()\`
 
-### Options
+###  Options
 
-#### \`--all\`
+####  \`--all\`
 
 target all known users
 
@@ -13445,7 +13446,7 @@ target all known users
 
 \* Default: \`false\`
 
-#### \`--group\`
+####  \`--group\`
 
 specify a targeted group to include all users of that group
 
@@ -13457,7 +13458,7 @@ specify a targeted group to include all users of that group
 
 \* Default: \`array ()\`
 
-#### \`--rss\`
+####  \`--rss\`
 
 URL to an RSS feed
 
@@ -13469,7 +13470,7 @@ URL to an RSS feed
 
 \* Default: \`array ()\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -13481,7 +13482,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -13493,7 +13494,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -13505,7 +13506,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -13517,7 +13518,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -13529,7 +13530,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -13541,7 +13542,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -13553,7 +13554,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -13571,15 +13572,15 @@ Skip global warnings, show command output only
 
 remove all podcast channels of one or more users
 
-### Usage
+###  Usage
 
 \* \`music:podcast-reset \[--all\] \[--group GROUP\] \[--\] \[<user\_id>...\]\`
 
 remove all podcast channels of one or more users
 
-### Arguments
+###  Arguments
 
-#### \`user\_id\`
+####  \`user\_id\`
 
 specify one or more targeted users
 
@@ -13589,9 +13590,9 @@ specify one or more targeted users
 
 \* Default: \`array ()\`
 
-### Options
+###  Options
 
-#### \`--all\`
+####  \`--all\`
 
 target all known users
 
@@ -13603,7 +13604,7 @@ target all known users
 
 \* Default: \`false\`
 
-#### \`--group\`
+####  \`--group\`
 
 specify a targeted group to include all users of that group
 
@@ -13615,7 +13616,7 @@ specify a targeted group to include all users of that group
 
 \* Default: \`array ()\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -13627,7 +13628,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -13639,7 +13640,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -13651,7 +13652,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -13663,7 +13664,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -13675,7 +13676,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -13687,7 +13688,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -13699,7 +13700,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -13717,15 +13718,15 @@ Skip global warnings, show command output only
 
 update podcast channels of one or more users from their sources
 
-### Usage
+###  Usage
 
 \* \`music:podcast-update \[--all\] \[--group GROUP\] \[--older-than OLDER-THAN\] \[--force\] \[--\] \[<user\_id>...\]\`
 
 update podcast channels of one or more users from their sources
 
-### Arguments
+###  Arguments
 
-#### \`user\_id\`
+####  \`user\_id\`
 
 specify one or more targeted users
 
@@ -13735,9 +13736,9 @@ specify one or more targeted users
 
 \* Default: \`array ()\`
 
-### Options
+###  Options
 
-#### \`--all\`
+####  \`--all\`
 
 target all known users
 
@@ -13749,7 +13750,7 @@ target all known users
 
 \* Default: \`false\`
 
-#### \`--group\`
+####  \`--group\`
 
 specify a targeted group to include all users of that group
 
@@ -13761,7 +13762,7 @@ specify a targeted group to include all users of that group
 
 \* Default: \`array ()\`
 
-#### \`--older-than\`
+####  \`--older-than\`
 
 check updates only for channels which have not been checked for this many hours (sub-hour resolution supported with decimals)
 
@@ -13773,7 +13774,7 @@ check updates only for channels which have not been checked for this�
 
 \* Default: \`NULL\`
 
-#### \`--force\`
+####  \`--force\`
 
 update episodes even if there doesn't appear to be any changes
 
@@ -13785,7 +13786,7 @@ update episodes even if there doesn't appear to be any changes
 
 \* Default: \`false\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -13797,7 +13798,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -13809,7 +13810,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -13821,7 +13822,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -13833,7 +13834,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -13845,7 +13846,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -13857,7 +13858,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -13869,7 +13870,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -13887,15 +13888,15 @@ Skip global warnings, show command output only
 
 drop data cached by the music app for performance reasons
 
-### Usage
+###  Usage
 
 \* \`music:reset-cache \[--all\] \[--group GROUP\] \[--\] \[<user\_id>...\]\`
 
 drop data cached by the music app for performance reasons
 
-### Arguments
+###  Arguments
 
-#### \`user\_id\`
+####  \`user\_id\`
 
 specify one or more targeted users
 
@@ -13905,9 +13906,9 @@ specify one or more targeted users
 
 \* Default: \`array ()\`
 
-### Options
+###  Options
 
-#### \`--all\`
+####  \`--all\`
 
 target all known users
 
@@ -13919,7 +13920,7 @@ target all known users
 
 \* Default: \`false\`
 
-#### \`--group\`
+####  \`--group\`
 
 specify a targeted group to include all users of that group
 
@@ -13931,7 +13932,7 @@ specify a targeted group to include all users of that group
 
 \* Default: \`array ()\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -13943,7 +13944,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -13955,7 +13956,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -13967,7 +13968,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -13979,7 +13980,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -13991,7 +13992,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -14003,7 +14004,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -14015,7 +14016,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -14033,15 +14034,15 @@ Skip global warnings, show command output only
 
 drop metadata indexed by the music app (artists, albums, tracks, playlists)
 
-### Usage
+###  Usage
 
 \* \`music:reset-database \[--all\] \[--group GROUP\] \[--\] \[<user\_id>...\]\`
 
 drop metadata indexed by the music app (artists, albums, tracks, playlists)
 
-### Arguments
+###  Arguments
 
-#### \`user\_id\`
+####  \`user\_id\`
 
 specify one or more targeted users
 
@@ -14051,9 +14052,9 @@ specify one or more targeted users
 
 \* Default: \`array ()\`
 
-### Options
+###  Options
 
-#### \`--all\`
+####  \`--all\`
 
 target all known users
 
@@ -14065,7 +14066,7 @@ target all known users
 
 \* Default: \`false\`
 
-#### \`--group\`
+####  \`--group\`
 
 specify a targeted group to include all users of that group
 
@@ -14077,7 +14078,7 @@ specify a targeted group to include all users of that group
 
 \* Default: \`array ()\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -14089,7 +14090,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -14101,7 +14102,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -14113,7 +14114,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -14125,7 +14126,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -14137,7 +14138,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -14149,7 +14150,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -14161,7 +14162,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -14179,15 +14180,15 @@ Skip global warnings, show command output only
 
 scan and index any unindexed audio files
 
-### Usage
+###  Usage
 
 \* \`music:scan \[--all\] \[--group GROUP\] \[--debug\] \[--clean-obsolete\] \[--rescan\] \[--rescan-modified\] \[--folder \[FOLDER\]\] \[--\] \[<user\_id>...\]\`
 
 scan and index any unindexed audio files
 
-### Arguments
+###  Arguments
 
-#### \`user\_id\`
+####  \`user\_id\`
 
 specify one or more targeted users
 
@@ -14197,9 +14198,9 @@ specify one or more targeted users
 
 \* Default: \`array ()\`
 
-### Options
+###  Options
 
-#### \`--all\`
+####  \`--all\`
 
 target all known users
 
@@ -14211,7 +14212,7 @@ target all known users
 
 \* Default: \`false\`
 
-#### \`--group\`
+####  \`--group\`
 
 specify a targeted group to include all users of that group
 
@@ -14223,7 +14224,7 @@ specify a targeted group to include all users of that group
 
 \* Default: \`array ()\`
 
-#### \`--debug\`
+####  \`--debug\`
 
 will run the scan in debug mode (memory usage)
 
@@ -14235,7 +14236,7 @@ will run the scan in debug mode (memory usage)
 
 \* Default: \`false\`
 
-#### \`--clean-obsolete\`
+####  \`--clean-obsolete\`
 
 also check availability of any previously scanned tracks, removing obsolete entries
 
@@ -14247,7 +14248,7 @@ also check availability of any previously scanned tracks, removing obso
 
 \* Default: \`false\`
 
-#### \`--rescan\`
+####  \`--rescan\`
 
 rescan also any previously scanned tracks
 
@@ -14259,7 +14260,7 @@ rescan also any previously scanned tracks
 
 \* Default: \`false\`
 
-#### \`--rescan-modified\`
+####  \`--rescan-modified\`
 
 rescan files which have mofication time later than the previous scan time (new files not scanned)
 
@@ -14271,7 +14272,7 @@ rescan files which have mofication time later than the previous scan 
 
 \* Default: \`false\`
 
-#### \`--folder\`
+####  \`--folder\`
 
 scan only files within this folder (path is relative to the user home folder)
 
@@ -14283,7 +14284,7 @@ scan only files within this folder (path is relative to the user hom
 
 \* Default: \`NULL\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -14295,7 +14296,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -14307,7 +14308,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -14319,7 +14320,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -14331,7 +14332,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -14343,7 +14344,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -14355,7 +14356,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -14367,7 +14368,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -14385,15 +14386,15 @@ Skip global warnings, show command output only
 
 Generate a notification for the given user
 
-### Usage
+###  Usage
 
 \* \`notification:generate \[-l|--long-message LONG-MESSAGE\] \[--\] <user-id> <short-message>\`
 
 Generate a notification for the given user
 
-### Arguments
+###  Arguments
 
-#### \`user-id\`
+####  \`user-id\`
 
 User ID of the user to notify
 
@@ -14403,7 +14404,7 @@ User ID of the user to notify
 
 \* Default: \`NULL\`
 
-#### \`short-message\`
+####  \`short-message\`
 
 Short message to be sent to the user (max. 255 characters)
 
@@ -14413,9 +14414,9 @@ Short message to be sent to the user (max. 255 characters)
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--long-message|-l\`
+####  \`--long-message|-l\`
 
 Long mesage to be sent to the user (max. 4000 characters)
 
@@ -14427,7 +14428,7 @@ Long mesage to be sent to the user (max. 4000 characters)
 
 \* Default: \`''\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -14439,7 +14440,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -14451,7 +14452,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -14463,7 +14464,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -14475,7 +14476,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -14487,7 +14488,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -14499,7 +14500,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -14511,7 +14512,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -14529,15 +14530,15 @@ Skip global warnings, show command output only
 
 Generate a notification for the given user
 
-### Usage
+###  Usage
 
 \* \`notification:test-push \[--talk\] \[--\] <user-id>\`
 
 Generate a notification for the given user
 
-### Arguments
+###  Arguments
 
-#### \`user-id\`
+####  \`user-id\`
 
 User ID of the user to notify
 
@@ -14547,9 +14548,9 @@ User ID of the user to notify
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--talk\`
+####  \`--talk\`
 
 Test talk devices
 
@@ -14561,7 +14562,7 @@ Test talk devices
 
 \* Default: \`false\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -14573,7 +14574,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -14585,7 +14586,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -14597,7 +14598,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -14609,7 +14610,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -14621,7 +14622,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -14633,7 +14634,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -14645,7 +14646,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -14663,15 +14664,15 @@ Skip global warnings, show command output only
 
 Generate previews
 
-### Usage
+###  Usage
 
 \* \`preview:generate-all \[-p|--path \[PATH\]\] \[--\] \[<user\_id>...\]\`
 
 Generate previews
 
-### Arguments
+###  Arguments
 
-#### \`user\_id\`
+####  \`user\_id\`
 
 Generate previews for the given user(s)
 
@@ -14681,9 +14682,9 @@ Generate previews for the given user(s)
 
 \* Default: \`array ()\`
 
-### Options
+###  Options
 
-#### \`--path|-p\`
+####  \`--path|-p\`
 
 limit scan to this path, eg. --path="/alice/files/Photos", the user\_id is determined by the path and all user\_id arguments are ignored, multiple u
 
@@ -14697,7 +14698,7 @@ sages allowed
 
 \* Default: \`array ()\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -14709,7 +14710,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -14721,7 +14722,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -14733,7 +14734,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -14745,7 +14746,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -14757,7 +14758,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -14769,7 +14770,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -14781,7 +14782,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -14799,15 +14800,15 @@ Skip global warnings, show command output only
 
 Pre generate previews
 
-### Usage
+###  Usage
 
 \* \`preview:pre-generate\`
 
 Pre generate previews
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -14819,7 +14820,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -14831,7 +14832,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -14843,7 +14844,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -14855,7 +14856,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -14867,7 +14868,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -14879,7 +14880,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -14891,7 +14892,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -14909,15 +14910,15 @@ Skip global warnings, show command output only
 
 distributes the existing previews into subfolders
 
-### Usage
+###  Usage
 
 \* \`preview:repair \[-b|--batch\] \[-d|--dry\] \[--delete\]\`
 
 distributes the existing previews into subfolders
 
-### Options
+###  Options
 
-#### \`--batch|-b\`
+####  \`--batch|-b\`
 
 Batch mode - will not ask to start the migration and start it right away.
 
@@ -14929,7 +14930,7 @@ Batch mode - will not ask to start the migration and start it right
 
 \* Default: \`false\`
 
-#### \`--dry|-d\`
+####  \`--dry|-d\`
 
 Dry mode - will not create, move or delete any files - in combination with the verbose mode one could check the operations.
 
@@ -14941,7 +14942,7 @@ Dry mode - will not create, move or delete any files - in combinati
 
 \* Default: \`false\`
 
-#### \`--delete\`
+####  \`--delete\`
 
 Delete instead of migrating them. Usefull if too many entries to migrate.
 
@@ -14953,7 +14954,7 @@ Delete instead of migrating them. Usefull if too many entries to migr
 
 \* Default: \`false\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -14965,7 +14966,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -14977,7 +14978,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -14989,7 +14990,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -15001,7 +15002,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -15013,7 +15014,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -15025,7 +15026,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -15037,7 +15038,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -15055,15 +15056,15 @@ Skip global warnings, show command output only
 
 Deletes all generated avatars and previews of text and md files
 
-### Usage
+###  Usage
 
 \* \`preview:reset-rendered-texts \[-d|--dry\]\`
 
 Deletes all generated avatars and previews of text and md files
 
-### Options
+###  Options
 
-#### \`--dry|-d\`
+####  \`--dry|-d\`
 
 Dry mode - will not delete any files - in combination with the verbose mode one could check the operations.
 
@@ -15075,7 +15076,7 @@ Dry mode - will not delete any files - in combination with the verb
 
 \* Default: \`false\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -15087,7 +15088,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -15099,7 +15100,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -15111,7 +15112,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -15123,7 +15124,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -15135,7 +15136,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -15147,7 +15148,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -15159,7 +15160,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -15177,15 +15178,15 @@ Skip global warnings, show command output only
 
 resets bruteforce attemps for given IP address
 
-### Usage
+###  Usage
 
 \* \`security:bruteforce:reset <ipaddress>\`
 
 resets bruteforce attemps for given IP address
 
-### Arguments
+###  Arguments
 
-#### \`ipaddress\`
+####  \`ipaddress\`
 
 IP address for which the attempts are to be reset
 
@@ -15195,9 +15196,9 @@ IP address for which the attempts are to be reset
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -15209,7 +15210,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -15221,7 +15222,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -15233,7 +15234,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -15245,7 +15246,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -15257,7 +15258,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -15269,7 +15270,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -15281,7 +15282,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -15299,15 +15300,15 @@ Skip global warnings, show command output only
 
 list trusted certificates
 
-### Usage
+###  Usage
 
 \* \`security:certificates \[--output \[OUTPUT\]\]\`
 
 list trusted certificates
 
-### Options
+###  Options
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -15319,7 +15320,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -15331,7 +15332,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -15343,7 +15344,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -15355,7 +15356,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -15367,7 +15368,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -15379,7 +15380,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -15391,7 +15392,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -15403,7 +15404,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -15421,15 +15422,15 @@ Skip global warnings, show command output only
 
 import trusted certificate in PEM format
 
-### Usage
+###  Usage
 
 \* \`security:certificates:import <path>\`
 
 import trusted certificate in PEM format
 
-### Arguments
+###  Arguments
 
-#### \`path\`
+####  \`path\`
 
 path to the PEM certificate to import
 
@@ -15439,9 +15440,9 @@ path to the PEM certificate to import
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -15453,7 +15454,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -15465,7 +15466,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -15477,7 +15478,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -15489,7 +15490,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -15501,7 +15502,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -15513,7 +15514,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -15525,7 +15526,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -15543,15 +15544,15 @@ Skip global warnings, show command output only
 
 remove trusted certificate
 
-### Usage
+###  Usage
 
 \* \`security:certificates:remove <name>\`
 
 remove trusted certificate
 
-### Arguments
+###  Arguments
 
-#### \`name\`
+####  \`name\`
 
 the file name of the certificate to remove
 
@@ -15561,9 +15562,9 @@ the file name of the certificate to remove
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -15575,7 +15576,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -15587,7 +15588,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -15599,7 +15600,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -15611,7 +15612,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -15623,7 +15624,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -15635,7 +15636,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -15647,7 +15648,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -15665,15 +15666,15 @@ Skip global warnings, show command output only
 
 Triggers an update of the counts related to storages used in serverinfo
 
-### Usage
+###  Usage
 
 \* \`serverinfo:update-storage-statistics \[--output \[OUTPUT\]\]\`
 
 Triggers an update of the counts related to storages used in serverinfo
 
-### Options
+###  Options
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -15685,7 +15686,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -15697,7 +15698,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -15709,7 +15710,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -15721,7 +15722,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -15733,7 +15734,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -15745,7 +15746,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -15757,7 +15758,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -15769,7 +15770,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -15787,15 +15788,15 @@ Skip global warnings, show command output only
 
 Cleanup shared storage entries that have no matching entry in the shares\_external table
 
-### Usage
+###  Usage
 
 \* \`sharing:cleanup-remote-storages \[--dry-run\]\`
 
 Cleanup shared storage entries that have no matching entry in the shares\_external table
 
-### Options
+###  Options
 
-#### \`--dry-run\`
+####  \`--dry-run\`
 
 only show which storages would be deleted
 
@@ -15807,7 +15808,7 @@ only show which storages would be deleted
 
 \* Default: \`false\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -15819,7 +15820,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -15831,7 +15832,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -15843,7 +15844,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -15855,7 +15856,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -15867,7 +15868,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -15879,7 +15880,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -15891,7 +15892,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -15909,15 +15910,15 @@ Skip global warnings, show command output only
 
 Notify share initiators when a share will expire the next day.
 
-### Usage
+###  Usage
 
 \* \`sharing:expiration-notification\`
 
 Notify share initiators when a share will expire the next day.
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -15929,7 +15930,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -15941,7 +15942,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -15953,7 +15954,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -15965,7 +15966,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -15977,7 +15978,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -15989,7 +15990,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -16001,7 +16002,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -16019,15 +16020,15 @@ Skip global warnings, show command output only
 
 Add new tag
 
-### Usage
+###  Usage
 
 \* \`tag:add \[--output \[OUTPUT\]\] \[--\] <name> <access>\`
 
 Add new tag
 
-### Arguments
+###  Arguments
 
-#### \`name\`
+####  \`name\`
 
 name of the tag
 
@@ -16037,7 +16038,7 @@ name of the tag
 
 \* Default: \`NULL\`
 
-#### \`access\`
+####  \`access\`
 
 access level of the tag (public, restricted or invisible)
 
@@ -16047,9 +16048,9 @@ access level of the tag (public, restricted or invisible)
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -16061,7 +16062,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -16073,7 +16074,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -16085,7 +16086,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -16097,7 +16098,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -16109,7 +16110,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -16121,7 +16122,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -16133,7 +16134,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -16145,7 +16146,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -16163,15 +16164,15 @@ Skip global warnings, show command output only
 
 delete a tag
 
-### Usage
+###  Usage
 
 \* \`tag:delete \[<id>\]\`
 
 delete a tag
 
-### Arguments
+###  Arguments
 
-#### \`id\`
+####  \`id\`
 
 The ID of the tag that should be deleted
 
@@ -16181,9 +16182,9 @@ The ID of the tag that should be deleted
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -16195,7 +16196,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -16207,7 +16208,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -16219,7 +16220,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -16231,7 +16232,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -16243,7 +16244,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -16255,7 +16256,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -16267,7 +16268,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -16285,15 +16286,15 @@ Skip global warnings, show command output only
 
 edit tag attributes
 
-### Usage
+###  Usage
 
 \* \`tag:edit \[--name \[NAME\]\] \[--access \[ACCESS\]\] \[--\] \[<id>\]\`
 
 edit tag attributes
 
-### Arguments
+###  Arguments
 
-#### \`id\`
+####  \`id\`
 
 The ID of the tag that should be deleted
 
@@ -16303,9 +16304,9 @@ The ID of the tag that should be deleted
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--name\`
+####  \`--name\`
 
 sets the 'name' parameter
 
@@ -16317,7 +16318,7 @@ sets the 'name' parameter
 
 \* Default: \`NULL\`
 
-#### \`--access\`
+####  \`--access\`
 
 sets the access control level (public, restricted, invisible)
 
@@ -16329,7 +16330,7 @@ sets the access control level (public, restricted, invisible)
 
 \* Default: \`NULL\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -16341,7 +16342,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -16353,7 +16354,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -16365,7 +16366,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -16377,7 +16378,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -16389,7 +16390,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -16401,7 +16402,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -16413,7 +16414,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -16431,15 +16432,15 @@ Skip global warnings, show command output only
 
 list tags
 
-### Usage
+###  Usage
 
 \* \`tag:list \[--visibilityFilter \[VISIBILITYFILTER\]\] \[--nameSearchPattern \[NAMESEARCHPATTERN\]\] \[--output \[OUTPUT\]\]\`
 
 list tags
 
-### Options
+###  Options
 
-#### \`--visibilityFilter\`
+####  \`--visibilityFilter\`
 
 filter by visibility (1,0)
 
@@ -16451,7 +16452,7 @@ filter by visibility (1,0)
 
 \* Default: \`NULL\`
 
-#### \`--nameSearchPattern\`
+####  \`--nameSearchPattern\`
 
 optional search pattern for the tag name (infix)
 
@@ -16463,7 +16464,7 @@ optional search pattern for the tag name (infix)
 
 \* Default: \`NULL\`
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -16475,7 +16476,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -16487,7 +16488,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -16499,7 +16500,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -16511,7 +16512,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -16523,7 +16524,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -16535,7 +16536,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -16547,7 +16548,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -16559,7 +16560,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -16577,15 +16578,15 @@ Skip global warnings, show command output only
 
 Reset a text document
 
-### Usage
+###  Usage
 
 \* \`text:reset \[-f|--full\] \[--\] <file-id>\`
 
 Reset a text document
 
-### Arguments
+###  Arguments
 
-#### \`file-id\`
+####  \`file-id\`
 
 File id of the document to rest
 
@@ -16595,9 +16596,9 @@ File id of the document to rest
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--full|-f\`
+####  \`--full|-f\`
 
 Drop all existing steps and use the currently saved version
 
@@ -16609,7 +16610,7 @@ Drop all existing steps and use the currently saved version
 
 \* Default: \`false\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -16621,7 +16622,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -16633,7 +16634,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -16645,7 +16646,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -16657,7 +16658,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -16669,7 +16670,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -16681,7 +16682,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -16693,7 +16694,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -16711,15 +16712,15 @@ Skip global warnings, show command output only
 
 Set theming app config values
 
-### Usage
+###  Usage
 
 \* \`theming:config \[-r|--reset\] \[--\] \[<key> \[<value>\]\]\`
 
 Set theming app config values
 
-### Arguments
+###  Arguments
 
-#### \`key\`
+####  \`key\`
 
 Key to update the theming app configuration (leave empty to get a list of all configured values)
 
@@ -16731,7 +16732,7 @@ One of: name, url, imprintUrl, privacyUrl, slogan, color
 
 \* Default: \`NULL\`
 
-#### \`value\`
+####  \`value\`
 
 Value to set (leave empty to obtain the current value)
 
@@ -16741,9 +16742,9 @@ Value to set (leave empty to obtain the current value)
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--reset|-r\`
+####  \`--reset|-r\`
 
 Reset the given config key to default
 
@@ -16755,7 +16756,7 @@ Reset the given config key to default
 
 \* Default: \`false\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -16767,7 +16768,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -16779,7 +16780,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -16791,7 +16792,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -16803,7 +16804,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -16815,7 +16816,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -16827,7 +16828,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -16839,7 +16840,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -16857,15 +16858,15 @@ Skip global warnings, show command output only
 
 Remove deleted files
 
-### Usage
+###  Usage
 
 \* \`trashbin:cleanup \[--all-users\] \[--\] \[<user\_id>...\]\`
 
 Remove deleted files
 
-### Arguments
+###  Arguments
 
-#### \`user\_id\`
+####  \`user\_id\`
 
 remove deleted files of the given user(s)
 
@@ -16875,9 +16876,9 @@ remove deleted files of the given user(s)
 
 \* Default: \`array ()\`
 
-### Options
+###  Options
 
-#### \`--all-users\`
+####  \`--all-users\`
 
 run action on all users
 
@@ -16889,7 +16890,7 @@ run action on all users
 
 \* Default: \`false\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -16901,7 +16902,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -16913,7 +16914,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -16925,7 +16926,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -16937,7 +16938,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -16949,7 +16950,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -16961,7 +16962,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -16973,7 +16974,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -16991,15 +16992,15 @@ Skip global warnings, show command output only
 
 Expires the users trashbin
 
-### Usage
+###  Usage
 
 \* \`trashbin:expire \[<user\_id>...\]\`
 
 Expires the users trashbin
 
-### Arguments
+###  Arguments
 
-#### \`user\_id\`
+####  \`user\_id\`
 
 expires the trashbin of the given user(s), if no user is given the trash for all users will be expired
 
@@ -17009,9 +17010,9 @@ expires the trashbin of the given user(s), if no user is given the 
 
 \* Default: \`array ()\`
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -17023,7 +17024,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -17035,7 +17036,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -17047,7 +17048,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -17059,7 +17060,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -17071,7 +17072,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -17083,7 +17084,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -17095,7 +17096,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -17113,15 +17114,15 @@ Skip global warnings, show command output only
 
 Restore all deleted files
 
-### Usage
+###  Usage
 
 \* \`trashbin:restore \[--output \[OUTPUT\]\] \[--all-users\] \[--\] \[<user\_id>...\]\`
 
 Restore all deleted files
 
-### Arguments
+###  Arguments
 
-#### \`user\_id\`
+####  \`user\_id\`
 
 restore all deleted files of the given user(s)
 
@@ -17131,9 +17132,9 @@ restore all deleted files of the given user(s)
 
 \* Default: \`array ()\`
 
-### Options
+###  Options
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -17145,7 +17146,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--all-users\`
+####  \`--all-users\`
 
 run action on all users
 
@@ -17157,7 +17158,7 @@ run action on all users
 
 \* Default: \`false\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -17169,7 +17170,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -17181,7 +17182,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -17193,7 +17194,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -17205,7 +17206,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -17217,7 +17218,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -17229,7 +17230,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -17241,7 +17242,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -17259,15 +17260,15 @@ Skip global warnings, show command output only
 
 Configure the target trashbin size
 
-### Usage
+###  Usage
 
 \* \`trashbin:size \[--output \[OUTPUT\]\] \[-u|--user USER\] \[--\] \[<size>\]\`
 
 Configure the target trashbin size
 
-### Arguments
+###  Arguments
 
-#### \`size\`
+####  \`size\`
 
 the target size for the trashbin, if not provided the current trashbin size will be returned
 
@@ -17277,9 +17278,9 @@ the target size for the trashbin, if not provided the current trashbi
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -17291,7 +17292,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--user|-u\`
+####  \`--user|-u\`
 
 configure the target size for the provided user, if no user is given the default size is configured
 
@@ -17303,7 +17304,7 @@ configure the target size for the provided user, if no user is given
 
 \* Default: \`NULL\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -17315,7 +17316,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -17327,7 +17328,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -17339,7 +17340,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -17351,7 +17352,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -17363,7 +17364,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -17375,7 +17376,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -17387,7 +17388,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -17405,15 +17406,15 @@ Skip global warnings, show command output only
 
 Clean up the two-factor user-provider association of an uninstalled/removed provider
 
-### Usage
+###  Usage
 
 \* \`twofactorauth:cleanup \[--output \[OUTPUT\]\] \[--\] <provider-id>\`
 
 Clean up the two-factor user-provider association of an uninstalled/removed provider
 
-### Arguments
+###  Arguments
 
-#### \`provider-id\`
+####  \`provider-id\`
 
 \* Is required: yes
 
@@ -17421,9 +17422,9 @@ Clean up the two-factor user-provider association of an uninstalled/remo
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -17435,7 +17436,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -17447,7 +17448,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -17459,7 +17460,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -17471,7 +17472,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -17483,7 +17484,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -17495,7 +17496,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -17507,7 +17508,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -17519,7 +17520,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -17537,23 +17538,15 @@ Skip global warnings, show command output only
 
 Disable two-factor authentication for a user
 
-### Usage
+###  Usage
 
 \* \`twofactorauth:disable \[--output \[OUTPUT\]\] \[--\] <uid> <provider\_id>\`
 
 Disable two-factor authentication for a user
 
-### Arguments
+###  Arguments
 
-#### \`uid\`
-
-\* Is required: yes
-
-\* Is array: no
-
-\* Default: \`NULL\`
-
-#### \`provider\_id\`
+####  \`uid\`
 
 \* Is required: yes
 
@@ -17561,9 +17554,17 @@ Disable two-factor authentication for a user
 
 \* Default: \`NULL\`
 
-### Options
+####  \`provider\_id\`
 
-#### \`--output\`
+\* Is required: yes
+
+\* Is array: no
+
+\* Default: \`NULL\`
+
+###  Options
+
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -17575,7 +17576,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -17587,7 +17588,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -17599,7 +17600,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -17611,7 +17612,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -17623,7 +17624,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -17635,7 +17636,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -17647,7 +17648,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -17659,7 +17660,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -17677,23 +17678,15 @@ Skip global warnings, show command output only
 
 Enable two-factor authentication for a user
 
-### Usage
+###  Usage
 
 \* \`twofactorauth:enable \[--output \[OUTPUT\]\] \[--\] <uid> <provider\_id>\`
 
 Enable two-factor authentication for a user
 
-### Arguments
+###  Arguments
 
-#### \`uid\`
-
-\* Is required: yes
-
-\* Is array: no
-
-\* Default: \`NULL\`
-
-#### \`provider\_id\`
+####  \`uid\`
 
 \* Is required: yes
 
@@ -17701,9 +17694,17 @@ Enable two-factor authentication for a user
 
 \* Default: \`NULL\`
 
-### Options
+####  \`provider\_id\`
 
-#### \`--output\`
+\* Is required: yes
+
+\* Is array: no
+
+\* Default: \`NULL\`
+
+###  Options
+
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -17715,7 +17716,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -17727,7 +17728,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -17739,7 +17740,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -17751,7 +17752,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -17763,7 +17764,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -17775,7 +17776,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -17787,7 +17788,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -17799,7 +17800,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -17817,15 +17818,15 @@ Skip global warnings, show command output only
 
 Enabled/disable enforced two-factor authentication
 
-### Usage
+###  Usage
 
 \* \`twofactorauth:enforce \[--on\] \[--off\] \[--group \[GROUP\]\] \[--exclude \[EXCLUDE\]\]\`
 
 Enabled/disable enforced two-factor authentication
 
-### Options
+###  Options
 
-#### \`--on\`
+####  \`--on\`
 
 enforce two-factor authentication
 
@@ -17837,7 +17838,7 @@ enforce two-factor authentication
 
 \* Default: \`false\`
 
-#### \`--off\`
+####  \`--off\`
 
 don't enforce two-factor authenticaton
 
@@ -17849,7 +17850,7 @@ don't enforce two-factor authenticaton
 
 \* Default: \`false\`
 
-#### \`--group\`
+####  \`--group\`
 
 enforce only for the given group(s)
 
@@ -17861,7 +17862,7 @@ enforce only for the given group(s)
 
 \* Default: \`array ()\`
 
-#### \`--exclude\`
+####  \`--exclude\`
 
 exclude mandatory two-factor auth for the given group(s)
 
@@ -17873,7 +17874,7 @@ exclude mandatory two-factor auth for the given group(s)
 
 \* Default: \`array ()\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -17885,7 +17886,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -17897,7 +17898,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -17909,7 +17910,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -17921,7 +17922,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -17933,7 +17934,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -17945,7 +17946,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -17957,7 +17958,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -17975,15 +17976,15 @@ Skip global warnings, show command output only
 
 Get the two-factor authentication (2FA) state of a user
 
-### Usage
+###  Usage
 
 \* \`twofactorauth:state \[--output \[OUTPUT\]\] \[--\] <uid>\`
 
 Get the two-factor authentication (2FA) state of a user
 
-### Arguments
+###  Arguments
 
-#### \`uid\`
+####  \`uid\`
 
 \* Is required: yes
 
@@ -17991,9 +17992,9 @@ Get the two-factor authentication (2FA) state of a user
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -18005,7 +18006,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -18017,7 +18018,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -18029,7 +18030,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -18041,7 +18042,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -18053,7 +18054,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -18065,7 +18066,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -18077,7 +18078,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -18089,7 +18090,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -18107,15 +18108,15 @@ Skip global warnings, show command output only
 
 Check for server and app updates
 
-### Usage
+###  Usage
 
 \* \`update:check\`
 
 Check for server and app updates
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -18127,7 +18128,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -18139,7 +18140,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -18151,7 +18152,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -18163,7 +18164,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -18175,7 +18176,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -18187,7 +18188,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -18199,7 +18200,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -18221,7 +18222,7 @@ userId,date,assignedQuota,usedQuota,numFiles,numShares,numUploads,numDownloads
 
 "admin","2017-09-18T09:00:01+00:00",5368709120,786432000,1024,23,1400,5678
 
-### Usage
+###  Usage
 
 \* \`usage-report:generate \[--field-separator FIELD-SEPARATOR\] \[--date-format DATE-FORMAT\] \[--last-login\] \[--display-name\] \[--\] \[<user-id>\]\`
 
@@ -18231,9 +18232,9 @@ userId,date,assignedQuota,usedQuota,numFiles,numShares,numUploads,numDownloads
 
 "admin","2017-09-18T09:00:01+00:00",5368709120,786432000,1024,23,1400,5678
 
-### Arguments
+###  Arguments
 
-#### \`user-id\`
+####  \`user-id\`
 
 User to generate the report for, if none is given the report is generated for all users
 
@@ -18243,9 +18244,9 @@ User to generate the report for, if none is given the report is gen
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--field-separator\`
+####  \`--field-separator\`
 
 Separator for the fields in the list
 
@@ -18257,7 +18258,7 @@ Separator for the fields in the list
 
 \* Default: \`','\`
 
-#### \`--date-format\`
+####  \`--date-format\`
 
 Date format of the entries (see [http://php.net/manual/en/function.date.php](http://php.net/manual/en/function.date.php) for more information)
 
@@ -18269,7 +18270,7 @@ Date format of the entries (see [http://php.net/manual/en/function.date.ph
 
 \* Default: \`'c'\`
 
-#### \`--last-login\`
+####  \`--last-login\`
 
 Should the last login date be included in the report
 
@@ -18281,7 +18282,7 @@ Should the last login date be included in the report
 
 \* Default: \`false\`
 
-#### \`--display-name\`
+####  \`--display-name\`
 
 Should the display name be included in the report
 
@@ -18293,7 +18294,7 @@ Should the display name be included in the report
 
 \* Default: \`false\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -18305,7 +18306,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -18317,7 +18318,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -18329,7 +18330,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -18341,7 +18342,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -18353,7 +18354,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -18365,7 +18366,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -18377,7 +18378,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -18395,15 +18396,15 @@ Skip global warnings, show command output only
 
 adds a user
 
-### Usage
+###  Usage
 
 \* \`user:add \[--password-from-env\] \[--display-name \[DISPLAY-NAME\]\] \[-g|--group \[GROUP\]\] \[--\] <uid>\`
 
 adds a user
 
-### Arguments
+###  Arguments
 
-#### \`uid\`
+####  \`uid\`
 
 User ID used to login (must only contain a-z, A-Z, 0-9, -, \_ and @)
 
@@ -18413,9 +18414,9 @@ User ID used to login (must only contain a-z, A-Z, 0-9, -, \_ and 
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--password-from-env\`
+####  \`--password-from-env\`
 
 read password from environment variable OC\_PASS
 
@@ -18427,7 +18428,7 @@ read password from environment variable OC\_PASS
 
 \* Default: \`false\`
 
-#### \`--display-name\`
+####  \`--display-name\`
 
 User name used in the web UI (can contain any characters)
 
@@ -18439,7 +18440,7 @@ User name used in the web UI (can contain any characters)
 
 \* Default: \`NULL\`
 
-#### \`--group|-g\`
+####  \`--group|-g\`
 
 groups the user should be added to (The group will be created if it does not exist)
 
@@ -18451,7 +18452,7 @@ groups the user should be added to (The group will be created if it
 
 \* Default: \`array ()\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -18463,7 +18464,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -18475,7 +18476,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -18487,7 +18488,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -18499,7 +18500,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -18511,7 +18512,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -18523,7 +18524,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -18535,7 +18536,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -18553,15 +18554,15 @@ Skip global warnings, show command output only
 
 Add app password for the named user
 
-### Usage
+###  Usage
 
 \* \`user:add-app-password \[--password-from-env\] \[--\] <user>\`
 
 Add app password for the named user
 
-### Arguments
+###  Arguments
 
-#### \`user\`
+####  \`user\`
 
 Username to add app password for
 
@@ -18571,9 +18572,9 @@ Username to add app password for
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--password-from-env\`
+####  \`--password-from-env\`
 
 Read password from environment variable NC\_PASS/OC\_PASS. Alternatively it will be asked for interactively or an app password without the login pas
 
@@ -18587,7 +18588,7 @@ sword will be created.
 
 \* Default: \`false\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -18599,7 +18600,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -18611,7 +18612,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -18623,7 +18624,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -18635,7 +18636,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -18647,7 +18648,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -18659,7 +18660,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -18671,7 +18672,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -18689,15 +18690,15 @@ Skip global warnings, show command output only
 
 deletes the specified user
 
-### Usage
+###  Usage
 
 \* \`user:delete <uid>\`
 
 deletes the specified user
 
-### Arguments
+###  Arguments
 
-#### \`uid\`
+####  \`uid\`
 
 the username
 
@@ -18707,9 +18708,9 @@ the username
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -18721,7 +18722,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -18733,7 +18734,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -18745,7 +18746,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -18757,7 +18758,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -18769,7 +18770,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -18781,7 +18782,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -18793,7 +18794,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -18811,15 +18812,15 @@ Skip global warnings, show command output only
 
 disables the specified user
 
-### Usage
+###  Usage
 
 \* \`user:disable <uid>\`
 
 disables the specified user
 
-### Arguments
+###  Arguments
 
-#### \`uid\`
+####  \`uid\`
 
 the username
 
@@ -18829,9 +18830,9 @@ the username
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -18843,7 +18844,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -18855,7 +18856,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -18867,7 +18868,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -18879,7 +18880,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -18891,7 +18892,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -18903,7 +18904,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -18915,7 +18916,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -18933,15 +18934,15 @@ Skip global warnings, show command output only
 
 enables the specified user
 
-### Usage
+###  Usage
 
 \* \`user:enable <uid>\`
 
 enables the specified user
 
-### Arguments
+###  Arguments
 
-#### \`uid\`
+####  \`uid\`
 
 the username
 
@@ -18951,9 +18952,9 @@ the username
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -18965,7 +18966,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -18977,7 +18978,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -18989,7 +18990,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -19001,7 +19002,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -19013,7 +19014,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -19025,7 +19026,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -19037,7 +19038,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -19055,15 +19056,15 @@ Skip global warnings, show command output only
 
 Export a user.
 
-### Usage
+###  Usage
 
 \* \`user:export <user> <folder>\`
 
 Export a user.
 
-### Arguments
+###  Arguments
 
-#### \`user\`
+####  \`user\`
 
 user to export
 
@@ -19073,7 +19074,7 @@ user to export
 
 \* Default: \`NULL\`
 
-#### \`folder\`
+####  \`folder\`
 
 local folder to export into
 
@@ -19083,9 +19084,9 @@ local folder to export into
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -19097,7 +19098,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -19109,7 +19110,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -19121,7 +19122,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -19133,7 +19134,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -19145,7 +19146,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -19157,7 +19158,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -19169,7 +19170,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -19187,15 +19188,15 @@ Skip global warnings, show command output only
 
 Import a user.
 
-### Usage
+###  Usage
 
 \* \`user:import \[--user USER\] \[--\] <archive>\`
 
 Import a user.
 
-### Arguments
+###  Arguments
 
-#### \`archive\`
+####  \`archive\`
 
 local path of the export archive to import
 
@@ -19205,9 +19206,9 @@ local path of the export archive to import
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--user\`
+####  \`--user\`
 
 uid of user to overwrite with the imported data
 
@@ -19219,7 +19220,7 @@ uid of user to overwrite with the imported data
 
 \* Default: \`NULL\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -19231,7 +19232,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -19243,7 +19244,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -19255,7 +19256,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -19267,7 +19268,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -19279,7 +19280,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -19291,7 +19292,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -19303,7 +19304,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -19321,15 +19322,15 @@ Skip global warnings, show command output only
 
 show user info
 
-### Usage
+###  Usage
 
 \* \`user:info \[--output \[OUTPUT\]\] \[--\] <user>\`
 
 show user info
 
-### Arguments
+###  Arguments
 
-#### \`user\`
+####  \`user\`
 
 user to show
 
@@ -19339,9 +19340,9 @@ user to show
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -19353,7 +19354,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -19365,7 +19366,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -19377,7 +19378,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -19389,7 +19390,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -19401,7 +19402,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -19413,7 +19414,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -19425,7 +19426,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -19437,7 +19438,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -19455,15 +19456,15 @@ Skip global warnings, show command output only
 
 shows when the user was logged in last time
 
-### Usage
+###  Usage
 
 \* \`user:lastseen <uid>\`
 
 shows when the user was logged in last time
 
-### Arguments
+###  Arguments
 
-#### \`uid\`
+####  \`uid\`
 
 the username
 
@@ -19473,9 +19474,9 @@ the username
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -19487,7 +19488,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -19499,7 +19500,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -19511,7 +19512,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -19523,7 +19524,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -19535,7 +19536,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -19547,7 +19548,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -19559,7 +19560,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -19577,15 +19578,15 @@ Skip global warnings, show command output only
 
 list configured users
 
-### Usage
+###  Usage
 
 \* \`user:list \[-l|--limit \[LIMIT\]\] \[-o|--offset \[OFFSET\]\] \[--output \[OUTPUT\]\] \[-i|--info\]\`
 
 list configured users
 
-### Options
+###  Options
 
-#### \`--limit|-l\`
+####  \`--limit|-l\`
 
 Number of users to retrieve
 
@@ -19597,7 +19598,7 @@ Number of users to retrieve
 
 \* Default: \`'500'\`
 
-#### \`--offset|-o\`
+####  \`--offset|-o\`
 
 Offset for retrieving users
 
@@ -19609,7 +19610,7 @@ Offset for retrieving users
 
 \* Default: \`'0'\`
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -19621,7 +19622,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--info|-i\`
+####  \`--info|-i\`
 
 Show detailed info
 
@@ -19633,7 +19634,7 @@ Show detailed info
 
 \* Default: \`false\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -19645,7 +19646,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -19657,7 +19658,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -19669,7 +19670,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -19681,7 +19682,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -19693,7 +19694,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -19705,7 +19706,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -19717,7 +19718,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -19735,15 +19736,15 @@ Skip global warnings, show command output only
 
 shows how many users have access
 
-### Usage
+###  Usage
 
 \* \`user:report \[--count-dirs\]\`
 
 shows how many users have access
 
-### Options
+###  Options
 
-#### \`--count-dirs\`
+####  \`--count-dirs\`
 
 Also count the number of user directories in the database (could time out on huge installations, therefore defaults to no with 500+ users)
 
@@ -19755,7 +19756,7 @@ Also count the number of user directories in the database (could time
 
 \* Default: \`false\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -19767,7 +19768,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -19779,7 +19780,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -19791,7 +19792,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -19803,7 +19804,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -19815,7 +19816,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -19827,7 +19828,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -19839,7 +19840,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -19857,15 +19858,15 @@ Skip global warnings, show command output only
 
 Resets the password of the named user
 
-### Usage
+###  Usage
 
 \* \`user:resetpassword \[--password-from-env\] \[--\] <user>\`
 
 Resets the password of the named user
 
-### Arguments
+###  Arguments
 
-#### \`user\`
+####  \`user\`
 
 Username to reset password
 
@@ -19875,9 +19876,9 @@ Username to reset password
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--password-from-env\`
+####  \`--password-from-env\`
 
 read password from environment variable OC\_PASS
 
@@ -19889,7 +19890,7 @@ read password from environment variable OC\_PASS
 
 \* Default: \`false\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -19901,7 +19902,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -19913,7 +19914,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -19925,7 +19926,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -19937,7 +19938,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -19949,7 +19950,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -19961,7 +19962,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -19973,7 +19974,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -19991,7 +19992,7 @@ Skip global warnings, show command output only
 
 Read and modify user settings
 
-### Usage
+###  Usage
 
 \* \`user:setting \[--output \[OUTPUT\]\] \[--ignore-missing-user\] \[--default-value DEFAULT-VALUE\] \[--update-only\] \[--delete\] \[--error-if-not-exists\] \[--
 
@@ -19999,9 +20000,9 @@ Read and modify user settings
 
 Read and modify user settings
 
-### Arguments
+###  Arguments
 
-#### \`uid\`
+####  \`uid\`
 
 User ID used to login
 
@@ -20011,7 +20012,7 @@ User ID used to login
 
 \* Default: \`NULL\`
 
-#### \`app\`
+####  \`app\`
 
 Restrict the settings to a given app
 
@@ -20021,7 +20022,7 @@ Restrict the settings to a given app
 
 \* Default: \`''\`
 
-#### \`key\`
+####  \`key\`
 
 Setting key to set, get or delete
 
@@ -20031,7 +20032,7 @@ Setting key to set, get or delete
 
 \* Default: \`''\`
 
-#### \`value\`
+####  \`value\`
 
 The new value of the setting
 
@@ -20041,9 +20042,9 @@ The new value of the setting
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--output\`
+####  \`--output\`
 
 Output format (plain, json or json\_pretty, default is plain)
 
@@ -20055,7 +20056,7 @@ Output format (plain, json or json\_pretty, default is plain)
 
 \* Default: \`'plain'\`
 
-#### \`--ignore-missing-user\`
+####  \`--ignore-missing-user\`
 
 Use this option to ignore errors when the user does not exist
 
@@ -20067,7 +20068,7 @@ Use this option to ignore errors when the user does not exist
 
 \* Default: \`false\`
 
-#### \`--default-value\`
+####  \`--default-value\`
 
 (Only applicable on get) If no default value is set and the config does not exist, the command will exit with 1
 
@@ -20079,7 +20080,7 @@ Use this option to ignore errors when the user does not exist
 
 \* Default: \`NULL\`
 
-#### \`--update-only\`
+####  \`--update-only\`
 
 Only updates the value, if it is not set before, it is not being added
 
@@ -20091,7 +20092,7 @@ Only updates the value, if it is not set before, it is not being a
 
 \* Default: \`false\`
 
-#### \`--delete\`
+####  \`--delete\`
 
 Specify this option to delete the config
 
@@ -20103,7 +20104,7 @@ Specify this option to delete the config
 
 \* Default: \`false\`
 
-#### \`--error-if-not-exists\`
+####  \`--error-if-not-exists\`
 
 Checks whether the setting exists before deleting it
 
@@ -20115,7 +20116,7 @@ Checks whether the setting exists before deleting it
 
 \* Default: \`false\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -20127,7 +20128,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -20139,7 +20140,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -20151,7 +20152,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -20163,7 +20164,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -20175,7 +20176,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -20187,7 +20188,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -20199,7 +20200,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -20217,15 +20218,15 @@ Skip global warnings, show command output only
 
 Delete versions
 
-### Usage
+###  Usage
 
 \* \`versions:cleanup \[-p|--path PATH\] \[--\] \[<user\_id>...\]\`
 
 Delete versions
 
-### Arguments
+###  Arguments
 
-#### \`user\_id\`
+####  \`user\_id\`
 
 delete versions of the given user(s), if no user is given all versions will be deleted
 
@@ -20235,9 +20236,9 @@ delete versions of the given user(s), if no user is given all versio
 
 \* Default: \`array ()\`
 
-### Options
+###  Options
 
-#### \`--path|-p\`
+####  \`--path|-p\`
 
 only delete versions of this path, e.g. --path="/alice/files/Music"
 
@@ -20249,7 +20250,7 @@ only delete versions of this path, e.g. --path="/alice/files/Music"
 
 \* Default: \`NULL\`
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -20261,7 +20262,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -20273,7 +20274,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -20285,7 +20286,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -20297,7 +20298,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -20309,7 +20310,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -20321,7 +20322,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -20333,7 +20334,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -20351,15 +20352,15 @@ Skip global warnings, show command output only
 
 Expires the users file versions
 
-### Usage
+###  Usage
 
 \* \`versions:expire \[<user\_id>...\]\`
 
 Expires the users file versions
 
-### Arguments
+###  Arguments
 
-#### \`user\_id\`
+####  \`user\_id\`
 
 expire file versions of the given user(s), if no user is given file versions for all users will be expired.
 
@@ -20369,9 +20370,9 @@ expire file versions of the given user(s), if no user is given file�
 
 \* Default: \`array ()\`
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -20383,7 +20384,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -20395,7 +20396,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -20407,7 +20408,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -20419,7 +20420,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -20431,7 +20432,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -20443,7 +20444,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -20455,7 +20456,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 
@@ -20473,15 +20474,15 @@ Skip global warnings, show command output only
 
 Lists configured workflows
 
-### Usage
+###  Usage
 
 \* \`workflows:list \[<scope> \[<scopeId>\]\]\`
 
 Lists configured workflows
 
-### Arguments
+###  Arguments
 
-#### \`scope\`
+####  \`scope\`
 
 Lists workflows for "admin", "user"
 
@@ -20491,7 +20492,7 @@ Lists workflows for "admin", "user"
 
 \* Default: \`'admin'\`
 
-#### \`scopeId\`
+####  \`scopeId\`
 
 User IDs when the scope is "user"
 
@@ -20501,9 +20502,9 @@ User IDs when the scope is "user"
 
 \* Default: \`NULL\`
 
-### Options
+###  Options
 
-#### \`--help|-h\`
+####  \`--help|-h\`
 
 Display this help message
 
@@ -20515,7 +20516,7 @@ Display this help message
 
 \* Default: \`false\`
 
-#### \`--quiet|-q\`
+####  \`--quiet|-q\`
 
 Do not output any message
 
@@ -20527,7 +20528,7 @@ Do not output any message
 
 \* Default: \`false\`
 
-#### \`--verbose|-v|-vv|-vvv\`
+####  \`--verbose|-v|-vv|-vvv\`
 
 Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
 
@@ -20539,7 +20540,7 @@ Increase the verbosity of messages: 1 for normal output, 2 for more 
 
 \* Default: \`false\`
 
-#### \`--version|-V\`
+####  \`--version|-V\`
 
 Display this application version
 
@@ -20551,7 +20552,7 @@ Display this application version
 
 \* Default: \`false\`
 
-#### \`--ansi\`
+####  \`--ansi\`
 
 Force ANSI output
 
@@ -20563,7 +20564,7 @@ Force ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-ansi\`
+####  \`--no-ansi\`
 
 Disable ANSI output
 
@@ -20575,7 +20576,7 @@ Disable ANSI output
 
 \* Default: \`false\`
 
-#### \`--no-interaction|-n\`
+####  \`--no-interaction|-n\`
 
 Do not ask any interactive question
 
@@ -20587,7 +20588,7 @@ Do not ask any interactive question
 
 \* Default: \`false\`
 
-#### \`--no-warnings\`
+####  \`--no-warnings\`
 
 Skip global warnings, show command output only
 

@@ -39,16 +39,14 @@ MWeb is a professional Markdown writing, note taking, and static blog generator 
 
 ## MWeb official help
 
-Before use MWeb, we suggest that reading the MWeb official help document: <https://www.mweb.im/help.html> first. 
-If you use the Library Mode, please check out this link <https://www.mweb.im/mweb-library.html> first. 
+Before use MWeb, we suggest that reading the MWeb official help document: <https://www.mweb.im/help.html> first.
+If you use the Library Mode, please check out this link <https://www.mweb.im/mweb-library.html> first.
 
-## Help us to make MWeb better!
+## Help us to make MWeb better
 
 1. Spread the words! Tell your friends about MWeb if you like it.
 2. Send Feedback: <coderforart+2333@gmail.com>
 3. Leave a review or at least a rating in the Mac App Store.
-
-
 
 ## GFM syntax guide
 
@@ -68,8 +66,8 @@ Just typing enter to newline,please go to Settings and enable "Translate newline
 
 **Result:**
 
-- [ ] task one not finish `- + SPACE + [ ]`
-- [x] task two finished `- + SPACE + [x]`
+* [ ] task one not finish `- + SPACE + [ ]`
+* [x] task two finished `- + SPACE + [x]`
 
 ### Image size and alignment **(Only in MWeb)**
 
@@ -77,19 +75,18 @@ Setting image width, For example: `![image description-w450](pic.jpg)`, -w450 me
 
 ![GitHub-w140](https://help.github.com/assets/images/site/set-up-git.gif)
 
-
 ### Multi-line code
 
 **Example:**
 
-	```js
-	function fancyAlert(arg) {
-	  if(arg) {
-	    $.facebox({div:'#foo'})
-	  }
+ ```js
+ function fancyAlert(arg) {
+   if(arg) {
+     $.facebox({div:'#foo'})
+   }
 
-	}
-	```
+ }
+ ```
 
 **Result:**
 
@@ -122,12 +119,11 @@ First Header | Second Header
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
-
 ### Strikethrough
 
 **Example:**
 
-	 (like ~~this~~)
+  (like ~~this~~)
 
 **Result:**
 
@@ -143,7 +139,6 @@ Markdown syntax:
     ```
     
     In-line formula: ``\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N``
-
 
 The resut is (enable LaTeX in the settings page):
 
@@ -179,9 +174,9 @@ mermaid is a popular drawing gallery. It supports flowcharts, sequence diagrams 
         John->Bob: How about you?
         Bob-->John: Jolly good!
     ```
- 
+
 **The result is:**
- 
+
 ```mermaid
 sequenceDiagram
     participant Alice
@@ -195,6 +190,7 @@ sequenceDiagram
     John->Bob: How about you?
     Bob-->John: Jolly good!
 ```
+
 ### echarts
 
 echarts is a js drawing gallery produced by Baidu. Its website is: <https://echarts.apache.org/zh/index.html>. It has very powerful functions. MWeb supports some basic usages of echarts, but not too advanced. . You can copy the following syntax to MWeb to try. You can also go to <https://echarts.apache.org/examples/zh/index.html> to view some examples. Note that MWeb can only parse the simple `option = {}`, but it should It is enough to use.
@@ -247,10 +243,7 @@ This is a footnote:[^1]
 
 [^1]: footnote text detail...
 
-### Comment And Read More..
+### Comment And Read More
 
 <!-- comment -->
 <!-- more -->
-
-
-

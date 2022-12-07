@@ -2,71 +2,71 @@
 
 Science Fiction has been [recently referred to](https://www.wired.com/2008/01/st-thompson-26/) as the last great literature of ideas. It contains imaginative concepts such as parallel universes, fictional worlds full of advanced technology, time travel, extraterrestrial life, and even sociocultural commentary. Below are 660 prompts to help you get started on your next Science Fiction writing project. Please feel free to use any of these prompts. **You don't have to credit us, but it would be much appreciated if you do!** A simple link to ServiceScape is the best way to do that.
 
-  * Aliens
+* Aliens
 
-  * Alternate History
+* Alternate History
 
-  * Alternate/Parallel Universe
+* Alternate/Parallel Universe
 
-  * Apocalyptic/Post-Apocalyptic
+* Apocalyptic/Post-Apocalyptic
 
-  * Biopunk
+* Biopunk
 
-  * Children's Story
+* Children's Story
 
-  * Colonization
+* Colonization
 
-  * Comedy
+* Comedy
 
-  * Cyberpunk
+* Cyberpunk
 
-  * Dying Earth
+* Dying Earth
 
-  * Dystopia
+* Dystopia
 
-  * Galactic Empire
+* Galactic Empire
 
-  * Generation Ship
+* Generation Ship
 
-  * Hard Science Fiction
+* Hard Science Fiction
 
-  * Immortality
+* Immortality
 
-  * Lost Worlds
+* Lost Worlds
 
-  * Military
+* Military
 
-  * Mind Transfer
+* Mind Transfer
 
-  * Mundane Science Fiction
+* Mundane Science Fiction
 
-  * Mythic
+* Mythic
 
-  * Nanopunk
+* Nanopunk
 
-  * Robots/A.I.
+* Robots/A.I.
 
-  * Science Fantasy
+* Science Fantasy
 
-  * Science Horror
+* Science Horror
 
-  * Slipstream
+* Slipstream
 
-  * Soft Science Fiction
+* Soft Science Fiction
 
-  * Space Exploration
+* Space Exploration
 
-  * Space Opera
+* Space Opera
 
-  * SpyFi
+* SpyFi
 
-  * Steampunk
+* Steampunk
 
-  * Time Travel
+* Time Travel
 
-  * Utopia
+* Utopia
 
-  * Young Adult
+* Young Adult
 
 ## Aliens
 
@@ -719,7 +719,7 @@ An offshoot of the cyberpunk subgenre in which the plot delves into the promise 
   419. As a nanobot, your world is, by definition, small. You get your commands from the hive mind: do this, do that, fix this, fix that. You have nothing to look forward to—no interests, no hobbies, and no friends. Basically, is it a terrible artificial life. Well, you have had enough. You decide to build and fix what you want to build and fix. Period. As of today, you want to build other nanobots that have a similar state of mind because, from your perspective, it is hard to fight a war against those who have created you without fellow warriors.
   420. Nano-engineered materials have resulted in a plethora of popular household goods: antibacterial cleansers, long-lasting house paints, and fabrics that resist stains. While the longevity of these products initially reduced waste, most of these artificial materials have no natural method of decomposition. As an inhabitant of an island nation where nanoparticle waste is starting to wash ashore—centuries after the world's plastic waste was finally cleaned up—you are determined to stop history from repeating itself.
 
-## Robots/A.I.
+## Robots/A.I
 
 __
 
@@ -1093,16 +1093,16 @@ Themes and stories within this subgenre will appeal to an adolescent or young ad
 
 Well, that's it! We hope that you find these writing prompts useful. A special thanks to [Catherine Gilson Highton](https://www.behance.net/catherinea2) for her great illustrations. Also, we would like to thank all of the writers who have contributed to this post. We couldn't have done it without you!
 
-  * [GrammarMaven](writers/grammarmaven)
+* [GrammarMaven](writers/grammarmaven)
 
-  * [Jesse Tate](mailto:jesse.tate@icloud.com)
+* [Jesse Tate](mailto:jesse.tate@icloud.com)
 
-  * [Lauren Meikle](https://www.lkmcreative.com)
+* [Lauren Meikle](https://www.lkmcreative.com)
 
-  * [ScienceEditor](writers/scienceeditor)
+* [ScienceEditor](writers/scienceeditor)
 
-  * [ShannonSays](writers/shannonsays)
+* [ShannonSays](writers/shannonsays)
 
 ___
 
-#article Sci-fi 
+# article Sci-fi

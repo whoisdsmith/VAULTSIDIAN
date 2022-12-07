@@ -1,15 +1,20 @@
 ## Surveillance Tools
+
 - [Silent Pocket](https://silent-pocket.com/)
 - [Meco Gov Surplus Equipment](http://www.meco.org/catalog)
 - [Granite Island Group](http://www.tscm.com/)
+
 ### Surveillance Apps & Equipment
+
 - [AccuTracking](https://secure.accutracking.com/)
 - [Belarc Advisor](http://www.belarc.com/en/products_belarc_advisor)
 - [FindMyKids](https://findmykids.org/en)
 - [KeyKatcher](http://www.keykatcher.com/)
 - [Spyera](https://spyera.com/)
 - [SpyHuman](https://spyhuman.com/)
+
 ### Surveillance Cover
+
 - [MySudo Identity Management App](https://mysudo.com/)
 - [TisiPhone 101 Ways I Screwed Up](https://tisiphone.net/2016/10/13/101-ways-i-screwed-up-making-a-fake-identity)
 - [How Many of Me Name Statistics](http://howmanyofme.com/)

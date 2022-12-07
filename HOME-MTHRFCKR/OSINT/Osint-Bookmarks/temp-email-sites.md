@@ -8,7 +8,7 @@
 
 **Telegram Temp Mail Bots**
 
-[Trashmail](https://redd.it/gpo1ni), [TrashEmail](https://t.me/trashemail_bot), [TempMail_org_bot](https://t.me/TempMail_org_bot), [tmpmailbot](https://t.me/tmpmailbot), [smtpbot](https://t.me/smtpbot), [temp_mail_bot](https://t.me/temp_mail_bot) 
+[Trashmail](https://redd.it/gpo1ni), [TrashEmail](https://t.me/trashemail_bot), [TempMail_org_bot](https://t.me/TempMail_org_bot), [tmpmailbot](https://t.me/tmpmailbot), [smtpbot](https://t.me/smtpbot), [temp_mail_bot](https://t.me/temp_mail_bot)
 
 **Temp Mail Extensions**
 

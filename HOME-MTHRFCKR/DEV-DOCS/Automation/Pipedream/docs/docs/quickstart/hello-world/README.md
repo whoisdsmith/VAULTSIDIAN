@@ -1,4 +1,4 @@
-# hello world!
+# hello world
 
 First, let's create an HTTP-triggered workflow and return a response of `hello world!`. This example will cover how to:
 
@@ -24,7 +24,7 @@ Following is a brief overview of the screen layout:
 
 ### Generate a unique endpoint URL to trigger the workflow
 
-To create an HTTP or webhook-triggered workflow, select the **HTTP API** trigger. 
+To create an HTTP or webhook-triggered workflow, select the **HTTP API** trigger.
 
 ![image-20210516191641863](./images/image-20210516191641863.png)
 
@@ -41,7 +41,7 @@ Any requests you make to the endpoint URL will trigger your workflow. To test it
 
 ![image-20210525161201979](./images/image-20210525161201979.png)
 
-When you return to your workflow, you'll see the requests in the event list (events appear in real-time — you don't need to refresh the page). 
+When you return to your workflow, you'll see the requests in the event list (events appear in real-time — you don't need to refresh the page).
 
 ![image-20210525161233808](./images/image-20210525161233808.png)
 
@@ -49,7 +49,7 @@ When you return to your workflow, you'll see the requests in the event list (eve
 
 ### Inspect workflow events
 
-Select an event from the list to inspect the associated exports and logs (click on an event again to de-select it). The HTTP trigger exports data including the `url` invoked, `method`, `body`, `headers`, `query parameters` and more. This data can also be referenced by steps in your workflow via the `steps` object (for example, to use the trigger event in a later step you can reference `steps.trigger.event` — we'll cover this in the next example). 
+Select an event from the list to inspect the associated exports and logs (click on an event again to de-select it). The HTTP trigger exports data including the `url` invoked, `method`, `body`, `headers`, `query parameters` and more. This data can also be referenced by steps in your workflow via the `steps` object (for example, to use the trigger event in a later step you can reference `steps.trigger.event` — we'll cover this in the next example).
 
 ![inspect-events](./images/inspect-events.gif)
 
@@ -57,9 +57,9 @@ Select an event from the list to inspect the associated exports and logs (click 
 
 Next, let's use Pipedream's `$respond()` function to return a custom response from the workflow. First, click on **Run Node.js code** to add a code step (if the step menu is not expanded, click the **+** button below the trigger).
 
-![image-20210525161751080](./images/image-20210525161751080.png) 
+![image-20210525161751080](./images/image-20210525161751080.png)
 
-Pipedream will add a code step to your workflow. 
+Pipedream will add a code step to your workflow.
 
 ![image-20210525161833932](./images/image-20210525161833932.png)
 
@@ -89,7 +89,7 @@ Finally, give your workflow a friendly name like `HTTP Quickstart`.
 
 ![name-workflow](./images/name-workflow.gif)
 
-Congratulations! You just built your first serverless workflow! 
+Congratulations! You just built your first serverless workflow!
 
 **Next, let's pass data in the HTTP request and use it to customize the workflow response.**
 

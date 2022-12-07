@@ -1,4 +1,4 @@
-Welcome to WordPress! This wonderful open-source platform currently powers more than [43%](https://w3techs.com/technologies/history_overview/content_management/all) of all websites in the world. More and more people are looking to learn how to use WordPress every day. You don’t need to own a website to have the need to learn WordPress. People such as marketers, content writers, designers, and web developers may need to be quite familiar with WordPress. It’s often part of their job to work with this platform! 
+Welcome to WordPress! This wonderful open-source platform currently powers more than [43%](https://w3techs.com/technologies/history_overview/content_management/all) of all websites in the world. More and more people are looking to learn how to use WordPress every day. You don’t need to own a website to have the need to learn WordPress. People such as marketers, content writers, designers, and web developers may need to be quite familiar with WordPress. It’s often part of their job to work with this platform!
 
 As with any other software or tools, you need to know the controls and settings to properly utilize them. It’s the same case for WordPress, you can’t get the best out of it if you don’t know what to do.  
 
@@ -6,7 +6,7 @@ However, it can be quite daunting to look at the WordPress Dashboard – also r
 
 ## Accessing your Dashboard
 
-You may already know how to access your WordPress Dashboard, but let’s quickly go over it again.   
+You may already know how to access your WordPress Dashboard, but let’s quickly go over it again.
 There are multiple ways to log into your WordPress account. But the most common two ways are through your web hosting dashboard or by logging into your WordPress site directly.
 
 ### Your login URL
@@ -17,7 +17,7 @@ For example, to access the WordPress backend of website www.example.com, you wo
 
 ### Logging into your WordPress backend
 
-To access the backend of your WordPress website, you need to: 
+To access the backend of your WordPress website, you need to:
 
 1\. Go to your login URL: “www.YourSiteURL.com/wp-admin.”  
 
@@ -43,16 +43,16 @@ Let’s first explore the navigation menus in your WordPress control panel.
 
 Besides the left-hand navigation bar, you’ll see a black bar with white text running across the top of the screen. This bar contains plenty of helpful shortcuts to help you save time navigating. For example:
 
--   The plus icon lets you quickly add a post, page, media and users to your backend.
--   The message icon takes you to the comment area where you can approve, edit, delete and answer comments.
+- The plus icon lets you quickly add a post, page, media and users to your backend.
+- The message icon takes you to the comment area where you can approve, edit, delete and answer comments.
 
 ![](https://www.bluehost.com/resources/static/a6906722bea505b25080bc84be040e5f/34428/top-navigation-bar.png)
 
-Unfortunately, there are no options available in the admin panel to add custom links to the bar. However, plugins and themes can create custom navigation on the top admin bar that will be useful when working in the panel. 
+Unfortunately, there are no options available in the admin panel to add custom links to the bar. However, plugins and themes can create custom navigation on the top admin bar that will be useful when working in the panel.
 
-For instance, in the above image, you can see a tab called “Caching” which might not exist in your upper navigation bar. It is a shortcut to access some functions of the Endurance Page cache plugin which is activated automatically by Bluehost if you use our service. Next to that, the tab with the letter Y is available when you install the [Yoast SEO](https://yoast.com/) plugin. 
+For instance, in the above image, you can see a tab called “Caching” which might not exist in your upper navigation bar. It is a shortcut to access some functions of the Endurance Page cache plugin which is activated automatically by Bluehost if you use our service. Next to that, the tab with the letter Y is available when you install the [Yoast SEO](https://yoast.com/) plugin.
 
-You’ll want to pay particular attention to “**Visit Site**” which you’ll access by hovering over your site’s name within this bar. Clicking the text will open your site in the same tab (right-click it to open in a new tab if you’d like to keep your dashboard open). As you access your live site, you’ll see that the black bar remains, giving you access to the same shortcuts and an easy path back to your WordPress Dashboard. 
+You’ll want to pay particular attention to “**Visit Site**” which you’ll access by hovering over your site’s name within this bar. Clicking the text will open your site in the same tab (right-click it to open in a new tab if you’d like to keep your dashboard open). As you access your live site, you’ll see that the black bar remains, giving you access to the same shortcuts and an easy path back to your WordPress Dashboard.
 
 ![](https://www.bluehost.com/resources/static/300155aa4125be4c59c4e93ba4f8cf4e/f1720/live-site-2.png)
 
@@ -142,7 +142,7 @@ There are other tabs in the dashboard such as:
 
 **6: Help**. As the name suggests, visit this section if you need help from us. You can chat in real-time with us. Next to that, you can request services such as website consulting or marketing and design assistance from Bluehost. And if you scroll down below, you can browse through our [resource center](https://www.bluehost.com/resources/) for helpful how-to articles and guides.
 
-## Final thoughts 
+## Final thoughts
 
 We hope you’ll find it a bit easier to navigate your WordPress Dashboard after reading this post. It will take some time to get used to all the controls and settings, but that’s totally okay! Keep on practicing, keep on exploring and you’ll get the best out of WordPress in no time.
 

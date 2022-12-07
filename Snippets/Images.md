@@ -57,4 +57,4 @@ OR
 }
 ```
 
-/*to use a local image, upload to the web (e.g. Imgur), then reference that */
+/*to use a local image, upload to the web (e.g. Imgur), then reference that*/

@@ -1,4 +1,4 @@
-server template: https://discord.new/xReZJuFUSARt
+server template: <https://discord.new/xReZJuFUSARt>
 
 # Admin Roles
 
@@ -67,7 +67,7 @@ Clients: [Desktop](<https://github.com/ggtylerr/divolt-desktop>) / [Android](<ht
 
 **NSFW Wiki**  
 <https://saidit.net/s/freemediafuckyeah/wiki/index>  
-https://rentry.co/freemediafuckyeah
+<https://rentry.co/freemediafuckyeah>
 
 ***
 
@@ -84,15 +84,15 @@ https://rentry.co/freemediafuckyeah
 
 ***
 
-**Things you **SHOULDN'T** post**
+**Things you**SHOULDN'T**post**
 
-**1.** ****Emulators**** already on gametechwiki.  
+**1.** ****Emulators****already on gametechwiki.
 <https://emulation.gametechwiki.com/index.php/Main_Page>  
-**2.** ****Browsers**** already on wiki's browser list.  
+**2.** ****Browsers****already on wiki's browser list.
 <https://en.m.wikipedia.org/wiki/List_of_web_browsers>  
-**3.** ****Leeches**** already on filehostlist.  
+**3.** ****Leeches****already on filehostlist.
 <https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches>  
-**4.** ****Distros**** already on distrowatch.  
+**4.** ****Distros****already on distrowatch.
 <https://distrowatch.com/>  
 **5.** ****Crypto, Mining, Betting Sites****  
 Nothing related to crypto, betting, mining, BINs, CCs ect.  
@@ -152,7 +152,7 @@ You're more than welcome to ask for help in <#01FXNGTP7GVA6TMYTE54KEP4VJ>, but w
 
 ***
 
-**How do I find Mega.nz Decryption Keys?**  #MEGA 
+**How do I find Mega.nz Decryption Keys?**  #MEGA
 Click on the link rather than the embed, or copy the part after "#" from the url and paste it on mega.
 
 ***
@@ -211,11 +211,11 @@ Total Dead: **117**
 
 **Update 2**: Both desktop and mobile versions have been compiled. Thanks to /u/ggtylerr for making these.
 
-Desktop: https://github.com/ggtylerr/divolt-desktop
+Desktop: <https://github.com/ggtylerr/divolt-desktop>
 
-Android: https://github.com/ggtylerr/divolt-android
+Android: <https://github.com/ggtylerr/divolt-android>
 
-iOS / Android: https://github.com/ggtylerr/dvmob
+iOS / Android: <https://github.com/ggtylerr/dvmob>
 
 # FMHYedit
 
@@ -266,11 +266,11 @@ If you have any questions feel free to join us in [💬 Divolt](https://redd.it/
 
 **Update 2**: Both desktop and mobile versions have been compiled. Thanks to /u/ggtylerr for making these.
 
-Desktop: https://github.com/ggtylerr/divolt-desktop
+Desktop: <https://github.com/ggtylerr/divolt-desktop>
 
-Android: https://github.com/ggtylerr/divolt-android
+Android: <https://github.com/ggtylerr/divolt-android>
 
-iOS / Android: https://github.com/ggtylerr/dvmob
+iOS / Android: <https://github.com/ggtylerr/dvmob>
 
 **Find Sites that Deserve :star:'s**
 
@@ -301,6 +301,6 @@ Total Untested: **509**
 Total Lists: **543**
 
 Move Sites from Queue to Wiki  
-https://divolt.xyz/server/01FVKH3QTSZYE1N507J615RW4R/channel/01G8MEA67KTSAZJ9RQ1TXCBHR9/01G8MEW3S9QHE50BHNKHKPX9HX
+<https://divolt.xyz/server/01FVKH3QTSZYE1N507J615RW4R/channel/01G8MEA67KTSAZJ9RQ1TXCBHR9/01G8MEW3S9QHE50BHNKHKPX9HX>
 
 Add When Ready / Released

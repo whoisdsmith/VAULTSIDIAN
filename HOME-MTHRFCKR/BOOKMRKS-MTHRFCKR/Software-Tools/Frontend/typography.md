@@ -27,7 +27,7 @@ font-family: "SF Mono", "Segoe UI Mono", "Roboto Mono", "Ubuntu Mono", Menlo,
 
 # Font Size
 
-https://cnpagency.com/blog/the-mathematical-advantage-of-a-16px-base-font-size/
+<https://cnpagency.com/blog/the-mathematical-advantage-of-a-16px-base-font-size/>
 
 TL:DR; Start using 16px as your base font and use ems to size everything based off of that, and you'll be a far happier person.
 
@@ -37,7 +37,6 @@ The problem is that 14 isn’t very divisible: its divisible factors are 7 and 2
 | ----------- | ----------- | ---- | ------------ | ------------ | ------------ | ------------ | ------------ |
 | .625        | .75         | .875 | 1rem         | 1.125        | 1.25         | 1.375        | 1.5          |
 | .7142857143 | .8571428571 | 1rem | 1.1428571429 | 1.2857142857 | 1.4285714286 | 1.5714285714 | 1.7142857143 |
-
 
 - Setup base `font-size` of `<html />`
 - Use `rem`:
@@ -57,8 +56,8 @@ button {
 
 # Type Scale
 
-https://material.io/design/typography/the-type-system.html#  
-https://developer.mozilla.org/en-US/docs/Web/CSS/line-height
+<https://material.io/design/typography/the-type-system.html>#  
+<https://developer.mozilla.org/en-US/docs/Web/CSS/line-height>
 
 | Scale Category | Weight | Size | Letter spacing | Line height  |
 | -------------- | ------ | ---- | -------------- | ------------ |

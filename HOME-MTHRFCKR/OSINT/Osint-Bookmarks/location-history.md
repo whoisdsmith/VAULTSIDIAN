@@ -1,4 +1,5 @@
 ## Location History
+
 - [MyGeodata Cloud - GIS Data Warehouse, Converter, Maps](https://mygeodata.cloud/)
 - [CSV to GeoJSON converter](https://odileeds.github.io/CSV2GeoJSON/)
 - [GPS Visualizer](https://www.gpsvisualizer.com/)
@@ -12,4 +13,5 @@
 - [Location History Visualizer | Heatmap](https://locationhistoryvisualizer.com/heatmap/)
 - [The Top 146 Gps Location Open Source Projects on Github](https://awesomeopensource.com/projects/gps-location)
 - [The Top 1,025 Geolocation Open Source Projects on Github](https://awesomeopensource.com/projects/geolocation)
+
 ---

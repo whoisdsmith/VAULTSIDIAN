@@ -18,9 +18,9 @@ ___
 
 In the _Rules_ section, set the rule(s) for your path using the three dropdown menus. Each path rule requires three pieces of information:
 
-1.  **Field:** in the first dropdown menu, select a _trigger field_ to base the rule on.
-2.  **Rule:** in the second dropdown menu, select the _rule_ for the trigger field. Learn more about [different rule types](https://zapier.com/help/create/customize/understand-different-filter-and-path-rules).
-3.  **Value:** in the third dropdown menu, enter the specific _value_ the rule must meet.
+1. **Field:** in the first dropdown menu, select a _trigger field_ to base the rule on.
+2. **Rule:** in the second dropdown menu, select the _rule_ for the trigger field. Learn more about [different rule types](https://zapier.com/help/create/customize/understand-different-filter-and-path-rules).
+3. **Value:** in the third dropdown menu, enter the specific _value_ the rule must meet.
 
 [![Path rule](https://zappy.zapier.com/39981A29-DE87-4B0C-9A26-12F627D7328F.png)](https://zappy.zapier.com/39981A29-DE87-4B0C-9A26-12F627D7328F.png)
 

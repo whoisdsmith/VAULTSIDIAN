@@ -97,7 +97,7 @@ __[📱 Android / iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android)_
 !mobile  
 __[🐧 Linux / MacOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux)__  
 !linux  
-__[🔍 Custom Google Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_search_tools)__  #Search 
+__[🔍 Custom Google Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_search_tools)__  #Search
 !search  
 __[:earth_asia: Non-English](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/non-eng)__  
 !non-eng  

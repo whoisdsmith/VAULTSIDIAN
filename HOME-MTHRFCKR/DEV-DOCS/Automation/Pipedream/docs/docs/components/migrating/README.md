@@ -3,13 +3,14 @@
 [[toc]]
 
 ## Overview
-This document is for developers who created legacy actions in [Pipedream's UI](https://pipedream.com/actions). The purpose is to help users migrate legacy actions to Pipedream's new [component model](/components/). 
+
+This document is for developers who created legacy actions in [Pipedream's UI](https://pipedream.com/actions). The purpose is to help users migrate legacy actions to Pipedream's new [component model](/components/).
 
 ## Key Changes
 
-**Capture user input via `props` instead of `params`** 
+**Capture user input via `props` instead of `params`**
 
-The component model does not support `params`. You need to migrate `params` references to [`props`](/components/api/#props). Unlike `params`, `props` must be explicitly declared and defined prior to using them in code (in the old model, an input form was automatically generated when `params` were used in code — `params` were not explicitly declared). 
+The component model does not support `params`. You need to migrate `params` references to [`props`](/components/api/#props). Unlike `params`, `props` must be explicitly declared and defined prior to using them in code (in the old model, an input form was automatically generated when `params` were used in code — `params` were not explicitly declared).
 
 **Declare app `props` to use managed auth**
 
@@ -44,7 +45,7 @@ Ready to develop your first component action? We recommend starting with our [qu
 
 ## Migration Example
 
-Let's walk through an example that migrates code for a legacy action to a Pipedream component. 
+Let's walk through an example that migrates code for a legacy action to a Pipedream component.
 
 ### Legacy Code Example
 
@@ -88,7 +89,7 @@ To convert the code above to the component model, we need to:
 
 1. Link the GitHub app to the component using `props` (so we can use Pipedream managed auth for GitHub)
 2. Define `props` for `owner` and `repo` so we can capture user input. The definition for each prop includes the `type` and `description` metadata. Additionally, since all the fields are required, we do not need to set the `optional`  property (set `optional` to `true` for optional `props`). This metadata was previously captured in the JSON schema.
-3. Replace references to `params` in the `run()` method. `props` are bound to `this` (e.g., `this.owner` and `this.repo`). 
+3. Replace references to `params` in the `run()` method. `props` are bound to `this` (e.g., `this.owner` and `this.repo`).
 4. Update the reference to the GitHub OAuth token from `auths.github.oauth_access_token` to `this.github.$auth.oauth_access_token` (note: `github` in this context references the name of the prop, not the name of the app; if the prop was named `gh` then the auth would be referenced via `this.gh.$auth.oauth_access_token`).
 5. Replace the `@pipedreamhq/platform` npm package with the standard `axios` package.
 
@@ -101,14 +102,14 @@ module.exports = {
   key: "github_get-repo-example",
   version: "0.0.1",
   props: {
-  	github: {
-  	  type: "app",
-  	  app: "github",
-  	},
+   github: {
+     type: "app",
+     app: "github",
+   },
     owner: {
       type: "string",
       description: "Name of repository owner.",
-  	},
+   },
     repo: {
       type: "string",
       description: "Name of repository.",
@@ -133,7 +134,7 @@ Next, let's take the example one step further. Instead of asking users to enter 
 
 1. Remove the `owner` and `repo` props
 2. Add a `repoFullName` prop that makes a request to `https://api.github.com/user/repos` to retrieve a list of (paginated) repos
-3. Update the `run()` function to use the `repoFullName` prop 
+3. Update the `run()` function to use the `repoFullName` prop
 
 ```javascript
 const axios = require("axios")
@@ -144,10 +145,10 @@ module.exports = {
   key: "github_get-repo-example",
   version: "0.0.2",
   props: {
-  	github: {
-  	  type: "app",
-  	  app: "github",
-  	},
+   github: {
+     type: "app",
+     app: "github",
+   },
     repoFullName: {
       type: "string",
       label: "Repo",

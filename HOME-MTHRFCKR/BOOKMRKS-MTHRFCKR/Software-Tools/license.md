@@ -62,4 +62,4 @@ The GNU GPLv3 also lets people do almost anything they want with your project, e
 
 ## 姓名標示 4.0 國際 (CC BY 4.0)
 
-https://creativecommons.org/licenses/by/4.0/deed.en
+<https://creativecommons.org/licenses/by/4.0/deed.en>

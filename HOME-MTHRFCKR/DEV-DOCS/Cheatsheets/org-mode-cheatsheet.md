@@ -1,6 +1,7 @@
 # Org Mode Cheatsheet
 
 > ## Excerpt
+
 > One-page guide to Org Mode: usage, examples, and more. Org mode is for keeping hierarchal notes (and more) in Emacs.
 
 ---

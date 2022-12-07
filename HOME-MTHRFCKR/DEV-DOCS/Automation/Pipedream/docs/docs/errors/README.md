@@ -14,7 +14,7 @@ This doc reviews common errors you'll encounter, and how to troubleshoot them.
 
 Pipedream displays warnings below steps in certain conditions. These warnings do not stop the execution of your workflow, but can signal an issue you should be aware of.
 
-### This step was still trying to run code when the step ended. Make sure you await all Promises, or promisify callback functions.
+### This step was still trying to run code when the step ended. Make sure you await all Promises, or promisify callback functions
 
 See the reference on [running asynchronous code on Pipedream](/workflows/steps/code/async/).
 
@@ -26,7 +26,7 @@ Pipedream sets [limits](/limits/) on runtime, memory, and other execution-relate
 
 On the [Developer (free) tier](/pricing/#developer-tier), Pipedream imposes a limit on the [daily invocations](/limits/#daily-invocations) across all workflows and sources. If you hit this limit, you'll see an **Invocations Quota Exceeded** error.
 
-Paid plans, like the [Professional Tier](#professional-tier), have no invocations limit. [Upgrade here](https://pipedream.com/pricing). 
+Paid plans, like the [Professional Tier](#professional-tier), have no invocations limit. [Upgrade here](https://pipedream.com/pricing).
 
 ### Runtime Quota Exceeded
 

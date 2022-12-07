@@ -69,7 +69,6 @@
 
 `Unauthorized`
 
-
 {% endswagger-response %}  
 {% endswagger %}
 
@@ -218,7 +217,6 @@ http
 
 `Location: https://some.com/...`
 
-
 {% endswagger-response %}  
 {% endswagger %}
 
@@ -234,15 +232,9 @@ Disconnect social network account from available authentication options
 
 `google`
 
- 
-
 `twitter`
 
- 
-
 `vkontakte`
-
- 
 
 `dropbox`
 

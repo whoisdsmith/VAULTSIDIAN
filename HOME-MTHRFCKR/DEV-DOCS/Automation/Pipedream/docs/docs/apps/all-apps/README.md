@@ -12,7 +12,7 @@ If we don't have an integration for an app that you'd like to see, please [reque
   
 ## Apps
 
-- [10,000ft by Smartsheet ](https://pipedream.com/apps/_10000ft)
+- [10,000ft by Smartsheet](https://pipedream.com/apps/_10000ft)
 - [8x8 (Wavecell)](https://pipedream.com/apps/wavecell)
 - [Ably](https://pipedream.com/apps/ably)
 - [Abstract - IP Geolocation API](https://pipedream.com/apps/abstract_ip_geo)
@@ -359,7 +359,7 @@ If we don't have an integration for an app that you'd like to see, please [reque
 - [ShipStation](https://pipedream.com/apps/shipstation)
 - [Shopify](https://pipedream.com/apps/shopify)
 - [Short.io](https://pipedream.com/apps/short)
-- [SilFer Bots ](https://pipedream.com/apps/silfer_bots)
+- [SilFer Bots](https://pipedream.com/apps/silfer_bots)
 - [Simvoly](https://pipedream.com/apps/simvoly)
 - [Slack](https://pipedream.com/apps/slack)
 - [Slack Bot](https://pipedream.com/apps/slack_bot)
@@ -449,4 +449,3 @@ If we don't have an integration for an app that you'd like to see, please [reque
 - [Zoom](https://pipedream.com/apps/zoom)
 - [Zoom Admin](https://pipedream.com/apps/zoom_admin)
 - [Zoom Chatbot](https://pipedream.com/apps/zoom_chatbot)
-

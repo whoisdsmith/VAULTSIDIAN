@@ -53,10 +53,8 @@ Chrome Inspector—playing around with CSS (right click > Inspect)
 
 # Helpful Work Techniques
 
-  * [Interstitial journaling](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://nesslabs.com/interstitial-journaling%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228452482%26amp;usg%3DAOvVaw1Ik9ogurjw3U9GSuQj3WuQ&sa=D&source=docs&ust=1645230228976651&usg=AOvVaw0dqjqy-m_UgF-zAEZgORx1)—amazing technique for staying focused! Combines notes, to-do list and time tracking
-  * Pomodoro timer
-
- 
+* [Interstitial journaling](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://nesslabs.com/interstitial-journaling%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228452482%26amp;usg%3DAOvVaw1Ik9ogurjw3U9GSuQj3WuQ&sa=D&source=docs&ust=1645230228976651&usg=AOvVaw0dqjqy-m_UgF-zAEZgORx1)—amazing technique for staying focused! Combines notes, to-do list and time tracking
+* Pomodoro timer
 
 # Work-specific Daily Tools
 
@@ -78,10 +76,10 @@ Slack ★
 
 # Design Tips
 
-  * Designing a balanced, consistent logo garden: search “[name] logo svg”. Put them all in the same artboard and optically adjust each logo within the artboard so they feel balanced. I usually start by setting a max width for horizontal icons and max height for square/more vertical ones, then adjust if needed. Export artboards as SVGs.
-  * [Check out Figma plugins](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.figma.com/community%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228456956%26amp;usg%3DAOvVaw1Vl1ijduZuJoo01g9cYFH3&sa=D&source=docs&ust=1645230228977764&usg=AOvVaw0_WPunoY2hdWxLq0fyqkMg), they’re super cool
-  * [WebAIM Contrast Checker](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://webaim.org/resources/contrastchecker/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228457727%26amp;usg%3DAOvVaw0zC6VFd-ZabOiJcPPY9MmO&sa=D&source=docs&ust=1645230228977965&usg=AOvVaw3qebcQny1GAwRsS2r_D0JH)—always check your color contrast! You can leverage this in explaining your design decisions with clients 🙌
-  * More coming soon…if you have any requests, hmu on Twitter [@milanmoffatt](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://twitter.com/milanmoffatt%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228458565%26amp;usg%3DAOvVaw3WthSuJuE3BFRn8ZLrRp9f&sa=D&source=docs&ust=1645230228978163&usg=AOvVaw0KDvst5YFXKxmZLD2s69j6) :~)
+* Designing a balanced, consistent logo garden: search “[name] logo svg”. Put them all in the same artboard and optically adjust each logo within the artboard so they feel balanced. I usually start by setting a max width for horizontal icons and max height for square/more vertical ones, then adjust if needed. Export artboards as SVGs.
+* [Check out Figma plugins](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.figma.com/community%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228456956%26amp;usg%3DAOvVaw1Vl1ijduZuJoo01g9cYFH3&sa=D&source=docs&ust=1645230228977764&usg=AOvVaw0_WPunoY2hdWxLq0fyqkMg), they’re super cool
+* [WebAIM Contrast Checker](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://webaim.org/resources/contrastchecker/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228457727%26amp;usg%3DAOvVaw0zC6VFd-ZabOiJcPPY9MmO&sa=D&source=docs&ust=1645230228977965&usg=AOvVaw3qebcQny1GAwRsS2r_D0JH)—always check your color contrast! You can leverage this in explaining your design decisions with clients 🙌
+* More coming soon…if you have any requests, hmu on Twitter [@milanmoffatt](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://twitter.com/milanmoffatt%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228458565%26amp;usg%3DAOvVaw3WthSuJuE3BFRn8ZLrRp9f&sa=D&source=docs&ust=1645230228978163&usg=AOvVaw0KDvst5YFXKxmZLD2s69j6) :~)
 
 ⌨️ Coding
 
@@ -110,8 +108,6 @@ Slack ★
 [https://www.styled-components.com](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.styled-components.com%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228466396%26amp;usg%3DAOvVaw0eVFVt2I6lZK7MyfSwaCfE&sa=D&source=docs&ust=1645230228980218&usg=AOvVaw1N0ifdsEs3PzxiBspail2m)
 
 [http://gridcalculator.dk/#/1366/8/20/20](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://gridcalculator.dk/%2523/1366/8/20/20%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228466862%26amp;usg%3DAOvVaw3mqslqkew3uhdzb68ApBjw&sa=D&source=docs&ust=1645230228980397&usg=AOvVaw0eITg5epNJbN4C9LJuJPTk)  
-
-  
 
 Articles:
 
@@ -142,7 +138,6 @@ Sitemaps
 [codeburst.io/the-front-end-checklist-8b2292fdda44](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://codeburst.io/the-front-end-checklist-8b2292fdda44%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228473090%26amp;usg%3DAOvVaw2sp-8OTk3XxAxncfO-1xMn&sa=D&source=docs&ust=1645230228981765&usg=AOvVaw2Cjouv3n3D61626A_9VJLK)—another front-end checklist
 
 #
-
 
 # HTML
 
@@ -272,15 +267,14 @@ Articles:
 
 #
 
-
 # Code / Design Schools
 
-# FREE [Free Web Development Bootcamp — Class Central](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.classcentral.com/report/webdev-bootcamp/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228513942%26amp;usg%3DAOvVaw2MIGRVoot3Ai0mEh36pN0h&sa=D&source=docs&ust=1645230228987689&usg=AOvVaw3gpDEOWirzp5-uqJZfMgpY)—Online Taught by Jessica Rose, Starting on Aug 23, 2021. Check it Out!
+# FREE [Free Web Development Bootcamp — Class Central](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.classcentral.com/report/webdev-bootcamp/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228513942%26amp;usg%3DAOvVaw2MIGRVoot3Ai0mEh36pN0h&sa=D&source=docs&ust=1645230228987689&usg=AOvVaw3gpDEOWirzp5-uqJZfMgpY)—Online Taught by Jessica Rose, Starting on Aug 23, 2021. Check it Out
 
  FREE [https://www.freecodecamp.org/](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.freecodecamp.org/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228514710%26amp;usg%3DAOvVaw3ytyLk1A3TA0wEexGf9gJZ&sa=D&source=docs&ust=1645230228987792&usg=AOvVaw3g9xE9FkI-hTdiTR0U2Uiq)
 
-  * Take this first: [Responsive Web Design (HTML & CSS)](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.freecodecamp.org/learn/responsive-web-design/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228515317%26amp;usg%3DAOvVaw0PzRsnYkpQzD9OVAdQQzhM&sa=D&source=docs&ust=1645230228987895&usg=AOvVaw246K0Ws9g6tF3ts19G19Re)
-  * Then, take this:  
+* Take this first: [Responsive Web Design (HTML & CSS)](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.freecodecamp.org/learn/responsive-web-design/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228515317%26amp;usg%3DAOvVaw0PzRsnYkpQzD9OVAdQQzhM&sa=D&source=docs&ust=1645230228987895&usg=AOvVaw246K0Ws9g6tF3ts19G19Re)
+* Then, take this:  
 
 FREE [https://www.wcd.school/](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.wcd.school/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228516080%26amp;usg%3DAOvVaw2n2RIMEu-auWo9PEad164w&sa=D&source=docs&ust=1645230228988022&usg=AOvVaw3p1LZEzcpWt8UbZq-8jLX-)—a college-level, tuition-free, design school with a peer-to-peer learning environment. For English-speaking African designers from and in Africa, ages 18-35 🌍
 
@@ -303,16 +297,16 @@ FREE [https://www.wcd.school/](https://www.google.com/url?q=https://www.google.c
 
 # How to Work Better with Engineers
 
-  * [A guide to improving your design-to-development hand-off process](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://uxdesign.cc/a-guide-to-improving-your-design-to-development-hand-off-process-574ebf8f96b6%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228522410%26amp;usg%3DAOvVaw3Vi4nLZTqlpuVQFXNAU7mS&sa=D&source=docs&ust=1645230228989045&usg=AOvVaw0ROVh4NtbRfztHCnYr7cpo)
-  * [How to work effectively with engineers | by Jenny Wen | Dropbox Design](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://medium.com/dropbox-design/how-to-work-effectively-with-engineers-19afbcc9f326?_hsenc%253Dp2ANqtz-9ay0eu1r857tKWa4rjluOIl5oBxWXQ3V0sGYqA4D-mzWDl62KEOI72X9vVf45Y1fNqS9msJoANPCE3OsQk9KKDaTVMhg%2526_hsmi%253D69200158%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228523096%26amp;usg%3DAOvVaw0E2f97Si6MHVus55VTFReK&sa=D&source=docs&ust=1645230228989180&usg=AOvVaw0jDlWFY4sMoK7u7tBTZ-PK)
-  * [Intro to User Experience Design: 4 factors to consider to improve your design to developer handoff](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://blog.prototypr.io/intro-to-user-experience-design-4-factors-to-consider-to-improve-your-design-to-developer-handoff-d7db3de35948%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228523734%26amp;usg%3DAOvVaw0X57r_c1pQwQyXq59qXvfH&sa=D&source=docs&ust=1645230228989299&usg=AOvVaw1vraEG-Td2n9pGG2dWmPlt) by yours truly :~)
+* [A guide to improving your design-to-development hand-off process](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://uxdesign.cc/a-guide-to-improving-your-design-to-development-hand-off-process-574ebf8f96b6%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228522410%26amp;usg%3DAOvVaw3Vi4nLZTqlpuVQFXNAU7mS&sa=D&source=docs&ust=1645230228989045&usg=AOvVaw0ROVh4NtbRfztHCnYr7cpo)
+* [How to work effectively with engineers | by Jenny Wen | Dropbox Design](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://medium.com/dropbox-design/how-to-work-effectively-with-engineers-19afbcc9f326?_hsenc%253Dp2ANqtz-9ay0eu1r857tKWa4rjluOIl5oBxWXQ3V0sGYqA4D-mzWDl62KEOI72X9vVf45Y1fNqS9msJoANPCE3OsQk9KKDaTVMhg%2526_hsmi%253D69200158%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228523096%26amp;usg%3DAOvVaw0E2f97Si6MHVus55VTFReK&sa=D&source=docs&ust=1645230228989180&usg=AOvVaw0jDlWFY4sMoK7u7tBTZ-PK)
+* [Intro to User Experience Design: 4 factors to consider to improve your design to developer handoff](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://blog.prototypr.io/intro-to-user-experience-design-4-factors-to-consider-to-improve-your-design-to-developer-handoff-d7db3de35948%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228523734%26amp;usg%3DAOvVaw0X57r_c1pQwQyXq59qXvfH&sa=D&source=docs&ust=1645230228989299&usg=AOvVaw1vraEG-Td2n9pGG2dWmPlt) by yours truly :~)
 
 # Learning Design
 
 I taught two design courses at SuperHi:
 
-  * [Introduction to User Experience](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.superhi.com/courses/introduction-to-user-experience-design%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228524879%26amp;usg%3DAOvVaw15TS2ggpvQAxYfd5M4TmbL&sa=D&source=docs&ust=1645230228989511&usg=AOvVaw2rsreNQ0wHSdSoNL0lOOfj)
-  * [Visual Design + Branding](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.superhi.com/courses/visual-design-and-branding%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228525463%26amp;usg%3DAOvVaw2EUBcH13wbPMOwvAfeFFOD&sa=D&source=docs&ust=1645230228989622&usg=AOvVaw23i69mVTTlbk8oZ_BgMn64)—the Design 101 course we wished existed before we made it! Co-designed and taught with [Kristen A.C.](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.ackristen.ca/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228525807%26amp;usg%3DAOvVaw05jt4_iBTTfq1b9E-V_fJY&sa=D&source=docs&ust=1645230228989707&usg=AOvVaw26SIngqx6RYwncAgi0jVkC) and [André Cândido](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://andre-candido.com/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228526100%26amp;usg%3DAOvVaw0r4ii7Z6ZLS5pPkFsIoOA1&sa=D&source=docs&ust=1645230228989779&usg=AOvVaw0cxJ_SN-sGQ4i4aI7JAdin)
+* [Introduction to User Experience](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.superhi.com/courses/introduction-to-user-experience-design%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228524879%26amp;usg%3DAOvVaw15TS2ggpvQAxYfd5M4TmbL&sa=D&source=docs&ust=1645230228989511&usg=AOvVaw2rsreNQ0wHSdSoNL0lOOfj)
+* [Visual Design + Branding](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.superhi.com/courses/visual-design-and-branding%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228525463%26amp;usg%3DAOvVaw2EUBcH13wbPMOwvAfeFFOD&sa=D&source=docs&ust=1645230228989622&usg=AOvVaw23i69mVTTlbk8oZ_BgMn64)—the Design 101 course we wished existed before we made it! Co-designed and taught with [Kristen A.C.](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.ackristen.ca/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228525807%26amp;usg%3DAOvVaw05jt4_iBTTfq1b9E-V_fJY&sa=D&source=docs&ust=1645230228989707&usg=AOvVaw26SIngqx6RYwncAgi0jVkC) and [André Cândido](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://andre-candido.com/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228526100%26amp;usg%3DAOvVaw0r4ii7Z6ZLS5pPkFsIoOA1&sa=D&source=docs&ust=1645230228989779&usg=AOvVaw0cxJ_SN-sGQ4i4aI7JAdin)
 
 [https://hackdesign.org/lessons101](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://hackdesign.org/lessons101%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228526706%26amp;usg%3DAOvVaw1RdDO97JCmI_k2sQKscgdi&sa=D&source=docs&ust=1645230228989886&usg=AOvVaw02pa7QVexD5pXIQdIfwPoP) ★
 
@@ -411,7 +405,6 @@ Articles:
 🌟 Design
 
 #
-
 
 # Agencies to Keep an Eye on
 
@@ -874,7 +867,7 @@ Articles:
 
  NEW ​​[https://type-foundries-archive.com/](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://type-foundries-archive.com/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228712121%26amp;usg%3DAOvVaw1XfnZNhlBlLO9dvo0FZ3dC&sa=D&source=docs&ust=1645230229025028&usg=AOvVaw1GZuwPewy3fX_A6j1UX-zo)
 
- NEW ​​http://www.tunera.xyz/
+ NEW ​​<http://www.tunera.xyz/>
 
 [https://type.today/en](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://type.today/en%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228712901%26amp;usg%3DAOvVaw3H3aHj08JVzGGJY9kxpI2X&sa=D&source=docs&ust=1645230229025180&usg=AOvVaw1rVg1FfcyxH3_goGYRBX8B)
 
@@ -904,18 +897,18 @@ Articles:
 
 [https://kyleschaeffer.com/development/css-font-size-em-vs-px-vs-pt-vs/](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://kyleschaeffer.com/development/css-font-size-em-vs-px-vs-pt-vs/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228721254%26amp;usg%3DAOvVaw3JfozhpAfkfZr1YXQ6Fbd_&sa=D&source=docs&ust=1645230229026457&usg=AOvVaw3oDfpw1LcIL2ZY6jQVcn8v)
 
-# My Top 10 Typography Tips:
+# My Top 10 Typography Tips
 
-  * Establish sizes for a hierarchy H1-H6, links, and body text without using any color. then, apply color/font weight/text decoration/letter spacing etc. to text and links as needed to convey functionality or a certain purpose e.g. I see students underline things that aren’t clickable, but it looks like a link
-  * Try to use as few type styles as possible for consistency. Setting up a type system before designing will help. I often see students using 3 different sizes for body copy, 2 different colors for links and 5 heading sizes…your designs will look better and your user will learn how to navigate through your site better if things are consistent!
-  * To set up your type sizes and hierarchy, you can get started with a type scale tool like [modularscale.com](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.modularscale.com/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228722976%26amp;usg%3DAOvVaw2RoxozCkMhFJ8qXq_NSazX&sa=D&source=docs&ust=1645230229026703&usg=AOvVaw3QnHlgkcePXM9vZV7Kk0xt) or [type-scale.com](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://type-scale.com/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228723499%26amp;usg%3DAOvVaw1xEKHAuxHoNGzClx_h7neg&sa=D&source=docs&ust=1645230229026784&usg=AOvVaw1ImakBkQ6V8sGeGK2sjO0L)
-  * Avoid using display fonts for body copy or things longer than a sentence or two
-  * Left align text longer than a sentence or two for readability. You shouldn’t center paragraph text, and [“say no to justification on the web”](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://designforhackers.com/blog/justify-text-html-css/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228724665%26amp;usg%3DAOvVaw3i3QoWQl9Xe5HHJSEY5h9x&sa=D&source=docs&ust=1645230229026998&usg=AOvVaw2Tuo8I4klzt26Csj37jnPI)! Just don’t do it.
-  * Body copy should be at least 16px, 18-21px is even better.
-  * Give body copy line-height of 1.2-1.5 at least for legibility. To meet W3C accessibility guidelines “Line height is at least space-and-a-half within paragraphs—that’s 150%.”
-  * Longer line lengths = more line height, short line lengths = less
-  * Headings tend to be larger and bolder than other elements to stand out. A good way to think about type hierarchy is: what needs to stand out most on the page?
-  * Pair a serif with a sans, sans with sans, but be careful with serif and serif unless you know what you’re doing and have a vision lol  
+* Establish sizes for a hierarchy H1-H6, links, and body text without using any color. then, apply color/font weight/text decoration/letter spacing etc. to text and links as needed to convey functionality or a certain purpose e.g. I see students underline things that aren’t clickable, but it looks like a link
+* Try to use as few type styles as possible for consistency. Setting up a type system before designing will help. I often see students using 3 different sizes for body copy, 2 different colors for links and 5 heading sizes…your designs will look better and your user will learn how to navigate through your site better if things are consistent!
+* To set up your type sizes and hierarchy, you can get started with a type scale tool like [modularscale.com](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.modularscale.com/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228722976%26amp;usg%3DAOvVaw2RoxozCkMhFJ8qXq_NSazX&sa=D&source=docs&ust=1645230229026703&usg=AOvVaw3QnHlgkcePXM9vZV7Kk0xt) or [type-scale.com](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://type-scale.com/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228723499%26amp;usg%3DAOvVaw1xEKHAuxHoNGzClx_h7neg&sa=D&source=docs&ust=1645230229026784&usg=AOvVaw1ImakBkQ6V8sGeGK2sjO0L)
+* Avoid using display fonts for body copy or things longer than a sentence or two
+* Left align text longer than a sentence or two for readability. You shouldn’t center paragraph text, and [“say no to justification on the web”](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://designforhackers.com/blog/justify-text-html-css/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228724665%26amp;usg%3DAOvVaw3i3QoWQl9Xe5HHJSEY5h9x&sa=D&source=docs&ust=1645230229026998&usg=AOvVaw2Tuo8I4klzt26Csj37jnPI)! Just don’t do it.
+* Body copy should be at least 16px, 18-21px is even better.
+* Give body copy line-height of 1.2-1.5 at least for legibility. To meet W3C accessibility guidelines “Line height is at least space-and-a-half within paragraphs—that’s 150%.”
+* Longer line lengths = more line height, short line lengths = less
+* Headings tend to be larger and bolder than other elements to stand out. A good way to think about type hierarchy is: what needs to stand out most on the page?
+* Pair a serif with a sans, sans with sans, but be careful with serif and serif unless you know what you’re doing and have a vision lol  
 
 # Book Design
 
@@ -1282,10 +1275,10 @@ ALWAYS USE A CONTRACT. I repeat, DO NOT WORK WITHOUT A CONTRACT. Even if it’s 
 
 🧠 Most important tips I learned while freelancing:
 
-  * Define scope upfront: decide what this project will and—v important—will NOT include.
-  * Any requests outside of scope should be charged at your hourly rate. Avoid scope creep, and stand your ground on only doing work that is within scope—otherwise you could have a never ending, dragged out project that lasts 8 months when you thought it would only take 1-2 🙃
-  * Double the time you think it’ll take. Triple your rate. If they push back on your rate/project fee, it’s a good thing. You can always reduce the scope of work to fit their budget, but don’t reduce your rate—it could come off like you don’t value your own services and your worth.
-  * Ask other designers doing similar work how much they charge. You’re probably not asking for enough 🤑
+* Define scope upfront: decide what this project will and—v important—will NOT include.
+* Any requests outside of scope should be charged at your hourly rate. Avoid scope creep, and stand your ground on only doing work that is within scope—otherwise you could have a never ending, dragged out project that lasts 8 months when you thought it would only take 1-2 🙃
+* Double the time you think it’ll take. Triple your rate. If they push back on your rate/project fee, it’s a good thing. You can always reduce the scope of work to fit their budget, but don’t reduce your rate—it could come off like you don’t value your own services and your worth.
+* Ask other designers doing similar work how much they charge. You’re probably not asking for enough 🤑
 
 I usually send a Proposal and Scope of Work (SOW)—if you plan on working with the client again in the future, you can send a Master Services Agreement (MSA) and a new SOW per project.
 
@@ -1364,11 +1357,7 @@ I usually send a Proposal and Scope of Work (SOW)—if you plan on working with 
 
 🚫I make beautiful, intuitive pixel-perfect user interfaces  
 
-  
-
 Tip #1: How can you make your bio uniquely yours? Bios can be one of the toughest things to write, but spending time making yours unique is worth it. I’ve given feedback on hundreds of portfolios in the past couple years, and see the same bios over and over. The same buzzwords: passion, empathetic, storytelling, empower users, intuitive, clean, delightful experiences, etc.
-
-  
 
 Tip #2: Important! Make sure you call yourself what you want to be hired for. Unless your work is wildly irrelevant, people that come to your portfolio will see what you call yourself and will take your word for it. It’s their first impression of you. I almost always encourage designers to drop “Junior” in front of their title on their portfolio. Just say Designer.
 
@@ -1390,7 +1379,7 @@ I need more resources here e.g. LGBTQIA+ communities and resources, design persp
 
 🖤 BLM
 
-# Directories:
+# Directories
 
 [https://blacklivesmatters.carrd.co/](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://blacklivesmatters.carrd.co/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228871001%26amp;usg%3DAOvVaw0OGzFBpia_n1iSwDLii4T7&sa=D&source=docs&ust=1645230229051254&usg=AOvVaw1_g36I5nyFmBWc0NnNfhII)
 
@@ -1400,7 +1389,7 @@ I need more resources here e.g. LGBTQIA+ communities and resources, design persp
 
 [A Growing List of Resources for the Movement for Black Lives](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://eyeondesign.aiga.org/a-growing-black-lives-matter-resource-list-for-designers-and-humans/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228873277%26amp;usg%3DAOvVaw2MlC71SBCMmXaWeXjpVBql&sa=D&source=docs&ust=1645230229051543&usg=AOvVaw0Y4siWYDr6VFbfaWkJPu_G)—from AIGA Eye on Design. Esp. helpful for designers. Includes a list of activists to follow on social too.
 
-# For non-Black Folks:
+# For non-Black Folks
 
 [Anti-racism resources for white people](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://docs.google.com/document/u/0/d/1BRlF2_zhNe86SGgHa6-VlBO-QgirITwCTugSfKie5Fs/mobilebasic?fbclid%253DIwAR0e2clPhNWEyNbIYklfGYzxHI6JqgEGS5Boa9Du5dqitB4hj0uOUYpKqHI%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228874526%26amp;usg%3DAOvVaw242GzArpmqKzO1kTV7nTDG&sa=D&source=docs&ust=1645230229051730&usg=AOvVaw31X6IRyhdGS-elipfKOZJw)
 
@@ -1410,15 +1399,15 @@ I need more resources here e.g. LGBTQIA+ communities and resources, design persp
 
 [10 Steps to Non-Optical Allyship](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.instagram.com/p/CA04VKDAyjb/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228876492%26amp;usg%3DAOvVaw0QJ4ivjyINl7ciVdXgdIHh&sa=D&source=docs&ust=1645230229052036&usg=AOvVaw1VqjPAhPS9YlDZrR73dWF9)—by [@mireillecharper](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.instagram.com/mireillecharper/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228876921%26amp;usg%3DAOvVaw1s9JD8Jt4mUMrUL3GOiVD9&sa=D&source=docs&ust=1645230229052116&usg=AOvVaw3HNwdDPvNJ612OGc0SHj9w) (follow her!)
 
-# Reading:
+# Reading
 
-# 📚I’ve Been Reading [So You Want To Talk About Race](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://www.ijeomaoluo.com/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228878020%26amp;usg%3DAOvVaw2RZtntAcYUHqbaJIsk5rEQ&sa=D&source=docs&ust=1645230229052262&usg=AOvVaw3VWAAIDCecFHFvNZ_-XTCI) by Ijeoma Oluo and [Me and White Supremacy](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.meandwhitesupremacybook.com/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228878472%26amp;usg%3DAOvVaw0xxepGBtKM668WU3JUWkNY&sa=D&source=docs&ust=1645230229052339&usg=AOvVaw27M_hmctszfA_lKdhOaCOo) by Layla F. Saad. They’ve Been Really Helpful to Me, Check Them Out! Up Next is [White Fragility](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.indiebound.org/book/9780807047415%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228878966%26amp;usg%3DAOvVaw0A7puoB3i5xu2MOidexWLO&sa=D&source=docs&ust=1645230229052422&usg=AOvVaw0bOIbPmRnJuA1K2_P0uN6R) by Robin DiAngelo.
+# 📚I’ve Been Reading [So You Want To Talk About Race](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://www.ijeomaoluo.com/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228878020%26amp;usg%3DAOvVaw2RZtntAcYUHqbaJIsk5rEQ&sa=D&source=docs&ust=1645230229052262&usg=AOvVaw3VWAAIDCecFHFvNZ_-XTCI) by Ijeoma Oluo and [Me and White Supremacy](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.meandwhitesupremacybook.com/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228878472%26amp;usg%3DAOvVaw0xxepGBtKM668WU3JUWkNY&sa=D&source=docs&ust=1645230229052339&usg=AOvVaw27M_hmctszfA_lKdhOaCOo) by Layla F. Saad. They’ve Been Really Helpful to Me, Check Them Out! Up Next is [White Fragility](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.indiebound.org/book/9780807047415%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228878966%26amp;usg%3DAOvVaw0A7puoB3i5xu2MOidexWLO&sa=D&source=docs&ust=1645230229052422&usg=AOvVaw0bOIbPmRnJuA1K2_P0uN6R) by Robin DiAngelo
 
-# Newsletters:
+# Newsletters
 
 [https://www.antiracismdaily.com/](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.antiracismdaily.com/?utm_source%253Dnewsletter%2526utm_medium%253Demail%2526utm_campaign%253Dsubscribe%2526utm_source%253DAnti-Racism%252BDaily%2526utm_campaign%253D536b5399d9-EMAIL_CAMPAIGN_7_14_2020_4_16_COPY_01%2526utm_medium%253Demail%2526utm_term%253D0_c1e01f2335-536b5399d9-211699784%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228880403%26amp;usg%3DAOvVaw2IA65TusWDeZCGrpApWl6q&sa=D&source=docs&ust=1645230229052580&usg=AOvVaw1TpjzQnvy7w1RmqFWCu--o)
 
-# Accounts I Follow:
+# Accounts I Follow
 
 Yes, these are liberal, progressive accounts. Social media has been an echo chamber this year, at least for me. I encourage you to listen to many different voices, do your research, fact check and form your OWN opinions.  
 
@@ -1476,15 +1465,15 @@ I’m interested in following those with opposing views on social (please send i
 
 Here are some great books to get started with #designbasics such as balance, grids, typography, color and more:
 
-  * Elements of Typographic Style by Robert Bringhurst
-  * Thinking With Type by Ellen Lupton ★
-  * Grid Systems by Josef Müller-Brockmann
-  * Interaction of Color by Josef Albers
-  * The Design of Everyday Things by Don Norman ★
-  * Design Is a Job by Mike Monteiro, and all [A Book Apart books](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://abookapart.com/products%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228901470%26amp;usg%3DAOvVaw1OjH6odWcxYSU5ne15pcPN&sa=D&source=docs&ust=1645230229055437&usg=AOvVaw1WSoaZMYenMPTk4ScZ34oX) ★
-  * Don't Make Me Think, Revisited by Steve Krug ★
-  * Hooked by Nir Eyal—for product designers ★
-  * Design for Hackers by David Kadavy—for devs wanting to learn design but good design basics in general
+* Elements of Typographic Style by Robert Bringhurst
+* Thinking With Type by Ellen Lupton ★
+* Grid Systems by Josef Müller-Brockmann
+* Interaction of Color by Josef Albers
+* The Design of Everyday Things by Don Norman ★
+* Design Is a Job by Mike Monteiro, and all [A Book Apart books](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://abookapart.com/products%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228901470%26amp;usg%3DAOvVaw1OjH6odWcxYSU5ne15pcPN&sa=D&source=docs&ust=1645230229055437&usg=AOvVaw1WSoaZMYenMPTk4ScZ34oX) ★
+* Don't Make Me Think, Revisited by Steve Krug ★
+* Hooked by Nir Eyal—for product designers ★
+* Design for Hackers by David Kadavy—for devs wanting to learn design but good design basics in general
 
 Also see “Typography Guides / Education” above for some online books.
 

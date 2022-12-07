@@ -102,7 +102,6 @@ Alcohol and other alcohol are known to interact with Adderall. However, these in
 
 Paul Tardner is the Lead Author at IJEST.org. Paul is a former academic and research scientists. He now dedicates his time to his own research into natural biohacking, with a particular focus on cognitive enhancement.
 
-
 ___
 
-#article 
+# article

@@ -1,4 +1,5 @@
 ## Securities
+
 - [NASAA](http://www.nasaa.org/)
 - [SCAC](http://securities.stanford.edu/)
 - [SEC](https://www.sec.gov/)

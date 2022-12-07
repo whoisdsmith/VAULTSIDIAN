@@ -2,16 +2,18 @@
 
 ---
 
-Raindrop can search by bookmark details, URL, tag, type, date or [entire content](#full-text-search) of web-page or PDF (no OCR).   
+Raindrop can search by bookmark details, URL, tag, type, date or [entire content](#full-text-search) of web-page or PDF (no OCR).
 Best in class support for 16 languages. Find precisely by crafting advanced searches with our [super power operators](#operators).
 
 ![](using/search/intro.png)
 
 ## Recent Searches {#recent}
+
 Raindrop will remember your ten most recent searches so you can easily return to the list of results.
 Plus, these recent searches will sync across your apps so you can continue a search on another device or computer.
 
 ## Full-Text Search {#full-text-search}
+
 Raindrop can search through the entire content of every bookmark and PDF (no OCR) you’ve saved, making it extremely easy to find what you’re looking for. It's like your personal Google!
 
 Your bookmarks are indexed automatically, no need to do anything. Usually only meaningful content of web-page is indexed. Ads, navigation, comments and so on are stripped if possible.
@@ -56,12 +58,13 @@ To find precisely you can craft advanced searches using Boolean operators.
 
 ![](using/search/operators.png)
 
-Listed below are the search operators we support, with quick examples showing how they may be used.   
+Listed below are the search operators we support, with quick examples showing how they may be used.
 No need to remember everything listed below, our smart search suggestions will show them for you.
 
 Mix-and-match to find exactly what you're looking for.
 
 Operator | Example | Explanation
+
 - | - | -
 `apple iphone`          | apple iphone              | Find items that contains such words in title, description, domain or in web page content
 `"sample"`              | "superman vs. batman"     | Find items that contains exact phrase in title, description, domain or in web page content
@@ -78,13 +81,12 @@ Operator | Example | Explanation
 `notag:true`            | notag:true                | Find items without tags
 `cache.status:sample`   | cache.status:ready <br/> -cache.status:ready | Find items that have (or not) a [permanent copy](HOME-MTHRFCKR/DEV-DOCS/raindrop-io/help-docs/backups.md#permanent-library)
 
-
 ## Broken links
+
 Raindrop.io can periodically check all your bookmarks for availability.
 If any URL hit dead you will notice a special 'ghost' icon next to bookmark domain name.
 
 ![](using/search/brokens.png)
-
 
 <!------------------------------>
 <details><summary>
@@ -103,7 +105,6 @@ Only available in [Pro plan](premium-features.md)
 
 </details>
 
-
 <!------------------------------>
 <details><summary>
 
@@ -117,7 +118,6 @@ Only available in [Pro plan](premium-features.md)
 
 </details>
 
-
 <!------------------------------>
 <details><summary>
 
@@ -129,15 +129,12 @@ Check [this article](false-broken-links.md) if you have any problems with broken
 
 </details>
 
-
-
-
 ## Duplicates
+
 Have you ever bookmarked a page more than once?
 
 Duplicate bookmarks take up space and needlessly add to a surplus of saved pages.
 Raindrop.io can help you locate and remove duplicates bookmarks.
-
 
 <!------------------------------>
 <details><summary>
@@ -158,7 +155,6 @@ This list not includes **originals**. So it's safe to remove them all.
 :::
 
 ![](using/search/filters.png)
-
 
 </details>
 
@@ -182,7 +178,7 @@ This list not includes **originals**. So it's safe to remove them all.
 
 </summary>
 
-Bookmark considered as duplicate only if it URL is exactly the same to previously saved bookmark.   
+Bookmark considered as duplicate only if it URL is exactly the same to previously saved bookmark.
 
 All garbage from URL like different protocol, WWW, trailing slashes, useless query parameters (like referral id or advert source) and hash strings are ignored.
 
@@ -190,9 +186,9 @@ All garbage from URL like different protocol, WWW, trailing slashes, useless que
 
 </details>
 
-
 ## Limitations
+
 - Full-text search
-    - Indexing is happen with slight delay, usually few minutes
-    - We can index up to 300,000 characters in one document/page
-    - Bookmark should have a [permanent copy](HOME-MTHRFCKR/DEV-DOCS/raindrop-io/help-docs/backups.md#permanent-library) to support full-text search
+  - Indexing is happen with slight delay, usually few minutes
+  - We can index up to 300,000 characters in one document/page
+  - Bookmark should have a [permanent copy](HOME-MTHRFCKR/DEV-DOCS/raindrop-io/help-docs/backups.md#permanent-library) to support full-text search

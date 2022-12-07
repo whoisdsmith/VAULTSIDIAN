@@ -1,4 +1,5 @@
 ## QUICK ACCESS to OSINT FRAMEWORK
+
 - [OSINT LANDING PAGE](https://start.me/p/ZME8nR/osint)
 - [SOURCES | COMPANY INFORMATION](https://start.me/p/3g0aKK/sources)
 - [KEYWORDS | TRANSLATION](https://start.me/p/VvGz56/keywords)
@@ -11,23 +12,31 @@
 - [SOURCES CTY USA](https://start.me/p/kxMBv9/cnty-usa)
 - [DIGITAL SECURITY](https://start.me/p/Zz4gyM/security)
 - [OPSEC | PRIVACY](https://start.me/p/ZkMLp5/opsec)
+
 ### Analysing E-mail Headers
+
 - [E-Mail Header Analyzer - Analyze e-mail header lines](https://www.gaijin.at/en/tools/e-mail-header-analyzer)
 - [Show my IP Address](https://mailheader.org/)
 - [Email Header Analyzer Tool To Find Spam - WhatIsMyIP.com®](https://www.whatismyip.com/email-header-analyzer)
+
 ### Archive/Cache 2/2
+
 - [archive.li](https://archive.li/)
 - [Archives Portal Europe Homepage](http://www.archivesportaleurope.net/)
 - [Confluence](https://webarchive.jira.com/wiki/home)
 - [http://webverse.archive.org/](http://webverse.archive.org/)
+
 ### Archived/Cached Pages 1/2
+
 - [Chacedviews.com](https://chacedviews.com/)
 - [Websitation.com](https://websitation.com/)
 - [ウェブ魚拓](https://megalodon.jp/)
 - [Stanford Web Archive Portal](https://swap.stanford.edu/)
 - [Webrecorder | Tools](https://webrecorder.net/tools)
 - [ReplayWeb.page](https://replayweb.page/)
+
 ### Banking and Credit Card Information
+
 - [Validation.com](https://validation.com/)
 - [Credit Card BIN Numbers Database](https://www.binbase.com/search.html)
 - [BIN](https://www.bincodes.com/)
@@ -50,16 +59,22 @@
 - [Check Credit Card Numbers](https://www.validcreditcardnumber.com/)
 - [Vat-lookup.co.uk](https://www.vat-lookup.co.uk/)
 - [VAT-Search.co.uk](https://vat-search.co.uk/)
+
 ### Chrome Osint/Sec Verify extensions
+
 - [EXIF QuickView](https://chrome.google.com/webstore/detail/exif-quickview/kjihpkahhpobojbdnknpelpgmcihnepj/related?hl=en-US)
+
 ### Chrome Security Extensions
+
 - [WebRTC Network Limiter](https://chrome.google.com/webstore/detail/webrtc-network-limiter/npeicpdbkakmehahjeeohfdhnlpdklia)
 - [Privacy Badger](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)
 - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en-GB)
 - [Unshorten.link - Chrome Web Store](https://chrome.google.com/webstore/detail/unshortenlink/gbobdaaeaihkghbokihkofcbndhmbdpd?hl=en)
 - [DuckDuckGo Privacy Essentials](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg?hl=en)
 - [Click&Clean](https://chrome.google.com/webstore/detail/clickclean/ghgabhipcejejjmhhchfonmamedcbeod?hl=en)
+
 ### Contact Detail Recovery Apps
+
 - [AmazingHiring](https://amazinghiring.com/)
 - [ContactOut](https://contactout.com/)
 - [Install SellHack Extension](https://sellhack.com/install.html)
@@ -78,12 +93,16 @@
 - [Nymeria](https://www.nymeria.io/)
 - [SeekOut](https://www.seekout.io/)
 - [Swordfishapp](https://www.swordfishapp.com/)
+
 ### Crime Database/Statistics
+
 - [Crime trend](https://crime-data-explorer.fr.cloud.gov/pages/explorer/crime/crime-trend)
 - [SHERLOC](https://sherloc.unodc.org/cld/v3/sherloc/index.jspx?tmpl=cybrepo)
 - [Information for Victims in Large Cases](https://www.justice.gov/largecases)
 - [Database of Legislation](https://sherloc.unodc.org/cld/v3/sherloc/legdb/index.html?lng=en)
+
 ### Currency Conversion
+
 - [List of circulating currencies](https://en.wikipedia.org/wiki/List_of_circulating_currencies)
 - [Currency Converter - MSN Money](https://www.msn.com/en-us/money/tools/currencyconverter)
 - [Currency Converter | Foreign Exchange Rates | OANDA](https://www1.oanda.com/currency/converter)
@@ -91,19 +110,29 @@
 - [XE Currency Converter](https://www.xe.com/currencyconverter)
 - [X-Rates](https://www.x-rates.com/)
 - [Yahoo Finance](https://finance.yahoo.com/currency-converter)
+
 ### DarkWeb Linkz
+
 - [Qrtitjevs5nxq6jvrnrjyz5dasi3nbzx24mzmfxnuk2dnzhpphcmgoyd.onion](http://qrtitjevs5nxq6jvrnrjyz5dasi3nbzx24mzmfxnuk2dnzhpphcmgoyd.onion/)
+
 ### DarkNetemail
+
 - [Hxuzjtocnzvv5g2rtg2bhwkcbupmk7rclb6lly3fo4tvqkk5oyrv3nid.onion](http://hxuzjtocnzvv5g2rtg2bhwkcbupmk7rclb6lly3fo4tvqkk5oyrv3nid.onion/)
 - [cock.li](http://rurcblzhmdk22kttfkel2zduhyu3r6to7knyc7wiorzrx5gw4c3lftad.onion/)
+
 ### DarkNetRandom Chat
+
 - [http://notbumpz34bgbz4yfdigxvd6vzwtxc3zpt5imukgl6bvip2nikdmdaad.onion/rchat/](http://notbumpz34bgbz4yfdigxvd6vzwtxc3zpt5imukgl6bvip2nikdmdaad.onion/rchat)
 - [http://pfpmd7dd5ijt4add2sfi4djsaij4u3ebvnwvyvuj6aeipe2f5llptkid.onion/ui3/](http://pfpmd7dd5ijt4add2sfi4djsaij4u3ebvnwvyvuj6aeipe2f5llptkid.onion/ui3)
 - [jitjatj3qbb42jvik4udcehxpkoidppz3gojslh7jcatuo4hx4xwayid.onion/login.php](http://jitjatj3qbb42jvik4udcehxpkoidppz3gojslh7jcatuo4hx4xwayid.onion/login.php)
+
 ### darkweb directory links (clearnet)
+
 - [Dark Web Links](https://darkweblinks.com/)
 - [Энтузиаст создал самый полный и самый бесполезный список сайтов даркнета — «Хакер»](https://xakep.ru/2017/05/11/darkweb-index)
+
 ### Deep Links DIR
+
 - [Tor2web.onionsearchengine.com](https://tor2web.onionsearchengine.com/)
 - [OnionLand Search](http://3bbad7fauom4d6sgppalyqddsqbf5u5p56b5k5uk2zxsy3d6ey2jobad.onion/)
 - [Deep Links Dump - Uncensored Deep Web Link Directory](http://deepqelxz6iddqi5obzla2bbwh5ssyqqobxin27uzkr624wtubhto3ad.onion/)
@@ -116,20 +145,28 @@
 - [Link list v3.2.](http://torv5dp5n46htkqu42r3ywtt75ll2zu24a3yhcsgm6aslp43woclc2id.onion/)
 - [Ableonion Links](http://notbumpz34bgbz4yfdigxvd6vzwtxc3zpt5imukgl6bvip2nikdmdaad.onion/links)
 - [MISC](http://omensx7ucu4gossi2nwn3l227ka73vsob36yytr3oe32u63ftgi4t4qd.onion/Links/links.html)
+
 ### Deep Web & Dark Web & Spec
+
 - [4chansearch.net/](http://4chansearch.net/)
 - [Airbnb](http://airbnb.com/)
 - [Www.humantraffickingsearch.net/](http://www.humantraffickingsearch.net/)
 - [The Dru Sjodin National Sex Offender Public Website](http://www.nsopw.gov/)
 - [Dual Maps v7: Google Maps, Street View and Bing Maps in an embeddable control](https://www.mapchannels.com/DualMaps.aspx)
+
 ### DataBases for Legal Professionals
+
 - [Martindale](https://www.martindale.com/)
+
 ### DATALEAK/BREACH ACCESS/CHECKER
+
 - [Pastebin dump collection](https://psbdmp.cc/)
 - [Leak-Lookup](https://leak-lookup.com/databases)
 - [Personal Data Leak Checker: Your Email & Data](https://cybernews.com/personal-data-leak-check)
 - [Leakhispano.net](https://leakhispano.net/)
+
 ### Dating Apps and Sites
+
 - [bumble](https://bumble.com/)
 - [Clover.co](https://clover.co/)
 - [Coffee Meets Bagel](https://coffeemeetsbagel.com/)
@@ -150,18 +187,26 @@
 - [Tastebuds](https://tastebuds.fm/)
 - [Tinder](https://tinder.com/)
 - [Zoosk](https://www.zoosk.com/)
+
 ### Deleting/Sanitizing
+
 - [Darik's Boot And Nuke](https://www.dban.org/)
+
 ### File Forensics
+
 - [https://quicksand.io/](https://quicksand.io/)
+
 ### Information on Names and Naming Conventions
+
 - [Uide_uk_2006.pdf](https://uide_uk_2006.pdf/)
 - [Indian Naming Conventions: Family Names and Given Names](https://learningindia.in/indian-naming-conventions)
 - [S.pdf.com](https://s.pdf.com/)
 - [Surnames.pdf](https://surnames.pdf/)
 - [Russische Adjektive – RusslandJournal.de](https://www.russlandjournal.de/russisch-lernen/russische-)
 - [Citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.)
+
 ### Investigating Phone Numbers
+
 - [abc telefonos](https://www.abctelefonos.com/)
 - [International White and Yellow Pages](https://www.wayp.com/)
 - [Wtng.info](https://www.wtng.info/)
@@ -218,11 +263,15 @@
 - [Tellows.com](https://www.tellows.com/)
 - [Carrier Lookup: Identify & Organize Numbers by Carrier](https://www.textmagic.com/free-tools/carrier-lookup)
 - [Tools/telefoonnummer-search-tool.com](http://tools/telefoonnummer-search-tool.com)
+
 ### IP LOGGING
+
 - [Canarytokens](https://canarytokens.org/)
 - [CanaryTokens](https://www.stationx.net/canarytokens)
 - [Canary Tokens - Hosted by Station X](https://whiteclouddrive.com/generate)
+
 ### IP-Domain-DNS-Network-URL
+
 - [domainIQ](https://www.domainiq.com/tools)
 - [https://www.bulkseotools.com](https://www.bulkseotools.com/)
 - [ShadowCrypt - Cyber Intelligence & Online Hacking Tools Provider](https://shadowcrypt.net/)
@@ -231,9 +280,13 @@
 - [Whois History](https://osint.sh/whoishistory)
 - [ICANN Lookup](https://lookup.icann.org/en/lookup)
 - [Whois.evtottav.com](https://whois.evtottav.com/)
+
 ### Language Research Tools
+
 - [Ethnologue](https://www.ethnologue.com/)
+
 ### Leak Tests (Clear Net)
+
 - [AmIUnique](https://amiunique.org/fp)
 - [Cover Your Tracks](https://coveryourtracks.eff.org/)
 - [Leak Tests](https://www.whonix.org/wiki/Dev/Leak_Tests)
@@ -243,10 +296,14 @@
 - [What browser? My browser? Is my browser out of date?](https://www.whatismybrowser.com/)
 - [Privacy Test & Analyzer: See what information websites know about you](https://privacy.net/analyzer)
 - [Your IP Address is exposed?! Check IP Address and User Agent Now!](https://www.stupidproxy.com/ip-address-user-agent)
+
 ### Leak Tests (Dark Net)
+
 - [elfq2qefxx6dv3vy.onion/binfo_check_anonymity.php](http://elfq2qefxx6dv3vy.onion/binfo_check_anonymity.php)
 - [donionsixbjtiohce24abfgsffo2l4tk26qx464zylumgejukfq2vead.onion/test.php](http://donionsixbjtiohce24abfgsffo2l4tk26qx464zylumgejukfq2vead.onion/test.php)
+
 ### Leaked/Breached Databases (CLEARNET)
+
 - [All pages](https://ddosecrets.com/wiki/Special:AllPages)
 - [Search WikiLeaks](https://search.wikileaks.org/?query=)
 - [Cryptome.wikileaks.org](https://cryptome.wikileaks.org/?q=#results)
@@ -255,7 +312,9 @@
 - [breachdirectory.com/breaches](https://breachdirectory.com/breaches?lang=en)
 - [Leak - Lookup | Breaches](https://leak-lookup.com/breaches)
 - [Onion.Live](https://onion.live/?q=breached+data)
+
 ### Lectures, Talks, Presentations and Speeches
+
 - [Academicearth.org](https://academicearth.org/)
 - [Autodesk University](https://au.autodesk.com/)
 - [Course Notes](https://course-notes.org/)
@@ -271,10 +330,14 @@
 - [Talksat.withgoogle.com](https://talksat.withgoogle.com/)
 - [TED](https://www.ted.com/)
 - [The Great Courses®](https://www.thegreatcourses.com/)
+
 ### Matching E-mails to Social Media Profiles
+
 - [Find emails addresses and social profiles in seconds](https://www.orbitly.io/)
 - [GitHub - famavott/osint-scraper: Social Recon](https://github.com/famavott/osint-scraper)
+
 ### Missing People
+
 - [Childrescue.eu](https://www.childrescue.eu/)
 - [Welcome to the Doe Network](https://www.doenetwork.org/)
 - [Globalmissingkids.org](https://globalmissingkids.org/)
@@ -292,9 +355,13 @@
 - [Familylinks.icrc.org](https://familylinks.icrc.org/)
 - [Missingkids.co.za](https://www.missingkids.co.za/)
 - [MPB](https://www.missingpersons.police.uk/)
+
 ### Mozilla Firefox Osint/Sec extensions//verification
+
 - [RevEye Reverse Image Search – Get this Extension for 🦊 Firefox (en-US)](https://addons.mozilla.org/en-US/firefox/addon/reveye-ris)
+
 ### News Digest and Discovery Tools
+
 - [Aktuelle News-Charts](https://www.10000flies.de/)
 - [1stHeadlines-Breaking News](https://www.1stheadlines.com/)
 - [AllTop](https://alltop.com/)
@@ -347,7 +414,9 @@
 - [Yahoo! News](https://news.yahoo.com/)
 - [Yetigogo.com](https://yetigogo.com/)
 - [Prepare for Meetings](https://yougotthenews.com/)
+
 ### Newspapers and News Directories
+
 - [Newspapers & News Media](https://www.abyznewslinks.com/)
 - [AllYouCanRead](https://www.allyoucanread.com/)
 - [Newspaper Directory: DailyEarth](https://dailyearth.com/)
@@ -359,12 +428,16 @@
 - [Online Newspapers](https://www.onlinenewspapers.com/)
 - [PressReader](https://www.pressreader.com/)
 - [W3Newspapers](https://www.w3newspapers.com/)
+
 ### Non Profit / Charity INFO
+
 - [Charity Navigator](https://www.charitynavigator.org/)
 - [SOI Tax Stats - Annual Extract of Tax-Exempt Organization Financial Data | Internal Revenue Service](https://www.irs.gov/statistics/soi-tax-stats-annual-extract-of-tax-exempt-organization-financial-data)
 - [Exempt Organizations Business Master File Extract (EO BMF) | Internal Revenue Service](https://www.irs.gov/charities-non-profits/exempt-organizations-business-master-file-extract-eo-bmf)
 - [Nonprofit Explorer - ProPublica](https://projects.propublica.org/nonprofits)
+
 ### onion forums
+
 - [http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion/onions/](http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion/onions)
 - [DIR of Links for Search Engines, Catalogs, Forums, News, ETC](http://reycdxyc24gf7jrnwutzdn3smmweizedy7uojsa7ols6shttp/reycdxyc24gf7jrnwutzdn3smmweizedy7uojsa7ols6sflwu25ijoyd.onion/tags/flwu25ijoyd.onion/2019/11/14/onionlinks#Forums)
 - [$$$ DARK0DE - market, databases, etc](http://darkodemard3wjoe63ld6zebog73ncy77zb2iwjtdjam4xwvpjmjitid.onion/search/Database/all/1)
@@ -375,13 +448,17 @@
 - [Suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion](http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion/)
 - [http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion/search.php](http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion/search.php)
 - [8chan](http://4usoivrpy52lmc4mgn2h34cmfiltslesthr56yttv2pxudd3dapqciyd.onion/)
+
 ### Onion Links for checking breached/leaked data
+
 - [Search Instagram Users Leaked Password Database](http://breachdbsztfykg2fdaq2gnqnxfsbj5d35byz3yzj73hazydk4vq72qd.onion/)
 - [http://ddosxlvzzow7scc7egy75gpke54hgbg2frahxzaw6qq5osnzm7wistid.onion/wiki/Distributed_Denial_of_Secrets](http://ddosxlvzzow7scc7egy75gpke54hgbg2frahxzaw6qq5osnzm7wistid.onion/wiki/Distributed_Denial_of_Secrets)
 - [Instagram - Leaked Password Database (Limited)](http://breachdbsztfykg2fdaq2gnqnxfsbj5d35byz3yzj73hazydk4vq72qd.onion/LeakedPass)
 - [FreedomHQ](http://freedomzw5x5tzeit4jgc3gvic3bmecje53hwcoc3nnwe2c3gsukdfid.onion/databases?page=2)
 - [Trashchan public DB dump](http://trashbakket2sfmaqwmvv57dfnmacugvuhwxtxaehcma6ladugfe2cyd.onion/)
+
 ### Onion links/diurectories cont
+
 - [Rznvg5sjacavz5kpshrq4urm75xzruha6iiyuggidnioo5ztvwdfroyd.onion](http://rznvg5sjacavz5kpshrq4urm75xzruha6iiyuggidnioo5ztvwdfroyd.onion/)
 - [http://lnbpcgk4mem5vvvwilqsk7yb5i2bgtjphnvq37kajdycu56i5omt4cqd.onion/cat/7](http://lnbpcgk4mem5vvvwilqsk7yb5i2bgtjphnvq37kajdycu56i5omt4cqd.onion/cat/7)
 - [Jaz45aabn5vkemy4jkg4mi4syheisqn2wn2n4fsuitpccdackjwxplad.onion](http://jaz45aabn5vkemy4jkg4mi4syheisqn2wn2n4fsuitpccdackjwxplad.onion/)
@@ -402,25 +479,39 @@
 - [Russianvii3zs27lht5jvwuppli77k47567bbv5o3bsos4qxxbu67sid.onion](http://russianvii3zs27lht5jvwuppli77k47567bbv5o3bsos4qxxbu67sid.onion/)
 - [UnderDir](http://underdiriled6lvdfgiw4e5urfofuslnz7ewictzf76h4qb73fxbsxad.onion/)
 - [donionsixbjtiohce24abfgsffo2l4tk26qx464zylumgejukfq2vead.onion/onions.php](http://donionsixbjtiohce24abfgsffo2l4tk26qx464zylumgejukfq2vead.onion/onions.php)
+
 ### Onion Pastes/ Notes
+
 - [Cryptornetzamrhytcxhr3ekth6vom4ewns7pqxtywfvn5eezxgcqgqd.onion](http://cryptornetzamrhytcxhr3ekth6vom4ewns7pqxtywfvn5eezxgcqgqd.onion/)
 - [Black Cloud - Image Hosting](http://bcloudwenjxgcxjh6uheyt72a5isimzgg4kv5u74jb2s22y3hzpwh6id.onion/)
 - [BlackHost](https://blackhost7pws76u6vohksdahnm6adf7riukgcmahrwt43wv2drvyxid.onion/?id=pst)
+
 ### Opt Out ADS/Data
+
 - [LexisNexis Information Suppression Request](https://optout.lexisnexis.com/)
 - [DMAchoice is a mail preference service offered by the ANA.](https://www.dmachoice.org/)
 - [Data Privacy and Ethics](https://www.acxiom.com/data-privacy-ethics)
 - [YourAdChoices.com | Welcome to YourAdChoices.com](https://youradchoices.com/)
 - [Home - NAI: Network Advertising Initiative](https://www.networkadvertising.org/)
+
 ### OPT OUT data/marketing/advertising etc
+
 - [Privacy - About the DataChevron RightArrow RightPlayPlus](https://www.acxiom.com/about-us/privacy/atd)
+
 ### Opt-Out First Steps
+
 - [Just Delete Me](https://backgroundchecks.org/justdeleteme)
+
 ### OSINT/Investigating/Forensic Guides/Note-taking
+
 - [HUNCHLY- OSINT Tools: Capturing Evidence & Notetaking - Forensic Notes](https://www.forensicnotes.com/osint-tools#why_fn)
+
 ### Other (opt-out)
+
 - [My.telegram.org](https://my.telegram.org/)
+
 ### Patent Research
+
 - [Common Citation Document (CCD)](https://ccd.fiveipoffices.org/CCD-2.1.6)
 - [LIBRIS - Utökad sökning](https://libris.kb.se/form_extended.jsp?f=imb&language=)
 - [FPO IP Research & Communities](https://www.freepatentsonline.com/search.html)
@@ -447,18 +538,26 @@
 - [Intellectual Property Office](https://www.ipo.gov.uk/p-ipsum.htm)
 - [J-platpat.inpit.go.jp](https://www.j-platpat.inpit.go.jp/)
 - [Wipo.int](https://www.wipo.int/)
+
 ### People
+
 - [Real-Time Public Records Search, SSN Search & Background Checks](https://www.usatrace.com/)
 - [melissa](https://melissa.com/)
+
 ### Photo Forensics
+
 - [Exifinfo.org](https://exifinfo.org/)
 - [ExifCleaner - FREE Desktop app to clean image metadata](https://exifcleaner.com/)
 - [https://www.freemaptools.com/](https://www.freemaptools.com/)
 - [Image info online](http://linkstore.ru/exif)
+
 ### Privacy
+
 - [privacytools.io](https://www.privacytools.io/)
 - [GRC&nbsp;|&nbsp;Security Now! Episode Archive](https://www.grc.com/securitynow.htm)
+
 ### Researching Countries
+
 - [BBC NEWS](https://news.bbc.co.uk/2/hi/country_profiles/default.stm)
 - [Country Studies](https://countrystudies.us/)
 - [Country Profiles | IMUNA | NHSMUN | Model UN](https://www.imuna.org/resources/country-profiles)
@@ -466,7 +565,9 @@
 - [Guide to Law Online: Nations](https://www.loc.gov/law/help/guide/nations.php)
 - [Nations Online Project](https://www.nationsonline.org/)
 - [Search Country Profiles](https://unstats.un.org/unsd/dnss/cp/searchcp.aspx)
+
 ### Researching Leaks
+
 - [Balkanleaks.eu](https://balkanleaks.eu/)
 - [Cryptome](https://cryptome.org/)
 - [The Office of Inadequate Security: DataBreaches.net](https://www.databreaches.net/)
@@ -476,13 +577,19 @@
 - [Fetching title...](https://search.wikileaks.org/plusd)
 - [Fetching title...](https://search.wikileaks.org/advanced)
 - [WikiSpooks Home](https://wikispooks.com/)
+
 ### Reverse Analytics Google
+
 - [domainIQ](https://www.domainiq.com/reverse_analytics)
 - [Reverse Analytics Search](https://hackertarget.com/reverse-analytics-search)
+
 ### Russian Forums / links CompanyInfo
+
 - [http://www.ved.gov.ru/eng/companies/](http://www.ved.gov.ru/eng/companies)
 - [PEP: PUBLIC DATABASE OF DOMESTIC POLITICALLY EXPOSED PERSONS OF RUSSIA AND BELARUS](https://rupep.org/en)
+
 ### Russian Phone numberlookup
+
 - [English.spravkaru.net](http://english.spravkaru.net/)
 - [Russia Reverse Lookup 7, Phone Number Search](https://www.searchyellowdirectory.com/reverse-phone/7)
 - [CIS White Pages: People Search for Free in Russia, Ukraine, Belarus, Kazahstan, Latvia, Moldova](http://english.spravkaru.net/?nj=)

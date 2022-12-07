@@ -2,13 +2,13 @@ You can control workflow-specific settings in the **Settings** header, just abov
 
 ![Workflow settings](https://pipedream.com/docs/assets/img/workflow-settings.f3a1c0b6.png)
 
--   [Errors](https://pipedream.com/docs/#errors)
--   [Execution Controls](https://pipedream.com/docs/#execution-controls)
-    -   [Execution Timeout Limit](https://pipedream.com/docs/#execution-timeout-limit)
-    -   [Memory](https://pipedream.com/docs/#memory)
-    -   [Concurrency and Throttling](https://pipedream.com/docs/#concurrency-and-throttling)
--   [Attachments](https://pipedream.com/docs/#attachments)
-    -   [Limits](https://pipedream.com/docs/#limits)
+- [Errors](https://pipedream.com/docs/#errors)
+- [Execution Controls](https://pipedream.com/docs/#execution-controls)
+  - [Execution Timeout Limit](https://pipedream.com/docs/#execution-timeout-limit)
+  - [Memory](https://pipedream.com/docs/#memory)
+  - [Concurrency and Throttling](https://pipedream.com/docs/#concurrency-and-throttling)
+- [Attachments](https://pipedream.com/docs/#attachments)
+  - [Limits](https://pipedream.com/docs/#limits)
 
 ## [#](https://pipedream.com/docs/#errors) Errors
 

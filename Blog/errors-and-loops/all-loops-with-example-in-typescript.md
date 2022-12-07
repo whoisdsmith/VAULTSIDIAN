@@ -1,6 +1,6 @@
 # All Loops with Example in TypeScript - LearnCodeWeb
 
-[ ![All loops with example in TypeScript][image-1] ][1]
+[All loops with example in TypeScript][image-1] ][1]
 
 ----
 
@@ -112,7 +112,7 @@ It will run following [JavaScript][3] code on composing.
 
 ````console.log(``"Entered do…while"``);``
 
-``} ``while`` `(n > 5);`
+``}``while`` `(n > 5);`
 
 The above code will produce the following output.
 
@@ -416,13 +416,11 @@ while(true) {
 
 ----
 
-[1]:	https://learncodeweb.com/typescript/all-loops-with-example-in-typescript/
-[2]:	https://learncodeweb.com/learn/typescript/
-[3]:	https://learncodeweb.com/learn/javascript/
+[1]: https://learncodeweb.com/typescript/all-loops-with-example-in-typescript/
+[2]: https://learncodeweb.com/learn/typescript/
 
-[image-1]:	https://learncodeweb.com/wp-content/uploads/2021/02/All-loops-with-example-in-TypeScript.png
-[image-2]:	https://learncodeweb.com/wp-content/uploads/2021/02/0.png
-[image-3]:	https://learncodeweb.com/wp-content/uploads/2021/02/01.png
-[image-4]:	https://learncodeweb.com/wp-content/uploads/2021/02/02.png
+[image-1]: https://learncodeweb.com/wp-content/uploads/2021/02/All-loops-with-example-in-TypeScript.png
+[image-2]: https://learncodeweb.com/wp-content/uploads/2021/02/0.png
+[image-3]: https://learncodeweb.com/wp-content/uploads/2021/02/01.png
 
-#article #loop
+# article #loop

@@ -28,86 +28,86 @@ div[src*="#"].internal-embed .markdown-embed-content>.markdown-preview-view>div.
 ```css
 /* change the color of note title in the embed */
 .markdown-embed-title {
-	color: red; /*change color*/
-	display: none; /*remove*/
+ color: red; /*change color*/
+ display: none; /*remove*/
  }
- ``` 
+ ```
 
 ## TRANSCLUSION TWEAKS
 
 ```css
 .markdown-embed-title {
-	font-family: sans-serif;
-	font-size: 10px;
-	color: var(--text-accent); /*rgb(150,200,255);*/
-	line-height: 10px;
-	width: 100%;
-	text-align: left;
-	font-weight: 100;
-	margin: -4px 0px;
+ font-family: sans-serif;
+ font-size: 10px;
+ color: var(--text-accent); /*rgb(150,200,255);*/
+ line-height: 10px;
+ width: 100%;
+ text-align: left;
+ font-weight: 100;
+ margin: -4px 0px;
 }
 
 .markdown-preview-view .markdown-embed {
-	background-color: var(--background-primary);
-	border-radius: 0px;
-	border: 0;
-	border-left: 1px solid #dcdcdc; /* was var(--text-selection) */
-	margin: 0px -20px;
+ background-color: var(--background-primary);
+ border-radius: 0px;
+ border: 0;
+ border-left: 1px solid #dcdcdc; /* was var(--text-selection) */
+ margin: 0px -20px;
 }
 .markdown-embed {
-	display: block;
-	top: 0px;
+ display: block;
+ top: 0px;
 }
 .markdown-embed > .markdown-embed-content {
-	display: inline;
-	max-height: 100%;
-	max-width: 100%;
-	margin: -25px 0px -15px 0px;
-	padding: 0px 0px 5px 0px;
+ display: inline;
+ max-height: 100%;
+ max-width: 100%;
+ margin: -25px 0px -15px 0px;
+ padding: 0px 0px 5px 0px;
 }
 .markdown-embed-content > * {
-	display: block;
-	max-height: 100%;
-	max-width: 100%;
-	margin: 10px 0px 5px 0px;
+ display: block;
+ max-height: 100%;
+ max-width: 100%;
+ margin: 10px 0px 5px 0px;
 }
 .markdown-embed-link {
-	top: -3px;
-	left: -20px;
-	color: #484848; /* was var(--accent-strong) */
-	cursor: pointer;
-	position: absolute;
+ top: -3px;
+ left: -20px;
+ color: #484848; /* was var(--accent-strong) */
+ cursor: pointer;
+ position: absolute;
 }
 svg.link {
-	width: 12px;
-	height: 12px;
+ width: 12px;
+ height: 12px;
 }
 .file-embed-link {
-	top: 10px;
-	left: -10px;
-	color: var(--accent-strong);
-	cursor: pointer;
-	position: relative;
+ top: 10px;
+ left: -10px;
+ color: var(--accent-strong);
+ cursor: pointer;
+ position: relative;
 }
 .internal-embed, .internal-embed > .markdown-embed > .markdown-embed-content {
-	display: block;
-	max-height: 100%;
-	max-width: 100%;
-	left: 0px;
+ display: block;
+ max-height: 100%;
+ max-width: 100%;
+ left: 0px;
 }
 .markdown-preview-view .file-embed {
-	background-color: var(--background-primary);
-	border-radius: 4px;
-	border: 2px solid var(--text-selection);
-	padding: 5px 20px 5px 20px;
-	margin: 10px 0px 10px 0px;
+ background-color: var(--background-primary);
+ border-radius: 4px;
+ border: 2px solid var(--text-selection);
+ padding: 5px 20px 5px 20px;
+ margin: 10px 0px 10px 0px;
 }
 .file-embed-title {
-	font-size: 12px;
-	height: 40px;
-	text-overflow: ellipsis;
-	overflow: hidden;
-	white-space: nowrap;
+ font-size: 12px;
+ height: 40px;
+ text-overflow: ellipsis;
+ overflow: hidden;
+ white-space: nowrap;
 }
 ```
 
@@ -435,7 +435,7 @@ Optional
 }
 ```
 
-https://discord.com/channels/686053708261228577/702656734631821413/773404255189073971
+<https://discord.com/channels/686053708261228577/702656734631821413/773404255189073971>
 
 ``.internal-embed` divs have a `src` attribute which has the link text in it (so if you're linking to a block ref in a page called note, it would be `src="note#^blockref"`.
 
@@ -457,7 +457,7 @@ you can use spaces. For example:
 }
 ```
 
-## To Get Just 1 Embed Coloured, in This Example the "Lorum Ipsum test" Embed is Yellow:
+## To Get Just 1 Embed Coloured, in This Example the "Lorum Ipsum test" Embed is Yellow
 
 ```css
 .internal-embed:not([src*="#"]):not([src*="^"]) {
@@ -469,7 +469,7 @@ you can use spaces. For example:
 }
 ```
 
-## Reduce Gap Between Adjacent Block Embeds:
+## Reduce Gap Between Adjacent Block Embeds
 
 ```css
 /* Reduce gap between adjacent block embed */

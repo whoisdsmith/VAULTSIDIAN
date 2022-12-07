@@ -27,6 +27,7 @@ banner_y: 0.07667
 ## Skills
 
 - 1
+
 ---
 
 ## Learning
@@ -50,22 +51,28 @@ banner_y: 0.07667
 ## Academic
 
 - 1
+
 ---
 
 # **2022 Growth**
 
 - ### How do you want to feel in 2022?
-    - #### 1
+  - #### 1
+
 - ### What does this year mean to you?
-    - #### 1
+  - #### 1
+
 - ### What are you worried about?
-    - #### 1
+  - #### 1
+
 - ### What do you want to learn more about or develop?
-    - #### 1
+  - #### 1
+
 - ### What are you committed to in 2022?
-    - #### 1
+  - #### 1
+
 - ### What does this day, next year look like?
-    - #### 1
+  - #### 1
 
 ---
 ---

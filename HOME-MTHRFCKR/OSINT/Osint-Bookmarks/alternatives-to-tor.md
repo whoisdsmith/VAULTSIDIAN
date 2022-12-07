@@ -1,4 +1,5 @@
 ## Alternatives to Tor
+
 - [The Commotion Wireless Project](https://commotionwireless.net/)
 - [Freenet](https://freenetproject.org/index.html)
 - [GNUnet](https://gnunet.org/)

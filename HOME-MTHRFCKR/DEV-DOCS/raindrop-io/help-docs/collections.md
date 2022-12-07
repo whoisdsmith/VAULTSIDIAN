@@ -3,20 +3,20 @@
 ---
 
 ## Introduction
+
 Collections are essentially just folders.
 Whether you’re planning a presentation, preparing for an event or creating a website, create a collection so all the important items are saved in one central place.
 
 ![](using/collections/collections.jpg)Each collection have a unique icon selected from thousands [searchable icons library](#change-icon).
 You can choose [v[view modes](bookmarks.md#appearance)o fit your needs better and make your content shine: list, grid, headlines or masonry.
 
-Also, you can choose to [h[hide labels](bookmarks.md#appearance)because sometimes images speak louder than words), 
+Also, you can choose to [h[hide labels](bookmarks.md#appearance)because sometimes images speak louder than words),
 [d[drag to reorder](bookmarks.md#sort)our items, or [s[sort your items](bookmarks.md#sort)y date, title, and kind.
 
 Collections and items are **private by default**.
 It means only you can access them.
 
 Make it [public](#public-collections) or [shared](#shared-collections) to enable access for other people.
-
 
 <!------------------------------>
 <details><summary>
@@ -33,7 +33,6 @@ You will notice a special "user" icon next to the name of a collection:
 Learn more about sharing and collaboration [h[here](collaboration.md)
 </details>
 
-
 <!------------------------------>
 <details><summary>
 
@@ -49,7 +48,6 @@ You will notice a special "globe" icon next to the name of a collection:
 Learn more about public collections [h[here](public-page.md)
 </details>
 
-
 <!------------------------------>
 <details><summary>
 
@@ -62,7 +60,6 @@ The `Unsorted` is your default collection in Raindrop.io. When you add an item, 
 This collection is useful to temporarily put new items in it and sort them later.
 
 </details>
-
 
 <!------------------------------>
 <details><summary>
@@ -84,11 +81,10 @@ Nested collections are only available in [P[Pro plan](premium-features.md)::
 You can collapse sub-collections under their "parent" to temporarily hide them from view.
 This helps to focus on the right collections at the right time, without getting distracted by everything else.
 
-Nested collections are also a great way to share multiple collections at once. 
+Nested collections are also a great way to share multiple collections at once.
 When you share a "parent" all of it sub-collections become accessible by collaborators automatically.
 
 </details>
-
 
 <!------------------------------>
 <details><summary>
@@ -103,7 +99,6 @@ You can delete an item permanently by clicking the trash icon (or by right-click
 
 </details>
 
-
 <!------------------------------>
 <details><summary>
 
@@ -111,7 +106,7 @@ You can delete an item permanently by clicking the trash icon (or by right-click
 
 </summary>
 
-Groups help you split your collections list into smaller chunks. 
+Groups help you split your collections list into smaller chunks.
 For example, you might create "Work" and "Home" groups and then organize various collections underneath each one.
 
 <p><img src={require('./groups.png').default} style={{maxHeight:475}} /></p>
@@ -120,16 +115,16 @@ Learn more about groups [here](#create-rename-or-remove-group).
 
 </details>
 
-
 <!------------------------------>
 ## Manage
+
 <details><summary>
 
 ### Create a collection
 
 </summary>
 
-When you log in to Raindrop.io and you’ll see the dashboard.   
+When you log in to Raindrop.io and you’ll see the dashboard.
 There’s a button `+` located in left side of a screen, click on it and a new collection field will appear right above currently active collection.
 
 You can also right-click on `My collections` or the name of a group and choose `Create collection`
@@ -144,7 +139,6 @@ You can convert a nested collection into a top-level collection by dragging it o
 
 </details>
 
-
 <!------------------------------>
 <details><summary>
 
@@ -153,22 +147,23 @@ You can convert a nested collection into a top-level collection by dragging it o
 </summary>
 
 1. Just drag a collection to reorder
+
 <p><img src={require('./drag.png').default} style={{maxHeight:340}} /></p>
 
 2. Drop it in desired location or move over another collection to make it parent
+
 <p><img src={require('./move.png').default} style={{maxHeight:340}} /></p>
 
 ---
 
 You can even sort all collections at once by name (ascending):
+
 1. Mouse over "My collections" label in sidebar and click "..." button
 2. In context menu that appear click "Sort all collections by name"
 
 <img src={require('./groups-context-menu.png').default} style={{maxHeight:472}} />
 
-
 </details>
-
 
 <!------------------------------>
 <details><summary>
@@ -191,7 +186,6 @@ So please don't send requests to add any new icons to our email.
 
 </details>
 
-
 <!------------------------------>
 <details><summary>
 
@@ -205,7 +199,6 @@ Right-click on the collection and choose `Rename` to give a collection a new nam
 
 </details>
 
-
 <!------------------------------>
 <details><summary>
 
@@ -214,6 +207,7 @@ Right-click on the collection and choose `Rename` to give a collection a new nam
 </summary>
 
 #### Remove single collection
+
 Right-click on the collection and choose `Remove` to remove a collection from your library.
 Deleting a collection does not delete the items in the collection. Items will be moved to `Trash`.
 
@@ -224,6 +218,7 @@ Deleting a collection will also delete its subcollections (but not the items in 
 ---
 
 #### Remove multiple collections
+
 1. Right click on a collection
 2. Then click "Select"
 3. Keep selecting other collections you want to merge
@@ -233,6 +228,7 @@ Deleting a collection will also delete its subcollections (but not the items in 
 ---
 
 #### Remove all empty collections {#remove-all-empty}
+
 1. Mouse over `My collections` label and click `...` next to it:
 
 <img src={require('./groups-context-menu.png').default} style={{maxHeight:472}} />
@@ -240,7 +236,6 @@ Deleting a collection will also delete its subcollections (but not the items in 
 2. Click "Remove all empty collections"
 
 </details>
-
 
 <!------------------------------>
 <details><summary>
@@ -264,7 +259,6 @@ Sharing and collaboration settings will also be merged.
 
 </details>
 
-
 <!------------------------------>
 <details><summary>
 
@@ -277,7 +271,6 @@ Mouse over `My collections` label and click `...` next to it:
 <img src={require('./groups-context-menu.png').default} style={{maxHeight:472}} />
 
 </details>
-
 
 <!------------------------------>
 <details><summary>

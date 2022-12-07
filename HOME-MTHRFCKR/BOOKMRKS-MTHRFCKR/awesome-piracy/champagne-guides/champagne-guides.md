@@ -3,12 +3,11 @@
 ---
 
 %% Begin Waypoint %%
+
 - **[champagne-guides](./champagne-guides.md)**
-	- [champagne-guides](./champagne-guides.md)
+  - [champagne-guides](./champagne-guides.md)
 
 %% End Waypoint %%
-
-
 
 ![CHAMPAGNE](https://cdn.discordapp.com/attachments/972766815224733747/996814960573284452/CHAMPAGNE.png)
 
@@ -43,4 +42,4 @@ For our Piracy Wiki, go here: **[CHAMPAGNE PIRACY WIKI](https://rentry.org/champ
 
 [Cloud Storage Providers](Cloud%20Storage%20Providers.md)
 
-[How To Proxy 'any' Website Using Cloudflare Workers](How%20To%20Proxy%20'any'%20Website%20Using%20Cloudflare%20Workers.md) 
+[How To Proxy 'any' Website Using Cloudflare Workers](How%20To%20Proxy%20'any'%20Website%20Using%20Cloudflare%20Workers.md)

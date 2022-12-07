@@ -24,4 +24,5 @@
 - [A react component to display event in a vertical timeline format](https://reactjsexample.com/a-react-component-to-display-event-in-a-vertical-timeline-format/)
 - [Vertical Timeline in CSS and JavaScript](https://codyhouse.co/gem/vertical-timeline/)
 - [Building a Vertical Timeline With CSS and a Touch of JavaScript](https://webdesign.tutsplus.com/tutorials/building-a-vertical-timeline-with-css-and-a-touch-of-javascript--cms-26528)
+
 ---

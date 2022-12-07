@@ -20,6 +20,9 @@ git log --author="Morgan" \
 The --no-index flag allows you to diff between files that aren't related to a Git repo:
 
 #### does not work, returns status code 0
+
 `git diff README.md ../other-repo/README.md`
+
 #### works, returns status code 1 and the diff
+
 `git diff --no-index README.md ../other-repo/README.md`

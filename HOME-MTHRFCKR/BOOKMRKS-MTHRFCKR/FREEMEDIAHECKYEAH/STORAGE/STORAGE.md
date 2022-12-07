@@ -56,24 +56,24 @@
 
 ### Google Piracy Discussion Groups
 
-* https://techy-transistor.notion.site/Team-drives-ab7ebffc1e5040b5b5362e9d70fca4d5
-* https://groups.google.com/g/hkteamdrive1group
-* https://groups.google.com/g/torrent-drive
-* https://groups.google.com/forum/#!forum/sammytorrents
-* https://groups.google.com/forum/embed/?place=forum/seedboxsl
-* https://groups.google.com/g/team-drive99
-* https://groups.google.com/g/roshanstgbot
-* https://groups.google.com/g/zanime
-* https://groups.google.com/g/rdrivelinks
+* <https://techy-transistor.notion.site/Team-drives-ab7ebffc1e5040b5b5362e9d70fca4d5>
+* <https://groups.google.com/g/hkteamdrive1group>
+* <https://groups.google.com/g/torrent-drive>
+* <https://groups.google.com/forum/#!forum/sammytorrents>
+* <https://groups.google.com/forum/embed/?place=forum/seedboxsl>
+* <https://groups.google.com/g/team-drive99>
+* <https://groups.google.com/g/roshanstgbot>
+* <https://groups.google.com/g/zanime>
+* <https://groups.google.com/g/rdrivelinks>
 
 ***
 
 ### TeamDrive Generators
 
 * Note that these can and do get deleted
-* https://td.msgsuite.workers.dev/
-* https://t.me/MSGuite_SD_Creator_Bot + [Telegram Chat](https://t.me/msgsuitechat)
-* https://bdi-generator.hashhackers.com/ (Google Drive Index Code Generator)
+* <https://td.msgsuite.workers.dev/>
+* <https://t.me/MSGuite_SD_Creator_Bot> + [Telegram Chat](https://t.me/msgsuitechat)
+* <https://bdi-generator.hashhackers.com/> (Google Drive Index Code Generator)
 
 ***
 
@@ -82,30 +82,30 @@
 * Note these also activate Office 365
 * ⭐ **[https://a1_free365.a1od.workers.dev/](https://a1_free365.a1od.workers.dev/)**
 * [free365](https://github.com/KusakabeSi/free365) - Index
-* https://xkx.me/
-* https://a1.zxd.workers.dev/
+* <https://xkx.me/>
+* <https://a1.zxd.workers.dev/>
 * [https://a1_sc.a1od.workers.dev/](https://a1_sc.a1od.workers.dev/)
-* https://azzzzzz.lx.workers.dev/
-* http://free.stulive.com/
-* https://a1.lx.workers.dev/
-* https://teams.xkx.me/
-* https://od.wasonliu.workers.dev/
-* https://onedrive.gdrive.vip/
-* https://a1p.xkx.me/
-* https://tb.mygindex.workers.dev/
+* <https://azzzzzz.lx.workers.dev/>
+* <http://free.stulive.com/>
+* <https://a1.lx.workers.dev/>
+* <https://teams.xkx.me/>
+* <https://od.wasonliu.workers.dev/>
+* <https://onedrive.gdrive.vip/>
+* <https://a1p.xkx.me/>
+* <https://tb.mygindex.workers.dev/>
 * [https://a1_sc.a1od.workers.dev/#form](https://a1_sc.a1od.workers.dev/#form)
-* https://free.kits.workers.dev/#mdui-dialog
-* https://freems.1ove.club/ceo/
-* https://ms.jim9527.workers.dev/#form
+* <https://free.kits.workers.dev/#mdui-dialog>
+* <https://freems.1ove.club/ceo/>
+* <https://ms.jim9527.workers.dev/#form>
 * [90 Day Trial](https://developer.microsoft.com/en-us/microsoft-365/dev-program)
 
 ***
 
 ### Cloudstream Forks
 
-* https://github.com/Jacekun/csrelease/releases
-* https://github.com/Stormunblessed/CloudStream-3/releases
-* https://github.com/recloudstream/cloudstream
+* <https://github.com/Jacekun/csrelease/releases>
+* <https://github.com/Stormunblessed/CloudStream-3/releases>
+* <https://github.com/recloudstream/cloudstream>
 
 ***
 
@@ -149,50 +149,50 @@
 
 ### Telegram Anime Downloads
 
-* https://t.me/Anime_Ocean_Backup
-* https://t.me/Anime_Gallery
-* https://t.me/anidlws
-* https://t.me/AnimeCrunch
-* https://t.me/Anime_Library
-* https://t.me/for_otaku
-* https://t.me/Any_Animebot
-* http://t.me/AUTOxANIME/2
-* https://t.me/AutoAnimeBot
-* https://t.me/AnimeGuardian_bot
-* https://t.me/Hd_Anime_Series
-* https://t.me/joinchat/AAAAAFSIbbpvGcBgRC6IKw
-* https://t.me/animeze
-* https://t.me/AnimeIndexOfficial
-* https://t.me/myanimetvbot
-* https://t.me/otakulounge
-* https://t.me/animeinc
-* https://t.me/AnimeTeleNS
-* https://t.me/anime_a_to_z
-* https://t.me/Anime_Flix_Pro
-* https://t.me/Animereq45
-* https://t.me/Anime_1080p_720p_480p
-* https://t.me/Animeworld001
-* https://t.me/soulreaperzone
-* https://t.me/AnimeKingdomX
-* https://t.me/Kingdomofanimeseries
-* https://t.me/AnimeLibrary_Movies
-* https://t.me/animemovies
-* https://t.me/Ongoing_animes
+* <https://t.me/Anime_Ocean_Backup>
+* <https://t.me/Anime_Gallery>
+* <https://t.me/anidlws>
+* <https://t.me/AnimeCrunch>
+* <https://t.me/Anime_Library>
+* <https://t.me/for_otaku>
+* <https://t.me/Any_Animebot>
+* <http://t.me/AUTOxANIME/2>
+* <https://t.me/AutoAnimeBot>
+* <https://t.me/AnimeGuardian_bot>
+* <https://t.me/Hd_Anime_Series>
+* <https://t.me/joinchat/AAAAAFSIbbpvGcBgRC6IKw>
+* <https://t.me/animeze>
+* <https://t.me/AnimeIndexOfficial>
+* <https://t.me/myanimetvbot>
+* <https://t.me/otakulounge>
+* <https://t.me/animeinc>
+* <https://t.me/AnimeTeleNS>
+* <https://t.me/anime_a_to_z>
+* <https://t.me/Anime_Flix_Pro>
+* <https://t.me/Animereq45>
+* <https://t.me/Anime_1080p_720p_480p>
+* <https://t.me/Animeworld001>
+* <https://t.me/soulreaperzone>
+* <https://t.me/AnimeKingdomX>
+* <https://t.me/Kingdomofanimeseries>
+* <https://t.me/AnimeLibrary_Movies>
+* <https://t.me/animemovies>
+* <https://t.me/Ongoing_animes>
 
 ***
 
 ### Telegram Audiobook Downloads
 
-* https://t.me/BOOK_HOUSE_INTERNATIONAL
-* https://t.me/AudiobooksArchive
-* https://t.me/Audiobooks_Collection
-* https://t.me/TheBestAudible
-* https://t.me/audiobookjunkie
-* https://t.me/audiobooks_English
-* https://t.me/books_in_english_free
-* https://t.me/Ebooks_AudioBooks
-* https://t.me/online_audiobooks
-* https://t.me/Audoroom
+* <https://t.me/BOOK_HOUSE_INTERNATIONAL>
+* <https://t.me/AudiobooksArchive>
+* <https://t.me/Audiobooks_Collection>
+* <https://t.me/TheBestAudible>
+* <https://t.me/audiobookjunkie>
+* <https://t.me/audiobooks_English>
+* <https://t.me/books_in_english_free>
+* <https://t.me/Ebooks_AudioBooks>
+* <https://t.me/online_audiobooks>
+* <https://t.me/Audoroom>
 
 ***
 
@@ -261,11 +261,11 @@
 
 ### Telegram File Tools
 
-* ⭐ **[DrFileStreamBot](https://t.me/DrFileStreamBot)**, [UploadBots](https://t.me/UploadBots), [File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot), [Uploadgram](https://uploadgram.me/) / [Bot](https://t.me/uploadgrammebot), [LinkToFileTGBot](https://t.me/LinkToFileTGBot, [TelegramCloud](https://github.com/iw4p/telegram-cloud), [UploadURL](https://t.me/UploadsRobot, [UploadBot](https://t.me/uploadbot) or [UploadDxbot](https://t.me/UploadDxbot) - Upload Files to Telegram
+* ⭐ **[DrFileStreamBot](https://t.me/DrFileStreamBot)**, [UploadBots](https://t.me/UploadBots), [File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot), [Uploadgram](https://uploadgram.me/) / [Bot](https://t.me/uploadgrammebot), [LinkToFileTGBot](<https://t.me/LinkToFileTGBot>, [TelegramCloud](https://github.com/iw4p/telegram-cloud), [UploadURL](<https://t.me/UploadsRobot>, [UploadBot](https://t.me/uploadbot) or [UploadDxbot](https://t.me/UploadDxbot) - Upload Files to Telegram
 * [GdriveXbot](https://t.me/GdriveXbot), [google-drive-telegram-bot](https://github.com/viperadnan-git/), [HK_upload_bot](https://t.me/HK_driveupload_bot), [gdrive_upload_bot](https://t.me/gdrive_upload_bot), [Python Aria Mirror Bot](https://github.com/lzzy12/python-aria-mirror-bot), [driveuploadbot](https://t.me/driveuploadbot) or [gdriveupme_bot](https://t.me/gdriveupme_bot) - Google Drive Telegram upload bots
 * [Google Drive Bot](https://t.me/Gdriveit_bot) - Google Drive Client in Telegram
 * [SearchX](https://github.com/iamLiquidX/SearchX) - Telegram GDrive Search Bot
-* [MEGA Uploader X](https://t.me/MegaUploadXbot) or [Mega.nz-Bot](https://github.com/Itz-fork/Mega.nz-Bot) - Remote Mega File Upload Bot #MEGA 
+* [MEGA Uploader X](https://t.me/MegaUploadXbot) or [Mega.nz-Bot](https://github.com/Itz-fork/Mega.nz-Bot) - Remote Mega File Upload Bot #MEGA
 * [OneDrive X](https://t.me/onedrivexbot) - Remote OneDrive File Upload Bot
 * [Teledrive](https://github.com/mgilangjanuar/teledrive) - Telegram File Storage
 * [Uploader x Bot](https://t.me/uploader_x_bot ) - Telegram Video Upload Bot
@@ -279,31 +279,31 @@
 
 ### Telegram eBook Download
 
-* https://t.me/BOOK_HOUSE_INTERNATIONAL
-* https://t.me/Ebooks_Encyclopedia27
-* https://t.me/Books_worldd
-* https://t.me/Ebooksenglish
-* https://t.me/free_ebooks_pdfs
-* https://t.me/English_Hindi_Novels_Magazine
-* https://t.me/BooksThief
-* https://t.me/iBooks_Bot
-* https://t.me/booksmania
-* https://t.me/livresdomainepublic
-* https://t.me/bookdownbot
-* https://t.me/ebooksdlbot
-* https://t.me/libsan_bot
-* https://t.me/alejandriak
-* https://t.me/yourlibraries
-* https://t.me/TheEbookStop
-* https://t.me/bookclub7
-* https://t.me/BookCrush
-* https://t.me/bookhome3
-* https://t.me/BooksStreet
-* https://t.me/BookWizardTheNewest
-* https://t.me/Dao_Qigong_Taiji_TCM_ebooks
-* https://t.me/lib_of_dos_old_vk
-* https://t.me/LibrariesofTelegram
-* https://t.me/libraryofdos
+* <https://t.me/BOOK_HOUSE_INTERNATIONAL>
+* <https://t.me/Ebooks_Encyclopedia27>
+* <https://t.me/Books_worldd>
+* <https://t.me/Ebooksenglish>
+* <https://t.me/free_ebooks_pdfs>
+* <https://t.me/English_Hindi_Novels_Magazine>
+* <https://t.me/BooksThief>
+* <https://t.me/iBooks_Bot>
+* <https://t.me/booksmania>
+* <https://t.me/livresdomainepublic>
+* <https://t.me/bookdownbot>
+* <https://t.me/ebooksdlbot>
+* <https://t.me/libsan_bot>
+* <https://t.me/alejandriak>
+* <https://t.me/yourlibraries>
+* <https://t.me/TheEbookStop>
+* <https://t.me/bookclub7>
+* <https://t.me/BookCrush>
+* <https://t.me/bookhome3>
+* <https://t.me/BooksStreet>
+* <https://t.me/BookWizardTheNewest>
+* <https://t.me/Dao_Qigong_Taiji_TCM_ebooks>
+* <https://t.me/lib_of_dos_old_vk>
+* <https://t.me/LibrariesofTelegram>
+* <https://t.me/libraryofdos>
 * [More Telegram eBook Channels](https://duckduckgo.com/?q=site%3At.me+books&ia=web)
 
 ***
@@ -388,7 +388,6 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 [Piracy](https://www.reddit.com/user/nbatman/m/piracy/) / [2](https://www.reddit.com/user/rekuloustoad/m/the_piracy_feed/) / [3](https://www.reddit.com/user/nanomuto/m/piracyhub/) / [4](https://www.reddit.com/user/goretsky/m/piracy_counterfeit_goods/), [Random](https://www.reddit.com/user/nbatman/m/random/), [Weird YouTube](https://www.reddit.com/user/jarod47/m/wierdpartofyoutube/), [Streaming](https://www.reddit.com/user/nbatman/m/streaming/) / [2](https://www.reddit.com/user/asmailes/m/fullmoviesandtv/), [Cord Free TV](https://www.reddit.com/user/efidol/m/cordfreetv/), [Piracy Leaks](https://www.reddit.com/user/nbatman/m/leaks/), [News](https://www.reddit.com/user/nbatman/m/news/), [Tech](https://old.reddit.com/user/goretsky/m/win_itpro/), [Left](https://www.reddit.com/user/nbatman/m/left/) / [2](https://www.reddit.com/user/nbatman/m/left_2/), [Conspiracy](https://www.reddit.com/user/nbatman/m/conspiracy/), [Aliens](https://www.reddit.com/user/nbatman/m/aliens/), [Paranormal](https://www.reddit.com/user/nbatman/m/paranormal/), [Metaphysics](https://www.reddit.com/user/nbatman/m/metaphysics/), [Countries](https://www.reddit.com/user/sneaky5erpent/m/countries/) / [2](https://www.reddit.com/user/sneaky5erpent/m/countries2/), [International AskARedditor](https://www.reddit.com/user/sneaky5erpent/m/ask_people_nationality/), [Text Only](https://www.reddit.com/user/aokaga/m/stories)
 
 ***
-
 
 ## Email
 
@@ -591,25 +590,25 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 
 ### NetU Hosts
 
-* https://123movies.dance/
-* https://new123movies.la/
-* https://www2.online123movies.live/
-* https://doomovies.ga/
-* https://cinehindi.com/
-* https://parkslopecannabis.shop/
-* https://123movies.gdn/
-* https://www.movi.pk/
-* https://fffmovies.wtf/
-* https://tunemovie.com/
-* https://wwv.123movies.day/
-* https://wwe.movierulzfree.com/
-* https://www4.watchfree.ac/
-* https://www1.movie4u.live/
-* https://openloadflix.com/
-* https://www.hdsaprevodom.com/
-* https://topeuropix.site/
-* https://www.peramovies.club/
-* https://wwv7.watchmoviesonlinepk.com/category/english-movies/page/0
+* <https://123movies.dance/>
+* <https://new123movies.la/>
+* <https://www2.online123movies.live/>
+* <https://doomovies.ga/>
+* <https://cinehindi.com/>
+* <https://parkslopecannabis.shop/>
+* <https://123movies.gdn/>
+* <https://www.movi.pk/>
+* <https://fffmovies.wtf/>
+* <https://tunemovie.com/>
+* <https://wwv.123movies.day/>
+* <https://wwe.movierulzfree.com/>
+* <https://www4.watchfree.ac/>
+* <https://www1.movie4u.live/>
+* <https://openloadflix.com/>
+* <https://www.hdsaprevodom.com/>
+* <https://topeuropix.site/>
+* <https://www.peramovies.club/>
+* <https://wwv7.watchmoviesonlinepk.com/category/english-movies/page/0>
 
 ***
 
@@ -621,80 +620,80 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 
 ### Free DNS Servers
 
-* https://www.publicdns.xyz/
-* https://www.wikileaks.org/wiki/Alternative_DNS
-* https://www.cloudns.net/
-* https://dns.he.net/
-* https://www.dnspod.com/
-* https://acavalin.com/p/free_dns
-* https://www.luadns.com/
-* https://dynu.com/
-* https://blog.uncensoreddns.org/dns-servers/
-* https://wiki.ipfire.org/dns/public-servers
-* https://www.1984.is/product/freedns/
-* https://www.namecheap.com/domains/freedns/
-* https://zilore.com/en/dns
-* https://docs.glauca.digital/hexdns/
-* https://www.zoneedit.com/free-dns/
-* https://www.dnsabr.com/
-* https://dns.sb/
-* https://github.com/dns-sb/dns.sb
-* http://bestdns.org/
-* https://public-dns.info/
+* <https://www.publicdns.xyz/>
+* <https://www.wikileaks.org/wiki/Alternative_DNS>
+* <https://www.cloudns.net/>
+* <https://dns.he.net/>
+* <https://www.dnspod.com/>
+* <https://acavalin.com/p/free_dns>
+* <https://www.luadns.com/>
+* <https://dynu.com/>
+* <https://blog.uncensoreddns.org/dns-servers/>
+* <https://wiki.ipfire.org/dns/public-servers>
+* <https://www.1984.is/product/freedns/>
+* <https://www.namecheap.com/domains/freedns/>
+* <https://zilore.com/en/dns>
+* <https://docs.glauca.digital/hexdns/>
+* <https://www.zoneedit.com/free-dns/>
+* <https://www.dnsabr.com/>
+* <https://dns.sb/>
+* <https://github.com/dns-sb/dns.sb>
+* <http://bestdns.org/>
+* <https://public-dns.info/>
 
 ***
 
 ### Free VPN Configs
 
-* https://courvix.com/ / [Discord](https://discord.gg/ZP47YRdn83)
-* https://www.racevpn.com/
-* https://www.greenssh.com/
-* https://cyberssh.com/vpn/config
-* https://www.sshmonth.com/
-* https://www.vpnjantit.com/
-* https://pisovpn.com
-* https://www.lionssh.com/
-* https://www.sshocean.com/
-* https://www.vpnhack.com/
-* https://www.monthlyssh.com/
-* https://www.dynamicssh.com/
-* https://www.freevpn.us/
-* https://www.sshocean.net/
-* https://www.cloudssh.us/
-* https://www.fullssh.com/
-* https://starssh.com/
-* https://www.skyssh.co/
-* https://unlissh.com/
-* https://www.sshinjector.net/
-* https://www.sshdropbear.net/
-* https://www.portssh.com/
-* https://www.jetssh.com/
-* https://www.goodssh.com/
-* https://www.ssh-free.com/
-* https://cloudssh.net/
-* https://www.contassh.com/
-* https://sshkit.com/
-* https://www.flyssh.com/
-* https://www.sshssl.com/
-* https://www.jagoanssh.com/
-* https://spotssh.com/
-* http://criarssh.com/
-* https://dewassh.net/
-* https://ciscossh.com/
-* https://digitalssh.net/
-* https://sshaccess.com/
-* https://interssh.com/
-* https://www.speedssh.com/
-* http://www.sshudp.com/
-* https://www.fastssh.com/
-* https://freesslvpn.us/
-* https://sharevpn.org/
-* https://www.mytunneling.com/
-* https://www.squid-proxy.net/
-* https://www.jrtunnel.com/
-* https://opentunnel.net/
-* https://howdy.id/
-* https://openinternetaccess.com/
+* <https://courvix.com/> / [Discord](https://discord.gg/ZP47YRdn83)
+* <https://www.racevpn.com/>
+* <https://www.greenssh.com/>
+* <https://cyberssh.com/vpn/config>
+* <https://www.sshmonth.com/>
+* <https://www.vpnjantit.com/>
+* <https://pisovpn.com>
+* <https://www.lionssh.com/>
+* <https://www.sshocean.com/>
+* <https://www.vpnhack.com/>
+* <https://www.monthlyssh.com/>
+* <https://www.dynamicssh.com/>
+* <https://www.freevpn.us/>
+* <https://www.sshocean.net/>
+* <https://www.cloudssh.us/>
+* <https://www.fullssh.com/>
+* <https://starssh.com/>
+* <https://www.skyssh.co/>
+* <https://unlissh.com/>
+* <https://www.sshinjector.net/>
+* <https://www.sshdropbear.net/>
+* <https://www.portssh.com/>
+* <https://www.jetssh.com/>
+* <https://www.goodssh.com/>
+* <https://www.ssh-free.com/>
+* <https://cloudssh.net/>
+* <https://www.contassh.com/>
+* <https://sshkit.com/>
+* <https://www.flyssh.com/>
+* <https://www.sshssl.com/>
+* <https://www.jagoanssh.com/>
+* <https://spotssh.com/>
+* <http://criarssh.com/>
+* <https://dewassh.net/>
+* <https://ciscossh.com/>
+* <https://digitalssh.net/>
+* <https://sshaccess.com/>
+* <https://interssh.com/>
+* <https://www.speedssh.com/>
+* <http://www.sshudp.com/>
+* <https://www.fastssh.com/>
+* <https://freesslvpn.us/>
+* <https://sharevpn.org/>
+* <https://www.mytunneling.com/>
+* <https://www.squid-proxy.net/>
+* <https://www.jrtunnel.com/>
+* <https://opentunnel.net/>
+* <https://howdy.id/>
+* <https://openinternetaccess.com/>
 
 ***
 
@@ -857,7 +856,7 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 * ⭐ **[Dr.Graph](https://drgraph.cf/)** / [API](https://drgraph.cf/api)
 * ⭐ **[disroot](https://bin.disroot.org/)** or [RIN Privatebin](https://privatebin.rinuploads.org/)
 
-[TextBin](https://textbin.xyz/), [PrivateBin](https://privatebin.info/directory/), [paste](https://paste.ee/), [JustPaste.it](https://justpaste.it/), [pst.moe](https://pst.moe/), [Hastebin](https://hastebin.com/), [paste2](https://paste2.org/), [pastelinks](https://pastelink.net/), [bin.idrix](https://bin.idrix.fr/), [teknik](https://paste.teknik.io/), [ghostbin](https://ghostbin.com/), [cryptobin](https://cryptobin.co/), [p.ip.fi](https://p.ip.fi/), [paste.mozilla](https://paste.mozilla.org/), [paste.ubuntu](https://paste.ubuntu.com/), [pastebin](https://pastebin.com/), [telegra.ph](https://telegra.ph/), [blackhost](https://blackhost.xyz/?id=pst), [protectedtext](https://www.protectedtext.com/), [Cl1p](https://cl1p.net/), [shortbin](http://bin.shortbin.eu:8080/), [sicp](https://sicp.me/), [throwbin](https://throwbin.in/), [dpaste](https://dpaste.com/), [copydock](https://copydock.vercel.app/paste), [riseup pad](https://pad.riseup.net/), [tempaste](https://tempaste.com/), [zPaste](https://zpaste.net/), [bitbin](https://bitbin.it/), [pastes.io](https://pastes.io/), [cyberdrop bin](https://bin.cyberdrop.me/), [fssquad](https://share.fssquad.com/), [txt](https://txt.fyi/), [peeplink](https://peeplink.in/), [controlc](https://controlc.com/), [katb](https://katb.in/), [paaster](https://paaster.io/), [nopaste](https://nopaste.ml/), [pastery](https://www.pastery.net/), [privatebin](https://privatebin.net/), [pastebin.pl](https://pastebin.pl/, [paste.gg](https://paste.gg/), [bpa](https://bpa.st/), [0bin](https://0bin.net/), [Spectre](https://pst.klgrth.io/), [pastehub](https://pastehub.net/), [bin](https://bin.gy/), [paste.fo](https://paste.fo/), [sprunge](http://sprunge.us/), [clbin](https://clbin.com/)
+[TextBin](https://textbin.xyz/), [PrivateBin](https://privatebin.info/directory/), [paste](https://paste.ee/), [JustPaste.it](https://justpaste.it/), [pst.moe](https://pst.moe/), [Hastebin](https://hastebin.com/), [paste2](https://paste2.org/), [pastelinks](https://pastelink.net/), [bin.idrix](https://bin.idrix.fr/), [teknik](https://paste.teknik.io/), [ghostbin](https://ghostbin.com/), [cryptobin](https://cryptobin.co/), [p.ip.fi](https://p.ip.fi/), [paste.mozilla](https://paste.mozilla.org/), [paste.ubuntu](https://paste.ubuntu.com/), [pastebin](https://pastebin.com/), [telegra.ph](https://telegra.ph/), [blackhost](https://blackhost.xyz/?id=pst), [protectedtext](https://www.protectedtext.com/), [Cl1p](https://cl1p.net/), [shortbin](http://bin.shortbin.eu:8080/), [sicp](https://sicp.me/), [throwbin](https://throwbin.in/), [dpaste](https://dpaste.com/), [copydock](https://copydock.vercel.app/paste), [riseup pad](https://pad.riseup.net/), [tempaste](https://tempaste.com/), [zPaste](https://zpaste.net/), [bitbin](https://bitbin.it/), [pastes.io](https://pastes.io/), [cyberdrop bin](https://bin.cyberdrop.me/), [fssquad](https://share.fssquad.com/), [txt](https://txt.fyi/), [peeplink](https://peeplink.in/), [controlc](https://controlc.com/), [katb](https://katb.in/), [paaster](https://paaster.io/), [nopaste](https://nopaste.ml/), [pastery](https://www.pastery.net/), [privatebin](https://privatebin.net/), [pastebin.pl](<https://pastebin.pl/>, [paste.gg](https://paste.gg/), [bpa](https://bpa.st/), [0bin](https://0bin.net/), [Spectre](https://pst.klgrth.io/), [pastehub](https://pastehub.net/), [bin](https://bin.gy/), [paste.fo](https://paste.fo/), [sprunge](http://sprunge.us/), [clbin](https://clbin.com/)
 
 ***
 
@@ -896,7 +895,7 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 * ⭐ **[Notion](https://www.notion.so/)**
 * ⭐ **Notion Tools** - [Themes](https://notionthemes.yudax.me/) / [Templates](https://notionpages.com/) / [Resources](https://www.notioneverything.com/notion-world)
 
-[QuickTab](https://quicktab.it/), [AppFlowy](https://www.appflowy.io/) / [GitHub](https://github.com/AppFlowy-IO/AppFlowy), [Joplin](https://joplinapp.org/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper/) / [Chrome](https://chrome.google.com/webstore/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfek?hl=en-GB), [GoogleKeepClone](https://github.com/anselm94/googlekeepclone), [DecksApp](https://decksapp.com/), [TinyList](https://tinylist.app/), [Simplenote](https://simplenote.com/), [SilentNotes](https://www.martinstoeckli.ch/silentnotes/) / [Github](https://github.com/martinstoeckli/SilentNotes), [Standard Notes](https://standardnotes.com/), [QOwnNotes](https://www.qownnotes.org/), [TiddlyWiki](https://tiddlywiki.com/), [Idaesbasic](https://www.github.com/BenHerbst/idaesbasic), [To-Do_App](https://github.com/BigFloppa404/To-Do_App), [Zim Wiki](https://zim-wiki.org/), [Glory Todo Desktop](https://github.com/yessGlory17/glory_todo_desktop), [TickTick](https://www.ticktick.com/), [OpenToDoList](https://gitlab.com/rpdev/opentodolist), [Laverna](https://laverna.cc/), [wikidPad](http://wikidpad.sourceforge.net/), [Turtl](https://turtlapp.com/), [tomboy-ng](https://github.com/tomboy-notes/tomboy-ng), [FromScratch](https://fromscratch.rocks/), [Taskwarrior](https://taskwarrior.org/), [Super Productivity](https://super-productivity.com/), [Rnote](https://github.com/flxzt/rnote), [Fokus](https://fokus-website.netlify.app/), [Planner](https://useplanner.com/), [ToDo R](https://todo-r.com/), [rebel](https://github.com/kumarasinghe/rebel), [NotesMan](https://github.com/OnlyDeLtA/NotesMan/), [Notesnook](https://notesnook.com/), [Write Solo](https://writesolo.com/), [Wri.pe](https://wri.pe/), [Columns](https://columns.app/), [Zenkit](https://zenkit.com/en/suite/), [Vikunja](https://vikunja.io/), [Lorien](https://github.com/mbrlabs/Lorien), [tuxBoard](https://gitlab.com/graele84/tuxboard), [Google keep](https://www.google.com/keep/), [PrimePad](https://primapad.com/), [ZippyJot](https://www.zippyjot.com/), [MemOnNotepad](https://www.memonotepad.com/), [Skiff](https://skiff.org/, [ToDoZero](https://todozero.com/), [DoNotes](https://donotes.co.uk/), [notely](https://github.com/yeukfei02/notely), [AFFiNE](https://affine.pro/)
+[QuickTab](https://quicktab.it/), [AppFlowy](https://www.appflowy.io/) / [GitHub](https://github.com/AppFlowy-IO/AppFlowy), [Joplin](https://joplinapp.org/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper/) / [Chrome](https://chrome.google.com/webstore/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfek?hl=en-GB), [GoogleKeepClone](https://github.com/anselm94/googlekeepclone), [DecksApp](https://decksapp.com/), [TinyList](https://tinylist.app/), [Simplenote](https://simplenote.com/), [SilentNotes](https://www.martinstoeckli.ch/silentnotes/) / [Github](https://github.com/martinstoeckli/SilentNotes), [Standard Notes](https://standardnotes.com/), [QOwnNotes](https://www.qownnotes.org/), [TiddlyWiki](https://tiddlywiki.com/), [Idaesbasic](https://www.github.com/BenHerbst/idaesbasic), [To-Do_App](https://github.com/BigFloppa404/To-Do_App), [Zim Wiki](https://zim-wiki.org/), [Glory Todo Desktop](https://github.com/yessGlory17/glory_todo_desktop), [TickTick](https://www.ticktick.com/), [OpenToDoList](https://gitlab.com/rpdev/opentodolist), [Laverna](https://laverna.cc/), [wikidPad](http://wikidpad.sourceforge.net/), [Turtl](https://turtlapp.com/), [tomboy-ng](https://github.com/tomboy-notes/tomboy-ng), [FromScratch](https://fromscratch.rocks/), [Taskwarrior](https://taskwarrior.org/), [Super Productivity](https://super-productivity.com/), [Rnote](https://github.com/flxzt/rnote), [Fokus](https://fokus-website.netlify.app/), [Planner](https://useplanner.com/), [ToDo R](https://todo-r.com/), [rebel](https://github.com/kumarasinghe/rebel), [NotesMan](https://github.com/OnlyDeLtA/NotesMan/), [Notesnook](https://notesnook.com/), [Write Solo](https://writesolo.com/), [Wri.pe](https://wri.pe/), [Columns](https://columns.app/), [Zenkit](https://zenkit.com/en/suite/), [Vikunja](https://vikunja.io/), [Lorien](https://github.com/mbrlabs/Lorien), [tuxBoard](https://gitlab.com/graele84/tuxboard), [Google keep](https://www.google.com/keep/), [PrimePad](https://primapad.com/), [ZippyJot](https://www.zippyjot.com/), [MemOnNotepad](https://www.memonotepad.com/), [Skiff](<https://skiff.org/>, [ToDoZero](https://todozero.com/), [DoNotes](https://donotes.co.uk/), [notely](https://github.com/yeukfei02/notely), [AFFiNE](https://affine.pro/)
 
 **Android To-Do Apps**
 
@@ -1015,65 +1014,65 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 * [Search-Engine](https://start.me/p/wM7y15/search-engine) - Index
 * [100 Search Engines](https://www.100searchengines.com/) - Search With 100 Search Engines
 * [pSearch](https://serjsx.github.io/wpSearch/), [Search All](https://www.searchall.net/) or [AIO Search](https://www.aiosearch.com/) - Multi Site Search
-* https://oceanhero.today/
-* https://llarryyllarryy.github.io/Max-Impact-Search/
-* https://www.lycos.com/
-* https://www.dogpile.com/
-* http://advangle.com/
-* http://gigablast.com/
-* https://www.webcrawler.com/
-* https://millionshort.com/
-* https://www.wiby.me/
-* https://www.goodshop.com/
-* https://mwmbl.org/ + [GitHub](https://github.com/mwmbl/mwmbl)
-* https://lazyweb.ai/
-* https://www.instya.com/
-* https://ambition.dk/kompetencer/media-search-social/trafik/tools/impersonal/
-* https://education.iseek.com/iseek/home.page
-* https://www.lycos.com/
-* https://search.excite.com/
-* https://www.oscobo.com/
-* https://www.search.com/
-* https://www.metacrawler.com/
-* http://fefoo.com/
-* https://www.entireweb.com/
-* https://www.chatnoir.eu/
-* https://felvin.com/
-* https://petalsearch.com/
-* https://okeano.com/
-* http://www.seekport.com/
-* https://www.exalead.com/search/
-* http://www.search.tl/
-* https://andisearch.com/
-* https://search.carrot2.org/#/web
-* http://www.surfcanyon.com/
-* https://you.com/
-* https://www.teoma.com/
-* https://www.4search.com/
-* https://www.info.com/
-* https://www.yahoo.com/
-* http://frogfind.com/
-* https://search.visymo.com/
-* https://entfer.com/
-* https://presearch.org/ + [GitHub](https://github.com/presearchofficial)
-* https://search.aol.com/
-* https://www.bing.com/
-* https://www.entireweb.com/
-* https://all-io.net/
-* https://www.alltheinternet.com/
-* https://www.etools.ch/
-* https://www.faganfinder.com/
-* http://www.goofram.com/
-* https://www.izito.com/
-* http://www.myallsearch.com/
-* https://www.zapmeta.com/
-* https://biznar.com/biznar/desktop/en/search.html
-* https://www.etools.ch/search.do
-* https://www.harmari.com/search/unified/
-* https://worldwidescience.org/
-* https://www.startpage.com/
-* https://github.com/prabhatsharma/zinc
-* https://benbusby.com/projects/whoogle-search/
+* <https://oceanhero.today/>
+* <https://llarryyllarryy.github.io/Max-Impact-Search/>
+* <https://www.lycos.com/>
+* <https://www.dogpile.com/>
+* <http://advangle.com/>
+* <http://gigablast.com/>
+* <https://www.webcrawler.com/>
+* <https://millionshort.com/>
+* <https://www.wiby.me/>
+* <https://www.goodshop.com/>
+* <https://mwmbl.org/> + [GitHub](https://github.com/mwmbl/mwmbl)
+* <https://lazyweb.ai/>
+* <https://www.instya.com/>
+* <https://ambition.dk/kompetencer/media-search-social/trafik/tools/impersonal/>
+* <https://education.iseek.com/iseek/home.page>
+* <https://www.lycos.com/>
+* <https://search.excite.com/>
+* <https://www.oscobo.com/>
+* <https://www.search.com/>
+* <https://www.metacrawler.com/>
+* <http://fefoo.com/>
+* <https://www.entireweb.com/>
+* <https://www.chatnoir.eu/>
+* <https://felvin.com/>
+* <https://petalsearch.com/>
+* <https://okeano.com/>
+* <http://www.seekport.com/>
+* <https://www.exalead.com/search/>
+* <http://www.search.tl/>
+* <https://andisearch.com/>
+* <https://search.carrot2.org/#/web>
+* <http://www.surfcanyon.com/>
+* <https://you.com/>
+* <https://www.teoma.com/>
+* <https://www.4search.com/>
+* <https://www.info.com/>
+* <https://www.yahoo.com/>
+* <http://frogfind.com/>
+* <https://search.visymo.com/>
+* <https://entfer.com/>
+* <https://presearch.org/> + [GitHub](https://github.com/presearchofficial)
+* <https://search.aol.com/>
+* <https://www.bing.com/>
+* <https://www.entireweb.com/>
+* <https://all-io.net/>
+* <https://www.alltheinternet.com/>
+* <https://www.etools.ch/>
+* <https://www.faganfinder.com/>
+* <http://www.goofram.com/>
+* <https://www.izito.com/>
+* <http://www.myallsearch.com/>
+* <https://www.zapmeta.com/>
+* <https://biznar.com/biznar/desktop/en/search.html>
+* <https://www.etools.ch/search.do>
+* <https://www.harmari.com/search/unified/>
+* <https://worldwidescience.org/>
+* <https://www.startpage.com/>
+* <https://github.com/prabhatsharma/zinc>
+* <https://benbusby.com/projects/whoogle-search/>
 
 ---
 

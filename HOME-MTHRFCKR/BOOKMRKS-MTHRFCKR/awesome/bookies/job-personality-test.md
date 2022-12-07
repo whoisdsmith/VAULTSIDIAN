@@ -3,10 +3,13 @@
 # Your scores (2020)
 
 ## Hands-on: 11
-Your ideal work is mainly about 
+
+Your ideal work is mainly about
+
 * engaging with the physical world
 
-### for example 
+### for example
+
 * building
 * cooking
 * craft
@@ -15,7 +18,8 @@ Your ideal work is mainly about
 * sports
 * hands-on therapy
 
-### Example jobs include: 
+### Example jobs include
+
 * sports coach
 * physiotherapist
 * engineer
@@ -25,15 +29,19 @@ Your ideal work is mainly about
 * veterinary nurse
 
 ## Information and research, processes and systems: 16
-Your ideal work is mainly about 
+
+Your ideal work is mainly about
+
 * researching
 * managing information
 
-### This will include 
+### This will include
+
 * analysis
 * cataloguing and database management
 
-### This may include 
+### This may include
+
 * investigating topics in depth
 * IT
 * science
@@ -41,7 +49,8 @@ Your ideal work is mainly about
 * quality control
 * systems and regulations
 
-### Example jobs include: 
+### Example jobs include
+
 * accountant
 * scientific researcher
 * investigative journalist
@@ -51,11 +60,14 @@ Your ideal work is mainly about
 * purchasing professional
 
 ### Influencing, negotiating, communicating: 14
-Your ideal work is mainly about 
+
+Your ideal work is mainly about
+
 * persuading other people to do something
 * buy something or believe in your cause
 
-### This includes 
+### This includes
+
 * driving others
 * influencing
 * persuading
@@ -63,7 +75,8 @@ Your ideal work is mainly about
 * motivating
 * selling
 
-### Example jobs include: 
+### Example jobs include
+
 * sales person
 * recruiter
 * fundraiser
@@ -72,10 +85,13 @@ Your ideal work is mainly about
 * public speaker
 
 ## Creative use of ideas, materials or situations: 15
-Your ideal work is mainly about 
+
+Your ideal work is mainly about
+
 * working imaginatively with ideas or designs
 
-### This includes jobs in the 
+### This includes jobs in the
+
 * arts
 * performing
 * creative writing
@@ -85,17 +101,21 @@ Your ideal work is mainly about
 * adapting or coming up with new ideas
 * working in situations where no rulebook exists
 
-### Example jobs include: 
+### Example jobs include
+
 * graphic designer
 * training consultant
 * wedding planner
 * public relations.
 
 ## Supporting people: 14
-Your ideal work is mainly about 
+
+Your ideal work is mainly about
+
 * working with people, with their wellbeing and development as the main focus of your work
 
-### Example jobs include: 
+### Example jobs include
+
 * teacher
 * life coach
 * therapist
@@ -104,10 +124,13 @@ Your ideal work is mainly about
 * career coach
 
 ## Making new things happen: 9
-Your ideal work is mainly about 
+
+Your ideal work is mainly about
+
 * achieving things with and through other people
 
-### This may involve 
+### This may involve
+
 * organisational change
 * planning
 * managing projects
@@ -116,7 +139,8 @@ Your ideal work is mainly about
 * shaping teams
 * getting results
 
-### Example jobs include: 
+### Example jobs include
+
 * project manager
 * team leader
 * operations manager
@@ -124,4 +148,5 @@ Your ideal work is mainly about
 * business developer
 
 ## How to use these scores
+
 Look at your top three scores. Your ideal career path may be a combination of themes: if, say, your top scores are Creative use of ideas, Supporting people and Hands-on, you’ll want to ensure that you work in a team, creative approaches are encouraged, and you achieve tangible results – for example working for an outdoor training centre or in sports coaching.

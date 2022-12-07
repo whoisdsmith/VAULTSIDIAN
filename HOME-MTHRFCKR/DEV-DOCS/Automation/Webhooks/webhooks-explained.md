@@ -1,6 +1,6 @@
 # Webhooks Explained: What They Are & How to Use Them
 
-Nov 8, 2018 
+Nov 8, 2018
 
 Our nervous system is a real wonder.
 
@@ -18,15 +18,15 @@ One way to get there is by using webhooks. You probably use them fairly often, w
 
 What you’ll find in this post:
 
-  * A webhook definition
+* A webhook definition
 
-  * Real-life webhook examples
+* Real-life webhook examples
 
-  * A development flow for webhooks integration
+* A development flow for webhooks integration
 
-  * A list of development tools
+* A list of development tools
 
-  * (Slightly) advanced features
+* (Slightly) advanced features
 
 Trust me dev padawan, change your life, webhooks will.
 
@@ -36,11 +36,11 @@ Trust me dev padawan, change your life, webhooks will.
 
 Put bluntly: **webhooks are a way for apps to communicate between them automatically.**
 
-  * MailChimp uses a webhook to signup users from your website to your newsletter.
+* MailChimp uses a webhook to signup users from your website to your newsletter.
 
-  * Paypal uses it to tell your accounting app when your clients pay you.
+* Paypal uses it to tell your accounting app when your clients pay you.
 
-  * Shopify offers webhooks to keep parts of your commerce system up-to-date, so you don’t have to enter new transaction details manually.
+* Shopify offers webhooks to keep parts of your commerce system up-to-date, so you don’t have to enter new transaction details manually.
 
 Analogies go a long way—the easiest programming comparative I can come up with is the **[observer pattern**](https://en.wikipedia.org/wiki/Observer_pattern).
 
@@ -142,9 +142,9 @@ If you used RequestBin, as suggested before, you’ll be able to copy what was i
 
   1. Once you're happy with what you have, you should use ngrok to test with real-time data. Once everything is testing fine, that's when **you want to host your logic**. There are a couple of ways to do this:
 
-  * By hosting a full-blown server. The whole process depends on the used techs so I won't be covering the how-tos here.
+* By hosting a full-blown server. The whole process depends on the used techs so I won't be covering the how-tos here.
 
-  * By using serverless functions. Since webhooks logic are usually kept simple and concise, it's a perfect case for them. The significant players being _Webtask.io_, _AWS Lambda_, _Google Cloud_ and _Azure_.
+* By using serverless functions. Since webhooks logic are usually kept simple and concise, it's a perfect case for them. The significant players being _Webtask.io_, _AWS Lambda_, _Google Cloud_ and _Azure_.
 
 > Serverless functions are used more and more in the web ecosystem so I would definitely give it a closer look. If you’re interested in getting a good understanding of how serverless functions operates, start [here](https://snipcart.com/blog/webtask-baas-serverless-tutorial).
 
@@ -154,15 +154,15 @@ If you used RequestBin, as suggested before, you’ll be able to copy what was i
 
 This list regroups the tools I mentioned in the last part.
 
-  * Webhooks’ documentation—specific to every webhook.
+* Webhooks’ documentation—specific to every webhook.
 
-  * [RequestBin](https://requestbin.fullcontact.com/)— HTTP request inspecter.
+* [RequestBin](https://requestbin.fullcontact.com/)— HTTP request inspecter.
 
-  * [ngrok](https://ngrok.com/)— secure local testing.
+* [ngrok](https://ngrok.com/)— secure local testing.
 
-  * [Postman](https://www.getpostman.com/) or [Insomnia](https://insomnia.rest/)— REST clients.
+* [Postman](https://www.getpostman.com/) or [Insomnia](https://insomnia.rest/)— REST clients.
 
-  * [Webtask.io](https://webtask.io/), [AWS Lambda](https://aws.amazon.com/lambda/), [Google Cloud](https://cloud.google.com/functions/) & [Azure](https://azure.microsoft.com/en-ca/services/functions/)— serverless functions.
+* [Webtask.io](https://webtask.io/), [AWS Lambda](https://aws.amazon.com/lambda/), [Google Cloud](https://cloud.google.com/functions/) & [Azure](https://azure.microsoft.com/en-ca/services/functions/)— serverless functions.
 
 ## (Slightly) advanced webhook features
 
@@ -182,7 +182,7 @@ The process is the same as before, but you need to answer back at the request by
 
 > Keep in mind that some webhooks need an answer and some don't. If it needs one and you don't provide it, the process will idle until the request timeout, resulting in a lot of wait time. So again, always read the doc before. ;)
 
-**Another lower level webhook’s characteristic is **_**authentication**_**. You could want to verify the notifier's identity, and it is up to the notifier to provide a way to do so.** With Snipcart, every webhook HTTP POST request has a header entry named "HTTP_X_SNIPCART_REQUESTTOKEN".
+**Another lower level webhook’s characteristic is**_**authentication**_**. You could want to verify the notifier's identity, and it is up to the notifier to provide a way to do so.** With Snipcart, every webhook HTTP POST request has a header entry named "HTTP_X_SNIPCART_REQUESTTOKEN".
 
 You can use the value of this field to make sure it's really coming from Snipcart.
 
@@ -202,7 +202,6 @@ What did I miss about webhooks? Do you think they are an essential part of web d
 
 _If you've enjoyed this post, please take a second to share it __[on Twitter_](https://twitter.com/home?status=Webhooks%20Explained%3A%20What%20They%20Are%20%26%20How%20to%20Use%20Them%20https%3A//bit.ly/2PLld2t%20%23webdev)_._
 
-
 ___
 
-#article #webhooks
+# article #webhooks

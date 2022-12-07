@@ -12,7 +12,7 @@ Search Tag: #📖
 
 # [[Obsidian - Custom CSS](Obsidian%20-%20Custom%20CSS.md)
 
-## Enabling Custom CSS Snippets:
+## Enabling Custom CSS Snippets
 
 To enable custom styling within Obsidian, you'll need to:
 
@@ -28,7 +28,7 @@ To enable custom styling within Obsidian, you'll need to:
 
 ![[Pasted image 20210907125817.png](Template%20Hub/Templates/Obsidian-Vault-Structure/03%20-%20Content/files/Pasted%20image%2020210907125817.png)
 
-## Snippet Library:
+## Snippet Library
 
 ### 1. Colorized Graph Nodes
 
@@ -256,7 +256,7 @@ Attempt to make externally embedded content more responsive
 
 ___
 
-## Resources:
+## Resources
 
 | Hyperlink                                                                | Info                                         |
 | ------------------------------------------------------------------------ | -------------------------------------------- |

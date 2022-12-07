@@ -3,6 +3,7 @@
 Your character has a unique view of the world, of right and wrong, of fairness and natural rights. This alignment test, taken from the Alignment chapter of the Hero Builder's Guidebook, helps you figure out how your character will relate to various moral and ethical choices in the game.
 
 ## D&D Online Alignment Test ##
+
 Your Character’s Alignment
 
 Based on your answers to the quiz, your character’s most likely alignment is **Neutral Good**.
@@ -16,8 +17,6 @@ A neutral good character does the best that a good person can do. He is devoted 
 Keep in mind the alignment suggested by the quiz is just that: a suggestion. It describes your character no better than a 36-question test would describe you. But it’s a good way to start thinking about how your character acts when confronted with issues of alignment.
 
 Now that your character has taken the test, make a note of which questions scored in the opposite direction from your overall alignment. These exceptions can tell some interesting tales about your character Are you a good character with a greedy streak? Are you a lawful character who can’t stand the village elders? Don’t just roleplay your alignment -- roleplay your alignment exceptions, too. Few characters perfectly embody their alignment choice.
-
-
 
 ### Changing Alignment ###
 

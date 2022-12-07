@@ -12,7 +12,7 @@
 
 ## [Regular Expression in gVim to Remove Duplicate Domains from a List](https://cattery.co.id/cat-regular-expression-in-gvim-to-remove-duplicate-domains-from-a-list "Regular Expression in gVim to Remove Duplicate Domains from a List")
 
-20/08/2012 1. I need a regular expression written to use in gVim that will remove duplicate domains from a list of URLs (gVim can be downloaded here: http://www.vim.org/download.php. I have a list of over 6,000,000 URLs in a .txt file (which opens in gVim for editing). The URLs are in this format:
+20/08/2012 1. I need a regular expression written to use in gVim that will remove duplicate domains from a list of URLs (gVim can be downloaded here: <http://www.vim.org/download.php>. I have a list of over 6,000,000 URLs in a .txt file (which opens in gVim for editing). The URLs are in this format:
 
 ## [[Solved] How to Remove Duplicate Domains from a Large List of URLs](https://cattery.co.id/cat-solved-how-to-remove-duplicate-domains-from-a-large-list-of-urls "[Solved] How to Remove Duplicate Domains from a Large List of URLs ")
 
@@ -24,7 +24,7 @@ Learning Asks: How to Remove Duplicate Domains from a Large List of URLs? RegEx 
 
 ## [How to remove duplicate domains from a large list of URLs in c#](https://cattery.co.id/cat-how-to-remove-duplicate-domains-from-a-large-list-of-urls-in-c "How to remove duplicate domains from a large list of URLs in c#")
 
-06/04/2021 void Main () { var paths = urls.Split (new { '\n','\r'},StringSplitOptions.RemoveEmptyEntries) .Select (u => new Uri (u)) .GroupBy (u => u.Host) .Select (u => u.First ().AbsoluteUri); foreach (var p in paths) { Console.WriteLine (p); } } string urls = @"https://example.com/example.php/login/ https://2example2.com/example/ [How To Remove Duplicate Domains From A Large List Of Urls Regex Or](https://cattery.co.id/cat-how-to-remove-duplicate-domains-from-a-large-list-of-urls-regex-or "How To Remove Duplicate Domains From A Large List Of Urls Regex Or")
+06/04/2021 void Main () { var paths = urls.Split (new { '\n','\r'},StringSplitOptions.RemoveEmptyEntries) .Select (u => new Uri (u)) .GroupBy (u => u.Host) .Select (u => u.First ().AbsoluteUri); foreach (var p in paths) { Console.WriteLine (p); } } string urls = @"<https://example.com/example.php/login/> <https://2example2.com/example/> [How To Remove Duplicate Domains From A Large List Of Urls Regex Or](https://cattery.co.id/cat-how-to-remove-duplicate-domains-from-a-large-list-of-urls-regex-or "How To Remove Duplicate Domains From A Large List Of Urls Regex Or")
 
 ## [c# - Regex to Remove Duplicate URL - Stack Overflow](https://cattery.co.id/cat-c-regex-to-remove-duplicate-url-stack-overflow "c# - Regex to Remove Duplicate URL - Stack Overflow")
 

@@ -18,7 +18,7 @@ If this sounds compelling to you, here’s a list of 127 beneficial snippets tak
 
 # 1\. All
 
-This snippet returns `true` if the predicate function returns `true` for all elements in a collection and `false` otherwise. You can omit the second argument `fn`_ *if you want to use `Boolean`* _as a default value.
+This snippet returns `true` if the predicate function returns `true` for all elements in a collection and `false` otherwise. You can omit the second argument `fn`_*if you want to use `Boolean`*_as a default value.
 
 # 2\. allEqual
 
@@ -50,15 +50,15 @@ This snippet returns the average of an array after initially doing the mapping o
 
 # 9\. Bifurcate
 
-This snippet splits values into two groups and then puts a truthy element of `filter`_ _in the first group, and in the second group otherwise.
+This snippet splits values into two groups and then puts a truthy element of `filter`__in the first group, and in the second group otherwise.
 
-You can use `Array.prototype.reduce()`_ *and `Array.prototype.push()`* _to add elements to groups based on `filter`.
+You can use `Array.prototype.reduce()`_*and `Array.prototype.push()`*_to add elements to groups based on `filter`.
 
 # 10\. bifurcateBy
 
 This snippet splits values into two groups, based on a predicate function. If the predicate function returns a truthy value, the element will be placed in the first group. Otherwise, it will be placed in the second group.
 
-You can use `Array.prototype.reduce()`_ *and `Array.prototype.push()`* *to add elements to groups, based on the value returned by `fn`* _for each element.
+You can use `Array.prototype.reduce()`_*and `Array.prototype.push()`* *to add elements to groups, based on the value returned by `fn`*_for each element.
 
 # 11\. bottomVisible
 
@@ -98,7 +98,7 @@ This snippet returns the current URL.
 
 # 20\. dayOfYear
 
-This snippet gets the day of the year from a `Date`_ _object.
+This snippet gets the day of the year from a `Date`__object.
 
 # 21\. Decapitalize
 
@@ -106,13 +106,13 @@ This snippet turns the first letter of a string into lowercase.
 
 This is part one of these short snippets. There are five other parts remaining that you can read.
 
-  * [Part one](https://medium.com/better-programming/127-helpful-javascript-snippets-you-can-learn-in-30-seconds-or-less-part-1-of-6-bc2bc890dfe5)
-  * [Part two](https://medium.com/better-programming/127-helpful-javascript-snippets-you-can-learn-in-30-seconds-or-less-part-2-of-6-6d3871a602eb)
-  * [Part three](https://medium.com/better-programming/127-helpful-javascript-snippets-you-can-learn-in-30-seconds-or-less-part-3-of-6-b7eaf1c21e46)
-  * [Part four](https://medium.com/better-programming/127-helpful-javascript-snippets-you-can-learn-in-30-seconds-or-less-part-4-of-6-c74d755479e4)
-  * [Part five](https://medium.com/better-programming/127-helpful-javascript-snippets-you-can-learn-in-30-seconds-or-less-part-5-of-6-e81e0736e69d)
-  * [Part six](https://medium.com/better-programming/127-helpful-javascript-snippets-you-can-learn-in-30-seconds-or-less-part-6-of-6-862a6403d334)
+* [Part one](https://medium.com/better-programming/127-helpful-javascript-snippets-you-can-learn-in-30-seconds-or-less-part-1-of-6-bc2bc890dfe5)
+* [Part two](https://medium.com/better-programming/127-helpful-javascript-snippets-you-can-learn-in-30-seconds-or-less-part-2-of-6-6d3871a602eb)
+* [Part three](https://medium.com/better-programming/127-helpful-javascript-snippets-you-can-learn-in-30-seconds-or-less-part-3-of-6-b7eaf1c21e46)
+* [Part four](https://medium.com/better-programming/127-helpful-javascript-snippets-you-can-learn-in-30-seconds-or-less-part-4-of-6-c74d755479e4)
+* [Part five](https://medium.com/better-programming/127-helpful-javascript-snippets-you-can-learn-in-30-seconds-or-less-part-5-of-6-e81e0736e69d)
+* [Part six](https://medium.com/better-programming/127-helpful-javascript-snippets-you-can-learn-in-30-seconds-or-less-part-6-of-6-862a6403d334)
 
 ___
 
-#article
+# article

@@ -18,9 +18,9 @@ You'll need a paid subscription to Deezer, Qobuz, Tidal and Spotify to download 
 🔸 [Soulseek](http://www.slsknet.org/news/) P2P ⬇️  
 🔸 [SlavArt Divolt Server](https://slavart.divolt.xyz/) Multi ⬇️
 
-  * Create Divolt account [here](https://divolt.xyz/login/create) first.
+* Create Divolt account [here](https://divolt.xyz/login/create) first.
 
 **Transfer / Convert Playlists Between Platforms**.
 
-🔸 [Soundiiz](https://soundiiz.com/)   
+🔸 [Soundiiz](https://soundiiz.com/)
 🔸 [TuneMyMusic](https://www.tunemymusic.com/)

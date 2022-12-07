@@ -2,7 +2,7 @@
 
 [Ready2Search](https://ready.to/search/en/#) is a website that generates the [OpenSearch](https://developer.mozilla.org/en-US/docs/Web/OpenSearch) XML file for Firefox.
 
-1. Navigate to https://ready.to/search/en/# in Firefox.
+1. Navigate to <https://ready.to/search/en/># in Firefox.
 
 ![Ready2Search](res/readyto-empty.png)
 
@@ -16,7 +16,7 @@
 
 6. (Optional) Download the favicon.ico for the website, upload it, and select `original color`.
 
-7.  Press `Make Search Plug-in` to generate the XML.
+7. Press `Make Search Plug-in` to generate the XML.
 
 ![Ready2Make](res/readyto-make.png)
 

@@ -1,6 +1,6 @@
 [Art of People](http://www.artofpeoplebook.com/) - Book quizz
 
-Result : 
+Result :
 
 * **Type 5 (93%)**
 * Type 9 (82%)

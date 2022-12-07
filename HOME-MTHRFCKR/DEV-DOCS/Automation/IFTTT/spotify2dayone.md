@@ -7,11 +7,11 @@ Saved {{SavedAt}}<br>
 Listen on Spotify: {{TrackURL}}<br>
 <br>
 
-## Latitude 
+## Latitude
 
 Just added to my tracks on Spotify "{{TrackName}}" by {{ArtistName}} {{TrackURL}}
 
-## Longitude 
+## Longitude
 
 Just added to my tracks on Spotify "{{TrackName}}" by {{ArtistName}} {{TrackURL}}
 
@@ -22,4 +22,3 @@ Just added to my tracks on Spotify "{{TrackName}}" by {{ArtistName}} {{TrackURL}
 ## Image URL
 
 {{AlbumCoverURL}}
-

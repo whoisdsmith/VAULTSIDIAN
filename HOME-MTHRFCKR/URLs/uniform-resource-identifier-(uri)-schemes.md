@@ -13,7 +13,7 @@ Plain text](https://www.iana.org/assignments/uri-schemes/uri-schemes.xhtmluri-sc
 
 **Registry included below**
 
--   [Uniform Resource Identifier (URI) Schemes](https://www.iana.org/assignments/uri-schemes/uri-schemes.xhtml#uri-schemes-1)
+- [Uniform Resource Identifier (URI) Schemes](https://www.iana.org/assignments/uri-schemes/uri-schemes.xhtml#uri-schemes-1)
 
 ## Uniform Resource Identifier (URI) Schemes
 
@@ -512,8 +512,8 @@ CSV](https://www.iana.org/assignments/uri-schemes/uri-schemes.xhtmluri-schemes-1
 
 # Footnote
 
-<table class="fn"><tbody><tr><td class="fn" valign="top"><a name="note1" id="note1">[1]</a></td><td class="fn"><pre>CoAP registers different URI schemes for accessing CoAP resources 
-via different protocols. This approach runs counter to the WWW principle that a 
-URI identifies a resource and that multiple URIs for identifying the same 
+<table class="fn"><tbody><tr><td class="fn" valign="top"><a name="note1" id="note1">[1]</a></td><td class="fn"><pre>CoAP registers different URI schemes for accessing CoAP resources
+via different protocols. This approach runs counter to the WWW principle that a
+URI identifies a resource and that multiple URIs for identifying the same
 resource should be avoided [<a href="http://www.w3.org/TR/webarch/#avoid-uri-aliases">http://www.w3.org/TR/webarch/#avoid-uri-aliases</a>].
     </pre></td></tr></tbody></table>

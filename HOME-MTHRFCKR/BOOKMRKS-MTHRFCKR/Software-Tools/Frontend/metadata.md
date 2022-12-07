@@ -4,7 +4,7 @@
 
 ## Viewport
 
-- https://developer.mozilla.org/en-US/docs/Glossary/viewport
+- <https://developer.mozilla.org/en-US/docs/Glossary/viewport>
 - [Using the viewport meta tag to control layout on mobile browsers](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag)
 
 However, this mechanism is not so good for pages that are optimized for narrow screens using media queries. To mitigate this problem, Apple introduced the "viewport meta tag" in Safari iOS to let web developers control the viewport's size and scale.
@@ -38,7 +38,7 @@ A typical mobile-optimized site contains something like the following:
 
 ## shrink-to-fit=no
 
-https://stackoverflow.com/questions/33767533/what-does-the-shrink-to-fit-viewport-meta-attribute-do
+<https://stackoverflow.com/questions/33767533/what-does-the-shrink-to-fit-viewport-meta-attribute-do>
 
 It is Safari specific, at least at time of writing, being introduced in Safari 9.0. From the "What's new in Safari?" documentation for Safari 9.0:
 

@@ -27,7 +27,7 @@ The title may be omitted:
 The link destination may not be omitted:  
 <Example :index="$page.frontmatter.start++"/>
 
-However, an empty link destination may be specified using angle brackets:    
+However, an empty link destination may be specified using angle brackets:
 
 <Example :index="$page.frontmatter.start++"/>
 

@@ -16,7 +16,7 @@ A 34-year-old man presented for evaluation of a “cloud” in his vision for th
 
 Though we cannot prove causality, the course of events was suggestive of a direct relationship between Adderall use and CSC in this patient, with exogenous steroid as a possible modifying factor.
 
-**Keywords: **Adderall, Central serous chorioretinopathy, Corticosteroids, Dextroamphetamine-amphetamine, Sympathomimetics
+**Keywords:**Adderall, Central serous chorioretinopathy, Corticosteroids, Dextroamphetamine-amphetamine, Sympathomimetics
 
 ## 1\. Introduction
 
@@ -78,7 +78,7 @@ The authors attest that they meet the current ICMJE criteria for authorship.
 
 ## Article information
 
-Am J Ophthalmol Case Rep. 2022 Jun; 26: 101482. 
+Am J Ophthalmol Case Rep. 2022 Jun; 26: 101482.
 
 aDepartment of Ophthalmology, Northwest Permanente, Portland, OR, USA
 
@@ -92,7 +92,7 @@ Received 2021 Nov 11; Revised 2022 Mar 6; Accepted 2022 Mar 7.
 
 [Copyright](/pmc/about/copyright/) © 2022 The Authors
 
-This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+This is an open access article under the CC BY-NC-ND license (<http://creativecommons.org/licenses/by-nc-nd/4.0/>).
 
 Articles from American Journal of Ophthalmology Case Reports are provided here courtesy of **Elsevier**
 
@@ -132,7 +132,6 @@ Articles from American Journal of Ophthalmology Case Reports are provided here c
 
 17\. Naranjo C.A., Busto U., Sellers E.M., et al. A method for estimating the probability of adverse drug reactions. Clin Pharmacol Ther. 1981;30(2):239–245. [[PubMed](/pubmed/7249508)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Clin+Pharmacol+Ther&title=A+method+for+estimating+the+probability+of+adverse+drug+reactions&author=C.A.+Naranjo&author=U.+Busto&author=E.M.+Sellers&volume=30&issue=2&publication_year=1981&pages=239-245&pmid=7249508&)]
 
-
 ___
 
-#article 
+# article

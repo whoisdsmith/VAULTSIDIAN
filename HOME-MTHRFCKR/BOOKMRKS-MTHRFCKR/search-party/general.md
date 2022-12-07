@@ -1,4 +1,4 @@
- # General
+# General
 
 [%s at DuckDuckGo](https://duckduckgo.com/?q=%25s)
 

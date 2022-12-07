@@ -32,13 +32,9 @@
 
 - [fbjson2table · PyPI](https://pypi.org/project/fbjson2table)
 
-
-
 ## Instagram
 
 - [Bibliogram](https://bibliogram.art/)
-
-
 
 ## Reddit
 

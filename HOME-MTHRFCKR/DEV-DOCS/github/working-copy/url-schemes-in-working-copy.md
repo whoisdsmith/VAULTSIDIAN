@@ -1,16 +1,14 @@
-#webclip
+# webclip
 
 # 2022-02-26
 
 - [URL schemes in Working Copy](https://workingcopyapp.com/url-schemes.html#x-callback-url)
-	- author: Anders Borum
+  - author: Anders Borum
 
 ---
 
-You can open Working Copy and make it go to a specific screen with a URL: 
+You can open Working Copy and make it go to a specific screen with a URL:
 
-    
-    
     working-copy://open?repo=my%20project&path=README.md&mode=content
     working-copy://open?repo=my%20project&commit=23f387&mode=status
     working-copy://open?repo=https%3A%2F%2Fgithub.com%2Flibgit2%2Flibgit2&branch=develop
@@ -1190,28 +1188,17 @@ You can open Working Copy and make it go to a specific screen with a URL:
     
     If you need to debug your callbacks, setting _x-success=mailto%3A%3Fbody%3D_
            can be very helpful.
-    
-    
-         
-    
-    
-        
-    
-    
-    
 
 # URL Schemes in Working Copy
 
 # Controlling Working Copy with URL Schemes
 
-To allow integration with other applications and automated workflows [Working Copy](/) can be opened with special URL schemes and controlled with x-callback-url. Commands that change data or read content out of Working Copy is protected by a secret key. 
+To allow integration with other applications and automated workflows [Working Copy](/) can be opened with special URL schemes and controlled with x-callback-url. Commands that change data or read content out of Working Copy is protected by a secret key.
 
 ## Opening Working Copy at Specific Screens
 
-You can open Working Copy and make it go to a specific screen with a URL: 
+You can open Working Copy and make it go to a specific screen with a URL:
 
-    
-    
     working-copy://open?repo=my%20project&path=README.md&mode=content
     working-copy://open?repo=my%20project&commit=23f387&mode=status
     working-copy://open?repo=https%3A%2F%2Fgithub.com%2Flibgit2%2Flibgit2&branch=develop
@@ -2517,12 +2504,6 @@ You can open Working Copy and make it go to a specific screen with a URL:
         Read the [manual](/manual.html) or the [newsletter](/newsletter/) and get
         in touch by [email](mailto:anders@workingcopyapp.com) or
         on [Twitter](https://twitter.com/workingcopyapp).
-    
-    
-    
-    
-    
-    
 
 # Links
 

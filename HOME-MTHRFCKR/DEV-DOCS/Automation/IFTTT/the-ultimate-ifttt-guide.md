@@ -1,10 +1,10 @@
 # The Ultimate IFTTT Guide: Use the Web's Most Powerful Tool Like a Pro
 
-If This Then That, also known as IFTTT is a free web-based service to get your apps and devices working together. Not sure how to build your applet? Follow along with this guide. 
+If This Then That, also known as IFTTT is a free web-based service to get your apps and devices working together. Not sure how to build your applet? Follow along with this guide.
 
 Image Credit: Maximkostenko/Depositphotos
 
-This guide is available to download as a free PDF. [ Download this file now](https://makeuseof.tradepub.com/free/w_make416/prgm.cgi). Feel free to copy and share this with your friends and family. 
+This guide is available to download as a free PDF. [Download this file now](https://makeuseof.tradepub.com/free/w_make416/prgm.cgi). Feel free to copy and share this with your friends and family.
 
 If you have not heard about [IFTTT](https://ifttt.com/), then this guide is for you.
 
@@ -14,7 +14,7 @@ If you have not heard about [IFTTT](https://ifttt.com/), then this guide is for 
 
 The best thing about IFTTT? You don't have to be a technological whizkid to use the automation. Most of the magic is already baked for you. Read on to discover all of its secrets.
 
-##  1. Start with IFTTT
+## 1. Start with IFTTT
 
 ### 1.1 What is IFTTT Anyway?
 
@@ -56,7 +56,7 @@ Furthermore, the team has already written a couple of articles expanding upon wh
 
 **Let's go over the basics of how IFTTT works, then dive into examples.**
 
-##  2\. How to Supercharge Your Time with IFTTT
+## 2\. How to Supercharge Your Time with IFTTT
 
 You are connected to your apps and devices. But, how many of those interact with each other? IFTTT is the free bridge that makes each app, service, or device talk to each other and [chunk different tasks for better productivity](https://www.makeuseof.com/tag/8-geeky-tasks-can-chunk-together-boosting-productivity/).
 
@@ -74,7 +74,7 @@ Applets are what make IFTTT worth your time. Basically, they are the combination
 
 Confused? Don't be, it will all make sense. Just know that Applets are formulas you set up deciding which triggers will prompt which actions.
 
-### 2.3 How Do I Create an Applet-- A Quickstart Guide.
+### 2.3 How Do I Create an Applet-- A Quickstart Guide
 
 Glad you asked! Making Applets is a snap with IFTTT.
 
@@ -122,7 +122,7 @@ As you scroll below, we'll continue to show you how to use IFTTT to your maximum
 
 Let's get started!
 
-##  3\. The Cookbook: Which Applets Are Best?
+## 3\. The Cookbook: Which Applets Are Best?
 
 IFTTT is six years old as a service. Applets were called "recipes" earlier. But, the value of these tiny programs has only got better with time as more apps and services work with it than ever before. Think smart homes, Alexa, Google Assistant, and fitness trackers now to realize the countless possibilities.
 
@@ -166,7 +166,7 @@ Regardless of what you're trying to accomplish with IFTTT, these are some of the
 
 **The result:** We've all lost our phone before. With this Applet you get a call when you send an email to the specified address, helping you hear where it is.
 
-**What it's good for: **You don't need to miss a heartbeat when you realize you have lost your phone.
+**What it's good for:**You don't need to miss a heartbeat when you realize you have lost your phone.
 
 #### Applet #7 – [Timed Daily Tweet](https://ifttt.com/applets/390278p-timed-daily-tweet)
 
@@ -378,7 +378,7 @@ Spotify and other streaming sites have [made music discovery a simple affair](ht
 
 **What it's good for:** Get all your best newly discovered music on your Dropbox. However, it's very important that you note that this one can be hit and miss. It will only get the MP3 file if it's available for download, but you always get the URL at the very least.
 
-#### Applet #3 – [SoundCloud Likes to Evernote ](https://ifttt.com/applets/27097p-keep-track-of-new-songs-you-like-in-evernote)
+#### Applet #3 – [SoundCloud Likes to Evernote](https://ifttt.com/applets/27097p-keep-track-of-new-songs-you-like-in-evernote)
 
 **The result:** Whenever you like a new song on SoundCloud, the details will be saved to the Evernote notebook of your choice.
 
@@ -532,7 +532,7 @@ These IFTTT applets will help you stay on top of the information that matters to
 
 **What it's good for:** Keep up with all the latest news, regardless of what kind of news you enjoy. Just use this Applet and you're all set!
 
-##  4\. Get the Mobile App
+## 4\. Get the Mobile App
 
 To make sure you can add and edit your Applets on-the-go, get the IFTTT mobile app for Android or iOS. Along with controlling your existing Applets from anywhere, anytime, you can also add or create those specific to your needs. Here are just a couple of examples.
 
@@ -552,7 +552,7 @@ To make sure you can add and edit your Applets on-the-go, get the IFTTT mobile a
 
 For doing more with mobile, check out how to [use IFTTT to automate your Android phone](https://www.makeuseof.com/tag/ifttt-applets-automate-android/), and [how to use IFTTT to automate your smart home](https://www.makeuseof.com/ifttt-automations-smart-plug-bulb/).
 
-##  5\. Disable Your Account or Applets
+## 5\. Disable Your Account or Applets
 
 ### 5.1 Disabling Your IFTTT Account
 
@@ -572,7 +572,7 @@ If you prefer to remove the Applet completely, for example, maybe you deleted th
 
 You will be asked to confirm the deletion, so click **OK** if you are sure. You may be asked for feedback after the deletion that you can complete or click **No thanks**.
 
-##  What Do You Use IFTTT For?
+## What Do You Use IFTTT For?
 
 IFTTT is an amazing tool that you can use for a [large number of practical and even fun uses](https://www.makeuseof.com/tag/ifttt-tricks-deals-online/). Getting started with IFTTT is extremely simple, yet enjoyable at the same time.
 
@@ -582,7 +582,7 @@ This guide serves as a compilation of all the best Applets created for you to pl
 
 With the right applet, [you can save money](https://www.makeuseof.com/tag/ifttt-recipes-save-money/), get a job, find a new car, have a better social life, be a better parent, stay informed or just [simply become more efficient](https://www.makeuseof.com/tag/13-wacky-ways-beat-procrastination-ifttt/) as a person. The possibilities are enormous but possible and even amusing to consider. Have fun!
 
-**Tell us about your favorite applets. Maybe, all of us can use it too. **
+**Tell us about your favorite applets. Maybe, all of us can use it too.**
 
 Image Credit: Maximkostenko/[Depositphotos](https://depositphotos.com/36965227/stock-photo-blank-recipe-book-on-wooden.html)
 
@@ -592,7 +592,7 @@ Visit MUO.com
 
 ](/) **About The Author**
 
-**Sandy Writtenhouse (441 Articles Published) **
+**Sandy Writtenhouse (441 Articles Published)**
 
 With her BS in Information Technology, Sandy worked for many years in the IT industry as a Project Manager, Department Manager, and PMO Lead. She then decided to follow her dream and now writes about technology full-time.
 
@@ -604,7 +604,6 @@ Enjoyed this article? Stay informed by joining our newsletter.
 
 [sign up now](/subscribe/)
 
-
 ___
 
-#article #ifttt
+# article #ifttt

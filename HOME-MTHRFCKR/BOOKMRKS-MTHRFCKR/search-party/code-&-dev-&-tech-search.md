@@ -14,7 +14,7 @@ skeptics.stackexchange.com·Mar 15, 2022
 
 [Posts containing 's'](https://cse.google.com/cse?cx=013991603413798772546%3Agejhsvqignk)
 
-https://gitlab.com/search?search=%s
+<https://gitlab.com/search?search=%s>
 
 [https://gitlab.com/search?search=%s](https://cse.google.com/cse?cx=017177223831066255531%3Aj3hjrl7vxgs&q=+)
 
@@ -180,7 +180,6 @@ cse.google.com·Feb 24, 2022
 
 [Google Custom Search App Stores Search Engine](https://cse.google.com/cse/home?cx=014065917776369856396%3Avndr2_rgcv4)
 
-
 ___
 
-#article #search #bookmarks
+# article #search #bookmarks

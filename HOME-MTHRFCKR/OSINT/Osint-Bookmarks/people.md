@@ -1,4 +1,5 @@
 ## People
+
 - [192 - People Search - UK](https://www.192.com/)
 - [Person Lookup - People Search - Australia](https://personlookup.com.au/)
 - [Canada411.ca - People Search - Canada](http://www.canada411.ca/search)
@@ -115,7 +116,9 @@
 - [Google Custom Search Yahoo People Search](https://cse.google.com/cse/publicurl?cx=004589886433843772608%3Az65ypq1ip40)
 - [Google Custom Search Zoominfo and doc search](https://cse.google.com/cse/publicurl?cx=001788166376325824197%3Aff1tsbv1c6m)
 - [Iowa Obits - Death Notices for 1992 – 2018](https://www.obitsarchive.com/obituaries/usa/iowa)
+
 ### Usernames & People Searches
+
 - [Check MX and SPF Records](https://toolbox.googleapps.com/apps/checkmx)
 - [Citadel](http://citadel.pw/)
 - [Clearbit](https://connect.clearbit.com/)

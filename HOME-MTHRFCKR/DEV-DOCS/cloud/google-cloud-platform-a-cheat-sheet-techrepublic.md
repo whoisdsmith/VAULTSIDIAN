@@ -12,7 +12,7 @@ This comprehensive guide covers the history of Google Cloud Platform, the produc
 
 Google Cloud Platform (GCP) is a portfolio of cloud computing services that grew around the initial Google App Engine framework for hosting web applications from Google’s data centers. Since the launch of Google App Engine in 2008, GCP has grown into one of the premier cloud computing platforms on the market, though it still trails Amazon Web Services (AWS) and Microsoft Azure in terms of market share. That said, Google continues to hold its own in the cloud wars and continues to make investments in GCP to make it competitive with other public cloud providers, and more attractive to big customers. (**Note:** This article about the [Google Cloud Platform is also available as a free PDF download](https://www.techrepublic.com/resource-library/whitepapers/google-cloud-platform-an-insider-s-guide-free-pdf/).)
 
-To help CXOs, IT leaders, operations administrators, and developers better understand Google’s role as a cloud provider, we’ve put together the most important details and resources in this cheat sheet. This is a “living” article that will be updated and refreshed as new, relevant information becomes public. 
+To help CXOs, IT leaders, operations administrators, and developers better understand Google’s role as a cloud provider, we’ve put together the most important details and resources in this cheat sheet. This is a “living” article that will be updated and refreshed as new, relevant information becomes public.
 
 **SEE:** [**A business pro’s guide to Google Cloud Platform (GCP) (free PDF)**](https://www.techrepublic.com/resource-library/whitepapers/a-business-pro-s-guide-to-google-cloud-platform-gcp-free-pdf/) **(TechRepublic)**
 
@@ -44,7 +44,7 @@ Google Cloud Platform [products](https://cloud.google.com/products/) span the fo
 6. **Databases:** Cloud SQL, Cloud Bigtable, Cloud Spanner, Firestore,  Memorystore, and more
 7. **Developer tools:** Cloud SDK, Container Registry, Cloud Build, Cloud Source Repositories, Cloud Tasks, and more, as well as Cloud Tools for PowerShell and Eclipse
 8. **Healthcare and life sciences:** Apigee Healthcare APIx, Cloud Healthcare API, Cloud Life Sciences (beta), and Healthcare Natural Language AI
-9. **[Internet of Things (IoT)](https://www.techrepublic.com/article/internet-of-things-iot-cheat-sheet/):** IoT Core, Edge TPU 
+9. **[Internet of Things (IoT)](https://www.techrepublic.com/article/internet-of-things-iot-cheat-sheet/):** IoT Core, Edge TPU
 10. **Hybrid and multicloud:** Anthos, Apigee API management, Cloud Build, Looker, and Migrate for Anthos
 11. **Management Tools:** Anthos Service Mesh, Cloud APIs, Cloud Console, Cloud Deployment Manager, Cloud Mobile App, Cloud Shell, and more
 12. **Media:** Game Servers, OpenCue, and Transcoder API (beta)
@@ -109,7 +109,7 @@ Many of these companies also use other platforms such as AWS or Azure, which mea
 
 Since it is a platform on which applications are built and hosted, the choice of a cloud provider also affects developers. For developers, Google Cloud Platform supports Go, Node.js, Python, Ruby, PHP, .NET, and Java. Developers should make sure they are involved in any conversations about selecting a cloud provider to ensure it is a platform that they, and their team, are comfortable working in.
 
-As Google continues to expand its cloud offerings to compete with other providers and “[accelerate digital transformation](https://cloud.google.com/blog/topics/inside-google-cloud/how-businesses-can-transform-digitally-with-google-cloud),” the range of who it affects will continue to grow. Any business with plans for large-scale data analytics, AI or ML development, remote collaboration, or one of the many X-as-a-Service products available in the cloud can expect Google Cloud to have some impact on them in the years to come. 
+As Google continues to expand its cloud offerings to compete with other providers and “[accelerate digital transformation](https://cloud.google.com/blog/topics/inside-google-cloud/how-businesses-can-transform-digitally-with-google-cloud),” the range of who it affects will continue to grow. Any business with plans for large-scale data analytics, AI or ML development, remote collaboration, or one of the many X-as-a-Service products available in the cloud can expect Google Cloud to have some impact on them in the years to come.
 
 **Additional resources**
 

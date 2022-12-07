@@ -4,7 +4,7 @@ created: 2022-07-04T22:19:58 (UTC -04:00)
 tags: \[]
 source: <https://help.nextcloud.com/t/the-php-opcache-module-is-not-properly-configured/135870/5>
 
-## author:
+## author
 
 # The PHP OPcache module is not properly configured - ℹ️ Support - Nextcloud community
 
@@ -46,9 +46,9 @@ I have these warning in my Nexcloud :
 
 The PHP OPcache module is not properly configured:
 
--   The maximum number of OPcache keys is nearly exceeded. To assure that all scripts can be hold in cache, it is recommended to apply `opcache.max_accelerated_files` to your PHP configuration with a value higher than `3000`.
--   The OPcache buffer is nearly full. To assure that all scripts can be hold in cache, it is recommended to apply `opcache.memory_consumption` to your PHP configuration with a value higher than `32`.
--   The OPcache interned strings buffer is nearly full. To assure that repeating strings can be effectively cached, it is recommended to apply `opcache.interned_strings_buffer` to your PHP configuration with a value higher than `8`.
+- The maximum number of OPcache keys is nearly exceeded. To assure that all scripts can be hold in cache, it is recommended to apply `opcache.max_accelerated_files` to your PHP configuration with a value higher than `3000`.
+- The OPcache buffer is nearly full. To assure that all scripts can be hold in cache, it is recommended to apply `opcache.memory_consumption` to your PHP configuration with a value higher than `32`.
+- The OPcache interned strings buffer is nearly full. To assure that repeating strings can be effectively cached, it is recommended to apply `opcache.interned_strings_buffer` to your PHP configuration with a value higher than `8`.
 
 My opcache setup is :
 
@@ -74,29 +74,33 @@ Thanks for your help
 
 Thanks
 
--   #### created
+- #### created
 
     ![](https://help.nextcloud.com/letter_avatar_proxy/v4/letter/m/e56c9b/20.png "Marquys")Mar 19
--   \[
+- \[
 
-    #### last reply
+#### last reply
 
     ](<https://help.nextcloud.com/t/the-php-opcache-module-is-not-properly-configured/135870/24>)
 
     [](https://help.nextcloud.com/t/the-php-opcache-module-is-not-properly-configured/135870/24)![](https://help.nextcloud.com/letter_avatar_proxy/v4/letter/d/a9adbd/20.png "Danny Yang")10h
--   23
+- 23
 
-    #### replies
--   925
+#### replies
 
-    #### views
--   6
+- 925
 
-    #### users
--   3
+#### views
 
-    #### links
--   ![](https://help.nextcloud.com/letter_avatar_proxy/v4/letter/b/71e660/32.png "bb77")9
+- 6
+
+#### users
+
+- 3
+
+#### links
+
+- ![](https://help.nextcloud.com/letter_avatar_proxy/v4/letter/b/71e660/32.png "bb77")9
 
     ![](https://help.nextcloud.com/letter_avatar_proxy/v4/letter/m/e56c9b/32.png "Marquys")8
 

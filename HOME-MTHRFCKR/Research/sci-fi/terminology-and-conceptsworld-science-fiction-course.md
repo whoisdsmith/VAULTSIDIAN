@@ -38,7 +38,7 @@ and even more in-depth [here](https://filmglossary.ccnmtl.columbia.edu/term/)
 
 * * *
 
-**The 113 Terms & Concepts to Know For Quiz **
+**The 113 Terms & Concepts to Know For Quiz**
 
 Quizlet Link [here](https://quizlet.com/660118598/world-science-fiction-terminology-updated-for-2022-flash-cards/)
 
@@ -63,8 +63,6 @@ Some Themes and Concepts
   10. [Terraforming](http://www.jessesword.com/sf/view/125): The process of transforming an alien planet into one sufficiently similar to the earth to support terrestrial life. See also: [TV Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/Terraform). [SFE](http://www.sf-encyclopedia.com/entry/terraforming).
   11. [Xenoforming](http://www.sf-encyclopedia.com/entry/xenoforming): The transformation of a world to suit Alien rather than Earth-human biology and ecology.
   12. [Xenology](http://www.jessesword.com/sf/view/383): The scientific study of extraterrestrial phenomena, esp. xenobiology.
-
-  
 
 **Humanity**
 
@@ -104,16 +102,12 @@ Some Themes and Concepts
   41. [Waldo:](http://www.jessesword.com/sf/view/1874) A device for handling or manipulating objects by remote control. See also:  [SFE](http://www.sf-encyclopedia.com/entry/waldo).
   42. [Unobtanium](http://tvtropes.org/pmwiki/pmwiki.php/Main/Unobtainium): The exotic metal or other material that is needed to make the nifty machines and plot enabling gadgets to work. See also:  [TV Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/Unobtainium).
 
-  
-
 **SF “Laws”**
 
   40. [Asimov’s 3 Laws of Robotics](http://tvtropes.org/pmwiki/pmwiki.php/Main/ThreeLawsCompliant): Programmed safeguards robots follow in the absence of human control. 1) A robot may not injure a human being or, through inaction, allow a human being to come to harm. 2) A robot must obey orders given to it by human beings, except where such orders would conflict with the First Law. 3) A robot must protect its own existence, as long as such protection does not conflict with the First or Second Laws. See also: [TV Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/ThreeLawsCompliant).
   41. [Arthur C. Clarke’s Laws](http://en.wikipedia.org/wiki/Clarkes_three_laws): 1) When a distinguished but elderly scientist states that something is possible, he is almost certainly right. When he states that something is impossible, he is very probably wrong. 2) The only way of discovering the limits of the possible is to venture a little way past them into the impossible. 3) Any sufficiently advanced technology is indistinguishable from magic. See also: [TV Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/ClarkesTHirdLaw).
   42. [Theodore Sturgeon’s Law](http://tvtropes.org/pmwiki/pmwiki.php/Main/Sturgeonslaw): 90% of everything is crud. See also:  [TV Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/Sturgeonslaw).
   43. [H. G. Wells’s Law:](http://www.sf-encyclopedia.com/entry/wellss_law) A sf or fantasy story should contain only a single extraordinary assumption.
-
-  
 
 **Some Subgenres**
 
@@ -150,8 +144,6 @@ Some Themes and Concepts
   75. [Uchronia](http://www.jessesword.com/sf/view/1500): Alternate history. See also:  [TV Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/AlternateHistory). [SFE](http://www.sf-encyclopedia.com/entry/uchronia).  See also [Counterfactual](http://www.jessesword.com/sf/view/1586): A work of alternate history. [SFE](http://www.sf-encyclopedia.com/entry/counterfactual).
   76. [Utopian sf](http://en.wikipedia.org/wiki/Utopian_and_dystopian_fiction): The utopia and its offshoot, the dystopia, are genres of literature that explore social and political structures. Utopian fiction is the creation of an ideal society, or utopia, as the setting for a novel. See also:  [TV Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/Utopia).
 
-  
-
 **Some Themes and Concepts**
 
   73. [Arcology](http://en.wikipedia.org/wiki/Arcology): visionary architect Paolo Soleri’s theory for an architecture that fuses archeology+ecology and thinks in terms of creature structures and cities that have as little impact on the environment as possible.
@@ -164,19 +156,19 @@ Some Themes and Concepts
   80. [Determinism](http://tvtropes.org/pmwiki/pmwiki.php/Main/RetrospectiveDeterminism): Assuming that because something happened it was inevitable. See also: [TV Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/RetrospectiveDeterminism). [SFE](http://www.sf-encyclopedia.com/entry/determinism).
   81. [Drake Equation](https://en.wikipedia.org/wiki/Drake_equation): an equation that attempt to calculate the number of possible alien species who can communicate in the galaxy.  (See [Graphics](https://courses.bowdoin.edu/ital-2500-spring-2015/graphics-and-audio/) page)
   82. [Dyson sphere](http://www.sf-encyclopedia.com/entry/dyson_sphere): a thought experiment by physicist Freeman Dyson in which the energy of a star of a solar system is captured in such a way as to fuel all needed power-sources of a mega-biosphere.
-  83. [Fermi Paradox](https://en.wikipedia.org/wiki/Fermi_paradox): the “where are all the other species” question; not really a paradox, but a question as to why we haven’t had contact with alien species (or so we think), and the seeming probability given the size of the universe that we _should have _had contact by now (see Drake Equation). See also: [SFE](http://www.sf-encyclopedia.com/entry/fermi_paradox).  (See [Graphics](https://courses.bowdoin.edu/ital-2500-spring-2015/graphics-and-audio/) page)
+  83. [Fermi Paradox](https://en.wikipedia.org/wiki/Fermi_paradox): the “where are all the other species” question; not really a paradox, but a question as to why we haven’t had contact with alien species (or so we think), and the seeming probability given the size of the universe that we _should have_had contact by now (see Drake Equation). See also: [SFE](http://www.sf-encyclopedia.com/entry/fermi_paradox).  (See [Graphics](https://courses.bowdoin.edu/ital-2500-spring-2015/graphics-and-audio/) page)
   84. [Gaia](http://www.sf-encyclopedia.com/entry/gaia): The Gaia hypothesis, proposed by UK scientist James Lovelock in the 1960s and now usually termed Earth System Science, suggests that Earth’s Biosphere forms a self-regulating Homeostatic System analogous to a living organism; the name is taken from the Greek earth-goddess, also spelt Gaea or Ge. See also:  [SFE](http://www.sf-encyclopedia.com/entry/gaia).
   85. [Empathy](http://www.sf-encyclopedia.com/entry/empathy): ESP or extra-sensory perception; sixth sense. See also: [SFE](http://www.sf-encyclopedia.com/entry/esp).
   86. [Epidemic](https://tvtropes.org/pmwiki/pmwiki.php/Main/ThePlague): Plagues, pandemics, contagious diseases, viruses.
   87. [Eschatology](http://www.sf-encyclopedia.com/entry/eschatology): Eschatology is the class of theological doctrine pertaining to death and the subsequent fate of the soul, and to the ultimate fate of the world. Stories of the Far Future, the End of the World and the End of Time can be categorized as eschatological, but are considered separately; this section deals mainly with the idea of personal survival after death. See also: [SFE](http://www.sf-encyclopedia.com/entry/eschatology).
   88. [Extrapolation](http://en.wikipedia.org/wiki/Extrapolation): Predicting beyond the original range of observation. See also: [SFE](http://www.sf-encyclopedia.com/entry/extrapolation).
-  89. [Forty-two (42)](https://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy): The answer to “The Question” in Douglas Adam’s radio show and novel _The Hitchhiker’s Guide to the Galaxy _(1978-1980)_. _See also: [TV Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheHitchhikersGuidetotheGalaxy).
+  89. [Forty-two (42)](https://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy): The answer to “The Question” in Douglas Adam’s radio show and novel _The Hitchhiker’s Guide to the Galaxy_(1978-1980)_._See also: [TV Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheHitchhikersGuidetotheGalaxy).
   90. [Hive mind](http://www.jessesword.com/sf/view/56): Group mind; minds working together. See also: [TV Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/HiveMind). [SFE](http://www.sf-encyclopedia.com/entry/hive_minds).
   91. [Hugo award](http://en.wikipedia.org/wiki/Hugo_Award): a set of awards given annually for the best science fiction or fantasy works and achievements of the previous year. The awards are named after Hugo Gernsback, the founder of the pioneering science fiction magazine Amazing Stories.
   92. [Infodump](http://www.jessesword.com/sf/view/1214): a large (often unwieldy or indigestible) amount of information supplied all at once; spec. as background or descriptive information in a narrative. See also: [TV Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/Infodump). [SFE](http://www.sf-encyclopedia.com/entry/infodump).
   93. [Kardashev Scale](https://en.wikipedia.org/wiki/Kardashev_scale): a method for measuring how advanced a civilization is based on their technological sophistication.  Type I: planetary; Type II: stellar (see Dyson sphere); Type II: galactic.
   94. [Media Landscape](http://www.sf-encyclopedia.com/entry/media_landscape): The degree to which Communications technology (and foreseeable future extensions of it) was replacing the natural world with a “media landscape” was scarcely noticed until the 1950s.
-  95. [Newspeak](https://en.wikipedia.org/wiki/Newspeak): term coined by George Orwell in the novel _1984 _to describe a governmental propaganda language intended to manipulate, control, and often deceive its constituents.
+  95. [Newspeak](https://en.wikipedia.org/wiki/Newspeak): term coined by George Orwell in the novel _1984_to describe a governmental propaganda language intended to manipulate, control, and often deceive its constituents.
   96. [Noosphere](http://en.wikipedia.org/wiki/Noosphere): Pierre Teillhard de Chardin and Vladimir Verndasky’s notion of a highly evolved biosphere in which reason rules; it follows the geosphere and biosphere in order of evolution.
   97. [O’Neill cylinder/colony](https://en.wikipedia.org/wiki/O%27Neill_cylinder): a massive structure envisioned by physicist Gerard O’Neill that consists of two, counter-rotating cylinders in which humans can live in space. Often associated with “generation ships.”  See also [here](https://space.nss.org/o-neill-cylinder-space-settlement/).
   98. [Orwellian](https://en.wikipedia.org/wiki/Orwellian): characteristic or suggestive of the writings of George Orwell (author of _1984_), esp. of dystopian and totalitarian visions of the future.
@@ -198,4 +190,4 @@ The images are © [Franco Brambilla](http://francobrambilla.com/home.html).
 
 ___
 
-#article Sci-fi 
+# article Sci-fi

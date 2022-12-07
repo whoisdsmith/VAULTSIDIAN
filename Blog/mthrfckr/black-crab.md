@@ -1,6 +1,5 @@
 # Dead People - Stay Dead
 
-
 ---
 
 Last night we watched the movie “Black Crab” on Netflix. Overall I give it 3 out of 5 Stars. Great cinematic visuals with great acting by Rooney Mara (Prometheus) Movie wise I felt like it was another country’s Version of “Red Dawn”
@@ -17,4 +16,4 @@ In medieval times the phrase "memento mori" was popular in art. In Latin it mean
 
 With that being said, here’s the music video for the closing song “Stay Dead”
 
-https://youtu.be/Kesp-2Nnn_4
+<https://youtu.be/Kesp-2Nnn_4>

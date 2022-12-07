@@ -89,7 +89,6 @@ If you quit `pd dev` and want to link the same deployed source to your local fil
 pd dev --dc <existing-deployed-component-id> <file-or-name>
 ```
 
-
 ### `pd events`
 
 Returns historical events sent to a source, and streams emitted events directly to the CLI.

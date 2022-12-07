@@ -50,7 +50,7 @@ C++ program into executable code if even one syntax error is present.
 ```
 
 - *How are they detected?* The compiler detects them when you try to  
-	compile your program.
+ compile your program.
 - *Why do they occur?* The syntax rules of C++ have been violated.
 - *Is there object-code generated?* No, so you cannot run the program.
 - Solution: Find the line(s) containing the syntax error(s) using the com-  
@@ -106,13 +106,13 @@ What, then, is your best strategy for eliminating syntax errors?
 
 - Display the current list of syntax errors (print it if you like)
 - Start at the first error listed, try to correct it, and then re-compile your  
-	program; sometimes many errors will drop out after one error is fixed
+ program; sometimes many errors will drop out after one error is fixed
 - If you are having trouble with a particular error listed for a specific  
-	line, yet you are 100% sure that line is correct, then search for a syntax  
-	error in the lines ABOVE that line, starting with the line immediately  
-	preceeding the line under consideration, and working backwards; usu-  
-	ally the actual error will be found in a line close to the line flagged,  
-	though not always
+ line, yet you are 100% sure that line is correct, then search for a syntax  
+ error in the lines ABOVE that line, starting with the line immediately  
+ preceeding the line under consideration, and working backwards; usu-  
+ ally the actual error will be found in a line close to the line flagged,  
+ though not always
 - Repeat this process until all errors are eliminated
 
 Specific examples follow.
@@ -352,11 +352,11 @@ piler. Let’s look at a few examples.
 ```
 
 - *How are they detected?* The compiler detects them when you compile  
-	your program.
+ your program.
 - *Why do they occur?* The syntax rules of C++ have *not* been violated,  
-	but the compiler writers have built in special error checking for certain  
-	common programming errors, and the compiler has found a possible  
-	error of this type.
+ but the compiler writers have built in special error checking for certain  
+ common programming errors, and the compiler has found a possible  
+ error of this type.
 
 ```
 12 Chapter 2 Common Syntax and Semantic Errors
@@ -364,10 +364,10 @@ piler. Let’s look at a few examples.
 
 - *Is there object-code generated?* Yes, so you can run the program.
 - *Solution* : Find the line(s) containing the syntax warning(s), and check  
-	them very carefully to see if you think they contain true errors.
+ them very carefully to see if you think they contain true errors.
 - Remember, a syntax warning should *always* be taken seriously, be-  
-	cause there is probably a real error in your code if the compiler issues  
-	a warning message.
+ cause there is probably a real error in your code if the compiler issues  
+ a warning message.
 
 **2.3.2 Examples: Common Syntax Warnings**
 
@@ -475,20 +475,20 @@ does not work correctly.
 **2.4.1 Summary of Important Points**
 
 - *How are they detected?* Semantic errors usually are detected by the  
-	programmer or user of the program, often while reading output and  
-	finding it is incorrect.
+ programmer or user of the program, often while reading output and  
+ finding it is incorrect.
 - *Why do they occur?* The syntax rules of C++ have been correctly fol-  
-	lowed, but the meaning of the code is incorrect (e.g., faulty algorithms,  
-	algorithms not translated into C++ correctly, values calculated or  
-	input erroneously, flow of control is wrong, etc.).
+ lowed, but the meaning of the code is incorrect (e.g., faulty algorithms,  
+ algorithms not translated into C++ correctly, values calculated or  
+ input erroneously, flow of control is wrong, etc.).
 - *Is there object-code generated?* Yes, so you can run the program.
 - Solution: Find the line(s) containing the semantic error(s), using extra  
-	print statements, hand tracing, or an interactive debugger if needed,  
-	and correct them.
+ print statements, hand tracing, or an interactive debugger if needed,  
+ and correct them.
 - Remember, semantic errors are undoubtedly the most common type  
-	of error, and they are the hardest to find and correct, so prevention in  
-	the form of good design and defensive programming are often your  
-	best tools.
+ of error, and they are the hardest to find and correct, so prevention in  
+ the form of good design and defensive programming are often your  
+ best tools.
 
 **2.4.2 Examples: Common Semantic Errors**
 

@@ -1002,7 +1002,7 @@ Always keep an accessibility mindset. The concept of italics isn't very helpful 
 </dl>
 ```
 
-## Test your skills!
+## Test your skills
 
 You've reached the end of this article, but can you remember the most important information? You can find some further tests to verify that you've retained this information before you move on — see [Test your skills: HTML text basics](/en-US/docs/Learn/HTML/Introduction_to_HTML/Test_your_skills:_HTML_text_basics).
 

@@ -2,24 +2,24 @@
 
 However, Destinations are different than actions in two ways:
 
--   **Events are delivered to the Destinations asynchronously**, after your workflow completes. This means you don't wait for network I/O (e.g. for HTTP requests or connection overhead for data warehouses) within your workflow code, so you can process more events faster.
--   In the case of data stores like S3, you typically don't want to send every event on its own. This can be costly and carries little benefit. **Instead, you typically want to batch a collection of events together, sending the batch at some frequency. Destinations handle that batching for relevant services**.
+- **Events are delivered to the Destinations asynchronously**, after your workflow completes. This means you don't wait for network I/O (e.g. for HTTP requests or connection overhead for data warehouses) within your workflow code, so you can process more events faster.
+- In the case of data stores like S3, you typically don't want to send every event on its own. This can be costly and carries little benefit. **Instead, you typically want to batch a collection of events together, sending the batch at some frequency. Destinations handle that batching for relevant services**.
 
 The docs below discuss features common to all Destinations. See the [docs for a given destination](https://pipedream.com/docs/#available-destinations) for information specific to those destinations.
 
--   [Available Destinations](https://pipedream.com/docs/#available-destinations)
--   [Using destinations](https://pipedream.com/docs/#using-destinations)
-    -   [Using destinations in workflows](https://pipedream.com/docs/#using-destinations-in-workflows)
-    -   [Using destinations in actions](https://pipedream.com/docs/#using-destinations-in-actions)
--   [Asynchronous Delivery](https://pipedream.com/docs/#asynchronous-delivery)
+- [Available Destinations](https://pipedream.com/docs/#available-destinations)
+- [Using destinations](https://pipedream.com/docs/#using-destinations)
+  - [Using destinations in workflows](https://pipedream.com/docs/#using-destinations-in-workflows)
+  - [Using destinations in actions](https://pipedream.com/docs/#using-destinations-in-actions)
+- [Asynchronous Delivery](https://pipedream.com/docs/#asynchronous-delivery)
 
 ## [#](https://pipedream.com/docs/#available-destinations) Available Destinations
 
--   [HTTP](https://pipedream.com/docs/destinations/http/)
--   [Email](https://pipedream.com/docs/destinations/email/)
--   [S3](https://pipedream.com/docs/destinations/s3/)
--   [Pipedream Data Warehouse](https://pipedream.com/docs/destinations/sql/)
--   [SSE](https://pipedream.com/docs/destinations/sse/)
+- [HTTP](https://pipedream.com/docs/destinations/http/)
+- [Email](https://pipedream.com/docs/destinations/email/)
+- [S3](https://pipedream.com/docs/destinations/s3/)
+- [Pipedream Data Warehouse](https://pipedream.com/docs/destinations/sql/)
+- [SSE](https://pipedream.com/docs/destinations/sse/)
 
 ## [#](https://pipedream.com/docs/#using-destinations) Using destinations
 

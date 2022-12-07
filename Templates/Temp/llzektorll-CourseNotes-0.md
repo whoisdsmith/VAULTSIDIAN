@@ -14,6 +14,4 @@ Tags::.
 
 # ❗ Description
 
- 
-
 ## ❗ Answer

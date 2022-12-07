@@ -1,15 +1,13 @@
 
-
 # timelapse video
 
-My post... https://medium.com/@hiiamyes/using-ffmpeg-to-make-time-lapse-video-391f5ea8cc6b
+My post... <https://medium.com/@hiiamyes/using-ffmpeg-to-make-time-lapse-video-391f5ea8cc6b>
 
 [scale](https://stackoverflow.com/questions/44634765/ffmpeg-aspect-ratio-of-image-in-a-slideshow)
 
 ```
 ffmpeg -f image2 -pattern_type glob -framerate 30 -i 'G0*.JPG' -vf "scale=3840x2160:force_original_aspect_ratio=decrease,pad=3840:2160:(ow-iw)/2:(oh-ih)/2,setsar=1" -vcodec libx264 -pix_fmt yuv420p test6.mp4
 ```
-
 
 ```
 ffmpeg -f image2 -pattern_type glob -framerate 30 -i 'G0*.JPG' -s 3840x2160 -vcodec libx264 -pix_fmt yuv420p test4.mp4
@@ -33,7 +31,6 @@ This is not mentioned in the output when using the defaults, but can be found in
 - `-pattern_type glob -i '*.JPG'` - all JPG files in the current directory
 - `-i DSC_%04d.JPG` - e.g. DSC_0397.JPG
 - `-s hd1080` - 1920x1080 resolution
-
 
 [Padding]
 [FFMPEG scale video to 720px, add black fields at the top and bottom and output 720x1280 (portrait) [duplicate]](https://superuser.com/questions/1271758/ffmpeg-scale-video-to-720px-add-black-fields-at-the-top-and-bottom-and-output-7)

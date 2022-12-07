@@ -2,8 +2,6 @@
 
 **More Feeds**  
 
-  
-
 **Miscellaneous Warez Feeds**  
 [http://api.crackwatch.com/rss/cracks.xml](http://api.crackwatch.com/rss/cracks.xml)  
 [http://gen.lib.rus.ec/rss/](http://gen.lib.rus.ec/rss/)  
@@ -30,8 +28,6 @@ showRSS
 [https://showrss.info/show/ID.rss](https://showrss.info/show/ID.rss)  
 [https://showrss.info/show/schedule/ID.rss](https://showrss.info/show/schedule/ID.rss) (upcoming)  
 [https://showrss.info/other/shows.rss](https://showrss.info/other/shows.rss) (additions)  
-
-  
 
 **Miscellaneous Gaming Feeds**  
 PCGamingWiki News  
@@ -91,8 +87,6 @@ Steam game updates
 More general:  
 [https://steamcommunity.com/games/STEAMAPPID/rss/](https://steamcommunity.com/games/STEAMAPPID/rss/)  
 e.g. [https://steamcommunity.com/games/897030/rss/](https://steamcommunity.com/games/897030/rss/)  
-
-  
 
 **Miscellaneous Feeds**  
 BBC  
@@ -165,8 +159,6 @@ ArchLinux Recent
 [https://www.archlinux.org/feeds/news/](https://www.archlinux.org/feeds/news/)  
 …etc.  
 
-  
-
 **Other feed lists**  
 [https://github.com/AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) (The best list about RSS so far)  
 &nbsp; - [https://github.com/AboutRSS/ALL-about-RSS/blob/master/Feed43-Feeds-List.md](https://github.com/AboutRSS/ALL-about-RSS/blob/master/Feed43-Feeds-List.md) (custom Feed43 feeds)  
@@ -179,16 +171,12 @@ ArchLinux Recent
 [https://gist.github.com/nikitavoloboev/63b5d2418122fcd6949d854dc5080689](https://gist.github.com/nikitavoloboev/63b5d2418122fcd6949d854dc5080689) (large opml file)  
 [https://gist.github.com/benkehoe/2a846d3bb0044ca5d99073458280f36e](https://gist.github.com/benkehoe/2a846d3bb0044ca5d99073458280f36e) (aws feeds list)  
 
-  
-
 **Podcasts lists**  
 [https://old.reddit.com/r/podcasts/comments/aknnta/](https://old.reddit.com/r/podcasts/comments/aknnta/) (100+ fictional podcasts sorted by genre)  
 [http://audio-drama.com/doku.php](http://audio-drama.com/doku.php) (Audio drama podcasts)  
 [https://old.reddit.com/r/podcasts/comments/75ilo5/do6tp5j/](https://old.reddit.com/r/podcasts/comments/75ilo5/do6tp5j/) (100 podcasts for "general" audiences)  
 [https://github.com/rShetty/awesome-podcasts/blob/master/README.md](https://github.com/rShetty/awesome-podcasts/blob/master/README.md) (tech-focussed)  
 [https://wiki.nikitavoloboev.xyz/podcasts](https://wiki.nikitavoloboev.xyz/podcasts) (tech-focussed; [https://github.com/nikitavoloboev/knowledge/blob/master/podcasts/podcasts.md](https://github.com/nikitavoloboev/knowledge/blob/master/podcasts/podcasts.md))  
-
-  
 
 HN discussions:  
 [https://news.ycombinator.com/item?id=9207360](https://news.ycombinator.com/item?id=9207360)  

@@ -160,9 +160,9 @@ The code above does the same job as Object.keys. The main difference is that thi
 
 ----
 
-[1]:	https://unsplash.com/@patmcmanaman?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
-[2]:	https://unsplash.com/s/photos/circle?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
+[1]: https://unsplash.com/@patmcmanaman?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
+[2]: https://unsplash.com/s/photos/circle?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
 
-[image-1]:	https://miro.medium.com/max/2100/1*6ViPWVgMAJH5dS2vhsLOOw.jpeg
+[image-1]: https://miro.medium.com/max/2100/1*6ViPWVgMAJH5dS2vhsLOOw.jpeg
 
-#article #loop
+# article #loop

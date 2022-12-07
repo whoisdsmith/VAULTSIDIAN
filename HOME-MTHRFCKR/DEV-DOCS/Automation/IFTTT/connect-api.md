@@ -26,41 +26,36 @@ The following set of HTTP response status codes may be returned when you send re
 
 Like success responses, error responses will be JSON objects. All error responses have the following structure:
 
--   `type`: The string `"error"`, to distinguish errors from other objects in the API.
--   `code`: A machine-readable string categorizing the failure.
--   `message`: A human-readable error message describing the failure.
--   `details`: Additional details describing the failure.
+- `type`: The string `"error"`, to distinguish errors from other objects in the API.
+- `code`: A machine-readable string categorizing the failure.
+- `message`: A human-readable error message describing the failure.
+- `details`: Additional details describing the failure.
 
 ###### Example: Requesting a non-existent connection
 
--   HTTP Request` ``` GET /v2/connections/invalid_connection_id Host: connect.ifttt.com  ``` `
-    
--   Response` ``` HTTP/1.1 404 Not Found Content-Type: application/json; charset=utf-8  {   "type": "error",   "code": "not_found",   "message": "Unknown connection id",   "details": [] }   ``` `
-    
+- HTTP Request` ``` GET /v2/connections/invalid_connection_id Host: connect.ifttt.com  ``` `
+
+- Response` ``` HTTP/1.1 404 Not Found Content-Type: application/json; charset=utf-8  {   "type": "error",   "code": "not_found",   "message": "Unknown connection id",   "details": [] }   ``` `
 
 ##### Authentication
 
 Every request is authenticated in one of two ways:
 
-1.  **Unauthenticated**: A request made with no credentials. Requests at this level can only read publicly-visible information.
-    
-2.  **Service-authenticated**: A request that includes an `IFTTT-Service-Key` header containing your service key, found in the [API tab](https://platform.ifttt.com/mkt/api) of the IFTTT Platform under the **Service Key** heading. You can use this approach when you’re making calls from your backend servers to the API.
-    
+1. **Unauthenticated**: A request made with no credentials. Requests at this level can only read publicly-visible information.
+
+2. **Service-authenticated**: A request that includes an `IFTTT-Service-Key` header containing your service key, found in the [API tab](https://platform.ifttt.com/mkt/api) of the IFTTT Platform under the **Service Key** heading. You can use this approach when you’re making calls from your backend servers to the API.
 
 ###### Example: Unauthenticated
 
--   HTTP Request` ``` GET /v2/me Host: connect.ifttt.com  ``` `
-    
+- HTTP Request` ``` GET /v2/me Host: connect.ifttt.com  ``` `
 
 ###### Example: Service-authenticated
 
--   HTTP Request` ``` GET /v2/me Host: connect.ifttt.com IFTTT-Service-Key: 6e7c8978c07a3b5918a237b9b5b1bb70  ``` `
-    
+- HTTP Request` ``` GET /v2/me Host: connect.ifttt.com IFTTT-Service-Key: 6e7c8978c07a3b5918a237b9b5b1bb70  ``` `
 
 ###### Example: Service-authenticated with user\_id
 
--   HTTP Request` ``` GET /v2/me?user_id=123 Host: connect.ifttt.com IFTTT-Service-Key: 6e7c8978c07a3b5918a237b9b5b1bb70  ``` `
-    
+- HTTP Request` ``` GET /v2/me?user_id=123 Host: connect.ifttt.com IFTTT-Service-Key: 6e7c8978c07a3b5918a237b9b5b1bb70  ``` `
 
 ##### Accessing user specific resources
 
@@ -107,7 +102,7 @@ Depending on whether you're a new user, logged out, or logged in, you'll be dire
 | Parameter | Required | Description | Example |
 | --- | --- | --- | --- |
 | `email` | Yes | User’s email address, used as a unique identifier. | me@ifttt.com |
-| `redirect_uri` | No | URL to redirect a user to upon completion of authentication. This parameter is required when the `skip_config` parameter is `true` | https://ifttt.com/page |
+| `redirect_uri` | No | URL to redirect a user to upon completion of authentication. This parameter is required when the `skip_config` parameter is `true` | <https://ifttt.com/page> |
 | `code` | No | A `provisional_access_code` used to pre-authenticate a user to your service. | sf9o8usfl-2f3l-f23kj |
 | `skip_config` | No | Instructs IFTTT to skip only the connection configuration page (default: false). | true |
 
@@ -119,12 +114,11 @@ You can use the `code` to pre-authenticate a user to your service by including t
 
 We will grant a `provisional_access_code` in exchange for an `oauth_code` for a given user. This allows us to guarantee that the code is single-use only and expires after 48 hours. If present, we will use the provisional code to look up the `oauth_code` that we saved and attempt to exchange the `oauth_code` (along with our client id and secret) for an access token. If this fails, or the code is missing, we will redirect the user through the normal OAuth exchange.
 
-###### Acquiring a provisional access code using the API v2 endpoint:
+###### Acquiring a provisional access code using the API v2 endpoint
 
--   HTTP Request` ``` POST /v2/provisional_access_code Host: connect.ifttt.com IFTTT-Service-Key: {{ifttt_service_key}} {     "oauth_code": "foo" }  ``` `
-    
--   HTTP Response` ``` HTTP/1.1 201 Content-Type: application/json; charset=utf-8 {     "provisional_access_code": "sf9o8usfl-2f3l-f23kj" }  ``` `
-    
+- HTTP Request` ``` POST /v2/provisional_access_code Host: connect.ifttt.com IFTTT-Service-Key: {{ifttt_service_key}} {     "oauth_code": "foo" }  ``` `
+
+- HTTP Response` ``` HTTP/1.1 201 Content-Type: application/json; charset=utf-8 {     "provisional_access_code": "sf9o8usfl-2f3l-f23kj" }  ``` `
 
 The provisional code expires after 48 hours, or upon use.
 
@@ -144,8 +138,8 @@ When you’re ready to implement a Connect URL in your experience, please [conta
 
 The Connect API will push data to various URL endpoints on your server, [[Webhooks|[[Webhoo]]ks|[[webhoo]]ks]], after certain events happen. Here are some examples:
 
-1.  You're waiting for a trigger event webhook to come in and then use `["event_data"]["ingredients"]` to run an action. Learn more [here](https://ifttt.com/docs/connect_api#trigger-event-webhook).
-2.  You're waiting for a connection enabled webhook to come in and then use that to send the user some helpful information. Learn more [here](https://ifttt.com/docs/connect_api#enabled-webhook).
+1. You're waiting for a trigger event webhook to come in and then use `["event_data"]["ingredients"]` to run an action. Learn more [here](https://ifttt.com/docs/connect_api#trigger-event-webhook).
+2. You're waiting for a connection enabled webhook to come in and then use that to send the user some helpful information. Learn more [here](https://ifttt.com/docs/connect_api#enabled-webhook).
 
 ##### Request
 
@@ -153,18 +147,17 @@ IFTTT will push data to your **webhook endpoint** with the following request str
 
 ###### HTTP
 
--   Method
-    
+- Method
+
     POST
-    
+
     URL
-    
+
     `{{api_url_prefix}}/ifttt/v1/webhooks/{{type}}/{{event}}`
-    
 
 ###### Headers
 
--   ```
+- ```
     
     IFTTT-Service-Key: {{ifttt_service_key}}
     Accept: application/json
@@ -173,53 +166,50 @@ IFTTT will push data to your **webhook endpoint** with the following request str
     Content-Type: application/json
     X-Request-ID: {{random_uuid}}
     ```
-    
 
 ###### Path Segments
 
--   type
-    
+- type
+
     (string) The type of object the event is for.
-    
+
     event
-    
+
     (string) The event that occurred.
-    
 
 ###### Body
 
--   sent\_at
-    
+- sent\_at
+
     (number) The time in milliseconds when the webhook was sent.
-    
+
     type
-    
+
     (string) The type of object the event is for.
-    
+
     event
-    
+
     (string) The event that occurred.
-    
+
     data
-    
+
     (object) Information about the object.
-    
+
     data.connection\_id
-    
+
     (string) The id of the connection.
-    
+
     data.user\_id
-    
+
     (string) The id of the connection user.
-    
+
     data.user\_timezone
-    
+
     (string) The user timezone. Default is "Pacific Time (US & Canada)".
-    
+
     event\_data
-    
+
     (object) Information about the event.
-    
 
 ##### Response
 
@@ -237,10 +227,9 @@ This endpoint returns information about the authentication of the current reques
 
 ###### Example: Service-authenticated with user\_id
 
--   HTTP Request` ``` GET /v2/me?user_id=123 Host: connect.ifttt.com IFTTT-Service-Key: 6e7c8978c07a3b5918a237b9b5b1bb70  ``` `
-    
--   Response` ``` HTTP/1.1 200 OK Content-Type: application/json; charset=utf-8  {   "type": "me",   "authentication_level": "channel",   "service_id": "acme_social_network",   "user_login": "example_user" }   ``` `
-    
+- HTTP Request` ``` GET /v2/me?user_id=123 Host: connect.ifttt.com IFTTT-Service-Key: 6e7c8978c07a3b5918a237b9b5b1bb70  ``` `
+
+- Response` ``` HTTP/1.1 200 OK Content-Type: application/json; charset=utf-8  {   "type": "me",   "authentication_level": "channel",   "service_id": "acme_social_network",   "user_login": "example_user" }   ``` `
 
 ### Connection details
 
@@ -254,10 +243,9 @@ This endpoint can be used to provide details about a specific connection. If the
 
 ###### Example: Show a connection, service-authenticated with user\_id
 
--   HTTP Request` ``` GET /v2/connections/C8p3q9T6?user_id=123 Host: connect.ifttt.com IFTTT-Service-Key: 6e7c8978c07a3b5918a237b9b5b1bb70  ``` `
-    
--   Response` ``` {     "type": "connection",     "id": "zG58W2uC",     "name": "Track your work hours",     "description": "A new Google Calendar event will be created each time you enter or exit your work location. The exit event automatically calculates the amount of time you spent at work, so you don’t have to!",     "url": "https://ifttt.com/applets/zG58W2uC",     "enabled_count": 22,     "user_status": "enabled",     "services": [         {             "service_id": "google_calendar",             "service_name": "Google Calendar",             "service_short_name": "Google",             "is_primary": true,             "monochrome_icon_url": "https://assets.ifttt.com/images/channels/1396293310/icons/monochrome_regular.png",             "color_icon_url": "https://assets.ifttt.com/images/channels/1396293310/icons/on_color_regular.png",             "brand_color": "#2c6efc",             "url": "https://ifttt.com/google_calendar",             "triggers": [],             "queries": [                 {                     "id": "search_events",                     "label": "Search Events",                     "field_options_url": "https://connect.ifttt.com/v2/connections/zG58W2uC/queries/google_calendar.search_events/field_options",                     "run_url": null,                     "fields": [                         {                             "id": "calendar",                             "label": "Calendar",                             "type": "COLLECTION_SELECT",                             "required": true,                             "hidden": false,                             "default_value": null                         },                         {                             "id": "query",                             "label": "Query",                             "type": "TEXT_FIELD",                             "required": false,                             "hidden": true,                             "default_value": "Empty"                         }                     ],                     "user_queries": [                         {                             "run_url": null,                             "fields": [                                 {                                     "id": "calendar",                                     "group": null,                                     "label": "test@ifttt.com",                                     "value": "cIfpFqysBl6kEAAQAAAAAmFsYW5seUBpZnR0dC5jb21hbGFubHlAaWZ0dHQuY29t"                                 }                             ]                         }                     ]                 }             ],             "actions": [                 {                     "id": "add_detailed_event",                     "label": "Create a detailed event",                     "field_options_url": "https://connect.ifttt.com/v2/connections/zG58W2uC/actions/google_calendar.add_detailed_event/field_options",                     "run_url": "https://connect.ifttt.com/v2/connections/zG58W2uC/actions/google_calendar.add_detailed_event/run",                     "fields": [                         {                             "id": "start_time",                             "label": "Start time",                             "type": "TEXT_FIELD",                             "required": true,                             "hidden": true,                             "default_value": "10am"                         },                         {                             "id": "description",                             "label": "Description",                             "type": "TEXT_AREA",                             "required": false,                             "hidden": true,                             "default_value": ""                         },                         {                             "id": "location",                             "label": "Location",                             "type": "TEXT_FIELD",                             "required": false,                             "hidden": true,                             "default_value": ""                         },                         {                             "id": "calendar",                             "label": "Which calendar?",                             "type": "COLLECTION_SELECT",                             "required": true,                             "hidden": false,                             "default_value": null                         },                         {                             "id": "attendees",                             "label": "Attendees",                             "type": "TEXT_FIELD",                             "required": false,                             "hidden": true,                             "default_value": ""                         },                         {                             "id": "end_time",                             "label": "End time",                             "type": "TEXT_FIELD",                             "required": true,                             "hidden": true,                             "default_value": "10am"                         },                         {                             "id": "all_day",                             "label": "All day?",                             "type": "COLLECTION_SELECT",                             "required": false,                             "hidden": true,                             "default_value": "false"                         },                         {                             "id": "title",                             "label": "Title",                             "type": "TEXT_FIELD",                             "required": false,                             "hidden": true,                             "default_value": ""                         }                     ],                     "user_actions": [                         {                             "run_url": "https://connect.ifttt.com/v2/connections/zG58W2uC/actions/google_calendar.add_detailed_event/run",                             "fields": [                                 {                                     "id": "calendar",                                     "group": null,                                     "label": "test@ifttt.com",                                     "value": "cIfpFqysBl6kEAAQAAAAAmFsYW5seUBpZnR0dC5jb21hbGFubHlAaWZ0dHQuY29t"                                 }                             ]                         }                     ]                 }             ]         },         {             "service_id": "location",             "service_name": "Location",             "service_short_name": "Location",             "is_primary": false,             "monochrome_icon_url": "https://assets.ifttt.com/images/channels/941030000/icons/monochrome_regular.png",             "color_icon_url": "https://assets.ifttt.com/images/channels/941030000/icons/on_color_regular.png",             "brand_color": "#0099ff",             "url": "https://ifttt.com/location",             "triggers": [                 {                     "id": "enter_or_exit_region_location",                     "label": "You enter or exit an area",                     "field_options_url": "https://connect.ifttt.com/v2/connections/zG58W2uC/triggers/location.enter_or_exit_region_location/field_options",                     "run_url": null,                     "fields": [                         {                             "id": "location",                             "label": "Your work location",                             "type": "LOCATION_ENTER_AND_EXIT",                             "required": true,                             "hidden": false,                             "default_value": {                                 "latitude": "37.78383800416815",                                 "longitude": "-122.40843300000002",                                 "radius": "316.2010756871335",                                 "address": "923 Market St, San Francisco, CA 94103, USA",                                 "description": "923 Market St, San Francisco, CA 94103, USA",                                 "zoom": "16"                             }                         }                     ],                     "user_triggers": [                         {                             "run_url": null,                             "fields": [                                 {                                     "id": "location",                                     "value": {                                         "lat": 37.78383800416815,                                         "lng": -122.40843300000002,                                         "radius": 316.2010756871335,                                         "address": "923 Market St, San Francisco, CA 94103, USA",                                         "description": "923 Market St, San Francisco, CA 94103, USA",                                         "zoom": 16                                     }                                 }                             ]                         }                     ]                 }             ],             "queries": [],             "actions": []         }     ],     "value_propositions": [         {             "description": "Effortlessly track time spent at work",             "icon_url": "https://ifttt.com/value-prop-icons/clock.png"         },         {             "description": "Gain valuable insight into your daily routine",             "icon_url": "https://ifttt.com/value-prop-icons/heart.png"         }     ],     "features": [         {             "id": "qharvmtjdh",             "title": "Effortlessly track time spent at work",             "description": null,             "icon_url": "https://ifttt.com/value-prop-icons/clock.png",             "field_options_url": "https://connect.ifttt.com/v2/connections/zG58W2uC/features/qharvmtjdh/field_options",             "fields": [                 {                     "id": "day_of_week",                     "label": "Day of week",                     "type": "COLLECTION_SELECT",                     "required": true,                     "hidden": false,                     "default_value": {                       "group": null,                       "label": "Monday",                       "value": "1"                     }                 }             ],             "feature_triggers": [                 {                     "id": "f3gtkmjkgf",                     "trigger_id": "enter_or_exit_region_location",                     "service_id": "location",                     "label": "You enter or exit an area",                     "field_options_url": "https://connect.ifttt.com/v2/connections/zG58W2uC/triggers/location.enter_or_exit_region_location/field_options",                     "run_url": null,                     "fields": [                         {                             "id": "location",                             "label": "Your work location",                             "type": "LOCATION_ENTER_AND_EXIT",                             "required": true,                             "hidden": false,                             "default_value": {                                 "latitude": "37.78383800416815",                                 "longitude": "-122.40843300000002",                                 "radius": "316.2010756871335",                                 "address": "923 Market St, San Francisco, CA 94103, USA",                                 "description": "923 Market St, San Francisco, CA 94103, USA",                                 "zoom": "16"                             }                         }                     ]                 }             ],             "feature_queries": [                 {                     "id": "zfgacjes8c",                     "query_id": "search_events",                     "service_id": "google_calendar",                     "label": "Search Events",                     "field_options_url": "https://connect.ifttt.com/v2/connections/zG58W2uC/queries/google_calendar.search_events/field_options",                     "run_url": null,                     "fields": [                         {                             "id": "calendar",                             "label": "Calendar",                             "type": "COLLECTION_SELECT",                             "required": true,                             "hidden": false,                             "default_value": null                         },                         {                             "id": "query",                             "label": "Query",                             "type": "TEXT_FIELD",                             "required": false,                             "hidden": true,                             "default_value": "Empty"                         }                     ]                 }             ],             "feature_actions": [                 {                     "id": "xgzrzv2s3j",                     "action_id": "add_detailed_event",                     "service_id": "google_calendar",                     "label": "Create a detailed event",                     "field_options_url": "https://connect.ifttt.com/v2/connections/zG58W2uC/actions/google_calendar.add_detailed_event/field_options",                     "run_url": "https://connect.ifttt.com/v2/connections/zG58W2uC/actions/google_calendar.add_detailed_event/run",                     "fields": [                         {                             "id": "start_time",                             "label": "Start time",                             "type": "TEXT_FIELD",                             "required": true,                             "hidden": true,                             "default_value": "10am"                         },                         {                             "id": "description",                             "label": "Description",                             "type": "TEXT_AREA",                             "required": false,                             "hidden": true,                             "default_value": ""                         },                         {                             "id": "location",                             "label": "Location",                             "type": "TEXT_FIELD",                             "required": false,                             "hidden": true,                             "default_value": ""                         },                         {                             "id": "calendar",                             "label": "Which calendar?",                             "type": "COLLECTION_SELECT",                             "required": true,                             "hidden": false,                             "default_value": {                               "group": null,                               "label": "test@ifttt.com",                               "value": "cIfpFqysBl6kEAAQAAAAAmFsYW5seUBpZnR0dC5jb21hbGFubHlAaWZ0dHQuY29t"                             }                         },                         {                             "id": "attendees",                             "label": "Attendees",                             "type": "TEXT_FIELD",                             "required": false,                             "hidden": true,                             "default_value": ""                         },                         {                             "id": "end_time",                             "label": "End time",                             "type": "TEXT_FIELD",                             "required": true,                             "hidden": true,                             "default_value": "10am"                         },                         {                             "id": "all_day",                             "label": "All day?",                             "type": "COLLECTION_SELECT",                             "required": false,                             "hidden": true,                             "default_value": "false"                         },                         {                             "id": "title",                             "label": "Title",                             "type": "TEXT_FIELD",                             "required": false,                             "hidden": true,                             "default_value": ""                         }                     ]                 }             ]         }     ],     "user_connection": {         "user_features": [             {                 "id": "c62f0695-aae5-4f46-9482-1b8cfba8baf4",                 "feature_id": "qharvmtjdh",                 "enabled": true,                 "user_fields": [                     {                         "field_id": "day_of_week",                         "field_type": "COLLECTION_SELECT",                         "value": {                             "group": null,                             "label": "Tuesday",                             "value": "lkk2Skf2SDF"                         }                     }                 ],                 "user_feature_triggers": [                     {                         "id": "ef618c2d-70a4-4186-aa58-6b743086ebd0",                         "feature_trigger_id": "f3gtkmjkgf",                         "user_fields": [                             {                                 "field_id": "location",                                 "field_type": "LOCATION_ENTER_AND_EXIT",                                 "value": {                                     "lat": 37.78383800416815,                                     "lng": -122.40843300000002,                                     "radius": 316.2010756871335,                                     "address": "923 Market St, San Francisco, CA 94103, USA",                                     "description": "923 Market St, San Francisco, CA 94103, USA",                                     "zoom": 16                                 }                             }                         ]                     }                 ],                 "user_feature_queries": [                     {                         "feature_query_id": "zfgacjes8c",                         "user_fields": [                             {                                 "field_id": "calendar",                                 "field_type": "COLLECTION_SELECT",                                 "value": {                                     "group": null,                                     "label": "test@ifttt.com",                                     "value": "cIfpFqysBl6kEAAQAAAAAmFsYW5seUBpZnR0dC5jb21hbGFubHlAaWZ0dHQuY29t"                                 }                             }                         ]                     }                 ],                 "user_feature_actions": [                     {                         "feature_action_id": "xgzrzv2s3j",                         "user_fields": [                             {                                 "field_id": "calendar",                                 "field_type": "COLLECTION_SELECT",                                 "value": {                                     "group": null,                                     "label": "test@ifttt.com",                                     "value": "cIfpFqysBl6kEAAQAAAAAmFsYW5seUBpZnR0dC5jb21hbGFubHlAaWZ0dHQuY29t"                                 }                             }                         ]                     }                 ]             }         ]     } }  ``` `
-    
+- HTTP Request` ``` GET /v2/connections/C8p3q9T6?user_id=123 Host: connect.ifttt.com IFTTT-Service-Key: 6e7c8978c07a3b5918a237b9b5b1bb70  ``` `
+
+- Response` ``` {     "type": "connection",     "id": "zG58W2uC",     "name": "Track your work hours",     "description": "A new Google Calendar event will be created each time you enter or exit your work location. The exit event automatically calculates the amount of time you spent at work, so you don’t have to!",     "url": "https://ifttt.com/applets/zG58W2uC",     "enabled_count": 22,     "user_status": "enabled",     "services": [         {             "service_id": "google_calendar",             "service_name": "Google Calendar",             "service_short_name": "Google",             "is_primary": true,             "monochrome_icon_url": "https://assets.ifttt.com/images/channels/1396293310/icons/monochrome_regular.png",             "color_icon_url": "https://assets.ifttt.com/images/channels/1396293310/icons/on_color_regular.png",             "brand_color": "#2c6efc",             "url": "https://ifttt.com/google_calendar",             "triggers": [],             "queries": [                 {                     "id": "search_events",                     "label": "Search Events",                     "field_options_url": "https://connect.ifttt.com/v2/connections/zG58W2uC/queries/google_calendar.search_events/field_options",                     "run_url": null,                     "fields": [                         {                             "id": "calendar",                             "label": "Calendar",                             "type": "COLLECTION_SELECT",                             "required": true,                             "hidden": false,                             "default_value": null                         },                         {                             "id": "query",                             "label": "Query",                             "type": "TEXT_FIELD",                             "required": false,                             "hidden": true,                             "default_value": "Empty"                         }                     ],                     "user_queries": [                         {                             "run_url": null,                             "fields": [                                 {                                     "id": "calendar",                                     "group": null,                                     "label": "test@ifttt.com",                                     "value": "cIfpFqysBl6kEAAQAAAAAmFsYW5seUBpZnR0dC5jb21hbGFubHlAaWZ0dHQuY29t"                                 }                             ]                         }                     ]                 }             ],             "actions": [                 {                     "id": "add_detailed_event",                     "label": "Create a detailed event",                     "field_options_url": "https://connect.ifttt.com/v2/connections/zG58W2uC/actions/google_calendar.add_detailed_event/field_options",                     "run_url": "https://connect.ifttt.com/v2/connections/zG58W2uC/actions/google_calendar.add_detailed_event/run",                     "fields": [                         {                             "id": "start_time",                             "label": "Start time",                             "type": "TEXT_FIELD",                             "required": true,                             "hidden": true,                             "default_value": "10am"                         },                         {                             "id": "description",                             "label": "Description",                             "type": "TEXT_AREA",                             "required": false,                             "hidden": true,                             "default_value": ""                         },                         {                             "id": "location",                             "label": "Location",                             "type": "TEXT_FIELD",                             "required": false,                             "hidden": true,                             "default_value": ""                         },                         {                             "id": "calendar",                             "label": "Which calendar?",                             "type": "COLLECTION_SELECT",                             "required": true,                             "hidden": false,                             "default_value": null                         },                         {                             "id": "attendees",                             "label": "Attendees",                             "type": "TEXT_FIELD",                             "required": false,                             "hidden": true,                             "default_value": ""                         },                         {                             "id": "end_time",                             "label": "End time",                             "type": "TEXT_FIELD",                             "required": true,                             "hidden": true,                             "default_value": "10am"                         },                         {                             "id": "all_day",                             "label": "All day?",                             "type": "COLLECTION_SELECT",                             "required": false,                             "hidden": true,                             "default_value": "false"                         },                         {                             "id": "title",                             "label": "Title",                             "type": "TEXT_FIELD",                             "required": false,                             "hidden": true,                             "default_value": ""                         }                     ],                     "user_actions": [                         {                             "run_url": "https://connect.ifttt.com/v2/connections/zG58W2uC/actions/google_calendar.add_detailed_event/run",                             "fields": [                                 {                                     "id": "calendar",                                     "group": null,                                     "label": "test@ifttt.com",                                     "value": "cIfpFqysBl6kEAAQAAAAAmFsYW5seUBpZnR0dC5jb21hbGFubHlAaWZ0dHQuY29t"                                 }                             ]                         }                     ]                 }             ]         },         {             "service_id": "location",             "service_name": "Location",             "service_short_name": "Location",             "is_primary": false,             "monochrome_icon_url": "https://assets.ifttt.com/images/channels/941030000/icons/monochrome_regular.png",             "color_icon_url": "https://assets.ifttt.com/images/channels/941030000/icons/on_color_regular.png",             "brand_color": "#0099ff",             "url": "https://ifttt.com/location",             "triggers": [                 {                     "id": "enter_or_exit_region_location",                     "label": "You enter or exit an area",                     "field_options_url": "https://connect.ifttt.com/v2/connections/zG58W2uC/triggers/location.enter_or_exit_region_location/field_options",                     "run_url": null,                     "fields": [                         {                             "id": "location",                             "label": "Your work location",                             "type": "LOCATION_ENTER_AND_EXIT",                             "required": true,                             "hidden": false,                             "default_value": {                                 "latitude": "37.78383800416815",                                 "longitude": "-122.40843300000002",                                 "radius": "316.2010756871335",                                 "address": "923 Market St, San Francisco, CA 94103, USA",                                 "description": "923 Market St, San Francisco, CA 94103, USA",                                 "zoom": "16"                             }                         }                     ],                     "user_triggers": [                         {                             "run_url": null,                             "fields": [                                 {                                     "id": "location",                                     "value": {                                         "lat": 37.78383800416815,                                         "lng": -122.40843300000002,                                         "radius": 316.2010756871335,                                         "address": "923 Market St, San Francisco, CA 94103, USA",                                         "description": "923 Market St, San Francisco, CA 94103, USA",                                         "zoom": 16                                     }                                 }                             ]                         }                     ]                 }             ],             "queries": [],             "actions": []         }     ],     "value_propositions": [         {             "description": "Effortlessly track time spent at work",             "icon_url": "https://ifttt.com/value-prop-icons/clock.png"         },         {             "description": "Gain valuable insight into your daily routine",             "icon_url": "https://ifttt.com/value-prop-icons/heart.png"         }     ],     "features": [         {             "id": "qharvmtjdh",             "title": "Effortlessly track time spent at work",             "description": null,             "icon_url": "https://ifttt.com/value-prop-icons/clock.png",             "field_options_url": "https://connect.ifttt.com/v2/connections/zG58W2uC/features/qharvmtjdh/field_options",             "fields": [                 {                     "id": "day_of_week",                     "label": "Day of week",                     "type": "COLLECTION_SELECT",                     "required": true,                     "hidden": false,                     "default_value": {                       "group": null,                       "label": "Monday",                       "value": "1"                     }                 }             ],             "feature_triggers": [                 {                     "id": "f3gtkmjkgf",                     "trigger_id": "enter_or_exit_region_location",                     "service_id": "location",                     "label": "You enter or exit an area",                     "field_options_url": "https://connect.ifttt.com/v2/connections/zG58W2uC/triggers/location.enter_or_exit_region_location/field_options",                     "run_url": null,                     "fields": [                         {                             "id": "location",                             "label": "Your work location",                             "type": "LOCATION_ENTER_AND_EXIT",                             "required": true,                             "hidden": false,                             "default_value": {                                 "latitude": "37.78383800416815",                                 "longitude": "-122.40843300000002",                                 "radius": "316.2010756871335",                                 "address": "923 Market St, San Francisco, CA 94103, USA",                                 "description": "923 Market St, San Francisco, CA 94103, USA",                                 "zoom": "16"                             }                         }                     ]                 }             ],             "feature_queries": [                 {                     "id": "zfgacjes8c",                     "query_id": "search_events",                     "service_id": "google_calendar",                     "label": "Search Events",                     "field_options_url": "https://connect.ifttt.com/v2/connections/zG58W2uC/queries/google_calendar.search_events/field_options",                     "run_url": null,                     "fields": [                         {                             "id": "calendar",                             "label": "Calendar",                             "type": "COLLECTION_SELECT",                             "required": true,                             "hidden": false,                             "default_value": null                         },                         {                             "id": "query",                             "label": "Query",                             "type": "TEXT_FIELD",                             "required": false,                             "hidden": true,                             "default_value": "Empty"                         }                     ]                 }             ],             "feature_actions": [                 {                     "id": "xgzrzv2s3j",                     "action_id": "add_detailed_event",                     "service_id": "google_calendar",                     "label": "Create a detailed event",                     "field_options_url": "https://connect.ifttt.com/v2/connections/zG58W2uC/actions/google_calendar.add_detailed_event/field_options",                     "run_url": "https://connect.ifttt.com/v2/connections/zG58W2uC/actions/google_calendar.add_detailed_event/run",                     "fields": [                         {                             "id": "start_time",                             "label": "Start time",                             "type": "TEXT_FIELD",                             "required": true,                             "hidden": true,                             "default_value": "10am"                         },                         {                             "id": "description",                             "label": "Description",                             "type": "TEXT_AREA",                             "required": false,                             "hidden": true,                             "default_value": ""                         },                         {                             "id": "location",                             "label": "Location",                             "type": "TEXT_FIELD",                             "required": false,                             "hidden": true,                             "default_value": ""                         },                         {                             "id": "calendar",                             "label": "Which calendar?",                             "type": "COLLECTION_SELECT",                             "required": true,                             "hidden": false,                             "default_value": {                               "group": null,                               "label": "test@ifttt.com",                               "value": "cIfpFqysBl6kEAAQAAAAAmFsYW5seUBpZnR0dC5jb21hbGFubHlAaWZ0dHQuY29t"                             }                         },                         {                             "id": "attendees",                             "label": "Attendees",                             "type": "TEXT_FIELD",                             "required": false,                             "hidden": true,                             "default_value": ""                         },                         {                             "id": "end_time",                             "label": "End time",                             "type": "TEXT_FIELD",                             "required": true,                             "hidden": true,                             "default_value": "10am"                         },                         {                             "id": "all_day",                             "label": "All day?",                             "type": "COLLECTION_SELECT",                             "required": false,                             "hidden": true,                             "default_value": "false"                         },                         {                             "id": "title",                             "label": "Title",                             "type": "TEXT_FIELD",                             "required": false,                             "hidden": true,                             "default_value": ""                         }                     ]                 }             ]         }     ],     "user_connection": {         "user_features": [             {                 "id": "c62f0695-aae5-4f46-9482-1b8cfba8baf4",                 "feature_id": "qharvmtjdh",                 "enabled": true,                 "user_fields": [                     {                         "field_id": "day_of_week",                         "field_type": "COLLECTION_SELECT",                         "value": {                             "group": null,                             "label": "Tuesday",                             "value": "lkk2Skf2SDF"                         }                     }                 ],                 "user_feature_triggers": [                     {                         "id": "ef618c2d-70a4-4186-aa58-6b743086ebd0",                         "feature_trigger_id": "f3gtkmjkgf",                         "user_fields": [                             {                                 "field_id": "location",                                 "field_type": "LOCATION_ENTER_AND_EXIT",                                 "value": {                                     "lat": 37.78383800416815,                                     "lng": -122.40843300000002,                                     "radius": 316.2010756871335,                                     "address": "923 Market St, San Francisco, CA 94103, USA",                                     "description": "923 Market St, San Francisco, CA 94103, USA",                                     "zoom": 16                                 }                             }                         ]                     }                 ],                 "user_feature_queries": [                     {                         "feature_query_id": "zfgacjes8c",                         "user_fields": [                             {                                 "field_id": "calendar",                                 "field_type": "COLLECTION_SELECT",                                 "value": {                                     "group": null,                                     "label": "test@ifttt.com",                                     "value": "cIfpFqysBl6kEAAQAAAAAmFsYW5seUBpZnR0dC5jb21hbGFubHlAaWZ0dHQuY29t"                                 }                             }                         ]                     }                 ],                 "user_feature_actions": [                     {                         "feature_action_id": "xgzrzv2s3j",                         "user_fields": [                             {                                 "field_id": "calendar",                                 "field_type": "COLLECTION_SELECT",                                 "value": {                                     "group": null,                                     "label": "test@ifttt.com",                                     "value": "cIfpFqysBl6kEAAQAAAAAmFsYW5seUBpZnR0dC5jb21hbGFubHlAaWZ0dHQuY29t"                                 }                             }                         ]                     }                 ]             }         ]     } }  ``` `
 
 Response attributes:
 
@@ -362,8 +350,7 @@ This endpoint can be used to update a specific user's connection. The request mu
 
 ###### Example: Update a connection, service-authenticated with user\_id
 
--   HTTP Request` ``` PUT /v2/connections/C8p3q9T6/user_connection?user_id=123 Host: connect.ifttt.com IFTTT-Service-Key: 6e7c8978c07a3b5918a237b9b5b1bb70 {   "user_features": [     {       "feature_id": "XwqsedQk",       "enabled": true,       "user_fields": [         {           "field_id": "color",           "value": "red"         }       ],       "user_feature_triggers": [         {           "feature_trigger_id": "ht5kw3ga7l",           "user_fields": [             {               "field_id": "condition",               "value": "rain"             }           ]         }       ],       "user_feature_queries": [...],       "user_feature_actions": [...]     }   ] }  ``` `
-    
+- HTTP Request` ``` PUT /v2/connections/C8p3q9T6/user_connection?user_id=123 Host: connect.ifttt.com IFTTT-Service-Key: 6e7c8978c07a3b5918a237b9b5b1bb70 {   "user_features": [     {       "feature_id": "XwqsedQk",       "enabled": true,       "user_fields": [         {           "field_id": "color",           "value": "red"         }       ],       "user_feature_triggers": [         {           "feature_trigger_id": "ht5kw3ga7l",           "user_fields": [             {               "field_id": "condition",               "value": "rain"             }           ]         }       ],       "user_feature_queries": [...],       "user_feature_actions": [...]     }   ] }  ``` `
 
 ##### Update a connection (deprecated)
 
@@ -379,8 +366,7 @@ Below is an example of updating a user action field with id `title`, which confi
 
 ###### Example: Update a connection, service-authenticated with user\_id
 
--   HTTP Request` ``` POST /v2/connections/C8p3q9T6 Host: connect.ifttt.com IFTTT-Service-Key: 6e7c8978c07a3b5918a237b9b5b1bb70 {   "user_id": 123,   "services": [     {       "service_id": "acme_social_network",       "actions": [         {           "id": "post_picture",           "user_actions": [             {               "fields": [                 {                   "id": "title",                   "value": "My San Francisco today"                 }               ]             }           ]         }       ]     }   ] }  ``` `
-    
+- HTTP Request` ``` POST /v2/connections/C8p3q9T6 Host: connect.ifttt.com IFTTT-Service-Key: 6e7c8978c07a3b5918a237b9b5b1bb70 {   "user_id": 123,   "services": [     {       "service_id": "acme_social_network",       "actions": [         {           "id": "post_picture",           "user_actions": [             {               "fields": [                 {                   "id": "title",                   "value": "My San Francisco today"                 }               ]             }           ]         }       ]     }   ] }  ``` `
 
 ##### Field options
 
@@ -392,21 +378,19 @@ The field option endpoints allow you to fetch the available options for trigger 
 
 ###### Path Segments
 
--   type
-    
+- type
+
     (string) The type of field. Must be \`triggers\`, \`queries\`, \`actions\`, or \`features\`.
-    
+
     type\_id
-    
+
     (string) The ID for the specific trigger, query, action, or feature.
-    
 
 ###### Example: Action Field Options, service-authenticated with user\_id
 
--   HTTP Request` ``` GET /v2/connections/C8p3q9T6/actions/acme_cloud_storage.archive/field_options?user_id=123 Host: connect.ifttt.com IFTTT-Service-Key: vFRqPGZBmZjB8JPp3mBFqOdt  ``` `
-    
--   Response` ``` {   "type": "field_options",   "options": {     "folder_name": [       {         "label": "Movies",         "value": "aBwLdm2ydHVya0BQbWFpbC8jb22=;2641ab0g",         "group": null       },       {         "label": "Music",         "value": "dHwLdm2ydHVya0BnbWFbgC8jb44=;1411vb0q",         "group": null       }     ]   } }  ``` `
-    
+- HTTP Request` ``` GET /v2/connections/C8p3q9T6/actions/acme_cloud_storage.archive/field_options?user_id=123 Host: connect.ifttt.com IFTTT-Service-Key: vFRqPGZBmZjB8JPp3mBFqOdt  ``` `
+
+- Response` ``` {   "type": "field_options",   "options": {     "folder_name": [       {         "label": "Movies",         "value": "aBwLdm2ydHVya0BQbWFpbC8jb22=;2641ab0g",         "group": null       },       {         "label": "Music",         "value": "dHwLdm2ydHVya0BnbWFbgC8jb44=;1411vb0q",         "group": null       }     ]   } }  ``` `
 
 Response attributes:
 
@@ -428,10 +412,9 @@ Let's say you have a smart light service on IFTTT with an action that uses a dro
 
 ###### Example: Refreshing a connection, service-authenticated with user\_id
 
--   HTTP Request` ``` POST /v2/connections/C8p3q9T6/user_connection/refresh?user_id=123 Host: connect.ifttt.com IFTTT-Service-Key: vFRqPGZBmZjB8JPp3mBFqOdt  ``` `
-    
--   Response` ``` HTTP/1.1 204 No Content Content-Type: application/json; charset=utf-8  ``` `
-    
+- HTTP Request` ``` POST /v2/connections/C8p3q9T6/user_connection/refresh?user_id=123 Host: connect.ifttt.com IFTTT-Service-Key: vFRqPGZBmZjB8JPp3mBFqOdt  ``` `
+
+- Response` ``` HTTP/1.1 204 No Content Content-Type: application/json; charset=utf-8  ``` `
 
 ### Connection events
 
@@ -441,7 +424,7 @@ Connections are enabled by your users on the IFTTT web app or through your mobil
 
 ###### Example: Connection enabled
 
--   ```
+- ```
     
     POST /ifttt/v1/webhooks/connection/enabled HTTP/1.1
     Host: api.example-service.com
@@ -459,7 +442,6 @@ Connections are enabled by your users on the IFTTT web app or through your mobil
       }
     }
     ```
-    
 
 ##### Updated webhook
 
@@ -467,7 +449,7 @@ When a user updates a connection, IFTTT will send a request to your API's [Webho
 
 ###### Example: Connection Updated
 
--   ```
+- ```
     
     POST /ifttt/v1/webhooks/connection/updated HTTP/1.1
     Host: api.example-service.com
@@ -485,7 +467,6 @@ When a user updates a connection, IFTTT will send a request to your API's [Webho
       }
     }
     ```
-    
 
 ##### Disabled webhook
 
@@ -493,7 +474,7 @@ When a user disabled a connection, IFTTT will send a request to your API's [Webh
 
 ###### Example: Connection disabled
 
--   ```
+- ```
     
     POST /ifttt/v1/webhooks/connection/disabled HTTP/1.1
     Host: api.example-service.com
@@ -511,7 +492,6 @@ When a user disabled a connection, IFTTT will send a request to your API's [Webh
       }
     }
     ```
-    
 
 ### Triggers
 
@@ -531,7 +511,7 @@ When a trigger detects a new event, IFTTT will send a request to your API's [Web
 
 ###### Example: New Trigger Event
 
--   ```
+- ```
     
     POST /ifttt/v1/webhooks/trigger_subscription/fired HTTP/1.1
     Host: api.example-service.com
@@ -555,7 +535,6 @@ When a trigger detects a new event, IFTTT will send a request to your API's [Web
       }
     }
     ```
-    
 
 ##### Test trigger event webhook
 
@@ -567,10 +546,9 @@ This endpoint can be used to simulate a new event. A request to this endpoint wi
 
 ###### Example: Test event, service-authenticated with user\_id
 
--   HTTP Request` ``` POST /v2/connections/C8p3q9T6/triggers/acme_cloud_storage.new_file_added/test Host: connect.ifttt.com IFTTT-Service-Key: vFRqPGZBmZjB8JPp3mBFqOdt {   "user_id": 123,   "user_feature_id": "90276cb1-e8ff-4718-a34f-c73cf75c49cf" }  ``` `
-    
--   Response` ``` HTTP/1.1 204 No Content Status: 204 No Content  ``` `
-    
+- HTTP Request` ``` POST /v2/connections/C8p3q9T6/triggers/acme_cloud_storage.new_file_added/test Host: connect.ifttt.com IFTTT-Service-Key: vFRqPGZBmZjB8JPp3mBFqOdt {   "user_id": 123,   "user_feature_id": "90276cb1-e8ff-4718-a34f-c73cf75c49cf" }  ``` `
+
+- Response` ``` HTTP/1.1 204 No Content Status: 204 No Content  ``` `
 
 Request attributes:
 
@@ -606,10 +584,9 @@ Optionally, you may include a JSON object in the body of the request with any or
 
 ###### Example: Perform Query, service-authenticated with user\_id
 
--   HTTP Request` ``` POST /v2/connections/C8p3q9T6/queries/acme_cloud_storage.list_files/perform Host: connect.ifttt.com IFTTT-Service-Key: vFRqPGZBmZjB8JPp3mBFqOdt {   "user_id": 123,   "fields": {     "folder_name": "aBwLdm2ydHVya0BQbWFpbC8jb22=;2641ab0g",   }   "includes": ["versions"],   "limit": 1 }  ``` `
-    
--   Response` ``` {   "type": "list",   "data": [     {       "id": "kj39jskl",       "name": "posts.zip",       "created_at": "2017-08-27T12:52:59-07:00",       "size": "293234",       "version": 3,       "tags": {         "type": "query",         "fields": {           "file_id": "zAwLdm2ydHVya0BQbWFpbC8jb3e=;3441ab0g"         }       }       "versions": {         "type": "list",         "data": [           {             "id": 2,             "created_at": "2018-08-27T12:52:59-07:00",             "size": "293234"           },           {             "id": 1,             "created_at": "2018-08-26T12:52:59-07:00",             "size": "293000"           }         ]       }     }   ],   "next": {     "fields": {       "folder_name": "aBwLdm2ydHVya0BQbWFpbC8jb22=;2641ab0g"     },     "cursor": "151517700064544d60c3a02405f8bd5520d3e31571"   } }  ``` `
-    
+- HTTP Request` ``` POST /v2/connections/C8p3q9T6/queries/acme_cloud_storage.list_files/perform Host: connect.ifttt.com IFTTT-Service-Key: vFRqPGZBmZjB8JPp3mBFqOdt {   "user_id": 123,   "fields": {     "folder_name": "aBwLdm2ydHVya0BQbWFpbC8jb22=;2641ab0g",   }   "includes": ["versions"],   "limit": 1 }  ``` `
+
+- Response` ``` {   "type": "list",   "data": [     {       "id": "kj39jskl",       "name": "posts.zip",       "created_at": "2017-08-27T12:52:59-07:00",       "size": "293234",       "version": 3,       "tags": {         "type": "query",         "fields": {           "file_id": "zAwLdm2ydHVya0BQbWFpbC8jb3e=;3441ab0g"         }       }       "versions": {         "type": "list",         "data": [           {             "id": 2,             "created_at": "2018-08-27T12:52:59-07:00",             "size": "293234"           },           {             "id": 1,             "created_at": "2018-08-26T12:52:59-07:00",             "size": "293000"           }         ]       }     }   ],   "next": {     "fields": {       "folder_name": "aBwLdm2ydHVya0BQbWFpbC8jb22=;2641ab0g"     },     "cursor": "151517700064544d60c3a02405f8bd5520d3e31571"   } }  ``` `
 
 Request attributes:
 
@@ -634,10 +611,9 @@ In the example above we request a list of files in a folder. Each file has simpl
 
 ###### Example: Request a next page of a query, service-authenticated with user\_id
 
--   HTTP Request` ``` POST /v2/connections/C8p3q9T6/queries/acme_cloud_storage.list_files/perform Host: connect.ifttt.com IFTTT-Service-Key: vFRqPGZBmZjB8JPp3mBFqOdt {   "user_id": 123,   "fields": {     "folder_name": "aBwLdm2ydHVya0BQbWFpbC8jb22=;2641ab0g",   }   "includes": ["versions"],   "limit": 1,   "cursor": "151517700064544d60c3a02405f8bd5520d3e31571" }  ``` `
-    
--   Response` ``` {   "type": "list",   "data": [     {       "id": "ejjskl",       "name": "documents.zip",       "created_at": "2018-08-26T12:52:59-07:00",       "size": "93000",       "version": 1,       "tags": {         "type": "query",         "fields": {           "file_id": "wAwLdm2ydHVya0BQbWFpbC8jb3e=;3441ab0g"         }       }       "versions": {         "type": "list",         "data": [           {             "id": 1,             "created_at": "2018-08-26T12:52:59-07:00",             "size": "93000"           }         ]       }     }   ] },  ``` `
-    
+- HTTP Request` ``` POST /v2/connections/C8p3q9T6/queries/acme_cloud_storage.list_files/perform Host: connect.ifttt.com IFTTT-Service-Key: vFRqPGZBmZjB8JPp3mBFqOdt {   "user_id": 123,   "fields": {     "folder_name": "aBwLdm2ydHVya0BQbWFpbC8jb22=;2641ab0g",   }   "includes": ["versions"],   "limit": 1,   "cursor": "151517700064544d60c3a02405f8bd5520d3e31571" }  ``` `
+
+- Response` ``` {   "type": "list",   "data": [     {       "id": "ejjskl",       "name": "documents.zip",       "created_at": "2018-08-26T12:52:59-07:00",       "size": "93000",       "version": 1,       "tags": {         "type": "query",         "fields": {           "file_id": "wAwLdm2ydHVya0BQbWFpbC8jb3e=;3441ab0g"         }       }       "versions": {         "type": "list",         "data": [           {             "id": 1,             "created_at": "2018-08-26T12:52:59-07:00",             "size": "93000"           }         ]       }     }   ] },  ``` `
 
 In this example we request a second page of the previous result using `cursor`. Note the lack of `next` attribute in the response, indicating the end of the result.
 
@@ -676,55 +652,50 @@ Although all action field text inputs are strings, many action fields are define
 | Messages | Short Text | Character count should be less than 140 characters |
 | Messages | HTML | `<b>Bold</b><br /><p>and</p><i>Italicize</i>` |
 | Metadata | Path to a folder | /path/to/folder |
-| URLs | Link, Photo, File, Audio | https://example.com/path/to/resource |
+| URLs | Link, Photo, File, Audio | <https://example.com/path/to/resource> |
 | Date and Time | ISO 8601 | 1977-04-23T21:41:09 |
 
 ###### Example: Action Run, service-authenticated with user\_id
 
--   HTTP Request` ``` POST /v2/connections/C8p3q9T6/actions/acme_cloud_storage.upload_from_url/run Host: connect.ifttt.com IFTTT-Service-Key: vFRqPGZBmZjB8JPp3mBFqOdt {   "user_id": 123 }  ``` `
-    
--   Response` ``` HTTP/1.1 204 No Content Status: 204 No Content  ``` `
-    
+- HTTP Request` ``` POST /v2/connections/C8p3q9T6/actions/acme_cloud_storage.upload_from_url/run Host: connect.ifttt.com IFTTT-Service-Key: vFRqPGZBmZjB8JPp3mBFqOdt {   "user_id": 123 }  ``` `
+
+- Response` ``` HTTP/1.1 204 No Content Status: 204 No Content  ``` `
 
 ###### Example: Action Run with field values, service-authenticated with user\_id
 
--   HTTP Request` ``` POST /v2/connections/C8p3q9T6/actions/acme_cloud_storage.upload_from_url/run Host: connect.ifttt.com IFTTT-Service-Key: vFRqPGZBmZjB8JPp3mBFqOdt {   "user_id": 123,   "fields": {     "folder_name": "aBwLdm2ydHVya0BQbWFpbC8jb22=;2641ab0g"     "filename": "screenshot_04_23_1977",     "url": "https://my.service/path/to/resource.png",   } }  ``` `
-    
--   Response` ``` HTTP/1.1 204 No Content Status: 204 No Content  ``` `
-    
+- HTTP Request` ``` POST /v2/connections/C8p3q9T6/actions/acme_cloud_storage.upload_from_url/run Host: connect.ifttt.com IFTTT-Service-Key: vFRqPGZBmZjB8JPp3mBFqOdt {   "user_id": 123,   "fields": {     "folder_name": "aBwLdm2ydHVya0BQbWFpbC8jb22=;2641ab0g"     "filename": "screenshot_04_23_1977",     "url": "https://my.service/path/to/resource.png",   } }  ``` `
+
+- Response` ``` HTTP/1.1 204 No Content Status: 204 No Content  ``` `
 
 ###### Example: Action Run with `user_feature_id`, service-authenticated with user\_id
 
--   HTTP Request` ``` POST /v2/connections/C8p3q9T6/actions/acme_cloud_storage.upload_from_url/run Host: connect.ifttt.com IFTTT-Service-Key: vFRqPGZBmZjB8JPp3mBFqOdt {   "user_id": 123,   "user_feature_id": "4da42aa6-3858-4722-9ded-6a7ecdefd91f" }  ``` `
-    
--   Response` ``` HTTP/1.1 204 No Content Status: 204 No Content  ``` `
-    
+- HTTP Request` ``` POST /v2/connections/C8p3q9T6/actions/acme_cloud_storage.upload_from_url/run Host: connect.ifttt.com IFTTT-Service-Key: vFRqPGZBmZjB8JPp3mBFqOdt {   "user_id": 123,   "user_feature_id": "4da42aa6-3858-4722-9ded-6a7ecdefd91f" }  ``` `
+
+- Response` ``` HTTP/1.1 204 No Content Status: 204 No Content  ``` `
 
 ### Examples
 
 ###### Example: Using a location (field\_type: LOCATION\_POINT) field when running a query
 
--   HTTP Request` ``` POST /v2/connections/C8p3q9T6/queries/weather.current_weather/perform Host: connect.ifttt.com IFTTT-Service-Key: vFRqPGZBmZjB8JPp3mBFqOdt {   "user_id": 123,   "user_feature_id": "4da42aa6-3858-4722-9ded-6a7ecdefd91f"   "fields" : {     "location": {       "lat": 18.124,       "lng": 10.298     }   } }  ``` `
-    
+- HTTP Request` ``` POST /v2/connections/C8p3q9T6/queries/weather.current_weather/perform Host: connect.ifttt.com IFTTT-Service-Key: vFRqPGZBmZjB8JPp3mBFqOdt {   "user_id": 123,   "user_feature_id": "4da42aa6-3858-4722-9ded-6a7ecdefd91f"   "fields" : {     "location": {       "lat": 18.124,       "lng": 10.298     }   } }  ``` `
 
 ###### Example: Using an area (field\_type: LOCATION\_RADIUS) field when running a query
 
--   HTTP Request` ``` POST /v2/connections/C8p3q9T6/queries/acme.population/perform Host: connect.ifttt.com IFTTT-Service-Key: vFRqPGZBmZjB8JPp3mBFqOdt {   "user_id": 123,   "user_feature_id": "4da42aa6-3858-4722-9ded-6a7ecdefd91f"   "fields" : {     "area": {       "lat": 18.124,       "lng": 10.298,       "radius": 3     }   } }  ``` `
-    
+- HTTP Request` ``` POST /v2/connections/C8p3q9T6/queries/acme.population/perform Host: connect.ifttt.com IFTTT-Service-Key: vFRqPGZBmZjB8JPp3mBFqOdt {   "user_id": 123,   "user_feature_id": "4da42aa6-3858-4722-9ded-6a7ecdefd91f"   "fields" : {     "area": {       "lat": 18.124,       "lng": 10.298,       "radius": 3     }   } }  ``` `
 
 ###### Example: Using a dropdown (field\_type: COLLECTION\_SELECT or DOUBLE\_COLLECTION\_SELECT) field when running an action
 
 If you want to override a dropdown field when running an action or query you **must** use a value provided by the `field_options` endpoint. First request all possible field values.
 
--   HTTP Request` ``` GET /v2/connections/C8p3q9T6/actions/acme.send_message/field_options Host: connect.ifttt.com IFTTT-Service-Key: vFRqPGZBmZjB8JPp3mBFqOdt  ``` `
-    
--   Response` ``` HTTP/1.1 200 OK Content-Type: application/json; charset=utf-8  {   "type": "field_options",   "options": {     "channel": [       {         "label": "Cats",         "value": "oFro6MQAAA1UEwzVVNNVnJ1UtZ2hvc3RidJz",         "group": null       },       {         "label": "Dogs",         "value": "EMHK+6aCAPAAAAgkI0WXJ1bpbtcHJpdmF0ZQ",         "group": null       }     ]   } }  ``` `
-    
+- HTTP Request` ``` GET /v2/connections/C8p3q9T6/actions/acme.send_message/field_options Host: connect.ifttt.com IFTTT-Service-Key: vFRqPGZBmZjB8JPp3mBFqOdt  ``` `
+
+- Response` ``` HTTP/1.1 200 OK Content-Type: application/json; charset=utf-8  {   "type": "field_options",   "options": {     "channel": [       {         "label": "Cats",         "value": "oFro6MQAAA1UEwzVVNNVnJ1UtZ2hvc3RidJz",         "group": null       },       {         "label": "Dogs",         "value": "EMHK+6aCAPAAAAgkI0WXJ1bpbtcHJpdmF0ZQ",         "group": null       }     ]   } }  ``` `
+
 Then use a value returned in a subsequent query or action run.-   HTTP Request` ``` POST /v2/connections/C8p3q9T6/actions/acme.send_message/run Host: connect.ifttt.com IFTTT-Service-Key: vFRqPGZBmZjB8JPp3mBFqOdt {   "user_id": 123,   "user_feature_id": "4da42aa6-3858-4722-9ded-6a7ecdefd91f"   "fields" : {     "channel": "oFro6MQAAA1UEwzVVNNVnJ1UtZ2hvc3RidJz",     "message": "Woof!"   } }  ``` `
-    
+
 You will receive an error response if you use a value not from a field options response.-   HTTP Request` ``` POST /v2/connections/C8p3q9T6/actions/acme.send_message/run Host: connect.ifttt.com IFTTT-Service-Key: vFRqPGZBmZjB8JPp3mBFqOdt {   "user_id": 123,   "user_feature_id": "4da42aa6-3858-4722-9ded-6a7ecdefd91f"   "fields" : {     "channel": "Cats",     "message": "Woof!"   } }  ``` `
-    
--   Response` ``` HTTP/1.1 422 Unprocessable Entity Content-Type: application/json; charset=utf-8  {   "type": "error",   "code": "invalid_parameters",   "message": "The parameters of your request were invalid",   "details": [     {       "parameter": "/fields/channel",       "message": "Not a valid option for this field. Use the field options request to get valid options."     }   ] }  ``` `
+
+- Response` ``` HTTP/1.1 422 Unprocessable Entity Content-Type: application/json; charset=utf-8  {   "type": "error",   "code": "invalid_parameters",   "message": "The parameters of your request were invalid",   "details": [     {       "parameter": "/fields/channel",       "message": "Not a valid option for this field. Use the field options request to get valid options."     }   ] }  ``` `
 
 ---
-#ifttt 
+# ifttt

@@ -11,5 +11,3 @@ Any characters not given an interpretation by the above rules will be parsed as 
 
 Internal spaces are preserved verbatim:  
 <Example :index="$page.frontmatter.start++"/>
-
-    

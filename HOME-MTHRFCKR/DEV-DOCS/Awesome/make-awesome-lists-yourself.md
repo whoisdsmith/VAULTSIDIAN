@@ -2,7 +2,7 @@
 
 ---
 
-*This material was originally* [_posted on Habr.com_](https://habr.com/ru/company/croc/blog/496594/) *in Russian. The author permitted it to be translated and published on Codingsight.*
+*This material was originally* [*posted on Habr.com*](https://habr.com/ru/company/croc/blog/496594/) *in Russian. The author permitted it to be translated and published on Codingsight.*
 
 Perhaps, everyone has somewhere a file to keep certain exciting and useful things, like, links to articles, books, repositories, manuals, etc. You might use bookmarks in a browser or tabs, still open and waiting for you. Over time, it all grows excessively, links become broken, and materials get obsolete.
 
@@ -12,7 +12,7 @@ This is what we have the [Awesome Lists project](https://github.com/sindresorhus
 
 Awesome Lists is among the top-10 GitHub repositories, boasting 138k “stars” already, and a link to your works can make it up to its root README, thus attracting huge audiences. However, you’ll have to make some effort first. Here, I want to share my experience.
 
-I am Maksim Gramin, a Java developer and database researcher at [CROC](https://www.croc.ru/), an international IT company with HQ in Moscow. This article will tell you about Awesome Lists and how to make your official awesome-repo. 
+I am Maksim Gramin, a Java developer and database researcher at [CROC](https://www.croc.ru/), an international IT company with HQ in Moscow. This article will tell you about Awesome Lists and how to make your official awesome-repo.
 
 ## What Are Awesome Lists About?
 
@@ -42,7 +42,7 @@ What do you need for that?
 
 1. Register a standard GitHub-repo and name it like awesome-smth–in my case, it was awesome-database-tools.
 2. Adjust the list to the *awesome* format using [generator-awesome-list](https://github.com/dar5hak/generator-awesome-list) that will generate all the necessary files in the right format.
-3. Configure continuous integration (CI)–[awesome-lint](https://github.com/sindresorhus/awesome-lint) and Travis CI will help us control the [validity](https://travis-ci.org/github/mgramin/awesome-db-tools) of the list. 
+3. Configure continuous integration (CI)–[awesome-lint](https://github.com/sindresorhus/awesome-lint) and Travis CI will help us control the [validity](https://travis-ci.org/github/mgramin/awesome-db-tools) of the list.
 4. Wait for 30 days.
 5. Review at least 2 other pull requests.
 6. Make a pull request to the main repo, and add a link to our own repo. **Important**: Carefully read all the numerous requirements to the new list and pull requests, and follow them precisely.

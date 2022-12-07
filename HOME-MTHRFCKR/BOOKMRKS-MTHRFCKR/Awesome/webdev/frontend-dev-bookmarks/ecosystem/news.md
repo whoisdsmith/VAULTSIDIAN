@@ -9,6 +9,7 @@ Websites &amp; newsletters which provide daily and weekly news related to fronte
 [![Twitter](https://img.shields.io/badge/follow-twitter-55acee.svg?style=flat-square)](https://twitter.com/FrontendDir)
 
 -----------------------------------------
+
 + **[A Drip of JavaScript](http://adripofjavascript.com/)**: One quick JavaScript tip, delivered to your inbox every other week.
 + **[CSS Weekly](http://css-weekly.com/)**: Weekly E-Mail roundup of CSS articles, tutorials, experiments and tools
 curated by Zoran Jambor.
@@ -24,7 +25,6 @@ curated by Zoran Jambor.
 + **[Web Platform Daily](http://webplatformdaily.org/)**: Daily digest of web development news.
 + **[Web Tools Weekly](http://webtoolsweekly.com/)**: Web Tools Weekly is a front-end development and web design newsletter with a focus on tools.
 + **[echo.js](http://www.echojs.com/)**: Echo JS is a community-driven news site entirely focused on JavaScript development, HTML5, and front-end news.
-
 
 ------------------
 

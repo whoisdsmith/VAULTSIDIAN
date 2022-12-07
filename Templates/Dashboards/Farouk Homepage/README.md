@@ -2,36 +2,35 @@
 
 don't forget to install the homepage above to take or get inspired by what you are interested in.
 
-Showcase : https://forum.obsidian.md/t/obsidian-homepage-showcase-minimal-and-aesthetic-template-with-unique-features/40367
+Showcase : <https://forum.obsidian.md/t/obsidian-homepage-showcase-minimal-and-aesthetic-template-with-unique-features/40367>
 
-https://user-images.githubusercontent.com/109313204/179099717-a861d187-0bb6-4e82-96d5-1802cb2cb532.mov
+<https://user-images.githubusercontent.com/109313204/179099717-a861d187-0bb6-4e82-96d5-1802cb2cb532.mov>
 
 ## Features
 
 - Infobox functionality (with banner)
 - Automatic humanized greeting heading
-- Life progress (Thanks to https://github.com/SlRvb)
+- Life progress (Thanks to <https://github.com/SlRvb>)
 - Obsidian activity
 - My style to navigate through the notes
 
 ## Infobox Functionality (with banner)
 
-### What Do You Need :
+### What Do You Need
 
 - Download the CSS Snippets which are located in the folder Infbox.
   - ITS theme Image Adjustment.css
   - ITS callouts (infobox).css
   
-
-### How to Do it :
+### How to Do it
 
 First of all read this, it will tell you easily how it works.
 
-- https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Guide/Callouts.md
+- <https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Guide/Callouts.md>
 
 Basically what I did, I took the infobox and I turned it into small boxes where I have all my other main pages linked and all separated into three categories where each category has its own banner depending on its "role" in my vault.
 
-### Your Turn! :
+### Your Turn!
 
 feel free to see it in the "00. Homepage.md" and create your own categories by changing the links and banners. Normally with the link I sent above, it will be a piece of cake for you.
 
@@ -39,9 +38,9 @@ feel free to see it in the "00. Homepage.md" and create your own categories by c
 
 I'm not going to take too long on this, I've already created a post about it on the obsidian forum so don't hesitate to see it.
 
-- https://forum.obsidian.md/t/dataviewjs-get-an-automatic-humanized-morning-afternoon-evening-great-for-user-greetings/33351
+- <https://forum.obsidian.md/t/dataviewjs-get-an-automatic-humanized-morning-afternoon-evening-great-for-user-greetings/33351>
 
-### What Do You Need and How to Do it :
+### What Do You Need and How to Do it
 
 All you need is the Dataview plugin, then go to its settings and activate dataviewjs. With "00. Homepage.md" copy and paste the code and change the texts as you like. Voila you've done it.
 
@@ -49,7 +48,7 @@ All you need is the Dataview plugin, then go to its settings and activate datavi
 
 Credit to @SlRvb for creating this wonderful code.
 
-### What Do You Need and How to Do it :
+### What Do You Need and How to Do it
 
 All you need is the Dataview plugin, then go to its settings and activate dataviewjs.  
 With "00. Life Progress.md", copy and paste the code and all you have to do is change the year, month and day corresponding to your birth date.  
@@ -70,7 +69,7 @@ Your date of birth is for the "Life" line. The rest is already in the code, don'
 
 Credit to @Rainbell129 for this code.
 
-### What Do You Need and How to Do it :
+### What Do You Need and How to Do it
 
 With "00. Activity.md", copy and paste the code and you are done.
 

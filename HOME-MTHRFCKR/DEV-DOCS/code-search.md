@@ -1,4 +1,4 @@
-##  Code Search
+## Code Search
 
 *Search by website source code*
 

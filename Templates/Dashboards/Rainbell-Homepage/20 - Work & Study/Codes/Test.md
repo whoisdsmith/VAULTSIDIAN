@@ -39,10 +39,10 @@ python
 
 ```dataview
 table
-		language,
- 		framework,
-		description,
-		file.cday AS "Time"
+  language,
+   framework,
+  description,
+  file.cday AS "Time"
 from #code_snippet and !"40 - Obsidian/Templates"
 where date(today) - file.ctime <=dur(7 days)
 sort file.mtime desc

@@ -29,8 +29,8 @@ text-align: center;"
 
 ```dataview
 TABLE
-	why AS "Why?",
-	stage AS "Status"
+ why AS "Why?",
+ stage AS "Status"
 FROM #bucket-list 
 where file.name != "🪣 New Bucket List"
 ```

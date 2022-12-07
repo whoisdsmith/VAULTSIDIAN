@@ -18,7 +18,7 @@
 
 `\dt+`
 
-### Show databases with their privileges and size (`+`) 
+### Show databases with their privileges and size (`+`)
 
 `\l+`
 
@@ -27,11 +27,12 @@
 `\dn`
 
 ### Gets the size of a schema
+
 ```
 SELECT pg_size_pretty(SUM(pg_total_relation_size(quote_ident(schemaname) || '.' || quote_ident(tablename)))::BIGINT) FROM pg_tables WHERE schemaname = 'schema_name'
 ```
 
-### Return back to shell 
+### Return back to shell
 
 `\q`
 
@@ -51,7 +52,7 @@ SELECT pg_size_pretty(SUM(pg_total_relation_size(quote_ident(schemaname) || '.' 
 
 `SELECT rolname FROM pg_roles;`
 
-### Detail of a role 
+### Detail of a role
 
 `SELECT * FROM pg_roles WHERE rolname = '...'`
 
@@ -60,7 +61,8 @@ SELECT pg_size_pretty(SUM(pg_total_relation_size(quote_ident(schemaname) || '.' 
 If you're using CLI and you're a postgres user, then you can do this:
 `psql -c "SELECT version();"`
 
-### Creating a copy of a database in PostgreSQL.
+### Creating a copy of a database in PostgreSQL
+
 ```
 # backup
 pg_dumpall > db.out 

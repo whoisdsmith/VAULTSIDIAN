@@ -1,5 +1,5 @@
--   [Make Help Center](https://www.make.com/en/help/index-en.html)
--   Glossary
+- [Make Help Center](https://www.make.com/en/help/index-en.html)
+- Glossary
 
 ### Glossary
 
@@ -11,16 +11,13 @@ You can create, read, update, or delete data with an action module. Action modul
 
 There are two ways you can use scenarios in Make depending on how you want your scenario to function:
 
--   Active scenarios run according to a defined schedule or webhook.
-    
-    -   For example: to watch a spreadsheet or webhook.
-        
-    
--   Inactive scenarios execute manually whenever you wish to run them.
-    
-    -   For example: limited, one-time results such as retrieving data for a specific time.
-        
-    
+- Active scenarios run according to a defined schedule or webhook.
+
+  - For example: to watch a spreadsheet or webhook.
+
+- Inactive scenarios execute manually whenever you wish to run them.
+
+  - For example: limited, one-time results such as retrieving data for a specific time.
 
 You can change between active and inactive whenever you like on the Scenarios tab.
 
@@ -28,14 +25,13 @@ You can change between active and inactive whenever you like on the Scenarios ta
 
 An aggregator is a type of module that allows you to merge multiple bundles into one single bundle. Aggregators are useful in making data readable for certain modules or generating meaningful output. Make offers:
 
--   [Array aggregator](https://www.make.com/en/help/glossary.html#UUID-093a9d1a-680a-bd1d-3485-13e79d573196_N620234e1adc0f "Array aggregator")
-    
--   [Numerical aggregator](https://www.make.com/en/help/glossary.html#UUID-093a9d1a-680a-bd1d-3485-13e79d573196_N62024cf5c7c35 "Numerical aggregator")
-    
--   [Table aggregator](https://www.make.com/en/help/glossary.html#UUID-093a9d1a-680a-bd1d-3485-13e79d573196_N6202561e8e63a "Table Aggregator")
-    
--   [Text aggregator](https://www.make.com/en/help/glossary.html#UUID-093a9d1a-680a-bd1d-3485-13e79d573196_N62025882695d1 "Text aggregator")
-    
+- [Array aggregator](https://www.make.com/en/help/glossary.html#UUID-093a9d1a-680a-bd1d-3485-13e79d573196_N620234e1adc0f "Array aggregator")
+
+- [Numerical aggregator](https://www.make.com/en/help/glossary.html#UUID-093a9d1a-680a-bd1d-3485-13e79d573196_N62024cf5c7c35 "Numerical aggregator")
+
+- [Table aggregator](https://www.make.com/en/help/glossary.html#UUID-093a9d1a-680a-bd1d-3485-13e79d573196_N6202561e8e63a "Table Aggregator")
+
+- [Text aggregator](https://www.make.com/en/help/glossary.html#UUID-093a9d1a-680a-bd1d-3485-13e79d573196_N62025882695d1 "Text aggregator")
 
 See Also [Aggregator article](https://www.make.com/en/help/modules/aggregator.html "Aggregator").
 
@@ -99,12 +95,11 @@ You can duplicate a scenario from the Scenario tab by using the Clone option on 
 
 Use the commit error handling directive when you want to stop the execution of the scenario completely but still have the sent data. When there is an error, the commit directive:
 
--   stops execution immediately
-    
--   does not process the subsequent modules
-    
--   ignores all unprocessed bundles
-    
+- stops execution immediately
+
+- does not process the subsequent modules
+
+- ignores all unprocessed bundles
 
 The scenario execution history displays the status as Success.
 
@@ -158,29 +153,27 @@ See Also [Pricing parameters](https://www.make.com/en/help/general/pricing-param
 
 The diagram is a visual representation of your scenario and appears exactly the same way as you see your scenario in the Scenario editor. Use the diagram tab to quickly view:
 
--   the execution history of your scenario.
-    
--   the amount of operations and data consumed.
-    
--   the controls to manage the scenario.
-    
+- the execution history of your scenario.
+
+- the amount of operations and data consumed.
+
+- the controls to manage the scenario.
 
 [Directive (error handling)](https://www.make.com/en/help/glossary.html#UUID-093a9d1a-680a-bd1d-3485-13e79d573196_N6202444678d85)
 
 A directive allows you to control how Make handles errors. There are six error handling directives:
 
--   [Rollback](https://www.make.com/en/help/glossary.html#UUID-093a9d1a-680a-bd1d-3485-13e79d573196_N620250d4b41ec "Rollback phase")
-    
--   [Commit](https://www.make.com/en/help/glossary.html#UUID-093a9d1a-680a-bd1d-3485-13e79d573196_N6202414d111d1 "Commit phase")
-    
--   [Resume](https://www.make.com/en/help/glossary.html#UUID-093a9d1a-680a-bd1d-3485-13e79d573196_N62024f5290445 "Resume error handling")
-    
--   [Ignore](https://www.make.com/en/help/glossary.html#UUID-093a9d1a-680a-bd1d-3485-13e79d573196_N6202476383844 "Ignore error handling directive")
-    
--   [Break](https://www.make.com/en/help/glossary.html#UUID-093a9d1a-680a-bd1d-3485-13e79d573196_N6202371c30dde "Break error handling directive")
-    
--   [Retry](https://www.make.com/en/help/glossary.html#UUID-093a9d1a-680a-bd1d-3485-13e79d573196_N62024faed94be "Retry")
-    
+- [Rollback](https://www.make.com/en/help/glossary.html#UUID-093a9d1a-680a-bd1d-3485-13e79d573196_N620250d4b41ec "Rollback phase")
+
+- [Commit](https://www.make.com/en/help/glossary.html#UUID-093a9d1a-680a-bd1d-3485-13e79d573196_N6202414d111d1 "Commit phase")
+
+- [Resume](https://www.make.com/en/help/glossary.html#UUID-093a9d1a-680a-bd1d-3485-13e79d573196_N62024f5290445 "Resume error handling")
+
+- [Ignore](https://www.make.com/en/help/glossary.html#UUID-093a9d1a-680a-bd1d-3485-13e79d573196_N6202476383844 "Ignore error handling directive")
+
+- [Break](https://www.make.com/en/help/glossary.html#UUID-093a9d1a-680a-bd1d-3485-13e79d573196_N6202371c30dde "Break error handling directive")
+
+- [Retry](https://www.make.com/en/help/glossary.html#UUID-093a9d1a-680a-bd1d-3485-13e79d573196_N62024faed94be "Retry")
 
 [Explain flow](https://www.make.com/en/help/glossary.html#UUID-093a9d1a-680a-bd1d-3485-13e79d573196_N62014ab633453)
 
@@ -190,20 +183,19 @@ The Explain flow button allows you to see how the data will flow through from mo
 
 A filter helps you select bundles that fit specific criteria. You can add a filter between two modules to be sure that bundles received from the preceding modules fulfill specific conditions. Make offers:
 
--   Basic operator filters
-    
--   Text filters
-    
--   Numeric filters
-    
--   Date-time filters
-    
--   Time filters
-    
--   Boolean filters
-    
--   Array filters
-    
+- Basic operator filters
+
+- Text filters
+
+- Numeric filters
+
+- Date-time filters
+
+- Time filters
+
+- Boolean filters
+
+- Array filters
 
 See Also [Filtering article](https://www.make.com/en/help/scenarios/filtering.html "Filtering").
 
@@ -221,18 +213,17 @@ See Also [Functions article](https://www.make.com/en/help/functions/using-functi
 
 Make maintains a history of your scenario and records:
 
--   Date that scenario execution started
-    
--   Status (success, warning, or error)
-    
--   Execution duration
-    
--   Number of operations spent during the scenario run
-    
--   Size of transferred data
-    
--   Link to detailed information, where you can inspect all data in that particular execution received and how the data was processed
-    
+- Date that scenario execution started
+
+- Status (success, warning, or error)
+
+- Execution duration
+
+- Number of operations spent during the scenario run
+
+- Size of transferred data
+
+- Link to detailed information, where you can inspect all data in that particular execution received and how the data was processed
 
 You can view this information by clicking on history in Scenario detail or in the Diagram. Viewing from the diagram allows you to see currently running executions and stop them if necessary.
 
@@ -302,22 +293,21 @@ Every time a module in a scenario performs an action, it counts as an operation.
 
 More examples that count as operations:
 
--   Read data from an app or webhook
-    
--   Search for data in an app
-    
--   Create data in an app
-    
--   Update data in an app
-    
--   Delete data from an app
-    
--   Transform data using the built-in tools
-    
--   Aggregate a row of data into an array or text
-    
--   Iterate a row of data
-    
+- Read data from an app or webhook
+
+- Search for data in an app
+
+- Create data in an app
+
+- Update data in an app
+
+- Delete data from an app
+
+- Transform data using the built-in tools
+
+- Aggregate a row of data into an array or text
+
+- Iterate a row of data
 
 Depending on the complexity of the process you’re automating, your scenario can perform anywhere from two operations to thousands of operations in a single run.
 
@@ -333,10 +323,9 @@ See Also [Counting the number of operations](https://www.make.com/en/help/scenar
 
 Operation is the second phase of scenario execution. During the operation phase reading and/or writing operation is performed:
 
--   The reading operation obtains the data needed by the modules in your scenario.
-    
--   The writing operation sends data to a given service for further processing.
-    
+- The reading operation obtains the data needed by the modules in your scenario.
+
+- The writing operation sends data to a given service for further processing.
 
 [Repeater](https://www.make.com/en/help/glossary.html#UUID-093a9d1a-680a-bd1d-3485-13e79d573196_N62024ef2e9148)
 
@@ -438,34 +427,31 @@ When a module requires text in a single bundle, use a text aggregator to merge v
 
 The text parser tool allows you to add these modules:
 
--   Match pattern - allows you to find and extract text matching a search pattern. Match pattern uses [regular expression](https://en.wikipedia.org/wiki/Regular_expression)s, a sequence of characters that specifies a search pattern. One example use is extracting email addresses from a document or the body of emails.
-    
--   Replace - searches for a specified value or regular expression, and replaces the result with the new value.
-    
--   Get elements from HTML - retrieves the desired elements from an HTML code.
-    
--   HTML to Text -allows you to convert HTML to plain text.
-    
--   Get elements from text - retrieves desired elements from text.
-    
+- Match pattern - allows you to find and extract text matching a search pattern. Match pattern uses [regular expression](https://en.wikipedia.org/wiki/Regular_expression)s, a sequence of characters that specifies a search pattern. One example use is extracting email addresses from a document or the body of emails.
+
+- Replace - searches for a specified value or regular expression, and replaces the result with the new value.
+
+- Get elements from HTML - retrieves the desired elements from an HTML code.
+
+- HTML to Text -allows you to convert HTML to plain text.
+
+- Get elements from text - retrieves desired elements from text.
 
 [Transaction processing](https://www.make.com/en/help/glossary.html#UUID-093a9d1a-680a-bd1d-3485-13e79d573196_N62027c9dac072)
 
 Make uses transactional processing to describe the scenario execution cycle. A transaction consists of four phases during which Make creates or updates data in a way that ensures data integrity across apps and services. There are 4 phases:
 
-1.  Initialization - creates all necessary connections and checks that all modules are ready.
-    
-2.  Operation - performs the reading and writing of data, retrieving and sending data from one service or module to another.
-    
-3.  Commit/rollback
-    
-    1.  Commit - verifies all changes across modules and services and makes them permanent.
-        
-    2.  Rollback - when changes cannot be verified, the scenario ‘rolls back’ all changes, returning all data, modules, and services to their original states. The rollback phase protects data integrity in the event of an error.
-        
-    
-4.  Finalization - closes all open connections (e.g. FTP connections, database connections, etc.) and completes the scenario.
-    
+1. Initialization - creates all necessary connections and checks that all modules are ready.
+
+2. Operation - performs the reading and writing of data, retrieving and sending data from one service or module to another.
+
+3. Commit/rollback
+
+    1. Commit - verifies all changes across modules and services and makes them permanent.
+
+    2. Rollback - when changes cannot be verified, the scenario ‘rolls back’ all changes, returning all data, modules, and services to their original states. The rollback phase protects data integrity in the event of an error.
+
+4. Finalization - closes all open connections (e.g. FTP connections, database connections, etc.) and completes the scenario.
 
 See Also [Scenarion execution, cycles, and phases](https://www.make.com/en/help/scenarios/scenario-execution,-cycles-and-phases.html "Scenario execution, cycles, and phases").
 
@@ -475,10 +461,9 @@ Every scenario has a trigger, an event that starts your scenario. A scenario mus
 
 There are two types of triggers:
 
-1.  Polling -  routinely monitors a connected app/service ![Trigger_-_clock_icon.png](https://www.make.com/en/help/image/1621f61c8179af.png)
-    
-2.  Instant - also called webhooks that immediately execute the scenario ![Trigger_-_lightning_icon.png](https://www.make.com/en/help/image/1621f61c81ca73.png)
-    
+1. Polling -  routinely monitors a connected app/service ![Trigger_-_clock_icon.png](https://www.make.com/en/help/image/1621f61c8179af.png)
+
+2. Instant - also called webhooks that immediately execute the scenario ![Trigger_-_lightning_icon.png](https://www.make.com/en/help/image/1621f61c81ca73.png)
 
 [Webhook](https://www.make.com/en/help/glossary.html#UUID-093a9d1a-680a-bd1d-3485-13e79d573196_N62027da527ff5)
 

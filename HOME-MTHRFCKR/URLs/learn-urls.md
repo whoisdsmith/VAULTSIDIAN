@@ -6,9 +6,9 @@ TL;DR – URL stands for a Uniform Resource Locator – an address of an Interne
 
 ## Contents
 
--   [1. What Is a URL and Where Is It Located?](https://www.bitdegree.org/learn/uniform-resource-locator#what-is-a-url-and-where-is-it-located)
--   [2. Parts of a URL](https://www.bitdegree.org/learn/uniform-resource-locator#parts-of-a-url)
--   [3. Uniform Resource Locator: Useful Tips](https://www.bitdegree.org/learn/uniform-resource-locator#uniform-resource-locator-useful-tips)
+- [1. What Is a URL and Where Is It Located?](https://www.bitdegree.org/learn/uniform-resource-locator#what-is-a-url-and-where-is-it-located)
+- [2. Parts of a URL](https://www.bitdegree.org/learn/uniform-resource-locator#parts-of-a-url)
+- [3. Uniform Resource Locator: Useful Tips](https://www.bitdegree.org/learn/uniform-resource-locator#uniform-resource-locator-useful-tips)
 
 ## What Is a URL and Where Is It Located?
 
@@ -20,7 +20,7 @@ The need for uniform resource locators arose in the 1990s with the appearance an
 
 To better understand a simple uniform resource locator, let's break one down and review all **parts** of the URL separately. To make it easier, we'll use the address to this very tutorial:
 
-**https://www.bitdegree.org/learn/uniform-resource-locator**
+**<https://www.bitdegree.org/learn/uniform-resource-locator>**
 
 | Part | Component | Definition |
 | --- | --- | --- |
@@ -41,6 +41,6 @@ You can see these parts in nearly every web address. However, there are a few mo
 
 ## Uniform Resource Locator: Useful Tips
 
--   To improve user experience, make your URLs easy to type: avoid **case sensitivity**, skip **non-ASCII** characters and choose **hyphens** over underscores.
--   When you're adding an URL to [HTML links](https://www.bitdegree.org/learn/html-link) you don't neccessarily need to include it whole – a [relative or root relative URL](https://www.bitdegree.org/learn/html-link#absolute-relative-and-root-relative-html-links) is often enough.
--   The **prefix** part of an URL can also represent a **subdomain** (e.g., **best.example.com**).
+- To improve user experience, make your URLs easy to type: avoid **case sensitivity**, skip **non-ASCII** characters and choose **hyphens** over underscores.
+- When you're adding an URL to [HTML links](https://www.bitdegree.org/learn/html-link) you don't neccessarily need to include it whole – a [relative or root relative URL](https://www.bitdegree.org/learn/html-link#absolute-relative-and-root-relative-html-links) is often enough.
+- The **prefix** part of an URL can also represent a **subdomain** (e.g., **best.example.com**).

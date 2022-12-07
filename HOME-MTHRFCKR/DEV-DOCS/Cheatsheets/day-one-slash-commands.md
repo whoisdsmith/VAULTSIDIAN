@@ -8,6 +8,7 @@ author:
 # Slash Commands for Day One | Day One Help
 
 > ## Excerpt
+
 > How to use Slash Commands for shortcuts and quick actions in Day One entries
 
 ---

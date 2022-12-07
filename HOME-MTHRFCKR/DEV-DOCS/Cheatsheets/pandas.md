@@ -1,6 +1,7 @@
 # Python Cheatsheet
 
 > ## Excerpt
+
 > The one-page guide to Python: usage, examples, links, snippets, and more.
 
 ---

@@ -8,10 +8,10 @@ Before starting an automated test, the endpoint testing tool will send a `POST` 
 
 When the `test/setup` endpoint is called, it should perform the following:
 
--   If needed, prepare **mock users** and other **test fixtures**, so that your API’s endpoints can respond with meaningful data.
--   Provide **sample input** that can be used in subsequent calls to your service API. This includes:
-    -   A valid OAuth access token, corresponding to a real user account.
-    -   Sample input parameters for each of your API’s endpoints.
+- If needed, prepare **mock users** and other **test fixtures**, so that your API’s endpoints can respond with meaningful data.
+- Provide **sample input** that can be used in subsequent calls to your service API. This includes:
+  - A valid OAuth access token, corresponding to a real user account.
+  - Sample input parameters for each of your API’s endpoints.
 
 For security, the endpoint testing tool will send your **Service Key** in the request to `test/setup` in the `IFTTT-Service-Key` header. Before performing any of the above operations, you should verify that the value of the header matches the value for your Service Key, as displayed in the Developer UI.
 
@@ -19,29 +19,27 @@ For security, the endpoint testing tool will send your **Service Key** in the re
 
 ###### HTTP
 
--   Method
-    
+- Method
+
     POST
-    
+
     URL
-    
+
     `{{api_url_prefix}}/ifttt/v1/test/setup`
-    
 
 ###### HEADERS
 
--   ```
+- ```
     
     IFTTT-Service-Key: {{ifttt_service_key}}
     Accept: application/json
     Accept-Charset: utf-8
     Accept-Encoding: gzip, deflate
     ```
-    
 
 ###### Example
 
--   ```
+- ```
     
     POST /ifttt/v1/test/setup HTTP/1.1
     Host: api.example-service.com
@@ -50,41 +48,38 @@ For security, the endpoint testing tool will send your **Service Key** in the re
     Accept-Charset: utf-8
     Accept-Encoding: gzip, deflate
     ```
-    
 
 ### Response
 
 ###### HTTP
 
--   Status
-    
+- Status
+
     200
-    
+
     URL
-    
+
     `{{api_url_prefix}}/ifttt/v1/test/setup`
-    
+
     Headers
-    
+
     `Content-Type: application/json; charset=utf-8`
-    
 
 For the body you will get a JSON object with one top-level field, `data`, containing the following properties:
 
 ###### Body
 
--   data\[accessToken\]
-    
+- data\[accessToken\]
+
     Only returned by OAuth Services. This should be a valid access token that corresponds to a user on your service.
-    
+
     data\[samples\]
-    
+
     an object containing sample input for your endpoints. See example below for specific details for each type of sample.
-    
 
 ###### Example
 
--   ```
+- ```
     
     POST /ifttt/v1/test/setup HTTP/1.1
     Host: api.example-service.com
@@ -93,31 +88,30 @@ For the body you will get a JSON object with one top-level field, `data`, contai
     Accept-Charset: utf-8
     Accept-Encoding: gzip, deflate
     ```
-    
 
 ### Example
 
 Consider a Service with the following properties:
 
--   **trigger:** `any_new_photo_in_category`
--   -   **category** (drop-down)
+- **trigger:** `any_new_photo_in_category`
+  - -   **category** (drop-down)
 
--   **trigger:** `any_new_photo_in_album`
--   -   **album** (text field)
+- **trigger:** `any_new_photo_in_album`
+  - -   **album** (text field)
 
--   **trigger:** `any_new_photo_by_you`
--   -   _No Trigger Fields_
+- **trigger:** `any_new_photo_by_you`
+  - -   _No Trigger Fields_
 
--   **action:** `post_a_photo`
--   -   **album** (text field)
-    -   **url** (text field)
-    -   **description** (text body)
+- **action:** `post_a_photo`
+  - -   **album** (text field)
+  - **url** (text field)
+  - **description** (text body)
 
 The Service’s response could be as follows:
 
 ###### Example
 
--   ```
+- ```
     
     HTTP/1.1 200 OK
     Content-Type: application/json; charset=utf-8
@@ -160,7 +154,6 @@ The Service’s response could be as follows:
       }
     }
     ```
-    
 
 ### Explanation of samples fields
 
@@ -263,7 +256,7 @@ Since the standard OAuth 2 flow involves an interactive step, we provide an auth
 
 ___
 
-#### Next steps:
+#### Next steps
 
--   Create your first connection with our [Connect Quick Start Guide](https://ifttt.com/docs/getting_started_connect).
--   Learn about [building Applets](https://ifttt.com/docs/applets).
+- Create your first connection with our [Connect Quick Start Guide](https://ifttt.com/docs/getting_started_connect).
+- Learn about [building Applets](https://ifttt.com/docs/applets).

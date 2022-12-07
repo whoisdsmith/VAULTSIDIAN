@@ -1,8 +1,8 @@
--   [Running Applets only during certain times](https://help.ifttt.com/hc/en-us/articles/360052451954-Building-with-filter-code#RunningAppletsonlyduringcertaintimes)
--   [Running actions every other week](https://help.ifttt.com/hc/en-us/articles/360052451954-Building-with-filter-code#Runningactionseveryotherweek)
--   [Running actions based on trigger data](https://help.ifttt.com/hc/en-us/articles/360052451954-Building-with-filter-code#Runningactionsbasedontriggerdata)
--   [Searching for a keyword and skipping an action](https://help.ifttt.com/hc/en-us/articles/360052451954-Building-with-filter-code#Searchingforakeywordandskippinganaction)
--   [Updating action fields](https://help.ifttt.com/hc/en-us/articles/360052451954-Building-with-filter-code#Updatingactionfields)
+- [Running Applets only during certain times](https://help.ifttt.com/hc/en-us/articles/360052451954-Building-with-filter-code#RunningAppletsonlyduringcertaintimes)
+- [Running actions every other week](https://help.ifttt.com/hc/en-us/articles/360052451954-Building-with-filter-code#Runningactionseveryotherweek)
+- [Running actions based on trigger data](https://help.ifttt.com/hc/en-us/articles/360052451954-Building-with-filter-code#Runningactionsbasedontriggerdata)
+- [Searching for a keyword and skipping an action](https://help.ifttt.com/hc/en-us/articles/360052451954-Building-with-filter-code#Searchingforakeywordandskippinganaction)
+- [Updating action fields](https://help.ifttt.com/hc/en-us/articles/360052451954-Building-with-filter-code#Updatingactionfields)
 
 Regular Applets have a very straightforward logic to them - when a trigger fires for a new event, an action is always run. But what if you want to have more say in when or how exactly this happens?
 
@@ -10,8 +10,8 @@ Filter code gives you some control over this logic. Filter code is a bit of Java
 
 With filter code you can do two things:
 
--   Skip an action or multiple actions.
--   Change the values of the fields the action will run with.
+- Skip an action or multiple actions.
+- Change the values of the fields the action will run with.
 
 Combine that with the power of Javascript logic and you can build Applets that only run when certain conditions are met or Applets with multiple actions where specific actions depend on the data from the trigger.
 
@@ -55,7 +55,7 @@ let currentTemp = Number(Weather.currentTemperatureRisesAbove.TempFahrenheit);if
 
 ## Searching for a keyword and skipping an action
 
-This is a simple starter filter code that searches for a keyword in a Google Calendar event description and skips the notification action if the keyword is not found. 
+This is a simple starter filter code that searches for a keyword in a Google Calendar event description and skips the notification action if the keyword is not found.
 
 ```
 let str = GoogleCalendar.anyEventStarts.Description;let searchTerm = 'IFTTT';let indexOfFirst = str.indexOf(searchTerm);if (indexOfFirst === -1) {  IfNotifications.sendNotification.skip("Not found!")}

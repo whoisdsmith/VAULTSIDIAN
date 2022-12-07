@@ -1,6 +1,7 @@
 [Quantic Foundry](https://goo.gl/4Ld5PN) - Gamer Motivation Profile
 
 ## Spontaneous, Social, Grounded, and Creative
+
 Your profile consists of your percentile rank across a broad range of gaming motivations. Your scores are based on how strong your motivations are relative to other gamers. In this customized report, we’ll explain how to interpret these scores and what motivations we measured.
 
 #### Primary motivations
@@ -12,15 +13,18 @@ Your profile consists of your percentile rank across a broad range of gaming mot
 ![gamer motivation profile bis](secondary_motivations.png)
 
 ### The 6 Motivation Groups
+
 We identified 6 clusters of motivations. In general, motivations within the same cluster tend to be positively correlated, while motivations between clusters tend to be statistically unrelated. We’ll walk you through the individual motivations in the section below.
 
 ### A Quick Word on Percentiles
+
 Percentiles are how you rank relative to other people. In this report, your percentiles are how you compared with other gamers who have participated in this profile tool. A percentile of 80% means you scored higher than 80% of gamers. Conversely, a percentile of 10% means 90% of gamers had a higher score than you. This means that a 50% is perfectly average.
 > Most people will have high scores on a few motivations, low scores on another few motivations, and the majority of their remaining scores will fall near the average (in the 35%-65% range). Thus, it’s your non-average scores that most define your profile as a gamer.
 
 > Keep in mind that this isn’t a competition or an exam. High scores are not “better”. Gamers with extreme motivations (on both the low and high end) represent a smaller proportion of gamers and may have a harder time being satisfied by available games (which try to capture more average gamers within their genres).
 
 ### The Action Components (52%)
+
 Gamers with high Action scores are aggressive and like to jump in the fray and be surrounded by dramatic visuals and effects. Gamers with low Action scores prefer slower-paced games with calmer settings.
 
 **Destruction (63%):** Gamers who score high on this component are agents of chaos and destruction. They love having many tools at their disposal to blow things up and cause relentless mayhem. They enjoy games with lots of guns and explosives. They gravitate towards titles like Call of Duty and Battlefield. And if they accidentally find themselves in games like The Sims, they are the ones who figure out innovative ways to get their Sims killed.
@@ -33,6 +37,7 @@ Gamers with high Action scores are aggressive and like to jump in the fray and b
 > * Destruction: GTA Series/V, Battlefield Series/3/4, Destiny, Call of Duty, Gears of War, Halo, Borderlands Series/2, Doom, God of War, Counter Strike
 
 ### The Social Components (65%)
+
 Gamers with high Social scores enjoy interacting with other players, often regardless of whether they are collaborating or competing with them. Gamers with low Social scores prefer solo gaming experiences where they can be independent.
 
 **Competition (43%):** Gamers who score high on this component enjoy competing with other players, often in duels, matches, or team-vs-team scenarios. Competitive gameplay can be found in titles like Starcraft, League of Legends, or the PvP Battlegrounds in World of Warcraft. But competition isn’t always overtly combative; competitive players may care about being acknowledged as the best healer in a guild, or having a high ranking/level on a Facebook farming game relative to their friends.
@@ -45,6 +50,7 @@ Gamers with high Social scores enjoy interacting with other players, often regar
 > * Community: Final Fantasy XIV, Battlefield Series/4, Destiny, Guild Wars Series/2, EverQuest, League of Legends, Monster Hunter, World of Warcraft, Counter Strike, DoTA Series/2
 
 ### The Mastery Components (21%)
+
 Gamers with high Mastery scores like challenging gaming experiences with strategic depth and complexity. Gamers with low Mastery scores enjoy being spontaneous in games and prefer games that are accessible and forgiving when mistakes are made.
 
 **Challenge (43%):** Gamers who score high on Challenge enjoy playing games that rely heavily on skill and ability. They are persistent and take the time to practice and hone their gameplay so they can take on the most difficult missions and bosses that the game can offer. These gamers play at the highest difficulty settings and don’t mind failing missions repeatedly in games like Dark Souls because they know it’s the only way they’ll master the game. They want gameplay thatconstantly challenges them.
@@ -57,6 +63,7 @@ Gamers with high Mastery scores like challenging gaming experiences with strateg
 > * Strategy: Europa Universalis 4, Crusader Kings 2, Civilization Series/5, EVE Online, XCOM, Starcaft Series/2, Fire Emblem, Age of Empires, Warcraft 3, Kerbal Space Program
 
 ### The Achievement Components (46%)
+
 Gamers with high Achievement scores are driven to accrue power, rare items, and collectibles, even if this means grinding for a while. Gamers with low Achievement scores have a relaxed attitude towards in-game achievements and don’t worry too much about their scores or progress in the game.
 
 **Completion (40%):** Gamers with high Completion scores want to finish everything the game has to offer. They try to complete every mission, find every collectible, and discover every hidden location. For some players, this may mean completing every listed achievement or unlocking every possible character/move in a game. For gamers who score high on Design, this may mean collecting costumes and mounts in games like World of Warcraft.
@@ -69,6 +76,7 @@ Gamers with high Achievement scores are driven to accrue power, rare items, and 
 > * Power: World of Warcraft, Diablo 2/3, DoTA Series/2, Runescape, Destiny, Call of Duty, League of Legends, Counter Strike, God of War, Resident Evil
 
 ### The Creativity Components (81%)
+
 Gamers with high Creativity scores are constantly experimenting with their game worlds and tailoring them with their own designs and customizations. Gamers with low Creativity scores are more practical in their gaming style and accept their game worlds as they are.
 
 **Discovery (91%):** Gamers who score high on Discovery are constantly asking “What if?” For them, game worlds are fascinating contraptions to open up and tinker with. In an MMO, they might swim out to the edge of the ocean to see what happens. In MineCraft, they might experiment with whether crafting outcomes differ by the time of day or proximity to zombies. They “play” games in the broadest sense of the word, often in ways not intended or imagined by the game’s developers.
@@ -81,6 +89,7 @@ Gamers with high Creativity scores are constantly experimenting with their game 
 > * Design: The Sims Series, City of Heroes, Animal Crossing, Guild Wars 2, Final Fantasy XIV, Dragon Age Series/Origins, Mass Effect Series, Monster Hunter, Pokemon, Elder Scrolls Series/Oblivion/Skyrim
 
 ### The Immersion Components (14%)
+
 Gamers with high Immersion scores want games with interesting narratives, characters, and settings so they can be deeply immersed in the alternate worlds created by games. Gamers with low Immersion scores are more grounded in the gameplay mechanics and care less about the narrative experiences that games offer.
 
 **Fantasy (34%):** Gamers who score high on Fantasy want their gaming experiences to allow them to become someone else, somewhere else. They enjoy the sense of being immersed in an alter ego in a believable alternate world, and enjoy exploring a game world just for the sake of exploring it. These gamers enjoy games like Skyrim, Fallout, and Mass Effect for their fully imagined alternate settings.
@@ -91,6 +100,3 @@ Gamers with high Immersion scores want games with interesting narratives, charac
 
 > * Fantasy: Dragon Age Series/Inquisition/Origins, Elder Scrolls Series/Morrowind, Dishonored, Mass Effect Series/2/3, Skyrim, Fable, Fallout New Vegas, Knights of the Old Republic, Journey, Legend of Zelda
 > * Story: Dragon Age Series/Origins, Mass Effect Series/2/3, Persona 3/4, Tales of Symphonia, Xenogeras, Final Fantasy VIII/IX/X, Knights of the Old Republic, Fire Emblem, Kingdom Hearts Series/2, Planescape Torment
-
-
-

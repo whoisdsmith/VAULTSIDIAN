@@ -28,15 +28,15 @@ Before we learn how websites work, let’s explore what websites are used for. W
 
 Some reasons for putting up a website include:
 
--   **Providing information:** Multiple websites exist to provide information. For example, government and business websites inform visitors of updates in their respective offices or companies, while news websites update users on the latest happenings around the world.
+- **Providing information:** Multiple websites exist to provide information. For example, government and business websites inform visitors of updates in their respective offices or companies, while news websites update users on the latest happenings around the world.
 
--   **Entertaining:** Websites such as YouTube and Netflix allow you to watch movies and shows, listen to music or play games.
+- **Entertaining:** Websites such as YouTube and Netflix allow you to watch movies and shows, listen to music or play games.
 
--   **Interacting with other users:** Social networking sites and forums allow users to connect, communicate and share ideas.
+- **Interacting with other users:** Social networking sites and forums allow users to connect, communicate and share ideas.
 
--   **Buying and selling items:** [E-commerce websites](https://www.bluehost.com/resources/a-step-by-step-guide-on-how-to-start-an-online-store-with-woocommerce/) like Amazon and eBay allow users to sell and purchase items online.
+- **Buying and selling items:** [E-commerce websites](https://www.bluehost.com/resources/a-step-by-step-guide-on-how-to-start-an-online-store-with-woocommerce/) like Amazon and eBay allow users to sell and purchase items online.
 
--   **Showcasing work:** Personal and [portfolio websites](https://www.bluehost.com/resources/how-to-create-a-portfolio-a-step-by-step-guide/) are sites created to demonstrate a person’s ability by collecting and showing past projects they’ve worked on for future clients.
+- **Showcasing work:** Personal and [portfolio websites](https://www.bluehost.com/resources/how-to-create-a-portfolio-a-step-by-step-guide/) are sites created to demonstrate a person’s ability by collecting and showing past projects they’ve worked on for future clients.
 
 ## What You Need To Start a Website
 
@@ -48,10 +48,10 @@ To [start a website](https://www.bluehost.com/resources/how-create-wordpress-web
 
 Websites are made of a set of code or programming languages. The most common languages used to build websites are:
 
--   **Hypertext markup language (HTML)** helps browsers display webpage elements such as text, links and media.
--   **Cascading style sheets (CSS)** define webpage styles such as colors, layouts and fonts.
--   **Hypertext Preprocessor (PHP)** is the programming language used to create dynamic and interactive websites. PHP is responsible for retrieving content from databases and displaying them on your website. With PHP, you can create login pages, forms and galleries.
--   **JavaScript** allows you to implement complex features to your website. Anytime your website does more than display static information, [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript) is probably involved.
+- **Hypertext markup language (HTML)** helps browsers display webpage elements such as text, links and media.
+- **Cascading style sheets (CSS)** define webpage styles such as colors, layouts and fonts.
+- **Hypertext Preprocessor (PHP)** is the programming language used to create dynamic and interactive websites. PHP is responsible for retrieving content from databases and displaying them on your website. With PHP, you can create login pages, forms and galleries.
+- **JavaScript** allows you to implement complex features to your website. Anytime your website does more than display static information, [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript) is probably involved.
 
 Nowadays, you don’t have to build websites straight from code. Content management systems (CMS) such as WordPress, Drupal and Joomla allow you to build a website easily.
 
@@ -119,15 +119,15 @@ There are currently over [4.66 billion internet users](https://datareportal.com/
 
 Whether you’re a freelancer or a small business, here are a few reasons why you’ll benefit from a website:
 
-1.  **You’ll attract more customers and clients.** 90% of customers [start the buying process with a search](https://videos.brightedge.com/research-report/BrightEdge_ChannelReport2019_FINAL.pdf). If you want to attract more customers, one of the best ways is by making yourself visible on Google.
+1. **You’ll attract more customers and clients.** 90% of customers [start the buying process with a search](https://videos.brightedge.com/research-report/BrightEdge_ChannelReport2019_FINAL.pdf). If you want to attract more customers, one of the best ways is by making yourself visible on Google.
 
 You can employ search engine optimization (SEO) methods to help your website rank organically.
 
-2.  **You’ll be competitive.** The lockdowns imposed during the height of the 2020 pandemic required many businesses to shut down their brick and mortar stores, allowing many business owners to realize the importance of an online presence.
+2. **You’ll be competitive.** The lockdowns imposed during the height of the 2020 pandemic required many businesses to shut down their brick and mortar stores, allowing many business owners to realize the importance of an online presence.
 
 According to the United Nations Trade and Development experts (UNCTAD), [e-commerce is rising](https://news.un.org/en/story/2021/05/1091182). It has always been in the future of retail; the pandemic only sped up its adoption.
 
-3.  **You’ll appear more credible.** Customers will often check reviews and recommendations before doing business with a new company, with 50% of customers [checking the company website](https://assets.kpmg/content/dam/kpmg/xx/pdf/2017/01/the-truth-about-online-consumers.pdf).
+3. **You’ll appear more credible.** Customers will often check reviews and recommendations before doing business with a new company, with 50% of customers [checking the company website](https://assets.kpmg/content/dam/kpmg/xx/pdf/2017/01/the-truth-about-online-consumers.pdf).
 
 Besides that, signing up for a website allows you to create a branded email address using your company domain, letting you appear more professional.
 

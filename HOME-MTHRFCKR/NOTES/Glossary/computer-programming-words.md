@@ -1,69 +1,67 @@
-# Computer programming related words:
+# Computer programming related words
 
 ---
 
-#### Algorithm 
+#### Algorithm
 
-#### C 
+#### C
 
-#### Compiler 
+#### Compiler
 
-#### Computer 
+#### Computer
 
-#### Computer program 
+#### Computer program
 
-#### Computing 
+#### Computing
 
-#### Cpu 
+#### Cpu
 
-#### Engineering 
+#### Engineering
 
-#### Executable 
+#### Executable
 
-#### Fortran 
+#### Fortran
 
-#### Hardware 
+#### Hardware
 
-#### Logic programming 
+#### Logic programming
 
-#### Machine code 
+#### Machine code
 
 #### Microcomputer
 
-#### Minicomputer 
+#### Minicomputer
 
-#### Objectoriented programming 
+#### Objectoriented programming
 
 #### PC
 
-#### Perl 
+#### Perl
 
-#### Program 
+#### Program
 
-#### Programing 
+#### Programing
 
-#### Programmer 
+#### Programmer
 
-#### Programming 
+#### Programming
 
-#### Programming language 
+#### Programming language
 
-#### Software 
+#### Software
 
-#### Software development 
+#### Software development
 
-#### Software engineering 
+#### Software engineering
 
-#### Source code 
+#### Source code
 
-#### Techie 
+#### Techie
 
-#### Text editor 
+#### Text editor
 
 #### Word processor
 
-
-
 ___
 
-#article #programming
+# article #programming

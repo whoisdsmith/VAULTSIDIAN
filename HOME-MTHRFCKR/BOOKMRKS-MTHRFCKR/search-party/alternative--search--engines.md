@@ -1,10 +1,10 @@
 # Alternative search engines & video sites to Google & Youtube
 
 ---
- 
-## These are my favourite video sharing websites from the below list: 
+
+## These are my favourite video sharing websites from the below list
   
-[153 News - Because Censorship Kills - Welcome to the Truth](https://153news.net) 
+[153 News - Because Censorship Kills - Welcome to the Truth](https://153news.net)
 
 [BitChute is a peer-to-peer social video platform.](https://www.bitchute.com)  
 
@@ -56,7 +56,7 @@
 
 <https://www.aparat.com> (Iranian)  
 
-<https://awakecanada.org/blog-videos> 
+<https://awakecanada.org/blog-videos>
 
 <https://awakeningincubator.com/news-feed>  
 
@@ -330,7 +330,6 @@ Sidney
 Dartmouth, Nova Scotia  
 Canada
 
-
 ___
 
-#article #Search, #Bookmarks
+# article #Search, #Bookmarks

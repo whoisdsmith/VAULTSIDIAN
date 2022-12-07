@@ -6,7 +6,7 @@
 
 GitHub Flavored Markdown, often shortened as GFM, is the dialect of Markdown that is currently supported for user content on GitHub.com and GitHub Enterprise.  
 
-This formal specification, based on the CommonMark Spec, defines the syntax and semantics of this dialect. 
+This formal specification, based on the CommonMark Spec, defines the syntax and semantics of this dialect.
 
 GFM is a strict superset of CommonMark. All the features which are supported in GitHub user content and that are not specified on the original CommonMark Spec are hence known as **extensions**, and highlighted as such.  
 
@@ -79,78 +79,73 @@ The AsciiDoc version is, arguably, easier to write. You don’t need to worry ab
 
 John Gruber’s [canonical description of Markdown’s syntax](http://daringfireball.net/projects/markdown/syntax) does not specify the syntax unambiguously. Here are some examples of questions it does not answer:  
 
-1. How much indentation is needed for a sublist? 
+1. How much indentation is needed for a sublist?
 
 The spec says that continuation paragraphs need to be indented four spaces, but is not fully explicit about sublists. It is natural to think that they, too, must be indented four spaces, but `Markdown.pl` does not require that. This is hardly a “corner case,” and divergences between implementations on this issue often lead to surprises for users in real documents. (See [this comment by John Gruber](http://article.gmane.org/gmane.text.markdown.general/1997).)
 
-2. Is a blank line needed before a block quote or heading? 
+2. Is a blank line needed before a block quote or heading?
 
 Most implementations do not require the blank line. However, this can lead to unexpected results in hard-wrapped text, and also to ambiguities in parsing (note that some implementations put the heading inside the blockquote, while others do not). (John Gruber has also spoken [in favor of requiring the blank lines](http://article.gmane.org/gmane.text.markdown.general/2146).)
 
 3. Is a blank line needed before an indented code block? (`Markdown.pl` requires it, but this is not mentioned in the documentation, and some implementations do not require it.)  
-    
+
         paragraph
             code?
-    
+
 4. What is the exact rule for determining when list items get wrapped in `<p>` tags? Can a list be partially “loose” and partially “tight”? What should we do with a list like this?  
-    
+
         1. one
         
         2. two
         3. three
-    
 
     Or this?  
 
-    
         1.  one
             - a
         
             - b
         2.  two
-    
 
     (There are some relevant comments by John Gruber [here](http://article.gmane.org/gmane.text.markdown.general/2554).)  
 
-    
 5. Can list markers be indented? Can ordered list markers be right-aligned?  
-    
+
          8. item 1
          9. item 2
         10. item 2a
-    
+
 6. Is this one list with a thematic break in its second item, or two lists separated by a thematic break?  
-    
+
         * a
         * * * * *
         * b
-    
+
 7. When list markers change from numbers to bullets, do we have two lists or one? (The Markdown syntax description suggests two, but the perl scripts and many other implementations produce one.)  
-    
+
         1. fee
         2. fie
         -  foe
         -  fum
-    
+
 8. What are the precedence rules for the markers of inline structure? For example, is the following a valid link, or does the code span take precedence ?  
-    
+
         [a backtick (`)](/url) and [another backtick (`)](/url).
-    
+
 9. What are the precedence rules for markers of emphasis and strong emphasis? For example, how should the following be parsed?  
-    
+
         *foo *bar* baz*
-    
+
 10. What are the precedence rules between block-level and inline-level structure? For example, how should the following be parsed?  
-    
+
         - `a long code span can contain a hyphen like this
           - and it can screw things up`
-    
+
 11. Can list items include section headings? (`Markdown.pl` does not allow this, but does allow blockquotes to include headings.)  
-    
+
         - # Heading
-    
+
 12. Can list items be empty?  
-    
 
         * a
 
@@ -158,7 +153,6 @@ Most implementations do not require the blank line. However, this can lead to un
 
         * b
 
-    
 13. Can link references be defined inside block quotes or list items?  
 
         > Blockquote [foo].
@@ -166,14 +160,12 @@ Most implementations do not require the blank line. However, this can lead to un
         > [foo]: /url
 
 14. If there are multiple definitions for the same reference, which takes precedence?  
-    
+
         [foo]: /url1
         [foo]: /url2
         
 
         [foo][]
-
-    
 
 In the absence of a spec, early implementers consulted `Markdown.pl` to resolve these ambiguities. But `Markdown.pl` was quite buggy, and gave manifestly bad results in many cases, so it was not a satisfactory replacement for a spec.  
 

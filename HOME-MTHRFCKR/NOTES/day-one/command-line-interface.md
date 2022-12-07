@@ -9,8 +9,7 @@
 ## Install
 
 Use this to install the CLI tool (You only ever need to do this once, even for future versions):
-    
-    
+
     sudo bash /Applications/Day\ One.app/Contents/Resources/install_cli.sh
     
     Note: You may need to enter your macOS device login password.
@@ -159,13 +158,7 @@ Use this to install the CLI tool (You only ever need to do this once, even for f
       2. /Applications/Day One.app
     
       3. Asking system for path to app for com.bloombuilt.dayone-mac
-    
-    
-    
-    
-    
-
 
 ___
 
-#article #DayOne
+# article #DayOne

@@ -244,6 +244,7 @@
 * [MVGroup](https://forums.mvgroup.org/)
 
 ***
+
 ## ► Games
 
 * ⭐ [**Awesome Educational Games**](https://github.com/yrgo/awesome-educational-games) - Educational Games Index
@@ -295,7 +296,7 @@
 * [TicCalc](https://www.ticalc.org/pub/) - TI Graphing Calculator Files
 * [TI-Basic Developer](http://tibasicdev.wikidot.com/) - TI-Basic Info Repository
 * [fxSolver](https://www.fxsolver.com/), [Kalker](https://kalker.xyz/) / [GitHub](https://github.com/PaddiM8/kalker) or [The Engineering ToolBox](https://www.engineeringtoolbox.com/) - Engineering & Scientific Calculator
-* [SciDAVis ](https://sourceforge.net/projects/scidavis/)- Scientific Data Plotter
+* [SciDAVis](https://sourceforge.net/projects/scidavis/)- Scientific Data Plotter
 * [FreeFEM](https://freefem.org/) - Partial Differential Equations Solver
 * [Approach0](https://approach0.xyz/search/) - Math Formula Search
 * [Online Math Tools](https://onlinemathtools.com/) - Multiple Math Tools

@@ -1,1 +1,1 @@
-sftp://ftp.ctrlaltback.space/home2/elnulqmy
+s<ftp://ftp.ctrlaltback.space/home2/elnulqmy>

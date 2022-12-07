@@ -213,9 +213,9 @@ much less labor-intensive process than “recall” in memory management, hence 
 basis of Graphic User Interface design is that “see and choose is easier than recall and type”  
 \[3 2 \]. This thesis, consequently, aims to answer following questions.
 
--   Could user context be offered as additional browsing cue to search and retrieve  
+- Could user context be offered as additional browsing cue to search and retrieve  
     bookmarks more efficiently and effectively?
--   In that case, what kind of user context would prove to be most useful?  
+- In that case, what kind of user context would prove to be most useful?  
     In the next section, we propose a prototype system that exploits advantages of both  
     personalized (folksonomy and annotation-driven) and formal (ontology-driven) approaches,  
     under the umbrella of user context.

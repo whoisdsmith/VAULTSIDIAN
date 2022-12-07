@@ -14,7 +14,7 @@ This repository contains the definition of a Docker image that can be used both 
 
 **markdown-docs** is implemented as a jam of stuff you don't even need to know about. Just assume that everything is supported until you find that it's not, then submit an issue to add support for even that thing. Only if you really need it.
 
-## Supported Markdown Extensions:
+## Supported Markdown Extensions
 
 - The default, standard, Markdown syntax, described at [this website](https://daringfireball.net/projects/markdown/syntax), with [these differences](https://python-markdown.github.io/#differences).
 - **markdown_include**: Command that embeds a markdown file into another. Headers will be shifted to subheaders relative to enclosing header. See the [readme](https://github.com/cmacmackin/markdown-include/).
@@ -74,12 +74,12 @@ In order to make the "last edit date" plugin work you need to clone the full his
 
 ##### Additional Parameters Info
 
-* `title` is an optional parameter (defaults to the name of the repository, such as `ldeluigi/markdown-docs` or `Documentation` if no repo is detected) that sets the title displayed at the top of the documentation website.
-* `language` is an optional paramater (defaults to `en`) that allows to change [language features](https://squidfunk.github.io/mkdocs-material/setup/changing-the-language/#site-language) and [search features](https://squidfunk.github.io/mkdocs-material/setup/setting-up-site-search/#built-in-search).
-* `icon` is an optional parameter (defaults to `library`) that selects the main top-left icon of the documentation website. Can be one of the icons from [Material Design Icons](https://materialdesignicons.com).
-* `primary-color` is an optional parameter (defaults to `indigo`) that selects the main color of the documentation website. For more information, see the [docs](https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#primary-color).
-* `secondary-color` is an optional parameter (defaults to `indigo`) that selects the accent color of the documentation website. For more information, see the [docs](https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#accent-color).
-* `hide-repository` is an optional parameter (defaults to `false`) that, if set to `true`, will hide every reference to the source repo. Useful for private repos.
+- `title` is an optional parameter (defaults to the name of the repository, such as `ldeluigi/markdown-docs` or `Documentation` if no repo is detected) that sets the title displayed at the top of the documentation website.
+- `language` is an optional paramater (defaults to `en`) that allows to change [language features](https://squidfunk.github.io/mkdocs-material/setup/changing-the-language/#site-language) and [search features](https://squidfunk.github.io/mkdocs-material/setup/setting-up-site-search/#built-in-search).
+- `icon` is an optional parameter (defaults to `library`) that selects the main top-left icon of the documentation website. Can be one of the icons from [Material Design Icons](https://materialdesignicons.com).
+- `primary-color` is an optional parameter (defaults to `indigo`) that selects the main color of the documentation website. For more information, see the [docs](https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#primary-color).
+- `secondary-color` is an optional parameter (defaults to `indigo`) that selects the accent color of the documentation website. For more information, see the [docs](https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#accent-color).
+- `hide-repository` is an optional parameter (defaults to `false`) that, if set to `true`, will hide every reference to the source repo. Useful for private repos.
 
 ### As Docker Builder
 
@@ -113,8 +113,8 @@ ENV PRIMARY_COLOR=indigo
 ENV SECONDARY_COLOR=indigo
 ```
 
-* `WORKSPACE` selects the path in which the main script is run. This path should be the root of your working directory, inside which there are both the source folder and the destination folder.
-* `TITLE`, `LANGUAGE`, `ICON`, `PRIMARY_COLOR`, `SECONDARY_COLOR` are all described in [this section](#additional-parameters-info).
+- `WORKSPACE` selects the path in which the main script is run. This path should be the root of your working directory, inside which there are both the source folder and the destination folder.
+- `TITLE`, `LANGUAGE`, `ICON`, `PRIMARY_COLOR`, `SECONDARY_COLOR` are all described in [this section](#additional-parameters-info).
 
 ## Notes About Documenting Your Software
 

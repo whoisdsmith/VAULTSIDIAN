@@ -1,6 +1,6 @@
 # Steps
 
-Steps are the building blocks you use to create workflows. You can easily combine multiple steps into a workflow to integrate your apps, data and APIs: 
+Steps are the building blocks you use to create workflows. You can easily combine multiple steps into a workflow to integrate your apps, data and APIs:
 
 - Steps include triggers, code and prebuilt actions.
 
@@ -62,10 +62,10 @@ Step exports allow you to pass data between steps. Any data exported from a step
 
 For examples of supported data types in your steps language, see the examples below.
 
-* [Node.js (Javascript)](/code/nodejs/#sharing-data-between-steps)
-* [Python](/code/python/#sharing-data-between-steps)
-* [Bash](/code/bash/#sharing-data-between-steps)
-* [Go](/code/go/#sharing-data-between-steps)
+- [Node.js (Javascript)](/code/nodejs/#sharing-data-between-steps)
+- [Python](/code/python/#sharing-data-between-steps)
+- [Bash](/code/bash/#sharing-data-between-steps)
+- [Go](/code/go/#sharing-data-between-steps)
 
 <!--
 To share data between steps, you can use **step exports**.

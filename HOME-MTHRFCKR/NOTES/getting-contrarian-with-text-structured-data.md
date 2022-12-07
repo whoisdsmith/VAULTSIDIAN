@@ -48,8 +48,8 @@ Computer Assisted Coding (CAC) system, and warning of impending conditions such 
 When modeling text and structured data, there are several commonly accepted views (“conventional  
 wisdom”) that we question:
 
-1.  It is easier to build models from structured data than to build models from free-text.
-2.  The best way to build a model using both free-text and structured data is to first build  
+1. It is easier to build models from structured data than to build models from free-text.
+2. The best way to build a model using both free-text and structured data is to first build  
     two separate models, and then form a combined model using a (weighted) sum of the  
     predictions for each model.
 
@@ -73,17 +73,17 @@ model-building process as a whole is often quite labor-intensive, and can be ver
 particularly true of medical applications involving the Electronic Health Record (EHR). Structured  
 data requires much effort prior to applying statistical or machine learning algorithms, including:
 
--   Variable selection: Multiple expert-level meetings are needed to devise lists of important  
+- Variable selection: Multiple expert-level meetings are needed to devise lists of important  
     variables to include in modeling. Using all – thousands – of variables from the Electronic  
     Health Record is not practical. For applications that involve thousands of models, such as  
     ICD-10 Computer-Assisted Coding (CAC), variable selection becomes problematic, because  
     different models (diabetes, flu, ...) would benefit from their own different subsets of  
     variables.
--   Database field identification: A particular variable might reside in many similarly-named  
+- Database field identification: A particular variable might reside in many similarly-named  
     EHR database fields, requiring help from experts in the current EHR architecture to determine  
     which precise database fields to incorporate into a model.
--   Missing data: Always requires attention and effort with traditional structured data modeling.
--   Data preparation: There is not a single blood pressure measurement – there may be dozens  
+- Missing data: Always requires attention and effort with traditional structured data modeling.
+- Data preparation: There is not a single blood pressure measurement – there may be dozens  
     entered at various times. This requires appropriate rolling up of the numerical data (mean,  
     median, max, min, temporal changes, ...).
 
@@ -239,12 +239,12 @@ using a more natural sentence, such as “Temperature was very high \[104.3\]”
 
 Some important points:
 
--   Most text modeling methods automatically weight repeated words using, for example, tf-idf  
+- Most text modeling methods automatically weight repeated words using, for example, tf-idf  
     weighting \[Salton\]. They also handle any word, even newly created words as we are using  
     here.
--   Diagnoses, current medications lists, and other categorical structured data may be handled  
+- Diagnoses, current medications lists, and other categorical structured data may be handled  
     similarly, for example “dw\_\_Previous\_condition\_\_lung\_cancer.”.
--   Clinicians can specify their own thresholds for determining (mid, high, very\_high, etc.)  
+- Clinicians can specify their own thresholds for determining (mid, high, very\_high, etc.)  
     ranges for individual numeric variables. Alternatively, we can do a preliminary pass over  
     training data to compute means and standard deviations for numeric data, and then use these  
     statistics to define range automatically. For example, the high range can be defined to be  
@@ -280,14 +280,14 @@ items of structured information.
 Our overall approach for combining text and extracted structured/numeric data consists of the  
 following processing steps:
 
-1.  Apply extraction to unstructured text to yield key structured data from the text (or take  
+1. Apply extraction to unstructured text to yield key structured data from the text (or take  
     structured data from an associated database).
-2.  Represent each piece of structured data as a single DataWords sentence.
-3.  Take the original text and add all newly created DataWords sentences.
-4.  Use text modeling software on the combined text to build predictive models.
-5.  To classify new text, first apply steps 1-3 on the new text. Then apply the models created in  
+2. Represent each piece of structured data as a single DataWords sentence.
+3. Take the original text and add all newly created DataWords sentences.
+4. Use text modeling software on the combined text to build predictive models.
+5. To classify new text, first apply steps 1-3 on the new text. Then apply the models created in  
     Step 4 to the resulting combination of text + DataWords sentences.
-6.  Report predictions and justification sentences, where justifications consist of either sentences  
+6. Report predictions and justification sentences, where justifications consist of either sentences  
     from the original text, or DataWords sentences representing a structured variable’s value.
 
 ### 8 Case Studies
@@ -298,7 +298,7 @@ As noted, we can obtain structured data either from using extraction software on
 by accessing a database that is associated with the text. We have experimented with the following  
 extraction software:
 
--   ScispaCy \[Neumann\] is a python package containing multiple models pre-trained on  
+- ScispaCy \[Neumann\] is a python package containing multiple models pre-trained on  
     biomedical, scientific and clinical text. ScispaCy is built on spaCy, an open-source advanced  
     natural language processing library, and enables Named Entity Extraction (NER), POS  
     tagging, dependency parsing and word vectors, among other features. ScispaCy extracts  
@@ -308,7 +308,7 @@ extraction software:
     corpus and comprising millions of parameters. Adding scispaCy to our software stack slowed  
     down performance by 15x while processing clinical notes. We anticipate that the performance  
     would be much better on GPU systems.
--   Comprehend Medical \[Bhatia\] is a NER & Relationship Extraction (RE) service launched  
+- Comprehend Medical \[Bhatia\] is a NER & Relationship Extraction (RE) service launched  
     under Amazon Web Services and trained using state-of-the-art deep learning models. Being a  
     web-service, Comprehend Medical does not require extensive training, installation, or  
     pipeline configurations. It can also detect medical conditions and link them to ICD- 10 - CM  
@@ -317,19 +317,19 @@ extraction software:
     It is possible to combine multiple API calls to process large medical notes, but this results in  
     significant usage costs. For these reasons, we were only able to test extraction performance on  
     a reduced subset of data with shorter text lengths.
--   Stanza \[Qi\] is an open-source Python natural language processing toolkit supporting 66  
+- Stanza \[Qi\] is an open-source Python natural language processing toolkit supporting 66  
     human languages. Stanza features a language-agnostic, fully neural pipeline for text analysis,  
     tokenization, multi-word token expansion, lemmatization, part-of-speech tagging,  
     morphological feature-tagging, dependency parsing and named entity recognition (NER).  
     Stanza is built with highly accurate neural network components, with modules built on top of  
     the PyTorch library. Thus, it gets must faster performance on GPUs and in our experience the  
     performance on CPUs is non-competitive with other open-source extractors.
--   CliNER \[Boag\] is an easy to install (and use) open-source tool for extracting concepts  
+- CliNER \[Boag\] is an easy to install (and use) open-source tool for extracting concepts  
     (problems, tests and treatments) from clinical notes. CliNER 2.0 uses a word and character  
     level bi-directional LSTM model and achieves competitive performance using pre-trained  
     models. The neural network components cause considerable latency issues on CPU and our  
     guess is that, like Stanza, it will provide greater performance on GPU configurations.
--   cTakes \[Savova\]^ is perhaps the oldest NLP system that extracts clinical information from  
+- cTakes \[Savova\]^ is perhaps the oldest NLP system that extracts clinical information from  
     electronic health records. It processes clinical notes, identifying types of clinical named  
     entities — drugs, diseases/disorders, signs/symptoms, anatomical sites and procedures. Each  
     named entity has attributes for the text span, the ontology mapping code, context (family  
@@ -360,7 +360,7 @@ delimited terms in the texts were 21,792 and 43,554 respectively. MIMIC texts ar
 progress notes, and are full of abbreviations, misspellings, local usages, etc. Extracts were quite  
 noisy. Modeling targets were ICD-9 codes in MIMIC.
 
-### All tests are 4-fold CV.
+### All tests are 4-fold CV
 
 ### 1\. Proprietary “S” Dataset
 
@@ -372,7 +372,7 @@ noisy. Modeling targets were ICD-9 codes in MIMIC.
 
 ### \# Unique ICD- 10 codes: 1901
 
-### Avg Codes per document: 15.
+### Avg Codes per document: 15
 
 ### Dataset DataWords NER F1 Precision Recall Time per fold
 
@@ -394,9 +394,9 @@ noisy. Modeling targets were ICD-9 codes in MIMIC.
 
 ### Dataset DataWords NER F1 Precision Recall
 
-### Proprietary “P” No NA .29 .22.
+### Proprietary “P” No NA .29 .22
 
-### Proprietary “P” Yes ScispaCy .36 .28.
+### Proprietary “P” Yes ScispaCy .36 .28
 
 ### 3\. Mimic-III (ICD-9) (subset)
 
@@ -408,7 +408,7 @@ noisy. Modeling targets were ICD-9 codes in MIMIC.
 
 ### \# Unique codes: 1571
 
-### Avg Codes per document: 8.
+### Avg Codes per document: 8
 
 ```
 DataWords NER F1 Precision Recall Time per fold (mins)
@@ -474,12 +474,12 @@ infrequently, we limited ourselves to those values that occurred at least 100 ti
 had many entries, for example Glucose readings appeared thousands of times. We used various  
 subsamples of measurement types, as summarized below.
 
-1.  All measurements irrespective of their count.
-2.  Measurements that have a minimum of 100 and a maximum of 500 count.
-3.  Top 100 measurements (by count).
+1. All measurements irrespective of their count.
+2. Measurements that have a minimum of 100 and a maximum of 500 count.
+3. Top 100 measurements (by count).
 
-4.  Top 500 measurements (by count).
-5.  Top 100 measurements after excluding the original top 100 (3)
+4. Top 500 measurements (by count).
+5. Top 100 measurements after excluding the original top 100 (3)
 
 When creating numerical values into DataWords sentences, we used the following numerical  
 thresholds as defaults:
@@ -611,4 +611,4 @@ parsing with recursive neural networks. Presented at the Deep Learning and Unsup
 Workshop, NIPS 2010.
 
 Zhang, D., Yin, C., Zeng, J. et al. Combining structured and unstructured data for predictive models: a deep  
-learning approach. BMC Med Inform Decis Mak 20, 280 (2020). https://doi.org/10.1186/s12911- 020 - 01297 - 6
+learning approach. BMC Med Inform Decis Mak 20, 280 (2020). <https://doi.org/10.1186/s12911>- 020 - 01297 - 6

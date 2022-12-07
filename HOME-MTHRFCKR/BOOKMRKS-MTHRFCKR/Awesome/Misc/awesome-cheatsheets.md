@@ -20,20 +20,20 @@ View cheatsheets
 
 #### Command line interface
 
--   [Bash](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh)
+- [Bash](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh)
 
 #### Imperative
 
--   [C](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/C.txt)
--   [C#](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/C%23.txt)
--   [Go](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/golang.md)
--   [Java](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/java.md)
--   [PHP](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/php.php)
--   [Python](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/python.md)
+- [C](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/C.txt)
+- [C#](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/C%23.txt)
+- [Go](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/golang.md)
+- [Java](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/java.md)
+- [PHP](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/php.php)
+- [Python](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/python.md)
 
 #### Functional
 
--   [JavaScript](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/javascript.js)
+- [JavaScript](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/javascript.js)
 
 ### 📦 Backend
 
@@ -41,20 +41,20 @@ View cheatsheets
 
 #### PHP
 
--   [Laravel](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/backend/laravel.php)
+- [Laravel](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/backend/laravel.php)
 
 #### Python
 
--   [Django](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/backend/django.py)
+- [Django](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/backend/django.py)
 
 #### Javascript
 
--   [Adonis.js](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/backend/adonis.js)
--   [Express.js](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/backend/express.js)
--   [Feathers.js](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/backend/feathers.js)
--   [Moleculer](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/backend/moleculer.js)
--   [Node.js](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/backend/node.js)
--   [Sails.js](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/backend/sails.js)
+- [Adonis.js](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/backend/adonis.js)
+- [Express.js](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/backend/express.js)
+- [Feathers.js](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/backend/feathers.js)
+- [Moleculer](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/backend/moleculer.js)
+- [Node.js](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/backend/node.js)
+- [Sails.js](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/backend/sails.js)
 
 ### 🌐 Frontend
 
@@ -62,16 +62,16 @@ View cheatsheets
 
 #### Basics
 
--   [HTML5](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/html5.html)
+- [HTML5](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/html5.html)
 
 #### Frameworks
 
--   [React.js](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/react.js)
--   [Vue.js](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/vue.js)
--   [Tailwind.css](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/tailwind.css)
--   [Ember.js](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/ember.js)
--   [Angular (2+)](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/angular.js)
--   [AngularJS](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/angularjs.js)
+- [React.js](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/react.js)
+- [Vue.js](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/vue.js)
+- [Tailwind.css](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/tailwind.css)
+- [Ember.js](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/ember.js)
+- [Angular (2+)](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/angular.js)
+- [AngularJS](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/angularjs.js)
 
 ### 🗃️ Databases
 
@@ -79,11 +79,11 @@ View cheatsheets
 
 #### SQL
 
--   [MySQL](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/databases/mysql.sh)
+- [MySQL](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/databases/mysql.sh)
 
 #### NoSQL
 
--   [Redis](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/databases/redis.sh)
+- [Redis](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/databases/redis.sh)
 
 ### 🔧 Tools
 
@@ -91,25 +91,25 @@ View cheatsheets
 
 #### Development
 
--   [cURL](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/curl.sh)
--   [Drush](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/drush.sh)
--   [Elasticsearch](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/elasticsearch.js)
--   [Emmet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/emmet.md)
--   [Git](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/git.sh)
--   [Puppeteer](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/puppeteer.js)
--   [Sublime Text](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/sublime_text.md)
--   [VIM](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/vim.txt)
--   [Visual Studio Code](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/vscode.md)
--   [Xcode](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/xcode.txt)
+- [cURL](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/curl.sh)
+- [Drush](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/drush.sh)
+- [Elasticsearch](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/elasticsearch.js)
+- [Emmet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/emmet.md)
+- [Git](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/git.sh)
+- [Puppeteer](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/puppeteer.js)
+- [Sublime Text](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/sublime_text.md)
+- [VIM](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/vim.txt)
+- [Visual Studio Code](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/vscode.md)
+- [Xcode](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/xcode.txt)
 
 #### Infrastructure
 
--   [AWS CLI](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/aws.sh)
--   [Docker](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/docker.sh)
--   [Heroku CLI](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/heroku.sh)
--   [Kubernetes](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/kubernetes.md)
--   [Nanobox Boxfile](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/nanobox_boxfile.yml)
--   [Nanobox CLI](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/nanobox_cli.sh)
--   [Nginx](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/nginx.sh)
--   [PM2](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/pm2.sh)
--   [Ubuntu](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/ubuntu.sh)
+- [AWS CLI](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/aws.sh)
+- [Docker](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/docker.sh)
+- [Heroku CLI](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/heroku.sh)
+- [Kubernetes](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/kubernetes.md)
+- [Nanobox Boxfile](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/nanobox_boxfile.yml)
+- [Nanobox CLI](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/nanobox_cli.sh)
+- [Nginx](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/nginx.sh)
+- [PM2](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/pm2.sh)
+- [Ubuntu](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/ubuntu.sh)

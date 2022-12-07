@@ -9,8 +9,8 @@ Components for automatic table of contents generation.
 [![Twitter](https://img.shields.io/badge/follow-twitter-55acee.svg?style=flat-square)](https://twitter.com/FrontendDir)
 
 -----------------------------------------
-+ **[Tocbot](http://tscanlin.github.io/tocbot/)**: Tocbot builds a table of contents (TOC) from headings in an HTML document.
 
++ **[Tocbot](http://tscanlin.github.io/tocbot/)**: Tocbot builds a table of contents (TOC) from headings in an HTML document.
 
 ------------------
 

@@ -9,8 +9,8 @@ A sophisticated way to present a collection of images on your website.
 [![Twitter](https://img.shields.io/badge/follow-twitter-55acee.svg?style=flat-square)](https://twitter.com/FrontendDir)
 
 -----------------------------------------
-+ **[Lightgallery.js](https://github.com/sachinchoolur/lightgallery.js/)**: Full featured JavaScript Lightbox gallery without any dependencies.
 
++ **[Lightgallery.js](https://github.com/sachinchoolur/lightgallery.js/)**: Full featured JavaScript Lightbox gallery without any dependencies.
 
 ------------------
 

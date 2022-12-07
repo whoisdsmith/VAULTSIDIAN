@@ -52,7 +52,6 @@ banner_icon: 🤯
     -webkit-text-fill-color: transparent;
   ">🪴 Grow Room</div>
   
-
 ---
 
 ## 🌱 Seed Box

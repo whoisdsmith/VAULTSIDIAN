@@ -365,7 +365,7 @@ props: {
 | Property  | Type     | Required? | Description                                                                                                                                  |
 | --------- | -------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | `type`    | `string` | required  | Must be set to `$.interface.timer`                                                                                                           |
-| `default` | `object` | optional  | **Define a default interval**<br>`{ intervalSeconds: 60, },`<br>&nbsp;<br>**Define a default cron expression**<br>` { cron: "0 0 * * *", },` |
+| `default` | `object` | optional  | **Define a default interval**<br>`{ intervalSeconds: 60, },`<br>&nbsp;<br>**Define a default cron expression**<br>`{ cron: "0 0 * * *", },` |
 
 **Usage**
 
@@ -744,6 +744,7 @@ It functions the same way as [`$end` in workflow code steps](/workflows/steps/co
 </div>
 
 Example implementation:
+
 ```javascript
 const data = [1, 2]
 const playlistName = "Cool jams"

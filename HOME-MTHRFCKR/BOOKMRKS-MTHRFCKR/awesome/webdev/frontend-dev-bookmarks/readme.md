@@ -10,7 +10,6 @@ This is the current version, which receives ongoing updates. If you want the goo
 [![Gitter](https://img.shields.io/gitter/room/dypsilon/frontend-dev-bookmarks.svg?style=flat-square&maxAge=2592000)](https://gitter.im/dypsilon/frontend-dev-bookmarks)
 [![Twitter](https://img.shields.io/badge/follow-twitter-55acee.svg?style=flat-square)](https://twitter.com/FrontendDir)
 
-
 ---------------------------------------------------------
 
 ## Appearance
@@ -103,7 +102,6 @@ Task automation and asset delivery.
 + **[Package Management](package-management.md)**: A package manager or package management system is a collection of software tools that automates the process of installing, upgrading, configuring, and removing reusable libraries and components in a consistent manner.
 + **[Sourcemaps](sourcemaps.md)**: Sourcemap is a way to map a combined/minified file back to an unbuilt state.
 + **[Version Control](version-control.md)**: Version control or source control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
-
 
 ------------------
 

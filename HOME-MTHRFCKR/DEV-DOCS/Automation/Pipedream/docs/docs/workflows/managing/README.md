@@ -12,7 +12,7 @@ You can control workflow-specific settings in the **Settings** header, just abov
 
 ### Errors
 
-By default, any errors raised in a workflow are sent to the **Global Error Workflow**. This workflow sends you an email with the details of this error, once per error, per workflow, per 24-hour period. 
+By default, any errors raised in a workflow are sent to the **Global Error Workflow**. This workflow sends you an email with the details of this error, once per error, per workflow, per 24-hour period.
 
 But the Global Error Workflow is just another workflow, and lives in your account. So you can modify it however you'd like. For example, you can send errors to Slack, or send critical issues to Pagerduty, or log all errors to a table in the [SQL service](/destinations/sql/) for later analysis.
 
@@ -65,7 +65,7 @@ When you find a public workflow that you want to use, you **Copy** it into your 
 
 When you find the workflow that you'd like to copy, click the big green **Copy** button near the top-right corner of the workflow.
 
-If you're not signed into your Pipedream account, or haven't yet signed up, you'll be prompted to. 
+If you're not signed into your Pipedream account, or haven't yet signed up, you'll be prompted to.
 
 ## Environment Variables
 

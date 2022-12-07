@@ -2,24 +2,24 @@
 
 ## Contents
 
-  * Awk-like
-    * Awk
-    * POSIX commands
-    * SQL-based tools
-    * Other tools
-  * CSV
-  * JSON
-  * XML, HTML
-  * YAML, TOML
-  * Configuration files
-    * /etc/hosts
-    * INI
-    * Multiple formats
-  * Log files
-  * Templating for structured text
-  * Bonus round: CLIs for single-file databases
-  * License
-  * Disclosure
+* Awk-like
+  * Awk
+  * POSIX commands
+  * SQL-based tools
+  * Other tools
+* CSV
+* JSON
+* XML, HTML
+* YAML, TOML
+* Configuration files
+  * /etc/hosts
+  * INI
+  * Multiple formats
+* Log files
+* Templating for structured text
+* Bonus round: CLIs for single-file databases
+* License
+* Disclosure
 
 ## Awk-like
 
@@ -29,11 +29,11 @@ Tools that work with lines of fields separated by delimiters but do not necessar
 
 Awk is a POSIX-standard command line tool and programming language. If you use Linux, macOS, or a BSD, you almost certainly have it installed. See below for Windows.
 
-  * If you already know how to program, the nawk [man page](https://www.freebsd.org/cgi/man.cgi?query=nawk&sektion=1) is a great way to learn Awk quickly. What you learn from it will apply to other implementations on different platforms. Read it first if you feel overwhelmed by the sheer size of the [GNU Awk manual](https://www.gnu.org/software/gawk/manual/gawk.html).
-  * [Awk.info archive](https://web.archive.org/web/20160505033644/http://awk.info/) — an extensive resource on Awk.
-  * [AWK Vs NAWK Vs GAWK](https://www.thegeekstuff.com/2011/06/awk-nawk-gawk/) — a comparison of features present in different implementations.
-  * [busybox-w32](https://frippery.org/busybox/) includes a full implementation of POSIX Awk and other tools like `sed` in a single Windows executable.
-  * [GNU Awk 5 binaries for Windows](https://sourceforge.net/projects/ezwinports/files/) by [EZWinPorts](https://www.gnu.org/software/emacs/manual/html_node/efaq-w32/EZWinPorts.html).
+* If you already know how to program, the nawk [man page](https://www.freebsd.org/cgi/man.cgi?query=nawk&sektion=1) is a great way to learn Awk quickly. What you learn from it will apply to other implementations on different platforms. Read it first if you feel overwhelmed by the sheer size of the [GNU Awk manual](https://www.gnu.org/software/gawk/manual/gawk.html).
+* [Awk.info archive](https://web.archive.org/web/20160505033644/http://awk.info/) — an extensive resource on Awk.
+* [AWK Vs NAWK Vs GAWK](https://www.thegeekstuff.com/2011/06/awk-nawk-gawk/) — a comparison of features present in different implementations.
+* [busybox-w32](https://frippery.org/busybox/) includes a full implementation of POSIX Awk and other tools like `sed` in a single Windows executable.
+* [GNU Awk 5 binaries for Windows](https://sourceforge.net/projects/ezwinports/files/) by [EZWinPorts](https://www.gnu.org/software/emacs/manual/html_node/efaq-w32/EZWinPorts.html).
 
 ### POSIX commands
 
@@ -161,19 +161,19 @@ Index, slice, analyze, split, and join CSV files.
 
 See the [big comparison table](/dbohdan/structured-text-tools/blob/master/sql-based.md). It covers
 
-  * AlaSQL CLI
-  * csvq
-  * csvsql
-  * fsql
-  * q
-  * RBQL
-  * rows
-  * Sqawk (dbohdan)
-  * sqawk (tjunier)
-  * Squawk
-  * termsql
-  * trdsql
-  * textql
+* AlaSQL CLI
+* csvq
+* csvsql
+* fsql
+* q
+* RBQL
+* rows
+* Sqawk (dbohdan)
+* sqawk (tjunier)
+* Squawk
+* termsql
+* trdsql
+* textql
 
 ## JSON
 
@@ -362,7 +362,7 @@ Transform XML documents using [XSLT](https://www.w3.org/TR/xslt) and [EXSLT](htt
 
 ### See also
 
-  * [Grep and Sed Equivalent for XML Command Line Processing](http://stackoverflow.com/questions/91791/grep-and-sed-equivalent-for-xml-command-line-processing) on StackOverflow.
+* [Grep and Sed Equivalent for XML Command Line Processing](http://stackoverflow.com/questions/91791/grep-and-sed-equivalent-for-xml-command-line-processing) on StackOverflow.
 
 ## YAML, TOML
 
@@ -558,7 +558,6 @@ The contents of this document is licensed under the [Creative Commons Attributio
 
 [csv2html](https://github.com/dbohdan/csv2html), [hosts](https://gitlab.com/dbohdan/hosts), [Sqawk](https://github.com/dbohdan/sqawk), [jsonwatch](https://github.com/dbohdan/jsonwatch), [Remarshal](https://github.com/dbohdan/remarshal) and [initool](https://github.com/dbohdan/initool) are developed by the curator of this document.
 
-
 ___
 
-#article 
+# article

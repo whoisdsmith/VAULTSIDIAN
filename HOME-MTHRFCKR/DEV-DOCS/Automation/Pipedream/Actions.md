@@ -4,18 +4,18 @@ Typically, integrating with these services requires custom code to manage connec
 
 **You can also create your own actions that can be shared across your own workflows, or published to all Pipedream users**.
 
--   [Using Existing Actions](https://pipedream.com/docs/#using-existing-actions)
--   [Updating actions to the latest version](https://pipedream.com/docs/#updating-actions-to-the-latest-version)
--   [Creating your own actions](https://pipedream.com/docs/#creating-your-own-actions)
--   [Reporting a bug / feature request](https://pipedream.com/docs/#reporting-a-bug-feature-request)
+- [Using Existing Actions](https://pipedream.com/docs/#using-existing-actions)
+- [Updating actions to the latest version](https://pipedream.com/docs/#updating-actions-to-the-latest-version)
+- [Creating your own actions](https://pipedream.com/docs/#creating-your-own-actions)
+- [Reporting a bug / feature request](https://pipedream.com/docs/#reporting-a-bug-feature-request)
 
 ## [#](https://pipedream.com/docs/#using-existing-actions) Using Existing Actions
 
 Adding existing actions to your workflow is easy:
 
-1.  Click the **+** button below any step.
-2.  Search for the app you're looking for and select it from the list.
-3.  Search for the action and select it to add it to your workflow.
+1. Click the **+** button below any step.
+2. Search for the app you're looking for and select it from the list.
+3. Search for the action and select it to add it to your workflow.
 
 For example, here's how to add the HTTP `GET` Request action:
 

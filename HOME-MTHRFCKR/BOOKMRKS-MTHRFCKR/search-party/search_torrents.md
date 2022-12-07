@@ -1,4 +1,4 @@
- # Torrents
+# Torrents
 
 [Bt4g.org](https://bt4g.org/)
 

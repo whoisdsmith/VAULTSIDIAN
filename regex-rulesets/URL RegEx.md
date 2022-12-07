@@ -42,8 +42,6 @@ Test it!
 /^https?:\/\/(?:www\.)?[-a-zA-Z0-9@:%.*\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b(?:[-a-zA-Z0-9()@:%*\+.~#?&\/=]*)$/
 ```
 
-
-
 Example code in Javascript:
 
 ```
@@ -71,8 +69,6 @@ Test it!
 /^[-a-zA-Z0-9@:%.*\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b(?:[-a-zA-Z0-9()@:%*\+.~#?&//=]*)$/
 ```
 
-
-
 Example code in Javascript:
 
 ```
@@ -85,7 +81,6 @@ httpRegex.test('/uibakery.io'); // Returns false
 var httpRegexG = /[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b(?:[-a-zA-Z0-9()@:%_\+.~#?&//=]*)/g;
 'You can view more details at uibakery.io or just ping via email.'.match(httpRegexG); // returns ['uibakery.io']
 ```
-
 
 ## Notes on URL Validation
 
@@ -227,7 +222,7 @@ UIApplication.sharedApplication().canOpenURL(urlString)
 (http(s)?://)?([\w-]+\.)+[\w-]+[.com]+(/[/?%&=]*)?
 ```
 
-## C#
+## C #
 
 ```
 ^(ht|f)tp(s?)\:\/\/[0-9a-zA-Z]([-.\w]*[0-9a-zA-Z])*(:(0-9)*)*(\/?)([a-zA-Z0-9\-\.\?\,\'\/\\\+&%\$#_]*)?$
@@ -266,8 +261,7 @@ Cheatsheet
 
 ---
 
-
-# For URL RegEx Try:
+# For URL RegEx Try
 
 ---
 
@@ -288,6 +282,5 @@ It's your regex (somewhat simplified) with a negative look ahead added to make s
 Explanation lite:
 
 `(:?`... `)` makes a non captured group. `?` makes the character or group preceding it optional. `(?=[^w.])` - a positive look ahead is to make sure the whole URL is matched (followed by something NOT a word character or a dot). `(?!.*\1)` is a negative look ahead making sure capture group (the URL part captured between the `()`), preceded by anything (`.*`), doesn't repeat.
-
 
 ---

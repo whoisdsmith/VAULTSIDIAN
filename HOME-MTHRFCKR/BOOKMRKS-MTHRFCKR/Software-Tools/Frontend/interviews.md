@@ -1,5 +1,5 @@
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
-- https://eddmann.com/posts/implementing-promise-all-and-promise-race-in-javascript/
+- <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise>
+- <https://eddmann.com/posts/implementing-promise-all-and-promise-race-in-javascript/>
 
 # Implementing Promise.all
 
@@ -37,8 +37,8 @@ Promise.all([p1, p2, p3]).then(values => {
 
 # Implementing Connect of React-Redux
 
-- https://github.com/reduxjs/react-redux/blob/master/src/connect/connect.js
-- https://blog.jakoblind.no/learn-react-redux-by-coding-the-connect-function-yourself/
+- <https://github.com/reduxjs/react-redux/blob/master/src/connect/connect.js>
+- <https://blog.jakoblind.no/learn-react-redux-by-coding-the-connect-function-yourself/>
 
 ```
 const connect = (props) => (options) => (WrappedComponent) => {

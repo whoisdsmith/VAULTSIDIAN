@@ -6,7 +6,7 @@ If you aren’t familiar with Jekyll yet, you should know that it is a static si
 
 ## Watch Tutorial
 
-### Steps to create your blog using devlopr-jekyll and Host using Github Pages :
+### Steps to create your blog using devlopr-jekyll and Host using Github Pages
 
 > **Step 1.** Fork the repo - [click here](https://github.com/sujaykundu777/devlopr-jekyll/fork)
 
@@ -25,8 +25,7 @@ If you aren’t familiar with Jekyll yet, you should know that it is a static si
 ![Devlopr Jekyll Repo](https://d33wubrfki0l68.cloudfront.net/dc0ef3e7d1e615d6121fdc9617c1669cbbfa95dd/1bdf3/assets/img/posts/fork32.png)
 
 ![Devlopr Jekyll Repo](https://d33wubrfki0l68.cloudfront.net/3f85cc1d6f28574da7a2770104dc8325aa30c3f3/65ee1/assets/img/posts/fork33.png)
-    
-    
+
      $ git clone https://github.com/yourusername/yourusername.github.io
      $ cd yourusername.github.io
      $ code .
@@ -35,14 +34,11 @@ If you aren’t familiar with Jekyll yet, you should know that it is a static si
      
     
     >  
->     
+>
 >     **Step 4.** Open the files using VSCode and edit _config.yml and edit with your details:
->     
->      
-    
-     
-    
-     
+>
+>
+
       * _config.yml file - replace with your own details
      
       * _posts - Add your blog posts here
@@ -57,13 +53,11 @@ If you aren’t familiar with Jekyll yet, you should know that it is a static si
      
     
     >  
->     
+>
 >     **Step 5** - Install the development requirements:
->     
->      
-    
-     
-    
+>
+>
+
     ### Set up local development environment
     
      
@@ -130,14 +124,11 @@ If you aren’t familiar with Jekyll yet, you should know that it is a static si
      
     
     >  
->     
+>
 >     **Step 6.** Install the gem dependencies by running the following command
->     
->      
-    
-     
-    
-    
+>
+>
+
     $ bundle update
     $ bundle install
     
@@ -145,14 +136,11 @@ If you aren’t familiar with Jekyll yet, you should know that it is a static si
      
     
     >  
->     
+>
 >     **Step 7.** Serve the site locally by running the following command below:
->     
->      
-    
-     
-    
-    
+>
+>
+
     $ bundle exec jekyll serve --watch
     
     
@@ -233,14 +221,11 @@ If you aren’t familiar with Jekyll yet, you should know that it is a static si
      
     
     >  
->     
+>
 >     **Step 8.** Push Your Local Changes
->     
->      
-    
-     
-    
-    
+>
+>
+
      $ git add .
      $ git commit -m "my new blog using devlopr-jekyll"
      $ git push origin master
@@ -257,33 +242,23 @@ If you aren’t familiar with Jekyll yet, you should know that it is a static si
      
     
     >  
->     
+>
 >     **Step 9.** Deploy your Blog :
->     
->      
-    
-     
-    
+>
+>
+
     ![Devlopr Jekyll Repo](https://d33wubrfki0l68.cloudfront.net/9fc8167e2f5820e51a3a69c00f0654e4b8c1dd50/749eb/assets/img/posts/fork7.png)
     
      
     
     >  
->     
+>
 >     Congrats ! On your new shining Blog !
->     
->      
-    
-     
-    
-    You can visit the blog using <http://your-github-username.github.io>.
-    
-     
-    
-    
-    
+>
+>
 
+    You can visit the blog using <http://your-github-username.github.io>.
 
 ___
 
-#article 
+# article

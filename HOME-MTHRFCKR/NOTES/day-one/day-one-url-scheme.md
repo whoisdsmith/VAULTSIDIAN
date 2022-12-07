@@ -1,6 +1,6 @@
 # Day One URL scheme
 
-Day One iOS and Mac apps support URLs to send data into the apps from external sources. 
+Day One iOS and Mac apps support URLs to send data into the apps from external sources.
 
 Note: If you're using the Day One URL scheme in Terminal (or your preferred CLI app), you'll need to type "open" followed by the URL scheme. Also, if you have both Day One Classic and Day One 2.0 installed on the same device, the URL Scheme will route to Day One 2.0.
 
@@ -20,7 +20,7 @@ Create Entry with Clipboard Image: [dayone://post?entry=Hello Self&imageClipboar
 **Entry Edit:**  
 Edit Entry: [dayone://edit?entryId=[UUID]](dayone://edit?entryId=%5BUUID%5D) (Don't include brackets.)
 
-### On this Day:
+### On this Day
 
 On This Day = dayone://thisday
 
@@ -30,7 +30,6 @@ Settings > Siri Shortcuts = dayone://siri
 
 See Also: [Day One Tools](http://intercom.help/dayone/day-one-2-0/day-one-tools)
 
-
 ___
 
-#article #DayOne
+# article #DayOne

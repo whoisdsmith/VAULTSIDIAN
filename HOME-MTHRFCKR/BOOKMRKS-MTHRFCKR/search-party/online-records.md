@@ -1,4 +1,4 @@
- # Online Records
+# Online Records
 
 [51,000 University of Michigan employee salaries](https://www.mlive.com/news/ann-arbor/2020/12/see-the-2020-salaries-for-all-45000-university-of-michigan-employees.html)
 

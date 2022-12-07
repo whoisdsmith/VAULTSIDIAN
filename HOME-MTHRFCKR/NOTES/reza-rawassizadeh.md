@@ -214,7 +214,7 @@ risks may be identified, when a life-log tool is used in a real
 operational and commercial environment.
 ```
 
--   Surveillance: The sharing of life-log information with  
+- Surveillance: The sharing of life-log information with  
     society might be interpreted as a form of surveillance.  
     Any form of surveillance, which limits our behaviors  
     without our desire, is not acceptable. Surveillance has  
@@ -238,7 +238,7 @@ Hence they can be used for marketing and provisioning
 purposes [24].
 ```
 
--   Memory Hazards: It has been proved that life-log tools  
+- Memory Hazards: It has been proved that life-log tools  
     can assist human memory \[3\]. The life-log can record all  
     life events, disregarding the content. It means a life-log  
     can prevent individuals from forgetting their errors \[25\].  
@@ -259,7 +259,7 @@ purposes [24].
     and Kitchen \[25\] suggested that the life-log should forget  
     like real memory, based on the Scharter’s six forms of  
     forgetting \[27\].
--   Long term Availability of Personal Information: The  
+- Long term Availability of Personal Information: The  
     ideology and personality of an individual can change over  
     time. Besides, an individual’s life style may change over  
     time. Sharing life-log information with society can be a  
@@ -276,7 +276,7 @@ purposes [24].
     mind over time and disagrees with his past opinions. In  
     the era of the internet the chance of removing his old  
     ideas from public view is very low.
--   Stealing Life-log Information: Sharing life-log informa-  
+- Stealing Life-log Information: Sharing life-log informa-  
     tion increases the chance of loss or theft. This risk can  
     be very harmful for the person (victim). Life-log can  
     sense and record sensitive private information such as  

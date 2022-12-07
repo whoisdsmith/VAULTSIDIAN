@@ -14,7 +14,7 @@ An [argument](https://www.idtech.com/blog/what-is-an-argument-in-programming) is
 
 ### Arrays
 
-Arrays are containers that hold variables; they're used to group together similar variables. You can think of arrays like shelves at a pet store. The array would be the shelf, and the animals in cages are the variables inside. 
+Arrays are containers that hold variables; they're used to group together similar variables. You can think of arrays like shelves at a pet store. The array would be the shelf, and the animals in cages are the variables inside.
 
 ### Arithmetic operators
 
@@ -38,11 +38,11 @@ A binary number is a computer's way to represent information. Computers process 
 
 ### Bit
 
-The individual 1's and 0's you see in binary are called bits. 
+The individual 1's and 0's you see in binary are called bits.
 
 ### C++
 
-C++ is a low-level yet versatile programming language. Kids who master this language will be able to solve complex problems and understand how programs work. 
+C++ is a low-level yet versatile programming language. Kids who master this language will be able to solve complex problems and understand how programs work.
 
 **_Related: _**_[Online C++ tutoring for kids and teens](https://www.idtech.com/courses/tutoring-c)_
 
@@ -52,9 +52,9 @@ Variables should be named using camel case, meaning the first word of the name i
 
 ### Coding
 
-Coding is how people create instructions for computers to follow. Just like people speak different languages, so do programs. For instance, Roblox uses the [coding language Lua](https://www.idtech.com/blog/lua-coding-for-kids) while Minecraft was built with Java. 
+Coding is how people create instructions for computers to follow. Just like people speak different languages, so do programs. For instance, Roblox uses the [coding language Lua](https://www.idtech.com/blog/lua-coding-for-kids) while Minecraft was built with Java.
 
-### Coding languages 
+### Coding languages
 
 Computers use coding languages to understand what people want them to do. Just like how people communicate with each other in English or Japanese, people communicate with computers in languages like C++ or Java. Some of the [best coding languages for kids](https://www.idtech.com/blog/choose-best-programming-language-your-child) include JavaScript, Scratch, and Python.
 
@@ -78,13 +78,13 @@ For loops allow you to run a block of code repeatedly, just like while loops. Ho
 
 ### Functions
 
-A function is a block of code that can be referenced by name to run the code it contains. 
+A function is a block of code that can be referenced by name to run the code it contains.
 
 ### If statements
 
 An if statement runs a block of code based on whether or not a condition is true.
 
-### Integrated Development Environment 
+### Integrated Development Environment
 
 Software such as [Visual Studio](https://visualstudio.microsoft.com/) is known as an Integrated Development Environment (IDE), which is where you type your code and run your programs. Basically, an IDE is software that makes coding simpler.
 
@@ -94,9 +94,9 @@ To start writing code in Java, you can use [IntelliJ](https://www.jetbrains.com/
 
 ### Java
 
-Java is a powerful multi-platform programming language. It's used for many professional and commercial applications, including every Android application and even the Android operating system itself! 
+Java is a powerful multi-platform programming language. It's used for many professional and commercial applications, including every Android application and even the Android operating system itself!
 
-Minecraft was completely developed in Java by Markus Persson. Gmail was created in Java because Java has a great performance rate and a good framework for web. 
+Minecraft was completely developed in Java by Markus Persson. Gmail was created in Java because Java has a great performance rate and a good framework for web.
 
 When it comes to [Java for kids](https://www.idtech.com/blog/java-for-kids-a-guide-for-parents-of-new-coders), they can use Java to make a wide range of games and programs.
 
@@ -110,7 +110,7 @@ Linux is an open-source operating system designed to run on multiple types of de
 
 ### Loops
 
-Loops check a condition and then run a code block. The loop will continue to check and run until a specified condition is reached. 
+Loops check a condition and then run a code block. The loop will continue to check and run until a specified condition is reached.
 
 ### Main function
 
@@ -118,11 +118,11 @@ The main function is part of C++ and is called when the program starts.
 
 ### Machine learning
 
-Machine learning is getting a computer to act without explicitly being programmed to do so. It's an application of artificial intelligence where we give machines access to data and let them use that data to learn for themselves. Learn more about [machine learning for kids](https://www.idtech.com/blog/intro-to-machine-learning-kids-teens). 
+Machine learning is getting a computer to act without explicitly being programmed to do so. It's an application of artificial intelligence where we give machines access to data and let them use that data to learn for themselves. Learn more about [machine learning for kids](https://www.idtech.com/blog/intro-to-machine-learning-kids-teens).
 
 ### Micro:bit
 
-The [micro:bit](https://microbit.org/guide/) is a small programmable computer more formally known as a microcontroller development board. 
+The [micro:bit](https://microbit.org/guide/) is a small programmable computer more formally known as a microcontroller development board.
 
 ### Neural networks
 
@@ -142,13 +142,13 @@ Learn more: [What is block-based coding?](https://www.idtech.com/blog/what-is-bl
 
 ### Scripts
 
-In programming, a series of scripts, or sets of steps, are written for a computer to follow. Computers process the steps line-by-line from top to bottom. Each step is created by writing a statement. 
+In programming, a series of scripts, or sets of steps, are written for a computer to follow. Computers process the steps line-by-line from top to bottom. Each step is created by writing a statement.
 
 Get started: [Roblox scripting & Lua coding](https://www.idtech.com/courses/roblox-lua-coding-and-game-scripts)
 
 ### Sprites
 
-Sprites are computer graphics that you can move via code; a 2D player that walks is an animated sprite. For kids, [Scratch sprites](https://www.idtech.com/blog/what-are-scratch-sprites) provide a fun intro to coding. 
+Sprites are computer graphics that you can move via code; a 2D player that walks is an animated sprite. For kids, [Scratch sprites](https://www.idtech.com/blog/what-are-scratch-sprites) provide a fun intro to coding.
 
 ### Statement
 
@@ -174,8 +174,6 @@ Once a variable is declared, a variable type is specified. Basic variable types 
 
 While loops are set up just like if statements. They check for a condition and run the code in them until the condition is no longer true. A while loop will run forever (until the condition is false).
 
-
-
 ___
 
-#article #programming
+# article #programming

@@ -13,7 +13,7 @@ Command-line (Terminal) is a very powerful tool we have in our machine and this 
 
 To open the terminal, press **Ctrl+Alt+T** in Ubuntu, or press **Alt+F2**. For mac user **command+space** then type terminal in spotlight search then hit **enter**.
 
-## Let’s Start with Must-know Commands.
+## Let’s Start with Must-know Commands
 
 I will give you Ubuntu commands. Most all their command is used in daily basics as a software engineer. This article is for any software engineer that wants to use the terminal more efficiently.
 

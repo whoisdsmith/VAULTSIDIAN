@@ -1,4 +1,4 @@
-##  Major Social Networks
+## Major Social Networks
 
 * [Draugiem (Latvia)](https://www.draugiem.lv)
 * [Facebook](http://www.facebook.com)

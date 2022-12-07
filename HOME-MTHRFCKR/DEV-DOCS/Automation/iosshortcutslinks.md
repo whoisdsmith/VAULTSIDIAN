@@ -126,7 +126,7 @@ matthewcassinelli.com·Dec 19, 2021
 
 [Announcing the Shortcuts Catalog for iOS 14, feat. 300 shortcuts & 300 actions](https://medium.com/@richardmoult75/how-to-use-an-apple-shortcut-menu-variables-actions-3349676e183a)
 
-https://appletoolbox.com/shortcuts-tips-and-tricks-to-take-your-iphone-automations-to-the-next-level/amp/
+<https://appletoolbox.com/shortcuts-tips-and-tricks-to-take-your-iphone-automations-to-the-next-level/amp/>
 
 [#shortcuts](/whoisdsmith/i-os-shortcuts-21959456/search/sort=-sort&perpage=30&page=0&search=%23shortcuts)
 
@@ -212,7 +212,6 @@ apps.apple.com·Dec 17, 2021
 
 [Jayson by Simon B. Støvring](https://apps.apple.com/us/app/shortcuts-utilities/id1475283333)
 
-
 ___
 
-#article 
+# article

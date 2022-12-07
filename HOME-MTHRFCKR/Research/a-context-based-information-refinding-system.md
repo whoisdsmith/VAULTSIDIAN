@@ -122,7 +122,7 @@ G
 
 #### II. Relatedwork
 
-##### .
+#####
 
 ```
 key word and their related information after a couple of
@@ -615,14 +615,14 @@ shown in above table.
 8. E. Adar, J. Teevan, and S.T. Dumais, “Large Scale  
     Analysis of Web Revisitation Patterns,” Proc. SIGCHI  
     Conf. Human Factors in Computing Systems (CHI),
-    
+
 9. R. Capra, M. Pinney, and M.A. Perez-Quinones,  
     “Refinding Is Not Finding Again,” technical report,  
     Aug. 2005.
 10. Y. Chen and G. Jones, “Integrating Memory Context  
     into Personal Information Re-Finding,” Proc. Second  
     Symp. Future Directions in Information Access,
-    
+
 11. J. Teevan, “The Re: Search Engine: Simultaneous  
     Support for Finding and Re-Finding,” Proc. 20th  
     Ann. ACM Symp. User Interface Software and  

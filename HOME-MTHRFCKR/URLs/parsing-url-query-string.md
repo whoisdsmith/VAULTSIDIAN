@@ -10,10 +10,10 @@ Historically used as a *single-line text* placed inside the `<isindex>` HTML ele
 
 With the arrival of [*Web Forms*](https://developer.mozilla.org/en-US/docs/Learn/Forms), query strings was then recycled to contain the form fields (*name* + *values*) and thus, gained the shape we know today:
 
--   *Key-value* pair based.
--   Within each pair, the *key* and *value* are separated by an equal sign `=`.
--   The *key-value* sequences are separated by the ampersand `&` or semicolon sign `;`.
--   Some chars cannot be part of the URL and therefore, must be [*encoded*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/encodeURI) through its [UTF-8](https://developer.mozilla.org/en-US/docs/Glossary/UTF-8) representation. E.g. `#`, `SPACE`, so on.
+- *Key-value* pair based.
+- Within each pair, the *key* and *value* are separated by an equal sign `=`.
+- The *key-value* sequences are separated by the ampersand `&` or semicolon sign `;`.
+- Some chars cannot be part of the URL and therefore, must be [*encoded*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/encodeURI) through its [UTF-8](https://developer.mozilla.org/en-US/docs/Glossary/UTF-8) representation. E.g. `#`, `SPACE`, so on.
 
 Since then things are pretty much the same, with exception of its use cases, that have grown.
 
@@ -29,8 +29,8 @@ Before we get more depth on the subject, let’s take a look on the URL anatomy 
 
 For this process, there are 2 methods available in the Browser’s API:
 
--   `encodeURI()`
--   `encodeURIComponent()`
+- `encodeURI()`
+- `encodeURIComponent()`
 
 # `encodeURI` vs `encodeURIComponent`
 

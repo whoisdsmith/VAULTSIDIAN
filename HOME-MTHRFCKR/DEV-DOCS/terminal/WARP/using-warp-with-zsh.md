@@ -10,9 +10,9 @@ You can switch your default shell to any other shell supported by Warp (Bash, Zs
 
 [Zsh
 
-(https://zsh.sourceforge.io/Doc/Release/zsh_toc.html) is a Unix shell built as an extension of [Bourne shell]
+(<https://zsh.sourceforge.io/Doc/Release/zsh_toc.html>) is a Unix shell built as an extension of [Bourne shell]
 
-(https://en.wikipedia.org/wiki/Bourne_shell) with many improvements around customization e.g. support for plugins, themes, syntax highlighting, and auto-correction..
+(<https://en.wikipedia.org/wiki/Bourne_shell>) with many improvements around customization e.g. support for plugins, themes, syntax highlighting, and auto-correction..
 
 ### Setting up Zsh on Warp
 

@@ -2,7 +2,6 @@
 
 This Action will create a new Journal entry in the Journal you specify.
 
-
 ### About this action
 
 Triggers, queries, and actions are the building blocks of Applets. Triggers tell an Applet to start, queries ask a question, and actions are its end result.
@@ -13,7 +12,7 @@ Description
 
 This Action will create a new Journal entry in the Journal you specify.
 
-API endpoint slug 
+API endpoint slug
 
 `day\_one.create\_journal\_entry`
 
@@ -43,7 +42,7 @@ Slug
 
 Required
 
-`true 
+`true
 
 Can have default value
 

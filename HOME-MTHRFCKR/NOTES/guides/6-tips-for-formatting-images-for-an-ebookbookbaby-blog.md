@@ -2,7 +2,7 @@
 
 _Updated June 2017._
 
-## If a picture’s worth a thousand words, correctly formatted images for an eBook can be priceless!
+## If a picture’s worth a thousand words, correctly formatted images for an eBook can be priceless
 
 We often get inquiries about image formatting, so here are a few tips to make sure the images you are using for your eBook are eReader ready.
 
@@ -35,4 +35,3 @@ When you take a photograph with a digital camera or scan an image using a digita
 ### Photoshop and color mode
 
 If you are using Adobe Photoshop and want to check the color mode of your file, you can do so under Image > Mode. We suggest making any necessary color mode conversions from CMYK to RGB before you start color/tonal changes or photo manipulation.
-

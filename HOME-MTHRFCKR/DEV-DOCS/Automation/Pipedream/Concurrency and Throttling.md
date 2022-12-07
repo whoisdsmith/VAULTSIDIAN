@@ -1,15 +1,15 @@
 Pipedream makes it easy to manage the concurrency and rate at which events trigger your workflow code using execution controls.
 
--   [Overview](https://pipedream.com/docs/#overview)
-    -   [Concurrency](https://pipedream.com/docs/#concurrency)
-    -   [Throttling](https://pipedream.com/docs/#throttling)
--   [Usage](https://pipedream.com/docs/#usage)
-    -   [Where Do I Manage Concurrency and Throttling?](https://pipedream.com/docs/#where-do-i-manage-concurrency-and-throttling)
-    -   [Managing Event Concurrency](https://pipedream.com/docs/#managing-event-concurrency)
-    -   [Throttling Workflow Execution](https://pipedream.com/docs/#throttling-workflow-execution)
-    -   [Applying Concurrency and Throttling Together](https://pipedream.com/docs/#applying-concurrency-and-throttling-together)
-    -   [Pausing Workflow Execution](https://pipedream.com/docs/#pausing-workflow-execution)
-    -   [Increasing the queue size for a workflow](https://pipedream.com/docs/#increasing-the-queue-size-for-a-workflow)
+- [Overview](https://pipedream.com/docs/#overview)
+  - [Concurrency](https://pipedream.com/docs/#concurrency)
+  - [Throttling](https://pipedream.com/docs/#throttling)
+- [Usage](https://pipedream.com/docs/#usage)
+  - [Where Do I Manage Concurrency and Throttling?](https://pipedream.com/docs/#where-do-i-manage-concurrency-and-throttling)
+  - [Managing Event Concurrency](https://pipedream.com/docs/#managing-event-concurrency)
+  - [Throttling Workflow Execution](https://pipedream.com/docs/#throttling-workflow-execution)
+  - [Applying Concurrency and Throttling Together](https://pipedream.com/docs/#applying-concurrency-and-throttling-together)
+  - [Pausing Workflow Execution](https://pipedream.com/docs/#pausing-workflow-execution)
+  - [Increasing the queue size for a workflow](https://pipedream.com/docs/#increasing-the-queue-size-for-a-workflow)
 
 ## [#](https://pipedream.com/docs/#overview) Overview
 
@@ -41,8 +41,8 @@ Events emitted from a source to a workflow are placed in a queue, and Pipedream 
 
 The maximum number of events Pipedream will queue per workflow depends on your account type.
 
--   Up to 100 events will be queued per workflow for the [Developer Tier](https://pipedream.com/docs/pricing/#developer-tier)
--   Workflows owned by paid plans may have custom limits. If you need a larger queue size, [see here](https://pipedream.com/docs/#increasing-the-queue-size-for-a-workflow).
+- Up to 100 events will be queued per workflow for the [Developer Tier](https://pipedream.com/docs/pricing/#developer-tier)
+- Workflows owned by paid plans may have custom limits. If you need a larger queue size, [see here](https://pipedream.com/docs/#increasing-the-queue-size-for-a-workflow).
 
 **IMPORTANT:** If the number of events emitted to a workflow exceeds the queue size, events will be lost. If that happens, an error message will be displayed in the event list of your workflow and your [global error workflow](https://pipedream.com/docs/workflows/error-handling/global-error-workflow/) will be triggered.
 

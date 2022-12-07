@@ -106,9 +106,9 @@ If you’ve been writing code for a long time, please comment below with some er
 
 # Article Errors
 
-[1]:	https://en.wikipedia.org/wiki/Edsger_W._Dijkstra
-[2]:	https://en.wikipedia.org/wiki/Mars_Climate_Orbiter#Cause_of_failure
-[3]:	https://textexpander.com/blog/write-better-issue-tracking-tickets-consistency-is-key/
-[4]:	https://textexpander.com/blog/what-is-code-churn-and-how-to-reduce-it/
+[1]: https://en.wikipedia.org/wiki/Edsger_W._Dijkstra
+[2]: https://en.wikipedia.org/wiki/Mars_Climate_Orbiter#Cause_of_failure
+[3]: https://textexpander.com/blog/write-better-issue-tracking-tickets-consistency-is-key/
+[4]: https://textexpander.com/blog/what-is-code-churn-and-how-to-reduce-it/
 
-[image-1]:	https://textexpander.com/wp-content/uploads/2020/02/Featured_The-7-Most-Common-Types-of-Errors-in-Programming-and-How-to-Avoid-Them-1200x474.jpg
+[image-1]: https://textexpander.com/wp-content/uploads/2020/02/Featured_The-7-Most-Common-Types-of-Errors-in-Programming-and-How-to-Avoid-Them-1200x474.jpg

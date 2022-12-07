@@ -87,7 +87,7 @@ Applets are what make IFTTT worth your time. Basically, they are the combination
 
 Confused? Don’t be, it will all make sense. Just know that Applets are formulas you set up deciding which triggers will prompt which actions.
 
-### 2.3 How Do I Create an Applet–A Quickstart Guide.
+### 2.3 How Do I Create an Applet–A Quickstart Guide
 
 Glad you asked! Making Applets is a snap with IFTTT.
 

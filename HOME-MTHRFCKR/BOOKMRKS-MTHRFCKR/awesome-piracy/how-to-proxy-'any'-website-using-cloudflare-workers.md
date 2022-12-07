@@ -16,7 +16,6 @@ _here zyx will be replaced by your future worker names.
   9. _Delete_ existing code.
   10. _Paste_ the following code there.  
 
-    
          1
      2
      3
@@ -33,7 +32,7 @@ _here zyx will be replaced by your future worker names.
     14
     15
     16
-    
+
         async function handleRequest(request) {
       const url = new URL(request.url)
       if (url.hostname in ORIGINS) {
@@ -46,7 +45,7 @@ _here zyx will be replaced by your future worker names.
     addEventListener('fetch', event => {
       event.respondWith(handleRequest(event.request))
     })
-    
+
     const ORIGINS = {
       '1337x.subdomain.workers.dev': '1337x.to'
     }   
@@ -64,8 +63,8 @@ _here zyx will be replaced by your future worker names.
     
     
     > 
->     
->     
+>
+>
 >     **Replace** 1337x with whatever you named your new worker.  
 >     
 >     **Replace** [1337x.to](http://1337x.to) with the website you want to be proxied.  
@@ -73,13 +72,10 @@ _here zyx will be replaced by your future worker names.
 >     **Don't** enter <https://1337x.to/>  
 >     
 >     **Only** [1337x.to](http://1337x.to)
->     
->     
->     
-    
-    
-    
-    
+>
+>
+>
+
     **BOOM you can access your proxied website at [1337x.subdomain.workers.dev](http://1337x.subdomain.workers.dev)**  
     
     _Enjoy and cheers!_
@@ -789,18 +785,9 @@ _here zyx will be replaced by your future worker names.
     
     
       * SEARCH_API_LINK - Search api app link. Get your api from deploying this [repository](https://github.com/Ryuk-me/Torrent-Api-py).
-    
-    
+
 [MEGA](../../NOTES/mega.md)
-    
-    
-    
-    
-    
-    
-    
-    
-    
+
       * Here is how your config.env should look like, with your values filled where necessary:
     
     
@@ -1312,13 +1299,7 @@ _here zyx will be replaced by your future worker names.
     
     ![Join the CHAMPAGNE Discord Server!](https://cdn.discordapp.com/attachments/972766815224733747/996852484821757952/CHAMPAGNE-Wiki-Footer.png)
     [Discord](https://discord.gg/cH3ZkVc3Gd)
-    
-    
-    
-    
-    
-
 
 ___
 
-#article
+# article

@@ -1,4 +1,4 @@
-# Mobile 
+# Mobile
 
 ## SMS
 
@@ -44,8 +44,6 @@
 
 - [FilesBear: download free software | shareware | freeware](https://filesbear.com/)
 
-
-
 ## Jailbreak
 
 - [Parcility](https://parcility.co/)
@@ -78,8 +76,6 @@
 
 - [[Discussion] List of basic commands for iOS Terminal](https://reddit.com/r/jailbreak/comments/95r4ih/discussion_list_of_basic_commands_for_ios_terminal/)
 
-
-
 ## Location History
 
 - [MyGeodata Cloud - GIS Data Warehouse, Converter, Maps](https://mygeodata.cloud/)
@@ -108,8 +104,6 @@
 
 - [The Top 1,025 Geolocation Open Source Projects on Github](https://awesomeopensource.com/projects/geolocation)
 
-
-
 ## Mobile Apps
 
 - [Appscope](https://appsco.pe/)
@@ -119,8 +113,6 @@
 ### Android
 
 - [chrisknepper/android-messages-desktop at producthunt](https://github.com/chrisknepper/android-messages-desktop?ref=producthunt)
-
-
 
 ### iOS
 
@@ -357,14 +349,6 @@
 - [Scriptable by Simon B. Støvring](https://apps.apple.com/us/app/scriptable/id1405459188)
 
 - [‎Pushcut: Shortcuts Automation](https://apps.apple.com/us/app/pushcut-shortcuts-automation/id1450936447)
-
-
-
-
-
-
-
-
 
 ## Text Messages
 

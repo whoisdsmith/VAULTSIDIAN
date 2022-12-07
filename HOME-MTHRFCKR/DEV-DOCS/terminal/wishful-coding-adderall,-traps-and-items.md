@@ -12,9 +12,9 @@ A bit of background. There’s a Hy implementation of [miniKanren](http://minika
 
 `(defn breakfastᵒ [meal drink]`
 
-`  ``(condᵉ [(≡ meal 'bacon) (≡ drink 'tea)]`
+` ``(condᵉ [(≡ meal 'bacon) (≡ drink 'tea)]`
 
-`         ``[(≡ meal 'oatmeal) (≡ drink 'coffee)]))`
+` ``[(≡ meal 'oatmeal) (≡ drink 'coffee)]))`
 
 I can then query what I would drink, if I eat bacon:
 
@@ -150,13 +150,13 @@ Nested lists of symbols sound like a good candidate for representing complex ent
 
 `(defn potionᵒ [item]`
 
-`  ``(fresh [types]`
+` ``(fresh [types]`
 
-`         ``(firstᵒ types 'types)`
+` ``(firstᵒ types 'types)`
 
-`         ``(memberᵒ 'potion types)`
+` ``(memberᵒ 'potion types)`
 
-`         ``(memberᵒ types item )))`
+` ``(memberᵒ types item )))`
 
 `=> (run 1 [q]`
 
@@ -190,13 +190,13 @@ Defining what item with flying effect looks like is almost similar:
 
 `(defn effectᵒ [item effect]`
 
-`  ``(fresh [effects]`
+` ``(fresh [effects]`
 
-`         ``(firstᵒ effects 'effects)`
+` ``(firstᵒ effects 'effects)`
 
-`         ``(memberᵒ effect effects)`
+` ``(memberᵒ effect effects)`
 
-`         ``(memberᵒ effects item )))`
+` ``(memberᵒ effects item )))`
 
 `=> (run 1 [q]`
 
@@ -228,7 +228,6 @@ Remember, that if we can define what something is (in essence, what relations do
 
 I’m also wondering what are the chances that this type of system would result into some interesting emergent behaviour. Since it doesn’t directly encode what items to use in which situation, but rather what kinds actions and thus results are possible with given items, maybe it could find a solution overlooked by the designer? One still has to remember though, that miniKanren is “just” a dsl for specifying goals and a search engine that tries to locate solutions for the specified goals. It’s easy to get into inifinite recursion or end up with really slow routine.
 
-
 ___
 
-#article 
+# article

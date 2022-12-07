@@ -2,17 +2,19 @@
  Obsidian: Ancestry
 ---
 
- # Ancestry Investigations with Obsidian 🔍
+# Ancestry Investigations with Obsidian 🔍
 
  ![u8MQm5IW4Gwvz5hKQXQwDEZuzxqTJ0y2vQzQb9g9-1](https://user-images.githubusercontent.com/104733166/177205914-83509682-5b68-47bf-b9d3-eb2a7c57b67f.png)
 
- ## Mapping Ancestors
- - Once you have completed the family tree, you can click on open local graph to get a graph view, but the Mind Map is much better for viewing the Tree.
+## Mapping Ancestors
+
+- Once you have completed the family tree, you can click on open local graph to get a graph view, but the Mind Map is much better for viewing the Tree.
  <br>
 
- ## How to get the Mind Map plugin in Obsidian
- - Go to **Settings** (bottom-left)--> **Community Plugins** --> **Turn off Safe Mode** --> **Browse Community Plugins** --> **Type Mind Map** --> **Install**
- - The code to this plugin is open source and can be found here: [Obsidian Mind Map by James Lynch](https://github.com/lynchjames/obsidian-mind-map)
+## How to get the Mind Map plugin in Obsidian
+
+- Go to **Settings** (bottom-left)--> **Community Plugins** --> **Turn off Safe Mode** --> **Browse Community Plugins** --> **Type Mind Map** --> **Install**
+- The code to this plugin is open source and can be found here: [Obsidian Mind Map by James Lynch](https://github.com/lynchjames/obsidian-mind-map)
  <br>
 
  <p align="center">
@@ -24,34 +26,37 @@
  <p/>
  <br>
 
- ## Activating Mind Map
- - Do not forget to toggle the button in **Community Plugins** --> **Installed Plugins** to activate Mind Map
+## Activating Mind Map
+
+- Do not forget to toggle the button in **Community Plugins** --> **Installed Plugins** to activate Mind Map
  <br>
 
- ## Viewing your Ancestry Intelligence with the Mind Map Plugin
- - Once that you have finished writing down your notes/Intelligence and would like to view your data as a Mind Map:
- - Go to --> **Open Command Palette** --> Type **Mind Map** --> **Preview the current note as a Mind Map**
+## Viewing your Ancestry Intelligence with the Mind Map Plugin
+
+- Once that you have finished writing down your notes/Intelligence and would like to view your data as a Mind Map:
+- Go to --> **Open Command Palette** --> Type **Mind Map** --> **Preview the current note as a Mind Map**
  <br>
+
  <p align="center"> <img width="633" height="233"  src="https://user-images.githubusercontent.com/104733166/177208518-87988714-ccdb-4b9c-87a1-9158aa08b68a.png"> </p>
  <br>
 
- ## Template 
- - You will notice that each person has 2 sets of brackets around them, example: [[../Dashboards/Rainbell-Homepage/10%20-%20People/Family/Father.md]], this lets you do a right click on each person and --> create file.
+## Template
 
+- You will notice that each person has 2 sets of brackets around them, example: [[../Dashboards/Rainbell-Homepage/10%20-%20People/Family/Father.md]], this lets you do a right click on each person and --> create file.
 
- - You can have a file on each person and you can input much more detailed information such as full name, date of birth, place of Birth, date of death, text/many notes and any amount of text, import screenshots, photos, .txt files etc.. 
+- You can have a file on each person and you can input much more detailed information such as full name, date of birth, place of Birth, date of death, text/many notes and any amount of text, import screenshots, photos, .txt files etc..
 
+- [Download the Ancestry Template](https://github.com/C3n7ral051nt4g3ncy/Obsidian/blob/master/Ancestry_template.md) in .md format, then, in Obsidian click **create new Vault** --> **create new file** --> and simply **drag the Ancestry_template.md file into the newly created file.**
 
- - [Download the Ancestry Template](https://github.com/C3n7ral051nt4g3ncy/Obsidian/blob/master/Ancestry_template.md) in .md format, then, in Obsidian click **create new Vault** --> **create new file** --> and simply **drag the Ancestry_template.md file into the newly created file.** 
-
-- I also made an Intelligence Template for people searches, based on Surveillance and Law Enforcement files, you can download it here: https://github.com/C3n7ral051nt4g3ncy/Obsidian/blob/master/person_intelligence.md
-
+- I also made an Intelligence Template for people searches, based on Surveillance and Law Enforcement files, you can download it here: <https://github.com/C3n7ral051nt4g3ncy/Obsidian/blob/master/person_intelligence.md>
 
  <br>
 
- ### Good luck with your Ancestry Investigation !!! 🕵️‍♂️
+### Good luck with your Ancestry Investigation !!! 🕵️‍♂️
+
  <br>
 
- ## Obsidian Ancestry Template Image
+## Obsidian Ancestry Template Image
+
  <br>
  <img width="2109" src="https://user-images.githubusercontent.com/104733166/177364747-320f9e54-1ab1-4244-8aa9-9d638b431f83.png">

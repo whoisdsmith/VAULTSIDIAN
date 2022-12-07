@@ -84,7 +84,7 @@ ln
 Create's "links" between files and directories
 
 ln -s /home/username/tmp/webalizer webstats
-Now you can display http://www.yourdomain.com/webstats to show your Webalizer stats online.  
+Now you can display <http://www.yourdomain.com/webstats> to show your Webalizer stats online.  
 You can delete the symlink (webstats), and it will not delete the original stats on the server.
 
 ls
@@ -171,7 +171,7 @@ Shift + P to sort by CPU usage
 touch
 Create an empty file
 
-touch /home/burst/public_html/404.html                                    
+touch /home/burst/public_html/404.html
 Create an empty file called 404.html in the directory /home/burst/public_html/
 
 vi
@@ -211,32 +211,31 @@ pts/4
 0:09
 APP
 
-Each line represents one process, with a process being loosely defined as a running instance of a program. The column-headed PID (process ID) shows the assigned process numbers of the processes. The heading COMMAND shows the location of the executed process. 
+Each line represents one process, with a process being loosely defined as a running instance of a program. The column-headed PID (process ID) shows the assigned process numbers of the processes. The heading COMMAND shows the location of the executed process.
 
 ### Putting commands together
 
 Often you will find that you need to use different commands on the same line.  
 Here are some examples.
 
-  * The **|** character is called a pipe, and it takes a date from one program and pipes it to another.
-  * **>** means create a new file, overwriting any content already there.
-  * **>> **means to append data to a file, creating a new one if it does not already exist.
-  * **<** send input from a file back into a command. 
-    * **grep User /usr/local/apache/conf/httpd.conf | more** \- This will dump all lines that match User from the httpd.conf, then print the results to your screen one page at a time.
-    * **last -a > /root/lastlogins.tmp** \- This will print all the current login history to a file called lastlogins.tmp in /root/
-    * **netstat -an | grep:80 | wc -l - **Show how many active connections there are to apache (httpd runs on port 80)
-    * **mysqladmin processlist | wc -l**  \- Show how many current open connections there are to MySQL
-    * **mysqldump -u username -p dbname > file.sql** \- MySQL Dump
-    * **mysql -u username -p database_name <file.sql** \- Importing MySQL database
-    * **tail -10000 /var/log/exim_mainlog | grep domain.com | more** \- This will grab the last 10,000 lines from /var/log/exim_mainlog, find all occurrences of domain.com (the period represents 'anything,' comment it out with a so it will be interpreted literally), then send it to your screen page by page.
-    * **tar -zxvf file.tar.gz**  \- UnTAR file
-    * **which [perl]**  -  Finding path to [perl]
+* The **|** character is called a pipe, and it takes a date from one program and pipes it to another.
+* **>** means create a new file, overwriting any content already there.
+* **>>**means to append data to a file, creating a new one if it does not already exist.
+* **<** send input from a file back into a command.
+  * **grep User /usr/local/apache/conf/httpd.conf | more** \- This will dump all lines that match User from the httpd.conf, then print the results to your screen one page at a time.
+  * **last -a > /root/lastlogins.tmp** \- This will print all the current login history to a file called lastlogins.tmp in /root/
+  * **netstat -an | grep:80 | wc -l -**Show how many active connections there are to apache (httpd runs on port 80)
+  * **mysqladmin processlist | wc -l**  \- Show how many current open connections there are to MySQL
+  * **mysqldump -u username -p dbname > file.sql** \- MySQL Dump
+  * **mysql -u username -p database_name <file.sql** \- Importing MySQL database
+  * **tail -10000 /var/log/exim_mainlog | grep domain.com | more** \- This will grab the last 10,000 lines from /var/log/exim_mainlog, find all occurrences of domain.com (the period represents 'anything,' comment it out with a so it will be interpreted literally), then send it to your screen page by page.
+  * **tar -zxvf file.tar.gz**  \- UnTAR file
+  * **which [perl]**  -  Finding path to [perl]
 
 For further assistance, you may contact our [Chat Support](https://helpchat.bluehost.com/) or Phone Support via **[888-401-4678](tel:888-401-4678)**. You may also refer to our [Knowledge Base](https://www.bluehost.com/help) articles to help answer common questions and guide you through various setup, configuration, and troubleshooting steps.
 
 ​
 
-
 ___
 
-#article 
+# article

@@ -65,10 +65,10 @@ SORT choice(BD < date(today), BD + dur(1 year), BD) ASC
 
 ```dataview
 table
-		language AS "Language",
- 		framework as "Framework",
-		description as "Description",
-		file.cday AS "Time"
+  language AS "Language",
+   framework as "Framework",
+  description as "Description",
+  file.cday AS "Time"
 from #code_snippet and !"40 - Obsidian/Templates"
 where date(today) - file.ctime <=dur(7 days)
 sort file.mtime desc

@@ -3,8 +3,8 @@
 - [Wordpress]
 
 - [GHost](https://ghost.org/)
-  - https://stratechery.com/2019/ghost-3-0-an-interview-with-ghost-ceo-john-onolan/
-  - Yet another CMS solution https://ghost.org/, not a headless one. If I’m going to do another CMS stuff again I think I’ll give it a try
+  - <https://stratechery.com/2019/ghost-3-0-an-interview-with-ghost-ceo-john-onolan/>
+  - Yet another CMS solution <https://ghost.org/>, not a headless one. If I’m going to do another CMS stuff again I think I’ll give it a try
 
 ## Headless CMS
 

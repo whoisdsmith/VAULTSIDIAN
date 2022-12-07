@@ -84,7 +84,7 @@ description: Main Dashboard fo this Vault
         border: none;
         font-size: 24px;
         outline: none;
-        
+
       "
     >
       🔭 currently...
@@ -134,7 +134,7 @@ description: Main Dashboard fo this Vault
   📅 Daily Stuff
 </div>
 
-# [[ DAILY NOTES](../../../HOME-MTHRFCKR/DAILY%20NOTES/DAILY%20NOTES.md)
+# [[DAILY NOTES](../../../HOME-MTHRFCKR/DAILY%20NOTES/DAILY%20NOTES.md)
 
 # [[ Notebooks]]
 

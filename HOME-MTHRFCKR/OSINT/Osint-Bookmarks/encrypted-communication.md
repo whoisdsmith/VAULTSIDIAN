@@ -1,4 +1,5 @@
 ## Encrypted Communication
+
 - [CryptoCat Encrypted Communication](https://crypto.cat/)
 - [ProtonMail E2E Encrypted Email](https://protonmail.com/)
 - [AES Crypt File Encryption](https://www.aescrypt.com/)

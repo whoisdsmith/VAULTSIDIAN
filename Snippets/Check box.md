@@ -2,10 +2,10 @@
 
 ```css
 /* checkbox alignment */
-.markdown-preview-view .task-list-item-checkbox {	
-	width: 15px;
-	height: 15px;
-	top: 0px	
+.markdown-preview-view .task-list-item-checkbox { 
+ width: 15px;
+ height: 15px;
+ top: 0px 
 }
 
 /* Apple style checkbox */

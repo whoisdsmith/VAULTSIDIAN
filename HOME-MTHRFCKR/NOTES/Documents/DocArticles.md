@@ -1,4 +1,5 @@
 ## DocArticles
+
 - [Treatment for amphetamine withdrawal - Shoptaw, SJ - 2009 | Cochrane Library](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003021.pub2/full)
 - [SciSpace by Typeset | Discover, Create, Publish, and Promote your research paper](https://typeset.io/)
 - [PANDORA Web Archive](http://pandora.nla.gov.au/)
@@ -106,4 +107,5 @@
 - [World Bank Group - International Development, Poverty, & Sustainability](https://www.worldbank.org/en/home)
 - [Zeal - Offline Documentation Browser](https://zealdocs.org/)
 - [Zenodo - Research. Shared.](https://zenodo.org/)
+
 ---

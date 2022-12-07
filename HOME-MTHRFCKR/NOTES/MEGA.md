@@ -125,173 +125,173 @@
 
 - [MEGA](https://rentry.co/toa8s)
 
-* MEGA_API_KEY - [Mega.nz](http://Mega.nz) API key to mirror [mega.nz](http://mega.nz) links. Get it from [Mega SDK Page](https://mega.nz/sdk)
-* MEGA_EMAIL_ID - E-Mail ID used to sign up on [mega.nz](http://mega.nz) for using premium account
-* MEGA_PASSWORD - Password for [mega.nz](http://mega.nz) account.
+- MEGA_API_KEY - [Mega.nz](http://Mega.nz) API key to mirror [mega.nz](http://mega.nz) links. Get it from [Mega SDK Page](https://mega.nz/sdk)
+- MEGA_EMAIL_ID - E-Mail ID used to sign up on [mega.nz](http://mega.nz) for using premium account
+- MEGA_PASSWORD - Password for [mega.nz](http://mega.nz) account.
 
-https://mega.nz/file/C7wzmYLC#-1rPy6ZG7JExPuE6ll0MSZx_TzEU7vrzjCz7yKk5Y54
+<https://mega.nz/file/C7wzmYLC#-1rPy6ZG7JExPuE6ll0MSZx_TzEU7vrzjCz7yKk5Y54>
 
 ## Learning
 
 Advanced Penetration Testing:  
-https://mega.nz/#!rOowCA6L!rLmfn-cda99y9VF9NaV53xQEzIY_wHVtyRodLU-qKyg
+<https://mega.nz/#!rOowCA6L!rLmfn-cda99y9VF9NaV53xQEzIY_wHVtyRodLU-qKyg>
 
 The Basics of Web Hacking:  
-https://mega.nz/#!veogDIDB!F7jKWnuYmiA31vI7AcUbOJ_8bpttxz4wDIDEjxzJBDc
+<https://mega.nz/#!veogDIDB!F7jKWnuYmiA31vI7AcUbOJ_8bpttxz4wDIDEjxzJBDc>
 
 The Basics of Hacking and Penetration Testing:  
-https://mega.nz/#!yHpgQKrL!ctQd0e-yzb1QXoYk01yPTA9jl78TbNaZI4GoLdg6PSo
+<https://mega.nz/#!yHpgQKrL!ctQd0e-yzb1QXoYk01yPTA9jl78TbNaZI4GoLdg6PSo>
 
 The Art of Deception by Kevin Mitnick:  
-https://mega.nz/#!zCoCmChR!yR6BzKz4sva2qAzRMCju1jpHphgwe12ssZLknBNk4yc
+<https://mega.nz/#!zCoCmChR!yR6BzKz4sva2qAzRMCju1jpHphgwe12ssZLknBNk4yc>
 
 SQL Injection Attacks and Defense  
-https://mega.nz/#!Kf4CXSYQ!ZovQRMu6VMwkdLqOFhuUi4wCj7Pq0PJgiHZiItUt0DY
+<https://mega.nz/#!Kf4CXSYQ!ZovQRMu6VMwkdLqOFhuUi4wCj7Pq0PJgiHZiItUt0DY>
 
 Metasploit - The Penetration Tester’s Guide:  
-https://mega.nz/#!Heg0jCQZ!Y6ZftkyGJc8Rw2WI63v213iIl_SMEtY1qBsb7p2nQjs
+<https://mega.nz/#!Heg0jCQZ!Y6ZftkyGJc8Rw2WI63v213iIl_SMEtY1qBsb7p2nQjs>
 
 Ethical Hacking and Penetration Testing Guide:  
-https://mega.nz/#!XKgAEIqJ!jQ0ohALFI2fKrO6S5JzRjOZn6YmAMqKgkCPQLM0Peew
+<https://mega.nz/#!XKgAEIqJ!jQ0ohALFI2fKrO6S5JzRjOZn6YmAMqKgkCPQLM0Peew>
 
 Network Attacks and Exploitation - A Framework:  
-https://mega.nz/#!jSpChSpb!UGry-SnTLB3s4qMfh29s6jDromDGQc8I_fkWIqAY6rc
+<https://mega.nz/#!jSpChSpb!UGry-SnTLB3s4qMfh29s6jDromDGQc8I_fkWIqAY6rc>
 
 XSS Attacks - Cross Site Scripting Exploits and Defense:  
-https://mega.nz/#!faoQUSYa!qAda14pWUjd5u4wjOYmzCI52UMa1rUFulh7V0kBGZk8
+<https://mega.nz/#!faoQUSYa!qAda14pWUjd5u4wjOYmzCI52UMa1rUFulh7V0kBGZk8>
 
 The Web Application Hacker’s Handbook:  
-https://mega.nz/#!DWowAYRA!hVGYbGKJCcbUh83yztODz-8aMZZbJMWPoCdmr5Z4C9w
+<https://mega.nz/#!DWowAYRA!hVGYbGKJCcbUh83yztODz-8aMZZbJMWPoCdmr5Z4C9w>
 
 Ethical Hacking and Countermeasures:  
-https://mega.nz/#!aX4CEAgS!tpFivx91Ips2rR3UnVdtlgvx1oOmi-qEtCu29DlO9uQ
+<https://mega.nz/#!aX4CEAgS!tpFivx91Ips2rR3UnVdtlgvx1oOmi-qEtCu29DlO9uQ>
 
 Reversing - Secrets of Reverse Engineering:  
-https://mega.nz/#!jSwgGCyY!MB5a5s9wpaWEEGnhi5j_73kMtPIQx0rEuQXv5_Y_gd4
+<https://mega.nz/#!jSwgGCyY!MB5a5s9wpaWEEGnhi5j_73kMtPIQx0rEuQXv5_Y_gd4>
 
 Network Security Bible:  
-https://mega.nz/#!CGgCiKqC!PXzqsNN2PPc-PUVyAwbfknTHEA-QBvjwvpjjQgZnYMo
+<https://mega.nz/#!CGgCiKqC!PXzqsNN2PPc-PUVyAwbfknTHEA-QBvjwvpjjQgZnYMo>
 
 Hacking Web Applications - Hacking Exposed:  
-https://mega.nz/#!3KhWgIzQ!QQ8O9k6lp7vmYWzrbxbs8ItSVbYpSluYfktCxWURZGs
+<https://mega.nz/#!3KhWgIzQ!QQ8O9k6lp7vmYWzrbxbs8ItSVbYpSluYfktCxWURZGs>
 
 Hacking for Dummies:  
-https://mega.nz/#!6exQSaLK!ur1W05ChW7_ipTYtEK6QKpIlyoqLyS82RGsEUEzFQDQ
+<https://mega.nz/#!6exQSaLK!ur1W05ChW7_ipTYtEK6QKpIlyoqLyS82RGsEUEzFQDQ>
 
 Hacking Wireless Network for Dummies:  
-https://mega.nz/#!Le5kmAAT!TvvIUOn5TQ4HsS4qrTAX6dOD0JG4tZ9FtLj6bEFGg2M  
+<https://mega.nz/#!Le5kmAAT!TvvIUOn5TQ4HsS4qrTAX6dOD0JG4tZ9FtLj6bEFGg2M>  
 Professional Penetration Testing:  
-https://mega.nz/#!rfxERC5B!GWFniwOY738v8URo3HsnQwVV5h957-Ppx7FxMwYmJCI
+<https://mega.nz/#!rfxERC5B!GWFniwOY738v8URo3HsnQwVV5h957-Ppx7FxMwYmJCI>
 
 Gray Hat Hacking - The Ethical Hacker’s Handbook:  
-https://mega.nz/#!XLo2hYAK!8bmNXXPvSgIotZTsPbGaR-dSj9MfyOoNmm7iZ2me798
+<https://mega.nz/#!XLo2hYAK!8bmNXXPvSgIotZTsPbGaR-dSj9MfyOoNmm7iZ2me798>
 
 Hack Attacks Testing:  
-https://mega.nz/#!PPpwGKTT!pkJBqjgeN_BJWe8PRveaA4nwRICK7WQ80BUowDSVfXI
+<https://mega.nz/#!PPpwGKTT!pkJBqjgeN_BJWe8PRveaA4nwRICK7WQ80BUowDSVfXI>
 
 Basic Security Testing with Kali Linux:  
-https://mega.nz/#!Sfx2WCBC!oh0fxNYfOqiyCNoeyqayetg_e2G3B8ZF7M3lr3NMCgU
+<https://mega.nz/#!Sfx2WCBC!oh0fxNYfOqiyCNoeyqayetg_e2G3B8ZF7M3lr3NMCgU>
 
 CISSP - Certified Information Systems Security Professional:  
-https://mega.nz/#!aHgkjC6A!Z0ox5K8qeLeobE6VoBeXsrO5mxu68HeaczcCFRg5hC8
+<https://mega.nz/#!aHgkjC6A!Z0ox5K8qeLeobE6VoBeXsrO5mxu68HeaczcCFRg5hC8>
 
 Computer Security and Cryptography:  
-https://mega.nz/#!KTgklaza!nnLb6e1SWgEL6D3kqdY2FLmHhK8wuxHUyJM-ghiC4JI
+<https://mega.nz/#!KTgklaza!nnLb6e1SWgEL6D3kqdY2FLmHhK8wuxHUyJM-ghiC4JI>
 
 Python For Beginners:  
-https://mega.nz/#!3Goi3IAQ!BlJ7rynz9UHI74hTmlJzroUgbOiy1O-cpFun5qeNjVg
+<https://mega.nz/#!3Goi3IAQ!BlJ7rynz9UHI74hTmlJzroUgbOiy1O-cpFun5qeNjVg>
 
 Some videos of a fat ass guy teaching stuff  
-https://mega.nz/folder/bUxVXB6T#Sk4IfPgjdCIDlF1THTXTKg
+<https://mega.nz/folder/bUxVXB6T#Sk4IfPgjdCIDlF1THTXTKg>
 
 There is Diffent things in here that i can learn  
-https://mega.nz/folder/bUxVXB6T#Sk4IfPgjdCIDlF1THTXTKg
+<https://mega.nz/folder/bUxVXB6T#Sk4IfPgjdCIDlF1THTXTKg>
 
 Social Engineering tutorial  
-https://mega.nz/folder/UEN3SIyI#KSNM7PZqXKBrbK5gjeANAg
+<https://mega.nz/folder/UEN3SIyI#KSNM7PZqXKBrbK5gjeANAg>
 
 Verify Paypal Without CC:  
-https://mega.nz/file/JAVggLQI#xDEbyfxhT5x4ToRPHcdJzPO5Fz0CbclI0LyasoCeglQ
+<https://mega.nz/file/JAVggLQI#xDEbyfxhT5x4ToRPHcdJzPO5Fz0CbclI0LyasoCeglQ>
 
 850+ WORDPRESS THEMES AND PLUGINGS :  
-https://mega.nz/folder/MBJnSQbS#j89MKGjVDpuOcyo1LRPWqg/folder/9cZFkYBT
+<https://mega.nz/folder/MBJnSQbS#j89MKGjVDpuOcyo1LRPWqg/folder/9cZFkYBT>
 
-https://mega.nz/folder/CJwGAQJC#Z_d27iQAUJPHVf3WptSFCQ
+<https://mega.nz/folder/CJwGAQJC#Z_d27iQAUJPHVf3WptSFCQ>
 
-my 3k methods https://mega.nz/file/SN80wZBA#rEYGgpnZttvJHw_nthmPVlm4TjqYeP_2scY4AjvQNZs
+my 3k methods <https://mega.nz/file/SN80wZBA#rEYGgpnZttvJHw_nthmPVlm4TjqYeP_2scY4AjvQNZs>
 
-steam checker https://mega.nz/#!Rls3ma4D!Z3w2tQAfrWGjEftoZ1zYIb1OTqtrn15-rnSbu6zF2dQ
+steam checker <https://mega.nz/#!Rls3ma4D!Z3w2tQAfrWGjEftoZ1zYIb1OTqtrn15-rnSbu6zF2dQ>
 
-Mega.nz - https://mega.nz/file/TRMB1aJR#G4au3Lwcw-ckFTjoW0ZoDGSeKvXq-lFRF26iaik_YCs  
-4Shared - https://mega.nz/file/WAVhyYBI#YC9G7vTaXffPxPyjvje-T5xJXEQWbV1gkgMaJQ-wX6I  
-AIO Checker - https://mega.nz/file/DBEV2KLJ#SwTMFCQ8AqDnwrQwAr5uZI0DLw--IBzUF0Eg0D3FJF0  
-All Main Brute - https://mega.nz/file/KVFz1SpB#hRAiyRmFUY9gIy3aVRvAJZngHL4-vOaWHTumDwG6CZo  
-Apple Valid Emails Checker - https://mega.nz/file/2FE3EYJZ#n9BNo_xQtSqRTY8ys1_wTDCcW5A-MP-_JBuMSgQ-IFI  
-Axenta Fortnite Checker - https://mega.nz/file/7cVn0YJD#fyjlq2cgpkZn7BAR_wrPskJ0TxecsZ3dpD7IvSovu78  
-Nord VPN Checker - https://mega.nz/file/zAdFVS5L#TXnnBDsmPUp2rxl2QVl96ROCB-BgcEX04PBbIMZ4iPA  
-Netflix Checker - https://mega.nz/file/3JNhUApL#m2Iuuux9qwwKJZIwegNtGm4iqN4CqllbI_ovHYy-8RI  
-Wish Checker - https://mega.nz/file/qQFR0CRA#MqGaZTyoxtLMXxGOdcNIL3esAfPVSXCaBdNuhI8HOSk  
-CrunchyRoll Checker - https://mega.nz/file/KRN1GIYa#ZeCUEkZsIzufIEdrD2Znud1PzHvx2N4gH_hNkKCT5Uk  
-CyberGhost VPN Checker - https://mega.nz/file/CEMXQKbT#BAd89pQN2iTUSkRFXFHVkc0nlnk3ajST38xvp8JmxAk  
-Disney Checker - https://mega.nz/file/rBE3laiT#XxGNaC5TQfzUNI6HbEQ-RpdqIDLrbNudwSHfsI7UIfw  
-Ebay Checker - https://mega.nz/file/rQVX1QRJ#oXp2lSts2fOY8iRpmp3fueiPULY3htBgyvlL2eaguvM  
-Ebay Register Checker - https://mega.nz/file/mYVX1Q7S#-wSLpLkedlmmeUf4KuSak5pTJCXP3YrFvOmVnAGj3TY  
-ExpressVPN Checker - https://mega.nz/file/yZFDBK5I#NjXHImyQp4daeFtdHC0MdOgnAkyDDuVhQBey8w4EjZE  
-Fortlegends Checker - https://mega.nz/file/jZclVQ5Y#RGU8lPEJyLFKWKqyH9aYgNActTgW1SuH-Kt1OMOJ2sM  
-Fortnite Checker - https://mega.nz/file/uVVz1C5C#hQc6d-ptPKF-SPF2Dd0mT8_Ld6vbW--zvo0Eotl5yzk  
-IP Vanish - https://mega.nz/file/2cc1SKzZ#MOVY_DdjReCqDrrgWXRXgZF5YMkd57mSB-SANfFEJ5Y  
-LOL Checker - https://mega.nz/file/yQED1SKY#lf66k0pOB-ZaGhBvgzWfw4OKQ4RB-WDbXQGGdyGA3OI  
-LoL Checker - https://mega.nz/file/aRFBzQyK#H3onMa4UXRGmaD7Fou5Czd1fbR8oV6MTEd6QjgTcE08  
-Luckie Games Checker - https://mega.nz/file/DFE3yQSA#u_3pXAdj1oba2k7HPMixBuNPI3cAheHMQ5pZHXQpM4k  
-MediaFire Checker - https://mega.nz/file/3VcRVaxT#pkYxo9lStf2f4cQRya8r3iwxssnbuBRraQ-EXWNU8nw  
-MEGA Checker - https://mega.nz/file/LAF3labQ#CmcPxiXVreva5gBHwxi48pajctys_euQYUYjeoH6l7U  
-Minecraft Checker - https://mega.nz/file/mAMVjK6L#AM0--h2lKBMQdO76heWrfpcOg90KmmtIbKMUWrhvIQM  
-Minecraft_Checker - https://mega.nz/file/jccjRI5I#rLAwR34IVaFgUYe5dVh1MOdDzWEZZvkro_h1R3eaxi0  
-MultiX (MultiChecker) - https://mega.nz/file/TVVFjCCB#eMSIkVxzJU0tMwuzZUXa5FfPVVLAOLEvW-ZQym8-Ch4  
-Netflix - https://mega.nz/file/yAFVHAQB#RcrinPib8QuPVwGWEoJblLK902DubRFhRW2Rl8Gn4ys  
-Netflix Checker - https://mega.nz/file/rZNFFC4Z#klm2JMYLsWJPgsH9LM8zcDi3UQ6hd_Y6sfq89-BBCqI  
-Netflix Checker v0.2 - https://mega.nz/file/aAdlmQhS#TuKCATSY5VgBe5HlAJ5_V41T09zYygD-CG6jJocy-d8  
-Netflix Checker v1 - https://mega.nz/file/2dERUCZL#OvHoQe7kj6EEq4kTTGeRql1Yxw5mpy8qcOxiIDcBlus  
-Nord VPN - https://mega.nz/file/uIMjSSTa#k2cy4SRljhjpH0-0ITbZRHvjCGlW8vIGum33zb2_Fhk
+Mega.nz - <https://mega.nz/file/TRMB1aJR#G4au3Lwcw-ckFTjoW0ZoDGSeKvXq-lFRF26iaik_YCs>  
+4Shared - <https://mega.nz/file/WAVhyYBI#YC9G7vTaXffPxPyjvje-T5xJXEQWbV1gkgMaJQ-wX6I>  
+AIO Checker - <https://mega.nz/file/DBEV2KLJ#SwTMFCQ8AqDnwrQwAr5uZI0DLw--IBzUF0Eg0D3FJF0>  
+All Main Brute - <https://mega.nz/file/KVFz1SpB#hRAiyRmFUY9gIy3aVRvAJZngHL4-vOaWHTumDwG6CZo>  
+Apple Valid Emails Checker - <https://mega.nz/file/2FE3EYJZ#n9BNo_xQtSqRTY8ys1_wTDCcW5A-MP-_JBuMSgQ-IFI>  
+Axenta Fortnite Checker - <https://mega.nz/file/7cVn0YJD#fyjlq2cgpkZn7BAR_wrPskJ0TxecsZ3dpD7IvSovu78>  
+Nord VPN Checker - <https://mega.nz/file/zAdFVS5L#TXnnBDsmPUp2rxl2QVl96ROCB-BgcEX04PBbIMZ4iPA>  
+Netflix Checker - <https://mega.nz/file/3JNhUApL#m2Iuuux9qwwKJZIwegNtGm4iqN4CqllbI_ovHYy-8RI>  
+Wish Checker - <https://mega.nz/file/qQFR0CRA#MqGaZTyoxtLMXxGOdcNIL3esAfPVSXCaBdNuhI8HOSk>  
+CrunchyRoll Checker - <https://mega.nz/file/KRN1GIYa#ZeCUEkZsIzufIEdrD2Znud1PzHvx2N4gH_hNkKCT5Uk>  
+CyberGhost VPN Checker - <https://mega.nz/file/CEMXQKbT#BAd89pQN2iTUSkRFXFHVkc0nlnk3ajST38xvp8JmxAk>  
+Disney Checker - <https://mega.nz/file/rBE3laiT#XxGNaC5TQfzUNI6HbEQ-RpdqIDLrbNudwSHfsI7UIfw>  
+Ebay Checker - <https://mega.nz/file/rQVX1QRJ#oXp2lSts2fOY8iRpmp3fueiPULY3htBgyvlL2eaguvM>  
+Ebay Register Checker - <https://mega.nz/file/mYVX1Q7S#-wSLpLkedlmmeUf4KuSak5pTJCXP3YrFvOmVnAGj3TY>  
+ExpressVPN Checker - <https://mega.nz/file/yZFDBK5I#NjXHImyQp4daeFtdHC0MdOgnAkyDDuVhQBey8w4EjZE>  
+Fortlegends Checker - <https://mega.nz/file/jZclVQ5Y#RGU8lPEJyLFKWKqyH9aYgNActTgW1SuH-Kt1OMOJ2sM>  
+Fortnite Checker - <https://mega.nz/file/uVVz1C5C#hQc6d-ptPKF-SPF2Dd0mT8_Ld6vbW--zvo0Eotl5yzk>  
+IP Vanish - <https://mega.nz/file/2cc1SKzZ#MOVY_DdjReCqDrrgWXRXgZF5YMkd57mSB-SANfFEJ5Y>  
+LOL Checker - <https://mega.nz/file/yQED1SKY#lf66k0pOB-ZaGhBvgzWfw4OKQ4RB-WDbXQGGdyGA3OI>  
+LoL Checker - <https://mega.nz/file/aRFBzQyK#H3onMa4UXRGmaD7Fou5Czd1fbR8oV6MTEd6QjgTcE08>  
+Luckie Games Checker - <https://mega.nz/file/DFE3yQSA#u_3pXAdj1oba2k7HPMixBuNPI3cAheHMQ5pZHXQpM4k>  
+MediaFire Checker - <https://mega.nz/file/3VcRVaxT#pkYxo9lStf2f4cQRya8r3iwxssnbuBRraQ-EXWNU8nw>  
+MEGA Checker - <https://mega.nz/file/LAF3labQ#CmcPxiXVreva5gBHwxi48pajctys_euQYUYjeoH6l7U>  
+Minecraft Checker - <https://mega.nz/file/mAMVjK6L#AM0--h2lKBMQdO76heWrfpcOg90KmmtIbKMUWrhvIQM>  
+Minecraft_Checker - <https://mega.nz/file/jccjRI5I#rLAwR34IVaFgUYe5dVh1MOdDzWEZZvkro_h1R3eaxi0>  
+MultiX (MultiChecker) - <https://mega.nz/file/TVVFjCCB#eMSIkVxzJU0tMwuzZUXa5FfPVVLAOLEvW-ZQym8-Ch4>  
+Netflix - <https://mega.nz/file/yAFVHAQB#RcrinPib8QuPVwGWEoJblLK902DubRFhRW2Rl8Gn4ys>  
+Netflix Checker - <https://mega.nz/file/rZNFFC4Z#klm2JMYLsWJPgsH9LM8zcDi3UQ6hd_Y6sfq89-BBCqI>  
+Netflix Checker v0.2 - <https://mega.nz/file/aAdlmQhS#TuKCATSY5VgBe5HlAJ5_V41T09zYygD-CG6jJocy-d8>  
+Netflix Checker v1 - <https://mega.nz/file/2dERUCZL#OvHoQe7kj6EEq4kTTGeRql1Yxw5mpy8qcOxiIDcBlus>  
+Nord VPN - <https://mega.nz/file/uIMjSSTa#k2cy4SRljhjpH0-0ITbZRHvjCGlW8vIGum33zb2_Fhk>
 
-https://mega.nz/file/mskgwIZZ#VXrPH5PvFFP-JFHYLu39IqR3FKTlmP4dY-rZJ7xMss4  
-https://mega.nz/file/FWIxiY4Y#NXMmUDrPDmqyH3xFbNqSU47uOCpCaniUcW7qY-hicIM  
-MASS DDos Pack https://mega.nz/#F!g7hgXAQK!gn0KLD-jWIICOiQPaSw3Bg  
-VoiceMod Pro https://mega.nz/file/UUV1BKpC#S-pUfdQP2GWq7nJX3ne4T7Zv8-9L7ZJ9QWYnvWYOqhs  
-Wallpaper Engine https://mega.nz/file/KOYGXboD#PRZH-x1NUPbUdq34I4pu_p44NV_u1X21K9TJPG5C3xU  
-PhotoShop 2021 https://mega.nz/file/PM8wXAgQ#PsjIhp4ThkwT8ggivuCYUvrfBEg-Gm6MshEJd8-yZdE  
-Premire Pro 2020 https://mega.nz/file/CNhnCLiD#Artp0Otbn5bZ65nf1FLsw-y-rmJFWxbUXE7ZnhIa36A  
-FL Studio https://mega.nz/file/b5g1SYRT#mhcPGuryntOAfuCJUV5Jk8iMrhzYNvFbZb7VCmaWA4E  
-https://mega.nz/file/IKQjTQCL#a9tDYsrn0gpAQeFdYWIHXXwl5DocKE0DzmM4HIkaGQU  
-https://mega.nz/folder/NYxglASK#-rdHhjXoKSi8DOFCZtz8ng  
-NANO | Premiere Pro https://mega.nz/folder/4AIWAJDZ#P-PeBeyTz-KRbQk3Gvl88g  
-https://mega.nz/file/aC5lVaaL#VhXI2vjVg6J2EsUBs7CecyYn0ARPrUAfDABcP2MraesZip  
+<https://mega.nz/file/mskgwIZZ#VXrPH5PvFFP-JFHYLu39IqR3FKTlmP4dY-rZJ7xMss4>  
+<https://mega.nz/file/FWIxiY4Y#NXMmUDrPDmqyH3xFbNqSU47uOCpCaniUcW7qY-hicIM>  
+MASS DDos Pack <https://mega.nz/#F!g7hgXAQK!gn0KLD-jWIICOiQPaSw3Bg>  
+VoiceMod Pro <https://mega.nz/file/UUV1BKpC#S-pUfdQP2GWq7nJX3ne4T7Zv8-9L7ZJ9QWYnvWYOqhs>  
+Wallpaper Engine <https://mega.nz/file/KOYGXboD#PRZH-x1NUPbUdq34I4pu_p44NV_u1X21K9TJPG5C3xU>  
+PhotoShop 2021 <https://mega.nz/file/PM8wXAgQ#PsjIhp4ThkwT8ggivuCYUvrfBEg-Gm6MshEJd8-yZdE>  
+Premire Pro 2020 <https://mega.nz/file/CNhnCLiD#Artp0Otbn5bZ65nf1FLsw-y-rmJFWxbUXE7ZnhIa36A>  
+FL Studio <https://mega.nz/file/b5g1SYRT#mhcPGuryntOAfuCJUV5Jk8iMrhzYNvFbZb7VCmaWA4E>  
+<https://mega.nz/file/IKQjTQCL#a9tDYsrn0gpAQeFdYWIHXXwl5DocKE0DzmM4HIkaGQU>  
+<https://mega.nz/folder/NYxglASK#-rdHhjXoKSi8DOFCZtz8ng>  
+NANO | Premiere Pro <https://mega.nz/folder/4AIWAJDZ#P-PeBeyTz-KRbQk3Gvl88g>  
+<https://mega.nz/file/aC5lVaaL#VhXI2vjVg6J2EsUBs7CecyYn0ARPrUAfDABcP2MraesZip>  
 Some db leak  
-https://mega.nz/#F!kx5wSCjY!yjeNjMkutvJtnn9PVyiwog  
-https://mega.nz/#F!g7hgXAQK!gn0KLD-jWIICOiQPaSw3Bg  
-https://mega.nz/file/iY1GgY5C#lJCOi4mn-Gfikwrt9YtHlQNFP7ZFUjCr87M-lu21hR8  
-https://mega.nz/folder/GN9i0SbK#bILVm8v3kIUvI9iqtrw8Qw  
-https://mega.nz/folder/ecsEGaBL#m3C277t6ymQx3zUYgrm1jw  
-https://mega.nz/folder/ShUBXSzT#dC85xs9xpkvDp0s0jOCd3Q  
-https://mega.nz/folder/n1UDVQrL#bEDNmuRXLB_H5Qp3ebET3g  
-https://mega.nz/folder/KY0GCCCa#9YGl4tYrOv9CIvCwXI0YnQ  
-https://mega.nz/folder/Hcs2WCCT#Ig_fSu-0HH_2An5HU1DWkA/folder/GElSFA7S  
-https://mega.nz/folder/KE0SCIzJ#fl3-HkAeNHnz5FEMO_3lTw  
-https://mega.nz/folder/PAt2DI4a#zPBBZ1dyGwKd-8hcAkerww  
-https://mega.nz/folder/nEtWEYIb#wiWGpmfJVHingw5l40ietg  
-https://mega.nz/folder/npFHXAgI#6KaqDPPDYWgjkZFPUo6n7A  
-https://mega.nz/folder/npNR2ASD#KqgDmnkr1gHFwMDdloLlVw  
-https://mega.nz/folder/eqo2TZbS#XhKCvB4eF9HVOmM9XciPHA  
-https://mega.nz/file/EF9SHTbL#draYkjFv5n55rWag-5s75AeWjNPGiEo-NAYTaqGoYLw  
-https://mega.nz/folder/OlMHjAaT#BikqVyATlUYm0ylrymEvaA  
-https://mega.nz/folder/PBsESQLC#kXeeJeyuFnwPZTXIxr0BTQ  
-https://mega.nz/folder/mB1wHC4A#kWz_YgmMwfDpDcqitS4Cuw  
-https://mega.nz/folder/7Q1EjK5T#I8vM8K-5LIY3_hWjWbORcg  
-https://mega.nz/folder/qd1mFYiD#zFT5IE2yD5ALlK04pdX3ZA  
-https://mega.nz/folder/C9MTlSQb#iG2PdZ_KxoxkM-Ovm8NLsg  
-https://mega.nz/folder/nEtWEYIb#wiWGpmfJVHingw5l40ietg  
+<https://mega.nz/#F!kx5wSCjY!yjeNjMkutvJtnn9PVyiwog>  
+<https://mega.nz/#F!g7hgXAQK!gn0KLD-jWIICOiQPaSw3Bg>  
+<https://mega.nz/file/iY1GgY5C#lJCOi4mn-Gfikwrt9YtHlQNFP7ZFUjCr87M-lu21hR8>  
+<https://mega.nz/folder/GN9i0SbK#bILVm8v3kIUvI9iqtrw8Qw>  
+<https://mega.nz/folder/ecsEGaBL#m3C277t6ymQx3zUYgrm1jw>  
+<https://mega.nz/folder/ShUBXSzT#dC85xs9xpkvDp0s0jOCd3Q>  
+<https://mega.nz/folder/n1UDVQrL#bEDNmuRXLB_H5Qp3ebET3g>  
+<https://mega.nz/folder/KY0GCCCa#9YGl4tYrOv9CIvCwXI0YnQ>  
+<https://mega.nz/folder/Hcs2WCCT#Ig_fSu-0HH_2An5HU1DWkA/folder/GElSFA7S>  
+<https://mega.nz/folder/KE0SCIzJ#fl3-HkAeNHnz5FEMO_3lTw>  
+<https://mega.nz/folder/PAt2DI4a#zPBBZ1dyGwKd-8hcAkerww>  
+<https://mega.nz/folder/nEtWEYIb#wiWGpmfJVHingw5l40ietg>  
+<https://mega.nz/folder/npFHXAgI#6KaqDPPDYWgjkZFPUo6n7A>  
+<https://mega.nz/folder/npNR2ASD#KqgDmnkr1gHFwMDdloLlVw>  
+<https://mega.nz/folder/eqo2TZbS#XhKCvB4eF9HVOmM9XciPHA>  
+<https://mega.nz/file/EF9SHTbL#draYkjFv5n55rWag-5s75AeWjNPGiEo-NAYTaqGoYLw>  
+<https://mega.nz/folder/OlMHjAaT#BikqVyATlUYm0ylrymEvaA>  
+<https://mega.nz/folder/PBsESQLC#kXeeJeyuFnwPZTXIxr0BTQ>  
+<https://mega.nz/folder/mB1wHC4A#kWz_YgmMwfDpDcqitS4Cuw>  
+<https://mega.nz/folder/7Q1EjK5T#I8vM8K-5LIY3_hWjWbORcg>  
+<https://mega.nz/folder/qd1mFYiD#zFT5IE2yD5ALlK04pdX3ZA>  
+<https://mega.nz/folder/C9MTlSQb#iG2PdZ_KxoxkM-Ovm8NLsg>  
+<https://mega.nz/folder/nEtWEYIb#wiWGpmfJVHingw5l40ietg>  
 Mix  
-https://mega.nz/file/W48kQZiJ#Yz8C245LX8v485nhMMXPZ5i-rjtm1QCBZHzLZOaYP6w  
+<https://mega.nz/file/W48kQZiJ#Yz8C245LX8v485nhMMXPZ5i-rjtm1QCBZHzLZOaYP6w>  
 Contains:
 
 BlackBullet COLLECTION  
@@ -325,90 +325,90 @@ Basic Utilities Tools
 ## Learning
 
 Advanced Penetration Testing:  
-https://mega.nz/#!rOowCA6L!rLmfn-cda99y9VF9NaV53xQEzIY_wHVtyRodLU-qKyg
+<https://mega.nz/#!rOowCA6L!rLmfn-cda99y9VF9NaV53xQEzIY_wHVtyRodLU-qKyg>
 
 The Basics of Web Hacking:  
-https://mega.nz/#!veogDIDB!F7jKWnuYmiA31vI7AcUbOJ_8bpttxz4wDIDEjxzJBDc
+<https://mega.nz/#!veogDIDB!F7jKWnuYmiA31vI7AcUbOJ_8bpttxz4wDIDEjxzJBDc>
 
 The Basics of Hacking and Penetration Testing:  
-https://mega.nz/#!yHpgQKrL!ctQd0e-yzb1QXoYk01yPTA9jl78TbNaZI4GoLdg6PSo
+<https://mega.nz/#!yHpgQKrL!ctQd0e-yzb1QXoYk01yPTA9jl78TbNaZI4GoLdg6PSo>
 
 The Art of Deception by Kevin Mitnick:  
-https://mega.nz/#!zCoCmChR!yR6BzKz4sva2qAzRMCju1jpHphgwe12ssZLknBNk4yc
+<https://mega.nz/#!zCoCmChR!yR6BzKz4sva2qAzRMCju1jpHphgwe12ssZLknBNk4yc>
 
 SQL Injection Attacks and Defense  
-https://mega.nz/#!Kf4CXSYQ!ZovQRMu6VMwkdLqOFhuUi4wCj7Pq0PJgiHZiItUt0DY
+<https://mega.nz/#!Kf4CXSYQ!ZovQRMu6VMwkdLqOFhuUi4wCj7Pq0PJgiHZiItUt0DY>
 
 Metasploit - The Penetration Tester’s Guide:  
-https://mega.nz/#!Heg0jCQZ!Y6ZftkyGJc8Rw2WI63v213iIl_SMEtY1qBsb7p2nQjs
+<https://mega.nz/#!Heg0jCQZ!Y6ZftkyGJc8Rw2WI63v213iIl_SMEtY1qBsb7p2nQjs>
 
 Ethical Hacking and Penetration Testing Guide:  
-https://mega.nz/#!XKgAEIqJ!jQ0ohALFI2fKrO6S5JzRjOZn6YmAMqKgkCPQLM0Peew
+<https://mega.nz/#!XKgAEIqJ!jQ0ohALFI2fKrO6S5JzRjOZn6YmAMqKgkCPQLM0Peew>
 
 Network Attacks and Exploitation - A Framework:  
-https://mega.nz/#!jSpChSpb!UGry-SnTLB3s4qMfh29s6jDromDGQc8I_fkWIqAY6rc
+<https://mega.nz/#!jSpChSpb!UGry-SnTLB3s4qMfh29s6jDromDGQc8I_fkWIqAY6rc>
 
 Python Web Penetration Testing Cookbook:  
-https://difl.host/6e39ff5edc948cb1/09._Python_Web_Penetration_Testing_Cookbook.pdf
+<https://difl.host/6e39ff5edc948cb1/09._Python_Web_Penetration_Testing_Cookbook.pdf>
 
 XSS Attacks - Cross Site Scripting Exploits and Defense:  
-https://mega.nz/#!faoQUSYa!qAda14pWUjd5u4wjOYmzCI52UMa1rUFulh7V0kBGZk8
+<https://mega.nz/#!faoQUSYa!qAda14pWUjd5u4wjOYmzCI52UMa1rUFulh7V0kBGZk8>
 
 The Web Application Hacker’s Handbook:  
-https://mega.nz/#!DWowAYRA!hVGYbGKJCcbUh83yztODz-8aMZZbJMWPoCdmr5Z4C9w
+<https://mega.nz/#!DWowAYRA!hVGYbGKJCcbUh83yztODz-8aMZZbJMWPoCdmr5Z4C9w>
 
 Ethical Hacking and Countermeasures:  
-https://mega.nz/#!aX4CEAgS!tpFivx91Ips2rR3UnVdtlgvx1oOmi-qEtCu29DlO9uQ
+<https://mega.nz/#!aX4CEAgS!tpFivx91Ips2rR3UnVdtlgvx1oOmi-qEtCu29DlO9uQ>
 
 Reversing - Secrets of Reverse Engineering:  
-https://mega.nz/#!jSwgGCyY!MB5a5s9wpaWEEGnhi5j_73kMtPIQx0rEuQXv5_Y_gd4
+<https://mega.nz/#!jSwgGCyY!MB5a5s9wpaWEEGnhi5j_73kMtPIQx0rEuQXv5_Y_gd4>
 
 Network Security Bible:  
-https://mega.nz/#!CGgCiKqC!PXzqsNN2PPc-PUVyAwbfknTHEA-QBvjwvpjjQgZnYMo
+<https://mega.nz/#!CGgCiKqC!PXzqsNN2PPc-PUVyAwbfknTHEA-QBvjwvpjjQgZnYMo>
 
 Hacking Web Applications - Hacking Exposed:  
-https://mega.nz/#!3KhWgIzQ!QQ8O9k6lp7vmYWzrbxbs8ItSVbYpSluYfktCxWURZGs
+<https://mega.nz/#!3KhWgIzQ!QQ8O9k6lp7vmYWzrbxbs8ItSVbYpSluYfktCxWURZGs>
 
 Hacking for Dummies:  
-https://mega.nz/#!6exQSaLK!ur1W05ChW7_ipTYtEK6QKpIlyoqLyS82RGsEUEzFQDQ
+<https://mega.nz/#!6exQSaLK!ur1W05ChW7_ipTYtEK6QKpIlyoqLyS82RGsEUEzFQDQ>
 
 Hacking Wireless Network for Dummies:  
-https://mega.nz/#!Le5kmAAT!TvvIUOn5TQ4HsS4qrTAX6dOD0JG4tZ9FtLj6bEFGg2M  
+<https://mega.nz/#!Le5kmAAT!TvvIUOn5TQ4HsS4qrTAX6dOD0JG4tZ9FtLj6bEFGg2M>  
 Professional Penetration Testing:  
-https://mega.nz/#!rfxERC5B!GWFniwOY738v8URo3HsnQwVV5h957-Ppx7FxMwYmJCI
+<https://mega.nz/#!rfxERC5B!GWFniwOY738v8URo3HsnQwVV5h957-Ppx7FxMwYmJCI>
 
 Gray Hat Hacking - The Ethical Hacker’s Handbook:  
-https://mega.nz/#!XLo2hYAK!8bmNXXPvSgIotZTsPbGaR-dSj9MfyOoNmm7iZ2me798
+<https://mega.nz/#!XLo2hYAK!8bmNXXPvSgIotZTsPbGaR-dSj9MfyOoNmm7iZ2me798>
 
 Hack Attacks Testing:  
-https://mega.nz/#!PPpwGKTT!pkJBqjgeN_BJWe8PRveaA4nwRICK7WQ80BUowDSVfXI
+<https://mega.nz/#!PPpwGKTT!pkJBqjgeN_BJWe8PRveaA4nwRICK7WQ80BUowDSVfXI>
 
 Basic Security Testing with Kali Linux:  
-https://mega.nz/#!Sfx2WCBC!oh0fxNYfOqiyCNoeyqayetg_e2G3B8ZF7M3lr3NMCgU
+<https://mega.nz/#!Sfx2WCBC!oh0fxNYfOqiyCNoeyqayetg_e2G3B8ZF7M3lr3NMCgU>
 
 Mastering Kali Linux for Advanced Penetration Testing:  
-https://difl.host/ba9765fffecd1e25/27._Mastering_Kali_Linux_For_Advanced_Penetration_Testing.pdf
+<https://difl.host/ba9765fffecd1e25/27._Mastering_Kali_Linux_For_Advanced_Penetration_Testing.pdf>
 
 Kali Linux CTF Blueprints:  
-https://difl.host/ab3e7a5e5a023fdc/28._Kali_Linux_CTF_Blueprints.pdf
+<https://difl.host/ab3e7a5e5a023fdc/28._Kali_Linux_CTF_Blueprints.pdf>
 
 Kali Linux - Assuring Security by Penetration Testing:  
-https://difl.host/670feaf53fca0080/30._Kali_Linux-_Assuring_Security_by_Penetration_Testing.pdf
+<https://difl.host/670feaf53fca0080/30._Kali_Linux-_Assuring_Security_by_Penetration_Testing.pdf>
 
 CISSP - Certified Information Systems Security Professional:  
-https://mega.nz/#!aHgkjC6A!Z0ox5K8qeLeobE6VoBeXsrO5mxu68HeaczcCFRg5hC8
+<https://mega.nz/#!aHgkjC6A!Z0ox5K8qeLeobE6VoBeXsrO5mxu68HeaczcCFRg5hC8>
 
 Computer Security and Cryptography:  
-https://mega.nz/#!KTgklaza!nnLb6e1SWgEL6D3kqdY2FLmHhK8wuxHUyJM-ghiC4JI
+<https://mega.nz/#!KTgklaza!nnLb6e1SWgEL6D3kqdY2FLmHhK8wuxHUyJM-ghiC4JI>
 
 Python For Beginners:  
-https://mega.nz/#!3Goi3IAQ!BlJ7rynz9UHI74hTmlJzroUgbOiy1O-cpFun5qeNjVg
+<https://mega.nz/#!3Goi3IAQ!BlJ7rynz9UHI74hTmlJzroUgbOiy1O-cpFun5qeNjVg>
 
 Some videos of a fat ass guy teaching stuff  
-https://mega.nz/folder/bUxVXB6T#Sk4IfPgjdCIDlF1THTXTKg
+<https://mega.nz/folder/bUxVXB6T#Sk4IfPgjdCIDlF1THTXTKg>
 
 There is Diffent things in here that i can learn  
-https://mega.nz/folder/bUxVXB6T#Sk4IfPgjdCIDlF1THTXTKg
+<https://mega.nz/folder/bUxVXB6T#Sk4IfPgjdCIDlF1THTXTKg>
 
 01 Computer Forensics Introduction  
   02 Computer Forensics Process  
@@ -433,19 +433,19 @@ https://mega.nz/folder/bUxVXB6T#Sk4IfPgjdCIDlF1THTXTKg
   21 Expert Witness
 
 Social Engineering tutorial  
-https://mega.nz/folder/UEN3SIyI#KSNM7PZqXKBrbK5gjeANAg
+<https://mega.nz/folder/UEN3SIyI#KSNM7PZqXKBrbK5gjeANAg>
 
-Malware maker pack https://mega.nz/folder/hiQAlBpC#mvB3Ni0-yzxRSeVYKNQq1w
+Malware maker pack <https://mega.nz/folder/hiQAlBpC#mvB3Ni0-yzxRSeVYKNQq1w>
 
 Modern command line tool for virus creation. Written on C# for Windows.  
-https://mega.nz/file/QDQCQbLC#g3br9NeM_a-PCLN3CKovz_9FiPn2-bABqjRykf5eS8M
+<https://mega.nz/file/QDQCQbLC#g3br9NeM_a-PCLN3CKovz_9FiPn2-bABqjRykf5eS8M>
 
-Malware maker pack https://mega.nz/folder/hiQAlBpC#mvB3Ni0-yzxRSeVYKNQq1w
+Malware maker pack <https://mega.nz/folder/hiQAlBpC#mvB3Ni0-yzxRSeVYKNQq1w>
 
 Verify Paypal Without CC:  
-https://mega.nz/file/JAVggLQI#xDEbyfxhT5x4ToRPHcdJzPO5Fz0CbclI0LyasoCeglQ
+<https://mega.nz/file/JAVggLQI#xDEbyfxhT5x4ToRPHcdJzPO5Fz0CbclI0LyasoCeglQ>
 
 850+ WORDPRESS THEMES AND PLUGINGS :  
-https://mega.nz/folder/MBJnSQbS#j89MKGjVDpuOcyo1LRPWqg/folder/9cZFkYBT
+<https://mega.nz/folder/MBJnSQbS#j89MKGjVDpuOcyo1LRPWqg/folder/9cZFkYBT>
 
-my 3k methods https://mega.nz/file/SN80wZBA#rEYGgpnZttvJHw_nthmPVlm4TjqYeP_2scY4AjvQNZsnjRAT Source Code : https://mega.nz/folder/mPBSQSiA#dC9YLMyOZVk72orABAwl0A
+my 3k methods <https://mega.nz/file/SN80wZBA#rEYGgpnZttvJHw_nthmPVlm4TjqYeP_2scY4AjvQNZsnjRAT> Source Code : <https://mega.nz/folder/mPBSQSiA#dC9YLMyOZVk72orABAwl0A>

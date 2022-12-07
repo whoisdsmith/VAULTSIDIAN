@@ -1,4 +1,4 @@
-##  People Investigations
+## People Investigations
 
 * [411 (US)](http://www.411.com) - Search by person, phone number, address, and business. Limited free info, premium data upsell.
 * [192 (UK)](http://www.192.com) - Search by person, business, address. Limited free info, premium data upsell.
@@ -9,7 +9,7 @@
 * [CrunchBase](http://www.crunchbase.com) - Business information database, with a focus on investment, acquisition, and executive data. Ancillary focus on market research and connecting founders and investors.
 * [facesearch](http://facesaerch.com) - Handy proxy to search Google face-only image search results.
 * [Family Search](https://familysearch.org) - Popular genealogy site. Free, but registration requried. Funded by The Church Of Jesus Christ of Latter-day Saints.
-* [Federal Bureau of Prisons - Inmate Locator (US)](http://www.bop.gov/inmateloc) - Search federal inmates incarcerated from 1982 to the present. 
+* [Federal Bureau of Prisons - Inmate Locator (US)](http://www.bop.gov/inmateloc) - Search federal inmates incarcerated from 1982 to the present.
 * [Fold3 (US Military Records)](http://www.fold3.com) - Search military records. Search filters limited with free access. Premium access requires subscription.
 * [Genealogy Bank](http://www.genealogybank.com) - Premium data, free trial with credit card.
 * [Genealogy Links](http://www.genealogylinks.net) - Genealogy directory with over 50K links.

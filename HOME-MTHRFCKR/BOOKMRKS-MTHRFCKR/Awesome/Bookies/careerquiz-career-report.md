@@ -1,6 +1,7 @@
 [CareerQuiz](https://careerquiz.org/report/rk2k4l5ls294281) - Career Quiz: Personality Test
 
 # Result (2021)
+
 1. Software Developer
 2. Software Engineer
 3. Animator
@@ -33,5 +34,5 @@
 30. Paralegal
 
 ## Full report
-[full report here (PDF)](careerquiz-report.pdf)
 
+[full report here (PDF)](careerquiz-report.pdf)

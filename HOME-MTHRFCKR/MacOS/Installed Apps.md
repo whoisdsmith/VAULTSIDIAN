@@ -4,8 +4,6 @@
 
 `grep 'Installed' /private/var/log/install.log z4h recovery mode`  
 
- 
-
 2022-07-08 23:22:37-04 Dsmiths-MBP installd[6034]: Installed "NTFS Pro by Omi" ()  
 2022-07-09 14:21:48-04 Dsmiths-MBP installd[687]: Installed "Install" ()  
 2022-07-09 14:25:14-04 Dsmiths-MBP installer[1427]: Installed "macFUSE" ()  
@@ -20,8 +18,8 @@
 2022-07-11 08:35:44-04 Dsmiths-MBP installd[73431]: Installed "virtualOS" (1.1)  
 2022-07-11 09:14:57-04 Dsmiths-MBP system_installd[73432]: Installed "Pro Video Formats" (2.2.3)  
 2022-07-11 09:14:57-04 Dsmiths-MBP system_installd[73432]: Installed "Safari Technology Preview" (148)  
-	    "__installState" = Installed;  
-	    "__installState" = Installed;  
+     "__installState" = Installed;  
+     "__installState" = Installed;  
 2022-07-11 09:23:33-04 MacBook-Pro system_installd[492]: Installed "RosettaUpdateAuto" ()  
 2022-07-11 11:40:27-04 Dsmiths-MBP installd[3220]: Installed "Google Drive" ()  
 2022-07-11 13:34:25-04 Dsmiths-MBP installd[10753]: Installed "Snip" (1.7)  
@@ -87,8 +85,8 @@
 2022-08-10 16:38:04-04 Dsmiths-MBP installd[60146]: Installed "Dropa" (1.3)  
 2022-08-11 20:00:58-04 Dsmiths-MBP system_installd[812]: Installed "Command Line Tools for Xcode" (13.4)  
 2022-08-11 20:00:58-04 Dsmiths-MBP system_installd[812]: Installed "Safari Technology Preview" (151)  
-	    "__installState" = Installed;  
-	    "__installState" = Installed;  
+     "__installState" = Installed;  
+     "__installState" = Installed;  
 2022-08-11 20:19:48-04 Dsmiths-MBP system_installd[489]: Installed "RosettaUpdateAuto" ()  
 2022-08-12 20:59:02-04 Dsmiths-MBP installd[847]: Installed "Taio" (1.59.0)  
 2022-08-13 19:58:54-04 Dsmiths-MBP installd[847]: Installed "Specter" (1.3.1)  

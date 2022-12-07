@@ -1,20 +1,20 @@
 # Absolute and Relative URLs
 
--   Article
--   11/18/2022
--   3 minutes to read
--   5 contributors
+- Article
+- 11/18/2022
+- 3 minutes to read
+- 5 contributors
 
 Feedback
 
 ### In this article
 
-1.  [URL Scheme Registration](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#url-scheme-registration)
-2.  [Defining Context with a URL](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#defining-context-with-a-url)
-3.  [Scoped Operations](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#scoped-operations)
-4.  [Relative URLs as Command Text](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#relative-urls-as-command-text)
-5.  [OLE DB Provider-Supplied URL Schemes](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#ole-db-provider-supplied-url-schemes)
-6.  [See Also](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#see-also)
+1. [URL Scheme Registration](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#url-scheme-registration)
+2. [Defining Context with a URL](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#defining-context-with-a-url)
+3. [Scoped Operations](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#scoped-operations)
+4. [Relative URLs as Command Text](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#relative-urls-as-command-text)
+5. [OLE DB Provider-Supplied URL Schemes](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#ole-db-provider-supplied-url-schemes)
+6. [See Also](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#see-also)
 
 A URL specifies the location of a target stored on a local or networked computer. The target can be a file, directory, HTML page, image, program, and so on.
 

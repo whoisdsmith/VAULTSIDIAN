@@ -9,11 +9,11 @@ Conditional statements are used to perform different actions based on different 
 JavaScript’s If-Else conditional statements variations :
 
 ```
-	* **if**
-	```
-	* **if-else**
-	* **nested-if**
-	* **if-else-if**
+ * **if**
+ ```
+ * **if-else**
+ * **nested-if**
+ * **if-else-if**
 
 These statements allow you to control the flow of your program’s execution based upon conditions known only during run time.
 
@@ -36,7 +36,7 @@ Here, **condition** after evaluation will be either true or false. if statement 
 
 ![if statement flow diagram in javascript](https://simplesnippets.tech/wp-content/uploads/2018/10/if-statement-flow-diagram-in-javascript.jpg)
 
-**Program Example **:
+**Program Example**:
 
 <script type = "text/javaScript">
 
@@ -53,9 +53,7 @@ document.write("If block not executed");
 
 < /script>
 
-
 **Output :**
-
 
 If block not executed
 
@@ -63,9 +61,7 @@ If block not executed
 
 The if statement alone tells us that if a condition is true it will execute a block of statements and if the condition is false it won’t. But what if we want to do something else if the condition is false. Here comes the else statement. We can use the else statement with if statement to execute a block of code when the condition is false.
 
-
 **Syntax**:
-
 
 if (condition)
 {
@@ -78,15 +74,11 @@ else
     // condition is false
 }
 
-
 **Flow Chart**:
-
 
 ![if-else statement flow diagram in javascript](https://simplesnippets.tech/wp-content/uploads/2018/10/if-else-statement-flow-diagram-in-javascript.jpg)
 
-
-**Program Example **:
-
+**Program Example**:
 
 <html>
  <head>
@@ -132,7 +124,7 @@ if (condition1)
 
 ![nested if statement flow diagram in javascript](https://simplesnippets.tech/wp-content/uploads/2018/10/nested-if-statement-flow-diagram-in-javascript.jpg)
 
-**Program Example **:
+**Program Example**:
 
 <html>
  <head>
@@ -176,7 +168,7 @@ else
 
 **Flow Chart**:
 
-**Program Example **:
+**Program Example**:
 
 <html>
  <head>
@@ -203,7 +195,7 @@ else
  </body>
 </html>
 
-**Output **:
+**Output**:
 
 Positive Number
 
@@ -214,6 +206,6 @@ Positive Number
 
 ---- 
 
-[image-1]:	https://simplesnippets.tech/wp-content/uploads/2018/10/javascript-if-else-control-statements-featured-image.jpg
+[image-1]: https://simplesnippets.tech/wp-content/uploads/2018/10/javascript-if-else-control-statements-featured-image.jpg
 
-#article
+# article

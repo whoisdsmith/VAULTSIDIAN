@@ -32,7 +32,7 @@ blockquote {
 
 ## Blockquote as per Obsidianite
 
-/* in Edit mode */
+/*in Edit mode*/
 
 ```css
 .cm-quote {
@@ -82,7 +82,7 @@ div:not(.CodeMirror-activeline)>.HyperMD-quote::after {
 }
 ```
 
-/* in Preview mode */
+/*in Preview mode*/
 
 ```css
 .markdown-preview-view blockquote {
@@ -144,8 +144,8 @@ blockquote:before {
 blockquote p { display: inline; }
 ```
 
-/* as per Obsidianite */  
-/* in Edit mode */
+/*as per Obsidianite*/  
+/*in Edit mode*/
 
 ```css
 div:not(.CodeMirror-activeline)>.HyperMD-quote>span:first-of-type::before {
@@ -160,7 +160,7 @@ div:not(.CodeMirror-activeline)>.HyperMD-quote>span:first-of-type::before {
 }
 ```
 
-/* in Preview mode */
+/*in Preview mode*/
 
 ```css
 .markdown-preview-view blockquote p:first-of-type::before {

@@ -10,7 +10,6 @@ Pipedream supports Single-sign on (SSO) with Okta. This guide shows you how to c
 - You must be an administrator of your Pipedream organization
 - You must have an Okta account
 
-
 ## Configuration
 
 1. In your Okta **Admin** dashboard, select the **Applications** section and click **Applications** below that:

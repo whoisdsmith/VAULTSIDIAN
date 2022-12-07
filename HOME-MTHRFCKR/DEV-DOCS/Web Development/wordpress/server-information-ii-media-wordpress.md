@@ -1,48 +1,48 @@
 ### WordPress Information
 
-##### Active Theme:
+##### Active Theme
 
 Customizr
 
-##### Active Plugins:
+##### Active Plugins
 
--   admin-customizer
--   alx-extensions
--   block-options
--   bluehost-wordpress-plugin
--   category-specific-rss-feed-menu
--   csv-importer
--   feed-them-social
--   gutenberg
--   insert-headers-and-footers
--   insert-pages
--   media-sync
--   meta-box
--   options-importer
--   organic-custom-content
--   regenerate-thumbnails
--   server-info
--   ultimate-dashboard
--   wp-all-import
--   wp-githuber-md
--   wp-pagenavi
+- admin-customizer
+- alx-extensions
+- block-options
+- bluehost-wordpress-plugin
+- category-specific-rss-feed-menu
+- csv-importer
+- feed-them-social
+- gutenberg
+- insert-headers-and-footers
+- insert-pages
+- media-sync
+- meta-box
+- options-importer
+- organic-custom-content
+- regenerate-thumbnails
+- server-info
+- ultimate-dashboard
+- wp-all-import
+- wp-githuber-md
+- wp-pagenavi
 
-##### Database Hostname:
+##### Database Hostname
 
 localhost
 
-##### Database Username:
+##### Database Username
 
 elnulqmy\_WPILA
 
-##### Database Name:
+##### Database Name
 
 elnulqmy\_WPILA
 
-##### Database Charset:
+##### Database Charset
 
 utf8
 
-##### WordPress Memory Limit:
+##### WordPress Memory Limit
 
 40M

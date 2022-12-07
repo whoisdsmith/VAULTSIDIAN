@@ -18,9 +18,9 @@ Zapier is a tool that helps you automate repetitive tasks between two or more ap
 
 ## What should/can I automate with Zapier?
 
--   **Tasks you have to do frequently.** Example: Sending a weekly reminder to your team to fill out a meeting agenda.
--   **Anything where you have to move information from one app to another.** Example: Adding tasks from a project management app into your personal to-do list app.
--   **Tasks that don't require much thinking.** Example: Copying the emails of event attendees to a spreadsheet.
+- **Tasks you have to do frequently.** Example: Sending a weekly reminder to your team to fill out a meeting agenda.
+- **Anything where you have to move information from one app to another.** Example: Adding tasks from a project management app into your personal to-do list app.
+- **Tasks that don't require much thinking.** Example: Copying the emails of event attendees to a spreadsheet.
 
 **Related reading:** [When you should automate a task](https://zapier.com/blog/when-to-automate/)  
 

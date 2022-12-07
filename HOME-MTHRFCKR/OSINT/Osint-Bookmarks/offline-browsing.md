@@ -1,4 +1,4 @@
-##  Offline Browsing
+## Offline Browsing
 
 * [A1 Website Download](http://www.microsystools.com/products/website-download) - Download entire websites to disk.
 * [Cyotek WebCopy](http://www.cyotek.com/cyotek-webcopy)
@@ -10,4 +10,5 @@
 * [SiteSucker](http://ricks-apps.com/osx/sitesucker/index.html)
 * [WebAssistant](http://www.proxy-offline-browser.com/download.html)
 * [Website Ripper Copier](http://www.tensons.com/products/websiterippercopier)
+
 ---

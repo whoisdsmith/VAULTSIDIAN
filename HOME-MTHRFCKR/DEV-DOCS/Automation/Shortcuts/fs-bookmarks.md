@@ -1,9 +1,9 @@
-#webclip
+# webclip
 
 # 2022-02-26
 
 - [FS Bookmarks: A Shortcut to Reopen Files and Folders Directly in the Files App](https://www.macstories.net/ios/fs-bookmarks-a-shortcut-to-reopen-files-and-folders-directly-in-the-files-app/)
-	- author: By Federico Viticci
+  - author: By Federico Viticci
 
 ---
 
@@ -63,10 +63,10 @@ Creating a new file bookmark and retrieving its path with FS Bookmarks.
 
 The process is a bit different if you want to create new bookmarks for _folders_. To do so, you have to use Scriptable – Shortcuts doesn’t offer a ‘Get Folder’ action yet. Creating folder bookmarks in Scriptable is extremely easy:
 
-  * Open the in-app settings in Scriptable;
-  * Select File Bookmarks;
-  * Hit the + button and select ‘Pick Folder’;
-  * Pick a folder from Files and save it as a bookmark.
+- Open the in-app settings in Scriptable;
+- Select File Bookmarks;
+- Hit the + button and select ‘Pick Folder’;
+- Pick a folder from Files and save it as a bookmark.
 ![Creating new bookmarks in Scriptable.](https://cdn.macstories.net/2019-10-31-17-36-20-1637680121754.png)
 
 Creating new bookmarks in Scriptable.

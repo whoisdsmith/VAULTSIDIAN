@@ -1,4 +1,4 @@
-##  Fact Checking
+## Fact Checking
 
 * [About Urban Legends](http://urbanlegends.about.com)
 * [Captin Fact](https://captainfact.io/)

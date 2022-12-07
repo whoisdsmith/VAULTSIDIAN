@@ -4,8 +4,8 @@
 
 There are the two types of eBook formatting: Standard eBooks and Fixed Layout eBooks.
 
-1.  **Standard eBooks (ePub and .mobi)** feature a dynamic (“flowable”) layout for text and images. This means that your eBook will look different when viewed on different eReaders.
-2.  **Fixed Layout** eBooks quite literally “affix“ images and text to exact spots on each electronic page – just like their printed book counterparts — so that they look the same, regardless of which reader you use.
+1. **Standard eBooks (ePub and .mobi)** feature a dynamic (“flowable”) layout for text and images. This means that your eBook will look different when viewed on different eReaders.
+2. **Fixed Layout** eBooks quite literally “affix“ images and text to exact spots on each electronic page – just like their printed book counterparts — so that they look the same, regardless of which reader you use.
 
 <iframe title="YouTube video player" src="https://www.youtube.com/embed/GZosR1twLJs" width="100%" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
@@ -15,12 +15,11 @@ Most eBooks do not require a Fixed Layout file and are only needed when it’s i
 
 These books are usually good candidates:
 
--   Illustrated children’s books
--   Cookbooks
--   Coffee table books
--   Graphic novels
--   Textbooks and technical manuals
--   …and any book that relies on a heavily-designed, static presentation, full-page images, or text that overlaps with images.
+- Illustrated children’s books
+- Cookbooks
+- Coffee table books
+- Graphic novels
+- Textbooks and technical manuals
+- …and any book that relies on a heavily-designed, static presentation, full-page images, or text that overlaps with images.
 
 For a deeper dive, read “[eBooks 101: Standard Vs. Fixed Layout](https://blog.bookbaby.com/2012/07/ebooks-101-standard-vs-fixed-layout/).”
-

@@ -12,7 +12,7 @@ Search Tag: #📖
 
 # [[../../../../../..//Templates/Template%20Hub/Templates/Obsidian-Vault-Structure/03%20-%20Content/Templater.md]]
 
-## Description:
+## Description
 
 [Templater](https://github.com/SilentVoid13/Templater) is a template language that lets you insert **variables** and **functions** results into your [Obsidian](https://obsidian.md/) notes.
 
@@ -25,11 +25,11 @@ Search Tag: #📖
 - Add date *created* automatically
 - Update *last updated* automatically
 - Move the note to the appropriate location
- 	- 02 - Secondary Categories
-	- 03 - Content
-	- 05 - Personal
+  - 02 - Secondary Categories
+  - 03 - Content
+  - 05 - Personal
 
-## Installation:
+## Installation
 
 1. Templater is a registered Obsidian [[02 - Plugins#Community Plugins]] and can be installed directly from `Settings > Community Plugins > Browse`
 
@@ -48,7 +48,7 @@ To help manage **incomplete**, **NULL**, or **'Untitled'** notes, it can be help
 
 ___
 
-# Resources:
+# Resources
 
 | Hyperlink                                                                 | Info |
 | ------------------------------------------------------------------------- | ---- |

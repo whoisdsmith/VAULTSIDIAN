@@ -1,4 +1,4 @@
-##  Geospatial Research and Mapping Tools
+## Geospatial Research and Mapping Tools
 
 * [Atlasify](http://www.atlasify.com)
 * [Batchgeo](http://batchgeo.com)

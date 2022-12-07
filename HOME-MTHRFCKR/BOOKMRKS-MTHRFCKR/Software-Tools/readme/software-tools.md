@@ -30,11 +30,11 @@ Manage multiple runtime versions with a single CLI tool, extendable via plugins 
 
 asdf-vm is a CLI tool that can manage multiple language runtime versions on a per-project basis. It is like gvm, nvm, rbenv & pyenv (and more) all in one! Simply install your language's plugin!
 
-https://asdf-vm.com/#/core-manage-asdf-vm
+<https://asdf-vm.com/#/core-manage-asdf-vm>
 
 ### Installation
 
-https://asdf-vm.com/#/core-manage-asdf?id=install
+<https://asdf-vm.com/#/core-manage-asdf?id=install>
 
 mac
 
@@ -69,7 +69,7 @@ asdf plugin list
 
 ### Python
 
-https://github.com/danhper/asdf-python
+<https://github.com/danhper/asdf-python>
 
 ```
 brew uninstall python python3 pyenv python@3.8
@@ -89,7 +89,7 @@ asdf global ruby 2.7.1
 
 ### Nodejs
 
-https://github.com/asdf-vm/asdf-nodejs
+<https://github.com/asdf-vm/asdf-nodejs>
 
 ```
 GNU Core Utils - brew install coreutils
@@ -132,7 +132,7 @@ benefit vs session?
 
 ### 2.0 With GEK
 
-https://discuss.circleci.com/t/google-container-registry-push-image/12301/22
+<https://discuss.circleci.com/t/google-container-registry-push-image/12301/22>
 
 Build Docker image\  
 Install Google SDK\  
@@ -147,8 +147,8 @@ gcloud docker --push and other you arguments.
 
 * \[Wordpress]
 * [GHost](https://ghost.org/)
-  * https://stratechery.com/2019/ghost-3-0-an-interview-with-ghost-ceo-john-onolan/
-  * Yet another CMS solution https://ghost.org/, not a headless one. If I’m going to do another CMS stuff again I think I’ll give it a try
+  * <https://stratechery.com/2019/ghost-3-0-an-interview-with-ghost-ceo-john-onolan/>
+  * Yet another CMS solution <https://ghost.org/>, not a headless one. If I’m going to do another CMS stuff again I think I’ll give it a try
 
 ### Headless CMS
 
@@ -166,7 +166,6 @@ Prismic is sort of a Contentful-like service that does basically the same thing 
 * [Gentics Mesh](https://github.com/gentics/mesh) The open source headless CMS for developers
 
 ###
-
 
 ## Co-working-space
 
@@ -224,56 +223,56 @@ sudo grep CRON /var/log/syslog* | grep -E "(yes)"
 
 ## Crypto Links
 
-### Crypto Exchanges:
+### Crypto Exchanges
 
-* Binance: https://www.binance.com ⭐
-* Crypto.com https://crypto.com ⭐
-* KuCoin https://www.kucoin.com
-* FTX https://ftx.com
+* Binance: <https://www.binance.com> ⭐
+* Crypto.com <https://crypto.com> ⭐
+* KuCoin <https://www.kucoin.com>
+* FTX <https://ftx.com>
 
 ### Basics Analytics Tools
 
-* CoinGecko https://www.coingecko.com ⭐
-* CoinMarketCap https://coinmarketcap.com ⭐
-* TradingView https://www.tradingview.com ⭐
-* Coin360 https://coin360.com
+* CoinGecko <https://www.coingecko.com> ⭐
+* CoinMarketCap <https://coinmarketcap.com> ⭐
+* TradingView <https://www.tradingview.com> ⭐
+* Coin360 <https://coin360.com>
 
 ### Onchain Data Analytics Tools
 
-* Glassnode https://glassnode.com ⭐
+* Glassnode <https://glassnode.com> ⭐
 
 ### YouTube Channels
 
-* Piotr Ostapowicz https://www.youtube.com/c/PiotrOstapowicz1 ⭐
-* Phil Konieczny https://www.youtube.com/c/PhilKonieczny ⭐
-* The Birb Nest https://www.youtube.com/c/TheBirbNest ⭐
-* Dzienna Dawka Dyskomfortu https://www.youtube.com/c/DziennaDawkaDyskomfortu
+* Piotr Ostapowicz <https://www.youtube.com/c/PiotrOstapowicz1> ⭐
+* Phil Konieczny <https://www.youtube.com/c/PhilKonieczny> ⭐
+* The Birb Nest <https://www.youtube.com/c/TheBirbNest> ⭐
+* Dzienna Dawka Dyskomfortu <https://www.youtube.com/c/DziennaDawkaDyskomfortu>
 
 ### Twitter
 
 * @crypto\_birb https://twitter.com/crypto\_birb ⭐
 * @piotr\_rataj https://twitter.com/piotr\_rataj ⭐
-* @PanParagraf https://twitter.com/PanParagraf
-* @kamilgancarz https://twitter.com/kamilgancarz
-* @PiotrOstapowicz https://twitter.com/PiotrOstapowicz
-* @jarzoombek https://twitter.com/jarzoombek
+* @PanParagraf <https://twitter.com/PanParagraf>
+* @kamilgancarz <https://twitter.com/kamilgancarz>
+* @PiotrOstapowicz <https://twitter.com/PiotrOstapowicz>
+* @jarzoombek <https://twitter.com/jarzoombek>
 * @BTC\_Archive https://twitter.com/BTC\_Archive
-* @AltcoinDailyio https://twitter.com/AltcoinDailyio
+* @AltcoinDailyio <https://twitter.com/AltcoinDailyio>
 
 ### Wallets
 
 #### Web/App
 
-* MetaMask https://metamask.io ⭐
-* Terra Station https://station.terra.money ⭐
-* Exodus https://www.exodus.com ⭐
-* Phantom https://phantom.app
-* Solflare https://solflare.com
+* MetaMask <https://metamask.io> ⭐
+* Terra Station <https://station.terra.money> ⭐
+* Exodus <https://www.exodus.com> ⭐
+* Phantom <https://phantom.app>
+* Solflare <https://solflare.com>
 
 #### Physical
 
-* Ledger https://shop.ledger.com ⭐
-* Trezor https://trezor.io
+* Ledger <https://shop.ledger.com> ⭐
+* Trezor <https://trezor.io>
 * [Everything curl](https://ec.haxx.se/)
 
 ## Get Request Time
@@ -311,7 +310,7 @@ response.headers\["set-cookie"]
 
 ## Wait Until Localhost Post Open
 
-https://stackoverflow.com/questions/11904772/how-to-create-a-loop-in-bash-that-is-waiting-for-a-webserver-to-respond
+<https://stackoverflow.com/questions/11904772/how-to-create-a-loop-in-bash-that-is-waiting-for-a-webserver-to-respond>
 
 ```
 until $(curl --output /dev/null --silent --head --fail http://myhost:myport); do
@@ -348,11 +347,11 @@ CODE SHOULD BE UPPERCASE!
 
 charset = big5 怎處理?
 
-氣象局 https://e-service.cwb.gov.tw/wdps/obs/state.htm
+氣象局 <https://e-service.cwb.gov.tw/wdps/obs/state.htm>
 
-solution https://dotblogs.com.tw/wasichris/2015/08/29/153254
+solution <https://dotblogs.com.tw/wasichris/2015/08/29/153254>
 
-axios solution: https://github.com/axios/axios/issues/332
+axios solution: <https://github.com/axios/axios/issues/332>
 
 ## UTF-8
 
@@ -364,7 +363,7 @@ Unicode
 
 ## Timelapse Video
 
-My post…https://medium.com/@hiiamyes/using-ffmpeg-to-make-time-lapse-video-391f5ea8cc6b
+My post…<https://medium.com/@hiiamyes/using-ffmpeg-to-make-time-lapse-video-391f5ea8cc6b>
 
 [scale](https://stackoverflow.com/questions/44634765/ffmpeg-aspect-ratio-of-image-in-a-slideshow)
 
@@ -410,8 +409,8 @@ The force\_original\_aspect\_ratio in the scale 'fits' the video within the dime
 
 General Data Protection Regulation
 
-https://gdpr-info.eu/\  
-https://gdpr.eu/
+<https://gdpr-info.eu/>\  
+<https://gdpr.eu/>
 
 https://www.cookiebot.com/en/gdpr-cookies/#:\~:text=GDPR%20cookie%20consent%20is%20when,data%2C%20while%20visiting%20your%20site.
 
@@ -422,7 +421,7 @@ GDPR cookie consent is when users give their informed, explicit, unambiguous con
 
 ### Do All Cookies Require Opt-In?
 
-https://law.stackexchange.com/questions/29083/gdpr-compliance-do-all-cookies-require-opt-in
+<https://law.stackexchange.com/questions/29083/gdpr-compliance-do-all-cookies-require-opt-in>
 
 Not all cookies require consent.
 
@@ -432,7 +431,7 @@ This WP29 Opinion is based upon Directive 2002/58/EC ("ePrivacy Directive"), and
 
 ### Strictly Necessary Cookies
 
-https://stackoverflow.com/questions/50513448/gdpr-and-cookies-that-do-not-store-personal-data?rq=1
+<https://stackoverflow.com/questions/50513448/gdpr-and-cookies-that-do-not-store-personal-data?rq=1>
 
 However, you don't need consent where the cookie or other technology is "strictly necessary" to provide you with the service the user is seeking–for example, cookies which may be needed to provide you with a functioning website which the user wants to access.
 
@@ -472,7 +471,7 @@ arrayformula for query is not supported
 
 ### Lookup
 
-https://support.google.com/docs/answer/3256570?hl=en
+<https://support.google.com/docs/answer/3256570?hl=en>
 
 ```
 ```
@@ -541,7 +540,7 @@ assignee = yes AND project = "Web Development" AND (status not in ("To Do", DONE
 
 ### Check Disk Space
 
-https://opensource.com/article/18/7/how-check-free-disk-space-linux
+<https://opensource.com/article/18/7/how-check-free-disk-space-linux>
 
 ```
 <!-- disk free -->
@@ -582,7 +581,7 @@ sudo killall AppleCameraAssistant
 
 ### Create Vs Add
 
-https://ux.stackexchange.com/questions/43174/update-vs-modify-vs-change-create-vs-add-delete-vs-remove
+<https://ux.stackexchange.com/questions/43174/update-vs-modify-vs-change-create-vs-add-delete-vs-remove>
 
 What's best calling these things depends on:
 
@@ -663,7 +662,7 @@ body {
 
 ## Python
 
-https://docs.python.org/3/tutorial/venv.html#creating-virtual-environments
+<https://docs.python.org/3/tutorial/venv.html#creating-virtual-environments>
 
 ```
 asdf install python 3.9.0
@@ -766,7 +765,7 @@ Screen recording?
 
 ## Ssh
 
-https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+<https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent>
 
 ```
 ssh-keygen -t ed25519 -C "joshuayes@gmail.com"
@@ -774,16 +773,16 @@ ssh-keygen -t ed25519 -C "joshuayes@gmail.com"
 
 ## SSL
 
-https://letsencrypt.org/
+<https://letsencrypt.org/>
 
 ## Tmux
 
-* https://tmuxcheatsheet.com/
-* Source: https://gist.github.com/henrik/1967800
+* <https://tmuxcheatsheet.com/>
+* Source: <https://gist.github.com/henrik/1967800>
 
 ### Installation
 
-https://linuxize.com/post/getting-started-with-tmux/#installing-tmux-on-macos
+<https://linuxize.com/post/getting-started-with-tmux/#installing-tmux-on-macos>
 
 mac
 

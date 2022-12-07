@@ -1,7 +1,5 @@
 # An SF Glossary
 
-    
-
 [first use unknown]
 
 A biological robot, esp. a cloned or synthetic human (but compare droid).
@@ -10,13 +8,9 @@ Clute and Nicholls' Encylopedia of Science Fiction traces the first modern use t
 
 OED II says "An automaton resembling a human being", with cites for the older variant "androides" going back to 1727.
 
-    
-
 [from Ursula K. LeGuin's Oikumene stories beginning c.1965]
 
 General SFnal term for FTL radio; a communicator using a method with instantaneous or at least superluminal propagation speed.
-
-    
 
 [contraction of "antigravity"; first use unknown]
 
@@ -26,23 +20,17 @@ Antigrav is functionally similar to a reactionless drive, but unlike the latter 
 
 _auton_
 
-    
-
 [1970]
 
 Shortened noun form of "autonomous" used to describe a non-humanoid robot. First appeared in the "Dr. Who" episode "Spearhead from Space" in 1970, then in "Terror of the Autons" (1971). Best known from (apparently independent) usage in the Realtime novels of Vernor Vinge, c.1980. Not found in other SF to date, but in speculative use among some software researchers as a shorthand for "autonomous system" referring to a software agent.
 
 _BEM_
 
-    
-
 [first use unknown; dates back at least to 1950]
 
 Critical term, abbreviation for "Bug-Eyed Monster". Use of this term is now rare and implicitly derogatory, equating the work in which the BEM appears to the category of low-grade space opera.
 
 _biosculpture_
-
-    
 
 [first use unknown]
 
@@ -51,8 +39,6 @@ General SFnal term for hypothetical technologies which combine genetic engineeri
 When first generally used in the 1950s, this term was narrower in scope and limited to surgical methods for altering existing organisms, as opposed to creating new ones.
 
 _berserker_
-
-    
 
 [coined by Fred Saberhagen, c.1961]
 
@@ -64,15 +50,11 @@ This term is the signature of one author (Fred Saberhagen's) series of stories, 
 
 _blaster_
 
-    
-
 [first use unknown, goes back at least to 1930s]
 
 General SFnal term for a hand weapon analogous to a pistol but firing some unspecified form of radiant energy. The term predates laser and maser technology by decades, going back to space opera. Compare disrupter, stunner, needler, magrifle, plasma rifle, slugthrower.
 
 _catastrophe story_
-
-    
 
 [first instance unknown]
 
@@ -82,15 +64,11 @@ Though the setting of this form is similar to that of the American post-holocaus
 
 _corpsicle_
 
-    
-
 [general from c.1971]
 
 A cryogenically-preserved human awaiting revival by future technology. Strongly associated with the "Known Space" future of Larry Niven, but used elsewhere. According to Niven, the term was actually coined by Frederik Pohl.
 
 _cyberpunk_
-
-    
 
 [coined by Bruce Bethke in the early 1980s]
 
@@ -100,15 +78,11 @@ Cyberpunk SF is mythically fascinated by computer networking, human/computer int
 
 _cyberspace_
 
-    
-
 [originally in William Gibson's 1982 novel Neuromancer]
 
 The totality of all the world's networked computers, represented as a visual virtual 3D domain in which a user may move and act with consequences in the real world. Now widely known (and widely abused) in the mainstream; today's Internet does not yet have the most salient characteristics of cyberspace.
 
 _cyborg_
-
-    
 
 [portmanteau of "cybernetic organism"; first use 1960]
 
@@ -116,15 +90,11 @@ General SF term for a technological melding of human and machine, with the machi
 
 _decker_
 
-    
-
 [from William Gibson's early-80s cyberpunk SF]
 
 A future cracker; a software expert skilled at manipulating cyberspace, especially at circumventing security precautions. Not yet used in other SF, but widely found in cyberpunk role-playing games.
 
 _disrupter_
-
-    
 
 [first use unknown]
 
@@ -134,15 +104,11 @@ Compare blaster, needler, magrifle, stunner, plasma rifle, slugthrower.
 
 _droid_
 
-    
-
 [popularized by the first Star Wars movie, 1977]
 
 A robot. This somewhat misapplied contraction of android is not much used in other SF (LucasFilms has a trademark on it!). It is now widely known outside SF circles but only used mythically of fictional characters.
 
 _Dyson sphere_
-
-    
 
 [invented by physicist Freeman Dyson]
 
@@ -152,15 +118,11 @@ Bob Shaw set Orbitsville on a Dyson sphere. Some astronomers have speculated tha
 
 _empath_
 
-    
-
 [first use unknown; probably dates to 1940s]
 
 A human being or other sophont capable of reading the emotions of others by some form of ESP. Distinguished from a telepath which can read thoughts.
 
 _ESP_
-
-    
 
 [abbreviation, Extra-Sensory Perception]
 
@@ -168,15 +130,11 @@ General SFnal term of art for what was classically called clairvoyance and now c
 
 _esper_
 
-    
-
 [first use unknown, goes back at least to 1940s]
 
 General SFnal term for a human or other sophont able to use ESP. In George O. Smith's classic Highways In Hiding and many later novels the term specifically excludes telepathic and empathic ability, being restricted to modes of clairvoyance or remote sensing.
 
 _first-contact story_
-
-    
 
 [paradigm example is Murray Leinster's First Contact, 1949
 
@@ -188,8 +146,6 @@ The rewards of reading this form of SF, and the challenges of writing it, resemb
 
 _flatlander_
 
-    
-
 [from Larry Niven's "Known Space" stories of the 1960s and early 1970s]
 
 Mildly derogatory term for someone who's never been off a planetary surface, i.e. into space. Resonant with the term used in Edwin A. Abbot's classic mathematical fantasy Flatland: A Romance of Many Dimensions to describe two-dimensional creatures unaware of the third dimension of space.
@@ -198,23 +154,17 @@ While this term is strongly associated with Larry Niven's fiction (in which it s
 
 _flitter_
 
-    
-
 [first use unknown]
 
 General SFnal term for a personal flying vehicle, typically not winged but rather using some form of antigrav or exotic aerodynamics such as ducted-fan and Coanda-effect technology. Unlike a skimmer, a flitter is capable of free flight.
 
 _forcefield_
 
-    
-
 [first use unknown; also "force field"]
 
 General SFnal term for a hypothetical technology which can interact with any material object in the ways that magnetic fields interact with magnetized ones. A forcefield may be deployed as a shield around a spaceship or other object (a force shield). Other applications include the tractor beam, the pressor beam and antigrav.
 
 _force shield_
-
-    
 
 [dates to early space opera, c. 1930]
 
@@ -224,15 +174,11 @@ In "Doc" Smith's and most later versions, a force shield has no thickness and ha
 
 _FTL_
 
-    
-
 [abbreviation, Faster Than Light; first use unknown]
 
 General SFnal term for hypothetical means of circumventing the Einsteinian speed limit, these being necessary to a large class of SF plots that require easy travel between star systems. The abbreviation goes back at least as far as the late 1950s. Compare hyperspace, NAFAL and see stardrive.
 
 _generation ship_
-
-    
 
 [established by Heinlein's Orphans Of The Sky (1958); earliest appearance may have been Don Wilcox's "The Voyage That Lasted 600 Years" (1940)]
 
@@ -242,15 +188,11 @@ Arthur Clarke credits physicist J.D. Bernal's speculative non-fiction The World,
 
 _genetic engineering_
 
-    
-
 [coined by Jack Williamson in Dragon's Island (1951)]
 
 General term for technologies based on the sophisticated manipulation of genetic material, used widely in SF for three decades before going mainstream in the early 1980s. In SF this term has much wider scope than current real-world applications involving tailored bacteria and transgenic plants; it is understood to include the creation of chimeras and entirely novel animals or (especially) varieties of humanity.
 
 _grok_
-
-    
 
 [from Robert Heinlein's Stranger In A Strange Land, 1959]
 
@@ -258,23 +200,17 @@ Literally the Martian verb "to drink", metaphorically "to become one with". To k
 
 _groundcar_
 
-    
-
 [first use unknown; dates at least back to 1940s] General SFnal term for a conventional wheeled vehicle, used to imply that the normal "car" is a flitter or skimmer.
 
 This term was used in Asimov's original Foundation novelette.
 
 _groundhog_
 
-    
-
 [from Robert Heinlein's Space Cadet (1948)]
 
 Another mildly derogatory term for someone who's never been off a planetary surface, i.e. into space. Also used to describe a person travelling in space but unaccustomed or incapable of adapting to ship or station conditions. Probably as widely recognized as flatlander, though less used.
 
 _hyperspace_
-
-    
 
 [first use unknown]
 
@@ -284,23 +220,17 @@ General use of _hyperspace_ as a term for such domains dates back at least to th
 
 _jump-capable_
 
-    
-
 [first use unknown]
 
 Common SFnal term for a starship fitted with a jump drive, as opposed to ships equipped only for short-range travel in normal space. See [stardrive](stardrive).
 
 _jump point_
 
-    
-
 [first use unknown]
 
 See stardrive.
 
 _lost-colony story_
-
-    
 
 [first use unknown]
 
@@ -310,21 +240,15 @@ This framing element is enduringly popular because it combines wide scope for co
 
 _hyperdrive_
 
-    
-
 [first use unknown; occurred in Asimov's Foundation stories of the early 1940s] Common term for a stardrive.
 
 _NAFAL_
-
-    
 
 [abbreviation, Nearly As Fast As Light; first use by Ursula Le Guin in the early Oikumene novels, c.1964]
 
 Describes what a physicist would call a "relativistic" starship. This near-antonym of FTL is not as generally used but is found in the works of multiple writers. See also generation ship .
 
 _nanotech_
-
-    
 
 [common SFnal short form of _nanotechnology_; the latter seems to have been coined by K. Eric Drexler in the 1980s]
 
@@ -334,8 +258,6 @@ Nanotechnology implies a world in which material scarcity is very nearly a thing
 
 _magrifle_
 
-    
-
 [short for _magnetic rifle_, first use unknown]
 
 A firearm, analogous to a rifle, that uses pulsed magnetic fields rather than chemical explosives to propel projectiles.
@@ -343,8 +265,6 @@ A firearm, analogous to a rifle, that uses pulsed magnetic fields rather than ch
 Compare needler, blaster, disrupter, plasma rifleslugthrower.
 
 _needler_
-
-    
 
 [first use unknown; goes back to 1950s]
 
@@ -354,15 +274,11 @@ Compare magrifle, blaster, disrupter, plasma rifleslugthrower.
 
 _matter transmission_
 
-    
-
 [first use unknown; goes back to 1930s]
 
 Common term for technological teleportation. This particular term (and the shortened form transmat) are most often used of technologies that (hypothetically) disassemble matter at a transmitting location, then beam it to a receiver where it is reassembled atom-by-atom. Other versions of matter transmission involve the use of wormholes or quantum indeterminacy. Larry Niven explored the common logic of teleportation in a 1967 essay "The Theory and Practice of Teleportation" that is still regarded as definitive.
 
 _organlegger_
-
-    
 
 [coined on the model of "bootlegger" by Larry Niven in Death By Ecstasy, 1969]
 
@@ -370,15 +286,11 @@ General SFnal term for a dealer in illicit body parts for organ transplant surge
 
 _ornithopter_
 
-    
-
 [revived in SF by Frank Herbert's Dune (1967), but occurs in Cordwainer Smith's earlier Instrumentality of Mankind stories c.1960]
 
 A flying machine that uses flapping wings. This term is well known to historians of flight; Leonardo Da Vinci drew pictures of ornithopters in his famous sketchbooks, and several early-20th-century attempts at powered flight were ornithopter variants. Unfortunately for their inventors, flapping wings are only effective given the high power-to-weight ratio of avian muscle. We cannot yet attain this in the real world, but SF is free to assume it in the future.
 
 _plasma rifle_
-
-    
 
 [first use unknown]
 
@@ -386,23 +298,17 @@ General SFnal term for a long-arm analogue of a blaster, often conceived as a lo
 
 _pressor beam_
 
-    
-
 [first use unknown; dates back at least to early 1950s]
 
 General SFnal term for an application of forcefield technology that can push on material objects at a distance ranging from feet to miles. Perhaps popularized by E.E. "Doc" Smith's Lensman novels. See tractor beam (which is more common).
 
 _reactionless drive_
 
-    
-
 [first use unknown]
 
 General SFnal term for a hypothetical means of propulsion through space not dependent (as is a rocket or mass driver) on expelling reaction mass and using Newton's Second Law. The default assumption (seldom spelled out) is that such a drive is able to use some form of exotic forcefield physics to get traction on the fabric of space itself. Compare antigrav.
 
 _ringworld_
-
-    
 
 [from Larry Niven's 1975 novel Ringworld]
 
@@ -411,8 +317,6 @@ A hoop around a star; an artificial macrostructure designed to provide a surface
 Niven invented the idea and the term as a perhaps more feasible variant of the Dyson Sphere. The term has since become general.
 
 _post-holocaust_
-
-    
 
 [first instance unknown; perhaps A. Conan Doyle's The Poison Belt, c.1918]
 
@@ -424,15 +328,11 @@ The subgenre was more popular in the 1950s, 1960s and 1970s than it is now. It h
 
 _regeneration tank_
 
-    
-
 [first use unknown]
 
 A regeneration tank is a device that assists a damaged human body in healing and regrowing missing parts. The term has been in general use since the 1950s; at least one early use was in James Schmitz's Agent Of Vega stories. The image that goes with it is of an unconscious subject floating in a complex nutrient bath.
 
 _rejuv_
-
-    
 
 [first use unknown]
 
@@ -440,15 +340,11 @@ Common shorthand for "rejuvenation", meant to imply medical technology capable o
 
 _rishathra_
 
-    
-
 [from Larry Niven's 1980 Novel The Ringworld Engineers]
 
 Sex with a sophont of a species other than one's own. Not general in SF. Sometimes used by members of the SF-fan culture to describe sex with a non-fan.
 
 _robot_
-
-    
 
 [From the Czech word _robota_ meaning "involuntary worker"]
 
@@ -458,15 +354,11 @@ This word is ubiquitous in SF, quite well known in the mainstream, and seriously
 
 _sapernt_
 
-    
-
 [first use unknowm]
 
-Sometimes contrasted with `sentient' because even low animals can feel. `sapient' is usually an adjective, `sophont' usually a noun.
+Sometimes contrasted with `sentient' because even low animals can feel.`sapient' is usually an adjective, `sophont' usually a noun.
 
 _sentient_
-
-    
 
 [first use unknown, but goes back at least to 1940s]
 
@@ -476,15 +368,11 @@ Etymologically, and in mainstream English the word means "feeling" but is rare a
 
 _skimmer_
 
-    
-
 [first use unknown]
 
 General SFnal term for a ground vehicle with roughly the performance characteristics of a fast hovercraft, but with the implication that it uses some form of antigrav rather than ducted fans.
 
 _slugthrower_
-
-    
 
 [first use unknown; general by 1975]
 
@@ -492,15 +380,11 @@ General SFnal term for a weapon that fires bullets. Use implies that this is not
 
 _sophont_
 
-    
-
 [From Poul Anderson's `Polesotechnic League' stories, going back at least to 1963]
 
 An evolved biological intelligence. Implies human-level cognitive and linguistic ability but not necessarily tool use. More specific and etymologically correct than sentient. Still less common than that term, but has been used by multiple writers.
 
 _space opera_
-
-    
 
 [from a now obsolete term _horse opera_ for Western serials]
 
@@ -510,15 +394,11 @@ Star Wars and its sequels are perhaps now the paradigmatic examples, but real SF
 
 _spacesickness_
 
-    
-
 [first detailed in Heinlein's Space Cadet (1948) but the idea probably goes back to early space opera]
 
 Microgravity nausea. Analogue of motion sickness produced by confusion of the human vestibular system in the absence of a gravitational vertical. Correctly predicted in SF long before the first manned spaceflight; however NASA assiduously avoids the SF term.
 
 _stardrive_
-
-    
 
 [first use unknown; general by 1945]
 
@@ -536,8 +416,6 @@ For an excellent summary of recent speculation on possible star drive mechanisms
 
 _stunner_
 
-    
-
 [first use unknown; generally established by the 1950s]
 
 General SFnal term for a non-lethal weapon analogous to a firearm that renders the target unconscious. The standard assumptions about stunners are actually quite detailed; they are short-range weapons, easily blocked by walls or furniture, and victims are often groggy or nauseated or otherwise physically sub-par for some time after regaining consciousness (this condition is generally called _stun shock_). Usually they are imagined to use either some sort of infrasonics or a soporific dart.
@@ -546,25 +424,19 @@ SF stunners long predate real-world analogues like tasers and stun grenades. Com
 
 _tachyons_
 
-    
-
 Hypothetical subatomic particles that travel faster than light.
 
 Hypothesized by physicist Gerald Feinberg in a famous 1967 Physical Reviews article. Frequently used in SF to justify ansible devices. John Cramer has written a good popular exposition of tachyon physics in his October 1993 [Alternate View](http://www.npl.washington.edu/AV/altvw61.html) column.
 
 _telepath_
 
-    
-
 [first use unknown; goes back to at least to 1930s]
 
 A human or other sophont capable of directly reading the thoughts of others.
 
-This terms seems to have originally been coined by 19th-century spiritualists and Theosophists and used to include both mind-reading and remote sensing; earliest OED cite is from 1883. It was established in SF by the late 1940s, completely replacing earlier terms such as ``mind-reading'' and ``thought transference'' perhaps (ironically) because it had the crisp Latinate sound of a scientific term.
+This terms seems to have originally been coined by 19th-century spiritualists and Theosophists and used to include both mind-reading and remote sensing; earliest OED cite is from 1883. It was established in SF by the late 1940s, completely replacing earlier terms such as ``mind-reading'' and``thought transference'' perhaps (ironically) because it had the crisp Latinate sound of a scientific term.
 
 _teleport_
-
-    
 
 [first use unknown; goes back to at least to 1930s; some claim it was coined by Charles Fort]
 
@@ -572,13 +444,9 @@ As a verb, to move object from point to point without traversing the space in be
 
 _Tellurian_
 
-    
-
 See _Terran_.
 
 _terraforming_
-
-    
 
 [coined by Jack Williamson in Collision Orbit (Astounding, July 1941))]
 
@@ -586,17 +454,13 @@ General SFnal term for the art of modifying planetary surface conditions to rese
 
 _Terran_
 
-    
-
 [from Latin "_terra_" = "earth" ]
 
 SFnal adjective for anything from Earth (Terra). A ``Terran'' without modifier, is an Earth-descended human.
 
-This usage displaced the earlier but more etymologically correct ``Tellurian'' and ``Tellus'' in the 1940s and 50s; these older terms are now primarily associated with space opera.
+This usage displaced the earlier but more etymologically correct ``Tellurian'' and``Tellus'' in the 1940s and 50s; these older terms are now primarily associated with space opera.
 
 _timeline_
-
-    
 
 [first use unknown; dates back to 1940s]
 
@@ -604,15 +468,11 @@ General SFnal term for any one universe in a set of branching histories. Usually
 
 _tractor beam_
 
-    
-
 [first use unknown; dates back to 1940s]
 
 General SFnal term for an application of forcefield technology that can pull on material objects at a distance ranging from feet to miles. Perhaps popularized by E.E. "Doc" Smith's Lensman novels. See pressor beam.
 
 _transmat_
-
-    
 
 [used on the Dr. Who show 1968-69; may have been coined by Theodore Sturgeon a few years earlier]
 
@@ -620,15 +480,11 @@ Synonym for "matter transmitter".
 
 _tridee_
 
-    
-
 [first use unknown; dates back at least to 1950s]
 
 Analogue of "TV", but with projection of 3-dimensional images; often imagined as a development of holography.
 
 _waldo_
-
-    
 
 [from the eponymous novelette by Robert A. Heinlein, 1942]
 
@@ -640,4 +496,4 @@ A movie special-effects company called The Character Shop has actually trademark
 
 ___
 
-#article Sci-fi 
+# article Sci-fi

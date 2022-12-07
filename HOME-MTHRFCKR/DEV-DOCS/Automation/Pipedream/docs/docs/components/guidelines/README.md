@@ -10,7 +10,7 @@ conform to these guidelines, but they will not be eligible to be listed in the
 curated registry (e.g., they may be hosted in a Github repo). If you develop a
 component that does not adhere to these guidelines, but you believe there is
 value to the broader community, please [reach out in our community
-forum](https://pipedream.com/community/c/dev/11). 
+forum](https://pipedream.com/community/c/dev/11).
 
 [[toc]]
 
@@ -628,6 +628,7 @@ For example, some APIs return XML responses. If you return XML from the step, it
 #### Use `$.summary` to summarize what happened
 
 [Describe what happened](/components/api/#returning-data-from-steps) when an action succeeds by following these guidelines:
+
 - Use plain language and provide helpful and contextually relevant information (especially the count of items)
 - Whenever possible, use names and titles instead of IDs
 - Basic structure: _Successfully [action performed (like added, removed, updated)] “[relevant destination]”_

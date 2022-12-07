@@ -15,13 +15,14 @@ First, create a Google Sheet with the columns `Latitude`, `Longitude`, `Timestam
 ![image-20210517195215566](./images/image-20210517195215566.png)  
 
 ### Transform a timestamp using the `luxon` npm package
+
 Next, select a recent event and inspect the exports for `steps.get_iss_position`. We can see that the `timestamp` field returned by the API is not a friendly, human-readable date/time:
 
 ![image-20210525181359535](./images/image-20210525181359535.png)
 
-Let's fix that by using the `luxon` npm package to transform the timestamp into a value that is human-readable — and one that Google Sheets will interpret as a date/time. Based on a quick Google Search, the date/time format expected by Google Sheets is `yyyy-MM-dd HH:mm:ss`. 
+Let's fix that by using the `luxon` npm package to transform the timestamp into a value that is human-readable — and one that Google Sheets will interpret as a date/time. Based on a quick Google Search, the date/time format expected by Google Sheets is `yyyy-MM-dd HH:mm:ss`.
 
-Click the **+** button to add a new step after `steps.get_iss_position` and select **Run Node.js code**. 
+Click the **+** button to add a new step after `steps.get_iss_position` and select **Run Node.js code**.
 
 ![image-20210525181449209](./images/image-20210525181449209.png)
 
@@ -79,7 +80,7 @@ Another option is to explore the exports for a step and click on the **Copy Path
 
 ![image-20210525182402438](./images/image-20210525182402438.png)
 
-The final option is to use autocomplete — add double braces <code v-pre>{{ }}</code> and start typing between them to get autocomplete the same way you do in code steps. 
+The final option is to use autocomplete — add double braces <code v-pre>{{ }}</code> and start typing between them to get autocomplete the same way you do in code steps.
 
 ![autocomplete](./images/autocomplete.gif)
 
@@ -97,7 +98,7 @@ Your fully configured step should look similar to this:
 
 ![image-20210525183257888](./images/image-20210525183257888.png)
 
-Next, **Deploy** your changes and reload the endpoint URL in your browser. 
+Next, **Deploy** your changes and reload the endpoint URL in your browser.
 
 ![reload-iss-sheets](./images/reload-iss-sheets.gif)
 
@@ -105,13 +106,9 @@ When you check the workflow, you should see exports from the add row to sheets s
 
 ![image-20210525183834078](./images/image-20210525183834078.png)
 
-
-
 Finally, when you check Google Sheet you should see data about the ISS position.
 
 ![image-20210525184058476](./images/image-20210525184058476.png)
-
-
 
 **If you loaded the URL in your web browser, you'll actually see two events. We'll fix that in the next example.**
 

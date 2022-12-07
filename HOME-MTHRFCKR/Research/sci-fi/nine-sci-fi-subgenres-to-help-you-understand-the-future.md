@@ -42,7 +42,7 @@ Pixabay
 
 ### What to Read
 
-**Han Song, _2066: Red Star Over America_ (2000) **
+**Han Song, _2066: Red Star Over America_ (2000)**
 
 Han Song, a journalist for Xinhua News Agency, is reputed to have said that the news pieces he writes in daytime are more “science fictional” than the sci-fi he writes at night—a very chaohuan attitude. In 2066, in a Sinocentric world, a delegation of Go players visits a chaotic and collapsing America reeling from a terrorist attack on the World Trade Center. Any parallels to the Cultural Revolution 100 years earlier are subtle enough to be deniable.
 
@@ -117,7 +117,7 @@ So says author Jane Rawson, speaking in 2018 to Ben Brooker about Australian lit
 
 Similarly, media theorist McKenzie Wark has [written](https://www.versobooks.com/blogs/3356-on-the-obsolescence-of-the-bourgeois-novel-in-the-anthropocene) about the “obsolescence of the bourgeois novel in the Anthropocene.” That is, “climate change exceeds what the form of the bourgeois novel can express.” He recommends “cli-fi” as a genre, though he notes that “it includes some quite terrible books,” such as Ian McEwan’s _Solar_, in which “the imminent collapse of industrial civilization” is mapped onto that most literary of topics, “a middle-aged white man’s issues with his penis.”
 
-### Better Options Include:
+### Better Options Include
 
 **Margaret Atwood, the _MaddAddam_ trilogy (beginning with _Oryx and Crake_, published in 2003)**
 
@@ -249,4 +249,4 @@ _This article was originally published on [How We Get To Next](https://howwegett
 
 ___
 
-#article Sci-fi 
+# article Sci-fi

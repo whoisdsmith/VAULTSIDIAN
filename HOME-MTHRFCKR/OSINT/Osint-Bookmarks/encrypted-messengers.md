@@ -6,9 +6,9 @@
 
 * [Conduit](https://gitlab.com/famedly/conduit)
 * [Matrix Servers](https://joinmatrix.org/servers/)
-* [publiclist.anchel](https://archive.md/4xZE4) 
+* [publiclist.anchel](https://archive.md/4xZE4)
 * [Tatsumoto Ren](https://tatsumoto-ren.github.io/blog/list-of-matrix-servers.html)
-* [Public Servers](https://wiki.asra.gr/en:public_servers) 
+* [Public Servers](https://wiki.asra.gr/en:public_servers)
 * [List of Matrix Servers](https://tatsumoto.neocities.org/blog/list-of-matrix-servers.html)
 
 ***

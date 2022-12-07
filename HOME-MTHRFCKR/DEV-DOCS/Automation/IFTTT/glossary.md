@@ -62,11 +62,11 @@ Triggers and queries contain ingredients – individual pieces of data.
 
 Some example ingredients from the “New tweet by you” trigger from the Twitter service:
 
--   Text – The tweet itself.
--   UserName – User name of tweeter.
--   LinkToTweet – The URL to the tweet itself.
--   CreatedAt – Date and time tweet was created.
--   TweetEmbedCode – The HTML embed code for the Tweet.
+- Text – The tweet itself.
+- UserName – User name of tweeter.
+- LinkToTweet – The URL to the tweet itself.
+- CreatedAt – Date and time tweet was created.
+- TweetEmbedCode – The HTML embed code for the Tweet.
 
 A user will take the individual ingredients provided by a trigger or a query and will use them to fill in an action’s [action fields](https://ifttt.com/docs/glossary#action-field).
 

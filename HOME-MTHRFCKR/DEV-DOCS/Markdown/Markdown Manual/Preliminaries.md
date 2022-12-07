@@ -8,7 +8,7 @@
 
 Any sequence of [characters](https://github.github.com/gfm/#character) is a valid CommonMark document.  
 
-A [character](https://github.github.com/gfm/#character) is a Unicode code point. Although some code points (for example, combining accents) do not correspond to characters in an intuitive sense, all code points count as characters for purposes of this spec. 
+A [character](https://github.github.com/gfm/#character) is a Unicode code point. Although some code points (for example, combining accents) do not correspond to characters in an intuitive sense, all code points count as characters for purposes of this spec.
 
 This spec does not specify an encoding; it thinks of lines as composed of [characters](https://github.github.com/gfm/#character) rather than bytes. A conforming parser may be limited to a certain encoding.  
 
@@ -19,7 +19,7 @@ A [line ending](https://github.github.com/gfm/#line-ending) is a newline (`U+0
 A line containing no characters, or a line containing only spaces (`U+0020`) or tabs (`U+0009`), is called a [blank line](https://github.github.com/gfm/#blank-line).  
 
 The following definitions of character classes will be used in this spec:  
-A [whitespace character](https://github.github.com/gfm/#whitespace-character) is a space (`U+0020`), tab (`U+0009`), newline (`U+000A`), line tabulation (`U+000B`), form feed (`U+000C`), or carriage return (`U+000D`). 
+A [whitespace character](https://github.github.com/gfm/#whitespace-character) is a space (`U+0020`), tab (`U+0009`), newline (`U+000A`), line tabulation (`U+000B`), form feed (`U+000C`), or carriage return (`U+000D`).
 
 [Whitespace](https://github.github.com/gfm/#whitespace) is a sequence of one or more [whitespace characters](https://github.github.com/gfm/#whitespace-character).  
 
@@ -43,7 +43,7 @@ A [punctuation character](https://github.github.com/gfm/#punctuation-character)
 Tabs in lines are not expanded to [spaces](https://github.github.com/gfm/#space). However, in contexts where whitespace helps to define block structure, tabs behave as if they were replaced by spaces with a tab stop of 4 characters.  
 
 Thus, for example, a tab can be used instead of four spaces in an indented code block. (Note, however, that internal tabs are passed through as literal tabs, not expanded to spaces.)  
-<Example :index="$page.frontmatter.start++"/>   
+<Example :index="$page.frontmatter.start++"/>
 
 <Example :index="$page.frontmatter.start++"/>
 

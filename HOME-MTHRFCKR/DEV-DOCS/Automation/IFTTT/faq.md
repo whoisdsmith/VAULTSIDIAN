@@ -72,7 +72,7 @@ You call our [Realtime API](https://ifttt.com/docs/api_reference#realtime-api) w
 
 ### Authentication
 
-###### Q: Do I have to use OAuth2? I have an alternate strategy I’d like to use.
+###### Q: Do I have to use OAuth2? I have an alternate strategy I’d like to use
 
 Currently OAuth2 is the only authentication mechanism we support. In the future we may support other methods, but there are currently no firm plans in place.
 
@@ -143,4 +143,4 @@ Depending on which plan you downgrade to, your services and Applets may become i
 [Please review the comparison chart](https://ifttt.com/plans) to help determine which plan you should subscribe to. Or you may [reach out to speak with us](https://ifttt.com/contact_sales) directly about your needs, your products, where your customers engage, and we’ll help determine the best fit for you.
 
 ---
-#Ifttt 
+# Ifttt

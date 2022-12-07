@@ -3,38 +3,38 @@
 ## Programming Languages
 
 - [JavaScript](https://github.com/sorrycc/awesome-javascript#readme)
-    - [Promises](https://github.com/wbinnssmith/awesome-promises#readme)
-    - [Standard Style](https://github.com/standard/awesome-standard#readme) - Style guide and linter.
-    - [Must Watch Talks](https://github.com/bolshchikov/js-must-watch#readme)
-    - [Tips](https://github.com/loverajoel/jstips#readme)
-    - [Network Layer](https://github.com/Kikobeats/awesome-network-js#readme)
-    - [Micro npm Packages](https://github.com/parro-it/awesome-micro-npm-packages#readme)
-    - [Mad Science npm Packages](https://github.com/feross/awesome-mad-science#readme) - Impossible sounding projects that exist.
-    - [Maintenance Modules](https://github.com/maxogden/maintenance-modules#readme) - For npm packages.
-    - [npm](https://github.com/sindresorhus/awesome-npm#readme) - Package manager.
-    - [AVA](https://github.com/avajs/awesome-ava#readme) - Test runner.
-    - [ESLint](https://github.com/dustinspecker/awesome-eslint#readme) - Linter.
-    - [Functional Programming](https://github.com/stoeffel/awesome-fp-js#readme)
-    - [Observables](https://github.com/sindresorhus/awesome-observables#readme)
-    - [npm scripts](https://github.com/RyanZim/awesome-npm-scripts#readme) - Task runner.
-    - [30 Seconds of Code](https://github.com/30-seconds/30-seconds-of-code#readme) - Code snippets you can understand in 30 seconds.
-    - [Ponyfills](https://github.com/Richienb/awesome-ponyfills#readme) - Like polyfills but without overriding native APIs.
+  - [Promises](https://github.com/wbinnssmith/awesome-promises#readme)
+  - [Standard Style](https://github.com/standard/awesome-standard#readme) - Style guide and linter.
+  - [Must Watch Talks](https://github.com/bolshchikov/js-must-watch#readme)
+  - [Tips](https://github.com/loverajoel/jstips#readme)
+  - [Network Layer](https://github.com/Kikobeats/awesome-network-js#readme)
+  - [Micro npm Packages](https://github.com/parro-it/awesome-micro-npm-packages#readme)
+  - [Mad Science npm Packages](https://github.com/feross/awesome-mad-science#readme) - Impossible sounding projects that exist.
+  - [Maintenance Modules](https://github.com/maxogden/maintenance-modules#readme) - For npm packages.
+  - [npm](https://github.com/sindresorhus/awesome-npm#readme) - Package manager.
+  - [AVA](https://github.com/avajs/awesome-ava#readme) - Test runner.
+  - [ESLint](https://github.com/dustinspecker/awesome-eslint#readme) - Linter.
+  - [Functional Programming](https://github.com/stoeffel/awesome-fp-js#readme)
+  - [Observables](https://github.com/sindresorhus/awesome-observables#readme)
+  - [npm scripts](https://github.com/RyanZim/awesome-npm-scripts#readme) - Task runner.
+  - [30 Seconds of Code](https://github.com/30-seconds/30-seconds-of-code#readme) - Code snippets you can understand in 30 seconds.
+  - [Ponyfills](https://github.com/Richienb/awesome-ponyfills#readme) - Like polyfills but without overriding native APIs.
 - [Swift](https://github.com/matteocrippa/awesome-swift#readme) - Apple's compiled programming language that is secure, modern, programmer-friendly, and fast.
-    - [Education](https://github.com/hsavit1/Awesome-Swift-Education#readme)
-    - [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds#readme)
+  - [Education](https://github.com/hsavit1/Awesome-Swift-Education#readme)
+  - [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds#readme)
 - [Python](https://github.com/vinta/awesome-python#readme) - General-purpose programming language designed for readability.
-    - [Asyncio](https://github.com/timofurrer/awesome-asyncio#readme) - Asynchronous I/O in Python 3.
-    - [Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio#readme) - Scientific research in audio/music.
-    - [CircuitPython](https://github.com/adafruit/awesome-circuitpython#readme) - A version of Python for microcontrollers.
-    - [Data Science](https://github.com/krzjoa/awesome-python-data-science#readme) - Data analysis and machine learning.
-    - [Typing](https://github.com/typeddjango/awesome-python-typing#readme) - Optional static typing for Python.
-    - [MicroPython](https://github.com/mcauser/awesome-micropython#readme) - A lean and efficient implementation of Python 3 for microcontrollers.
+  - [Asyncio](https://github.com/timofurrer/awesome-asyncio#readme) - Asynchronous I/O in Python 3.
+  - [Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio#readme) - Scientific research in audio/music.
+  - [CircuitPython](https://github.com/adafruit/awesome-circuitpython#readme) - A version of Python for microcontrollers.
+  - [Data Science](https://github.com/krzjoa/awesome-python-data-science#readme) - Data analysis and machine learning.
+  - [Typing](https://github.com/typeddjango/awesome-python-typing#readme) - Optional static typing for Python.
+  - [MicroPython](https://github.com/mcauser/awesome-micropython#readme) - A lean and efficient implementation of Python 3 for microcontrollers.
 - [Rust](https://github.com/rust-unofficial/awesome-rust#readme)
 - [Haskell](https://github.com/krispo/awesome-haskell#readme)
 - [PureScript](https://github.com/passy/awesome-purescript#readme)
 - [Go](https://github.com/avelino/awesome-go#readme)
 - [Scala](https://github.com/lauris/awesome-scala#readme)
-    - [Scala Native](https://github.com/tindzk/awesome-scala-native#readme) - Optimizing ahead-of-time compiler for Scala based on LLVM.
+  - [Scala Native](https://github.com/tindzk/awesome-scala-native#readme) - Optimizing ahead-of-time compiler for Scala based on LLVM.
 - [Ruby](https://github.com/markets/awesome-ruby#readme)
 - [Clojure](https://github.com/razum2um/awesome-clojure#readme)
 - [ClojureScript](https://github.com/hantuzun/awesome-clojurescript#readme)
@@ -46,21 +46,21 @@
 - [C](https://github.com/inputsh/awesome-c#readme)
 - [C/C++](https://github.com/fffaraz/awesome-cpp#readme) - General-purpose language with a bias toward system programming and embedded, resource-constrained software.
 - [R](https://github.com/qinwf/awesome-R#readme) - Functional programming language and environment for statistical computing and graphics.
-    - [Learning](https://github.com/iamericfletcher/awesome-r-learning-resources#readme)
+  - [Learning](https://github.com/iamericfletcher/awesome-r-learning-resources#readme)
 - [D](https://github.com/dlang-community/awesome-d#readme)
 - [Common Lisp](https://github.com/CodyReichert/awesome-cl#readme) - Powerful dynamic multiparadigm language that facilitates iterative and interactive development.
-    - [Learning](https://github.com/GustavBertram/awesome-common-lisp-learning#readme)
+  - [Learning](https://github.com/GustavBertram/awesome-common-lisp-learning#readme)
 - [Perl](https://github.com/hachiojipm/awesome-perl#readme)
 - [Groovy](https://github.com/kdabir/awesome-groovy#readme)
 - [Dart](https://github.com/yissachar/awesome-dart#readme)
 - [Java](https://github.com/akullpp/awesome-java#readme) - Popular secure object-oriented language designed for flexibility to "write once, run anywhere".
-    - [RxJava](https://github.com/eleventigers/awesome-rxjava#readme)
+  - [RxJava](https://github.com/eleventigers/awesome-rxjava#readme)
 - [Kotlin](https://github.com/KotlinBy/awesome-kotlin#readme)
 - [OCaml](https://github.com/ocaml-community/awesome-ocaml#readme)
 - [ColdFusion](https://github.com/seancoyne/awesome-coldfusion#readme)
 - [Fortran](https://github.com/rabbiabram/awesome-fortran#readme)
 - [PHP](https://github.com/ziadoz/awesome-php#readme) - Server-side scripting language.
-    - [Composer](https://github.com/jakoch/awesome-composer#readme) - Package manager.
+  - [Composer](https://github.com/jakoch/awesome-composer#readme) - Package manager.
 - [Pascal](https://github.com/Fr0sT-Brutal/awesome-pascal#readme)
 - [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey#readme)
 - [AutoIt](https://github.com/J2TeaM/awesome-AutoIt#readme)

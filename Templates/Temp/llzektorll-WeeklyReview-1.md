@@ -1,9 +1,11 @@
 This template needs DataView plugin
 
 ---
+
 created: ["{{date}} {{time}}"]
 tags: ["#Log/WeeklyLog"]
 ---
+
 ___
 
 ```toc
@@ -14,13 +16,13 @@ ___
 
 ```dataview
 TABLE WITHOUT ID
-	link(file.name) as "Day",
-	Breakfast AS "🍜",
-	Feeling AS "✨",
-	working-on AS "✏️",
-	money-spent AS "💸",
-	Workout AS "💪",
-	Motivation AS "💹"
+ link(file.name) as "Day",
+ Breakfast AS "🍜",
+ Feeling AS "✨",
+ working-on AS "✏️",
+ money-spent AS "💸",
+ Workout AS "💪",
+ Motivation AS "💹"
 WHERE file.folder = this.file.folder AND
  contains(tag, "#Log/dailylog") 
 SORT file.name ASC

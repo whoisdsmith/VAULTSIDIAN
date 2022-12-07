@@ -38,9 +38,9 @@ If you believe you or someone you love may be struggling with addiction, let us 
 
 There are a variety of confidential, free, and no obligation ways to get in contact with us to learn more about treatment.
 
-  * Call us at  or [get a text][7] for information on various treatment options. There, you can talk to one of our admissions advisors where we can answer any questions you might have about treatment or insurance coverage for you or a loved one.
+* Call us at  or [get a text][7] for information on various treatment options. There, you can talk to one of our admissions advisors where we can answer any questions you might have about treatment or insurance coverage for you or a loved one.
 
-  * Fill in our online insurance verification form below to find out if your insurance provider may be able to cover the cost of treatment. Our admissions advisors may contact you thereafter to discuss your options.
+* Fill in our online insurance verification form below to find out if your insurance provider may be able to cover the cost of treatment. Our admissions advisors may contact you thereafter to discuss your options.
 
 Check to see if your insurance is in-network at an American Addiction Centers location
 
@@ -64,7 +64,7 @@ Someone who is dependent on Adderall may have trouble sleeping and concentrating
 
 > The more and longer Adderall is abused, the more pronounced the mood swings may be when it is no longer available in the body. Most of these changes in the brain will likely be repaired over time with sustained abstinence and proper care and support, fortunately.
 
-In some cases, Adderall and other prescription stimulants have been reported to cause psychosis and schizophrenia-like symptoms, such as paranoid delusions, hallucinations, and other behavioral or mood disturbances, according to the journal _[Molecular Psychiatry_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2670101/). Anxiety and panic attacks may also be triggered by long-term use of an amphetamine stimulant or during Adderall withdrawal. The _[U.S. Food and Drug Administration][11]_, or FDA, even prints warnings on Adderall labels about potential negative psychiatric side effects. Symptoms may be heightened in someone with a history of mental illness or an underlying mental health disorder, such as bipolar disorder or schizophrenia.
+In some cases, Adderall and other prescription stimulants have been reported to cause psychosis and schizophrenia-like symptoms, such as paranoid delusions, hallucinations, and other behavioral or mood disturbances, according to the journal _[Molecular Psychiatry_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2670101/). Anxiety and panic attacks may also be triggered by long-term use of an amphetamine stimulant or during Adderall withdrawal. The_[U.S. Food and Drug Administration][11]_, or FDA, even prints warnings on Adderall labels about potential negative psychiatric side effects. Symptoms may be heightened in someone with a history of mental illness or an underlying mental health disorder, such as bipolar disorder or schizophrenia.
 
 ## Physical Side Effects of Adderall
 
@@ -76,31 +76,31 @@ Adderall can cause damage to the heart and cardiovascular system when used for a
 
 Other side effects of abusing Adderall long-term include:
 
-  * Heart disease
+* Heart disease
 
-  * Dizziness
+* Dizziness
 
-  * Abdominal pain
+* Abdominal pain
 
-  * Weight loss
+* Weight loss
 
-  * Insomnia
+* Insomnia
 
-  * Dry mouth
+* Dry mouth
 
-  * Heart palpitations
+* Heart palpitations
 
-  * Headaches
+* Headaches
 
-  * Tremors
+* Tremors
 
-  * Trouble breathing
+* Trouble breathing
 
-  * Constipation
+* Constipation
 
-  * Hyperactivity
+* Hyperactivity
 
-  * Feeling jittery or “on edge”
+* Feeling jittery or “on edge”
 
 > Using Adderall heavily for a long period of time increases all the risk factors and potential long-term side effects, which may get progressively worse.
 
@@ -108,23 +108,23 @@ The heart muscle may be weakened with prolonged stimulant abuse, leading to more
 
 Detox from Adderall is not sufficient treatment, however. It must be followed with a substance abuse treatment program to help prevent relapse and support long-term recovery.
 
----- 
+----
 
 # Article Adderall
 
-[1]:	https://americanaddictioncenters.org/adderall/long-term-effects/esp
-[2]:	https://americanaddictioncenters.org/adderall
-[3]:	https://americanaddictioncenters.org/adhd-and-addiction
-[4]:	https://www.deadiversion.usdoj.gov/nflis/spec_rpt_adhd_2012.pdf
-[5]:	http://www.cdc.gov/nchs/fastats/adhd.htm
-[6]:	https://americanaddictioncenters.org/adderall/adderall-abuse-among-college-students
-[7]:	/not-ready-to-talk
-[8]:	https://americanaddictioncenters.org/stimulant-drugs
-[9]:	https://americanaddictioncenters.org/amphetamine
-[10]:	https://abcnews.go.com/Health/MindMoodNews/adderall-psychosis-suicide-college-students-abuse-study-drug/story?id=12066619&page=2
-[11]:	https://www.accessdata.fda.gov/drugsatfda_docs/label/2007/011522s040lbl.pdf
-[12]:	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3489818/
+[1]: https://americanaddictioncenters.org/adderall/long-term-effects/esp
+[2]: https://americanaddictioncenters.org/adderall
+[3]: https://americanaddictioncenters.org/adhd-and-addiction
+[4]: https://www.deadiversion.usdoj.gov/nflis/spec_rpt_adhd_2012.pdf
+[5]: http://www.cdc.gov/nchs/fastats/adhd.htm
+[6]: https://americanaddictioncenters.org/adderall/adderall-abuse-among-college-students
+[7]: /not-ready-to-talk
+[8]: https://americanaddictioncenters.org/stimulant-drugs
+[9]: https://americanaddictioncenters.org/amphetamine
+[10]: https://abcnews.go.com/Health/MindMoodNews/adderall-psychosis-suicide-college-students-abuse-study-drug/story?id=12066619&page=2
+[11]: https://www.accessdata.fda.gov/drugsatfda_docs/label/2007/011522s040lbl.pdf
+[12]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3489818/
 
-[image-1]:	https://admin.americanaddictioncenters.org/wp-content/uploads/2015/10/adderall-abuse.jpg
-[image-2]:	https://admin.americanaddictioncenters.org/wp-content/uploads/2015/10/adderall-abuse-rates-college.jpg
-[image-3]:	https://admin.americanaddictioncenters.org/wp-content/uploads/2015/10/side-effects-of-adderall-use.jpg
+[image-1]: https://admin.americanaddictioncenters.org/wp-content/uploads/2015/10/adderall-abuse.jpg
+[image-2]: https://admin.americanaddictioncenters.org/wp-content/uploads/2015/10/adderall-abuse-rates-college.jpg
+[image-3]: https://admin.americanaddictioncenters.org/wp-content/uploads/2015/10/side-effects-of-adderall-use.jpg

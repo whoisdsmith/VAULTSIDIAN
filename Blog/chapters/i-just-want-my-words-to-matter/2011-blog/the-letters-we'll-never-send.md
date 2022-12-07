@@ -8,6 +8,6 @@ In 2008 I was diagnosed with ADHD and put on Adderall by 2012 I was on the maxim
 
 I care so deeply about people yet I lack so much in showing it.
 
-Date:	October 31, 2020 at 3:30:51 PM EDT
+Date: October 31, 2020 at 3:30:51 PM EDT
 
 ---

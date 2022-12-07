@@ -1,4 +1,4 @@
-#► Site Hunting Guide
+# ► Site Hunting Guide
 
 * **[Test Sites / Apps](https://rentry.co/4dqmi)** - *Sites / Apps that need to be tested*
 * **[Browse Lists](https://rentry.co/oghty)** - *Lists that need to be gone through*
@@ -6,7 +6,7 @@
 
 ***
 
-##▷ Fun Sites / Tools
+## ▷ Fun Sites / Tools
 
 * /r/InternetIsBeautiful - *Great for tools and fun sites*
 * [View Removed /r/InternetIsBeautiful Posts](https://www.reveddit.com/v/internetisbeautiful/)
@@ -22,22 +22,22 @@
 
 ***
 
-##▷ Piracy
+## ▷ Piracy
 
 * /r/opendirectories - *Great for finding new open directories for movies, books, music ect.*
-* [/r/Piracy Index](https://www.reddit.com/r/Piracy/wiki/index) - *Gets updates frequently so it's worth checking* 
-* [PirateList](https://thepiratelist.com/) - *Huge list of piracy sites, updated periodically* 
-* [TheMegaDrive](https://discord.gg/h2P5zsNMxZ) - *Discord Download Directory* 
+* [/r/Piracy Index](https://www.reddit.com/r/Piracy/wiki/index) - *Gets updates frequently so it's worth checking*
+* [PirateList](https://thepiratelist.com/) - *Huge list of piracy sites, updated periodically*
+* [TheMegaDrive](https://discord.gg/h2P5zsNMxZ) - *Discord Download Directory*
 * [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy) - *Likely lots of stuff we're still missing*
 * [Piratezparty](https://github.com/SpamVerse/Piratezparty) - *Huge site list*
-* [Anime piracy index](https://piracy.moe/) - *Worth checking for new anime sites* 
-* [/u/fullnumberofcharacte](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/g37lwb/megapiracywiki/g1lnle5/) - *A comment that he updates periodically, very useful stuff gets posted by him sometimes so this is worth checking on* 
-* [Piracy Multireddit](https://www.reddit.com/user/nbatman/m/piracy/)- *Might be worth checking every once in awhile* 
+* [Anime piracy index](https://piracy.moe/) - *Worth checking for new anime sites*
+* [/u/fullnumberofcharacte](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/g37lwb/megapiracywiki/g1lnle5/) - *A comment that he updates periodically, very useful stuff gets posted by him sometimes so this is worth checking on*
+* [Piracy Multireddit](https://www.reddit.com/user/nbatman/m/piracy/)- *Might be worth checking every once in awhile*
 * [freesoff](https://freesoff.com/)  - *Lots of course drives get posted here*
 
 ***
 
-##▷ Games
+## ▷ Games
 
 * /r/WebGames - *Good for finding Browser Games*
 * [jayisgames](https://jayisgames.com/) - *Browser Games*

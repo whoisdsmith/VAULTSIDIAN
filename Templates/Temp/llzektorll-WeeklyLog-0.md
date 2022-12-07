@@ -1,8 +1,10 @@
 This template needs Dynamic Table of Contents plugin and Advanced Tables
 ---
+
 created: ["{{date}} {{time}}"]
 tags: ["#Log/WeaklLog"]
 ---
+
 ___
 
 ```toc

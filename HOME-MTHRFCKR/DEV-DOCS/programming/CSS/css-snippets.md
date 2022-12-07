@@ -4,49 +4,49 @@
 
 Small tweaks to add to your `vault/.obsidian/snippets` folder.
 
-  * Collapsing Sidebar
+* Collapsing Sidebar
 
-  * Bullet Point Relationship Lines
+* Bullet Point Relationship Lines
 
-  * Auto-fading UI
+* Auto-fading UI
 
-  * Smaller Scrollbar
+* Smaller Scrollbar
 
-  * Subtler Folding Gutter Arrows
+* Subtler Folding Gutter Arrows
 
-  * Hyphenation and Justification
+* Hyphenation and Justification
 
-  * Enlarge Image on Hover
+* Enlarge Image on Hover
 
-  * Nicer Checkboxes
+* Nicer Checkboxes
 
-  * Stylish Block Quotes
+* Stylish Block Quotes
 
-  * Bigger Link Popup Preview
+* Bigger Link Popup Preview
 
-  * Custom Icons Differing Files and Folders
+* Custom Icons Differing Files and Folders
 
-  * Custom Icons for Specific Folders
+* Custom Icons for Specific Folders
 
-  * Tag Pills
+* Tag Pills
 
-  * Custom Icons for Frontmatter Tags
+* Custom Icons for Frontmatter Tags
 
-  * Outliner For The Outline and File Explorer
+* Outliner For The Outline and File Explorer
 
-  * Better Bullet Points in Edit Mode
+* Better Bullet Points in Edit Mode
 
-  * Image Cards
+* Image Cards
 
-  * Media Grid
+* Media Grid
 
 Not enough? There are many other places related to snippets:
 
-  * [#custom-css at Obsidian Forum](https://forum.obsidian.md/tag/custom-css/l/top)
+* [#custom-css at Obsidian Forum](https://forum.obsidian.md/tag/custom-css/l/top)
 
-  * [CSS snippets in Obsidian Help](https://help.obsidian.md/How+to/Add+custom+styles#Use+Themes+and+or+CSS+snippets)
+* [CSS snippets in Obsidian Help](https://help.obsidian.md/How+to/Add+custom+styles#Use+Themes+and+or+CSS+snippets)
 
-  * [Other GitHub repositories](https://github.com/search?q=obsidian-snippets)
+* [Other GitHub repositories](https://github.com/search?q=obsidian-snippets)
 
 ### [Collapsing Sidebar](/kmaasrud/awesome-obsidian/blob/master/code/css-snippets/collapsing-sidebar.css)
 

@@ -24,15 +24,15 @@ Your product's API consists of various endpoints used to get, write, or send dat
 
 If you're new to IFTTT, we recommend [creating a free account](https://ifttt.com/) to experience a few Applets for yourself. Here are a few simple Applets worth trying to get the hang of it:
 
--   [Get a daily email with the weather report](https://ifttt.com/applets/Zv56ZXwR)
--   [Get a notification when the ISS passes over your house but only if it is clear skies and after dark](https://ifttt.com/applets/VDdNBmiE)
+- [Get a daily email with the weather report](https://ifttt.com/applets/Zv56ZXwR)
+- [Get a notification when the ISS passes over your house but only if it is clear skies and after dark](https://ifttt.com/applets/VDdNBmiE)
 
 ## 1\. Plan your integration
 
 Now that you understand the IFTTT user experience, it's time to apply your product to these basic concepts. Think about how your users commonly experience and interact with your device, app, or service:
 
--   What are the most popular and useful features or functions?
--   Which of these are currently supported by your API?
+- What are the most popular and useful features or functions?
+- Which of these are currently supported by your API?
 
 This is the best place to start when thinking about how your IFTTT integration will work and what triggers, queries, and actions to include. Start with a handful of the most obvious triggers, queries, and actions and expand later.
 
@@ -54,11 +54,11 @@ Building your IFTTT integration will be done in three stages:
 
 You'll first need to add an IFTTT compatibility layer to your API so that the IFTTT Platform can understand your endpoints and translate them into each trigger, query and action that you want to include as part of your service. We recommend two strategies for doing this:
 
--   **Most common:** Deploy a "shim app" that sits between your API and IFTTT. This app will translate resources from your API into responses IFTTT can understand.
+- **Most common:** Deploy a "shim app" that sits between your API and IFTTT. This app will translate resources from your API into responses IFTTT can understand.
 
 ![Architecture diagram](https://web-assets.ifttt.com/packs/media/docs/architecture_diagram-8e8dd23e.png)
 
--   Add IFTTT-specific endpoints directly to your API. These endpoints can source data from your existing API and serve them in responses IFTTT can understand.
+- Add IFTTT-specific endpoints directly to your API. These endpoints can source data from your existing API and serve them in responses IFTTT can understand.
 
 If you don't have an API, our [documentation](https://ifttt.com/docs/api_reference) will guide you through its development with straightforward requirements.
 
@@ -96,12 +96,12 @@ If our team has any feedback or concerns, we'll send you an email and you'll be 
 
 Below are common reasons for services not passing the review on the first try:
 
--   Applet logo is not a white vector image on transparent background.
--   Authentication or endpoint tests are not passing at the time of review.
--   Authentication flow does not mention IFTTT or does not include a consent message.
--   Support email is a personal address.
--   Service copy is incomplete, confusing, contains placeholders, styling, or grammar issues. This covers everything from service name and description to verbiage and helper text on individual triggers, queries, or actions.
--   A query you've built doesn't have a practical application.
+- Applet logo is not a white vector image on transparent background.
+- Authentication or endpoint tests are not passing at the time of review.
+- Authentication flow does not mention IFTTT or does not include a consent message.
+- Support email is a personal address.
+- Service copy is incomplete, confusing, contains placeholders, styling, or grammar issues. This covers everything from service name and description to verbiage and helper text on individual triggers, queries, or actions.
+- A query you've built doesn't have a practical application.
 
 Once your service has been approved, we'll send you an email asking you to fill out the pre-launch marketing form. In this form, we'll ask for the date on which you'd like the service to be published on IFTTT. Before your service is published, we'll do a final review to make sure that the service's endpoint and authentication tests are passing, and that you have at least twelve published Applets ready for users to begin their experience with.
 
@@ -143,10 +143,9 @@ Remember to tag @IFTTT in your posts so we can help spread the word — we've go
 
 Subject: We're on IFTTT :-). When it comes to email marketing your IFTTT integration, we recommend a two-part approach:
 
-1.  At launch time, send a one-off announcement to your user base, highlighting the new functionality and some amazing Applets.
-    
-2.  Include IFTTT in your on-boarding email or email campaign, so that new users can get up to speed on everything your service offers.
-    
+1. At launch time, send a one-off announcement to your user base, highlighting the new functionality and some amazing Applets.
+
+2. Include IFTTT in your on-boarding email or email campaign, so that new users can get up to speed on everything your service offers.
 
 You'll also want to email users when you make improvements to your service, such as adding new triggers and actions or building an exciting Applet with a new partner.
 

@@ -41,12 +41,10 @@ We have few different modes to choose from:
 
 ### Default mode
 
-
 - Origin server send 404 (not found) or 410 (gone) status
 - Or domain name is unresolved / not exists
 
 ### Strict mode
-
 
 - Same as "Default", plus:
 - Origin response is timed out (more than 13 sec)

@@ -1,4 +1,5 @@
 ## Multipurpose OSINT Frameworks
+
 - [GitHub - 0xInfection/TIDoS-Framework: The Offensive Manual Web Application Penetration Testing Framework.](https://github.com/0xInfection/TIDoS-Framework)
 - [GitHub - abhisharma404/vault: swiss army knife for hackers](https://github.com/abhisharma404/vault)
 - [GitHub - darryllane/Bluto: DNS Recon | Brute Forcer | DNS Zone Transfer | DNS Wild Card Checks | DNS Wild Card Brute Forcer | Email Enumeration | Staff Enumeration | Compromised Account Checking](https://github.com/darryllane/Bluto)

@@ -5,19 +5,19 @@
 **DDL**
 
 🔸 [OvaGames](https://ovagames.com/)  
-🔸 [CrackHub](https://scene.crackhub.site/)   
+🔸 [CrackHub](https://scene.crackhub.site/)
 🔸 [GamesDrive](https://gamesdrive.net)  
 🔸 [GOG-Games](https://gog-games.com/)  
 🔸 [MyAbandonware](https://myabandonware.com/)
 
 **DDL + TORRENT**
 
-🔸 [Scooter-Repacks](https://scooter-repacks.site)   
-🔸 [Fitgirl-Repacks](https://fitgirl-repacks.site/)   
-🔸 [Dodi-Repacks](https://dodi-repacks.site/)   
-🔸 [Xatab-Repack](https://xatab-repack.com/)   
-🔸 [Repack Search Engine](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx)   
-🔸 [Online-Fix](https://online-fix.me/)   
+🔸 [Scooter-Repacks](https://scooter-repacks.site)
+🔸 [Fitgirl-Repacks](https://fitgirl-repacks.site/)
+🔸 [Dodi-Repacks](https://dodi-repacks.site/)
+🔸 [Xatab-Repack](https://xatab-repack.com/)
+🔸 [Repack Search Engine](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx)
+🔸 [Online-Fix](https://online-fix.me/)
 🔸 [Chovka-Repack](https://repack.info/search/chovka) ![:magnet:](/static/twemoji/1f9f2.png) only.
 
 **FORUMS**

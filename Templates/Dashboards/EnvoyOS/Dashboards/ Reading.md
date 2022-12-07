@@ -40,7 +40,7 @@ Items that are current in progress of being read and reviewed
 
 ```dataview
 TABLE
-	author AS "Author"
+ author AS "Author"
 from #reading
 where file.name != "📙 New Reading Item"
 and status = "in-progress"

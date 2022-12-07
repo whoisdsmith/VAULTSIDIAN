@@ -4,9 +4,9 @@ You can run any Bash in a Pipedream step within your workflows.
 
 ## [#](https://pipedream.com/docs/#adding-a-bash-code-step) Adding a Bash code step
 
-1.  Click the + icon to add a new step
-2.  Click **Custom Code**
-3.  In the new step, select the `bash` runtime in language dropdown
+1. Click the + icon to add a new step
+2. Click **Custom Code**
+3. In the new step, select the `bash` runtime in language dropdown
 
 ## [#](https://pipedream.com/docs/#logging-and-debugging) Logging and debugging
 
@@ -18,9 +18,9 @@ Your `echo` statements will print their output in the workflow step results:
 
 Bash steps come with many common and useful binaries preinstalled and available in `$PATH` for you to use out of the box. These binaries include but aren't limited to:
 
--   `curl` for making HTTP requests
--   `jq` for manipulating and viewing JSON data
--   `git` for interacting with remote repositories
+- `curl` for making HTTP requests
+- `jq` for manipulating and viewing JSON data
+- `git` for interacting with remote repositories
 
 Unfortunately it is not possible to install packages from a package manager like `apt` or `yum`.
 

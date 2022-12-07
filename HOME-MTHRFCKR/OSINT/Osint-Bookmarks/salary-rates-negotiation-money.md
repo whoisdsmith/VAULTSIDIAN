@@ -41,6 +41,6 @@ Articles:
 
 [https://www.nytimes.com/2018/08/10/smarter-living/how-to-negotiate-salary.html](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.invisionapp.com/inside-design/freelancer-rates/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228833934%26amp;usg%3DAOvVaw2oZHXwrVoCMNOO3M-zKMpm&sa=D&source=docs&ust=1645230229045073&usg=AOvVaw3fphI2Cig502xkUQFPqG2L) ★
 
-[Self-Employed and Taxes, Deductions for Health, Retirement](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.efile.com/self-employed-independent-contractor-income-estimated-taxes/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228834661%26amp;usg%3DAOvVaw3lHM-7qj2eajTlqMG3rumg&sa=D&source=docs&ust=1645230229045185&usg=AOvVaw1gpsPN5mRzTxSpPCn8Wb2-) 
+[Self-Employed and Taxes, Deductions for Health, Retirement](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.efile.com/self-employed-independent-contractor-income-estimated-taxes/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228834661%26amp;usg%3DAOvVaw3lHM-7qj2eajTlqMG3rumg&sa=D&source=docs&ust=1645230229045185&usg=AOvVaw1gpsPN5mRzTxSpPCn8Wb2-)
 
 [Contract Creator — Freelancers Union](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.freelancersunion.org/contract/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228835321%26amp;usg%3DAOvVaw0NmrhzXQmASIh4USwzlczv&sa=D&source=docs&ust=1645230229045297&usg=AOvVaw2SFbdm33LL59khr0yBdVXV) ★

@@ -1,4 +1,5 @@
 # When “if” is not enough: Superpowers for IFTTT
+
 Integromat
 
 [IFTTT](https://ifttt.com) is a wonderful tool and for those who understand how to use it, it quickly becomes an essential helper. The massive number of integrations with services (currently over 300) has turned it into an unique communication middleware for the cloud (also known as “glue” or “duct tape”).
@@ -30,8 +31,8 @@ _Editors note: A lot has happened since I wrote this article! To find out how th
 
 The usage pattern of Apilio is twofold:
 
-  * Setup phase: Use the apilio.io web interface to setup variables and conditional statemenets.
-  * Usage phase: Set variable values and trigger evaluations of the conditional statements via the web API.
+* Setup phase: Use the apilio.io web interface to setup variables and conditional statemenets.
+* Usage phase: Set variable values and trigger evaluations of the conditional statements via the web API.
 
 In the **setup phase** you use the web interface to build and test the conditional statements.
 
@@ -50,7 +51,6 @@ The downside of the flexibiliy: Apilio is not optimized for the non tech-savy us
 
 _Updated January 5th 2018 to reflect the renaming of the “Maker Channel” to “Webhooks Service”._
 
-
 ___
 
-#article 
+# article

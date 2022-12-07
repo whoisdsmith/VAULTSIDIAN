@@ -8,22 +8,22 @@ If you're developing Pipedream components, you may find the [`@pipedream/platfor
 
 If you're new to HTTP, see our [glossary of HTTP terms (opens new window)](https://requestbin.com/blog/working-with-webhooks/#webhooks-glossary-common-terms) for a helpful introduction.
 
--   [Basic axios usage notes](https://pipedream.com/docs/#basic-axios-usage-notes)
--   [Send a GET request to fetch data](https://pipedream.com/docs/#send-a-get-request-to-fetch-data)
--   [Send a POST request to submit data](https://pipedream.com/docs/#send-a-post-request-to-submit-data)
--   [Pass query string parameters to a GET request](https://pipedream.com/docs/#pass-query-string-parameters-to-a-get-request)
--   [Send a request with HTTP headers](https://pipedream.com/docs/#send-a-request-with-http-headers)
--   [Send a request with a secret or API key](https://pipedream.com/docs/#send-a-request-with-a-secret-or-api-key)
--   [Send multiple HTTP requests in sequence](https://pipedream.com/docs/#send-multiple-http-requests-in-sequence)
--   [Send multiple HTTP requests in parallel](https://pipedream.com/docs/#send-multiple-http-requests-in-parallel)
--   [Send a multipart/form-data request](https://pipedream.com/docs/#send-a-multipart-form-data-request)
--   [Download a file to the /tmp directory](https://pipedream.com/docs/#download-a-file-to-the-tmp-directory)
--   [Upload a file from the /tmp directory](https://pipedream.com/docs/#upload-a-file-from-the-tmp-directory)
--   [Use an HTTP proxy to proxy requests through another host](https://pipedream.com/docs/#use-an-http-proxy-to-proxy-requests-through-another-host)
--   [IP addresses for HTTP requests made from Pipedream workflows](https://pipedream.com/docs/#ip-addresses-for-http-requests-made-from-pipedream-workflows)
--   [Stream a downloaded file directly to another URL](https://pipedream.com/docs/#stream-a-downloaded-file-directly-to-another-url)
--   [Catch and process HTTP errors](https://pipedream.com/docs/#catch-and-process-http-errors)
--   [Paginating API requests](https://pipedream.com/docs/#paginating-api-requests)
+- [Basic axios usage notes](https://pipedream.com/docs/#basic-axios-usage-notes)
+- [Send a GET request to fetch data](https://pipedream.com/docs/#send-a-get-request-to-fetch-data)
+- [Send a POST request to submit data](https://pipedream.com/docs/#send-a-post-request-to-submit-data)
+- [Pass query string parameters to a GET request](https://pipedream.com/docs/#pass-query-string-parameters-to-a-get-request)
+- [Send a request with HTTP headers](https://pipedream.com/docs/#send-a-request-with-http-headers)
+- [Send a request with a secret or API key](https://pipedream.com/docs/#send-a-request-with-a-secret-or-api-key)
+- [Send multiple HTTP requests in sequence](https://pipedream.com/docs/#send-multiple-http-requests-in-sequence)
+- [Send multiple HTTP requests in parallel](https://pipedream.com/docs/#send-multiple-http-requests-in-parallel)
+- [Send a multipart/form-data request](https://pipedream.com/docs/#send-a-multipart-form-data-request)
+- [Download a file to the /tmp directory](https://pipedream.com/docs/#download-a-file-to-the-tmp-directory)
+- [Upload a file from the /tmp directory](https://pipedream.com/docs/#upload-a-file-from-the-tmp-directory)
+- [Use an HTTP proxy to proxy requests through another host](https://pipedream.com/docs/#use-an-http-proxy-to-proxy-requests-through-another-host)
+- [IP addresses for HTTP requests made from Pipedream workflows](https://pipedream.com/docs/#ip-addresses-for-http-requests-made-from-pipedream-workflows)
+- [Stream a downloaded file directly to another URL](https://pipedream.com/docs/#stream-a-downloaded-file-directly-to-another-url)
+- [Catch and process HTTP errors](https://pipedream.com/docs/#catch-and-process-http-errors)
+- [Paginating API requests](https://pipedream.com/docs/#paginating-api-requests)
 
 ## [#](https://pipedream.com/docs/#basic-axios-usage-notes) Basic `axios` usage notes
 
@@ -92,9 +92,9 @@ When you want to stop future requests when _one_ of the requests fails, you can 
 The Mozilla docs expand on the difference between these methods, and when you may want to use one or the other:
 
 > The `Promise.allSettled()` method returns a promise that resolves after all of the given promises have either fulfilled or rejected, with an array of objects that each describes the outcome of each promise.
-> 
+>
 > It is typically used when you have multiple asynchronous tasks that are not dependent on one another to complete successfully, or you'd always like to know the result of each promise.
-> 
+>
 > In comparison, the Promise returned by `Promise.all()` may be more appropriate if the tasks are dependent on each other / if you'd like to immediately reject upon any of them rejecting.
 
 ## [#](https://pipedream.com/docs/#send-a-multipart-form-data-request) Send a `multipart/form-data` request
@@ -129,8 +129,8 @@ By default, HTTP requests made from Pipedream can come from a range of IP addres
 
 By default, [HTTP requests made from Pipedream can come from a large range of IP addresses](https://pipedream.com/docs/workflows/networking/). **If you need to restrict the IP addresses HTTP requests come from, you have two options**:
 
--   [Use an HTTP proxy to proxy requests](https://pipedream.com/docs/#use-an-http-proxy-to-proxy-requests-through-another-host)
--   If you don't need to access the HTTP response data, you can [use `$send.http()`](https://pipedream.com/docs/destinations/http/) to send requests from a [limited set of IP addresses](https://pipedream.com/docs/destinations/http/#ip-addresses-for-pipedream-http-requests).
+- [Use an HTTP proxy to proxy requests](https://pipedream.com/docs/#use-an-http-proxy-to-proxy-requests-through-another-host)
+- If you don't need to access the HTTP response data, you can [use `$send.http()`](https://pipedream.com/docs/destinations/http/) to send requests from a [limited set of IP addresses](https://pipedream.com/docs/destinations/http/#ip-addresses-for-pipedream-http-requests).
 
 ## [#](https://pipedream.com/docs/#stream-a-downloaded-file-directly-to-another-url) Stream a downloaded file directly to another URL
 

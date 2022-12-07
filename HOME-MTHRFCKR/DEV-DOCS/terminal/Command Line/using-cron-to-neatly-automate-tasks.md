@@ -40,7 +40,7 @@ Combing the asterisks above, they’ll create a `cron` expression. In such an ex
 
 The cron scheduling expression in the example above would simply execute the given command at every available minute. The asterisks can be replaced by numbers, ranges and intervals. All representing certain conditions. But it is worth mentioning that whatever you may configure here will not be executed if the computer is in standby, offline any other “unavailable state”.
 
-**Always / Any Value (**`***)**   `Every available value for the given slot will be executed. Thus having an asterisk in set for minutes, will lead to execution every minute.
+**Always / Any Value (**`***)**`Every available value for the given slot will be executed. Thus having an asterisk in set for minutes, will lead to execution every minute.
 
 **Number (** `**0**` **to** `**x**`**)**  
 A number sets the execution to a fixed single time. The maximum number is dependent on the slot used. Minutes range from `0` to `59`, while Hours only range from `0` to `23`.  

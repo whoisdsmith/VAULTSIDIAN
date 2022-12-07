@@ -1,4 +1,4 @@
-## ► History 
+## ► History
 
 * [History Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_history_sites)
 * [Historic Films](https://www.historicfilms.com/) or [National Film Preservation Foundation](https://www.filmpreservation.org/) - Historic Footage / Films
@@ -15,9 +15,9 @@
 * [CARI](https://cari.institute/) - Design Aesthetics History
 * [Pol Art Folder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_pol_art_folder) - Historic European Art & Paintings
 * [BetaWiki](https://betawiki.net/wiki/Main_Page) - Operating System / Software History / [Discord](https://discord.gg/XPz5Zm42tR)
-* [Old Computer Museum](http://oldcomputers.net/) - Computer History / Info 
+* [Old Computer Museum](http://oldcomputers.net/) - Computer History / Info
 * [The HP 9845 Project](https://www.hp9845.net/) - HP 9845 Computer History
-* [House creep](https://www.housecreep.com/) - Homes With A Curious or Criminal History 
+* [House creep](https://www.housecreep.com/) - Homes With A Curious or Criminal History
 * [World Weather Online](https://www.worldweatheronline.com/) - Historical Weather Reports
 
 ***

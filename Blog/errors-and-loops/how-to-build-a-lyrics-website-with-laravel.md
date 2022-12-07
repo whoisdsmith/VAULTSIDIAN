@@ -1152,14 +1152,14 @@ If you have any questions on the topic or if we’ve missed anything, let us kno
 
 ----
 
-[1]:	http://algolia.com
-[2]:	https://github.com/lavary/lyrics-crud
-[3]:	https://www.sitepoint.com/quick-tip-get-homestead-vagrant-vm-running/
-[4]:	https://www.sitepoint.com/re-introducing-vagrant-right-way-start-php/
-[5]:	http://bit.ly/phpenv-sp
+[1]: http://algolia.com
+[2]: https://github.com/lavary/lyrics-crud
+[3]: https://www.sitepoint.com/quick-tip-get-homestead-vagrant-vm-running/
+[4]: https://www.sitepoint.com/re-introducing-vagrant-right-way-start-php/
+[5]: http://bit.ly/phpenv-sp
 
-[image-1]:	https://uploads.sitepoint.com/wp-content/uploads/2015/05/1431991319300_Information_Search.jpg
-[image-2]:	https://uploads.sitepoint.com/wp-content/uploads/2017/07/1499265533lyrics_search_interface-1024x458.png
-[image-3]:	https://uploads.sitepoint.com/wp-content/uploads/2017/07/1499265535lyrics_details_page-1024x510.png
+[image-1]: https://uploads.sitepoint.com/wp-content/uploads/2015/05/1431991319300_Information_Search.jpg
+[image-2]: https://uploads.sitepoint.com/wp-content/uploads/2017/07/1499265533lyrics_search_interface-1024x458.png
+[image-3]: https://uploads.sitepoint.com/wp-content/uploads/2017/07/1499265535lyrics_details_page-1024x510.png
 
-#article #website
+# article #website

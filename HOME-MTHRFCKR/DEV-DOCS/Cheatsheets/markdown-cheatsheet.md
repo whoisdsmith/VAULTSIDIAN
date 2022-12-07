@@ -1,6 +1,7 @@
 # Markdown Cheatsheet
 
 > ## Excerpt
+
 > The one-page guide to Markdown: usage, examples, links, snippets, and more.
 
 ---

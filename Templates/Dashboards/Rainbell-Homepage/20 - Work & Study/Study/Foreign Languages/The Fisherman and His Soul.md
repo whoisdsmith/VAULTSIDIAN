@@ -1,10 +1,11 @@
 # The Fisherman and His Soul
 
 ---
+
 author: Oscar Wilde
 name: The fisherman and his soul
 date: 2022-02-23
-link: https://www.wilde-online.info/the-fisherman-and-his-soul.html
+link: <https://www.wilde-online.info/the-fisherman-and-his-soul.html>
 description: Soul and love.
 tags: study/english project/finished
 ---

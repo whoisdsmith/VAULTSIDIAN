@@ -8,7 +8,7 @@ If you aren’t familiar with Jekyll yet, you should know that it is a static si
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cXBEfpn0qrg?rel=0&amp;controls=0&amp;showinfo=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-### Steps to create your blog using devlopr-jekyll and Host using Github Pages :
+### Steps to create your blog using devlopr-jekyll and Host using Github Pages
 
 > **Step 1.** Fork the repo - [click here](https://github.com/sujaykundu777/devlopr-jekyll/fork)
 
@@ -29,17 +29,17 @@ If you aren’t familiar with Jekyll yet, you should know that it is a static si
 ![Devlopr Jekyll Repo](https://d33wubrfki0l68.cloudfront.net/3f85cc1d6f28574da7a2770104dc8325aa30c3f3/65ee1/assets/img/posts/fork33.png)
 
 ```
- $ git clone https://github.com/yourusername/yourusername.github.io
- $ cd yourusername.github.io
- $ code .
+ git clone https://github.com/yourusername/yourusername.github.io
+ cd yourusername.github.io
+ code .
 ```
 
 > **Step 4.** Open the files using VSCode and edit \_config.yml and edit with your details:
 
--   \_config.yml file - replace with your own details
--   \_posts - Add your blog posts here
--   \_includes - You can replace the contents of the files with your data. (contains widgets)
--   \_assets/img - Add all your images here
+- \_config.yml file - replace with your own details
+- \_posts - Add your blog posts here
+- \_includes - You can replace the contents of the files with your data. (contains widgets)
+- \_assets/img - Add all your images here
 
 ![Devlopr Jekyll Repo](https://d33wubrfki0l68.cloudfront.net/ec506c3b10dac7dd64759dc78eeb9f2c6aa67810/7e73b/assets/img/posts/fork34.png)
 
@@ -47,9 +47,9 @@ If you aren’t familiar with Jekyll yet, you should know that it is a static si
 
 ### Set up local development environment
 
-1.  [Git](https://git-scm.com/)
-2.  [Ruby](https://www.ruby-lang.org/) and [Bundler](https://bundler.io/)
-3.  [VSCode](https://code.visualstudio.com/download)
+1. [Git](https://git-scm.com/)
+2. [Ruby](https://www.ruby-lang.org/) and [Bundler](https://bundler.io/)
+3. [VSCode](https://code.visualstudio.com/download)
 
 We need ruby and bundler to build our site locally. After installation check if its working:
 
@@ -71,8 +71,8 @@ Bundler version 2.2.29
 Add jekyll :
 
 ```
-$ bundle update
-$ bundle add jekyll
+bundle update
+bundle add jekyll
 ```
 
 This command will add the Jekyll gem to our Gemfile and install it to the ./vendor/bundle/ folder.
@@ -87,14 +87,14 @@ jekyll 4.2.0
 > **Step 6.** Install the gem dependencies by running the following command
 
 ```
-$ bundle update
-$ bundle install
+bundle update
+bundle install
 ```
 
 > **Step 7.** Serve the site locally by running the following command below:
 
 ```
-$ bundle exec jekyll serve --watch
+bundle exec jekyll serve --watch
 ```
 
 or you can also serve using :
@@ -107,7 +107,7 @@ Visit [http://localhost:4000](http://localhost:4000/) for development server
 
 Start populating your blog by adding your .md files in \_posts. devlopr-jekyll already has a few examples.
 
-#### YAML Post Example:
+#### YAML Post Example
 
 ```
 ---
@@ -125,7 +125,7 @@ Hi ! This is sample post.
 
 ```
 
-#### YAML Page Example:
+#### YAML Page Example
 
 ```
 ---
@@ -148,9 +148,9 @@ Once happy with your blog changes. Push your changes to master branch.
 > **Step 8.** Push Your Local Changes
 
 ```
- $ git add .
- $ git commit -m "my new blog using devlopr-jekyll"
- $ git push origin master
+ git add .
+ git commit -m "my new blog using devlopr-jekyll"
+ git push origin master
 ```
 
 Visit your Github Repo settings ! Enable master branch as Github Pages Branch :

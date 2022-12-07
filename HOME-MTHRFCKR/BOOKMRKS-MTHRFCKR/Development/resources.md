@@ -154,8 +154,6 @@
 
 - [Free Logo Design | Template Downloads | Business & Startups](https://www.logotaco.com/)
 
-
-
 ## Dev Resources
 
 - [Polywork | The Collaboration Network](https://www.polywork.com/)
@@ -192,8 +190,6 @@
 
 - [DevAssets - Curated List of Resources for Developers](https://xsgames.co/devassets/?ref=producthunt)
 
-
-
 ## Dev Tools
 
 - [Convert Date Time Format in Bulk](https://online-free-tools.com/en/convert_date_time_change_format)
@@ -217,8 +213,6 @@
 - [Download best tools and components for programming in one click - DownloadDevTools](https://downloaddevtools.com/en)
 
 - [The best developer tools - Console](https://console.dev/tools?ref=producthunt)
-
-
 
 ## Dev Web
 
@@ -251,8 +245,6 @@
 - [Meta Tag Generator | HTML code optimal for social media, SEO, mobile](https://lewdev.github.io/apps/meta-tag-gen/)
 
 - [what devs need - Curated Developer Tools](https://whatdevsneed.com/)
-
-
 
 ## How-To's and Continious Learning
 
@@ -384,15 +376,9 @@
 
 - [Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell](https://www.bigocheatsheet.com/)
 
-
-
 ### Git
 
 - [Git - Downloading Package](https://git-scm.com/download/mac)
-
-
-
-
 
 ### WP Resources
 

@@ -10,11 +10,11 @@ Today, I am going to show you how to download your Facebook message data and how
 
 ## Download your Facebook Data
 
--   Open your Facebook and go into **Settings & Privacy** > **Settings**
--   Go to **Your Facebook Information** > **Download Your Information**
--   Select the data range “**All of my data**”, format “**JSON**” and Media Quality “**High**” _(Feel free to change the media quality as high media quality will consume more storage)_
--   Select **Messages** only _(At this case, I am only interested at my message data, you may try on other data as well)_
--   Click on **Create File**
+- Open your Facebook and go into **Settings & Privacy** > **Settings**
+- Go to **Your Facebook Information** > **Download Your Information**
+- Select the data range “**All of my data**”, format “**JSON**” and Media Quality “**High**” _(Feel free to change the media quality as high media quality will consume more storage)_
+- Select **Messages** only _(At this case, I am only interested at my message data, you may try on other data as well)_
+- Click on **Create File**
 
 Facebook will create a zip file on their server and notify you when the file is ready to download. It took me around one day to get the zip file.
 
@@ -58,16 +58,16 @@ This is the sample output file you will get with the Python Script above. Now yo
 
 My Facebook Messenger Activity Trend
 
--   Separation of Messenger from Facebook App does increased my usage on Facebook Messenger. At first, I really hate it because it forced me to use 2 different apps. But I found out that it actually reduced my distraction by Facebook and enable me to focus on messaging (No more non-stop scrolling on Facebook while messaging!).
--   I was hooked to SnapChat for a certain period because of its fancy face filter and the 24 hours stories feature. The drop of usage is started by SnapChat but it wasn’t the main reason of the continuous dropping because Instagram also introduce Stories feature!
--   When Instagram started to introduce DM (Direct Message) feature, it didn’t manage to hook me because it didn’t have the feature I am looking for such as call, special interactions (sticker, gifs, etc) at that time. When Instagram also released Stories feature, it immediately hooked me into the platform because I already have a lot of friends using Instagram (I believed this is also one of the major reason Instagram can win over SnapChat, Instagram already has huge user base compared to SnapChat).
--   After 2017, my was diversified into more apps such as WeChat, WhatsApp and Telegram. This caused continuous dropping on usage since 2017.
+- Separation of Messenger from Facebook App does increased my usage on Facebook Messenger. At first, I really hate it because it forced me to use 2 different apps. But I found out that it actually reduced my distraction by Facebook and enable me to focus on messaging (No more non-stop scrolling on Facebook while messaging!).
+- I was hooked to SnapChat for a certain period because of its fancy face filter and the 24 hours stories feature. The drop of usage is started by SnapChat but it wasn’t the main reason of the continuous dropping because Instagram also introduce Stories feature!
+- When Instagram started to introduce DM (Direct Message) feature, it didn’t manage to hook me because it didn’t have the feature I am looking for such as call, special interactions (sticker, gifs, etc) at that time. When Instagram also released Stories feature, it immediately hooked me into the platform because I already have a lot of friends using Instagram (I believed this is also one of the major reason Instagram can win over SnapChat, Instagram already has huge user base compared to SnapChat).
+- After 2017, my was diversified into more apps such as WeChat, WhatsApp and Telegram. This caused continuous dropping on usage since 2017.
 
 Other than this analysis, we also can work on some analysis like
 
--   Usage on weekday vs weekend
--   Usage on day vs night
--   What is the phrase/word you use the most frequent?
+- Usage on weekday vs weekend
+- Usage on day vs night
+- What is the phrase/word you use the most frequent?
 
 Now you have learnt how to **download your Facebook message data** and analyse it. I hope this article is useful to you. Do drop me a comment if I made any mistakes or typos.
 

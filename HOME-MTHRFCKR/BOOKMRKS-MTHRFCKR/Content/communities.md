@@ -80,11 +80,7 @@
 
 - [yoshuawuyts/vmd: preview markdown files](https://github.com/yoshuawuyts/vmd)
 
-
-
 [Discord](../../DEV-DOCS/discord.md)
-
-
 
 ## Telegram
 
@@ -111,8 +107,6 @@
 - [Transloader](https://t.me/transload)
 
 - [VK Files Bot](https://t.me/VKFiles_Bot)
-
-
 
 ## Twitter
 

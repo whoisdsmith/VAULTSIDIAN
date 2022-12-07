@@ -6,9 +6,7 @@
 
 A [code fence](https://github.github.com/gfm/#code-fence) is a sequence of at least three consecutive backtick characters (`` ` ``) or tildes (`~`). (Tildes and backticks cannot be mixed.) A [fenced code block](https://github.github.com/gfm/#fenced-code-block) begins with a code fence, indented no more than three spaces.  
 
-The line with the opening code fence may optionally contain some text following the code fence; this is trimmed of leading and trailing whitespace and called the [info string](https://github.github.com/gfm/#info-string). The [info string](https://github.github.com/gfm/#info-string) may not contain any backtick characters. (The reason for this restriction is that otherwise some inline code would be incorrectly interpreted as the beginning of a fenced code block.) 
-
- 
+The line with the opening code fence may optionally contain some text following the code fence; this is trimmed of leading and trailing whitespace and called the [info string](https://github.github.com/gfm/#info-string). The [info string](https://github.github.com/gfm/#info-string) may not contain any backtick characters. (The reason for this restriction is that otherwise some inline code would be incorrectly interpreted as the beginning of a fenced code block.)
 
 The content of the code block consists of all subsequent lines, until a closing [code fence](https://github.github.com/gfm/#code-fence) of the same type as the code block began with (backticks or tildes), and with at least as many backticks or tildes as the opening code fence. If the leading code fence is indented N spaces, then up to N spaces of indentation are removed from each line of the content (if present). (If a content line is not indented, it is preserved unchanged. If it is indented less than N spaces, all of the indentation is removed.)  
 
@@ -90,7 +88,7 @@ Although this spec doesn't mandate any particular treatment of the info string, 
 [Info strings](https://github.github.com/gfm/#info-string) for backtick code blocks cannot contain backticks:  
 <Example :index="$page.frontmatter.start++"/>
 
-[Info strings](https://github.github.com/gfm/#info-string) for tilde code blocks can contain backticks and tildes:     
+[Info strings](https://github.github.com/gfm/#info-string) for tilde code blocks can contain backticks and tildes:
 
 <Example :index="$page.frontmatter.start++"/>
 

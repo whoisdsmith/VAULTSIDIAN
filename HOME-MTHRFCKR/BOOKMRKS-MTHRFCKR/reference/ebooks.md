@@ -2,7 +2,7 @@
 
 - [Electronic library. Download books free. Finding books](https://b-ok.xyz/)
 
-- [Ebooks, Graphic Novels and Premiums](https://mega.nz/folder/Z1dD2YSA#XRUa1Sj9mXJHU4rh1seykg) #MEGA 
+- [Ebooks, Graphic Novels and Premiums](https://mega.nz/folder/Z1dD2YSA#XRUa1Sj9mXJHU4rh1seykg) #MEGA
 
 - [Large Book Collection](https://uloz.to/folder/8fpAg2rwEcYh/name/Large-Book-Collection)
 

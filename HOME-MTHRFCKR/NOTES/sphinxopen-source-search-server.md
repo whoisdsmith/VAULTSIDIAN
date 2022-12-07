@@ -1,99 +1,99 @@
--   [Sphinx 3](http://sphinxsearch.com/docs/sphinx3.html#sphinx-3)
-    -   [Features overview](http://sphinxsearch.com/docs/sphinx3.html#features-overview)
-    -   [Features cheat sheet](http://sphinxsearch.com/docs/sphinx3.html#features-cheat-sheet)
-    -   [Getting started](http://sphinxsearch.com/docs/sphinx3.html#getting-started)
-        -   [Getting started on Linux (and MacOS)](http://sphinxsearch.com/docs/sphinx3.html#getting-started-on-linux-and-macos)
-        -   [Getting started on Windows](http://sphinxsearch.com/docs/sphinx3.html#getting-started-on-windows)
-        -   [Running queries via MySQL shell](http://sphinxsearch.com/docs/sphinx3.html#running-queries-via-mysql-shell)
-        -   [Writing your first config](http://sphinxsearch.com/docs/sphinx3.html#writing-your-first-config)
-        -   [Running queries from PHP, Python, etc](http://sphinxsearch.com/docs/sphinx3.html#running-queries-from-php-python-etc)
-        -   [Running queries via HTTP](http://sphinxsearch.com/docs/sphinx3.html#running-queries-via-http)
-        -   [Installing `indexer` SQL drivers on Linux](http://sphinxsearch.com/docs/sphinx3.html#installing-indexer-sql-drivers-on-linux)
-    -   [Main concepts](http://sphinxsearch.com/docs/sphinx3.html#main-concepts)
-        -   [Indexes](http://sphinxsearch.com/docs/sphinx3.html#indexes)
-        -   [Documents](http://sphinxsearch.com/docs/sphinx3.html#documents)
-        -   [Fields](http://sphinxsearch.com/docs/sphinx3.html#fields)
-        -   [Attributes](http://sphinxsearch.com/docs/sphinx3.html#attributes)
-    -   [Using DocStore](http://sphinxsearch.com/docs/sphinx3.html#using-docstore)
-    -   [Using attribute indexes](http://sphinxsearch.com/docs/sphinx3.html#using-attribute-indexes)
-        -   [Query optimizer, and index hints](http://sphinxsearch.com/docs/sphinx3.html#query-optimizer-and-index-hints)
-    -   [Using k-batches](http://sphinxsearch.com/docs/sphinx3.html#using-k-batches)
-    -   [Doing bulk data loads](http://sphinxsearch.com/docs/sphinx3.html#doing-bulk-data-loads)
-    -   [Using JSON](http://sphinxsearch.com/docs/sphinx3.html#using-json)
-        -   [JSON comparison quirks](http://sphinxsearch.com/docs/sphinx3.html#json-comparison-quirks)
-    -   [Using array attributes](http://sphinxsearch.com/docs/sphinx3.html#using-array-attributes)
-    -   [Using wordforms](http://sphinxsearch.com/docs/sphinx3.html#using-wordforms)
-    -   [Using UDFs](http://sphinxsearch.com/docs/sphinx3.html#using-udfs)
-        -   [UDFs overview](http://sphinxsearch.com/docs/sphinx3.html#udfs-overview)
-        -   [UDF programming introduction](http://sphinxsearch.com/docs/sphinx3.html#udf-programming-introduction)
-        -   [UDF argument and return types](http://sphinxsearch.com/docs/sphinx3.html#udf-argument-and-return-types)
-        -   [UDF call batching](http://sphinxsearch.com/docs/sphinx3.html#udf-call-batching)
-        -   [Using `FACTORS()` in UDFs](http://sphinxsearch.com/docs/sphinx3.html#using-factors-in-udfs)
-        -   [UDF calls sequences](http://sphinxsearch.com/docs/sphinx3.html#udf-calls-sequences)
-    -   [Indexing: CSV and TSV files](http://sphinxsearch.com/docs/sphinx3.html#indexing-csv-and-tsv-files)
-    -   [Indexing: special chars, blended tokens, and mixed codes](http://sphinxsearch.com/docs/sphinx3.html#indexing-special-chars-blended-tokens-and-mixed-codes)
-        -   [Blended tokens (with special characters)](http://sphinxsearch.com/docs/sphinx3.html#blended-tokens-with-special-characters)
-        -   [Mixed codes (with letters and digits)](http://sphinxsearch.com/docs/sphinx3.html#mixed-codes-with-letters-and-digits)
-        -   [Blending modes](http://sphinxsearch.com/docs/sphinx3.html#blending-modes)
-        -   [Searching vs blended tokens and mixed codes](http://sphinxsearch.com/docs/sphinx3.html#searching-vs-blended-tokens-and-mixed-codes)
-    -   [Searching: query syntax](http://sphinxsearch.com/docs/sphinx3.html#searching-query-syntax)
-        -   [Operators](http://sphinxsearch.com/docs/sphinx3.html#operators)
-        -   [Modifiers](http://sphinxsearch.com/docs/sphinx3.html#modifiers)
-        -   [Cheat sheet](http://sphinxsearch.com/docs/sphinx3.html#cheat-sheet)
-        -   [Keyword modifiers](http://sphinxsearch.com/docs/sphinx3.html#keyword-modifiers)
-        -   [Boolean operators (brackets, AND, OR, NOT)](http://sphinxsearch.com/docs/sphinx3.html#boolean-operators-brackets-and-or-not)
-        -   [Phrase operator](http://sphinxsearch.com/docs/sphinx3.html#phrase-operator)
-        -   [MAYBE operator](http://sphinxsearch.com/docs/sphinx3.html#maybe-operator)
-        -   [Term-OR operator](http://sphinxsearch.com/docs/sphinx3.html#term-or-operator)
-        -   [Field and position limit operator](http://sphinxsearch.com/docs/sphinx3.html#field-and-position-limit-operator)
-        -   [Proximity and NEAR operators](http://sphinxsearch.com/docs/sphinx3.html#proximity-and-near-operators)
-        -   [Quorum operator](http://sphinxsearch.com/docs/sphinx3.html#quorum-operator)
-        -   [Strict order operator (BEFORE)](http://sphinxsearch.com/docs/sphinx3.html#strict-order-operator-before)
-        -   [SENTENCE and PARAGRAPH operators](http://sphinxsearch.com/docs/sphinx3.html#sentence-and-paragraph-operators)
-        -   [ZONE and ZONESPAN operators](http://sphinxsearch.com/docs/sphinx3.html#zone-and-zonespan-operators)
-    -   [Searching: geosearches](http://sphinxsearch.com/docs/sphinx3.html#searching-geosearches)
-    -   [Searching: vector searches](http://sphinxsearch.com/docs/sphinx3.html#searching-vector-searches)
-    -   [Ranking: factors](http://sphinxsearch.com/docs/sphinx3.html#ranking-factors)
-        -   [Factor aggregation functions](http://sphinxsearch.com/docs/sphinx3.html#factor-aggregation-functions)
-        -   [Keyword flags](http://sphinxsearch.com/docs/sphinx3.html#keyword-flags)
-        -   [Query-level ranking factors](http://sphinxsearch.com/docs/sphinx3.html#query-level-ranking-factors)
-        -   [Document-level ranking factors](http://sphinxsearch.com/docs/sphinx3.html#document-level-ranking-factors)
-        -   [Field-level ranking factors](http://sphinxsearch.com/docs/sphinx3.html#field-level-ranking-factors)
-    -   [Ranking: builtin ranker formulas](http://sphinxsearch.com/docs/sphinx3.html#ranking-builtin-ranker-formulas)
-    -   [Ranking: IDF magics](http://sphinxsearch.com/docs/sphinx3.html#ranking-idf-magics)
-        -   [How Sphinx computes IDF](http://sphinxsearch.com/docs/sphinx3.html#how-sphinx-computes-idf)
-    -   [Ranking: picking fields with `rank_fields`](http://sphinxsearch.com/docs/sphinx3.html#ranking-picking-fields-with-rank_fields)
-    -   [Operations: “siege mode”, temporary global query limits](http://sphinxsearch.com/docs/sphinx3.html#siege-mode)
-    -   [SphinxQL reference](http://sphinxsearch.com/docs/sphinx3.html#sphinxql-reference)
-        -   [BULK UPDATE syntax](http://sphinxsearch.com/docs/sphinx3.html#bulk-update-syntax)
-        -   [KILL syntax](http://sphinxsearch.com/docs/sphinx3.html#kill-syntax)
-        -   [SELECT syntax](http://sphinxsearch.com/docs/sphinx3.html#select-syntax)
-        -   [SHOW INDEX AGENT STATUS syntax](http://sphinxsearch.com/docs/sphinx3.html#show-index-agent-status-syntax)
-        -   [SHOW VARIABLES syntax](http://sphinxsearch.com/docs/sphinx3.html#show-variables-syntax)
-    -   [Functions reference](http://sphinxsearch.com/docs/sphinx3.html#functions-reference)
-        -   [`DOT()` function](http://sphinxsearch.com/docs/sphinx3.html#dot-function)
-        -   [`FVEC()` function](http://sphinxsearch.com/docs/sphinx3.html#fvec-function)
-        -   [`PP()` function](http://sphinxsearch.com/docs/sphinx3.html#pp-function)
-        -   [Slice functions](http://sphinxsearch.com/docs/sphinx3.html#slice-functions)
-        -   [`STRPOS()` function](http://sphinxsearch.com/docs/sphinx3.html#strpos-function)
-    -   [Server variables reference](http://sphinxsearch.com/docs/sphinx3.html#server-variables-reference)
-        -   [`attrindex_thresh` variable](http://sphinxsearch.com/docs/sphinx3.html#attrindex_thresh-variable)
-        -   [`log_debug_filter` variable](http://sphinxsearch.com/docs/sphinx3.html#log_debug_filter-variable)
-        -   [`log_level` variable](http://sphinxsearch.com/docs/sphinx3.html#log_level-variable)
-        -   [`net_spin_msec` variable](http://sphinxsearch.com/docs/sphinx3.html#net_spin_msec-variable)
-        -   [`query_log_format` variable](http://sphinxsearch.com/docs/sphinx3.html#query_log_format-variable)
-        -   [`query_log_min_msec` variable](http://sphinxsearch.com/docs/sphinx3.html#query_log_min_msec-variable)
-        -   [`sql_fail_filter` variable](http://sphinxsearch.com/docs/sphinx3.html#sql_fail_filter-variable)
-        -   [`sql_log_file` variable](http://sphinxsearch.com/docs/sphinx3.html#sql_log_file-variable)
-    -   [Changes in 3.x](http://sphinxsearch.com/docs/sphinx3.html#changes-in-3.x)
-        -   [Version 3.3.1, 06 jul 2020](http://sphinxsearch.com/docs/sphinx3.html#version-3.3.1-06-jul-2020)
-        -   [Version 3.2.1, 31 jan 2020](http://sphinxsearch.com/docs/sphinx3.html#version-3.2.1-31-jan-2020)
-        -   [Version 3.1.1, 17 oct 2018](http://sphinxsearch.com/docs/sphinx3.html#version-3.1.1-17-oct-2018)
-        -   [Version 3.0.3, 30 mar 2018](http://sphinxsearch.com/docs/sphinx3.html#version-3.0.3-30-mar-2018)
-        -   [Version 3.0.2, 25 feb 2018](http://sphinxsearch.com/docs/sphinx3.html#version-3.0.2-25-feb-2018)
-        -   [Version 3.0.1, 18 dec 2017](http://sphinxsearch.com/docs/sphinx3.html#version-3.0.1-18-dec-2017)
-    -   [Changes since v.2.x](http://sphinxsearch.com/docs/sphinx3.html#changes-since-v.2.x)
-    -   [Copyrights](http://sphinxsearch.com/docs/sphinx3.html#copyrights)
+- [Sphinx 3](http://sphinxsearch.com/docs/sphinx3.html#sphinx-3)
+  - [Features overview](http://sphinxsearch.com/docs/sphinx3.html#features-overview)
+  - [Features cheat sheet](http://sphinxsearch.com/docs/sphinx3.html#features-cheat-sheet)
+  - [Getting started](http://sphinxsearch.com/docs/sphinx3.html#getting-started)
+    - [Getting started on Linux (and MacOS)](http://sphinxsearch.com/docs/sphinx3.html#getting-started-on-linux-and-macos)
+    - [Getting started on Windows](http://sphinxsearch.com/docs/sphinx3.html#getting-started-on-windows)
+    - [Running queries via MySQL shell](http://sphinxsearch.com/docs/sphinx3.html#running-queries-via-mysql-shell)
+    - [Writing your first config](http://sphinxsearch.com/docs/sphinx3.html#writing-your-first-config)
+    - [Running queries from PHP, Python, etc](http://sphinxsearch.com/docs/sphinx3.html#running-queries-from-php-python-etc)
+    - [Running queries via HTTP](http://sphinxsearch.com/docs/sphinx3.html#running-queries-via-http)
+    - [Installing `indexer` SQL drivers on Linux](http://sphinxsearch.com/docs/sphinx3.html#installing-indexer-sql-drivers-on-linux)
+  - [Main concepts](http://sphinxsearch.com/docs/sphinx3.html#main-concepts)
+    - [Indexes](http://sphinxsearch.com/docs/sphinx3.html#indexes)
+    - [Documents](http://sphinxsearch.com/docs/sphinx3.html#documents)
+    - [Fields](http://sphinxsearch.com/docs/sphinx3.html#fields)
+    - [Attributes](http://sphinxsearch.com/docs/sphinx3.html#attributes)
+  - [Using DocStore](http://sphinxsearch.com/docs/sphinx3.html#using-docstore)
+  - [Using attribute indexes](http://sphinxsearch.com/docs/sphinx3.html#using-attribute-indexes)
+    - [Query optimizer, and index hints](http://sphinxsearch.com/docs/sphinx3.html#query-optimizer-and-index-hints)
+  - [Using k-batches](http://sphinxsearch.com/docs/sphinx3.html#using-k-batches)
+  - [Doing bulk data loads](http://sphinxsearch.com/docs/sphinx3.html#doing-bulk-data-loads)
+  - [Using JSON](http://sphinxsearch.com/docs/sphinx3.html#using-json)
+    - [JSON comparison quirks](http://sphinxsearch.com/docs/sphinx3.html#json-comparison-quirks)
+  - [Using array attributes](http://sphinxsearch.com/docs/sphinx3.html#using-array-attributes)
+  - [Using wordforms](http://sphinxsearch.com/docs/sphinx3.html#using-wordforms)
+  - [Using UDFs](http://sphinxsearch.com/docs/sphinx3.html#using-udfs)
+    - [UDFs overview](http://sphinxsearch.com/docs/sphinx3.html#udfs-overview)
+    - [UDF programming introduction](http://sphinxsearch.com/docs/sphinx3.html#udf-programming-introduction)
+    - [UDF argument and return types](http://sphinxsearch.com/docs/sphinx3.html#udf-argument-and-return-types)
+    - [UDF call batching](http://sphinxsearch.com/docs/sphinx3.html#udf-call-batching)
+    - [Using `FACTORS()` in UDFs](http://sphinxsearch.com/docs/sphinx3.html#using-factors-in-udfs)
+    - [UDF calls sequences](http://sphinxsearch.com/docs/sphinx3.html#udf-calls-sequences)
+  - [Indexing: CSV and TSV files](http://sphinxsearch.com/docs/sphinx3.html#indexing-csv-and-tsv-files)
+  - [Indexing: special chars, blended tokens, and mixed codes](http://sphinxsearch.com/docs/sphinx3.html#indexing-special-chars-blended-tokens-and-mixed-codes)
+    - [Blended tokens (with special characters)](http://sphinxsearch.com/docs/sphinx3.html#blended-tokens-with-special-characters)
+    - [Mixed codes (with letters and digits)](http://sphinxsearch.com/docs/sphinx3.html#mixed-codes-with-letters-and-digits)
+    - [Blending modes](http://sphinxsearch.com/docs/sphinx3.html#blending-modes)
+    - [Searching vs blended tokens and mixed codes](http://sphinxsearch.com/docs/sphinx3.html#searching-vs-blended-tokens-and-mixed-codes)
+  - [Searching: query syntax](http://sphinxsearch.com/docs/sphinx3.html#searching-query-syntax)
+    - [Operators](http://sphinxsearch.com/docs/sphinx3.html#operators)
+    - [Modifiers](http://sphinxsearch.com/docs/sphinx3.html#modifiers)
+    - [Cheat sheet](http://sphinxsearch.com/docs/sphinx3.html#cheat-sheet)
+    - [Keyword modifiers](http://sphinxsearch.com/docs/sphinx3.html#keyword-modifiers)
+    - [Boolean operators (brackets, AND, OR, NOT)](http://sphinxsearch.com/docs/sphinx3.html#boolean-operators-brackets-and-or-not)
+    - [Phrase operator](http://sphinxsearch.com/docs/sphinx3.html#phrase-operator)
+    - [MAYBE operator](http://sphinxsearch.com/docs/sphinx3.html#maybe-operator)
+    - [Term-OR operator](http://sphinxsearch.com/docs/sphinx3.html#term-or-operator)
+    - [Field and position limit operator](http://sphinxsearch.com/docs/sphinx3.html#field-and-position-limit-operator)
+    - [Proximity and NEAR operators](http://sphinxsearch.com/docs/sphinx3.html#proximity-and-near-operators)
+    - [Quorum operator](http://sphinxsearch.com/docs/sphinx3.html#quorum-operator)
+    - [Strict order operator (BEFORE)](http://sphinxsearch.com/docs/sphinx3.html#strict-order-operator-before)
+    - [SENTENCE and PARAGRAPH operators](http://sphinxsearch.com/docs/sphinx3.html#sentence-and-paragraph-operators)
+    - [ZONE and ZONESPAN operators](http://sphinxsearch.com/docs/sphinx3.html#zone-and-zonespan-operators)
+  - [Searching: geosearches](http://sphinxsearch.com/docs/sphinx3.html#searching-geosearches)
+  - [Searching: vector searches](http://sphinxsearch.com/docs/sphinx3.html#searching-vector-searches)
+  - [Ranking: factors](http://sphinxsearch.com/docs/sphinx3.html#ranking-factors)
+    - [Factor aggregation functions](http://sphinxsearch.com/docs/sphinx3.html#factor-aggregation-functions)
+    - [Keyword flags](http://sphinxsearch.com/docs/sphinx3.html#keyword-flags)
+    - [Query-level ranking factors](http://sphinxsearch.com/docs/sphinx3.html#query-level-ranking-factors)
+    - [Document-level ranking factors](http://sphinxsearch.com/docs/sphinx3.html#document-level-ranking-factors)
+    - [Field-level ranking factors](http://sphinxsearch.com/docs/sphinx3.html#field-level-ranking-factors)
+  - [Ranking: builtin ranker formulas](http://sphinxsearch.com/docs/sphinx3.html#ranking-builtin-ranker-formulas)
+  - [Ranking: IDF magics](http://sphinxsearch.com/docs/sphinx3.html#ranking-idf-magics)
+    - [How Sphinx computes IDF](http://sphinxsearch.com/docs/sphinx3.html#how-sphinx-computes-idf)
+  - [Ranking: picking fields with `rank_fields`](http://sphinxsearch.com/docs/sphinx3.html#ranking-picking-fields-with-rank_fields)
+  - [Operations: “siege mode”, temporary global query limits](http://sphinxsearch.com/docs/sphinx3.html#siege-mode)
+  - [SphinxQL reference](http://sphinxsearch.com/docs/sphinx3.html#sphinxql-reference)
+    - [BULK UPDATE syntax](http://sphinxsearch.com/docs/sphinx3.html#bulk-update-syntax)
+    - [KILL syntax](http://sphinxsearch.com/docs/sphinx3.html#kill-syntax)
+    - [SELECT syntax](http://sphinxsearch.com/docs/sphinx3.html#select-syntax)
+    - [SHOW INDEX AGENT STATUS syntax](http://sphinxsearch.com/docs/sphinx3.html#show-index-agent-status-syntax)
+    - [SHOW VARIABLES syntax](http://sphinxsearch.com/docs/sphinx3.html#show-variables-syntax)
+  - [Functions reference](http://sphinxsearch.com/docs/sphinx3.html#functions-reference)
+    - [`DOT()` function](http://sphinxsearch.com/docs/sphinx3.html#dot-function)
+    - [`FVEC()` function](http://sphinxsearch.com/docs/sphinx3.html#fvec-function)
+    - [`PP()` function](http://sphinxsearch.com/docs/sphinx3.html#pp-function)
+    - [Slice functions](http://sphinxsearch.com/docs/sphinx3.html#slice-functions)
+    - [`STRPOS()` function](http://sphinxsearch.com/docs/sphinx3.html#strpos-function)
+  - [Server variables reference](http://sphinxsearch.com/docs/sphinx3.html#server-variables-reference)
+    - [`attrindex_thresh` variable](http://sphinxsearch.com/docs/sphinx3.html#attrindex_thresh-variable)
+    - [`log_debug_filter` variable](http://sphinxsearch.com/docs/sphinx3.html#log_debug_filter-variable)
+    - [`log_level` variable](http://sphinxsearch.com/docs/sphinx3.html#log_level-variable)
+    - [`net_spin_msec` variable](http://sphinxsearch.com/docs/sphinx3.html#net_spin_msec-variable)
+    - [`query_log_format` variable](http://sphinxsearch.com/docs/sphinx3.html#query_log_format-variable)
+    - [`query_log_min_msec` variable](http://sphinxsearch.com/docs/sphinx3.html#query_log_min_msec-variable)
+    - [`sql_fail_filter` variable](http://sphinxsearch.com/docs/sphinx3.html#sql_fail_filter-variable)
+    - [`sql_log_file` variable](http://sphinxsearch.com/docs/sphinx3.html#sql_log_file-variable)
+  - [Changes in 3.x](http://sphinxsearch.com/docs/sphinx3.html#changes-in-3.x)
+    - [Version 3.3.1, 06 jul 2020](http://sphinxsearch.com/docs/sphinx3.html#version-3.3.1-06-jul-2020)
+    - [Version 3.2.1, 31 jan 2020](http://sphinxsearch.com/docs/sphinx3.html#version-3.2.1-31-jan-2020)
+    - [Version 3.1.1, 17 oct 2018](http://sphinxsearch.com/docs/sphinx3.html#version-3.1.1-17-oct-2018)
+    - [Version 3.0.3, 30 mar 2018](http://sphinxsearch.com/docs/sphinx3.html#version-3.0.3-30-mar-2018)
+    - [Version 3.0.2, 25 feb 2018](http://sphinxsearch.com/docs/sphinx3.html#version-3.0.2-25-feb-2018)
+    - [Version 3.0.1, 18 dec 2017](http://sphinxsearch.com/docs/sphinx3.html#version-3.0.1-18-dec-2017)
+  - [Changes since v.2.x](http://sphinxsearch.com/docs/sphinx3.html#changes-since-v.2.x)
+  - [Copyrights](http://sphinxsearch.com/docs/sphinx3.html#copyrights)
 
 Sphinx is a free, dual-licensed search server. Sphinx is written in C++, and focuses on query performance and search relevance.
 
@@ -105,58 +105,58 @@ This document is an effort to build a better documentation for Sphinx v.3.x and 
 
 Top level picture, what does Sphinx offer?
 
--   SQL, HTTP/JSON, and custom native SphinxAPI access APIs
--   NRT (Near Real Time) and offline batch indexing
--   Full-text and non-text (parameter) searching
--   Relevance ranking, from basic formulas to ML models
--   Federated results from multiple servers
--   Decent performance
+- SQL, HTTP/JSON, and custom native SphinxAPI access APIs
+- NRT (Near Real Time) and offline batch indexing
+- Full-text and non-text (parameter) searching
+- Relevance ranking, from basic formulas to ML models
+- Federated results from multiple servers
+- Decent performance
 
 Other things that seem worth mentioning (this list is probably incomplete at all times, and definitely in random order):
 
--   Morphology and text-processing tools
-    -   Fully flexible tokenization (see `charset_table` and `exceptions`)
-    -   Proper morphology (lemmatizer) for English, Russian, and German (see `morphology`)
-    -   Basic morphology (stemmer) for many other languages
-    -   User-specified wordforms, `core 2 duo => c2d`
--   Native JSON support
--   Geosearch support
--   Fast expressions engine
--   Query suggestions
--   Snippets builder
--   …
+- Morphology and text-processing tools
+  - Fully flexible tokenization (see `charset_table` and `exceptions`)
+  - Proper morphology (lemmatizer) for English, Russian, and German (see `morphology`)
+  - Basic morphology (stemmer) for many other languages
+  - User-specified wordforms, `core 2 duo => c2d`
+- Native JSON support
+- Geosearch support
+- Fast expressions engine
+- Query suggestions
+- Snippets builder
+- …
 
 And, of course, there is always stuff that we know we currently lack!
 
--   Index replication
--   …
+- Index replication
+- …
 
 ## Features cheat sheet
 
 This section is supposed to provide a bit more detail on all the available features; to cover them more or less fully; and give you some further pointers into the specific reference sections (on the related config directives and SphinxQL statements).
 
--   Full-text search queries, see `SELECT ... WHERE MATCH('this')` SphinxQL statement
-    -   Boolean matching operators (implicit AND, explicit OR, NOT, and brackets), as in `(one two) | (three !four)`
-    -   Boolean matching optimizations, see `OPTION boolean_simplify=1` in `SELECT` statement
-    -   Advanced text matching operators
-        -   Field restrictions, `@title hello world` or `@!title hello` or `@(title,body) any of the two` etc
-        -   In-field position restrictions, `@title[50] hello`
-        -   MAYBE operator for optional keyword matching, `cat MAYBE dog`
-        -   phrase matching, `"roses are red"`
-        -   quorum matching, `"pick any 3 keywords out of this entire set"/3`
-        -   proximity matching, `"within 10 positions all terms in yoda order"~10` or `hello NEAR/3 world NEAR/4 "my test"`
-        -   strict order matching, `(bag of words) << "exact phrase" << this|that`
-        -   sentence matching, `all SENTENCE words SENTENCE "in one sentence"`
-        -   paragraph matching, `"Bill Gates" PARAGRAPH "Steve Jobs"`
-        -   zone and zone-span matching, `ZONE:(h3,h4) in any of these title tags` and `ZONESPAN:(h2) only in a single instance`
-    -   Keyword modifiers (that can usually be used within operators)
-        -   exact (pre-morphology) form modifier, `raining =cats and =dogs`
-        -   field-start and field-end modifiers, `^hello world$`
-        -   IDF (ranking) boost, `boosted^1.234`
-    -   Substring and wildcard searches
-        -   see `min_prefix_len` and `min_infix_len` directives
-        -   use `th?se three keyword% wild*cards *verywher*` (`?` = 1 char exactly; `%` = 0 or 1 char; `*` = 0 or more chars)
--   …
+- Full-text search queries, see `SELECT ... WHERE MATCH('this')` SphinxQL statement
+  - Boolean matching operators (implicit AND, explicit OR, NOT, and brackets), as in `(one two) | (three !four)`
+  - Boolean matching optimizations, see `OPTION boolean_simplify=1` in `SELECT` statement
+  - Advanced text matching operators
+    - Field restrictions, `@title hello world` or `@!title hello` or `@(title,body) any of the two` etc
+    - In-field position restrictions, `@title[50] hello`
+    - MAYBE operator for optional keyword matching, `cat MAYBE dog`
+    - phrase matching, `"roses are red"`
+    - quorum matching, `"pick any 3 keywords out of this entire set"/3`
+    - proximity matching, `"within 10 positions all terms in yoda order"~10` or `hello NEAR/3 world NEAR/4 "my test"`
+    - strict order matching, `(bag of words) << "exact phrase" << this|that`
+    - sentence matching, `all SENTENCE words SENTENCE "in one sentence"`
+    - paragraph matching, `"Bill Gates" PARAGRAPH "Steve Jobs"`
+    - zone and zone-span matching, `ZONE:(h3,h4) in any of these title tags` and `ZONESPAN:(h2) only in a single instance`
+  - Keyword modifiers (that can usually be used within operators)
+    - exact (pre-morphology) form modifier, `raining =cats and =dogs`
+    - field-start and field-end modifiers, `^hello world$`
+    - IDF (ranking) boost, `boosted^1.234`
+  - Substring and wildcard searches
+    - see `min_prefix_len` and `min_infix_len` directives
+    - use `th?se three keyword% wild*cards *verywher*` (`?` = 1 char exactly; `%` = 0 or 1 char; `*` = 0 or more chars)
+- …
 
 TODO: describe more, add links!
 
@@ -164,21 +164,21 @@ TODO: describe more, add links!
 
 That should now be rather simple. No magic installation required! On any platform, the _sufficient_ thing to do is:
 
-1.  Get the binaries.
-2.  Run `searchd`
-3.  Create indexes.
-4.  Run queries.
+1. Get the binaries.
+2. Run `searchd`
+3. Create indexes.
+4. Run queries.
 
 See more details on that (running in config-less mode) just below.
 
 Or alternatively, you can ETL your data offline, using the `indexer` tool:
 
-1.  Get the binaries.
-2.  Create `sphinx.conf`, with at least 1 `index` section.
-3.  Run `indexer --all` once, to initially create the indexes.
-4.  Run `searchd`
-5.  Run queries.
-6.  Run `indexer --all --rotate` regularly, to update the indexes.
+1. Get the binaries.
+2. Create `sphinx.conf`, with at least 1 `index` section.
+3. Run `indexer --all` once, to initially create the indexes.
+4. Run `searchd`
+5. Run queries.
+6. Run `indexer --all --rotate` regularly, to update the indexes.
 
 Note that instead of inserting the data into indexes online, the `indexer` tool instead creates a shadow copy of the specified index(es) offline, and then sends a signal to `searchd` to pick up that copy. So you should _never_ get a partially populated index with `indexer`; it’s always all-or-nothing.
 
@@ -233,8 +233,8 @@ Server version: 3.0-dev (c3c241f)
 
 I have intentionally used `127.0.0.1` in this example for two reasons (both caused by MySQL CLI quirks, not Sphinx):
 
--   sometimes, an IP address is required to use the `-P9306` switch, not `localhost`
--   sometimes, `localhost` works but causes a connection delay
+- sometimes, an IP address is required to use the `-P9306` switch, not `localhost`
+- sometimes, `localhost` works but causes a connection delay
 
 But in the simplest case even just `mysql -P9306` should work fine.
 
@@ -371,9 +371,9 @@ However, you still need to have a specific driver _library_ installed on your sy
 
 The driver libraries are loaded by name. The following names are attempted:
 
--   MySQL: `libmysqlclient.so` or `libmariadb.so`
--   PostgreSQL: `libpq.so`
--   ODBC: `libodbc.so`
+- MySQL: `libmysqlclient.so` or `libmariadb.so`
+- PostgreSQL: `libpq.so`
+- ODBC: `libodbc.so`
 
 To support MacOS, `.dylib` extension (in addition to `.so`) is also tried.
 
@@ -479,20 +479,20 @@ Stored fields contents are stored in a special index component called document s
 
 Sphinx supports the following attribute types:
 
--   INTEGER, unsigned 32-bit integer
--   BIGINT, signed 64-bit integer
--   FLOAT, 32-bit (single precision) floating point
--   BOOL, 1-bit boolean
--   STRING, a text string
--   JSON, a JSON document
--   MVA, an order-insensitive set of unique INTEGERs
--   MVA64, an order-insensitive set of unique BIGINTs
+- INTEGER, unsigned 32-bit integer
+- BIGINT, signed 64-bit integer
+- FLOAT, 32-bit (single precision) floating point
+- BOOL, 1-bit boolean
+- STRING, a text string
+- JSON, a JSON document
+- MVA, an order-insensitive set of unique INTEGERs
+- MVA64, an order-insensitive set of unique BIGINTs
 
 All of these should be pretty straightforward. However, there are a couple Sphinx specific JSON performance tricks worth mentioning:
 
--   All scalar values (integers, floats, doubles) are converted and internally stored natively.
--   All scalar value _arrays_ are detected and also internally stored natively.
--   You can use `123.45f` syntax extension to mark 32-bit floats (by default all floating point values in JSON are 64-bit doubles).
+- All scalar values (integers, floats, doubles) are converted and internally stored natively.
+- All scalar value _arrays_ are detected and also internally stored natively.
+- You can use `123.45f` syntax extension to mark 32-bit floats (by default all floating point values in JSON are 64-bit doubles).
 
 For example, when the following document is stored into a JSON column in Sphinx:
 
@@ -508,12 +508,12 @@ Now, there are _fixed-width_ and _variable-width_ attributes among the supported
 
 The answer is performance. Internally, Sphinx has two separate storages for those row parts. Fixed-width attributes, including hidden system ones, are essentially stored in big static NxM matrix, where N is the number of rows, and M is the number of fixed-width attributes. Any accesses to those are very quick. All the variable-width attributes for a single row are grouped together, and stored in a separate storage. A single offset into that second storage (or “vrow” storage, short for “variable-width row part” storage) is stored as hidden fixed-width attribute. Thus, as you see, accessing a string or a JSON or an MVA value, let alone a JSON key, is somewhat more complicated. For example, to access that `year` JSON key from the example just above, Sphinx would need to:
 
--   read `vrow_offset` from a hidden integer attribute
--   access the vrow part using that offset
--   decode the vrow, and find the needed JSON attribute start
--   decode the JSON, and find the `year` key start
--   check the key type, just in case it needs conversion to integer
--   finally, read the `year` value
+- read `vrow_offset` from a hidden integer attribute
+- access the vrow part using that offset
+- decode the vrow, and find the needed JSON attribute start
+- decode the JSON, and find the `year` key start
+- check the key type, just in case it needs conversion to integer
+- finally, read the `year` value
 
 Of course, optimizations are done on every step here, but still, if you access a _lot_ of those values (for sorting or filtering the query results), there will be a performance impact. Also, the deeper the key is buried into that JSON, the worse. For example, using a tiny test with 1,000,000 rows and just 4 integer attributes plus exactly the same 4 values stored in a JSON, computing a sum yields the following:
 
@@ -604,10 +604,10 @@ mysql> select * from mytest where match('hello');
 
 Yay, original document contents! Not a huge step generally, not for a database anyway; but a nice improvement for Sphinx which was initially designed “for searching only” (oh, the mistakes of youth). And DocStore can do more than that, namely:
 
--   store indexed fields, `store_fields` directive
--   store unindexed fields, `stored_only_fields` directive
--   store precomputed data to speedup snippets, `hl_fields` directive
--   be fine-tuned a little, using `docstore_type`, `docstore_comp`, and `docstore_block` directives
+- store indexed fields, `store_fields` directive
+- store unindexed fields, `stored_only_fields` directive
+- store precomputed data to speedup snippets, `hl_fields` directive
+- be fine-tuned a little, using `docstore_type`, `docstore_comp`, and `docstore_block` directives
 
 So DocStore can effectively replace the existing `rt_attr_string` directive. What are the differences, and when to use each?
 
@@ -627,12 +627,12 @@ Using `hl_fields` can accelerate highlighting where possible, sometimes making s
 
 And speaking of disk space vs CPU tradeoff, these tweaking knobs let you fine-tune DocStore for specific indexes:
 
--   `docstore_type = vblock_solid` (default) groups small documents into a single compressed block, upto a given limit: better compression, slower access
--   `docstore_type = vblock` stores every document separately: worse compression, faster access
--   `docstore_block = 16k` (default) lets you tweak the block size limit
--   `docstore_comp = lz4hc` (default) uses LZ4HC algorithm for compression: better compression, but slower
--   `docstore_comp = lz4` uses LZ4 algorithm: worse compression, but faster
--   `docstore_comp = none` disables compression
+- `docstore_type = vblock_solid` (default) groups small documents into a single compressed block, upto a given limit: better compression, slower access
+- `docstore_type = vblock` stores every document separately: worse compression, faster access
+- `docstore_block = 16k` (default) lets you tweak the block size limit
+- `docstore_comp = lz4hc` (default) uses LZ4HC algorithm for compression: better compression, but slower
+- `docstore_comp = lz4` uses LZ4 algorithm: worse compression, but faster
+- `docstore_comp = none` disables compression
 
 ## Using attribute indexes
 
@@ -683,18 +683,18 @@ WHERE (lat BETWEEN 53.23 AND 53.42) AND (lon BETWEEN -6.45 AND -6.05)
 
 Assume that we have indexes on both `lat` and `lon` columns, and can use them. More, we can get an exact final result set out of that index pair, without any extra checks needed. But should we? Instead of using both indexes it is actually sometimes more efficient to use just one! Because with 2 indexes, we have to:
 
-1.  Perform `lat` range index read, get X `lat` candidate rowids
-2.  Perform `lon` range index read, get Y `lon` candidate rowids
-3.  Intersect X and Y rowids, get N matching rowids
-4.  Lookup N resulting rows
-5.  Process N resulting rows
+1. Perform `lat` range index read, get X `lat` candidate rowids
+2. Perform `lon` range index read, get Y `lon` candidate rowids
+3. Intersect X and Y rowids, get N matching rowids
+4. Lookup N resulting rows
+5. Process N resulting rows
 
 While when using 1 index on `lat` we only have to:
 
-1.  Perform `lat` range index read, get X `lat` candidate rowids
-2.  Lookup X candidate rows
-3.  Perform X checks for `lon` range, get N matching rows
-4.  Process N resulting rows
+1. Perform `lat` range index read, get X `lat` candidate rowids
+2. Lookup X candidate rows
+3. Perform X checks for `lon` range, get N matching rows
+4. Process N resulting rows
 
 Now, `lat` and `lon` frequently are somewhat correlated. Meaning that X, Y, and N values can all be pretty close. For example, let’s assume we have 11K matches in that specific latitude range, 12K matches in longitude range, and 10K final matches, ie. `X = 11000, Y = 12000, N = 10000`. Then using just 1 index means that we can avoid reading 12K `lat` rowids and then intersecting 23K rowids, introducing, however, 2K extra row lookups and 12K `lon` checks instead. Guess what, row lookups and extra checks are actually cheaper operations, and we are doing less of them. So with a few quick estimates, using only 1 index out of 2 applicable ones suddenly looks like a better bet. That can be indeed confirm on real queries, too.
 
@@ -712,8 +712,8 @@ K-batches (“kill batches”) let you bulk delete older versions of the documen
 
 K-batches in Sphinx v.3.x replace k-lists (“kill lists”) from v.2.x and before. The major differences are that:
 
-1.  They are _not_ anonymous anymore.
-2.  They are now only applied once on loading. (As oppposed to every search, yuck).
+1. They are _not_ anonymous anymore.
+2. They are now only applied once on loading. (As oppposed to every search, yuck).
 
 “Not anonymous” means that when loading a new index with an associated k-batch into `searchd`, **you now have to explicitly specify target indexes** that it should delete the rows from. In other words, “deltas” now _must_ explicitly specify all the “main” indexes that they want to erase old documents from, at index-time.
 
@@ -734,12 +734,12 @@ index delta
 
 The following (normally) happens:
 
--   `delta` kbatch file is loaded
-    -   in this example it will have 3 document ids: 12, 13, and 14
--   documents with those ids are deleted from `main1`
--   documents with those ids are deleted from `main2`
--   `main1`, `main2` save those deletions to disk
--   if all went well, `delta` kbatch file is cleared
+- `delta` kbatch file is loaded
+  - in this example it will have 3 document ids: 12, 13, and 14
+- documents with those ids are deleted from `main1`
+- documents with those ids are deleted from `main2`
+- `main1`, `main2` save those deletions to disk
+- if all went well, `delta` kbatch file is cleared
 
 All these operations are pretty fast, because deletions are now internally implemented using a bitmap. So deleting a given document by id results in a hash lookup and a bit flip. In plain speak, very quick.
 
@@ -793,16 +793,15 @@ mysql> SELECT j.year+10, j.arr[3], j.address.city FROM jsontest;
 
 However, sometimes that is not quite enough (mostly for performance reasons), and thus we have both several Sphinx-specific **JSON syntax extensions**, and several **important internal implementation details** to discuss, including a few Sphinx-specific limits. Briefly, those are as follows:
 
--   optimized scalar storage (for `int8`, `int32`, `int64`, `bool`, `float`, and `NULL` types)
-    
--   optimized array storage (for `int8`, `int32`, `int64`, `float`, `double`, and `string` types)
-    
--   optimized key name storage with key compression (optional, with `json_packed_keys = 1` directive)
-    
--   `0.0f` syntax extension for 32-bit float values
-    
--   `int8[]` and `float[]` syntax extensions for 8-bit integer and 32-bit float arrays, respectively
-    
+- optimized scalar storage (for `int8`, `int32`, `int64`, `bool`, `float`, and `NULL` types)
+
+- optimized array storage (for `int8`, `int32`, `int64`, `float`, `double`, and `string` types)
+
+- optimized key name storage with key compression (optional, with `json_packed_keys = 1` directive)
+
+- `0.0f` syntax extension for 32-bit float values
+
+- `int8[]` and `float[]` syntax extensions for 8-bit integer and 32-bit float arrays, respectively
 
 **Optimized storage** means that _usually_ Sphinx auto-detects the actual value types, both for standalone values and for arrays, and then uses the smallest storage type that works.
 
@@ -846,22 +845,21 @@ Beware and benchmark, though, that currently there can occasionally be some asso
 
 Comparisons with JSON can be a little tricky when it comes to value types. Especially the numeric ones, because of all the `integer` vs `float` vs `double` jazz. (And, mind you, by default the floating-point values will be stored as `double`.) Briefly, beware that:
 
-1.  String comparisons are strict, and require the string type.
-    
+1. String comparisons are strict, and require the string type.
+
     Meaning that `WHERE j.str1='abc'` check must only pass when _all_ the following conditions are true: 1) `str1` key exists; 2) `str1` value type is exactly `string`; 3) the value matches.
-    
+
     Therefore, for a sudden _integer_ value compared against a string constant, for example, `{"str1":123}` value against a `WHERE j.str1='123'` condition, the check will fail. As it should, there are no implicit conversions here.
-    
-2.  Numeric comparisons against integers match any numeric type, not just integers.
-    
+
+2. Numeric comparisons against integers match any numeric type, not just integers.
+
     Meaning that both `{"key1":123}` and `{"key1":123.0}` values must pass the `WHERE j.key1=123` check. Again, as expected.
-    
-3.  Numeric comparisons against floats _forcibly_ convert double values to (single-precision) floats, and roundoff issues may arise.
-    
+
+3. Numeric comparisons against floats _forcibly_ convert double values to (single-precision) floats, and roundoff issues may arise.
+
     Meaning that when you store something like `{"key1":123.0000001}` into your index, then the `WHERE j.key1=123.0` check will pass, because roundoff to `float` looses that fractional part. However, at the same time `WHERE j.key1=123` check will _not_ pass, because _that_ check will use the original double value and compare it against the integer constant.
-    
+
     This might be a bit confusing, but otherwise (without roundoff) the situation would be arguably worse: in an even more counter-intuitive fashion, `{"key1":2.22}` does _not_ pass the `WHERE j.key1>=2.22` check, because the reference constant here is `float(2.22)`, and then because of rounding, `double(2.22) < float(2.22)`!
-    
 
 TODO: describe limits, json\_xxx settings, our syntax extensions, etc.
 
@@ -869,9 +867,9 @@ TODO: describe limits, json\_xxx settings, our syntax extensions, etc.
 
 Array attributes let you save a fixed amount of integer or float values into your index. The supported types are:
 
--   `attr_int_array` that stores signed 32-bit integers;
--   `attr_int8_array` that stores signed 8-bit integers (-128 to 127 range);
--   `attr_float_array` that stores 32-bit floats.
+- `attr_int_array` that stores signed 32-bit integers;
+- `attr_int8_array` that stores signed 8-bit integers (-128 to 127 range);
+- `attr_float_array` that stores 32-bit floats.
 
 To declare an array attribute, use the following syntax:
 
@@ -947,14 +945,14 @@ mysql> SELECT id, DOT(vec1,FVEC(1,2,3,4,5)) d FROM rt;
 
 Sphinx supports several different keyword remapping types (usually applied both when indexing and when searching), all currently called wordforms. The principal types are as follows.
 
-1.  Morphology-replacing 1:1 wordforms.
-2.  Pre-morphology M:N wordforms.
-3.  Post-morphology 1:1 wordforms.
+1. Morphology-replacing 1:1 wordforms.
+2. Pre-morphology M:N wordforms.
+3. Post-morphology 1:1 wordforms.
 
 Additionally, two of these types can be applied at indexing time only.
 
-4.  Document-only morphology-replacing 1:1 wordforms.
-5.  Document-only pre-morphology M:N wordforms.
+4. Document-only morphology-replacing 1:1 wordforms.
+5. Document-only pre-morphology M:N wordforms.
 
 Wordforms are usually all listed in a separate text file (or a set of files), and added to the index with a `wordforms` directive. The wordforms file syntax for all these types is as follows.
 
@@ -1009,21 +1007,21 @@ SELECT id, attr1, myudf(attr2, attr3+attr4) ...
 
 You can load and unload UDFs into `searchd` dynamically, ie. without having to restart the daemon itself, and then use them in most expressions when searching and ranking. Quick summary of the UDF features is as follows.
 
--   UDFs can accept most of the argument types that Sphinx supports, namely:
-    -   **numerics**, ie. integers (32-bit and 64-bit) and floats (32-bit);
-    -   **MVAs**, ie. sets of integers (32-bit and 64-bit);
-    -   **strings**, including binary non-ASCIIZ blobs;
-    -   **`FACTORS()`**, ie. special blobs with ranking signals;
-    -   **JSON objects**, including subobjects or individual fields;
-    -   **float vectors**.
--   UDFs can return integer, float, or string values.
--   UDFs can check the argument number, types, and names during the query setup phase, and raise errors.
+- UDFs can accept most of the argument types that Sphinx supports, namely:
+  - **numerics**, ie. integers (32-bit and 64-bit) and floats (32-bit);
+  - **MVAs**, ie. sets of integers (32-bit and 64-bit);
+  - **strings**, including binary non-ASCIIZ blobs;
+  - **`FACTORS()`**, ie. special blobs with ranking signals;
+  - **JSON objects**, including subobjects or individual fields;
+  - **float vectors**.
+- UDFs can return integer, float, or string values.
+- UDFs can check the argument number, types, and names during the query setup phase, and raise errors.
 
 UDFs have a wide variety of uses, for instance:
 
--   adding custom mathematical or string functions;
--   accessing the database or files from within Sphinx;
--   implementing complex ranking functions.
+- adding custom mathematical or string functions;
+- accessing the database or files from within Sphinx;
+- implementing complex ranking functions.
 
 UDFs reside in the external dynamic libraries (`.so` files on UNIX and `.dll` on Windows systems). Library files need to reside in a trusted folder specified by `plugin_dir` directive, for obvious security reasons: securing a single folder is easy; letting anyone install arbitrary code into `searchd` is a risk. You can load and unload them dynamically into `searchd` with `CREATE FUNCTION` and `DROP FUNCTION` SphinxQL statements, respectively. Also, you can seamlessly reload UDFs (and other plugins) with `RELOAD PLUGINS` statement. Sphinx keeps track of the currently loaded functions, that is, every time you create or drop an UDF, `searchd` writes its state to the `sphinxql_state` file as a plain good old SQL script.
 
@@ -1047,8 +1045,8 @@ Your very first starting point should be `src/udfexample.c`, our example UDF lib
 
 The files that provide the UDF interface are:
 
--   `src/sphinxudf.h` that declares the essential types and helper functions;
--   `src/sphinxudf.c` that implements those functions.
+- `src/sphinxudf.h` that declares the essential types and helper functions;
+- `src/sphinxudf.c` that implements those functions.
 
 For UDFs that **do not** implement ranking, and therefore do not need to handle `FACTORS()` arguments, simply including the `sphinxudf.h` header is sufficient.
 
@@ -1087,10 +1085,10 @@ UDF function names in SphinxQL are case insensitive. However, the respective C/C
 
 More importantly, it is vital that:
 
-1.  the calling convention is C (aka `__cdecl`);
-2.  arguments list matches the plugin system expectations exactly;
-3.  the return type matches the one you specify in `CREATE FUNCTION`;
-4.  the implemented C/C++ functions are thread-safe.
+1. the calling convention is C (aka `__cdecl`);
+2. arguments list matches the plugin system expectations exactly;
+3. the return type matches the one you specify in `CREATE FUNCTION`;
+4. the implemented C/C++ functions are thread-safe.
 
 Unfortunately, there is no (easy) way for `searchd` to automatically check for those mistakes when loading the function, and they could crash the server and/or result in unexpected results.
 
@@ -1253,8 +1251,8 @@ Note how _internally_ in your UDF you can use whatever allocator you want, so th
 
 Since v.3.3 Sphinx supports two types of the “main” UDF call with a numeric return type:
 
--   regular, called with exactly 1 row at a time;
--   batched, called with batches of 1 to 128 rows at a time.
+- regular, called with exactly 1 row at a time;
+- batched, called with batches of 1 to 128 rows at a time.
 
 These two types have different C/C++ signatures, for example:
 
@@ -1305,9 +1303,9 @@ To extract individual ranking signals from that blob, you need to use either of 
 
 The first family consists of just 3 functions:
 
--   `sphinx_factors_init()` that initializes the unpacked `SPH_UDF_FACTORS` structure;
--   `sphinx_factors_unpack()` that unpacks a binary blob value into it;
--   `sphinx_factors_deinit()` that cleans up an deallocates `SPH_UDF_FACTORS`.
+- `sphinx_factors_init()` that initializes the unpacked `SPH_UDF_FACTORS` structure;
+- `sphinx_factors_unpack()` that unpacks a binary blob value into it;
+- `sphinx_factors_deinit()` that cleans up an deallocates `SPH_UDF_FACTORS`.
 
 So you need to call `init()` and `unpack()` first, then you can use the fields within the `SPH_UDF_FACTORS` structure, and then you have to call `deinit()` for cleanup. The resuling code would be rather simple, like this:
 
@@ -1352,33 +1350,31 @@ return result;
 
 Depending on how your UDFs are used in the query, the main function call (`testfunc()` in our running example) might get called in a rather different volume and order. Specifically,
 
--   UDFs referenced in `WHERE`, `ORDER BY`, or `GROUP BY` clauses must and will be evaluated for every matched document. They will be called in the **natural matching order**.
-    
--   without subselects, UDFs that can be evaluated at the very last stage over the final result set will be evaluated that way, but before applying the `LIMIT` clause. They will be called in the **result set order**.
-    
--   with subselects, such UDFs will also be evaluated _after_ applying the inner `LIMIT` clause.
-    
+- UDFs referenced in `WHERE`, `ORDER BY`, or `GROUP BY` clauses must and will be evaluated for every matched document. They will be called in the **natural matching order**.
+
+- without subselects, UDFs that can be evaluated at the very last stage over the final result set will be evaluated that way, but before applying the `LIMIT` clause. They will be called in the **result set order**.
+
+- with subselects, such UDFs will also be evaluated _after_ applying the inner `LIMIT` clause.
 
 The calling sequence of the other functions is fixed, though. Namely,
 
--   `testfunc_init()` is called once when initializing the query. It can return a non-zero code to indicate a failure; in that case query gets terminated early, and the error message from the `error_message` buffer is returned.
-    
--   `testfunc()` or `testfunc_batch()` is called for every eligible row batch (see above), whenever Sphinx needs to compute the UDF value(s). This call can indicate an unrecoverable error by writing either a value of 1, or some human-readable message to the `error_message` argument. (So in other words, you can use `error_message` either as a boolean flag, or a string buffer.)
-    
--   After getting a non-zero `error_message` from the main UDF call, the engine guarantees to stop calling that UDF call for subsequent rows for the rest of the query. A default return value of 0 for numerics and an empty string for strings will be used instead. Sphinx might or might not choose to terminate such queries early, neither behavior is currently guaranteed.
-    
--   `testfunc_deinit()` is called once when the query processing (in a given index shard) ends. It must get called even if the main call reported an unrecoverable error earlier.
-    
+- `testfunc_init()` is called once when initializing the query. It can return a non-zero code to indicate a failure; in that case query gets terminated early, and the error message from the `error_message` buffer is returned.
+
+- `testfunc()` or `testfunc_batch()` is called for every eligible row batch (see above), whenever Sphinx needs to compute the UDF value(s). This call can indicate an unrecoverable error by writing either a value of 1, or some human-readable message to the `error_message` argument. (So in other words, you can use `error_message` either as a boolean flag, or a string buffer.)
+
+- After getting a non-zero `error_message` from the main UDF call, the engine guarantees to stop calling that UDF call for subsequent rows for the rest of the query. A default return value of 0 for numerics and an empty string for strings will be used instead. Sphinx might or might not choose to terminate such queries early, neither behavior is currently guaranteed.
+
+- `testfunc_deinit()` is called once when the query processing (in a given index shard) ends. It must get called even if the main call reported an unrecoverable error earlier.
 
 ## Indexing: CSV and TSV files
 
 `indexer` supports indexing data in both CSV and TSV formats, via the `csvpipe` and `tsvpipe` source types, respectively. Here’s a brief cheat sheet on the respective source directives.
 
--   `csvpipe_command = ...` specifies a command to run (for instance, `csvpipe_command = cat mydata.csv` in the simplest case).
--   `csvpipe_header = 1` tells the `indexer` to pick the column list from the first row (otherwise, by default, the column list has to be specified in the config file).
--   `csvpipe_attr_XXX` (where `XXX` is an attribute type, i.e. one of `bigint`, `bool`, `float`, `json`, `multi`, `multi_64`, `string`, `timestamp`, or `uint`) specifies an attribute type for a given column.
--   `csvpipe_field` and `csvpipe_field_string` specify a regular full-text field and a full-text field that should also be stored as a `string` attribute, respectively.
--   `csvpipe_delimiter` changes the column delimiter to a given character (this is `csvpipe` only; `tsvpipe` naturally uses tabs).
+- `csvpipe_command = ...` specifies a command to run (for instance, `csvpipe_command = cat mydata.csv` in the simplest case).
+- `csvpipe_header = 1` tells the `indexer` to pick the column list from the first row (otherwise, by default, the column list has to be specified in the config file).
+- `csvpipe_attr_XXX` (where `XXX` is an attribute type, i.e. one of `bigint`, `bool`, `float`, `json`, `multi`, `multi_64`, `string`, `timestamp`, or `uint`) specifies an attribute type for a given column.
+- `csvpipe_field` and `csvpipe_field_string` specify a regular full-text field and a full-text field that should also be stored as a `string` attribute, respectively.
+- `csvpipe_delimiter` changes the column delimiter to a given character (this is `csvpipe` only; `tsvpipe` naturally uses tabs).
 
 When working with TSV, you would use the very same directives, but start them with `tsvpipe` prefix (i.e. `tsvpipe_command`, `tsvpipe_header`, etc).
 
@@ -1414,28 +1410,28 @@ source csv1
 
 Sphinx provides tools to help you better index (and then later search):
 
--   terms that have special characters in them, like `@Rihanna`, or `Procter&Gamble` or `U.S.A`, etc;
--   terms that mix letters and digits, like `UE53N5740AU`.
+- terms that have special characters in them, like `@Rihanna`, or `Procter&Gamble` or `U.S.A`, etc;
+- terms that mix letters and digits, like `UE53N5740AU`.
 
 The general approach, so-called “blending”, is the same in both cases:
 
--   we always store a certain “base” (most granular) tokenization;
--   we also additonally store (“blend”) extra tokens, as configured;
--   we then let you search for either original or extra tokens.
+- we always store a certain “base” (most granular) tokenization;
+- we also additonally store (“blend”) extra tokens, as configured;
+- we then let you search for either original or extra tokens.
 
 So in the examples just above Sphinx can:
 
--   index base tokens, such as `rihanna` or `ue53n5740au`;
--   index special tokens, such as `@rihanna`;
--   index parts of mixed-codes tokens, such as `ue 53` and `ue53`.
+- index base tokens, such as `rihanna` or `ue53n5740au`;
+- index special tokens, such as `@rihanna`;
+- index parts of mixed-codes tokens, such as `ue 53` and `ue53`.
 
 ### Blended tokens (with special characters)
 
 To index **blended tokens**, i.e. tokens with special characters in them, you should:
 
--   add your special “blended” characters to the `blend_chars` directive;
--   configure several processing modes for the extra tokens (optionally) using the `blend_mode` directive;
--   rebuild your index.
+- add your special “blended” characters to the `blend_chars` directive;
+- configure several processing modes for the extra tokens (optionally) using the `blend_mode` directive;
+- rebuild your index.
 
 Blended characters are going to be indexed both as separators, and _at the same time_ as valid characters. They are considered separators when generating the base tokenization (or “base split” for short). But in addition they also are processed as valid characters when generating extra tokens.
 
@@ -1447,12 +1443,12 @@ But why not just add `@, &, .` to `charset_table` then? Because that way we woul
 
 Last but not least, the in-field token positions are adjusted accordingly, and shared between the base and extra tokens:
 
--   pos 1, `rihanna` and `@rihanna`
--   pos 2, `procter` and `procter&gamble`
--   pos 3, `gamble`
--   pos 4, `u` and `u.s.a`
--   pos 5, `s`
--   pos 6, `a`
+- pos 1, `rihanna` and `@rihanna`
+- pos 2, `procter` and `procter&gamble`
+- pos 3, `gamble`
+- pos 4, `u` and `u.s.a`
+- pos 5, `s`
+- pos 6, `a`
 
 Bottom line, `blend_chars` lets you enrich the index and store extra tokens with special characters in those. That might be a handy addition to your regular tokenization based on `charset_table`.
 
@@ -1462,11 +1458,11 @@ To index **mixed codes**, i.e. terms that mix letters and digits, you need to e
 
 That way Sphinx adds extra spaces on _letter-digit boundaries_ when making the base split, but still stores the full original token as an extra. For example, `UE53N5740AU` gets broken down to as much as 5 parts:
 
--   pos 1, `ue` and `ue53n5740au`
--   pos 2, `53`
--   pos 3, `n`
--   pos 4, `5740`
--   pos 5, `au`
+- pos 1, `ue` and `ue53n5740au`
+- pos 2, `53`
+- pos 3, `n`
+- pos 4, `5740`
+- pos 5, `au`
 
 Besides the “full” split and the “original” code, it is also possible to store prefixes and suffixes. See `blend_mode` discussion just below.
 
@@ -1483,13 +1479,13 @@ That could save you a noticeable amount of both index size and indexing time.
 
 There’s somewhat more than one way to generate extra tokens. So there is a directive to control that. It’s called `blend_mode` and it lets you list all the different processing variants that you require:
 
--   `trim_none`, store a full token with all the blended characters;
--   `trim_head`, store a token with heading blended characters trimmed;
--   `trim_tail`, store a token with trailing blended characters trimmed;
--   `trim_both`, store a token with both heading and trailing blended characters trimmed;
--   `skip_pure`, do _not_ store tokens that only contain blended characters;
--   `prefix_tokens`, store all possible prefix tokens;
--   `suffix_tokens`, store all possible suffix tokens.
+- `trim_none`, store a full token with all the blended characters;
+- `trim_head`, store a token with heading blended characters trimmed;
+- `trim_tail`, store a token with trailing blended characters trimmed;
+- `trim_both`, store a token with both heading and trailing blended characters trimmed;
+- `skip_pure`, do _not_ store tokens that only contain blended characters;
+- `prefix_tokens`, store all possible prefix tokens;
+- `suffix_tokens`, store all possible suffix tokens.
 
 To visualize all those trims a bit, consider the following setup:
 
@@ -1502,11 +1498,11 @@ doc_title = @someone!
 
 Quite a bunch of extra tokens will be indexed in this case:
 
--   `someone` for the base split;
--   `@someone!` for `trim_none`;
--   `someone!` for `trim_head`;
--   `@someone` for `trim_tail`;
--   `someone` (yes, again) for `trim_both`.
+- `someone` for the base split;
+- `@someone!` for `trim_none`;
+- `someone!` for `trim_head`;
+- `@someone` for `trim_tail`;
+- `someone` (yes, again) for `trim_both`.
 
 `trim_both` option might seem redundant here for a moment. But do consider a bit more complicated term like `&U.S.A!` where all the special characters are blended. It’s base split is three tokens (`u`, `s`, and `a`); it’s original full form (stored for `trim_none`) is lower-case `&u.s.a!`; and so for this term `trim_both` is the only way to still generate the cleaned-up `u.s.a` variant.
 
@@ -1514,19 +1510,19 @@ Quite a bunch of extra tokens will be indexed in this case:
 
 But `prefix_tokens` and `suffix_tokens` modes are, of course, especially useful for indexing mixed codes. The following gets stored with `blend_mode = prefix_tokens` in our running example:
 
--   pos 1, `ue`, `ue53`, `ue53n`, `ue53n5740`, and `ue53n5740au`
--   pos 2, `53`
--   pos 3, `n`
--   pos 4, `5740`
--   pos 5, `au`
+- pos 1, `ue`, `ue53`, `ue53n`, `ue53n5740`, and `ue53n5740au`
+- pos 2, `53`
+- pos 3, `n`
+- pos 4, `5740`
+- pos 5, `au`
 
 And with `blend_mode = suffix_tokens` respectively:
 
--   pos 1, `ue` and `ue53n5740au`
--   pos 2, `53` and `53n5740au`
--   pos 3, `n` and `n5740au`
--   pos 4, `5740` and `5740au`
--   pos 5, `au`
+- pos 1, `ue` and `ue53n5740au`
+- pos 2, `53` and `53n5740au`
+- pos 3, `n` and `n5740au`
+- pos 4, `5740` and `5740au`
+- pos 5, `au`
 
 Of course, there still can be missing combinations. For instance, `ue 53n` query will still not match any of that. However, for now we intentionally decided to avoid indexing _all_ the possible base token subsequences, as that seemed to produce way too much noise.
 
@@ -1603,8 +1599,6 @@ IDF boost
 Multply keyword IDF by a given value when ranking
 
 The operators are a bit more interesting!
-
-  
 
 Operator
 
@@ -1812,10 +1806,10 @@ boostme^1.23
 
 These let you implement grouping (with brackets) and classic boolean logic. The respective formal syntax is as follows:
 
--   brackets: `(expr1)`
--   AND: `expr1 expr2`
--   OR: `expr1 | expr2`
--   NOT: `-expr1` or `!expr1`
+- brackets: `(expr1)`
+- AND: `expr1 expr2`
+- OR: `expr1 | expr2`
+- NOT: `-expr1` or `!expr1`
 
 Where `expr1` and `expr2` are either keywords, or any other computable text query expressions. Here go a few query examples showing all of the operators.
 
@@ -1936,8 +1930,8 @@ id, content
 
 Assume that `in` and `the` are our only stopwords. What documents would be matched by the following two phrase queries?
 
-1.  `"microsoft office"`
-2.  `"microsoft in the office"`
+1. `"microsoft office"`
+2. `"microsoft in the office"`
 
 Query #1 only matches document #1, no big surprise there. However, as we just discussed, query #2 is in fact equivalent to `"microsoft * * office"`, because of stopwords. And so it matches both documents #2 and #3.
 
@@ -2025,20 +2019,19 @@ Field limit operator limits matching of the subsequent expressions to a given fi
 
 There are several syntax forms available.
 
-1.  `@field` limits matching to a single given field. This is the simplest form. `@(field)` is also valid.
-    
-2.  `@(f1,f2,f3)` limits matching to multiple given fields. Note that the match might happen just partially in one of the fields. For example, `@(title,body) hello world` does _not_ require that both keywords match in the very same field! Document like `{"id":123, "title":"hello", "body":"world"}` (pardon my JSON) does match this query.
-    
-3.  `@!(f1,f2,f3)` limits matching to all the fields _except_ given ones. This can be useful to avoid matching end-user queries against some internal system fields, for one. `@!f1` is also valid syntax in case you want to skip just the one field.
-    
-4.  `@*` syntax resets any previous limits, and re-enables matching all fields.
-    
+1. `@field` limits matching to a single given field. This is the simplest form. `@(field)` is also valid.
+
+2. `@(f1,f2,f3)` limits matching to multiple given fields. Note that the match might happen just partially in one of the fields. For example, `@(title,body) hello world` does _not_ require that both keywords match in the very same field! Document like `{"id":123, "title":"hello", "body":"world"}` (pardon my JSON) does match this query.
+
+3. `@!(f1,f2,f3)` limits matching to all the fields _except_ given ones. This can be useful to avoid matching end-user queries against some internal system fields, for one. `@!f1` is also valid syntax in case you want to skip just the one field.
+
+4. `@*` syntax resets any previous limits, and re-enables matching all fields.
 
 In addition, all forms except `@*` can be followed by an optional `[N]` clause, which limits the matching to `N` first tokens (keywords) within a field. All of the examples below are valid:
 
--   `@title[50] test`
--   `@(title,body)[50] test`
--   `@!title[50] test`
+- `@title[50] test`
+- `@(title,body)[50] test`
+- `@!title[50] test`
 
 To reiterate, field limits are “contained” by brackets, or more formally, any current limits are stored on an opening bracket, and restored on a closing one.
 
@@ -2086,8 +2079,8 @@ Where `N` has the same meaning as in the proximity operator, the number of allow
 
 Left and right expressions can still match in any order. For example, a query `progress NEAR/2 bar` would match both these documents:
 
-1.  `progress bar`
-2.  `a bar called Progress`
+1. `progress bar`
+2. `a bar called Progress`
 
 NEAR is left associative, meaning that `arg1 NEAR/X arg2 NEAR/Y arg3` will be evaluated as `(arg1 NEAR/X arg2) NEAR/Y arg3`. It has the same (lowest) precedence as BEFORE.
 
@@ -2194,22 +2187,22 @@ And if you need to further limit matching to any of the individual contiguous sp
 
 Efficient geosearches are possible with Sphinx, and the related features are:
 
--   `GEODIST()` function that computes a distance between two geopoints
--   `CONTAINS()` function that checks if a geopoint is inside a geopolygon
--   [attribute indexes](http://sphinxsearch.com/docs/sphinx3.html#using-attribute-indexes) that are used for fast, early distance checks
+- `GEODIST()` function that computes a distance between two geopoints
+- `CONTAINS()` function that checks if a geopoint is inside a geopolygon
+- [attribute indexes](http://sphinxsearch.com/docs/sphinx3.html#using-attribute-indexes) that are used for fast, early distance checks
 
 **Attribute indexes for geosearches.**
 
 When you create indexes on your latitude and longitude columns (and you should), query optimizer can utilize those in a few important `GEODIST()` usecases:
 
-1.  Single constant anchor case:
+1. Single constant anchor case:
 
 ```
 SELECT GEODIST(lat,lon,$lat,$lon) dist ...
     WHERE dist <= $radius
 ```
 
-2.  Multiple constant anchors case:
+2. Multiple constant anchors case:
 
 ```
 SELECT
@@ -2266,18 +2259,18 @@ Or say, what if we have another, super-selective `AND id=1234` condition in our 
 
 You can implement vector searches with Sphinx and there are several different features intended for that, namely:
 
--   fixed array attributes, eg. `rt_attr_int8_array = vec1[128]`
--   JSON array attributes, eg. `{"vec2": int8[1,2,3,4]}`
--   [`DOT()` function](http://sphinxsearch.com/docs/sphinx3.html#dot-function) to compute dot products
--   [`FVEC()` function](http://sphinxsearch.com/docs/sphinx3.html#fvec-function) to specify vector constants
+- fixed array attributes, eg. `rt_attr_int8_array = vec1[128]`
+- JSON array attributes, eg. `{"vec2": int8[1,2,3,4]}`
+- [`DOT()` function](http://sphinxsearch.com/docs/sphinx3.html#dot-function) to compute dot products
+- [`FVEC()` function](http://sphinxsearch.com/docs/sphinx3.html#fvec-function) to specify vector constants
 
 Let’s see how all these parts connect together.
 
 **First, storage.** You can store your per-document vectors using any of the following options:
 
--   fixed-size fixed-type arrays, ie. `XXX_attr_YYY_array` directive
--   JSON arrays with implicit types, ie. regular `[1,2,3,4]` values in JSON
--   JSON arrays with explicit types, ie. `int8[1,2,3,4]` or `float[1,2,3,4]` syntax extensions
+- fixed-size fixed-type arrays, ie. `XXX_attr_YYY_array` directive
+- JSON arrays with implicit types, ie. regular `[1,2,3,4]` values in JSON
+- JSON arrays with explicit types, ie. `int8[1,2,3,4]` or `float[1,2,3,4]` syntax extensions
 
 Fixed arrays are the fastest to access, but not flexible at all. Also, they require some RAM per every document. For instance, a fixed array with 32 floats (`rt_attr_float_array = test1[32]`) will consume 128 bytes per _every_ row, whether or not it contains any actual data (and arrays without any explicit data will be filled with zeroes).
 
@@ -2287,12 +2280,12 @@ JSON arrays are also “mixed” by default, that is, can contain values with ar
 
 To store an array of `float` values in JSON, you have to:
 
--   either specify `float` type in each value with `1.234f` syntax (because by default `1.234` gets a `double` type in JSON), eg: `[1.0f, 2.0f, 3.0f]`
--   or specify array type with `float[...]` syntax, eg: `float[1,2,3]`
+- either specify `float` type in each value with `1.234f` syntax (because by default `1.234` gets a `double` type in JSON), eg: `[1.0f, 2.0f, 3.0f]`
+- or specify array type with `float[...]` syntax, eg: `float[1,2,3]`
 
 To store an array of `int8` values (ie. from -128 to 127 inclusive) in JSON, the only option is to:
 
--   specify array type with `int8[...]` syntax, eg: `int8[1,2,3]`
+- specify array type with `int8[...]` syntax, eg: `int8[1,2,3]`
 
 In both these cases, we require an explicit type to differentiate between the two possible options (`float` vs `double`, or `int8` vs `int` case), and by default, we choose to use higher precision rather than save space.
 
@@ -2336,9 +2329,9 @@ This mechanism is called the **expression ranker** and its ranking formulas (exp
 
 There are three types (or levels) of factors, that determine when exactly some given factor can and will be computed:
 
--   **query factors**: values that only depend on the search query, but not the document, like `query_word_count`;
--   **document factors**: values that depend on both the query _and_ the matched document, like `doc_word_count` or `bm15`;
--   **field factors**: values that depend on both the query _and_ the matched full-text field, like `word_count` or `lcs`.
+- **query factors**: values that only depend on the search query, but not the document, like `query_word_count`;
+- **document factors**: values that depend on both the query _and_ the matched document, like `doc_word_count` or `bm15`;
+- **field factors**: values that depend on both the query _and_ the matched full-text field, like `word_count` or `lcs`.
 
 **Query factors** are naturally computed just once at the query start, and from there they stay constant. Those are usually simple things, like a number of unique keywords in the query. You can use them anywhere in the ranking formula.
 
@@ -2348,9 +2341,7 @@ Finally, **field factors** are even more granular, they get computed for every s
 
 And before we discuss every specific factor in a bit more details, here goes the obligatory **factors cheat sheet**.
 
--   **Hits** in Sphinx == postings in IR == formally “a number of (a certain type of) matching keyword occurrences in the current field”
-
-  
+- **Hits** in Sphinx == postings in IR == formally “a number of (a certain type of) matching keyword occurrences in the current field”
 
 Name
 
@@ -2646,8 +2637,8 @@ Formally, a (field) factor aggregation function is a single argument function th
 
 Currently supported aggregation functions are:
 
--   `SUM()`, sums the argument expression over all matched fields. For instance, `sum(1)` should return a number of matched fields.
--   `TOP()`, returns the greatest value of the argument over all matched fields. For instance, `top(max_idf)` should return a maximum per-keyword IDF over the entire document.
+- `SUM()`, sums the argument expression over all matched fields. For instance, `sum(1)` should return a number of matched fields.
+- `TOP()`, returns the greatest value of the argument over all matched fields. For instance, `top(max_idf)` should return a maximum per-keyword IDF over the entire document.
 
 Naturally, these are only needed over expressions with field-level factors, query-level and document-level factors can be used in the formulas “as is”.
 
@@ -2972,9 +2963,9 @@ Therefore, this is a rather low-level, “raw” factor that you would most like
 
 Specific adjustments depend heavily on your data and the resulting formula, but here are a few ideas you can start with:
 
--   any `min_gaps` based boosts could be simply ignored when `word_count < 2`;
--   non-trivial `min_gaps` values (ie. when `word_count <= 2`) could be clamped with a certain “worst case” constant while trivial values (ie. when `min_gaps = 0` and `word_count < 2`) could be replaced by that constant;
--   a transfer function like `1 / (1 + min_gaps)` could be applied (so that better, smaller min\_gaps values would maximize it and worse, bigger `min_gaps` values would fall off slowly).
+- any `min_gaps` based boosts could be simply ignored when `word_count < 2`;
+- non-trivial `min_gaps` values (ie. when `word_count <= 2`) could be clamped with a certain “worst case” constant while trivial values (ie. when `min_gaps = 0` and `word_count < 2`) could be replaced by that constant;
+- a transfer function like `1 / (1 + min_gaps)` could be applied (so that better, smaller min\_gaps values would maximize it and worse, bigger `min_gaps` values would fall off slowly).
 
 #### min\_hit\_pos
 
@@ -3021,8 +3012,6 @@ Field-level, the number of unique keywords matched in the field. For example, if
 All of the built-in Sphinx rankers can be emulated with the expression based ranker. You just need to pass a proper formula using the `OPTION ranker` clause.
 
 Such emulation is, of course, going to be slower than using the built-in, pre-compiled rankers. But it still might be of interest if you want to start fine-tuning your ranking formula from an existing built-in baselines ranker. (Also, these formulas kinda define the nitty gritty built-in ranker details in a nicely readable fashion.)
-
-  
 
 Ranker
 
@@ -3072,8 +3061,8 @@ OPTION ranker=expr('sum(lcs*user_weight)*1000 + bm25')
 
 Sphinx supports several different IDF (Inverse Document Frequency) calculation options. Those can affect your relevance ranking (aka scoring) when you are:
 
--   _either_ sharding your data, even with built-in rankers;
--   _or_ doing any custom ranking work, even on a single shard.
+- _either_ sharding your data, even with built-in rankers;
+- _or_ doing any custom ranking work, even on a single shard.
 
 By default, term IDFs are (a) per-shard, and (b) computed online. So they might fluctuate significantly when ranking. And several other ranking factors rely on them, so the entire rank might change a lot in a seeimingly random fashion. The reasons are twofold.
 
@@ -3083,25 +3072,25 @@ Second, IDFs might change from query to query, as you update the index data. Tha
 
 To help alleviate these quirks (if they affect your use case), Sphinx offers two features:
 
-1.  `local_df` option to aggregate sharded IDFs.
-2.  `global_idf` feature to enforce prebuilt static IDFs.
+1. `local_df` option to aggregate sharded IDFs.
+2. `global_idf` feature to enforce prebuilt static IDFs.
 
 `local_df` syntax is `SELECT ... OPTION local_df=1` and enabling that option tells the query to compute IDFs (more) precisely, i.e. over the entire index rather than individual shards. The default value is 0 (off) for performance reasons.
 
 `global_idf` feature is more complicated and includes several components:
 
--   `indextool --dumpdict --stats` switch that generates the source data, i.e. the per-shard dictionary dumps;
--   `indextool --buildidf` switch that builds a static IDF file from those;
--   per-shard `global_idf` config directive that lets you assign a static IDF file to your shards;
--   per-query `OPTION global_idf=1` that forces the query to use that file.
+- `indextool --dumpdict --stats` switch that generates the source data, i.e. the per-shard dictionary dumps;
+- `indextool --buildidf` switch that builds a static IDF file from those;
+- per-shard `global_idf` config directive that lets you assign a static IDF file to your shards;
+- per-query `OPTION global_idf=1` that forces the query to use that file.
 
 Both these features affect the input variables used for IDF calculations. More specifically:
 
--   let `n` be the DF, document frequency (for a given term);
--   let `N` be the corpus size, total number of documents;
--   by default, both `n` and `N` are per-shard;
--   with `local_df`, they both are summed across shards;
--   with `global_idf`, they both are taken from a static IDF file.
+- let `n` be the DF, document frequency (for a given term);
+- let `N` be the corpus size, total number of documents;
+- by default, both `n` and `N` are per-shard;
+- with `local_df`, they both are summed across shards;
+- with `global_idf`, they both are taken from a static IDF file.
 
 The static `global_idf` file actually stores a bunch of `n` values for every individual term, and the `N` value for the entire corpus, summed over all the source files that were available during `--buildidf` stage. For terms that are not present in the static `global_idf` file, their current (dynamic) DF values will be used. `local_df` should also still affect those.
 
@@ -3113,7 +3102,7 @@ To keep the `global_idf` file reasonably compact, you can use the additional `--
 
 Starting with v.3.3 we removed several legacy IDF calculation methods, and now Sphinx always uses the following formula to compute IDF from `n` (the document frequency) and `N` (the corpus size).
 
--   `idf = log(N/n) / (2*log(N+1)) * term_idf_boost`
+- `idf = log(N/n) / (2*log(N+1)) * term_idf_boost`
 
 So we start with de-facto standard `raw_idf = log(N/n)`; then we normalize that for the corpus size; and further compress the `idf` into `[0.0, 0.5)` range.
 
@@ -3155,9 +3144,9 @@ Once the timeout reaches zero, the siege mode will be automatically lifted.
 
 There also are intentionally hardcoded limits you can’t change, namely:
 
--   upper limit for `siege` is 300 seconds, i.e. 5 minutes
--   upper limit for `siege_max_fetched_docs` is 1,000,000 documents
--   upper limit for `siege_max_query_msec` is 1 second, i.e. 1000 msec
+- upper limit for `siege` is 300 seconds, i.e. 5 minutes
+- upper limit for `siege_max_fetched_docs` is 1,000,000 documents
+- upper limit for `siege_max_query_msec` is 1 second, i.e. 1000 msec
 
 Note that **current siege limits are reset when the siege stops.** So in the example above, if you start another siege in 20 seconds, then that next siege will be restarted with 1M docs and 1000 msec limits, and _not_ the 1000 docs and 300 msec limits from the previous one.
 
@@ -3201,54 +3190,54 @@ This section should eventually contain the complete SphinxQL reference. If the s
 
 Here’s a complete list of SphinxQL statements.
 
--   [ALTER syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-attach)
--   [ATTACH INDEX syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-attach-index)
--   [BEGIN syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-begin)
--   [BEGIN, COMMIT, and ROLLBACK syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-commit)
--   [BULK UPDATE syntax](http://sphinxsearch.com/docs/sphinx3.html#bulk-update-syntax)
--   [CALL KEYWORDS syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-call-keywords)
--   [CALL QSUGGEST syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-call-qsuggest)
--   [CALL SNIPPETS syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-call-snippets)
--   [CALL SUGGEST syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-call-suggest)
--   [CREATE FUNCTION syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-create-function)
--   [CREATE PLUGIN syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-create-plugin)
--   [DELETE syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-delete)
--   [DESCRIBE syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-describe)
--   [DROP FUNCTION syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-drop-function)
--   [DROP PLUGIN syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-drop-plugin)
--   [FLUSH ATTRIBUTES syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-flush-attributes)
--   [FLUSH HOSTNAMES syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-flush-hostnames)
--   [FLUSH RAMCHUNK syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-flush-ramchunk)
--   [FLUSH RTINDEX syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-flush-rtindex)
--   [INSERT and REPLACE syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-insert)
--   [KILL syntax](http://sphinxsearch.com/docs/sphinx3.html#kill-syntax)
--   [OPTIMIZE INDEX syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-optimize-index)
--   [RELOAD INDEX syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-reload-index)
--   [RELOAD PLUGINS syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-reload-plugins)
--   [REPLACE syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-replace)
--   [ROLLBACK syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-rollback)
--   [SELECT ‘system\_variable’ syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-select-sysvar)
--   [SELECT syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-select)
--   [SET syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-set)
--   [SET TRANSACTION syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-set-transaction)
--   [SHOW AGENT STATUS](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-show-agent-status)
--   [SHOW CHARACTER SET syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-show-character-set)
--   [SHOW COLLATION syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-show-collation)
--   [SHOW DATABASES syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-show-databases)
--   [SHOW INDEX AGENT STATUS syntax](http://sphinxsearch.com/docs/sphinx3.html#show-index-agent-status-syntax)
--   [SHOW INDEX SETTINGS syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-show-index-settings)
--   [SHOW INDEX STATUS syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-show-index-status)
--   [SHOW META syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-show-meta)
--   [SHOW PLAN syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-show-plan)
--   [SHOW PLUGINS syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-show-plugins)
--   [SHOW PROFILE syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-show-profile)
--   [SHOW STATUS syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-show-status)
--   [SHOW TABLES syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-show-tables)
--   [SHOW THREADS syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-threads)
--   [SHOW VARIABLES syntax](http://sphinxsearch.com/docs/sphinx3.html#show-variables-syntax)
--   [SHOW WARNINGS syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-show-warnings)
--   [TRUNCATE RTINDEX syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-truncate-rtindex)
--   [UPDATE syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-update)
+- [ALTER syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-attach)
+- [ATTACH INDEX syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-attach-index)
+- [BEGIN syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-begin)
+- [BEGIN, COMMIT, and ROLLBACK syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-commit)
+- [BULK UPDATE syntax](http://sphinxsearch.com/docs/sphinx3.html#bulk-update-syntax)
+- [CALL KEYWORDS syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-call-keywords)
+- [CALL QSUGGEST syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-call-qsuggest)
+- [CALL SNIPPETS syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-call-snippets)
+- [CALL SUGGEST syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-call-suggest)
+- [CREATE FUNCTION syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-create-function)
+- [CREATE PLUGIN syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-create-plugin)
+- [DELETE syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-delete)
+- [DESCRIBE syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-describe)
+- [DROP FUNCTION syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-drop-function)
+- [DROP PLUGIN syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-drop-plugin)
+- [FLUSH ATTRIBUTES syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-flush-attributes)
+- [FLUSH HOSTNAMES syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-flush-hostnames)
+- [FLUSH RAMCHUNK syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-flush-ramchunk)
+- [FLUSH RTINDEX syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-flush-rtindex)
+- [INSERT and REPLACE syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-insert)
+- [KILL syntax](http://sphinxsearch.com/docs/sphinx3.html#kill-syntax)
+- [OPTIMIZE INDEX syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-optimize-index)
+- [RELOAD INDEX syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-reload-index)
+- [RELOAD PLUGINS syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-reload-plugins)
+- [REPLACE syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-replace)
+- [ROLLBACK syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-rollback)
+- [SELECT ‘system\_variable’ syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-select-sysvar)
+- [SELECT syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-select)
+- [SET syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-set)
+- [SET TRANSACTION syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-set-transaction)
+- [SHOW AGENT STATUS](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-show-agent-status)
+- [SHOW CHARACTER SET syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-show-character-set)
+- [SHOW COLLATION syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-show-collation)
+- [SHOW DATABASES syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-show-databases)
+- [SHOW INDEX AGENT STATUS syntax](http://sphinxsearch.com/docs/sphinx3.html#show-index-agent-status-syntax)
+- [SHOW INDEX SETTINGS syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-show-index-settings)
+- [SHOW INDEX STATUS syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-show-index-status)
+- [SHOW META syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-show-meta)
+- [SHOW PLAN syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-show-plan)
+- [SHOW PLUGINS syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-show-plugins)
+- [SHOW PROFILE syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-show-profile)
+- [SHOW STATUS syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-show-status)
+- [SHOW TABLES syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-show-tables)
+- [SHOW THREADS syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-threads)
+- [SHOW VARIABLES syntax](http://sphinxsearch.com/docs/sphinx3.html#show-variables-syntax)
+- [SHOW WARNINGS syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-show-warnings)
+- [TRUNCATE RTINDEX syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-truncate-rtindex)
+- [UPDATE syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-update)
 
 ### BULK UPDATE syntax
 
@@ -3264,8 +3253,8 @@ BULK UPDATE ftindex (id, col1 [, col2 [, col3 ...]]) VALUES
 
 Overall they are quite similar to regular updates. To summarize quickly:
 
--   you can update (entire) attributes, naturally keeping their types (even when changing the width, ie. when updating a string, or entire JSON, etc);
--   you can update numeric values within JSON, also keeping their types (and naturally keeping the width).
+- you can update (entire) attributes, naturally keeping their types (even when changing the width, ie. when updating a string, or entire JSON, etc);
+- you can update numeric values within JSON, also keeping their types (and naturally keeping the width).
 
 First column in the list must always be the `id` column. Rows are uniquely identified by document ids.
 
@@ -3356,22 +3345,22 @@ FROM <ftindex> [, ...]
 
 Briefly, they are as follows:
 
--   required `SELECT` columns list (aka items list, aka expressions list)
--   required `FROM` clause, with the full-text index list
--   optional `<hint> INDEX` clauses, with the attribute index usage hints
--   optional `WHERE` condition clause, with the row filtering conditions
--   optional `GROUP BY` clause, with the row grouping conditions
--   optional `ORDER BY` clause, with the row sorting conditions
--   optional `LIMIT` clause, with the result set size and offset
--   optional `OPTION` clause, with all the special options
--   optional `FACET` clauses, with a list of requested additional facets
+- required `SELECT` columns list (aka items list, aka expressions list)
+- required `FROM` clause, with the full-text index list
+- optional `<hint> INDEX` clauses, with the attribute index usage hints
+- optional `WHERE` condition clause, with the row filtering conditions
+- optional `GROUP BY` clause, with the row grouping conditions
+- optional `ORDER BY` clause, with the row sorting conditions
+- optional `LIMIT` clause, with the result set size and offset
+- optional `OPTION` clause, with all the special options
+- optional `FACET` clauses, with a list of requested additional facets
 
 The most notable differences from regular SQL are these:
 
--   `FROM` list is **NOT** an implicit `JOIN`, but more like a `UNION`
--   `ORDER BY` is always present, default is `ORDER BY WEIGHT() DESC, id ASC`
--   `LIMIT` is always present, default is `LIMIT 0,20`
--   `GROUP BY` always picks a specific “best” row to represent the group
+- `FROM` list is **NOT** an implicit `JOIN`, but more like a `UNION`
+- `ORDER BY` is always present, default is `ORDER BY WEIGHT() DESC, id ASC`
+- `LIMIT` is always present, default is `LIMIT 0,20`
+- `GROUP BY` always picks a specific “best” row to represent the group
 
 #### Index hints clause
 
@@ -3395,9 +3384,9 @@ All flavors of `<hint> INDEX` clause take an index list as their argument, for e
 
 Summarily, hints work this way:
 
--   `USE INDEX` limits the optimizer to only use a subset of given indexes;
--   `IGNORE INDEX` strictly forbids given indexes from being used;
--   `FORCE INDEX` strictly forces the given indexes to be used.
+- `USE INDEX` limits the optimizer to only use a subset of given indexes;
+- `IGNORE INDEX` strictly forbids given indexes from being used;
+- `FORCE INDEX` strictly forces the given indexes to be used.
 
 `USE INDEX` tells the optimizer that it must only consider the given indexes, rather than _all_ the applicable ones. In other words, in the absence of the `USE` clause, all indexes are fair game. In its presence, only those that were mentioned in the `USE` list are. The optimizer still decides whether to actually to use or ignore any specific index. In the example above it still might choose to use `idx_lat` only, but it must never use `idx_time`, on the grounds that it was not mentioned explicitly.
 
@@ -3457,8 +3446,8 @@ SHOW [{GLOBAL | SESSION}] VARIABLES
 
 `SHOW VARIABLES` statement serves two very different purposes:
 
--   to provide compatibility with 3rd party MySQL clients;
--   to examine the current status of `searchd` server variables.
+- to provide compatibility with 3rd party MySQL clients;
+- to examine the current status of `searchd` server variables.
 
 Compatibility mode is required to support connections from certain MySQL clients that automatically run `SHOW VARIABLES` on connection and fail if that statement raises an error.
 
@@ -3519,81 +3508,81 @@ This section should eventually contain the complete reference on functions that 
 
 Here’s a complete list of builtin Sphinx functions.
 
--   [ABS](http://sphinxsearch.com/docs/sphinx2.html#expr-func-abs)
--   [ALL](http://sphinxsearch.com/docs/sphinx2.html#expr-func-all)
--   [ANY](http://sphinxsearch.com/docs/sphinx2.html#expr-func-any)
--   [ATAN2](http://sphinxsearch.com/docs/sphinx2.html#expr-func-atan2)
--   [BIGINT](http://sphinxsearch.com/docs/sphinx2.html#expr-func-bigint)
--   [BITCOUNT](http://sphinxsearch.com/docs/sphinx2.html#expr-func-bitcount)
--   [BITDOT](http://sphinxsearch.com/docs/sphinx2.html#expr-func-bitdot)
--   [BM25F](http://sphinxsearch.com/docs/sphinx2.html#expr-func-bm25f)
--   [CEIL](http://sphinxsearch.com/docs/sphinx2.html#expr-func-ceil)
--   [COALESCE](http://sphinxsearch.com/docs/sphinx2.html#expr-func-coalesce)
--   [CONNECTION\_ID](http://sphinxsearch.com/docs/sphinx2.html#expr-func-connection-id)
--   [CONTAINS](http://sphinxsearch.com/docs/sphinx2.html#expr-func-contains)
--   [COS](http://sphinxsearch.com/docs/sphinx2.html#expr-func-cos)
--   [CRC32](http://sphinxsearch.com/docs/sphinx2.html#expr-func-crc32)
--   [CURRENT\_USER](http://sphinxsearch.com/docs/sphinx2.html#expr-func-current-user)
--   [CURTIME](http://sphinxsearch.com/docs/sphinx2.html#expr-func-curtime)
--   [DAY](http://sphinxsearch.com/docs/sphinx2.html#expr-func-day)
--   [DOCUMENT](http://sphinxsearch.com/docs/sphinx2.html#expr-func-document)
--   [DOT](http://sphinxsearch.com/docs/sphinx3.html#dot-function)
--   [DOUBLE](http://sphinxsearch.com/docs/sphinx2.html#expr-func-double)
--   [EXIST](http://sphinxsearch.com/docs/sphinx2.html#expr-func-exist)
--   [EXP](http://sphinxsearch.com/docs/sphinx2.html#expr-func-exp)
--   [FACTORS](http://sphinxsearch.com/docs/sphinx2.html#expr-func-factors)
--   [FIBONACCI](http://sphinxsearch.com/docs/sphinx2.html#expr-func-fibonacci)
--   [FLOOR](http://sphinxsearch.com/docs/sphinx2.html#expr-func-floor)
--   [FVEC](http://sphinxsearch.com/docs/sphinx3.html#fvec-function)
--   [GEODIST](http://sphinxsearch.com/docs/sphinx2.html#expr-func-geodist)
--   [GEOPOLY2D](http://sphinxsearch.com/docs/sphinx2.html#expr-func-geopoly2d)
--   [GREATEST](http://sphinxsearch.com/docs/sphinx2.html#expr-func-greatest)
--   [HOUR](http://sphinxsearch.com/docs/sphinx2.html#expr-func-hour)
--   [IDIV](http://sphinxsearch.com/docs/sphinx2.html#expr-func-idiv)
--   [IF](http://sphinxsearch.com/docs/sphinx2.html#expr-func-if)
--   [IN](http://sphinxsearch.com/docs/sphinx2.html#expr-func-in)
--   [INDEXOF](http://sphinxsearch.com/docs/sphinx2.html#expr-func-indexof)
--   [INTEGER](http://sphinxsearch.com/docs/sphinx2.html#expr-func-integer)
--   [INTERVAL](http://sphinxsearch.com/docs/sphinx2.html#expr-func-interval)
--   [LEAST](http://sphinxsearch.com/docs/sphinx2.html#expr-func-least)
--   [LENGTH](http://sphinxsearch.com/docs/sphinx2.html#expr-func-length)
--   [LN](http://sphinxsearch.com/docs/sphinx2.html#expr-func-ln)
--   [LOG10](http://sphinxsearch.com/docs/sphinx2.html#expr-func-log10)
--   [LOG2](http://sphinxsearch.com/docs/sphinx2.html#expr-func-log2)
--   [MADD](http://sphinxsearch.com/docs/sphinx2.html#expr-func-madd)
--   [MAX](http://sphinxsearch.com/docs/sphinx2.html#expr-func-max)
--   [MIN](http://sphinxsearch.com/docs/sphinx2.html#expr-func-min)
--   [MIN\_TOP\_SORTVAL](http://sphinxsearch.com/docs/sphinx2.html#expr-func-min-top-sortval)
--   [MIN\_TOP\_WEIGHT](http://sphinxsearch.com/docs/sphinx2.html#expr-func-min-top-weight)
--   [MINUTE](http://sphinxsearch.com/docs/sphinx2.html#expr-func-minute)
--   [MONTH](http://sphinxsearch.com/docs/sphinx2.html#expr-func-month)
--   [MUL3](http://sphinxsearch.com/docs/sphinx2.html#expr-func-mul3)
--   [NOW](http://sphinxsearch.com/docs/sphinx2.html#expr-func-now)
--   [PACKEDFACTORS](http://sphinxsearch.com/docs/sphinx2.html#expr-func-packedfactors)
--   [POLY2D](http://sphinxsearch.com/docs/sphinx2.html#expr-func-poly2d)
--   [POW](http://sphinxsearch.com/docs/sphinx2.html#expr-func-pow)
--   [PP](http://sphinxsearch.com/docs/sphinx3.html#pp-function)
--   [QUERY](http://sphinxsearch.com/docs/sphinx2.html#expr-func-query)
--   [RAND](http://sphinxsearch.com/docs/sphinx2.html#expr-func-rand)
--   [RANKFACTORS](http://sphinxsearch.com/docs/sphinx2.html#expr-func-rankfactors)
--   [REMAP](http://sphinxsearch.com/docs/sphinx2.html#expr-func-remap)
--   [SECOND](http://sphinxsearch.com/docs/sphinx2.html#expr-func-second)
--   [SIN](http://sphinxsearch.com/docs/sphinx2.html#expr-func-sin)
--   [SINT](http://sphinxsearch.com/docs/sphinx2.html#expr-func-sint)
--   [SLICEAVG](http://sphinxsearch.com/docs/sphinx3.html#slice-functions)
--   [SLICEMAX](http://sphinxsearch.com/docs/sphinx3.html#slice-functions)
--   [SLICEMIN](http://sphinxsearch.com/docs/sphinx3.html#slice-functions)
--   [SQRT](http://sphinxsearch.com/docs/sphinx2.html#expr-func-sqrt)
--   [STRPOS](http://sphinxsearch.com/docs/sphinx3.html#strpos-function)
--   [TIMEDIFF](http://sphinxsearch.com/docs/sphinx2.html#expr-func-timediff)
--   [TO\_STRING](http://sphinxsearch.com/docs/sphinx2.html#expr-func-to-string)
--   [UINT](http://sphinxsearch.com/docs/sphinx2.html#expr-func-uint)
--   [UTC\_TIME](http://sphinxsearch.com/docs/sphinx2.html#expr-func-utc-time)
--   [UTC\_TIMESTAMP](http://sphinxsearch.com/docs/sphinx2.html#expr-func-utc-timestamp)
--   [YEAR](http://sphinxsearch.com/docs/sphinx2.html#expr-func-year)
--   [YEARMONTH](http://sphinxsearch.com/docs/sphinx2.html#expr-func-yearmonth)
--   [YEARMONTHDAY](http://sphinxsearch.com/docs/sphinx2.html#expr-func-yearmonthday)
--   [ZONESPANLIST](http://sphinxsearch.com/docs/sphinx2.html#expr-func-zonespanlist)
+- [ABS](http://sphinxsearch.com/docs/sphinx2.html#expr-func-abs)
+- [ALL](http://sphinxsearch.com/docs/sphinx2.html#expr-func-all)
+- [ANY](http://sphinxsearch.com/docs/sphinx2.html#expr-func-any)
+- [ATAN2](http://sphinxsearch.com/docs/sphinx2.html#expr-func-atan2)
+- [BIGINT](http://sphinxsearch.com/docs/sphinx2.html#expr-func-bigint)
+- [BITCOUNT](http://sphinxsearch.com/docs/sphinx2.html#expr-func-bitcount)
+- [BITDOT](http://sphinxsearch.com/docs/sphinx2.html#expr-func-bitdot)
+- [BM25F](http://sphinxsearch.com/docs/sphinx2.html#expr-func-bm25f)
+- [CEIL](http://sphinxsearch.com/docs/sphinx2.html#expr-func-ceil)
+- [COALESCE](http://sphinxsearch.com/docs/sphinx2.html#expr-func-coalesce)
+- [CONNECTION\_ID](http://sphinxsearch.com/docs/sphinx2.html#expr-func-connection-id)
+- [CONTAINS](http://sphinxsearch.com/docs/sphinx2.html#expr-func-contains)
+- [COS](http://sphinxsearch.com/docs/sphinx2.html#expr-func-cos)
+- [CRC32](http://sphinxsearch.com/docs/sphinx2.html#expr-func-crc32)
+- [CURRENT\_USER](http://sphinxsearch.com/docs/sphinx2.html#expr-func-current-user)
+- [CURTIME](http://sphinxsearch.com/docs/sphinx2.html#expr-func-curtime)
+- [DAY](http://sphinxsearch.com/docs/sphinx2.html#expr-func-day)
+- [DOCUMENT](http://sphinxsearch.com/docs/sphinx2.html#expr-func-document)
+- [DOT](http://sphinxsearch.com/docs/sphinx3.html#dot-function)
+- [DOUBLE](http://sphinxsearch.com/docs/sphinx2.html#expr-func-double)
+- [EXIST](http://sphinxsearch.com/docs/sphinx2.html#expr-func-exist)
+- [EXP](http://sphinxsearch.com/docs/sphinx2.html#expr-func-exp)
+- [FACTORS](http://sphinxsearch.com/docs/sphinx2.html#expr-func-factors)
+- [FIBONACCI](http://sphinxsearch.com/docs/sphinx2.html#expr-func-fibonacci)
+- [FLOOR](http://sphinxsearch.com/docs/sphinx2.html#expr-func-floor)
+- [FVEC](http://sphinxsearch.com/docs/sphinx3.html#fvec-function)
+- [GEODIST](http://sphinxsearch.com/docs/sphinx2.html#expr-func-geodist)
+- [GEOPOLY2D](http://sphinxsearch.com/docs/sphinx2.html#expr-func-geopoly2d)
+- [GREATEST](http://sphinxsearch.com/docs/sphinx2.html#expr-func-greatest)
+- [HOUR](http://sphinxsearch.com/docs/sphinx2.html#expr-func-hour)
+- [IDIV](http://sphinxsearch.com/docs/sphinx2.html#expr-func-idiv)
+- [IF](http://sphinxsearch.com/docs/sphinx2.html#expr-func-if)
+- [IN](http://sphinxsearch.com/docs/sphinx2.html#expr-func-in)
+- [INDEXOF](http://sphinxsearch.com/docs/sphinx2.html#expr-func-indexof)
+- [INTEGER](http://sphinxsearch.com/docs/sphinx2.html#expr-func-integer)
+- [INTERVAL](http://sphinxsearch.com/docs/sphinx2.html#expr-func-interval)
+- [LEAST](http://sphinxsearch.com/docs/sphinx2.html#expr-func-least)
+- [LENGTH](http://sphinxsearch.com/docs/sphinx2.html#expr-func-length)
+- [LN](http://sphinxsearch.com/docs/sphinx2.html#expr-func-ln)
+- [LOG10](http://sphinxsearch.com/docs/sphinx2.html#expr-func-log10)
+- [LOG2](http://sphinxsearch.com/docs/sphinx2.html#expr-func-log2)
+- [MADD](http://sphinxsearch.com/docs/sphinx2.html#expr-func-madd)
+- [MAX](http://sphinxsearch.com/docs/sphinx2.html#expr-func-max)
+- [MIN](http://sphinxsearch.com/docs/sphinx2.html#expr-func-min)
+- [MIN\_TOP\_SORTVAL](http://sphinxsearch.com/docs/sphinx2.html#expr-func-min-top-sortval)
+- [MIN\_TOP\_WEIGHT](http://sphinxsearch.com/docs/sphinx2.html#expr-func-min-top-weight)
+- [MINUTE](http://sphinxsearch.com/docs/sphinx2.html#expr-func-minute)
+- [MONTH](http://sphinxsearch.com/docs/sphinx2.html#expr-func-month)
+- [MUL3](http://sphinxsearch.com/docs/sphinx2.html#expr-func-mul3)
+- [NOW](http://sphinxsearch.com/docs/sphinx2.html#expr-func-now)
+- [PACKEDFACTORS](http://sphinxsearch.com/docs/sphinx2.html#expr-func-packedfactors)
+- [POLY2D](http://sphinxsearch.com/docs/sphinx2.html#expr-func-poly2d)
+- [POW](http://sphinxsearch.com/docs/sphinx2.html#expr-func-pow)
+- [PP](http://sphinxsearch.com/docs/sphinx3.html#pp-function)
+- [QUERY](http://sphinxsearch.com/docs/sphinx2.html#expr-func-query)
+- [RAND](http://sphinxsearch.com/docs/sphinx2.html#expr-func-rand)
+- [RANKFACTORS](http://sphinxsearch.com/docs/sphinx2.html#expr-func-rankfactors)
+- [REMAP](http://sphinxsearch.com/docs/sphinx2.html#expr-func-remap)
+- [SECOND](http://sphinxsearch.com/docs/sphinx2.html#expr-func-second)
+- [SIN](http://sphinxsearch.com/docs/sphinx2.html#expr-func-sin)
+- [SINT](http://sphinxsearch.com/docs/sphinx2.html#expr-func-sint)
+- [SLICEAVG](http://sphinxsearch.com/docs/sphinx3.html#slice-functions)
+- [SLICEMAX](http://sphinxsearch.com/docs/sphinx3.html#slice-functions)
+- [SLICEMIN](http://sphinxsearch.com/docs/sphinx3.html#slice-functions)
+- [SQRT](http://sphinxsearch.com/docs/sphinx2.html#expr-func-sqrt)
+- [STRPOS](http://sphinxsearch.com/docs/sphinx3.html#strpos-function)
+- [TIMEDIFF](http://sphinxsearch.com/docs/sphinx2.html#expr-func-timediff)
+- [TO\_STRING](http://sphinxsearch.com/docs/sphinx2.html#expr-func-to-string)
+- [UINT](http://sphinxsearch.com/docs/sphinx2.html#expr-func-uint)
+- [UTC\_TIME](http://sphinxsearch.com/docs/sphinx2.html#expr-func-utc-time)
+- [UTC\_TIMESTAMP](http://sphinxsearch.com/docs/sphinx2.html#expr-func-utc-timestamp)
+- [YEAR](http://sphinxsearch.com/docs/sphinx2.html#expr-func-year)
+- [YEARMONTH](http://sphinxsearch.com/docs/sphinx2.html#expr-func-yearmonth)
+- [YEARMONTHDAY](http://sphinxsearch.com/docs/sphinx2.html#expr-func-yearmonthday)
+- [ZONESPANLIST](http://sphinxsearch.com/docs/sphinx2.html#expr-func-zonespanlist)
 
 ### `DOT()` function
 
@@ -3623,8 +3612,8 @@ FVEC(json.key)
 
 `FVEC()` function lets you define a vector of floats. Two current usecases are:
 
--   to define a constant vector for subsequent use with [`DOT()`](http://sphinxsearch.com/docs/sphinx3.html#dot-function)
--   to pass optimized float vectors stored in JSON to UDFs
+- to define a constant vector for subsequent use with [`DOT()`](http://sphinxsearch.com/docs/sphinx3.html#dot-function)
+- to pass optimized float vectors stored in JSON to UDFs
 
 **Constant vector form.**
 
@@ -3745,19 +3734,19 @@ At the moment, needle must be a constant string. If needle is an empty string, t
 
 `searchd` has a number of server variables that can be changed on the fly using the `SET GLOBAL var = value` statement. This section provides a reference on all those variables.
 
--   [`attrindex_thresh`](http://sphinxsearch.com/docs/sphinx3.html#attrindex_thresh-variable)
--   [`log_debug_filter`](http://sphinxsearch.com/docs/sphinx3.html#log_debug_filter-variable)
--   [`log_level`](http://sphinxsearch.com/docs/sphinx3.html#log_level-variable)
--   [`net_wait`](http://sphinxsearch.com/docs/sphinx3.html#net_wait-variable)
--   [`qcache_max_bytes`](http://sphinxsearch.com/docs/sphinx2.html#qcache)
--   [`qcache_thresh_msec`](http://sphinxsearch.com/docs/sphinx2.html#qcache)
--   [`qcache_ttl_sec`](http://sphinxsearch.com/docs/sphinx2.html#qcache)
--   [`query_log_format`](http://sphinxsearch.com/docs/sphinx3.html#query_log_format-variable)
--   [`query_log_min_msec`](http://sphinxsearch.com/docs/sphinx3.html#query_log_min_msec-variable)
--   [`siege`](http://sphinxsearch.com/docs/sphinx3.html#siege-mode)
--   [`siege_max_fetched_docs`](http://sphinxsearch.com/docs/sphinx3.html#siege-mode)
--   [`sql_fail_filter`](http://sphinxsearch.com/docs/sphinx3.html#sql_fail_filter-variable)
--   [`sql_log_file`](http://sphinxsearch.com/docs/sphinx3.html#sql_log_file-variable)
+- [`attrindex_thresh`](http://sphinxsearch.com/docs/sphinx3.html#attrindex_thresh-variable)
+- [`log_debug_filter`](http://sphinxsearch.com/docs/sphinx3.html#log_debug_filter-variable)
+- [`log_level`](http://sphinxsearch.com/docs/sphinx3.html#log_level-variable)
+- [`net_wait`](http://sphinxsearch.com/docs/sphinx3.html#net_wait-variable)
+- [`qcache_max_bytes`](http://sphinxsearch.com/docs/sphinx2.html#qcache)
+- [`qcache_thresh_msec`](http://sphinxsearch.com/docs/sphinx2.html#qcache)
+- [`qcache_ttl_sec`](http://sphinxsearch.com/docs/sphinx2.html#qcache)
+- [`query_log_format`](http://sphinxsearch.com/docs/sphinx3.html#query_log_format-variable)
+- [`query_log_min_msec`](http://sphinxsearch.com/docs/sphinx3.html#query_log_min_msec-variable)
+- [`siege`](http://sphinxsearch.com/docs/sphinx3.html#siege-mode)
+- [`siege_max_fetched_docs`](http://sphinxsearch.com/docs/sphinx3.html#siege-mode)
+- [`sql_fail_filter`](http://sphinxsearch.com/docs/sphinx3.html#sql_fail_filter-variable)
+- [`sql_log_file`](http://sphinxsearch.com/docs/sphinx3.html#sql_log_file-variable)
 
 ### `attrindex_thresh` variable
 
@@ -3851,10 +3840,10 @@ SET GLOBAL sql_log_file = '/tmp/sphinxlog.sql'
 
 SQL log lets you (temporarily) enable logging all the incoming SphinxQL queries, in (almost) raw form. Compared to `query_log` directive, this logger:
 
--   logs _all_ SphinxQL queries, not just searches;
--   does _not_ log any SphinxAPI calls;
--   does _not_ have any noticeable performance impact;
--   is stopped by default.
+- logs _all_ SphinxQL queries, not just searches;
+- does _not_ log any SphinxAPI calls;
+- does _not_ have any noticeable performance impact;
+- is stopped by default.
 
 Queries are stored as received. A hardcoded `; /* EOQ */` separator and then a newline are stored after every query, for parsing convenience. It’s useful to capture and later replay a stream of all client SphinxQL queries.
 
@@ -3874,214 +3863,214 @@ We do _not_ recommend keeping SQL logging on for prolonged periods on loaded sys
 
 New features:
 
--   added [UDF call batching](http://sphinxsearch.com/docs/sphinx3.html#udf-call-batching) that enables UDFs to process multiple matched rows at a time
--   added [`PP()`](http://sphinxsearch.com/docs/sphinx3.html#pp-function) pretty-printing function for `FACTORS()` and JSON values
--   added multi-threaded index loading
--   added [`KILL <tid>`](http://sphinxsearch.com/docs/sphinx3.html#kill-syntax) SphinxQL statement
--   added [`SHOW INDEX <idx> AGENT STATUS`](http://sphinxsearch.com/docs/sphinx3.html#show-index-agent-status-syntax) SphinxQL statement, and moved per-agent counters there from `SHOW STATUS`
+- added [UDF call batching](http://sphinxsearch.com/docs/sphinx3.html#udf-call-batching) that enables UDFs to process multiple matched rows at a time
+- added [`PP()`](http://sphinxsearch.com/docs/sphinx3.html#pp-function) pretty-printing function for `FACTORS()` and JSON values
+- added multi-threaded index loading
+- added [`KILL <tid>`](http://sphinxsearch.com/docs/sphinx3.html#kill-syntax) SphinxQL statement
+- added [`SHOW INDEX <idx> AGENT STATUS`](http://sphinxsearch.com/docs/sphinx3.html#show-index-agent-status-syntax) SphinxQL statement, and moved per-agent counters there from `SHOW STATUS`
 
 Minor new additions:
 
--   added a number of runtime [server variables](http://sphinxsearch.com/docs/sphinx3.html#server-variables-reference) to [`SHOW VARIABLES`](http://sphinxsearch.com/docs/sphinx3.html#show-variables-syntax), namely
-    -   added `log_debug_filter`, `net_spin_msec`, `query_log_min_msec`, `sql_fail_filter`, and `sql_log_file`
-    -   moved `attrindex_thresh`, `siege_max_fetched_docs`, `siege_max_query_msec`, `qcache_max_bytes`, `qcache_thresh_msec`, and `qcache_ttl_sec` from `SHOW STATUS`
--   added support for `SET GLOBAL server_var` in `sphinxql_state` startup script
+- added a number of runtime [server variables](http://sphinxsearch.com/docs/sphinx3.html#server-variables-reference) to [`SHOW VARIABLES`](http://sphinxsearch.com/docs/sphinx3.html#show-variables-syntax), namely
+  - added `log_debug_filter`, `net_spin_msec`, `query_log_min_msec`, `sql_fail_filter`, and `sql_log_file`
+  - moved `attrindex_thresh`, `siege_max_fetched_docs`, `siege_max_query_msec`, `qcache_max_bytes`, `qcache_thresh_msec`, and `qcache_ttl_sec` from `SHOW STATUS`
+- added support for `SET GLOBAL server_var` in `sphinxql_state` startup script
 
 Changes and improvements:
 
--   removed `timestamp` columns support, use `uint` type instead (existing indexes are still supported; `timestamp` should automatically work as `uint` in those)
--   removed `OPTION idf` and unified IDF calculations, see [“How Sphinx computes IDF”](http://sphinxsearch.com/docs/sphinx3.html#how-sphinx-computes-idf)
--   changed `WEIGHT()` from integer to float
--   changed `global_idf` behavior; now missing terms get local IDF instead of zero
--   changed `OPTION cutoff` to properly account all processed matches
--   changed directives deprecated in v.3.1 and earlier to hard errors
--   optimized indexing a little (about 1-2% faster)
--   optimized `DOT()` over `int8` vectors, upto 1.3x faster
--   optimized query throughput on fast read-only queries upto 350+ Krps (various internal locking and performance changes, aka “highload optimizations”)
--   improved float value formatting, mostly in SphinxQL output
--   improved `UPDATE` handling, updates can now execute in parallel (again)
--   improved index schema checks (more checks for invalid names, etc)
--   increased `SHOW THREADS` query limit from 512 to 2048 bytes
+- removed `timestamp` columns support, use `uint` type instead (existing indexes are still supported; `timestamp` should automatically work as `uint` in those)
+- removed `OPTION idf` and unified IDF calculations, see [“How Sphinx computes IDF”](http://sphinxsearch.com/docs/sphinx3.html#how-sphinx-computes-idf)
+- changed `WEIGHT()` from integer to float
+- changed `global_idf` behavior; now missing terms get local IDF instead of zero
+- changed `OPTION cutoff` to properly account all processed matches
+- changed directives deprecated in v.3.1 and earlier to hard errors
+- optimized indexing a little (about 1-2% faster)
+- optimized `DOT()` over `int8` vectors, upto 1.3x faster
+- optimized query throughput on fast read-only queries upto 350+ Krps (various internal locking and performance changes, aka “highload optimizations”)
+- improved float value formatting, mostly in SphinxQL output
+- improved `UPDATE` handling, updates can now execute in parallel (again)
+- improved index schema checks (more checks for invalid names, etc)
+- increased `SHOW THREADS` query limit from 512 to 2048 bytes
 
 Fixes:
 
--   fixed UDF memory leak when using a `FACTORS()` argument, and optimized that case a little
--   fixed `sql_log_file` race that caused (rare-ish) crashes under high query load
--   fixed that facets with expressions could occasionally yield either missing or incorrect resulting rows
--   fixed an overflow in docid hash (triggered on rather huge indexes)
--   fixed that `CALL KEYWORDS` did not use normalized term on `global_idf` lookup
--   fixed expression types issue when doing mixed int/float const promotion
--   fixed that RAM segments did not account the docid hash size
--   fixed that `INSERT` only checked RAM segments for duplicate docids
--   fixed an internal error on `COUNT(*)` vs empty RT
+- fixed UDF memory leak when using a `FACTORS()` argument, and optimized that case a little
+- fixed `sql_log_file` race that caused (rare-ish) crashes under high query load
+- fixed that facets with expressions could occasionally yield either missing or incorrect resulting rows
+- fixed an overflow in docid hash (triggered on rather huge indexes)
+- fixed that `CALL KEYWORDS` did not use normalized term on `global_idf` lookup
+- fixed expression types issue when doing mixed int/float const promotion
+- fixed that RAM segments did not account the docid hash size
+- fixed that `INSERT` only checked RAM segments for duplicate docids
+- fixed an internal error on `COUNT(*)` vs empty RT
 
 ### Version 3.2.1, 31 jan 2020
 
 New features:
 
--   added [term-OR operator](http://sphinxsearch.com/docs/sphinx3.html#term-or-operator) for proper query-level synonyms, for example `(red || green || blue) pixel`
--   added [document-only wordforms](http://sphinxsearch.com/docs/sphinx3.html#using-wordforms), for example `!indexme => differently`
--   added several [vector search](http://sphinxsearch.com/docs/sphinx3.html#searching-vector-searches) improvements
-    -   added int8/int/float fixed-width [array attributes](http://sphinxsearch.com/docs/sphinx3.html#using-array-attributes) support, for example `sql_attr_int8_array = myvec[128]`
-    -   added [`DOT()`](http://sphinxsearch.com/docs/sphinx3.html#dot-function) support for all those new array types
-    -   added int8 vectors support to JSON, and `int8[]` and `float[]` [JSON syntax extensions](http://sphinxsearch.com/docs/sphinx3.html#using-json)
-    -   added [`FVEC(json.field)`](http://sphinxsearch.com/docs/sphinx3.html#fvec-function) support to expressions, and the respective `SPH_UDF_TYPE_FLOAT_VEC` support to UDFs
--   added [`BULK UPDATE`](http://sphinxsearch.com/docs/sphinx3.html#bulk-update-syntax) SphinxQL statement
--   added attribute index reads for multi-GEODIST-OR queries, upto 15x+ speedup (see section on [geosearches](http://sphinxsearch.com/docs/sphinx3.html#searching-geosearches) for details)
--   added [siege mode](http://sphinxsearch.com/docs/sphinx3.html#siege-mode), temporary global query limits with `SET GLOBAL siege`
--   added `sum_idf_boost`, `is_noun_hits`, `is_latin_hits`, `is_number_hits`, `has_digit_hits` per-field ranking factors\](#ranking-factors)
--   added `is_noun`, `is_latin`, `is_number`, and `has_digit` per-term flags; added the respective `is_noun_words`, `is_latin_words`, `is_number_words`, and `has_digit_words` per-query ranking factors; and added query factors support to UDFs (see `sphinxudf.h`)
--   added online query stream filtering with [`SET GLOBAL sql_fail_filter`](http://sphinxsearch.com/docs/sphinx3.html#sql_fail_filter-variable)
--   added online query stream logging with [`SET GLOBAL sql_log_file`](http://sphinxsearch.com/docs/sphinx3.html#sql_log_file-variable)
--   added [`SLICEAVG`, `SLICEMAX`, `SLICEMIN`](http://sphinxsearch.com/docs/sphinx3.html#slice-functions) functions, and [`STRPOS(str,conststr)`](http://sphinxsearch.com/docs/sphinx3.html#strpos-function) function
+- added [term-OR operator](http://sphinxsearch.com/docs/sphinx3.html#term-or-operator) for proper query-level synonyms, for example `(red || green || blue) pixel`
+- added [document-only wordforms](http://sphinxsearch.com/docs/sphinx3.html#using-wordforms), for example `!indexme => differently`
+- added several [vector search](http://sphinxsearch.com/docs/sphinx3.html#searching-vector-searches) improvements
+  - added int8/int/float fixed-width [array attributes](http://sphinxsearch.com/docs/sphinx3.html#using-array-attributes) support, for example `sql_attr_int8_array = myvec[128]`
+  - added [`DOT()`](http://sphinxsearch.com/docs/sphinx3.html#dot-function) support for all those new array types
+  - added int8 vectors support to JSON, and `int8[]` and `float[]` [JSON syntax extensions](http://sphinxsearch.com/docs/sphinx3.html#using-json)
+  - added [`FVEC(json.field)`](http://sphinxsearch.com/docs/sphinx3.html#fvec-function) support to expressions, and the respective `SPH_UDF_TYPE_FLOAT_VEC` support to UDFs
+- added [`BULK UPDATE`](http://sphinxsearch.com/docs/sphinx3.html#bulk-update-syntax) SphinxQL statement
+- added attribute index reads for multi-GEODIST-OR queries, upto 15x+ speedup (see section on [geosearches](http://sphinxsearch.com/docs/sphinx3.html#searching-geosearches) for details)
+- added [siege mode](http://sphinxsearch.com/docs/sphinx3.html#siege-mode), temporary global query limits with `SET GLOBAL siege`
+- added `sum_idf_boost`, `is_noun_hits`, `is_latin_hits`, `is_number_hits`, `has_digit_hits` per-field ranking factors\](#ranking-factors)
+- added `is_noun`, `is_latin`, `is_number`, and `has_digit` per-term flags; added the respective `is_noun_words`, `is_latin_words`, `is_number_words`, and `has_digit_words` per-query ranking factors; and added query factors support to UDFs (see `sphinxudf.h`)
+- added online query stream filtering with [`SET GLOBAL sql_fail_filter`](http://sphinxsearch.com/docs/sphinx3.html#sql_fail_filter-variable)
+- added online query stream logging with [`SET GLOBAL sql_log_file`](http://sphinxsearch.com/docs/sphinx3.html#sql_log_file-variable)
+- added [`SLICEAVG`, `SLICEMAX`, `SLICEMIN`](http://sphinxsearch.com/docs/sphinx3.html#slice-functions) functions, and [`STRPOS(str,conststr)`](http://sphinxsearch.com/docs/sphinx3.html#strpos-function) function
 
 Minor new additions:
 
--   added hash-comment support to `exceptions` files
--   added `--dummy <arg>` switch to `searchd` (useful to quickly identify specific instances in the process list)
--   added IDF info, term flags, and JSON format output to `CALL KEYWORDS` (for JSON output, call it with `CALL KEYWORDS(..., 1 AS json)`
--   added `IS NULL` and `IS NOT NULL` checks to `ALL()` and `ANY()` JSON iterators
--   added `last_good_id` to TSV indexing error reporting
--   added `ram_segments` counter to `SHOW INDEX STATUS`, and renamed two counters (`ram_chunk` to `ram_segments_bytes`, `disk_chunks` to `disk_segments`)
--   added `sql_query_kbatch` directive, deprecated `sql_query_killlist` directive
--   added `<sphinx:kbatch>` support to XML source
--   documented a few semi-hidden options (`net_spin_msec` for example)
+- added hash-comment support to `exceptions` files
+- added `--dummy <arg>` switch to `searchd` (useful to quickly identify specific instances in the process list)
+- added IDF info, term flags, and JSON format output to `CALL KEYWORDS` (for JSON output, call it with `CALL KEYWORDS(..., 1 AS json)`
+- added `IS NULL` and `IS NOT NULL` checks to `ALL()` and `ANY()` JSON iterators
+- added `last_good_id` to TSV indexing error reporting
+- added `ram_segments` counter to `SHOW INDEX STATUS`, and renamed two counters (`ram_chunk` to `ram_segments_bytes`, `disk_chunks` to `disk_segments`)
+- added `sql_query_kbatch` directive, deprecated `sql_query_killlist` directive
+- added `<sphinx:kbatch>` support to XML source
+- documented a few semi-hidden options (`net_spin_msec` for example)
 
 Changes and improvements:
 
--   improved parsing of long constant lists in expressions, requires much less `thread_stack` now
--   improved `stopwords` handling, fixed the hash collisions issue
--   improved `stopwords` directive, made it multi-valued
--   improved `global_idf` handling, made global IDFs totally independent from per-index DFs
--   improved `EXPLAIN`, ensured that it always reports real query plan and stats
--   improved stats precision output for query times under 1 msec, and generally increased internal query timing precision
--   improved argument types checking in expressions, and fixed a bunch of missed cases (issues on `GEODIST()` vs JSON, crash in `COALESCE()` args check, etc)
--   improved `FACET` handling, single-search optimization must now always engage
--   changed `indexer --nohup` to rename index files to `.new` on success
--   changed `query_time` metric behaviour for distributed indexes, now it will account wall time
--   removed “search all indexes” syntax leftovers that were possible via API
--   removed umask on `searchd.log`
+- improved parsing of long constant lists in expressions, requires much less `thread_stack` now
+- improved `stopwords` handling, fixed the hash collisions issue
+- improved `stopwords` directive, made it multi-valued
+- improved `global_idf` handling, made global IDFs totally independent from per-index DFs
+- improved `EXPLAIN`, ensured that it always reports real query plan and stats
+- improved stats precision output for query times under 1 msec, and generally increased internal query timing precision
+- improved argument types checking in expressions, and fixed a bunch of missed cases (issues on `GEODIST()` vs JSON, crash in `COALESCE()` args check, etc)
+- improved `FACET` handling, single-search optimization must now always engage
+- changed `indexer --nohup` to rename index files to `.new` on success
+- changed `query_time` metric behaviour for distributed indexes, now it will account wall time
+- removed “search all indexes” syntax leftovers that were possible via API
+- removed umask on `searchd.log`
 
 Major optimizations:
 
--   optimized frequent 1-part and 2-part `ORDER BY` clauses, upto 1.1x speedup
--   optimized full scan queries, upto 1.2x+ speedup
--   optimized `DOT()` for a few cases like `int8` vectors, upto 2x+ speedup
--   optimized facets, upto 1.1x speedup
+- optimized frequent 1-part and 2-part `ORDER BY` clauses, upto 1.1x speedup
+- optimized full scan queries, upto 1.2x+ speedup
+- optimized `DOT()` for a few cases like `int8` vectors, upto 2x+ speedup
+- optimized facets, upto 1.1x speedup
 
 Fixes:
 
--   fixed that `ORDER BY RAND()` was breaking `WEIGHT()` (also, enabled it for grouping queries)
--   fixed hash-comment syntax in wordforms
--   fixed a couple races in wordforms
--   fixed a couple deadlocks related to `ATTACH`
--   fixes a few issues with `max_window_hits()` and `exact_order` factors
--   fixed a rare B-tree crash when inserting duplicate values
--   fixed a rare TSV indexing issue (well-formed file could fail indexing because of a very rare buffer boundary issue)
--   fixed occasional crashes on distributed searches on some CPU and glibc combos (double release)
--   fixed incorrect `SHOW META` after index-less `SELECT`
--   fixed `ALL()` and `ANY()` vs optimized JSON vectors, and fixed optimized int64 JSON vector accessor
--   fixed that `SHOW THREADS ... OPTION columns=X` limit permanently clipped the thread descriptions
--   fixed `/searchd` HTTP endpoint error format
--   fixed per-index query stats vs RT indexes
--   fixed that query parser could occasionally fail on high ASCII codes
--   fixed a few issues causing incorrect or unexpected handling of `cutoff` and other query limits
--   fixed a few `json_packed_keys` issues
--   fixed MVA64 values clipping on `INSERT`
--   fixed occasional crashes and/or memory corruption on `UPDATE` and `INSERT`
--   fixed `SNIPPET(field,QUERY())` case to some extent (we now filter out query syntax and treat `QUERY()` as a bag of words in this case)
--   fixed that index reads on JSON in RT could erroneously disable other `WHERE` conditions from the query
--   fixed a number of facets-related issues (occasionally non-working parallel execution, occasional crashes, etc)
--   fixed a crash on empty index list via SphinxAPI
--   fixed schema attributes order for XML/TSV/CSV sources
--   fixed sticky `regexp_filter` vs `ATTACH`
+- fixed that `ORDER BY RAND()` was breaking `WEIGHT()` (also, enabled it for grouping queries)
+- fixed hash-comment syntax in wordforms
+- fixed a couple races in wordforms
+- fixed a couple deadlocks related to `ATTACH`
+- fixes a few issues with `max_window_hits()` and `exact_order` factors
+- fixed a rare B-tree crash when inserting duplicate values
+- fixed a rare TSV indexing issue (well-formed file could fail indexing because of a very rare buffer boundary issue)
+- fixed occasional crashes on distributed searches on some CPU and glibc combos (double release)
+- fixed incorrect `SHOW META` after index-less `SELECT`
+- fixed `ALL()` and `ANY()` vs optimized JSON vectors, and fixed optimized int64 JSON vector accessor
+- fixed that `SHOW THREADS ... OPTION columns=X` limit permanently clipped the thread descriptions
+- fixed `/searchd` HTTP endpoint error format
+- fixed per-index query stats vs RT indexes
+- fixed that query parser could occasionally fail on high ASCII codes
+- fixed a few issues causing incorrect or unexpected handling of `cutoff` and other query limits
+- fixed a few `json_packed_keys` issues
+- fixed MVA64 values clipping on `INSERT`
+- fixed occasional crashes and/or memory corruption on `UPDATE` and `INSERT`
+- fixed `SNIPPET(field,QUERY())` case to some extent (we now filter out query syntax and treat `QUERY()` as a bag of words in this case)
+- fixed that index reads on JSON in RT could erroneously disable other `WHERE` conditions from the query
+- fixed a number of facets-related issues (occasionally non-working parallel execution, occasional crashes, etc)
+- fixed a crash on empty index list via SphinxAPI
+- fixed schema attributes order for XML/TSV/CSV sources
+- fixed sticky `regexp_filter` vs `ATTACH`
 
 ### Version 3.1.1, 17 oct 2018
 
--   added `indexer --dump-rows-tsv` switch, and renamed `--dump-rows` to `--dump-rows-sql`
--   added initial `COALESCE()` function support for JSONs (beware that it will compute everything in floats!)
--   added support for `!=`, `IN`, and `NOT IN` syntax to expressions
--   added `prefix_tokens` and `suffix_tokens` options to `blend_mode` directive
--   added `OPTION rank_fields`, lets you specify fields to use for ranking with either expression or ML (UDF) rankers
--   added explicit duplicate documents (docids) suppression back into `indexer`
--   added `batch_size` variable to `SHOW META`
--   added `csvpipe_header` and `tsvpipe_header` directives
--   added `sql_xxx` counters to `SHOW STATUS`, generally cleaned up counters
--   added mixed codes indexing, available via `blend_mixed_codes` and `mixed_codes_fields` directives
--   added `OPTION inner_limit_per_index` to explicitly control reordering in a nested sharded select
--   added a hard limit for `max_matches` (must be under 100M)
--   optimized Postgres indexing CPU and RAM use quite significantly
--   optimized `FACET` queries with expressions and simple by-attribute (no aliases!) facets; multi-sort optmization now works in that case
--   optimized `id` lookups (queries like `UPDATE ... WHERE id=123` should now be much faster)
--   optimized result set aggregation vs nested sharded selects
--   optimized `PACKEDFACTORS()` storage a lot (upto 60x speedup with `max_matches=50000`)
--   improved UDF error handling, the error argument is now a message buffer instead of just a 1-char flag
--   improved the nested sharded select reordering, less confusing now (by default, does _not_ scale the inner `LIMIT` anymore)
--   improved `searchd --listen` switch, multiple `--listen` instances are now allowed, and `--console` is _not_ required anymore
--   improved failed allocation reporting, and added huge allocation tracking
--   removed legacy `@count`, `@weight`, `@expr`, `@geodist` syntax support
--   removed legacy `SetWeights()`, `SetMatchMode()`, `SetOverride()`, `SetGeoAnchor()` calls, `SPH_MATCH_xxx` constants, and `SPH_SORT_EXPR` sorting mode from APIs
--   removed legacy `spelldump` utility
--   removed unused `.sha` index files
--   removed extraneous “no extra index definitions” warning
+- added `indexer --dump-rows-tsv` switch, and renamed `--dump-rows` to `--dump-rows-sql`
+- added initial `COALESCE()` function support for JSONs (beware that it will compute everything in floats!)
+- added support for `!=`, `IN`, and `NOT IN` syntax to expressions
+- added `prefix_tokens` and `suffix_tokens` options to `blend_mode` directive
+- added `OPTION rank_fields`, lets you specify fields to use for ranking with either expression or ML (UDF) rankers
+- added explicit duplicate documents (docids) suppression back into `indexer`
+- added `batch_size` variable to `SHOW META`
+- added `csvpipe_header` and `tsvpipe_header` directives
+- added `sql_xxx` counters to `SHOW STATUS`, generally cleaned up counters
+- added mixed codes indexing, available via `blend_mixed_codes` and `mixed_codes_fields` directives
+- added `OPTION inner_limit_per_index` to explicitly control reordering in a nested sharded select
+- added a hard limit for `max_matches` (must be under 100M)
+- optimized Postgres indexing CPU and RAM use quite significantly
+- optimized `FACET` queries with expressions and simple by-attribute (no aliases!) facets; multi-sort optmization now works in that case
+- optimized `id` lookups (queries like `UPDATE ... WHERE id=123` should now be much faster)
+- optimized result set aggregation vs nested sharded selects
+- optimized `PACKEDFACTORS()` storage a lot (upto 60x speedup with `max_matches=50000`)
+- improved UDF error handling, the error argument is now a message buffer instead of just a 1-char flag
+- improved the nested sharded select reordering, less confusing now (by default, does _not_ scale the inner `LIMIT` anymore)
+- improved `searchd --listen` switch, multiple `--listen` instances are now allowed, and `--console` is _not_ required anymore
+- improved failed allocation reporting, and added huge allocation tracking
+- removed legacy `@count`, `@weight`, `@expr`, `@geodist` syntax support
+- removed legacy `SetWeights()`, `SetMatchMode()`, `SetOverride()`, `SetGeoAnchor()` calls, `SPH_MATCH_xxx` constants, and `SPH_SORT_EXPR` sorting mode from APIs
+- removed legacy `spelldump` utility
+- removed unused `.sha` index files
+- removed extraneous “no extra index definitions” warning
 
 Major fixes:
 
--   fixed 9+ crashes caused by certain complex (and usually rare) conditions and/or settings combinations
--   fixed 2 crashes caused by broken index data (in vrows and dictionaries)
--   fixed plain index locking issues on Windows
--   fixed JSON fields handling vs strings and NULLs (no more corner cases like NULL objects passing a test for json.col=0)
--   fixed matches loss issue in positional (phrase/order/sentence etc) operators and modifiers under certain conditions
--   fixed hashing-related hangups under certain (rather rare) occasions
--   fixed several type inference issues in expressions when using JSON fields
+- fixed 9+ crashes caused by certain complex (and usually rare) conditions and/or settings combinations
+- fixed 2 crashes caused by broken index data (in vrows and dictionaries)
+- fixed plain index locking issues on Windows
+- fixed JSON fields handling vs strings and NULLs (no more corner cases like NULL objects passing a test for json.col=0)
+- fixed matches loss issue in positional (phrase/order/sentence etc) operators and modifiers under certain conditions
+- fixed hashing-related hangups under certain (rather rare) occasions
+- fixed several type inference issues in expressions when using JSON fields
 
 Other fixes:
 
--   fixed that `min_best_span_pos` was sometimes off
--   fixed the behavior on missing `global_idf` file
--   fixed `indextool --check` vs string attributes, and vs empty JSONs
--   fixed blended vs multiforms behavior (works much more predictably now)
--   fixed query parser vs wildcard-only tokens
--   fixed that MySQL 8.0+ clients failed to connect
--   fixed occasional semaphore races on startup
--   fixed `OPTIMIZE` vs `UPDATE` race; `UPDATE` can now fail with a timeout
--   fixed `indexer --merge --rotate` vs kbatches
--   fixed occasional rotation-related deadlock
--   fixed a few memory leaks
+- fixed that `min_best_span_pos` was sometimes off
+- fixed the behavior on missing `global_idf` file
+- fixed `indextool --check` vs string attributes, and vs empty JSONs
+- fixed blended vs multiforms behavior (works much more predictably now)
+- fixed query parser vs wildcard-only tokens
+- fixed that MySQL 8.0+ clients failed to connect
+- fixed occasional semaphore races on startup
+- fixed `OPTIMIZE` vs `UPDATE` race; `UPDATE` can now fail with a timeout
+- fixed `indexer --merge --rotate` vs kbatches
+- fixed occasional rotation-related deadlock
+- fixed a few memory leaks
 
 ### Version 3.0.3, 30 mar 2018
 
--   added `BITCOUNT()` function and bitwise-NOT operator, eg `SELECT BITCOUNT(~3)`
--   made `searchd` config section completely optional
--   improved `min_infix_len` behavior, required 2-char minimum is now enforced
--   improved docs, added a few sections
--   fixed binary builds performance
--   fixed several crashes (related to docstore, snippets, threading, `json_packed_keys` in RT)
--   fixed docid-less SQL sources, forbidden those for now (docid still required)
--   fixed int-vs-float precision issues in expressions in certain cases
--   fixed `uptime` counter in `SHOW STATUS`
--   fixed query cache vs `PACKEDFACTORS()`
+- added `BITCOUNT()` function and bitwise-NOT operator, eg `SELECT BITCOUNT(~3)`
+- made `searchd` config section completely optional
+- improved `min_infix_len` behavior, required 2-char minimum is now enforced
+- improved docs, added a few sections
+- fixed binary builds performance
+- fixed several crashes (related to docstore, snippets, threading, `json_packed_keys` in RT)
+- fixed docid-less SQL sources, forbidden those for now (docid still required)
+- fixed int-vs-float precision issues in expressions in certain cases
+- fixed `uptime` counter in `SHOW STATUS`
+- fixed query cache vs `PACKEDFACTORS()`
 
 ### Version 3.0.2, 25 feb 2018
 
--   added `full_field_hit` ranking factor
--   added `bm15` ranking factor name (legacy `bm25` name misleading, to be removed)
--   optimized RT inserts significantly (upto 2-6x on certain benchmarks vs 3.0.1)
--   optimized `exact_field_hit` ranking factor, impact now negligible (approx 2-4%)
--   improved `indexer` output, less visual noise
--   improved `searchd --safetrace` option, now skips `addr2line` to avoid occasional freezes
--   improved `indexer` MySQL driver lookup, now also checking for `libmariadb.so`
--   fixed rare occasional `searchd` crash caused by attribute indexes
--   fixed `indexer` crash on missing SQL drivers, and improved error reporting
--   fixed `searchd` crash on multi-index searches with docstore
--   fixed that expression parser failed on field-shadowing attributes in `BM25F()` weights map
--   fixed that `ALTER` failed on field-shadowing attributes vs `index_field_lengths` case
--   fixed junk data writes (seemingly harmless but anyway) in certain cases
--   fixed rare occasional `searchd` startup failures (threading related)
+- added `full_field_hit` ranking factor
+- added `bm15` ranking factor name (legacy `bm25` name misleading, to be removed)
+- optimized RT inserts significantly (upto 2-6x on certain benchmarks vs 3.0.1)
+- optimized `exact_field_hit` ranking factor, impact now negligible (approx 2-4%)
+- improved `indexer` output, less visual noise
+- improved `searchd --safetrace` option, now skips `addr2line` to avoid occasional freezes
+- improved `indexer` MySQL driver lookup, now also checking for `libmariadb.so`
+- fixed rare occasional `searchd` crash caused by attribute indexes
+- fixed `indexer` crash on missing SQL drivers, and improved error reporting
+- fixed `searchd` crash on multi-index searches with docstore
+- fixed that expression parser failed on field-shadowing attributes in `BM25F()` weights map
+- fixed that `ALTER` failed on field-shadowing attributes vs `index_field_lengths` case
+- fixed junk data writes (seemingly harmless but anyway) in certain cases
+- fixed rare occasional `searchd` startup failures (threading related)
 
 ### Version 3.0.1, 18 dec 2017
 
--   first public release of 3.x branch
+- first public release of 3.x branch
 
 ## Changes since v.2.x
 
@@ -4089,55 +4078,55 @@ Other fixes:
 
 The biggest changes since Sphinx v.2.x are:
 
--   added DocStore, document storage
-    -   original document contents can now be stored into the index
-    -   disk based storage, RAM footprint should be minimal
-    -   goodbye, _having_ to query Another Database to fetch data
--   added new attributes storage format
-    -   arbitrary updates support (including MVA and JSON)
-    -   goodbye, sudden size limits
--   added attribute indexes, with JSON support
-    -   … `WHERE gid=123` queries can now utilize A-indexes
-    -   … `WHERE MATCH('hello') AND gid=123` queries can now efficiently intersect FT-indexes and A-indexes
-    -   goodbye, _having_ to use fake keywords
--   added compressed JSON keys
--   switched to rowids internally, and forced all docids to 64 bits
+- added DocStore, document storage
+  - original document contents can now be stored into the index
+  - disk based storage, RAM footprint should be minimal
+  - goodbye, _having_ to query Another Database to fetch data
+- added new attributes storage format
+  - arbitrary updates support (including MVA and JSON)
+  - goodbye, sudden size limits
+- added attribute indexes, with JSON support
+  - … `WHERE gid=123` queries can now utilize A-indexes
+  - … `WHERE MATCH('hello') AND gid=123` queries can now efficiently intersect FT-indexes and A-indexes
+  - goodbye, _having_ to use fake keywords
+- added compressed JSON keys
+- switched to rowids internally, and forced all docids to 64 bits
 
 Another two big changes that are already available but still in pre-alpha are:
 
--   added “zero config” mode (`./sphinxdata` folder)
--   added index replication
+- added “zero config” mode (`./sphinxdata` folder)
+- added index replication
 
 The additional smaller niceties are:
 
--   added always-on support for xmlpipe, snowball stemmers, and re2 (regexp filters)
--   added `blend_mode=prefix_tokens`, and enabled empty `blend_mode`
--   added `kbatch_source` directive, to auto-generate k-batches from source docids (in addition to explicit queries)
--   added `SHOW OPTIMIZE STATUS` statement
--   added `exact_field_hit` ranking factor
--   added `123.45f` value syntax in JSON, optimized support for float32 vectors, and `FVEC()` and `DOT()` functions
--   added preindexed data in document storage to speed up `SNIPPETS()` (via `hl_fields` directive)
--   changed field weights, zero and negative weights are now allowed
--   changed stemming, keywords with digits are now excluded
+- added always-on support for xmlpipe, snowball stemmers, and re2 (regexp filters)
+- added `blend_mode=prefix_tokens`, and enabled empty `blend_mode`
+- added `kbatch_source` directive, to auto-generate k-batches from source docids (in addition to explicit queries)
+- added `SHOW OPTIMIZE STATUS` statement
+- added `exact_field_hit` ranking factor
+- added `123.45f` value syntax in JSON, optimized support for float32 vectors, and `FVEC()` and `DOT()` functions
+- added preindexed data in document storage to speed up `SNIPPETS()` (via `hl_fields` directive)
+- changed field weights, zero and negative weights are now allowed
+- changed stemming, keywords with digits are now excluded
 
 A bunch of legacy things were removed:
 
--   removed `dict`, `docinfo`, `infix_fields`, `prefix_fields` directives
--   removed `attr_flush_period`, `hit_format`, `hitless_words`, `inplace_XXX`, `max_substring_len`, `mva_updates_pool`, `phrase_boundary_XXX`, `sql_joined_field`, `subtree_XXX` directives
--   removed legacy id32 and id64 modes, mysqlSE plugin, and `indexer --keep-attrs` switch
+- removed `dict`, `docinfo`, `infix_fields`, `prefix_fields` directives
+- removed `attr_flush_period`, `hit_format`, `hitless_words`, `inplace_XXX`, `max_substring_len`, `mva_updates_pool`, `phrase_boundary_XXX`, `sql_joined_field`, `subtree_XXX` directives
+- removed legacy id32 and id64 modes, mysqlSE plugin, and `indexer --keep-attrs` switch
 
 And last but not least, the new config directives to play with are:
 
--   `docstore_type`, `docstore_block`, `docstore_comp`, `docstore_cache_size` (per-index) let you generally configure DocStore
--   `stored_fields`, `stored_only_fields`, `hl_fields` (per-index) let you configure what to put in DocStore
--   `kbatch`, `kbatch_source` (per-index) update the legacy k-lists-related directives
--   `updates_pool` (per-index) sets vrow file growth step
--   `json_packed_keys` (`common` section) enables the JSON keys compression
--   `binlog_flush_mode` (`searchd` section) changes the per-op flushing mode (0=none, 1=fsync, 2=fwrite)
+- `docstore_type`, `docstore_block`, `docstore_comp`, `docstore_cache_size` (per-index) let you generally configure DocStore
+- `stored_fields`, `stored_only_fields`, `hl_fields` (per-index) let you configure what to put in DocStore
+- `kbatch`, `kbatch_source` (per-index) update the legacy k-lists-related directives
+- `updates_pool` (per-index) sets vrow file growth step
+- `json_packed_keys` (`common` section) enables the JSON keys compression
+- `binlog_flush_mode` (`searchd` section) changes the per-op flushing mode (0=none, 1=fsync, 2=fwrite)
 
 Quick update caveats:
 
--   if you were using `sql_query_killlist` then you now _must_ explicitly specify `kbatch` and list all the indexes that the k-batch should be applied to:
+- if you were using `sql_query_killlist` then you now _must_ explicitly specify `kbatch` and list all the indexes that the k-batch should be applied to:
 
 ```
 sql_query_killlist = SELECT deleted_id FROM my_deletes_log

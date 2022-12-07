@@ -25,7 +25,7 @@ Stop manually:
 
 `pg_ctl -D /usr/local/var/postgres stop` or `brew services stop postgresql`
 
-### Check the listen_addresses and Port in postgresql.conf:
+### Check the listen_addresses and Port in postgresql.conf
 
 `egrep 'listen|port' /usr/local/var/postgres/postgresql.conf`
 
@@ -50,9 +50,9 @@ connections on Unix domain socket "/tmp/.s.PGSQL.5432"?
 [The problem can also be attributed to a crashed process that left postmaster.pid file behind.](https://dba.stackexchange.com/a/171580)
 
 ```
-$ brew services stop postgresql
-$ rm /usr/local/var/postgres/postmaster.pid # adjust path accordingly to your install
-$ brew services start postgresql
+brew services stop postgresql
+rm /usr/local/var/postgres/postmaster.pid # adjust path accordingly to your install
+brew services start postgresql
 ```
 
 # Migration
@@ -63,7 +63,7 @@ $ brew services start postgresql
 
 # User
 
-https://www.liquidweb.com/kb/what-is-the-default-password-for-postgresql/
+<https://www.liquidweb.com/kb/what-is-the-default-password-for-postgresql/>
 
 ```
 psql
@@ -94,7 +94,7 @@ SELECT pg_terminate_backend(procpid) FROM pg_stat_activity WHERE datname = 'mydb
 SELECT pg_terminate_backend(pid) FROM pg_stat_activity WHERE datname = 'mydb';
 ```
 
-https://tableplus.io/blog/2018/04/postgresql-how-to-drop-database-with-active-connections.html
+<https://tableplus.io/blog/2018/04/postgresql-how-to-drop-database-with-active-connections.html>
 
 # Connection
 

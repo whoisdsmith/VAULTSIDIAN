@@ -2,7 +2,7 @@
 
 ### Microsoft Research
 
-### 455 Market St.,
+### 455 Market St
 
 ### San Francisco, CA, 94105
 
@@ -17,7 +17,7 @@ It is built on four principles: (1) collections and search must
 replace hierarchy for organization (2) many visualizations should  
 be supported (3) annotations are critical to non-text media and
 
-## must be made easy, and (4) authoring should be via transclusion.
+## must be made easy, and (4) authoring should be via transclusion
 
 ## Categories and Subject Descriptors
 
@@ -168,7 +168,7 @@ photo. It is some people you remember working with in a
 previous job, but that’s all you can recall. Now, if the system has  
 kept the date the photo was taken, it may help a little. “8/20/1993”
 
--   now you know it was the end of summer. If the system has  
+- now you know it was the end of summer. If the system has  
     tracked the usage of the photo, that may also help: it was opened  
     18 times and emailed to 11 people. Well, it must have been  
     considered one of the “good” photos. If the user has annotated the  
@@ -424,7 +424,7 @@ Victoria Rozycki helped digitize Gordon Bell’s personal media.
 
 ## 7\. REFERENCES
 
-### \[1\] Adar, Eytan, David Karger, and Lynn Andrea Stein.
+### \[1\] Adar, Eytan, David Karger, and Lynn Andrea Stein
 
 ```
 Haystack: Per-User Information Environments, In
@@ -432,7 +432,7 @@ Proceedings of CIKM ‘99 (Kansas City, MO, November 2-6,
 1999), ACM Press, 413-422.
 ```
 
-### \[2\] Vannevar Bush. As We May Think, The Atlantic Monthly,
+### \[2\] Vannevar Bush. As We May Think, The Atlantic Monthly
 
 ```
 176(1), July 1945, 101-108.

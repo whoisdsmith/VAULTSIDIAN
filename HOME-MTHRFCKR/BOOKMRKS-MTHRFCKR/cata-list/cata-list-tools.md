@@ -4,19 +4,19 @@
 
 ---
 
-https://b-ok.cc/  
+<https://b-ok.cc/>  
 
 [barbra.io](https://barbra.io)/  
 
 [Beaker Browser](https://beakerbrowser.com)/  
 
-https://beta.trimread.com/  
+<https://beta.trimread.com/>  
 
 [Bitbucket](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/master)/  
 
 [Download free eBooks for students and read business books for professionals online | Bookboon](https://bookboon.com)
 
-https://bookstacks.org/index.html  
+<https://bookstacks.org/index.html>  
 
 [Breathe](https://breathe.so)/  
 
@@ -35,28 +35,28 @@ https://bookstacks.org/index.html
 
 [Peak map](https://anvaka.github.io/peak-map)/  
 
-https://app.eisenhower.me/  
+<https://app.eisenhower.me/>  
 
 [Arcane Office – Blockchain-based private online office suite.](https://arcaneoffice.com)/  
 
-https://artofmemory.com/wiki/Main_Page  
+<https://artofmemory.com/wiki/Main_Page>  
 
 [Atlas of Surveillance](https://atlasofsurveillance.org)/  
 
-https://b-ok.cc/  
+<https://b-ok.cc/>  
 
 [barbra.io](https://barbra.io)/  
 
 [Beaker Browser](https://beakerbrowser.com)/  
 
-https://beta.trimread.com/  
+<https://beta.trimread.com/>  
 
 [Bitbucket](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/master)/  
 
 [Download free eBooks for students and read business books for professionals online |  
 Bookboon](https://bookboon.com)/  
 
-https://bookstacks.org/index.html  
+<https://bookstacks.org/index.html>  
 
 [Breathe](https://breathe.so)/  
 
@@ -84,15 +84,15 @@ https://bookstacks.org/index.html
 
 [cl1p.net - The internet clipboard](https://cl1p.net)/  
 
-https://columns.me/  
+<https://columns.me/>  
 
 [Copernix - Know thy World](https://copernix.io)/  
 
-https://copypastelist.com/  
+<https://copypastelist.com/>  
 
 [Cover Your Tracks](https://coveryourtracks.eff.org)/  
 
-https://cryptgeon.nicco.io/
+<https://cryptgeon.nicco.io/>
 
 [Citymapper - The Ultimate Transport App](https://citymapper.com)/  
 
@@ -100,17 +100,17 @@ https://cryptgeon.nicco.io/
 
 [cl1p.net - The internet clipboard](https://cl1p.net)/  
 
-https://columns.me/  
+<https://columns.me/>  
 
 [Copernix - Know thy World](https://copernix.io)/  
 
-https://copypastelist.com/  
+<https://copypastelist.com/>  
 
 [Cover Your Tracks](https://coveryourtracks.eff.org)/  
 
-https://cryptgeon.nicco.io/  
+<https://cryptgeon.nicco.io/>  
 
-https://databreach.es/  
+<https://databreach.es/>  
 
 [Bubbl.us - Create Mind Maps | Collaborate and Present Ideas](https://bubbl.us)/  
 
@@ -128,23 +128,23 @@ https://databreach.es/
 
 [Homey: Productive and cozy start page - Chrome Web Store](https://chrome.google.com/webstore/detail/homey-your-start-page-on/lllnjdmfnfjifcfpppjmcnanpokikcpl)  
 
-https://citymapper.com/  
+<https://citymapper.com/>  
 
-https://citywalks.live/  
+<https://citywalks.live/>  
 
-https://cl1p.net/  
+<https://cl1p.net/>  
 
-https://columns.me/  
+<https://columns.me/>  
 
-https://copernix.io/  
+<https://copernix.io/>  
 
-https://copypastelist.com/  
+<https://copypastelist.com/>  
 
-https://coveryourtracks.eff.org/  
+<https://coveryourtracks.eff.org/>  
 
-https://cryptgeon.nicco.io/  
+<https://cryptgeon.nicco.io/>  
 
-https://databreach.es/  
+<https://databreach.es/>  
 
 [Encrypted Pastebin - Keep your data private and secure! - Defuse Security](https://defuse.ca/pastebin.htm)  
 
@@ -180,7 +180,7 @@ https://databreach.es/
 
 [Evidence-based Analysis on Supplements &amp; Nutrition | Examine](https://examine.com)/  
 
-https://exophysics.net/  
+<https://exophysics.net/>  
 
 [Eyes On Exoplanets – Exoplanet Exploration: Planets Beyond our Solar System](https://exoplanets.nasa.gov/eyes-on-exoplanets)/  
 
@@ -188,7 +188,7 @@ https://exophysics.net/
 
 [Felt – The best way to make maps on the internet](https://felt.com)/  
 
-https://flawlessapp.io/easypeasypassword  
+<https://flawlessapp.io/easypeasypassword>  
 
 [Flowshare | How To Guides For Everyday Software](https://flowshare.io)/  
 
@@ -204,7 +204,7 @@ https://flawlessapp.io/easypeasypassword
 
 [freenode wiki](https://freenode.net)
 
-https://game-theory-class.org/  
+<https://game-theory-class.org/>  
 
 [choose from over 40 templates — generatedpaper.com: free printable papers for the daily use](https://generatedpaper.com)/  
 
@@ -238,7 +238,7 @@ https://game-theory-class.org/
 
 [Hat.sh - Simple, fast, secure client-side file encryption](https://hat.sh)/  
 
-https://hereistoday.com/  
+<https://hereistoday.com/>  
 
 [Cafe white noise | Coffee shop background noise](https://hipstersound.com/ambience.html)
 
@@ -250,7 +250,7 @@ https://hereistoday.com/
 
 [Human Benchmark](https://humanbenchmark.com)/  
 
-https://internet-map.net/  
+<https://internet-map.net/>  
 
 [IPFS Powers the Distributed Web](https://ipfs.io)/  
 
@@ -274,7 +274,7 @@ password manager, FIDO2 | keys.pub](https://keys.pub)/
 
 [Welcome to LCWO.net - Learn Morse Code (CW) Online! - Learn CW Online](https://lcwo.net)/  
 
-https://letter.wiki/conversations  
+<https://letter.wiki/conversations>  
 
 [LettuceMeet - Easy Group Scheduling](https://lettucemeet.com)/  
 
@@ -286,17 +286,17 @@ https://letter.wiki/conversations
 
 [Foods and recipes | Love Food Hate Waste](https://lovefoodhatewaste.com/article/food-storage-a-z)  
 
-https://maesure.com/  
+<https://maesure.com/>  
 
-https://maps.stamen.com/  
+<https://maps.stamen.com/>  
 
 [masterWiki](https://masterwiki.how)/  
 
 [EscherMath](https://mathstat.slu.edu/escher/index.php/Math_and_the_Art_of_M._C._Escher)  
 
-https://matrix.org/  
+<https://matrix.org/>  
 
-https://matterwiki.com/  
+<https://matterwiki.com/>  
 
 [Jitsi Meet](https://meet.jit.si)/  
 
@@ -304,15 +304,15 @@ https://matterwiki.com/
 
 [Mind42: Free online mind mapping software](https://mind42.com)/  
 
-https://mindmapfree.com/  
+<https://mindmapfree.com/>  
 
 [Morse Code Translator | Morse Code World](https://morsecode.scphillips.com/translator.html)
 
 [Morse Code Translator - Morse Decoder](https://morsify.net)/  
 
-https://mostcommonwords.co/  
+<https://mostcommonwords.co/>  
 
-https://multicommander.com/  
+<https://multicommander.com/>  
 
 [MyPermissions Privacy Cleaner](https://mypermissions.com)/  
 
@@ -350,15 +350,15 @@ https://multicommander.com/
 
 [Parsify Desktop](https://parsify.app)/  
 
-https://passnip.com/  
+<https://passnip.com/>  
 
 [Pastebin.com - #1 paste tool since 2002!](https://pastebin.com)/  
 
-https://paulina.website/daily-planner/
+<https://paulina.website/daily-planner/>
 
 [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/?play)  
 
-https://personal.onlyoffice.com/  
+<https://personal.onlyoffice.com/>  
 
 [Pi-hole &#8211; Network-wide protection](https://pi-hole.net)/  
 
@@ -389,7 +389,7 @@ research tools](https://readermode.io)/
 
 [Rome in 3D - History in 3D](https://relivehistoryin3d.com/projects/rome-in-3d)/  
 
-https://ricochet.im/  
+<https://ricochet.im/>  
 
 [SafeManuals - online repository of user manuals](https://safe-manuals.com)/  
 
@@ -399,7 +399,7 @@ https://ricochet.im/
 
 [Scout](https://scoutexplore.com)
 
-https://scr.im/  
+<https://scr.im/>  
 
 [Bungo Search | Search free e-books by Time-to-Read from Project Gutenberg](https://search.bungomail.com/en)  
 
@@ -409,15 +409,15 @@ https://scr.im/
 
 [Send free anonymous email online](https://sendmail.altmails.com)/  
 
-https://sidewaysdictionary.com/#/  
+<https://sidewaysdictionary.com/#/>  
 
-https://sleeep.best/  
+<https://sleeep.best/>  
 
 [Sleep Calculator: Ideal Bedtime &amp; Wake Up Times - Sleepytime](https://sleepyti.me)/  
 
 [SlimWiki — Beautiful Wikis for Teams](https://slimwiki.com)/  
 
-https://snapdrop.net/  
+<https://snapdrop.net/>  
 
 [SonoBus](https://sonobus.net)/  
 
@@ -429,9 +429,9 @@ https://snapdrop.net/
 
 [Remote-controlled Countdown Timer | stagetimer.io](https://stagetimer.io)/  
 
-https://stampede.it/  
+<https://stampede.it/>  
 
-https://standardnotes.org/  
+<https://standardnotes.org/>  
 
 [Start.io | Mobile Marketing &amp; Audience Platform for Marketers](https://start.io)/  
 
@@ -445,7 +445,7 @@ https://standardnotes.org/
 
 [Sudopad | Personal link sharing board for friends](https://sudopad.com)/  
 
-https://swole.me/  
+<https://swole.me/>  
 
 [TagCrowd: create your own word cloud from any text](https://tagcrowd.com)/  
 
@@ -459,13 +459,13 @@ https://swole.me/
 
 [Temp Mail - Disposable Temporary Email](https://temp-mail.org/en)/  
 
-https://textbookgo.com/  
+<https://textbookgo.com/>  
 
 [TheLibraryMap](https://thelibrarymap.com)/  
 
 [Blacklight – The Markup](https://themarkup.org/blacklight)  
 
-[Online Planetarium - Interactive Sky Chart | TheSkyLive.com](https://theskylive.com/planetariu  
+[Online Planetarium - Interactive Sky Chart | TheSkyLive.com](<https://theskylive.com/planetariu>  
 m)  
 
 [Tripcost - discover travel expenses. Budget your trip, allocate flights/hotels](https://thetripcost.com)/  
@@ -477,78 +477,78 @@ m)
 [Free PDF, Video, Image & Other Online Tools - TinyWow](https://tinywow.com)  
 [Tonight's Recipe](https://tonightsrecipe.com)/  
 [Trail Router](https://trailrouter.com)/  
-https://translatr.varunmalhotra.xyz/  
-https://tripsguard.com/  
-https://typehut.com/  
-https://untools.co/  
-https://upl.codeq.info/  
-https://virtualdrive.bingepost.com/  
-https://visuwords.com/  
-https://volafile.org/  
-https://vroom.chat/  
-https://weatherspark.com/  
-https://web2.0calc.com/  
-https://webroom.net/  
-https://webwormhole.io/  
-https://whaller.com/en/  
-https://whataretheylearning.com/  
-https://wickr.com/  
-https://wikidiff.com/  
-https://wikimap.wiki/  
-https://wikimapia.org/  
-https://wikiwho.ailef.tech/  
-https://worditout.com/word-cloud/create  
-https://workstream.paperspace.com/  
+<https://translatr.varunmalhotra.xyz/>  
+<https://tripsguard.com/>  
+<https://typehut.com/>  
+<https://untools.co/>  
+<https://upl.codeq.info/>  
+<https://virtualdrive.bingepost.com/>  
+<https://visuwords.com/>  
+<https://volafile.org/>  
+<https://vroom.chat/>  
+<https://weatherspark.com/>  
+<https://web2.0calc.com/>  
+<https://webroom.net/>  
+<https://webwormhole.io/>  
+<https://whaller.com/en/>  
+<https://whataretheylearning.com/>  
+<https://wickr.com/>  
+<https://wikidiff.com/>  
+<https://wikimap.wiki/>  
+<https://wikimapia.org/>  
+<https://wikiwho.ailef.tech/>  
+<https://worditout.com/word-cloud/create>  
+<https://workstream.paperspace.com/>  
 [Wormhole - Simple, private file sharing](https://wormhole.app)/  
 [Write.as &mdash; A place for focused writing.](https://write.as)/  
-https://writemd.xyz/  
+<https://writemd.xyz/>  
 [Discover your life goals (in 20 minutes) - A free interactive guide](https://www.angstrom.life/goals)/  
 [Animated Knots by Grog | Learn how to tie knots with step-by-step animation](https://www.animatedknots.com)/  
 [Free Cliff Notes, Chapter Summaries, Book Summaries | AntiStudy](https://www.antistudy.com)/  
 [Organize your life and manage your team's work with Any.do](https://www.any.do)/  
-https://www.axantum.com/AxCrypt/  
+<https://www.axantum.com/AxCrypt/>  
 [Beeper — All your chats in one app. Yes, really.](https://www.beeper.com/?hn)  
 [Book Depository: Free delivery worldwide on over 20 million books](https://www.bookdepository.com)/  
 [BookStack](https://www.bookstackapp.com)  
 [Breakdown Notes](https://www.breakdown-notes.com)  
 [Encyclopedia Britannica | Britannica](https://www.britannica.com)/  
-https://www.buildyourmap.com/  
+<https://www.buildyourmap.com/>  
 [Calculator.net: Free Online Calculators - Math, Fitness, Finance, Science](https://www.calculator.net)/  
-https://www.calculatoredge.com/  
+<https://www.calculatoredge.com/>  
 [Download Free Cheat Sheets or Create Your Own! - Cheatography.com: Cheat Sheets For Every Occasion](https://www.cheatography.com)/  
 [Connected Papers | Find and explore academic papers](https://www.connectedpapers.com)/  
 [ConnectedText - The Personal Wiki System](https://www.connectedtext.com)/  
 [Cram.com: Create and Share Online Flashcards](https://www.cram.com)/  
 [International Dark Sky Association - International Dark-Sky Association](https://www.darksky.org)/  
-https://www.deadman.io/  
+<https://www.deadman.io/>  
 [Dropbox Transfer](https://www.dropbox.com/transfer/about)  
 [Easy Stereogram Builder](https://www.easystereogrambuilder.com)/  
 [Fake Mail Generator - Free temporary email addresses](https://www.fakemailgenerator.com)/  
 [FEATool Multiphysics - Physics Simulation Made Easy](https://www.featool.com)/  
-https://www.feedbooks.com/publicdomain  
+<https://www.feedbooks.com/publicdomain>  
 [Fiction.US](https://www.fiction.us)/  
 [FireRTC - No Nonsense Free Phone Calls To the US and Canada](https://www.firertc.com)/  
 [Free-eBooks.net | Download free Fiction, Health, Romance and many more books](https://www.free-ebooks.net)/  
 [Free Book Notes, Cliff Notes, Summaries, and Study Guides | FreeBookNotes.com](https://www.freebooknotes.com)/  
 [After redirect from the old media wiki - Freeplane Documentation](https://www.freeplane.org/wiki/index.php/Home)  
-https://www.freepn.org/  
+<https://www.freepn.org/>  
 [FutureMe: Write a Letter to your Future Self](https://www.futureme.org)/  
 [GeoGebra](https://www.geogebra.org)/  
-https://www.getcluey.com/en/  
+<https://www.getcluey.com/en/>  
 [GitBook - Where technical teams document.](https://www.gitbook.com)/  
 [Globe Genie](https://www.globegenie.com)/  
 [OkyDoky - English](https://www.heylingo.com)/  
 [Secure file sharing &amp; creative collaboration | Hightail](https://www.hightail.com)/  
 [Hipcamp | Outdoor Stays: Tent Camping, RV Parks, Cabins &amp; Glamping](https://www.hipcamp.com)/  
-[Best Resume Builder for Any Job and Templates to Download](https://www.hloom.com)/https://translatr.varunmalhotra.xyz/  
-https://tripsguard.com/  
+[Best Resume Builder for Any Job and Templates to Download](https://www.hloom.com)/<https://translatr.varunmalhotra.xyz/>  
+<https://tripsguard.com/>  
 [Typehut — Super simple publishing](https://typehut.com)/  
-https://untools.co/  
+<https://untools.co/>  
 [The Universal Packing List](https://upl.codeq.info)/  
-https://virtualdrive.bingepost.com/  
+<https://virtualdrive.bingepost.com/>  
 [](https://visuwords.com)/  
 [Volafile.org Live Filesharing & Chat](https://volafile.org)/  
-https://vroom.chat/  
+<https://vroom.chat/>  
 [The Weather Year Round Anywhere on Earth - Weather Spark](https://weatherspark.com)/  
 [Web 2.0 scientific calculator  
 ](https://web2.0calc.com)/  
@@ -560,45 +560,45 @@ https://vroom.chat/
 [WikiDiff |](https://wikidiff.com)/  
 [Wikimap: A map of Wikipedia](https://wikimap.wiki)/  
 [Wikimapia - Let's describe the whole world!](https://wikimapia.org)/  
-https://wikiwho.ailef.tech/  
+<https://wikiwho.ailef.tech/>  
 [Create word clouds – WordItOut](https://worditout.com/word-cloud/create)  
-https://workstream.paperspace.com/  
+<https://workstream.paperspace.com/>  
 [Wormhole - Simple, private file sharing](https://wormhole.app)/  
 [Write.as &mdash; A place for focused writing.](https://write.as)/  
-https://writemd.xyz/  
+<https://writemd.xyz/>  
 [Discover your life goals (in 20 minutes) - A free interactive guide](https://www.angstrom.life/goals)/  
 [Animated Knots by Grog | Learn how to tie knots with step-by-step animation](https://www.animatedknots.com)/  
 [Free Cliff Notes, Chapter Summaries, Book Summaries | AntiStudy](https://www.antistudy.com)/  
 [Organize your life and manage your team's work with Any.do](https://www.any.do)/  
-https://www.axantum.com/AxCrypt/  
+<https://www.axantum.com/AxCrypt/>  
 [Beeper — All your chats in one app. Yes, really.](https://www.beeper.com/?hn)  
 [Book Depository: Free delivery worldwide on over 20 million books](https://www.bookdepository.com)/  
 [BookStack](https://www.bookstackapp.com)/  
 [Breakdown Notes](https://www.breakdown-notes.com)  
 [Encyclopedia Britannica | Britannica](https://www.britannica.com)/  
-https://www.buildyourmap.com/  
+<https://www.buildyourmap.com/>  
 [Calculator.net: Free Online Calculators - Math, Fitness, Finance, Science](https://www.calculator.net)/  
-https://www.calculatoredge.com/  
+<https://www.calculatoredge.com/>  
 [Download Free Cheat Sheets or Create Your Own! - Cheatography.com: Cheat Sheets For Every Occasion](https://www.cheatography.com)/  
 [Connected Papers | Find and explore academic papers](https://www.connectedpapers.com)/  
 [ConnectedText - The Personal Wiki System](https://www.connectedtext.com)/  
 [Cram.com: Create and Share Online Flashcards](https://www.cram.com)/  
 [International Dark Sky Association - International Dark-Sky Association](https://www.darksky.org)/  
-https://www.deadman.io/  
+<https://www.deadman.io/>  
 [Dropbox Transfer](https://www.dropbox.com/transfer/about)  
 [Easy Stereogram Builder](https://www.easystereogrambuilder.com)/  
 [Fake Mail Generator - Free temporary email addresses](https://www.fakemailgenerator.com)/  
 [FEATool Multiphysics - Physics Simulation Made Easy](https://www.featool.com)/  
-https://www.feedbooks.com/publicdomain  
+<https://www.feedbooks.com/publicdomain>  
 [Fiction.US](https://www.fiction.us)/  
 [FireRTC - No Nonsense Free Phone Calls To the US and Canada](https://www.firertc.com)/  
 [Free-eBooks.net | Download free Fiction, Health, Romance and many more books](https://www.free-ebooks.net)/  
 [Free Book Notes, Cliff Notes, Summaries, and Study Guides | FreeBookNotes.com](https://www.freebooknotes.com)/  
 [After redirect from the old media wiki - Freeplane Documentation](https://www.freeplane.org/wiki/index.php/Home)  
-https://www.freepn.org/  
+<https://www.freepn.org/>  
 [FutureMe: Write a Letter to your Future Self](https://www.futureme.org)/  
 [GeoGebra](https://www.geogebra.org)/  
-https://www.getcluey.com/en/  
+<https://www.getcluey.com/en/>  
 [GitBook - Where technical teams document.](https://www.gitbook.com)/  
 [Globe Genie](https://www.globegenie.com)/  
 [OkyDoky - English](https://www.heylingo.com)/  
@@ -624,7 +624,7 @@ https://www.getcluey.com/en/
 [MoveMap | explore where to live next](https://www.movemap.io/explore/us)  
 [End of support for Firefox Lockwise | Firefox Lockwise Help](https://www.mozilla.org/en-US/firefox/lockwise)/  
 [MuckRock](https://www.muckrock.com)/  
-https://www.myphysicslab.com/index-en.html  
+<https://www.myphysicslab.com/index-en.html>  
 [My WiFi Sign](https://www.mywifisign.com)/  
 [Earth.fm: Listen to nature sounds, fall in love with the Earth](https://www.naturesoundmap.com)/  
 [Eat well - NHS](https://www.nhs.uk/live-well/eat-well)/  
@@ -634,7 +634,7 @@ https://www.myphysicslab.com/index-en.html
 [Drone Mapping Software - OpenDroneMap](https://www.opendronemap.org)/  
 [OpenHistoricalMap](https://www.openhistoricalmap.org)/  
 [Passbolt | The open source password manager for teams](https://www.passbolt.com)/  
-https://www.pastenow.me/create  
+<https://www.pastenow.me/create>  
 [PDF Books Library To download free eBooks](https://www.pdfbooksworld.com)/  
 [PDF Editor Free - Edit PDF and Form Filler Online - PDFescape](https://www.pdfescape.com/windows)/  
 [Pidgin :: Pidgin, the universal chat client](https://www.pidgin.im)/  
@@ -644,29 +644,29 @@ https://www.pastenow.me/create
 [Free Large File Transfer | File Share Over the Internet](https://www.prontoshare.com/file-upload)  
 [Protopage - Free Personalized Start Pages](https://www.protopage.com)/  
 [Rainmeter, desktop customization tool](https://www.rainmeter.net)/  
-https://www.retroread.com/  
-https://www.scrumblr.ca/  
+<https://www.retroread.com/>  
+<https://www.scrumblr.ca/>  
 [SendGB | Send Large Files | Free file transfer](https://www.sendgb.com)/  
 [Seterra Geography Games](https://www.seterra.com)/  
 [Compare College Textbook Prices | Buy and Rent College Textbooks | SlugBooks](https://www.slugbooks.com)/  
-https://www.spacedtime.com/  
+<https://www.spacedtime.com/>  
 [Spreeder](https://www.spreeder.com)/  
 [Sync Text and Files Across your WiFi network! | Simple.Savr](https://www.ssavr.com)/  
 [Symbolab Math Solver - Step by Step calculator](https://www.symbolab.com)/  
-https://www.tagspaces.org/  
+<https://www.tagspaces.org/>  
 [Online tools for random words, Word to HTML, other free tools.](https://www.textfixer.com)/  
 [Their News: Escape your bubble](https://www.their.news)/  
 [tinyfeed](https://www.tinyfeed.co)/  
 [Group 2](https://www.tmrow.com/climatechange)  
 [TomatoTimers - Custom Pomodoro Timer and To-do  List](https://www.tomatotimers.com)/  
-https://www.transplant.to/  
-https://www.tree.fm/  
+<https://www.transplant.to/>  
+<https://www.tree.fm/>  
 [Typing Lessons - Learn To Type And Improve Typing Speed Free - Typing.com](https://www.typing.com/student/lessons)  
 [Typora — a markdown editor, markdown reader.](https://www.typora.io)/  
 [USE-IT EUROPE](https://www.use-it.travel/home)  
 [VirusTotal](https://www.virustotal.com/gui/home/upload)  
-https://www.waterfoxproject.org/  
-https://www.wifimap.io/  
+<https://www.waterfoxproject.org/>  
+<https://www.wifimap.io/>  
 [Wikiloc | Trails of the World](https://www.wikiloc.com)/  
 [Home - WikiSummaries](https://www.wikisummaries.org/wiki/Main_Page)  
 [Wordle – Beautiful Word Clouds](https://www.wordle.net)/  
@@ -674,7 +674,7 @@ https://www.wifimap.io/
 [Time Converter and World Clock - Conversion at a Glance - Pick best time to schedule conference calls, webinars, online meetings and phone calls.](https://www.worldtimebuddy.com)/  
 [online text editor - WriteURL](https://www.writeurl.com)/  
 [Yubico | YubiKey Strong Two Factor Authentication](https://www.yubico.com)/  
-https://www.zooniverse.org/  
+<https://www.zooniverse.org/>  
 [PurpleAir | Real-time Air Quality Monitoring](https://www2.purpleair.com)/  
 [xroom.app: Secure, simple and encrypted video conferencing](https://xroom.app)/  
 [Yap](https://yap.chat)/  
@@ -683,15 +683,15 @@ https://www.zooniverse.org/
 [Productivity and Collaboration Software Suite | Zenkit](https://zenkit.com/en/use-cases/mind-map)/  
 [Zoom Earth | LIVE weather map, storm tracker, rain radar](https://zoom.earth)/  
 [Mobile menu](https://zorbi.cards)/  
-[QR Code Generator from the ZXing Project](https://zxing.appspot.com/generator)/https://translatr.varunmalhotra.xyz/  
-https://tripsguard.com/  
+[QR Code Generator from the ZXing Project](https://zxing.appspot.com/generator)/<https://translatr.varunmalhotra.xyz/>  
+<https://tripsguard.com/>  
 [Typehut — Super simple publishing](https://typehut.com)/  
-https://untools.co/  
+<https://untools.co/>  
 [The Universal Packing List](https://upl.codeq.info)/  
-https://virtualdrive.bingepost.com/  
+<https://virtualdrive.bingepost.com/>  
 [](https://visuwords.com)/  
 [Volafile.org Live Filesharing & Chat](https://volafile.org)/  
-https://vroom.chat/  
+<https://vroom.chat/>  
 [The Weather Year Round Anywhere on Earth - Weather Spark](https://weatherspark.com)/  
 [Web 2.0 scientific calculator  
 ](https://web2.0calc.com)/  
@@ -703,7 +703,7 @@ https://vroom.chat/
 [WikiDiff |](https://wikidiff.com)/  
 [Wikimap: A map of Wikipedia](https://wikimap.wiki)/  
 [Wikimapia - Let's describe the whole world!](https://wikimapia.org)/  
-https://wikiwho.ailef.tech/  
+<https://wikiwho.ailef.tech/>  
 [Create word clouds – WordItOut](https://worditout.com/word-cloud/create)  
 [Paperspace Desktops Home](https://workstream.paperspace.com)/  
 [Home Assistant](https://www.home-assistant.io)/  
@@ -727,7 +727,7 @@ https://wikiwho.ailef.tech/
   End of support for Firefox Lockwise | Firefox Lockwise Help  
 ](https://www.mozilla.org/en-US/firefox/lockwise)/  
 [MuckRock](https://www.muckrock.com)/  
-https://www.myphysicslab.com/index-en.html  
+<https://www.myphysicslab.com/index-en.html>  
 [My WiFi Sign](https://www.mywifisign.com)/  
 [Earth.fm: Listen to nature sounds, fall in love with the Earth](https://www.naturesoundmap.com)/  
 [Eat well - NHS](https://www.nhs.uk/live-well/eat-well)/  
@@ -735,12 +735,12 @@ https://www.myphysicslab.com/index-en.html
 ](https://www.oldmapsonline.org)/  
 [OneLook Dictionary Search](https://www.onelook.com)/  
 [  
-	Free Online OCR - Image to text and PDF to Doc converter  
+ Free Online OCR - Image to text and PDF to Doc converter  
 ](https://www.onlineocr.net)/  
 [Drone Mapping Software - OpenDroneMap](https://www.opendronemap.org)/  
 [OpenHistoricalMap](https://www.openhistoricalmap.org)/  
 [Passbolt | The open source password manager for teams](https://www.passbolt.com)/  
-https://www.pastenow.me/create  
+<https://www.pastenow.me/create>  
 [PDF Books Library To download free eBooks](https://www.pdfbooksworld.com)/  
 [PDF Editor Free - Edit PDF and Form Filler Online - PDFescape](https://www.pdfescape.com/windows)/  
 [Pidgin :: Pidgin, the universal chat client](https://www.pidgin.im)/  
@@ -750,8 +750,8 @@ https://www.pastenow.me/create
 [Free Large File Transfer | File Share Over the Internet](https://www.prontoshare.com/file-upload)  
 [Protopage - Free Personalized Start Pages](https://www.protopage.com)/  
 [Rainmeter, desktop customization tool](https://www.rainmeter.net)/  
-https://www.retroread.com/  
-https://www.scrumblr.ca/  
+<https://www.retroread.com/>  
+<https://www.scrumblr.ca/>  
 [SendGB | Send Large Files | Free file transfer](https://www.sendgb.com)/  
 [Seterra Geography Games](https://www.seterra.com)/  
 [Compare College Textbook Prices | Buy and Rent College Textbooks | SlugBooks](https://www.slugbooks.com)/  
@@ -761,20 +761,20 @@ https://www.scrumblr.ca/
             Sync Text and Files Across your WiFi network! | Simple.Savr  
     ](https://www.ssavr.com)/  
 [Symbolab Math Solver - Step by Step calculator](https://www.symbolab.com)/  
-https://www.tagspaces.org/  
+<https://www.tagspaces.org/>  
 [Online tools for random words, Word to HTML, other free tools.](https://www.textfixer.com)/  
 [Their News: Escape your bubble](https://www.their.news)/  
 [tinyfeed](https://www.tinyfeed.co)/  
 [Group 2](https://www.tmrow.com/climatechange)  
 [TomatoTimers - Custom Pomodoro Timer and To-do  List](https://www.tomatotimers.com)/  
-https://www.transplant.to/  
+<https://www.transplant.to/>  
 [tree.fm – Tune Into Forests From Around The World 🌳🔈](https://www.tree.fm)/  
 [Typing Lessons - Learn To Type And Improve Typing Speed Free - Typing.com](https://www.typing.com/student/lessons)  
 [Typora — a markdown editor, markdown reader.](https://www.typora.io)/  
 [USE-IT EUROPE](https://www.use-it.travel/home)  
 [VirusTotal](https://www.virustotal.com/gui/home/upload)  
-https://www.waterfoxproject.org/  
-https://www.wifimap.io/  
+<https://www.waterfoxproject.org/>  
+<https://www.wifimap.io/>  
 [Wikiloc | Trails of the World](https://www.wikiloc.com)/  
 [Home - WikiSummaries](https://www.wikisummaries.org/wiki/Main_Page)  
 [Wordle – Beautiful Word Clouds](https://www.wordle.net)/  
@@ -782,7 +782,7 @@ https://www.wifimap.io/
 [Time Converter and World Clock - Conversion at a Glance - Pick best time to schedule conference calls, webinars, online meetings and phone calls.](https://www.worldtimebuddy.com)/  
 [online text editor - WriteURL](https://www.writeurl.com)/  
 [Yubico | YubiKey Strong Two Factor Authentication](https://www.yubico.com)/  
-https://www.zooniverse.org/  
+<https://www.zooniverse.org/>  
 [PurpleAir | Real-time Air Quality Monitoring](https://www2.purpleair.com)/  
 [xroom.app: Secure, simple and encrypted video conferencing](https://xroom.app)/  
 [Yap](https://yap.chat)/  

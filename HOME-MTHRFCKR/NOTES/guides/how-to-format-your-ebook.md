@@ -1,6 +1,6 @@
 [![eBook formatting](https://blog.bookbaby.com/wp-content/uploads/2014/05/FormatYoureBook_Feature-696x508.jpg "eBook formatting")](https://blog.bookbaby.com/wp-content/uploads/2014/05/FormatYoureBook_Feature.jpg)
 
-### eBook format 101: How to create an eBook that doesn’t suck.
+### eBook format 101: How to create an eBook that doesn’t suck
 
 _Updated April 2021._
 
@@ -10,7 +10,7 @@ Whether you’re handling the technical aspects of this process yourself or havi
 
 I assume you spent many hours writing your book, so obviously you want the digital version to look beautiful and offer the reader a great experience. This article will provide you with some of the basic eBook formatting “rules,” so you can be sure that what comes out on the other end of the eBook conversion process doesn’t look like a garbled mess of weird symbols and code.
 
-### First, read an eBook!
+### First, read an eBook
 
 Perhaps surprisingly, most of the questions we get asked about eBook formatting and conversion seem to stem from the fact that lots of writers have still never read an eBook. They’re unaware of the benefits and limitations of digital books. They have not seen how text behaves on various eReading devices.
 
@@ -32,18 +32,18 @@ Keep in mind that a fixed layout eBook is different from a PDF file. While the c
 
 **Use the standard ePUB format if:**
 
--   Your book is mostly text (besides the cover art).
--   Your book features small images that are embedded between paragraphs.
--   You want to ensure maximum usability for your book (since standard eBooks are readable on most eReaders, tablets, smart-phones, and computers).
+- Your book is mostly text (besides the cover art).
+- Your book features small images that are embedded between paragraphs.
+- You want to ensure maximum usability for your book (since standard eBooks are readable on most eReaders, tablets, smart-phones, and computers).
 
 **Consider fixed layout if:**
 
--   You want to preserve text over images.
--   You would like to set a background color.
--   You want text to wrap around images.
--   You want your book to have horizontal orientation.
--   You want multi-column text pages.
--   Your pages have aspect ratios that you don’t want to change.
+- You want to preserve text over images.
+- You would like to set a background color.
+- You want text to wrap around images.
+- You want your book to have horizontal orientation.
+- You want multi-column text pages.
+- Your pages have aspect ratios that you don’t want to change.
 
 If you’re having a service like BookBaby handle your eBook conversion, keep in mind that since fixed layout eBooks require some extra attention during the conversion process, fixed layout ePUB conversion often costs more than a basic ePUB conversion.
 
@@ -53,13 +53,13 @@ If you’re going the route of a standard eBook, read on for tips on how to corr
 
 The most common mistake that authors make when they’re getting their manuscript file ready for ePUB conversion is using the tab key or spacebar to indent paragraphs in a Word document.
 
-**Just in case that wasn’t clear:** _You should NOT use the tab key or spacebar to indent paragraphs in your eBook manuscript doc._ 
+**Just in case that wasn’t clear:** _You should NOT use the tab key or spacebar to indent paragraphs in your eBook manuscript doc._
 
 Instead, **use the paragraphs settings in the formatting palette in Word to set indents to the first line of each paragraph.** The ePUB conversion process will go smoothly and your readers will be happier, too.
 
 ### How to automatically switch tab indents to proper eBook manuscript indents
 
-What if you’ve already indented every single paragraph in your 400 page masterpiece by using the tab key? There is a quick solution for SOME folks (it depends on your version of Word). In some versions of Microsoft Word (I’ve heard that _2007_ can be buggy in this regard), you can use the _Find_ and _Replace_functions in the EDIT menu. Simply put “^t” in the _Find_ field and nothing in the _Replace_field. Click _Replace All_.
+What if you’ve already indented every single paragraph in your 400 page masterpiece by using the tab key? There is a quick solution for SOME folks (it depends on your version of Word). In some versions of Microsoft Word (I’ve heard that _2007_ can be buggy in this regard), you can use the _Find_ and _Replace_functions in the EDIT menu. Simply put “^t” in the_Find_field and nothing in the_Replace_field. Click _Replace All_.
 
 Presto! You’ve erased all the tab indents – unless, as I mentioned above, you’ve got one of the “buggy” versions of Word. (Which is why it’s best to go back through your document and check your work manually).
 
@@ -149,19 +149,19 @@ If a picture’s worth a thousand words, a correctly formatted image can be pric
 
 Other important tips of note when it comes to images are:
 
-#### Image conversion:
+#### Image conversion
 
 [BookBaby](https://www.bookbaby.com/ebook-conversion/?&utm_campaign=BBBLOG&utm_source=BBBLOG&utm_medium=Article/) can convert all of the graphic elements included in your eBook.
 
-#### Images, tables, and diagrams:
+#### Images, tables, and diagrams
 
 Images, tables, and diagrams require optimization to ensure proper display on the supported eReaders. Non-image materials such as excel tables, pie charts, and non-flattened artwork will be converted to jpegs for proper display on eReaders. These items will not scale or resize with the fonts.
 
-#### Digital cameras pictures:
+#### Digital cameras pictures
 
 When you take a photograph with a digital camera or scan an image using a digital scanner, the resulting file uses the RGB color mode so you will not need to convert these files.
 
-#### Photoshop and color mode:
+#### Photoshop and color mode
 
 If you are using Adobe Photoshop and want to check the color mode of your file, you can do so under Image > Mode. We suggest making any necessary color mode conversions from CMYK to RGB before you start color/tonal changes or photo manipulation.
 
@@ -175,8 +175,8 @@ To avoid this formatting issue, adjust the size of the image first! Then move it
 
 Resize large images to 300 pixels high if you would like them to display in-line with text. Do all image resizing outside of the document, then reinsert them before saving. All images should be 72 – 300 dpi (300 dpi preferred).\*
 
--   Cover and full-page images: 590 pixels wide by 750 pixels high.
--   Logos or simple images: 75 – 100 pixels high
+- Cover and full-page images: 590 pixels wide by 750 pixels high.
+- Logos or simple images: 75 – 100 pixels high
 
 ### Avoid spaces in the file name for your eBook manuscript
 
@@ -185,4 +185,3 @@ If you are making your own ePub files or creating files for BookBaby to convert,
 Spaces aren’t read the same way by all operating systems, and since your eBook is designed to be viewed on all different kinds of screens, it can affect how your book displays.
 
 OK. I know that is a lot to digest, but by getting the formatting correct upfront, you can ensure that your manuscript is converted into a beautiful eBook.
-

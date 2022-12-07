@@ -2,10 +2,10 @@
 
 *Update: Cheat Sheets BETA is here!*
 
-  * Introduction to JavaScript: [Introduction][1]
-  * Introduction to JavaScript: [Conditionals][2]
-  * Introduction to JavaScript: [Functions][3]
-  * Introduction to JavaScript: [Scope][4]
+* Introduction to JavaScript: [Introduction][1]
+* Introduction to JavaScript: [Conditionals][2]
+* Introduction to JavaScript: [Functions][3]
+* Introduction to JavaScript: [Scope][4]
 
 # Arrays
 
@@ -1701,9 +1701,9 @@ name = 'Samuel'
 
 ----
 
-[1]:	https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/reference
-[2]:	https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-control-flow/reference
-[3]:	https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-functions/reference
-[4]:	https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-scope/reference
+[1]: https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/reference
+[2]: https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-control-flow/reference
+[3]: https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-functions/reference
+[4]: https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-scope/reference
 
-#article #javascript
+# article #javascript

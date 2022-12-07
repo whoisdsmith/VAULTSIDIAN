@@ -1,10 +1,10 @@
 # Linking journal entries
 
-Entries can be linked using the URL scheme in Day One. Copying a link from one entry and pasting in another is a great way to navigate to other entries quickly. 
+Entries can be linked using the URL scheme in Day One. Copying a link from one entry and pasting in another is a great way to navigate to other entries quickly.
 
 ## iOS
 
-  1. Tap the More (•••) button at the top right of an entry, then Entry Info. Or the Map at the bottom of an entry to access the [Entry Info/Metadata view](https://help.dayoneapp.com/en/articles/882775-entry-info-metadata-in-day-one-for-ios). 
+  1. Tap the More (•••) button at the top right of an entry, then Entry Info. Or the Map at the bottom of an entry to access the [Entry Info/Metadata view](https://help.dayoneapp.com/en/articles/882775-entry-info-metadata-in-day-one-for-ios).
 
   2. Tap _Entry ID_.
 
@@ -34,11 +34,11 @@ Entries can be linked using the URL scheme in Day One. Copying a link from one e
 
 ![](https://downloads.intercomcdn.com/i/o/377158437/f66f98e57987be5c5f9e5826/Screen+Shot+2021-08-17+at+12.50.54+PM.png)
 
-### 
+###
 
 ## Android
 
-  1. Tap the More (•••) button at the top right of an entry, then Metadata. [Entry Info/Metadata view](https://help.dayoneapp.com/en/articles/882775-entry-info-metadata-in-day-one-for-ios). 
+  1. Tap the More (•••) button at the top right of an entry, then Metadata. [Entry Info/Metadata view](https://help.dayoneapp.com/en/articles/882775-entry-info-metadata-in-day-one-for-ios).
 
   2. Tap _Entry ID_.
 
@@ -52,7 +52,6 @@ Entries can be linked using the URL scheme in Day One. Copying a link from one e
 
 ![](https://downloads.intercomcdn.com/i/o/377200551/4fbe857411aeda76def3eaed/Screen+Shot+2021-08-17+at+2.25.48+PM.png)
 
-
 ___
 
-#article #DayOne
+# article #DayOne

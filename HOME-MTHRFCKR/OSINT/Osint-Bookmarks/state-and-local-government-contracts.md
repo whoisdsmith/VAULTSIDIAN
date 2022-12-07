@@ -1,4 +1,5 @@
 ## State and Local Government Contracts
+
 - [California Procurement Platform](http://www.bidsync.com/DPX?ac=agencycontlist&foroid=307818)
 - [Hawaii Procurement Platform](https://hands.ehawaii.gov/hands/welcome)
 - [Idaho Procurement Platform](https://purchasing.idaho.gov/information-for-vendors)

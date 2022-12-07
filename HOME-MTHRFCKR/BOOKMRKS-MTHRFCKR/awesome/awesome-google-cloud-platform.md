@@ -139,7 +139,6 @@ If you are new to Google Cloud Platform, there is a [free trial](https://cloud.g
 - [Awesome Cloud Build](https://github.com/Timtech4u/awesome-cloudbuild) - A curated list of resources about all things Google Cloud Build.
 - [Awesome Bigtable](https://github.com/zrosenbauer/awesome-bigtable) - Delightful list of Google Bigtable resources, packages and interesting finds.
 
-
 ## About This Document
 
 ### License

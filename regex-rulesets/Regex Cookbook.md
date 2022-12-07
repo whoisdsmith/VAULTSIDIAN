@@ -14,8 +14,8 @@ Some changes may be made to these expressions for more typical use in Notepad++:
 
 But…there are some interesting things to note in the Cookbook regexes:
 
--   `[^\r\n]` may be used in place of “`(?-s)` with a later occurring `.`” to mean “any character but not including (or across) line-ending characters”
--   `[\s\S]` may be used in place of “`(?s)` with a later occurring `.`” to mean “any character at all (including line-ending characters)”
+- `[^\r\n]` may be used in place of “`(?-s)` with a later occurring `.`” to mean “any character but not including (or across) line-ending characters”
+- `[\s\S]` may be used in place of “`(?s)` with a later occurring `.`” to mean “any character at all (including line-ending characters)”
 
 I like these as they put all the functionality in one place in the regex.
 

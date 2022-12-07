@@ -98,7 +98,6 @@ $0.5/hour
 
 ## Extras
 
-  * [MagiskOnEmu](https://github.com/HuskyDG/MagiskOnEmu) \- Allows to integrate Magisk root into Android Emulators.
-  * [BSTweaker](https://bstweaker.tk) \- Root, FileManager, Device Spoofing, Debugging etc for Bluestacks, MEmu, Nox & LDPlayer.
-  * [NoxDebloater](https://gist.github.com/Log1x/12d330ef7685d6fbc611d1d57efb5c29) \- Remove Ads, Debloat and Optimize NoxPlayer
-
+* [MagiskOnEmu](https://github.com/HuskyDG/MagiskOnEmu) \- Allows to integrate Magisk root into Android Emulators.
+* [BSTweaker](https://bstweaker.tk) \- Root, FileManager, Device Spoofing, Debugging etc for Bluestacks, MEmu, Nox & LDPlayer.
+* [NoxDebloater](https://gist.github.com/Log1x/12d330ef7685d6fbc611d1d57efb5c29) \- Remove Ads, Debloat and Optimize NoxPlayer

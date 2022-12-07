@@ -31,7 +31,7 @@ Inside the function, it calls itself, and the output redirects it with | to the 
 With “&,” we tell the process to run in the background.
 
 ```
-$ -- :(){ :|: & };: --
+-- :(){ :|: & };: --
 ```
 
 ## 2. Writes Directly to a Hard Drive
@@ -39,7 +39,7 @@ $ -- :(){ :|: & };: --
 You will quickly damage your file system if you run any command and dump its output directly into a disk. So who wants to do this?
 
 ```
-$ -- "a command" > /dev/sda --
+-- "a command" > /dev/sda --
 ```
 
 ## Write Random Data to the Disk
@@ -49,7 +49,7 @@ This command is helpful if, for example, you want to overwrite the sectors of yo
 If you use this command in a loop and run it 3 or 4 times, it will give you enough assurance that the data on the disk cannot be recovered in any way.
 
 ```
-$ -- dd if=/dev/urandom of=/dev/disk --//for i in {1..10}; do dd if=/dev/urandom of=/dev/disk; done
+-- dd if=/dev/urandom of=/dev/disk --//for i in {1..10}; do dd if=/dev/urandom of=/dev/disk; done
 ```
 
 ## 3. Delete All
@@ -61,7 +61,7 @@ With the “rf” flag, we are telling the command to run recursively and force 
 With “/,” we are telling the command to start in the root directory, which contains all files and all mounted media devices, including remote file shares and removable drives.
 
 ```
-$ -- rm -rf --no-preserve-root / --
+-- rm -rf --no-preserve-root / --
 ```
 
 - From POSIX 7th version you need to use the “no-preserve-root” flag. This flag is used to avoid treating “/” in a special way.

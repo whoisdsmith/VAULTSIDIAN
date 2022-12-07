@@ -29,7 +29,7 @@ To help users easily find their content you can suggest context aware filters li
 {% endswagger-description %}
 
 {% swagger-parameter in="path" name="collectionId" type="string" %}
-Collection ID. 
+Collection ID.
 
 0
 
@@ -41,17 +41,11 @@ Sort tags by:
 
 \
 
-
-
-
 -count
 
  by count, default
 
 \
-
-
-
 
  _id
 

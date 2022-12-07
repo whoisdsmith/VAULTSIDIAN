@@ -2,8 +2,6 @@
 
 # [Detect and replace text paragraph in a markdown document](https://stackoverflow.com/questions/34914559/detect-and-replace-text-paragraph-in-a-markdown-document)
 
-
-
 I am breaking my head trying to write/ use one of the existing markdown parsers to *find and replace* every text paragraph in a markdown document and leave everything else untouched.
 
 Example Input:
@@ -50,51 +48,45 @@ Existing libraries such as [`marked`](https://www.npmjs.com/package/marked) or [
 
 What is the best approach to find and replace a text paragraph in a markdown document?
 
--   [javascript](https://stackoverflow.com/questions/tagged/javascript "show questions tagged 'javascript'")
--   [regex](https://stackoverflow.com/questions/tagged/regex "show questions tagged 'regex'")
--   [markdown](https://stackoverflow.com/questions/tagged/markdown "show questions tagged 'markdown'")
+- [javascript](https://stackoverflow.com/questions/tagged/javascript "show questions tagged 'javascript'")
+- [regex](https://stackoverflow.com/questions/tagged/regex "show questions tagged 'regex'")
+- [markdown](https://stackoverflow.com/questions/tagged/markdown "show questions tagged 'markdown'")
 
+- You should *at least* provide example of input & desired output
 
--   You should *at least* provide example of input & desired output
-    
     – [Thomas Ayoub](https://stackoverflow.com/users/2307070/thomas-ayoub "28,558 reputation")
-    
+
     [Jan 21, 2016 at 13:55](https://stackoverflow.com/questions/34914559/detect-and-replace-text-paragraph-in-a-markdown-document#comment57584770_34914559)
-    
--   I may rise a conclusion a bit fast but would a markdown paragraph be anything that start with a letter?
-    
+
+- I may rise a conclusion a bit fast but would a markdown paragraph be anything that start with a letter?
+
     – [Thomas Ayoub](https://stackoverflow.com/users/2307070/thomas-ayoub "28,558 reputation")
-    
+
     [Jan 21, 2016 at 14:22](https://stackoverflow.com/questions/34914559/detect-and-replace-text-paragraph-in-a-markdown-document#comment57585955_34914559)
-    
--   1
-    
+
+- 1
+
     @Thomas I can think of quite a few examples when a paragraph does not start with a character, e.g. [gist.github.com/gajus/d154559b6a7011d19ae4](https://gist.github.com/gajus/d154559b6a7011d19ae4)
-    
+
     – [Gajus](https://stackoverflow.com/users/368691/gajus "65,168 reputation")
-    
+
     [Jan 21, 2016 at 14:31](https://stackoverflow.com/questions/34914559/detect-and-replace-text-paragraph-in-a-markdown-document#comment57586370_34914559)
-    
--   It gets a bit more tricky when lists come into play, e.g. `1. a` and `a. a` indicates a start of a list.
-    
+
+- It gets a bit more tricky when lists come into play, e.g. `1. a` and `a. a` indicates a start of a list.
+
     – [Gajus](https://stackoverflow.com/users/368691/gajus "65,168 reputation")
-    
+
     [Jan 21, 2016 at 14:32](https://stackoverflow.com/questions/34914559/detect-and-replace-text-paragraph-in-a-markdown-document#comment57586437_34914559)
-    
--   1
-    
+
+- 1
+
     For the record, there is a discussion (inconclusive at the time of writing) about how `markdown-it` can be used to achieve this goal. [github.com/markdown-it/markdown-it/issues/195](https://github.com/markdown-it/markdown-it/issues/195)
-    
+
     – [Gajus](https://stackoverflow.com/users/368691/gajus "65,168 reputation")
-    
+
     [Jan 21, 2016 at 14:47](https://stackoverflow.com/questions/34914559/detect-and-replace-text-paragraph-in-a-markdown-document#comment57587071_34914559)
-    
 
-
-
-## 2 Answers 
-
-
+## 2 Answers
 
 That's a well known type of problems - source map info required to find source ranges by elements of result. At this moment i don't know markdown parsers with full and correct support of source maps.
 
@@ -114,23 +106,22 @@ If you look at some of the existing Markdown implementations, most of the regex 
 
 ---
 
-    
--   Yes, but if you have `* foo* bar.` then that is a list item. Notice the space after the first `*`. I covered that scenario by stating that a space must follow the token. And yes, it really is that simple. That is the method the reference implementation uses.
-    
+- Yes, but if you have `* foo* bar.` then that is a list item. Notice the space after the first `*`. I covered that scenario by stating that a space must follow the token. And yes, it really is that simple. That is the method the reference implementation uses.
+
     – [Waylan](https://stackoverflow.com/users/866026/waylan "33,126 reputation")
-    
+
     [Jan 21, 2016 at 15:24](https://stackoverflow.com/questions/34914559/detect-and-replace-text-paragraph-in-a-markdown-document#comment57588634_34927282)
-    
--   See an example here: [johnmacfarlane.net/babelmark2/?normalize=1&text=](http://johnmacfarlane.net/babelmark2/?normalize=1&text=)*foo*+bar.%0A%0A*+foo*+bar.
-    
+
+- See an example here: [johnmacfarlane.net/babelmark2/?normalize=1&text=](http://johnmacfarlane.net/babelmark2/?normalize=1&text=)*foo*+bar.%0A%0A*+foo*+bar.
+
     – [Waylan](https://stackoverflow.com/users/866026/waylan "33,126 reputation")
-    
+
     [Jan 21, 2016 at 15:25](https://stackoverflow.com/questions/34914559/detect-and-replace-text-paragraph-in-a-markdown-document#comment57588699_34927282)
-    
--   Close. A paragraph can have up to three spaces at the beginning and still be a paragraph, but your regex doesn't match that. Also, you should add some lists to your sample document. Consider a multi-line list item. The second line does not need to be indented, but is not a paragraph. however, your regex still matches it.
-    
+
+- Close. A paragraph can have up to three spaces at the beginning and still be a paragraph, but your regex doesn't match that. Also, you should add some lists to your sample document. Consider a multi-line list item. The second line does not need to be indented, but is not a paragraph. however, your regex still matches it.
+
     – [Waylan](https://stackoverflow.com/users/866026/waylan "33,126 reputation")
-    
+
     [Jan 21, 2016 at 15:32](https://stackoverflow.com/questions/34914559/detect-and-replace-text-paragraph-in-a-markdown-document#comment57588986_34927282)
 
 ---
@@ -159,7 +150,7 @@ The format quickly took over the web in the 2010s and today most if not all plat
 
 I was thinking about useful CLI tools I can make in Golang, and it struck me that Markdown to Word does not exist. Even if it does, it’s not very good I bet! So I decided to fire up Go and write one myself. And to recognize the syntax, of course I turned to Regex (what else?). Please star [the repo](https://github.com/Chubek/md2docx). So far I’ve only written the Regex patterns but the rest is coming, since these days I’m pretty much free from my usual burden of “making money to survive” and I’ve never felt better!
 
-### So Chubak, stop lingering and tell us the patterns!
+### So Chubak, stop lingering and tell us the patterns
 
 Ok, let’s start!
 
@@ -317,7 +308,7 @@ emailText        = `(\<{1})(\S+@\S+)(\>{1})`
 
 So we match `<` and `>` at the beginning and the end. Then we match `(\S+@\S+)` ANY non-whitespace character coupled with an at sign.
 
-#### And finally… TABLES!!!
+#### And finally… TABLES
 
 So this si the hardest part and I know I’ll be spending hours to parse this. In MD tables are written like this:
 
@@ -380,7 +371,7 @@ I need to select text from "#Header" to "#Header2".
 
 I tried to wrote regexp: [http://regexr.com/3ffva](http://regexr.com/3ffva) but it's do not match what i needed.
 
--   [regex](https://stackoverflow.com/questions/tagged/regex "show questions tagged 'regex'")
+- [regex](https://stackoverflow.com/questions/tagged/regex "show questions tagged 'regex'")
 
 [Share](https://stackoverflow.com/q/42681418/17231101 "Short permalink to this question")
 
@@ -400,7 +391,7 @@ asked Mar 8, 2017 at 20:34
 
 ![Dmitry Bubnenkov's user avatar](https://www.gravatar.com/avatar/e80f2b22b8c98730708ad3842c11604b?s=64&d=identicon&r=PG)
 
-](https://stackoverflow.com/users/1432751/dmitry-bubnenkov)
+](<https://stackoverflow.com/users/1432751/dmitry-bubnenkov>)
 
 [Dmitry Bubnenkov](https://stackoverflow.com/users/1432751/dmitry-bubnenkov)Dmitry Bubnenkov
 
@@ -408,12 +399,11 @@ asked Mar 8, 2017 at 20:34
 
 1
 
--   Does Headers contains `#` in middle of Heading text/name ?
-    
+- Does Headers contains `#` in middle of Heading text/name ?
+
     – [MohaMad](https://stackoverflow.com/users/7529266/mohamad "2,385 reputation")
-    
+
     [Mar 8, 2017 at 21:24](https://stackoverflow.com/questions/42681418/how-to-select-parts-of-text-from-markdown-with-regexp#comment72488474_42681418)
-    
 
 [Add a comment](https://stackoverflow.com/questions/42681418/how-to-select-parts-of-text-from-markdown-with-regexp# "Use comments to ask for more information or suggest improvements. Avoid answering questions in comments.")  | [](https://stackoverflow.com/questions/42681418/how-to-select-parts-of-text-from-markdown-with-regexp# "Expand to show all comments on this post")
 
@@ -463,7 +453,7 @@ answered Mar 8, 2017 at 22:02
 
 ![builder-7000's user avatar](https://www.gravatar.com/avatar/b6d433ceb0bd5eb9ae492b50354849e0?s=64&d=identicon&r=PG&f=1)
 
-](https://stackoverflow.com/users/5411198/builder-7000)
+](<https://stackoverflow.com/users/5411198/builder-7000>)
 
 [builder-7000](https://stackoverflow.com/users/5411198/builder-7000)builder-7000
 
@@ -495,14 +485,13 @@ With looking ahead for closing capture and also matching, before next heading:
 
 Description:
 
--   Group 1 captures first of string or new line that follows # and no other #, that means new Heading starts there.
-    
--   Group 2 captures Heading title
-    
--   Group 3 captures any thing till the next heading or end of string
-    
--   Group 4 is non-capturing and looks ahead for new heading, or end of text.
-    
+- Group 1 captures first of string or new line that follows # and no other #, that means new Heading starts there.
+
+- Group 2 captures Heading title
+
+- Group 3 captures any thing till the next heading or end of string
+
+- Group 4 is non-capturing and looks ahead for new heading, or end of text.
 
 ---
 
@@ -516,12 +505,11 @@ Description:
 
 Description:
 
--   first, add `#--` at the end of text, for matching last Heading by this regex!
-    
--   Starts matching from first char of line by `^` and matches `#` with no # in heading text. Group 1 captured: *Heading* before `\n`
-    
--   Group 2 captures texts till next Heading start, that defined by just one # at starting line.
-    
+- first, add `#--` at the end of text, for matching last Heading by this regex!
+
+- Starts matching from first char of line by `^` and matches `#` with no # in heading text. Group 1 captured: *Heading* before `\n`
+
+- Group 2 captures texts till next Heading start, that defined by just one # at starting line.
 
 [Share](https://stackoverflow.com/a/42681825/17231101 "Short permalink to this answer")
 
@@ -543,7 +531,7 @@ answered Mar 8, 2017 at 20:59
 
 ![MohaMad's user avatar](https://i.stack.imgur.com/IGW24.jpg?s=64&g=1)
 
-](https://stackoverflow.com/users/7529266/mohamad)
+](<https://stackoverflow.com/users/7529266/mohamad>)
 
 [MohaMad](https://stackoverflow.com/users/7529266/mohamad)MohaMad
 
@@ -551,12 +539,11 @@ answered Mar 8, 2017 at 20:59
 
 1
 
--   ECMAScript regex. For python check comment above.
-    
+- ECMAScript regex. For python check comment above.
+
     – [tsr](https://stackoverflow.com/users/2261423/tsr "364 reputation")
-    
+
     [Jul 13, 2021 at 7:43](https://stackoverflow.com/questions/42681418/how-to-select-parts-of-text-from-markdown-with-regexp#comment120812238_42681825)
-    
 
 [Add a comment](https://stackoverflow.com/questions/42681418/how-to-select-parts-of-text-from-markdown-with-regexp# "Use comments to ask for more information or suggest improvements. Avoid comments like “+1” or “thanks”.")  | [](https://stackoverflow.com/questions/42681418/how-to-select-parts-of-text-from-markdown-with-regexp# "Expand to show all comments on this post")
 
@@ -576,11 +563,11 @@ Show activity on this post.
 
 Basic idea: find first level-1 heading, find any text *until*... second level-1 heading.
 
--   `^#[^#\n]+` first level-1 heading
-    -   `^` start of line (because of multi-line flag)
-    -   `[^#\n]+` Any character that isn't `#` or a newline character. Repeat 1 or more times.
--   `([\W\w]*?)` any text until next matching part
--   `^#[^#\n]+` second level-1 heading (see above)
+- `^#[^#\n]+` first level-1 heading
+  - `^` start of line (because of multi-line flag)
+  - `[^#\n]+` Any character that isn't `#` or a newline character. Repeat 1 or more times.
+- `([\W\w]*?)` any text until next matching part
+- `^#[^#\n]+` second level-1 heading (see above)
 
 Flags: multiline.
 
@@ -602,7 +589,7 @@ answered Mar 8, 2017 at 20:38
 
 ![Whothehellisthat's user avatar](https://www.gravatar.com/avatar/f6d261261425b72bba389146c4cf2d2e?s=64&d=identicon&r=PG)
 
-](https://stackoverflow.com/users/1086525/whothehellisthat)
+](<https://stackoverflow.com/users/1086525/whothehellisthat>)
 
 [Whothehellisthat](https://stackoverflow.com/users/1086525/whothehellisthat)Whothehellisthat
 
@@ -610,12 +597,10 @@ answered Mar 8, 2017 at 20:38
 
 1
 
--   Works with python regex. Just need to take index from match start to group end.
-    
+- Works with python regex. Just need to take index from match start to group end.
+
     – [tsr](https://stackoverflow.com/users/2261423/tsr "364 reputation")
-    
+
     [Jul 13, 2021 at 7:42](https://stackoverflow.com/questions/42681418/how-to-select-parts-of-text-from-markdown-with-regexp#comment120812217_42681472)
 
-
 ----
-

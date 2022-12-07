@@ -5,81 +5,83 @@
 ## Webhooks
 
 **Announcements Channel**  
-	- Spidey Bot  
-		- Webhook URL - https://discord.com/api/webhooks/1041538681346986055/fKwPIUtf_AKENSF0-waRzl4KDNaI-k5Wqv1V14mI5bUMCxrduijJHyuvWKJJKlaViHKO
+ - Spidey Bot  
+  - Webhook URL - <https://discord.com/api/webhooks/1041538681346986055/fKwPIUtf_AKENSF0-waRzl4KDNaI-k5Wqv1V14mI5bUMCxrduijJHyuvWKJJKlaViHKO>
 
 **General Channel**  
-	- Captain Hook  
-		- Webhook URL - https://discord.com/api/webhooks/1041537155169800392/LFDc1hyeSFVixYtCwY9dg_Atd-ij6Mq3tJ1MzGTmc08iYjJqevzyBzo7jmfGfHrHidxn
+ - Captain Hook  
+  - Webhook URL - <https://discord.com/api/webhooks/1041537155169800392/LFDc1hyeSFVixYtCwY9dg_Atd-ij6Mq3tJ1MzGTmc08iYjJqevzyBzo7jmfGfHrHidxn>
 
 **Music Channel**  
-	- Captain Hook  
-		- Webhook URL - https://discord.com/api/webhooks/1041541605657690202/Mn5Tk0zCjmYzkpa3tqcDaPBWSnu13lyHTFEhsql8Iz2KvwMD5zUmy4WDt0wD0P1mqp7s
+ - Captain Hook  
+  - Webhook URL - <https://discord.com/api/webhooks/1041541605657690202/Mn5Tk0zCjmYzkpa3tqcDaPBWSnu13lyHTFEhsql8Iz2KvwMD5zUmy4WDt0wD0P1mqp7s>
 
 **Twitter Channel**  
-	- Spidey Bot  
-		- Webhook URL - https://discord.com/api/webhooks/1041537954708987994/gDdtbZKMmLoEFn3NVNHCjxgeKAOl41KoHT75N06hE5HacYqMB0DrIGbKTzRR0Im9ugwe
+ - Spidey Bot  
+  - Webhook URL - <https://discord.com/api/webhooks/1041537954708987994/gDdtbZKMmLoEFn3NVNHCjxgeKAOl41KoHT75N06hE5HacYqMB0DrIGbKTzRR0Im9ugwe>
 
 ---
 
 ### Discord Servers
 
-
 * [APK'S 2 Day](https://discord.gg/2qWqzN8) This is a discord server that acts as a hub for numerous streaming apps.
 * ⭐ **[mega.archive](https://discord.gg/R3zEZUPp3Q)** / [Chat](https://discord.gg/ZRhpUtzvkC) - Megadrive Archive
 * [Sala De Espera](https://matrix.to/#/!qbOtnJEDGsPuWZBHLX:matrix.org?via=matrix.org) / [Discord](https://discord.gg/ZRhpUtzvkC) or [No Bucks Given](https://discord.gg/By53hyhUFS) / [Revolt](https://divolt.xyz/invite/BM9hvM0E) - Drive Sharing Communities
-- [Freemediaheckyeah](https://discord.com/invite/vgnaeka) - The official FreeMediaHeckYeah Discord server.
-- [Snahp.it](https://discord.gg/ypyKZCj) - Official Discord server for snahp.it.
-- [f/MEGAlinks](https://discordapp.com/invite/xk7HEE3) - Official f/MEGAlinks Discord server.
-- [9YearOldPirates](https://discord.gg/3YCF8u) - Official Discord server for the 9YearOldPirates relaese group.
-- [ApolloTV](https://discordapp.com/invite/DT9SgYE) - The official ApolloTV Discord server.
-- [legal acquisition club](https://discordapp.com/invite/UmWJVvH) - A piracy server to discuss and share movies, tv and apps.
-- [Morph TV (Morpheus Fork)](https://discordapp.com/invite/gVxP2Gq) - Morph TV (Morpheus Fork) - official Discord server.
-- [The Eye](https://discordapp.com/invite/py3kX3Z) - Official Discord server for The-Eye.eu.
-- [The Ratio](https://discordapp.com/invite/wab3Qag) - A community of seedbox enthusiasts. Buying advice, application setup, and automation help.
-- [WarezNX](https://discord.gg/d6xxuPq) - Nintendo Switch Warez community server.
-- [KissCommunity Discord](https://discordapp.com/invite/eCzUxNB) - Community based Discord server.
-- [TopNow.se](https://discord.gg/marBA97) - Provides Movies, TV shows and Anime.
-- [The Programmer Hangout](https://theprogrammershangout.com/) - Geared towards all kind of developers
-- [Devcord](https://devcord.com/) - Geared towards web developers
-- [The Coding Den](https://discord.com/invite/code) - Geared towards developers that have questions / need help
-- [Commit Your Code!](https://bit.ly/30YfIop) - Geared towards developers (+ career advice)
-- [EddieHub](https://discord.com/invite/jZQs6Wus) - Geared towards developers interested in open source
-- [4C](https://discord.gg/M5TKk7NH) - Geared towards people that create (tech) content online
+* [Freemediaheckyeah](https://discord.com/invite/vgnaeka) - The official FreeMediaHeckYeah Discord server.
+* [Snahp.it](https://discord.gg/ypyKZCj) - Official Discord server for snahp.it.
+* [f/MEGAlinks](https://discordapp.com/invite/xk7HEE3) - Official f/MEGAlinks Discord server.
+* [9YearOldPirates](https://discord.gg/3YCF8u) - Official Discord server for the 9YearOldPirates relaese group.
+* [ApolloTV](https://discordapp.com/invite/DT9SgYE) - The official ApolloTV Discord server.
+* [legal acquisition club](https://discordapp.com/invite/UmWJVvH) - A piracy server to discuss and share movies, tv and apps.
+* [Morph TV (Morpheus Fork)](https://discordapp.com/invite/gVxP2Gq) - Morph TV (Morpheus Fork) - official Discord server.
+* [The Eye](https://discordapp.com/invite/py3kX3Z) - Official Discord server for The-Eye.eu.
+* [The Ratio](https://discordapp.com/invite/wab3Qag) - A community of seedbox enthusiasts. Buying advice, application setup, and automation help.
+* [WarezNX](https://discord.gg/d6xxuPq) - Nintendo Switch Warez community server.
+* [KissCommunity Discord](https://discordapp.com/invite/eCzUxNB) - Community based Discord server.
+* [TopNow.se](https://discord.gg/marBA97) - Provides Movies, TV shows and Anime.
+* [The Programmer Hangout](https://theprogrammershangout.com/) - Geared towards all kind of developers
+* [Devcord](https://devcord.com/) - Geared towards web developers
+* [The Coding Den](https://discord.com/invite/code) - Geared towards developers that have questions / need help
+* [Commit Your Code!](https://bit.ly/30YfIop) - Geared towards developers (+ career advice)
+* [EddieHub](https://discord.com/invite/jZQs6Wus) - Geared towards developers interested in open source
+* [4C](https://discord.gg/M5TKk7NH) - Geared towards people that create (tech) content online
+
 * [Sonic Getaway](https://discord.gg/audiophile) - Music / Audio / Audio Gear Discussion
 * [WarezBot](https://github.com/enzobes/WarezBot) - Discord Scene Release Tracker
-- [Buildspace](https://buildspace.so/) - Geared towards developers interested in Web3
+* [Buildspace](https://buildspace.so/) - Geared towards developers interested in Web3
+
 * [Discord search](https://disboard.org/de/search)
-- [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter)
-- [discord-open-source](https://github.com/discord/discord-open-source)
-- [awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities)
-- [Kropes editing leak](https://discord.gg/bMmqQdXAhp)
-- [Discord](https://discord.gg/Vuzr6xaaZN)
-- [Discord](https://discord.com/invite/6hr2Xsm)
-- [Discord](https://discord.gg/QhaKfHwWmV)
-- [Discord Bot](https://github.com/brandongallagher1999/1337x-Bot)
+* [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter)
+* [discord-open-source](https://github.com/discord/discord-open-source)
+* [awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities)
+* [Kropes editing leak](https://discord.gg/bMmqQdXAhp)
+* [Discord](https://discord.gg/Vuzr6xaaZN)
+* [Discord](https://discord.com/invite/6hr2Xsm)
+* [Discord](https://discord.gg/QhaKfHwWmV)
+* [Discord Bot](https://github.com/brandongallagher1999/1337x-Bot)
+
 * [Discord](https://discord.new/fcgpDbxVrj4q)
-- [Discord](https://discord.gg/JWqrdfN9Y8)
-- [Discord](https://discord.gg/ZQjfHkNHXC)
+* [Discord](https://discord.gg/JWqrdfN9Y8)
+* [Discord](https://discord.gg/ZQjfHkNHXC)
 
 ---
 
 ## Discord
 
-- [DISBOARD](https://disboard.org/)
-- [Browse Public Dutch Discord Servers](https://discordservers.com/search/dutch)
-- [Discord History search (script)](https://dht.chylex.com/)
-- [Discord Lookup](https://discord.id/)
-- [Discord.st](https://discord.st/)
-- [DiscordBee - Public Discord Server List](https://discordbee.com/servers?q=dutch)
-- [DiscordHub](https://discordhub.com/user/search)
-- [DiscordServers](https://discordservers.com/)
-- [Join the FilePursuit Discord Server!](https://discord.gg/xRfFd8h)
-- [Join the The Megadrive Discord Server!](https://discord.gg/h2P5zsNMxZ)
-- [Public Discord Servers & Discord Channels](https://discord.me/servers)
-- [disboard.org/nl/search](https://disboard.org/nl/search)
-- [Join the PiratePC Discord Server!](https://discord.com/invite/NZ976ZApBe)
-- [Join the bdlukaa Discord Server!](https://discord.gg/VhDsNvhbhc)
+* [DISBOARD](https://disboard.org/)
+* [Browse Public Dutch Discord Servers](https://discordservers.com/search/dutch)
+* [Discord History search (script)](https://dht.chylex.com/)
+* [Discord Lookup](https://discord.id/)
+* [Discord.st](https://discord.st/)
+* [DiscordBee - Public Discord Server List](https://discordbee.com/servers?q=dutch)
+* [DiscordHub](https://discordhub.com/user/search)
+* [DiscordServers](https://discordservers.com/)
+* [Join the FilePursuit Discord Server!](https://discord.gg/xRfFd8h)
+* [Join the The Megadrive Discord Server!](https://discord.gg/h2P5zsNMxZ)
+* [Public Discord Servers & Discord Channels](https://discord.me/servers)
+* [disboard.org/nl/search](https://disboard.org/nl/search)
+* [Join the PiratePC Discord Server!](https://discord.com/invite/NZ976ZApBe)
+* [Join the bdlukaa Discord Server!](https://discord.gg/VhDsNvhbhc)
 
 * [Discord Developer Portal](https://discord.com/developers/docs/topics/community-resources) - Integrate Services with Discord
 * [CodeBlockLang](https://hastebin.com/usofubagoh.ts) - Discord Code Blocks
@@ -104,44 +106,44 @@
 * [Javacord](https://javacord.org/) - Discord Bot Creation Library
 * [Pylon](https://pylon.bot/) or [Bot Designer for Discord](https://apps.apple.com/us/app/bot-designer-for-discord/id1495536477) (Mac) - Discord Bot Builder
 
-- [BetterDiscord](https://github.com/JsSucks/BetterDiscordApp) - Pimp Discord with better Themes and add some nice Plugins/Scripts.
-- [Discord Channel scraper](https://github.com/simon987/Discord-Channel-scraper) - Scrapes an arbitrary number of lines from a Discord channel.
-- [Discord WarezBot](https://github.com/enzobes/WarezBot) - Public Version of Discord bot for scene release.
-- [Discord notifications 1: Sonarr, Radarr and Lidarr](http://blog.tiga.tech/discord-notifications-for-sonarr-radarr-and-lidarr/) - A short tutorial to work with Sonarr which notificatesDiscord Users about new releases.
-- [Discord toolkit](http://notabug.org/johndoe5436/discord-toolkit) - Discord batch account creator.
-- [DiscordCrypt](http://gitlab.com/leogx9r/DiscordCrypt) - Encrypt Discord - there is also [Simple DiscordCrypt](http://gitlab.com/An0/SimpleDiscordCrypt) - which works with the Web version of Discord (both are not compatible to each another!).
-- [Do Not Track for Discord](https://github.com/rauenzi/BetterDiscordAddons/tree/master/Plugins/DoNotTrack) - A plugin for BetterDiscord to prevent Discord tracking.
-- [Running a full deletion](https://github.com/c-edw/discord-delete/wiki/Running-a-full-deletion) - Powerful script to delete full Discord message history.
-- [cache-monkey](https://github.com/jamiepine/cache-monkey) - Cachemonkey, for viewing images stored in the discord cache, works for recovering images that were loaded by the discord client but were deleted. It also has a feature to purge the cache too.
+* [BetterDiscord](https://github.com/JsSucks/BetterDiscordApp) - Pimp Discord with better Themes and add some nice Plugins/Scripts.
+* [Discord Channel scraper](https://github.com/simon987/Discord-Channel-scraper) - Scrapes an arbitrary number of lines from a Discord channel.
+* [Discord WarezBot](https://github.com/enzobes/WarezBot) - Public Version of Discord bot for scene release.
+* [Discord notifications 1: Sonarr, Radarr and Lidarr](http://blog.tiga.tech/discord-notifications-for-sonarr-radarr-and-lidarr/) - A short tutorial to work with Sonarr which notificatesDiscord Users about new releases.
+* [Discord toolkit](http://notabug.org/johndoe5436/discord-toolkit) - Discord batch account creator.
+* [DiscordCrypt](http://gitlab.com/leogx9r/DiscordCrypt) - Encrypt Discord - there is also [Simple DiscordCrypt](http://gitlab.com/An0/SimpleDiscordCrypt) - which works with the Web version of Discord (both are not compatible to each another!).
+* [Do Not Track for Discord](https://github.com/rauenzi/BetterDiscordAddons/tree/master/Plugins/DoNotTrack) - A plugin for BetterDiscord to prevent Discord tracking.
+* [Running a full deletion](https://github.com/c-edw/discord-delete/wiki/Running-a-full-deletion) - Powerful script to delete full Discord message history.
+* [cache-monkey](https://github.com/jamiepine/cache-monkey) - Cachemonkey, for viewing images stored in the discord cache, works for recovering images that were loaded by the discord client but were deleted. It also has a feature to purge the cache too.
 
 ---
 
 ## Discord Clients
 
-- [EnhancedDiscord](https://github.com/joe27g/EnhancedDiscord) - A lightweight Discord client mod.
-- [Quarrel](https://github.com/UWPCommunity/Quarrel) - A UWP discord client for Windows 10.
-- [PowerCord](https://github.com/powercord-org/powercord) - A lightweight discordapp client mod focused on simplicity and performance.
-- [Ripcord](https://cancel.fm/ripcord/) - A closed source no tracking or analytics Discord client (without electron framework part).
+* [EnhancedDiscord](https://github.com/joe27g/EnhancedDiscord) - A lightweight Discord client mod.
+* [Quarrel](https://github.com/UWPCommunity/Quarrel) - A UWP discord client for Windows 10.
+* [PowerCord](https://github.com/powercord-org/powercord) - A lightweight discordapp client mod focused on simplicity and performance.
+* [Ripcord](https://cancel.fm/ripcord/) - A closed source no tracking or analytics Discord client (without electron framework part).
 
 ---
 
 ### Discord (tools)
 
-- [Search Discord Servers](https://disboard.org/search)
-- [Index](https://www.leaked.site/index.php?resolver%2Fdiscord.0%2F=)
-- [Serverse](https://extraction.team/serverse.html)
-- [Public Discord Servers](https://disboard.org/servers)
+* [Search Discord Servers](https://disboard.org/search)
+* [Index](https://www.leaked.site/index.php?resolver%2Fdiscord.0%2F=)
+* [Serverse](https://extraction.team/serverse.html)
+* [Public Discord Servers](https://disboard.org/servers)
 
 ### DISCORD
 
-- [Discord Me](https://discord.me/)
-- [Enlarge Discord avatars](https://discordzoom.com/en)
-- [DiscordOSINT](https://github.com/atoncehussein/DiscordOSINT)
-- [Discord Servers Portal](https://www.discordportal.com/)
-- [Discord Center](https://discord.center/)
-- [Discord Bots](https://discordbotlist.com/)
-- [Discord Bots](https://top.gg/)
-- [Discord Bots](https://discord.bots.gg/)
+* [Discord Me](https://discord.me/)
+* [Enlarge Discord avatars](https://discordzoom.com/en)
+* [DiscordOSINT](https://github.com/atoncehussein/DiscordOSINT)
+* [Discord Servers Portal](https://www.discordportal.com/)
+* [Discord Center](https://discord.center/)
+* [Discord Bots](https://discordbotlist.com/)
+* [Discord Bots](https://top.gg/)
+* [Discord Bots](https://discord.bots.gg/)
 
 ### BetterDiscord Tools
 
@@ -159,36 +161,35 @@
 
 #### **Bots**
 
-- [TediCross](https://github.com/TediCross/TediCross) - Bot which bridges Telegram chats with Discord channels.
-- [Transferbot](https://github.com/corusm/Transferbot) - Bot that transfers Messages from Telegram to Discord and back.
-- [BotBlock](https://botblock.org/),
-- [Top.gg](https://top.gg/),
-- [Bots on Discord](https://bots.ondiscord.xyz/),
-- [Discord Bots Labs](https://bots.discordlabs.org/),
-- [Discord Bots](https://discord.bots.gg/),
-- [Top Bots](https://s.advaith.io/topbots),
-- [motiondevelopment](https://www.motiondevelopment.top/),
-- [infinitybotlist](https://infinitybotlist.com/),
-- [discordservices](https://discordservices.net/),
-- [discordbots](https://discordbots.co/),
-- [discordbots](https://discordbots.app/),
-- [discordbotlist](https://discordbotlist.com/),
-- [discord-botlist](https://discord-botlist.eu/),
-- [carbonitex](https://www.carbonitex.net/),
-- [botlist](https://botlist.me/),
-- [blist](https://blist.xyz/),
-- [bladelist](https://bladelist.gg/),
-- [topcord](https://topcord.xyz/),
-- [yabl](https://yabl.xyz/),
-- [wonderbotlist](https://wonderbotlist.com/),
-- [voidbots](https://voidbots.net/)
+* [TediCross](https://github.com/TediCross/TediCross) - Bot which bridges Telegram chats with Discord channels.
+* [Transferbot](https://github.com/corusm/Transferbot) - Bot that transfers Messages from Telegram to Discord and back.
+* [BotBlock](https://botblock.org/),
+* [Top.gg](https://top.gg/),
+* [Bots on Discord](https://bots.ondiscord.xyz/),
+* [Discord Bots Labs](https://bots.discordlabs.org/),
+* [Discord Bots](https://discord.bots.gg/),
+* [Top Bots](https://s.advaith.io/topbots),
+* [motiondevelopment](https://www.motiondevelopment.top/),
+* [infinitybotlist](https://infinitybotlist.com/),
+* [discordservices](https://discordservices.net/),
+* [discordbots](https://discordbots.co/),
+* [discordbots](https://discordbots.app/),
+* [discordbotlist](https://discordbotlist.com/),
+* [discord-botlist](https://discord-botlist.eu/),
+* [carbonitex](https://www.carbonitex.net/),
+* [botlist](https://botlist.me/),
+* [blist](https://blist.xyz/),
+* [bladelist](https://bladelist.gg/),
+* [topcord](https://topcord.xyz/),
+* [yabl](https://yabl.xyz/),
+* [wonderbotlist](https://wonderbotlist.com/),
+* [voidbots](https://voidbots.net/)
 
 ***
 
 ### Custom Rich Discord Presence
 
 [CustomRP](https://www.customrp.xyz/), [EasyRP](https://github.com/Pizzabelly/EasyRP), [RPCEngine](https://github.com/qoobes/rpcengine), [discord-custom-rich-presence](https://github.com/HyperBeasty/discord-custom-rich-presence), [CustomDiscordRPC](https://github.com/PryosCode/CustomDiscordRPC), [Discord-CustomRP](https://github.com/maximmax42/Discord-CustomRP), [Discord RPC Client](https://github.com/Metalloriff/discord-rpc-client), [Discord-Rich-Presence](https://github.com/BlobbyDev/Discord-Rich-Presence), [Discord RPC](https://github.com/discord/discord-rpc), [DiscordRPCMaker](https://drpcm.t1c.dev/)
-
 
 ***
 

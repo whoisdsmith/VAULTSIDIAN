@@ -76,7 +76,7 @@ In some cases, Adderall can be used to help treat the symptoms of depression and
 
 It is vital that you do not attempt to self-medicate with Adderall you either obtained without a prescription or for another purpose. If your doctor has not prescribed Adderall to help with depression, then there is no safe dose for you to take as the stimulant may make your depression significantly worse.
 
-Adderall – any dose of Adderall – can also strongly interact with antidepressant medications. If you are taking antidepressant medication, you _must _talk to your doctor before taking any stimulants, especially those that act on your dopaminergic system like Adderall is known to do.
+Adderall – any dose of Adderall – can also strongly interact with antidepressant medications. If you are taking antidepressant medication, you _must_talk to your doctor before taking any stimulants, especially those that act on your dopaminergic system like Adderall is known to do.
 
 * * *
 
@@ -118,4 +118,4 @@ Paul Tardner is the Lead Author at IJEST.org. Paul is a former academic and rese
 
 ___
 
-#article 
+# article

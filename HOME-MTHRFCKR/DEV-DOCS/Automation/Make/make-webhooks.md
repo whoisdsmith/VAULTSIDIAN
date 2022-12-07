@@ -4,10 +4,9 @@ Webhooks usually act as instant triggers. Contrary to scheduled triggers, which 
 
 Make supports the following types of webhooks:
 
--   App-specific webhooks listen for data coming out of a specific app, also called instant triggers.
-    
--   Custom webhooks allow you to create a URL to which you can send any data.
-    
+- App-specific webhooks listen for data coming out of a specific app, also called instant triggers.
+
+- Custom webhooks allow you to create a URL to which you can send any data.
 
 ## Creating app-specific webhooks
 
@@ -25,12 +24,11 @@ Each scenario must use its own webhook. You can not use one webhook in multiple 
 
 ### Inserting webhooks to scenarios
 
-1.  Insert the **Custom Webhook** module from the **Webhooks** app.
-    
-2.  In the module's settings, click **Add**.
-    
-3.  Set the webhook's name and other settings, then click **Save**.
-    
+1. Insert the **Custom Webhook** module from the **Webhooks** app.
+
+2. In the module's settings, click **Add**.
+
+3. Set the webhook's name and other settings, then click **Save**.
 
 Make generates a URL and starts listening for requests to this URL. Send a request to this URL to have Make automatically determine the data structure for this webhook. See setting up webhook data structure below for more details.
 
@@ -44,10 +42,9 @@ Optionally, you can let Make know what [data structure](https://www.make.com/en
 
 To enable validating incoming data, set up the webhook's data structure in one of the following ways:
 
--   Create a new data structure manually in the _Data structures_ section.
-    
--   Use an existing data structure.
-    
+- Create a new data structure manually in the _Data structures_ section.
+
+- Use an existing data structure.
 
 You can also use the following methods to let Make know what data structure to expect.
 
@@ -55,10 +52,9 @@ You can also use the following methods to let Make know what data structure to e
 
 Note that these methods **do not enable data validation**. The data structure set up in this way only helps with mapping the webhook data to subsequent modules in your scenario.
 
--   Create a data structure immediately after creating the webhook by calling the webhook URL with sample data in the request body.
-    
--   Re-determine the data structure of an existing webhook going to the Webhook module settings, clicking _Re-determine data structure_, and calling the webhook URL with sample data in the request body.
-    
+- Create a data structure immediately after creating the webhook by calling the webhook URL with sample data in the request body.
+
+- Re-determine the data structure of an existing webhook going to the Webhook module settings, clicking _Re-determine data structure_, and calling the webhook URL with sample data in the request body.
 
 If you call the webhook URL to automatically determine or re-determine the data structure, Make does not create a reusable data structure in the Data structures section. The data structure determined in this way is stored internally with the particular webhook. In this case, Make does not validate incoming data.
 
@@ -66,16 +62,15 @@ If you call the webhook URL to automatically determine or re-determine the data 
 
 By default, when Make receives data on a webhook, your scenario executes immediately. If you don't want to run your scenario immediately after a webhook receives data, you can schedule your scenario to process all webhook requests periodically.
 
-1.  Edit the scenario which is triggered by your webhook.
-    
-2.  Edit the scenario schedule settings.
-    
+1. Edit the scenario which is triggered by your webhook.
+
+2. Edit the scenario schedule settings.
+
     OR
-    
+
     Edit the schedule settings of the webhook module.
-    
-3.  Set up your desired schedule.
-    
+
+3. Set up your desired schedule.
 
 When a scheduled webhook receives data, Make stores the data in the webhook's queue. The whole queue is then processed every time your schedule criteria are met.
 
@@ -93,7 +88,7 @@ You can inspect all running executions in the scenario detail. Click an item in 
 
 ### Processing scheduled webhooks
 
-If you are using scheduled webhooks, requests accumulate in the queue until the schedule criteria are met. When schedule criteria are met, Make processes the queued requests based on the _Maximum number of results_ that you set for the webhook. 
+If you are using scheduled webhooks, requests accumulate in the queue until the schedule criteria are met. When schedule criteria are met, Make processes the queued requests based on the _Maximum number of results_ that you set for the webhook.
 
 For example, if your scenario is scheduled to run every hour and your _Maximum number of results_ is set to the default value of 2, Make processes two items from the queue every hour. If your webhook queue is filling up with requests, increase the _Maximum number of results_ or adjust the schedule to execute the scenario more often.
 
@@ -123,10 +118,9 @@ To adjust a webhook's settings, click Webhooks in the left menu and Edit a webho
 
 When there is an error in your scenario with a webhook, the scenario:
 
--   stops immediately - when the scenario is set to run _Immediately_.
-    
--   stops after 3 unsuccessful attempts (3 errors) - when the scenario is set to run as **scheduled**.
-    
+- stops immediately - when the scenario is set to run _Immediately_.
+
+- stops after 3 unsuccessful attempts (3 errors) - when the scenario is set to run as **scheduled**.
 
 If your scenario contains a **Webhook response** module, the error is sent to the _Webhook response_. The webhook response module is always executed last, unless you enable _[Auto commit](https://www.make.com/en/help/scenarios/scenario-settings.html#5---auto-commit "5 - Auto commit")_ in _[Scenario settings](https://www.make.com/en/help/scenarios/scenario-settings.html "Scenario settings")_.
 
@@ -134,12 +128,11 @@ If your scenario contains a **Webhook response** module, the error is sent to 
 
 Make supports the following formats of incoming data:
 
--   Query string
-    
--   Form data
-    
--   JSON
-    
+- Query string
+
+- Form data
+
+- JSON
 
 If a webhook receives data in both the query string and either form data or JSON data at the same time, the system combines the data into a single bundle. If the request contains duplicate data in different formats, the query string takes precedence and overwrites the data that was received in the other formats. We recommend you do not duplicate data in query strings, form data, and JSON.
 
@@ -198,18 +191,17 @@ The maximum allowed webhook's payload size (`Content-Length`) is 5 MB (5.242.88
 
 The default response to a webhook call contains just a simple text, "Accepted". The response is returned to the webhook's caller right away during the execution of the **Custom Webhook** module. You can easily test it like this:
 
-1.  Place the **Custom Webhook** module in your scenario.
-    
-2.  Add a new webhook in the module's configuration.
-    
-3.  Copy the webhook's URL to your clipboard.
-    
-4.  Run the scenario - the **Custom Webhook** module should be waiting for the webhook call (see on the right)
-    
-5.  Open a new browser window, paste the copied URL in the address bar and press Enter.
-    
-6.  The **Custom Webhook** module will be triggered and the browser will display the following page:
-    
+1. Place the **Custom Webhook** module in your scenario.
+
+2. Add a new webhook in the module's configuration.
+
+3. Copy the webhook's URL to your clipboard.
+
+4. Run the scenario - the **Custom Webhook** module should be waiting for the webhook call (see on the right)
+
+5. Open a new browser window, paste the copied URL in the address bar and press Enter.
+
+6. The **Custom Webhook** module will be triggered and the browser will display the following page:
 
 These are default responses when the scenario **does not contain** the **Webhook Response** module:
 
@@ -251,33 +243,31 @@ Mailhook is an instant trigger module that can be triggered by sending an email 
 
 Mailhook will monitor your incoming emails without the need to have a scheduled run of the scenario.
 
-1.  Add the Custom mailhook to your scenario (Webhooks > Custom mailhook).
-    
-2.  Generate a mailhook email address, and copy the address to the clipboard.
-    
-3.  Save and run the scenario.
-    
-4.  Open your email account settings, and configure forwarding. Use the email address generated by the _Custom mailhook_ module in step 2 (above) as the forwarding address.
-    
+1. Add the Custom mailhook to your scenario (Webhooks > Custom mailhook).
+
+2. Generate a mailhook email address, and copy the address to the clipboard.
+
+3. Save and run the scenario.
+
+4. Open your email account settings, and configure forwarding. Use the email address generated by the _Custom mailhook_ module in step 2 (above) as the forwarding address.
 
 For _**Gmail**_:
 
-1.  Click the cogwheel (![61d5aede0ad60.png](https://www.make.com/en/help/image/1621f615e79b8d.png)) in the top-right corner, and then click _See all settings_.
-    
-2.  Open the _Forwarding and POP/IMAP_ tab.![61d5aedf1f459.gif](https://www.make.com/en/help/image/1621f615e7ec3a.gif)
-    
-3.  Click the _Add a forwarding address_ button.
-    
-4.  Enter the email address you have generated and copied in step 2 above, and click _Next_.
-    
-5.  After that, a popup window will appear. Click _Proceed_.
-    
-6.  A confirmation code has been sent to your mailhook. You can find this code in your scenario in the _Custom mailhook_ module's output under _Bundle_ > _Text_
-    
-7.  Enter the verification code in forwarding settings in your Gmail account, and click _Verify_.
-    
-8.  Enable the forwarding, and save changes.
-    
+1. Click the cogwheel (![61d5aede0ad60.png](https://www.make.com/en/help/image/1621f615e79b8d.png)) in the top-right corner, and then click _See all settings_.
+
+2. Open the _Forwarding and POP/IMAP_ tab.![61d5aedf1f459.gif](https://www.make.com/en/help/image/1621f615e7ec3a.gif)
+
+3. Click the _Add a forwarding address_ button.
+
+4. Enter the email address you have generated and copied in step 2 above, and click _Next_.
+
+5. After that, a popup window will appear. Click _Proceed_.
+
+6. A confirmation code has been sent to your mailhook. You can find this code in your scenario in the _Custom mailhook_ module's output under _Bundle_ > _Text_
+
+7. Enter the verification code in forwarding settings in your Gmail account, and click _Verify_.
+
+8. Enable the forwarding, and save changes.
 
 Add other desired modules to the scenario. Then save and activate the scenario
 

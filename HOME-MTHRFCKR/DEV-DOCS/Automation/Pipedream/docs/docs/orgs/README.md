@@ -16,7 +16,7 @@ You'll be asked to enter the org's name, which functions as its [username](/user
 
 ## Inviting users to an org
 
-Once you've [created an org](#creating-an-org), visit [https://pipedream.com/settings/users](https://pipedream.com/settings/users) to invite new members to it. 
+Once you've [created an org](#creating-an-org), visit [https://pipedream.com/settings/users](https://pipedream.com/settings/users) to invite new members to it.
 
 ## Removing members from an org
 

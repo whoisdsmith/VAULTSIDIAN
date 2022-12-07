@@ -1,18 +1,17 @@
- **Abstract** 
- 
- As we become more and more involved with digital technologies on a daily basis, we are in need of a model to make sense of what we _do_ with and “in” them. Here we analyze the use of digital media by way of a accumulating, organizing, and showing – strongly resemble the practice of collectors. In the first _collecting_ paradigm, since our online activities – centered on selecting, (^)  part of the paper, we outline the main traits of collecting practices, and discuss relevant online practices in the light of these traits, thereby tracing the contours of an online “collecting culture.”In the second part, we list the possible underlying causes and motivations for collecting, and (^)  investigate how far these explanations also apply to online activity, so offering a preliminary framework for the further study of online practices. 
+ **Abstract**
 
+ As we become more and more involved with digital technologies on a daily basis, we are in need of a model to make sense of what we _do_ with and “in” them. Here we analyze the use of digital media by way of a accumulating, organizing, and showing – strongly resemble the practice of collectors. In the first _collecting_ paradigm, since our online activities – centered on selecting, (^)  part of the paper, we outline the main traits of collecting practices, and discuss relevant online practices in the light of these traits, thereby tracing the contours of an online “collecting culture.”In the second part, we list the possible underlying causes and motivations for collecting, and (^)  investigate how far these explanations also apply to online activity, so offering a preliminary framework for the further study of online practices.
 
 **Keywords:** Philosophy of technology, ICT, online practice, collecting  
 Life marches on, while collectors trail behind, carrying a shovel and a sack.
 
--   William Davies King  
+- William Davies King  
     **Introduction**  
     Browsing, clicking, sharing, uploading, downloading, ... Our daily online practices have  
     spawned an array of new verbs or old ones taking on new meanings. These are signposts of intense activity. Whereas most digital technologies originally served calculating andcommunicating means, today our use of them shines with radiant colors. In what follows we (^) attempt to make sense of this variety of uses, by looking at them from an unexpected angle: our  online activities show remarkable similarities with collecting practicesshare some of the motivations that underlie the latter. and, perhaps, the former  
-	
-	To illustrate what we mean, let’s take a quick look at, for example, your average Web use.Disregard technical considerations for a minute: involvement with keyboards, mouse pads, Wi-Fi (^) networks, ... 
-	Even abstract from specific websites with which you’re interacting. Gaze upon the unbridled activity going on. What do you discern? A myriad mass of images, words, sounds,shards of conversation, more or less neatly arranged in more or less prefab patterns, actively (^) structured and consciously unleashed upon a world of onlookers – most of them being just as active – or simply upon ourselves. We grasp, take together, order and observe. We play aroundwith “things,” however information-like, moving them about, amassing them, discarding them. (^)  
+ 
+ To illustrate what we mean, let’s take a quick look at, for example, your average Web use.Disregard technical considerations for a minute: involvement with keyboards, mouse pads, Wi-Fi (^) networks, ...
+ Even abstract from specific websites with which you’re interacting. Gaze upon the unbridled activity going on. What do you discern? A myriad mass of images, words, sounds,shards of conversation, more or less neatly arranged in more or less prefab patterns, actively (^) structured and consciously unleashed upon a world of onlookers – most of them being just as active – or simply upon ourselves. We grasp, take together, order and observe. We play aroundwith “things,” however information-like, moving them about, amassing them, discarding them. (^)  
 
 All along our profiles, interfaces, photo pages, music libraries, we keep the view. Gather, name,save, and show. We _collect_?  
 The ambition of this paper is twofold: to provide a preliminary general outlook on the “culture” of digital activities, and to provoke deeper reflection on that “culture.” Theories about onlineactivities appear as scattered as the activities themselves are diverse. Social science, for instance, (^)
@@ -43,14 +42,14 @@ consequences that this application entails.
 **What Is Collecting?**  
 Exactly defining the collecting process for once and for all seems impossible. as varied as the many authors who have analyzed the phenomenon. We list several of them here:The definitions are
 
--   “the process of actively, selectively, and passionately acquiring and possessing things  
+- “the process of actively, selectively, and passionately acquiring and possessing things  
     removed from ordinary use and perceived as part of a set of non-identical objects orexperiences” (Belk 2001, p.67)
--   “the selecting, gathering, and keeping of objects of subjective value” (Muensterberger  
+- “the selecting, gathering, and keeping of objects of subjective value” (Muensterberger  
     1994, p.4)
--   “x times (going there + taking + bringing back)”; “bringing together and beholding”  
+- “x times (going there + taking + bringing back)”; “bringing together and beholding”  
     (Sommer 2002, p.208, 8)
 
--   “a philosophical project, ... an attempt to make sense of the multiplicity and chaos of the  
+- “a philosophical project, ... an attempt to make sense of the multiplicity and chaos of the  
     world” (Blom 2002, p.45)  
     The diversity of these definitions is reflected in the answers to the questions as to what can be
 
@@ -64,7 +63,7 @@ an other pursue collecting-like activities. Paul Martin claims that nearly every
 makes for story, and stories pile up in memory” (2008, p.161).  
 Thus, collecting practices can be defined either very specifically – i.e., rigidly – or very generally
 
--   i.e., vaguely. For our purposes neither way will be quite constructive. We are in need of a
+- i.e., vaguely. For our purposes neither way will be quite constructive. We are in need of a
 
 heuristic tool to probe the degree Therefore we attempt to list some formal traits every collection or collector exhibits: actions into which online practices resemble collecting activities. (^)  
 which every collector, however idiosyncratically, engages. We distinguish between selecting,  
@@ -392,7 +391,7 @@ hunt, in a sense, relates to magic too: “Finding something feels like a miracl
 the world is providential” (King 2008, p.112). Pearce (1995), again, unlocks the historical rootsof our hunting instinct. According to her, the hunt of the collector originates in the oath-ordeal (^)  
 scheme forming the base of our world view, with ordeal – the challenge to be faced and overcome
 
--   eventually taking the shape of the quest, of the hunt.
+- eventually taking the shape of the quest, of the hunt.
 
 Hunting has an essentialvirtual world Second Life, an avatar (the user’s visual representation) can move “by foot,” or byly spatial aspect to it. Yet how do we go about moving digitally? In the (^)  
 transportation means such as cars or helicopters, but it can also simply be “teleported” to  
@@ -478,7 +477,7 @@ remembrance as a main goal for ICT development. From Vannevar Bush’s ‘Memex�
 through David GelernterGemmell 2007), several authors have outlined an ideal of technological remembering. Recently,’s ‘Mirror Worlds’ (1991) to Gordon Bell’s ‘MyLifeBits’ (Bell & (^)  
 however, there has been a growing debate over the degree to which “eternal” remembranceshould be cherished either as a virtue (Bell & Gemmell 2009) or as a vice (Mayer-Schönberger (^)
 
-2009.  of digital technologies. The philosophical implications of these issues have only begun to  
+2009. of digital technologies. The philosophical implications of these issues have only begun to  
     be investigated.  
     Assuring the Future  
     Just as we try to safeguard the past through digital “collections,” don’t we also attempt to  
@@ -503,7 +502,7 @@ Does online activity exhibit the same curious mix of anti-hierarchical and “co
 with utilities to undermine capitalist hierarchy and consumerist society, but at the same time  
 commercial enterprises and market economy logic still dominate them. On the one hand, whatPaul Levinson calls ‘new new media’ (2009), i.e., many-to-many media – blogs, video sites, SNS (^)
 
--   furnish minority groups with the possibility of voicing their demands or disagreement,
+- furnish minority groups with the possibility of voicing their demands or disagreement,
 
 sometimes by simply constructing a Facebook page.on commerce, sometimes without us even noticing it. Take eBay: at face value an empowering On the other hand, digital media still thrive (^)  
 tool that brings commerce, in the form of ancient barter, back “to the people,” but behind the  

@@ -72,7 +72,7 @@ Provides a better reading experience (full text articles) over the official ones
 
 Support major channels, refer to [BBC RSS feeds](https://www.bbc.co.uk/news/10628494). Eg, `business` for `https://feeds.bbci.co.uk/news/business/rss.xml`.
 
--   Channel contains sub-directories, such as `https://feeds.bbci.co.uk/news/world/asia/rss.xml`, replace `/` with `-`, `/bbc/world-asia`.
+- Channel contains sub-directories, such as `https://feeds.bbci.co.uk/news/world/asia/rss.xml`, replace `/` with `-`, `/bbc/world-asia`.
 
 </RouteEn>
 
@@ -168,8 +168,8 @@ Generates full-text feeds that the official feed doesn't provide.
 
 ::: tip tips
 
--   Visit ft.com -> myFT -> Contact Preferences to enable personal RSS feed, see [help.ft.com](https://help.ft.com/faq/email-alerts-and-contact-preferences/what-is-myft-rss-feed/)
--   Obtain the key from the personal RSS address, it looks like `12345678-abcd-4036-82db-vdv20db024b8`
+- Visit ft.com -> myFT -> Contact Preferences to enable personal RSS feed, see [help.ft.com](https://help.ft.com/faq/email-alerts-and-contact-preferences/what-is-myft-rss-feed/)
+- Obtain the key from the personal RSS address, it looks like `12345678-abcd-4036-82db-vdv20db024b8`
 
 :::
 
@@ -223,7 +223,7 @@ Only `s00017` is in English.
 
 <RouteEn author="zphw" example="/rfa/english" path="/rfa/:language?/:channel?/:subChannel?" :paramsDesc="['language, English by default', 'channel', 'subchannel, where applicable']" />
 
-Delivers a better experience by supporting parameter specification. 
+Delivers a better experience by supporting parameter specification.
 
 Parameters can be obtained from the official website, for instance:
 
@@ -239,15 +239,15 @@ Parameters can be obtained from the official website, for instance:
 
 Supported sub-sites:
 
--   中国分站 `cn`：
+- 中国分站 `cn`：
     See [路透社中国分站](../traditional-media.html#lu-tou-she)
 
--   US site `us`：
+- US site `us`：
     | Business | Markets | World | Politics | Tech | Breakingviews | Wealth | Life |
     | -------- | ------- | ----- | -------- | ---------- | ------------- | ------ | --------- |
     | business | markets | world | politics | technology | breakingviews | wealth | lifestyle |
 
--   UK site `uk`：
+- UK site `uk`：
     | Business | World | UK | Tech | Money | Breakingviews | Life |
     | -------- | ----- | --- | ---------- | --------------- | ------------- | --------- |
     | business | world | uk | technology | personalFinance | breakingviews | lifestyle |
@@ -348,7 +348,7 @@ See the [official RSS page](https://www.scmp.com/rss) to get the ID of each cate
 
 <RouteEn author="nczitzk" example="/the-economist/download" path="/the-economist/download" >
 
-The download site: http://www.cgx02.xyz/index.php?dir=/te
+The download site: <http://www.cgx02.xyz/index.php?dir=/te>
 
 </RouteEn>
 
@@ -382,22 +382,21 @@ Provides a better reading experience (full text articles) over the official one.
 
 ### Best Seller Books
 
-
 <RouteEn author="melvinto" example="/nytimes/book/combined-print-and-e-book-nonfiction" path="/nytimes/book/:category?"/>
 
-| Category | 
-| -------- | 
+| Category |
+| -------- |
 | combined-print-and-e-book-nonfiction |
-| hardcover-nonfiction| 
-| paperback-nonfiction| 
-| advice-how-to-and-miscellaneous| 
+| hardcover-nonfiction|
+| paperback-nonfiction|
+| advice-how-to-and-miscellaneous|
 | combined-print-and-e-book-fiction|
 | hardcover-fiction|
-| trade-fiction-paperback| 
-| childrens-middle-grade-hardcover| 
+| trade-fiction-paperback|
+| childrens-middle-grade-hardcover|
 | picture-books|
 | series-books|
-| young-adult-hardcover| 
+| young-adult-hardcover|
 
 ## The Wall Street Journal (WSJ)
 

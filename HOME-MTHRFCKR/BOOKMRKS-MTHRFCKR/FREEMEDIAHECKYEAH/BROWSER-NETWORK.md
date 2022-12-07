@@ -112,7 +112,7 @@
 * [Standaloneinstaller](https://standaloneinstaller.com/) - Check Software Safety
 * [Dangerzone](https://dangerzone.rocks/) - Convert dangerous PDF to safe PDF
 * [ThreatMap](https://threatmap.checkpoint.com/) - Live Malware Distribution Map
-* [VirusShare](https://virusshare.com/) or [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/) - Malware Search #Search 
+* [VirusShare](https://virusshare.com/) or [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/) - Malware Search #Search
 * [X-Force Exchange](https://exchange.xforce.ibmcloud.com/) - Security Threat Intelligence Platform
 * [CVE Details](https://www.cvedetails.com/) - CVE Details
 * [Web Of Trust](https://www.mywot.com/), [Talos](https://talosintelligence.com/) or [ScamRate](https://www.scamrate.com/) - Check Website Safety
@@ -140,10 +140,10 @@
 * [DefenderUI](https://www.defenderui.com/) - Improved Windows Defender UI
 * [wideredist](https://gitlab.com/urbanware-org/wideredist) - Update Windows Defender Definitions Locally
 * [Antivirus Removal Tool](https://antivirus-removal-tool.com/) - Antivirus Software Removal Tool
-* [Malware Search+++](https://addons.mozilla.org/en-US/firefox/addon/malware-search-plusplusplus/) - Malware Search Extension #Search 
+* [Malware Search+++](https://addons.mozilla.org/en-US/firefox/addon/malware-search-plusplusplus/) - Malware Search Extension #Search
 * [JShelter](https://jshelter.org/) - Anti-Malware Extension
 * [VirusTotalAV_bot](https://t.me/VirusTotalAV_bot) - Telegram File Scanner
-* [Malware Analysis Search](https://cse.google.com/cse?cx=011750002002865445766%3Apc60zx1rliu) #Search 
+* [Malware Analysis Search](https://cse.google.com/cse?cx=011750002002865445766%3Apc60zx1rliu) #Search
 * [CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner) - Log4j2 CVE-2021-44228 Vulnerability Scanner
 
 ***
@@ -151,6 +151,7 @@
 ## ► Misc
 
 ---
+
 ### Adblock Defenders
 
 * ⭐ **[AdGuardExtra](https://github.com/AdguardTeam/AdGuardExtra)** / [Script](https://userscripts.adtidy.org/release/adguard-extra/1.0/adguard-extra.user.js)
@@ -161,7 +162,6 @@
 * [Test Adblock Defender](https://blockads.fivefilters.org/)
 
 ***
-
 
 ### Broken Link Checkers
 
@@ -199,7 +199,7 @@
 [StartPage](https://github.com/deepjyoti30/startpage), [NightTab](https://github.com/zombieFox/nightTab), [hexagonTab](https://github.com/zombieFox/hexagonTab), [CaretTab](https://www.carettab.com/), [mesmerized](https://mesmerized.me/), [Bonjourr](https://bonjourr.fr/), [Perfect Home](https://github.com/perfect-things/perfect-home), [yet another speed dial](https://github.com/conceptualspace/yet-another-speed-dial), [Tabliss](https://tabliss.io/), [Epiboard](https://github.com/Alexays/Epiboard), [Infinity New Tab](https://en.infinitynewtab.com/), [b2ntp](https://d3ward.github.io/b2ntp/)
 
 [Custom Start Page](https://github.com/midnitefox/Nord-Theme-Ports-and-Assets/tree/main/custom-start-page) - Terminal Style Start Page  
-[Tabiverse](https://tabiverse.com/) - Universe New Tab Page / [Discord](https://discord.gg/MUgRGwE  
+[Tabiverse](https://tabiverse.com/) - Universe New Tab Page / [Discord](<https://discord.gg/MUgRGwE>  
 [Tabs with a View](https://www.withaview.co/ext/) - Virtual Sights New Tab Page  
 [Minecraft Weather New Tab](https://github.com/sawyerpollard/Minecraft-Weather-New-Tab) - Weather Based Minecraft New Tab Page
 
@@ -248,15 +248,15 @@
 
 ### Multi Tool Sites
 
-[PineTools](https://pinetools.com/), [123Apps](https://123apps.com/), [iTools](http://itools.com/), [Framasoft](https://framasoft.org/), [Browserling Tools](https://www.browserling.com/tools/), [Dan's Tools](https://www.danstools.com/), [WebBrowserTools](https://webbrowsertools.com/), [CyberChef](https://gchq.github.io/CyberChef/), [ManyTools](https://manytools.org/), [Comment Picker](https://commentpicker.com/other-tools.php), [OSINT Combine](https://www.osintcombine.com/tools), [MxToolbox](https://mxtoolbox.com/NetworkTools.aspx), [Rumkin](https://rumkin.com/tools/), [Sumo](https://sumo.app/), [Melobytes](https://melobytes.com/en), [PatorJK](https://www.patorjk.com/), [UnitPedia](https://unitpedia.com/), [prepostseo](https://prepostseo.com/), [Digital Methods](https://wiki.digitalmethods.net/Dmi/ToolDatabase), [Flippity](https://www.flippity.net/), [AppsCyborg](https://appscyborg.com/), [JNCK Media](https://jnckmedia.com/), [BlackHost](http://www.blackhost.xyz/), [BfoTool](https://bfotool.com/), [SeoMagnifier](https://seomagnifier.com/), [Romanr](http://www.romanr.info/), [Prepostseo](https://www.prepostseo.com/), [Semi Colon](https://www.semicolonworld.com/webtools), [FreeToolOnline](https://freetoolonline.com/), [10015.io](https://10015.io/), [JMMG Tools](https://tools.jmmgc.com/), [0wx.org](https://www.0wx.org/), [tinywow](https://tinywow.com/), [Self Publishing Titans](https://tools.selfpublishingtitans.com/), [Inettools](https://inettools.net/), [TuckTools](https://www.tucktools.com/), [Ian Coleman](https://iancoleman.io/), [Toolki](https://toolki.com/), [Media.io](https://www.media.io/), [URL Decode](https://url-decode.com/cat/all), [Onlitools](https://www.onlitools.com/), [ChatONS](https://entraide.chatons.org/en/, [FreeToolOnline](https://freetoolonline.com/tags.html), [goonlinetools](https://goonlinetools.com/), [garyshood](https://www.garyshood.com/), [RandomTools](https://randomtools.io/)
+[PineTools](https://pinetools.com/), [123Apps](https://123apps.com/), [iTools](http://itools.com/), [Framasoft](https://framasoft.org/), [Browserling Tools](https://www.browserling.com/tools/), [Dan's Tools](https://www.danstools.com/), [WebBrowserTools](https://webbrowsertools.com/), [CyberChef](https://gchq.github.io/CyberChef/), [ManyTools](https://manytools.org/), [Comment Picker](https://commentpicker.com/other-tools.php), [OSINT Combine](https://www.osintcombine.com/tools), [MxToolbox](https://mxtoolbox.com/NetworkTools.aspx), [Rumkin](https://rumkin.com/tools/), [Sumo](https://sumo.app/), [Melobytes](https://melobytes.com/en), [PatorJK](https://www.patorjk.com/), [UnitPedia](https://unitpedia.com/), [prepostseo](https://prepostseo.com/), [Digital Methods](https://wiki.digitalmethods.net/Dmi/ToolDatabase), [Flippity](https://www.flippity.net/), [AppsCyborg](https://appscyborg.com/), [JNCK Media](https://jnckmedia.com/), [BlackHost](http://www.blackhost.xyz/), [BfoTool](https://bfotool.com/), [SeoMagnifier](https://seomagnifier.com/), [Romanr](http://www.romanr.info/), [Prepostseo](https://www.prepostseo.com/), [Semi Colon](https://www.semicolonworld.com/webtools), [FreeToolOnline](https://freetoolonline.com/), [10015.io](https://10015.io/), [JMMG Tools](https://tools.jmmgc.com/), [0wx.org](https://www.0wx.org/), [tinywow](https://tinywow.com/), [Self Publishing Titans](https://tools.selfpublishingtitans.com/), [Inettools](https://inettools.net/), [TuckTools](https://www.tucktools.com/), [Ian Coleman](https://iancoleman.io/), [Toolki](https://toolki.com/), [Media.io](https://www.media.io/), [URL Decode](https://url-decode.com/cat/all), [Onlitools](https://www.onlitools.com/), [ChatONS](<https://entraide.chatons.org/en/>, [FreeToolOnline](https://freetoolonline.com/tags.html), [goonlinetools](https://goonlinetools.com/), [garyshood](https://www.garyshood.com/), [RandomTools](https://randomtools.io/)
 
 ***
 
 ### Manually Scrape Sites
 
-Add the following commands to a search to manually scrape each site. #Search 
+Add the following commands to a search to manually scrape each site. #Search
 
-**Try on [google](https://www.google.com/), [duckduckgo](https://duckduckgo.com/), [yandex](https://yandex.com) & [yahoo.](https://search.yahoo.com/web)** #Search 
+**Try on [google](https://www.google.com/), [duckduckgo](https://duckduckgo.com/), [yandex](https://yandex.com) & [yahoo.](https://search.yahoo.com/web)** #Search
 
 `site:vup.to`
 
@@ -278,7 +278,7 @@ Add the following commands to a search to manually scrape each site. #Search
 
 ### Personal Link Homepages
 
-[Ichi](https://ichi.city), [Linktree](https://linktr.ee/), [Beacon](https://beacons.ai/), [MyURLs](https://myurls.co/), [Carrd](https://carrd.co/), [Bio.link](https://bio.link/), [FlowCode](https://www.flowcode.com/page), [Solo.to](https://solo.to/), [Ayo.so](https://ayo.so/), [CreatorSites](https://creatorsites.net/), [ContactInBio](https://www.contactinbio.com/), [Campsite](https://campsite.bio/, [bizzl.ink](https://bizzl.ink/), [Horizon](https://hrzn.bio/)
+[Ichi](https://ichi.city), [Linktree](https://linktr.ee/), [Beacon](https://beacons.ai/), [MyURLs](https://myurls.co/), [Carrd](https://carrd.co/), [Bio.link](https://bio.link/), [FlowCode](https://www.flowcode.com/page), [Solo.to](https://solo.to/), [Ayo.so](https://ayo.so/), [CreatorSites](https://creatorsites.net/), [ContactInBio](https://www.contactinbio.com/), [Campsite](<https://campsite.bio/>, [bizzl.ink](https://bizzl.ink/), [Horizon](https://hrzn.bio/)
 
 ***
 
@@ -322,10 +322,10 @@ Add the following commands to a search to manually scrape each site. #Search
 
 ### Reverse Image Search
 
-* ⭐ **[Search by Image](https://github.com/dessant/search-by-image)** #Search 
-* ⭐ **[TinEye](https://tineye.com/)** / [Extension](https://tineye.com/extensions) #Search 
+* ⭐ **[Search by Image](https://github.com/dessant/search-by-image)** #Search
+* ⭐ **[TinEye](https://tineye.com/)** / [Extension](https://tineye.com/extensions) #Search
 
-[Duplichecker](https://www.duplichecker.com/reverse-image-search.php), [Image Raider](https://infringement.report/api/raider-reverse-image-search/), [ascii2d](https://ascii2d.net/), [iqdb](http://iqdb.org/), [Reverse Image Analyser](https://www.osintcombine.com/reverse-image-analyzer), [same.energy](https://same.energy/), [SauceNao](https://saucenao.com/) / [Extension](https://saucenao.com/tools/), [Yandex Images](https://yandex.com/images/), [VISE](https://www.robots.ox.ac.uk/~vgg/software/vise/), [SmartImage](https://github.com/Decimation/SmartImage), [berify](https://www.berify.com/), [Reverse Image Search](https://www.reverse-image-search.org/), [RevEye](https://github.com/steven2358/reveye), [immerse](https://www.immerse.zone/), [ReverseImageSearch](https://www.reverseimagesearch.com/), [MaxURL](https://qsniyg.github.io/maxurl/) #Search 
+[Duplichecker](https://www.duplichecker.com/reverse-image-search.php), [Image Raider](https://infringement.report/api/raider-reverse-image-search/), [ascii2d](https://ascii2d.net/), [iqdb](http://iqdb.org/), [Reverse Image Analyser](https://www.osintcombine.com/reverse-image-analyzer), [same.energy](https://same.energy/), [SauceNao](https://saucenao.com/) / [Extension](https://saucenao.com/tools/), [Yandex Images](https://yandex.com/images/), [VISE](https://www.robots.ox.ac.uk/~vgg/software/vise/), [SmartImage](https://github.com/Decimation/SmartImage), [berify](https://www.berify.com/), [Reverse Image Search](https://www.reverse-image-search.org/), [RevEye](https://github.com/steven2358/reveye), [immerse](https://www.immerse.zone/), [ReverseImageSearch](https://www.reverseimagesearch.com/), [MaxURL](https://qsniyg.github.io/maxurl/) #Search
 
 ***
 
@@ -369,21 +369,21 @@ Add the following commands to a search to manually scrape each site. #Search
 
 ### Site Analytics
 
-* https://www.openwebanalytics.com/
-* https://www.alexa.com/siteinfo
-* http://websiteoutlook.com/
-* https://umami.is/
-* https://matomo.org/
-* https://goaccess.io/
-* https://count.ly/
-* https://ackee.electerious.com/
-* https://panelbear.com/
-* https://splitbee.io/
-* https://www.hotjar.com/
-* https://freshlytics.gitbook.io/
-* https://www.awstats.org/
-* https://counter.dev/
-* https://github.com/vesparny/fair-analytics
+* <https://www.openwebanalytics.com/>
+* <https://www.alexa.com/siteinfo>
+* <http://websiteoutlook.com/>
+* <https://umami.is/>
+* <https://matomo.org/>
+* <https://goaccess.io/>
+* <https://count.ly/>
+* <https://ackee.electerious.com/>
+* <https://panelbear.com/>
+* <https://splitbee.io/>
+* <https://www.hotjar.com/>
+* <https://freshlytics.gitbook.io/>
+* <https://www.awstats.org/>
+* <https://counter.dev/>
+* <https://github.com/vesparny/fair-analytics>
 
 ***
 
@@ -407,7 +407,7 @@ Add the following commands to a search to manually scrape each site. #Search
 
 ### SMS Verification Sites
 
-[TextNow](https://www.textnow.com/), [Tempophone](https://tempophone.com/), [2ndline](https://www.2ndline.co/), [ReceiveaSMS](https://www.receiveasms.com/), [SMS Receive Free](https://smsreceivefree.com/), [SMS Online](https://sms-online.co/), [GetFreeSMSNUmber](https://getfreesmsnumber.com/), [SMS Receive](http://sms-receive.net/), [Receive SMS Online](https://www.receivesmsonline.net/), [7Sim](http://7sim.net/), [hs3x](https://hs3x.com/), [receivefreesms](http://receivefreesms.com/), [receivesmsonline](https://receivesmsonline.in/), [receive-sms-online](https://receive-sms-online.com/), [Sellaite](http://sms.sellaite.com/), [Send SMS Now](https://www.sendsmsnow.com/), [Free Online Phone](https://www.freeonlinephone.org/), [SMS Get](http://smsget.net/), [1s2u](https://1s2u.com/), [receivesmsonline.me](http://receivesmsonline.me/), [My Trash Mobile](https://es.mytrashmobile.com/numeros/), [Temp-Mails](https://www.temp-mails.com/), [GlobFone](https://globfone.com/), [receive-sms](https://receive-sms.com/), [freesmsverification](http://freesmsverification.com/), [temp-mails-number](https://www.temp-mails.com/number), [countrycode](https://countrycode.org/), [temp-sms](http://temp-sms.org/), [oksms](https://oksms.org/), [temporary-phone-number](https://temporary-phone-number.com/), [cloakmobile](https://cloakmobile.com/), [pumpsms](http://pumpsms.com/), [spoofbox](https://www.spoofbox.com/en/tool/trash-mobile/number), [onlinesim](http://onlinesim.ru/sms-receive), [smska](https://smska.us/), [receive-sms-online](https://www.receive-sms-online.info/), [smsfinders](https://smsfinders.com/), [receivesms](https://www.receivesms.org/), [numbersfor](http://numbersfor.me/), [mfreesms](https://mfreesms.com/), [phonerator](https://www.martinvigo.com/tools/phonerator/), [fake-sms](https://github.com/Narasimha1997/fake-sms), [yunjisms](https://yunjisms.xyz/), [clearcode](https://clearcode.cn/), [smscodeonline](https://smscodeonline.com/), [lothelper](https://www.lothelper.com/), [xinghai](https://xinghai.party/), [mianfeijiema](https://mianfeijiema.com/, [receivesms](https://www.receivesms.net/), [jiemahao](https://jiemahao.com/), [storytrain](https://www.storytrain.info/), [114sim](http://www.114sim.com/), [Temp Number](https://temp-number.com/), [sms24](https://www.sms24.me/), [receive-smss](https://receive-smss.com)
+[TextNow](https://www.textnow.com/), [Tempophone](https://tempophone.com/), [2ndline](https://www.2ndline.co/), [ReceiveaSMS](https://www.receiveasms.com/), [SMS Receive Free](https://smsreceivefree.com/), [SMS Online](https://sms-online.co/), [GetFreeSMSNUmber](https://getfreesmsnumber.com/), [SMS Receive](http://sms-receive.net/), [Receive SMS Online](https://www.receivesmsonline.net/), [7Sim](http://7sim.net/), [hs3x](https://hs3x.com/), [receivefreesms](http://receivefreesms.com/), [receivesmsonline](https://receivesmsonline.in/), [receive-sms-online](https://receive-sms-online.com/), [Sellaite](http://sms.sellaite.com/), [Send SMS Now](https://www.sendsmsnow.com/), [Free Online Phone](https://www.freeonlinephone.org/), [SMS Get](http://smsget.net/), [1s2u](https://1s2u.com/), [receivesmsonline.me](http://receivesmsonline.me/), [My Trash Mobile](https://es.mytrashmobile.com/numeros/), [Temp-Mails](https://www.temp-mails.com/), [GlobFone](https://globfone.com/), [receive-sms](https://receive-sms.com/), [freesmsverification](http://freesmsverification.com/), [temp-mails-number](https://www.temp-mails.com/number), [countrycode](https://countrycode.org/), [temp-sms](http://temp-sms.org/), [oksms](https://oksms.org/), [temporary-phone-number](https://temporary-phone-number.com/), [cloakmobile](https://cloakmobile.com/), [pumpsms](http://pumpsms.com/), [spoofbox](https://www.spoofbox.com/en/tool/trash-mobile/number), [onlinesim](http://onlinesim.ru/sms-receive), [smska](https://smska.us/), [receive-sms-online](https://www.receive-sms-online.info/), [smsfinders](https://smsfinders.com/), [receivesms](https://www.receivesms.org/), [numbersfor](http://numbersfor.me/), [mfreesms](https://mfreesms.com/), [phonerator](https://www.martinvigo.com/tools/phonerator/), [fake-sms](https://github.com/Narasimha1997/fake-sms), [yunjisms](https://yunjisms.xyz/), [clearcode](https://clearcode.cn/), [smscodeonline](https://smscodeonline.com/), [lothelper](https://www.lothelper.com/), [xinghai](https://xinghai.party/), [mianfeijiema](<https://mianfeijiema.com/>, [receivesms](https://www.receivesms.net/), [jiemahao](https://jiemahao.com/), [storytrain](https://www.storytrain.info/), [114sim](http://www.114sim.com/), [Temp Number](https://temp-number.com/), [sms24](https://www.sms24.me/), [receive-smss](https://receive-smss.com)
 
 **No CC Required Trial Sites**
 
@@ -417,42 +417,42 @@ Add the following commands to a search to manually scrape each site. #Search
 
 ### SockShare Clones
 
-* https://sockshare.fm/
-* https://sockshare.mn/
-* https://sockshare1.com/
-* https://www4.123movies.net/
-* https://www1.123movies.mn/
-* https://0123movies4u.com/
-* https://wifimovies.net
-* https://www4.xmovies8.fm/
-* https://123free.net/
-* https://hdzer.com/
-* https://watchzer.com/
-* https://wat32.tv/
-* https://allzer.com/
-* https://www.fast32.com/
-* https://www1.xmovies8.io/
-* https://fastzer.com/
-* https://moviesonline.fm/
-* https://123hulu.com/
-* http://gomovies123.watch/
-* https://putlocker.vc
-* https://123enjoy.net/
-* https://www1.putlockers.sh/
-* https://www1.moviesin.co/
-* https://www2.putlockers.tw/
-* https://seriesonline.bz/
-* https://www2.putlockers.gy/
-* https://www1.fmovies.gs/
-* https://www2.putlockers.ws/
-* https://primewire.mn/
-* https://movieload.net/
-* https://fmovie.ac/
-* https://5movies.fm/
-* https://fmovies.gy/
-* https://www1.ezlive.tv/
-* https://www1.f123movies.com/
-* https://vo32.com/
+* <https://sockshare.fm/>
+* <https://sockshare.mn/>
+* <https://sockshare1.com/>
+* <https://www4.123movies.net/>
+* <https://www1.123movies.mn/>
+* <https://0123movies4u.com/>
+* <https://wifimovies.net>
+* <https://www4.xmovies8.fm/>
+* <https://123free.net/>
+* <https://hdzer.com/>
+* <https://watchzer.com/>
+* <https://wat32.tv/>
+* <https://allzer.com/>
+* <https://www.fast32.com/>
+* <https://www1.xmovies8.io/>
+* <https://fastzer.com/>
+* <https://moviesonline.fm/>
+* <https://123hulu.com/>
+* <http://gomovies123.watch/>
+* <https://putlocker.vc>
+* <https://123enjoy.net/>
+* <https://www1.putlockers.sh/>
+* <https://www1.moviesin.co/>
+* <https://www2.putlockers.tw/>
+* <https://seriesonline.bz/>
+* <https://www2.putlockers.gy/>
+* <https://www1.fmovies.gs/>
+* <https://www2.putlockers.ws/>
+* <https://primewire.mn/>
+* <https://movieload.net/>
+* <https://fmovie.ac/>
+* <https://5movies.fm/>
+* <https://fmovies.gy/>
+* <https://www1.ezlive.tv/>
+* <https://www1.f123movies.com/>
+* <https://vo32.com/>
 
 ***
 
@@ -464,7 +464,7 @@ Add the following commands to a search to manually scrape each site. #Search
 
 ### Tor Search Engines
 
-[Search-Darkweb](https://iaca-darkweb-tools.com/search-darkweb/), [Phobos](http://phobosxilamwcg75xt22id7aywkzol6q6rfl2flipcqoc4e4ahima5id.onion/), [Onions Search](https://onionsearchengine.com/), [OnionLandSearch](https://onionlandsearchengine.com/), [Ahmia](https://ahmia.fi/) / [Git](https://github.com/ahmia/ahmia-site ), [Onion.live](https://onion.live/), [Darkdump](https://github.com/josh0xA/darkdump), [SearX](http://5plvrsgydwy2sgce.onion/), [Phobos](http://phobosxilamwcg75xt22id7aywkzol6q6rfl2flipcqoc4e4ahima5id.onion/), [OnionLand Search Engine](http://3bbaaaccczcbdddz.onion/), [Onion Search Service](http://oss7wrm7xvoub77o.onion/), [Onion Search Engine](http://5u56fjmxu63xcmbk.onion/) / [2](http://onionf4j3fwqpeo5.onion/), [Onion Center](http://oikgfwfqmqkph4rl.onion/), [Onion Bag](http://onionbagy25be2bg.onion/), [Not Evil](http://hss3uro2hsxfogfq.onion/), [MultiVAC](http://multivacigqzqqon.onion/), [I2P Search](http://i2psesltivefcujc.onion/), [Haystak](http://haystakvxad7wbk5.onion/), [Grams](http://grams7ebnju7gwjl.onion/), [Google.Onion](http://ggonionvhfq7brmj.onion/), [Excavator](http://2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion/), [Evo Search](http://evo7no6twwwrm63c.onion/), [DDG](http://3g2upl4pq6kufc4m.onion/), [Dark Web Links](http://jdpskjmgy6kk4urv.onion/), [Candle](http://gjobqjj7wyczbqie.onion/), [BTDigg](http://btdiggwzoyrwwbiv.onion/), [Tor.Link](https://tor.link/) #Search 
+[Search-Darkweb](https://iaca-darkweb-tools.com/search-darkweb/), [Phobos](http://phobosxilamwcg75xt22id7aywkzol6q6rfl2flipcqoc4e4ahima5id.onion/), [Onions Search](https://onionsearchengine.com/), [OnionLandSearch](https://onionlandsearchengine.com/), [Ahmia](https://ahmia.fi/) / [Git](https://github.com/ahmia/ahmia-site ), [Onion.live](https://onion.live/), [Darkdump](https://github.com/josh0xA/darkdump), [SearX](http://5plvrsgydwy2sgce.onion/), [Phobos](http://phobosxilamwcg75xt22id7aywkzol6q6rfl2flipcqoc4e4ahima5id.onion/), [OnionLand Search Engine](http://3bbaaaccczcbdddz.onion/), [Onion Search Service](http://oss7wrm7xvoub77o.onion/), [Onion Search Engine](http://5u56fjmxu63xcmbk.onion/) / [2](http://onionf4j3fwqpeo5.onion/), [Onion Center](http://oikgfwfqmqkph4rl.onion/), [Onion Bag](http://onionbagy25be2bg.onion/), [Not Evil](http://hss3uro2hsxfogfq.onion/), [MultiVAC](http://multivacigqzqqon.onion/), [I2P Search](http://i2psesltivefcujc.onion/), [Haystak](http://haystakvxad7wbk5.onion/), [Grams](http://grams7ebnju7gwjl.onion/), [Google.Onion](http://ggonionvhfq7brmj.onion/), [Excavator](http://2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion/), [Evo Search](http://evo7no6twwwrm63c.onion/), [DDG](http://3g2upl4pq6kufc4m.onion/), [Dark Web Links](http://jdpskjmgy6kk4urv.onion/), [Candle](http://gjobqjj7wyczbqie.onion/), [BTDigg](http://btdiggwzoyrwwbiv.onion/), [Tor.Link](https://tor.link/) #Search
 
 ***
 
@@ -488,7 +488,7 @@ Add the following commands to a search to manually scrape each site. #Search
 qBitorrent Tools
 
 * [Multi-Connection](https://github.com/qBitMF/qBitMF) / [Screenshot](https://i.imgur.com/CM4H3Jt.png)
-* [Plugins](https://github.com/qbittorrent/search-plugins#search-plugins) #Search 
+* [Plugins](https://github.com/qbittorrent/search-plugins#search-plugins) #Search
 * [Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition)
 * [Themes](https://github.com/jagannatharjun/qbt-theme) / [Dark Theme](https://draculatheme.com/qbittorrent)
 * [iOS Theme](https://github.com/ntoporcov/iQbit/)
@@ -539,15 +539,13 @@ qBitorrent Tools
 * ⭐ **[Wayback Machine](http://web.archive.org/)**
 * ⭐ **Wayback Machine Tools** - [Downloader](https://github.com/hartator/wayback-machine-downloader), [2](https://github.com/jsvine/waybackpack) / [Addon](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wayback_machine_extension) / [Script](https://github.com/overcast07/wayback-machine-spn-scripts) / [Toolkit](https://github.com/wabarc/wayback)
 
-[awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) / [2](https://github.com/iipc/awesome-web-archiving), [awesome-web-archiving](https://github.com/iipc/awesome-web-archiving), [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox), [Collect](https://github.com/xarantolus/Collect), [grab-site](https://github.com/ArchiveTeam/grab-site), [Heritrix](https://github.com/internetarchive/heritrix3), [HTTrack](https://www.httrack.com/), [wail](https://github.com/machawk1/wail), [Webrecorder](https://github.com/Rhizome-Conifer/conifer), [WikiTeam](https://github.com/WikiTeam/wikiteam), [wallabag](https://github.com/wallabag/docker), [Conifer](https://github.com/Rhizome-Conifer/conifer), [CrowLeer](https://erap320.github.io/CrowLeer/), [brozzler](https://github.com/internetarchive/brozzler), [Kiwix](https://www.kiwix.org/en/), [wpull](https://github.com/ArchiveTeam/wpull), [suckit](https://github.com/skallwar/suckit), [wget](https://www.gnu.org/software/wget/) / [wget2](https://gitlab.com/gnuwget/wget2) / [Commands](https://www.whatismybrowser.com/developers/tools/wget-wizard/) / [Guide](https://web.archive.org/web/20210305122849/https://the-eye.eu/public/Wget_Windows_Guide.pdf), [zenscrape](https://zenscrape.com/), [scraping-bot](https://www.scraping-bot.io/), [webscraping](https://webscraping.ai/), [scrapingant](https://scrapingant.com/), [pyscrappy](https://pyscrappy.netlify.app/), [scrapestack](https://scrapestack.com/), [conifer](https://conifer.rhizome.org/), [archivy](https://archivy.github.io/), [archive.vn](https://archive.vn/), [cachedview](https://cachedview.nl/), [archivematica](https://www.archivematica.org/), [webarchive](https://www.webarchive.org.uk/), [cyotek-webcopy](https://www.cyotek.com/cyotek-webcopy), [Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader), [Site-DWLoader](https://site-dwloader.herokuapp.com/), [archive.ph](https://archive.ph/), [timetravel](http://timetravel.mementoweb.org/), [Eternal](https://eternal.report/), [oldweb](https://oldweb.today/), [vortimo](https://www.vortimo.com/), [22120](https://github.com/i5ik/22120) (Browser Controller), [ghostarchive](http://ghostarchive.org/), [webrecorder](https://webrecorder.net/), [web.scraper](https://web.scraper.workers.dev/), [archive.fo](https://archive.fo/), [archivebox](https://archivebox.io/), [cachedpages](http://www.cachedpages.com/), [stealth](https://github.com/tholian-network/stealth), [replayweb](https://replayweb.page/) / [GitHub](https://github.com/webrecorder/replayweb.page), [CopySite](https://xdan.ru/copysite/, [Scrapy](https://scrapy.org/), [offliberty](http://offliberty.xyz/), [CachedView](https://cachedview.com/)
+[awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) / [2](https://github.com/iipc/awesome-web-archiving), [awesome-web-archiving](https://github.com/iipc/awesome-web-archiving), [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox), [Collect](https://github.com/xarantolus/Collect), [grab-site](https://github.com/ArchiveTeam/grab-site), [Heritrix](https://github.com/internetarchive/heritrix3), [HTTrack](https://www.httrack.com/), [wail](https://github.com/machawk1/wail), [Webrecorder](https://github.com/Rhizome-Conifer/conifer), [WikiTeam](https://github.com/WikiTeam/wikiteam), [wallabag](https://github.com/wallabag/docker), [Conifer](https://github.com/Rhizome-Conifer/conifer), [CrowLeer](https://erap320.github.io/CrowLeer/), [brozzler](https://github.com/internetarchive/brozzler), [Kiwix](https://www.kiwix.org/en/), [wpull](https://github.com/ArchiveTeam/wpull), [suckit](https://github.com/skallwar/suckit), [wget](https://www.gnu.org/software/wget/) / [wget2](https://gitlab.com/gnuwget/wget2) / [Commands](https://www.whatismybrowser.com/developers/tools/wget-wizard/) / [Guide](https://web.archive.org/web/20210305122849/https://the-eye.eu/public/Wget_Windows_Guide.pdf), [zenscrape](https://zenscrape.com/), [scraping-bot](https://www.scraping-bot.io/), [webscraping](https://webscraping.ai/), [scrapingant](https://scrapingant.com/), [pyscrappy](https://pyscrappy.netlify.app/), [scrapestack](https://scrapestack.com/), [conifer](https://conifer.rhizome.org/), [archivy](https://archivy.github.io/), [archive.vn](https://archive.vn/), [cachedview](https://cachedview.nl/), [archivematica](https://www.archivematica.org/), [webarchive](https://www.webarchive.org.uk/), [cyotek-webcopy](https://www.cyotek.com/cyotek-webcopy), [Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader), [Site-DWLoader](https://site-dwloader.herokuapp.com/), [archive.ph](https://archive.ph/), [timetravel](http://timetravel.mementoweb.org/), [Eternal](https://eternal.report/), [oldweb](https://oldweb.today/), [vortimo](https://www.vortimo.com/), [22120](https://github.com/i5ik/22120) (Browser Controller), [ghostarchive](http://ghostarchive.org/), [webrecorder](https://webrecorder.net/), [web.scraper](https://web.scraper.workers.dev/), [archive.fo](https://archive.fo/), [archivebox](https://archivebox.io/), [cachedpages](http://www.cachedpages.com/), [stealth](https://github.com/tholian-network/stealth), [replayweb](https://replayweb.page/) / [GitHub](https://github.com/webrecorder/replayweb.page), [CopySite](<https://xdan.ru/copysite/>, [Scrapy](https://scrapy.org/), [offliberty](http://offliberty.xyz/), [CachedView](https://cachedview.com/)
 
 **Extensions**
 
 [SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ), [archiveror](https://github.com/rahiel/archiveror), [archiveweb](https://archiveweb.page/), [Wayback Machine](https://github.com/internetarchive/wayback-machine-webextension), [Web Archives](https://github.com/dessant/web-archives), [Vandal](https://vegetableman.github.io/vandal/) / [Git](https://github.com/vegetableman/vandal), [simplescraper](https://simplescraper.io/), [markdownload](https://github.com/deathau/MarkDownload)
 
 ***
-
-
 
 ## ► Privacy
 
@@ -731,7 +729,7 @@ qBitorrent Tools
 * [Brave Browser Hardening](https://gitlab.com/CHEF-KOCH/brave-browser-hardening) - Privacy Hardened Brave
 * [How Secure is My Password](https://www.security.org/how-secure-is-my-password/) - Password Strength Checker
 * [h8Mail](http://github.com/khast3x/h8mail) - Multiple Data Breach Checks
-* [Snusbase](https://snusbase.com/), [Leak Lookup](http://leak-lookup.com/), [Trufflehog](https://github.com/trufflesecurity/trufflehog) or [leakpeek](https://leakpeek.com/) - Data Breach Search Engine #Search 
+* [Snusbase](https://snusbase.com/), [Leak Lookup](http://leak-lookup.com/), [Trufflehog](https://github.com/trufflesecurity/trufflehog) or [leakpeek](https://leakpeek.com/) - Data Breach Search Engine #Search
 * [DataBunker](https://databunker.org/) - Data Leak Prevention
 * [Creepjs](https://abrahamjuliot.github.io/creepjs) or [LocateJS](https://z0ccc.github.io/LocateJS/) - Check for Browser / Extension Leaks
 * [RS Lookup](http://rslookup.com/) - Check if your RuneScape data has been breached
@@ -809,23 +807,23 @@ qBitorrent Tools
 
 ### ▷ Search Engines
 
-* ⭐ **[Search Engine Party](https://searchengine.party/)** - Privacy Search Engine Comparisons #Search 
-* ⭐ **[DuckDuckGo](https://duckduckgo.com/)** - [Shortcuts](https://duckduckgo.com/bang) #Search 
-* ⭐ **[searx](https://asciimoo.github.io/searx/)** - [Instances](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_searx_instances) / [Desktop](https://notabug.org/CYBERDEViL/searx-qt) #Search 
-* [Qwant](https://www.qwant.com/) #Search 
-* [Swisscows](https://swisscows.com/) #Search 
-* [Metager](https://metager.org/) #Search 
-* [YaCy](https://yacy.net/) #Search 
+* ⭐ **[Search Engine Party](https://searchengine.party/)** - Privacy Search Engine Comparisons #Search
+* ⭐ **[DuckDuckGo](https://duckduckgo.com/)** - [Shortcuts](https://duckduckgo.com/bang) #Search
+* ⭐ **[searx](https://asciimoo.github.io/searx/)** - [Instances](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_searx_instances) / [Desktop](https://notabug.org/CYBERDEViL/searx-qt) #Search
+* [Qwant](https://www.qwant.com/) #Search
+* [Swisscows](https://swisscows.com/) #Search
+* [Metager](https://metager.org/) #Search
+* [YaCy](https://yacy.net/) #Search
 * [Mojeek](https://www.mojeek.com/) #Search
 * [SKYN3T](https://skyn3t.in/) #Search
 * [Brave Search](https://search.brave.com/) #Search
-* [Snopyta](https://search.snopyta.org/) #Search 
+* [Snopyta](https://search.snopyta.org/) #Search
 * [peekier](https://peekier.com/) #Search
-* [neeva](https://neeva.com/) #Search 
+* [neeva](https://neeva.com/) #Search
 * [Kagi](https://kagi.com/) #Search
 * [ekoru](https://ekoru.org/) #Search
-* [Gibiru](https://gibiru.com/) #Search 
-* [Whoogle](https://github.com/benbusby/whoogle-search) - Easy to self-host SE with Google results #Search 
+* [Gibiru](https://gibiru.com/) #Search
+* [Whoogle](https://github.com/benbusby/whoogle-search) - Easy to self-host SE with Google results #Search
 
 ***
 
@@ -908,7 +906,6 @@ qBitorrent Tools
 * [Proxy-Checker](https://proxy-checker.net/), [Proxy Checker Genius](https://www.proxychecker.ge/), [proxy-scraper](https://github.com/iw4p/proxy-scraper), [ProxyScraper_v1](https://github.com/WTSTiNy/DeCryPt_ProxyScraper_v1), [What is my Proxy](http://www.whatismyproxy.com/) or [Socker](https://github.com/TheSpeedX/socker) - Proxy Scrapers / Checkers
 * [CheckSocks5](https://checksocks5.com/) - Socks5 Proxy Checker
 * [Proxynova](https://www.proxynova.com/proxy-server-list/country-ir/) - Iranian Proxies
-
 
 ## ► VPN
 

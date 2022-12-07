@@ -1,4 +1,5 @@
-##  Phone Number Research
+## Phone Number Research
+
 * [Reverse Phone Lookup](http://www.reversephonelookup.com/) - Detailed information about phone carrier, region, service provider, and switch information.
 * [Spy Dialer](http://spydialer.com/) - Get the voicemail of a cell phone & owner name lookup.
 * [Twilio](https://www.twilio.com/lookup) - Look up a phone numbers carrier type, location, etc.
@@ -7,4 +8,5 @@
 * [FreeCarrierLookup](https://freecarrierlookup.com/)
 * [Sync.ME](https://sync.me/)
 * [EmobileTracker.com](https://www.emobiletracker.com/)
+
 ---

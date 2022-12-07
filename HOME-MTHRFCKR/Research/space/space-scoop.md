@@ -2,7 +2,7 @@
 
 Space Words
 
-[Antimatter Antimatter is made up of tiny particles that are the opposite of normal material. When matter meets its antimatter equal they are both destroyed, releasing lots of energy.](http://www.spacescoop.org/en/words/antimatter/) 
+[Antimatter Antimatter is made up of tiny particles that are the opposite of normal material. When matter meets its antimatter equal they are both destroyed, releasing lots of energy.](http://www.spacescoop.org/en/words/antimatter/)
 
 [Asteroid Asteroids are chunks of rock and metal left over from when our Solar System formed. Most can be found between Mars and Jupiter, a region of space we call the Asteroid Belt.](http://www.spacescoop.org/en/words/asteroid/)
 
@@ -212,7 +212,7 @@ Space Words
 
 [X-ray X-rays are a type of invisible light. X-rays can travel through soft tissue like skin and muscle, so they can be used to take pictures of broken bones.](http://www.spacescoop.org/en/words/x-ray/)
 
-## Still Curious? Learn more...
+## Still Curious? Learn more
 
 [![](http://www.spacescoop.org/static/img/resources/resource-space-scoop.c459b3c1e6ff.svg)](http://www.spacescoop.org/en/about/)
 

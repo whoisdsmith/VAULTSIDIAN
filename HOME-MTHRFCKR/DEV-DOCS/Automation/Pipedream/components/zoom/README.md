@@ -1,6 +1,6 @@
 # Zoom API Integrations
 
-### Integrate Zoom and thousands of applications with Pipedream. Free for developers.
+### Integrate Zoom and thousands of applications with Pipedream. Free for developers
 
 ---
 

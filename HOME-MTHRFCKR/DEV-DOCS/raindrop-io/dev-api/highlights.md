@@ -15,7 +15,6 @@ Single `highlight` object:
 | tags    | `Array`  | Tags list                                                                                                                                                                                                                                                                                                            |
 | link    | `String` | Highlighted page URL                                                                                                                                                                                                                                                                                                 |
 
-
 {% swagger method="get" path="/rest/v1/highlights" baseUrl="https://api.raindrop.io" summary="Get all highlights" %}
 {% swagger-description %}
 
@@ -62,7 +61,6 @@ How many highlights per page. 50 max. Default 25
     ]
 }
 ```
-
 
 {% endswagger-response %}
 {% endswagger %}
@@ -116,7 +114,6 @@ How many highlights per page. 50 max. Default 25
 }
 ```
 
-
 {% endswagger-response %}
 {% endswagger %}
 
@@ -157,7 +154,6 @@ Existing raindrop ID
     }
 }
 ```
-
 
 {% endswagger-response %}
 {% endswagger %}
@@ -220,7 +216,6 @@ Existing raindrop ID
 }
 ```
 
-
 {% endswagger-response %}
 {% endswagger %}
 
@@ -242,7 +237,7 @@ Existing raindrop ID
 {% endswagger-parameter %}
 
 {% swagger-parameter in="body" name="highlights[]._id" required="true" %}
-Particular highlight _id you want to remove
+Particular highlight_id you want to remove
 {% endswagger-parameter %}
 
 {% swagger-parameter in="body" name="highlights[].text" required="false" %}
@@ -284,7 +279,6 @@ Should be empty string
         ]    }}
 ```
 
-
 {% endswagger-response %}
 {% endswagger %}
 
@@ -306,7 +300,7 @@ Existing raindrop ID
 {% endswagger-parameter %}
 
 {% swagger-parameter in="body" name="highlights[]._id" required="true" %}
-Particular highlight _id you want to remove
+Particular highlight_id you want to remove
 {% endswagger-parameter %}
 
 {% swagger-parameter in="body" name="highlights[].text" required="true" %}
@@ -340,7 +334,6 @@ Should be empty string
         ]
     }}
 ```
-
 
 {% endswagger-response %}
 {% endswagger %}

@@ -6,7 +6,7 @@
 * **[Proton](https://protonvpn.com)** - [Pricing](https://i.imgur.com/hkhZGg1.png) / No Torrenting w/ Free Version
 * **[Windscribe](https://windscribe.com)** - [Pricing](https://i.imgur.com/D7015rq.png) / Free Version Available / [Improved App](https://github.com/Windscribe/desktop-v2)
 * **[Surfshark](https://surfshark.com/)** - [Pricing](https://i.imgur.com/YaiKjpX.png)
-* **[Riseup](https://riseup.net/en/vpn)** - Free VPN 
+* **[Riseup](https://riseup.net/en/vpn)** - Free VPN
 * **[Softether](https://www.softether.org/)** - Free VPN / [VPN Gate](https://www.vpngate.net/en/download.aspx) / [Note](https://pastebin.com/TrSw7EpF)
 * **[WireGuard](https://www.wireguard.com/)** - VPN Tunnel / [Setup Guide](https://github.com/amritb/poor-mans-vpn) / [Tools](https://guardline-vpn.github.io/wireguard-tools/) / [Manager](https://github.com/perara/wg-manager)
 * [Perfect Privacy](https://www.perfect-privacy.com/) - [Pricing](https://i.imgur.com/Rtfwu2t.png)
@@ -24,7 +24,7 @@
 * [Adguard VPN](https://adguard-vpn.com/en/welcome.html) - VPN Extension / 3GB Free / [Pricing](https://i.imgur.com/ZdDexDa.png)
 * [Mozilla FPN](https://fpn.firefox.com/) - VPN Extension / [Pricing](https://i.imgur.com/wW5rVO2.png) / Mullvad Servers
 * [StrongSwan](https://www.strongswan.org/) - IPsec VPN
-* [WireHole](https://github.com/IAmStoxe/wirehole) - Wireguard VPN w/ Adblocking Capabilities 
+* [WireHole](https://github.com/IAmStoxe/wirehole) - Wireguard VPN w/ Adblocking Capabilities
 * [Syntropy](https://www.syntropystack.com/vpn), [Self Hosted VPN](https://github.com/rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs), [VpnHood](https://github.com/vpnhood/VpnHood), [n2n](https://github.com/ntop/n2n), [ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) or [Outline](https://getoutline.org/) - Self-Hosted VPN
 * [PrivadoVPN](https://privadovpn.com/) - Free VPN / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)
 * [Kaspersky](https://www.kaspersky.co.uk/vpn-secure-connection) - Free VPN / 200 MB per day / No Account Required
@@ -38,7 +38,7 @@
 * [GreenHub](https://greenhubtx.ga/) - Free VPN
 * [Clash](https://github.com/Fndroid/clash_for_windows_pkg) - Free VPN / [Profiles](https://rentry.co/2q3rn)
 * [Portals](https://www.portals.network/) - dVPN
-* [FreePN](https://www.freepn.org/) - Free Open Source P2P VPN 
+* [FreePN](https://www.freepn.org/) - Free Open Source P2P VPN
 * [TunnelBear](https://www.tunnelbear.com/) - Free VPN / 500mb
 * [VPNBook](https://www.vpnbook.com/) - Free VPN Accounts
 * [VPNGate](https://www.vpngate.net/en/) - Free VPN Relay Servers
@@ -47,14 +47,14 @@
 * [Warp-Unlimited-Advanced](https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED) - Generate Unlimited Data For Warp VPN
 * [Gluetun](https://github.com/qdm12/gluetun) - Tunnel your Docker containers through a VPN
 * [PiVPN](https://pivpn.io/) - Raspberry Pi VPN / [GitHub](https://github.com/pivpn/pivpn)
-* [Enterprise](https://pritunl.com/) - VPN Server 
+* [Enterprise](https://pritunl.com/) - VPN Server
 * [Algo VPN](https://github.com/trailofbits/algo) - Cloud VPN
 * [Amnezia](https://github.com/amnezia-vpn/desktop-client/) - Self-hosted VPN
 * [Self-hosted VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/selfhost-vpn) - Self-hosted VPN guide by /u/Kaxry
 * [VPNHotspot](https://github.com/Mygod/VPNHotspot) - Share VPN Connection over Hotspot
 * [raspberrypiwireguard](https://github.com/adrianmihalko/raspberrypiwireguard) - Install WireGuard on Raspberry Pi
 * [Killswitch](https://github.com/nologs-vpn/killswitch) or [KillSwitch](https://github.com/nerfirelia123/KillSwitch) - Custom VPN Killswitch
-* [/r/VPN](https://reddit.com/r/VPN) - VPN Help and Discussion 
+* [/r/VPN](https://reddit.com/r/VPN) - VPN Help and Discussion
 * [OilAndFish](https://www.oilandfish.com/) - Firewall Bypass Guide
 * [Opera "VPN" is a Proxy, Not VPN](https://gist.github.com/spaze/558b7c4cd81afa7c857381254ae7bd10)
 

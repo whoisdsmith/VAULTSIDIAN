@@ -128,7 +128,7 @@
 * [Moonlight Stream](https://moonlight-stream.org/) or [Rainway](https://rainway.com/gaming) - PC Remote Play Client / [GitHub](https://github.com/moonlight-stream)
 * [Medal](https://medal.tv/) - Nvidia Shadowplay for non Nicosia cards
 * [dlss-swap](https://github.com/beeradmoore/dlss-swapper) - Download, Manage & Swap DLSS
-* [ChimeraOS ](https://chimeraos.org/)- Gaming Focused OS / [Discord](https://discord.gg/fKsUbrt)
+* [ChimeraOS](https://chimeraos.org/)- Gaming Focused OS / [Discord](https://discord.gg/fKsUbrt)
 * [VibranceGUI](https://vibrancegui.com/) - Automate Digital Vibrance Control
 * [ReShade](https://reshade.me/) - Generic Post-Processing Injector / [GitHub](https://github.com/crosire/reshade) / [Shaders](https://github.com/BlueSkyDefender/Depth3D)
 * [dgVoodoo2](http://dege.freeweb.hu/dgVoodoo2/) - Glide & DirectX Graphics Wrapper
@@ -242,7 +242,7 @@
 
 ### ▷ Steam Tools
 
-* ⭐ [**Andy's Steam Crack Guide**](https://rentry.org/steamcrackguidebyanddy) / [2](https://redd.it/pmim9t) - How-to Add Cracked Games to Steam / [Client](https://mega.nz/file/mpdAXKTZ#3CVjRZG1i8K\_Zn8b9IIARbIZZE73KdzazVHMDcaWZJc) #MEGA 
+* ⭐ [**Andy's Steam Crack Guide**](https://rentry.org/steamcrackguidebyanddy) / [2](https://redd.it/pmim9t) - How-to Add Cracked Games to Steam / [Client](https://mega.nz/file/mpdAXKTZ#3CVjRZG1i8K\_Zn8b9IIARbIZZE73KdzazVHMDcaWZJc) #MEGA
 * ⭐ [**A Collection of Steam Tools**](https://steamcommunity.com/sharedfiles/filedetails/?id=451698754) or [SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10\&t=65887) - Steam Tools Index
 * [Depressurizer](https://github.com/Depressurizer/Depressurizer) - Steam Library Organizer
 * [SteamDB](https://steamdb.info/) - Steam Insights Tool

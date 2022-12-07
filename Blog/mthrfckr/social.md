@@ -4,15 +4,15 @@
 
 ### Facebook
 
-https://facebook.com/dontcallmedsmith
+<https://facebook.com/dontcallmedsmith>
 
 ### Github
 
-https://github.com/whoisdsmith
+<https://github.com/whoisdsmith>
 
 ### Instagram
 
-https://www.instagram.com/dsmith4life/
+<https://www.instagram.com/dsmith4life/>
 
 ### LiveJournal
 
@@ -54,7 +54,7 @@ Pastebin.com is the number one paste tool since 2002. Pastebin is a website wher
 
 ### Snapchat
 
-https://www.snapchat.com/add/whoisdsmith
+<https://www.snapchat.com/add/whoisdsmith>
 
 ### Raindrop.io
 
@@ -68,10 +68,10 @@ u/Iamthereaper85
 [overview for Iamthereaper85](https://www.reddit.com/user/Iamthereaper85)
 
 u/wh0isdsmith  
-https://www.reddit.com/user/wh0isdsmith
+<https://www.reddit.com/user/wh0isdsmith>
 
 u/whatitiz2burn  
-https://www.reddit.com/user/whatitiz2burn
+<https://www.reddit.com/user/whatitiz2burn>
 
 ### Tumblr
 
@@ -81,7 +81,7 @@ https://www.reddit.com/user/whatitiz2burn
 
 ### Twitter
 
-https://twitter.com/Wh0isdsmith
+<https://twitter.com/Wh0isdsmith>
 
 ### WordPress
 

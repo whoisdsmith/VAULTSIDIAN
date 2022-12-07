@@ -41,13 +41,12 @@ Returns JSON-encoded array containing all root collections
 }
 ```
 
-
 {% endswagger-response %}
 {% endswagger %}
 
 {% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/collections/childrens" method="get" summary="Get child collections" %}
 {% swagger-description %}
-Returns JSON-encoded array containing all nested collections (that have positive 
+Returns JSON-encoded array containing all nested collections (that have positive
 
 `parent.$id`
 
@@ -55,7 +54,6 @@ Returns JSON-encoded array containing all nested collections (that have positive
 {% endswagger-description %}
 
 {% swagger-response status="200" description="" %}
-
 
 ```javascript
 {
@@ -91,7 +89,6 @@ Returns JSON-encoded array containing all nested collections (that have positive
 }
 ```
 
-
 {% endswagger-response %}
 {% endswagger %}
 
@@ -105,7 +102,6 @@ Collection ID
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
-
 
 ```javascript
 {
@@ -141,7 +137,6 @@ Collection ID
 }
 ```
 
-
 {% endswagger-response %}
 {% endswagger %}
 
@@ -159,7 +154,7 @@ Name of the collection
 {% endswagger-parameter %}
 
 {% swagger-parameter in="body" name="sort" type="number" %}
-The order of collection (descending). Defines the position of the collection among all the collections with the same 
+The order of collection (descending). Defines the position of the collection among all the collections with the same
 
 `parent.$id`
 {% endswagger-parameter %}
@@ -187,11 +182,9 @@ Collection cover url
 }
 ```
 
-
 {% endswagger-response %}
 
 {% swagger-response status="400" description="Incorrect 'view' field value" %}
-
 
 ```javascript
 {
@@ -200,7 +193,6 @@ Collection cover url
     "errorMessage": "Collection validation failed: view: `bla` is not a valid enum value for path `view`."
 }
 ```
-
 
 {% endswagger-response %}
 {% endswagger %}
@@ -227,7 +219,7 @@ Name of the collection
 {% endswagger-parameter %}
 
 {% swagger-parameter in="body" name="sort" type="number" %}
-The order of collection (descending). Defines the position of the collection among all the collections with the same 
+The order of collection (descending). Defines the position of the collection among all the collections with the same
 
 `parent.$id`
 {% endswagger-parameter %}
@@ -246,7 +238,6 @@ Collection cover url
 
 {% swagger-response status="200" description="" %}
 
-
 ```javascript
 {
     "result": true,
@@ -255,7 +246,6 @@ Collection cover url
     }
 }
 ```
-
 
 {% endswagger-response %}
 {% endswagger %}
@@ -288,7 +278,6 @@ File
 }
 ```
 
-
 {% endswagger-response %}
 {% endswagger %}
 
@@ -297,7 +286,6 @@ File
 Remove an existing collection and all its descendants.
 
 \
-
 
 Raindrops will be moved to "Trash" collection
 {% endswagger-description %}
@@ -314,7 +302,6 @@ Existing collection ID
 }
 ```
 
-
 {% endswagger-response %}
 {% endswagger %}
 
@@ -324,8 +311,7 @@ Remove multiple collections at once.
 
 \
 
-
-Nested collections are ignored (include ID's in 
+Nested collections are ignored (include ID's in
 
 `ids`
 
@@ -343,7 +329,7 @@ Array of collection ID
 
 {% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/collections" method="put" summary="Reorder all collections" %}
 {% swagger-description %}
-Updates order of all collections 
+Updates order of all collections
 {% endswagger-description %}
 
 {% swagger-parameter in="body" name="sort" type="string" %}
@@ -351,21 +337,17 @@ Change order of all collections.
 
 \
 
-
 Possible values:
 
 \
-
 
 "title" - sort alphabetically ascending
 
 \
 
-
 "-title" - sort alphabetically descending
 
 \
-
 
 "-count" - sort by raindrops count descending
 {% endswagger-parameter %}
@@ -377,7 +359,6 @@ Possible values:
     "result": true
 }
 ```
-
 
 {% endswagger-response %}
 {% endswagger %}
@@ -391,7 +372,6 @@ Possible values:
 TRUE = expand all
 
 \
-
 
 FALSE = collapse all
 {% endswagger-parameter %}
@@ -413,7 +393,7 @@ Merge multiple collections
 {% endswagger-description %}
 
 {% swagger-parameter in="body" name="to" type="number" %}
-Collection ID where listed collection 
+Collection ID where listed collection
 
 `ids`
 

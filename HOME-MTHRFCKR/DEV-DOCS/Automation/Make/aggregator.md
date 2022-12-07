@@ -1,15 +1,14 @@
--   [Make Help Center](https://www.make.com/en/help/index-en.html)
--   [Modules](https://www.make.com/en/help/modules.html)
--   Aggregator
+- [Make Help Center](https://www.make.com/en/help/index-en.html)
+- [Modules](https://www.make.com/en/help/modules.html)
+- Aggregator
 
 An **aggregator** is a [type of module](https://www.make.com/en/help/modules/types-of-modules.html "Types of modules") designed to merge several bundles of data into a single bundle.
 
 When an aggregator is executed, it:
 
-1.  accumulates all the bundles it receives (during a single source module's operation)
-    
-2.  outputs a single bundle with an array containing one item per each accumulated bundle. The content of the array's items depends on particular aggregator module and its setup.
-    
+1. accumulates all the bundles it receives (during a single source module's operation)
+
+2. outputs a single bundle with an array containing one item per each accumulated bundle. The content of the array's items depends on particular aggregator module and its setup.
 
 A typical example of an aggregator module is the [Array aggregator](https://www.make.com/en/help/tools/flow-control.html#array-aggregator "Array aggregator") module. Aggregators usually feature the following fields:
 
@@ -27,13 +26,12 @@ If you need to access items from bundles outputted from the source module and an
 
 The scenario below shows how to:
 
-1.  Watch a mailbox for incoming emails: **[Email > Watch emails](https://www.make.com/en/help/tools/email.html#triggers-935249 "Triggers")** trigger will output a bundle with item `Attachments[]` , which is an array containing all the email's attachments.
-    
-2.  Iterate the email's attachments: **[Email > Iterate attachments](https://www.make.com/en/help/tools/email.html#iterators-935249 "Iterators")** iterator takes the items from the `Attachments[]` array one by one and sends them further as separate bundles.
-    
-3.  Aggregate the bundles outputted by the **[Email > Iterate attachments](https://www.make.com/en/help/tools/email.html#iterators-935249 "Iterators")** module: **[Archive > Create an archive](https://www.make.com/en/help/apps/built-in-apps/archive.html#create-an-archive-973677 "Create an archive")**aggregator accumulates all the bundles it receives and outputs a single bundle containing the ZIP file
-    
-4.  Upload the resulting ZIP file to Dropbox: **[Dropbox > Upload a file](https://www.make.com/en/help/apps/file-and-document-management/dropbox.html#upload-a-file-968222 "Upload a File")** obtains the ZIP file from the **[Archive > Create an archive](https://www.make.com/en/help/apps/built-in-apps/archive.html#create-an-archive-973677 "Create an archive")** module and uploads it to Dropbox.
-    
+1. Watch a mailbox for incoming emails: **[Email > Watch emails](https://www.make.com/en/help/tools/email.html#triggers-935249 "Triggers")** trigger will output a bundle with item `Attachments[]` , which is an array containing all the email's attachments.
+
+2. Iterate the email's attachments: **[Email > Iterate attachments](https://www.make.com/en/help/tools/email.html#iterators-935249 "Iterators")** iterator takes the items from the `Attachments[]` array one by one and sends them further as separate bundles.
+
+3. Aggregate the bundles outputted by the **[Email > Iterate attachments](https://www.make.com/en/help/tools/email.html#iterators-935249 "Iterators")** module: **[Archive > Create an archive](https://www.make.com/en/help/apps/built-in-apps/archive.html#create-an-archive-973677 "Create an archive")**aggregator accumulates all the bundles it receives and outputs a single bundle containing the ZIP file
+
+4. Upload the resulting ZIP file to Dropbox: **[Dropbox > Upload a file](https://www.make.com/en/help/apps/file-and-document-management/dropbox.html#upload-a-file-968222 "Upload a File")** obtains the ZIP file from the **[Archive > Create an archive](https://www.make.com/en/help/apps/built-in-apps/archive.html#create-an-archive-973677 "Create an archive")** module and uploads it to Dropbox.
 
 Below is a sample setup of the **Archive > Create an archive** aggregator:

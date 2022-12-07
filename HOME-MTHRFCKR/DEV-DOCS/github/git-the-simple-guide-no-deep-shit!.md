@@ -2,8 +2,8 @@
 
 # 2022-02-26
 
--   [git - the simple guide - no deep shit!](https://rogerdudler.github.io/git-guide/)
-    		\- author: 
+- [git - the simple guide - no deep shit!](https://rogerdudler.github.io/git-guide/)
+      \- author:
 
 * * *
 

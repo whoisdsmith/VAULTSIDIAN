@@ -1,6 +1,6 @@
 # region
 
-https://docs.aws.amazon.com/en_us/general/latest/gr/rande.html
+<https://docs.aws.amazon.com/en_us/general/latest/gr/rande.html>
 
 | Region Name                | Region         |
 | -------------------------- | -------------- |

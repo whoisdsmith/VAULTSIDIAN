@@ -1,11 +1,10 @@
 [Eclectic Energies](https://www.eclecticenergies.com/francais/enneagramme/type1) - Ennéagramme
 
-Result : 
+Result :
 
 ### Type de l'Ennéagramme 1 - Le Réformateur
 
 **Perfectionnistes, responsable, fixés sur l'amélioration**
-
 
 Les Uns ont un regard perçant sur les détails. Ils sont toujours au courant des défauts, les leurs, ceux des autres et ceux relatifs aux situations dans lesquelles ils se trouvent. Cela déclenche un besoin d'améliorer, qui peut être bénéfique pour tous les intéressés, mais qui peut également devenir un lourd fardeau à la fois pour le Un lui même, et pour ceux qu'il essaye de réformer.
 

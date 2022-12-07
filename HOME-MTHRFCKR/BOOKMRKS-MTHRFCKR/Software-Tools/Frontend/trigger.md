@@ -2,15 +2,15 @@
 
 ```sql
 create table test2 (
-	id serial not null primary key,
-	tid INTEGER not null,
-	state text not null
+ id serial not null primary key,
+ tid INTEGER not null,
+ state text not null
 );
 
 create table test1 (
-	id serial not null primary key,
-	tid INTEGER not null,
-	state text not null
+ id serial not null primary key,
+ tid INTEGER not null,
+ state text not null
 );
 
 DROP TABLE test1;
@@ -23,9 +23,9 @@ select * from test2;
 
 CREATE OR REPLACE FUNCTION test1() RETURNS TRIGGER AS $$
 BEGIN
-	UPDATE test2
-	SET state = NEW.state
-	WHERE tid = NEW.tid;
+ UPDATE test2
+ SET state = NEW.state
+ WHERE tid = NEW.tid;
     RETURN NEW;
 END;
 $$ LANGUAGE plpgsql;

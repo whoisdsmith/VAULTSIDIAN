@@ -1,13 +1,14 @@
 
- ### Total resources: 2118
+### Total resources: 2118
 
- ## Index
-<details><summary id="assets">Assets</summary><li><a href="#assets-audio">Audio</a></li><li><a href="#assets-fonts">Fonts</a></li><li><a href="#assets-icons">Icons</a></li><li><a href="#assets-illustrations">Illustrations</a></li><li><a href="#assets-images">Images</a></li><li><a href="#assets-logos">Logos</a></li><li><a href="#assets-videos">Videos</a></li></details><details><summary id="community">Community</summary><li><a href="#community-blogs-and-forums">Blogs & Forums</a></li><li><a href="#community-hacktoberfest">Hacktoberfest</a></li><li><a href="#community-personal-websites">Personal Websites</a></li></details><details><summary id="indie-hacking">Indie Hacking</summary><li><a href="#indie-hacking-books">Books</a></li><li><a href="#indie-hacking-marketing">Marketing</a></li><li><a href="#indie-hacking-platforms">Platforms</a></li><li><a href="#indie-hacking-podcasts">Podcasts</a></li><li><a href="#indie-hacking-utilities">Utilities</a></li></details><details><summary id="infrastructure">Infrastructure</summary><li><a href="#infrastructure-auth">Auth</a></li><li><a href="#infrastructure-cloud-computing">Cloud Computing</a></li><li><a href="#infrastructure-databases">Databases</a></li><li><a href="#infrastructure-hosting">Hosting</a></li><li><a href="#infrastructure-serverless">Serverless</a></li></details><details><summary id="jobs">Jobs</summary><li><a href="#jobs-boards">Boards</a></li><li><a href="#jobs-freelancing">Freelancing</a></li><li><a href="#jobs-interviews">Interviews</a></li><li><a href="#jobs-remote-only">Remote Only</a></li><li><a href="#jobs-resume-builders">Resume Builders</a></li></details><details><summary id="programming">Programming</summary><li><a href="#programming-books">Books</a></li><li><a href="#programming-charts">Charts</a></li><li><a href="#programming-code-challenges">Code Challenges</a></li><li><a href="#programming-code-generators">Code Generators</a></li><li><a href="#programming-code-snippets">Code Snippets</a></li><li><a href="#programming-docs-and-cheatsheets">Docs & Cheatsheets</a></li><details><summary id="programming-javascript">JavaScript</summary><li><a href="#programming-javascript-react">React</a></li><li><a href="#programming-javascript-tooling">Tooling</a></li><li><a href="#programming-javascript-utilities">Utilities</a></li></details><li><a href="#programming-learn">Learn</a></li><li><a href="#programming-newsletters">Newsletters</a></li><li><a href="#programming-podcasts">Podcasts</a></li><li><a href="#programming-templates">Templates</a></li><li><a href="#programming-testing">Testing</a></li><li><a href="#programming-ui-kits-and-libraries">UI Kits & Libraries</a></li><li><a href="#programming-youtube-channels">YouTube Channels</a></li></details><details><summary id="public-apis">Public APIs</summary><li><a href="#public-apis-all">All</a></li><li><a href="#public-apis-animals">Animals</a></li><li><a href="#public-apis-anime">Anime</a></li><li><a href="#public-apis-anti-malware">Anti-Malware</a></li><li><a href="#public-apis-art-and-design">Art & Design</a></li><li><a href="#public-apis-authentication-and-authorization">Authentication & Authorization</a></li><li><a href="#public-apis-blockchain">Blockchain</a></li><li><a href="#public-apis-books">Books</a></li><li><a href="#public-apis-business">Business</a></li><li><a href="#public-apis-calendar">Calendar</a></li><li><a href="#public-apis-cloud-storage-and-file-sharing">Cloud Storage & File Sharing</a></li><li><a href="#public-apis-continuous-integration">Continuous Integration</a></li><li><a href="#public-apis-cryptocurrency">Cryptocurrency</a></li><li><a href="#public-apis-currency-exchange">Currency Exchange</a></li><li><a href="#public-apis-data-validation">Data Validation</a></li><li><a href="#public-apis-development">Development</a></li><li><a href="#public-apis-dictionaries">Dictionaries</a></li><li><a href="#public-apis-documents-and-productivity">Documents & Productivity</a></li><li><a href="#public-apis-email">Email</a></li><li><a href="#public-apis-entertainment">Entertainment</a></li><li><a href="#public-apis-environment">Environment</a></li><li><a href="#public-apis-events">Events</a></li><li><a href="#public-apis-finance">Finance</a></li><li><a href="#public-apis-food-and-drink">Food & Drink</a></li><li><a href="#public-apis-games-and-comics">Games & Comics</a></li><li><a href="#public-apis-geocoding">Geocoding</a></li><li><a href="#public-apis-government">Government</a></li><li><a href="#public-apis-health">Health</a></li><li><a href="#public-apis-jobs">Jobs</a></li><li><a href="#public-apis-machine-learning">Machine Learning</a></li><li><a href="#public-apis-music">Music</a></li><li><a href="#public-apis-news">News</a></li><li><a href="#public-apis-open-data">Open Data</a></li><li><a href="#public-apis-open-source-projects">Open Source Projects</a></li><li><a href="#public-apis-patent">Patent</a></li><li><a href="#public-apis-personality">Personality</a></li><li><a href="#public-apis-phone">Phone</a></li><li><a href="#public-apis-photography">Photography</a></li><li><a href="#public-apis-programming">Programming</a></li><li><a href="#public-apis-science-and-math">Science & Math</a></li><li><a href="#public-apis-security">Security</a></li><li><a href="#public-apis-shopping">Shopping</a></li><li><a href="#public-apis-social">Social</a></li><li><a href="#public-apis-sports-and-fitness">Sports & Fitness</a></li><li><a href="#public-apis-test-data">Test Data</a></li><li><a href="#public-apis-text-analysis">Text Analysis</a></li><li><a href="#public-apis-tracking">Tracking</a></li><li><a href="#public-apis-transportation">Transportation</a></li><li><a href="#public-apis-url-shorteners">URL Shorteners</a></li><li><a href="#public-apis-vehicle">Vehicle</a></li><li><a href="#public-apis-video">Video</a></li><li><a href="#public-apis-weather">Weather</a></li></details><details><summary id="tools-and-utilities">Tools & Utilities</summary><li><a href="#tools-and-utilities-accessibility">Accessibility</a></li><li><a href="#tools-and-utilities-analytics">Analytics</a></li><li><a href="#tools-and-utilities-api-building">API Building</a></li><li><a href="#tools-and-utilities-browsers-and-extensions">Browsers & Extensions</a></li><li><a href="#tools-and-utilities-command-line">Command Line</a></li><li><a href="#tools-and-utilities-domains">Domains</a></li><li><a href="#tools-and-utilities-editors-and-extensions">Editors & Extensions</a></li><li><a href="#tools-and-utilities-general">General</a></li><li><a href="#tools-and-utilities-image-and-video-editing">Image & Video Editing</a></li><li><a href="#tools-and-utilities-performance">Performance</a></li><li><a href="#tools-and-utilities-seo">SEO</a></li><li><a href="#tools-and-utilities-typing">Typing</a></li><li><a href="#tools-and-utilities-web-scraping">Web Scraping</a></li><li><a href="#tools-and-utilities-website-builders">Website Builders</a></li><li><a href="#tools-and-utilities-writing">Writing</a></li></details><details><summary id="ui-design">UI Design</summary><li><a href="#ui-design-color">Color</a></li><li><a href="#ui-design-inspiration">Inspiration</a></li><li><a href="#ui-design-learn">Learn</a></li><li><a href="#ui-design-prototyping">Prototyping</a></li><li><a href="#ui-design-utilities">Utilities</a></li><li><a href="#ui-design-youtube-channels">YouTube Channels</a></li></details> 
+## Index
 
+<details><summary id="assets">Assets</summary><li><a href="#assets-audio">Audio</a></li><li><a href="#assets-fonts">Fonts</a></li><li><a href="#assets-icons">Icons</a></li><li><a href="#assets-illustrations">Illustrations</a></li><li><a href="#assets-images">Images</a></li><li><a href="#assets-logos">Logos</a></li><li><a href="#assets-videos">Videos</a></li></details><details><summary id="community">Community</summary><li><a href="#community-blogs-and-forums">Blogs & Forums</a></li><li><a href="#community-hacktoberfest">Hacktoberfest</a></li><li><a href="#community-personal-websites">Personal Websites</a></li></details><details><summary id="indie-hacking">Indie Hacking</summary><li><a href="#indie-hacking-books">Books</a></li><li><a href="#indie-hacking-marketing">Marketing</a></li><li><a href="#indie-hacking-platforms">Platforms</a></li><li><a href="#indie-hacking-podcasts">Podcasts</a></li><li><a href="#indie-hacking-utilities">Utilities</a></li></details><details><summary id="infrastructure">Infrastructure</summary><li><a href="#infrastructure-auth">Auth</a></li><li><a href="#infrastructure-cloud-computing">Cloud Computing</a></li><li><a href="#infrastructure-databases">Databases</a></li><li><a href="#infrastructure-hosting">Hosting</a></li><li><a href="#infrastructure-serverless">Serverless</a></li></details><details><summary id="jobs">Jobs</summary><li><a href="#jobs-boards">Boards</a></li><li><a href="#jobs-freelancing">Freelancing</a></li><li><a href="#jobs-interviews">Interviews</a></li><li><a href="#jobs-remote-only">Remote Only</a></li><li><a href="#jobs-resume-builders">Resume Builders</a></li></details><details><summary id="programming">Programming</summary><li><a href="#programming-books">Books</a></li><li><a href="#programming-charts">Charts</a></li><li><a href="#programming-code-challenges">Code Challenges</a></li><li><a href="#programming-code-generators">Code Generators</a></li><li><a href="#programming-code-snippets">Code Snippets</a></li><li><a href="#programming-docs-and-cheatsheets">Docs & Cheatsheets</a></li><details><summary id="programming-javascript">JavaScript</summary><li><a href="#programming-javascript-react">React</a></li><li><a href="#programming-javascript-tooling">Tooling</a></li><li><a href="#programming-javascript-utilities">Utilities</a></li></details><li><a href="#programming-learn">Learn</a></li><li><a href="#programming-newsletters">Newsletters</a></li><li><a href="#programming-podcasts">Podcasts</a></li><li><a href="#programming-templates">Templates</a></li><li><a href="#programming-testing">Testing</a></li><li><a href="#programming-ui-kits-and-libraries">UI Kits & Libraries</a></li><li><a href="#programming-youtube-channels">YouTube Channels</a></li></details><details><summary id="public-apis">Public APIs</summary><li><a href="#public-apis-all">All</a></li><li><a href="#public-apis-animals">Animals</a></li><li><a href="#public-apis-anime">Anime</a></li><li><a href="#public-apis-anti-malware">Anti-Malware</a></li><li><a href="#public-apis-art-and-design">Art & Design</a></li><li><a href="#public-apis-authentication-and-authorization">Authentication & Authorization</a></li><li><a href="#public-apis-blockchain">Blockchain</a></li><li><a href="#public-apis-books">Books</a></li><li><a href="#public-apis-business">Business</a></li><li><a href="#public-apis-calendar">Calendar</a></li><li><a href="#public-apis-cloud-storage-and-file-sharing">Cloud Storage & File Sharing</a></li><li><a href="#public-apis-continuous-integration">Continuous Integration</a></li><li><a href="#public-apis-cryptocurrency">Cryptocurrency</a></li><li><a href="#public-apis-currency-exchange">Currency Exchange</a></li><li><a href="#public-apis-data-validation">Data Validation</a></li><li><a href="#public-apis-development">Development</a></li><li><a href="#public-apis-dictionaries">Dictionaries</a></li><li><a href="#public-apis-documents-and-productivity">Documents & Productivity</a></li><li><a href="#public-apis-email">Email</a></li><li><a href="#public-apis-entertainment">Entertainment</a></li><li><a href="#public-apis-environment">Environment</a></li><li><a href="#public-apis-events">Events</a></li><li><a href="#public-apis-finance">Finance</a></li><li><a href="#public-apis-food-and-drink">Food & Drink</a></li><li><a href="#public-apis-games-and-comics">Games & Comics</a></li><li><a href="#public-apis-geocoding">Geocoding</a></li><li><a href="#public-apis-government">Government</a></li><li><a href="#public-apis-health">Health</a></li><li><a href="#public-apis-jobs">Jobs</a></li><li><a href="#public-apis-machine-learning">Machine Learning</a></li><li><a href="#public-apis-music">Music</a></li><li><a href="#public-apis-news">News</a></li><li><a href="#public-apis-open-data">Open Data</a></li><li><a href="#public-apis-open-source-projects">Open Source Projects</a></li><li><a href="#public-apis-patent">Patent</a></li><li><a href="#public-apis-personality">Personality</a></li><li><a href="#public-apis-phone">Phone</a></li><li><a href="#public-apis-photography">Photography</a></li><li><a href="#public-apis-programming">Programming</a></li><li><a href="#public-apis-science-and-math">Science & Math</a></li><li><a href="#public-apis-security">Security</a></li><li><a href="#public-apis-shopping">Shopping</a></li><li><a href="#public-apis-social">Social</a></li><li><a href="#public-apis-sports-and-fitness">Sports & Fitness</a></li><li><a href="#public-apis-test-data">Test Data</a></li><li><a href="#public-apis-text-analysis">Text Analysis</a></li><li><a href="#public-apis-tracking">Tracking</a></li><li><a href="#public-apis-transportation">Transportation</a></li><li><a href="#public-apis-url-shorteners">URL Shorteners</a></li><li><a href="#public-apis-vehicle">Vehicle</a></li><li><a href="#public-apis-video">Video</a></li><li><a href="#public-apis-weather">Weather</a></li></details><details><summary id="tools-and-utilities">Tools & Utilities</summary><li><a href="#tools-and-utilities-accessibility">Accessibility</a></li><li><a href="#tools-and-utilities-analytics">Analytics</a></li><li><a href="#tools-and-utilities-api-building">API Building</a></li><li><a href="#tools-and-utilities-browsers-and-extensions">Browsers & Extensions</a></li><li><a href="#tools-and-utilities-command-line">Command Line</a></li><li><a href="#tools-and-utilities-domains">Domains</a></li><li><a href="#tools-and-utilities-editors-and-extensions">Editors & Extensions</a></li><li><a href="#tools-and-utilities-general">General</a></li><li><a href="#tools-and-utilities-image-and-video-editing">Image & Video Editing</a></li><li><a href="#tools-and-utilities-performance">Performance</a></li><li><a href="#tools-and-utilities-seo">SEO</a></li><li><a href="#tools-and-utilities-typing">Typing</a></li><li><a href="#tools-and-utilities-web-scraping">Web Scraping</a></li><li><a href="#tools-and-utilities-website-builders">Website Builders</a></li><li><a href="#tools-and-utilities-writing">Writing</a></li></details><details><summary id="ui-design">UI Design</summary><li><a href="#ui-design-color">Color</a></li><li><a href="#ui-design-inspiration">Inspiration</a></li><li><a href="#ui-design-learn">Learn</a></li><li><a href="#ui-design-prototyping">Prototyping</a></li><li><a href="#ui-design-utilities">Utilities</a></li><li><a href="#ui-design-youtube-channels">YouTube Channels</a></li></details>
 
-## <a name="assets">Assets</a> 
+## <a name="assets">Assets</a>
 
 ### <a name="audio"><a name="assets-audio">Audio</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://logos-download.com/wp-content/uploads/2020/06/Icons8_Logo.png" width="16" /> | Icons8 | Download design elements for free: icons, photos, vector illustrations, and music for your videos. | [Website](https://icons8.com) |  |
@@ -16,6 +17,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="fonts"><a name="assets-fonts">Fonts</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://st.1001fonts.net/img/1001fonts-logo.svg" width="16" /> | 1001 Fonts | 24,262 free fonts in 13,112 families · Free licenses for commercial use · Direct font downloads · Mac · Windows · Linux. | [Website](https://www.1001fonts.com/) |  |
@@ -36,6 +38,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="icons"><a name="assets-icons">Icons</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://getbootstrap.com/docs/5.0/assets/img/favicons/favicon-32x32.png" width="16" /> | Bootstrap | Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and JavaScript-based design templates for typography, forms, buttons,... | [Website](https://getbootstrap.com/) |  |
@@ -78,6 +81,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="illustrations"><a name="assets-illustrations">Illustrations</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://www.artify.co/images/landing/favicon.png" width="16" /> | Artify | Artify is an online and easy-to-use design editor that features thousands of customizable illustrations and template packs. | [Website](https://www.artify.co/)<br />[Facebook](https://www.facebook.com/ArtifyCrew)<br />[Instagram](https://www.instagram.com/ArtifyCrew/)<br />[Twitter](https://twitter.com/ArtifyCrew) |  |
@@ -110,6 +114,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="images"><a name="assets-images">Images</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://compressor.io/favicon.ico" width="16" /> | Compressor | Optimize and compress your jpeg and png images online. Compressor is a lossy and lossless photo compression tool. | [Website](https://compressor.io/) |  |
@@ -135,6 +140,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="logos"><a name="assets-logos">Logos</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://www.artify.co/images/landing/favicon.png" width="16" /> | Artify | Artify is an online and easy-to-use design editor that features thousands of customizable illustrations and template packs. | [Website](https://www.artify.co/)<br />[Facebook](https://www.facebook.com/ArtifyCrew)<br />[Instagram](https://www.instagram.com/ArtifyCrew/)<br />[Twitter](https://twitter.com/ArtifyCrew) |  |
@@ -148,6 +154,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="videos"><a name="assets-videos">Videos</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://biteable.com/favicon.ico" width="16" /> | Biteable | Make standout videos in a snap with the Biteable video maker. Sparkle with studio-quality animation, footage, and effects. Start now, share in minutes. | [Website](https://biteable.com/) |  |
@@ -159,9 +166,11 @@
  <img src="https://www.unscreen.com/favicon-96x96.png" width="16" /> | Unscreen | Remove the background of any video - 100% automatically, online & free! Goodbye Greenscreen. Hello Unscreen. | [Website](https://www.unscreen.com/) |  |
 
 **[⬆ Back to Index](#index)**
-## <a name="community">Community</a> 
+
+## <a name="community">Community</a>
 
 ### <a name="blogs-and-forums"><a name="community-blogs-and-forums">Blogs & Forums</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://codeconia.com/wp-content/uploads/2020/11/cropped-favicon-32x32.png" width="16" /> | Codeconia | Learn programming with Codeconia. | [Website](https://codeconia.com/) |  |
@@ -182,6 +191,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="hacktoberfest"><a name="community-hacktoberfest">Hacktoberfest</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://github.githubassets.com/apple-touch-icon-114x114.png" width="16" /> | Awesome for Beginners | A list of awesome beginners-friendly projects. Contribute to MunGell/awesome-for-beginners development by creating an account on GitHub. | [GitHub](https://github.com/mungell/awesome-for-beginners) |  |
@@ -197,6 +207,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="personal-websites"><a name="community-personal-websites">Personal Websites</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://www.kevinpowell.co/favicon.ico" width="16" /> | Kevin Powell | Helping you learn how to make the web, and make it look good while you're at it. With videos every Tuesday and Thursday, I'll be bringing you How Tos and Tutorials, as well as simple tips and tricks, ... | [Website](https://www.kevinpowell.co/)<br />[CodePen](https://codepen.io/kevinpowell/)<br />[Discord](https://discord.gg/GaBdxcE)<br />[GitHub](https://github.com/kevin-powell)<br />[Twitch](https://twitch.com/kevinpowellcss)<br />[Twitter](https://twitter.com/kevinJPowell)<br />[YouTube](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw) |  |
@@ -206,9 +217,11 @@
  <img src="https://assets.grooveapps.com/images/5f3e7d217cadae003769b3fd/1646060069_rickblythhalftonestransparent.png" width="16" /> | Rick Blyth | Rick Blyth is a Micro SaaS Founder who shares tips on getting started with Micro SaaS, Passive Income, Quit Your Job and Chrome Extensions. Home of the free 12 chapter Micro SaaS Handbook. | [Website](https://rickblyth.com/)<br />[Facebook](https://www.facebook.com/rickblythmicrosaas)<br />[Twitter](https://twitter.com/rick_blyth)<br />[YouTube](https://www.youtube.com/channel/UC_K6le9py40qyCLp_8FdOQQ) |  |
 
 **[⬆ Back to Index](#index)**
-## <a name="indie-hacking">Indie Hacking</a> 
+
+## <a name="indie-hacking">Indie Hacking</a>
 
 ### <a name="books"><a name="indie-hacking-books">Books</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://gumroad.com/favicon.ico" width="16" /> | Landing Page Hot Tips | The Landing Page Hot Tips Ebook features 100 digestible lessons to implement into your Landing Pages. Each tip features a few paragraphs, visual references and related resources. Additional features i... | [Gumroad](https://gumroad.com/a/124908659) |  |
@@ -218,6 +231,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="marketing"><a name="indie-hacking-marketing">Marketing</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://getcommunitylist.com/assets/images/favicon.png?v=1961bf32" width="16" /> | Community List | Finding relevant communities takes hours and manual googling sucks. With Community List, quickly find relevant communities with all the data you need in one place. | [Website](https://getcommunitylist.com/) |  |
@@ -232,6 +246,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="platforms"><a name="indie-hacking-platforms">Platforms</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://betalist.com/assets/favicon-618a2bdd0eda7c547f0488b2f97ebc773a50db4351f7ba222f8f1f864e301895.png" width="16" /> | BetaList | BetaList provides an overview of upcoming internet startups. Discover and get early access to the future. | [Website](https://betalist.com/)<br />[Twitter](https://twitter.com/BetaList) |  |
@@ -243,6 +258,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="podcasts"><a name="indie-hacking-podcasts">Podcasts</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://bootstrapped.fm/icon.png" width="16" /> | Bootstrapped | Listen to 100+ helpful podcast episodes for software bootstrappers. Interviews with experts, open discussions between bootstrappers, and solo episodes, with one person digging deeply into a topic. | [Website](https://bootstrapped.fm/) |  |
@@ -260,6 +276,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="utilities"><a name="indie-hacking-utilities">Utilities</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://airtable.com/images/favicon/baymax/favicon-32x32.png" width="16" /> | Airtable | Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free. | [Website](https://airtable.com/) |  |
@@ -275,9 +292,11 @@
  <img src="https://uploads-ssl.webflow.com/5e9dc792e1210c2d5df7eba4/5eb80e9cf92b58597818939f_Webp.net-resizeimage%20(4).png" width="16" /> | SaaSFrame | Browse hundreds of SaaS marketing pages, product interfaces and email flows. Get inspired by the design and copywriting patterns used by top-class SaaS companies. | [Website](https://www.saasframe.io/) |  |
 
 **[⬆ Back to Index](#index)**
-## <a name="infrastructure">Infrastructure</a> 
+
+## <a name="infrastructure">Infrastructure</a>
 
 ### <a name="auth"><a name="infrastructure-auth">Auth</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://clerk.dev/favicon/favicon-32x32.png" width="16" /> | Clerk.dev | Authentication and user management for developers that's simple, secure, and scalable with any platform or language. | [Website](https://clerk.dev) | react, next.js, auth,  user management, react auth, next.js auth, javascript auth |
@@ -287,6 +306,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="cloud-computing"><a name="infrastructure-cloud-computing">Cloud Computing</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://a0.awsstatic.com/libra-css/images/site/touch-icon-ipad-144-smile.png" width="16" /> | AWS | Amazon Web Services offers reliable, scalable, and  inexpensive cloud computing services. Free to join, pay only for what you use. | [Website](https://aws.amazon.com/) |  |
@@ -296,6 +316,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="databases"><a name="infrastructure-databases">Databases</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://airtable.com/images/favicon/baymax/favicon-32x32.png" width="16" /> | Airtable | Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free. | [Website](https://airtable.com/) |  |
@@ -315,6 +336,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="hosting"><a name="infrastructure-hosting">Hosting</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://a0.awsstatic.com/libra-css/images/site/touch-icon-ipad-144-smile.png" width="16" /> | AWS | Amazon Web Services offers reliable, scalable, and  inexpensive cloud computing services. Free to join, pay only for what you use. | [Website](https://aws.amazon.com/) |  |
@@ -335,6 +357,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="serverless"><a name="infrastructure-serverless">Serverless</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://airtable.com/images/favicon/baymax/favicon-32x32.png" width="16" /> | Airtable | Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free. | [Website](https://airtable.com/) |  |
@@ -345,9 +368,11 @@
  <img src="https://supabase.io/new/favicon/favicon-32x32.png" width="16" /> | Supabase | Create a backend in less than 2 minutes. Start your project with a Postgres Database, Authentication, instant APIs, and realtime subscriptions. | [Website](https://supabase.io/) |  |
 
 **[⬆ Back to Index](#index)**
-## <a name="jobs">Jobs</a> 
+
+## <a name="jobs">Jobs</a>
 
 ### <a name="boards"><a name="jobs-boards">Boards</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://4dayweek.io/static/media/favicon.png" width="16" /> | 4 day week | Software jobs with a better work / life balance. | [Website](https://4dayweek.io/) |  |
@@ -377,6 +402,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="freelancing"><a name="jobs-freelancing">Freelancing</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://99designs.com/touch-icon-ipad.png" width="16" /> | 99designs | The global creative platform for custom graphic design: logos, websites and more. Hire a talented designer or start a design contest. 500k+ happy customers have used 99designs to grow their business. | [Website](https://99designs.com/) | crowdsource, graphic design, design |
@@ -392,6 +418,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="interviews"><a name="jobs-interviews">Interviews</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://iq.js.org/favicon.ico" width="16" /> | JavaScript Interview Questions | Collection of questions that can help you improve your JavaScript knowledge and prepare to an interview. | [Website](https://iq.js.org/) |  |
@@ -402,6 +429,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="remote-only"><a name="jobs-remote-only">Remote Only</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://bergamot.io/favicon.ico" width="16" /> | Bergamot | Bergamot - Provides the widest selection of remote tech jobs by monitoring over 150,000 companies' career pages. Full-text search and AI-powered geo filter inside. Free, no sign-up required. | [Website](https://bergamot.io/) |  |
@@ -423,6 +451,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="resume-builders"><a name="jobs-resume-builders">Resume Builders</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://www.cakeresume.com/favicons/favicon-96x96.png" width="16" /> | CakeResume | Build an impressive resume and land that dream job. View online or download the PDF for FREE! CakeResume provides more than 50 resume templates and 1,000+ resume samples to help you make a professiona... | [Website](https://www.cakeresume.com/) |  |
@@ -438,9 +467,11 @@
  <img src="https://cdn-images.zety.com/images/zety/apple-touch-icon-76x76-precomposed.png" width="16" /> | Zety | Use this online resume maker to build your resume fast and easy. Get expert advice as you write. Download in minutes and start getting interviews. | [Website](https://zety.com/) |  |
 
 **[⬆ Back to Index](#index)**
-## <a name="programming">Programming</a> 
+
+## <a name="programming">Programming</a>
 
 ### <a name="books"><a name="programming-books">Books</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://eloquentjavascript.net/favicon.ico" width="16" /> | Eloquent JavaScript | This is a book about JavaScript, programming, and the wonders of the digital. | [Website](https://eloquentjavascript.net/) |  |
@@ -450,6 +481,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="charts"><a name="programming-charts">Charts</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://canvasjs.com/wp-content/uploads/images/favicon/canvasjs-favicon-16x16.png?v=1.1" width="16" /> | CanvasJs | HTML5 JavaScript Charts built on top of HTML5 Canvas Element. Renders across devices & is 10x faster than JavaScript Charting libraries based on SVG. | [Website](https://canvasjs.com/) |  |
@@ -460,7 +492,7 @@
  <img src="https://dygraphs.com/favicon.ico" width="16" /> | dygraphs | dygraphs is a fast, flexible open source JavaScript charting library. It allows users to explore and interpret dense data sets. | [Website](https://dygraphs.com/) |  |
  <img src="https://www.fusioncharts.com/public/favicon/favicon-32x32.png" width="16" /> | FusionCharts | JavaScript charts for web and mobile apps. 95+ chart types, 1400+ maps and 20+ business dashboards with pre-built themes for any business use-case. Build fast, responsive and highly customizable data ... | [Website](https://www.fusioncharts.com/) |  |
  <img src="https://www.highcharts.com/images/ico/favicon-96x96.png" width="16" /> | Highcharts | Highcharts - Interactive JavaScript charts for your web pages. | [Website](https://www.highcharts.com/) | highcharts, charts, javascript charts, ajax charts, plots, line charts, bar charts, pie charts, java... |
- <img src="https://morrisjs.github.io/morris.js/favicon.ico" width="16" /> | morris.js | Morris.js is the library that powers the graphs on http://howmanyleft.co.uk/. It's a very simple API for drawing line, bar, area and donut charts. | [Website](https://morrisjs.github.io/morris.js/) |  |
+ <img src="https://morrisjs.github.io/morris.js/favicon.ico" width="16" /> | morris.js | Morris.js is the library that powers the graphs on <http://howmanyleft.co.uk/>. It's a very simple API for drawing line, bar, area and donut charts. | [Website](https://morrisjs.github.io/morris.js/) |  |
  <img src="https://n3-charts.github.io/line-chart/assets/favicons/favicon-96x96.png" width="16" /> | n3-charts | Awesome charts for Angular. | [Website](https://n3-charts.github.io/line-chart/#/home) |  |
  <img src="http://plottablejs.org/favicon.ico" width="16" /> | Plottable | Flexible, interactive, performant charts for the web made easy. | [Website](http://plottablejs.org/) |  |
  <img src="http://sigmajs.org/assets/images/apple-touch-icon-72x72.png" width="16" /> | sigma.js | Sigma is a JavaScript library dedicated to graph drawing. It makes easy to publish networks on Web pages, and allows developers to integrate network exploration in rich Web applications. | [Website](http://sigmajs.org/) |  |
@@ -468,6 +500,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="code-challenges"><a name="programming-code-challenges">Code Challenges</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://www.codechef.com/misc/favicon.ico" width="16" /> | CodeChef | Learn competitive programming with the help of CodeChef's coding competitions. Take part in these online coding contests to level up your skills. | [Website](https://www.codechef.com/) | programming competition, programming contest, online programming, online computer programming |
@@ -487,6 +520,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="code-generators"><a name="programming-code-generators">Code Generators</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://bootify.io/apple-touch-icon.png" width="16" /> | Bootify | Generate Spring Boot prototypes in your browser - with custom database, REST API and best practices applied. | [Website](https://bootify.io/) |  |
@@ -496,6 +530,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="code-snippets"><a name="programming-code-snippets">Code Snippets</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://1loc.dev/assets/favicon.png" width="16" /> | 1LOC | Favorite JavaScript Utilities in single line of code! No more! | [Website](https://1loc.dev/) | JavaScript, JavaScript Utilities, one-liner, one-liner javascript |
@@ -520,6 +555,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="docs-and-cheatsheets"><a name="programming-docs-and-cheatsheets">Docs & Cheatsheets</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://themeselection.com/wp-content/uploads/2018/07/favicon.ico" width="16" /> | Bootstrap 5 Cheatsheet | An interactive list of Bootstrap 5 classes, variables, and mixins. It also helps you easily find the differences between Bootstrap 4 and Bootstrap 5. | [Website](https://bootstrap-cheatsheet.themeselection.com/) | Bootstrap, Bootstrap cheatsheet, Bootstrap 5, Free cheatsheet, Opensource |
@@ -535,9 +571,11 @@
  <img src="https://developer.mozilla.org/static/img/favicon72.cc65d1d762a0.png" width="16" /> | MDN Web Docs | The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps. It also has some developer-oriented documentation for ... | [Website](https://developer.mozilla.org/en-US/) |  |
 
 **[⬆ Back to Index](#index)**
-## <a name="javascript"><a name="programming-javascript">JavaScript</a></a> 
+
+## <a name="javascript"><a name="programming-javascript">JavaScript</a></a>
 
 ### <a name="react"><a name="programming-javascript-react">React</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://www.gatsbyjs.com/icons/icon-96x96.png?v=3ad5294f3fa6c06e2d07ab07c76df2cf" width="16" /> | Gatsby | Gatsby is a React-based open source framework with performance, scalability and security built-in. Collaborate, build and deploy 1000x faster with Gatsby Cloud. | [Website](https://www.gatsbyjs.com/) | gatsby, javascript, react, graphql, fast |
@@ -550,6 +588,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="tooling"><a name="programming-javascript-tooling">Tooling</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://rome.tools/img/pinned-rome-logo.svg" width="16" /> | Rome | Rome is a linter, compiler, bundler, and more for JavaScript, TypeScript, JSON, HTML, Markdown, and CSS. | [Website](https://rome.tools/) |  |
@@ -557,6 +596,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="utilities"><a name="programming-javascript-utilities">Utilities</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://1loc.dev/assets/favicon.png" width="16" /> | 1LOC | Favorite JavaScript Utilities in single line of code! No more! | [Website](https://1loc.dev/) | JavaScript, JavaScript Utilities, one-liner, one-liner javascript |
@@ -564,6 +604,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="learn"><a name="programming-learn">Learn</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://github.githubassets.com/apple-touch-icon-114x114.png" width="16" /> | Awesome Courses | List of awesome university courses for learning Computer Science. | [GitHub](https://github.com/prakhar1989/awesome-courses) |  |
@@ -614,7 +655,7 @@
  <img src="https://testautomationu.applitools.com/TAU-Green.png" width="16" /> | Test Automation University | Become a test automation superstar! 🌟. | [Website](https://testautomationu.applitools.com/) |  |
  <img src="https://testingjavascript.com/icons/icon-96x96.png?v=7f31b6d20f32956d41d48e0891d645c4" width="16" /> | Testing JavaScript | This course will teach you the fundamentals of testing your JavaScript applications using ESlint, TypeScript, Jest, and Cypress. | [Website](https://testingjavascript.com/) |  |
  <img src="https://www.thenetninja.co.uk/favicon.ico" width="16" /> | The Net Ninja | Black-belt your web skills. Learn JavaScript, CSS, Node.js, React, Vue.js, Firebase, HTML & more. | [Website](https://www.thenetninja.co.uk/)<br />[YouTube](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) | html css javascript tutorials "web design" "web development" development "front-end development" wor... |
- <img src="https://thisthat.dev/assets/favicon.png" width="16" /> | This VS That | What is the difference between ___ and ___ in the front-end development? | [Website](https://thisthat.dev/) | CSS, DOM, HTML, JavaScript, React, TypeScript |
+ <img src="https://thisthat.dev/assets/favicon.png" width="16" /> | This VS That | What is the difference between ___and___ in the front-end development? | [Website](https://thisthat.dev/) | CSS, DOM, HTML, JavaScript, React, TypeScript |
  <img src="https://static.teamtreehouse.com/assets/apple-touch-icon-76x76-precomposed-7283cd247847d1f21be0e79c52e3524c89adabf69cfc331046319f4ab19be058.png" width="16" /> | Treehouse | High-quality, affordable video courses for coding and design. Build a website, learn a new coding language, and more. | [Website](https://teamtreehouse.com/) |  |
  <img src="https://www.udemy.com/staticx/udemy/images/v6/favicon-96x96.png" width="16" /> | Udemy | Udemy is an online learning and teaching marketplace with over 130,000 courses and 35 million students. Learn programming, marketing, data science and more. | [Website](https://www.udemy.com/) |  |
  <img src="https://ui.dev/icons/icon-96x96.png?v=bafaaa088cd219915cf56ed1d1dff86a" width="16" /> | ui.dev | Comprehensive learning resources for mastering the JavaScript ecosystem. | [Website](https://ui.dev/) |  |
@@ -623,6 +664,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="newsletters"><a name="programming-newsletters">Newsletters</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://a11yweekly.com/favicon.ico" width="16" /> | A11yWeekly | A weekly dose of web accessibility to help you bring it into your every day work. | [Website](https://a11yweekly.com/) |  |
@@ -642,6 +684,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="podcasts"><a name="programming-podcasts">Podcasts</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="http://codewinds.com/assets/favicon-64.png" width="16" /> | Code Winds | CodeWinds - Leading edge live and online developer training - in-person, public or private classes, webinars, video courses, resources, tutorials for fullstack web developers. Featuring javascript, Re... | [Website](http://codewinds.com/podcast.html) | web, developer, training, fullstack, live classes, private classes, custom classes, webinars, screen... |
@@ -672,6 +715,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="templates"><a name="programming-templates">Templates</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://github.com/favicon.ico" width="16" /> | Berry Free React Material Admin Template | Berry is a creative free react admin template build using the Material-UI. It is meant to be the best User Experience with highly customizable feature-riched pages. It is a complete game-changer React... | [GitHub](https://github.com/codedthemes/berry-free-react-admin-template/) |  |
@@ -709,6 +753,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="testing"><a name="programming-testing">Testing</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://www.browserling.com/favicon.ico" width="16" /> | Browserling | Try for free now! Cross browser test your website immediately in all web browsers - Internet Explorer, Edge, Chrome, Safari, Firefox, and Opera. | [Website](https://www.browserling.com/) |  |
@@ -729,6 +774,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="ui-kits-and-libraries"><a name="programming-ui-kits-and-libraries">UI Kits & Libraries</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://getbootstrap.com/docs/5.0/assets/img/favicons/favicon-32x32.png" width="16" /> | Bootstrap | Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and JavaScript-based design templates for typography, forms, buttons,... | [Website](https://getbootstrap.com/) |  |
@@ -758,6 +804,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="youtube-channels"><a name="programming-youtube-channels">YouTube Channels</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png" width="16" /> | Adrian Twarog | I'm Adrian from Australia, a designer and developer who makes websites and apps using platforms like React Native. I'm hoping to share some of the things I've learnt over the years about my career and... | [YouTube](https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ) | HTML CSS JS UI UX WordPress "React Native" "User Interface Design" Website JavaScript "Graphics desi... |
@@ -775,7 +822,7 @@
  <img src="https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png" width="16" /> | Google Developers | The Google Developers channel features talks from events, educational series, best practices, tips, and the latest updates across our products and platforms. | [YouTube](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw) | "google developers" developers "Google developers videos" "google developer tutorials" "developer tu... |
  <img src="https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png" width="16" /> | Kent C. Dodds | Hi, I'm Kent C. Dodds. I help people make the world better through quality software. | [YouTube](https://www.youtube.com/user/kentdoddsfamily) | JavaScript Programming |
  <img src="https://www.kevinpowell.co/favicon.ico" width="16" /> | Kevin Powell | Helping you learn how to make the web, and make it look good while you're at it. With videos every Tuesday and Thursday, I'll be bringing you How Tos and Tutorials, as well as simple tips and tricks, ... | [Website](https://www.kevinpowell.co/)<br />[CodePen](https://codepen.io/kevinpowell/)<br />[Discord](https://discord.gg/GaBdxcE)<br />[GitHub](https://github.com/kevin-powell)<br />[Twitch](https://twitch.com/kevinpowellcss)<br />[Twitter](https://twitter.com/kevinJPowell)<br />[YouTube](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw) |  |
- <img src="https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png" width="16" /> | keyframers | An animated, collaborative coding live stream by David Khourshid (@davidkpiano) & Stephen Shaw (@shshaw). We bring imaginative user interfaces to life every Monday @ 17:00 EST/21:00 GMT at https://twi... | [YouTube](https://www.youtube.com/channel/UCtmYk7H-NNYLEe_LgBRYomA) | code "live stream" css html javascript animation |
+ <img src="https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png" width="16" /> | keyframers | An animated, collaborative coding live stream by David Khourshid (@davidkpiano) & Stephen Shaw (@shshaw). We bring imaginative user interfaces to life every Monday @ 17:00 EST/21:00 GMT at <https://twi>... | [YouTube](https://www.youtube.com/channel/UCtmYk7H-NNYLEe_LgBRYomA) | code "live stream" css html javascript animation |
  <img src="https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png" width="16" /> | LearnCode.academy | 100% FREE Web Development tutorials, web site design tutorials and more. Including, but not limited to: HTML, CSS, JavaScript, CSS Layouts, Responsive Design, React.js, Node.js, Angular.js, Docker, De... | [YouTube](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw) | "web development" "web design" tutorials web development tutorial learn html css javascript |
  <img src="https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png" width="16" /> | LevelUpTuts | TLDR; 840+ free video tutorials created, recorded, edited, published and maintained by Scott Tolinski. The Story: Level Up Tutorials was created in March of 2012 by Scott Tolinski & Ben Schaaf while w... | [YouTube](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg) | meteor angularjs angular drupal wordpress expression engine sass compass css cms drupal7 tutorials e... |
  <img src="https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png" width="16" /> | MIT OpenCourseWare | Whether you’re a student, a teacher, or simply a curious person that wants to learn, MIT OpenCourseWare (OCW) offers a wealth of insight and inspiration. There are videos, and a whole lot more! | [Website](https://ocw.mit.edu)<br />[YouTube](https://www.youtube.com/user/mit) | MIT OpenCourseWare Free Courses Computer Science Academics Univesity Courses |
@@ -787,9 +834,11 @@
  <img src="https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png" width="16" /> | Wes Bos | HTML, CSS, JavaScript and WordPress web development tutorials! | [YouTube](https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA) | JavaScript jQuery HTML5 CSS3 development web design css php wordpress |
 
 **[⬆ Back to Index](#index)**
-## <a name="public-apis">Public APIs</a> 
+
+## <a name="public-apis">Public APIs</a>
 
 ### <a name="all"><a name="public-apis-all">All</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | 0x | API for querying token and pool stats across various liquidity pools | [Website](https://0x.org/api) |  |
@@ -2214,6 +2263,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="animals"><a name="public-apis-animals">Animals</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | AdoptAPet | Resource to help get pets adopted | [Website](https://www.adoptapet.com/public/apis/pet_list.html) |  |
@@ -2247,6 +2297,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="anime"><a name="public-apis-anime">Anime</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | AniAPI | Anime discovery, streaming & syncing with trackers | [Website](https://aniapi.com/docs/) |  |
@@ -2272,6 +2323,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="anti-malware"><a name="public-apis-anti-malware">Anti-Malware</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | AbuseIPDB | IP/domain/URL reputation | [Website](https://docs.abuseipdb.com/) |  |
@@ -2293,6 +2345,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="art-and-design"><a name="public-apis-art-and-design">Art & Design</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | Améthyste | Generate images for Discord users | [Website](https://api.amethyste.moe/) |  |
@@ -2319,6 +2372,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="authentication-and-authorization"><a name="public-apis-authentication-and-authorization">Authentication & Authorization</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | Auth0 | Easy to implement, adaptable authentication and authorization platform | [Website](https://auth0.com) |  |
@@ -2332,6 +2386,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="blockchain"><a name="public-apis-blockchain">Blockchain</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | Bitquery | Onchain GraphQL APIs & DEX APIs | [Website](https://graphql.bitquery.io/ide) |  |
@@ -2349,6 +2404,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="books"><a name="public-apis-books">Books</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | A Bíblia Digital | Do not worry about managing the multiple versions of the Bible | [Website](https://www.abibliadigital.com.br/en) |  |
@@ -2378,6 +2434,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="business"><a name="public-apis-business">Business</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | Apache Superset | API to manage your BI dashboards and data sources on Superset | [Website](https://superset.apache.org/docs/api) |  |
@@ -2407,6 +2464,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="calendar"><a name="public-apis-calendar">Calendar</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | Abstract Public Holidays | Data on national, regional, and religious holidays via API | [Website](https://www.abstractapi.com/holidays-api) |  |
@@ -2428,6 +2486,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="cloud-storage-and-file-sharing"><a name="public-apis-cloud-storage-and-file-sharing">Cloud Storage & File Sharing</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | AnonFiles | Upload and share your files anonymously | [Website](https://anonfiles.com/docs/api) |  |
@@ -2452,6 +2511,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="continuous-integration"><a name="public-apis-continuous-integration">Continuous Integration</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | Azure DevOps Health | Resource health helps you diagnose and get support when an Azure issue impacts your resources | [Website](https://docs.microsoft.com/en-us/rest/api/resourcehealth) |  |
@@ -2464,6 +2524,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="cryptocurrency"><a name="public-apis-cryptocurrency">Cryptocurrency</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | 0x | API for querying token and pool stats across various liquidity pools | [Website](https://0x.org/api) |  |
@@ -2534,6 +2595,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="currency-exchange"><a name="public-apis-currency-exchange">Currency Exchange</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | 1Forge | Forex currency market data | [Website](https://1forge.com/forex-data-api/api-documentation) |  |
@@ -2557,6 +2619,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="data-validation"><a name="public-apis-data-validation">Data Validation</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | Lob.com | US Address Verification | [Website](https://lob.com/) |  |
@@ -2570,6 +2633,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="development"><a name="public-apis-development">Development</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | 24 Pull Requests | Project to promote open source collaboration during December | [Website](https://24pullrequests.com/api) |  |
@@ -2696,6 +2760,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="dictionaries"><a name="public-apis-dictionaries">Dictionaries</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | Chinese Character Web | Chinese character definitions and pronunciations | [Website](http://ccdb.hemiola.com/) |  |
@@ -2715,6 +2780,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="documents-and-productivity"><a name="public-apis-documents-and-productivity">Documents & Productivity</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | Airtable | Integrate with Airtable | [Website](https://airtable.com/api) |  |
@@ -2748,6 +2814,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="email"><a name="public-apis-email">Email</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | Abstract Email Validation | Validate email addresses for deliverability and spam | [Website](https://www.abstractapi.com/email-verification-validation-api) |  |
@@ -2771,6 +2838,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="entertainment"><a name="public-apis-entertainment">Entertainment</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | chucknorris.io | JSON API for hand curated Chuck Norris jokes | [Website](https://api.chucknorris.io) |  |
@@ -2787,6 +2855,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="environment"><a name="public-apis-environment">Environment</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | BreezoMeter Pollen | Daily Forecast pollen conditions data for a specific location | [Website](https://docs.breezometer.com/api-documentation/pollen-api/v2/) |  |
@@ -2810,6 +2879,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="events"><a name="public-apis-events">Events</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | Eventbrite | Find events | [Website](https://www.eventbrite.com/platform/api/) |  |
@@ -2819,6 +2889,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="finance"><a name="public-apis-finance">Finance</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | Abstract VAT Validation | Validate VAT numbers and calculate VAT rates | [Website](https://www.abstractapi.com/vat-validation-rates-api) |  |
@@ -2868,6 +2939,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="food-and-drink"><a name="public-apis-food-and-drink">Food & Drink</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | BaconMockup | Resizable bacon placeholder images | [Website](https://baconmockup.com/) |  |
@@ -2898,6 +2970,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="games-and-comics"><a name="public-apis-games-and-comics">Games & Comics</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | Age of Empires II | Get information about Age of Empires II resources | [Website](https://age-of-empires-2-api.herokuapp.com) |  |
@@ -3000,6 +3073,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="geocoding"><a name="public-apis-geocoding">Geocoding</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | Abstract IP Geolocation | Geolocate website visitors from their IPs | [Website](https://www.abstractapi.com/ip-geolocation-api) |  |
@@ -3091,6 +3165,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="government"><a name="public-apis-government">Government</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | Bank Negara Malaysia Open Data | Malaysia Central Bank Open Data | [Website](https://apikijangportal.bnm.gov.my/) |  |
@@ -3182,6 +3257,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="health"><a name="public-apis-health">Health</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | CMS.gov | Access to the data from the CMS - medicare.gov | [Website](https://data.cms.gov/provider-data/) |  |
@@ -3220,6 +3296,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="jobs"><a name="public-apis-jobs">Jobs</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | Adzuna | Job board aggregator | [Website](https://developer.adzuna.com/overview) |  |
@@ -3243,6 +3320,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="machine-learning"><a name="public-apis-machine-learning">Machine Learning</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | AI For Thai | Free Various Thai AI API | [Website](https://aiforthai.in.th/index.php) |  |
@@ -3271,6 +3349,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="music"><a name="public-apis-music">Music</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | 7digital | Api of Music store 7digital | [Website](https://docs.7digital.com/reference) |  |
@@ -3310,6 +3389,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="news"><a name="public-apis-news">News</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | apilayer mediastack | Free, Simple REST API for Live News & Blog Articles | [Website](https://mediastack.com/) |  |
@@ -3335,6 +3415,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="open-data"><a name="public-apis-open-data">Open Data</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | 18F | Unofficial US Federal Government API Development | [Website](http://18f.github.io/API-All-the-X/) |  |
@@ -3376,6 +3457,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="open-source-projects"><a name="public-apis-open-source-projects">Open Source Projects</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | Countly | Countly web analytics | [Website](https://api.count.ly/reference) |  |
@@ -3391,6 +3473,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="patent"><a name="public-apis-patent">Patent</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | EPO | European patent search system api | [Website](https://developers.epo.org/) |  |
@@ -3401,6 +3484,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="personality"><a name="public-apis-personality">Personality</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | Advice Slip | Generate random advice slips | [Website](http://api.adviceslip.com/) |  |
@@ -3431,6 +3515,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="phone"><a name="public-apis-phone">Phone</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | Abstract Phone Validation | Validate phone numbers globally | [Website](https://www.abstractapi.com/phone-validation-api) |  |
@@ -3442,6 +3527,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="photography"><a name="public-apis-photography">Photography</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | apilayer screenshotlayer | URL 2 Image | [Website](https://screenshotlayer.com) |  |
@@ -3476,6 +3562,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="programming"><a name="public-apis-programming">Programming</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | Codeforces | Get access to Codeforces data | [Website](https://codeforces.com/apiHelp) |  |
@@ -3487,6 +3574,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="science-and-math"><a name="public-apis-science-and-math">Science & Math</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | arcsecond.io | Multiple astronomy data sources | [Website](https://api.arcsecond.io/) |  |
@@ -3526,6 +3614,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="security"><a name="public-apis-security">Security</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | Application Environment Verification | Android library and API to verify the safety of user devices, detect rooted devices and other risks | [Website](https://github.com/fingerprintjs/aev) |  |
@@ -3570,6 +3659,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="shopping"><a name="public-apis-shopping">Shopping</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | Best Buy | Products, Buying Options, Categories, Recommendations, Stores and Commerce | [Website](https://bestbuyapis.github.io/api-documentation/#overview) |  |
@@ -3590,6 +3680,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="social"><a name="public-apis-social">Social</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | 4chan | Simple image-based bulletin board dedicated to a variety of topics | [Website](https://github.com/4chan/4chan-API) |  |
@@ -3636,6 +3727,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="sports-and-fitness"><a name="public-apis-sports-and-fitness">Sports & Fitness</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | API-FOOTBALL | Get information about Football Leagues & Cups | [Website](https://www.api-football.com/documentation-v3) |  |
@@ -3675,6 +3767,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="test-data"><a name="public-apis-test-data">Test Data</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | Bacon Ipsum | A Meatier Lorem Ipsum Generator | [Website](https://baconipsum.com/json-api/) |  |
@@ -3706,6 +3799,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="text-analysis"><a name="public-apis-text-analysis">Text Analysis</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | apilayer languagelayer | Language Detection JSON API supporting 173 languages | [Website](https://languagelayer.com/) |  |
@@ -3725,6 +3819,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="tracking"><a name="public-apis-tracking">Tracking</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | Aftership | API to update, manage and track shipment efficiently | [Website](https://developers.aftership.com/reference/quick-start) |  |
@@ -3740,6 +3835,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="transportation"><a name="public-apis-transportation">Transportation</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | ADS-B Exchange | Access real-time and historical data of any and all airborne aircraft | [Website](https://www.adsbexchange.com/data/) |  |
@@ -3815,6 +3911,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="url-shorteners"><a name="public-apis-url-shorteners">URL Shorteners</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | 1pt | A simple URL shortener | [Website](https://github.com/1pt-co/api/blob/main/README.md) |  |
@@ -3839,6 +3936,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="vehicle"><a name="public-apis-vehicle">Vehicle</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | Brazilian Vehicles and Prices | Vehicles information from Fundação Instituto de Pesquisas Econômicas - Fipe | [Website](https://deividfortuna.github.io/fipe/) |  |
@@ -3851,6 +3949,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="video"><a name="public-apis-video">Video</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | An API of Ice And Fire | Game Of Thrones API | [Website](https://anapioficeandfire.com/) |  |
@@ -3901,6 +4000,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="weather"><a name="public-apis-weather">Weather</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | 7Timer! | Weather, especially for Astroweather | [Website](http://www.7timer.info/doc.php?lang=en) |  |
@@ -3936,9 +4036,11 @@
  &nbsp; | Yandex.Weather | Assesses weather condition in specific locations | [Website](https://yandex.com/dev/weather/) |  |
 
 **[⬆ Back to Index](#index)**
-## <a name="tools-and-utilities">Tools & Utilities</a> 
+
+## <a name="tools-and-utilities">Tools & Utilities</a>
 
 ### <a name="accessibility"><a name="tools-and-utilities-accessibility">Accessibility</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://accessibility.18f.gov/checklist/favicon.ico" width="16" /> | 18F Accessibility Guide | A simple checklist for determining if your site is accessible. | [Website](https://accessibility.18f.gov/checklist/) |  |
@@ -3964,6 +4066,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="analytics"><a name="tools-and-utilities-analytics">Analytics</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://beampipe.io/favicon-32x32.png" width="16" /> | beampipe | Beampipe is a simple, privacy-focussed alternative to Google Analytics with a free tier for small sites. | [Website](https://beampipe.io/) |  |
@@ -3980,6 +4083,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="api-building"><a name="tools-and-utilities-api-building">API Building</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://www.gstatic.com/devrel-devsite/prod/vbd4700e58d826f0eab371eadc20e0e343567df356800794a790eebf2ac059db2/cloud/images/favicons/onecloud/super_cloud.png" width="16" /> | Apigee | Apigee, part of Google Cloud, helps leading companies design, secure, and scale application programming interfaces (APIs). Try Apigee Edge for free. | [Website](https://cloud.google.com/apigee) |  |
@@ -3996,6 +4100,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="browsers-and-extensions"><a name="tools-and-utilities-browsers-and-extensions">Browsers & Extensions</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://angular.io/assets/images/favicons/favicon-96x96.png" width="16" /> | Angular DevTools | Angular DevTools extends Chrome DevTools adding Angular specific debugging and profiling capabilities. You can use Angular DevTools to understand the structure of your application and preview the stat... | [Website](https://angular.io/guide/devtools) | dev tools, angular, profiler, profiling |
@@ -4032,6 +4137,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="command-line"><a name="tools-and-utilities-command-line">Command Line</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://cmdchallenge.com/favicon.ico" width="16" /> | cmd challenge | Learn the command line. | [Website](https://cmdchallenge.com/)<br />[Twitter](https://twitter.com/thecmdchallenge) |  |
@@ -4040,6 +4146,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="domains"><a name="tools-and-utilities-domains">Domains</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://domain.garden/favicon.ico" width="16" /> | domain.garden | Instantly search across 1000+ new domain name extensions. Generate clever names, compare registry prices, and list popular examples per TLD. | [Website](https://domain.garden/) |  |
@@ -4048,6 +4155,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="editors-and-extensions"><a name="tools-and-utilities-editors-and-extensions">Editors & Extensions</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://www.jetbrains.com/favicon-32x32.png" width="16" /> | AppCode | An intelligent IDE for iOS/macOS development focused on code quality, efficient code navigation, smart code completion, on-the-fly code analysis with quick-fixes and superior code refactorings. | [Website](https://www.jetbrains.com/objc/) |  |
@@ -4078,6 +4186,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="general"><a name="tools-and-utilities-general">General</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://appwrite.io/images/favicon.png" width="16" /> | Appwrite | Appwrite provides web and mobile developers with a set of easy-to-use and integrate REST APIs to manage their core backend needs. | [Website](https://appwrite.io/)<br />[Discord](https://appwrite.io/discord)<br />[Facebook](https://www.facebook.com/appwrite.io)<br />[GitHub](https://github.com/appwrite/appwrite)<br />[LinkedIn](https://www.linkedin.com/company/appwrite)<br />[Twitter](https://twitter.com/appwrite_io) |  |
@@ -4105,6 +4214,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="image-and-video-editing"><a name="tools-and-utilities-image-and-video-editing">Image & Video Editing</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://fakeimg.pl/favicon.ico" width="16" /> | Fake Img | A little tool that generates placeholder images with an URL. Choose the size, the colors, even the text.  | [Website](https://fakeimg.pl/) |  |
@@ -4114,6 +4224,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="performance"><a name="tools-and-utilities-performance">Performance</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://gtmetrix.com/favicon.ico" width="16" /> | GTmetrix | GTmetrix is a free tool that analyzes your page's speed performance.  Using PageSpeed and YSlow, GTmetrix generates scores for your pages and offers actionable recommendations on how to fix them. | [Website](https://gtmetrix.com/) |  |
@@ -4126,6 +4237,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="seo"><a name="tools-and-utilities-seo">SEO</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://static.ahrefs.com/favicon-32x32.png?v=2" width="16" /> | Ahrefs | You don't have to be an SEO pro to rank higher and get more traffic. Join Ahrefs – we're a powerful but easy to learn SEO toolset with a passionate community. | [Website](https://ahrefs.com/) |  |
@@ -4142,6 +4254,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="typing"><a name="tools-and-utilities-typing">Typing</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://10fastfingers.com/favicon.ico" width="16" /> | 10FastFingers | 10FastFingers is a website which offers users a way to test and improve their typing speed. Improve your Typing Speed with our Typing Games. | [Website](https://10fastfingers.com/) | typing, typing test, typing game, touch typing, fastest fingers, 10 fast fingers, typing competition |
@@ -4155,6 +4268,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="web-scraping"><a name="tools-and-utilities-web-scraping">Web Scraping</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://www.proxiesapi.com/assets/favicon.ico" width="16" /> | Proxies API | Want to send custom headers? Want to run sticky sessions with a single IP? Want to scrape AJAX based content? We have you covered. You can customise almost all this in a single line of code, no matter... | [Website](www.proxiesapi.com) |  |
@@ -4163,6 +4277,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="website-builders"><a name="tools-and-utilities-website-builders">Website Builders</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://www.dreamhost.com/assets/favicons/apple-touch-icon-76x76-18c4bd5a860942003494cecf3aa217b02285f57f5525c0e4985dcb77f0125d91.png" width="16" /> | DreamHost | What's better than WordPress? A Website and Page Builder for WordPress. Choose a theme, add content, images and more with ZERO code! | [Website](https://www.dreamhost.com/website-builder/) |  |
@@ -4180,6 +4295,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="writing"><a name="tools-and-utilities-writing">Writing</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://assets-global.website-files.com/5f4ec532319820f7c2ccd7a3/5f55620b7b806770e6becea2_32x32%20favico.png" width="16" /> | CopyAI | We have created the world's most advanced artificial intelligence copywriter that enables you to create marketing copy in seconds! | [Website](https://www.copy.ai/) |  |
@@ -4190,9 +4306,11 @@
  <img src="https://writtyapp.com/images/favicon.png" width="16" /> | Writty | A simple writing app and text editor to help you focus on what matters. | [Website](https://writtyapp.com/) | writing app, text editor, wysiwyg |
 
 **[⬆ Back to Index](#index)**
-## <a name="ui-design">UI Design</a> 
+
+## <a name="ui-design">UI Design</a>
 
 ### <a name="color"><a name="ui-design-color">Color</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://color.adobe.com/create/favicon.ico" width="16" /> | Adobe Color | Create color palettes with the color wheel or image, browse thousands of color combinations from the Adobe Color community. | [Website](https://color.adobe.com/create/color-wheel) |  |
@@ -4220,6 +4338,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="inspiration"><a name="ui-design-inspiration">Inspiration</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://www.awwwards.com/apple-touch-icon.png" width="16" /> | Awwwards | Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world. | [Website](https://www.awwwards.com/) | Website Awards, Web Design Inspiration, Webdesign Trends |
@@ -4251,6 +4370,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="learn"><a name="ui-design-learn">Learn</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://uploads-ssl.webflow.com/5f718e7b0d482ef36d2c8417/5f79490f65ebcb7fdfdd3826_favicon-256.png" width="16" /> | Enhance UI | Learn Design for Developers wanting to know UI, UX and more. | [Website](https://www.enhanceui.com/) |  |
@@ -4264,6 +4384,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="prototyping"><a name="ui-design-prototyping">Prototyping</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://www.adobe.com/content/dam/cc/Adobe_favicon.ico" width="16" /> | Adobe XD | Adobe XD is a fast & powerful UI/UX design solution for websites, apps & more. Design, wireframe, animate, prototype, collaborate & share  — all in one place. | [Website](https://www.adobe.com/products/xd.html) |  |
@@ -4278,6 +4399,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="utilities"><a name="ui-design-utilities">Utilities</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://animista.net/favicon.ico" width="16" /> | Animista | Animista is a place where you can play with a collection of ready to use CSS animations, tweak them and download only those you will actually use. | [Website](https://animista.net/) |  |
@@ -4289,6 +4411,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="youtube-channels"><a name="ui-design-youtube-channels">YouTube Channels</a></a>
+
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png" width="16" /> | DesignCourse | New videos weekly from Monday to Thursday @ 10:30 AM ET! Hi, I'm Gary. I've created close to 100 courses from graphic design to advanced frontend development. I've worked with Envato Network's TutsPlu... | [YouTube](https://www.youtube.com/user/DesignCourse) | "web design" "logo design" "illustrator tutorials" "website design" free ui ux "user experience desi... |

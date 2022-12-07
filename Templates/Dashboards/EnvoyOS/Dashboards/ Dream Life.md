@@ -33,15 +33,16 @@ background: radial-gradient(circle, rgba(242,225,1,0.6) 20%, rgba(231,128,14,0.6
 ---
 
 <div style="
-	 height: 50px;
-	 background: rgba(134, 140, 108);
-	 font-size: 24px;
-	 font-weight: 600;
-	 border-radius: 24px;
-	 padding-top: 8px;
-	 ">☁ What are you doing today to create your dream life?</div>
+  height: 50px;
+  background: rgba(134, 140, 108);
+  font-size: 24px;
+  font-weight: 600;
+  border-radius: 24px;
+  padding-top: 8px;
+  ">☁ What are you doing today to create your dream life?</div>
 
 ## In My Dream Life, I…
 
 - [ ] 1
+
 ---

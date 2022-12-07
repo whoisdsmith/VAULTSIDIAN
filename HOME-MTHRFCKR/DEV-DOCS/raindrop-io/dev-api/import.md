@@ -81,7 +81,6 @@ URL
 }
 ```
 
-
 {% endswagger-response %}
 {% endswagger %}
 
@@ -118,10 +117,9 @@ URL's
 
 {% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/import/file" method="post" summary="Parse HTML import file" %}
 {% swagger-description %}
-Convert HTML bookmark file to JSON. 
+Convert HTML bookmark file to JSON.
 
 \
-
 
 Support Nestcape, Pocket and Instapaper file formats
 {% endswagger-description %}
@@ -189,7 +187,6 @@ File
   ]
 }
 ```
-
 
 {% endswagger-response %}
 {% endswagger %}

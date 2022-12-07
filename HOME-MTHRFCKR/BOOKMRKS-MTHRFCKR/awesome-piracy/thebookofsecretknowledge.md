@@ -1,10 +1,8 @@
- [![Master](https://github.com/trimstray/the-book-of-secret-knowledge/raw/master/static/img/the-book-of-secret-knowledge-preview.png)](https://github.com/trimstray/the-book-of-secret-knowledge) 
+ [![Master](https://github.com/trimstray/the-book-of-secret-knowledge/raw/master/static/img/the-book-of-secret-knowledge-preview.png)](https://github.com/trimstray/the-book-of-secret-knowledge)
 
 "_Knowledge is powerful, be careful how you use it!_"
 
-#### A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
-
-
+#### A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more
 
 ___
 
@@ -16,30 +14,28 @@ This repository is a collection of various materials and tools that I use every 
 
 For everyone, really. Here everyone can find their favourite tastes. But to be perfectly honest, it is aimed towards System and Network administrators, DevOps, Pentesters, and Security Researchers.
 
-
 ## 📰  RSS Feed & Updates
 
 GitHub exposes an [RSS/Atom](https://github.com/trimstray/the-book-of-secret-knowledge/commits.atom) feed of the commits, which may also be useful if you want to be kept informed about all changes.
-
 
 ## 💢  Table of Contents
 
 Only main chapters:
 
--   **[CLI Tools](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#cli-tools-toc)**
--   **[GUI Tools](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#gui-tools-toc)**
--   **[Web Tools](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#web-tools-toc)**
--   **[Systems/Services](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#systemsservices-toc)**
--   **[Networks](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#networks-toc)**
--   **[Containers/Orchestration](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#containersorchestration-toc)**
--   **[Manuals/Howtos/Tutorials](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#manualshowtostutorials-toc)**
--   **[Inspiring Lists](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#inspiring-lists-toc)**
--   **[Blogs/Podcasts/Videos](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#blogspodcastsvideos-toc)**
--   **[Hacking/Penetration Testing](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#hackingpenetration-testing-toc)**
--   **[Your daily knowledge and news](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#your-daily-knowledge-and-news-toc)**
--   **[Other Cheat Sheets](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#other-cheat-sheets-toc)**
--   **[One-liners](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#one-liners-toc)**
--   **[Shell functions](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#shell-functions-toc)**
+- **[CLI Tools](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#cli-tools-toc)**
+- **[GUI Tools](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#gui-tools-toc)**
+- **[Web Tools](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#web-tools-toc)**
+- **[Systems/Services](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#systemsservices-toc)**
+- **[Networks](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#networks-toc)**
+- **[Containers/Orchestration](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#containersorchestration-toc)**
+- **[Manuals/Howtos/Tutorials](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#manualshowtostutorials-toc)**
+- **[Inspiring Lists](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#inspiring-lists-toc)**
+- **[Blogs/Podcasts/Videos](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#blogspodcastsvideos-toc)**
+- **[Hacking/Penetration Testing](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#hackingpenetration-testing-toc)**
+- **[Your daily knowledge and news](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#your-daily-knowledge-and-news-toc)**
+- **[Other Cheat Sheets](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#other-cheat-sheets-toc)**
+- **[One-liners](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#one-liners-toc)**
+- **[Shell functions](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#shell-functions-toc)**
 
 ## 🔱  The Book of Secret Knowledge (Chapters)
 
@@ -1405,25 +1401,25 @@ Upload a number of different file types, laced with different forms of payload.
 
 In Firefox's address bar, you can limit results by typing special characters before or after your term:
 
--   `^` - for matches in your browsing history
--   `*` - for matches in your bookmarks.
--   `%` - for matches in your currently open tabs.
--   `#` - for matches in page titles.
--   `@` - for matches in web addresses.
+- `^` - for matches in your browsing history
+- `*` - for matches in your bookmarks.
+- `%` - for matches in your currently open tabs.
+- `#` - for matches in page titles.
+- `@` - for matches in web addresses.
 
 ###### Chrome hidden commands
 
--   `chrome://chrome-urls` - list of all commands
--   `chrome://flags` - enable experiments and development features
--   `chrome://interstitials` - errors and warnings
--   `chrome://net-internals` - network internals (events, dns, cache)
--   `chrome://network-errors` - network errors
--   `chrome://net-export` - start logging future network activity to a file
--   `chrome://safe-browsing` - safe browsing options
--   `chrome://user-actions` - record all user actions
--   `chrome://restart` - restart chrome
--   `chrome://dino` - ERR\_INTERNET\_DISCONNECTED...
--   `cache:<website-address>` - view the cached version of the web page
+- `chrome://chrome-urls` - list of all commands
+- `chrome://flags` - enable experiments and development features
+- `chrome://interstitials` - errors and warnings
+- `chrome://net-internals` - network internals (events, dns, cache)
+- `chrome://network-errors` - network errors
+- `chrome://net-export` - start logging future network activity to a file
+- `chrome://safe-browsing` - safe browsing options
+- `chrome://user-actions` - record all user actions
+- `chrome://restart` - restart chrome
+- `chrome://dino` - ERR\_INTERNET\_DISCONNECTED...
+- `cache:<website-address>` - view the cached version of the web page
 
 ###### Bypass WAFs by Shortening IP Address (by [0xInfection](https://twitter.com/0xInfection))
 
@@ -1471,60 +1467,60 @@ text ⬅️ encoded
 
 ##### Table of Contents
 
--   [terminal](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-terminal)
--   [busybox](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-busybox)
--   [mount](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-mount)
--   [fuser](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-fuser)
--   [lsof](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-lsof)
--   [ps](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-ps)
--   [top](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-top)
--   [vmstat](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-vmstat)
--   [iostat](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-iostat)
--   [strace](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-strace)
--   [kill](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-kill)
--   [find](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-find)
--   [diff](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-diff)
--   [vimdiff](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-vimdiff)
--   [tail](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-tail)
--   [cpulimit](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-cpulimit)
--   [pwdx](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-pwdx)
--   [tr](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-tr)
--   [chmod](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-chmod)
--   [who](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-who)
--   [last](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-last)
--   [screen](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-screen)
--   [script](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-script)
--   [du](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-du)
--   [inotifywait](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-inotifywait)
--   [openssl](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-openssl)
--   [secure-delete](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-secure-delete)
--   [dd](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-dd)
--   [gpg](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-gpg)
--   [system-other](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-system-other)
--   [curl](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-curl)
--   [httpie](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-httpie)
--   [ssh](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-ssh)
--   [linux-dev](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-linux-dev)
--   [tcpdump](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-tcpdump)
--   [tcpick](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-tcpick)
--   [ngrep](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-ngrep)
--   [hping3](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-hping3)
--   [nmap](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-nmap)
--   [netcat](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-netcat)
--   [socat](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-socat)
--   [p0f](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-p0f)
--   [gnutls-cli](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-gnutls-cli)
--   [netstat](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-netstat)
--   [rsync](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-rsync)
--   [host](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-host)
--   [dig](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-dig)
--   [certbot](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-certbot)
--   [network-other](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-network-other)
--   [git](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-git)
--   [awk](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-awk)
--   [sed](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-sed)
--   [grep](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-grep)
--   [perl](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-perl)
+- [terminal](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-terminal)
+- [busybox](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-busybox)
+- [mount](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-mount)
+- [fuser](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-fuser)
+- [lsof](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-lsof)
+- [ps](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-ps)
+- [top](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-top)
+- [vmstat](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-vmstat)
+- [iostat](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-iostat)
+- [strace](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-strace)
+- [kill](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-kill)
+- [find](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-find)
+- [diff](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-diff)
+- [vimdiff](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-vimdiff)
+- [tail](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-tail)
+- [cpulimit](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-cpulimit)
+- [pwdx](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-pwdx)
+- [tr](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-tr)
+- [chmod](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-chmod)
+- [who](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-who)
+- [last](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-last)
+- [screen](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-screen)
+- [script](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-script)
+- [du](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-du)
+- [inotifywait](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-inotifywait)
+- [openssl](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-openssl)
+- [secure-delete](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-secure-delete)
+- [dd](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-dd)
+- [gpg](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-gpg)
+- [system-other](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-system-other)
+- [curl](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-curl)
+- [httpie](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-httpie)
+- [ssh](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-ssh)
+- [linux-dev](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-linux-dev)
+- [tcpdump](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-tcpdump)
+- [tcpick](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-tcpick)
+- [ngrep](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-ngrep)
+- [hping3](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-hping3)
+- [nmap](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-nmap)
+- [netcat](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-netcat)
+- [socat](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-socat)
+- [p0f](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-p0f)
+- [gnutls-cli](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-gnutls-cli)
+- [netstat](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-netstat)
+- [rsync](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-rsync)
+- [host](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-host)
+- [dig](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-dig)
+- [certbot](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-certbot)
+- [network-other](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-network-other)
+- [git](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-git)
+- [awk](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-awk)
+- [sed](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-sed)
+- [grep](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-grep)
+- [perl](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#tool-perl)
 
 ##### Tool: [terminal](https://en.wikipedia.org/wiki/Linux_console)
 
@@ -1587,7 +1583,9 @@ export PROMPT\_COMMAND="sterile"
 ###### Pass multi-line string to a file
 
 # cat  >filename ... - overwrite the file
+
 # cat >>filename ... - append to a file
+
 cat \> filename << \_\_EOF\_\_
 data data data
 \_\_EOF\_\_
@@ -1626,9 +1624,11 @@ trap \_after\_logout EXIT
 ###### Generate a sequence of numbers
 
 for ((i\=1; i<=10; i+=2)) ; do echo $i ; done
+
 # alternative: seq 1 2 10
 
 for ((i\=5; i<=10; ++i)) ; do printf '%02d\\n' $i ; done
+
 # alternative: seq -w 5 10
 
 for i in {1..10} ; do echo $i ; done
@@ -1653,8 +1653,8 @@ ___
 
 mount -t tmpfs tmpfs /mnt -o size=64M
 
--   `-t` - filesystem type
--   `-o` - mount options
+- `-t` - filesystem type
+- `-o` - mount options
 
 ###### Remount a filesystem as read/write
 
@@ -1669,11 +1669,11 @@ fuser -v /home/supervisor
 
 ###### Kills a process that is locking a file
 
--   `-i` - interactive option
+- `-i` - interactive option
 
 ###### Kills a process that is locking a file with specific signal
 
--   `--list-signals` - list available signal names
+- `--list-signals` - list available signal names
 
 ###### Show what PID is listening on specific port
 
@@ -1751,29 +1751,35 @@ cd /var/www/site && find . -type d -exec chmod g+rwx {} +
 
 ###### Find files and directories for specific user/group
 
-# User:
+# User
+
 find . -user <username\> -print
 find /etc -type f -user <username\> -name "\*.conf"
 
-# Group:
+# Group
+
 find /opt -group <group\>
 find /etc -type f -group <group\> -iname "\*.conf"
 
 ###### Find files and directories for all without specific user/group
 
-# User:
+# User
+
 find . \\! -user <username\> -print
 
-# Group:
+# Group
+
 find . \\! -group <group\>
 
 ###### Looking for files/directories that only have certain permission
 
 # User
+
 find . -user <username\> -perm -u+rw # -rw-r--r--
 find /home -user $(whoami) -perm 777 # -rwxrwxrwx
 
-# Group:
+# Group
+
 find /home -type d -group <group\> -perm 755 # -rwxr-xr-x
 
 ###### Delete older files than 60 days
@@ -1812,7 +1818,7 @@ ___
 
 top -p $(pgrep -d , <str\>)
 
--   `<str>` - process containing string (eg. nginx, worker)
+- `<str>` - process containing string (eg. nginx, worker)
 
 ___
 
@@ -1820,11 +1826,11 @@ ___
 
 ###### Show current system utilization (fields in kilobytes)
 
--   `2` - number of times with a defined time interval (delay)
--   `20` - each execution of the command (count)
--   `-t` - show timestamp
--   `-w` - wide output
--   `-S M` - output of the fields in megabytes instead of kilobytes
+- `2` - number of times with a defined time interval (delay)
+- `20` - each execution of the command (count)
+- `-t` - show timestamp
+- `-w` - wide output
+- `-S M` - output of the fields in megabytes instead of kilobytes
 
 ###### Show current system utilization will get refreshed every 5 seconds
 
@@ -1838,10 +1844,10 @@ ___
 
 ###### Show information about the CPU usage, and I/O statistics about all the partitions
 
--   `2` - number of times with a defined time interval (delay)
--   `10` - each execution of the command (count)
--   `-t` - show timestamp
--   `-m` - fields in megabytes (`-k` - in kilobytes, default)
+- `2` - number of times with a defined time interval (delay)
+- `10` - each execution of the command (count)
+- `-t` - show timestamp
+- `-m` - fields in megabytes (`-k` - in kilobytes, default)
 
 ###### Show information only about the CPU utilization
 
@@ -1856,9 +1862,11 @@ ___
 ###### Track with child processes
 
 # 1)
+
 strace -f -p $(pidof glusterfsd)
 
 # 2)
+
 strace -f $(pidof php-fpm | sed 's/\\(\[0-9\]\*\\)/\\-p \\1/g')
 
 ###### Track process with 30 seconds limit
@@ -1925,9 +1933,9 @@ Click `F7` to switch between diff modes
 
 Usefull `vimdiff` commands:
 
--   `qa` to exit all windows
--   `:vertical resize 70` to resize window
--   set window width `Ctrl+W [N columns]+(Shift+)<\>`
+- `qa` to exit all windows
+- `:vertical resize 70` to resize window
+- set window width `Ctrl+W [N columns]+(Shift+)<\>`
 
 ___
 
@@ -2007,15 +2015,18 @@ ___
 
 ###### Restore permission for /bin/chmod
 
-# 1:
+# 1
+
 cp /bin/ls chmod.01
 cp /bin/chmod chmod.01
 ./chmod.01 700 file
 
-# 2:
+# 2
+
 /bin/busybox chmod 0700 /bin/chmod
 
-# 3:
+# 3
+
 setfacl --set u::rwx,g::---,o::--- /bin/chmod
 
 ___
@@ -2051,14 +2062,17 @@ ___
 
 ###### Record and replay terminal session
 
-#\## Record session
+# \## Record session
+
 # 1)
+
 script -t 2>~/session.time -a ~/session.log
 
 # 2)
+
 script --timing=session.time session.log
 
-#\## Replay session
+# \## Replay session
 scriptreplay --timing=session.time session.log
 
 ___
@@ -2120,13 +2134,16 @@ openssl s\_client -connect ${\_host}:443 -tls1\_3 -sess\_in session.pem -early\_
 ###### Generate private key without passphrase
 
 # \_len: 2048, 4096
+
 ( \_fd="private.key" ; \_len="2048" ; \\
 openssl genrsa -out ${\_fd} ${\_len} )
 
 ###### Generate private key with passphrase
 
 # \_ciph: des3, aes128, aes256
+
 # \_len: 2048, 4096
+
 ( \_ciph="aes128" ; \_fd="private.key" ; \_len="2048" ; \\
 openssl genrsa -${\_ciph} -out ${\_fd} ${\_len} )
 
@@ -2138,6 +2155,7 @@ openssl rsa -in ${\_fd} -out ${\_fd\_unp} )
 ###### Encrypt existing private key with a passphrase
 
 # \_ciph: des3, aes128, aes256
+
 ( \_ciph="aes128" ; \_fd="private.key" ; \_fd\_pass="private\_pass.key" ; \\
 openssl rsa -${\_ciph} -in ${\_fd} -out ${\_fd\_pass}
 
@@ -2262,13 +2280,13 @@ DNS.1 = example.com
 
 For more information please look at these great explanations:
 
--   [RFC 5280](https://tools.ietf.org/html/rfc5280)
--   [How to create multidomain certificates using config files](https://apfelboymchen.net/gnu/notes/openssl%20multidomain%20with%20config%20files.html)
--   [Generate a multi domains certificate using config files](https://gist.github.com/romainnorberg/464758a6620228b977212a3cf20c3e08)
--   [Your OpenSSL CSR command is out of date](https://expeditedsecurity.com/blog/openssl-csr-command/)
--   [OpenSSL example configuration file](https://www.tbs-certificats.com/openssl-dem-server-cert.cnf)
--   [Object Identifiers (OIDs)](https://www.alvestrand.no/objectid/)
--   [openssl objects.txt](https://github.com/openssl/openssl/blob/master/crypto/objects/objects.txt)
+- [RFC 5280](https://tools.ietf.org/html/rfc5280)
+- [How to create multidomain certificates using config files](https://apfelboymchen.net/gnu/notes/openssl%20multidomain%20with%20config%20files.html)
+- [Generate a multi domains certificate using config files](https://gist.github.com/romainnorberg/464758a6620228b977212a3cf20c3e08)
+- [Your OpenSSL CSR command is out of date](https://expeditedsecurity.com/blog/openssl-csr-command/)
+- [OpenSSL example configuration file](https://www.tbs-certificats.com/openssl-dem-server-cert.cnf)
+- [Object Identifiers (OIDs)](https://www.alvestrand.no/objectid/)
+- [openssl objects.txt](https://github.com/openssl/openssl/blob/master/crypto/objects/objects.txt)
 
 ###### List available EC curves
 
@@ -2280,22 +2298,26 @@ openssl ecparam -list\_curves
 openssl ec -in ${\_fd} -noout -text )
 
 # For x25519 only extracting public key
+
 ( \_fd="private.key" ; \_fd\_pub="public.key" ; \\
 openssl pkey -in ${\_fd} -pubout -out ${\_fd\_pub} )
 
 ###### Generate ECDSA private key
 
 # \_curve: prime256v1, secp521r1, secp384r1
+
 ( \_fd="private.key" ; \_curve="prime256v1" ; \\
 openssl ecparam -out ${\_fd} -name ${\_curve} -genkey )
 
 # \_curve: X25519
+
 ( \_fd="private.key" ; \_curve="x25519" ; \\
 openssl genpkey -algorithm ${\_curve} -out ${\_fd} )
 
 ###### Generate private key and CSR (ECC)
 
 # \_curve: prime256v1, secp521r1, secp384r1
+
 ( \_fd="domain.com.key" ; \_fd\_csr="domain.com.csr" ; \_curve="prime256v1" ; \\
 openssl ecparam -out ${\_fd} -name ${\_curve} -genkey ; \\
 openssl req -new -key ${\_fd} -out ${\_fd\_csr} -sha256 )
@@ -2303,6 +2325,7 @@ openssl req -new -key ${\_fd} -out ${\_fd\_csr} -sha256 )
 ###### Generate self-signed certificate
 
 # \_len: 2048, 4096
+
 ( \_fd="domain.key" ; \_fd\_out="domain.crt" ; \_len="2048" ; \_days="365" ; \\
 openssl req -newkey rsa:${\_len} -nodes \\
 -keyout ${\_fd} -x509 -days ${\_days} -out ${\_fd\_out} )
@@ -2310,6 +2333,7 @@ openssl req -newkey rsa:${\_len} -nodes \\
 ###### Generate self-signed certificate from existing private key
 
 # \_len: 2048, 4096
+
 ( \_fd="domain.key" ; \_fd\_out="domain.crt" ; \_days="365" ; \\
 openssl req -key ${\_fd} -nodes \\
 -x509 -days ${\_days} -out ${\_fd\_out} )
@@ -2317,6 +2341,7 @@ openssl req -key ${\_fd} -nodes \\
 ###### Generate self-signed certificate from existing private key and csr
 
 # \_len: 2048, 4096
+
 ( \_fd="domain.key" ; \_fd\_csr="domain.csr" ; \_fd\_out="domain.crt" ; \_days="365" ; \\
 openssl x509 -signkey ${\_fd} -nodes \\
 -in ${\_fd\_csr} -req -days ${\_days} -out ${\_fd\_out} )
@@ -2342,10 +2367,13 @@ openssl pkcs12 -in ${\_fd\_pfx} -nodes -out ${\_fd\_pem} )
 
 ###### Extract certs from p7b
 
-# PKCS#7 file doesn't include private keys.
+# PKCS#7 file doesn't include private keys
+
 ( \_fd\_p7b="cert.p7b" ; \_fd\_pem="cert.pem" ; \\
 openssl pkcs7 -inform DER -outform PEM -in ${\_fd\_p7b} -print\_certs \> ${\_fd\_pem})
-# or:
+
+# or
+
 openssl pkcs7 -print\_certs -in -in ${\_fd\_p7b} -out ${\_fd\_pem})
 
 ###### Convert DER to PEM
@@ -2366,10 +2394,12 @@ openssl rsa -noout -text -in ${\_fd} )
 ###### Verification of the public key
 
 # 1)
+
 ( \_fd="public.key" ; \\
 openssl pkey -noout -text -pubin -in ${\_fd} )
 
 # 2)
+
 ( \_fd="private.key" ; \\
 openssl rsa -inform PEM -noout -in ${\_fd} &\> /dev/null ; \\
 if \[ $? \= 0 \] ; then echo -en "OK\\n" ; fi )
@@ -2441,29 +2471,29 @@ ___
 
 gpg --export --armor "<username>" \> username.pkey
 
--   `--export` - export all keys from all keyrings or specific key
--   `-a|--armor` - create ASCII armored output
+- `--export` - export all keys from all keyrings or specific key
+- `-a|--armor` - create ASCII armored output
 
 ###### Encrypt file
 
 gpg -e -r "<username>" dump.sql
 
--   `-e|--encrypt` - encrypt data
--   `-r|--recipient` - encrypt for specific
+- `-e|--encrypt` - encrypt data
+- `-r|--recipient` - encrypt for specific
 
 ###### Decrypt file
 
 gpg -o dump.sql -d dump.sql.gpg
 
--   `-o|--output` - use as output file
--   `-d|--decrypt` - decrypt data (default)
+- `-o|--output` - use as output file
+- `-d|--decrypt` - decrypt data (default)
 
 ###### Search recipient
 
 gpg --keyserver hkp://keyserver.ubuntu.com --search-keys "<username>"
 
--   `--keyserver` - set specific key server
--   `--search-keys` - search for keys on a key server
+- `--keyserver` - set specific key server
+- `--search-keys` - search for keys on a key server
 
 ###### List all of the packets in an encrypted file
 
@@ -2488,26 +2518,26 @@ readlink -f /proc/<PID\>/exe
 
 ##### Tool: [curl](https://curl.haxx.se/)
 
-curl -Iks https://www.google.com
+curl -Iks <https://www.google.com>
 
--   `-I` - show response headers only
--   `-k` - insecure connection when using ssl
--   `-s` - silent mode (not display body)
+- `-I` - show response headers only
+- `-k` - insecure connection when using ssl
+- `-s` - silent mode (not display body)
 
-curl -Iks --location -X GET -A "x-agent" https://www.google.com
+curl -Iks --location -X GET -A "x-agent" <https://www.google.com>
 
--   `--location` - follow redirects
--   `-X` - set method
--   `-A` - set user-agent
+- `--location` - follow redirects
+- `-X` - set method
+- `-A` - set user-agent
 
-curl -Iks --location -X GET -A "x-agent" --proxy http://127.0.0.1:16379 https://www.google.com
+curl -Iks --location -X GET -A "x-agent" --proxy <http://127.0.0.1:16379> <https://www.google.com>
 
--   `--proxy [socks5://|http://]` - set proxy server
+- `--proxy [socks5://|http://]` - set proxy server
 
-curl -o file.pdf -C - https://example.com/Aiju2goo0Ja2.pdf
+curl -o file.pdf -C - <https://example.com/Aiju2goo0Ja2.pdf>
 
--   `-o` - write output to file
--   `-C` - resume the transfer
+- `-o` - write output to file
+- `-C` - resume the transfer
 
 ###### Find your external IP address (external services)
 
@@ -2518,15 +2548,17 @@ curl ifconfig.me/ip ; echo
 
 ###### Repeat URL request
 
-# URL sequence substitution with a dummy query string:
+# URL sequence substitution with a dummy query string
+
 curl -ks https://example.com/?\[1-20\]
 
-# With shell 'for' loop:
-for i in {1..20} ; do curl -ks https://example.com/ ; done
+# With shell 'for' loop
+
+for i in {1..20} ; do curl -ks <https://example.com/> ; done
 
 ###### Check DNS and HTTP trace with headers for specific domains
 
-#\## Set domains and external dns servers.
+# \## Set domains and external dns servers.
 \_domain\_list=(google.com) ; \_dns\_list=("8.8.8.8" "1.1.1.1")
 
 for \_domain in "${\_domain\_list\[@\]}" ; do
@@ -2565,23 +2597,23 @@ ___
 
 ##### Tool: [httpie](https://httpie.org/)
 
-http -p Hh https://www.google.com
+http -p Hh <https://www.google.com>
 
--   `-p` - print request and response headers
-    -   `H` - request headers
-    -   `B` - request body
-    -   `h` - response headers
-    -   `b` - response body
+- `-p` - print request and response headers
+  - `H` - request headers
+  - `B` - request body
+  - `h` - response headers
+  - `b` - response body
 
-http -p Hh https://www.google.com --follow --verify no
+http -p Hh <https://www.google.com> --follow --verify no
 
--   `-F, --follow` - follow redirects
--   `--verify no` - skip SSL verification
+- `-F, --follow` - follow redirects
+- `--verify no` - skip SSL verification
 
-http -p Hh https://www.google.com --follow --verify no \\
---proxy http:http://127.0.0.1:16379
+http -p Hh <https://www.google.com> --follow --verify no \\
+--proxy http:<http://127.0.0.1:16379>
 
--   `--proxy [http:]` - set proxy server
+- `--proxy [http:]` - set proxy server
 
 ##### Tool: [ssh](https://www.openssh.com/)
 
@@ -2643,19 +2675,20 @@ function \_ssh\_sesslog() {
 
 }
 
-# Alias:
+# Alias
+
 alias ssh='\_ssh\_sesslog'
 
 ###### Using Keychain for SSH logins
 
-#\## Delete all of ssh-agent's keys.
+# \## Delete all of ssh-agent's keys.
 function \_scl() {
 
   /usr/bin/keychain --clear
 
 }
 
-#\## Add key to keychain.
+# \## Add key to keychain.
 function \_scg() {
 
   /usr/bin/keychain /path/to/private-key
@@ -2670,29 +2703,35 @@ function \_scg() {
 Example 1:
 
 # Forwarding our local 2250 port to nmap.org:443 from localhost through localhost
+
 host1> ssh -L 2250:nmap.org:443 localhost
 
-# Connect to the service:
-host1> curl -Iks --location -X GET https://localhost:2250
+# Connect to the service
+
+host1> curl -Iks --location -X GET <https://localhost:2250>
 
 Example 2:
 
 # Forwarding our local 9051 port to db.d.x:5432 from localhost through node.d.y
+
 host1> ssh -nNT -L 9051:db.d.x:5432 node.d.y
 
-# Connect to the service:
+# Connect to the service
+
 host1> psql -U db\_user -d db\_dev -p 9051 -h localhost
 
--   `-n` - redirects stdin from `/dev/null`
--   `-N` - do not execute a remote command
--   `-T` - disable pseudo-terminal allocation
+- `-n` - redirects stdin from `/dev/null`
+- `-N` - do not execute a remote command
+- `-T` - disable pseudo-terminal allocation
 
 ###### SSH remote port forwarding
 
 # Forwarding our local 9051 port to db.d.x:5432 from host2 through node.d.y
+
 host1> ssh -nNT -R 9051:db.d.x:5432 node.d.y
 
-# Connect to the service:
+# Connect to the service
+
 host2> psql -U postgres -d postgres -p 8000 -h localhost
 
 ___
@@ -2703,9 +2742,9 @@ ___
 
 timeout 1 bash -c "</dev/<proto>/<host>/<port>" \>/dev/null 2>&1 ; echo $?
 
--   `<proto` - set protocol (tcp/udp)
--   `<host>` - set remote host
--   `<port>` - set destination port
+- `<proto` - set protocol (tcp/udp)
+- `<host>` - set remote host
+- `<port>` - set destination port
 
 ###### Read and write to TCP or UDP sockets with common bash tools
 
@@ -2719,20 +2758,20 @@ ___
 
 tcpdump -ne -i eth0 -Q in host 192.168.252.1 and port 443
 
--   `-n` - don't convert addresses (`-nn` will not resolve hostnames or ports)
--   `-e` - print the link-level headers
--   `-i [iface|any]` - set interface
--   `-Q|-D [in|out|inout]` - choose send/receive direction (`-D` - for old tcpdump versions)
--   `host [ip|hostname]` - set host, also `[host not]`
--   `[and|or]` - set logic
--   `port [1-65535]` - set port number, also `[port not]`
+- `-n` - don't convert addresses (`-nn` will not resolve hostnames or ports)
+- `-e` - print the link-level headers
+- `-i [iface|any]` - set interface
+- `-Q|-D [in|out|inout]` - choose send/receive direction (`-D` - for old tcpdump versions)
+- `host [ip|hostname]` - set host, also `[host not]`
+- `[and|or]` - set logic
+- `port [1-65535]` - set port number, also `[port not]`
 
 ###### Filter incoming (on interface) traffic (specific ip:port) and write to a file
 
 tcpdump -ne -i eth0 -Q in host 192.168.252.1 and port 443 -c 5 -w tcpdump.pcap
 
--   `-c [num]` - capture only num number of packets
--   `-w [filename]` - write packets to file, `-r [filename]` - reading from file
+- `-c [num]` - capture only num number of packets
+- `-w [filename]` - write packets to file, `-r [filename]` - reading from file
 
 ###### Capture all ICMP packets
 
@@ -2771,8 +2810,8 @@ tcpdump -ei eth0 -s 0 -v -n -l | egrep -i "POST /|GET /|Host:"
 
 tcpdump -ei eth0 -w /tmp/capture-%H.pcap -G 3600 -C 200
 
--   `-G <num>` - pcap will be created every `<num>` seconds
--   `-C <size>` - close the current pcap and open a new one if is larger than `<size>`
+- `-G <num>` - pcap will be created every `<num>` seconds
+- `-C <size>` - close the current pcap and open a new one if is larger than `<size>`
 
 ###### Top hosts by packets
 
@@ -2796,31 +2835,31 @@ ___
 
 ngrep -d eth0 "www.domain.com" port 443
 
--   `-d [iface|any]` - set interface
--   `[domain]` - set hostname
--   `port [1-65535]` - set port number
+- `-d [iface|any]` - set interface
+- `[domain]` - set hostname
+- `port [1-65535]` - set port number
 
 ngrep -d eth0 "www.domain.com" src host 10.240.20.2 and port 443
 
--   `(host [ip|hostname])` - filter by ip or hostname
--   `(port [1-65535])` - filter by port number
+- `(host [ip|hostname])` - filter by ip or hostname
+- `(port [1-65535])` - filter by port number
 
 ngrep -d eth0 -qt -O ngrep.pcap "www.domain.com" port 443
 
--   `-q` - quiet mode (only payloads)
--   `-t` - added timestamps
--   `-O [filename]` - save output to file, `-I [filename]` - reading from file
+- `-q` - quiet mode (only payloads)
+- `-t` - added timestamps
+- `-O [filename]` - save output to file, `-I [filename]` - reading from file
 
 ngrep -d eth0 -qt 'HTTP' 'tcp'
 
--   `HTTP` - show http headers
--   `tcp|udp` - set protocol
--   `[src|dst] host [ip|hostname]` - set direction for specific node
+- `HTTP` - show http headers
+- `tcp|udp` - set protocol
+- `[src|dst] host [ip|hostname]` - set direction for specific node
 
 ngrep -l -q -d eth0 -i "User-Agent: curl\*"
 
--   `-l` - stdout line buffered
--   `-i` - case-insensitive search
+- `-l` - stdout line buffered
+- `-i` - case-insensitive search
 
 ___
 
@@ -2828,30 +2867,30 @@ ___
 
 hping3 -V -p 80 -s 5050 <scan\_type\> www.google.com
 
--   `-V|--verbose` - verbose mode
--   `-p|--destport` - set destination port
--   `-s|--baseport` - set source port
--   `<scan_type>` - set scan type
-    -   `-F|--fin` - set FIN flag, port open if no reply
-    -   `-S|--syn` - set SYN flag
-    -   `-P|--push` - set PUSH flag
-    -   `-A|--ack` - set ACK flag (use when ping is blocked, RST response back if the port is open)
-    -   `-U|--urg` - set URG flag
-    -   `-Y|--ymas` - set Y unused flag (0x80 - nullscan), port open if no reply
-    -   `-M 0 -UPF` - set TCP sequence number and scan type (URG+PUSH+FIN), port open if no reply
+- `-V|--verbose` - verbose mode
+- `-p|--destport` - set destination port
+- `-s|--baseport` - set source port
+- `<scan_type>` - set scan type
+  - `-F|--fin` - set FIN flag, port open if no reply
+  - `-S|--syn` - set SYN flag
+  - `-P|--push` - set PUSH flag
+  - `-A|--ack` - set ACK flag (use when ping is blocked, RST response back if the port is open)
+  - `-U|--urg` - set URG flag
+  - `-Y|--ymas` - set Y unused flag (0x80 - nullscan), port open if no reply
+  - `-M 0 -UPF` - set TCP sequence number and scan type (URG+PUSH+FIN), port open if no reply
 
 hping3 -V -c 1 -1 -C 8 www.google.com
 
--   `-c [num]` - packet count
--   `-1` - set ICMP mode
--   `-C|--icmptype [icmp-num]` - set icmp type (default icmp-echo = 8)
+- `-c [num]` - packet count
+- `-1` - set ICMP mode
+- `-C|--icmptype [icmp-num]` - set icmp type (default icmp-echo = 8)
 
 hping3 -V -c 1000000 -d 120 -S -w 64 -p 80 --flood --rand-source <remote\_host\>
 
--   `--flood` - sent packets as fast as possible (don't show replies)
--   `--rand-source` - random source address mode
--   `-d --data` - data size
--   `-w|--win` - winsize (default 64)
+- `--flood` - sent packets as fast as possible (don't show replies)
+- `--rand-source` - random source address mode
+- `-d --data` - data size
+- `-w|--win` - winsize (default 64)
 
 ___
 
@@ -2873,11 +2912,13 @@ nmap -p80,443 192.168.0.0/24 -oG - | nikto.pl -h -
 
 ###### Recon specific ip:service with Nmap NSE scripts stack
 
-# Set variables:
+# Set variables
+
 \_hosts="192.168.250.10"
 \_ports="80,443"
 
-# Set Nmap NSE scripts stack:
+# Set Nmap NSE scripts stack
+
 \_nmap\_nse\_scripts="+dns-brute,\\
  +http-auth-finder,\\
  +http-chrono,\\
@@ -2913,32 +2954,34 @@ nmap -p80,443 192.168.0.0/24 -oG - | nikto.pl -h -
  +whois-domain,\\
  +whois-ip"
 
-# Set Nmap NSE script params:
+# Set Nmap NSE script params
+
 \_nmap\_nse\_scripts\_args="dns-brute.domain=${\_hosts},http-cross-domain-policy.domain-lookup=true,"
 \_nmap\_nse\_scripts\_args+="http-waf-detect.aggro,http-waf-detect.detectBodyChanges,"
 \_nmap\_nse\_scripts\_args+="http-waf-fingerprint.intensive=1"
 
-# Perform scan:
+# Perform scan
+
 nmap --script="$\_nmap\_nse\_scripts" --script-args="$\_nmap\_nse\_scripts\_args" -p "$\_ports" "$\_hosts"
 
 ___
 
 ##### Tool: [netcat](http://netcat.sourceforge.net/)
 
--   `-l` - listen for an incoming connection
--   `-k` - listening after client has disconnected
--   `>filename.out` - save receive data to file (optional)
+- `-l` - listen for an incoming connection
+- `-k` - listening after client has disconnected
+- `>filename.out` - save receive data to file (optional)
 
 nc 192.168.0.1 5051 < filename.in
 
--   `< filename.in` - send data to remote host
+- `< filename.in` - send data to remote host
 
--   `-v` - verbose output
--   `-z` - scan for listening daemons
+- `-v` - verbose output
+- `-z` - scan for listening daemons
 
 nc -vzu 10.240.30.3 1-65535
 
--   `-u` - scan only udp ports
+- `-u` - scan only udp ports
 
 ###### Transfer data file (archive)
 
@@ -2948,10 +2991,12 @@ client\> tar czvfp - /path/to/dir | nc 10.240.30.3 5000
 ###### Launch remote shell
 
 # 1)
+
 server\> nc -l 5000 -e /bin/bash
 client\> nc 10.240.30.3 5000
 
 # 2)
+
 server\> rm -f /tmp/f; mkfifo /tmp/f
 server\> cat /tmp/f | /bin/bash -i 2>&1 | nc -l 127.0.0.1 5000 \> /tmp/f
 client\> nc 10.240.30.3 5000
@@ -2990,11 +3035,11 @@ server\> while : ; do \\
 nc -l -p 5000 \\
 ; done
 
--   `-p` - port number
+- `-p` - port number
 
 ###### Simple HTTP Proxy (single connection)
 
-#!/usr/bin/env bash
+# !/usr/bin/env bash
 
 if \[\[ $# != 2 \]\] ; then
   printf "%s\\\\n" \\
@@ -3041,16 +3086,16 @@ Last-Modified: Sun, 01 Apr 2018 21:53:37 GMT
 
 ###### Create a single-use TCP or UDP proxy
 
-#\## TCP -> TCP
+# \## TCP -> TCP
 nc -l -p 2000 -c "nc \[ip|hostname\] 3000"
 
-#\## TCP -> UDP
+# \## TCP -> UDP
 nc -l -p 2000 -c "nc -u \[ip|hostname\] 3000"
 
-#\## UDP -> UDP
+# \## UDP -> UDP
 nc -l -u -p 2000 -c "nc -u \[ip|hostname\] 3000"
 
-#\## UDP -> TCP
+# \## UDP -> TCP
 nc -l -u -p 2000 -c "nc \[ip|hostname\] 3000"
 
 ___
@@ -3073,24 +3118,24 @@ ___
 
 socat - TCP4:10.240.30.3:22
 
--   `-` - standard input (STDIO)
--   `TCP4:<params>` - set tcp4 connection with specific params
-    -   `[hostname|ip]` - set hostname/ip
-    -   `[1-65535]` - set port number
+- `-` - standard input (STDIO)
+- `TCP4:<params>` - set tcp4 connection with specific params
+  - `[hostname|ip]` - set hostname/ip
+  - `[1-65535]` - set port number
 
 ###### Redirecting TCP-traffic to a UNIX domain socket under Linux
 
 socat TCP-LISTEN:1234,bind=127.0.0.1,reuseaddr,fork,su=nobody,range=127.0.0.0/8 UNIX-CLIENT:/tmp/foo
 
--   `TCP-LISTEN:<params>` - set tcp listen with specific params
-    -   `[1-65535]` - set port number
-    -   `bind=[hostname|ip]` - set bind hostname/ip
-    -   `reuseaddr` - allows other sockets to bind to an address
-    -   `fork` - keeps the parent process attempting to produce more connections
-    -   `su=nobody` - set user
-    -   `range=[ip-range]` - ip range
--   `UNIX-CLIENT:<params>` - communicates with the specified peer socket
-    -   `filename` - define socket
+- `TCP-LISTEN:<params>` - set tcp listen with specific params
+  - `[1-65535]` - set port number
+  - `bind=[hostname|ip]` - set bind hostname/ip
+  - `reuseaddr` - allows other sockets to bind to an address
+  - `fork` - keeps the parent process attempting to produce more connections
+  - `su=nobody` - set user
+  - `range=[ip-range]` - ip range
+- `UNIX-CLIENT:<params>` - communicates with the specified peer socket
+  - `filename` - define socket
 
 ___
 
@@ -3100,10 +3145,10 @@ ___
 
 p0f -i enp0s25 -p -d -o /dump/enp0s25.log
 
--   `-i` - listen on the specified interface
--   `-p` - set interface in promiscuous mode
--   `-d` - fork into background
--   `-o` - output file
+- `-i` - listen on the specified interface
+- `-p` - set interface in promiscuous mode
+- `-d` - fork into background
+- `-o` - output file
 
 ___
 
@@ -3204,9 +3249,11 @@ sed 's/allow  \*/subnet -> /g'
 ###### Log alias for a decent view of your repo
 
 # 1)
+
 git log --oneline --decorate --graph --all
 
 # 2)
+
 git log --graph \\
 --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' \\
 --abbrev-commit
@@ -3218,14 +3265,17 @@ ___
 ###### Static HTTP web server
 
 # Python 3.x
+
 python3 -m http.server 8000 --bind 127.0.0.1
 
 # Python 2.x
+
 python -m SimpleHTTPServer 8000
 
 ###### Static HTTP web server with SSL support
 
 # Python 3.x
+
 from http.server import HTTPServer, BaseHTTPRequestHandler
 import ssl
 
@@ -3257,16 +3307,19 @@ python -m base64 -d <<< "dGhpcyBpcyBlbmNvZGVkCg=="
 ###### Search for matching lines
 
 # egrep foo
+
 awk '/foo/' filename
 
 ###### Search non matching lines
 
 # egrep -v foo
+
 awk '!/foo/' filename
 
 ###### Print matching lines with numbers
 
 # egrep -n foo
+
 awk '/foo/{print FNR,$0}' filename
 
 ###### Print the last column
@@ -3310,7 +3363,8 @@ awk -F' ' '{print "ip:\\t" $2 "\\n port:\\t" $3' filename
 
 awk 'NF > 0' filename
 
-# alternative:
+# alternative
+
 awk NF filename
 
 ###### Delete trailing white space (spaces, tabs)
@@ -3324,6 +3378,7 @@ awk '{sub(/^\[ \\t\]+/, ""); print}' filename
 ###### Remove duplicate consecutive lines
 
 # uniq
+
 awk 'a !~ $0{print}; {a=$0}' filename
 
 ###### Remove duplicate entries in a file without sorting
@@ -3354,6 +3409,7 @@ ___
 ###### Remove a specific line from a file
 
 sed -i 10d /path/to/file
+
 # alternative (BSD): sed -i'' 10d /path/to/file
 
 ###### Remove a range of lines from a file
@@ -3364,20 +3420,23 @@ sed -i <file\> -re '<start>,<end>d'
 
 sed ':a;N;$!ba;s/\\n/ /g' /path/to/file
 
-# cross-platform compatible syntax:
+# cross-platform compatible syntax
+
 sed -e ':a' -e 'N' -e '$!ba' -e 's/\\n/ /g' /path/to/file
 
--   `:a` create a label `a`
--   `N` append the next line to the pattern space
--   `$!` if not the last line, ba branch (go to) label `a`
--   `s` substitute, `/\n/` regex for new line, `/ /` by a space, `/g` global match (as many times as it can)
+- `:a` create a label `a`
+- `N` append the next line to the pattern space
+- `$!` if not the last line, ba branch (go to) label `a`
+- `s` substitute, `/\n/` regex for new line, `/ /` by a space, `/g` global match (as many times as it can)
 
 Alternatives:
 
-# perl version (sed-like speed):
+# perl version (sed-like speed)
+
 perl -p -e 's/\\n/ /' /path/to/file
 
-# bash version (slow):
+# bash version (slow)
+
 while read line ; do printf "%s" "$line " ; done < file
 
 ###### Delete string +N next lines
@@ -3464,14 +3523,16 @@ perl -lne '$i++; $in += length($\_); END { print "$i lines, $in characters"; }' 
 
 ##### Table of Contents
 
--   [Domain resolve](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#domain-resolve)
--   [Get ASN](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#get-asn)
+- [Domain resolve](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#domain-resolve)
+- [Get ASN](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md#get-asn)
 
 ###### Domain resolve
 
-# Dependencies:
-#   - curl
-#   - jq
+# Dependencies
+
+# - curl
+
+# - jq
 
 function DomainResolve() {
 
@@ -3505,8 +3566,9 @@ Unsuccessful domain name resolution.
 
 ###### Get ASN
 
-# Dependencies:
-#   - curl
+# Dependencies
+
+# - curl
 
 function GetASN() {
 

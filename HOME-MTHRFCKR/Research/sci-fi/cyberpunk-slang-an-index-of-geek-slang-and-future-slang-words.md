@@ -55,7 +55,7 @@ Cyberpunk Words A–Z
 - **==[[Mind-rain]]== (n):** An explosion of creativity resulting from clear thought; similar to the psychological state of "flow"4
 - **==[[Nerf herder]]==:** A derogatory title8
 
-## VOTE, You Frackin' Toaster!
+## VOTE, You Frackin' Toaster
 
 - **==Ping== (n):** Any sort of message (text, email, voice, video) (already used in some modern-day circles)4
 - **==Pneumatic== (adj.):** Round, bouncy, sexy2

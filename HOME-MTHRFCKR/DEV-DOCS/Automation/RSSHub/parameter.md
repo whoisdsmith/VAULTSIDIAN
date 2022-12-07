@@ -12,27 +12,27 @@ The following URL query parameters are supported, Regex support is built-in.
 
 Set `filter` to include the content
 
--   filter: filter title and description
+- filter: filter title and description
 
--   filter_title: filter title only
+- filter_title: filter title only
 
--   filter_description: filter description only
+- filter_description: filter description only
 
--   filter_author: filter author only
+- filter_author: filter author only
 
--   filter_time: filter pubDate, value for second number, return specified time range. Item without `pubDate` will not be filtered.
+- filter_time: filter pubDate, value for second number, return specified time range. Item without `pubDate` will not be filtered.
 
 For example: [https://rsshub.app/dribbble/popular?filter=Blue|Yellow|Black](https://rsshub.app/dribbble/popular?filter=Blue|Yellow|Black)
 
 Set `filterout` to exclude unwanted content.
 
--   filterout: filter title and description
+- filterout: filter title and description
 
--   filterout_title: filter title only
+- filterout_title: filter title only
 
--   filterout_description: filter description only
+- filterout_description: filter description only
 
--   filterout_author: filter author only
+- filterout_author: filter author only
 
 For example: [https://rsshub.app/dribbble/popular?filterout=Blue|Yellow|Black](https://rsshub.app/dribbble/popular?filterout=Blue|Yellow|Black)
 
@@ -64,7 +64,7 @@ Replace website link with Telegram's Instant View link.
 
 Enable Telegram Instant View requires a page template, it can be obtained from Telegram's [Instant View page](https://instantview.telegram.org/)
 
--   tgiv: template hash, obtained from the link of template page generated（the string after `&rhash=`）
+- tgiv: template hash, obtained from the link of template page generated（the string after `&rhash=`）
 
 Eg: <https://rsshub.app/novel/biquge/94_94525?tgiv=bd3c42818a7f7e>
 
@@ -72,13 +72,13 @@ Eg: <https://rsshub.app/novel/biquge/94_94525?tgiv=bd3c42818a7f7e>
 
 Output Sci-hub link in scientific journal routes, this supports major journals or routes that output DOIs.
 
--   scihub: set to any value
+- scihub: set to any value
 
 Eg: <https://rsshub.app/pnas/latest?scihub=1>
 
 ## Conversion between Traditional and Simplified Chinese
 
--   opencc: s2t (Simplified Chinese to Traditional Chinese)、t2s (Traditional Chinese to Simplified Chinese), other optional values refer to [simplecc-wasm - Configurations](https://github.com/fengkx/simplecc-wasm#%E9%85%8D%E7%BD%AE-configurations)
+- opencc: s2t (Simplified Chinese to Traditional Chinese)、t2s (Traditional Chinese to Simplified Chinese), other optional values refer to [simplecc-wasm - Configurations](https://github.com/fengkx/simplecc-wasm#%E9%85%8D%E7%BD%AE-configurations)
 
 Eg: <https://rsshub.app/dcard/posts/popular?opencc=t2s>
 
@@ -88,7 +88,7 @@ RSSHub conforms to RSS 2.0 and Atom Standard, simply append `.rss` `.atom` to th
 
 For example:
 
--   Default (RSS 2.0) - [https://rsshub.app/dribbble/popular](https://rsshub.app/dribbble/popular)
--   RSS 2.0 - [https://rsshub.app/dribbble/popular.rss](https://rsshub.app/dribbble/popular.rss)
--   Atom - [https://rsshub.app/dribbble/popular.atom](https://rsshub.app/dribbble/popular.atom)
--   Apply filters or URL query [https://rsshub.app/dribbble/popular.atom?filterout=Blue|Yellow|Black](https://rsshub.app/dribbble/popular.atom?filterout=Blue|Yellow|Black)
+- Default (RSS 2.0) - [https://rsshub.app/dribbble/popular](https://rsshub.app/dribbble/popular)
+- RSS 2.0 - [https://rsshub.app/dribbble/popular.rss](https://rsshub.app/dribbble/popular.rss)
+- Atom - [https://rsshub.app/dribbble/popular.atom](https://rsshub.app/dribbble/popular.atom)
+- Apply filters or URL query [https://rsshub.app/dribbble/popular.atom?filterout=Blue|Yellow|Black](https://rsshub.app/dribbble/popular.atom?filterout=Blue|Yellow|Black)

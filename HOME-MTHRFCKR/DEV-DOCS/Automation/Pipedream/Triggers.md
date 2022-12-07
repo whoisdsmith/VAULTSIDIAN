@@ -2,44 +2,44 @@
 
 Today, we support the following triggers:
 
--   [Triggers for apps like Twitter, Github, and more](https://pipedream.com/docs/#app-based-triggers)
--   [HTTP / Webhook](https://pipedream.com/docs/#http)
--   [Schedule](https://pipedream.com/docs/#schedule)
--   [Email](https://pipedream.com/docs/#email)
--   [RSS](https://pipedream.com/docs/#rss)
+- [Triggers for apps like Twitter, Github, and more](https://pipedream.com/docs/#app-based-triggers)
+- [HTTP / Webhook](https://pipedream.com/docs/#http)
+- [Schedule](https://pipedream.com/docs/#schedule)
+- [Email](https://pipedream.com/docs/#email)
+- [RSS](https://pipedream.com/docs/#rss)
 
 If there's a specific trigger you'd like supported, please [let us know (opens new window)](https://pipedream.com/support/).
 
--   [App-based Triggers](https://pipedream.com/docs/#app-based-triggers)
-    -   [What's the difference between an event source and a trigger?](https://pipedream.com/docs/#what-s-the-difference-between-an-event-source-and-a-trigger)
-    -   [Dependent and Independent Sources](https://pipedream.com/docs/#dependent-and-independent-sources)
-    -   [Shape of the steps.trigger.event object](https://pipedream.com/docs/#shape-of-the-steps-trigger-event-object)
--   [HTTP](https://pipedream.com/docs/#http)
-    -   [Accessing HTTP request data](https://pipedream.com/docs/#accessing-http-request-data)
-    -   [Valid Requests](https://pipedream.com/docs/#valid-requests)
-    -   [How Pipedream handles JSON payloads](https://pipedream.com/docs/#how-pipedream-handles-json-payloads)
-    -   [How Pipedream handles multipart/form-data](https://pipedream.com/docs/#how-pipedream-handles-multipart-form-data)
-    -   [Sending large payloads](https://pipedream.com/docs/#sending-large-payloads)
-    -   [Large File Support](https://pipedream.com/docs/#large-file-support)
-    -   [Cross-Origin HTTP Requests](https://pipedream.com/docs/#cross-origin-http-requests)
-    -   [HTTP Responses](https://pipedream.com/docs/#http-responses)
-    -   [Errors](https://pipedream.com/docs/#errors)
-    -   [Validating requests](https://pipedream.com/docs/#validating-requests)
--   [Schedule](https://pipedream.com/docs/#schedule)
-    -   [Choosing a cron trigger](https://pipedream.com/docs/#choosing-a-cron-trigger)
-    -   [Testing a cron job](https://pipedream.com/docs/#testing-a-cron-job)
-    -   [Future executions of your cron job](https://pipedream.com/docs/#future-executions-of-your-cron-job)
-    -   [Job History](https://pipedream.com/docs/#job-history)
-    -   [Trigger a notification to an external service (email, Slack, etc.)](https://pipedream.com/docs/#trigger-a-notification-to-an-external-service-email-slack-etc)
-    -   [Rate Limit](https://pipedream.com/docs/#rate-limit)
-    -   [Troubleshooting your scheduled jobs](https://pipedream.com/docs/#troubleshooting-your-scheduled-jobs)
--   [Email](https://pipedream.com/docs/#email)
-    -   [Sending large emails](https://pipedream.com/docs/#sending-large-emails)
-    -   [Appending metadata to the incoming email address with +data](https://pipedream.com/docs/#appending-metadata-to-the-incoming-email-address-with-data)
--   [RSS](https://pipedream.com/docs/#rss)
--   [SDK](https://pipedream.com/docs/#sdk)
--   [Don't see a trigger you need?](https://pipedream.com/docs/#don-t-see-a-trigger-you-need)
--   [Multiple triggers for one workflow](https://pipedream.com/docs/#multiple-triggers-for-one-workflow)
+- [App-based Triggers](https://pipedream.com/docs/#app-based-triggers)
+  - [What's the difference between an event source and a trigger?](https://pipedream.com/docs/#what-s-the-difference-between-an-event-source-and-a-trigger)
+  - [Dependent and Independent Sources](https://pipedream.com/docs/#dependent-and-independent-sources)
+  - [Shape of the steps.trigger.event object](https://pipedream.com/docs/#shape-of-the-steps-trigger-event-object)
+- [HTTP](https://pipedream.com/docs/#http)
+  - [Accessing HTTP request data](https://pipedream.com/docs/#accessing-http-request-data)
+  - [Valid Requests](https://pipedream.com/docs/#valid-requests)
+  - [How Pipedream handles JSON payloads](https://pipedream.com/docs/#how-pipedream-handles-json-payloads)
+  - [How Pipedream handles multipart/form-data](https://pipedream.com/docs/#how-pipedream-handles-multipart-form-data)
+  - [Sending large payloads](https://pipedream.com/docs/#sending-large-payloads)
+  - [Large File Support](https://pipedream.com/docs/#large-file-support)
+  - [Cross-Origin HTTP Requests](https://pipedream.com/docs/#cross-origin-http-requests)
+  - [HTTP Responses](https://pipedream.com/docs/#http-responses)
+  - [Errors](https://pipedream.com/docs/#errors)
+  - [Validating requests](https://pipedream.com/docs/#validating-requests)
+- [Schedule](https://pipedream.com/docs/#schedule)
+  - [Choosing a cron trigger](https://pipedream.com/docs/#choosing-a-cron-trigger)
+  - [Testing a cron job](https://pipedream.com/docs/#testing-a-cron-job)
+  - [Future executions of your cron job](https://pipedream.com/docs/#future-executions-of-your-cron-job)
+  - [Job History](https://pipedream.com/docs/#job-history)
+  - [Trigger a notification to an external service (email, Slack, etc.)](https://pipedream.com/docs/#trigger-a-notification-to-an-external-service-email-slack-etc)
+  - [Rate Limit](https://pipedream.com/docs/#rate-limit)
+  - [Troubleshooting your scheduled jobs](https://pipedream.com/docs/#troubleshooting-your-scheduled-jobs)
+- [Email](https://pipedream.com/docs/#email)
+  - [Sending large emails](https://pipedream.com/docs/#sending-large-emails)
+  - [Appending metadata to the incoming email address with +data](https://pipedream.com/docs/#appending-metadata-to-the-incoming-email-address-with-data)
+- [RSS](https://pipedream.com/docs/#rss)
+- [SDK](https://pipedream.com/docs/#sdk)
+- [Don't see a trigger you need?](https://pipedream.com/docs/#don-t-see-a-trigger-you-need)
+- [Multiple triggers for one workflow](https://pipedream.com/docs/#multiple-triggers-for-one-workflow)
 
 ## [#](https://pipedream.com/docs/#app-based-triggers) App-based Triggers
 
@@ -81,8 +81,8 @@ Moreover, you can access events emitted by sources using Pipedream's [SSE](https
 
 In order to reduce unintentional workflow invocations, certain sources are classified as "dependent" and will mirror the state of their parent workflow. For example,
 
--   When adding a source to a new workflow, that source will initially be set as dependent. If you pause or delete the workflow, that source will also be paused or deleted. If you re-enable the workflow after pausing it, the source will be re-enabled as well.
--   If you add that same source to another workflow, or create a workflow then later remove and add a different source, the source will be independent from the workflow, which means pausing, re-enabling, or deleting the workflow will not impact the source.
+- When adding a source to a new workflow, that source will initially be set as dependent. If you pause or delete the workflow, that source will also be paused or deleted. If you re-enable the workflow after pausing it, the source will be re-enabled as well.
+- If you add that same source to another workflow, or create a workflow then later remove and add a different source, the source will be independent from the workflow, which means pausing, re-enabling, or deleting the workflow will not impact the source.
 
 There is not currently any user-facing indication for dependent vs. independent sources at this time.
 
@@ -246,9 +246,9 @@ The value of the `body` property can be either a string, object, a [Buffer (open
 
 In the case where you return a Readable stream:
 
--   You must `await` the `$.respond` function (`await $.respond({ ... }`)
--   The stream must close and be finished reading within your [workflow execution timeout](https://pipedream.com/docs/limits/#time-per-execution).
--   You cannot return a Readable and use the [`immediate: true`](https://pipedream.com/docs/#returning-a-response-immediately) property of `$.respond`.
+- You must `await` the `$.respond` function (`await $.respond({ ... }`)
+- The stream must close and be finished reading within your [workflow execution timeout](https://pipedream.com/docs/limits/#time-per-execution).
+- You cannot return a Readable and use the [`immediate: true`](https://pipedream.com/docs/#returning-a-response-immediately) property of `$.respond`.
 
 You can **Copy** [this example workflow (opens new window)](https://pipedream.com/@dylburger/issue-an-http-response-from-a-workflow-p_ljCRdv/edit) and make an HTTP request to its endpoint URL to experiment with this.
 
@@ -276,9 +276,9 @@ If you use `$.respond()` in a workflow, **you must always make sure `$.respond()
 
 This might happen if:
 
--   You call `$.respond()` conditionally, where it does not run under certain conditions.
--   Your workflow throws an Error before you run `$.respond()`.
--   You return data in the `body` property that isn't a string, object, or Buffer.
+- You call `$.respond()` conditionally, where it does not run under certain conditions.
+- Your workflow throws an Error before you run `$.respond()`.
+- You return data in the `body` property that isn't a string, object, or Buffer.
 
 If you can't handle the `400 Bad Request` error in the application calling your workflow, you can implement `try` / `finally` logic to ensure `$.respond()` always gets called with some default message. For example:
 
@@ -324,10 +324,10 @@ We call these cron jobs "[workflows](https://pipedream.com/docs/workflows/)". Wo
 
 You can write a cron job to:
 
--   [Send an HTTP request to any URL on a schedule (opens new window)](https://pipedream.com/@dylburger/send-an-http-post-request-on-a-schedule-p_KwCYBx/readme)
--   [Send a scheduled message to email (opens new window)](https://pipedream.com/@dylburger/541cd2a9ef220f04fefa8f2d440c38d2-p_q6CMjp/readme), Slack, Discord, or any messaging app
--   Pull data from an API, process it, and send the results to Slack, or even data stores like Amazon S3
--   [Run any Node.js (JavaScript) code, using almost any npm package (opens new window)](https://pipedream.com/@dylburger/email-the-top-story-from-hacker-news-every-day-p_JZC28O/readme). **This lets you do almost anything you want on a schedule**.
+- [Send an HTTP request to any URL on a schedule (opens new window)](https://pipedream.com/@dylburger/send-an-http-post-request-on-a-schedule-p_KwCYBx/readme)
+- [Send a scheduled message to email (opens new window)](https://pipedream.com/@dylburger/541cd2a9ef220f04fefa8f2d440c38d2-p_q6CMjp/readme), Slack, Discord, or any messaging app
+- Pull data from an API, process it, and send the results to Slack, or even data stores like Amazon S3
+- [Run any Node.js (JavaScript) code, using almost any npm package (opens new window)](https://pipedream.com/@dylburger/email-the-top-story-from-hacker-news-every-day-p_JZC28O/readme). **This lets you do almost anything you want on a schedule**.
 
 Pipedream manages the servers where these cron jobs run, so you don't have to worry about setting up a server of your own or operating some service just to run code on a schedule. You write the workflow, we take care of the rest.
 
@@ -339,8 +339,8 @@ To create a cron job, create a new workflow and search for the **Schedule** trig
 
 By default, your cron job will be turned **Off**. **To enable it, select either of the scheduling options**:
 
--   **Every** : run the job every N days, hours, minutes (e.g. every 1 day, every 3 hours).
--   **Cron Expression** : schedule your job using a cron expression. For example, the expression `0 0 * * *` will run the job every day at midnight. Cron expressions can be tied to any timezone.
+- **Every** : run the job every N days, hours, minutes (e.g. every 1 day, every 3 hours).
+- **Cron Expression** : schedule your job using a cron expression. For example, the expression `0 0 * * *` will run the job every day at midnight. Cron expressions can be tied to any timezone.
 
 ### [#](https://pipedream.com/docs/#testing-a-cron-job) Testing a cron job
 

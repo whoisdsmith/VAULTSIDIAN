@@ -60,7 +60,7 @@ pd dev [--dc <existing-deployed-component-id>] <file-or-name>
 
 See the [CLI reference](/cli/reference/) for detailed usage and examples beyond those covered below.
 
-# Hello World!
+# Hello World
 
 Here is a simple component that will emit an event with a payload of `{ message: "hello world!" }` on each invocation.
 
@@ -305,7 +305,7 @@ export default {
 
 ## Emit items in an RSS Feed
 
-> **Note:** The code for the examples below was adapted from the samples provided in the readme for the `rss-parser` package at https://www.npmjs.com/package/rss-parser. To use most npm packages on Pipedream, just `import` them — there is no `package.json` or `npm install` required.
+> **Note:** The code for the examples below was adapted from the samples provided in the readme for the `rss-parser` package at <https://www.npmjs.com/package/rss-parser>. To use most npm packages on Pipedream, just `import` them — there is no `package.json` or `npm install` required.
 
 To parse the RSS feed, we'll use the `rss-parser` npm package.
 

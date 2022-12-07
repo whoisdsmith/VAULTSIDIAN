@@ -49,7 +49,7 @@ Thematic breaks do not need blank lines before or after:
 Thematic breaks can interrupt a paragraph:  
 <Example :index="$page.frontmatter.start++"/>
 
-If a line of dashes that meets the above conditions for being a thematic break could also be interpreted as the underline of a [setext heading](https://github.github.com/gfm/#setext-heading), the interpretation as a [setext heading](https://github.github.com/gfm/#setext-heading) takes precedence. Thus, for example, this is a setext heading, not a paragraph followed by a thematic break:      
+If a line of dashes that meets the above conditions for being a thematic break could also be interpreted as the underline of a [setext heading](https://github.github.com/gfm/#setext-heading), the interpretation as a [setext heading](https://github.github.com/gfm/#setext-heading) takes precedence. Thus, for example, this is a setext heading, not a paragraph followed by a thematic break:
 
 <Example :index="$page.frontmatter.start++"/>
 

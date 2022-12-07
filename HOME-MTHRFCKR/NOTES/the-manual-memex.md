@@ -10,7 +10,7 @@ David Alan Grier, Djaghe, LLC
 
 ### literature and how it is laying the foundation for
 
-### the future of computer science and engineering.
+### the future of computer science and engineering
 
 ```
 Digital Object Identif ier 10.1109/MC.2019.
@@ -319,26 +319,26 @@ useful in these articles.
 REFERENCES
 ```
 
-1.  V. Bush, “As we may think,” Atl.  
+1. V. Bush, “As we may think,” Atl.  
     Mon., vol. 176, no. 1, p. 101, July 1945.
-2.  D. Deutsch, “Quantum theory, the  
+2. D. Deutsch, “Quantum theory, the  
     Church-Turing principle, and the  
     universal quantum computer,” Proc.  
     R. Soc. A Math. Phys. Eng. Sci., vol.  
     400, no. 1818, pp. 97–117, July 1985.  
     doi: 10.1098/rspa.1985.0070.
-3.  P. W. Shor, “Algorithms for quantum  
+3. P. W. Shor, “Algorithms for quantum  
     computation: Discrete logarithms  
     and factoring,” in Proc. 35th Annu.  
     Symp. Foundations Computer Science,  
     Santa Fe, NM, 1994, p. 124. doi:  
     10.1109/SFCS.1994.365700.
-4.  M. Oskin, F. T. Chong, and I. L.  
+4. M. Oskin, F. T. Chong, and I. L.  
     Chuang, “A practical architecture  
     for reliable quantum computers,”  
     Computer, vol. 33, no 1, pp. 79–87, Jan.
-5.  doi: 10.1109/2.976922.
-6.  M. Fleischmann and S. Pons,  
+5. doi: 10.1109/2.976922.
+6. M. Fleischmann and S. Pons,  
     “Electrochemically induced  
     nuclear fusion of deuterium,” J.  
     Electroanal. Chem., vol. 261, no.  

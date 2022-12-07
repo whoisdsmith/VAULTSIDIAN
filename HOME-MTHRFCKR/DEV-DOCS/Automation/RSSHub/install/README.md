@@ -27,7 +27,7 @@ We recommend using the latest version `diygod/rsshub` (i.e. `diygod/rsshub:lates
 When the latest version is unstable, you can use the image with a date tag for temporary use. For example:
 
 ```bash
-$ docker pull diygod/rsshub:2021-06-18
+docker pull diygod/rsshub:2021-06-18
 ```
 
 You can back to the latest version when the code has been fixed and rebuild the image.
@@ -45,13 +45,13 @@ wget https://raw.githubusercontent.com/DIYgod/RSSHub/master/docker-compose.yml
 Create a docker volume to persist Redis caches
 
 ```bash
-$ docker volume create redis-data
+docker volume create redis-data
 ```
 
 Launch
 
 ```bash
-$ docker-compose up -d
+docker-compose up -d
 ```
 
 ### Update
@@ -59,13 +59,13 @@ $ docker-compose up -d
 Remove old containers
 
 ```bash
-$ docker-compose down
+docker-compose down
 ```
 
 Repull the latest image if you have downloaded the image before. It is helpful to resolve some issues.
 
 ```bash
-$ docker pull diygod/rsshub
+docker pull diygod/rsshub
 ```
 
 Then repeat the installation steps
@@ -81,13 +81,13 @@ Edit `environment` in [docker-compose.yml](https://github.com/DIYgod/RSSHub/blob
 Execute the following command to pull RSSHub's docker image.
 
 ```bash
-$ docker pull diygod/rsshub
+docker pull diygod/rsshub
 ```
 
 Start a RSSHub container
 
 ```bash
-$ docker run -d --name rsshub -p 1200:1200 diygod/rsshub
+docker run -d --name rsshub -p 1200:1200 diygod/rsshub
 ```
 
 Visit [http://127.0.0.1:1200/](http://127.0.0.1:1200/), and enjoy it! ✅
@@ -95,7 +95,7 @@ Visit [http://127.0.0.1:1200/](http://127.0.0.1:1200/), and enjoy it! ✅
 Execute the following command to stop `RSSHub`.
 
 ```bash
-$ docker stop rsshub
+docker stop rsshub
 ```
 
 ### Update
@@ -103,8 +103,8 @@ $ docker stop rsshub
 Remove the old container
 
 ```bash
-$ docker stop rsshub
-$ docker rm rsshub
+docker stop rsshub
+docker rm rsshub
 ```
 
 Then repeat the installation steps
@@ -116,7 +116,7 @@ The simplest way to configure RSSHub container is via system environment variabl
 For example, adding `-e CACHE_EXPIRE=3600` will set the cache time to 1 hour.
 
 ```bash
-$ docker run -d --name rsshub -p 1200:1200 -e CACHE_EXPIRE=3600 -e GITHUB_ACCESS_TOKEN=example diygod/rsshub
+docker run -d --name rsshub -p 1200:1200 -e CACHE_EXPIRE=3600 -e GITHUB_ACCESS_TOKEN=example diygod/rsshub
 ```
 
 This deployment method does not include puppeteer and Redis dependencies. Use the Docker Compose deployment method or deploy external dependencies yourself if you need it.
@@ -161,8 +161,8 @@ The most direct way to deploy `RSSHub`, you can follow the steps below to deploy
 Execute the following commands to download the source code
 
 ```bash
-$ git clone https://github.com/DIYgod/RSSHub.git
-$ cd RSSHub
+git clone https://github.com/DIYgod/RSSHub.git
+cd RSSHub
 ```
 
 Execute the following commands to install dependencies (Do not add the `--production` parameter for development).
@@ -170,13 +170,13 @@ Execute the following commands to install dependencies (Do not add the `--produc
 Using `npm`
 
 ```bash
-$ npm ci --production
+npm ci --production
 ```
 
 Or `yarnv1` (not recommended)
 
 ```bash
-$ yarn --production
+yarn --production
 ```
 
 ### Launch
@@ -184,19 +184,19 @@ $ yarn --production
 Under `RSSHub`'s root directory, execute the following commands to launch
 
 ```bash
-$ npm start
+npm start
 ```
 
 Or
 
 ```bash
-$ yarn start
+yarn start
 ```
 
 Or use [PM2](https://pm2.io/docs/plus/quick-start/)
 
 ```bash
-$ pm2 start lib/index.js --name rsshub
+pm2 start lib/index.js --name rsshub
 ```
 
 Visit [http://127.0.0.1:1200/](http://127.0.0.1:1200/), and enjoy it! ✅
@@ -225,7 +225,7 @@ To configure more options please refer to [Configuration](#configuration).
 Under `RSSHub`'s directory, execute the following commands to pull the latest source code for `RSSHub`
 
 ```bash
-$ git pull
+git pull
 ```
 
 Then repeat the installation steps.
@@ -246,7 +246,7 @@ in pkgs.stdenv.mkDerivation {
 
 ## Deploy to Heroku
 
-### Notice:
+### Notice
 
 Heroku accounts with unverified payment methods have only 550 hours of credit per month (about 23 days), and up to 1,000 hours per month with verified payment methods.
 
@@ -347,10 +347,10 @@ If you would like to test routes or avoid IP limits, etc., you may build your ow
 
 ::: warning Warning
 
--   [DockerHub](https://hub.docker.com) account required
--   [Play with Docker](https://labs.play-with-docker.com/) instance will last for 4 hours at most. It should only be used for testing purpose
--   If deploy success but port cannot be auto-deteced，please click the `open port` button on the top and type `1200`
--   Sometimes PWD won't work as expected. If you encounter blank screen after `Start`, or some error during initialization, please retry
+- [DockerHub](https://hub.docker.com) account required
+- [Play with Docker](https://labs.play-with-docker.com/) instance will last for 4 hours at most. It should only be used for testing purpose
+- If deploy success but port cannot be auto-deteced，please click the `open port` button on the top and type `1200`
+- Sometimes PWD won't work as expected. If you encounter blank screen after `Start`, or some error during initialization, please retry
 
 :::
 
@@ -383,17 +383,17 @@ resolved by the SOCKS server, recommanded, prevents DNS poisoning or DNS leak), 
 
 > Proxy URI's format:
 >
-> -   `{protocol}://{host}:{port}`
-> -   `{protocol}://{username}:{password}@{host}:{port}` (with credentials)
+> - `{protocol}://{host}:{port}`
+> - `{protocol}://{username}:{password}@{host}:{port}` (with credentials)
 >
 > Some examples:
 >
-> -   `socks4://127.0.0.1:1080`
-> -   `socks5h://user:pass@127.0.0.1:1080` (username as `user`, password as `pass`)
-> -   `socks://127.0.0.1:1080` (`socks5h` when protocol is `socks`)
-> -   `http://127.0.0.1:8080`
-> -   `http://user:pass@127.0.0.1:8080`
-> -   `https://127.0.0.1:8443`
+> - `socks4://127.0.0.1:1080`
+> - `socks5h://user:pass@127.0.0.1:1080` (username as `user`, password as `pass`)
+> - `socks://127.0.0.1:1080` (`socks5h` when protocol is `socks`)
+> - `http://127.0.0.1:8080`
+> - `http://user:pass@127.0.0.1:8080`
+> - `https://127.0.0.1:8443`
 
 #### Proxy options
 
@@ -411,7 +411,7 @@ resolved by the SOCKS server, recommanded, prevents DNS poisoning or DNS leak), 
 
 Routes in `protected_route.js` will be protected using HTTP Basic Authentication.
 
-When adding feeds using RSS readers with HTTP Basic Authentication support, authentication information is required, eg: https://usernam3:passw0rd@rsshub.app/protected/rsshub/routes.
+When adding feeds using RSS readers with HTTP Basic Authentication support, authentication information is required, eg: <https://usernam3:passw0rd@rsshub.app/protected/rsshub/routes>.
 
 For readers that do not support HTTP Basic authentication, please refer to [Access Control Configuration](#access-control-configuration).
 
@@ -429,15 +429,15 @@ RSSHub supports access control via access key/code, whitelisting and blacklistin
 
 #### White/blacklisting
 
--   `WHITELIST`: the blacklist. When set, values in `BLACKLIST` are disregarded
+- `WHITELIST`: the blacklist. When set, values in `BLACKLIST` are disregarded
 
--   `BLACKLIST`: the blacklist
+- `BLACKLIST`: the blacklist
 
 White/blacklisting support IP, route and UA as values, fuzzy matching. Use `,` as the delimiter to separate multiple values, eg: `WHITELIST=1.1.1.1,2.2.2.2,/qdaily/column/59`
 
 #### Access Key/Code
 
--   `ACCESS_KEY`: the access key. When set, access via the key directly or the access code described above
+- `ACCESS_KEY`: the access key. When set, access via the key directly or the access code described above
 
 Access code is the md5 generated based on the access key + route, eg:
 
@@ -445,9 +445,9 @@ Access code is the md5 generated based on the access key + route, eg:
 | ----------- | ----------------- | ---------------------------------------- | -------------------------------- |
 | ILoveRSSHub | /qdaily/column/59 | md5('/qdaily/column/59' + 'ILoveRSSHub') | 0f820530128805ffc10351f22b5fd121 |
 
--   Routes are accessible via `code`, eg: <https://rsshub.app/qdaily/column/59?code=0f820530128805ffc10351f22b5fd121>
+- Routes are accessible via `code`, eg: <https://rsshub.app/qdaily/column/59?code=0f820530128805ffc10351f22b5fd121>
 
--   Or using `key` directly, eg: <https://rsshub.app/qdaily/column/59?key=ILoveRSSHub>
+- Or using `key` directly, eg: <https://rsshub.app/qdaily/column/59?key=ILoveRSSHub>
 
 See the relation between access key/code and white/blacklisting.
 
@@ -498,111 +498,111 @@ See docs of the specified route and `lib/config.js` for detailed information.
 
 :::
 
--   pixiv: [Registration](https://accounts.pixiv.net/signup)
+- pixiv: [Registration](https://accounts.pixiv.net/signup)
 
-    -   `PIXIV_REFRESHTOKEN`: Please refer to [this article](https://gist.github.com/ZipFile/c9ebedb224406f4f11845ab700124362) to get a `refresh_token`
+  - `PIXIV_REFRESHTOKEN`: Please refer to [this article](https://gist.github.com/ZipFile/c9ebedb224406f4f11845ab700124362) to get a `refresh_token`
 
-    -   `PIXIV_BYPASS_CDN`: bypass Cloudflare bot check by directly accessing Pixiv source server, defaults to disable, set `true` or `1` to enable
+  - `PIXIV_BYPASS_CDN`: bypass Cloudflare bot check by directly accessing Pixiv source server, defaults to disable, set `true` or `1` to enable
 
-    -   `PIXIV_BYPASS_HOSTNAME`: Pixiv source server hostname or IP address, hostname will be resolved to IPv4 address via `PIXIV_BYPASS_DOH`, defaults to `public-api.secure.pixiv.net`
+  - `PIXIV_BYPASS_HOSTNAME`: Pixiv source server hostname or IP address, hostname will be resolved to IPv4 address via `PIXIV_BYPASS_DOH`, defaults to `public-api.secure.pixiv.net`
 
-    -   `PIXIV_BYPASS_DOH`: DNS over HTTPS endpoint, it must be compatible with Cloudflare or Google DoH JSON schema, defaults to `https://1.1.1.1/dns-query`
+  - `PIXIV_BYPASS_DOH`: DNS over HTTPS endpoint, it must be compatible with Cloudflare or Google DoH JSON schema, defaults to `https://1.1.1.1/dns-query`
 
-    -   `PIXIV_IMG_PROXY`: Used as a proxy for image addresses, as pixiv images have anti-theft, default to `https://i.pixiv.cat`
+  - `PIXIV_IMG_PROXY`: Used as a proxy for image addresses, as pixiv images have anti-theft, default to `https://i.pixiv.cat`
 
--   pixiv fanbox: Get paid content
+- pixiv fanbox: Get paid content
 
-    -   `FANBOX_SESSION_ID`: equals to `FANBOXSESSID` in site cookies.
+  - `FANBOX_SESSION_ID`: equals to `FANBOXSESSID` in site cookies.
 
--   disqus: [API Key application](https://disqus.com/api/applications/)
+- disqus: [API Key application](https://disqus.com/api/applications/)
 
-    -   `DISQUS_API_KEY`: Disqus API
+  - `DISQUS_API_KEY`: Disqus API
 
--   twitter: [Application creation](https://apps.twitter.com)
+- twitter: [Application creation](https://apps.twitter.com)
 
-    -   `TWITTER_CONSUMER_KEY`: Twitter Consumer Key, support multiple keys, split them with `,`
+  - `TWITTER_CONSUMER_KEY`: Twitter Consumer Key, support multiple keys, split them with `,`
 
-    -   `TWITTER_CONSUMER_SECRET`: Twitter Consumer Secret, support multiple keys, split them with `,`
+  - `TWITTER_CONSUMER_SECRET`: Twitter Consumer Secret, support multiple keys, split them with `,`
 
-    -   `TWITTER_TOKEN_{handler}`: The token generated by the corresponding Twitter handler, replace `{handler}` with the Twitter handler, the value is a combination of `Twitter API key, Twitter API key secret, Access token, Access token secret` connected by a comma `,`. Eg. `TWITTER_TOKEN_RSSHub=bX1zry5nG4d1RbESQbnADpVIo,2YrD8qo9sXbB8VlYfVmo1Qtw0xsexnOliU5oZofq7aPIGou0Xx,123456789-hlkUHFYmeXrRcf6SEQciP8rP4lzmRgMgwdqIN9aK,pHcPnfa28rCIKhSICUCiaw9ppuSSl7T2f3dnGYpSM0bod`.
+  - `TWITTER_TOKEN_{handler}`: The token generated by the corresponding Twitter handler, replace `{handler}` with the Twitter handler, the value is a combination of `Twitter API key, Twitter API key secret, Access token, Access token secret` connected by a comma `,`. Eg. `TWITTER_TOKEN_RSSHub=bX1zry5nG4d1RbESQbnADpVIo,2YrD8qo9sXbB8VlYfVmo1Qtw0xsexnOliU5oZofq7aPIGou0Xx,123456789-hlkUHFYmeXrRcf6SEQciP8rP4lzmRgMgwdqIN9aK,pHcPnfa28rCIKhSICUCiaw9ppuSSl7T2f3dnGYpSM0bod`.
 
--   youtube: [API Key application](https://console.developers.google.com/)
+- youtube: [API Key application](https://console.developers.google.com/)
 
-    -   `YOUTUBE_KEY`: YouTube API Key, support multiple keys, split them with `,`
+  - `YOUTUBE_KEY`: YouTube API Key, support multiple keys, split them with `,`
 
--   telegram: [Bot application](https://telegram.org/blog/bot-revolution)
+- telegram: [Bot application](https://telegram.org/blog/bot-revolution)
 
-    -   `TELEGRAM_TOKEN`: Telegram bot token
+  - `TELEGRAM_TOKEN`: Telegram bot token
 
--   github: [Access Token application](https://github.com/settings/tokens)
+- github: [Access Token application](https://github.com/settings/tokens)
 
-    -   `GITHUB_ACCESS_TOKEN`: GitHub Access Token
+  - `GITHUB_ACCESS_TOKEN`: GitHub Access Token
 
--   spotify: [API key registration](https://developer.spotify.com)
+- spotify: [API key registration](https://developer.spotify.com)
 
-    -   `SPOTIFY_CLIENT_ID`：Client ID of the application
+  - `SPOTIFY_CLIENT_ID`：Client ID of the application
 
-    -   `SPOTIFY_CLIENT_SECRET`：Client secret of the application
+  - `SPOTIFY_CLIENT_SECRET`：Client secret of the application
 
--   spotify (user data related routes):
+- spotify (user data related routes):
 
-    -   `SPOTIFY_REFRESHTOKEN`：The refresh token of the user f the Spotify application. Check [this gist](https://gist.github.com/outloudvi/d1bbeb5e989db5385384a223a7263744) for detailed information.
+  - `SPOTIFY_REFRESHTOKEN`：The refresh token of the user f the Spotify application. Check [this gist](https://gist.github.com/outloudvi/d1bbeb5e989db5385384a223a7263744) for detailed information.
 
--   Instagram:
+- Instagram:
 
-    -   `IG_USERNAME`: Your Instagram username
-    -   `IG_PASSWORD`: Your Instagram password
-    -   `IG_PROXY`: Proxy URL for Instagram
+  - `IG_USERNAME`: Your Instagram username
+  - `IG_PASSWORD`: Your Instagram password
+  - `IG_PROXY`: Proxy URL for Instagram
 
     Warning: Two Factor Authentication is **not** supported.
 
--   mail:
+- mail:
 
-    -   `EMAIL_CONFIG_{email}`: Mail setting, replace `{email}` with the email account, replace `@` in email account with `.`, eg. `EMAIL_CONFIG_xxx.gmail.com`. The value is in the format of `password=password&host=server&port=port`, eg:
-        -   Linux env: `EMAIL_CONFIG_xxx_qq_com="password=123456&host=imap.qq.com&port=993"`
-        -   docker env: `EMAIL_CONFIG_xxx_qq_com=password=123456&host=imap.qq.com&port=993`, please do not include quotations `'`,`"`
+  - `EMAIL_CONFIG_{email}`: Mail setting, replace `{email}` with the email account, replace `@` in email account with `.`, eg. `EMAIL_CONFIG_xxx.gmail.com`. The value is in the format of `password=password&host=server&port=port`, eg:
+    - Linux env: `EMAIL_CONFIG_xxx_qq_com="password=123456&host=imap.qq.com&port=993"`
+    - docker env: `EMAIL_CONFIG_xxx_qq_com=password=123456&host=imap.qq.com&port=993`, please do not include quotations `'`,`"`
 
--   nhentai torrent: [Registration](https://nhentai.net/register/)
+- nhentai torrent: [Registration](https://nhentai.net/register/)
 
-    -   `NHENTAI_USERNAME`: nhentai username or email
-    -   `NHENTAI_PASSWORD`: nhentai password
+  - `NHENTAI_USERNAME`: nhentai username or email
+  - `NHENTAI_PASSWORD`: nhentai password
 
--   Discuz cookie
+- Discuz cookie
 
-    -   `DISCUZ_COOKIE_{cid}`: Cookie of a forum powered by Discuz, cid can be anything from 00 to 99. When visiting a Discuz route, use cid to specify this cookie.
+  - `DISCUZ_COOKIE_{cid}`: Cookie of a forum powered by Discuz, cid can be anything from 00 to 99. When visiting a Discuz route, use cid to specify this cookie.
 
--   Last.fm
+- Last.fm
 
-    -   `LASTFM_API_KEY`: Last.fm API Key
+  - `LASTFM_API_KEY`: Last.fm API Key
 
--   Mastodon user timeline: apply API here `https://mastodon.example/settings/applications`(repalce `mastodon.example`), please check scope `read:search`
+- Mastodon user timeline: apply API here `https://mastodon.example/settings/applications`(repalce `mastodon.example`), please check scope `read:search`
 
-    -   `MASTODON_API_HOST`: API instance domain
-    -   `MASTODON_API_ACCESS_TOKEN`: user access token
-    -   `MASTODON_API_ACCT_DOMAIN`: acct domain for particular instance
+  - `MASTODON_API_HOST`: API instance domain
+  - `MASTODON_API_ACCESS_TOKEN`: user access token
+  - `MASTODON_API_ACCT_DOMAIN`: acct domain for particular instance
 
--   Sci-hub for scientific journal routes:
+- Sci-hub for scientific journal routes:
 
-    -   `SCIHUB_HOST`: The Sci-hub mirror address that is accessible from your location, default to `https://sci-hub.se`.
+  - `SCIHUB_HOST`: The Sci-hub mirror address that is accessible from your location, default to `https://sci-hub.se`.
 
--   Wordpress:
+- Wordpress:
 
-    -   `WORDPRESS_CDN`: Proxy HTTP image link with HTTPS link. Consider using:
+  - `WORDPRESS_CDN`: Proxy HTTP image link with HTTPS link. Consider using:
 
         | url                                    | backbone     |
         | -------------------------------------- | ------------ |
-        | https://imageproxy.pimg.tw/resize?url= | akamai       |
-        | https://images.weserv.nl/?url=         | cloudflare   |
-        | https://pic1.xuehuaimg.com/proxy/      | cloudflare   |
-        | https://cors.netnr.workers.dev/        | cloudflare   |
-        | https://netnr-proxy.openode.io/        | digitalocean |
+        | <https://imageproxy.pimg.tw/resize?url>= | akamai       |
+        | <https://images.weserv.nl/?url>=         | cloudflare   |
+        | <https://pic1.xuehuaimg.com/proxy/>      | cloudflare   |
+        | <https://cors.netnr.workers.dev/>        | cloudflare   |
+        | <https://netnr-proxy.openode.io/>        | digitalocean |
 
--   E-Hentai
-    -   `EH_IPB_MEMBER_ID`: The value of `ipb_member_id` in the cookie header after logging in E-Hentai
-    -   `EH_IPB_PASS_HASH`: The value of `ipb_pass_hash` in the cookie header after logging in E-Hentai
-    -   `EH_SK`: The value of `sk` in the cookie header after logging in E-Hentai
+- E-Hentai
+  - `EH_IPB_MEMBER_ID`: The value of `ipb_member_id` in the cookie header after logging in E-Hentai
+  - `EH_IPB_PASS_HASH`: The value of `ipb_pass_hash` in the cookie header after logging in E-Hentai
+  - `EH_SK`: The value of `sk` in the cookie header after logging in E-Hentai
 
--   Google Fonts: [API key application](https://developers.google.com/fonts/docs/developer_api#a_quick_example)
-    - `GOOGLE_FONTS_API_KEY`: API key
--   douban
-    - `DOUBAN_COOKIE`: Cookie of douban user
+- Google Fonts: [API key application](https://developers.google.com/fonts/docs/developer_api#a_quick_example)
+  - `GOOGLE_FONTS_API_KEY`: API key
+- douban
+  - `DOUBAN_COOKIE`: Cookie of douban user

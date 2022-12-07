@@ -166,7 +166,7 @@
 * [Net-Load](https://net-load.com/) - Software
 * [MostIWant](https://www.mostiwant.com/) - Software
 * [ShareWareOnSale](https://sharewareonsale.com/) - Software
-* [sos-windows2 ](https://groups.google.com/g/sos-windows2)- Software
+* [sos-windows2](https://groups.google.com/g/sos-windows2)- Software
 * [/r/googleplaydeals](https://reddit.com/r/googleplaydeals) - APKs
 * [/r/AppHookup](https://www.reddit.com/r/AppHookup/) - APKs
 * [App Sales](https://www.app-sales.net/) - APKs
@@ -309,7 +309,7 @@
 * [WindowSwap](https://window-swap.com/window) or [VisualVacation](https://virtualvacation.us/window) - Open Random Windows
 * [BigPixel](http://en.bigpixel.cn/) - Giant Zoomable Photos
 * [larsberg](http://www.larsberg.net/), [substack](https://substack.net/) or [mrdoob](https://mrdoob.neocities.org/) - Trippy 3D Experiments
-* [Just Type Stuff ](https://web.archive.org/web/20191229101209/https://justtypestuff.com/)- Type Things into Existence
+* [Just Type Stuff](https://web.archive.org/web/20191229101209/https://justtypestuff.com/)- Type Things into Existence
 * [Unsent Letter](https://unsent-letters.netlify.app/) - Read Random Unsent Letters
 * [WriteAPrisoner](https://writeaprisoner.com/) - Pen Pals for Inmates
 * [PenPal World](https://www.penpalworld.com/) or [GlobalPenFriends](https://www.globalpenfriends.com/) - Pen Pal Community
@@ -842,7 +842,7 @@
 * [FitoTrack](https://codeberg.org/jannis/FitoTrack) - Fitness Tracker
 * [Liftosaur](https://www.liftosaur.com/) - Weight Lifting Tracker / [GitHub](https://github.com/astashov/liftosaur)
 * [MuscleWiki](https://musclewiki.com/) - Muscle / Exercise Information Tool
-* [SPSS Tutorials ](https://www.spss-tutorials.com/)- SPSS Practice & Examples
+* [SPSS Tutorials](https://www.spss-tutorials.com/)- SPSS Practice & Examples
 * [Fitness Blender](https://www.fitnessblender.com/videos?exclusive%5B%5D=0) - Workout Videos
 * [Fitocracy](https://www.fitocracy.com/) or [Timely-Fitness](https://github.com/Argentable/Timely-Fitness) - Create Workout Plans
 * [DAREBEE](https://darebee.com/) - Fitness Plans / Workouts

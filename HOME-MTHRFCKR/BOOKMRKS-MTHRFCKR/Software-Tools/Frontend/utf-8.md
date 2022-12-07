@@ -1,6 +1,6 @@
 # UTF-8
 
-https://developer.mozilla.org/en-US/docs/Glossary/UTF-8
+<https://developer.mozilla.org/en-US/docs/Glossary/UTF-8>
 
 - UTF-8 (UCS Transformation Format 8) is the World Wide Web's most common character encoding.
 - Each character is represented by one to four bytes.

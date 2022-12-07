@@ -10,9 +10,9 @@ It's important to understand the core difference between Node.js and the JavaScr
 
 ## [#](https://pipedream.com/docs/#adding-a-code-step) Adding a code step
 
-1.  Click the **+** button below any step of your workflow.
-2.  Select the option to **Run custom code**.
-3.  Select the `nodejs14.x` runtime.
+1. Click the **+** button below any step of your workflow.
+2. Select the option to **Run custom code**.
+3. Select the `nodejs14.x` runtime.
 
 You can add any Node.js code in the editor that appears. For example, try:
 
@@ -38,16 +38,16 @@ When you add a new Node.js code step or use the examples in this doc, you'll not
 
 This defines [a Node.js component](https://pipedream.com/docs/components/api/). Components let you:
 
--   Pass input to steps using [props](https://pipedream.com/docs/code/nodejs/#passing-props-to-code-steps)
--   [Connect an account to a step](https://pipedream.com/docs/connected-accounts/#from-a-code-step)
--   [Issue HTTP responses](https://pipedream.com/docs/workflows/steps/triggers/#customizing-the-http-response)
--   Perform workflow-level flow control, like [ending a workflow early](https://pipedream.com/docs/#ending-a-workflow-early)
+- Pass input to steps using [props](https://pipedream.com/docs/code/nodejs/#passing-props-to-code-steps)
+- [Connect an account to a step](https://pipedream.com/docs/connected-accounts/#from-a-code-step)
+- [Issue HTTP responses](https://pipedream.com/docs/workflows/steps/triggers/#customizing-the-http-response)
+- Perform workflow-level flow control, like [ending a workflow early](https://pipedream.com/docs/#ending-a-workflow-early)
 
 When the step runs, Pipedream executes the `run` method:
 
--   Any asynchronous code within a code step [**must** be run synchronously](https://pipedream.com/docs/workflows/steps/code/async/), using the `await` keyword or with a Promise chain, using `.then()`, `.catch()`, and related methods.
--   Pipedream passes the `steps` variable to the run method. `steps` is also an object, and contains the [data exported from previous steps](https://pipedream.com/docs/workflows/steps/#step-exports) in your workflow.
--   You also have access to the `$` variable, which gives you access to methods like `$.respond`, `$.export`, [and more](https://pipedream.com/docs/components/api/#actions).
+- Any asynchronous code within a code step [**must** be run synchronously](https://pipedream.com/docs/workflows/steps/code/async/), using the `await` keyword or with a Promise chain, using `.then()`, `.catch()`, and related methods.
+- Pipedream passes the `steps` variable to the run method. `steps` is also an object, and contains the [data exported from previous steps](https://pipedream.com/docs/workflows/steps/#step-exports) in your workflow.
+- You also have access to the `$` variable, which gives you access to methods like `$.respond`, `$.export`, [and more](https://pipedream.com/docs/components/api/#actions).
 
 If you're using [props](https://pipedream.com/docs/code/nodejs/#passing-props-to-code-steps) or [connect an account to a step](https://pipedream.com/docs/connected-accounts/#from-a-code-step), the component exposes them in the variable `this`, which refers to the current step:
 
@@ -111,11 +111,11 @@ This error means that you cannot use CommonJS and ESM imports in the same step. 
 
 your workflow will throw a `require is not defined` error. There are two solutions:
 
-1.  Try converting your CommonJS `require` statement into an ESM `import` statement. For example, convert this:
+1. Try converting your CommonJS `require` statement into an ESM `import` statement. For example, convert this:
 
 to this:
 
-2.  If the `import` syntax fails to work, separate your imports into different steps, using only CommonJS requires in one step, and only ESM imports in another.
+2. If the `import` syntax fails to work, separate your imports into different steps, using only CommonJS requires in one step, and only ESM imports in another.
 
 ## [#](https://pipedream.com/docs/#variable-scope) Variable scope
 
@@ -129,8 +129,8 @@ Within a step, the [normal rules of JavaScript variable scope (opens new window)
 
 There are two ways to make HTTP requests in code steps:
 
--   Use any HTTP client that works with Node.js. [See this example guide for how to use `axios` to make HTTP requests](https://pipedream.com/docs/workflows/steps/code/nodejs/http-requests/).
--   [Use `$send.http()`](https://pipedream.com/docs/destinations/http/#using-send-http-in-workflows), a Pipedream-provided method for making asynchronous HTTP requests.
+- Use any HTTP client that works with Node.js. [See this example guide for how to use `axios` to make HTTP requests](https://pipedream.com/docs/workflows/steps/code/nodejs/http-requests/).
+- [Use `$send.http()`](https://pipedream.com/docs/destinations/http/#using-send-http-in-workflows), a Pipedream-provided method for making asynchronous HTTP requests.
 
 In general, if you just need to make an HTTP request but don't care about the response, [use `$send.http()`](https://pipedream.com/docs/destinations/http/#using-send-http-in-workflows). If you need to operate on the data in the HTTP response in the rest of your workflow, [use `axios`](https://pipedream.com/docs/workflows/steps/code/nodejs/http-requests/).
 
@@ -194,10 +194,10 @@ In addition, `$.service.db` can hold up to 60KB per step.
 
 Sometimes you want to end your workflow early, or otherwise stop or cancel the execution or a workflow under certain conditions. For example:
 
--   You may want to end your workflow early if you don't receive all the fields you expect in the event data.
--   You only want to run your workflow for 5% of all events sent to your source.
--   You only want to run your workflow for users in the United States. If you receive a request from outside the U.S., you don't want the rest of the code in your workflow to run.
--   You may use the `user_id` contained in the event to look up information in an external API. If you can't find data in the API tied to that user, you don't want to proceed.
+- You may want to end your workflow early if you don't receive all the fields you expect in the event data.
+- You only want to run your workflow for 5% of all events sent to your source.
+- You only want to run your workflow for users in the United States. If you receive a request from outside the U.S., you don't want the rest of the code in your workflow to run.
+- You may use the `user_id` contained in the event to look up information in an external API. If you can't find data in the API tied to that user, you don't want to proceed.
 
 **In any code step, calling `return $.flow.exit()` will end the execution of the workflow immediately.** No remaining code in that step, and no code or destination steps below, will run for the current event.
 
@@ -243,14 +243,14 @@ When you're searching for how to do something in JavaScript, some of the code yo
 
 Many of the most basic JavaScript tutorials are geared towards writing code for a web browser to run. This is great for learning — a webpage is one of the coolest things you can build with code. We recommend starting with these general JavaScript tutorials and trying the code you learn on Pipedream:
 
--   [JavaScript For Cats (opens new window)](http://jsforcats.com/)
--   [Mozilla - JavaScript First Steps (opens new window)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
--   [StackOverflow (opens new window)](https://stackoverflow.com/) operates a programming Q&A site that typically has the first Google result when you're searching for something specific. It's a great place to find answers to common questions.
+- [JavaScript For Cats (opens new window)](http://jsforcats.com/)
+- [Mozilla - JavaScript First Steps (opens new window)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
+- [StackOverflow (opens new window)](https://stackoverflow.com/) operates a programming Q&A site that typically has the first Google result when you're searching for something specific. It's a great place to find answers to common questions.
 
 ### [#](https://pipedream.com/docs/#i-know-how-to-code-but-don-t-know-javascript) I know how to code, but don't know JavaScript
 
--   [A re-introduction to JavaScript (JS tutorial) (opens new window)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
--   [MDN language overview (opens new window)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
--   [Eloquent Javascript (opens new window)](https://eloquentjavascript.net/)
--   [Node School (opens new window)](https://nodeschool.io/)
--   [You Don't Know JS (opens new window)](https://github.com/getify/You-Dont-Know-JS)
+- [A re-introduction to JavaScript (JS tutorial) (opens new window)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+- [MDN language overview (opens new window)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Eloquent Javascript (opens new window)](https://eloquentjavascript.net/)
+- [Node School (opens new window)](https://nodeschool.io/)
+- [You Don't Know JS (opens new window)](https://github.com/getify/You-Dont-Know-JS)

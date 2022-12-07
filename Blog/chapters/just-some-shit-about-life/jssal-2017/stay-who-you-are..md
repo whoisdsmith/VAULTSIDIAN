@@ -1,4 +1,4 @@
-# Stay Who You Are.
+# Stay Who You Are
 
 `Be the best friend you can be to those who care about you.`
 

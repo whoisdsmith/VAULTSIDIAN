@@ -9,7 +9,7 @@ Not sure what to do first? Start here:
 
 🔹 **`Step 1`: Pick up the basics fast** - [learn more about Raindrop.io](about.md) and how it makes your life easier
 
-🔹 **`Step 2`: Migrate to Raindrop.io** - [import your old bookmarks](import.md) and [automate saving](automation.md) of your new favorites/likes from Youtube, Twitter and other sites 
+🔹 **`Step 2`: Migrate to Raindrop.io** - [import your old bookmarks](import.md) and [automate saving](automation.md) of your new favorites/likes from Youtube, Twitter and other sites
 
 🔹 **`Step 3`: Take your bookmarks anywhere** – download free Raindrop.io [apps](HOME-MTHRFCKR/DEV-DOCS/raindrop-io/help-docs/getting-started/download-app/index.md) and [extensions](HOME-MTHRFCKR/DEV-DOCS/raindrop-io/help-docs/getting-started/install-extension/index.md), [create public page](public-page.md) or [embed bookmarks on your site](embed.md).
 

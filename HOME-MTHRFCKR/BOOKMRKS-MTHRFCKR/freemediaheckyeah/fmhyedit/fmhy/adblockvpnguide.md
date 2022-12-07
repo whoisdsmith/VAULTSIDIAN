@@ -312,7 +312,7 @@
 * [Private Bookmarks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki\_password-protected\_bookmarks) - Password Protected Bookmarks
 * [Permission Inspector](https://github.com/tsl143/addonManager) - Extension Permissions Inspector
 * [History-AutoDelete](https://github.com/History-AutoDelete/History-AutoDelete) - Browser History Manager
-* [eCleaner](https://add0n.com/ecleaner.html) or [History & Cache Cleaner ](https://chrome.google.com/webstore/detail/history-cache-cleaner/oiecpgbfcchalgdchgoplichofjadhmk/related?hl=en)- History & Cache Cleaner
+* [eCleaner](https://add0n.com/ecleaner.html) or [History & Cache Cleaner](https://chrome.google.com/webstore/detail/history-cache-cleaner/oiecpgbfcchalgdchgoplichofjadhmk/related?hl=en)- History & Cache Cleaner
 * [CopyGuard](https://github.com/roedesh/copyguard) - Clipboard Hijacking Notifications
 * [Nuke-Reddit-History](https://github.com/sr33/ares) - Reddit Auto Post Delete
 * [WhatsApp Privacy Extension](https://pfwa.lukaslen.com/) - Hide WhatsApp Messages Until Hovered Over / [GitHub](https://github.com/LukasLen/Privacy-Extension-For-WhatsApp-Web)

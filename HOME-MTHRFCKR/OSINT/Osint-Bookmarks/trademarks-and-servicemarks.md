@@ -1,4 +1,5 @@
 ## Trademarks and Servicemarks
+
 - [Marcaria Intl Trademark Search](https://trademark-search.marcaria.com/en)
 - [Alabama Trademark & Servicemark Search](https://sos.alabama.gov/government-records/trademark-records)
 - [Alaska Trademark & Servicemark Search](https://www.commerce.alaska.gov/web/cbpl/corporations/trademarkregistration.aspx)

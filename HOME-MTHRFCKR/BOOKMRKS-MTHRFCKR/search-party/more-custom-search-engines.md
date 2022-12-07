@@ -632,4 +632,3 @@
 * [Lucidworks](https://www.youtube.com/user/LucidWorksSearch)
 * [Aarne Talman & Dmitry Kan – Muves: Multimodal & multilingual vector search w/ Hardware Acceleration](https://www.youtube.com/watch?v=9OS8cMf2rwY)
 * [Relevant Facets by Lucian Precup and Radu Pop](https://www.youtube.com/watch?v=W8DJYfAKKLA)
-

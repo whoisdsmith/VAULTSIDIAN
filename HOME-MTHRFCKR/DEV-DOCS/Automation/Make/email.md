@@ -1,13 +1,12 @@
--   [Make Help Center](https://www.make.com/en/help/index-en.html)
--   [Tools](https://www.make.com/en/help/tools.html)
--   Email
+- [Make Help Center](https://www.make.com/en/help/index-en.html)
+- [Tools](https://www.make.com/en/help/tools.html)
+- Email
 
 The Email app allows you to download emails via IMAP, send emails via SMTP, create new drafts, move and copy emails from one folder to another folder, mark emails as read or unread, and delete emails.
 
 ## Prerequisites
 
--   An email account
-    
+- An email account
 
 ### Caution
 
@@ -17,52 +16,49 @@ The module dialog fields that are displayed in **bold** (in the Make scenario,
 
 You can connect your Email account toMake using the following methods:
 
--   [Connecting using a Gmail account](https://www.make.com/en/help/tools/email.html#connecting-using-a-gmail-account "Connecting using a Gmail account")
-    
--   [Connecting other email using IMAP](https://www.make.com/en/help/tools/email.html#connecting-other-email-using-imap "Connecting other email using IMAP")
-    
+- [Connecting using a Gmail account](https://www.make.com/en/help/tools/email.html#connecting-using-a-gmail-account "Connecting using a Gmail account")
+
+- [Connecting other email using IMAP](https://www.make.com/en/help/tools/email.html#connecting-other-email-using-imap "Connecting other email using IMAP")
 
 ### Connecting using a Gmail account
 
-1.  Go to Make and open the **Email** module's **Create a connection** dialogue and select the Connection type as Google.
-    
-2.  In the **Connection name** field, enter a name for the connection and click **Save**.
-    
-3.  Confirm the access by clicking **Allow**.
-    
+1. Go to Make and open the **Email** module's **Create a connection** dialogue and select the Connection type as Google.
+
+2. In the **Connection name** field, enter a name for the connection and click **Save**.
+
+3. Confirm the access by clicking **Allow**.
 
 The connection has been established.
 
 ### Connecting other email using IMAP
 
-1.  Go to Make and open the **Email** module's **Create a connection** dialogue and select **Connection type as Others (IMAP)**.
-    
-2.  In the **Connection name** field, enter a name for the connection.
-    
-3.  In the **Email provider** field, do one of the following:
-    
-    1.  Select the email account.
-        
-        1.  **User name:** Enter your email address.
-            
-        2.  **Password:** Enter your password.
-            
-    2.  If your email account extension is not mentioned in the drop-down list, select **Other** and provide the following details:
-        
-        1.  **IMAP Server:** Enter incoming mail server address (IMAP). If you do not have this information available, contact your email service provider.
-            
-        2.  **Port:** Enter the port number.
-            
-        3.  **Use Secure Connection (TLS):** Select to establish a secure connection between the servers.
-            
-        4.  **Use explicit TLS:** Select to keep your connection encrypted.
-            
-        5.  **User name:** Enter your email address.
-            
-        6.  **Password:** Enter your password.
-            
-4.  Click **Continue**.
-    
+1. Go to Make and open the **Email** module's **Create a connection** dialogue and select **Connection type as Others (IMAP)**.
+
+2. In the **Connection name** field, enter a name for the connection.
+
+3. In the **Email provider** field, do one of the following:
+
+    1. Select the email account.
+
+        1. **User name:** Enter your email address.
+
+        2. **Password:** Enter your password.
+
+    2. If your email account extension is not mentioned in the drop-down list, select **Other** and provide the following details:
+
+        1. **IMAP Server:** Enter incoming mail server address (IMAP). If you do not have this information available, contact your email service provider.
+
+        2. **Port:** Enter the port number.
+
+        3. **Use Secure Connection (TLS):** Select to establish a secure connection between the servers.
+
+        4. **Use explicit TLS:** Select to keep your connection encrypted.
+
+        5. **User name:** Enter your email address.
+
+        6. **Password:** Enter your password.
+
+4. Click **Continue**.
 
 The connection has been established.
 

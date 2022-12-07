@@ -1,7 +1,7 @@
 # Animation
 
-- https://css-tricks.com/comparison-animation-technologies/
-- https://blog.logrocket.com/comparing-the-top-js-animation-libraries-for-use-in-react-apps-2/
+- <https://css-tricks.com/comparison-animation-technologies/>
+- <https://blog.logrocket.com/comparing-the-top-js-animation-libraries-for-use-in-react-apps-2/>
 
 ## Libraries
 

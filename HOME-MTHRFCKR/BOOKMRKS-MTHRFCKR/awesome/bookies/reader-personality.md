@@ -1,6 +1,6 @@
 [BookBrowse](https://www.bookbrowse.com/quiz/) - Book lovers: What's your reading personality?
 
-Result : 
+Result :
 **The All-Rounder**
 
 Your responses showed you fitting equally into all four reading personalities:

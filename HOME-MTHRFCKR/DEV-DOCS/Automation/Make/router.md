@@ -1,6 +1,6 @@
--   [Make Help Center](https://www.make.com/en/help/index-en.html)
--   [Modules](https://www.make.com/en/help/modules.html)
--   Router
+- [Make Help Center](https://www.make.com/en/help/index-en.html)
+- [Modules](https://www.make.com/en/help/modules.html)
+- Router
 
 The **Router** module allows you to branch your flow into several routes and process the data within each route differently. Once a **Router** receives a bundle, it forwards it to each connected route in the order the routes were attached to the **Router**.
 
@@ -22,12 +22,11 @@ See our scenario template for the [Controlled distribution of data flow](https:/
 
 A **Router** can be added to a scenario in one of the following ways:
 
-1.  If you wish to connect the **Router** after a module, click on the module's right "ear" and choose **[Flow Control](https://www.make.com/en/help/tools/flow-control.html "Flow control") > Router** from the list of modules.
-    
-2.  If you wish to insert the **Router** between two modules, click on the wrench icon below the route connecting the two modules (or right-click the route) and choose "Add a router" from the menu.
-    
-3.  A **Router** can also be inserted automatically in the case when you try to connect module `A` to module `B` to which another module is already connected. Just drag the left "ear" of the module `A` and drop it on to module `B`.
-    
+1. If you wish to connect the **Router** after a module, click on the module's right "ear" and choose **[Flow Control](https://www.make.com/en/help/tools/flow-control.html "Flow control") > Router** from the list of modules.
+
+2. If you wish to insert the **Router** between two modules, click on the wrench icon below the route connecting the two modules (or right-click the route) and choose "Add a router" from the menu.
+
+3. A **Router** can also be inserted automatically in the case when you try to connect module `A` to module `B` to which another module is already connected. Just drag the left "ear" of the module `A` and drop it on to module `B`.
 
 ## Filters
 
@@ -43,10 +42,10 @@ When enabled, this route is used in the case when a bundle cannot continue on fr
 
 A typical use case of the fallback route is to continue the flow with route `A` if the condition is met and with route `B` if it is not. This can be achieved with the following steps:
 
-1.  Insert a Router in your scenario.
-    
-2.  Connect both routes (`A` and `B`) to the Router.
-    
-3.  Click on the route `A` and specify a condition:
-    
-4.  Click on the route `B` and enable The fallback route option:
+1. Insert a Router in your scenario.
+
+2. Connect both routes (`A` and `B`) to the Router.
+
+3. Click on the route `A` and specify a condition:
+
+4. Click on the route `B` and enable The fallback route option:

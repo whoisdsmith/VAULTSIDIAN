@@ -1,6 +1,6 @@
--   [Make Help Center](https://www.make.com/en/help/index-en.html)
--   [Tools](https://www.make.com/en/help/tools.html)
--   Data store
+- [Make Help Center](https://www.make.com/en/help/index-en.html)
+- [Tools](https://www.make.com/en/help/tools.html)
+- Data store
 
 Data stores allow you to store data from scenario or transfer data between individual scenarios or scenario runs. You can use data stores to store data from apps during scenario execution. Data stores are similar to a simple database.
 
@@ -16,8 +16,7 @@ The various examples of use can be found [here](https://www.make.com/en/integrat
 
 Prerequisites
 
--   A data store created
-    
+- A data store created
 
 In order to use the data store modules, it is necessary to create a data store in your Make account.
 
@@ -27,12 +26,11 @@ The module dialog fields that are displayed in bold (in the Make scenario, not i
 
 ## Creating a data store in Make
 
-1.  Click _Data stores_ in the left menu.
-    
-2.  Click _Add data store_.
-    
-3.  Enter settings for the new data store.
-    
+1. Click _Data stores_ in the left menu.
+
+2. Click _Add data store_.
+
+3. Enter settings for the new data store.
 
 <table><tbody><tr><td><p><span><strong>Data store name</strong></span></p></td><td><p>Enter the name for the data store. E.g. <span><em>Contacts</em></span></p></td></tr><tr><td><p><span><strong>Data Structure</strong></span></p></td><td><p>A data structure, is a list of the columns for a table, that indicates the column name and data type.</p><p>You have three options:</p><div><ul><li><p><span><strong>Select the data structure that has been already created</strong></span></p></li><li><p><span><strong>Leave the field empty</strong></span></p><p>If you don't select a data structure, the database will only contain the primary key. Such a database type is useful if you only want to save keys and are only interested in knowing whether or not a specific key exists in the database.</p></li><li><p><span><strong>Add a new data structure</strong></span></p><p>Click the <span><em>Add</em></span> button to create a new data structure.</p></li></ul></div><p>Please see the <a href="https://www.make.com/en/help/tools/data-store.html#setting-up-the-data-structure" title="Setting up the data structure">Setting Up the Data Structure</a> section of this article.</p></td></tr><tr><td><p><span><strong>Data storage size in MB</strong></span></p></td><td><p>Allocate the size for the data store from your total <span><em>Internal data</em></span> storage.</p><div dir="ltr"><h3>Note</h3><p>The reserved amount can be changed at any time later on.</p></div><p>The total internal data storage capacity depends on the <a href="http://www.make.com/en/pricing" target="_blank" rel="noopener">plan you have purchased</a>.</p></td></tr></tbody></table>
 
@@ -126,12 +124,11 @@ At the current moment of writing this, there is no tool which can automate this,
 
 The reason you are getting a message that states that you are out of space is because you currently have a datastore that has already been assigned your allocated datastore storage.
 
-Please edit any of your existing data stores to free up space. 
+Please edit any of your existing data stores to free up space.
 
-1.  Click **Edit**.
-    
-2.  Reduce the data storage size.
-    
+1. Click **Edit**.
+
+2. Reduce the data storage size.
 
 You can now add a new data store.
 

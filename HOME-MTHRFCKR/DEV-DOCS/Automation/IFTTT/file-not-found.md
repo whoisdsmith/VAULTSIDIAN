@@ -2,8 +2,7 @@
 
 ---
 
-
--   [How to avoid the File not found image with filter code](https://help.ifttt.com/hc/en-us/articles/115010361748/#HowtoavoidtheFilenotfoundimagewithfiltercode)
+- [How to avoid the File not found image with filter code](https://help.ifttt.com/hc/en-us/articles/115010361748/#HowtoavoidtheFilenotfoundimagewithfiltercode)
 
 The ubiquitous **File not found** image, explained:
 
@@ -11,7 +10,7 @@ The ubiquitous **File not found** image, explained:
 
 This image will appear when [[IFTTT]] is set up to post an image or a file, but we don't get the data as expected.
 
-Here's an example to illustrate further. The Applet below is configured to [post a tweet with an image](https://ifttt.com/twitter/actions/post_new_tweet_with_image) each time you [add a Tumblr post](https://ifttt.com/tumblr/triggers/new_any_post). If this Applet is triggered by a Tumblr post _without_ an image, the **File not found** image will be used. 
+Here's an example to illustrate further. The Applet below is configured to [post a tweet with an image](https://ifttt.com/twitter/actions/post_new_tweet_with_image) each time you [add a Tumblr post](https://ifttt.com/tumblr/triggers/new_any_post). If this Applet is triggered by a Tumblr post _without_ an image, the **File not found** image will be used.
 
 ![Tumblr_to_Twitter_Applet.png](https://help.ifttt.com/hc/article_attachments/4412083996699/Tumblr_to_Twitter_Applet.png)
 

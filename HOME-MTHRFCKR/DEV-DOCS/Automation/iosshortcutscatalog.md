@@ -79,7 +79,7 @@ Enjoy!
 #### [Media Utilities](#media-utilities)
 
 * [R⤓Download](https://www.icloud.com/shortcuts/d402fbaefed646d083e0c63b28998c17)
-* [ Mutt](https://www.icloud.com/shortcuts/f5f52e2642794025a536b6cd2d5f6980)
+* [Mutt](https://www.icloud.com/shortcuts/f5f52e2642794025a536b6cd2d5f6980)
 * [Base64 Media Encoder](https://www.icloud.com/shortcuts/ab7566c6a9304bbda19fbde33e47f7f5)
 * [Sound ↔️ Base 64](https://www.icloud.com/shortcuts/502ac519dfc04e39a5d98e8b247f30db)
 * [Spotify Auth Workflow](https://www.icloud.com/shortcuts/548d331cab4b40ac88140f514ca488bd)
@@ -182,18 +182,18 @@ Enjoy!
 
 #### [JARVIS](#jarvis)
 
-* [JARVIS](https://www.icloud.com/shortcuts/1f36348059ed49cc867a538ee9ad1fa5) 
-* [JARVIS - Start Up](https://www.icloud.com/shortcuts/7a3e7f79ae304842a4fb107615a2e253) 
-* [JARVIS - How's The Weather?](https://www.icloud.com/shortcuts/b09a1af839e24ee98972038faa0b383b) 
-* [JARVIS - Camera Off](https://www.icloud.com/shortcuts/32d4603f8bde4c7397dc2e4856c2457c) 
-* [JARVIS - Date](https://www.icloud.com/shortcuts/c4229b747f5b4e8ba8d935b527f2ef6e) 
-* [JARVIS - Time](https://www.icloud.com/shortcuts/938753f1ab1946008e9bdd5cb9e35455) 
-* [JARVIS - Turn On Do Not Disturb](https://www.icloud.com/shortcuts/6aebed7986ef45ebb2795ff0c21cd287) 
-* [JARVIS - Emergency Backup Power](https://www.icloud.com/shortcuts/58aed283532b4a449c0b656e9f60acb8) 
-* [JARVIS - Dangerously Low Power](https://www.icloud.com/shortcuts/356a596d06bf4984a027c21791b81d86) 
-* [JARVIS - Low Power](https://www.icloud.com/shortcuts/593bcdd0ea6847d59165e2907fa29994) 
-* [JARVIS - Charging](https://www.icloud.com/shortcuts/e627bf7ac23440d489c666850cf07b27) 
-* [JARVIS - Full Power](https://www.icloud.com/shortcuts/2e9f5400dbe6438eb5b6d2bd9131918f) 
+* [JARVIS](https://www.icloud.com/shortcuts/1f36348059ed49cc867a538ee9ad1fa5)
+* [JARVIS - Start Up](https://www.icloud.com/shortcuts/7a3e7f79ae304842a4fb107615a2e253)
+* [JARVIS - How's The Weather?](https://www.icloud.com/shortcuts/b09a1af839e24ee98972038faa0b383b)
+* [JARVIS - Camera Off](https://www.icloud.com/shortcuts/32d4603f8bde4c7397dc2e4856c2457c)
+* [JARVIS - Date](https://www.icloud.com/shortcuts/c4229b747f5b4e8ba8d935b527f2ef6e)
+* [JARVIS - Time](https://www.icloud.com/shortcuts/938753f1ab1946008e9bdd5cb9e35455)
+* [JARVIS - Turn On Do Not Disturb](https://www.icloud.com/shortcuts/6aebed7986ef45ebb2795ff0c21cd287)
+* [JARVIS - Emergency Backup Power](https://www.icloud.com/shortcuts/58aed283532b4a449c0b656e9f60acb8)
+* [JARVIS - Dangerously Low Power](https://www.icloud.com/shortcuts/356a596d06bf4984a027c21791b81d86)
+* [JARVIS - Low Power](https://www.icloud.com/shortcuts/593bcdd0ea6847d59165e2907fa29994)
+* [JARVIS - Charging](https://www.icloud.com/shortcuts/e627bf7ac23440d489c666850cf07b27)
+* [JARVIS - Full Power](https://www.icloud.com/shortcuts/2e9f5400dbe6438eb5b6d2bd9131918f)
 
 #### [Writing Utilities](#writing-utilities)
 
@@ -213,7 +213,6 @@ Enjoy!
 * [MediaKit Banners](https://www.icloud.com/shortcuts/2d7789966b724cf8baaf3216cded57d3)
 * [MediaKit Collages](https://www.icloud.com/shortcuts/bfab5d013dcd4132941ed01968ce4eb7)
 * [MediaKit Video Players](https://www.icloud.com/shortcuts/10337344bbb04dbdb37724844153c9e6)
-
 
 ### 🧬 Automations
 

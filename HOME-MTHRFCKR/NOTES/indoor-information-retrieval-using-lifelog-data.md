@@ -41,7 +41,7 @@ research problems and come up with some efficient and suitable solutions. To rea
 objective, we need to study the problem closely by segmenting into individual but related  
 research questions:
 
--   Lifelog Data Gathering and Processing: The indoor activities of a person that is  
+- Lifelog Data Gathering and Processing: The indoor activities of a person that is  
     captured via video sequences, frames or images would be the first step towards data  
     gathering. This data may very well be augmented with biometrics coming from various  
     sensors, such as heart rate, galvanic skin response, calorie burn, steps. Further, it would  
@@ -72,7 +72,7 @@ sequences along with the supplementary data. Different computer vision technique
 be applied to detect locations, actions and to recognize different entities from visual data.
 ```
 
--   Cross-Modal Retrieval: Cross-modal retrieval has proven to be an effective solution  
+- Cross-Modal Retrieval: Cross-modal retrieval has proven to be an effective solution  
     while searching over multi-varied data especially where the data size is enormous \[2\].  
     A typical example of cross-media retrieval is when an image is searched through a text  
     query. The retrieval system should be able to judiciously determine which modalities  
@@ -104,8 +104,8 @@ and wearable devices, the formation of indexable units will be much easier.
 Now the questions arrive like :
 ```
 
--   (1.) What a lifelog textual description or document should be?
--   (2.) How to generate such document units from the continuous streams of lifelog  
+- (1.) What a lifelog textual description or document should be?
+- (2.) How to generate such document units from the continuous streams of lifelog  
     data?
 
 ```
@@ -113,7 +113,7 @@ Lately, a lot of research is going on to answer these above questions. Also, we 
 up with a few ideas which we have discussed in detail in the section 5.
 ```
 
--   Multimodal Query Reformulation: Assuming that the query is provided as a single  
+- Multimodal Query Reformulation: Assuming that the query is provided as a single  
     modality, it may be imperative to convert it to or add other modalities to the search  
     query to make it closer to the user’s information need. Although a significant amount of  
     work has focused on bridging the semantic gap between the high-level information need  
@@ -127,7 +127,7 @@ up with a few ideas which we have discussed in detail in the section 5.
     neural networks are used to learn the latent features, and these learnt features are utilized  
     as semantic representation in these models. Once the proper representation is obtained,  
     a multimodal query can be formulated from different extracted features.
--   Cross-Lingual Information Retrieval: For making the system robust, Cross-Lingual  
+- Cross-Lingual Information Retrieval: For making the system robust, Cross-Lingual  
     retrieval can be incorporated. This could be an enhancement once the proposed system is  
     in place. In real-life users provide queries in textual form which is the most accessible and  
     most prevalent form of input. Confining the system’s working to a particular language  
@@ -143,7 +143,7 @@ up with a few ideas which we have discussed in detail in the section 5.
     semantically interpret the information need. Sometimes, this problem is compounded  
     because a particular word may not have a proper English language translation or vice-  
     versa. This task would invariably involve some Natural Language Processing.
--   Application(s):Possible real-life applications of the system could very well be extended  
+- Application(s):Possible real-life applications of the system could very well be extended  
     to outdoor situations such as tracking missing luggage at airports or railway stations.  
     Also, in recent days, an exponential growth of stress and busy lifestyle are causing sev-  
     eral neurological diseases like Dementia. There is an increase in the number of patients  
@@ -236,10 +236,10 @@ specifications are only indicative and may increase or decrease as per the requi
 project. There is a wide range of existing devices, either portable or stand devices, that can be  
 used for lifelogging. A short list of such available devices is noted down below:
 
--   Wearable Cameras: Such wearable cameras capture photos of what the individuals see  
+- Wearable Cameras: Such wearable cameras capture photos of what the individuals see  
     in front of them. The mode of photo capturing is mostly consequent and passive. Ex.  
     SenseCam, Video glass, Looxcie, Go-Pro, head-mounted cameraetc.
--   Biometric Devices: Biometric devices are mostly sensor based. Human body conditions  
+- Biometric Devices: Biometric devices are mostly sensor based. Human body conditions  
     are sensed and collected from galvanic skin response (GSR) and skin temperature (ST),  
     from different physiological responses such as heart rate or increased sweat production,  
     sympathetic nervous activityetc. \[12\]. A few examples of such devices are Polar Heart  
@@ -248,13 +248,13 @@ used for lifelogging. A short list of such available devices is noted down below
     respiration, body temperature, heart rate, gpsetc. Another device, Posture monitoring  
     vest, measures body bending on structural beams by using several wearable plastic optical  
     fiber sensor outside the garment.
--   Fitness Devices: Fitness devices are very popular these days. Fit-Bit, Nike+Podetc.are  
+- Fitness Devices: Fitness devices are very popular these days. Fit-Bit, Nike+Podetc.are  
     the examples of such small and comfortable devices. They can help us record various  
     health-related metrics such as metabolic rate, pulse and so on.
--   Non-visual Wearable Devices: Such devices are non-visual because they do not take any  
+- Non-visual Wearable Devices: Such devices are non-visual because they do not take any  
     visual content about individuals life, instead, they collect location data from Bluetooth,  
     Logger or GPS tracking devices.
--   Unwearable Devices: Few unwearable devices like personal computers, CCTV are used  
+- Unwearable Devices: Few unwearable devices like personal computers, CCTV are used  
     in lifelogging. Lifelogging from such unwearable devices relies on some attributes like the  
     way of online interaction, emails, image posts, mouse movement, browser historyetc.
 
@@ -303,9 +303,9 @@ cafe, McDonalds restaurant, home, work) and few physical activities like walking
 running and transport of the lifeloggers at a granularity of one minute. A brief summary of the  
 content of the dataset is presented in Table 1.
 
-(^1) https://www.microsoft.com/en-us/research/project/mylifebits/  
+(^1) <https://www.microsoft.com/en-us/research/project/mylifebits/>  
 (^2) This figure was uploaded by Researcher Emeritus of Microsoft, Chester Gordon Bell; Source:  
-https://www.researchgate.net/publication/306960201MyLifeBitsApersonaldatabaseforeverything/figures  
+<https://www.researchgate.net/publication/306960201MyLifeBitsApersonaldatabaseforeverything/figures>  
 (^3) Dataset available at [http://imageclef-lifelog.computing.dcu.ie/2017/](http://imageclef-lifelog.computing.dcu.ie/2017/)
 
 ```
@@ -371,21 +371,21 @@ Taking cues from the above-mentioned fact, we can define few units which may aid
 indexing and retrieval, as follows:
 ```
 
--   Item: Item is the smallest unit of dataset which can be retrieved. Ex. Image,
+- Item: Item is the smallest unit of dataset which can be retrieved. Ex. Image,
 
 ```
 Location, Blood Pressureetc.
 ```
 
--   Moment:Moment is defined as a precise point in time, better saying, a fixed length  
+- Moment:Moment is defined as a precise point in time, better saying, a fixed length  
     temporal unit. It can be either minute, hour or any predefined time-slot.
--   Activity: Activity can be defined as an un-interrupted sequential performance of  
+- Activity: Activity can be defined as an un-interrupted sequential performance of  
     an individual who is performing a specific function. Activity can be treated as the  
     indexing-time unit of retrieval as though out the activity, an individual is performing  
     a certain task. For example, if we consider ’playing guitar’ is an activity, throughout  
     the time the individual is performing the activity, the combination of few items (Ex.  
     scene or frame) are taking place repetitively.
--   Event:Event can be treated as the longest temporal unit of lifelog and it is the com-  
+- Event:Event can be treated as the longest temporal unit of lifelog and it is the com-  
     bination of moments or activities. Like, the entire ‘Musical Evening,’ the individual  
     is spending, can be identified as an Event.
 
@@ -501,7 +501,7 @@ topics that continue in the next meeting. InProceedings of the 2018 Conference o
 Information Interaction & Retrieval, CHIIR ’18, pages 150–159, New York, NY, USA,
 ```
 
-2018.  ACM.
+2018. ACM.
 
 ```
 [2] Giacomo Cavallo, Francesco Di Mauro, Paolo Pasteris, Maria Luisa Sapino, and

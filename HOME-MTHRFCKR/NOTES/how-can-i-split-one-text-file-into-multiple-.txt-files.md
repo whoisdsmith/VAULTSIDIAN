@@ -1,6 +1,7 @@
 # linux - How can I split one text file into multiple *.txt files? - Stack Overflow
 
 > ## Excerpt
+
 > I got a text file file.txt (12 MB) containing:
 something1
 something2
@@ -27,7 +28,7 @@ Is there a way to split `file.txt` into 12 \*.txt files, let’s say `file2.txt`
 
 ![](https://i.stack.imgur.com/RIZKi.png?s=64&g=1)
 
-](https://stackoverflow.com/users/63550/peter-mortensen)
+](<https://stackoverflow.com/users/63550/peter-mortensen>)
 
 asked Sep 26 '13 at 14:34
 
@@ -35,7 +36,7 @@ asked Sep 26 '13 at 14:34
 
 ![](https://www.gravatar.com/avatar/67976c35019342bba1856a9825cc2962?s=64&d=identicon&r=PG)
 
-](https://stackoverflow.com/users/2643234/kris)
+](<https://stackoverflow.com/users/2643234/kris>)
 
 You can use the Linux Bash core utility `split`:
 
@@ -65,7 +66,7 @@ Note that is `l` not `one`, `split -n` has a few options, like `N`, `k/N`, `l/k/
 
 ![](https://i.stack.imgur.com/RIZKi.png?s=64&g=1)
 
-](https://stackoverflow.com/users/63550/peter-mortensen)
+](<https://stackoverflow.com/users/63550/peter-mortensen>)
 
 answered Sep 26 '13 at 14:37
 
@@ -73,7 +74,7 @@ answered Sep 26 '13 at 14:37
 
 ![](https://www.gravatar.com/avatar/fee10843adffc656f32cdfa67aa425c5?s=64&d=identicon&r=PG)
 
-](https://stackoverflow.com/users/1153165/cs-pei)
+](<https://stackoverflow.com/users/1153165/cs-pei>)
 
 [CS Pei](https://stackoverflow.com/users/1153165/cs-pei)CS Pei
 
@@ -82,22 +83,22 @@ answered Sep 26 '13 at 14:37
 7
 
 ```
-$ split -l 100 input_file output_file
+split -l 100 input_file output_file
 ```
 
 where `-l` is the number of lines in each files. This will create:
 
--   output\_fileaa
--   output\_fileab
--   output\_fileac
--   output\_filead
--   ....
+- output\_fileaa
+- output\_fileab
+- output\_fileac
+- output\_filead
+- ....
 
 [
 
 ![](https://i.stack.imgur.com/6fMZI.png?s=64&g=1)
 
-](https://stackoverflow.com/users/33204/slm)
+](<https://stackoverflow.com/users/33204/slm>)
 
 [slm](https://stackoverflow.com/users/33204/slm)
 
@@ -109,7 +110,7 @@ answered Sep 18 '14 at 11:08
 
 ![](https://www.gravatar.com/avatar/753b868e020c9afa0f587738c40931b6?s=64&d=identicon&r=PG&f=1)
 
-](https://stackoverflow.com/users/4054170/amruta-takawale)
+](<https://stackoverflow.com/users/4054170/amruta-takawale>)
 
 5
 
@@ -125,7 +126,7 @@ answered May 19 '16 at 9:52
 
 ![](https://www.gravatar.com/avatar/6f0349bd99a58e30ae88b11111696144?s=64&d=identicon&r=PG)
 
-](https://stackoverflow.com/users/1773592/schoon)
+](<https://stackoverflow.com/users/1773592/schoon>)
 
 [schoon](https://stackoverflow.com/users/1773592/schoon)schoon
 
@@ -168,7 +169,7 @@ answered Sep 26 '13 at 15:03
 
 ![](https://www.gravatar.com/avatar/6bcf75dbf1e66fc9cf453393db706d2d?s=64&d=identicon&r=PG)
 
-](https://stackoverflow.com/users/445221/konsolebox)
+](<https://stackoverflow.com/users/445221/konsolebox>)
 
 [konsolebox](https://stackoverflow.com/users/445221/konsolebox)konsolebox
 
@@ -188,7 +189,7 @@ Please note the _space_ between `-b` and the value.
 
 ![](https://i.stack.imgur.com/RIZKi.png?s=64&g=1)
 
-](https://stackoverflow.com/users/63550/peter-mortensen)
+](<https://stackoverflow.com/users/63550/peter-mortensen>)
 
 answered Jan 26 '17 at 12:04
 
@@ -196,7 +197,7 @@ answered Jan 26 '17 at 12:04
 
 ![](https://lh4.googleusercontent.com/-7ZhsocyZNmU/AAAAAAAAAAI/AAAAAAAAAlc/1h_xkkHnlXg/photo.jpg?sz=64)
 
-](https://stackoverflow.com/users/5134452/nicolas-d)
+](<https://stackoverflow.com/users/5134452/nicolas-d>)
 
 [Nicolas D](https://stackoverflow.com/users/5134452/nicolas-d)Nicolas D
 
@@ -227,7 +228,7 @@ drwxr-xr-x 3 user.name group       4096 Sep 14 15:39 ../
 This file has 100,000 lines, and I want to split it into files with at most 30,000 lines. This command will run the split and append an integer at the end of the output file pattern `split_files.txt.`.
 
 ```
-$ split -d -l 30000 really_big_file.txt split_files.txt.
+split -d -l 30000 really_big_file.txt split_files.txt.
 ```
 
 The resulting files are split correctly with at most 30,000 lines per file.
@@ -259,7 +260,7 @@ answered Sep 14 '18 at 22:49
 
 ![](https://www.gravatar.com/avatar/6ad3771ba6e8e823dbcae710c1cde4da?s=64&d=identicon&r=PG)
 
-](https://stackoverflow.com/users/4561314/stackoverflowuser2010)
+](<https://stackoverflow.com/users/4561314/stackoverflowuser2010>)
 
 I agree with @CS Pei, however this didn't work for me:
 
@@ -281,7 +282,7 @@ answered Sep 29 '17 at 18:56
 
 ![](https://www.gravatar.com/avatar/882430e16a40a14f83c418c74a184825?s=64&d=identicon&r=PG)
 
-](https://stackoverflow.com/users/8697029/ryan)
+](<https://stackoverflow.com/users/8697029/ryan>)
 
 1
 
@@ -299,7 +300,7 @@ Thank @hamruta-takawale, @dror-s and @stackoverflowuser2010
 
 ![](https://i.stack.imgur.com/RIZKi.png?s=64&g=1)
 
-](https://stackoverflow.com/users/63550/peter-mortensen)
+](<https://stackoverflow.com/users/63550/peter-mortensen>)
 
 answered Apr 23 '20 at 16:47
 
@@ -307,7 +308,7 @@ answered Apr 23 '20 at 16:47
 
 ![](https://i.stack.imgur.com/I4eFO.jpg?s=64&g=1)
 
-](https://stackoverflow.com/users/6614155/bcag2)
+](<https://stackoverflow.com/users/6614155/bcag2>)
 
 [bcag2](https://stackoverflow.com/users/6614155/bcag2)bcag2
 
@@ -325,7 +326,7 @@ for filename in *.txt; do mv "$filename" "Prefix_$filename"; done;
 
 ![](https://i.stack.imgur.com/STtQt.jpg?s=64&g=1)
 
-](https://stackoverflow.com/users/6498018/pheeleeppoo)
+](<https://stackoverflow.com/users/6498018/pheeleeppoo>)
 
 [pheeleeppoo](https://stackoverflow.com/users/6498018/pheeleeppoo)
 
@@ -337,23 +338,23 @@ answered Apr 3 '17 at 14:33
 
 ![](https://www.gravatar.com/avatar/97cb6091958a719e1647b8342317d4aa?s=64&d=identicon&r=PG)
 
-](https://stackoverflow.com/users/7809190/morgan32)
+](<https://stackoverflow.com/users/7809190/morgan32>)
 
 ## Your Answer
 
--   Links
--   Images
--   Styling/Headers
--   Lists
--   Blockquotes
--   Code
--   HTML
--   Tables
--   [Advanced help](https://stackoverflow.com/editing-help)
+- Links
+- Images
+- Styling/Headers
+- Lists
+- Blockquotes
+- Code
+- HTML
+- Tables
+- [Advanced help](https://stackoverflow.com/editing-help)
 
 In most cases, a plain URL will be recognized as such and automatically linked:
 
-Visit https://area51.stackexchange.com/ regularly!
+Visit <https://area51.stackexchange.com/> regularly!
 Use angle brackets to force linking: Have you seen <https://superuser.com>?
 
 To create fancier links, use Markdown:
@@ -401,13 +402,15 @@ Smaller Subheader
 Use hash marks if you need several levels of headers:
 
 \# Header 1 #
+
 ## Header 2 ##
+
 ### Header 3 ###
 
 Both bulleted and numbered lists are possible:
 
 \- Use a minus sign for a bullet
-+ Or plus sign
+- Or plus sign
 \* Or an asterisk
 
 1. Numbered lists are easy
@@ -421,7 +424,7 @@ Both bulleted and numbered lists are possible:
  \- Four spaces again.
 2. You can have multiple
  paragraphs in a list items.
- 
+
  Just be sure to indent.
 
 \> Create a blockquote by
@@ -458,7 +461,7 @@ If you want to have a preformatted block within a list, indent by eight spaces:
 
 1\. This is normal text.
 2. So is this, but now follows a code block:
- 
+
  Skip a line and indent eight spaces.
  That's four spaces for the list
  and four to trigger the code block.
@@ -473,11 +476,9 @@ Markdown is smart enough not to mangle your span-level HTML:
 
 Block-level HTML elements have a few restrictions:
 
-1.  They must be separated from surrounding text by blank lines.
-2.  The begin and end tags of the outermost block element must not be indented.
-3.  Markdown can't be used within HTML blocks.
-
-  
+1. They must be separated from surrounding text by blank lines.
+2. The begin and end tags of the outermost block element must not be indented.
+3. Markdown can't be used within HTML blocks.
 
 <pre>
     You can <em>not</em> use Markdown in here.
@@ -490,8 +491,8 @@ You can create tables using the [GitHub-flavored markdown format](https://github
 | First    | row            |
 | Second   | row            |
 
--   A header row is required and must be followed by a separator row with the same number of cells
--   Cells are separated by a pipe (`|`) symbol
+- A header row is required and must be followed by a separator row with the same number of cells
+- Cells are separated by a pipe (`|`) symbol
 
 Set the **alignment** of a table column by placing a `:` on the left, right, or both sides of a separator in the separator line.
 
@@ -499,4 +500,4 @@ Set the **alignment** of a table column by placing a `:` on the left, right, or 
 |:---- |:------:| -----:|
 | One  | Two    | Three |
 
-## Not the answer you're looking for? Browse other questions tagged [linux](https://stackoverflow.com/questions/tagged/linux "show questions tagged 'linux'") [bash](https://stackoverflow.com/questions/tagged/bash "show questions tagged 'bash'") or [ask your own question](https://stackoverflow.com/questions/ask).
+## Not the answer you're looking for? Browse other questions tagged [linux](https://stackoverflow.com/questions/tagged/linux "show questions tagged 'linux'") [bash](https://stackoverflow.com/questions/tagged/bash "show questions tagged 'bash'") or [ask your own question](https://stackoverflow.com/questions/ask)

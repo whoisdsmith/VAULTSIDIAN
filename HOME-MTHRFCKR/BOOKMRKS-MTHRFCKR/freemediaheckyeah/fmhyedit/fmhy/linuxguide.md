@@ -110,7 +110,7 @@
 * [Giara](https://aur.archlinux.org/packages/giara/) or [Headlines](https://gitlab.com/caveman250/Headlines) - Reddit Client
 * [reddio](https://gitlab.com/aaronNG/reddio) - Reddit CLI
 * [gettit](https://github.com/Solirs/gettit/) - Reddit CLI Video Downloader
-* [rainbowstream ](https://github.com/orakaro/rainbowstream)- Twitter CLI
+* [rainbowstream](https://github.com/orakaro/rainbowstream)- Twitter CLI
 * [ramme](https://github.com/terkelg/ramme) - Instagram Client
 * [LiMP](https://git.coom.tech/eternal-coomer/LiMP) - Local Booru
 * [Luakit](https://luakit.github.io/) - Lightweight Linux Browser

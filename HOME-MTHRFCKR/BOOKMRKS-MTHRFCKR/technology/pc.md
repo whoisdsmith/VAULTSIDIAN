@@ -24,10 +24,6 @@
 
 - [ST31000528AS, 9VP, SU, PN 9SL154-302, FW CC38, Seagate 1TB SATA 3.5 Hard Drive](https://www.donordrives.com/st31000528as-9vp-su-pn-9sl154-302-fw-cc38-seagate-1tb-sata-3-5-hard-drive.html)
 
-
-
-
-
 ## Operating Systems
 
 ### Linux
@@ -178,8 +174,6 @@
 
 - [axlshear/dora-osint-vm](https://github.com/axlshear/dora-osint-vm)
 
-
-
 ### Domain, IP & Web Searches
 
 - [GitHub - Yashvendra/Recon-X: Advanced Reconnaissance tool to enumerate attacking surface of the target.](https://github.com/Yashvendra/Recon-X.git)
@@ -192,8 +186,6 @@
 
 - [thewhiteh4t/FinalRecon](https://github.com/thewhiteh4t/FinalRecon)
 
-
-
 ### Email Recon
 
 - [GitHub - WhiteHatInspector/emailGuesser: This is an open source project which helps users "guess" their target's email address based on multiple inputs and preferences.](https://github.com/WhiteHatInspector/emailGuesser)
@@ -204,13 +196,9 @@
 
 - [sham00n/buster](https://github.com/sham00n/buster)
 
-
-
 ### Facebook
 
 - [harismuneer/Ultimate-Facebook-Scraper](https://github.com/harismuneer/Ultimate-Facebook-Scraper)
-
-
 
 ### Instagram
 
@@ -220,21 +208,15 @@
 
 - [rarcega/instagram-scraper](https://github.com/rarcega/instagram-scraper)
 
-
-
 ### LinkedIn
 
 - [GitHub - 0xZDH/BridgeKeeper: Scrape employee names from search engine LinkedIn profiles. Convert employee names to a specified username format.](https://github.com/0xZDH/BridgeKeeper)
 
 - [GitHub - m8r0wn/CrossLinked: LinkedIn enumeration tool to extract valid employee names from an organization through search engine scraping. Names can be formatted in a defined naming convention for further security testing.](https://github.com/m8r0wn/CrossLinked)
 
-
-
 ### Pastebin Scraping
 
 - [GitHub - sandwichi/pastebin-scraper: Scrapes pastebin.com API for pastes containing supplied keywords.](https://github.com/sandwichi/pastebin-scraper)
-
-
 
 ### People Recon
 
@@ -244,19 +226,13 @@
 
 - [HA71/Namechk](https://github.com/HA71/Namechk)
 
-
-
 ### Phone Number Recon
 
 - [GitHub - sundowndev/PhoneInfoga: Advanced information gathering & OSINT tool for phone numbers](https://github.com/sundowndev/PhoneInfoga.git)
 
-
-
 ### Recon-NG
 
 - [Recon-ng V5 - YouTube](https://www.youtube.com/playlist?list=PLBf0hzazHTGOg9taK90uFjdcb8UgGfRKZ)
-
-
 
 ### Shodan
 
@@ -266,13 +242,9 @@
 
 - [Shodan Search Engine](https://beta.shodan.io/search/examples)
 
-
-
 ### Sn0int
 
 - [kpcyrd/sn0int](https://github.com/kpcyrd/sn0int)
-
-
 
 ### Spiderfoot
 
@@ -280,13 +252,9 @@
 
 - [GitHub - smicallef/spiderfoot: SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.](https://github.com/smicallef/spiderfoot.git)
 
-
-
 ### Telegram
 
 - [GitHub - th3unkn0n/TeleGram-Scraper: telegram group scraper tool. fetch all information about group members](https://github.com/th3unkn0n/TeleGram-Scraper)
-
-
 
 ### Twitter
 
@@ -294,15 +262,9 @@
 
 - [vaguileradiaz/tinfoleak](https://github.com/vaguileradiaz/tinfoleak)
 
-
-
 ### Username Recon
 
 - [GitHub - 7rillionaire/Search4: A tool to search a particular username on almost every social platform and tell , whether the user with that username exists on that site or not.](https://github.com/7rillionaire/Search4)
-
-
-
-
 
 ### Linux Training
 
@@ -326,12 +288,6 @@
 
 - [filetype:pdf linux commands - Google Search](https://www.google.com/search?client=firefox-b-1-d&q=filetype%3Apdf+linux+commands)
 
-
-
-
-
-
-
 ### OS Other
 
 - [CasaOS - A simple, easy-to-use, elegant open-source home cloud system](https://www.casaos.io/)
@@ -354,10 +310,6 @@
 
 - [skiftOS](https://skiftos.org/)
 
-
-
-
-
 ## Software
 
 ### File Organization
@@ -365,8 +317,6 @@
 - [trapexit/mergerfs: a featureful union filesystem](https://github.com/trapexit/mergerfs)
 
 - [Organizing photo collection – 20 years research](https://mnaoumov.wordpress.com/2021/04/18/organizing-photo-collection-20-years-research/)
-
-
 
 ### Hackintosh
 
@@ -411,8 +361,6 @@
 - [tonymacx86.com](https://www.tonymacx86.com/home.php)
 
 - [www.tonymacx86.com/lion-desktop-support/103977-ebios-read-error-controller-device-error-block-0x0-sectors-0-a-2.html](https://www.tonymacx86.com/lion-desktop-support/103977-ebios-read-error-controller-device-error-block-0x0-sectors-0-a-2.html)
-
-
 
 ### Mac Apps
 
@@ -528,10 +476,6 @@
 
 - [MacUpdate | Download Best Mac Software | 30,000+ Free Apps](https://www.macupdate.com/)
 
-
-
-
-
 ### Windows Software
 
 - [https://resist.berlin/](https://resist.berlin/)
@@ -562,15 +506,11 @@
 
 - [Wormhole - Browse & Control phone on PC, Screen Fusion for iOS & Android](https://er.run/)
 
-
-
 ### Customizing OS
 
 - [Download - AME](https://ameliorated.info/index.html)
 
 - [Cairo Desktop Environment](https://cairoshell.com/)
-
-
 
 ### Drivers
 
@@ -588,19 +528,13 @@
 
 - [TousLesDrivers](https://www.touslesdrivers.com/)
 
-
-
 ### File Management
 
 - [Automate Data Capture](https://www.docdigitizer.com/)
 
-
-
 ### Mobile & Desktop Tracking Software
 
 - [Spyrix Personal Monitor. Remote monitoring of computers](https://www.spyrix.com/spyrix-personal-monitor.php)
-
-
 
 ### Software (Free or Open Source)
 
@@ -682,8 +616,6 @@
 
 - [AlternativeTo - Social Software Recommendations](http://alternativeto.net/)
 
-
-
 ### Software Repacks
 
 - [DIAKOV.NET](https://diakov.net/)
@@ -699,8 +631,6 @@
 - [Авторские репаки от ELCHUPACABRA](https://lrepacks.net/)
 
 - [Скачать Windows через торрент](https://prog-top.net/)
-
-
 
 ### Windows
 

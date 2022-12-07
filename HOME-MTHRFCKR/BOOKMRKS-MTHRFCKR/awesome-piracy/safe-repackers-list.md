@@ -4,7 +4,7 @@ FitGirl Repacks (<https://fitgirl-repacks.site>) Very good & small Repacks, Good
 
 Masquerade Repacks (<https://masquerade.site>) My go-to Repacker. (Joined KaOsKrew)
 
-KaOsKrew Repacks (https://kaoskrew.org)
+KaOsKrew Repacks (<https://kaoskrew.org>)
 
 DODI Repacks (<https://dodi-repacks.site>) Weak & fast Repacks, Good for people with good internet speeds.
 

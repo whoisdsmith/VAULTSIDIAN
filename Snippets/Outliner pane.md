@@ -61,8 +61,8 @@
 }
 ```
 
-/* indent wrapped titles outliner*/  
-/* included above */
+/*indent wrapped titles outliner*/  
+/*included above*/
 
 ```css
 /* change font color outline */

@@ -1,6 +1,6 @@
 [![page size](https://blog.bookbaby.com/wp-content/uploads/2012/07/PageSize_Feature-696x508.jpg "page size")](https://blog.bookbaby.com/wp-content/uploads/2012/07/PageSize_Feature.jpg)
 
-## What page size should you use when preparing for ePub conversion? Standard 8.5 x 11″ page size ensures any included images will be large enough for an iPad.
+## What page size should you use when preparing for ePub conversion? Standard 8.5 x 11″ page size ensures any included images will be large enough for an iPad
 
 ## _SPOILER ALERT: 8.5 x 11″ in portrait!._
 

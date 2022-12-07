@@ -1,9 +1,11 @@
 ![Markdown-badge-kohasummons-stripped-image](https://user-images.githubusercontent.com/66284362/159115513-3ae48dd6-3d9c-416f-83d4-db48de23fac8.png)
 
 # Markdown Badges
+
 Add badges to your Profile and Projects.
 
 # Table of contents
+
 - [Markdown Badges](#markdown-badges)
 - [Table of contents](#table-of-contents)
 - [Usage](#usage)
@@ -12,49 +14,50 @@ Add badges to your Profile and Projects.
 - [License](#license)
 - [Badges](#badges)
   - <details> <summary>List of badges</summary>
- 
-     - [Artificial Intelligence and Bots](#-artificial-intelligence-and-bots)
-     - [Blog](#-blog)
-     - [Blockchain](#-blockchain)
-     - [Browsers](#-browsers)
-     - [CD](#-cd)
-     - [CI](#-ci)
-     - [Cloud Storage](#-cloud-storage)
-     - [Cryptocurrency](#-cryptocurrency)
-     - [Databases](#-databases)
-     - [Design](#-design)
-     - [Developer/Forums](#-developerforums)
-     - [Documentation Platforms](#-documentation-platforms)
-     - [Education](#-education)
-     - [Funding](#-funding)
-     - [Frameworks, Platforms and Libraries](#-frameworks-platforms-and-libraries)
-     - [Gaming](#-gaming)
-     - [Game Consoles](#%EF%B8%8F-game-consoles)
-     - [Hosting/SaaS](#-hostingsaas)
-     - [IDEs/Editors](#-ideseditors)
-     - [Languages](#-languages)
-     - [ML/DL](#%EF%B8%8F-mldl)
-     - [Music](#-music)
-     - [Office](#-office)
-     - [Operating System](#%EF%B8%8F-operating-system)
-     - [ORM](#-orm)
-     - [Other](#-other)
-     - [Quantum Programming Frameworks and Libraries](#quantum-programming-frameworks-and-libraries)
-     - [Search Engines](#search-engines)
-     - [Servers](#servers)
-     - [Smartphone Brands](#smartphone-brands)
-     - [Social](#social)
-     - [Store](#store)
-     - [Streaming](#streaming)
-     - [Testing](#testing)
-     - [Version Control](#version-control)
-     - [Wearables](#wearables)
-     - [Work/Jobs](#workjobs)
+
+    - [Artificial Intelligence and Bots](#-artificial-intelligence-and-bots)
+    - [Blog](#-blog)
+    - [Blockchain](#-blockchain)
+    - [Browsers](#-browsers)
+    - [CD](#-cd)
+    - [CI](#-ci)
+    - [Cloud Storage](#-cloud-storage)
+    - [Cryptocurrency](#-cryptocurrency)
+    - [Databases](#-databases)
+    - [Design](#-design)
+    - [Developer/Forums](#-developerforums)
+    - [Documentation Platforms](#-documentation-platforms)
+    - [Education](#-education)
+    - [Funding](#-funding)
+    - [Frameworks, Platforms and Libraries](#-frameworks-platforms-and-libraries)
+    - [Gaming](#-gaming)
+    - [Game Consoles](#%EF%B8%8F-game-consoles)
+    - [Hosting/SaaS](#-hostingsaas)
+    - [IDEs/Editors](#-ideseditors)
+    - [Languages](#-languages)
+    - [ML/DL](#%EF%B8%8F-mldl)
+    - [Music](#-music)
+    - [Office](#-office)
+    - [Operating System](#%EF%B8%8F-operating-system)
+    - [ORM](#-orm)
+    - [Other](#-other)
+    - [Quantum Programming Frameworks and Libraries](#quantum-programming-frameworks-and-libraries)
+    - [Search Engines](#search-engines)
+    - [Servers](#servers)
+    - [Smartphone Brands](#smartphone-brands)
+    - [Social](#social)
+    - [Store](#store)
+    - [Streaming](#streaming)
+    - [Testing](#testing)
+    - [Version Control](#version-control)
+    - [Wearables](#wearables)
+    - [Work/Jobs](#workjobs)
    </details>
 
-
 # Usage
+
 To use a badge:
+
 - Via Github
     1. Press `Ctrl` + `f` on your keyboard, to bring out the search modal.
     1. Enter the name of the badge you need.
@@ -63,12 +66,11 @@ To use a badge:
 
 # Tips
 
-<details> 
+<details>
 <summary>👇 How to use a different badge style</summary>
 <hr>
 
 > <strong>Note:</strong> `for-the-badge` is the style that we chose for appearance purposes. Other styles are available at [https://shields.io/#styles](https://shields.io/#styles) and can be used with the badges here. Thanks, @kingthorin for mentioning this!
-
 
 Shields.io offers 5 styles, which are:
 | S/N | Types         | Styles                                                                                                    |
@@ -79,9 +81,8 @@ Shields.io offers 5 styles, which are:
 | 4   | Social        | ![Social](https://shields.io/badge/style-social-03650f?logo=appveyor&style=social)                        |
 | 5   | For-the-badge | ![For-the-badge](https://shields.io/badge/style-for--the--badge-03650f?logo=appveyor&style=for-the-badge) |
 
-
-
 💡 To use a different style: Replace `for-the-badge` in the markdown link with any of the styles above.
+
 ```
 Example.
 
@@ -94,13 +95,12 @@ https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 
 </details>
 
-<details> 
+<details>
 <summary>👇 Use Ctrl + F or CMD + F to search</summary>
  <hr>
 
  > <strong>Tip:</strong> Since there are a lot of badges, to search for the particular badge you are looking for, use Ctrl + F and type the name you want. Thanks, @JakyeRU for mentioning this!
 </details>
-
 
 ## Contribution
 
@@ -295,8 +295,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 | CodeChef       | ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)                    | `![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)`                    |
 | Codeforces     | ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)                     | `![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)`                     |
 | CodePen        | ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)                              | `![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)`                              |
-| Hackerearth    | ![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)           | `![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)`              |               
-| Hackerrank    | ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)                     | `![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)`              |    
+| Hackerearth    | ![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)           | `![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)`              |
+| Hackerrank    | ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)                     | `![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)`              |
 | LeetCode       | ![LeetCode](https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)                         | `![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)`                         |
 | Kaggle         | ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)                                 | `![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)`                                 |
 | OnePlus Forums | ![OnePlus Forums](https://img.shields.io/badge/OnePlusForums-%23EB0028.svg?style=for-the-badge&logo=OnePlus&logoColor=white)          | `![OnePlus Forums](https://img.shields.io/badge/OnePlusForums-%23EB0028.svg?style=for-the-badge&logo=OnePlus&logoColor=white)`          |
@@ -942,6 +942,5 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 | HackerRank   | ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)         | `![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)`         |
 | Indeed       | ![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)                      | `![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)`                      |
 | Upwork       | ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)                      | `![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)`                      |
-
 
 [(Back to top)](#table-of-contents)

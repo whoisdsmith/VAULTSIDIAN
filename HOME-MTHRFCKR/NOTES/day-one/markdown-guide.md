@@ -4,14 +4,13 @@ Day One can convert text written with Markdown into rich text. Conversion will h
 
 [[Editing and formatting entries in Day One for iOS]]
 
-
 ![](https://downloads.intercomcdn.com/i/o/377141029/9b42ecd849fbcfa9b245de86/Screen+Shot+2021-08-17+at+12.15.18+PM.png)
 
-When using a code block, click/tap the code icon at the bottom right to switch between Edit and Read modes. 
+When using a code block, click/tap the code icon at the bottom right to switch between Edit and Read modes.
 
 ![](https://downloads.intercomcdn.com/i/o/377149331/2fd2692336190d97308baa96/Screen+Shot+2021-08-17+at+12.31.48+PM.png)
 
-A code block may also be initiated by typing 3 back ticks and tap the Spacebar. 
+A code block may also be initiated by typing 3 back ticks and tap the Spacebar.
 
 ![](https://downloads.intercomcdn.com/i/o/377148065/889e977b215e04776e12356b/code+block.gif)
 
@@ -19,15 +18,14 @@ A code block may also be initiated by typing 3 back ticks and tap the Spacebar.
 
 [Markdown](http://daringfireball.net/projects/markdown/), created by John Gruber of Daring Fireball, is the technology we chose to use to allow rich text within Day One journal entries. Markdown allows _italic_ and **bold**, along with several other simple formatting options that can be written using plain text and display properly in Read views. Markdown syntax is available in Day One and is toggled **On** by default.
 
-Day One for Android does not have a Markdown toolbar, but the Markdown syntax featured on this page can be manually typed out to format text. 
+Day One for Android does not have a Markdown toolbar, but the Markdown syntax featured on this page can be manually typed out to format text.
 
 Day One takes a similar approach to Markdown as GitHub. See [GitHub Flavored Markdown](http://github.github.com/github-flavored-markdown/).
 
 ### Day One Markdown Syntax
 
 ### Basics
-    
-    
+
     *italic* or _italic_  /  **bold** or __bold__
     
     _italic_ or _italic_ / **bold** or **bold**
@@ -139,13 +137,7 @@ Day One takes a similar approach to Markdown as GitHub. See [GitHub Flavored Mar
     ### Useful Markdown Cheatsheet:
     
       * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-    
-    
-    
-    
-    
-
 
 ___
 
-#article #DayOne
+# article #DayOne

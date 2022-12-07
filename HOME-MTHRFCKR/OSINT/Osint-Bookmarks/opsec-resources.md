@@ -1,4 +1,5 @@
 ## OPSec Resources
+
 - [B3RN3D](http://www.b3rn3d.com/)
 - [CryptoPaper](https://github.com/cryptoseb/CryptoPaper)
 - [DefCon 22: Blinding The Surveillance State](https://www.youtube.com/watch?v=xCH_q-xn760)

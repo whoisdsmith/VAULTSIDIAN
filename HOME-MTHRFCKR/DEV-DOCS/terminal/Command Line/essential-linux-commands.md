@@ -1,6 +1,6 @@
 # essential-linux-commands
 
-## To Anyone Getting Started with Linux, Check Out These Commands and Make Your Life Easier!
+## To Anyone Getting Started with Linux, Check Out These Commands and Make Your Life Easier
 
 ![](https://miro.medium.com/max/700/1*Y7550RGvIbLZDjUktNG26A.png)
 
@@ -15,13 +15,13 @@ Use the `**ls**` command to display the files, along with all their properties, 
 It is often necessary to change directories. That’s the `cd` command's function. For instance, this example takes you from your home directory into the `Desktop` directory:
 
 ```
-$ cd Desktop
+cd Desktop
 ```
 
 To get back to the previous directory use:
 
 ```
-$ cd ..
+cd ..
 ```
 
 ![](https://miro.medium.com/max/700/1*aB4x9tItYwCP9t-ULqBFrg.png)
@@ -37,7 +37,7 @@ The `pwd` command prints your working directory. In other words, it outputs the 
 Making directories is easy with the `mkdir` command. The following command creates a directory called `newfolder` unless `newfolder` already exists:
 
 ```
-$ mkdir newfolder
+mkdir newfolder
 ```
 
 ## Copy a File (cp)
@@ -45,7 +45,7 @@ $ mkdir newfolder
 Copy files _from-here_ _to-there_ with the `cp` command. Here's an example to copy from file1.txt to file2.txt:
 
 ```
-$ cp file1.txt file2.txt
+cp file1.txt file2.txt
 ```
 
 ## Create an Empty File (touch)
@@ -53,7 +53,7 @@ $ cp file1.txt file2.txt
 Easily create an empty file with the `touch` command:
 
 ```
-$ touch newfile.txt
+touch newfile.txt
 ```
 
 ## Escalate Privileges (sudo)
@@ -61,7 +61,7 @@ $ touch newfile.txt
 The `sudo` (or _super user do_) command comes in when you require super user permissions (root) while administering your system. When you're trying to do something and your computer alerts you that only an administrator (or root) user can do, stating Permission denied, just preface it with the command `sudo`:
 
 ```
-$ touch /etc/os-release && echo "Success"touch: cannot touch '/etc/os-release': Permission denied$ sudo touch /etc/os-release && echo "Success"Success
+touch /etc/os-release && echo "Success"touch: cannot touch '/etc/os-release': Permission denied$ sudo touch /etc/os-release && echo "Success"Success
 ```
 
 ## Read the Manual (man)
@@ -69,7 +69,7 @@ $ touch /etc/os-release && echo "Success"touch: cannot touch '/etc/os-release': 
 The single most important command that you will need to get the documentation for each of the commands on your Linux system is `man` .For instance, to read more about `mkdir`:
 
 ```
-$ man mkdir
+man mkdir
 ```
 
 Another similar command is `info.`

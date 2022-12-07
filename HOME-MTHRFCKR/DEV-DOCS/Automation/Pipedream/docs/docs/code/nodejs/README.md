@@ -2,11 +2,7 @@
 
 Pipedream supports [Node.js v{{$site.themeConfig.NODE_VERSION}}](https://nodejs.org/).
 
-
-
 **Anything you can do with Node.js, you can do in a workflow**. This includes using most of [npm's 400,000+ packages](#using-npm-packages).
-
-
 
 JavaScript is one of the [most used](https://insights.stackoverflow.com/survey/2019#technology-_-programming-scripting-and-markup-languages) [languages](https://github.blog/2018-11-15-state-of-the-octoverse-top-programming-languages/) in the world, with a thriving community and [extensive package ecosystem](https://www.npmjs.com). If you work on websites and know JavaScript well, Pipedream makes you a full stack engineer. If you've never used JavaScript, see the [resources below](#new-to-javascript).
 
@@ -105,7 +101,7 @@ When you [connect an account to a step](/connected-accounts/#from-a-code-step), 
 
 ## Logs
 
-You can call `console.log` or `console.error` to add logs to the execution of a code step. 
+You can call `console.log` or `console.error` to add logs to the execution of a code step.
 
 These logs will appear just below the associated step. `console.log` messages appear in black, `console.error` in red.
 
@@ -243,7 +239,7 @@ For more information on what functionality is available for those languages, ple
 
 ### Injecting the database
 
-By default, Node.js steps don't have access to the database service. It needs to be injected by defining it as a `prop`. 
+By default, Node.js steps don't have access to the database service. It needs to be injected by defining it as a `prop`.
 
 ```javascript
 export default defineComponent({
@@ -261,7 +257,7 @@ export default defineComponent({
 :::tip
 `props` injects variables under `this` scope in components.
 
-In the above example we essentially instructed that this step needs the database injected into the `this.db` prop. 
+In the above example we essentially instructed that this step needs the database injected into the `this.db` prop.
 :::
 
 ### Using the database
@@ -353,7 +349,6 @@ export default defineComponent({
 The `$.service.db` is only currently available in Node.js code steps. It is not yet available in other languages like Go, bash or Python.
 
 In addition, `$.service.db` can hold up to {{ $site.themeConfig.SERVICE_DB_SIZE_LIMIT }} per step.
-
 
 ## Ending a workflow early
 

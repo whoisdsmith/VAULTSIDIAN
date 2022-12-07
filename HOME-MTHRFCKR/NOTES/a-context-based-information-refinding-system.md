@@ -122,7 +122,7 @@ G
 
 #### II. Relatedwork
 
-###### .
+######
 
 ```
 key word and their related information after a couple of
@@ -270,7 +270,7 @@ Drawbacks
 context based  
 information re-
 
--   finding and  
+- finding and  
     page ranking
 
 ```
@@ -580,50 +580,50 @@ shown in above table.
 
 #### References Références Referencias
 
-1.  A.P. Nivethith, D. Kerana Hanirex, K.P. Kaliyamurthie  
+1. A.P. Nivethith, D. Kerana Hanirex, K.P. Kaliyamurthie  
     “ A Comparative Study of Context-Based  
     Information Refinding” COMPUSOFT, An  
     international journal of advanced computer  
     technology, 3 (4), April-2014 (Volume-III, Issue-IV).
-2.  A.P. Nivethitha “efficiently context-based information  
+2. A.P. Nivethitha “efficiently context-based information  
     re-finding and page ranking ”International  
     conference on electrical, communication and  
     computing, 2014.
-3.  Tangjian Deng, Liang Zhao, Hao Wang, Qingwei  
+3. Tangjian Deng, Liang Zhao, Hao Wang, Qingwei  
     Liu, and Ling Feng, “ReFinder: A Context-Based  
     Information Refinding System” IEEE transactions on  
     knowledge and data engineering, vol. 25, no. 9,  
     september 2013.
-4.  S. Won, J. Jin, and J. Hong, “Contextual Web  
+4. S. Won, J. Jin, and J. Hong, “Contextual Web  
     History: Using Visual and Contextual Cues to  
     Improve Web Browser History,” Proc. SIGCHI Conf.  
     Human Factors in Computing Systems (CHI), 2009.
-5.  B. MacKay, M. Kellar, and C. Watters, “An  
+5. B. MacKay, M. Kellar, and C. Watters, “An  
     Evaluation of Landmarks for Re-Finding Information  
     on the Web,” Proc. Extended Abstracts on Human  
     Factors in Computing Systems (CHI ’05 EA), 2005.
-6.  J. Hailpern, N. Jitkoff, A. Warr, R. Karahalios, K.  
+6. J. Hailpern, N. Jitkoff, A. Warr, R. Karahalios, K.  
     Sesek, and N. Shkrob, “You Pivot: Improving Recall  
     with Contextual Search,” Proc. SIGCHI Conf. Human  
     Factors in Computing Systems (CHI), 2011.
-7.  Kathryn Parsons, Agata Mc Cormac, Marcus  
+7. Kathryn Parsons, Agata Mc Cormac, Marcus  
     Butavicius, Simon Dennis\* and Lael Ferguson “ The  
     Use of a Context-Based Information Retrieval  
     Technique” Command, Control, Communications  
     and Intelligence Division Defense Science and  
     Technology Organization \*Ohio State University.
-8.  E. Adar, J. Teevan, and S.T. Dumais, “Large Scale  
+8. E. Adar, J. Teevan, and S.T. Dumais, “Large Scale  
     Analysis of Web Revisitation Patterns,” Proc. SIGCHI  
     Conf. Human Factors in Computing Systems (CHI),
-    
-9.  R. Capra, M. Pinney, and M.A. Perez-Quinones,  
+
+9. R. Capra, M. Pinney, and M.A. Perez-Quinones,  
     “Refinding Is Not Finding Again,” technical report,  
     Aug. 2005.
-10.  Y. Chen and G. Jones, “Integrating Memory Context  
+10. Y. Chen and G. Jones, “Integrating Memory Context  
     into Personal Information Re-Finding,” Proc. Second  
     Symp. Future Directions in Information Access,
-    
-11.  J. Teevan, “The Re: Search Engine: Simultaneous  
+
+11. J. Teevan, “The Re: Search Engine: Simultaneous  
     Support for Finding and Re-Finding,” Proc. 20th  
     Ann. ACM Symp. User Interface Software and  
     Technology (UIST), 2007.

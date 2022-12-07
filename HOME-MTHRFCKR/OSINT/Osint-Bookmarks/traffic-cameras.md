@@ -1,4 +1,5 @@
 ## Traffic Cameras
+
 - [Alabama Traffic Cameras](https://algotraffic.com/)
 - [Alaska Traffic Cameras](http://roadweather.alaska.gov/iways/roadweather/forms/AreaSelectForm.html)
 - [California Traffic Cameras](http://www.dot.ca.gov/video/index.html)

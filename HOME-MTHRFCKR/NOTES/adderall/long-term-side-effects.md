@@ -38,8 +38,8 @@ If you believe you or someone you love may be struggling with addiction, let us 
 
 There are a variety of confidential, free, and no obligation ways to get in contact with us to learn more about treatment.
 
-  * Call us at  or [get a text](/not-ready-to-talk) for information on various treatment options. There, you can talk to one of our admissions advisors where we can answer any questions you might have about treatment or insurance coverage for you or a loved one.
-  * Fill in our online insurance verification form below to find out if your insurance provider may be able to cover the cost of treatment. Our admissions advisors may contact you thereafter to discuss your options.
+* Call us at  or [get a text](/not-ready-to-talk) for information on various treatment options. There, you can talk to one of our admissions advisors where we can answer any questions you might have about treatment or insurance coverage for you or a loved one.
+* Fill in our online insurance verification form below to find out if your insurance provider may be able to cover the cost of treatment. Our admissions advisors may contact you thereafter to discuss your options.
 
 Check to see if your insurance is in-network at an American Addiction Centers location
 
@@ -63,7 +63,7 @@ Someone who is dependent on Adderall may have trouble sleeping and concentrating
 
 > The more and longer Adderall is abused, the more pronounced the mood swings may be when it is no longer available in the body. Most of these changes in the brain will likely be repaired over time with sustained abstinence and proper care and support, fortunately.
 
-In some cases, Adderall and other prescription stimulants have been reported to cause psychosis and schizophrenia-like symptoms, such as paranoid delusions, hallucinations, and other behavioral or mood disturbances, according to the journal _[Molecular Psychiatry_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2670101/). Anxiety and panic attacks may also be triggered by long-term use of an amphetamine stimulant or during Adderall withdrawal. The _[U.S. Food and Drug Administration](https://www.accessdata.fda.gov/drugsatfda_docs/label/2007/011522s040lbl.pdf)_, or FDA, even prints warnings on Adderall labels about potential negative psychiatric side effects. Symptoms may be heightened in someone with a history of mental illness or an underlying mental health disorder, such as bipolar disorder or schizophrenia.
+In some cases, Adderall and other prescription stimulants have been reported to cause psychosis and schizophrenia-like symptoms, such as paranoid delusions, hallucinations, and other behavioral or mood disturbances, according to the journal _[Molecular Psychiatry_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2670101/). Anxiety and panic attacks may also be triggered by long-term use of an amphetamine stimulant or during Adderall withdrawal. The_[U.S. Food and Drug Administration](https://www.accessdata.fda.gov/drugsatfda_docs/label/2007/011522s040lbl.pdf)_, or FDA, even prints warnings on Adderall labels about potential negative psychiatric side effects. Symptoms may be heightened in someone with a history of mental illness or an underlying mental health disorder, such as bipolar disorder or schizophrenia.
 
 ## Physical Side Effects of Adderall
 
@@ -75,19 +75,19 @@ Adderall can cause damage to the heart and cardiovascular system when used for a
 
 Other side effects of abusing Adderall long-term include:
 
-  * Heart disease
-  * Dizziness
-  * Abdominal pain
-  * Weight loss
-  * Insomnia
-  * Dry mouth
-  * Heart palpitations
-  * Headaches
-  * Tremors
-  * Trouble breathing
-  * Constipation
-  * Hyperactivity
-  * Feeling jittery or “on edge”
+* Heart disease
+* Dizziness
+* Abdominal pain
+* Weight loss
+* Insomnia
+* Dry mouth
+* Heart palpitations
+* Headaches
+* Tremors
+* Trouble breathing
+* Constipation
+* Hyperactivity
+* Feeling jittery or “on edge”
 
 > Using Adderall heavily for a long period of time increases all the risk factors and potential long-term side effects, which may get progressively worse.
 
@@ -97,4 +97,4 @@ Detox from Adderall is not sufficient treatment, however. It must be followed wi
 
 ___
 
-#article Adderall 
+# article Adderall

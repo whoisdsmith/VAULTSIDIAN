@@ -11,14 +11,14 @@ description: My Favourite Artists
 
 ## 🎵 My Favorite Artists
 
-#notebook
+# notebook
 
 ---
 
 ```dataview
 TABLE
-	album AS "Favorite Album/Single",
-	genre as "Genre"
+ album AS "Favorite Album/Single",
+ genre as "Genre"
 FROM #artist 
 SORT file.ctime DESC
 where file.name != "📔 New Artist"

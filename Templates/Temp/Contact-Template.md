@@ -7,7 +7,7 @@ Alias: []
 
 # <% tp.file.title %>
 
-*Source: *
+*Source:*
 
 [TOC]
 

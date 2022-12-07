@@ -1,20 +1,19 @@
 Steps are the building blocks you use to create workflows. You can easily combine multiple steps into a workflow to integrate your apps, data and APIs:
 
--   Steps include triggers, code and prebuilt actions.
-    
--   Steps are executed linearly, in the order they appear in your workflow.
-    
--   You can pass data between steps using `steps` objects.
-    
--   You can observe the execution results for each step including export values, logs and errors.
-    
+- Steps include triggers, code and prebuilt actions.
 
--   [Types of Steps](https://pipedream.com/docs/#types-of-steps)
-    -   [Trigger](https://pipedream.com/docs/#trigger)
-    -   [Code, Actions](https://pipedream.com/docs/#code-actions)
--   [Step Names](https://pipedream.com/docs/#step-names)
--   [Passing data to steps from the workflow builder](https://pipedream.com/docs/#passing-data-to-steps-from-the-workflow-builder)
--   [Step Exports](https://pipedream.com/docs/#step-exports)
+- Steps are executed linearly, in the order they appear in your workflow.
+
+- You can pass data between steps using `steps` objects.
+
+- You can observe the execution results for each step including export values, logs and errors.
+
+- [Types of Steps](https://pipedream.com/docs/#types-of-steps)
+  - [Trigger](https://pipedream.com/docs/#trigger)
+  - [Code, Actions](https://pipedream.com/docs/#code-actions)
+- [Step Names](https://pipedream.com/docs/#step-names)
+- [Passing data to steps from the workflow builder](https://pipedream.com/docs/#passing-data-to-steps-from-the-workflow-builder)
+- [Step Exports](https://pipedream.com/docs/#step-exports)
 
 ## [#](https://pipedream.com/docs/#types-of-steps) Types of Steps
 
@@ -62,7 +61,7 @@ Step exports allow you to pass data between steps. Any data exported from a step
 
 For examples of supported data types in your steps language, see the examples below.
 
--   [Node.js (Javascript)](https://pipedream.com/docs/code/nodejs/#sharing-data-between-steps)
--   [Python](https://pipedream.com/docs/code/python/#sharing-data-between-steps)
--   [Bash](https://pipedream.com/docs/code/bash/#sharing-data-between-steps)
--   [Go](https://pipedream.com/docs/code/go/#sharing-data-between-steps)
+- [Node.js (Javascript)](https://pipedream.com/docs/code/nodejs/#sharing-data-between-steps)
+- [Python](https://pipedream.com/docs/code/python/#sharing-data-between-steps)
+- [Bash](https://pipedream.com/docs/code/bash/#sharing-data-between-steps)
+- [Go](https://pipedream.com/docs/code/go/#sharing-data-between-steps)

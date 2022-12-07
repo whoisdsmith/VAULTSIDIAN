@@ -113,7 +113,7 @@ In short, the algorithm for drawing is following:
 1. Draw background circle
 2. Draw inner circles, month delimiters and month names
 3. Draw inner text
-4. For each message: 
+4. For each message:
     1. Convert message's timestamp to the day of the year and a fraction of the day
     2. Draw a small semi-transparent stroke on the circle in the appropriate day of the year and time of the day
 
@@ -196,4 +196,4 @@ Going further, you can find approximate location of each of the IP address with 
 
 ![gubins%20lv%20Visualizing%20years%20of%20messaging%20on%20Facebo%20fc597ca8a74a4700a1e1125462379b6a/b1f13ce21d0825e600.png](gubins%20lv%20Visualizing%20years%20of%20messaging%20on%20Facebo%20fc597ca8a74a4700a1e1125462379b6a/b1f13ce21d0825e600.png)
 
-- - Ilja
+  - - Ilja

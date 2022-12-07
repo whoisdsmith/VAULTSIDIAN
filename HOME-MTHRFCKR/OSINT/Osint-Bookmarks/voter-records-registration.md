@@ -1,4 +1,5 @@
 ## Voter Records & Registration
+
 - [Alabama Voter Search](https://www.alabamainteractive.org/sos/voter/voterWelcome.action)
 - [Indiana Voter Search](https://indianavoters.in.gov/)
 - [Massachusetts Voter Search](https://www.sec.state.ma.us/VoterRegistrationSearch/MyVoterRegStatus.aspx)

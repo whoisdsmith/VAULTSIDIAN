@@ -1,4 +1,5 @@
-# List copied from http://xpo6.com/list-of-english-stop-words/
+# List copied from <http://xpo6.com/list-of-english-stop-words/>
+
 a
 about
 above
@@ -319,7 +320,8 @@ yours
 yourself
 yourselves
 
-# List inspired by http://cerig.pagora.grenoble-inp.fr/Recherche/mots-vides.htm + https://referencement-gratuit.and-co.ch/download/liste-stop-words-francais.txt 
+# List inspired by <http://cerig.pagora.grenoble-inp.fr/Recherche/mots-vides.htm> + <https://referencement-gratuit.and-co.ch/download/liste-stop-words-francais.txt>
+
 à
 allô
 aucuns
@@ -328,7 +330,7 @@ auxdits
 aviez
 ayons
 bof
-çà 
+çà
 certaines
 chez
 comment
@@ -377,7 +379,7 @@ voilà
 voudrez
 voulante
 voulue
-vôtre 	afin
+vôtre  afin
 alors
 auquel
 aurions
@@ -434,7 +436,7 @@ vos
 voudriez
 voulantes
 voulues
-vôtres 	ah
+vôtres  ah
 apr.
 aura
 aurons
@@ -491,7 +493,7 @@ votre
 voudrions
 voulants
 voulurent
-zut 	ai
+zut  ai
 as
 aurai
 auront
@@ -548,7 +550,7 @@ voudra
 voudrons
 voulez
 voulus
-  	aie
+   aie
 attendu
 auraient
 autant
@@ -605,7 +607,7 @@ voudrai
 voudront
 vouliez
 voulussent
-  	aient
+   aient
 au
 aurais
 autre
@@ -662,7 +664,7 @@ voudraient
 voulaient
 voulions
 voulut
-  	aies
+   aies
 aucun
 aurait
 autres
@@ -719,7 +721,7 @@ voudrais
 voulais
 vouloir
 voulût
-  	ait
+   ait
 aucune
 auras
 aux
@@ -776,7 +778,7 @@ voudrait
 voulait
 voulons
 vous
-  	al.
+   al.
 aucunes
 aurez
 auxdites

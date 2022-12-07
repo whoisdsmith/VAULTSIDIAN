@@ -219,7 +219,7 @@ laws, rights and regulations that could support the safe implementation of lifel
 Lifelogging in the strict definition that is employed in this paper may never come into being on a  
 large scale. Nevertheless, some aspects of lifelogging are already implemented in today’s society
 
--   think for example of how our mobile phones already generate a locational record, or of all the  
+- think for example of how our mobile phones already generate a locational record, or of all the  
     digitised memories we have posted on social media – and more are likely to follow. ‘The Entire  
     History of You’ shows us how pervasive lifelogging technology could be and urges us to reflect on  
     the possible impact of lifelogging technology on the way we live our lives. As everyone would be  
@@ -247,7 +247,7 @@ Empowerment with Memories for Life. Identity in the Information Society, 1:1,
 ‘The Entire History of You.’ Black Mirror, season 1, episode 3, Endemol UK, 18 December
 ```
 
-2011.  Netflix, available at: _[http://www.netflix.com/watch/70264856?trackId=13752289&tctx](http://www.netflix.com/watch/70264856?trackId=13752289&tctx)  
+2011. Netflix, available at: _[http://www.netflix.com/watch/70264856?trackId=13752289&tctx](http://www.netflix.com/watch/70264856?trackId=13752289&tctx)  
     \=0%2C0-%2Ce23663bc-b998-4913-9170-1feb1c097d6a-6631378._  
     Van Bree, T. 2016. ‘Digital Hyperthymesia: On the Consequences of Living with Perfect  
     Memory.’ _The Art of Ethics in the Information Society – Mind You,_  

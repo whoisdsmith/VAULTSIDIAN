@@ -26,7 +26,7 @@ To start SpiderFoot in Web UI mode, you need to tell it what IP and port to list
 ~/spiderfoot$ python3 sf.py -l 127.0.0.1:5001
 ```
 
-Once executed, a web-server will be started, which will listen on 127.0.0.1:5001. You can then use the web-browser of your choice by browsing to https://127.0.0.1:5001. Or, since version 2.10 you can use the CLI, which by default will connect to the server locally, on 127.0.0.1:5001, or you can provide a URL of your server explicitly:
+Once executed, a web-server will be started, which will listen on 127.0.0.1:5001. You can then use the web-browser of your choice by browsing to <https://127.0.0.1:5001>. Or, since version 2.10 you can use the CLI, which by default will connect to the server locally, on 127.0.0.1:5001, or you can provide a URL of your server explicitly:
 
 ```
 ~/spiderfoot$ python3 sfcli.py -s https://127.0.0.1:5001
@@ -41,7 +41,7 @@ If you wish to make SpiderFoot accessible from another system, for example runni
 Then to use the CLI from a remote system where the `sfcli.py` file has been copied to, you would run:
 
 ```
-$ python3 sfcli.py -u https://<remote ip>:5001
+python3 sfcli.py -u https://<remote ip>:5001
 ```
 
 Run `python3 ./sfcli.py --help` to better understand how to use the client CLI.

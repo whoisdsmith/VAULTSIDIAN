@@ -47,7 +47,7 @@
 
 ### Github
 
-https://github.com/whoisdsmith
+<https://github.com/whoisdsmith>
 
 ## Music
 
@@ -65,9 +65,9 @@ https://github.com/whoisdsmith
 
 ### Flickr
 
-https://flickr.com/photos/132098111@N05  
-https://flickr.com/photos/133795233@N02  
-https://flickr.com/photos/195246813@N02
+<https://flickr.com/photos/132098111@N05>  
+<https://flickr.com/photos/133795233@N02>  
+<https://flickr.com/photos/195246813@N02>
 
 ### Photobucket
 
@@ -77,11 +77,11 @@ https://flickr.com/photos/195246813@N02
 
 ### Facebook
 
-https://facebook.com/dontcallmedsmith
+<https://facebook.com/dontcallmedsmith>
 
 ### Instagram
 
-https://www.instagram.com/dsmith4life/
+<https://www.instagram.com/dsmith4life/>
 
 ### Myspace
 
@@ -99,18 +99,18 @@ u/Iamthereaper85
 [overview for Iamthereaper85](https://www.reddit.com/user/Iamthereaper85)
 
 u/wh0isdsmith  
-https://www.reddit.com/user/wh0isdsmith
+<https://www.reddit.com/user/wh0isdsmith>
 
 u/whatitiz2burn  
-https://www.reddit.com/user/whatitiz2burn
+<https://www.reddit.com/user/whatitiz2burn>
 
 ### Snapchat
 
-https://www.snapchat.com/add/whoisdsmith
+<https://www.snapchat.com/add/whoisdsmith>
 
 ### Twitter
 
-https://twitter.com/Wh0isdsmith
+<https://twitter.com/Wh0isdsmith>
 
 ### YouTube
 

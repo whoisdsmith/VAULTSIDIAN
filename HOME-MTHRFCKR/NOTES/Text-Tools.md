@@ -1,110 +1,110 @@
 ## ▷ Text Tools[#](https://rentry.co/FMHYTools#text-tools "Permanent link")
 
--   **[TextFixer](https://www.textfixer.com/)**, **[OnlineTextTools](https://onlinetexttools.com/)**, [English Tools](https://www.englishtools.org/), [Smodin](https://smodin.io/) or [Word Hippo](https://www.wordhippo.com/) - _Multiple Text Tools_
--   **[Text Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_editors)** - _Text Editing Tools_
--   **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_grammar_check)** - _Grammar Checking Tools_
--   **[Office Suites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_office_suites)** - _Office Suite Software_
--   [Pastebins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_pastebins) - _Paste / Store Text Online_
--   [MarkdownPastebin](https://markdownpastebin.com/) - _Markdown Pastebin_
--   [PrivNote](https://privnote.com/), [Burner Note](https://burnernote.com/) or [IPNote](https://ipnote.io/) - _Self Destructing Text_
--   [GhostText](https://ghosttext.fregante.com/) - _Use Text Editor in Browser_
--   [Calendars](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calendars) - _Calendar & Scheduling Tools_
--   [Note Taking / Scheduling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - _Note Taking & To-do Apps_
--   [Scrapbox](https://scrapbox.io/) - _Write & link Notes, Docs & Pages_
--   [Manuskript](https://www.theologeek.ch/manuskript/) - _Writing Organizer & Planner_
--   [WorkFlowy](https://workflowy.com/) - _Work Organizer_
--   [KiloDoc](https://www.kilodoc.com/) or [GroupDocs](https://products.groupdocs.app/viewer/total) - _Online Document Editor_
--   [docz](https://www.docz.site/) - _Write and Publish Interactive Documentation_
--   [Writemonkey](http://writemonkey.com/) - _Distraction Free Writing App_
--   [EncryptPad](https://evpo.net/encryptpad/) - _Encrypted Text Editor_
--   [Calculist](https://calculist.io/) - _Note Taking for Problem Solving_
--   [journaltxt](https://journaltxt.github.io/) or [journal-cli](https://v1.journalcli.app/) - _Journal App_
--   [Nute](https://nute.app/) - _Quickly Make & Save Text Files_
--   [Lyx](https://www.lyx.org/) - _LaTeX Editor / [Guide](https://www.learnlatex.org/)_
--   [Detexify](http://detexify.kirelabs.org/classify.html) - _Handwritten LaTeX Symbol Recognition_
--   [AirPDFtoExcel](https://airpdftoexcel.com/) - _PDF to Excel Converter_
--   [How To Use Excel](https://www.how-use-excel.com/) - _Excel Tutorial_
--   [Plain Text Table](https://plaintexttools.github.io/plain-text-table/) - _Text Tables_
--   [Read File Online](http://www.readfileonline.com/) - _Online Large Text File Viewer_
--   [Office Search](http://www.enselsoftware.com/product/OfficeSearch.html) - _Multi-File Text Search_
--   [ConvertText](https://converttext.io/) - _Text Converter_
--   [Text Rephrashing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_rephrashing) - _Rephrase / Paraphrase Text_
--   [Plagiarism Detection Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_plagiarism_detection) - _Detect Plagiarized Content_
--   [Cliche Finder](http://cliche.theinfo.org/) - _Detect Cliches_
--   [phraseup](http://www.phraseup.com/) - _Autocomplete Common Phrases_
--   [Transformer](https://transformer.huggingface.co/), [SpeedWrite](https://speedwrite.com/), [TurbineText](https://www.turbinetext.com/en) or [Talk to Transformer](https://app.inferkit.com/demo) - _Text Autocomplete_
--   [EleutherAI](https://6b.eleuther.ai/) - _Text / Story Autocomplete_
--   [StoryAI](https://storyai.botsociety.io/) - _Story Autocomplete_
--   [Twinery](https://twinery.org/) - _Interactive Non-Linear Story Creator_
--   [FocusWriter](https://gottcode.org/focuswriter/) - _Distraction-Free Writing Environment_
--   [NovelWriter](https://novelwriter.io/) - _Markdown Style Novel Editor_
--   [Fantasy Name Generators](https://www.fantasynamegenerators.com/) - _Generate Fantasy Names_
--   [Lorem Ipsum Generator](https://apps.maximelafarie.com/lig/) - _Generate Placeholder Text_
--   [text-regenerator](https://github.com/jddunn/text-regenerator) - _Replace Words with Synonyms_
--   [Honk.moe](https://honk.moe/tools.html) - _Shitposting Text Generators_
--   [Typoer](https://github.com/georgetian3/typoer) - _Types Text with Typos / Corrections_
--   [How to annotate literally everything](https://beepb00p.xyz/annotating.html) - _Annotation Tools / Resources_
--   [Translation Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_translation_sites) - _Online Translators_
--   [Crow Translate](https://github.com/crow-translate/crow-translate) - _Translation App_
--   [OnlineDocTranslator](https://www.onlinedoctranslator.com/en/) - _Document Translator_
--   [LingoJam](https://lingojam.com/) - _Create Translator_
--   [Translator++](https://dreamsavior.net/translator-the-introduction/) - _Automatic Translator / Editor_
--   [Poedit](https://poedit.net/) - _Translation Editor_
--   [OmegaT](https://omegat.org/) - _Translation Memory Tool_
--   [SoftMyList](https://sortmylist.com/) - _Sort / Clean Lists_
--   [Delim](https://delim.co/) - _Comma Separating Tool_
--   [Align Toolkit](http://phraseotext.univ-grenoble-alpes.fr/webAlignToolkit/index.php) - _Create Parallel text Web_
--   [Count Duplicates](https://www.somacon.com/p568.php) or [MyNikko](http://www.mynikko.com/tools/tool_duplicateremover.html)\- _Count / Remove Duplicates in a List_
--   [Count Wordsworth](http://countwordsworth.com/) - _Count Words in a List_
--   [OfficeDocs](https://www.offidocs.com/) - _Runs Desktop / Mobile Apps Online_
--   [Text / Code Collaboration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_.2F_code_collaboration) - _Text / Code Collaboration Tools_
--   [Miro](https://miro.com/) - _Collaborative Whiteboard_
--   [Ethercalc](https://ethercalc.snopyta.org/), [Baserow](https://gitlab.com/bramw/baserow), [Framacalc](https://accueil.framacalc.org/en/), [NocoDB](https://github.com/nocodb/nocodb) or [AirTable](https://airtable.com/) - _Collaborative Spreadsheet_
--   [TinySheet](https://tinysheet.com/) - _Simple Online Spreadsheets_
--   [Jamovi](https://www.jamovi.org/) - _Statistical Spreadsheets_
--   [Diagram.codes](https://www.diagram.codes/) - _Convert Text to Diagrams_
--   [Watson](https://speech-to-text-demo.ng.bluemix.net/), [TalkTyper](https://talktyper.com/) or [VoiceNotebook](https://voicenotebook.com/) - _Speech to Text_
--   [Text to Handwriting](https://saurabhdaware.github.io/text-to-handwriting/) - _Text to Handwriting Converter_
--   [WindowTextExtractor](https://github.com/AlexanderPro/WindowTextExtractor) - _Extract Text From Any Window_
--   [ExtractMailAddress](https://extractemailaddress.com/) - _Extract Email's, URLs & Numbers from Text_
--   [Cryptii](https://cryptii.com/) - _Modular Conversion, Encoding & Encryption_
--   [dCode](https://www.dcode.fr/en) - _Message Decoders_
--   [InfoEncrypt](https://www.infoencrypt.com/) - _Encrypt / Decrypt Text_
--   [StegCloak](https://stegcloak.surge.sh/) - _Hide Messages in Text_
--   [telescopictext](https://www.telescopictext.org/) - _Write Text Within Text_
--   [Universal Online Cyrillic Decoder](https://2cyr.com/decode/?lang=en) - _Decode / Recover Scrambled Text into Cyrillic_
--   [AnagramAssistant](https://keitharm.me/projects/anagramAssistant/) - _Anagram Tool_
--   [Tone Analyzer](https://tone-analyzer-demo.ng.bluemix.net/) - _Text Tone Detection_
--   [Just Not Sorry](https://chrome.google.com/webstore/detail/just-not-sorry-the-gmail/fmegmibednnlgojepmidhlhpjbppmlci) - _Undermining Word Detection_
--   [Character / Word Counters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_character_.2F_word_counters) - _Character / Word Counters_
--   [Gramma](https://caderek.github.io/gramma/) - _Command Line Grammar Checker_
--   [R2bEEaton's Phonetic Reverser](https://spea.cc/backwards/) - _Sentence / Word Reverser_
--   [I or l?](https://iorl.info/) - _Is it an uppercase "i", or is it a lowercase "L"?_
--   [ripgrep](https://github.com/BurntSushi/ripgrep) - _Recursive Search Tool_
--   [CopyChar](https://copychar.cc/), [Unicode Table](https://unicode-table.com/en/), [Copy Paste Dump](https://c.r74n.com/), [Unicode Explorer](https://unicode-explorer.com/), [CopyPasteCharacter](https://copypastecharacter.com/) or [Cool Symbol](https://coolsymbol.com/) - _Copy & Paste Unicode Characters_
--   [Donger List](http://dongerlist.com/) - _600+ Unicode Emoticons_
--   [taag](http://patorjk.com/software/taag/) - _ASCII Text Generator_
--   [Text Smileys](https://lenny-face-generator.textsmilies.com/) - _Create ASCII Face_
--   [ASCII Art Creator](https://github.com/CherryPill/ASCII-art-creator) or [ASCII Today](https://ascii.today/) - _ASCII Art Generator_
--   [randSeq](http://www.dave-reed.com/Nifty/randSeq.html) - _Random Letter Sequence Generator_
--   [quipqiup](https://www.quipqiup.com/) - _Cryptogram Solver_
--   [Age Online](https://age-online.com/) - _Text Encryption Tool_
--   [xeuledoc](https://github.com/Malfrats/xeuledoc) - _Fetch Information about Public Google Documents_
--   [Useless-Translator](https://vcjhwebdev.github.io/useless-translator/) - _Morse Code / Binary Translator_
--   [Infinite Story](https://infinite-story.com/) or [WriteAlong](https://www.writealong.io/) - _Collaborative Story Writing_
--   [Textanim](https://textanim.com/) - _Animated Text Generator_
--   [Text Color Fader](http://patorjk.com/text-color-fader) - _Rainbow Text Generator_
--   [Podpis](https://podpis-online.ru/) - _Signature Generator_
--   [TextGiraffe](http://www.textgiraffe.com/) - _Text / Logo Generator_
--   [Polona Typo](http://typo.polona.pl/en/) - _Create Text out of Book, Poster & Map Letters_
--   [The Death Generator](https://deathgenerator.com/) - _Video Game Text Generator_
--   [Pixel Speech Bubble](https://pixelspeechbubble.com/) - _Create Pixel Speech Bubbles_
--   [Acme Caption](https://acme.com/caption/) - _Caption Creator_
--   [SimpleWriter](https://xkcd.com/simplewriter/) - _Simple Words Writing Tool_
--   [Text Paint](https://textpaint.net/) - _Text Paint Program_
--   [uwu](https://github.com/Daniel-Liu-c0deb0t/uwu) - _Text uwuifier_
--   [SVGBob Editor](https://ivanceras.github.io/svgbob-editor/) - _Convert ASCII Diagrams to SVG Images_
--   [E5 Rclone Actions](https://github.com/ChirmyRam/E5-Rclone-Actions-Repo) - _Keep OneDrive Office E5 Active_
--   [Image to Braille](https://505e06b2.github.io/Image-to-Braille/) - _Convert Images to Braille_
+- **[TextFixer](https://www.textfixer.com/)**, **[OnlineTextTools](https://onlinetexttools.com/)**, [English Tools](https://www.englishtools.org/), [Smodin](https://smodin.io/) or [Word Hippo](https://www.wordhippo.com/) - _Multiple Text Tools_
+- **[Text Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_editors)** - _Text Editing Tools_
+- **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_grammar_check)** - _Grammar Checking Tools_
+- **[Office Suites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_office_suites)** - _Office Suite Software_
+- [Pastebins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_pastebins) - _Paste / Store Text Online_
+- [MarkdownPastebin](https://markdownpastebin.com/) - _Markdown Pastebin_
+- [PrivNote](https://privnote.com/), [Burner Note](https://burnernote.com/) or [IPNote](https://ipnote.io/) - _Self Destructing Text_
+- [GhostText](https://ghosttext.fregante.com/) - _Use Text Editor in Browser_
+- [Calendars](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calendars) - _Calendar & Scheduling Tools_
+- [Note Taking / Scheduling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - _Note Taking & To-do Apps_
+- [Scrapbox](https://scrapbox.io/) - _Write & link Notes, Docs & Pages_
+- [Manuskript](https://www.theologeek.ch/manuskript/) - _Writing Organizer & Planner_
+- [WorkFlowy](https://workflowy.com/) - _Work Organizer_
+- [KiloDoc](https://www.kilodoc.com/) or [GroupDocs](https://products.groupdocs.app/viewer/total) - _Online Document Editor_
+- [docz](https://www.docz.site/) - _Write and Publish Interactive Documentation_
+- [Writemonkey](http://writemonkey.com/) - _Distraction Free Writing App_
+- [EncryptPad](https://evpo.net/encryptpad/) - _Encrypted Text Editor_
+- [Calculist](https://calculist.io/) - _Note Taking for Problem Solving_
+- [journaltxt](https://journaltxt.github.io/) or [journal-cli](https://v1.journalcli.app/) - _Journal App_
+- [Nute](https://nute.app/) - _Quickly Make & Save Text Files_
+- [Lyx](https://www.lyx.org/) - _LaTeX Editor / [Guide](https://www.learnlatex.org/)_
+- [Detexify](http://detexify.kirelabs.org/classify.html) - _Handwritten LaTeX Symbol Recognition_
+- [AirPDFtoExcel](https://airpdftoexcel.com/) - _PDF to Excel Converter_
+- [How To Use Excel](https://www.how-use-excel.com/) - _Excel Tutorial_
+- [Plain Text Table](https://plaintexttools.github.io/plain-text-table/) - _Text Tables_
+- [Read File Online](http://www.readfileonline.com/) - _Online Large Text File Viewer_
+- [Office Search](http://www.enselsoftware.com/product/OfficeSearch.html) - _Multi-File Text Search_
+- [ConvertText](https://converttext.io/) - _Text Converter_
+- [Text Rephrashing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_rephrashing) - _Rephrase / Paraphrase Text_
+- [Plagiarism Detection Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_plagiarism_detection) - _Detect Plagiarized Content_
+- [Cliche Finder](http://cliche.theinfo.org/) - _Detect Cliches_
+- [phraseup](http://www.phraseup.com/) - _Autocomplete Common Phrases_
+- [Transformer](https://transformer.huggingface.co/), [SpeedWrite](https://speedwrite.com/), [TurbineText](https://www.turbinetext.com/en) or [Talk to Transformer](https://app.inferkit.com/demo) - _Text Autocomplete_
+- [EleutherAI](https://6b.eleuther.ai/) - _Text / Story Autocomplete_
+- [StoryAI](https://storyai.botsociety.io/) - _Story Autocomplete_
+- [Twinery](https://twinery.org/) - _Interactive Non-Linear Story Creator_
+- [FocusWriter](https://gottcode.org/focuswriter/) - _Distraction-Free Writing Environment_
+- [NovelWriter](https://novelwriter.io/) - _Markdown Style Novel Editor_
+- [Fantasy Name Generators](https://www.fantasynamegenerators.com/) - _Generate Fantasy Names_
+- [Lorem Ipsum Generator](https://apps.maximelafarie.com/lig/) - _Generate Placeholder Text_
+- [text-regenerator](https://github.com/jddunn/text-regenerator) - _Replace Words with Synonyms_
+- [Honk.moe](https://honk.moe/tools.html) - _Shitposting Text Generators_
+- [Typoer](https://github.com/georgetian3/typoer) - _Types Text with Typos / Corrections_
+- [How to annotate literally everything](https://beepb00p.xyz/annotating.html) - _Annotation Tools / Resources_
+- [Translation Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_translation_sites) - _Online Translators_
+- [Crow Translate](https://github.com/crow-translate/crow-translate) - _Translation App_
+- [OnlineDocTranslator](https://www.onlinedoctranslator.com/en/) - _Document Translator_
+- [LingoJam](https://lingojam.com/) - _Create Translator_
+- [Translator++](https://dreamsavior.net/translator-the-introduction/) - _Automatic Translator / Editor_
+- [Poedit](https://poedit.net/) - _Translation Editor_
+- [OmegaT](https://omegat.org/) - _Translation Memory Tool_
+- [SoftMyList](https://sortmylist.com/) - _Sort / Clean Lists_
+- [Delim](https://delim.co/) - _Comma Separating Tool_
+- [Align Toolkit](http://phraseotext.univ-grenoble-alpes.fr/webAlignToolkit/index.php) - _Create Parallel text Web_
+- [Count Duplicates](https://www.somacon.com/p568.php) or [MyNikko](http://www.mynikko.com/tools/tool_duplicateremover.html)\- _Count / Remove Duplicates in a List_
+- [Count Wordsworth](http://countwordsworth.com/) - _Count Words in a List_
+- [OfficeDocs](https://www.offidocs.com/) - _Runs Desktop / Mobile Apps Online_
+- [Text / Code Collaboration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_.2F_code_collaboration) - _Text / Code Collaboration Tools_
+- [Miro](https://miro.com/) - _Collaborative Whiteboard_
+- [Ethercalc](https://ethercalc.snopyta.org/), [Baserow](https://gitlab.com/bramw/baserow), [Framacalc](https://accueil.framacalc.org/en/), [NocoDB](https://github.com/nocodb/nocodb) or [AirTable](https://airtable.com/) - _Collaborative Spreadsheet_
+- [TinySheet](https://tinysheet.com/) - _Simple Online Spreadsheets_
+- [Jamovi](https://www.jamovi.org/) - _Statistical Spreadsheets_
+- [Diagram.codes](https://www.diagram.codes/) - _Convert Text to Diagrams_
+- [Watson](https://speech-to-text-demo.ng.bluemix.net/), [TalkTyper](https://talktyper.com/) or [VoiceNotebook](https://voicenotebook.com/) - _Speech to Text_
+- [Text to Handwriting](https://saurabhdaware.github.io/text-to-handwriting/) - _Text to Handwriting Converter_
+- [WindowTextExtractor](https://github.com/AlexanderPro/WindowTextExtractor) - _Extract Text From Any Window_
+- [ExtractMailAddress](https://extractemailaddress.com/) - _Extract Email's, URLs & Numbers from Text_
+- [Cryptii](https://cryptii.com/) - _Modular Conversion, Encoding & Encryption_
+- [dCode](https://www.dcode.fr/en) - _Message Decoders_
+- [InfoEncrypt](https://www.infoencrypt.com/) - _Encrypt / Decrypt Text_
+- [StegCloak](https://stegcloak.surge.sh/) - _Hide Messages in Text_
+- [telescopictext](https://www.telescopictext.org/) - _Write Text Within Text_
+- [Universal Online Cyrillic Decoder](https://2cyr.com/decode/?lang=en) - _Decode / Recover Scrambled Text into Cyrillic_
+- [AnagramAssistant](https://keitharm.me/projects/anagramAssistant/) - _Anagram Tool_
+- [Tone Analyzer](https://tone-analyzer-demo.ng.bluemix.net/) - _Text Tone Detection_
+- [Just Not Sorry](https://chrome.google.com/webstore/detail/just-not-sorry-the-gmail/fmegmibednnlgojepmidhlhpjbppmlci) - _Undermining Word Detection_
+- [Character / Word Counters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_character_.2F_word_counters) - _Character / Word Counters_
+- [Gramma](https://caderek.github.io/gramma/) - _Command Line Grammar Checker_
+- [R2bEEaton's Phonetic Reverser](https://spea.cc/backwards/) - _Sentence / Word Reverser_
+- [I or l?](https://iorl.info/) - _Is it an uppercase "i", or is it a lowercase "L"?_
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - _Recursive Search Tool_
+- [CopyChar](https://copychar.cc/), [Unicode Table](https://unicode-table.com/en/), [Copy Paste Dump](https://c.r74n.com/), [Unicode Explorer](https://unicode-explorer.com/), [CopyPasteCharacter](https://copypastecharacter.com/) or [Cool Symbol](https://coolsymbol.com/) - _Copy & Paste Unicode Characters_
+- [Donger List](http://dongerlist.com/) - _600+ Unicode Emoticons_
+- [taag](http://patorjk.com/software/taag/) - _ASCII Text Generator_
+- [Text Smileys](https://lenny-face-generator.textsmilies.com/) - _Create ASCII Face_
+- [ASCII Art Creator](https://github.com/CherryPill/ASCII-art-creator) or [ASCII Today](https://ascii.today/) - _ASCII Art Generator_
+- [randSeq](http://www.dave-reed.com/Nifty/randSeq.html) - _Random Letter Sequence Generator_
+- [quipqiup](https://www.quipqiup.com/) - _Cryptogram Solver_
+- [Age Online](https://age-online.com/) - _Text Encryption Tool_
+- [xeuledoc](https://github.com/Malfrats/xeuledoc) - _Fetch Information about Public Google Documents_
+- [Useless-Translator](https://vcjhwebdev.github.io/useless-translator/) - _Morse Code / Binary Translator_
+- [Infinite Story](https://infinite-story.com/) or [WriteAlong](https://www.writealong.io/) - _Collaborative Story Writing_
+- [Textanim](https://textanim.com/) - _Animated Text Generator_
+- [Text Color Fader](http://patorjk.com/text-color-fader) - _Rainbow Text Generator_
+- [Podpis](https://podpis-online.ru/) - _Signature Generator_
+- [TextGiraffe](http://www.textgiraffe.com/) - _Text / Logo Generator_
+- [Polona Typo](http://typo.polona.pl/en/) - _Create Text out of Book, Poster & Map Letters_
+- [The Death Generator](https://deathgenerator.com/) - _Video Game Text Generator_
+- [Pixel Speech Bubble](https://pixelspeechbubble.com/) - _Create Pixel Speech Bubbles_
+- [Acme Caption](https://acme.com/caption/) - _Caption Creator_
+- [SimpleWriter](https://xkcd.com/simplewriter/) - _Simple Words Writing Tool_
+- [Text Paint](https://textpaint.net/) - _Text Paint Program_
+- [uwu](https://github.com/Daniel-Liu-c0deb0t/uwu) - _Text uwuifier_
+- [SVGBob Editor](https://ivanceras.github.io/svgbob-editor/) - _Convert ASCII Diagrams to SVG Images_
+- [E5 Rclone Actions](https://github.com/ChirmyRam/E5-Rclone-Actions-Repo) - _Keep OneDrive Office E5 Active_
+- [Image to Braille](https://505e06b2.github.io/Image-to-Braille/) - _Convert Images to Braille_
 
 ___

@@ -13,9 +13,9 @@ tags: ["#Log/DailyLog"]
 - [ ] Study something
 - [ ] Work on personal projects
 - [ ] Workout
-	- [ ] Push up's
-	- [ ] Sit downs
-	- [ ] Deeps
+  - [ ] Push up's
+  - [ ] Sit downs
+  - [ ] Deeps
 
 # 🕴 Business
 
@@ -40,4 +40,4 @@ tags: ["#Log/DailyLog"]
 ## 📅 Today's Notes
 
 - 🕛9:00
-	- Wok up and
+  - Wok up and

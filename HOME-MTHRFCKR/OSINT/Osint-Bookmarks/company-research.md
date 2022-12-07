@@ -1,4 +1,4 @@
-##  Company Research
+## Company Research
 
 * [AllStocksLinks](http://www.allstocks.com/links)
 * [Better Business Bureau](http://www.bbb.org)
@@ -13,7 +13,7 @@
 * [Company Research Resources by Country Comparably](https://www.comparably.com)
 * [CompeteShark](http://competeshark.com)
 * [Corporate Information](http://www.corporateinformation.com) - Aggregated information from publicly available sources on publicly traded companies worldwide.
-* [CrunchBase](https://www.crunchbase.com) - Detailed information on startup businesses, with a specific focus on funding sources and funding procedures used by specific businesses. 
+* [CrunchBase](https://www.crunchbase.com) - Detailed information on startup businesses, with a specific focus on funding sources and funding procedures used by specific businesses.
 * [Data.com Connect](https://connect.data.com)
 * [EDGAR U.S. Securities and Exchange Commission Filings](http://www.edgar-online.com) - Periodic reports and extensive corporate disclosures from all businesses publicly traded in the United States.
 * [Europages](http://www.europages.co.uk)
@@ -52,4 +52,5 @@
 * [CorporationWiki](https://www.corporationwiki.com/)
 * [GoodFirms](https://www.goodfirms.co/)
 * [YouControl](https://youcontrol.com.ua/en/)
+
 ---

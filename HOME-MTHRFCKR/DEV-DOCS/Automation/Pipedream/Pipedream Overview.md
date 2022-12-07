@@ -2,9 +2,9 @@ Pipedream is the fastest way to automate any process that connects APIs. Build a
 
 The Pipedream platform includes:
 
--   A [serverless runtime](https://pipedream.com/docs/code/) and [workflow service](https://pipedream.com/docs/workflows/)
--   Open source [triggers](https://pipedream.com/docs/workflows/triggers/) and [actions](https://pipedream.com/docs/components/actions/) for [hundreds of integrated apps (opens new window)](https://pipedream.com/explore/)
--   One-click [OAuth and key-based authentication](https://pipedream.com/docs/connected-accounts/) for hundreds of APIs (use tokens directly in code or with pre-built actions)
+- A [serverless runtime](https://pipedream.com/docs/code/) and [workflow service](https://pipedream.com/docs/workflows/)
+- Open source [triggers](https://pipedream.com/docs/workflows/triggers/) and [actions](https://pipedream.com/docs/components/actions/) for [hundreds of integrated apps (opens new window)](https://pipedream.com/explore/)
+- One-click [OAuth and key-based authentication](https://pipedream.com/docs/connected-accounts/) for hundreds of APIs (use tokens directly in code or with pre-built actions)
 
 Watch a demo or review our [quickstart guide](https://pipedream.com/docs/quickstart/):
 
@@ -18,9 +18,9 @@ To get started, [sign up for a free account (opens new window)](https://pipedrea
 
 One you understand the basics of workflow development, learn how to get more out of Pipedream:
 
--   [Use code in workflows](https://pipedream.com/docs/code/)
--   [Develop custom actions](https://pipedream.com/docs/components/quickstart/nodejs/actions/)
--   [Develop custom triggers](https://pipedream.com/docs/components/quickstart/nodejs/sources/)
+- [Use code in workflows](https://pipedream.com/docs/code/)
+- [Develop custom actions](https://pipedream.com/docs/components/quickstart/nodejs/actions/)
+- [Develop custom triggers](https://pipedream.com/docs/components/quickstart/nodejs/sources/)
 
 ## [#](https://pipedream.com/docs/#use-cases) Use Cases
 
@@ -32,15 +32,15 @@ The platform processes billions of events and is built and [priced (opens new wi
 
 Our [community (opens new window)](https://pipedream.com/community) uses Pipedream for a wide variety of use cases including:
 
--   Connecting SaaS apps
--   General API orchestration and automation
--   Database automations ([reach out (opens new window)](https://pipedream.com/community) to learn about connecting to resources behind a firewall)
--   Custom notifications and alerting
--   Mobile and JAMstack backends
--   Rate limiting, request smoothing
--   Event queueing and concurrency management
--   Webhook inspection and routing
--   Prototyping and demos
+- Connecting SaaS apps
+- General API orchestration and automation
+- Database automations ([reach out (opens new window)](https://pipedream.com/community) to learn about connecting to resources behind a firewall)
+- Custom notifications and alerting
+- Mobile and JAMstack backends
+- Rate limiting, request smoothing
+- Event queueing and concurrency management
+- Webhook inspection and routing
+- Prototyping and demos
 
 ## [#](https://pipedream.com/docs/#open-source) Open Source
 
@@ -50,11 +50,11 @@ Pipedream maintains an [open source component registry (opens new window)](https
 
 We hope is that by providing a generous free tier, you will not only get value from Pipedream, but you will give back to help us improve the product for the entire community and grow the platform by:
 
--   [Contributing](https://pipedream.com/docs/components/guidelines/) open source components to our [registry (opens new window)](https://github.com/pipedreamhq/pipedream) or sharing via your own GitHub repo
--   Asking and answering questions in our [public community (opens new window)](https://pipedream.com/community/)
--   [Reporting bugs (opens new window)](https://pipedream.com/community/c/bugs/9) and [requesting features (opens new window)](https://github.com/PipedreamHQ/pipedream/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=%5BFEATURE%5D+) that help us build a better product
--   Following us on [Twitter (opens new window)](https://twitter.com/pipedream), starring our [GitHub repo (opens new window)](https://github.com/PipedreamHQ/pipedream) and subscribing to our [YouTube channel (opens new window)](https://www.youtube.com/c/pipedreamhq)
--   Recommending us to your friends and colleagues
+- [Contributing](https://pipedream.com/docs/components/guidelines/) open source components to our [registry (opens new window)](https://github.com/pipedreamhq/pipedream) or sharing via your own GitHub repo
+- Asking and answering questions in our [public community (opens new window)](https://pipedream.com/community/)
+- [Reporting bugs (opens new window)](https://pipedream.com/community/c/bugs/9) and [requesting features (opens new window)](https://github.com/PipedreamHQ/pipedream/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=%5BFEATURE%5D+) that help us build a better product
+- Following us on [Twitter (opens new window)](https://twitter.com/pipedream), starring our [GitHub repo (opens new window)](https://github.com/PipedreamHQ/pipedream) and subscribing to our [YouTube channel (opens new window)](https://www.youtube.com/c/pipedreamhq)
+- Recommending us to your friends and colleagues
 
 Learn about [all the ways you can contribute (opens new window)](https://pipedream.com/contributing).
 

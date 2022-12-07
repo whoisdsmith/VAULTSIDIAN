@@ -4,7 +4,7 @@ If you’re looking to build a website on WordPress, you need to know about plug
 
 There are thousands of WordPress plugins available from both WordPress itself and a worldwide community of developers. These independent pieces of code can be integrated into any [self-hosted WordPress site](https://www.bluehost.com/wordpress) – no coding or web development experience required.
 
-## What is a WordPress plugin? 
+## What is a WordPress plugin?
 
 A WordPress plugin is a separate piece of software that adds a specific kind of feature to any [self-hosted WordPress site](https://www.bluehost.com/wordpress). As the name suggests, you ‘plug in’ a piece of software to add new functionality or extend existing functionality on your site without the need for coding knowledge. It can make small tweaks or massive changes to how your site looks and operates, depending on the plugin’s features.
 
@@ -16,37 +16,37 @@ Plugins leverage the existing structure of the core WordPress code to provide ad
 
 Some plugins add general functions to make your site secure and searchable, while others provide features for specific needs, such as product pages and shopping carts for [an eCommerce site](https://www.bluehost.com/resources/introducing-ecommerce-plugins-youll-love-on-your-wordpress-website/). Some of these specialized functions can be added by choosing certain [WordPress themes](https://www.bluehost.com/resources/how-to-choose-a-wordpress-theme/), but those features usually relate to customizing the structure of the site itself. For example, a theme designed for photographers might include options for a gallery or slideshow. And an eCommerce theme might have basic functionality for setting up product pages. Plugins incorporate a fully developed set of functions into your WordPress site and can include options for customization and configuration.
 
-## What can plugins do? 
+## What can plugins do?
 
-Plugins make it easy to convert a basic WordPress site into a fully functioning online storefront, a blog, or a website capable of handling the complex professional needs of a multinational corporation. Plugins can enhance your WordPress site by: 
+Plugins make it easy to convert a basic WordPress site into a fully functioning online storefront, a blog, or a website capable of handling the complex professional needs of a multinational corporation. Plugins can enhance your WordPress site by:
 
-**1: Improving user experience**. Plugins can add features to help users navigate the site, find content, leave comments, subscribe for updates, and contact site administrators. 
+**1: Improving user experience**. Plugins can add features to help users navigate the site, find content, leave comments, subscribe for updates, and contact site administrators.
 
-**2: Adding essential security features**. The core WordPress install comes with basic security features, but plugins can go further and add sophisticated firewalls, alerts, user verifications, and spam blockers for greater site security. 
+**2: Adding essential security features**. The core WordPress install comes with basic security features, but plugins can go further and add sophisticated firewalls, alerts, user verifications, and spam blockers for greater site security.
 
-**3: Speeding up site loading time**. Plugins can speed up a WordPress site by enabling caching and optimizing media. 
+**3: Speeding up site loading time**. Plugins can speed up a WordPress site by enabling caching and optimizing media.
 
-**4: Streamlining your workflow**. They can help optimize your site for searchability, add editorial calendars, schedule posts, and manage social media sharing and email lists. 
+**4: Streamlining your workflow**. They can help optimize your site for searchability, add editorial calendars, schedule posts, and manage social media sharing and email lists.
 
-**5: Improving the site’s appearance**. Plugins can add designer fonts, galleries, sliders, and media players to your site. Some themes require certain plugins to perform properly. 
+**5: Improving the site’s appearance**. Plugins can add designer fonts, galleries, sliders, and media players to your site. Some themes require certain plugins to perform properly.
 
-**6: Adding needed features for your site’s goals**. Plugins can add features like product pages and shopping carts to eCommerce sites, landing pages, paywalls, and a long list of other features to support the site’s intended purpose. 
+**6: Adding needed features for your site’s goals**. Plugins can add features like product pages and shopping carts to eCommerce sites, landing pages, paywalls, and a long list of other features to support the site’s intended purpose.
 
 ## How to choose plugins for your site
 
 There is a massive selection of more than 55,000 WordPress plugins currently available for you to choose from. First and foremost, it’s important to take stock of your site’s needs to determine what plugins are necessary. Although there is virtually no limit to the number of plugins you can add to your site, a backlog of unused or outdated plugins can make your site run slower and create potential security risks. So, really consider the purpose of your website. And with that in mind, locate and install quality plugins for such purposes.
 
-In general, you should install plugins that offer: 
+In general, you should install plugins that offer:
 
--   [WordPress security features](https://www.bluehost.com/resources/useful-wordpress-security-features/) 
--   Site performance enhancements 
--   Search engine optimization 
+- [WordPress security features](https://www.bluehost.com/resources/useful-wordpress-security-features/)
+- Site performance enhancements
+- Search engine optimization
 
-Then, consider the specific functions your website should have. For example, a blog site might need a different set of plugins than a designer’s portfolio or an online store. 
+Then, consider the specific functions your website should have. For example, a blog site might need a different set of plugins than a designer’s portfolio or an online store.
 
 Many quality plugins for WordPress from the plugin directory are completely free. There are also other options available in both a stripped-down free version or a fuller-featured premium version that offers ongoing support, tutorials, and upgrades. Not all sites need these features, and you can typically install the free version for a test run to determine whether a premium plugin is for you.
 
-Lastly, whatever plugins you choose to install, it’s crucial to check for compatibility with your version of WordPress. Some may include code that’s incompatible with the WordPress version you’re running, or with other plugins installed on your site. WordPress typically notifies users when updates to installed plugins are available. It is important to accept these upgrades in order to keep all parts of the site working smoothly together and avoid security issues that could open the door to malware and viruses. 
+Lastly, whatever plugins you choose to install, it’s crucial to check for compatibility with your version of WordPress. Some may include code that’s incompatible with the WordPress version you’re running, or with other plugins installed on your site. WordPress typically notifies users when updates to installed plugins are available. It is important to accept these upgrades in order to keep all parts of the site working smoothly together and avoid security issues that could open the door to malware and viruses.
 
 ## Where to find WordPress plugins?
 
@@ -70,9 +70,9 @@ Plugins typically come in a compressed **.zip** file. To install these plugins, 
 
 ![](https://www.bluehost.com/resources/static/c712650c5449a53f9153c9c573a84fde/f1720/plugin-2.png)
 
-Adding a plugin manually is the easiest way to install a downloaded plugin 
+Adding a plugin manually is the easiest way to install a downloaded plugin
 
-## Activate and configure your plugins 
+## Activate and configure your plugins
 
 All installed plugins are listed under your site’s plugin folder or tab. From there, you can perform a variety of actions to configure and customize them. Plugins can also appear in your site’s main dashboard menu, and their settings can include options for editing the plugin’s code for additional customization.
 

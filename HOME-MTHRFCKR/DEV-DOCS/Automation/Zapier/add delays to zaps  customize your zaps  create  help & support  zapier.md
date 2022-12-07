@@ -2,9 +2,9 @@ With a delay step, you can put your Zap on hold for a specified amount of time b
 
 There are three types of Zap delays:
 
-1.  Delay for
-2.  Delay until
-3.  Delay after queue
+1. Delay for
+2. Delay until
+3. Delay after queue
 
 ![Video Thumbnail](https://embedwistia-a.akamaihd.net/deliveries/97a22ccfd51a78ce5d744b5edc380f02.webp?image_crop_resized=960x540)
 

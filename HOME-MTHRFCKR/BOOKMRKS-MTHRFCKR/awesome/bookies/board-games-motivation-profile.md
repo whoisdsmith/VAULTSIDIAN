@@ -1,14 +1,17 @@
 [Quantic Foundry](https://goo.gl/VTzz6e) - Board Games Motivation Profile
 
 ## Low Conflict, Relaxed, Immersed, and Independent
+
 Your profile consists of your percentile rank across a broad range of gaming motivations. Your scores are based on how strong your motivations are relative to other gamers. In this customized report, we’ll explain how to interpret these scores and what motivations we measured.
 
 ![board games motivation profilegamer motivation profile](board_games_motivation.png)
 
 ### Preliminary Model of 4 Motivations Clusters
+
 We identified 4 clusters of motivations. In each, there is a primary component and one or more secondary components (i.e., a related modifier or addition). In general, motivations within the same cluster tend to be positively correlated — e.g., if you score high on the primary motivation, you are more likely to score high on the secondary ones. On the other hand, motivations between clusters tend to be statistically unrelated—i.e., they neither suppress or predict each other. We’ll walk you through all these motivations and components below.
 
 ### A Quick Word on Percentiles
+
 Percentiles are how you rank relative to other people. In this report, your percentiles are how you compared with other gamers who have participated in this profile tool. A percentile of 80% means you scored higher than 80% of gamers. Conversely, a percentile of 10% means 90% of gamers had a higher score than you. This means that a 50% is perfectly average.
 
 > Most people will have high scores on 2-3 motivations, low scores on another 2-3 motivations, and the remaining scores will fall near the average (in the 35%-65% range). Thus, it’s your non-average scores that most define your profile as a gamer.
@@ -28,6 +31,7 @@ Conversely, players who score low on Conflict prefer games that minimize direct 
 > Gamers who score low on Conflict frequently mention Signorie, Gingkopolis, Rococo, La Granja, and Glass Road.
 
 ### Secondary Motivation: Social Manipulation (43%)
+
 Gamers who score high on Social Manipulation enjoy playing psychological mind games, where outcomes aren’t determined by dice or rulebooks, but instead by their ability to bluff, deceive, and persuade other players. The social arena of trust and negotiation is their favored battleground. They enjoy games where they have to convince other players of something (especially if it’s a lie). Sure, sometimes their friends may hate them when the game ends, but what good are friends that you can’t lie to from time to time?
 
 On the other hand, gamers who score low on Social Manipulation prefer more transparent and concrete gameplay mechanics where deception doesn’t play a role.
@@ -37,6 +41,7 @@ On the other hand, gamers who score low on Social Manipulation prefer more trans
 > Gamers who score low on Social Manipulation frequently mention Madeira, Macao, Fields or Arle, Tobago, or Saint Petersburg.
 
 ### Strategy (8%) - Strategic vs. Relaxed
+
 Gamers with high Strategy scores enjoy taking on cognitive challenges. For them, games are a way to hone and test their intellectual abilities. Thus, they prefer games that require a lot of thinking and planning, reward sound decisions, and where strategic mastery and skill (rather than luck) are the primary determinants of the game’s outcome. They enjoy complexity, whether this comes from an intricate ruleset or overlapping mechanics that have short and long term trade-offs. They prefer slower paced games that give them the time to ponder their moves, and more incremental gameplay where elaborate or interesting strategies can be planned and executed.
 
 Gamers who score low on Strategy want a more relaxed gameplay experience where decisions don’t have much long-term impact, and they can enjoy the game on a more moment-to-moment basis.
@@ -46,6 +51,7 @@ Gamers who score low on Strategy want a more relaxed gameplay experience where d
 > Gamers who score low on Strategy frequently mention Scattergories, Trivial Pursuit, Apples to Apples, Quelf, Telestrations, or Clue.
 
 ### Secondary Motivation: Discovery (4%)
+
 Gamers who score high on this motivation are discoverers who have a broad interest in rulesets, game mechanics, and the play spaces that are enabled and emerge from different game systems. To this end, they enjoy keeping up with new game releases and staying up to date with the current meta. They take the time to find out about and try new game mechanics. As part of this, they also tend to have a good sense of the history and idiosyncrasies of different game designers and publishers. While they tend to have a more eclectic palette, they do have a preference for more innovative game mechanics. Gamers who score low on Discovery prefer more traditional, familiar, tried-and-true game mechanics.
 
 Gamers who score high on Strategy but not Discovery are more likely to practice and master a particular game. In contrast, gamers who score high on both are more likely to be interested in analyzing and comparing systems and mechanics across different games.
@@ -55,6 +61,7 @@ Gamers who score high on Strategy but not Discovery are more likely to practice 
 > Gamers who score low on Discovery frequently mention Taboo, Trivial Pursuit, Balderdash, Scrabble, and The Game of Life.
 
 ### Secondary Motivation: Need To Win (21%)
+
 Gamers who score high on this motivation care a lot about winning, and are especially happy when the margin of victory is overwhelming. They enjoy soundly beating an opponent. For them, games are a means to an end (preferably a victorious one), and winning is the most important part of the game. Among the gamers who also score high on Strategy, winning against a worthy opponent is a tangible marker of being competent and highly skilled. Gamers who score high on Need To Win prefer games where winners can completely dominate their opponents.
 
 Gamers who score low on Need To Win don’t care about the game’s outcome, but focus instead on the journey of playing the game. To this end, they prefer games that aren’t zero-sum between opponents, whether they are collaborative or solitaire.
@@ -74,6 +81,7 @@ Conversely, players who score low on Immersion want to focus on the game mechani
 > Gamers who score low on Immersion frequently mention Chicago Express, Age of Steam, Hansa Teutonica, Medici, or Macao.
 
 ### Secondary Motivation: Aesthetics (64%)
+
 Gamers who score high on Aesthetics like high-quality components that strongly reflect the theme and setting of the game. For them, amazing artwork and beautiful component illustrations are particularly important. They enjoy tactile components that capture, enhance, and represent the fantasy world created by the game, such as well-sculpted miniatures that represent the game’s characters or buildings.
 
 Gamers who score low on Aesthetics care very little about the artwork and production value of the game. They focus on the game play and mechanics instead.
@@ -85,6 +93,7 @@ While highly correlated, it’s possible for players to care about Immersion but
 > Gamers who score low on Aesthetics frequently mention Age of Steam, Balderdash, Goa, Imperial, or Scattergories.
 
 ### Social Fun (4%) - Gregarious vs. Independent
+
 For gamers who score high on Social Fun, playing board games is first and foremost about having a good time with other people. The board game itself is simply a convenient prop around which friends and family can gather and have fun together. They enjoy the chatting, the social interaction, and especially the shared laughter and funny interactions that games (especially party games) can elicit. For them, board games are a great catalyst for a fun social gathering.
 
 Gamers who score low on Social Fun prefer games that don’t encourage or reward “extraneous” social interactions and set a more serious tone around the game.
@@ -96,6 +105,7 @@ There’s a very mild negative correlation between Social Fun and Strategy, so t
 > Gamers who score low on Social Fun frequently mention Paths of Glory, Ora et Labora, Arkwright, Steam, or Glass Road.
 
 ### Secondary Motivation: Cooperation (76%)
+
 Gamers who score high on Cooperation enjoy board games where they can work with others players towards a common goal. They would rather team up with other players instead of beating them up. This aligns with Social Fun because it’s easier to have a good time when people aren’t focused on attacking each other or focused on individual victories.
 
 In contrast, gamers who score low on Cooperation prefer games that focus on individual decisions, achievements, and outcomes.
@@ -107,6 +117,7 @@ Conflict and Cooperation are actually not diametrically opposed. After all, you 
 > Gamers who score low on Cooperation frequently mention Age of Steam, Brass, The Castles of Burgundy, El Grande, or Tigris & Euphrates.
 
 ### Secondary Motivation: Chance (33%)
+
 Gamers who score high on Chance enjoy luck elements in their board games, usually in the form of card drawing or dice rolling mechanics. These gamers enjoy chance mechanics that impact their opportunity space (e.g., drawing your starting hand in Agricola) as well as those that determine action outcomes (e.g., rolling dice to determine whether an attack was successful). The appeal of Chance and Social Fun go together because chance elements often lower the entry barrier to a game, level the playing field somewhat between novices and veterans, and create unexpected and entertaining outcomes thereby increasing the likelihood that everyone is having fun.
 
 Gamers who score low on Chance prefer clear and concrete outcomes to their actions with luck playing a minimal role.
@@ -118,6 +129,7 @@ There is a mild negative correlation between Chance and Strategy, but not large 
 > Gamers who score low on Chance frequently mention Imperial, Hansa Teutonica, Caylus, Keyflower, or Mombasa.
 
 ### Secondary Motivation: Acessibility (99%)
+
 Gamers who score high on Accessibility prefer games that a broad range of people can pick up and enjoy. After all, if you like playing board games with other people, then it’s helpful to have games that a lot of people can get into. Thus, these players favor games that are easy to teach, easy to learn, and accessible even to people with very little board gaming experience. And if they enjoy board games as part of family gatherings, then family-friendly themes are also a plus.
 
 In contrast, gamers who score low on Accessibility appreciate games with lots of weight and complexity. If they had monocles, they would hold them up while looking down on the unwashed noobs.

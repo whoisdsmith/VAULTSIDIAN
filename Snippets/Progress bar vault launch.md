@@ -42,4 +42,4 @@ Comment by PB:
 
 Answer from Cannibalox:
 
-> the devtools should provide suggestions, when you inspect to find the css corresponding to the elements, in the `styles` tab you can tweak values in real time. if you delete a value, it should provide suggestions / autocompletion. Then you copy the rule to your obsidian css. you can use https://www.w3schools.com/css to find relevant infos when you need something specific like taxonomy / syntax / commands
+> the devtools should provide suggestions, when you inspect to find the css corresponding to the elements, in the `styles` tab you can tweak values in real time. if you delete a value, it should provide suggestions / autocompletion. Then you copy the rule to your obsidian css. you can use <https://www.w3schools.com/css> to find relevant infos when you need something specific like taxonomy / syntax / commands

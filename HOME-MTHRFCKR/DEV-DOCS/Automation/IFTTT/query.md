@@ -1,5 +1,5 @@
--   [How can I use a query?](https://help.ifttt.com/hc/en-us/articles/360053502173-What-is-a-query-#HowcanIuseaquery?)
--   [Do I need to use filter code to use a query?](https://help.ifttt.com/hc/en-us/articles/360053502173-What-is-a-query-#DoIneedtousefiltercodetouseaquery?)
+- [How can I use a query?](https://help.ifttt.com/hc/en-us/articles/360053502173-What-is-a-query-#HowcanIuseaquery?)
+- [Do I need to use filter code to use a query?](https://help.ifttt.com/hc/en-us/articles/360053502173-What-is-a-query-#DoIneedtousefiltercodetouseaquery?)
 
 A query is a way to request additional data that your Applet's [trigger](https://help.ifttt.com/hc/en-us/articles/4411016949403#Trigger) doesn’t provide. Queries run immediately after triggers, but before [filter code](https://help.ifttt.com/hc/en-us/articles/4411016949403#Filtercode).
 
@@ -15,12 +15,12 @@ To add a query to your Applet, you'll first need to add a trigger, after which y
 
 Queries, along with filter code, unlock Applets to go beyond **if this** to **if this _and_ this**.
 
-For example, [the below Applet](https://ifttt.com/applets/VDdNBmiE-get-a-notification-when-the-iss-passes-over-your-house-but-only-if-it-is-clear-skies-and-after-dark) uses a query and some filter code to notify you when the ISS passes overhead, but only if it's nighttime: 
+For example, [the below Applet](https://ifttt.com/applets/VDdNBmiE-get-a-notification-when-the-iss-passes-over-your-house-but-only-if-it-is-clear-skies-and-after-dark) uses a query and some filter code to notify you when the ISS passes overhead, but only if it's nighttime:
 
--   Trigger: [Space - ISS passes over a specific location](https://ifttt.com/space/triggers/space_station_overhead_soon_nasa)
--   Query: [Weather Underground - Current weather](https://ifttt.com/weather/queries/current_weather)
--   Filter code: [Skip the action if the current time is after sunrise and before sunset (when the sun is up)](https://help.ifttt.com/hc/en-us/articles/1260805234570-How-can-I-run-an-Applet-only-after-sunset-)
--   Action: [Notifications - Send a notification from the IFTTT app](https://ifttt.com/if_notifications/actions/send_notification)
+- Trigger: [Space - ISS passes over a specific location](https://ifttt.com/space/triggers/space_station_overhead_soon_nasa)
+- Query: [Weather Underground - Current weather](https://ifttt.com/weather/queries/current_weather)
+- Filter code: [Skip the action if the current time is after sunrise and before sunset (when the sun is up)](https://help.ifttt.com/hc/en-us/articles/1260805234570-How-can-I-run-an-Applet-only-after-sunset-)
+- Action: [Notifications - Send a notification from the IFTTT app](https://ifttt.com/if_notifications/actions/send_notification)
 
 <iframe src="//www.youtube-nocookie.com/embed/wSWCouDyMhY" width="560" height="315" frameborder="0" allowfullscreen=""></iframe>
 
@@ -30,6 +30,6 @@ Filter code is not required to use queries.
 
 For example, the following Applet uses a Google Calendar query to send an email every day containing all calendar events for the upcoming day:
 
--   Trigger: [Date & Time - Every day at](https://ifttt.com/date_and_time/triggers/every_day_at)
--   Query: [Google Calendar - List Events For a Date](https://ifttt.com/google_calendar/queries/list_events_for_date)
--   Action: [Email - Send me an email](https://ifttt.com/email/actions/send_me_email) 
+- Trigger: [Date & Time - Every day at](https://ifttt.com/date_and_time/triggers/every_day_at)
+- Query: [Google Calendar - List Events For a Date](https://ifttt.com/google_calendar/queries/list_events_for_date)
+- Action: [Email - Send me an email](https://ifttt.com/email/actions/send_me_email)

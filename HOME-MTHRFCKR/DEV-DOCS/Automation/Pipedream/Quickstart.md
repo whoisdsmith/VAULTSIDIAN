@@ -1,10 +1,10 @@
 Sign up for a [free Pipedream account (no credit card required) (opens new window)](https://pipedream.com/auth/signup) and complete this quickstart guide to learn the basic patterns for workflow development:
 
--   [Create a new workflow](https://pipedream.com/docs/#create-a-new-workflow)
--   [Add an HTTP / Webhook trigger](https://pipedream.com/docs/#add-an-http-webhook-trigger)
--   [Send data to the workflow](https://pipedream.com/docs/#send-data-to-the-workflow)
--   [Enrich trigger data using Node.js and npm](https://pipedream.com/docs/#enrich-trigger-data-using-node-js-and-npm)
--   [Save data to Google Sheets](https://pipedream.com/docs/#save-data-to-google-sheets)
+- [Create a new workflow](https://pipedream.com/docs/#create-a-new-workflow)
+- [Add an HTTP / Webhook trigger](https://pipedream.com/docs/#add-an-http-webhook-trigger)
+- [Send data to the workflow](https://pipedream.com/docs/#send-data-to-the-workflow)
+- [Enrich trigger data using Node.js and npm](https://pipedream.com/docs/#enrich-trigger-data-using-node-js-and-npm)
+- [Save data to Google Sheets](https://pipedream.com/docs/#save-data-to-google-sheets)
 
 ### [#](https://pipedream.com/docs/#create-a-new-workflow) Create a new workflow
 

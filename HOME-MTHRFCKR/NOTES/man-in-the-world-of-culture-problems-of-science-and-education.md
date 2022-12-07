@@ -6,7 +6,7 @@ Volume 2020
 
 ### Conference Paper
 
-### Stepanchuk Yu.
+### Stepanchuk Yu
 
 ```
 PhD of Filosophy, Ass. Prof., Ural Federal University, Yekaterinburg, Russia
@@ -25,7 +25,7 @@ often underpin relationships between human and technology that are disempowering
 and increasingly problematic.
 ```
 
-### Keywords: human-machine symbiosis, augmented reality, memex, hypertext, ideology,
+### Keywords: human-machine symbiosis, augmented reality, memex, hypertext, ideology
 
 ```
 Web 2.0, platform capitalism

@@ -116,7 +116,7 @@ Visit this link to see the note. Giving the URL to anyone allows them to access 
 
 [What are the Chinese equivalents to The Pirate Bay?](https://www.quora.com/What-are-the-Chinese-equivalents-to-The-Pirate-Bay)
 
-Answer (1 of 4): - Private Tracker - Need To Invitation. http://ccfbits.org - Private Tracker www.hdchina.org - Private Tracker www.xxjy.org - Private Tracker - Public Tracker - No Invitation. It's Free SignUp. www.btchina.net - Public Tracker www.ttbt.cn - Public Tracker http://bbs.btbbt.com -…
+Answer (1 of 4): - Private Tracker - Need To Invitation. <http://ccfbits.org> - Private Tracker www.hdchina.org - Private Tracker www.xxjy.org - Private Tracker - Public Tracker - No Invitation. It's Free SignUp. www.btchina.net - Public Tracker www.ttbt.cn - Public Tracker <http://bbs.btbbt.com> -…
 
 [Page d&rsquo;accueil](https://web.archive.org/web/20210307115835/https://www.wareziens.net)
 
@@ -186,11 +186,11 @@ Visit this link to see the note. Giving the URL to anyone allows them to access 
 
 [RFS • Notes & Resources](https://t.me/rfsnotes)
 
-Notes & resources by @raymondfreesoftware 📚 For a categorised index of these resources, see this channel's pinned message: https://t.me/rfsnotes/3 👑 Main Group: @raymondfreesoftware
+Notes & resources by @raymondfreesoftware 📚 For a categorised index of these resources, see this channel's pinned message: <https://t.me/rfsnotes/3> 👑 Main Group: @raymondfreesoftware
 
 [Piracy Sites](https://docs.google.com/spreadsheets/d/1plwsZ9q7-jDg8QNUuNXZAmKtov-ZULOZS3TPp08mngg)
 
-Manga /r/MangaPiracy Created By /u/Marfmamow,Inspired by /u/mfvicli, Visit us at ,https://www.reddit.com/r/MangaPiracy/ Advertisements,Language Support,Downloading,Viewing Site Name,Web Address,Ads,Anti-Adblock,English,Other Language,Supports…
+Manga /r/MangaPiracy Created By /u/Marfmamow,Inspired by /u/mfvicli, Visit us at ,<https://www.reddit.com/r/MangaPiracy/> Advertisements,Language Support,Downloading,Viewing Site Name,Web Address,Ads,Anti-Adblock,English,Other Language,Supports…
 
 [https://9xbuddy.org/updates](https://9xbuddy.org/updates)
 
@@ -224,7 +224,7 @@ The Exploit Database - Exploits, Shellcode, 0days, Remote Exploits, Local Exploi
 
 [SmartLinks.org - A Directory Gold Mine!](https://smartlinks.org/index.html)
 
-SmartLinks.org - References, Resources, News, Facts and Topics. SmartLinks.org is a web directory organized by category which offers rich content. Smartlinks.org is a subject directory that offers a collection of links to Internet resources which are organized into subject categories/Topic Directories sorted alphabetically. Autos, Cards, Computers, Internet, Entertainment, Government, Health, Hobbies, Humor, Investments, News and Weather, SmartLinks, SmartLink, https://smartlinks.org/
+SmartLinks.org - References, Resources, News, Facts and Topics. SmartLinks.org is a web directory organized by category which offers rich content. Smartlinks.org is a subject directory that offers a collection of links to Internet resources which are organized into subject categories/Topic Directories sorted alphabetically. Autos, Cards, Computers, Internet, Entertainment, Government, Health, Hobbies, Humor, Investments, News and Weather, SmartLinks, SmartLink, <https://smartlinks.org/>
 
 [Z da l zx c](https://i.imgur.com/zDaLZxC.png)
 
@@ -582,7 +582,7 @@ Gptgen is a tool to convert an MBR partition table to GPT while retaining all da
 
 [Трекеры по всему миру](https://www.losena.ru/91824-trekery-po-vsemu-miru.html)
 
-Music Trackershttp://www.adamsfile.com (lossless) (FTP) http://www.antsmarching.org (Dave Matthews Band)http://anvilofsound.com (Electronic)http://avlossless.no-ip.org (lossless)http://bemusic.hu (Hun)http://www.bitsarah.com (Country/Western)http://browntracker.net (Ween)http://btmusic.eu
+Music Trackers<http://www.adamsfile.com> (lossless) (FTP) <http://www.antsmarching.org> (Dave Matthews Band)<http://anvilofsound.com> (Electronic)<http://avlossless.no-ip.org> (lossless)<http://bemusic.hu> (Hun)<http://www.bitsarah.com> (Country/Western)<http://browntracker.net> (Ween)<http://btmusic.eu>
 
 [Best tools to perform steganography \[updated 2020\]](https://resources.infosecinstitute.com/steganography-and-tools-to-perform-steganography)
 
@@ -710,7 +710,7 @@ A list of small, free, or experimental tools towards joyful digital creation.
 
 [Libreware](https://t.me/s/Libreware)
 
-Libreware Software Library 📡 t.me/Libreware ★ Send us your suggestions and menaces here: https://t.me/joinchat/nMOOE4YJPDFhZjZk
+Libreware Software Library 📡 t.me/Libreware ★ Send us your suggestions and menaces here: <https://t.me/joinchat/nMOOE4YJPDFhZjZk>
 
 [Awesome Websites | Learn Anything On Anything ⭐](https://onehack.us/t/awesome-websites-learn-anything-on-anything)
 
@@ -828,7 +828,7 @@ Portail d'informations et d'actualités sur l'univers du Warez (P2P, Newsgroups,
 
 [http://torrent.cd/](https://rentry.co/y3mph)
 
-http://www.pdf-giant.com/ https://www.scnsrc.me/ http://en.ddl.me/ http://movie4u.org/ http://www.rlslog.net/ http://www.freshremix.ru/ https://www.warez-serbia.com/ http://www.bestgfx.me/ https://www.ddlvalley.me/ http://www.movie4k.to/ http://ulmovies.com/ http://www.icefilms.info/ https://mage…
+<http://www.pdf-giant.com/> <https://www.scnsrc.me/> <http://en.ddl.me/> <http://movie4u.org/> <http://www.rlslog.net/> <http://www.freshremix.ru/> <https://www.warez-serbia.com/> <http://www.bestgfx.me/> <https://www.ddlvalley.me/> <http://www.movie4k.to/> <http://ulmovies.com/> <http://www.icefilms.info/> <https://mage>…
 
 [Link-Base](https://link-base.org)
 

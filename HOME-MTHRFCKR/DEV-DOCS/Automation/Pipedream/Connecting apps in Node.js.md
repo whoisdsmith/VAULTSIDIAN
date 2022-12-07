@@ -10,12 +10,12 @@ Now the step in the workflow builder will allow you to connect your Slack accoun
 
 ![Connect a Slack account to a Node.js code step using a prop](https://pipedream.com/docs/assets/img/slack-auth-prop-example.1332e41e.png)
 
--   [Accessing connected account data with this.appName.$auth](https://pipedream.com/docs/#accessing-connected-account-data-with-this-appname-auth)
--   [Writing custom steps to use this.appName.$auth](https://pipedream.com/docs/#writing-custom-steps-to-use-this-appname-auth)
-    -   [Using the code templates tied to apps](https://pipedream.com/docs/#using-the-code-templates-tied-to-apps)
-    -   [Manually connecting apps to steps](https://pipedream.com/docs/#manually-connecting-apps-to-steps)
--   [Custom auth tokens / secrets](https://pipedream.com/docs/#custom-auth-tokens-secrets)
--   [Learn more about props](https://pipedream.com/docs/#learn-more-about-props)
+- [Accessing connected account data with this.appName.$auth](https://pipedream.com/docs/#accessing-connected-account-data-with-this-appname-auth)
+- [Writing custom steps to use this.appName.$auth](https://pipedream.com/docs/#writing-custom-steps-to-use-this-appname-auth)
+  - [Using the code templates tied to apps](https://pipedream.com/docs/#using-the-code-templates-tied-to-apps)
+  - [Manually connecting apps to steps](https://pipedream.com/docs/#manually-connecting-apps-to-steps)
+- [Custom auth tokens / secrets](https://pipedream.com/docs/#custom-auth-tokens-secrets)
+- [Learn more about props](https://pipedream.com/docs/#learn-more-about-props)
 
 ## [#](https://pipedream.com/docs/#accessing-connected-account-data-with-this-appname-auth) Accessing connected account data with `this.appName.$auth`
 
@@ -43,9 +43,9 @@ When you write custom code that connects to an app, you can start with a code sn
 
 When you search for an app in a step:
 
-1.  Click the **+** button below any step.
-2.  Search for the app you're looking for and select it from the list.
-3.  Select the option to **Use any \[app\] API**.
+1. Click the **+** button below any step.
+2. Search for the app you're looking for and select it from the list.
+3. Select the option to **Use any \[app\] API**.
 
 This code operates as a template you can extend, and comes preconfigured with the connection to the target app and the code for authorizing requests to the API. You can modify this code however you'd like.
 

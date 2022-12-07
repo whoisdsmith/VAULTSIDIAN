@@ -6,7 +6,7 @@ David J Heal, Sharon L Smith, [...], and David J Nutt
 
 Amphetamine was discovered over 100 years ago. Since then, it has transformed from a drug that was freely available without prescription as a panacea for a broad range of disorders into a highly restricted Controlled Drug with therapeutic applications restricted to attention deficit hyperactivity disorder (ADHD) and narcolepsy. This review describes the relationship between chemical structure and pharmacology of amphetamine and its congeners. Amphetamine’s diverse pharmacological actions translate not only into therapeutic efficacy, but also into the production of adverse events and liability for recreational abuse. Accordingly, the balance of benefit/risk is the key challenge for its clinical use. The review charts advances in pharmaceutical development from the introduction of once-daily formulations of amphetamine through to lisdexamfetamine, which is the first _d_-amphetamine prodrug approved for the management of ADHD in children, adolescents and adults. The unusual metabolic route for lisdexamfetamine to deliver _d_-amphetamine makes an important contribution to its pharmacology. How lisdexamfetamine’s distinctive pharmacokinetic/pharmacodynamic profile translates into sustained efficacy as a treatment for ADHD and its reduced potential for recreational abuse is also discussed.
 
-**Keywords: **Abuse liability, amphetamine, attention deficit hyperactivity disorder (ADHD), drug formulations, lisdexamfetamine, microdialysis
+**Keywords:**Abuse liability, amphetamine, attention deficit hyperactivity disorder (ADHD), drug formulations, lisdexamfetamine, microdialysis
 
 ## A Short History of Amphetamine
 
@@ -198,7 +198,7 @@ The authors wish to thank Shire Pharmaceuticals for their support funding a port
 
 ## Article Information
 
-J Psychopharmacol. 2013 Jun; 27(6): 479–496. 
+J Psychopharmacol. 2013 Jun; 27(6): 479–496.
 
 1RenaSci Limited, Biocity, Nottingham, UK
 
@@ -326,9 +326,9 @@ Jackson HC, Rowley HL, Hackett D, et al. (2011) Comparison of the effects of equ
 
 James RS, Sharp WS, Bastain TM, et al. (2001) Double-blind, placebo-controlled study of single-dose amphetamine formulations in ADHD. J Am Acad Child Adolesc Psychiat 40: 1268–1276 [[PubMed](/pubmed/11699800)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J+Am+Acad+Child+Adolesc+Psychiat&title=Double-blind,+placebo-controlled+study+of+single-dose+amphetamine+formulations+in+ADHD&author=RS+James&author=WS+Sharp&author=TM+Bastain&volume=40&publication_year=2001&pages=1268-1276&)]
 
-Jasinski D. (2005) A double-blind placebo- and active-controlled, single-dose crossover pharmacodynamic and pharmacokinetic study to evaluate the safety, tolerability and abuse liability of intravenously administered NRP104 25 mg and 50 mg in healthy adult volunteers with histories of stimulant abuse. Protocol No: NRP104.A02. Available at: http://clinicaltrials.gov/ct2/show/[NCT00247572](https://clinicaltrials.gov/ct2/show/NCT00247572) (accessed August 2012).
+Jasinski D. (2005) A double-blind placebo- and active-controlled, single-dose crossover pharmacodynamic and pharmacokinetic study to evaluate the safety, tolerability and abuse liability of intravenously administered NRP104 25 mg and 50 mg in healthy adult volunteers with histories of stimulant abuse. Protocol No: NRP104.A02. Available at: <http://clinicaltrials.gov/ct2/show/>[NCT00247572](https://clinicaltrials.gov/ct2/show/NCT00247572) (accessed August 2012).
 
-Jasinski DR. (2006) A double-blind, randomized, placebo and active-controlled, six-period crossover study to evaluate the likeability, safety, and abuse liability of NRP104 in healthy adult volunteers with histories of stimulant abuse. Protocol No: NRP104.A03. Available at: http://clinicaltrials.gov/show/[NCT00248092](https://clinicaltrials.gov/ct2/show/NCT00248092) (accessed August 2012).
+Jasinski DR. (2006) A double-blind, randomized, placebo and active-controlled, six-period crossover study to evaluate the likeability, safety, and abuse liability of NRP104 in healthy adult volunteers with histories of stimulant abuse. Protocol No: NRP104.A03. Available at: <http://clinicaltrials.gov/show/>[NCT00248092](https://clinicaltrials.gov/ct2/show/NCT00248092) (accessed August 2012).
 
 Jasinski DR, Krishnan S. (2009a) Human pharmacology of intravenous lisdexamfetamine dimesylate: Abuse liability in adult stimulant abusers. J Psychopharmacol 23: 410–418 [[PubMed](/pubmed/18635707)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J+Psychopharmacol&title=Human+pharmacology+of+intravenous+lisdexamfetamine+dimesylate:+Abuse+liability+in+adult+stimulant+abusers&author=DR+Jasinski&author=S+Krishnan&volume=23&publication_year=2009a&pages=410-418&pmid=18635707&)]
 
@@ -474,4 +474,4 @@ Yokel RA, Pickens R. (1973) Self-administration of optical isomers of amphetamin
 
 ___
 
-#article 
+# article

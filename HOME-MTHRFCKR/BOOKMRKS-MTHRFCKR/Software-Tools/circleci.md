@@ -1,6 +1,6 @@
 ## 2.0 with GEK
 
-https://discuss.circleci.com/t/google-container-registry-push-image/12301/22
+<https://discuss.circleci.com/t/google-container-registry-push-image/12301/22>
 
 Build Docker image
 Install Google SDK

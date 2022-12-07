@@ -25,12 +25,12 @@ Included in the [[ITS Theme](../Obsidian/obsidian-hub/02%20-%20Community%20Expan
 
 %% Add a screenshot of the effect this snippet produces with edit and preview mode visible %%
 
-## How to Use the Snippet:
+## How to Use the Snippet
 
 [Readme Guide](https://github.com/SlRvb/Obsidian--ITS-Theme#image-positions)
 
 **Video Explanation:**  
-["Slides" from the video](https://slrvb.github.io/Site/3_Nebula/ITS-Theme![[Image Adjustment Snippets - ITS Theme#^image-adjustment-community-talk|clean]]nt-community-talk|clean]]
+["Slides" from the video](<https://slrvb.github.io/Site/3_Nebula/ITS-Theme![[Image> Adjustment Snippets - ITS Theme#^image-adjustment-community-talk|clean]]nt-community-talk|clean]]
 
 # Screenshots
 

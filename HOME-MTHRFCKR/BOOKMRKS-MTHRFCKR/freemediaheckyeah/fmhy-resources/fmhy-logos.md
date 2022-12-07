@@ -4,4 +4,4 @@
 Prop3=19,11  
 [InternetShortcut]  
 IDList=  
-URL=https://imgur.com/a/gxHAc6l
+URL=<https://imgur.com/a/gxHAc6l>

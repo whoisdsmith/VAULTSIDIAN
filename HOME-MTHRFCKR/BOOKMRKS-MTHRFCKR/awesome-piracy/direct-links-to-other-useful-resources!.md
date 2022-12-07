@@ -1,4 +1,4 @@
-## Direct Links to Other Useful Resources!
+## Direct Links to Other Useful Resources
 
 * * *
 
@@ -18,7 +18,7 @@
 
 🔸 [How To Deploy A Mirror Bot On Heroku Using CLI](https://rentry.org/champagne_guides/#how-to-deploy-a-mirror-bot-on-heroku-using-cli)
 
-##### Password Protect & Hide Windows Files & Folders!
+##### Password Protect & Hide Windows Files & Folders
 
 🔸 [Password Protect & Hide Windows Files & Folders!](https://rentry.org/champagne_guides/#password-protect-hide-windows-files-folders)
 

@@ -12,7 +12,7 @@ You can only use custom values in action steps and they are only a way to link t
 
 ## [1\. Set up the custom value (Name field)](https://zapier.com/help/create/customize/add-custom-values-to-dropdown-menu-fields-in-zaps#set-up-the-custom-value-name-field)
 
-[![Continuing with our Trello card position example. In the Card Position dropdown, scroll to the bottom and select Custom Value.  A new field will appear labeled Custom Value for Card Position.  ](https://cdn.zappy.app/7bee99783082e24ddac6e28ed55a0d70.gif)](https://cdn.zappy.app/7bee99783082e24ddac6e28ed55a0d70.gif)
+[Continuing with our Trello card position example. In the Card Position dropdown, scroll to the bottom and select Custom Value.  A new field will appear labeled Custom Value for Card Position.](https://cdn.zappy.app/7bee99783082e24ddac6e28ed55a0d70.gif)](https://cdn.zappy.app/7bee99783082e24ddac6e28ed55a0d70.gif)
 
 If you want to use a different custom value but the exact name isn’t included in the data from a previous step, then you can [use a lookup table](https://zapier.com/help/create/format/create-lookup-tables-in-zaps). For example, if you want to pass in a different user name to your custom value field depending on the email address from the trigger, you could create a lookup table where you would associate specific names with specific email addresses.
 

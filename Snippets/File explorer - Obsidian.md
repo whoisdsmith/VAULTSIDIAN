@@ -290,7 +290,7 @@ and of var(--text-faint) for not active */
 
 ## Emojis in Folder Name
 
-/* 2 examples */
+/*2 examples*/
 
 ```css
 .nav-folder-title[data-path="+inbox"] .nav-folder-title-content::before {
@@ -321,6 +321,6 @@ div[data-path='folder'] + div.nav-folder-children
 
 ```css
 .nav-file-title[data-path="file_path.md"] {
-	display: none;
+ display: none;
 }
 ```

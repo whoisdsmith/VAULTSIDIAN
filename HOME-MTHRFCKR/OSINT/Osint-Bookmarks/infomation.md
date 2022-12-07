@@ -1,4 +1,5 @@
 ## Infomation
+
 - [Find Pasted Text CSE](https://cse.google.com/cse?cx=013991603413798772546%3Anxs552dhq8k)
 - [Google Custom Search FAS.Org Fed American Scientists](https://cse.google.com/cse/publicurl?cx=001482665168924075807%3Ahyits1jhoek)
 - [Google Custom Search Free Full-Text Online Law Review/Law Journal Search Engine](https://cse.google.com/cse/publicurl?cx=000933248691480580078%3A57y4iyinbqe)
@@ -10,9 +11,11 @@
 - [The Researcher's Vault](https://cse.google.com/cse?cx=013991603413798772546%3Afjfpayt0bje)
 - [The Search Engine Search Engine](https://cse.google.com/cse/publicurl?cx=013991603413798772546%3Ahvkibqdijhe)
 - [Visual Concepts CSE](https://cse.google.com/cse?cx=013991603413798772546%3Agj6rx9spox8)
+
 ---
 
 ## Information material
+
 - [Laat Je Niet Hack Maken](https://laatjeniethackmaken.nl/)
 - [WikiLeaks World Tomorrow](https://worldtomorrow.wikileaks.org/index.html)
 - [Tails](https://tails.boum.org/index.en.html)

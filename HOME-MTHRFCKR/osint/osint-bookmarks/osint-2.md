@@ -222,7 +222,7 @@ Choose your note-taking plan with CintaNotes, a Windows notes app for organizing
 
 [Book Bucket](https://archive.org/details/lardbucket2012books?page=2&sort=-downloads)
 
-This collection houses a copy of textbooks which were licensed under Creative Commons cc-by-nc-sa. For more information, see http://2012books.lardbucket.org
+This collection houses a copy of textbooks which were licensed under Creative Commons cc-by-nc-sa. For more information, see <http://2012books.lardbucket.org>
 
 [BC Campus](https://open.bccampus.ca/browse-our-collection/find-open-textbooks)
 
@@ -504,7 +504,7 @@ ShadowExplorer is a graphical front end for the Windows Vista Volume Shadow Copy
 
 [Regshot-Advanced - A fork of Regshot with very enhanced functionality.](https://github.com/skydive241/Regshot-Advanced)
 
-This is a fork of Regshot (original found at https://sourceforge.net/projects/regshot/) with very enhanced functionality. - GitHub - skydive241/Regshot-Advanced: This is a fork of Regshot (original...
+This is a fork of Regshot (original found at <https://sourceforge.net/projects/regshot/>) with very enhanced functionality. - GitHub - skydive241/Regshot-Advanced: This is a fork of Regshot (original...
 
 [RegRipper3.0](https://github.com/keydet89/RegRipper3.0)
 
@@ -688,7 +688,7 @@ AI-powered, Automated Analysis for Privacy Policies
 
 [OptOut Doc by @OsintNinja](https://docs.google.com/spreadsheets/d/1UY9U2CJ8Rnz0CBrNu2iGV3yoG0nLR8mLINcnz44XESI/edit#gid=1864750866)
 
-Opt Out Public Information Opt-Out Guide https://the.osint.ninja/optoutdoc Last Modified: 2017-03-11,We would love to see your comments and suggestions. Please email them to optoutdoc@osint.ninja,1. Many websites request confirmation by clicking a link sent to your provided email address. 2. If...
+Opt Out Public Information Opt-Out Guide <https://the.osint.ninja/optoutdoc> Last Modified: 2017-03-11,We would love to see your comments and suggestions. Please email them to optoutdoc@osint.ninja,1. Many websites request confirmation by clicking a link sent to your provided email address. 2. If...
 
 [Mijnonlineidentiteit (NL)](https://www.mijnonlineidentiteit.nl/social-media-privacy-instellingen)
 
@@ -2212,7 +2212,7 @@ View translations easily as you browse the web. By the Google Translate team.
 
 [Hunchly 2.0](https://chrome.google.com/webstore/detail/hunchly-20/amfnegileeghgikpggcebehdepknalbf)
 
-Hunchly is a tool to capture and organize online data for your investigations. Requires the Hunchly app (https://www.hunch.ly)
+Hunchly is a tool to capture and organize online data for your investigations. Requires the Hunchly app (<https://www.hunch.ly>)
 
 [Proxy SwitchyOmega 🦊](https://addons.mozilla.org/en-US/firefox/addon/switchyomega)
 
@@ -2430,7 +2430,7 @@ Identify sales leads in the world’s largest business information database
 
 [certdomainfinder](https://github.com/amar-myana/certdomainfinder/blob/master/README.md)
 
-Search domains using https://sslmate.com/certspotter API
+Search domains using <https://sslmate.com/certspotter> API
 
 [Cert Spotter](https://sslmate.com/certspotter/api)
 
@@ -2712,7 +2712,7 @@ DarkOwl Vision automatically, anonymously and continuously collects, indexes and
 
 [DarknetLive](https://darknetlive.com)
 
-https://darknetlive.com/dnmbible.pdf
+<https://darknetlive.com/dnmbible.pdf>
 
 ### Domain Research
 
@@ -3612,7 +3612,7 @@ Shodan Command-line in this article and video, I show you the benefit of using t
 
 [Nate Warfield - We Can't Stop Here! This is Bot Country!](https://www.youtube.com/watch?ab_channel=MicrosoftIsraelR%26DCenter&feature=youtu.be&v=i7iYcv1XZjA)
 
-Every day the internet is scanned & probed by a quarter of a million IP addresses - some of this traffic is benign, but most (around 60%) is malicious. High-profile names like Mirai and EternalBlue receive most of the media attention, but they're in the "Devil you know" category. What I find more fascinating are the ports and services which are inexplicably "interesting" and the networks looking for them. In this talk, I'll dive into: The tools I use to monitor automated scans Patterns I've observed over the last 18 months Which networks are the most aggressive and their targets of choice How organizations can leverage my hunting tactics to better defend & respond to threats in their own environments This is important because even today, in 2020, significant vectors for compromise are poor network security hygiene, patching, access control and weak or nonexistent authentication. While zero-day exploits receive most of the media attention, most networks are compromised through completely avoidable security mistakes. I'll demonstrate the strategies I use to fingerprint and identify at-risk VMs in Azure which have proven effective when hunting risk against an attack surface of 2.8 million internet-exposed IP addresses. The same methodologies can be applied by anyone with an internet footprint and are a critical part of responding to new vulnerabilities, attack campaigns and finding compromised hosts in your environment. The techniques are environment-agnostic, effective across all cloud providers and don't require anything more than accounts with a few OSINT providers. 
+Every day the internet is scanned & probed by a quarter of a million IP addresses - some of this traffic is benign, but most (around 60%) is malicious. High-profile names like Mirai and EternalBlue receive most of the media attention, but they're in the "Devil you know" category. What I find more fascinating are the ports and services which are inexplicably "interesting" and the networks looking for them. In this talk, I'll dive into: The tools I use to monitor automated scans Patterns I've observed over the last 18 months Which networks are the most aggressive and their targets of choice How organizations can leverage my hunting tactics to better defend & respond to threats in their own environments This is important because even today, in 2020, significant vectors for compromise are poor network security hygiene, patching, access control and weak or nonexistent authentication. While zero-day exploits receive most of the media attention, most networks are compromised through completely avoidable security mistakes. I'll demonstrate the strategies I use to fingerprint and identify at-risk VMs in Azure which have proven effective when hunting risk against an attack surface of 2.8 million internet-exposed IP addresses. The same methodologies can be applied by anyone with an internet footprint and are a critical part of responding to new vulnerabilities, attack campaigns and finding compromised hosts in your environment. The techniques are environment-agnostic, effective across all cloud providers and don't require anything more than accounts with a few OSINT providers.
 
 [List of Internet top-level domains](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
@@ -4404,7 +4404,7 @@ GeoSeer is a search engine for spatial web services. You can use it to find WMS,
 
 [ISRIC Data Hub](https://data.isric.org/geonetwork/srv/eng/catalog.search#/home)
 
-The ISRIC – World Soil Information Soil Data Hub is a central location for searching and downloading soil data from around the world. ISRIC, is a regular member of the International Science Council (ISC) World Data System. We support Open Data whenever possible, respecting inherited rights (licences). We make our own soil information products available to data users under Creative Commons licenses (CC BY-NC or CC BY for datasets, and CC BY 4.0 for derived predictions and visualisations). Details are provided in the ISRIC Data and Software Policy. Can’t find what you are looking for? Please take a look at our collection of soil geographical databases to explore soil data available outside ISRIC-World Soil Information via https://www.isric.org/explore/soil-geographic-databases. Disclaimer: By using the ISRIC data and web services, the user accepts the ISRIC data and software policy in full. In order to acknowledge the scientists and/or organisations that have provided data or products, ISRIC requests that data users include a bibliographic citation to all materials supplied through ISRIC in output products, websites, and publications.
+The ISRIC – World Soil Information Soil Data Hub is a central location for searching and downloading soil data from around the world. ISRIC, is a regular member of the International Science Council (ISC) World Data System. We support Open Data whenever possible, respecting inherited rights (licences). We make our own soil information products available to data users under Creative Commons licenses (CC BY-NC or CC BY for datasets, and CC BY 4.0 for derived predictions and visualisations). Details are provided in the ISRIC Data and Software Policy. Can’t find what you are looking for? Please take a look at our collection of soil geographical databases to explore soil data available outside ISRIC-World Soil Information via <https://www.isric.org/explore/soil-geographic-databases>. Disclaimer: By using the ISRIC data and web services, the user accepts the ISRIC data and software policy in full. In order to acknowledge the scientists and/or organisations that have provided data or products, ISRIC requests that data users include a bibliographic citation to all materials supplied through ISRIC in output products, websites, and publications.
 
 [GeoIP Tracker tool](https://shadowcrypt.net/tools/geoip)
 
@@ -5610,7 +5610,7 @@ Here is a list of some favorite tools and resources. Last updated: March 24, 202
 
 [CTI & OSINT Online Resources](https://docs.google.com/spreadsheets/d/1klugQqw6POlBtuzon8S0b18-gpsDwX-5OYRrB7TyNEw/edit#gid=0)
 
-Selector/IoC Search Authored and maintained by AaronCTI - https://aaroncti.com,For suggestions, comments or changes please use the contact page https://www.aaroncti.com/contact-aaron/,My book Cyber Threat I...
+Selector/IoC Search Authored and maintained by AaronCTI - <https://aaroncti.com,For> suggestions, comments or changes please use the contact page <https://www.aaroncti.com/contact-aaron/,My> book Cyber Threat I...
 
 [GitHub Awesome Search](https://github.motakasoft.com/awesome)
 
@@ -6080,7 +6080,7 @@ Search various IRC channels
 
 [Craigslist](https://www.craigslist.org/about/sites)
 
-Mainly focused on USA, alsof possible to search via https://forums.craigslist.org/
+Mainly focused on USA, alsof possible to search via <https://forums.craigslist.org/>
 
 ### Open-Source Databases and Guides
 
@@ -6794,13 +6794,13 @@ Genetic Malware Analysis
 
 [CRITs](https://github.com/crits/crits)
 
-Collaborative Research Into Threats https://crits.github.io/
+Collaborative Research Into Threats <https://crits.github.io/>
 
 ### Malware - Info
 
 [Malware Forensic Field Guides](http://www.malwarefieldguide.com)
 
-Check out http://malwarefieldguide.com! Home Page
+Check out <http://malwarefieldguide.com>! Home Page
 
 [MalwareTips](https://malwaretips.com)
 
@@ -7028,7 +7028,7 @@ Map multiple locations, get transit/walking/driving directions, view live traffi
 
 [AIS Data Sources](https://mods.marin.nl/display/MIOD/AIS+Data+Sources)
 
-https://jakecreps.com/2018/06/05/adsbexchange/
+<https://jakecreps.com/2018/06/05/adsbexchange/>
 
 ### Misc
 
@@ -7374,7 +7374,7 @@ World's fastest and most advanced password recovery utility
 
 [Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)
 
-Advanced system utilities https://docs.microsoft.com/en-us/sysinternals/
+Advanced system utilities <https://docs.microsoft.com/en-us/sysinternals/>
 
 [md5 cracker](http://www.md5this.com)
 
@@ -7704,7 +7704,7 @@ Your OSINT Graphical Analyzer
 
 [firehol/blocklist-ipsets](http://github.com/firehol/blocklist-ipsets)
 
-ipsets dynamically updated with firehol's update-ipsets.sh script https://iplists.firehol.org
+ipsets dynamically updated with firehol's update-ipsets.sh script <https://iplists.firehol.org>
 
 [exp0se/bro-intel-generator](https://github.com/exp0se/bro-intel-generator)
 
@@ -7772,7 +7772,7 @@ This repo lists useful Virustotal Intelligence aka Virustotal Enterprise search 
 
 [SupportIntelligence/Icewater](https://github.com/SupportIntelligence/Icewater)
 
-12,805 Free Yara rules created by http://icewater.io
+12,805 Free Yara rules created by <http://icewater.io>
 
 [GreyNoise-Intelligence API](https://github.com/GreyNoise-Intelligence/api.greynoise.io)
 
@@ -7834,7 +7834,7 @@ Fingerprinting and information gathering tool. It searches for servers, domains,
 
 [exp0se/harbinger](https://github.com/exp0se/harbinger)
 
-Domain/IP/Hash threat feeds checker. Will check http://ipvoid.com, http://urlvoid.com, https://cymon.io and https://virustotal.com
+Domain/IP/Hash threat feeds checker. Will check <http://ipvoid.com>, <http://urlvoid.com>, <https://cymon.io> and <https://virustotal.com>
 
 [jpsenior/threataggregator](https://github.com/jpsenior/threataggregator)
 
@@ -7854,7 +7854,7 @@ Tool written in flask for parsing email headers and converting them to a human r
 
 [johestephan/ibmxforceex.checker.py](https://github.com/johestephan/ibmxforceex.checker.py)
 
-Python based client for IBM XForce Exchange https://exchange.xforce.ibmcloud.com
+Python based client for IBM XForce Exchange <https://exchange.xforce.ibmcloud.com>
 
 ### Tools - Documenting
 
@@ -7914,7 +7914,7 @@ FireEye Publicly Shared Indicators of Compromise (IOCs)
 
 [eset/malware-ioc](http://github.com/eset/malware-ioc)
 
-Indicators of Compromises (IOC) of our various investigations https://www.welivesecurity.com/
+Indicators of Compromises (IOC) of our various investigations <https://www.welivesecurity.com/>
 
 [armbues/ioc\_parser](https://github.com/armbues/ioc_parser)
 
@@ -8080,7 +8080,7 @@ The latest Tweets from Christina Lekati (@ChristinaLekati). #SocialEngineering, 
 
 [kirbstr (@kirbstr)](https://twitter.com/kirbstr)
 
-The latest Tweets from kirbstr (@kirbstr). Montanan, Army Veteran, IC, founder of https://t.co/6V0LQ0mS83, 20+ years in intelligence analysis, OSINT, privacy advocacy, nerdery, art. Washington, DC
+The latest Tweets from kirbstr (@kirbstr). Montanan, Army Veteran, IC, founder of <https://t.co/6V0LQ0mS83>, 20+ years in intelligence analysis, OSINT, privacy advocacy, nerdery, art. Washington, DC
 
 [Julia Bayer (@bayer\_julia)](https://twitter.com/bayer_julia)
 
@@ -8088,7 +8088,7 @@ The latest Tweets from Julia Bayer (@bayer\_julia). Investigations @dwnews, Deep
 
 [Griffin (@hatless1der)](https://twitter.com/hatless1der)
 
-The latest Tweets from Griffin (@hatless1der). CAMS cert Investigator | NCPTF Deputy Director of Investigations & OSINT Team Lead @ncptf8 | @osintgamesctf co-creator | Startme: https://t.co/FTIvYgw9no | views: my own. USA
+The latest Tweets from Griffin (@hatless1der). CAMS cert Investigator | NCPTF Deputy Director of Investigations & OSINT Team Lead @ncptf8 | @osintgamesctf co-creator | Startme: <https://t.co/FTIvYgw9no> | views: my own. USA
 
 [The Innocent Lives Foundation (@InnocentOrg)](https://twitter.com/innocentorg)
 
@@ -8128,7 +8128,7 @@ The latest Tweets from Eliot Higgins (@EliotHiggins). Founder and creative direc
 
 [Bellingcat (@bellingcat)](https://twitter.com/bellingcat)
 
-The latest Tweets from Bellingcat (@bellingcat). Want to support our charity? https://t.co/scuUINEvTN Buy our book "We Are Bellingcat" here: https://t.co/2JiuWFfTpO Our award-winning podcast series: https://t.co/S1rflrkXue
+The latest Tweets from Bellingcat (@bellingcat). Want to support our charity? <https://t.co/scuUINEvTN> Buy our book "We Are Bellingcat" here: <https://t.co/2JiuWFfTpO> Our award-winning podcast series: <https://t.co/S1rflrkXue>
 
 [Trace Labs (@TraceLabs)](https://twitter.com/tracelabs)
 
@@ -8140,7 +8140,7 @@ The latest Tweets from Justin Seitz (@jms\_dot\_py). Creator of @Hunchly. Bloggi
 
 [Christopher Hadnagy (@humanhacker)](https://twitter.com/humanhacker)
 
-The latest Tweets from Christopher Hadnagy (@humanhacker). Human Hacking or Social Engineering is about learning how to communicate with intent. Check out the new book at https://t.co/B4GdVzCz0O. Orlando, FL
+The latest Tweets from Christopher Hadnagy (@humanhacker). Human Hacking or Social Engineering is about learning how to communicate with intent. Check out the new book at <https://t.co/B4GdVzCz0O>. Orlando, FL
 
 [OSINTCurious (@OsintCurious)](https://twitter.com/osintcurious)
 
@@ -8162,7 +8162,7 @@ The latest Tweets from Cyber Detective🇺🇦 (@cyb\_detective). Every day I wr
 
 [URLCrazy](http://www.morningstarsecurity.com/research/urlcrazy)
 
-Download urlcrazy-0.5.tar.gzLatest Version 0.5, July 2012License Restrictive. See README file.Author Andrew Horton (urbanadventurer)Kali Linux https://tools.kali.org/information-gathering/urlcrazy Introduction URLCrazy allows you to generate and test domain typos and variations to detect and perform typo squatting, URL hijacking, phishing, and corporate espionage. Usage Detect typo squatters profiting from typos on your domain name Protect your brand by registering… Read More »URLCrazy
+Download urlcrazy-0.5.tar.gzLatest Version 0.5, July 2012License Restrictive. See README file.Author Andrew Horton (urbanadventurer)Kali Linux <https://tools.kali.org/information-gathering/urlcrazy> Introduction URLCrazy allows you to generate and test domain typos and variations to detect and perform typo squatting, URL hijacking, phishing, and corporate espionage. Usage Detect typo squatters profiting from typos on your domain name Protect your brand by registering… Read More »URLCrazy
 
 [URLCrazy - Kali](https://tools.kali.org/information-gathering/urlcrazy)
 
@@ -8184,7 +8184,7 @@ Free service that analyzes a website through multiple blacklist engines and onli
 
 [URL Expander](https://urlex.org)
 
-URL Expander that unshortens / deshortens any URL to a long URL masked by any URL-Shortener. By clicking unshortened links, the HTTP-Referer header is sent to https://urlex.org for your safety.
+URL Expander that unshortens / deshortens any URL to a long URL masked by any URL-Shortener. By clicking unshortened links, the HTTP-Referer header is sent to <https://urlex.org> for your safety.
 
 [URL X-ray](http://urlxray.com)
 

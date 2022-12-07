@@ -1,4 +1,4 @@
-##  Browsers
+## Browsers
 
 * [Atom](https://browser.ru/)
 * [Brave](https://brave.com) - is an open-source web browser that allows you to completely block ads and website trackers.

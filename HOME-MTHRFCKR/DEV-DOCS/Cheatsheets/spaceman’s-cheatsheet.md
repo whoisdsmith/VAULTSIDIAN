@@ -1,6 +1,7 @@
 # Spacemacs Cheatsheet
 
 > ## Excerpt
+
 > One-page guide to Spacemacs: usage, examples, and more. Spacemacs is a distribution for Emacs.
 
 ---
@@ -349,8 +350,6 @@ Close
 
 `C-x` `C-k`
 
- 
-
 Split horizontal
 
 `C-x` `2`
@@ -366,8 +365,6 @@ Split vertical
 Confirm
 
 `C-c` `C-c`
-
- 
 
 Abort
 

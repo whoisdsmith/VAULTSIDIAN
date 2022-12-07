@@ -1,4 +1,4 @@
-# Day 50!!!
+# Day 50
 
 Today is my 50th day of this new chapter in my life. I have exceeded almost all expectations for myself with where I thought I would be right now. I'm not going to play pretend and put on a fake ass smile for anyone. I didn't think I was going to come out of this in anyway that was positive at all. I was crushed, my heart was broken in ways I never new were possible. I still have questions I'll never get answered, I still miss talking to that one person I talked to every day for almost 6 years.
 

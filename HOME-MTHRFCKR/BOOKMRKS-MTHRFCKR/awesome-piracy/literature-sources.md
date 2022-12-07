@@ -29,7 +29,7 @@
 🔸 [TheFreeLibrary](https://www.thefreelibrary.com/)  
 🔸 [FreeFullPDF](https://freefullpdf.com/#gsc.tab=0)
 
-##### Read Comics Online!
+##### Read Comics Online
 
 🔸 [ReadComicOnline](https://readcomiconline.li/)  
 🔸 [GetComics](https://getcomics.info/)  
@@ -37,7 +37,7 @@
 🔸 [Comic Search Engine](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg)  
 🔸 [ComicExtra](https://www.comicextra.com/)
 
-##### Read Manga Online!
+##### Read Manga Online
 
 🔸 [MangaReader](https://mangareader.to/)  
 🔸 [MangaDex](https://mangadex.org/)  

@@ -8,10 +8,10 @@ When the timestamp arrives and the task is invoked, the source will emit the pay
 
 You can also listen for these events in your own app / infra, by [subscribing to your source's SSE stream](https://pipedream.com/docs/api/sse/). Each time a scheduled task is emitted from your Pipedream source, it also emits a message to that SSE stream. Any application (a Docker container, a Rails app, etc.) listening to that SSE stream can react to that message to run whatever code you'd like.
 
--   [HTTP API](https://pipedream.com/docs/#http-api)
-    -   [Scheduling a task](https://pipedream.com/docs/#scheduling-a-task)
-    -   [Cancelling a scheduled task](https://pipedream.com/docs/#cancelling-a-scheduled-task)
--   [Processing scheduled tasks](https://pipedream.com/docs/#processing-scheduled-tasks)
+- [HTTP API](https://pipedream.com/docs/#http-api)
+  - [Scheduling a task](https://pipedream.com/docs/#scheduling-a-task)
+  - [Cancelling a scheduled task](https://pipedream.com/docs/#cancelling-a-scheduled-task)
+- [Processing scheduled tasks](https://pipedream.com/docs/#processing-scheduled-tasks)
 
 ## [#](https://pipedream.com/docs/#http-api) HTTP API
 
@@ -49,9 +49,9 @@ Cancel tasks using the following code in a Node.js code step:
 
 Scheduled tasks are emitted by the event source as events, which you can consume with
 
--   [Pipedream workflows](https://pipedream.com/docs/workflows/)
--   [A source-specific SSE stream](https://pipedream.com/docs/api/sse/)
--   [The Pipedream REST API](https://pipedream.com/docs/api/rest/)
--   [The Pipedream CLI](https://pipedream.com/docs/cli/reference/#installing-the-cli)
+- [Pipedream workflows](https://pipedream.com/docs/workflows/)
+- [A source-specific SSE stream](https://pipedream.com/docs/api/sse/)
+- [The Pipedream REST API](https://pipedream.com/docs/api/rest/)
+- [The Pipedream CLI](https://pipedream.com/docs/cli/reference/#installing-the-cli)
 
 [See the docs on consuming events from sources](https://pipedream.com/docs/sources/#consuming-events-from-sources) for more information.

@@ -48,8 +48,8 @@
 
 🔸 [FL Studio Producers Edition v20.8.4.2576](https://anonfiles.com/B7JbI7Eby6/FL_Studio_Producers_Edition_v20.8.4.2576_7z)
 
-  * Includes Flex extensions + plugins.
-  * Archive password: `champagne`
+* Includes Flex extensions + plugins.
+* Archive password: `champagne`
 
 ### Mobile Software & Games
 

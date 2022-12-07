@@ -8,10 +8,10 @@ This standard is still WIP and may change over time, so please remember to check
 
 When writing a new route, RSSHub will read the following in a folder :
 
--   `router.js` Register route
--   `maintainer.js` Fetch route path and maintainer
--   `radar.js` Fetch the website and the matching rules corresponding to the route: <https://github.com/DIYgod/RSSHub-Radar/>
--   `templates` Rendering templates
+- `router.js` Register route
+- `maintainer.js` Fetch route path and maintainer
+- `radar.js` Fetch the website and the matching rules corresponding to the route: <https://github.com/DIYgod/RSSHub-Radar/>
+- `templates` Rendering templates
 
 **The above files are mandatory for all routes**
 
@@ -59,8 +59,8 @@ module.exports = function (router) {
 
 `maintainer.js` should export an object from which we will retrieve the maintainer information when we get the path-related information, etc.
 
--   key: `@koa/router` Corresponding path
--   value: Array, includes all maintainers' Github Username
+- key: `@koa/router` Corresponding path
+- value: Array, includes all maintainers' Github Username
 
 Github ID may be a better choice, but it is inconvenient to deal with the follow-up, so use GitHub Username for now.
 

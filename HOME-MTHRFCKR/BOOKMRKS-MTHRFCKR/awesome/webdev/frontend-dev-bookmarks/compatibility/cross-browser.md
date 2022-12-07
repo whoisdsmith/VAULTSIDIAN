@@ -9,6 +9,7 @@ Cross-browser refers to the ability of a website, web application, HTML construc
 [![Twitter](https://img.shields.io/badge/follow-twitter-55acee.svg?style=flat-square)](https://twitter.com/FrontendDir)
 
 -----------------------------------------
+
 + **[Can I use ... ?](http://caniuse.com/)**: "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 + **[Dev Tools by Microsoft](https://developer.microsoft.com/en-us/microsoft-edge/tools/)**: These tools allow you to test your product on different version of Internet Explorer and Microsoft Edge.
 + **[HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills)**: So here we're collecting all the shims, fallbacks, and polyfills in order to implant HTML5 functionality in browsers that don't natively support them.
@@ -16,7 +17,6 @@ Cross-browser refers to the ability of a website, web application, HTML construc
 + **[Modernizr](https://modernizr.com/)**: It’s a collection of superfast tests – or “detects” as we like to call them – which run as your web page loads, then you can use the results to tailor the experience to the user.
 + **[Normalize.css](http://necolas.github.io/normalize.css/)**: A modern, HTML5-ready alternative to CSS resets.
 + **[Polyfill.io](https://polyfill.io/)**: Just the polyfills you need for your site, tailored to each browser.
-
 
 ------------------
 

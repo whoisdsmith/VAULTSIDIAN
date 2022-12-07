@@ -57,11 +57,11 @@ Array of objects. Format of single object described in "Create single raindrop".
 
 \
 
-
 Maximum 100 objects in array!
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
+
 ```javascript
 {
     "result": true,
@@ -73,24 +73,22 @@ Maximum 100 objects in array!
 }
 ```
 
-
 {% endswagger-response %}
 {% endswagger %}
 
 {% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/raindrops/{collectionId}" method="put" summary="Update many raindrops" %}
 {% swagger-description %}
-Specify optional 
+Specify optional
 
 `search`
 
- and/or 
+ and/or
 
 `ids`
 
  parameters to limit raindrops that will be updated.
 
 \
-
 
 Possible fields that could be updated are described in "Body Parameters"
 {% endswagger-description %}
@@ -108,7 +106,6 @@ TRUE - mark as "favorite"
 
 \
 
-
 FALSE - unmark as "favorite"
 {% endswagger-parameter %}
 
@@ -117,8 +114,7 @@ Will append specified tags to raindrops.
 
 \
 
-
-Or will remove all tags from raindrops if 
+Or will remove all tags from raindrops if
 
 `[]`
 
@@ -130,8 +126,7 @@ Will append specified media items to raindrops.
 
 \
 
-
-Or will remove all media from raindrops if 
+Or will remove all media from raindrops if
 
 `[]`
 
@@ -143,10 +138,9 @@ Set URL for cover.
 
 \
 
-
 _Tip:_
 
- specify 
+ specify
 
 `<screenshot>`
 
@@ -154,7 +148,7 @@ _Tip:_
 {% endswagger-parameter %}
 
 {% swagger-parameter in="body" name="collection" type="object" %}
-Specify 
+Specify
 
 `{"$id": collectionId}`
 
@@ -162,18 +156,20 @@ Specify
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
+
 ```
 ```
+
 {% endswagger-response %}
 {% endswagger %}
 
 {% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/raindrops/{collectionId}" method="delete" summary="Remove many raindrops" %}
 {% swagger-description %}
-Specify optional 
+Specify optional
 
 `search`
 
- and/or 
+ and/or
 
 `ids`
 
@@ -185,12 +181,11 @@ Specify optional
 
 \
 
-
-When 
+When
 
 `:collectionId`
 
- is 
+ is
 
 **-99**
 

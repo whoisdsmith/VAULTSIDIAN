@@ -8,6 +8,7 @@ author:
 # AppleScript Cheatsheet
 
 > ## Excerpt
+
 > The one-page guide to AppleScript: usage, examples, links, snippets, and more.
 
 ---

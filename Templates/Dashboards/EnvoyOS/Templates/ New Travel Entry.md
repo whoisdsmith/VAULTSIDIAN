@@ -17,12 +17,12 @@ status:
 
 ---
 
-## **Destination**::
+## **Destination**
 
-## **Start-Date**::
+## **Start-Date**
 
-## **End-Date**::
+## **End-Date**
 
-## **Duration**::
+## **Duration**
 
 ---

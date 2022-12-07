@@ -160,8 +160,6 @@ New items may always at the end of the list, when the number of paper entries is
 
 <RouteEn author="laampui" example="/technologyreview/humans-and-technology" path="/technologyreview/:category_name" :paramsDesc="['see below']" />
 
-
-
 | `:category_name` | Route |
 | -------- | ----- |
 | humans-and-technology | /technologyreview/humans-and-technology |
@@ -194,10 +192,10 @@ New items may always at the end of the list, when the number of paper entries is
 |     nmat      |      Nature Materials       | [/nature/research/nmat](https://rsshub.app/nature/research/nmat)                   |
 | natmachintell | Nature Machine Intelligence | [/nature/research/natmachintell](https://rsshub.app/nature/research/natmachintell) |
 
--   Using router (`/nature/research/` + “short name for a journal”) to query latest research paper for a certain journal of Nature Publishing Group.
+- Using router (`/nature/research/` + “short name for a journal”) to query latest research paper for a certain journal of Nature Publishing Group.
     If the `:journal` parameter is blank, then latest research of Nature will return.
--   The journals from NPG are run by different group of people, and the website of may not be consitent for all the journals
--   Only the abstract section is rendered
+- The journals from NPG are run by different group of people, and the website of may not be consitent for all the journals
+- Only the abstract section is rendered
 
 </RouteEn>
 
@@ -216,8 +214,8 @@ New items may always at the end of the list, when the number of paper entries is
 |     nmat      |      Nature Materials       | [/nature/news-and-comment/nmat](https://rsshub.app/nature/news-and-comment/nmat)                                      |
 | natmachintell | Nature Machine Intelligence | [/nature/news-and-https://rsshub.app/comment/natmachintell](https://rsshub.app/nature/news-and-comment/natmachintell) |
 
--   Using router (`/nature/research/` + “short name for a journal”) to query latest research paper for a certain journal of Nature Publishing Group.
--   The journals from NPG are run by different group of people, and the website of may not be consitent for all the journals
+- Using router (`/nature/research/` + “short name for a journal”) to query latest research paper for a certain journal of Nature Publishing Group.
+- The journals from NPG are run by different group of people, and the website of may not be consitent for all the journals
 
 </RouteEn>
 
@@ -253,7 +251,7 @@ Subscribe to the cover images of the Nature journals, and get the latest publica
 
 <RouteEn author="emdoe" example="/pnas/Applied Mathematics" path="/pnas/:topic" :paramsDesc="['topic name', 'obtain it from pnas.org (new research in ...)']" />
 
--   Using router (`/pnas/` + Topic of Interest) to query latest research paper for a certain topic from PNAS journal.
+- Using router (`/pnas/` + Topic of Interest) to query latest research paper for a certain topic from PNAS journal.
     If the `:topic` parameter is blank, or equal to 'latest', then all the latest papers will return.
 
 </RouteEn>
@@ -281,7 +279,7 @@ Subscribe to the cover images of the Nature journals, and get the latest publica
 |    stke    |       Science Signaling        | [/sciencemag/current/stke](https://rsshub.app/sciencemag/current/stke)             |
 |    stm     | Science Translational Medicine | [/sciencemag/current/stm](https://rsshub.app/sciencemag/current/stm)               |
 
--   Using router (`/sciencemag/current/` + “short name for a journal”) to query current issue of a journal form AAAS.
+- Using router (`/sciencemag/current/` + “short name for a journal”) to query current issue of a journal form AAAS.
     leave the parameter blank（`/sciencemag/current`）to get update from Science.
 
 </RouteEn>

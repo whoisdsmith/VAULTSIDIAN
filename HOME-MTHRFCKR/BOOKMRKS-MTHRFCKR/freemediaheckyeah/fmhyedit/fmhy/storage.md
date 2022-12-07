@@ -79,79 +79,79 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * [Search-Engine](https://start.me/p/wM7y15/search-engine) - Index
 * [100 Search Engines](https://www.100searchengines.com/) - Search With 100 Search Engines
 * [pSearch](https://serjsx.github.io/wpSearch/), [Search All](https://www.searchall.net/) or [AIO Search](https://www.aiosearch.com/) - Multi Site Search
-* https://oceanhero.today/
-* https://llarryyllarryy.github.io/Max-Impact-Search/
-* https://www.lycos.com/
-* https://www.dogpile.com/
-* http://advangle.com/
-* http://gigablast.com/
-* https://www.webcrawler.com/
-* https://millionshort.com/
-* https://www.wiby.me/
-* https://www.goodshop.com/
-* https://mwmbl.org/ + [GitHub](https://github.com/mwmbl/mwmbl)
-* https://lazyweb.ai/
-* https://www.instya.com/
-* https://ambition.dk/kompetencer/media-search-social/trafik/tools/impersonal/
-* https://education.iseek.com/iseek/home.page
-* https://www.lycos.com/
-* https://search.excite.com/
-* https://www.oscobo.com/
-* https://www.search.com/
-* https://www.metacrawler.com/
-* http://fefoo.com/
-* https://www.entireweb.com/
-* https://www.chatnoir.eu/
-* https://felvin.com/
-* https://petalsearch.com/
-* https://okeano.com/
-* http://www.seekport.com/
-* https://www.exalead.com/search/
-* http://www.search.tl/
-* https://andisearch.com/
-* https://search.carrot2.org/#/web
-* http://www.surfcanyon.com/
-* https://you.com/
-* https://www.teoma.com/
-* https://www.4search.com/
-* https://www.info.com/
-* https://www.yahoo.com/
-* http://frogfind.com/
-* https://search.visymo.com/
-* https://entfer.com/
-* https://presearch.org/ + [GitHub](https://github.com/presearchofficial)
-* https://search.aol.com/
-* https://www.bing.com/
-* https://www.entireweb.com/
-* https://all-io.net/
-* https://www.alltheinternet.com/
-* https://www.etools.ch/
-* https://www.faganfinder.com/
-* http://www.goofram.com/
-* https://www.izito.com/
-* http://www.myallsearch.com/
-* https://www.zapmeta.com/
-* https://biznar.com/biznar/desktop/en/search.html
-* https://www.etools.ch/search.do
-* https://www.harmari.com/search/unified/
-* https://worldwidescience.org/
-* https://www.startpage.com/
-* https://github.com/prabhatsharma/zinc
-* https://benbusby.com/projects/whoogle-search/
+* <https://oceanhero.today/>
+* <https://llarryyllarryy.github.io/Max-Impact-Search/>
+* <https://www.lycos.com/>
+* <https://www.dogpile.com/>
+* <http://advangle.com/>
+* <http://gigablast.com/>
+* <https://www.webcrawler.com/>
+* <https://millionshort.com/>
+* <https://www.wiby.me/>
+* <https://www.goodshop.com/>
+* <https://mwmbl.org/> + [GitHub](https://github.com/mwmbl/mwmbl)
+* <https://lazyweb.ai/>
+* <https://www.instya.com/>
+* <https://ambition.dk/kompetencer/media-search-social/trafik/tools/impersonal/>
+* <https://education.iseek.com/iseek/home.page>
+* <https://www.lycos.com/>
+* <https://search.excite.com/>
+* <https://www.oscobo.com/>
+* <https://www.search.com/>
+* <https://www.metacrawler.com/>
+* <http://fefoo.com/>
+* <https://www.entireweb.com/>
+* <https://www.chatnoir.eu/>
+* <https://felvin.com/>
+* <https://petalsearch.com/>
+* <https://okeano.com/>
+* <http://www.seekport.com/>
+* <https://www.exalead.com/search/>
+* <http://www.search.tl/>
+* <https://andisearch.com/>
+* <https://search.carrot2.org/#/web>
+* <http://www.surfcanyon.com/>
+* <https://you.com/>
+* <https://www.teoma.com/>
+* <https://www.4search.com/>
+* <https://www.info.com/>
+* <https://www.yahoo.com/>
+* <http://frogfind.com/>
+* <https://search.visymo.com/>
+* <https://entfer.com/>
+* <https://presearch.org/> + [GitHub](https://github.com/presearchofficial)
+* <https://search.aol.com/>
+* <https://www.bing.com/>
+* <https://www.entireweb.com/>
+* <https://all-io.net/>
+* <https://www.alltheinternet.com/>
+* <https://www.etools.ch/>
+* <https://www.faganfinder.com/>
+* <http://www.goofram.com/>
+* <https://www.izito.com/>
+* <http://www.myallsearch.com/>
+* <https://www.zapmeta.com/>
+* <https://biznar.com/biznar/desktop/en/search.html>
+* <https://www.etools.ch/search.do>
+* <https://www.harmari.com/search/unified/>
+* <https://worldwidescience.org/>
+* <https://www.startpage.com/>
+* <https://github.com/prabhatsharma/zinc>
+* <https://benbusby.com/projects/whoogle-search/>
 
 **Non-English**
 
-* http://www.alleba.com/
-* https://www.eniro.se/
-* https://www.goo.ne.jp/
-* http://www.najdi.si/
-* https://www.naver.com/
-* https://www.onet.pl/
-* https://www.orange.fr/portail
-* http://www.parseek.com/
-* https://www.sapo.pt/
-* https://www.walla.co.il/
-* https://www.2lingual.com/
+* <http://www.alleba.com/>
+* <https://www.eniro.se/>
+* <https://www.goo.ne.jp/>
+* <http://www.najdi.si/>
+* <https://www.naver.com/>
+* <https://www.onet.pl/>
+* <https://www.orange.fr/portail>
+* <http://www.parseek.com/>
+* <https://www.sapo.pt/>
+* <https://www.walla.co.il/>
+* <https://www.2lingual.com/>
 
 ***
 
@@ -354,10 +354,10 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 ## Calibre Libraries
 
-* http://24.13.229.188:8090/
-* http://104.131.175.196:8080/
-* http://185.215.227.81:8081/
-* http://70.88.180.169:8088/
+* <http://24.13.229.188:8090/>
+* <http://104.131.175.196:8080/>
+* <http://185.215.227.81:8081/>
+* <http://70.88.180.169:8088/>
 
 ***
 
@@ -387,9 +387,9 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 ## Cloudstream Forks
 
-* https://github.com/Jacekun/csrelease/releases
-* https://github.com/Stormunblessed/CloudStream-3/releases
-* https://github.com/recloudstream/cloudstream
+* <https://github.com/Jacekun/csrelease/releases>
+* <https://github.com/Stormunblessed/CloudStream-3/releases>
+* <https://github.com/recloudstream/cloudstream>
 
 ***
 
@@ -455,16 +455,16 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 ## Command Line Shells
 
-* zsh - https://www.zsh.org/
+* zsh - <https://www.zsh.org/>
 * zsh Tools - [Auto Suggest](https://github.com/zsh-users/zsh-autosuggestions) / [Customization](https://ohmyz.sh/) / [Theme](https://github.com/romkatv/powerlevel10k) / [Auto Setup](https://github.com/gustavohellwig/gh-zsh) / [Rich Framework](https://github.com/sorin-ionescu/prezto)
-* Fish - https://fishshell.com/
-* bash - https://www.gnu.org/software/bash/ (Preinstalled on most distros)
-* elvish - https://elv.sh/
-* es - https://wryun.github.io/es-shell/
-* ion - https://github.com/redox-os/ion
-* yash - https://yash.osdn.jp/
-* xonsh - https://xon.sh/
-* nushell - https://github.com/nushell/nushell
+* Fish - <https://fishshell.com/>
+* bash - <https://www.gnu.org/software/bash/> (Preinstalled on most distros)
+* elvish - <https://elv.sh/>
+* es - <https://wryun.github.io/es-shell/>
+* ion - <https://github.com/redox-os/ion>
+* yash - <https://yash.osdn.jp/>
+* xonsh - <https://xon.sh/>
+* nushell - <https://github.com/nushell/nushell>
 
 ***
 
@@ -693,81 +693,81 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 ## Free DNS Servers
 
-* https://www.publicdns.xyz/
+* <https://www.publicdns.xyz/>
 * https://www.wikileaks.org/wiki/Alternative\_DNS
-* https://www.cloudns.net/
-* https://dns.he.net/
-* https://www.dnspod.com/
+* <https://www.cloudns.net/>
+* <https://dns.he.net/>
+* <https://www.dnspod.com/>
 * https://acavalin.com/p/free\_dns
-* https://www.luadns.com/
-* https://dynu.com/
-* https://blog.uncensoreddns.org/dns-servers/
-* https://wiki.ipfire.org/dns/public-servers
-* https://www.1984.is/product/freedns/
-* https://www.namecheap.com/domains/freedns/
-* https://zilore.com/en/dns
-* https://docs.glauca.digital/hexdns/
-* https://www.zoneedit.com/free-dns/
-* https://www.dnsabr.com/
-* https://dns.sb/
-* https://github.com/dns-sb/dns.sb
-* http://bestdns.org/
-* https://public-dns.info/
+* <https://www.luadns.com/>
+* <https://dynu.com/>
+* <https://blog.uncensoreddns.org/dns-servers/>
+* <https://wiki.ipfire.org/dns/public-servers>
+* <https://www.1984.is/product/freedns/>
+* <https://www.namecheap.com/domains/freedns/>
+* <https://zilore.com/en/dns>
+* <https://docs.glauca.digital/hexdns/>
+* <https://www.zoneedit.com/free-dns/>
+* <https://www.dnsabr.com/>
+* <https://dns.sb/>
+* <https://github.com/dns-sb/dns.sb>
+* <http://bestdns.org/>
+* <https://public-dns.info/>
 
 ***
 
 ## Free VPN Configs
 
-* https://courvix.com/ / [Discord](https://discord.gg/ZP47YRdn83)
-* https://www.racevpn.com/
-* https://www.greenssh.com/
-* https://cyberssh.com/vpn/config
-* https://www.sshmonth.com/
-* https://www.vpnjantit.com/
-* https://pisovpn.com
-* https://www.lionssh.com/
-* https://www.sshocean.com/
-* https://www.vpnhack.com/
-* https://www.monthlyssh.com/
-* https://www.dynamicssh.com/
-* https://www.freevpn.us/
-* https://www.sshocean.net/
-* https://www.cloudssh.us/
-* https://www.fullssh.com/
-* https://starssh.com/
-* https://www.skyssh.co/
-* https://unlissh.com/
-* https://www.sshinjector.net/
-* https://www.sshdropbear.net/
-* https://www.portssh.com/
-* https://www.jetssh.com/
-* https://www.goodssh.com/
-* https://www.ssh-free.com/
-* https://cloudssh.net/
-* https://www.contassh.com/
-* https://sshkit.com/
-* https://www.flyssh.com/
-* https://www.sshssl.com/
-* https://www.jagoanssh.com/
-* https://spotssh.com/
-* http://criarssh.com/
-* https://dewassh.net/
-* https://ciscossh.com/
-* https://digitalssh.net/
-* https://sshaccess.com/
-* https://interssh.com/
-* https://www.speedssh.com/
-* http://www.sshudp.com/
-* https://www.fastssh.com/
-* https://createssh.com/
-* https://freesslvpn.us/
-* https://sharevpn.org/
-* https://www.mytunneling.com/
-* https://www.squid-proxy.net/
-* https://www.jrtunnel.com/
-* https://opentunnel.net/
-* https://howdy.id/
-* https://openinternetaccess.com/
+* <https://courvix.com/> / [Discord](https://discord.gg/ZP47YRdn83)
+* <https://www.racevpn.com/>
+* <https://www.greenssh.com/>
+* <https://cyberssh.com/vpn/config>
+* <https://www.sshmonth.com/>
+* <https://www.vpnjantit.com/>
+* <https://pisovpn.com>
+* <https://www.lionssh.com/>
+* <https://www.sshocean.com/>
+* <https://www.vpnhack.com/>
+* <https://www.monthlyssh.com/>
+* <https://www.dynamicssh.com/>
+* <https://www.freevpn.us/>
+* <https://www.sshocean.net/>
+* <https://www.cloudssh.us/>
+* <https://www.fullssh.com/>
+* <https://starssh.com/>
+* <https://www.skyssh.co/>
+* <https://unlissh.com/>
+* <https://www.sshinjector.net/>
+* <https://www.sshdropbear.net/>
+* <https://www.portssh.com/>
+* <https://www.jetssh.com/>
+* <https://www.goodssh.com/>
+* <https://www.ssh-free.com/>
+* <https://cloudssh.net/>
+* <https://www.contassh.com/>
+* <https://sshkit.com/>
+* <https://www.flyssh.com/>
+* <https://www.sshssl.com/>
+* <https://www.jagoanssh.com/>
+* <https://spotssh.com/>
+* <http://criarssh.com/>
+* <https://dewassh.net/>
+* <https://ciscossh.com/>
+* <https://digitalssh.net/>
+* <https://sshaccess.com/>
+* <https://interssh.com/>
+* <https://www.speedssh.com/>
+* <http://www.sshudp.com/>
+* <https://www.fastssh.com/>
+* <https://createssh.com/>
+* <https://freesslvpn.us/>
+* <https://sharevpn.org/>
+* <https://www.mytunneling.com/>
+* <https://www.squid-proxy.net/>
+* <https://www.jrtunnel.com/>
+* <https://opentunnel.net/>
+* <https://howdy.id/>
+* <https://openinternetaccess.com/>
 
 ***
 
@@ -968,15 +968,15 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 ## Google Piracy Discussion Groups
 
-* https://techy-transistor.notion.site/Team-drives-ab7ebffc1e5040b5b5362e9d70fca4d5
-* https://groups.google.com/g/hkteamdrive1group
-* https://groups.google.com/g/torrent-drive
-* https://groups.google.com/forum/#!forum/sammytorrents
-* https://groups.google.com/forum/embed/?place=forum/seedboxsl
-* https://groups.google.com/g/team-drive99
-* https://groups.google.com/g/roshanstgbot
-* https://groups.google.com/g/zanime
-* https://groups.google.com/g/rdrivelinks
+* <https://techy-transistor.notion.site/Team-drives-ab7ebffc1e5040b5b5362e9d70fca4d5>
+* <https://groups.google.com/g/hkteamdrive1group>
+* <https://groups.google.com/g/torrent-drive>
+* <https://groups.google.com/forum/#!forum/sammytorrents>
+* <https://groups.google.com/forum/embed/?place=forum/seedboxsl>
+* <https://groups.google.com/g/team-drive99>
+* <https://groups.google.com/g/roshanstgbot>
+* <https://groups.google.com/g/zanime>
+* <https://groups.google.com/g/rdrivelinks>
 
 ***
 
@@ -1018,80 +1018,80 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 ## HiMovies Clones
 
-* https://solarmovies.win/
-* https://www2.theshit.me/
-* https://www2.6movies.net/
-* https://www2.movieorca.com/
-* https://xmovies8.fun/
-* https://ww22.watchfilm.net/
-* https://swatchseries.is/
-* https://www1.movierot.com/
-* https://www.actvid.com/
-* https://hdtoday.tv/
-* https://www.tikmovies.com/
-* https://moviesjoy.plus/
-* https://dopebox.to/
-* https://fboxtv.com/
-* https://movies2watch.cc/
-* https://movies2watch.tv/
-* https://watchseriestv.top/
-* https://moviestowatch.tv/
-* https://favhd.net/
-* https://www3.hdseries.cc/
-* https://fmoviesgo.to/
-* https://hdtoday.cc/
-* https://tinyzonetv.to/
-* https://www4.musichq.net/
-* https://www6.f2movies.to/
-* https://putlockers.llc/
-* https://2kmovie.cc/
-* https://himovies.top/
-* https://www.sflix.pro/
-* https://sflix.to/
-* https://cineb.net/
-* https://www.divicast.com/
-* https://kk01.net/
-* https://www1.moviecrumbs.net/
-* https://flixtor.gg/
-* https://theflixer.tv/
-* https://myflixer.link/
-* https://myflixer.to/
-* https://myflixer.pw/
-* https://myflixer.com/
-* https://myflixertv.to/
-* https://myflixer.it/
-* https://ainiesta.com/
-* https://www3.f2movies.to/
-* https://www1.bemovies.to/
-* https://ev01.to/
-* https://www3.watchserieshd.ru/
-* https://flixhd.cc/
-* https://www3.musichq.net/
-* https://www1.zoechip.com/
-* https://zoechip.org/
-* https://www1.attacker.tv/
-* https://quitt.net/
-* https://www1.seeingblind.net/
-* https://www6.123moviesgo.tv/
-* https://123moviestv.net/
-* https://moviecracker.net/
-* https://fmovieshd.vip/
-* https://moviesjoy.to/
-* https://www.redbeltmovie.com/
-* https://fullmoviehd4k.com/
-* https://cataz.net/
-* https://tinyzonetv.to/
-* https://tinyzonetv.cc/
-* https://tinyzonetv.to/
-* https://www.showboxmovies.net/
-* https://www.watch4freemovies.com/
-* https://www2.filmlicious.net/
-* https://www.fullmoviefilm.org/
-* https://www.moviekids.tv/
-* https://www.freemovies360.com/
-* https://yesmovies.mn/
-* https://fmovie.ws/
-* https://fmovies.hn/
+* <https://solarmovies.win/>
+* <https://www2.theshit.me/>
+* <https://www2.6movies.net/>
+* <https://www2.movieorca.com/>
+* <https://xmovies8.fun/>
+* <https://ww22.watchfilm.net/>
+* <https://swatchseries.is/>
+* <https://www1.movierot.com/>
+* <https://www.actvid.com/>
+* <https://hdtoday.tv/>
+* <https://www.tikmovies.com/>
+* <https://moviesjoy.plus/>
+* <https://dopebox.to/>
+* <https://fboxtv.com/>
+* <https://movies2watch.cc/>
+* <https://movies2watch.tv/>
+* <https://watchseriestv.top/>
+* <https://moviestowatch.tv/>
+* <https://favhd.net/>
+* <https://www3.hdseries.cc/>
+* <https://fmoviesgo.to/>
+* <https://hdtoday.cc/>
+* <https://tinyzonetv.to/>
+* <https://www4.musichq.net/>
+* <https://www6.f2movies.to/>
+* <https://putlockers.llc/>
+* <https://2kmovie.cc/>
+* <https://himovies.top/>
+* <https://www.sflix.pro/>
+* <https://sflix.to/>
+* <https://cineb.net/>
+* <https://www.divicast.com/>
+* <https://kk01.net/>
+* <https://www1.moviecrumbs.net/>
+* <https://flixtor.gg/>
+* <https://theflixer.tv/>
+* <https://myflixer.link/>
+* <https://myflixer.to/>
+* <https://myflixer.pw/>
+* <https://myflixer.com/>
+* <https://myflixertv.to/>
+* <https://myflixer.it/>
+* <https://ainiesta.com/>
+* <https://www3.f2movies.to/>
+* <https://www1.bemovies.to/>
+* <https://ev01.to/>
+* <https://www3.watchserieshd.ru/>
+* <https://flixhd.cc/>
+* <https://www3.musichq.net/>
+* <https://www1.zoechip.com/>
+* <https://zoechip.org/>
+* <https://www1.attacker.tv/>
+* <https://quitt.net/>
+* <https://www1.seeingblind.net/>
+* <https://www6.123moviesgo.tv/>
+* <https://123moviestv.net/>
+* <https://moviecracker.net/>
+* <https://fmovieshd.vip/>
+* <https://moviesjoy.to/>
+* <https://www.redbeltmovie.com/>
+* <https://fullmoviehd4k.com/>
+* <https://cataz.net/>
+* <https://tinyzonetv.to/>
+* <https://tinyzonetv.cc/>
+* <https://tinyzonetv.to/>
+* <https://www.showboxmovies.net/>
+* <https://www.watch4freemovies.com/>
+* <https://www2.filmlicious.net/>
+* <https://www.fullmoviefilm.org/>
+* <https://www.moviekids.tv/>
+* <https://www.freemovies360.com/>
+* <https://yesmovies.mn/>
+* <https://fmovie.ws/>
+* <https://fmovies.hn/>
 
 ***
 
@@ -1275,12 +1275,12 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 **Mirrors**
 
-* https://whereislibgen.now.sh/
-* http://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down
-* https://sguru.org/libgen-proxy/
-* http://libgen.lc/
-* http://libgen.li/
-* https://libgen.fun/
+* <https://whereislibgen.now.sh/>
+* <http://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down>
+* <https://sguru.org/libgen-proxy/>
+* <http://libgen.lc/>
+* <http://libgen.li/>
+* <https://libgen.fun/>
 
 ***
 
@@ -1328,12 +1328,12 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 ## Magic / Esoteric Telegram Ebooks
 
-* https://t.me/magZtore
-* https://t.me/ocultarias
-* https://t.me/WonderlandLibraryOfMagicBooks
-* https://t.me/spiritualbooks
-* https://t.me/spiritualitybooks
-* https://t.me/synchroncity1111
+* <https://t.me/magZtore>
+* <https://t.me/ocultarias>
+* <https://t.me/WonderlandLibraryOfMagicBooks>
+* <https://t.me/spiritualbooks>
+* <https://t.me/spiritualitybooks>
+* <https://t.me/synchroncity1111>
 
 ***
 
@@ -1345,30 +1345,30 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 ## Manhua / Manhwa Manga
 
-* https://toonily.com/
-* https://manhwa18.net/
-* https://manhuafast.com/
-* https://manhwakool.com/
-* https://manhuascan.io/
-* https://manhwatop.com/
-* https://www.instamanhwa.com/
-* https://manhwa68.com/
-* https://zinmanga.com/
-* https://manhwaworld.com/
-* https://manhwatop.com/
-* https://comickiba.com
-* https://readmanhwa.com/en/
-* https://manhwaz.com/
-* https://manhwafull.com/
-* https://www.topmanhua.com/
-* https://manhuas.net/
-* https://manhuaes.com/
-* https://manhuadragon.com/
-* https://manhuahot.com/
-* https://todaymic.com
-* https://manhuazone.com/
-* https://manhuaga.com/
-* https://teenmanhua.com/
+* <https://toonily.com/>
+* <https://manhwa18.net/>
+* <https://manhuafast.com/>
+* <https://manhwakool.com/>
+* <https://manhuascan.io/>
+* <https://manhwatop.com/>
+* <https://www.instamanhwa.com/>
+* <https://manhwa68.com/>
+* <https://zinmanga.com/>
+* <https://manhwaworld.com/>
+* <https://manhwatop.com/>
+* <https://comickiba.com>
+* <https://readmanhwa.com/en/>
+* <https://manhwaz.com/>
+* <https://manhwafull.com/>
+* <https://www.topmanhua.com/>
+* <https://manhuas.net/>
+* <https://manhuaes.com/>
+* <https://manhuadragon.com/>
+* <https://manhuahot.com/>
+* <https://todaymic.com>
+* <https://manhuazone.com/>
+* <https://manhuaga.com/>
+* <https://teenmanhua.com/>
 
 ***
 
@@ -1583,29 +1583,29 @@ Add the following commands to a search to manually scrape each site.
 
 ## NetU Hosts
 
-* https://123movies.dance/
-* https://new123movies.la/
-* http://www1.123moviesmovies.com/
-* https://www2.online123movies.live/
-* http://topbestsite.live/
-* https://doomovies.ga/
-* https://cinehindi.com/
-* https://parkslopecannabis.shop/
-* https://123movies.gdn/
-* https://www.movi.pk/
-* https://fffmovies.wtf/
-* https://tunemovie.com/
-* https://wwv.123movies.day/
-* https://wwe.movierulzfree.com/
-* https://www4.watchfree.ac/
-* http://www2.putlockerstv.org/
-* https://www1.movie4u.live/
-* https://ww45.movisubmalay.website/
-* https://openloadflix.com/
-* https://www.hdsaprevodom.com/
-* https://topeuropix.site/
-* https://www.peramovies.club/
-* https://wwv7.watchmoviesonlinepk.com/category/english-movies/page/0
+* <https://123movies.dance/>
+* <https://new123movies.la/>
+* <http://www1.123moviesmovies.com/>
+* <https://www2.online123movies.live/>
+* <http://topbestsite.live/>
+* <https://doomovies.ga/>
+* <https://cinehindi.com/>
+* <https://parkslopecannabis.shop/>
+* <https://123movies.gdn/>
+* <https://www.movi.pk/>
+* <https://fffmovies.wtf/>
+* <https://tunemovie.com/>
+* <https://wwv.123movies.day/>
+* <https://wwe.movierulzfree.com/>
+* <https://www4.watchfree.ac/>
+* <http://www2.putlockerstv.org/>
+* <https://www1.movie4u.live/>
+* <https://ww45.movisubmalay.website/>
+* <https://openloadflix.com/>
+* <https://www.hdsaprevodom.com/>
+* <https://topeuropix.site/>
+* <https://www.peramovies.club/>
+* <https://wwv7.watchmoviesonlinepk.com/category/english-movies/page/0>
 
 ***
 
@@ -1652,21 +1652,21 @@ Add the following commands to a search to manually scrape each site.
 * Note these also activate Office 365
 * ⭐ [**https://a1\_free365.a1od.workers.dev/**](https://a1\_free365.a1od.workers.dev/)
 * [free365](https://github.com/KusakabeSi/free365) - Index
-* https://xkx.me/
-* https://a1.zxd.workers.dev/
+* <https://xkx.me/>
+* <https://a1.zxd.workers.dev/>
 * [https://a1\_sc.a1od.workers.dev/](https://a1\_sc.a1od.workers.dev/)
-* https://azzzzzz.lx.workers.dev/
-* http://free.stulive.com/
-* https://a1.lx.workers.dev/
-* https://teams.xkx.me/
-* https://od.wasonliu.workers.dev/
-* https://onedrive.gdrive.vip/
-* https://a1p.xkx.me/
-* https://tb.mygindex.workers.dev/
+* <https://azzzzzz.lx.workers.dev/>
+* <http://free.stulive.com/>
+* <https://a1.lx.workers.dev/>
+* <https://teams.xkx.me/>
+* <https://od.wasonliu.workers.dev/>
+* <https://onedrive.gdrive.vip/>
+* <https://a1p.xkx.me/>
+* <https://tb.mygindex.workers.dev/>
 * [https://a1\_sc.a1od.workers.dev/#form](https://a1\_sc.a1od.workers.dev/#form)
-* https://free.kits.workers.dev/#mdui-dialog
-* https://freems.1ove.club/ceo/
-* https://ms.jim9527.workers.dev/#form
+* <https://free.kits.workers.dev/#mdui-dialog>
+* <https://freems.1ove.club/ceo/>
+* <https://ms.jim9527.workers.dev/#form>
 * [90 Day Trial](https://developer.microsoft.com/en-us/microsoft-365/dev-program)
 
 ***
@@ -1842,87 +1842,87 @@ Add the following commands to a search to manually scrape each site.
 
 ## Portuguese Browser Games
 
-* https://www.clickjogos.com.br/
-* https://www.jogos360.com.br/
-* https://www.netjogos.com/
-* https://www.papajogos.com.br/
-* https://www.1001jogos.pt/
-* https://www.brincar.pt/
-* https://www.jogosde2.com.br/
-* http://www.querojogar.com.br/
-* https://www.tucajogos.com.br/
-* https://lagged.com.br/
-* https://www.jogosonlinewx.com.br/
+* <https://www.clickjogos.com.br/>
+* <https://www.jogos360.com.br/>
+* <https://www.netjogos.com/>
+* <https://www.papajogos.com.br/>
+* <https://www.1001jogos.pt/>
+* <https://www.brincar.pt/>
+* <https://www.jogosde2.com.br/>
+* <http://www.querojogar.com.br/>
+* <https://www.tucajogos.com.br/>
+* <https://lagged.com.br/>
+* <https://www.jogosonlinewx.com.br/>
 
 ***
 
 ## Portuguese Bibles
 
-* https://www.bibliaon.com/
-* https://bo.net.br/
-* https://www.bibliacatolica.com.br/
-* https://bibliaestudos.com/
-* https://novabiblia.com.br/
-* https://claret.org.br/biblia
-* https://biblia.sbb.org.br/
-* https://www.bibliaonline.com.br/
-* http://www.receitas-portuguesas.com/
-* https://www.jw.org/pt/biblioteca/biblia/biblia-de-estudo/livros/
-* https://www.dicionariodenomesproprios.com.br/
-* https://www.oracaoefe.com.br/biblia-online/
+* <https://www.bibliaon.com/>
+* <https://bo.net.br/>
+* <https://www.bibliacatolica.com.br/>
+* <https://bibliaestudos.com/>
+* <https://novabiblia.com.br/>
+* <https://claret.org.br/biblia>
+* <https://biblia.sbb.org.br/>
+* <https://www.bibliaonline.com.br/>
+* <http://www.receitas-portuguesas.com/>
+* <https://www.jw.org/pt/biblioteca/biblia/biblia-de-estudo/livros/>
+* <https://www.dicionariodenomesproprios.com.br/>
+* <https://www.oracaoefe.com.br/biblia-online/>
 * [bibliasagradamulher](https://play.google.com/store/apps/details?id=br.com.tunglabs.bibliasagrada.mulher\&hl=pt\_BR\&gl=US) - Bible App
 
 ***
 
 ## Portuguese Dictionaries / Thesaurus
 
-* https://dicionario.priberam.org/
-* https://michaelis.uol.com.br/
-* https://aulete.com.br/
-* https://www.lexico.pt/
-* https://www.dicio.com.br/
-* https://dicionariocriativo.com.br/
-* https://www.significados.com.br/
-* https://www.significadosesinonimos.com.br/
-* https://www.sonhos.com.br/
-* https://sonhar.info/
-* https://www.sonhosbr.com.br/
-* https://www.significadodesonhos.net/
-* http://www.achando.info/
-* https://conceito.de/
-* https://www.dicionariodesimbolos.com.br/
-* http://significadodossimbolos.com.br/
-* https://www.simbolos.net.br/
-* https://www.dicio.com.br/
-* https://www.simbolos.com.br/
-* https://www.significadodascores.com.br/
-* https://www.dicionario-sinonimo.com/
-* https://sinonimos-online.com/
-* https://www.sol.eti.br/index.html
-* https://www.dicionarioinformal.com.br/ (Slang)
-* https://www.politize.com.br/dicionario/ (Political)
-* https://dicionariojuridico.online/ (Legal)
-* http://dicionariomineires.com.br/ (Mining)
-* https://www.dicionariofinanceiro.com/ (Financial)
-* https://dicionarioindigena.blogspot.com/ (Indigenous)
-* https://www.antonimos.com.br/ (Antonyms)
-* https://www.sinonimos.com.br/ (Thesaurus)
-* https://sinonimos.woxikon.pt/ (Thesaurus)
-* https://www.dicionarioetimologico.com.br/ (Etymologies)
-* https://www.conjugacao.com.br/ (Verb Conjugations)
+* <https://dicionario.priberam.org/>
+* <https://michaelis.uol.com.br/>
+* <https://aulete.com.br/>
+* <https://www.lexico.pt/>
+* <https://www.dicio.com.br/>
+* <https://dicionariocriativo.com.br/>
+* <https://www.significados.com.br/>
+* <https://www.significadosesinonimos.com.br/>
+* <https://www.sonhos.com.br/>
+* <https://sonhar.info/>
+* <https://www.sonhosbr.com.br/>
+* <https://www.significadodesonhos.net/>
+* <http://www.achando.info/>
+* <https://conceito.de/>
+* <https://www.dicionariodesimbolos.com.br/>
+* <http://significadodossimbolos.com.br/>
+* <https://www.simbolos.net.br/>
+* <https://www.dicio.com.br/>
+* <https://www.simbolos.com.br/>
+* <https://www.significadodascores.com.br/>
+* <https://www.dicionario-sinonimo.com/>
+* <https://sinonimos-online.com/>
+* <https://www.sol.eti.br/index.html>
+* <https://www.dicionarioinformal.com.br/> (Slang)
+* <https://www.politize.com.br/dicionario/> (Political)
+* <https://dicionariojuridico.online/> (Legal)
+* <http://dicionariomineires.com.br/> (Mining)
+* <https://www.dicionariofinanceiro.com/> (Financial)
+* <https://dicionarioindigena.blogspot.com/> (Indigenous)
+* <https://www.antonimos.com.br/> (Antonyms)
+* <https://www.sinonimos.com.br/> (Thesaurus)
+* <https://sinonimos.woxikon.pt/> (Thesaurus)
+* <https://www.dicionarioetimologico.com.br/> (Etymologies)
+* <https://www.conjugacao.com.br/> (Verb Conjugations)
 
 ***
 
 ## Portuguese Grammar Tips & Lessons
 
-* https://portuguesaletra.com/
-* https://gramaticaonline.com.br/
-* http://www.blogdogramaticando.com/
-* https://showdegramatica.blogspot.com/
-* https://www.portugues.com.br/
-* https://www.soportugues.com.br/
-* https://www.gramatica.net.br/
-* https://grammarnet.com/
+* <https://portuguesaletra.com/>
+* <https://gramaticaonline.com.br/>
+* <http://www.blogdogramaticando.com/>
+* <https://showdegramatica.blogspot.com/>
+* <https://www.portugues.com.br/>
+* <https://www.soportugues.com.br/>
+* <https://www.gramatica.net.br/>
+* <https://grammarnet.com/>
 
 ***
 
@@ -2278,21 +2278,21 @@ Add the following commands to a search to manually scrape each site.
 
 ## Site Analytics
 
-* https://www.openwebanalytics.com/
-* https://www.alexa.com/siteinfo
-* http://websiteoutlook.com/
-* https://umami.is/
-* https://matomo.org/
-* https://goaccess.io/
-* https://count.ly/
-* https://ackee.electerious.com/
-* https://panelbear.com/
-* https://splitbee.io/
-* https://www.hotjar.com/
-* https://freshlytics.gitbook.io/
-* https://www.awstats.org/
-* https://counter.dev/
-* https://github.com/vesparny/fair-analytics
+* <https://www.openwebanalytics.com/>
+* <https://www.alexa.com/siteinfo>
+* <http://websiteoutlook.com/>
+* <https://umami.is/>
+* <https://matomo.org/>
+* <https://goaccess.io/>
+* <https://count.ly/>
+* <https://ackee.electerious.com/>
+* <https://panelbear.com/>
+* <https://splitbee.io/>
+* <https://www.hotjar.com/>
+* <https://freshlytics.gitbook.io/>
+* <https://www.awstats.org/>
+* <https://counter.dev/>
+* <https://github.com/vesparny/fair-analytics>
 
 ***
 
@@ -2306,42 +2306,42 @@ Add the following commands to a search to manually scrape each site.
 
 ## SockShare Clones
 
-* https://sockshare.fm/
-* https://sockshare.mn/
-* https://sockshare1.com/
-* https://www4.123movies.net/
-* https://www1.123movies.mn/
-* https://0123movies4u.com/
-* https://wifimovies.net
-* https://www4.xmovies8.fm/
-* https://123free.net/
-* https://hdzer.com/
-* https://watchzer.com/
-* https://wat32.tv/
-* https://allzer.com/
-* https://www.fast32.com/
-* https://www1.xmovies8.io/
-* https://fastzer.com/
-* https://moviesonline.fm/
-* https://123hulu.com/
-* http://gomovies123.watch/
-* https://putlocker.vc
-* https://123enjoy.net/
-* https://www1.putlockers.sh/
-* https://www1.moviesin.co/
-* https://www2.putlockers.tw/
-* https://seriesonline.bz/
-* https://www2.putlockers.gy/
-* https://www1.fmovies.gs/
-* https://www2.putlockers.ws/
-* https://primewire.mn/
-* https://movieload.net/
-* https://fmovie.ac/
-* https://5movies.fm/
-* https://fmovies.gy/
-* https://www1.ezlive.tv/
-* https://www1.f123movies.com/
-* https://kat.mn/
+* <https://sockshare.fm/>
+* <https://sockshare.mn/>
+* <https://sockshare1.com/>
+* <https://www4.123movies.net/>
+* <https://www1.123movies.mn/>
+* <https://0123movies4u.com/>
+* <https://wifimovies.net>
+* <https://www4.xmovies8.fm/>
+* <https://123free.net/>
+* <https://hdzer.com/>
+* <https://watchzer.com/>
+* <https://wat32.tv/>
+* <https://allzer.com/>
+* <https://www.fast32.com/>
+* <https://www1.xmovies8.io/>
+* <https://fastzer.com/>
+* <https://moviesonline.fm/>
+* <https://123hulu.com/>
+* <http://gomovies123.watch/>
+* <https://putlocker.vc>
+* <https://123enjoy.net/>
+* <https://www1.putlockers.sh/>
+* <https://www1.moviesin.co/>
+* <https://www2.putlockers.tw/>
+* <https://seriesonline.bz/>
+* <https://www2.putlockers.gy/>
+* <https://www1.fmovies.gs/>
+* <https://www2.putlockers.ws/>
+* <https://primewire.mn/>
+* <https://movieload.net/>
+* <https://fmovie.ac/>
+* <https://5movies.fm/>
+* <https://fmovies.gy/>
+* <https://www1.ezlive.tv/>
+* <https://www1.f123movies.com/>
+* <https://kat.mn/>
 
 ***
 
@@ -2490,13 +2490,13 @@ Add the following commands to a search to manually scrape each site.
 
 ## Switch Homebrew Discord Servers
 
-* https://discord.gg/switchway
-* https://discord.gg/pytKu48eMk
-* https://discord.gg/EZMAupDvWE
-* https://discord.gg/UkwVjft
-* https://discord.gg/MfXkAMwW6Z
-* https://discord.gg/tuT59S2zcv
-* https://discord.gg/VAadvt9KFH
+* <https://discord.gg/switchway>
+* <https://discord.gg/pytKu48eMk>
+* <https://discord.gg/EZMAupDvWE>
+* <https://discord.gg/UkwVjft>
+* <https://discord.gg/MfXkAMwW6Z>
+* <https://discord.gg/tuT59S2zcv>
+* <https://discord.gg/VAadvt9KFH>
 
 ***
 
@@ -2520,9 +2520,9 @@ Add the following commands to a search to manually scrape each site.
 ## TeamDrive Generators
 
 * Note that these can and do get deleted
-* https://td.msgsuite.workers.dev/
+* <https://td.msgsuite.workers.dev/>
 * https://t.me/MSGuite\_SD\_Creator\_Bot + [Telegram Chat](https://t.me/msgsuitechat)
-* https://bdi-generator.hashhackers.com/ (Google Drive Index Code Generator)
+* <https://bdi-generator.hashhackers.com/> (Google Drive Index Code Generator)
 
 ***
 
@@ -2557,32 +2557,32 @@ Add the following commands to a search to manually scrape each site.
 
 * https://t.me/Anime\_Ocean\_Backup
 * https://t.me/Anime\_Gallery
-* https://t.me/anidlws
-* https://t.me/AnimeCrunch
+* <https://t.me/anidlws>
+* <https://t.me/AnimeCrunch>
 * https://t.me/Anime\_Library
 * https://t.me/for\_otaku
 * https://t.me/Any\_Animebot
-* http://t.me/AUTOxANIME/2
-* https://t.me/AutoAnimeBot
+* <http://t.me/AUTOxANIME/2>
+* <https://t.me/AutoAnimeBot>
 * https://t.me/AnimeGuardian\_bot
 * https://t.me/Hd\_Anime\_Series
-* https://t.me/joinchat/AAAAAFSIbbpvGcBgRC6IKw
-* https://t.me/animeze
-* https://t.me/AnimeIndexOfficial
-* https://t.me/myanimetvbot
-* https://t.me/otakulounge
-* https://t.me/animeinc
-* https://t.me/AnimeTeleNS
+* <https://t.me/joinchat/AAAAAFSIbbpvGcBgRC6IKw>
+* <https://t.me/animeze>
+* <https://t.me/AnimeIndexOfficial>
+* <https://t.me/myanimetvbot>
+* <https://t.me/otakulounge>
+* <https://t.me/animeinc>
+* <https://t.me/AnimeTeleNS>
 * https://t.me/anime\_a\_to\_z
 * https://t.me/Anime\_Flix\_Pro
-* https://t.me/Animereq45
+* <https://t.me/Animereq45>
 * https://t.me/Anime\_1080p\_720p\_480p
-* https://t.me/Animeworld001
-* https://t.me/soulreaperzone
-* https://t.me/AnimeKingdomX
-* https://t.me/Kingdomofanimeseries
+* <https://t.me/Animeworld001>
+* <https://t.me/soulreaperzone>
+* <https://t.me/AnimeKingdomX>
+* <https://t.me/Kingdomofanimeseries>
 * https://t.me/AnimeLibrary\_Movies
-* https://t.me/animemovies
+* <https://t.me/animemovies>
 * https://t.me/Ongoing\_animes
 
 ***
@@ -2590,15 +2590,15 @@ Add the following commands to a search to manually scrape each site.
 ## Telegram Audiobook Downloads
 
 * https://t.me/BOOK\_HOUSE\_INTERNATIONAL
-* https://t.me/AudiobooksArchive
+* <https://t.me/AudiobooksArchive>
 * https://t.me/Audiobooks\_Collection
-* https://t.me/TheBestAudible
-* https://t.me/audiobookjunkie
+* <https://t.me/TheBestAudible>
+* <https://t.me/audiobookjunkie>
 * https://t.me/audiobooks\_English
 * https://t.me/books\_in\_english\_free
 * https://t.me/Ebooks\_AudioBooks
 * https://t.me/online\_audiobooks
-* https://t.me/Audoroom
+* <https://t.me/Audoroom>
 
 ***
 
@@ -2688,28 +2688,28 @@ Add the following commands to a search to manually scrape each site.
 * https://t.me/BOOK\_HOUSE\_INTERNATIONAL
 * https://t.me/Ebooks\_Encyclopedia27
 * https://t.me/Books\_worldd
-* https://t.me/Ebooksenglish
+* <https://t.me/Ebooksenglish>
 * https://t.me/free\_ebooks\_pdfs
 * https://t.me/English\_Hindi\_Novels\_Magazine
-* https://t.me/BooksThief
+* <https://t.me/BooksThief>
 * https://t.me/iBooks\_Bot
-* https://t.me/booksmania
-* https://t.me/livresdomainepublic
-* https://t.me/bookdownbot
-* https://t.me/ebooksdlbot
+* <https://t.me/booksmania>
+* <https://t.me/livresdomainepublic>
+* <https://t.me/bookdownbot>
+* <https://t.me/ebooksdlbot>
 * https://t.me/libsan\_bot
-* https://t.me/alejandriak
-* https://t.me/yourlibraries
-* https://t.me/TheEbookStop
-* https://t.me/bookclub7
-* https://t.me/BookCrush
-* https://t.me/bookhome3
-* https://t.me/BooksStreet
-* https://t.me/BookWizardTheNewest
+* <https://t.me/alejandriak>
+* <https://t.me/yourlibraries>
+* <https://t.me/TheEbookStop>
+* <https://t.me/bookclub7>
+* <https://t.me/BookCrush>
+* <https://t.me/bookhome3>
+* <https://t.me/BooksStreet>
+* <https://t.me/BookWizardTheNewest>
 * https://t.me/Dao\_Qigong\_Taiji\_TCM\_ebooks
 * https://t.me/lib\_of\_dos\_old\_vk
-* https://t.me/LibrariesofTelegram
-* https://t.me/libraryofdos
+* <https://t.me/LibrariesofTelegram>
+* <https://t.me/libraryofdos>
 * [More Telegram eBook Channels](https://duckduckgo.com/?q=site%3At.me+books\&ia=web)
 
 ***
@@ -2861,32 +2861,32 @@ Add the following commands to a search to manually scrape each site.
 
 **Telegram Bots**
 
-* https://t.me/TorrentBots (List)
-* https://t.me/kltorrents
+* <https://t.me/TorrentBots> (List)
+* <https://t.me/kltorrents>
 * https://t.me/torrent\_drive\_direct\_llinks\_bot
 * https://t.me/torrentdrive\_bot
 * https://t.me/torrent\_2\_drive
 * https://t.me/torrent\_drive
-* https://t.me/torrentbcloudnew
-* https://t.me/mirrorLeechTelegramBot
-* https://t.me/Punishercloud
+* <https://t.me/torrentbcloudnew>
+* <https://t.me/mirrorLeechTelegramBot>
+* <https://t.me/Punishercloud>
 * https://t.me/KS\_LeechStore1
 * https://t.me/TorrentLeech\_v
 * https://t.me/torrent\_mirror\_drive
-* https://t.me/slfilmtv
+* <https://t.me/slfilmtv>
 * https://t.me/torrent\_uploader
-* https://t.me/Punisherdiscussion
-* https://t.me/RakaPublicLeech
-* https://t.me/TorrentPadu
-* https://t.me/joinchat/Uq7xK07NNu2v4efS
-* https://t.me/gtorr
-* https://t.me/requestinggroup
-* https://github.com/yash-dk/TorToolkit-Telegram
+* <https://t.me/Punisherdiscussion>
+* <https://t.me/RakaPublicLeech>
+* <https://t.me/TorrentPadu>
+* <https://t.me/joinchat/Uq7xK07NNu2v4efS>
+* <https://t.me/gtorr>
+* <https://t.me/requestinggroup>
+* <https://github.com/yash-dk/TorToolkit-Telegram>
 * https://pythonrepo.com/repo/ayushteke-slam\_aria\_mirror\_bot\_HEROKU
-* https://github.com/ogkunald/Torrent-Drive-Telegram-Bot-Using-Colab
-* https://t.me/TorrentBots (list)
-* https://t.me/TorrentLeechingGroup (list)
-* https://t.me/MirrorBots (list)
+* <https://github.com/ogkunald/Torrent-Drive-Telegram-Bot-Using-Colab>
+* <https://t.me/TorrentBots> (list)
+* <https://t.me/TorrentLeechingGroup> (list)
+* <https://t.me/MirrorBots> (list)
 
 ***
 
@@ -3086,13 +3086,13 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 
 ## WCO Clones
 
-* https://www.thewatchcartoononline.tv/
-* https://www.wcostream.com/
-* https://www.wcoforever.com/
-* https://www.wcoanimesub.tv/
-* https://www.wcoanimedub.tv/
-* https://www.wcofun.net/
-* https://www.wcoforever.net/
+* <https://www.thewatchcartoononline.tv/>
+* <https://www.wcostream.com/>
+* <https://www.wcoforever.com/>
+* <https://www.wcoanimesub.tv/>
+* <https://www.wcoanimedub.tv/>
+* <https://www.wcofun.net/>
+* <https://www.wcoforever.net/>
 
 ***
 
@@ -3301,15 +3301,15 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 
 ## Z-Library Mirrors
 
-* https://b-ok.org/
-* https://b-ok.cc/
-* https://b-ok.xyz/
-* https://b-ok.asia/
-* https://booksc.org/
-* https://b-ok.global/
-* https://b-ok.lat/
-* https://b-ok.africa/
-* https://ua1lib.org/
+* <https://b-ok.org/>
+* <https://b-ok.cc/>
+* <https://b-ok.xyz/>
+* <https://b-ok.asia/>
+* <https://booksc.org/>
+* <https://b-ok.global/>
+* <https://b-ok.lat/>
+* <https://b-ok.africa/>
+* <https://ua1lib.org/>
 
 ***
 

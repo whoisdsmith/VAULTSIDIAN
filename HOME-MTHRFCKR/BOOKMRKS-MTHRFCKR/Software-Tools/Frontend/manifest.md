@@ -1,7 +1,7 @@
 # Manifest
 
-- https://web.dev/add-manifest/
-- https://developer.mozilla.org/en-US/docs/Web/Manifest
+- <https://web.dev/add-manifest/>
+- <https://developer.mozilla.org/en-US/docs/Web/Manifest>
 
 Make website downloadable.
 

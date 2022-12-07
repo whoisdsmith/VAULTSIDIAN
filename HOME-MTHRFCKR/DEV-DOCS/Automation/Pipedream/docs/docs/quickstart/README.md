@@ -12,7 +12,7 @@ First, create a new workflow by clicking **New** from [https://pipedream.com/wor
 
 ### Add an HTTP / Webhook trigger
 
-Pipedream will launch the workflow builder. For this example, select the **HTTP / Webhook Requests** trigger. 
+Pipedream will launch the workflow builder. For this example, select the **HTTP / Webhook Requests** trigger.
 
 ![./image-20220123213843066](./image-20220123213843066.png)
 
@@ -62,11 +62,11 @@ Before we send data to Google Sheets, let's use the npm [`sentiment`](https://ww
 
 That will open the **Add a step** menu. Select **Run custom code**.
 
-![./image-20220123220128877](./image-20220123220128877.png) 
+![./image-20220123220128877](./image-20220123220128877.png)
 
 Pipedream will add a Node.js code step. Rename the step to **sentiment**.
 
-![image-20220123221849231](./image-20220123221849231.png) 
+![image-20220123221849231](./image-20220123221849231.png)
 
 Next, add the following code to the code step:
 
@@ -81,7 +81,7 @@ export default defineComponent({
 })
 ```
 
-This code imports the npm package, passes the message we sent to our trigger to the `analyze()` function by referencing `steps.trigger.event.body.message` and then returns the result. 
+This code imports the npm package, passes the message we sent to our trigger to the `analyze()` function by referencing `steps.trigger.event.body.message` and then returns the result.
 
 ::: tip
 To use any npm package on Pipedream, just `import` it. There's no `npm install` or `package.json` required.
@@ -89,7 +89,7 @@ To use any npm package on Pipedream, just `import` it. There's no `npm install` 
 
 ::: tip
 Any data you `return` from a step is exported so it can be inspected and referenced it in future steps via the `steps` object. In this example, return values will be exported to `steps.sentiment.$return_value` because we renamed the step to **sentiment** .
-::: 
+:::
 
 Your code step should now look like the screenshot below. To run the step and test the code, click the **Test** button.
 
@@ -103,11 +103,11 @@ You should see the results of the sentiment analysis when the test is complete.
 
 When you **Test** a step, only the current step is executed. Use the caret to test different ranges of steps including the entire workflow.
 
-::: 
+:::
 
 ### Save data to Google Sheets
 
-Next, create a Google Sheet and add **Timestamp**, **Message** and **Sentiment Score** to the first row. These labels will act as our column headers amd will help us configure the Google Sheets step of the workflow. 
+Next, create a Google Sheet and add **Timestamp**, **Message** and **Sentiment Score** to the first row. These labels will act as our column headers amd will help us configure the Google Sheets step of the workflow.
 
 ![image-20220125184754078](./image-20220125184754078.png)
 
@@ -135,7 +135,7 @@ If prompted, you must check the box for Pipedream to **See, edit, create and del
 
 Learn more about Pipedream's [privacy and security policy](/privacy-and-security/).
 
-::: 
+:::
 
 When you complete connecting your Google account, the window should close and you should return to Pipedream. Your connected account should automatically be selected. Next, select your spreadsheet from the dropdown menu:
 
@@ -161,7 +161,7 @@ Next, let's use autocomplete to enter a value for the **Message** column. First,
 
 ![image-20220125191907876](./image-20220125191907876.png)
 
-Finally, let's copy a reference from a previous step. Scroll up to the `sentiment` step and click the **Copy Path** link next to the score. 
+Finally, let's copy a reference from a previous step. Scroll up to the `sentiment` step and click the **Copy Path** link next to the score.
 
 ![image-20220125192301634](./image-20220125192301634.png)
 
@@ -185,7 +185,7 @@ Then click **Deploy** to run your workflow on every trigger event.
 
 ![image-20220125200445675](./image-20220125200445675.png)
 
-When your workflow deploys, you will be redirected to the **Inspector**. Your workflow is now live. 
+When your workflow deploys, you will be redirected to the **Inspector**. Your workflow is now live.
 
 ![image-20220125193507453](./image-20220125193507453.png)
 
@@ -203,6 +203,6 @@ The event will instantly appear in the event list. Select it to inspect the work
 
 Finally, you can return to Google Sheets to validate that the new data was automatically inserted.
 
-![image-20220125194510308](./image-20220125194510308.png) 
+![image-20220125194510308](./image-20220125194510308.png)
 
 Congratulations! You completed the quickstart and should now understand the basic patterns for workflow development. Next, try creating your own workflows and check out the docs to learn more!

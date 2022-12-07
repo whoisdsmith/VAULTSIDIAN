@@ -18,7 +18,7 @@ pretty space words
 
 **faculae** \- bright patches that are visible on the Sun’s surface.  
 
-**lunation** - the interval of a complete lunar cycle, between one new Moon and the next. 
+**lunation** - the interval of a complete lunar cycle, between one new Moon and the next.
 
 **interstellar** - occurring or situated between stars.  
 

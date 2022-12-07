@@ -1,4 +1,5 @@
-# I Only Feel at Home When the Darkness Consumes Me.
+# I Only Feel at Home When the Darkness Consumes Me
+
 ---
 
 ## [Uncategorized](https://whoisdsmith.ctrlaltback.space/category/uncategorized/) · August 20, 2011

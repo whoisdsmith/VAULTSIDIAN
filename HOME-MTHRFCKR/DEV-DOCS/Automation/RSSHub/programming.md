@@ -84,10 +84,10 @@ Category
 
 GitHub provides some official RSS feeds:
 
--   Repo releases: https://github.com/:owner/:repo/releases.atom
--   Repo commits: https://github.com/:owner/:repo/commits.atom
--   User activities: https://github.com/:user.atom
--   Private feed: https://github.com/:user.private.atom?token=:secret (You can find **Subscribe to your news feed** in [dashboard](https://github.com) page after login)
+- Repo releases: <https://github.com/:owner/:repo/releases.atom>
+- Repo commits: <https://github.com/:owner/:repo/commits.atom>
+- User activities: <https://github.com/:user.atom>
+- Private feed: <https://github.com/:user.private.atom?token=:secret> (You can find **Subscribe to your news feed** in [dashboard](https://github.com) page after login)
 
 :::
 
@@ -141,12 +141,12 @@ For instance, the `/github/topics/framework/l=php&o=desc&s=stars` route will gen
 | --------- | --------- | ----------- | --------------- |
 | `DIYgod`  | `RSSHub`  | `master`    | `lib/router.js` |
 
-> -   If there are special characters such as `/` in the **branch name**, they need to be encoded with urlencode, usually `/` needs to be replaced with `%2f`
-> -   If there are special characters in the **file path**, you need to use urlencode to encode them, but the file path can be recognized normally `/` characters
-> -   If the **file path** ends with `.rss`, `.atom`, `.json`, you need to replace the `.` in the suffix with `%2e`
->     > Reeder will make an error when subscribing to `% 2erss` or similar suffixes. At this time, add`.rss` after the route to subscribe
+> - If there are special characters such as `/` in the **branch name**, they need to be encoded with urlencode, usually `/` needs to be replaced with `%2f`
+> - If there are special characters in the **file path**, you need to use urlencode to encode them, but the file path can be recognized normally `/` characters
+> - If the **file path** ends with `.rss`, `.atom`, `.json`, you need to replace the `.` in the suffix with `%2e`
+> > Reeder will make an error when subscribing to `% 2erss` or similar suffixes. At this time, add`.rss` after the route to subscribe
 >     >
->     > Such as: replace `https://rsshub.app/github/file/DIYgod/RSSHub/master/lib/router%2ejs` to `https://rsshub.app/github/file/DIYgod/RSSHub/master/lib/router%2ejs.rss`
+> > Such as: replace `https://rsshub.app/github/file/DIYgod/RSSHub/master/lib/router%2ejs` to `https://rsshub.app/github/file/DIYgod/RSSHub/master/lib/router%2ejs.rss`
 
 </RouteEn>
 

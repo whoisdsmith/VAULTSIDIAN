@@ -9,6 +9,7 @@ Writing, generating, publishing and consuming documentation for web deliverables
 [![Twitter](https://img.shields.io/badge/follow-twitter-55acee.svg?style=flat-square)](https://twitter.com/FrontendDir)
 
 -----------------------------------------
+
 + **[Atomic Docs](http://atomicdocs.io/)**: Atomic Docs is a styleguide generator and component manager. Atomic Docs is built in PHP. Inspired by Brad Frost's Atomic Design principles.
 + **[Daux](http://daux.io/)**: Daux.io is a documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly.
 + **[Dexy](http://www.dexy.it/)**: Dexy makes it easier to create technical documents by doing the repetitive parts for you. Dexy provides a consistent interface to tools and scripts so you don't have to run them manually.
@@ -21,7 +22,6 @@ Writing, generating, publishing and consuming documentation for web deliverables
 + **[devdocs.io](http://devdocs.io/)**: Devdocs is an all-in-one API documentation reader with a fast, organized, and consistent interface.
 + **[dox](https://github.com/visionmedia/dox)**: JavaScript documentation generator for node using markdown and jsdoc.
 + **[styledocco](http://jacobrask.github.io/styledocco/)**: StyleDocco generates documentation and style guide documents from your stylesheets.
-
 
 ------------------
 

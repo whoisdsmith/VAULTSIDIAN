@@ -1,22 +1,22 @@
 Events trigger workflow executions. The event that triggers your workflow depends on the trigger you select for your workflow:
 
--   [HTTP triggers](https://pipedream.com/docs/workflows/steps/triggers/#http) invoke your workflow on HTTP requests.
--   [Cron triggers](https://pipedream.com/docs/workflows/steps/triggers/#schedule) invoke your workflow on a time schedule (e.g., on an interval).
--   [Email triggers](https://pipedream.com/docs/workflows/steps/triggers/#email) invoke your workflow on inbound emails.
--   [Event sources](https://pipedream.com/docs/workflows/steps/triggers/#app-based-triggers) invoke your workflow on events from apps like Twitter, Google Calendar, and more.
+- [HTTP triggers](https://pipedream.com/docs/workflows/steps/triggers/#http) invoke your workflow on HTTP requests.
+- [Cron triggers](https://pipedream.com/docs/workflows/steps/triggers/#schedule) invoke your workflow on a time schedule (e.g., on an interval).
+- [Email triggers](https://pipedream.com/docs/workflows/steps/triggers/#email) invoke your workflow on inbound emails.
+- [Event sources](https://pipedream.com/docs/workflows/steps/triggers/#app-based-triggers) invoke your workflow on events from apps like Twitter, Google Calendar, and more.
 
 ___
 
--   [Selecting a test event](https://pipedream.com/docs/#selecting-a-test-event)
--   [Examining event data](https://pipedream.com/docs/#examining-event-data)
--   [Copying references to event data](https://pipedream.com/docs/#copying-references-to-event-data)
--   [Copying the values of event data](https://pipedream.com/docs/#copying-the-values-of-event-data)
--   [Event format](https://pipedream.com/docs/#event-format)
-    -   [HTTP](https://pipedream.com/docs/#http)
-    -   [Cron Scheduler](https://pipedream.com/docs/#cron-scheduler)
-    -   [Email](https://pipedream.com/docs/#email)
--   [steps.trigger.context](https://pipedream.com/docs/#steps-trigger-context)
--   [Limits on event history](https://pipedream.com/docs/#limits-on-event-history)
+- [Selecting a test event](https://pipedream.com/docs/#selecting-a-test-event)
+- [Examining event data](https://pipedream.com/docs/#examining-event-data)
+- [Copying references to event data](https://pipedream.com/docs/#copying-references-to-event-data)
+- [Copying the values of event data](https://pipedream.com/docs/#copying-the-values-of-event-data)
+- [Event format](https://pipedream.com/docs/#event-format)
+  - [HTTP](https://pipedream.com/docs/#http)
+  - [Cron Scheduler](https://pipedream.com/docs/#cron-scheduler)
+  - [Email](https://pipedream.com/docs/#email)
+- [steps.trigger.context](https://pipedream.com/docs/#steps-trigger-context)
+- [Limits on event history](https://pipedream.com/docs/#limits-on-event-history)
 
 ## [#](https://pipedream.com/docs/#selecting-a-test-event) Selecting a test event
 

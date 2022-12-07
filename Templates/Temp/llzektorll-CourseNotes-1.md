@@ -14,8 +14,6 @@ Tags::
 
 # ❗ Topic
 
- 
-
 ## 📦 Resources
 
 ## 🔑 Key Points

@@ -12,8 +12,10 @@ Existing raindrop ID
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
+
 ```
 ```
+
 {% endswagger-response %}
 {% endswagger %}
 
@@ -39,8 +41,7 @@ Specify sort order (ascending).
 
 \
 
-
-For example if you want to move raindrop to the first place set this field to 
+For example if you want to move raindrop to the first place set this field to
 
 **0**
 {% endswagger-parameter %}
@@ -86,6 +87,7 @@ For example if you want to move raindrop to the first place set this field to
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
+
 ```javascript
 {
     "result": true,
@@ -94,6 +96,7 @@ For example if you want to move raindrop to the first place set this field to
     }
 }
 ```
+
 {% endswagger-response %}
 {% endswagger %}
 
@@ -123,8 +126,7 @@ Specify sort order (ascending).
 
 \
 
-
-For example if you want to move raindrop to the first place set this field to 
+For example if you want to move raindrop to the first place set this field to
 
 **0**
 {% endswagger-parameter %}
@@ -170,6 +172,7 @@ For example if you want to move raindrop to the first place set this field to
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
+
 ```javascript
 {
     "result": true,
@@ -178,16 +181,17 @@ For example if you want to move raindrop to the first place set this field to
     }
 }
 ```
+
 {% endswagger-response %}
 {% endswagger %}
 
 {% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/raindrop/{id}" method="delete" summary="Remove raindrop" %}
 {% swagger-description %}
-When you remove raindrop it will be moved to user 
+When you remove raindrop it will be moved to user
 
 `Trash`
 
- collection. But if you try to remove raindrop from 
+ collection. But if you try to remove raindrop from
 
 `Trash`
 
@@ -199,17 +203,19 @@ Existing raindrop ID
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
+
 ```javascript
 {
     "result": true
 }
 ```
+
 {% endswagger-response %}
 {% endswagger %}
 
 {% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/raindrop/file" method="put" summary="Upload file" %}
 {% swagger-description %}
-Make sure to send PUT request with 
+Make sure to send PUT request with
 
 [multipart/form-data](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST#example)
 
@@ -229,6 +235,7 @@ Collection Id
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
+
 ```javascript
 {
     "result": true,
@@ -245,9 +252,11 @@ Collection Id
     }
 }
 ```
+
 {% endswagger-response %}
 
 {% swagger-response status="400" description="" %}
+
 ```javascript
 //file is not specified
 {
@@ -270,6 +279,7 @@ Collection Id
   "errorMessage": "File size limit"
 }
 ```
+
 {% endswagger-response %}
 {% endswagger %}
 
@@ -291,6 +301,7 @@ File
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
+
 ```javascript
 {
     "result": true,
@@ -305,9 +316,11 @@ File
     }
 }
 ```
+
 {% endswagger-response %}
 
 {% swagger-response status="400" description="" %}
+
 ```javascript
 //file is not specified
 {
@@ -330,6 +343,7 @@ File
   "errorMessage": "File size limit"
 }
 ```
+
 {% endswagger-response %}
 {% endswagger %}
 
@@ -343,8 +357,10 @@ Existing raindrop ID
 {% endswagger-parameter %}
 
 {% swagger-response status="307" description="" %}
+
 ```http
 Location: https://s3.aws...
 ```
+
 {% endswagger-response %}
 {% endswagger %}

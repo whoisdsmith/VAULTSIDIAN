@@ -48,4 +48,4 @@
 
 ***
 
-## If You Have Any Questions Feel Free to Leave a Comment and We'll Do Our Best to Answer.
+## If You Have Any Questions Feel Free to Leave a Comment and We'll Do Our Best to Answer

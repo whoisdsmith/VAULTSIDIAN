@@ -604,7 +604,7 @@
 * [NHL Streams](https://reddit.nhlstream.nu/) - NHL
 * [NHL66](https://nhl66.ir/) - NHL
 * [MyLiveCricket](http://hd1.mylivecricket.live/), [2](http://my3.mylivecricket.cc/) - Cricket
-* [cric7.net ](http://t20.cric7.net/)- Cricket
+* [cric7.net](http://t20.cric7.net/)- Cricket
 * [CricStream](https://cricstream.me/) - Cricket
 * [jiotv.cf](https://jiotv.cf/) - Cricket
 * [LiveCricket.is](https://mob.livecricket.is/) - Cricket
@@ -802,7 +802,6 @@
 * [Anime DL](https://archive.org/details/animedl4.0\_202004) - Stream & Download Anime in VLC
 * [Crunchyroll.dl](https://github.com/Sakurai07/Crunchyroll.dl) or [Crunchyroll Downloader](https://github.com/hama3254/Crunchyroll-Downloader-v3.0) - Non-Prem Crunchyroll Downloaders
 
-
 ***
 
 ## ► Torrent Apps
@@ -887,7 +886,6 @@
 * [nyaamal](https://github.com/laxyapahuja/nyaamal) - Add torrents DL's to MAL / Anilist
 * [Miru](https://github.com/ThaUnknown/miru) or [anitor-stream](https://github.com/gan-of-culture/anitor-stream) - Stream Anime Torrents
 * [Aniloader](https://github.com/Xanahol/Aniloader) or [AniTorrent](https://github.com/Kajiya-aru/AniTorrent) - Anime Torrent Autodownloader
-
 
 ***
 

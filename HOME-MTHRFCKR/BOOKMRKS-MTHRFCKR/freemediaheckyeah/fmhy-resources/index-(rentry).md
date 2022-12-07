@@ -1,46 +1,46 @@
-#[📛 Adblock / Privacy / Antivirus](https://rentry.co/FMHYAdblock)
+# [📛 Adblock / Privacy / Antivirus](https://rentry.co/FMHYAdblock)
 
 -> **Adblocking Extensions, Privacy Extensions, Privacy Tools, VPN's, Proxies, Antivirus** <-
 
 ***
 ***
 
-#[📺 Movies / TV / Anime / Sports](https://rentry.co/FMHYVideo)
+# [📺 Movies / TV / Anime / Sports](https://rentry.co/FMHYVideo)
 
 -> **Streaming Apps, Streaming Sites, Download Sites, Torrent Apps, Torrent Sites** <-
 
 ***
 ***
 
-#[🎵 Music / Podcasts / Radio](https://rentry.co/FMHYAudio/)
+# [🎵 Music / Podcasts / Radio](https://rentry.co/FMHYAudio/)
 
 -> **Audio Streaming, Audio Downloading, Audio Torrenting** <-
 
 ***
 ***
 
-#[🎮 Gaming / Emulation](https://rentry.co/FMHYGames)
+# [🎮 Gaming / Emulation](https://rentry.co/FMHYGames)
 
 -> **Download Games, Torrent Games, Emulators, ROMs** <-
 
 ***
 ***
 
-#[📗 Books / Comics / Manga](https://rentry.co/FMHYRead)
+# [📗 Books / Comics / Manga](https://rentry.co/FMHYRead)
 
 -> **Books, Comics, Magazines, Newspapers, Light Novels** <-
 
 ***
 ***
 
-#[💾 Downloading](https://rentry.co/FMHYDownload)
+# [💾 Downloading](https://rentry.co/FMHYDownload)
 
 -> **Download Forums, Download Directories, Download Sites** <-
 
 ***
 ***
 
-#[🌀 Torrenting](https://rentry.co/FMHYTorrent)
+# [🌀 Torrenting](https://rentry.co/FMHYTorrent)
 
 -> **Torrent Clients, Torrent Sites, Tracker Invites** <-
 
@@ -54,7 +54,7 @@
 ***
 ***
 
-#[🔧 Tools](https://rentry.co/FMHYTools)
+# [🔧 Tools](https://rentry.co/FMHYTools)
 
 -> **General Tools, Internet Tools, System Tools, Gaming Tools** <-
 
@@ -68,35 +68,35 @@
 ***
 ***
 
-#[📱 Android / iOS](https://rentry.co/FMHYAndroid)
+# [📱 Android / iOS](https://rentry.co/FMHYAndroid)
 
 -> **Adblocking, Emulators, APKs, Apps, Torrenting, Streaming** <-
 
 ***
 ***
 
-#[🐧 Linux / MacOS](https://rentry.co/FMHYLinux)
+# [🐧 Linux / MacOS](https://rentry.co/FMHYLinux)
 
 -> **Apps, Tools, Adblocking, Privacy, Software, Gaming** <-
 
 ***
 ***
 
-#[🌏 Non-English](https://rentry.co/FMHYnon-eng)
+# [🌏 Non-English](https://rentry.co/FMHYnon-eng)
 
 -> **International Piracy Sites** <-
 
 ***
 ***
 
-#[🏴‍☠️ Beginners Guide](https://rentry.org/Piracy-BG)
+# [🏴‍☠️ Beginners Guide](https://rentry.org/Piracy-BG)
 
 -> **Beginners Guide to Piracy** <-
 
 ***
 ***
 
-#[🔒 Backups](https://rentry.co/FMHYbackups)
+# [🔒 Backups](https://rentry.co/FMHYbackups)
 
 -> **FMHY Backups** <-
 

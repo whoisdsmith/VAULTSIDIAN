@@ -11,27 +11,27 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 ## Contents
 
 - [Official Resources](#official-resources)
-    - [Workflow Examples](#workflow-examples)
-    - [Official Actions](#official-actions)
-    - [Create your Actions](#create-your-actions)
+  - [Workflow Examples](#workflow-examples)
+  - [Official Actions](#official-actions)
+  - [Create your Actions](#create-your-actions)
 - [Community Resources](#community-resources)
-    - [GitHub Tools and Management](#github-tools-and-management)
-    - [Collection of Actions](#collection-of-actions)
-    - [Utility](#utility)
-    - [Static Analysis](#static-analysis)
-    - [Dynamic Analysis](#dynamic-analysis)
-    - [Monitoring](#monitoring)
-    - [Pull Requests](#pull-requests)
-    - [GitHub Pages](#github-pages)
-    - [Notifications and Messages](#notifications-and-messages)
-    - [Deployment](#deployment)
-    - [External Services](#external-services)
-    - [Frontend Tools](#frontend-tools)
-    - [Machine Learning Ops](#machine-learning-ops)
-    - [Build](#build)
-    - [Database](#database)
-    - [Localization](#localization)
-    - [Cheat Sheet](#cheat-sheet)
+  - [GitHub Tools and Management](#github-tools-and-management)
+  - [Collection of Actions](#collection-of-actions)
+  - [Utility](#utility)
+  - [Static Analysis](#static-analysis)
+  - [Dynamic Analysis](#dynamic-analysis)
+  - [Monitoring](#monitoring)
+  - [Pull Requests](#pull-requests)
+  - [GitHub Pages](#github-pages)
+  - [Notifications and Messages](#notifications-and-messages)
+  - [Deployment](#deployment)
+  - [External Services](#external-services)
+  - [Frontend Tools](#frontend-tools)
+  - [Machine Learning Ops](#machine-learning-ops)
+  - [Build](#build)
+  - [Database](#database)
+  - [Localization](#localization)
+  - [Cheat Sheet](#cheat-sheet)
 - [Tutorials](#tutorials)
 
 ## Official Resources
@@ -39,8 +39,8 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Official Site](https://github.com/features/actions)
 - [Official Documentation](https://help.github.com/en/actions)
 - [Official Actions organization](https://github.com/actions)
-    - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments.
-    - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions.
+  - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments.
+  - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions.
 - [GitHub Blog Announcement](https://github.blog/2018-10-17-action-demos/)
 
 ### Workflow Examples

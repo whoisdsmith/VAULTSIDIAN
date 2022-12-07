@@ -42,9 +42,9 @@ The background of the pending project.
 ## Objectives and Acceptance Criteria
 
 - Anticipated business goals
-	- main target
+  - main target
 - Staged goals
-	- Quality goal
+  - Quality goal
 - Quantitative acceptance criteria
 
 ## Strategy

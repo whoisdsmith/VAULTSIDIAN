@@ -35,7 +35,7 @@ Interesting Code:
 
 ```
 def something():
-	print("Interesting")
+ print("Interesting")
 something()
 ```
 

@@ -3,12 +3,11 @@
 ---
 
 %% Begin Waypoint %%
+
 - **[champagne-piracy-wiki](./champagne-piracy-wiki.md)**
-	- [champagne-piracy-wiki](./champagne-piracy-wiki.md)
+  - [champagne-piracy-wiki](./champagne-piracy-wiki.md)
 
 %% End Waypoint %%
-
-
 
 ![CHAMPAGNE](https://cdn.discordapp.com/attachments/972766815224733747/996814960573284452/CHAMPAGNE.png)
 
@@ -30,23 +29,23 @@ Please make sure to have an adblocker installed before using any resources here.
 
 Important Links
 
-These will come in handy with what you are about to attempt. 
+These will come in handy with what you are about to attempt.
 
 **TORRENT CLIENTS**
 
-  * [qBittorrent](https://www.qbittorrent.org/)
-  * [Transmission](https://transmissionbt.com/)
+- [qBittorrent](https://www.qbittorrent.org/)
+- [Transmission](https://transmissionbt.com/)
 
 **DOWNLOAD MANAGER**
 
-  * [IDM](https://www.internetdownloadmanager.com/download.html)
-    * Use [this](https://github.com/J2TEAM/idm-trial-reset) to reset the trial.
-  * [jDownloader](https://jdownloader.org/)
-    * [How to disbale the ads.](https://superuser.com/questions/1297098/how-to-disable-ads-in-jdownloader)
+- [IDM](https://www.internetdownloadmanager.com/download.html)
+  - Use [this](https://github.com/J2TEAM/idm-trial-reset) to reset the trial.
+- [jDownloader](https://jdownloader.org/)
+  - [How to disbale the ads.](https://superuser.com/questions/1297098/how-to-disable-ads-in-jdownloader)
 
 **VPN**
 
-  * [Proton VPN](https://protonvpn.com/download) The free version is fantastic and offers great speeds. Servers in Netherlands, US and Japan.
+- [Proton VPN](https://protonvpn.com/download) The free version is fantastic and offers great speeds. Servers in Netherlands, US and Japan.
 
 * * *
 
@@ -63,11 +62,13 @@ These will come in handy with what you are about to attempt.
       5. French Streaming
       6. Spanish Streaming
       7. German Streaming
+
     2. Watch Asian Dramas & Movies!
     3. Watch Live Sports & Replays!
     4. Watch IPTV / Live TV!
     5. Watch Anime Online!
     6. Watch Cartoons Online!
+
   4. Windows & MAC Software
     1. RANDOM SOFTWARE UPLOADS
   5. Mobile Software & Games
@@ -110,4 +111,4 @@ These will come in handy with what you are about to attempt.
 
 [Direct Links to Other Useful Resources!](Direct%20Links%20to%20Other%20Useful%20Resources!.md)
 
-[todo](../awesome-piracy/todo.md) 
+[todo](../awesome-piracy/todo.md)

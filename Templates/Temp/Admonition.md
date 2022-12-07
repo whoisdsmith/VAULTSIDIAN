@@ -1,5 +1,6 @@
 
 ---
+
 creation date: September 7th 2021
 last modified date: September 7th 2021
 aliases: []
@@ -11,15 +12,15 @@ Secondary Categories: [[02 - Obsidian](02%20-%20Obsidian.md) - [[02 - Resources]
 Links: [[Plugin]] - [[Style]]  
 Search Tag: #📖  
 
-# [[../../../../../..//Templates/Template%20Hub/Templates/Obsidian-Vault-Structure/03%20-%20Content/Admonition.md]]:
+# [[../../../../../..//Templates/Template%20Hub/Templates/Obsidian-Vault-Structure/03%20-%20Content/Admonition.md]]
 
-## Description:
+## Description
 
 Adds admonition block-styled content to Obsidian.md, styled after [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/reference/admonitions/)
 
 ![](https://raw.githubusercontent.com/valentine195/obsidian-admonition/master/images/all.gif)
 
-## Installation:
+## Installation
 
 1. Admonition is a registered Obsidian [[02 - Plugins#Community Plugins]] and can be installed directly from `Settings > Community Plugins > Browse`
 
@@ -27,11 +28,11 @@ Adds admonition block-styled content to Obsidian.md, styled after [Material for 
 
 1. Nothing required beyond installation for default admonition block element display
 2. Would recommend enabling the
-	1. 'copy' button permitting the copying of content directly from the blocks
-	
+ 1. 'copy' button permitting the copying of content directly from the blocks
+ 
 ___
 
-## Resources:
+## Resources
 
 | Hyperlink                                                                     | Info |
 | ----------------------------------------------------------------------------- | ---- |

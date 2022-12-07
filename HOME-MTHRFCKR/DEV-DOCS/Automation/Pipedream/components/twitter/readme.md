@@ -38,7 +38,7 @@ Workflows are a sequence of linear [steps](https://docs.pipedream.com/workflows/
 
 - Trigger your workflow on any [
 
-event](https://pipedream.com/sources/new?app=twitter), a different event (e.g. [HTTP requests](https://docs.pipedream.com/workflows/steps/triggers/#http) or a [schedule](https://docs.pipedream.com/workflows/steps/triggers/#cron-scheduler)).
+event](<https://pipedream.com/sources/new?app=twitter>), a different event (e.g. [HTTP requests](https://docs.pipedream.com/workflows/steps/triggers/#http) or a [schedule](https://docs.pipedream.com/workflows/steps/triggers/#cron-scheduler)).
 
 - Add steps to run [Node.js code](https://docs.pipedream.com/workflows/steps/code/) (using virtually any npm package) and [pre-built actions](https://docs.pipedream.com/workflows/steps/actions/).
 - Steps are executed in the order they appear in your workflow.

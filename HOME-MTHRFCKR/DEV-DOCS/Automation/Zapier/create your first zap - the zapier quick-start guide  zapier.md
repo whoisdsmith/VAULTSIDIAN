@@ -4,10 +4,10 @@ Before you create a Zap, it's helpful to think about what you're trying to accom
 
 Start by breaking down the problem you're trying to solve into the following:
 
--   **What apps do I want to use?** (A form app and a spreadsheet app)
--   **What event will trigger my Zap?** (When there’s a new submission in our form app)
--   **What event will my Zap perform?** (Add the form submission to a spreadsheet)
--   **What information do I want to move between those apps?** "(The contact’s name, email address, and the reason for contacting us)
+- **What apps do I want to use?** (A form app and a spreadsheet app)
+- **What event will trigger my Zap?** (When there’s a new submission in our form app)
+- **What event will my Zap perform?** (Add the form submission to a spreadsheet)
+- **What information do I want to move between those apps?** "(The contact’s name, email address, and the reason for contacting us)
 
 ![Images of logos of apps Zapier works with](https://cdn.zappy.app/f059ad939b205836d2957612ba405177.png)
 
@@ -15,10 +15,10 @@ Zapier works with thousands of apps, but available triggers and actions vary by 
 
 We'll walk you through how to set up your Zap with our form-to-spreadsheet example. Here are the steps:
 
-1.  Prepare your spreadsheet and form.
-2.  Set up your trigger step: [Select your trigger app and event](https://zapier.com/learn/zapier-quick-start-guide/quick-start-create-zap/#triggerapp), [connect to your app account and customize your trigger event](https://zapier.com/learn/zapier-quick-start-guide/quick-start-create-zap/#connecttrigger), and [test your trigger.](https://zapier.com/learn/zapier-quick-start-guide/quick-start-create-zap/#testtrigger)
-3.  Set up your action: [Select your action app and event](https://zapier.com/learn/zapier-quick-start-guide/quick-start-create-zap/#actionapp), [connect to your app account and customize your action event](https://zapier.com/learn/zapier-quick-start-guide/quick-start-create-zap/#connectaction), and [map your fields.](https://zapier.com/learn/zapier-quick-start-guide/quick-start-create-zap/#fieldmapping)
-4.  [Test your Zap.](https://zapier.com/learn/zapier-quick-start-guide/quick-start-create-zap/#testzap)
+1. Prepare your spreadsheet and form.
+2. Set up your trigger step: [Select your trigger app and event](https://zapier.com/learn/zapier-quick-start-guide/quick-start-create-zap/#triggerapp), [connect to your app account and customize your trigger event](https://zapier.com/learn/zapier-quick-start-guide/quick-start-create-zap/#connecttrigger), and [test your trigger.](https://zapier.com/learn/zapier-quick-start-guide/quick-start-create-zap/#testtrigger)
+3. Set up your action: [Select your action app and event](https://zapier.com/learn/zapier-quick-start-guide/quick-start-create-zap/#actionapp), [connect to your app account and customize your action event](https://zapier.com/learn/zapier-quick-start-guide/quick-start-create-zap/#connectaction), and [map your fields.](https://zapier.com/learn/zapier-quick-start-guide/quick-start-create-zap/#fieldmapping)
+4. [Test your Zap.](https://zapier.com/learn/zapier-quick-start-guide/quick-start-create-zap/#testzap)
 
 Need help setting up automation for your business? Zapier Experts are certified consultants, freelancers, and agencies that can help you do more with automation. Visit our [Experts directory](https://zapier.com/experts) to help you find the right Expert to work with.  
 

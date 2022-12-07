@@ -35,7 +35,7 @@ response.headers["set-cookie"]
 
 # Wait until localhost post open
 
-https://stackoverflow.com/questions/11904772/how-to-create-a-loop-in-bash-that-is-waiting-for-a-webserver-to-respond
+<https://stackoverflow.com/questions/11904772/how-to-create-a-loop-in-bash-that-is-waiting-for-a-webserver-to-respond>
 
 ```
 until $(curl --output /dev/null --silent --head --fail http://myhost:myport); do

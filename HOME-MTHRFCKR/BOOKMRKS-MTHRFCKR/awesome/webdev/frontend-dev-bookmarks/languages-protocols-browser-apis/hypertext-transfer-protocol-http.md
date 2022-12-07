@@ -9,9 +9,9 @@ The Hypertext Transfer Protocol (HTTP) is an application protocol for distribute
 [![Twitter](https://img.shields.io/badge/follow-twitter-55acee.svg?style=flat-square)](https://twitter.com/FrontendDir)
 
 -----------------------------------------
+
 + **[Best Practice for HTTP2 Front-End Deployments](http://blog.cloud66.com/best-practice-for-http2-front-end-deployments/)**: This post describes how to set up and use the new HTTP/2 protocol.
 + **[Ideal HTTP Performance](https://www.mnot.net/blog/2016/04/22/ideal-http)**: This post talks about the design of the HTTP protocol, it's performance drawbacks and how to work around them.
-
 
 ------------------
 

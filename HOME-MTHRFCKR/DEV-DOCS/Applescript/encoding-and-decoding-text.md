@@ -12,13 +12,13 @@ The handler in Listing 32-1 encodes a single character.
 
 **Listing 32-1**AppleScript: Handler that URL encodes a character
 
-1.  `on encodeCharacter(theCharacter)`
-2.  `set theASCIINumber to (the ASCII number theCharacter)`
-3.  `set theHexList to {"0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "A", "B", "C", "D", "E", "F"}`
-4.  `set theFirstItem to item ((theASCIINumber div 16) + 1) of theHexList`
-5.  `set theSecondItem to item ((theASCIINumber mod 16) + 1) of theHexList`
-6.  `return ("%" & theFirstItem & theSecondItem) as string`
-7.  `end encodeCharacter`
+1. `on encodeCharacter(theCharacter)`
+2. `set theASCIINumber to (the ASCII number theCharacter)`
+3. `set theHexList to {"0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "A", "B", "C", "D", "E", "F"}`
+4. `set theFirstItem to item ((theASCIINumber div 16) + 1) of theHexList`
+5. `set theSecondItem to item ((theASCIINumber mod 16) + 1) of theHexList`
+6. `return ("%" & theFirstItem & theSecondItem) as string`
+7. `end encodeCharacter`
 
 Listing 32-2 shows how to call the handler in Listing 32-1.
 
@@ -28,8 +28,8 @@ Listing 32-2 shows how to call the handler in Listing 32-1.
 
 **Listing 32-2**AppleScript: Calling a handler to URL encode a character
 
-1.  `encodeCharacter("$")`
-2.  `--> Result: "%24"`
+1. `encodeCharacter("$")`
+2. `--> Result: "%24"`
 
 ### Encoding Text
 
@@ -41,23 +41,23 @@ The handler in Listing 32-3 encodes an entire string. Provide a string and indic
 
 **Listing 32-3**AppleScript: Handler that URL encodes text
 
-1.  `on encodeText(theText, encodeCommonSpecialCharacters, encodeExtendedSpecialCharacters)`
-2.  `set theStandardCharacters to "abcdefghijklmnopqrstuvwxyz0123456789"`
-3.  ``set theCommonSpecialCharacterList to "$+!'/?;&@=#%><{}\"~`^\\|*"``
-4.  `set theExtendedSpecialCharacterList to ".-_:"`
-5.  `set theAcceptableCharacters to theStandardCharacters`
-6.  `if encodeCommonSpecialCharacters is false then set theAcceptableCharacters to theAcceptableCharacters & theCommonSpecialCharacterList`
-7.  `if encodeExtendedSpecialCharacters is false then set theAcceptableCharacters to theAcceptableCharacters & theExtendedSpecialCharacterList`
-8.  `set theEncodedText to ""`
-9.  `repeat with theCurrentCharacter in theText`
-10.  `if theCurrentCharacter is in theAcceptableCharacters then`
-11.  `set theEncodedText to (theEncodedText & theCurrentCharacter)`
-12.  `else`
-13.  `set theEncodedText to (theEncodedText & encodeCharacter(theCurrentCharacter)) as string`
-14.  `end if`
-15.  `end repeat`
-16.  `return theEncodedText`
-17.  `end encodeText`
+1. `on encodeText(theText, encodeCommonSpecialCharacters, encodeExtendedSpecialCharacters)`
+2. `set theStandardCharacters to "abcdefghijklmnopqrstuvwxyz0123456789"`
+3. ``set theCommonSpecialCharacterList to "$+!'/?;&@=#%><{}\"~`^\\|*"``
+4. `set theExtendedSpecialCharacterList to ".-_:"`
+5. `set theAcceptableCharacters to theStandardCharacters`
+6. `if encodeCommonSpecialCharacters is false then set theAcceptableCharacters to theAcceptableCharacters & theCommonSpecialCharacterList`
+7. `if encodeExtendedSpecialCharacters is false then set theAcceptableCharacters to theAcceptableCharacters & theExtendedSpecialCharacterList`
+8. `set theEncodedText to ""`
+9. `repeat with theCurrentCharacter in theText`
+10. `if theCurrentCharacter is in theAcceptableCharacters then`
+11. `set theEncodedText to (theEncodedText & theCurrentCharacter)`
+12. `else`
+13. `set theEncodedText to (theEncodedText & encodeCharacter(theCurrentCharacter)) as string`
+14. `end if`
+15. `end repeat`
+16. `return theEncodedText`
+17. `end encodeText`
 
 Note
 
@@ -71,8 +71,8 @@ Listing 32-4 shows how to call the handler in Listing 32-3 to encode only high-l
 
 **Listing 32-4**AppleScript: Calling a handler to URL encode high-level ASCII characters in text
 
-1.  `encodeText("*smith-wilson© report_23.txt", false, false)`
-2.  `--> Result: "*smith-wilson%A9%20report_23.txt"`
+1. `encodeText("*smith-wilson© report_23.txt", false, false)`
+2. `--> Result: "*smith-wilson%A9%20report_23.txt"`
 
 Listing 32-5 shows how to call the handler in Listing 32-3 to encode high-level ASCII characters and all special characters.
 
@@ -82,8 +82,8 @@ Listing 32-5 shows how to call the handler in Listing 32-3 to encode high-level 
 
 **Listing 32-5**AppleScript: Calling a handler to URL encode high- and low-level ASCII characters in text
 
-1.  `encodeText("*smith-wilson© report_23.txt", true, true)`
-2.  `--> Result: "%2Asmith%2Dwilson%A9%20report%5F23%2Etxt"`
+1. `encodeText("*smith-wilson© report_23.txt", true, true)`
+2. `--> Result: "%2Asmith%2Dwilson%A9%20report%5F23%2Etxt"`
 
 Listing 32-6 shows how to call the handler in Listing 32-3 to encode high-level ASCII characters and special characters, excluding periods, hyphens, underscores, and colons.
 
@@ -93,8 +93,8 @@ Listing 32-6 shows how to call the handler in Listing 32-3 to encode high-level 
 
 **Listing 32-6**AppleScript: Calling a handler to URL encode high- and low-level ASCII characters in text with certain exclusions
 
-1.  `encodeText("annual smith-wilson_report.txt", true, false)`
-2.  `--> Result: "annual%20smith-wilson_report.txt"`
+1. `encodeText("annual smith-wilson_report.txt", true, false)`
+2. `--> Result: "annual%20smith-wilson_report.txt"`
 
 Note
 
@@ -106,12 +106,12 @@ When you use AppleScriptObjC, you can use methods of the `NSString` class to enc
 
 **Listing 32-7**AppleScriptObjC: Handler that URL encodes text
 
-1.  `on encodeText(theText)`
-2.  `set theString to stringWithString_(theText) of NSString of current application`
-3.  `set theEncoding to NSUTF8StringEncoding of current application`
-4.  `set theAdjustedString to stringByAddingPercentEscapesUsingEncoding_(theEncoding) of theString`
-5.  `return (theAdjustedString as string)`
-6.  `end encodeText`
+1. `on encodeText(theText)`
+2. `set theString to stringWithString_(theText) of NSString of current application`
+3. `set theEncoding to NSUTF8StringEncoding of current application`
+4. `set theAdjustedString to stringByAddingPercentEscapesUsingEncoding_(theEncoding) of theString`
+5. `return (theAdjustedString as string)`
+6. `end encodeText`
 
 ### Decoding Text
 
@@ -123,22 +123,22 @@ The handler in Listing 32-8 decodes an encoded character hex string.
 
 **Listing 32-8**AppleScript: Handler that decodes an encoded character hex string
 
-1.  `on decodeCharacterHexString(theCharacters)`
-2.  `copy theCharacters to {theIdentifyingCharacter, theMultiplierCharacter, theRemainderCharacter}`
-3.  `set theHexList to "123456789ABCDEF"`
-4.  `if theMultiplierCharacter is in "ABCDEF" then`
-5.  `set theMultiplierAmount to offset of theMultiplierCharacter in theHexList`
-6.  `else`
-7.  `set theMultiplierAmount to theMultiplierCharacter as integer`
-8.  `end if`
-9.  `if theRemainderCharacter is in "ABCDEF" then`
-10.  `set theRemainderAmount to offset of theRemainderCharacter in theHexList`
-11.  `else`
-12.  `set theRemainderAmount to theRemainderCharacter as integer`
-13.  `end if`
-14.  `set theASCIINumber to (theMultiplierAmount * 16) + theRemainderAmount`
-15.  `return (ASCII character theASCIINumber)`
-16.  `end decodeCharacterHexString`
+1. `on decodeCharacterHexString(theCharacters)`
+2. `copy theCharacters to {theIdentifyingCharacter, theMultiplierCharacter, theRemainderCharacter}`
+3. `set theHexList to "123456789ABCDEF"`
+4. `if theMultiplierCharacter is in "ABCDEF" then`
+5. `set theMultiplierAmount to offset of theMultiplierCharacter in theHexList`
+6. `else`
+7. `set theMultiplierAmount to theMultiplierCharacter as integer`
+8. `end if`
+9. `if theRemainderCharacter is in "ABCDEF" then`
+10. `set theRemainderAmount to offset of theRemainderCharacter in theHexList`
+11. `else`
+12. `set theRemainderAmount to theRemainderCharacter as integer`
+13. `end if`
+14. `set theASCIINumber to (theMultiplierAmount * 16) + theRemainderAmount`
+15. `return (ASCII character theASCIINumber)`
+16. `end decodeCharacterHexString`
 
 Listing 32-9 shows how to call the handler in Listing 32-8.
 
@@ -148,8 +148,8 @@ Listing 32-9 shows how to call the handler in Listing 32-8.
 
 **Listing 32-9**AppleScript: Calling a handler to decode an encoded character hex string
 
-1.  `decodeCharacterHexString("%24")`
-2.  `--> Result: "$"`
+1. `decodeCharacterHexString("%24")`
+2. `--> Result: "$"`
 
 The handler in Listing 32-10 decodes any encoded character hex strings in the specified text.
 
@@ -159,30 +159,30 @@ The handler in Listing 32-10 decodes any encoded character hex strings in the sp
 
 **Listing 32-10**AppleScript: Handler that decodes any encoded character hex strings in specified text
 
-1.  `on decodeText(theText)`
-2.  `set flagA to false`
-3.  `set flagB to false`
-4.  `set theTempCharacter to ""`
-5.  `set theCharacterList to {}`
-6.  `repeat with theCurrentCharacter in theText`
-7.  `set theCurrentCharacter to contents of theCurrentCharacter`
-8.  `if theCurrentCharacter is "%" then`
-9.  `set flagA to true`
-10.  `else if flagA is true then`
-11.  `set theTempCharacter to theCurrentCharacter`
-12.  `set flagA to false`
-13.  `set flagB to true`
-14.  `else if flagB is true then`
-15.  `set end of theCharacterList to decodeCharacterHexString(("%" & theTempCharacter & theCurrentCharacter) as string)`
-16.  `set theTempCharacter to ""`
-17.  `set flagA to false`
-18.  `set flagB to false`
-19.  `else`
-20.  `set end of theCharacterList to theCurrentCharacter`
-21.  `end if`
-22.  `end repeat`
-23.  `return theCharacterList as string`
-24.  `end decodeText`
+1. `on decodeText(theText)`
+2. `set flagA to false`
+3. `set flagB to false`
+4. `set theTempCharacter to ""`
+5. `set theCharacterList to {}`
+6. `repeat with theCurrentCharacter in theText`
+7. `set theCurrentCharacter to contents of theCurrentCharacter`
+8. `if theCurrentCharacter is "%" then`
+9. `set flagA to true`
+10. `else if flagA is true then`
+11. `set theTempCharacter to theCurrentCharacter`
+12. `set flagA to false`
+13. `set flagB to true`
+14. `else if flagB is true then`
+15. `set end of theCharacterList to decodeCharacterHexString(("%" & theTempCharacter & theCurrentCharacter) as string)`
+16. `set theTempCharacter to ""`
+17. `set flagA to false`
+18. `set flagB to false`
+19. `else`
+20. `set end of theCharacterList to theCurrentCharacter`
+21. `end if`
+22. `end repeat`
+23. `return theCharacterList as string`
+24. `end decodeText`
 
 Note
 
@@ -196,8 +196,8 @@ Listing 32-11 shows how to call the handler in Listing 32-10.
 
 **Listing 32-11**AppleScript: Calling a handler to decode any encoded character hex strings in specified text
 
-1.  `decodeText("%2Asmith%2Dwilson%A9%20report%5F23%2Etxt")`
-2.  `--> Result: "*smith-wilson© report_23.txt"`
+1. `decodeText("%2Asmith%2Dwilson%A9%20report%5F23%2Etxt")`
+2. `--> Result: "*smith-wilson© report_23.txt"`
 
 Note
 
@@ -209,9 +209,9 @@ When you use AppleScriptObjC, you can use methods of the `NSString` class to dec
 
 **Listing 32-12**AppleScriptObjC: Handler that decodes URL encoded text
 
-1.  `on decodeText(theText)`
-2.  `set theString to stringWithString_(theText) of NSString of current application`
-3.  `set theEncoding to NSUTF8StringEncoding of current application`
-4.  `set theAdjustedString to stringByReplacingPercentEscapesUsingEncoding_(theEncoding) of theString`
-5.  `return (theAdjustedString as string)`
-6.  `end decodeText`
+1. `on decodeText(theText)`
+2. `set theString to stringWithString_(theText) of NSString of current application`
+3. `set theEncoding to NSUTF8StringEncoding of current application`
+4. `set theAdjustedString to stringByReplacingPercentEscapesUsingEncoding_(theEncoding) of theString`
+5. `return (theAdjustedString as string)`
+6. `end decodeText`

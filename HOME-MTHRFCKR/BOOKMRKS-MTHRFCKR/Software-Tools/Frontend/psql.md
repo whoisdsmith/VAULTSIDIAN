@@ -9,7 +9,7 @@ psql --version
 ps auxwww | grep postgres
 ```
 
-https://stackoverflow.com/a/7975660/1860639
+<https://stackoverflow.com/a/7975660/1860639>
 
 The Homebrew package manager includes launchctl plists to start automatically. For more information run brew info postgres.
 
@@ -33,9 +33,9 @@ Start automatically:
 brew services start postgresql
 ```
 
-https://www.postgresql.org/docs/9.2/static/app-psql.html  
-https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546  
-http://postgresguide.com/utilities/psql.html
+<https://www.postgresql.org/docs/9.2/static/app-psql.html>  
+<https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546>  
+<http://postgresguide.com/utilities/psql.html>
 
 `\dt *.*`: List tables from all schemas (if *.* is omitted will only show SEARCH_PATH ones)
 
@@ -76,7 +76,7 @@ psql -h localhost -U postgres -d postgres
 
 # Meta-Commands
 
-https://www.postgresql.org/docs/9.2/app-psql.html
+<https://www.postgresql.org/docs/9.2/app-psql.html>
 
 \l (or \list)  
 \l+ (or \list+)  

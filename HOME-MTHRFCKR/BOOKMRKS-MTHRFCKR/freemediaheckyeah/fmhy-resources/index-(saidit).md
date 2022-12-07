@@ -1,46 +1,46 @@
-#[📛 Adblock / Privacy / Antivirus](https://saidit.net/s/freemediaheckyeah/wiki/adblock-vpn-privacy)
+# [📛 Adblock / Privacy / Antivirus](https://saidit.net/s/freemediaheckyeah/wiki/adblock-vpn-privacy)
 
 **Adblocking Extensions, Privacy Extensions, Privacy Tools, VPN's, Proxies, Antivirus**
 
 ***
 ***
 
-#[📺 Movies / TV / Anime / Sports](https://saidit.net/s/freemediaheckyeah/wiki/video)
+# [📺 Movies / TV / Anime / Sports](https://saidit.net/s/freemediaheckyeah/wiki/video)
 
 **Streaming Apps, Streaming Sites, Download Sites, Torrent Apps, Torrent Sites**
 
 ***
 ***
 
-#[🎵 Music / Podcasts / Radio](https://saidit.net/s/freemediaheckyeah/wiki/audio)
+# [🎵 Music / Podcasts / Radio](https://saidit.net/s/freemediaheckyeah/wiki/audio)
 
 **Audio Streaming, Audio Downloading, Audio Torrenting**
 
 ***
 ***
 
-#[🎮 Gaming / Emulation](https://saidit.net/s/freemediaheckyeah/wiki/games)
+# [🎮 Gaming / Emulation](https://saidit.net/s/freemediaheckyeah/wiki/games)
 
 **Download Games, Torrent Games, Emulators, ROMs**
 
 ***
 ***
 
-#[📗 Books / Comics / Manga](https://saidit.net/s/freemediaheckyeah/wiki/reading)
+# [📗 Books / Comics / Manga](https://saidit.net/s/freemediaheckyeah/wiki/reading)
 
 **Books, Comics, Magazines, Newspapers, Light Novels**
 
 ***
 ***
 
-#[💾 Downloading](https://saidit.net/s/freemediaheckyeah/wiki/download)
+# [💾 Downloading](https://saidit.net/s/freemediaheckyeah/wiki/download)
 
 **Download Forums, Download Directories, Download Sites**
 
 ***
 ***
 
-#[🌀 Torrenting](https://saidit.net/s/freemediaheckyeah/wiki/torrent)
+# [🌀 Torrenting](https://saidit.net/s/freemediaheckyeah/wiki/torrent)
 
 **Torrent Clients, Torrent Sites, Tracker Invites**
 
@@ -54,7 +54,7 @@
 ***
 ***
 
-#[🔧 Tools](https://saidit.net/s/freemediaheckyeah/wiki/tools-misc)
+# [🔧 Tools](https://saidit.net/s/freemediaheckyeah/wiki/tools-misc)
 
 **General Tools, Internet Tools, System Tools, Gaming Tools**
 
@@ -68,35 +68,35 @@
 ***
 ***
 
-#[📱 Android / iOS](https://saidit.net/s/freemediaheckyeah/wiki/android)
+# [📱 Android / iOS](https://saidit.net/s/freemediaheckyeah/wiki/android)
 
 **Adblocking, Emulators, APKs, Apps, Torrenting, Streaming**
 
 ***
 ***
 
-#[🐧 Linux / MacOS](https://saidit.net/s/freemediaheckyeah/wiki/linux)
+# [🐧 Linux / MacOS](https://saidit.net/s/freemediaheckyeah/wiki/linux)
 
 **Apps, Tools, Adblocking, Privacy, Software, Gaming**
 
 ***
 ***
 
-#[🌏 Non-English](https://saidit.net/s/freemediaheckyeah/wiki/non-eng)
+# [🌏 Non-English](https://saidit.net/s/freemediaheckyeah/wiki/non-eng)
 
 **International Piracy Sites**
 
 ***
 ***
 
-#[🏴‍☠️ Beginners Guide](https://rentry.org/Piracy-BG)
+# [🏴‍☠️ Beginners Guide](https://rentry.org/Piracy-BG)
 
 **Beginners Guide to Piracy**
 
 ***
 ***
 
-#[🔒 Backups](https://saidit.net/s/freemediaheckyeah/wiki/backups)
+# [🔒 Backups](https://saidit.net/s/freemediaheckyeah/wiki/backups)
 
 **FMHY Backups**
 

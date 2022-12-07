@@ -26,5 +26,4 @@
 12. All I do is love you, all I want to do is love you and grow old, but all you see are insecurities and false reasons why I can't or don't love you.
 13. I don't know who I am anymore, these last 15 months you're all I’ve known, I have never cared about another woman more than I do about you.
 
-
 ----

@@ -1,7 +1,7 @@
 There are two types of example services:
 
-1.  The [Hello World examples](https://ifttt.com/docs/example_services#hello-world-examples) are very simple versions of an IFTTT service in a couple different programming languages, designed to explain how a service can work.
-2.  The [service templates](https://ifttt.com/docs/example_services#service-templates) are frameworks based on services in popular categories on IFTTT. These can be cloned into your organization to give you a head start, though they don't have any example code behind them.
+1. The [Hello World examples](https://ifttt.com/docs/example_services#hello-world-examples) are very simple versions of an IFTTT service in a couple different programming languages, designed to explain how a service can work.
+2. The [service templates](https://ifttt.com/docs/example_services#service-templates) are frameworks based on services in popular categories on IFTTT. These can be cloned into your organization to give you a head start, though they don't have any example code behind them.
 
 ## Hello World examples
 
@@ -9,11 +9,11 @@ Let's get started by creating a "Hello World" service that runs on your local ma
 
 First, if you don't see a Hello World service in your account, simply click [here](https://platform.ifttt.com/services/create_default) to create one. Then spin up one of these options:
 
--   [Getting started with Ruby on Rails](https://ifttt.com/docs/example_services#getting-started-with-ruby-on-rails)
-    -   [Using Docker](https://ifttt.com/docs/example_services#hello-world-ruby-on-rails-using-docker)
-    -   [Using your local Ruby and Rails](https://ifttt.com/docs/example_services#hello-world-ruby-on-rails-using-your-local-ruby-and-rails)
--   [Getting started with Node.js using Glitch](https://ifttt.com/docs/example_services#getting-started-with-node-js)
--   [Getting started with Python and FastAPI](https://ifttt.com/docs/example_services#getting-started-with-python-and-fastapi)
+- [Getting started with Ruby on Rails](https://ifttt.com/docs/example_services#getting-started-with-ruby-on-rails)
+  - [Using Docker](https://ifttt.com/docs/example_services#hello-world-ruby-on-rails-using-docker)
+  - [Using your local Ruby and Rails](https://ifttt.com/docs/example_services#hello-world-ruby-on-rails-using-your-local-ruby-and-rails)
+- [Getting started with Node.js using Glitch](https://ifttt.com/docs/example_services#getting-started-with-node-js)
+- [Getting started with Python and FastAPI](https://ifttt.com/docs/example_services#getting-started-with-python-and-fastapi)
 
 In this tutorial, we’ll answer your questions and help get your service up and running on the IFTTT Platform quickly by creating a simple service. We'll verify that the service is working by using the IFTTT endpoint tests. If you'd prefer, feel free to skim over this section or dive right into the [Service API Reference](https://ifttt.com/docs/api_reference)!
 
@@ -31,7 +31,7 @@ Then, run the following in your command line to deploy the Hello World Ruby on R
 
 `docker run -e IFTTT_SERVICE_KEY='XXXXXX' -p 3000:3000 ifttt/hello-world-ruby`
 
-Surf to http://localhost:3000/ to see it running. You should see a "Hello, World!" message.
+Surf to <http://localhost:3000/> to see it running. You should see a "Hello, World!" message.
 
 Now you're ready to [expose your local server via ngrok](https://ifttt.com/docs/example_services#expose-your-local-server-via-ngrok).
 
@@ -85,7 +85,7 @@ ngrok http 3000
 
 You'll see some output which will include "Forwarding" URLs for http and https. These are the URLs where your application is accessible on the internet.
 
-We'll be using the secure https URL, which will look something like this: https://abc123.ngrok.io (where the "abc123" will be some other random identifier.)
+We'll be using the secure https URL, which will look something like this: <https://abc123.ngrok.io> (where the "abc123" will be some other random identifier.)
 
 Visit the forwarding URL in your browser and you should see that "Hello, World!" message again.
 
@@ -115,10 +115,9 @@ IFTTT_KEY="rG4_x0f26jSfY…"
 
 #### Give IFTTT your API URL
 
-1.  If you used ngrok and already have a forwarding URL, you may skip to step 2. Otherwise, copy the URL by clicking the “Show” drop-down and then the "In A New Window" button.
-    
-2.  Visit your new service’s API page [here](https://platform.ifttt.com/mkt/api), and input that URL into the IFTTT API URL field.
-    
+1. If you used ngrok and already have a forwarding URL, you may skip to step 2. Otherwise, copy the URL by clicking the “Show” drop-down and then the "In A New Window" button.
+
+2. Visit your new service’s API page [here](https://platform.ifttt.com/mkt/api), and input that URL into the IFTTT API URL field.
 
 #### Run the endpoint tests
 
@@ -172,9 +171,9 @@ These are templates based on services in popular categories on IFTTT. These can 
 
 A few notes:
 
--   You are free to add, remove, or update any of the triggers or actions in your cloned service. These are just a starting point.
--   These services are not functional in their current state. You'll need to connect your API, add user authentication, etc. in order for the services to interact with real data.
--   Is there an example service you were hoping was available here? [Let us know](mailto:platform-support+example-service-request@ifttt.com?subject=I%20would%20like%20to%20request%20the%20following%20service%20template%3A)!
+- You are free to add, remove, or update any of the triggers or actions in your cloned service. These are just a starting point.
+- These services are not functional in their current state. You'll need to connect your API, add user authentication, etc. in order for the services to interact with real data.
+- Is there an example service you were hoping was available here? [Let us know](mailto:platform-support+example-service-request@ifttt.com?subject=I%20would%20like%20to%20request%20the%20following%20service%20template%3A)!
 
 ### Bank
 
@@ -222,12 +221,12 @@ Do you have a suggestion for another example service that would be helpful? [Let
 
 ___
 
-#### Next steps:
+#### Next steps
 
--   Explore the [Service API](https://ifttt.com/docs/api_reference).
--   Learn about [testing your service](https://ifttt.com/docs/testing).
--   Create your first connection with our [Connect Quick Start Guide](https://ifttt.com/docs/getting_started_connect).
+- Explore the [Service API](https://ifttt.com/docs/api_reference).
+- Learn about [testing your service](https://ifttt.com/docs/testing).
+- Create your first connection with our [Connect Quick Start Guide](https://ifttt.com/docs/getting_started_connect).
 
 ---
 
-#ifttt 
+# ifttt

@@ -6,12 +6,12 @@ The IFTTT Platform enables you to integrate with over 700 of the world's best ap
 
 In this guide, we will provide you with all our tips, tricks, and best practices for building and designing successful IFTTT services, including:
 
--   [How to design successful Authentication](https://ifttt.com/docs/guidelines#authentication)
--   [How to design successful Triggers](https://ifttt.com/docs/guidelines#triggers)
--   [How to design successful Actions](https://ifttt.com/docs/guidelines#actions)
--   [How to design successful Queries](https://ifttt.com/docs/guidelines#queries)
--   [How to design successful Applets](https://ifttt.com/docs/guidelines#building-successful-applets)
--   [How to brand your IFTTT Service](https://ifttt.com/docs/guidelines#how-to-brand-your-ifttt-service)
+- [How to design successful Authentication](https://ifttt.com/docs/guidelines#authentication)
+- [How to design successful Triggers](https://ifttt.com/docs/guidelines#triggers)
+- [How to design successful Actions](https://ifttt.com/docs/guidelines#actions)
+- [How to design successful Queries](https://ifttt.com/docs/guidelines#queries)
+- [How to design successful Applets](https://ifttt.com/docs/guidelines#building-successful-applets)
+- [How to brand your IFTTT Service](https://ifttt.com/docs/guidelines#how-to-brand-your-ifttt-service)
 
 ## How to design successful services on IFTTT
 
@@ -59,9 +59,9 @@ In these cases, value-based triggers are implemented in such a way that the even
 
 Here are some examples of value-based triggers:
 
--   The price of a stock rises above `{{PriceThreshold}}`
--   Current AC mode changes to `Standby`
--   Temperature drops below `{{TemperatureThreshold}}`
+- The price of a stock rises above `{{PriceThreshold}}`
+- Current AC mode changes to `Standby`
+- Temperature drops below `{{TemperatureThreshold}}`
 
 You can implement a trigger that provides a new event on _any_ change of data. However, it is more common to have some sort of logic, such as a threshold the value must cross to create the event, built into the trigger.
 
@@ -233,8 +233,8 @@ Your service name should be identical to your product's name, using the same cap
 
 Example:
 
--   `SmartHours`, not `SmartHours Energy Saver Service`, not `Smart Hours`
--   `Google Sheets`, not `Sheets` or `Google Spreadsheets`
+- `SmartHours`, not `SmartHours Energy Saver Service`, not `Smart Hours`
+- `Google Sheets`, not `Sheets` or `Google Spreadsheets`
 
 ### Service logos
 
@@ -270,8 +270,8 @@ We also allow non-English descriptions if your service's primary audience is reg
 
 Examples:
 
--   `Dropbox lets people bring their documents, photos, and videos everywhere and share them easily..`, not `Dropbox is the world's best document storage repository.`
--   `The Honeywell Home family of smart products includes thermostats (like the T-Series and Round), awareness (like Smart Home Security), and water leak detection..`, not `A Home Automation Hub.`
+- `Dropbox lets people bring their documents, photos, and videos everywhere and share them easily..`, not `Dropbox is the world's best document storage repository.`
+- `The Honeywell Home family of smart products includes thermostats (like the T-Series and Round), awareness (like Smart Home Security), and water leak detection..`, not `A Home Automation Hub.`
 
 ### Service category
 
@@ -281,7 +281,7 @@ You may update your service's category at any time, allowing for flexibility to 
 
 Example:
 
--   [LinkedIn](https://ifttt.com/linkedin) is a business-oriented social networking site where you can share the best content, automatically, with your professional network, so it fits best in the social network category like [Facebook](https://ifttt.com/facebook), not in the communications category with [Slack](https://ifttt.com/slack).
+- [LinkedIn](https://ifttt.com/linkedin) is a business-oriented social networking site where you can share the best content, automatically, with your professional network, so it fits best in the social network category like [Facebook](https://ifttt.com/facebook), not in the communications category with [Slack](https://ifttt.com/slack).
 
 ### Service color
 
@@ -319,12 +319,12 @@ To make more substantial changes to your service, such as adding new actions or 
 
 Here are a few things to keep in mind when planning an update to your service:
 
--   The cloned staging service will always have a unique service key that is different from the published one. The published service's key is never updated with the staging one. This means that your API must accept both keys for our tests to pass or the staging service must use a different (staging) version of your API.
--   It's acceptable to submit a staging service for review if it's using a different version of your API URL. We will not update the published service's API when we migrate the changes.
--   You should avoid introducing changes to existing triggers, queries, or actions. Where possible, a new trigger can add the missing functionality while the original trigger is maintained for backward compatibility. An example of a non-breaking change is a new trigger ingredient. This update can be applied to enabled Applets. A breaking change may be a new or updated trigger field. Such a change cannot be applied because it will leave enabled Applets with an incomplete or incorrect configuration that cannot be resolved without user input.
--   If you want to submit the changes for review but do not want them to be migrated as soon as possible, please reach out to our Platform support team. We will be happy to coordinate a migration time that suits your team.
--   It's possible to seamlessly update API URLs, authentication URLs, credentials, etc. For example, if you are moving your service to a new infrastructure with no breaking changes, submit a staging service for review with the updates and leave a note for our team on each change that needs to be applied.
--   The Applets you build in a staging service cannot be migrated to the published service. Once your updates go live, you can build and publish new Applets for your new functionality in the original service.
+- The cloned staging service will always have a unique service key that is different from the published one. The published service's key is never updated with the staging one. This means that your API must accept both keys for our tests to pass or the staging service must use a different (staging) version of your API.
+- It's acceptable to submit a staging service for review if it's using a different version of your API URL. We will not update the published service's API when we migrate the changes.
+- You should avoid introducing changes to existing triggers, queries, or actions. Where possible, a new trigger can add the missing functionality while the original trigger is maintained for backward compatibility. An example of a non-breaking change is a new trigger ingredient. This update can be applied to enabled Applets. A breaking change may be a new or updated trigger field. Such a change cannot be applied because it will leave enabled Applets with an incomplete or incorrect configuration that cannot be resolved without user input.
+- If you want to submit the changes for review but do not want them to be migrated as soon as possible, please reach out to our Platform support team. We will be happy to coordinate a migration time that suits your team.
+- It's possible to seamlessly update API URLs, authentication URLs, credentials, etc. For example, if you are moving your service to a new infrastructure with no breaking changes, submit a staging service for review with the updates and leave a note for our team on each change that needs to be applied.
+- The Applets you build in a staging service cannot be migrated to the published service. Once your updates go live, you can build and publish new Applets for your new functionality in the original service.
 
 ### Branding and other updates
 

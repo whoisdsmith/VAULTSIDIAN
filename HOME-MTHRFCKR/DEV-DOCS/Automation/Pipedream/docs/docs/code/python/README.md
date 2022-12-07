@@ -1,6 +1,6 @@
 # Python
 
-**Anything you can do in Python can be done in a Pipedream Workflow**. This includes using any of the [350,000+ PyPi packages available](https://pypi.org/) in your Python powered workflows. 
+**Anything you can do in Python can be done in a Pipedream Workflow**. This includes using any of the [350,000+ PyPi packages available](https://pypi.org/) in your Python powered workflows.
 
 Pipedream supports [Python v{{$site.themeConfig.PYTHON_VERSION}}](https://www.python.org) in workflows.
 
@@ -11,7 +11,6 @@ You can still run arbitrary Python code, including [sharing data between steps](
 
 However, you can't connect accounts, return HTTP responses, or take advantage of other features available in the [Node.js](/code/nodejs/) environment at this time. If you have any questions please [contact support](https://pipedream.com/support).
 :::
-
 
 ## Adding a Python code step
 
@@ -94,7 +93,7 @@ print(r.status)
 
 You can also send files within a step.
 
-An example of sending a previously stored file in the workflow's `/tmp` directory: 
+An example of sending a previously stored file in the workflow's `/tmp` directory:
 
 ```python
 # Retrieving a previously saved file from workflow storage
@@ -121,7 +120,7 @@ In this example, we'll pretend this data is coming into our HTTP trigger via POS
 }
 ```
 
-In our Python step, we can access this data in the `exports` variable from the `pipedream.script_helpers` module. Specifically, this data from the POST request into our workflow is available in the `trigger` dictionary item. 
+In our Python step, we can access this data in the `exports` variable from the `pipedream.script_helpers` module. Specifically, this data from the POST request into our workflow is available in the `trigger` dictionary item.
 
 ```python
 from pipedream.script_helpers import (steps, export)
@@ -156,7 +155,7 @@ Not all data types can be stored in the `steps` data shared between workflow ste
 
 For the best experience, we recommend only exporting these types of data from Python steps:
 
-* lists 
+* lists
 * dictionaries
 
 [Read more details on step limitations here.](/workflows/steps/#limitations-on-step-exports)
@@ -204,7 +203,7 @@ There are 2 different ways of using the `os` module to access your environment v
 
 `os.environ['ENV_NAME_HERE']` will raise an error that stops your workflow if that key doesn't exist in your Pipedream account.
 
-Whereas `os.environ.get('ENV_NAME_HERE')` will _not_ throw an error and instead returns an empty string. 
+Whereas `os.environ.get('ENV_NAME_HERE')` will _not_ throw an error and instead returns an empty string.
 
 If your code relies on the presence of a environment variable, consider using `os.environ['ENV_NAME_HERE']` instead.
 :::
@@ -212,7 +211,6 @@ If your code relies on the presence of a environment variable, consider using `o
 ## Handling errors
 
 You may need to exit a workflow early. In a Python step, just a `raise` an error to halt a step's execution.
-
 
 ```python
 raise NameError('Something happened that should not. Exiting early.')
@@ -226,7 +224,7 @@ You can also store and read files with Python steps. This means you can upload p
 
 The `/tmp` directory is accessible from your workflow steps for saving and retrieving files.
 
-You have full access to read and write both files in `/tmp`. 
+You have full access to read and write both files in `/tmp`.
 
 ### Writing a file to /tmp
 

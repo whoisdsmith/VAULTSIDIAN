@@ -1,1 +1,1 @@
-/usr/local/bin/ea-php81 
+/usr/local/bin/ea-php81

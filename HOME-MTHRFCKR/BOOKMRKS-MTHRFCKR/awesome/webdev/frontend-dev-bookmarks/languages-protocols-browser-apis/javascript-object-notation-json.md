@@ -9,8 +9,8 @@ JSON (JavaScript Object Notation) is a lightweight data-interchange format. It i
 [![Twitter](https://img.shields.io/badge/follow-twitter-55acee.svg?style=flat-square)](https://twitter.com/FrontendDir)
 
 -----------------------------------------
-+ **[JSON-LD](http://json-ld.org/)**: JSON-LD is a lightweight Linked Data format. It is based on the already successful JSON format and provides a way to help JSON data interoperate at Web-scale.
 
++ **[JSON-LD](http://json-ld.org/)**: JSON-LD is a lightweight Linked Data format. It is based on the already successful JSON format and provides a way to help JSON data interoperate at Web-scale.
 
 ------------------
 

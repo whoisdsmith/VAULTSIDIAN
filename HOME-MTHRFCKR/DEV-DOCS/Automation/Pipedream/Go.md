@@ -4,9 +4,9 @@ Pipedream supports [Go v1.17.1 (opens new window)](https://go.dev/) in workflows
 
 ## [#](https://pipedream.com/docs/#adding-a-go-code-step) Adding a Go code step
 
-1.  Click the + icon to add a new step
-2.  Click "Custom Code"
-3.  In the new step, select the `golang` language runtime in language dropdown
+1. Click the + icon to add a new step
+2. Click "Custom Code"
+3. In the new step, select the `golang` language runtime in language dropdown
 
 ## [#](https://pipedream.com/docs/#logging-and-debugging) Logging and debugging
 
@@ -22,9 +22,9 @@ Don't forget to import the `fmt` package in order to run `fmt.Println`.
 
 You can use any packages from [Go package registry (opens new window)](https://pkg.go.dev/). This includes popular choices such as:
 
--   [`net/http` for making HTTP requests (opens new window)](https://pkg.go.dev/net/http#pkg-overview/)
--   [`encoding/json` for encoding and decoding JSON (opens new window)](https://pkg.go.dev/encoding/json)
--   [`database/sql` for reading and writing to SQL databases (opens new window)](https://pkg.go.dev/database/sql@go1.17.6)
+- [`net/http` for making HTTP requests (opens new window)](https://pkg.go.dev/net/http#pkg-overview/)
+- [`encoding/json` for encoding and decoding JSON (opens new window)](https://pkg.go.dev/encoding/json)
+- [`database/sql` for reading and writing to SQL databases (opens new window)](https://pkg.go.dev/database/sql@go1.17.6)
 
 To use a Go package, just `import` it in your step's code:
 

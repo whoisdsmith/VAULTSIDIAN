@@ -2,10 +2,9 @@
 
 ## Cheat Sheet
 
-https://devhints.io/xpath
+<https://devhints.io/xpath>
 
 ##
-
 
 ```js
 function getElementByXpath(path) {

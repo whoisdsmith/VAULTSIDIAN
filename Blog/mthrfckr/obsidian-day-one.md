@@ -1,4 +1,4 @@
-# Yesterday, I Started My Journey with Obsidian. Kind Of.
+# Yesterday, I Started My Journey with Obsidian. Kind Of
 
 Technically, I started in late October of 2021, but was instantly overwhelmed by my lack of knowledge and understanding with both the app itself and with Markdown. It also doesn’t help that I am insanely ADHD and lack very little patience when it comes to learning new things.
 

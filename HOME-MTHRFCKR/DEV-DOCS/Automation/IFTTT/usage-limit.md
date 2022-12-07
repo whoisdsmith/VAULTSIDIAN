@@ -4,6 +4,6 @@ We try to make this as transparent as possible, and let you know when you’re a
 
 We would recommend configuring your Applets so that they run less often to avoid hitting these limits. You can do this by choosing different criteria for your Applet to trigger on so that it runs less often.
 
-You can [add filters that limit when your Applet runs](https://help.ifttt.com/hc/en-us/articles/360053527994-Can-I-make-my-Applets-run-only-at-certain-times-). Some knowledge of JavaScript is required to implement filter code in your Applets. 
+You can [add filters that limit when your Applet runs](https://help.ifttt.com/hc/en-us/articles/360053527994-Can-I-make-my-Applets-run-only-at-certain-times-). Some knowledge of JavaScript is required to implement filter code in your Applets.
 
 Rate limits for our most common services can be found [here](https://help.ifttt.com/hc/en-us/articles/1260803229749-IFTTT-Service-Rate-Limits?).

@@ -138,7 +138,7 @@ Files that will get removed after the execution of `SETUP_TEMPLATE.sh` are not s
 
 * If you are using **Windows** and you don't know how to execute the `SETUP_TEMPLATE.sh` script:
   1. Install **[git for Windows](https://git-scm.com/download/win)**.
-  2. Right-click on the git repository folder and click "*git bash here*".
+  2. Right-click on the git repository folder and click "_git bash here_".
   3. Then just perform *`bash SETUP_TEMPLATE.sh`* **or** *`chmod u+x SETUP_TEMPLATE.sh && ./SETUP_TEMPLATE.sh`*.
 
 ### 🤖 **Used GitHub bots**
@@ -235,7 +235,7 @@ bash tests/TESTS_RUNNER.sh
 
 We are currently looking for new donators to help and maintain this project! ❤️
 
-By donating, you will help the development of this project, and *you will be featured in this project's README.md*, so everyone can see your kindness and visit your content ⭐.
+By donating, you will help the development of this project, and _you will be featured in this project's README.md_, so everyone can see your kindness and visit your content ⭐.
 
 <a href="https://github.com/sponsors/Josee9988">
   <img alt="project logo" src="https://img.shields.io/badge/Sponsor-Josee9988/project template-blue?logo=github-sponsors&style=for-the-badge&color=red">
@@ -254,6 +254,6 @@ Enjoy! 😃
 
 > ⚠️ Remember that this template should be reviewed and modified to fit your requirements.
 > The script **SETUP_TEMPLATE.sh** should be executed right when you clone your new repository generated from [here](https://github.com/Josee9988/project-template/generate).
-> There will be files that will need *manual revision* ⚠️
+> There will be files that will need _manual revision_ ⚠️
 
 _Made with a lot of ❤️❤️ by **[@Josee9988](https://github.com/Josee9988)**_

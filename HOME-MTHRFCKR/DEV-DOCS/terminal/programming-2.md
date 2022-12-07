@@ -84,7 +84,7 @@ JQUERY plugin for rendering timelines from the JSON data. - GitHub - Albejr/jque
 
 [How Do I Make "Super Awesome Vertical Timeline" use a JSON data source?](https://stackoverflow.com/questions/17956279/how-do-i-make-super-awesome-vertical-timeline-use-a-json-data-source)
 
-I've found a really nice looking vertical timeline based upon the jQuery Isotope masonry plugin here: https://github.com/wnyc/Timeline This seems to use a Google Spreadsheet as a data source. Can
+I've found a really nice looking vertical timeline based upon the jQuery Isotope masonry plugin here: <https://github.com/wnyc/Timeline> This seems to use a Google Spreadsheet as a data source. Can
 
 [Compare 594 Static Analysis Tools For All Programming Languages](https://analysis-tools.dev/)
 
@@ -164,7 +164,7 @@ The compiler for next generation JavaScript
 
 [Dev Fonts](https://devfonts.gafi.dev/)
 
-List of the best coding fonts with live preview & themes 😍 https://devfonts.gafi.dev/ by @imGaafar
+List of the best coding fonts with live preview & themes 😍 <https://devfonts.gafi.dev/> by @imGaafar
 
 [Online JavaScript beautifier](https://beautifier.io/)
 

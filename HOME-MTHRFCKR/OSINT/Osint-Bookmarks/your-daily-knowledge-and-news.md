@@ -1,4 +1,4 @@
-## Your daily knowledge and news 
+## Your daily knowledge and news
 
 ### ▪️ RSS Readers
 

@@ -1,6 +1,6 @@
--   [Make Help Center](https://www.make.com/en/help/index-en.html)
--   [Tools](https://www.make.com/en/help/tools.html)
--   Tools
+- [Make Help Center](https://www.make.com/en/help/index-en.html)
+- [Tools](https://www.make.com/en/help/tools.html)
+- Tools
 
 ## Getting started with Tools
 
@@ -20,12 +20,11 @@ You can use it, for example, for contacts or any other list that is scheduled to
 
 Returns a value incremented by 1 after each module's operation. It is possible to configure the module to reset the value:
 
--   After one cycle
-    
--   After one scenario run
-    
--   Never
-    
+- After one cycle
+
+- After one scenario run
+
+- Never
 
 **Example**
 
@@ -53,10 +52,9 @@ This function can be useful, for example, if you want to lower the target servic
 
 If you wish to pause the flow for longer periods of time, we suggest splitting your scenario into two scenarios:
 
-1.  The first scenario would contain the part before the pause
-    
-2.  The second scenario would contain the part after it
-    
+1. The first scenario would contain the part before the pause
+
+2. The second scenario would contain the part after it
 
 The **first scenario** would end up storing all the necessary information in a [Data store](https://www.make.com/en/help/tools/data-store.html "Data store") together with the current timestamp. The **second scenario** would periodically check the Data store for records with a timestamp older than the intended delay, retrieve the records, finalize the processing of the data, and remove the records from the Data store.
 
@@ -72,19 +70,17 @@ Creates multiple variables that can be mapped by other modules in the route or b
 
 The main benefits of the _Set multiple variables_ module are:
 
--   one _Set multiple variables_ module can replace a whole series of [Set variable](https://www.make.com/en/help/tools/tools.html#set-variable "Set Variable") modules
-    
--   one _Set multiple variables_ module consumes just a single operation
-    
+- one _Set multiple variables_ module can replace a whole series of [Set variable](https://www.make.com/en/help/tools/tools.html#set-variable "Set Variable") modules
+
+- one _Set multiple variables_ module consumes just a single operation
 
 <table><colgroup><col><col></colgroup><tbody><tr><td><p><span><strong>Variables</strong></span></p></td><td><p>Add multiple variables you want to set.</p><div><table><colgroup><col><col></colgroup><tbody><tr><td><p><span><strong>Variable name</strong></span></p></td><td><p>Enter the variable name. This name will be displayed when mapping the variable in other modules.</p></td></tr><tr><td><p><span><strong>Variable value</strong></span></p></td><td><p>Enter the value of the variable.</p></td></tr></tbody></table></div></td></tr><tr><td><p><span><strong>Variable lifetime</strong></span></p></td><td><p>One cycle</p><p>The variable is valid only for one cycle. Useful when multiple webhooks in one <span>scenario</span> run are received (more webhooks = more cycles).</p><p>One execution</p><p>The variable is valid for one execution. One execution can contain more cycles.</p></td></tr></tbody></table>
 
 Possible uses of the **Set/Get (multiple) variable(s)** modules:
 
--   To store a calculated value for later use, even in a different route. Especially in cases when the value is used in multiple modules and the formula to calculate the value is overly complex.
-    
--   To debug a formula. If a formula used in a module does not seemingly provide a correct result, copy the formula and paste it into a **Set Variable** module that you insert before the relevant module. Disconnect the module(s) after the **Set Variable** module and execute the scenario. Verify the **Set Variable** module's output, adjust/simplify the formula, execute the scenario again, and continue to do so until the issue has been resolved.
-    
+- To store a calculated value for later use, even in a different route. Especially in cases when the value is used in multiple modules and the formula to calculate the value is overly complex.
+
+- To debug a formula. If a formula used in a module does not seemingly provide a correct result, copy the formula and paste it into a **Set Variable** module that you insert before the relevant module. Disconnect the module(s) after the **Set Variable** module and execute the scenario. Verify the **Set Variable** module's output, adjust/simplify the formula, execute the scenario again, and continue to do so until the issue has been resolved.
 
 ## Get Variable
 
@@ -98,19 +94,17 @@ Retrieves values that were previously created by the [Set Multiple Variables](ht
 
 The main benefits of the _Set multiple variables_ module are:
 
--   one _Get multiple variables_ module can replace a whole series of [Get variable](https://www.make.com/en/help/tools/tools.html#get-variable "Get Variable") modules
-    
--   one _Get multiple variables_ module consumes just a single operation
-    
+- one _Get multiple variables_ module can replace a whole series of [Get variable](https://www.make.com/en/help/tools/tools.html#get-variable "Get Variable") modules
+
+- one _Get multiple variables_ module consumes just a single operation
 
 <table><colgroup><col><col></colgroup><tbody><tr><td><p><span><strong>Variables</strong></span></p></td><td><p>Add multiple variables you want to get.</p><div><table><colgroup><col><col></colgroup><tbody><tr><td><p><span><strong>Variable name</strong></span></p></td><td><p>Map the variable name of the variable you want to get.</p></td></tr></tbody></table></div></td></tr></tbody></table>
 
 Possible uses of the **Set/Get (multiple) variable(s)** modules:
 
--   To store a calculated value for later use, even in a different route. Especially in cases when the value is used in multiple modules and the formula to calculate the value is overly complex.
-    
--   To debug a formula. If a formula used in a module does not seemingly provide a correct result, copy the formula and paste it into a **Set Variable** module that you insert before the relevant module. Disconnect the module(s) after the **Set Variable** module and execute the scenario. Verify the **Set Variable** module's output, adjust/simplify the formula, execute the scenario again, and continue to do so until the issue has been resolved.
-    
+- To store a calculated value for later use, even in a different route. Especially in cases when the value is used in multiple modules and the formula to calculate the value is overly complex.
+
+- To debug a formula. If a formula used in a module does not seemingly provide a correct result, copy the formula and paste it into a **Set Variable** module that you insert before the relevant module. Disconnect the module(s) after the **Set Variable** module and execute the scenario. Verify the **Set Variable** module's output, adjust/simplify the formula, execute the scenario again, and continue to do so until the issue has been resolved.
 
 ## Aggregators
 

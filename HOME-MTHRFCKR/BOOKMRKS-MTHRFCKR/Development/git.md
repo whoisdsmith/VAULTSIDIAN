@@ -1814,8 +1814,6 @@
 
 - [r3mlab/datajournalism-resources](https://github.com/r3mlab/datajournalism-resources/blob/master/README.md)
 
-
-
 ## Github-stars
 
 - [massCodeIO/massCode at producthunt](https://github.com/massCodeIO/massCode?ref=producthunt)
@@ -1915,8 +1913,6 @@
 - [rchangmh/bookmarks-management: Manage your links saved in Pocket and Raindrop.io.](https://github.com/rchangmh/bookmarks-management)
 
 - [YousufSSyed/Raindrop.io-Scripts: Python scripts to interact with the raindrop.io Bookmarking Service.](https://github.com/YousufSSyed/Raindrop.io-Scripts)
-
-
 
 ## Gitlab
 

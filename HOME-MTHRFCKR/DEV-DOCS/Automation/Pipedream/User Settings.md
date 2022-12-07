@@ -1,17 +1,17 @@
 You can find important account details, text editor configuration, and more in your [Settings (opens new window)](https://pipedream.com/settings).
 
--   [Account](https://pipedream.com/docs/#account)
-    -   [Username](https://pipedream.com/docs/#username)
-    -   [Changing your username](https://pipedream.com/docs/#changing-your-username)
-    -   [Changing your email](https://pipedream.com/docs/#changing-your-email)
-    -   [Pipedream API Key](https://pipedream.com/docs/#pipedream-api-key)
-    -   [Delete Account](https://pipedream.com/docs/#delete-account)
--   [Application](https://pipedream.com/docs/#application)
--   [Environment Variables](https://pipedream.com/docs/#environment-variables)
--   [Billing and Usage](https://pipedream.com/docs/#billing-and-usage)
-    -   [Subscription](https://pipedream.com/docs/#subscription)
-    -   [Usage](https://pipedream.com/docs/#usage)
-    -   [Limits](https://pipedream.com/docs/#limits)
+- [Account](https://pipedream.com/docs/#account)
+  - [Username](https://pipedream.com/docs/#username)
+  - [Changing your username](https://pipedream.com/docs/#changing-your-username)
+  - [Changing your email](https://pipedream.com/docs/#changing-your-email)
+  - [Pipedream API Key](https://pipedream.com/docs/#pipedream-api-key)
+  - [Delete Account](https://pipedream.com/docs/#delete-account)
+- [Application](https://pipedream.com/docs/#application)
+- [Environment Variables](https://pipedream.com/docs/#environment-variables)
+- [Billing and Usage](https://pipedream.com/docs/#billing-and-usage)
+  - [Subscription](https://pipedream.com/docs/#subscription)
+  - [Usage](https://pipedream.com/docs/#usage)
+  - [Limits](https://pipedream.com/docs/#limits)
 
 ## [#](https://pipedream.com/docs/#account) Account
 
@@ -53,9 +53,9 @@ You can change how the Pipedream app displays data, and basic text editor config
 
 For example, you can:
 
--   Change the clock format to 12-hour or 24-hour mode
--   Enable Vim keyboard shortcuts in the Pipedream text editor, or enable word wrap
--   Set the number of spaces that will be added in the editor when pressing `Tab`
+- Change the clock format to 12-hour or 24-hour mode
+- Enable Vim keyboard shortcuts in the Pipedream text editor, or enable word wrap
+- Set the number of spaces that will be added in the editor when pressing `Tab`
 
 ## [#](https://pipedream.com/docs/#environment-variables) Environment Variables
 

@@ -136,9 +136,9 @@ pageClass: routes
 
 ::: tip
 
--   Tags can be copied after `tags=` in [konachan](https://konachan.com/post) URL
--   The route can be / konachan or /konachan.com or /konachan.net, where the first two are the same, and .net is an all-age healthy wallpaper ♡
--   Official Posts RSS: https://konachan.com/post/piclens?tags=[tags]
+- Tags can be copied after `tags=` in [konachan](https://konachan.com/post) URL
+- The route can be / konachan or /konachan.com or /konachan.net, where the first two are the same, and .net is an all-age healthy wallpaper ♡
+- Official Posts RSS: <https://konachan.com/post/piclens?tags=[tags>]
 
 :::
 
@@ -148,10 +148,10 @@ pageClass: routes
 
 For example:
 
--   24 hours:<https://rsshub.app/konachan/post/popular_recent/1d>
--   1 week:<https://rsshub.app/konachan/post/popular_recent/1w>
--   1 month:<https://rsshub.app/konachan/post/popular_recent/1m>
--   1 year:<https://rsshub.app/konachan/post/popular_recent/1y>
+- 24 hours:<https://rsshub.app/konachan/post/popular_recent/1d>
+- 1 week:<https://rsshub.app/konachan/post/popular_recent/1w>
+- 1 month:<https://rsshub.app/konachan/post/popular_recent/1m>
+- 1 year:<https://rsshub.app/konachan/post/popular_recent/1y>
 
 </RouteEn>
 
@@ -236,7 +236,7 @@ The text after `?` is `q=id%3A711&sorting=random&ref=fp&seed=8g0dgd` for [Wallpa
 
 ::: tip
 
--   Official RSS: https://yande.re/post/piclens?tags=[tags]
+- Official RSS: <https://yande.re/post/piclens?tags=[tags>]
 
 :::
 
@@ -246,9 +246,9 @@ The text after `?` is `q=id%3A711&sorting=random&ref=fp&seed=8g0dgd` for [Wallpa
 
 For example:
 
--   24 hours:<https://rsshub.app/yande.re/post/popular_recent/1d>
--   1 week:<https://rsshub.app/yande.re/post/popular_recent/1w>
--   1 month:<https://rsshub.app/yande.re/post/popular_recent/1m>
--   1 year:<https://rsshub.app/yande.re/post/popular_recent/1y>
+- 24 hours:<https://rsshub.app/yande.re/post/popular_recent/1d>
+- 1 week:<https://rsshub.app/yande.re/post/popular_recent/1w>
+- 1 month:<https://rsshub.app/yande.re/post/popular_recent/1m>
+- 1 year:<https://rsshub.app/yande.re/post/popular_recent/1y>
 
 </RouteEn>

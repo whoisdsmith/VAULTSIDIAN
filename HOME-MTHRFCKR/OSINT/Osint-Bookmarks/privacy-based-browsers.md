@@ -1,4 +1,4 @@
-## Privacy Based Browsers 
+## Privacy Based Browsers
 
 **Multi-Platform**
 

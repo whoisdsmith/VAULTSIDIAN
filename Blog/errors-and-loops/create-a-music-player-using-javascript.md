@@ -6,9 +6,9 @@ We will start by creating the HTML layout first that defines the structure of th
 **The HTML Layout**  
 The HTML layout defines the element structure that would be shown on the page. The player can be divided into the following portions:
 
-  * **Details Portion:** This section shows the details of the current track being played. It includes the track number, track album, track name and track artist.
-  * **Buttons Portion:** This section shows the buttons that are used to control the playback of the track. It includes the play/pause button, the previous and next track buttons. They would have an onclick() method that calls a specific function defined in the JavaScript file.
-  * **Sliders Portion:** This section contains the seek slider and volume slider that can be used to control the playback and volume.
+* **Details Portion:** This section shows the details of the current track being played. It includes the track number, track album, track name and track artist.
+* **Buttons Portion:** This section shows the buttons that are used to control the playback of the track. It includes the play/pause button, the previous and next track buttons. They would have an onclick() method that calls a specific function defined in the JavaScript file.
+* **Sliders Portion:** This section contains the seek slider and volume slider that can be used to control the playback and volume.
 
 We will be using FontAwesome icons to get the icons for all the buttons used on the page. The custom CSS and JavaScript we will write later is also linked in the file.  
 
@@ -18,7 +18,7 @@ html
 
 `<!DOCTYPE html>`
 
-``<``html`` ``lang``=``"en"``>``
+``<``html````lang``=``"en"``>``
 
 ``<``head``>``
 
@@ -96,7 +96,7 @@ html
 
 ````<``input`` ``type``=``"range"`` ``min``=``"1"`` ``max``=``"100"``
 
-````value``=``"0"`` ``class``=``"seek_slider"`` ``onchange``=``"seekTo()"``>``
+````value``=``"0"````class``=``"seek_slider"````onchange``=``"seekTo()"``>``
 
 ````<``div`` ``class``=``"total-duration"``>00:00</``div``>``
 
@@ -112,7 +112,7 @@ html
 
 ````<``input`` ``type``=``"range"`` ``min``=``"1"`` ``max``=``"100"``
 
-````value``=``"99"`` ``class``=``"volume_slider"`` ``onchange``=``"setVolume()"``>``
+````value``=``"99"````class``=``"volume_slider"````onchange``=``"setVolume()"``>``
 
 ````<``i`` ``class``=``"fa fa-volume-up"``></``i``>``
 
@@ -134,13 +134,10 @@ html
 
 Using CSS we can style the different portions to make it more visually appealing:  
 
-  
-  
-
-  * The flex layout is used to arrange the various elements of the player and align them to the middle of the page.
-  * The track art image is given a fixed dimension and made rounded using the border-radius property.
-  * The two sliders have been modified from their default look by using the appearance property. The height and background are changed to suit the color scheme. They are also given slight transparency that smoothly transitions to the full opacity using the transition property.
-  * All the playback controls have their cursor property set so that it changes to a pointer whenever the mouse hovers over it.
+* The flex layout is used to arrange the various elements of the player and align them to the middle of the page.
+* The track art image is given a fixed dimension and made rounded using the border-radius property.
+* The two sliders have been modified from their default look by using the appearance property. The height and background are changed to suit the color scheme. They are also given slight transparency that smoothly transitions to the full opacity using the transition property.
+* All the playback controls have their cursor property set so that it changes to a pointer whenever the mouse hovers over it.
 
 css
 
@@ -162,7 +159,7 @@ css
 
 `.player {`
 
-````height``: ``95``vh;``
+````height``:``95``vh;``
 
 ````display``: flex;``
 
@@ -186,7 +183,7 @@ css
 
 ````justify-``content``: ``center``;``
 
-````margin-top``: ``25px``;``
+````margin-top``:``25px``;``
 
 `}`
 
@@ -194,11 +191,11 @@ css
 
 `.track-art {`
 
-````margin``: ``25px``;``
+````margin``:``25px``;``
 
-````height``: ``250px``;``
+````height``:``250px``;``
 
-````width``: ``250px``;``
+````width``:``250px``;``
 
 ````background-image``: URL(``
 
@@ -206,7 +203,7 @@ css
 
 ````background-``size``: cover;``
 
-````background-position``: ``center``;``
+````background-position``:``center``;``
 
 ````border-radius: ``15%``;``
 
@@ -216,7 +213,7 @@ css
 
 `.now-playing {`
 
-````font-size``: ``1``rem;``
+````font-size``:``1``rem;``
 
 `}`
 
@@ -224,7 +221,7 @@ css
 
 `.track-name {`
 
-````font-size``: ``3``rem;``
+````font-size``:``3``rem;``
 
 `}`
 
@@ -232,7 +229,7 @@ css
 
 `.track-artist {`
 
-````font-size``: ``1.5``rem;``
+````font-size``:``1.5``rem;``
 
 `}`
 
@@ -258,7 +255,7 @@ css
 
 `.next-track {`
 
-````padding``: ``25px``;``
+````padding``:``25px``;``
 
 ````opacity: ``0.8``;``
 
@@ -286,9 +283,9 @@ css
 
 `.slider_container {`
 
-````width``: ``75%``;``
+````width``:``75%``;``
 
-````max-width``: ``400px``;``
+````max-width``:``400px``;``
 
 ````display``: flex;``
 
@@ -308,9 +305,9 @@ css
 
 ````appearance: ``none``;``
 
-````height``: ``5px``;``
+````height``:``5px``;``
 
-````background``: ``black``;``
+````background``:``black``;``
 
 ````opacity: ``0.7``;``
 
@@ -332,13 +329,13 @@ css
 
 ````appearance: ``none``;``
 
-````width``: ``15px``;``
+````width``:``15px``;``
 
-````height``: ``15px``;``
+````height``:``15px``;``
 
-````background``: ``white``;``
+````background``:``white``;``
 
-````cursor``: ``pointer``;``
+````cursor``:``pointer``;``
 
 ````border-radius: ``50%``;``
 
@@ -358,7 +355,7 @@ css
 
 `.seek_slider {`
 
-````width``: ``60%``;``
+````width``:``60%``;``
 
 `}`
 
@@ -366,7 +363,7 @@ css
 
 `.volume_slider {`
 
-````width``: ``30%``;``
+````width``:``30%``;``
 
 `}`
 
@@ -376,7 +373,7 @@ css
 
 `.total-duration {`
 
-````padding``: ``10px``;``
+````padding``:``10px``;``
 
 `}`
 
@@ -386,7 +383,7 @@ css
 
 `i.fa-volume-up {`
 
-````padding``: ``10px``;``
+````padding``:``10px``;``
 
 `}`
 
@@ -402,7 +399,7 @@ css
 
 `i.fa-step-backward {`
 
-````cursor``: ``pointer``;``
+````cursor``:``pointer``;``
 
 `}`
 
@@ -448,7 +445,7 @@ The required elements in the HTML layout that are to be dynamically changed are 
 
 `let track_index = 0;`
 
-``let isPlaying = ``false``;``
+``let isPlaying =``false``;``
 
 `let updateTimer;`
 
@@ -502,23 +499,23 @@ The required elements in the HTML layout that are to be dynamically changed are 
 All the tracks that have to be played are defined in the tracklist as objects. These objects contain properties like the name, artist, image and path to the track. Each of the tracks can then be accessed using its track index.  
 To load a track, a function loadTrack() is defined which handles the following things:  
 
-  * **Reset all the values of the previous track**  
-	A resetValues() function is created which handles the resetting of the duration value and the slider to their initial values before a new track starts. This prevents the jumping of the seek slider while the new track loads.
+* **Reset all the values of the previous track**  
+ A resetValues() function is created which handles the resetting of the duration value and the slider to their initial values before a new track starts. This prevents the jumping of the seek slider while the new track loads.
 
-  * **Loading the track**  
-	The audio element is assigned a new source using its src property. It may be given any path from the filesystem or a URL. The load() method is then used on the audio element to get the track ready.
+* **Loading the track**  
+ The audio element is assigned a new source using its src property. It may be given any path from the filesystem or a URL. The load() method is then used on the audio element to get the track ready.
 
-  * **Updating the track art to be shown**  
-	The track art is fetched from the array and assigned with the help of the backgroundImage property.
+* **Updating the track art to be shown**  
+ The track art is fetched from the array and assigned with the help of the backgroundImage property.
 
-  * **Updating the track details to be shown**  
-	The track details are fetched from the array and assigned with the help of the textContent property.
+* **Updating the track details to be shown**  
+ The track details are fetched from the array and assigned with the help of the textContent property.
 
-  * **Adding event listeners to the track**  
-	The media element has two event listeners added to it, the first one to update the current seek position and the second one to load the next track when the current track finishes.
+* **Adding event listeners to the track**  
+ The media element has two event listeners added to it, the first one to update the current seek position and the second one to load the next track when the current track finishes.
 
-  * **Setting a random colored background**  
-	A coloured background is generated by randomising the red, green and blue values used and setting it as a color. The effect is animated by using the transition property on the background-color.
+* **Setting a random colored background**  
+ A coloured background is generated by randomising the red, green and blue values used and setting it as a color. The effect is animated by using the transition property on the background-color.
 
 ### Javascript
 
@@ -544,7 +541,7 @@ To load a track, a function loadTrack() is defined which handles the following t
 
 ````track_art.style.backgroundImage =``
 
-````"url("`` ``\+ track_list[track_index].image + ``")"``;``
+````"url("````\+ track_list[track_index].image + ``")"``;``
 
 ````track_name.textContent = track_list[track_index].name;``
 
@@ -552,7 +549,7 @@ To load a track, a function loadTrack() is defined which handles the following t
 
 ````now_playing.textContent =``
 
-````"PLAYING "`` ``\+ (track_index + 1) + ``" OF "`` `\+ track_list.length;`
+````"PLAYING "````\+ (track_index + 1) + ``" OF "`` `\+ track_list.length;`
 
 \` \`
 
@@ -596,7 +593,7 @@ To load a track, a function loadTrack() is defined which handles the following t
 
 \` \`
 
-````let bgColor = ``"rgb("`` ``\+ red + ``", "`` ``\+ green + ``", "`` ``\+ blue + ``")"``;``
+````let bgColor = ``"rgb("`` ``\+ red +``", "````\+ green + ``", "`` ``\+ blue +``")"``;``
 
 \` \`
 
@@ -726,17 +723,13 @@ Similarly, a function nextTrack() handles the loading of the next track and movi
 **Step 4:** Configuring the sliders portion  
 We will be setting up two sliders that control the seek slider and the volume slider.
 
-  * **The seek slider**  
-	The seek slider shows the current playback position on a slider by updating it with the current time of the track. A new function is created seekUpdate() which handles the updating of the seek slider relative to the current time of the track. The seek slider position is calculated and set using the value property.  
-	Now, this function has to be called every time the track progresses further. This can be done by scheduling it to be updated every second. This can be done using the setInterval() method with an interval of 1000 milliseconds. This timer is cleared every time a new track is loaded.  
-	This function also handles the changing of the time elapsed and the total duration of the track, which is updated every time this function fires. The minutes and the seconds are separately calculated and properly formatted to be displayed.
+* **The seek slider**  
+ The seek slider shows the current playback position on a slider by updating it with the current time of the track. A new function is created seekUpdate() which handles the updating of the seek slider relative to the current time of the track. The seek slider position is calculated and set using the value property.  
+ Now, this function has to be called every time the track progresses further. This can be done by scheduling it to be updated every second. This can be done using the setInterval() method with an interval of 1000 milliseconds. This timer is cleared every time a new track is loaded.  
+ This function also handles the changing of the time elapsed and the total duration of the track, which is updated every time this function fires. The minutes and the seconds are separately calculated and properly formatted to be displayed.
 
-	 
-
-  * **The volume slider**  
-	The volume slider is used to display an set the current volume of the track. A new function is created setVolume() which handles the setting of the volume slider whenever the user changes it.
-
-	 
+* **The volume slider**  
+ The volume slider is used to display an set the current volume of the track. A new function is created setVolume() which handles the setting of the volume slider whenever the user changes it.
 
 ### Javascript
 
@@ -802,13 +795,13 @@ We will be setting up two sliders that control the seek slider and the volume sl
 
 \` \`
 
-````if`` ``(currentSeconds < 10) { currentSeconds = ``"0"`` `\+ currentSeconds; }`
+````if````(currentSeconds < 10) { currentSeconds = ``"0"`` `\+ currentSeconds; }`
 
-````if`` ``(durationSeconds < 10) { durationSeconds = ``"0"`` `\+ durationSeconds; }`
+````if````(durationSeconds < 10) { durationSeconds = ``"0"`` `\+ durationSeconds; }`
 
-````if`` ``(currentMinutes < 10) { currentMinutes = ``"0"`` `\+ currentMinutes; }`
+````if````(currentMinutes < 10) { currentMinutes = ``"0"`` `\+ currentMinutes; }`
 
-````if`` ``(durationMinutes < 10) { durationMinutes = ``"0"`` `\+ durationMinutes; }`
+````if````(durationMinutes < 10) { durationMinutes = ``"0"`` `\+ durationMinutes; }`
 
 \` \`
 
@@ -836,21 +829,14 @@ HTML is the foundation of webpages, is used for webpage development by structuri
 
 CSS is the foundation of webpages, is used for webpage development by styling websites and web apps.You can learn CSS from the ground up by following this [CSS Tutorial][5] and [CSS Examples][6].
 
-  
-  
-  
-
-
-
 ----
 
-[1]:	https://ide.geeksforgeeks.org/tryit.php/T3gdWUn4aX
-[2]:	https://github.com/sayantanm19/js-music-player
-[3]:	https://www.geeksforgeeks.org/html-tutorials/
-[4]:	https://www.geeksforgeeks.org/html-examples/
-[5]:	https://www.geeksforgeeks.org/css-tutorials/
-[6]:	https://www.geeksforgeeks.org/css-examples/
+[1]: https://ide.geeksforgeeks.org/tryit.php/T3gdWUn4aX
+[2]: https://github.com/sayantanm19/js-music-player
+[3]: https://www.geeksforgeeks.org/html-tutorials/
+[4]: https://www.geeksforgeeks.org/html-examples/
+[5]: https://www.geeksforgeeks.org/css-tutorials/
+[6]: https://www.geeksforgeeks.org/css-examples/
 
-[image-1]:	https://media.geeksforgeeks.org/wp-content/uploads/20200417134245/chrome_cfLtTgiJ3y.png
 
-#article
+# article

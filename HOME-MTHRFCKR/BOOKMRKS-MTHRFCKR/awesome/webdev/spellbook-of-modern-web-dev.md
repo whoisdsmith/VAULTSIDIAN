@@ -54,112 +54,111 @@
 
 ## Table of Contents
 
-
-- [Platforms and Languages](#platforms-and-languages)
-  - [Open Web Platform](#open-web-platform)
-    - Learning, Reference, Visual Tools
-    - Performance, Security, Semantics / SEO / Accessibility
-  - [HTML5 / Web APIs](#html5--web-apis)
-    - HTML/DOM, Appearance, Interaction, Access, Network, Media, Graphics, Computing...
-  - [CSS Features](#css-features)
-    - RWD, Layout, Typography, Text, Animation, Effects...
-  - [Modern CSS / Next-Gen CSS](#modern-css--next-gen-css)
-    - CSS Module, PostCSS, CSS in JS
-    - Best Practices (Skeleton, Methodology, Code Style...)
-    - Know More about Web Design / UI Design / UX Design (RWD, Atomic Design, Motion Design, Grid System, Typography, Style Guide...)
-  - [Modern JS / Next-Gen JS](#modern-js--next-gen-js)
-    - ES6+ Features, Intro to ES6+, Re-intro to JS, Important Proposals, Functional Programming, FRP, Static Typing, Code Style...
-  - [WebAssembly](#webassembly)
-    - Concepts, Features, Rust, ...
-  - [Node.js](#nodejs)
-    - Intro, Workshop, Best Practices...
-  - [Platform Compatibility and Proposal Status](#platform-compatibility-and-proposal-status)
-    - Platform Status / Releases / Updates, ECMAScript Compatibility
-    - Proposal Status (W3C WG, WICG, WHATWG, ECMA TC39, Node.js CTC)
-    - JS Engine (V8, JSC, Chakra), Web/JS Runtime (Electron, Cordova, React Native...), Device...
-  - [Cross-browser / Polyfill Libraries](#cross-browser--polyfill-libraries)
-    - Appearance, Interaction, Access, Network, Performance, Offline, Media...
-  - [npm Ecosystem](#npm-ecosystem)
-    - Finding Packages (Search, Stats, Rank)
-    - Dependency Management / Release / Maintenance (npm, yarn, lerna, ncp...)
-    - Convention (Open Source, SemVer, package.json, Small modules, Isomorphic JS / Universal JS...)
-  - [Universal Utility Libraries](#universal-utility-libraries)
-    - Standard Library Extensions (FP, OOP, Async...)
-    - Hashing / Generating
-    - Parsing / Manipulating (URL, Validator, i18n, Date, Numbers, Color, Text, Buffer / Blob...)
-    - Logic, Network, Storage, NLP, ML...
-- [Universal Web Apps / Web Pages](#universal-web-apps--web-pages)
-  - [GUI Framework](#gui-framework)
-    - View / ViewModel / ViewController (React)
-    - Model / App State (Redux)
-    - API (GraphQL)
-    - GUI Architectures (MVC, MVP, PM, MVVM, Flux, Redux, Elm, MVI, SAM...)
-  - [UI Toolkits](#ui-toolkits)
-    - CSS, React...
-  - [Standalone UI Components](#standalone-ui-components)
-    - Layout, Icon, Button, Form, Overlay, Picker, Content, Editor...
-- [Client Side](#client-side)
-  - [UX Libraries](#ux-libraries)
-    - Drag & Drop, Gesture, Scrolling, Zoom, Tooltip, Tour...
-  - [Graphic Libraries](#graphic-libraries)
-    - Animation (Effects, Loading, Scrolling, Parallax, Transition, Timeline, Motion / Curved Path...)
-    - 2D (Canvas, SVG, Physics...), 3D (WebGL, Physics...)
-    - Data Visualization, Game...
-  - [Hybrid Libraries](#hybrid-libraries)
-    - Electron, React Native
-- [Server Side](#server-side)
-  - [Network](#network)
-    - HTTP (Intro, Same-origin policy, Performance, HTTPS, HTTP/2, gRPC...)
-    - TCP, UDP...
-  - [Server-side Best Practices](#server-side-best-practices)
-    - Restful API, SaaS, Microservices (API Gateway, Serverless)
-    - Cloud / Distributed, Web Hosting / Non-distributed
-    - Authentication / Authorization, Security, Logging / Monitoring, DevOps...
-  - [Microservices / API Services (Node.js)](#microservices--api-services-nodejs)
-    - Frameworks (RESTful API, Microservices, Serverless, Bots...), GraphQL, DocGen + CodeGen...
-  - [Server-side Libraries (Node.js)](#server-side-libraries-nodejs)
-    - Configuration, Debugging, Protocols, Network, Crypto, Auth, Storage, Jobs, Scraping, Images, Parsing / Generating, NLP...
-  - [Cloud Services (Global)](#cloud-services-global)
-    - Compute (FaaS / Serverless / WebHook, PaaS, CaaS)
-    - Storage (Object Storage, DBaaS)
-    - BaaS (CRUD, Auth, Search, Email, SMS...)
-    - AIaaS / BDaaS (Natural Language, Computer Vision...)
-  - [Cloud Services (China)](#cloud-services-china)
-    - The evil twins inside [the Great Firewall of China](https://github.com/dexteryy/spellbook-of-modern-webdev/pull/4)
-- [Tooling](#tooling)
-  - [Testing](#testing)
-    - Unit Testing / Test Runner, Test Doubles
-    - Web Testing (Integration Testing, Functional/E2E Testing, Visual testing, Monkey Testing, Headless Browsers)
-    - Server-side Testing (Functional Testing, Load Testing)
-    - Benchmark Testing
-    - Analysis (Code Coverage, Node.js Security...)
-  - [Documentation](#documentation)
-    - JS, API, CLI, CSS / Style Guide, Writing
-  - [Toolchain](#toolchain)
-    - Compiler / Transpiler / Preprocessor (Babel, PostCSS...)
-    - Loader / Builder / Bundler (Webpack, Rollup...)
-    - Minifier / Compressor / Optimizer (Prepack, Babili / Uglify, imagemin, cssnano / clean-css...)
-    - Formatter (Prettier, Stylefmt...)
-    - Static Analysis (ESLint, Flow, StyleLint...)
-    - Task Automation (npm scripts, Gulp...)
-  - [Workflow](#workflow)
-    - Development (Micro Generator, Live Reload / Watch / Preview, Dev Tools, HTTP Inspector, Debugging Proxy...)
-    - Deployment (Process Supervisor, Containers, Container Clusters, PaaS)
-    - Monitoring (Error Tracking, Logging, APM...)
-  - [Command-line Environment (Mac)](#command-line-environment-mac)
-    - Terminal, Homebrew, Zsh, Vim, Git, Docker, dotfiles, Utilities...
-  - [Command-line Libraries (Node.js)](#command-line-libraries-nodejs)
-    - Input (Options/Arguments Parser, Interactive, Configuration...)
-    - Output (Color / Style, Icon, Updating Log, Notice, Columns, Curses, Drawing...)
-    - Delivery, OS, API, Parser...
-  - [IDE / Editors](#ide--editors)
-    - VSCode Plugins (UI, Formatting, Operating, Static Analysis, Docs, Assistant, Integration...)
-    - Atom Plugins (UI, Formatting, Operating, Static Analysis, Docs, Assistant, Integration...)
-    - Out-of-the-box Atom IDE, Other Electron-based IDE, Programming Fonts...
-  - [Useful Apps](#useful-apps)
-    - Playground, Visual Tools, Viewer, Docs, Automation...
-  - [Collaboration](#collaboration)
-    - Version Control, ChatOps, Kanban, Markdown, Design...
+* [Platforms and Languages](#platforms-and-languages)
+  * [Open Web Platform](#open-web-platform)
+    * Learning, Reference, Visual Tools
+    * Performance, Security, Semantics / SEO / Accessibility
+  * [HTML5 / Web APIs](#html5--web-apis)
+    * HTML/DOM, Appearance, Interaction, Access, Network, Media, Graphics, Computing...
+  * [CSS Features](#css-features)
+    * RWD, Layout, Typography, Text, Animation, Effects...
+  * [Modern CSS / Next-Gen CSS](#modern-css--next-gen-css)
+    * CSS Module, PostCSS, CSS in JS
+    * Best Practices (Skeleton, Methodology, Code Style...)
+    * Know More about Web Design / UI Design / UX Design (RWD, Atomic Design, Motion Design, Grid System, Typography, Style Guide...)
+  * [Modern JS / Next-Gen JS](#modern-js--next-gen-js)
+    * ES6+ Features, Intro to ES6+, Re-intro to JS, Important Proposals, Functional Programming, FRP, Static Typing, Code Style...
+  * [WebAssembly](#webassembly)
+    * Concepts, Features, Rust, ...
+  * [Node.js](#nodejs)
+    * Intro, Workshop, Best Practices...
+  * [Platform Compatibility and Proposal Status](#platform-compatibility-and-proposal-status)
+    * Platform Status / Releases / Updates, ECMAScript Compatibility
+    * Proposal Status (W3C WG, WICG, WHATWG, ECMA TC39, Node.js CTC)
+    * JS Engine (V8, JSC, Chakra), Web/JS Runtime (Electron, Cordova, React Native...), Device...
+  * [Cross-browser / Polyfill Libraries](#cross-browser--polyfill-libraries)
+    * Appearance, Interaction, Access, Network, Performance, Offline, Media...
+  * [npm Ecosystem](#npm-ecosystem)
+    * Finding Packages (Search, Stats, Rank)
+    * Dependency Management / Release / Maintenance (npm, yarn, lerna, ncp...)
+    * Convention (Open Source, SemVer, package.json, Small modules, Isomorphic JS / Universal JS...)
+  * [Universal Utility Libraries](#universal-utility-libraries)
+    * Standard Library Extensions (FP, OOP, Async...)
+    * Hashing / Generating
+    * Parsing / Manipulating (URL, Validator, i18n, Date, Numbers, Color, Text, Buffer / Blob...)
+    * Logic, Network, Storage, NLP, ML...
+* [Universal Web Apps / Web Pages](#universal-web-apps--web-pages)
+  * [GUI Framework](#gui-framework)
+    * View / ViewModel / ViewController (React)
+    * Model / App State (Redux)
+    * API (GraphQL)
+    * GUI Architectures (MVC, MVP, PM, MVVM, Flux, Redux, Elm, MVI, SAM...)
+  * [UI Toolkits](#ui-toolkits)
+    * CSS, React...
+  * [Standalone UI Components](#standalone-ui-components)
+    * Layout, Icon, Button, Form, Overlay, Picker, Content, Editor...
+* [Client Side](#client-side)
+  * [UX Libraries](#ux-libraries)
+    * Drag & Drop, Gesture, Scrolling, Zoom, Tooltip, Tour...
+  * [Graphic Libraries](#graphic-libraries)
+    * Animation (Effects, Loading, Scrolling, Parallax, Transition, Timeline, Motion / Curved Path...)
+    * 2D (Canvas, SVG, Physics...), 3D (WebGL, Physics...)
+    * Data Visualization, Game...
+  * [Hybrid Libraries](#hybrid-libraries)
+    * Electron, React Native
+* [Server Side](#server-side)
+  * [Network](#network)
+    * HTTP (Intro, Same-origin policy, Performance, HTTPS, HTTP/2, gRPC...)
+    * TCP, UDP...
+  * [Server-side Best Practices](#server-side-best-practices)
+    * Restful API, SaaS, Microservices (API Gateway, Serverless)
+    * Cloud / Distributed, Web Hosting / Non-distributed
+    * Authentication / Authorization, Security, Logging / Monitoring, DevOps...
+  * [Microservices / API Services (Node.js)](#microservices--api-services-nodejs)
+    * Frameworks (RESTful API, Microservices, Serverless, Bots...), GraphQL, DocGen + CodeGen...
+  * [Server-side Libraries (Node.js)](#server-side-libraries-nodejs)
+    * Configuration, Debugging, Protocols, Network, Crypto, Auth, Storage, Jobs, Scraping, Images, Parsing / Generating, NLP...
+  * [Cloud Services (Global)](#cloud-services-global)
+    * Compute (FaaS / Serverless / WebHook, PaaS, CaaS)
+    * Storage (Object Storage, DBaaS)
+    * BaaS (CRUD, Auth, Search, Email, SMS...)
+    * AIaaS / BDaaS (Natural Language, Computer Vision...)
+  * [Cloud Services (China)](#cloud-services-china)
+    * The evil twins inside [the Great Firewall of China](https://github.com/dexteryy/spellbook-of-modern-webdev/pull/4)
+* [Tooling](#tooling)
+  * [Testing](#testing)
+    * Unit Testing / Test Runner, Test Doubles
+    * Web Testing (Integration Testing, Functional/E2E Testing, Visual testing, Monkey Testing, Headless Browsers)
+    * Server-side Testing (Functional Testing, Load Testing)
+    * Benchmark Testing
+    * Analysis (Code Coverage, Node.js Security...)
+  * [Documentation](#documentation)
+    * JS, API, CLI, CSS / Style Guide, Writing
+  * [Toolchain](#toolchain)
+    * Compiler / Transpiler / Preprocessor (Babel, PostCSS...)
+    * Loader / Builder / Bundler (Webpack, Rollup...)
+    * Minifier / Compressor / Optimizer (Prepack, Babili / Uglify, imagemin, cssnano / clean-css...)
+    * Formatter (Prettier, Stylefmt...)
+    * Static Analysis (ESLint, Flow, StyleLint...)
+    * Task Automation (npm scripts, Gulp...)
+  * [Workflow](#workflow)
+    * Development (Micro Generator, Live Reload / Watch / Preview, Dev Tools, HTTP Inspector, Debugging Proxy...)
+    * Deployment (Process Supervisor, Containers, Container Clusters, PaaS)
+    * Monitoring (Error Tracking, Logging, APM...)
+  * [Command-line Environment (Mac)](#command-line-environment-mac)
+    * Terminal, Homebrew, Zsh, Vim, Git, Docker, dotfiles, Utilities...
+  * [Command-line Libraries (Node.js)](#command-line-libraries-nodejs)
+    * Input (Options/Arguments Parser, Interactive, Configuration...)
+    * Output (Color / Style, Icon, Updating Log, Notice, Columns, Curses, Drawing...)
+    * Delivery, OS, API, Parser...
+  * [IDE / Editors](#ide--editors)
+    * VSCode Plugins (UI, Formatting, Operating, Static Analysis, Docs, Assistant, Integration...)
+    * Atom Plugins (UI, Formatting, Operating, Static Analysis, Docs, Assistant, Integration...)
+    * Out-of-the-box Atom IDE, Other Electron-based IDE, Programming Fonts...
+  * [Useful Apps](#useful-apps)
+    * Playground, Visual Tools, Viewer, Docs, Automation...
+  * [Collaboration](#collaboration)
+    * Version Control, ChatOps, Kanban, Markdown, Design...
 
 A Subset as a __Learning Path__
 
@@ -180,27 +179,27 @@ A Subset as a __Learning Path__
 
 A Subset for __Finding Libraries__
 
-- [Cross-browser / Polyfill Libraries](#cross-browser--polyfill-libraries)
-- [Hybrid Libraries](#hybrid-libraries)
-- [GUI Framework](#gui-framework)
-- [UI Toolkits](#ui-toolkits)
-- [Standalone UI Components](#standalone-ui-components)
-- [UX Libraries](#ux-libraries)
-- [Graphic Libraries](#graphic-libraries)
-- [Universal Utility Libraries](#universal-utility-libraries)
-- [Microservices / API Services (Node.js)](#microservices--api-services-nodejs)
-- [Server-side Libraries (Node.js)](#server-side-libraries-nodejs)
-- [Command-line Libraries (Node.js)](#command-line-libraries-nodejs)
+* [Cross-browser / Polyfill Libraries](#cross-browser--polyfill-libraries)
+* [Hybrid Libraries](#hybrid-libraries)
+* [GUI Framework](#gui-framework)
+* [UI Toolkits](#ui-toolkits)
+* [Standalone UI Components](#standalone-ui-components)
+* [UX Libraries](#ux-libraries)
+* [Graphic Libraries](#graphic-libraries)
+* [Universal Utility Libraries](#universal-utility-libraries)
+* [Microservices / API Services (Node.js)](#microservices--api-services-nodejs)
+* [Server-side Libraries (Node.js)](#server-side-libraries-nodejs)
+* [Command-line Libraries (Node.js)](#command-line-libraries-nodejs)
 
 A Subset for __Architecture and Infrastructure__
 
-- [GUI Framework](#gui-framework)
-- [Toolchain](#toolchain)
-- [Workflow](#workflow)
-- [Microservices / API Services (Node.js)](#microservices--api-services-nodejs)
-- [Server-side Best Practices](#server-side-best-practices)
-- [Cloud Services (Global)](#cloud-services-global) / [Cloud Services (China)](#cloud-services-china)
-- [Documentation](#documentation)
+* [GUI Framework](#gui-framework)
+* [Toolchain](#toolchain)
+* [Workflow](#workflow)
+* [Microservices / API Services (Node.js)](#microservices--api-services-nodejs)
+* [Server-side Best Practices](#server-side-best-practices)
+* [Cloud Services (Global)](#cloud-services-global) / [Cloud Services (China)](#cloud-services-china)
+* [Documentation](#documentation)
 
 ---
 
@@ -1308,7 +1307,7 @@ A Subset for __Architecture and Infrastructure__
 
 * Drag & Drop
   * [React DnD](https://react-dnd.github.io/react-dnd) / [React Draggable](https://www.npmjs.com/package/react-draggable)
-  * [React Sortable HOC ](https://www.npmjs.com/package/react-sortable-hoc) / [Sortable](https://github.com/RubaXa/Sortable)
+  * [React Sortable HOC](https://www.npmjs.com/package/react-sortable-hoc) / [Sortable](https://github.com/RubaXa/Sortable)
   * [React Dropzone](https://www.npmjs.com/package/react-dropzone) / [DropzoneJS](http://www.dropzonejs.com/)
   * [GSAP - Draggable](https://greensock.com/draggable)
 * Gesture
@@ -1926,7 +1925,7 @@ A Subset for __Architecture and Infrastructure__
           * AWS Lambda - [Chromeless](https://www.npmjs.com/package/chromeless)
         * electron-prebuilt - [Nightmare](https://github.com/segmentio/nightmare)
       * WebDriver API - [Selenium WebDriverJS](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) / [WebDriverIO](http://webdriver.io/) / [Nightwatch.js](http://nightwatchjs.org/) / [CasperJS](http://casperjs.org/) / [Protractor](http://www.protractortest.org/)
-          * AWS Lambda - [Lambdium](https://github.com/smithclay/lambdium)
+        * AWS Lambda - [Lambdium](https://github.com/smithclay/lambdium)
     * Cloud - [BrowserStack Automate](https://www.browserstack.com/automate) / [Sauce Labs](https://saucelabs.com/open-source#automated-testing-platform)
   * Visual Testing
     * [React Storybook](https://storybooks.js.org/) / [React Cosmos](https://github.com/react-cosmos/react-cosmos)

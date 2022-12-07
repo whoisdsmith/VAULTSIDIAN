@@ -17,11 +17,12 @@ We have re-imagined the UX from the ground up, made the product much easier to u
 That all said, we are not (yet) making v2 the default for existing users until we address a few key known limitations including:
 
 * State management (improved `$checkpoint`)
-* Workflow sharing outside of teams 
+* Workflow sharing outside of teams
 * Ability to view deployment history (and revert)
 * Ability to replay events from the event inspector
 
 _Get Started_
+
 * Read our [quickstart](/quickstart/), [docs](/), and/or [FAQ](#FAQ) :point_left:
 * Have questions? Ask here or on [Discourse](https://pipedream.com/community) :speech_balloon:
 * As a reminder, all integration components are open-source and [hosted on GitHub](https://github.com/PipedreamHQ/pipedream). You can [contribute your own integrations](/contributing) or improve existing ones.
@@ -83,7 +84,6 @@ In the **Test Trigger** portion of your trigger, you can select a past event see
   <img src="./images/testing-individual-events.gif" alt="Test your workflow with a specific event">
 </div>
 
-
 ### Deploying Changes
 
 After you're happy with your changes, **deploy** them to your production workflow. Just click the **Deploy** button in the top right hand corner of the screen.
@@ -117,7 +117,7 @@ defineComponent({
 1. The `event` from the trigger step is still available, but exposed in `steps.trigger.event` instead.
 2. The `$` variable has been passed into the `run` function where your code is executed.
 
-You can think of the `$` as the entry point to built in Pipedream functions. In v1, this special functions included `$end`, `$respond`, etc. In v2, these have been remapped to `$.flow.exit` and `$.respond` respectively. 
+You can think of the `$` as the entry point to built in Pipedream functions. In v1, this special functions included `$end`, `$respond`, etc. In v2, these have been remapped to `$.flow.exit` and `$.respond` respectively.
 
 These changes unify workflow development to the [Component API](/components/) used by pre-built actions and also allows the [defining of props](#params-vs-props) from within your code steps.
 
@@ -146,7 +146,7 @@ defineComponent({
 
 Allowing all of the scaffolding to be edited opens up the ability to [pass props](/code/nodejs/#passing-props-to-code-steps) into your Node.js code steps, which we'll cover later.
 
-### Step Exports 
+### Step Exports
 
 In v1, you could assign arbitrary properties to `this` within a Node.js step and the properties would be available as step exports:
 
@@ -169,11 +169,12 @@ defineComponent({
   }
 });
 ```
+
 ::: tip
 Using `return` to export data is the same from v1 to v2. You can still `return` data, and it will be available to other steps with `steps.[stepName].$return_value.
 :::
 
-### Exiting a workflow early 
+### Exiting a workflow early
 
 In v1, the `$end` function can be called to exit a flow early:
 
@@ -258,7 +259,6 @@ export default defineComponent({
 After testing the step, you'll see the Slack app will appear in the **Configuration** section on the left hand side. In this section you can choose which Slack account you'd like to use in the step.
 
 <img src="./images/app-props-example.png" alt="Example of adding an app connection to a v2 Node.js step">
-
 
 ### HTTP Response
 
@@ -376,5 +376,3 @@ if you'd like to default to the v2 builder when creating new workflows, you can 
 There is currently no deprecation date for v1 workflows. We will continue to support of v1 workflows until we have feature parity with v2.
 
 When this date becomes clear we will provide assistance to automatically and assist migrate v1 to v2 workflows for you.
-
-

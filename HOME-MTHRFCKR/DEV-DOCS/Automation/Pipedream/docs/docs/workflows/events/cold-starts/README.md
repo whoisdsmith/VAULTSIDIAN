@@ -1,8 +1,8 @@
 # Cold Starts
 
-If your workflow doesn't process an event for roughly 5 minutes, Pipedream turns off the execution environment that runs your code. When your workflow receives another event, Pipedream creates a new execution environment and process your event. **Initializing this environment takes a few seconds, which delays the execution of this first event**. This is common on serverless platforms, and is typically referred to as a "cold start". 
+If your workflow doesn't process an event for roughly 5 minutes, Pipedream turns off the execution environment that runs your code. When your workflow receives another event, Pipedream creates a new execution environment and process your event. **Initializing this environment takes a few seconds, which delays the execution of this first event**. This is common on serverless platforms, and is typically referred to as a "cold start".
 
-If your workflow needs to process data in a time-sensitive manner (for example, if you're issuing an HTTP response), you can implement the following workaround to keep your workflow "warm". 
+If your workflow needs to process data in a time-sensitive manner (for example, if you're issuing an HTTP response), you can implement the following workaround to keep your workflow "warm".
 
 ### 1. Create a scheduled workflow that triggers your original workflow via HTTP request
 

@@ -8,16 +8,13 @@
 
 Miscellaneous
 
-](https://www.reddit.com/r/ifttt/search?q=flair_name%3A%22Miscellaneous%22&restrict_sr=1)
+](<https://www.reddit.com/r/ifttt/search?q=flair_name%3A%22Miscellaneous%22&restrict_sr=1>)
 
 Let's do a simple test.
 
--   Get your webhooks key by heading to the [Webhooks service page](https://ifttt.com/maker_webhooks) and clicking Documentation.
-    
--   While on that SAME PAGE on [maker.ifttt.com/use/...](https://maker.ifttt.com/use/%2E%2E%2E) open up your browser console (usually Ctrl+Shift+J) and run this line of JavaScript:
-    
+- Get your webhooks key by heading to the [Webhooks service page](https://ifttt.com/maker_webhooks) and clicking Documentation.
 
-  
+- While on that SAME PAGE on [maker.ifttt.com/use/...](https://maker.ifttt.com/use/%2E%2E%2E) open up your browser console (usually Ctrl+Shift+J) and run this line of JavaScript:
 
 ```
 fetch(`https://maker.ifttt.com/trigger/do_${prompt('What to do?','something')}/with/key/${prompt('Paste your key')}`).then(a=>a.text()).then(b=>alert(b))

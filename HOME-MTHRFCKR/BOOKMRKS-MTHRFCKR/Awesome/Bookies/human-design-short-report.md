@@ -1,4 +1,4 @@
-[Get your free personalized Human Design Report](https://ihdschool.com/chart-reports/free) 
+[Get your free personalized Human Design Report](https://ihdschool.com/chart-reports/free)
 
 ## Report
 

@@ -2,11 +2,11 @@
 
 `:%s/\s\+$//e`
 
-### Create a password-protected file using vim:
+### Create a password-protected file using vim
 
 `vim -x ostechnix.txt`
 
-### To remove the password, open the file using vim:
+### To remove the password, open the file using vim
 
 `vim ostechnix.txt`
 
@@ -21,6 +21,7 @@ Finally type `:wq` to save and close the file.
 `gg=G`
 
 ### Text selection ([Source](https://www.cs.swarthmore.edu/oldhelp/vim/selection.html))
+
 ```
 V       - selects entire lines
 v       - selects range of text
@@ -29,6 +30,7 @@ gv      - reselect block
 ```
 
 ### Basics (command mode)
+
 * `:open FILE_PATH` : open a file
 * `x` - to delete the unwanted character
 * `u` - to undo the last the command and U to undo the whole line
@@ -73,9 +75,11 @@ gv      - reselect block
 ### Executing commands (shell)
 
 use current buffer as input of a shell command
+
 * `:%! grep hello` to search for all lines containing hello in the current buffer ([Source](https://superuser.com/a/1507327/453117))
 
 ### Window management
+
 * `:tabe filename` to open a file in a new tab ([Source](https://unix.stackexchange.com/a/27587/220566))
 * `gT` and `gt` can be used to switch between tabs ([Source](https://unix.stackexchange.com/a/27587/220566))
 * `vim -p file1 file2` to open files in tabs ([Source](https://unix.stackexchange.com/questions/27586/how-can-i-edit-multiple-files-in-vim#comment37261_27587))
@@ -86,6 +90,7 @@ use current buffer as input of a shell command
 * To find more commands: [How To Use VIM Split Screen](https://linuxhint.com/how-to-use-vim-split-screen/)
 
 ### Buffer management
+
 * `:bf` go to first file
 * `:bn` go to next file
 * `:bp` go to previous file
@@ -94,7 +99,9 @@ use current buffer as input of a shell command
 * `:help buffer` to find more information
 
 ### YouCompleteMe
+
 * `Ctrl+<SPACE>` trigger auto completion
 
 ### Sources
+
 * [Basic Vim commands - For getting started](https://coderwall.com/p/adv71w/basic-vim-commands-for-getting-started)

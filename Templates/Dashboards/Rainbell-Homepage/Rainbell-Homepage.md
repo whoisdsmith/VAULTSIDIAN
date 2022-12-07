@@ -256,7 +256,7 @@ status：进行中
 tags： project
 ```
 
-在单笔记项目的 YAML 部分。它基于 https://gist.github.com/chrisgrieser/ac16a80cdd9e8e0e84606cc24e35ad99  
+在单笔记项目的 YAML 部分。它基于 <https://gist.github.com/chrisgrieser/ac16a80cdd9e8e0e84606cc24e35ad99>  
 因此您可以在此处查看更多信息。
 
 如果你想使用“完成任务/总任务”来进行项目进度追踪，请使用如下YAML：

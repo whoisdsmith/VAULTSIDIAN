@@ -1,6 +1,6 @@
 # Go
 
-**Anything you can do in Go, you can do in a Pipedream Workflow**. You can use any of [Go packages available](https://pkg.go.dev/) with a simple `import` no `go get` needed. 
+**Anything you can do in Go, you can do in a Pipedream Workflow**. You can use any of [Go packages available](https://pkg.go.dev/) with a simple `import` no `go get` needed.
 
 Pipedream supports [Go v{{$site.themeConfig.GO_LANG_VERSION}}](https://go.dev) in workflows.
 
@@ -11,7 +11,6 @@ You can still run arbitrary Go code, including [sharing data between steps](/cod
 
 However, features available in [Node.js steps](/code/nodejs) like `$.respond`, `$.end`, and `$.auth` are not yet available in bash. If you have any questions please [contact support](https://pipedream.com/support).
 :::
-
 
 ## Adding a Go code step
 
@@ -37,6 +36,7 @@ Don't forget to import the `fmt` package in order to run `fmt.Println`.
     fmt.Println("Hello World!")
   }
 ```
+
 :::
 
 ## Using third party packages
@@ -200,19 +200,19 @@ In this example, we'll pretend this data is coming into our HTTP trigger via POS
 }
 ```
 
-You can access this data in the `Steps` variable from the `pd` package. Specifically, this data from the POST request into our workflow is available in the `trigger` map. 
+You can access this data in the `Steps` variable from the `pd` package. Specifically, this data from the POST request into our workflow is available in the `trigger` map.
 
 ```go
 package main
 
 import (
-	"fmt"
-	"github.com/PipedreamHQ/pipedream-go"
+ "fmt"
+ "github.com/PipedreamHQ/pipedream-go"
 )
 
 func main() {
-	// Access previous step data using pd.Steps
-	fmt.Println(pd.Steps["trigger"])
+ // Access previous step data using pd.Steps
+ fmt.Println(pd.Steps["trigger"])
 }
 ```
 
@@ -224,23 +224,23 @@ To share data for future steps to use, call the Export function from pd package:
 package main
 
 import (
-	"encoding/json"
-	"github.com/PipedreamHQ/pipedream-go"
-	"io/ioutil"
-	"net/http"
+ "encoding/json"
+ "github.com/PipedreamHQ/pipedream-go"
+ "io/ioutil"
+ "net/http"
 )
 
 func main() {
   // Use a GET request to look up the latest data on Charizard
-	resp, _ := http.Get("https://pokeapi.co/api/v2/pokemon/charizard")
-	body, _ := ioutil.ReadAll(resp.Body)
+ resp, _ := http.Get("https://pokeapi.co/api/v2/pokemon/charizard")
+ body, _ := ioutil.ReadAll(resp.Body)
 
   // Unmarshal the JSON into a struct
-	var data map[string]interface{}
-	json.Unmarshal(body, &data)
+ var data map[string]interface{}
+ json.Unmarshal(body, &data)
 
   // Expose the pokemon data downstream to others steps in the "pokemon" key from this step
-	pd.Export("pokemon", data)
+ pd.Export("pokemon", data)
 }
 ```
 
@@ -353,14 +353,13 @@ func main() {
 
 The step will quit at the time `os.Exit` is called. In this example, the exit code `1` will appear in the **Results** of the step.
 
-
 ## File storage
 
 You can also store and read files with Go steps. This means you can upload photos, retrieve datasets, accept files from an HTTP request and more.
 
 The `/tmp` directory is accessible from your workflow steps for saving and retrieving files.
 
-You have full access to read and write both files in `/tmp`. 
+You have full access to read and write both files in `/tmp`.
 
 ### Writing a file to `/tmp`
 
@@ -375,32 +374,32 @@ import (
 )
 func main() {
   // Define where the file is and where to save it
-	fileUrl := "https://golangcode.com/go-logo.svg"
+ fileUrl := "https://golangcode.com/go-logo.svg"
   filePath := "/tmp/go-logo.svg"
   
-	// Download the file
-	resp, err := http.Get(fileUrl)
-	if err != nil {
-		fmt.Println(err)
-	}
+ // Download the file
+ resp, err := http.Get(fileUrl)
+ if err != nil {
+  fmt.Println(err)
+ }
 
   // Don't forget to the close the HTTP connection at the end of the function
-	defer resp.Body.Close()
+ defer resp.Body.Close()
 
-	// Create the empty file
-	out, err := os.Create(filePath)
-	if err != nil {
-		fmt.Println(err)
-	}
+ // Create the empty file
+ out, err := os.Create(filePath)
+ if err != nil {
+  fmt.Println(err)
+ }
 
   // Don't forget to close close the file
-	defer out.Close()
+ defer out.Close()
 
-	// Write the file data to file
-	_, err = io.Copy(out, resp.Body)
-	if err != nil {
-		fmt.Println(err)
-	}
+ // Write the file data to file
+ _, err = io.Copy(out, resp.Body)
+ if err != nil {
+  fmt.Println(err)
+ }
 }
 ```
 

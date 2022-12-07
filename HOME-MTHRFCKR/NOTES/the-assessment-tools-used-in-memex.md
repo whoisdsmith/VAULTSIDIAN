@@ -96,15 +96,15 @@ European level as key tools for assessing socio-cultural projects.
 
 ## Key Messages to policy makers
 
--   **Analytical and flexible application**  
+- **Analytical and flexible application**  
     Existing tools, such as SRLs, can prove useful and applicable to different contexts,  
     needs and aims, but need to be applied in a critical and flexible way, adapting them  
     to the characteristics of the projects and the specific environmental and (socio-  
     cultural) conditions of the action.
--   **Need to invest in research and testing of assessment tools**  
+- **Need to invest in research and testing of assessment tools**  
     It is necessary to keep on researching and testing specific indicators, such as SRLs,  
     with a focus on cultural and social innovation and sustainability.
--   **Capacity building with a trans-sectorial approach**  
+- **Capacity building with a trans-sectorial approach**  
     Funding schemes should increase and support capacity building processes for  
     professionals operating in multi-disciplinary and trans-sectorial contexts to develop  
     competences and skills in the field of assessment and evaluation.  
@@ -117,7 +117,7 @@ European level as key tools for assessing socio-cultural projects.
 Copyright @MEMEX project
 ```
 
-### Read more about the MEMEX project: https://memexproject.eu/en
+### Read more about the MEMEX project: <https://memexproject.eu/en>
 
 ### Contact: alessio.delbue@iit.it, contact@memexproject.eu
 
@@ -127,14 +127,14 @@ Copyright @MEMEX project
 
 ### End date: 30 November 2022
 
-### Funded under topic: H2020-DT-TRANSFORMATIONS- 11 - 2019,
+### Funded under topic: H2020-DT-TRANSFORMATIONS- 11 - 2019
 
 ### Collaborative approaches to cultural heritage for social cohesion
 
-### Overall budget: € 3 995 036,
+### Overall budget: € 3 995 036
 
-### EU contribution: € 3 995 036,
+### EU contribution: € 3 995 036
 
 ### Coordinated by Fondazione Istituto Italiano di Tecnologia (IIT), Italy
 
-### Cordis page: https://cordis.europa.eu/project/id/
+### Cordis page: <https://cordis.europa.eu/project/id/>

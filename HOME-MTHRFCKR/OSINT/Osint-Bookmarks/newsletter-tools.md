@@ -1,4 +1,4 @@
-##  Newsletter Tools
+## Newsletter Tools
 
 * [AWeber](http://www.aweber.com)
 * [BombBomb](http://bombbomb.com)
@@ -18,4 +18,5 @@
 * [TinyLetter](http://tinyletter.com)
 * [VerticalResponse](http://www.verticalresponse.com)
 * [Vision6](http://www.vision6.com.au)
+
 ---

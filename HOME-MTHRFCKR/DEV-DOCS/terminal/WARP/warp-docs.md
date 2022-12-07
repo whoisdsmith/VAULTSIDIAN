@@ -7,28 +7,18 @@
 Warp's main features for Command Entry and History:
 
 - 1.
-    
 
     ​[A.I. Command Search](https://docs.warp.dev/features/entry/ai-command-search) (`` CTRL-` ``) converts natural language descriptions into shell commands that can be executed.
 
-    
-
 - 2.
-    
 
     ​[Workflows](https://docs.warp.dev/features/entry/workflows) (`CTRL-SHIFT-R`) are an easier way to execute and share parameterized and searchable commands within Warp.
 
-    
-
 - 3.
-    
 
     ​[Command Search](https://docs.warp.dev/features/entry/command-search) (`CTRL-R`) is a 3-in-1 panel that allows you to search across Command History, Workflows, Notebooks, and A.I. Command Search all at once.
 
-    
-
 - 4.
-    
 
     ​[Command History](https://docs.warp.dev/features/entry/command-history) (`UP`) allows Warp to isolate the history of each shell session to make previously run commands easily accessible.
 
@@ -43,25 +33,16 @@ AI Command Search converts natural language descriptions into shell commands tha
 ## How to Access it
 
 - 1.
-    
 
     Press `` CTRL- `` or type `#` into the Text Input Editor to open the AI Command Search panel.
 
-    
-
 - 2.
-    
 
     Type in the input box what you'd like to do and press `ENTER` to generate the command.
 
-    
-
 - 3.
-    
 
     Once the result shows up, press `CMD-ENTER` to input the generated command directly into Warp's Input Editor.
-
-    
 
 ---
 
@@ -74,52 +55,34 @@ Workflows are an easier way to execute and share commands within Warp. They are 
 ## How to Use it
 
 - Press `CTRL-SHIFT-R` to open the Workflow menu or through the Command Palette `CMD-P`.
-    
 
 - Once inside the menu, start typing in the search bar to filter the existing workflows or browse by category. (e.g. git, android, npm, etc.)
-    
 
 - When a Workflow is selected, you can use `SHIFT-TAB` to cycle thru the parameters.
-    
 
 ### How is This Different From Aliases?[](https://docs.warp.dev/features/entry/workflows#how-is-this-different-from-aliases)
 
 Workflows solve some major pain points with aliases, specifically the:
 
 - 1.
-    
 
     need to context switch
 
-    
-    - 1.
-        
+  - 1.
 
         leave vim, source dotfiles, or reset shell
 
-        
-    
-
 - 2.
-    
 
     difficulty with attaching documentation
 
-    
-
 - 3.
-    
 
     inability to easily search or share
 
-    
-
 - 4.
-    
 
     inability to easily parameterize
-
-    
 
 ---
 
@@ -235,7 +198,7 @@ The description of the argument. This is surfaced in both commands.dev and Warp 
 
 The default value for the argument. If specified, the `default_value` replaces the argument name within the command. Optional
 
-The workflow file format is a [yaml](https://yaml.org/) file and must have either a `.yml ` or `yaml` extension. If you're new to YAML and want to learn more, see [Learn YAML in Y minutes](https://learnxinyminutes.com/docs/yaml/). *Compatibility Note*: Warp is still in Beta and this format is subject to change.
+The workflow file format is a [yaml](https://yaml.org/) file and must have either a `.yml` or `yaml` extension. If you're new to YAML and want to learn more, see [Learn YAML in Y minutes](https://learnxinyminutes.com/docs/yaml/). *Compatibility Note*: Warp is still in Beta and this format is subject to change.
 
 **`name`**
 
@@ -354,11 +317,8 @@ Command Search panel allows you to search across Command History, Workflows, Not
 ## How to Access it
 
 - 1.
-    
 
     Press `CTRL-R` to open the Command Search Panel. You’ll be greeted with a landing page, where you can click through different filters to get started.
-
-    
 
 ![](https://848020679-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbqIgTw17KQvq_DQuRr%2Fuploads%2Fgit-blob-d05964a8547bccec07191bf2509a8461fea5b4dc%2Fcommand-search.png?alt=media)
 
@@ -367,11 +327,9 @@ Command Search panel allows you to search across Command History, Workflows, Not
 Command Search Panel
 
 - 1.
-    
 
     Type into the input box what your search query is. The results will be a mix of command history, saved workflows, and A.I. Command Search.
 
-        
         ![curly brackets](https://848020679-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbqIgTw17KQvq_DQuRr%2Fuploads%2Fgit-blob-1d87ef1fddcb49ad7719aaa9ba7e92245bf414ee%2Fworkflow.png?alt=media)
         
         Curly Brackets icon signifies that the result is a [Workflow](https://docs.warp.dev/features/entry/workflows).
@@ -390,27 +348,18 @@ Command Search Panel
         ![sparkle](https://848020679-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbqIgTw17KQvq_DQuRr%2Fuploads%2Fgit-blob-91ccf3f2a2c1de35174b3a29e8eb87048035cb85%2Fai-sparkle.png?alt=media)
         
         Sparkle icon signifies piping that search query into [A.I. Command Search](https://docs.warp.dev/features/entry/ai-command-search)
-        
-    
 
 - 2.
-    
 
     Activate a specific filter, by prepending your search term with:
 
-    
-    - `workflows:` will activate the workflows filter. You can also use the shortcuts `w:` or `W+TAB`.
-        
-    
-    - `history:` will activate the history filter. You can also use the shortcuts `h:` or `H+TAB`.
-        
-    
-    - `#:` will activate the A.I. Command Search filter. Once the filter is activated, it will be bolded and italicized.
-        
-    
+  - `workflows:` will activate the workflows filter. You can also use the shortcuts `w:` or `W+TAB`.
+
+  - `history:` will activate the history filter. You can also use the shortcuts `h:` or `H+TAB`.
+
+  - `#:` will activate the A.I. Command Search filter. Once the filter is activated, it will be bolded and italicized.
 
 - 3.
-    
 
     Once the result shows up, press ENTER to input the command directly into Warp's Input Editor. For history results, `CMD-ENTER` will directly execute the command.
 
@@ -425,11 +374,10 @@ While running, Warp isolates the history of each shell session e.g. if you have 
 ## How to Access it
 
 - Hitting `↑` (UP) in the [Input Editor](https://github.com/warpdotdev/docs/blob/main/features/entry/editor/README.md) brings up your history and performs a prefix search based on input.
-    
 
 - Pressing `CTRL-R` opens the [Command Search](https://docs.warp.dev/features/entry/command-search) panel and initiates a search of your Command History. To navigate the Command Search panel:
-    
-    - Start typing and Warp will automatically filter using fuzzy search. Warp bolds matching text when filtering with fuzzy search.
+
+  - Start typing and Warp will automatically filter using fuzzy search. Warp bolds matching text when filtering with fuzzy search.
 
 ---
 
@@ -442,35 +390,22 @@ Launch Configurations enables you to save your configuration of windows, tab, an
 ## How it works[](https://docs.warp.dev/features/entry/workflows#workflow-file-format#how-it-works)
 
 - 1.
-    
 
     Set up the configuration of windows, tabs, and panes you would like to save.
 
-    
-
 - 2.
-    
 
     From the Command Palette `CMD-P`, enter `#` to open the Launch Configuration Palette, then click plus **+**.
 
-    
-
 - 3.
-    
 
     Name the configuration file.
 
-    
-
 - 4.
-    
 
     Click the save configuration button.
 
-    
-
 - 5.
-    
 
     Then, toggle the Launch Configuration Palette like in step 2 from above, with the keyboard shortcut `CTRL-CMD-L`, or from the Mac Menu: `File > Launch Configurations`, where you can search through and open your saved configurations.
 
@@ -520,33 +455,34 @@ Here's a sample configuration that shows how tabs are structured.
 # Warp Launch Configuration
 
 #
-# This Configuration Has Two Windows.
 
-# The First Window Executes Two Commands on Start.
+# This Configuration Has Two Windows
 
-# The Second Window Has a Split Pane That Executes a Command on Start.
+# The First Window Executes Two Commands on Start
+
+# The Second Window Has a Split Pane That Executes a Command on Start
 
 ---
 
 name: Example Configuration With Starting Commands  
 windows:
 
-  - tabs:
-      - title: documents  
+- tabs:
+  - title: documents  
         layout:  
           cwd: /Users/warp-user/Documents  
           commands:  
             - exec: ls  
             - exec: code .  
         color: blue
-  - tabs:
-      - title: downloads  
+- tabs:
+  - title: downloads  
         layout:  
           split_direction: vertical  
           panes:  
             - cwd: /Users/warp-user/Downloads  
               commands:  
-                - exec: curl http://example.com -o my.file  
+                - exec: curl <http://example.com> -o my.file  
             - cwd: /Users/warp-user  
               commands:  
                 - exec: ssh user@remote.server.com  

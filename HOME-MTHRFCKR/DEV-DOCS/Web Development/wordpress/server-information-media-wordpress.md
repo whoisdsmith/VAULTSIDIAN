@@ -1,39 +1,39 @@
 ### Hosting Server Information
 
-##### Operating System:
+##### Operating System
 
 Linux
 
-##### Server IP:
+##### Server IP
 
 162.241.252.245
 
-##### Server Hostname:
+##### Server Hostname
 
 box5752.bluehost.com
 
-##### Server Protocol:
+##### Server Protocol
 
 HTTP/1.1
 
-##### Server Administrator:
+##### Server Administrator
 
 webmaster@ctrlaltback.space
 
-##### Server Web Port:
+##### Server Web Port
 
 443
 
-##### PHP Version:
+##### PHP Version
 
 8.0.16
 
-##### MySQL Version:
+##### MySQL Version
 
 5.7.23-23
 
-##### CGI Version:
+##### CGI Version
 
-##### System Uptime:
+##### System Uptime
 
 11:09:21 up 324 days, 13:33, 0 users, load average: 0.05, 0.01, 0.00

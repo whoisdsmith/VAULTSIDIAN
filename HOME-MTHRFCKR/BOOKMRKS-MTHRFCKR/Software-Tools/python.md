@@ -1,6 +1,6 @@
 # Python
 
-https://docs.python.org/3/tutorial/venv.html#creating-virtual-environments
+<https://docs.python.org/3/tutorial/venv.html#creating-virtual-environments>
 
 ```
 asdf install python 3.9.0
@@ -38,7 +38,7 @@ SPLIT_BEFORE_FIRST_ARGUMENT = True
 
 ## Virtualenv
 
-https://virtualenv.pypa.io/en/latest/cli_interface.html
+<https://virtualenv.pypa.io/en/latest/cli_interface.html>
 
 ```
 virtualenv env

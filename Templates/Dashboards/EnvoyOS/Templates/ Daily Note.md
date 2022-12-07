@@ -8,7 +8,7 @@ name : <% tp.date.now("DDMMYYYY") %>
 ---
 
 **Tags**:: #daily  
-**Links**::[[ DAILY NOTES](../../../../HOME-MTHRFCKR/DAILY%20NOTES/DAILY%20NOTES.md)
+**Links**::[[DAILY NOTES](../../../../HOME-MTHRFCKR/DAILY%20NOTES/DAILY%20NOTES.md)
 
 ---
 
@@ -37,10 +37,10 @@ name : <% tp.date.now("DDMMYYYY") %>
 
 This is my plan for today broken into Sections
 
-	1. 🌅 Morning - 
-	2. ☀️ Afternoon - 
-	3. 🌆 Evening - 
-	4. 🌠 Night - 
+ 1. 🌅 Morning - 
+ 2. ☀️ Afternoon - 
+ 3. 🌆 Evening - 
+ 4. 🌠 Night - 
 
 ## 🌅 Morning
 

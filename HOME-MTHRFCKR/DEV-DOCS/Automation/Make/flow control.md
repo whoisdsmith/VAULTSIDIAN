@@ -1,6 +1,6 @@
--   [Make Help Center](https://www.make.com/en/help/index-en.html)
--   [Tools](https://www.make.com/en/help/tools.html)
--   Flow control
+- [Make Help Center](https://www.make.com/en/help/index-en.html)
+- [Tools](https://www.make.com/en/help/tools.html)
+- Flow control
 
 ## Repeater
 
@@ -18,7 +18,7 @@ Iterator is a special type of module that converts an array into a series of bun
 
 Setting up an iterator is done in the same way as [setting any other module](https://www.make.com/en/help/modules/module-settings.html "Module settings"). The Array field contains the array to be converted/split into separate bundles.
 
-#### Examples:
+#### Examples
 
 ##### Save email attachments to Google Drive
 
@@ -76,20 +76,19 @@ This setup will produce the following output:
 
 If you wish to fully customize the **Array aggregator**'s output structure, proceed as follows:
 
-1.  Insert the **JSON > Create JSON** module after the **Array aggregator** module:
-    
-2.  Open the **JSON > Create JSON** module's setup.
-    
-3.  Setup a Data structure for the items you want to be outputted from the **Array aggregator**. The Data structure should be an array of collections and the collections should contain the items you want to include in the output. Here is a sample Data structure with two text items `Name` and `Email`:
-    
-4.  Open the **Array aggregator** module's setup.
-    
-5.  In the **Target structure type** field, choose the **JSON > Create JSON** module's array field:
-    
-6.  Fields corresponding to the Data structure created in step 3 will appear in the setup of the **Array aggregator** module. Map any items into the fields as you see fit. You can now easily map nested items using the mapping panel and even use formulas:
-    
-7.  The **Array aggregator** module's output will now look like this:
-    
+1. Insert the **JSON > Create JSON** module after the **Array aggregator** module:
+
+2. Open the **JSON > Create JSON** module's setup.
+
+3. Setup a Data structure for the items you want to be outputted from the **Array aggregator**. The Data structure should be an array of collections and the collections should contain the items you want to include in the output. Here is a sample Data structure with two text items `Name` and `Email`:
+
+4. Open the **Array aggregator** module's setup.
+
+5. In the **Target structure type** field, choose the **JSON > Create JSON** module's array field:
+
+6. Fields corresponding to the Data structure created in step 3 will appear in the setup of the **Array aggregator** module. Map any items into the fields as you see fit. You can now easily map nested items using the mapping panel and even use formulas:
+
+7. The **Array aggregator** module's output will now look like this:
 
 If you wish to save the operation performed by the dummy **JSON > Create JSON** module, just put it on a disabled route after a **Router**:
 

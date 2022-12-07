@@ -1,266 +1,263 @@
 [![](https://raw.githubusercontent.com/viatsko/awesome-vscode/master/awesome-vscode-logo.png)](https://raw.githubusercontent.com/viatsko/awesome-vscode/master/awesome-vscode-logo.png)
 
-  
-  
-
 ## Table of Contents
 
--   [Table of Contents](https://github.com/viatsko/awesome-vscode#table-of-contents)
--   [Official](https://github.com/viatsko/awesome-vscode#official)
--   [Syntax](https://github.com/viatsko/awesome-vscode#syntax)
--   [Migrating from other editors](https://github.com/viatsko/awesome-vscode#migrating-from-other-editors)
-    -   [Migrating from Vim](https://github.com/viatsko/awesome-vscode#migrating-from-vim)
-    -   [Migrating from Atom](https://github.com/viatsko/awesome-vscode#migrating-from-atom)
-    -   [Migrating from Sublime Text](https://github.com/viatsko/awesome-vscode#migrating-from-sublime-text)
-    -   [Migrating from Visual Studio](https://github.com/viatsko/awesome-vscode#migrating-from-visual-studio)
-    -   [Migrating from Intellij IDEA](https://github.com/viatsko/awesome-vscode#migrating-from-intellij-idea)
-    -   [Camel Humps](https://github.com/viatsko/awesome-vscode#camel-humps)
--   [Using VS Code with particular technologies](https://github.com/viatsko/awesome-vscode#using-vs-code-with-particular-technologies)
--   [Lint and IntelliSense](https://github.com/viatsko/awesome-vscode#lint-and-intellisense)
-    -   [1C](https://github.com/viatsko/awesome-vscode#1c)
-    -   [AutoHotkey](https://github.com/viatsko/awesome-vscode#autohotkey)
-        -   [AutoHotkey Plus](https://github.com/viatsko/awesome-vscode#autohotkey-plus)
-    -   [Bash](https://github.com/viatsko/awesome-vscode#bash)
-        -   [Bash IDE](https://github.com/viatsko/awesome-vscode#bash-ide)
-        -   [Bash Debug](https://github.com/viatsko/awesome-vscode#bash-debug)
-        -   [Shellman](https://github.com/viatsko/awesome-vscode#shellman)
-    -   [C++](https://github.com/viatsko/awesome-vscode#c)
-        -   [More](https://github.com/viatsko/awesome-vscode#more)
-    -   [C#, ASP .NET and .NET Core](https://github.com/viatsko/awesome-vscode#c-asp-net-and-net-core)
-    -   [Clojure](https://github.com/viatsko/awesome-vscode#clojure)
-        -   [Calva](https://github.com/viatsko/awesome-vscode#calva)
-    -   [CSS](https://github.com/viatsko/awesome-vscode#css)
-        -   [CSS Peek](https://github.com/viatsko/awesome-vscode#css-peek)
-    -   [Go](https://github.com/viatsko/awesome-vscode#go)
-    -   [Groovy](https://github.com/viatsko/awesome-vscode#groovy)
-    -   [Haskell](https://github.com/viatsko/awesome-vscode#haskell)
-    -   [HLSL](https://github.com/viatsko/awesome-vscode#hlsl)
-    -   [Shell](https://github.com/viatsko/awesome-vscode#shell)
-    -   [Java](https://github.com/viatsko/awesome-vscode#java)
-    -   [JavaScript](https://github.com/viatsko/awesome-vscode#javascript)
-        -   [Linters](https://github.com/viatsko/awesome-vscode#linters)
-        -   [Framework-specific](https://github.com/viatsko/awesome-vscode#framework-specific)
-        -   [Debugger for Chrome](https://github.com/viatsko/awesome-vscode#debugger-for-chrome)
-        -   [Facebook Flow](https://github.com/viatsko/awesome-vscode#facebook-flow)
-        -   [TypeScript](https://github.com/viatsko/awesome-vscode#typescript)
-        -   [Debugger for Chrome](https://github.com/viatsko/awesome-vscode#debugger-for-chrome-1)
-    -   [Markdown](https://github.com/viatsko/awesome-vscode#markdown)
-        -   [markdownlint](https://github.com/viatsko/awesome-vscode#markdownlint)
-        -   [Markdown All in One](https://github.com/viatsko/awesome-vscode#markdown-all-in-one)
-        -   [Markdown Emoji](https://github.com/viatsko/awesome-vscode#markdown-emoji)
-    -   [PHP](https://github.com/viatsko/awesome-vscode#php)
-        -   [IntelliSense](https://github.com/viatsko/awesome-vscode#intellisense)
-        -   [Laravel](https://github.com/viatsko/awesome-vscode#laravel)
-        -   [Twig](https://github.com/viatsko/awesome-vscode#twig)
-        -   [Smarty](https://github.com/viatsko/awesome-vscode#smarty)
-            -   [Smarty Template Support](https://github.com/viatsko/awesome-vscode#smarty-template-support)
-        -   [Other extensions](https://github.com/viatsko/awesome-vscode#other-extensions)
-        -   [Read more](https://github.com/viatsko/awesome-vscode#read-more)
-    -   [POV-Ray](https://github.com/viatsko/awesome-vscode#pov-ray)
-    -   [Python](https://github.com/viatsko/awesome-vscode#python)
-        -   [TensorFlow](https://github.com/viatsko/awesome-vscode#tensorflow)
-    -   [ReasonML](https://github.com/viatsko/awesome-vscode#reasonml)
-    -   [Rust](https://github.com/viatsko/awesome-vscode#rust)
-    -   [Terraform](https://github.com/viatsko/awesome-vscode#terraform)
--   [GitHub](https://github.com/viatsko/awesome-vscode#github)
-    -   [GitHub](https://github.com/viatsko/awesome-vscode#github-1)
-    -   [GitHub Pull Requests and Issues](https://github.com/viatsko/awesome-vscode#github-pull-requests-and-issues)
-    -   [GistPad](https://github.com/viatsko/awesome-vscode#gistpad)
-    -   [GitHub Actions](https://github.com/viatsko/awesome-vscode#github-actions)
-    -   [GitHub Repositories](https://github.com/viatsko/awesome-vscode#github-repositories)
-    -   [GitHub Pull Request Monitor](https://github.com/viatsko/awesome-vscode#github-pull-request-monitor)
--   [Productivity](https://github.com/viatsko/awesome-vscode#productivity)
-    -   [ARM Template Viewer](https://github.com/viatsko/awesome-vscode#arm-template-viewer)
-    -   [Azure Cosmos DB](https://github.com/viatsko/awesome-vscode#azure-cosmos-db)
-    -   [Azure IoT Toolkit](https://github.com/viatsko/awesome-vscode#azure-iot-toolkit)
-    -   [Bookmarks](https://github.com/viatsko/awesome-vscode#bookmarks)
-    -   [Color Tabs](https://github.com/viatsko/awesome-vscode#color-tabs)
-    -   [Create tests](https://github.com/viatsko/awesome-vscode#create-tests)
-    -   [Deploy](https://github.com/viatsko/awesome-vscode#deploy)
-    -   [Duplicate Action](https://github.com/viatsko/awesome-vscode#duplicate-action)
-    -   [Error Lens](https://github.com/viatsko/awesome-vscode#error-lens)
-    -   [Toggle](https://github.com/viatsko/awesome-vscode#toggle)
-    -   [ES7 React/Redux/GraphQL/React-Native snippets](https://github.com/viatsko/awesome-vscode#es7-reactreduxgraphqlreact-native-snippets)
-        -   [Gi](https://github.com/viatsko/awesome-vscode#gi)
-    -   [Git History](https://github.com/viatsko/awesome-vscode#git-history)
-    -   [Git Project Manager](https://github.com/viatsko/awesome-vscode#git-project-manager)
-    -   [GitLink](https://github.com/viatsko/awesome-vscode#gitlink)
-    -   [GitLens](https://github.com/viatsko/awesome-vscode#gitlens)
-    -   [Git Indicators](https://github.com/viatsko/awesome-vscode#git-indicators)
-    -   [GitLab Workflow](https://github.com/viatsko/awesome-vscode#gitlab-workflow)
-        -   [Gradle Tasks](https://github.com/viatsko/awesome-vscode#gradle-tasks)
-    -   [Icon Fonts](https://github.com/viatsko/awesome-vscode#icon-fonts)
-    -   [Import Cost](https://github.com/viatsko/awesome-vscode#import-cost)
-    -   [Jira and Bitbucket](https://github.com/viatsko/awesome-vscode#jira-and-bitbucket)
-    -   [JS Parameter Annotations](https://github.com/viatsko/awesome-vscode#js-parameter-annotations)
-    -   [Jumpy](https://github.com/viatsko/awesome-vscode#jumpy)
-    -   [Kanban](https://github.com/viatsko/awesome-vscode#kanban)
-    -   [Live Server](https://github.com/viatsko/awesome-vscode#live-server)
-    -   [Multiple clipboards](https://github.com/viatsko/awesome-vscode#multiple-clipboards)
-    -   [ngrok for VSCode](https://github.com/viatsko/awesome-vscode#ngrok-for-vscode)
-    -   [Dotnet Core Test Explorer](https://github.com/viatsko/awesome-vscode#dotnet-core-test-explorer)
-    -   [i18n Ally](https://github.com/viatsko/awesome-vscode#i18n-ally)
-    -   [Instant Markdown](https://github.com/viatsko/awesome-vscode#instant-markdown)
-    -   [npm Intellisense](https://github.com/viatsko/awesome-vscode#npm-intellisense)
-    -   [Parameter Hints](https://github.com/viatsko/awesome-vscode#parameter-hints)
-    -   [Partial Diff](https://github.com/viatsko/awesome-vscode#partial-diff)
-        -   [Paste JSON as Code](https://github.com/viatsko/awesome-vscode#paste-json-as-code)
-    -   [Path Autocomplete](https://github.com/viatsko/awesome-vscode#path-autocomplete)
-    -   [Path IntelliSense](https://github.com/viatsko/awesome-vscode#path-intellisense)
-    -   [Power Tools](https://github.com/viatsko/awesome-vscode#power-tools)
-    -   [PrintCode](https://github.com/viatsko/awesome-vscode#printcode)
-    -   [Project Manager](https://github.com/viatsko/awesome-vscode#project-manager)
-    -   [Project Dashboard](https://github.com/viatsko/awesome-vscode#project-dashboard)
-    -   [Rainbow CSV](https://github.com/viatsko/awesome-vscode#rainbow-csv)
-    -   [Remote Development](https://github.com/viatsko/awesome-vscode#remote-development)
-    -   [Remote VSCode](https://github.com/viatsko/awesome-vscode#remote-vscode)
-    -   [REST Client](https://github.com/viatsko/awesome-vscode#rest-client)
-    -   [Text Power Tools](https://github.com/viatsko/awesome-vscode#text-power-tools)
-    -   [Todo Tree](https://github.com/viatsko/awesome-vscode#todo-tree)
-    -   [Toggle Quotes](https://github.com/viatsko/awesome-vscode#toggle-quotes)
-    -   [Typescript Destructure](https://github.com/viatsko/awesome-vscode#typescript-destructure)
-    -   [WakaTime](https://github.com/viatsko/awesome-vscode#wakatime)
-    -   [Yo](https://github.com/viatsko/awesome-vscode#yo)
-    -   [Timing](https://github.com/viatsko/awesome-vscode#timing)
--   [Formatting & Beautification](https://github.com/viatsko/awesome-vscode#formatting--beautification)
-    -   [Better Align](https://github.com/viatsko/awesome-vscode#better-align)
-    -   [Auto Close Tag](https://github.com/viatsko/awesome-vscode#auto-close-tag)
-    -   [Auto Rename Tag](https://github.com/viatsko/awesome-vscode#auto-rename-tag)
-    -   [beautify](https://github.com/viatsko/awesome-vscode#beautify)
-        -   [html2pug](https://github.com/viatsko/awesome-vscode#html2pug)
-    -   [ECMAScript Quotes Transformer](https://github.com/viatsko/awesome-vscode#ecmascript-quotes-transformer)
-    -   [Paste and Indent](https://github.com/viatsko/awesome-vscode#paste-and-indent)
-    -   [Sort Lines](https://github.com/viatsko/awesome-vscode#sort-lines)
-    -   [Surround](https://github.com/viatsko/awesome-vscode#surround)
-    -   [Wrap Selection](https://github.com/viatsko/awesome-vscode#wrap-selection)
-    -   [Formatting Toggle](https://github.com/viatsko/awesome-vscode#formatting-toggle)
-    -   [Auto Import](https://github.com/viatsko/awesome-vscode#auto-import)
-    -   [shell-format](https://github.com/viatsko/awesome-vscode#shell-format)
-    -   [Vscode Google Translate](https://github.com/viatsko/awesome-vscode#vscode-google-translate)
-    -   [Explorer Icons](https://github.com/viatsko/awesome-vscode#explorer-icons)
-        -   [City Lights Icons](https://github.com/viatsko/awesome-vscode#city-lights-icons)
-        -   [VSCode Icons](https://github.com/viatsko/awesome-vscode#vscode-icons)
-        -   [Seti Icons](https://github.com/viatsko/awesome-vscode#seti-icons)
-        -   [Material Icon Theme](https://github.com/viatsko/awesome-vscode#material-icon-theme)
--   [Uncategorized](https://github.com/viatsko/awesome-vscode#uncategorized)
-    -   [Browser Preview](https://github.com/viatsko/awesome-vscode#browser-preview)
-    -   [CodeRoad](https://github.com/viatsko/awesome-vscode#coderoad)
-    -   [Code Runner](https://github.com/viatsko/awesome-vscode#code-runner)
-    -   [Code Time](https://github.com/viatsko/awesome-vscode#code-time)
-    -   [Color Highlight](https://github.com/viatsko/awesome-vscode#color-highlight)
-    -   [Output Colorizer](https://github.com/viatsko/awesome-vscode#output-colorizer)
-    -   [Dash](https://github.com/viatsko/awesome-vscode#dash)
-    -   [Edit with Shell Command](https://github.com/viatsko/awesome-vscode#edit-with-shell-command)
-    -   [Editor Config for VS Code](https://github.com/viatsko/awesome-vscode#editor-config-for-vs-code)
-    -   [ftp-sync](https://github.com/viatsko/awesome-vscode#ftp-sync)
-    -   [Highlight JSX/HTML tags](https://github.com/viatsko/awesome-vscode#highlight-jsxhtml-tags)
-    -   [Indent Rainbow](https://github.com/viatsko/awesome-vscode#indent-rainbow)
-    -   [iTerm2 Theme Sync](https://github.com/viatsko/awesome-vscode#iterm2-theme-sync)
-    -   [Password Generator](https://github.com/viatsko/awesome-vscode#password-generator)
-    -   [PlatformIO](https://github.com/viatsko/awesome-vscode#platformio)
-    -   [Polacode](https://github.com/viatsko/awesome-vscode#polacode)
-    -   [carbon-now-sh](https://github.com/viatsko/awesome-vscode#carbon-now-sh)
-    -   [Quokka](https://github.com/viatsko/awesome-vscode#quokka)
-    -   [Runner](https://github.com/viatsko/awesome-vscode#runner)
-    -   [Slack](https://github.com/viatsko/awesome-vscode#slack)
-    -   [Spotify](https://github.com/viatsko/awesome-vscode#spotify)
-    -   [SVG](https://github.com/viatsko/awesome-vscode#svg)
-    -   [SVG Viewer](https://github.com/viatsko/awesome-vscode#svg-viewer)
-    -   [Text Marker (Highlighter)](https://github.com/viatsko/awesome-vscode#text-marker-highlighter)
-    -   [ESDOC MDN](https://github.com/viatsko/awesome-vscode#esdoc-mdn)
-    -   [Interface generator](https://github.com/viatsko/awesome-vscode#interface-generator)
-    -   [JFrog](https://github.com/viatsko/awesome-vscode#jfrog)
--   [Themes](https://github.com/viatsko/awesome-vscode#themes)
-    -   [UI](https://github.com/viatsko/awesome-vscode#ui)
-    -   [Syntax](https://github.com/viatsko/awesome-vscode#syntax-1)
-        -   [2077 theme by Endormi](https://github.com/viatsko/awesome-vscode#2077-theme-by-endormi)
-        -   [An Old Hope Theme by Dustin Sanders](https://github.com/viatsko/awesome-vscode#an-old-hope-theme-by-dustin-sanders)
-        -   [Ariake Dark by wart](https://github.com/viatsko/awesome-vscode#ariake-dark-by-wart)
-        -   [Atom One Dark Theme by Mahmoud Ali](https://github.com/viatsko/awesome-vscode#atom-one-dark-theme-by-mahmoud-ali)
-        -   [Atomize by emroussel](https://github.com/viatsko/awesome-vscode#atomize-by-emroussel)
-        -   [Ayu by teabyii](https://github.com/viatsko/awesome-vscode#ayu-by-teabyii)
-        -   [Borealis Theme by Alexander Eckert](https://github.com/viatsko/awesome-vscode#borealis-theme-by-alexander-eckert)
-        -   [Captain Sweetheart by ultradracula](https://github.com/viatsko/awesome-vscode#captain-sweetheart-by-ultradracula)
-        -   [City Lights by Yummygum](https://github.com/viatsko/awesome-vscode#city-lights-by-yummygum)
-        -   [Cobalt2 Theme Official by Wes Bos](https://github.com/viatsko/awesome-vscode#cobalt2-theme-official-by-wes-bos)
-        -   [Dracula Official by Dracula Theme](https://github.com/viatsko/awesome-vscode#dracula-official-by-dracula-theme)
-        -   [Edge by Bogdan Lazar](https://github.com/viatsko/awesome-vscode#edge-by-bogdan-lazar)
-        -   [Eva Theme by fisheva](https://github.com/viatsko/awesome-vscode#eva-theme-by-fisheva)
-        -   [Fairy Floss by nopjmp and sailorhg](https://github.com/viatsko/awesome-vscode#fairy-floss-by-nopjmp-and-sailorhg)
-        -   [GitHub Theme by Thomas Pink](https://github.com/viatsko/awesome-vscode#github-theme-by-thomas-pink)
-        -   [Jellybeans Theme by Dimitar Nonov](https://github.com/viatsko/awesome-vscode#jellybeans-theme-by-dimitar-nonov)
-        -   [Material Palenight Theme by whizkydee](https://github.com/viatsko/awesome-vscode#material-palenight-theme-by-whizkydee)
-        -   [Material Theme by Mattia Astorino](https://github.com/viatsko/awesome-vscode#material-theme-by-mattia-astorino)
-        -   [Mno by u29dc](https://github.com/viatsko/awesome-vscode#mno-by-u29dc)
-        -   [Monokai Oblique by pushqrdx](https://github.com/viatsko/awesome-vscode#monokai-oblique-by-pushqrdx)
-        -   [Monokai Pro by monokai (commercial)](https://github.com/viatsko/awesome-vscode#monokai-pro-by-monokai-commercial)
-        -   [Night Owl by Sarah Drasner](https://github.com/viatsko/awesome-vscode#night-owl-by-sarah-drasner)
-        -   [Plastic by Will Stone](https://github.com/viatsko/awesome-vscode#plastic-by-will-stone)
-        -   [Nord by arcticicestudio](https://github.com/viatsko/awesome-vscode#nord-by-arcticicestudio)
-        -   [Rainglow by Dayle Rees](https://github.com/viatsko/awesome-vscode#rainglow-by-dayle-rees)
-        -   [Relaxed Theme by Michael Kühnel](https://github.com/viatsko/awesome-vscode#relaxed-theme-by-michael-k%C3%BChnel)
-        -   [Shades of Purple by Ahmad Awais](https://github.com/viatsko/awesome-vscode#shades-of-purple-by-ahmad-awais)
-        -   [Slime Theme by smlombardi](https://github.com/viatsko/awesome-vscode#slime-theme-by-smlombardi)
-        -   [Niketa Theme by Dejan Toteff](https://github.com/viatsko/awesome-vscode#niketa-theme-by-dejan-toteff)
--   [People to Follow](https://github.com/viatsko/awesome-vscode#people-to-follow)
--   [Resources for extension developers](https://github.com/viatsko/awesome-vscode#resources-for-extension-developers)
-    -   [Documentation](https://github.com/viatsko/awesome-vscode#documentation)
-    -   [Libraries](https://github.com/viatsko/awesome-vscode#libraries)
-    -   [Tools](https://github.com/viatsko/awesome-vscode#tools)
--   [Online Courses](https://github.com/viatsko/awesome-vscode#online-courses)
-    -   [Visual Studio Code Power User Course (commercial)](https://github.com/viatsko/awesome-vscode#visual-studio-code-power-user-course-commercial)
--   [Contribute](https://github.com/viatsko/awesome-vscode#contribute)
--   [License](https://github.com/viatsko/awesome-vscode#license)
+- [Table of Contents](https://github.com/viatsko/awesome-vscode#table-of-contents)
+- [Official](https://github.com/viatsko/awesome-vscode#official)
+- [Syntax](https://github.com/viatsko/awesome-vscode#syntax)
+- [Migrating from other editors](https://github.com/viatsko/awesome-vscode#migrating-from-other-editors)
+  - [Migrating from Vim](https://github.com/viatsko/awesome-vscode#migrating-from-vim)
+  - [Migrating from Atom](https://github.com/viatsko/awesome-vscode#migrating-from-atom)
+  - [Migrating from Sublime Text](https://github.com/viatsko/awesome-vscode#migrating-from-sublime-text)
+  - [Migrating from Visual Studio](https://github.com/viatsko/awesome-vscode#migrating-from-visual-studio)
+  - [Migrating from Intellij IDEA](https://github.com/viatsko/awesome-vscode#migrating-from-intellij-idea)
+  - [Camel Humps](https://github.com/viatsko/awesome-vscode#camel-humps)
+- [Using VS Code with particular technologies](https://github.com/viatsko/awesome-vscode#using-vs-code-with-particular-technologies)
+- [Lint and IntelliSense](https://github.com/viatsko/awesome-vscode#lint-and-intellisense)
+  - [1C](https://github.com/viatsko/awesome-vscode#1c)
+  - [AutoHotkey](https://github.com/viatsko/awesome-vscode#autohotkey)
+    - [AutoHotkey Plus](https://github.com/viatsko/awesome-vscode#autohotkey-plus)
+  - [Bash](https://github.com/viatsko/awesome-vscode#bash)
+    - [Bash IDE](https://github.com/viatsko/awesome-vscode#bash-ide)
+    - [Bash Debug](https://github.com/viatsko/awesome-vscode#bash-debug)
+    - [Shellman](https://github.com/viatsko/awesome-vscode#shellman)
+  - [C++](https://github.com/viatsko/awesome-vscode#c)
+    - [More](https://github.com/viatsko/awesome-vscode#more)
+  - [C#, ASP .NET and .NET Core](https://github.com/viatsko/awesome-vscode#c-asp-net-and-net-core)
+  - [Clojure](https://github.com/viatsko/awesome-vscode#clojure)
+    - [Calva](https://github.com/viatsko/awesome-vscode#calva)
+  - [CSS](https://github.com/viatsko/awesome-vscode#css)
+    - [CSS Peek](https://github.com/viatsko/awesome-vscode#css-peek)
+  - [Go](https://github.com/viatsko/awesome-vscode#go)
+  - [Groovy](https://github.com/viatsko/awesome-vscode#groovy)
+  - [Haskell](https://github.com/viatsko/awesome-vscode#haskell)
+  - [HLSL](https://github.com/viatsko/awesome-vscode#hlsl)
+  - [Shell](https://github.com/viatsko/awesome-vscode#shell)
+  - [Java](https://github.com/viatsko/awesome-vscode#java)
+  - [JavaScript](https://github.com/viatsko/awesome-vscode#javascript)
+    - [Linters](https://github.com/viatsko/awesome-vscode#linters)
+    - [Framework-specific](https://github.com/viatsko/awesome-vscode#framework-specific)
+    - [Debugger for Chrome](https://github.com/viatsko/awesome-vscode#debugger-for-chrome)
+    - [Facebook Flow](https://github.com/viatsko/awesome-vscode#facebook-flow)
+    - [TypeScript](https://github.com/viatsko/awesome-vscode#typescript)
+    - [Debugger for Chrome](https://github.com/viatsko/awesome-vscode#debugger-for-chrome-1)
+  - [Markdown](https://github.com/viatsko/awesome-vscode#markdown)
+    - [markdownlint](https://github.com/viatsko/awesome-vscode#markdownlint)
+    - [Markdown All in One](https://github.com/viatsko/awesome-vscode#markdown-all-in-one)
+    - [Markdown Emoji](https://github.com/viatsko/awesome-vscode#markdown-emoji)
+  - [PHP](https://github.com/viatsko/awesome-vscode#php)
+    - [IntelliSense](https://github.com/viatsko/awesome-vscode#intellisense)
+    - [Laravel](https://github.com/viatsko/awesome-vscode#laravel)
+    - [Twig](https://github.com/viatsko/awesome-vscode#twig)
+    - [Smarty](https://github.com/viatsko/awesome-vscode#smarty)
+      - [Smarty Template Support](https://github.com/viatsko/awesome-vscode#smarty-template-support)
+    - [Other extensions](https://github.com/viatsko/awesome-vscode#other-extensions)
+    - [Read more](https://github.com/viatsko/awesome-vscode#read-more)
+  - [POV-Ray](https://github.com/viatsko/awesome-vscode#pov-ray)
+  - [Python](https://github.com/viatsko/awesome-vscode#python)
+    - [TensorFlow](https://github.com/viatsko/awesome-vscode#tensorflow)
+  - [ReasonML](https://github.com/viatsko/awesome-vscode#reasonml)
+  - [Rust](https://github.com/viatsko/awesome-vscode#rust)
+  - [Terraform](https://github.com/viatsko/awesome-vscode#terraform)
+- [GitHub](https://github.com/viatsko/awesome-vscode#github)
+  - [GitHub](https://github.com/viatsko/awesome-vscode#github-1)
+  - [GitHub Pull Requests and Issues](https://github.com/viatsko/awesome-vscode#github-pull-requests-and-issues)
+  - [GistPad](https://github.com/viatsko/awesome-vscode#gistpad)
+  - [GitHub Actions](https://github.com/viatsko/awesome-vscode#github-actions)
+  - [GitHub Repositories](https://github.com/viatsko/awesome-vscode#github-repositories)
+  - [GitHub Pull Request Monitor](https://github.com/viatsko/awesome-vscode#github-pull-request-monitor)
+- [Productivity](https://github.com/viatsko/awesome-vscode#productivity)
+  - [ARM Template Viewer](https://github.com/viatsko/awesome-vscode#arm-template-viewer)
+  - [Azure Cosmos DB](https://github.com/viatsko/awesome-vscode#azure-cosmos-db)
+  - [Azure IoT Toolkit](https://github.com/viatsko/awesome-vscode#azure-iot-toolkit)
+  - [Bookmarks](https://github.com/viatsko/awesome-vscode#bookmarks)
+  - [Color Tabs](https://github.com/viatsko/awesome-vscode#color-tabs)
+  - [Create tests](https://github.com/viatsko/awesome-vscode#create-tests)
+  - [Deploy](https://github.com/viatsko/awesome-vscode#deploy)
+  - [Duplicate Action](https://github.com/viatsko/awesome-vscode#duplicate-action)
+  - [Error Lens](https://github.com/viatsko/awesome-vscode#error-lens)
+  - [Toggle](https://github.com/viatsko/awesome-vscode#toggle)
+  - [ES7 React/Redux/GraphQL/React-Native snippets](https://github.com/viatsko/awesome-vscode#es7-reactreduxgraphqlreact-native-snippets)
+    - [Gi](https://github.com/viatsko/awesome-vscode#gi)
+  - [Git History](https://github.com/viatsko/awesome-vscode#git-history)
+  - [Git Project Manager](https://github.com/viatsko/awesome-vscode#git-project-manager)
+  - [GitLink](https://github.com/viatsko/awesome-vscode#gitlink)
+  - [GitLens](https://github.com/viatsko/awesome-vscode#gitlens)
+  - [Git Indicators](https://github.com/viatsko/awesome-vscode#git-indicators)
+  - [GitLab Workflow](https://github.com/viatsko/awesome-vscode#gitlab-workflow)
+    - [Gradle Tasks](https://github.com/viatsko/awesome-vscode#gradle-tasks)
+  - [Icon Fonts](https://github.com/viatsko/awesome-vscode#icon-fonts)
+  - [Import Cost](https://github.com/viatsko/awesome-vscode#import-cost)
+  - [Jira and Bitbucket](https://github.com/viatsko/awesome-vscode#jira-and-bitbucket)
+  - [JS Parameter Annotations](https://github.com/viatsko/awesome-vscode#js-parameter-annotations)
+  - [Jumpy](https://github.com/viatsko/awesome-vscode#jumpy)
+  - [Kanban](https://github.com/viatsko/awesome-vscode#kanban)
+  - [Live Server](https://github.com/viatsko/awesome-vscode#live-server)
+  - [Multiple clipboards](https://github.com/viatsko/awesome-vscode#multiple-clipboards)
+  - [ngrok for VSCode](https://github.com/viatsko/awesome-vscode#ngrok-for-vscode)
+  - [Dotnet Core Test Explorer](https://github.com/viatsko/awesome-vscode#dotnet-core-test-explorer)
+  - [i18n Ally](https://github.com/viatsko/awesome-vscode#i18n-ally)
+  - [Instant Markdown](https://github.com/viatsko/awesome-vscode#instant-markdown)
+  - [npm Intellisense](https://github.com/viatsko/awesome-vscode#npm-intellisense)
+  - [Parameter Hints](https://github.com/viatsko/awesome-vscode#parameter-hints)
+  - [Partial Diff](https://github.com/viatsko/awesome-vscode#partial-diff)
+    - [Paste JSON as Code](https://github.com/viatsko/awesome-vscode#paste-json-as-code)
+  - [Path Autocomplete](https://github.com/viatsko/awesome-vscode#path-autocomplete)
+  - [Path IntelliSense](https://github.com/viatsko/awesome-vscode#path-intellisense)
+  - [Power Tools](https://github.com/viatsko/awesome-vscode#power-tools)
+  - [PrintCode](https://github.com/viatsko/awesome-vscode#printcode)
+  - [Project Manager](https://github.com/viatsko/awesome-vscode#project-manager)
+  - [Project Dashboard](https://github.com/viatsko/awesome-vscode#project-dashboard)
+  - [Rainbow CSV](https://github.com/viatsko/awesome-vscode#rainbow-csv)
+  - [Remote Development](https://github.com/viatsko/awesome-vscode#remote-development)
+  - [Remote VSCode](https://github.com/viatsko/awesome-vscode#remote-vscode)
+  - [REST Client](https://github.com/viatsko/awesome-vscode#rest-client)
+  - [Text Power Tools](https://github.com/viatsko/awesome-vscode#text-power-tools)
+  - [Todo Tree](https://github.com/viatsko/awesome-vscode#todo-tree)
+  - [Toggle Quotes](https://github.com/viatsko/awesome-vscode#toggle-quotes)
+  - [Typescript Destructure](https://github.com/viatsko/awesome-vscode#typescript-destructure)
+  - [WakaTime](https://github.com/viatsko/awesome-vscode#wakatime)
+  - [Yo](https://github.com/viatsko/awesome-vscode#yo)
+  - [Timing](https://github.com/viatsko/awesome-vscode#timing)
+- [Formatting & Beautification](https://github.com/viatsko/awesome-vscode#formatting--beautification)
+  - [Better Align](https://github.com/viatsko/awesome-vscode#better-align)
+  - [Auto Close Tag](https://github.com/viatsko/awesome-vscode#auto-close-tag)
+  - [Auto Rename Tag](https://github.com/viatsko/awesome-vscode#auto-rename-tag)
+  - [beautify](https://github.com/viatsko/awesome-vscode#beautify)
+    - [html2pug](https://github.com/viatsko/awesome-vscode#html2pug)
+  - [ECMAScript Quotes Transformer](https://github.com/viatsko/awesome-vscode#ecmascript-quotes-transformer)
+  - [Paste and Indent](https://github.com/viatsko/awesome-vscode#paste-and-indent)
+  - [Sort Lines](https://github.com/viatsko/awesome-vscode#sort-lines)
+  - [Surround](https://github.com/viatsko/awesome-vscode#surround)
+  - [Wrap Selection](https://github.com/viatsko/awesome-vscode#wrap-selection)
+  - [Formatting Toggle](https://github.com/viatsko/awesome-vscode#formatting-toggle)
+  - [Auto Import](https://github.com/viatsko/awesome-vscode#auto-import)
+  - [shell-format](https://github.com/viatsko/awesome-vscode#shell-format)
+  - [Vscode Google Translate](https://github.com/viatsko/awesome-vscode#vscode-google-translate)
+  - [Explorer Icons](https://github.com/viatsko/awesome-vscode#explorer-icons)
+    - [City Lights Icons](https://github.com/viatsko/awesome-vscode#city-lights-icons)
+    - [VSCode Icons](https://github.com/viatsko/awesome-vscode#vscode-icons)
+    - [Seti Icons](https://github.com/viatsko/awesome-vscode#seti-icons)
+    - [Material Icon Theme](https://github.com/viatsko/awesome-vscode#material-icon-theme)
+- [Uncategorized](https://github.com/viatsko/awesome-vscode#uncategorized)
+  - [Browser Preview](https://github.com/viatsko/awesome-vscode#browser-preview)
+  - [CodeRoad](https://github.com/viatsko/awesome-vscode#coderoad)
+  - [Code Runner](https://github.com/viatsko/awesome-vscode#code-runner)
+  - [Code Time](https://github.com/viatsko/awesome-vscode#code-time)
+  - [Color Highlight](https://github.com/viatsko/awesome-vscode#color-highlight)
+  - [Output Colorizer](https://github.com/viatsko/awesome-vscode#output-colorizer)
+  - [Dash](https://github.com/viatsko/awesome-vscode#dash)
+  - [Edit with Shell Command](https://github.com/viatsko/awesome-vscode#edit-with-shell-command)
+  - [Editor Config for VS Code](https://github.com/viatsko/awesome-vscode#editor-config-for-vs-code)
+  - [ftp-sync](https://github.com/viatsko/awesome-vscode#ftp-sync)
+  - [Highlight JSX/HTML tags](https://github.com/viatsko/awesome-vscode#highlight-jsxhtml-tags)
+  - [Indent Rainbow](https://github.com/viatsko/awesome-vscode#indent-rainbow)
+  - [iTerm2 Theme Sync](https://github.com/viatsko/awesome-vscode#iterm2-theme-sync)
+  - [Password Generator](https://github.com/viatsko/awesome-vscode#password-generator)
+  - [PlatformIO](https://github.com/viatsko/awesome-vscode#platformio)
+  - [Polacode](https://github.com/viatsko/awesome-vscode#polacode)
+  - [carbon-now-sh](https://github.com/viatsko/awesome-vscode#carbon-now-sh)
+  - [Quokka](https://github.com/viatsko/awesome-vscode#quokka)
+  - [Runner](https://github.com/viatsko/awesome-vscode#runner)
+  - [Slack](https://github.com/viatsko/awesome-vscode#slack)
+  - [Spotify](https://github.com/viatsko/awesome-vscode#spotify)
+  - [SVG](https://github.com/viatsko/awesome-vscode#svg)
+  - [SVG Viewer](https://github.com/viatsko/awesome-vscode#svg-viewer)
+  - [Text Marker (Highlighter)](https://github.com/viatsko/awesome-vscode#text-marker-highlighter)
+  - [ESDOC MDN](https://github.com/viatsko/awesome-vscode#esdoc-mdn)
+  - [Interface generator](https://github.com/viatsko/awesome-vscode#interface-generator)
+  - [JFrog](https://github.com/viatsko/awesome-vscode#jfrog)
+- [Themes](https://github.com/viatsko/awesome-vscode#themes)
+  - [UI](https://github.com/viatsko/awesome-vscode#ui)
+  - [Syntax](https://github.com/viatsko/awesome-vscode#syntax-1)
+    - [2077 theme by Endormi](https://github.com/viatsko/awesome-vscode#2077-theme-by-endormi)
+    - [An Old Hope Theme by Dustin Sanders](https://github.com/viatsko/awesome-vscode#an-old-hope-theme-by-dustin-sanders)
+    - [Ariake Dark by wart](https://github.com/viatsko/awesome-vscode#ariake-dark-by-wart)
+    - [Atom One Dark Theme by Mahmoud Ali](https://github.com/viatsko/awesome-vscode#atom-one-dark-theme-by-mahmoud-ali)
+    - [Atomize by emroussel](https://github.com/viatsko/awesome-vscode#atomize-by-emroussel)
+    - [Ayu by teabyii](https://github.com/viatsko/awesome-vscode#ayu-by-teabyii)
+    - [Borealis Theme by Alexander Eckert](https://github.com/viatsko/awesome-vscode#borealis-theme-by-alexander-eckert)
+    - [Captain Sweetheart by ultradracula](https://github.com/viatsko/awesome-vscode#captain-sweetheart-by-ultradracula)
+    - [City Lights by Yummygum](https://github.com/viatsko/awesome-vscode#city-lights-by-yummygum)
+    - [Cobalt2 Theme Official by Wes Bos](https://github.com/viatsko/awesome-vscode#cobalt2-theme-official-by-wes-bos)
+    - [Dracula Official by Dracula Theme](https://github.com/viatsko/awesome-vscode#dracula-official-by-dracula-theme)
+    - [Edge by Bogdan Lazar](https://github.com/viatsko/awesome-vscode#edge-by-bogdan-lazar)
+    - [Eva Theme by fisheva](https://github.com/viatsko/awesome-vscode#eva-theme-by-fisheva)
+    - [Fairy Floss by nopjmp and sailorhg](https://github.com/viatsko/awesome-vscode#fairy-floss-by-nopjmp-and-sailorhg)
+    - [GitHub Theme by Thomas Pink](https://github.com/viatsko/awesome-vscode#github-theme-by-thomas-pink)
+    - [Jellybeans Theme by Dimitar Nonov](https://github.com/viatsko/awesome-vscode#jellybeans-theme-by-dimitar-nonov)
+    - [Material Palenight Theme by whizkydee](https://github.com/viatsko/awesome-vscode#material-palenight-theme-by-whizkydee)
+    - [Material Theme by Mattia Astorino](https://github.com/viatsko/awesome-vscode#material-theme-by-mattia-astorino)
+    - [Mno by u29dc](https://github.com/viatsko/awesome-vscode#mno-by-u29dc)
+    - [Monokai Oblique by pushqrdx](https://github.com/viatsko/awesome-vscode#monokai-oblique-by-pushqrdx)
+    - [Monokai Pro by monokai (commercial)](https://github.com/viatsko/awesome-vscode#monokai-pro-by-monokai-commercial)
+    - [Night Owl by Sarah Drasner](https://github.com/viatsko/awesome-vscode#night-owl-by-sarah-drasner)
+    - [Plastic by Will Stone](https://github.com/viatsko/awesome-vscode#plastic-by-will-stone)
+    - [Nord by arcticicestudio](https://github.com/viatsko/awesome-vscode#nord-by-arcticicestudio)
+    - [Rainglow by Dayle Rees](https://github.com/viatsko/awesome-vscode#rainglow-by-dayle-rees)
+    - [Relaxed Theme by Michael Kühnel](https://github.com/viatsko/awesome-vscode#relaxed-theme-by-michael-k%C3%BChnel)
+    - [Shades of Purple by Ahmad Awais](https://github.com/viatsko/awesome-vscode#shades-of-purple-by-ahmad-awais)
+    - [Slime Theme by smlombardi](https://github.com/viatsko/awesome-vscode#slime-theme-by-smlombardi)
+    - [Niketa Theme by Dejan Toteff](https://github.com/viatsko/awesome-vscode#niketa-theme-by-dejan-toteff)
+- [People to Follow](https://github.com/viatsko/awesome-vscode#people-to-follow)
+- [Resources for extension developers](https://github.com/viatsko/awesome-vscode#resources-for-extension-developers)
+  - [Documentation](https://github.com/viatsko/awesome-vscode#documentation)
+  - [Libraries](https://github.com/viatsko/awesome-vscode#libraries)
+  - [Tools](https://github.com/viatsko/awesome-vscode#tools)
+- [Online Courses](https://github.com/viatsko/awesome-vscode#online-courses)
+  - [Visual Studio Code Power User Course (commercial)](https://github.com/viatsko/awesome-vscode#visual-studio-code-power-user-course-commercial)
+- [Contribute](https://github.com/viatsko/awesome-vscode#contribute)
+- [License](https://github.com/viatsko/awesome-vscode#license)
 
 ## Official
 
--   [Official website](https://code.visualstudio.com/)
--   [Source code](https://github.com/microsoft/vscode) on GitHub
--   [Releases (stable channel)](https://code.visualstudio.com/download)
--   [Releases (insiders channel)](https://code.visualstudio.com/insiders)
--   [Monthly iteration plans](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93&q=label%3Aiteration-plan+)
+- [Official website](https://code.visualstudio.com/)
+- [Source code](https://github.com/microsoft/vscode) on GitHub
+- [Releases (stable channel)](https://code.visualstudio.com/download)
+- [Releases (insiders channel)](https://code.visualstudio.com/insiders)
+- [Monthly iteration plans](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93&q=label%3Aiteration-plan+)
 
 ## Syntax
 
 Language packages extend the editor with syntax highlighting and/or snippets for a specific language or file format.
 
--   [Arduino](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino)
--   [Befunge](https://marketplace.visualstudio.com/items?itemName=kagof.befunge)
--   [Blink](https://marketplace.visualstudio.com/items?itemName=melmass.blink)
--   [Bolt](https://marketplace.visualstudio.com/items?itemName=smkamranqadri.vscode-bolt-language)
--   [Bond](https://marketplace.visualstudio.com/items?itemName=yiwwan.vscode-bond)
--   [CMake](https://marketplace.visualstudio.com/items?itemName=twxs.cmake)
--   [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code)
--   [Dockerfile](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
--   [EJS](https://marketplace.visualstudio.com/items?itemName=QassimFarid.ejs-language-support)
--   [Elixir](https://marketplace.visualstudio.com/items?itemName=mjmcloug.vscode-elixir)
--   [Elm](https://marketplace.visualstudio.com/items?itemName=sbrink.elm)
--   [Erlang](https://marketplace.visualstudio.com/items?itemName=pgourlain.erlang)
--   [F#](https://marketplace.visualstudio.com/items?itemName=Ionide.Ionide-fsharp)
--   [Flatbuffers](https://marketplace.visualstudio.com/items?itemName=gaborv.flatbuffers)
--   [Fortran](https://marketplace.visualstudio.com/items?itemName=Gimly81.fortran)
--   [Hack(HHVM)](https://marketplace.visualstudio.com/items?itemName=pranayagarwal.vscode-hack)
--   [Handlebars](https://marketplace.visualstudio.com/items?itemName=andrejunges.Handlebars)
--   [Hive SQL](https://marketplace.visualstudio.com/items?itemName=josephtbradley.hive-sql)
--   [Julia](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia)
--   [KL](https://marketplace.visualstudio.com/items?itemName=melmass.kl)
--   [Kotlin](https://marketplace.visualstudio.com/items?itemName=mathiasfrohlich.Kotlin)
--   [LaTeX](https://marketplace.visualstudio.com/items?itemName=torn4dom4n.latex-support)
--   [Mason](https://marketplace.visualstudio.com/items?itemName=viatsko.html-mason)
--   [openHAB](https://marketplace.visualstudio.com/items?itemName=openhab.openhab)
--   [Parser 3](https://marketplace.visualstudio.com/items?itemName=viatsko.parser3)
--   [Pascal](https://marketplace.visualstudio.com/items?itemName=alefragnani.pascal), or [OmniPascal](https://marketplace.visualstudio.com/items?itemName=Wosi.omnipascal) (only for Windows)
--   [Perl HTML-Template](https://marketplace.visualstudio.com/items?itemName=viatsko.perl-html-template)
--   [POV-Ray](https://marketplace.visualstudio.com/items?itemName=jmaxwilson.vscode-povray)
--   [Protobuf](https://marketplace.visualstudio.com/items?itemName=peterj.proto)
--   [Ruby](https://marketplace.visualstudio.com/items?itemName=groksrc.ruby)
--   [Scala](https://marketplace.visualstudio.com/items?itemName=scala-lang.scala)
--   [Shaders (_HLSL_, _GLSL_, _Cg_)](https://marketplace.visualstudio.com/items?itemName=slevesque.shader)
--   [Stylus](https://marketplace.visualstudio.com/items?itemName=sysoev.language-stylus)
--   [Swift](https://marketplace.visualstudio.com/items?itemName=Kasik96.swift)
--   [VEX](https://marketplace.visualstudio.com/items?itemName=melmass.vex)
--   [Wenyan](https://github.com/antfu/wenyan-lang-vscode)
--   [Zephir](https://marketplace.visualstudio.com/items?itemName=zephir-lang.zephir)
+- [Arduino](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino)
+- [Befunge](https://marketplace.visualstudio.com/items?itemName=kagof.befunge)
+- [Blink](https://marketplace.visualstudio.com/items?itemName=melmass.blink)
+- [Bolt](https://marketplace.visualstudio.com/items?itemName=smkamranqadri.vscode-bolt-language)
+- [Bond](https://marketplace.visualstudio.com/items?itemName=yiwwan.vscode-bond)
+- [CMake](https://marketplace.visualstudio.com/items?itemName=twxs.cmake)
+- [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code)
+- [Dockerfile](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+- [EJS](https://marketplace.visualstudio.com/items?itemName=QassimFarid.ejs-language-support)
+- [Elixir](https://marketplace.visualstudio.com/items?itemName=mjmcloug.vscode-elixir)
+- [Elm](https://marketplace.visualstudio.com/items?itemName=sbrink.elm)
+- [Erlang](https://marketplace.visualstudio.com/items?itemName=pgourlain.erlang)
+- [F#](https://marketplace.visualstudio.com/items?itemName=Ionide.Ionide-fsharp)
+- [Flatbuffers](https://marketplace.visualstudio.com/items?itemName=gaborv.flatbuffers)
+- [Fortran](https://marketplace.visualstudio.com/items?itemName=Gimly81.fortran)
+- [Hack(HHVM)](https://marketplace.visualstudio.com/items?itemName=pranayagarwal.vscode-hack)
+- [Handlebars](https://marketplace.visualstudio.com/items?itemName=andrejunges.Handlebars)
+- [Hive SQL](https://marketplace.visualstudio.com/items?itemName=josephtbradley.hive-sql)
+- [Julia](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia)
+- [KL](https://marketplace.visualstudio.com/items?itemName=melmass.kl)
+- [Kotlin](https://marketplace.visualstudio.com/items?itemName=mathiasfrohlich.Kotlin)
+- [LaTeX](https://marketplace.visualstudio.com/items?itemName=torn4dom4n.latex-support)
+- [Mason](https://marketplace.visualstudio.com/items?itemName=viatsko.html-mason)
+- [openHAB](https://marketplace.visualstudio.com/items?itemName=openhab.openhab)
+- [Parser 3](https://marketplace.visualstudio.com/items?itemName=viatsko.parser3)
+- [Pascal](https://marketplace.visualstudio.com/items?itemName=alefragnani.pascal), or [OmniPascal](https://marketplace.visualstudio.com/items?itemName=Wosi.omnipascal) (only for Windows)
+- [Perl HTML-Template](https://marketplace.visualstudio.com/items?itemName=viatsko.perl-html-template)
+- [POV-Ray](https://marketplace.visualstudio.com/items?itemName=jmaxwilson.vscode-povray)
+- [Protobuf](https://marketplace.visualstudio.com/items?itemName=peterj.proto)
+- [Ruby](https://marketplace.visualstudio.com/items?itemName=groksrc.ruby)
+- [Scala](https://marketplace.visualstudio.com/items?itemName=scala-lang.scala)
+- [Shaders (_HLSL_, _GLSL_, _Cg_)](https://marketplace.visualstudio.com/items?itemName=slevesque.shader)
+- [Stylus](https://marketplace.visualstudio.com/items?itemName=sysoev.language-stylus)
+- [Swift](https://marketplace.visualstudio.com/items?itemName=Kasik96.swift)
+- [VEX](https://marketplace.visualstudio.com/items?itemName=melmass.vex)
+- [Wenyan](https://github.com/antfu/wenyan-lang-vscode)
+- [Zephir](https://marketplace.visualstudio.com/items?itemName=zephir-lang.zephir)
 
 ## Migrating from other editors
 
@@ -306,7 +303,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ## 1C
 
--   [1C/OScript](https://marketplace.visualstudio.com/items?itemName=1c-syntax.language-1c-bsl) - rich 1С:Enterprise 8 (BSL) language support in VSC - add syntax highlighting to \*.bsl и \*.os files in VSC, add IntelliSense and syntax helper for 1С lang
+- [1C/OScript](https://marketplace.visualstudio.com/items?itemName=1c-syntax.language-1c-bsl) - rich 1С:Enterprise 8 (BSL) language support in VSC - add syntax highlighting to \*.bsl и \*.os files in VSC, add IntelliSense and syntax helper for 1С lang
 
 ## AutoHotkey
 
@@ -334,25 +331,25 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ## C++
 
--   [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) - Preview C/C++ extension by [Microsoft](https://www.microsoft.com/), read [official blog post](https://blogs.msdn.microsoft.com/vcblog/2016/03/31/cc-extension-for-visual-studio-code/) for the details
--   [Clangd](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.vscode-clangd) - Provides C/C++ language IDE features for VS Code using clangd: code completion, compile errors and warnings, go-to-definition and cross references, include management, code formatting, simple refactorings.
--   [gnu-global-tags](https://marketplace.visualstudio.com/items?itemName=austin.code-gnu-global) - Provide Intellisense for C/C++ with the help of the GNU Global tool.
--   [YouCompleteMe](https://marketplace.visualstudio.com/items?itemName=RichardHe.you-complete-me) - Provides semantic completions for C/C++ (and TypeScript, JavaScript, Objective-C, Golang, Rust) using [YouCompleteMe](http://ycm-core.github.io/YouCompleteMe/).
--   [C/C++ Clang Command Adapter](https://github.com/mitaki28/vscode-clang) - Completion and Diagnostic for C/C++/Objective-C using Clang command.
--   [CQuery](https://github.com/cquery-project/vscode-cquery) - [C/C++ language server](https://github.com/jacobdufault/cquery) supporting multi-million line code base, powered by libclang. Cross references, completion, diagnostics, semantic highlighting and more.
+- [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) - Preview C/C++ extension by [Microsoft](https://www.microsoft.com/), read [official blog post](https://blogs.msdn.microsoft.com/vcblog/2016/03/31/cc-extension-for-visual-studio-code/) for the details
+- [Clangd](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.vscode-clangd) - Provides C/C++ language IDE features for VS Code using clangd: code completion, compile errors and warnings, go-to-definition and cross references, include management, code formatting, simple refactorings.
+- [gnu-global-tags](https://marketplace.visualstudio.com/items?itemName=austin.code-gnu-global) - Provide Intellisense for C/C++ with the help of the GNU Global tool.
+- [YouCompleteMe](https://marketplace.visualstudio.com/items?itemName=RichardHe.you-complete-me) - Provides semantic completions for C/C++ (and TypeScript, JavaScript, Objective-C, Golang, Rust) using [YouCompleteMe](http://ycm-core.github.io/YouCompleteMe/).
+- [C/C++ Clang Command Adapter](https://github.com/mitaki28/vscode-clang) - Completion and Diagnostic for C/C++/Objective-C using Clang command.
+- [CQuery](https://github.com/cquery-project/vscode-cquery) - [C/C++ language server](https://github.com/jacobdufault/cquery) supporting multi-million line code base, powered by libclang. Cross references, completion, diagnostics, semantic highlighting and more.
 
 #### More
 
--   [Microsoft's tutorial on using VSCode for remote C/C++ development](https://devblogs.microsoft.com/cppblog/vscode-cpp-may-2019-update/)
+- [Microsoft's tutorial on using VSCode for remote C/C++ development](https://devblogs.microsoft.com/cppblog/vscode-cpp-may-2019-update/)
 
 ## C#, ASP .NET and .NET Core
 
--   [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp) - C# extension by [Microsoft](https://www.microsoft.com/), read [official documentation](https://code.visualstudio.com/docs/languages/csharp) for the details
--   [C# FixFormat](https://marketplace.visualstudio.com/items?itemName=Leopotam.csharpfixformat) - Fix format of usings / indents / braces / empty lines
--   [C# Extensions](https://marketplace.visualstudio.com/items?itemName=jchannon.csharpextensions) - Provides extensions to the IDE that will speed up your development workflow.
--   [MSBuild Project Tools](https://marketplace.visualstudio.com/items?itemName=tintoy.msbuild-project-tools)
--   [VSCode Solution Explorer](https://marketplace.visualstudio.com/items?itemName=fernandoescolar.vscode-solution-explorer)
--   [.NET Core Test Explorer](https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer)
+- [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp) - C# extension by [Microsoft](https://www.microsoft.com/), read [official documentation](https://code.visualstudio.com/docs/languages/csharp) for the details
+- [C# FixFormat](https://marketplace.visualstudio.com/items?itemName=Leopotam.csharpfixformat) - Fix format of usings / indents / braces / empty lines
+- [C# Extensions](https://marketplace.visualstudio.com/items?itemName=jchannon.csharpextensions) - Provides extensions to the IDE that will speed up your development workflow.
+- [MSBuild Project Tools](https://marketplace.visualstudio.com/items?itemName=tintoy.msbuild-project-tools)
+- [VSCode Solution Explorer](https://marketplace.visualstudio.com/items?itemName=fernandoescolar.vscode-solution-explorer)
+- [.NET Core Test Explorer](https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer)
 
 [![.NET Core Test Explorer](https://raw.githubusercontent.com/formulahendry/vscode-dotnet-test-explorer/master/images/test-explorer-065.gif)](https://raw.githubusercontent.com/formulahendry/vscode-dotnet-test-explorer/master/images/test-explorer-065.gif)
 
@@ -372,80 +369,77 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 [![CSS Peek](https://raw.githubusercontent.com/pranaygp/vscode-css-peek/master/readme/symbolProvider.gif)](https://raw.githubusercontent.com/pranaygp/vscode-css-peek/master/readme/symbolProvider.gif)
 
--   [stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) - Lint CSS/SCSS.
-    
--   [Autoprefixer](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer) Parse CSS,SCSS, LESS and add vendor prefixes automatically. [![Autoprefixer](https://cloud.githubusercontent.com/assets/7034281/16823311/da82a3c6-496b-11e6-8d95-0bebbf0b9607.gif)](https://cloud.githubusercontent.com/assets/7034281/16823311/da82a3c6-496b-11e6-8d95-0bebbf0b9607.gif)
-    
--   [Intellisense for CSS class names](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) - Provides CSS class name completion for the HTML class attribute based on the CSS files in your workspace. Also supports React's className attribute.
-    
+- [stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) - Lint CSS/SCSS.
+
+- [Autoprefixer](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer) Parse CSS,SCSS, LESS and add vendor prefixes automatically. [![Autoprefixer](https://cloud.githubusercontent.com/assets/7034281/16823311/da82a3c6-496b-11e6-8d95-0bebbf0b9607.gif)](https://cloud.githubusercontent.com/assets/7034281/16823311/da82a3c6-496b-11e6-8d95-0bebbf0b9607.gif)
+
+- [Intellisense for CSS class names](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) - Provides CSS class name completion for the HTML class attribute based on the CSS files in your workspace. Also supports React's className attribute.
+
     [![Intellisense CSS class names](https://camo.githubusercontent.com/08667b0f5236c80dc6f4a8a15ba26376e630e8390e676f9c51c107956dd3dc28/68747470733a2f2f692e696d6775722e636f6d2f3563724d66546a2e676966)](https://camo.githubusercontent.com/08667b0f5236c80dc6f4a8a15ba26376e630e8390e676f9c51c107956dd3dc28/68747470733a2f2f692e696d6775722e636f6d2f3563724d66546a2e676966)
-    
 
 ## Go
 
--   [Go](https://marketplace.visualstudio.com/items?itemName=golang.Go) - Rich language support for the Go language.
+- [Go](https://marketplace.visualstudio.com/items?itemName=golang.Go) - Rich language support for the Go language.
 
 ## Groovy
 
--   [VsCode Groovy Lint](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-groovy-lint) - Groovy lint, format, prettify and auto-fix
+- [VsCode Groovy Lint](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-groovy-lint) - Groovy lint, format, prettify and auto-fix
 
 [![VsCode Groovy Lint](https://raw.githubusercontent.com/nvuillam/vscode-groovy-lint/master/images/vscode-anim.gif)](https://raw.githubusercontent.com/nvuillam/vscode-groovy-lint/master/images/vscode-anim.gif)
 
 ## Haskell
 
--   [haskell-linter](https://marketplace.visualstudio.com/items?itemName=hoovercj.haskell-linter)
--   [Haskell IDE engine](https://marketplace.visualstudio.com/items?itemName=alanz.vscode-hie-server) - provides [language server](https://github.com/haskell/haskell-ide-engine) for stack and cabal projects.
+- [haskell-linter](https://marketplace.visualstudio.com/items?itemName=hoovercj.haskell-linter)
+- [Haskell IDE engine](https://marketplace.visualstudio.com/items?itemName=alanz.vscode-hie-server) - provides [language server](https://github.com/haskell/haskell-ide-engine) for stack and cabal projects.
 
 ## HLSL
 
--   [HLSL Tools](https://marketplace.visualstudio.com/items?itemName=TimGJones.hlsltools) - provides rich language support for editing HLSL files in VS Code [![Example of statement completion using HLSL Tools for VS Code](https://github.com/tgjones/HlslTools/raw/master/src/ShaderTools.VSCode/art/statement-completion.gif)](https://github.com/tgjones/HlslTools/raw/master/src/ShaderTools.VSCode/art/statement-completion.gif)
+- [HLSL Tools](https://marketplace.visualstudio.com/items?itemName=TimGJones.hlsltools) - provides rich language support for editing HLSL files in VS Code [![Example of statement completion using HLSL Tools for VS Code](https://github.com/tgjones/HlslTools/raw/master/src/ShaderTools.VSCode/art/statement-completion.gif)](https://github.com/tgjones/HlslTools/raw/master/src/ShaderTools.VSCode/art/statement-completion.gif)
 
 ## Shell
 
--   [autocomplate-shell](https://marketplace.visualstudio.com/items?itemName=truman.autocomplate-shell)
+- [autocomplate-shell](https://marketplace.visualstudio.com/items?itemName=truman.autocomplate-shell)
 
 ## Java
 
--   [Language Support for Java(TM) by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.java)
-    
--   [Debugger for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug)
-    
--   [Maven for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven)
-    
--   [Lombok](https://marketplace.visualstudio.com/items?itemName=GabrielBB.vscode-lombok)
-    
+- [Language Support for Java(TM) by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.java)
+
+- [Debugger for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug)
+
+- [Maven for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven)
+
+- [Lombok](https://marketplace.visualstudio.com/items?itemName=GabrielBB.vscode-lombok)
 
 ## JavaScript
 
--   [TS/JS postfix completion](https://marketplace.visualstudio.com/items?itemName=ipatalas.vscode-postfix-ts)
+- [TS/JS postfix completion](https://marketplace.visualstudio.com/items?itemName=ipatalas.vscode-postfix-ts)
 
 [![TS/JS postfix completion demo](https://github.com/ipatalas/vscode-postfix-ts/raw/master/images/demo-multiline.gif)](https://github.com/ipatalas/vscode-postfix-ts/raw/master/images/demo-multiline.gif)
 
--   [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)
--   [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - This extension provides AI-assisted development features including autocomplete and other insights based on understanding your code context. [![Visual Studio IntelliCode](https://camo.githubusercontent.com/1b24e34e7e5d3df41260ab9b27f8e3ef055e591367b3e5659e9723c487632de8/68747470733a2f2f646f63732e6d6963726f736f66742e636f6d2f656e2d75732f76697375616c73747564696f2f696e74656c6c69636f64652f6d656469612f707974686f6e2d696e74656c6c69636f64652e676966)](https://camo.githubusercontent.com/1b24e34e7e5d3df41260ab9b27f8e3ef055e591367b3e5659e9723c487632de8/68747470733a2f2f646f63732e6d6963726f736f66742e636f6d2f656e2d75732f76697375616c73747564696f2f696e74656c6c69636f64652f6d656469612f707974686f6e2d696e74656c6c69636f64652e676966)
+- [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)
+- [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - This extension provides AI-assisted development features including autocomplete and other insights based on understanding your code context. [![Visual Studio IntelliCode](https://camo.githubusercontent.com/1b24e34e7e5d3df41260ab9b27f8e3ef055e591367b3e5659e9723c487632de8/68747470733a2f2f646f63732e6d6963726f736f66742e636f6d2f656e2d75732f76697375616c73747564696f2f696e74656c6c69636f64652f6d656469612f707974686f6e2d696e74656c6c69636f64652e676966)](https://camo.githubusercontent.com/1b24e34e7e5d3df41260ab9b27f8e3ef055e591367b3e5659e9723c487632de8/68747470733a2f2f646f63732e6d6963726f736f66742e636f6d2f656e2d75732f76697375616c73747564696f2f696e74656c6c69636f64652f6d656469612f707974686f6e2d696e74656c6c69636f64652e676966)
 
 See the difference between these two [here](https://github.com/michaelgmcd/vscode-language-babel/issues/1)
 
 ### Linters
 
--   [tslint (deprecated)](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) - TSLint for Visual Studio Code (with `"tslint.jsEnable": true`).
-    
--   [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Linter for [eslint](https://eslint.org/).
-    
--   [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - Linter for [XO](https://github.com/xojs/xo).
-    
--   [AVA](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava) - Snippets for [AVA](https://github.com/avajs/ava).
-    
--   [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Linter, Formatter and Pretty printer for [Prettier](https://github.com/prettier/prettier-vscode).
-    
--   [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - Spelling Checker for Visual Studio Code (English). Also supports other languages via external extensions.
-    
--   [Schema.org Snippets](https://marketplace.visualstudio.com/items?itemName=austinleegordon.vscode-schema-dot-org) - Snippets for [Schema.org](https://schema.org/).
-    
+- [tslint (deprecated)](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) - TSLint for Visual Studio Code (with `"tslint.jsEnable": true`).
+
+- [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Linter for [eslint](https://eslint.org/).
+
+- [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - Linter for [XO](https://github.com/xojs/xo).
+
+- [AVA](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava) - Snippets for [AVA](https://github.com/avajs/ava).
+
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Linter, Formatter and Pretty printer for [Prettier](https://github.com/prettier/prettier-vscode).
+
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - Spelling Checker for Visual Studio Code (English). Also supports other languages via external extensions.
+
+- [Schema.org Snippets](https://marketplace.visualstudio.com/items?itemName=austinleegordon.vscode-schema-dot-org) - Snippets for [Schema.org](https://schema.org/).
 
 ### Framework-specific
 
--   [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) - Toolkit for Vue.js [![Vetur](https://github.com/viatsko/awesome-vscode/raw/master/screenshots/Vetur.png)](https://github.com/viatsko/awesome-vscode/blob/master/screenshots/Vetur.png)
+- [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) - Toolkit for Vue.js [![Vetur](https://github.com/viatsko/awesome-vscode/raw/master/screenshots/Vetur.png)](https://github.com/viatsko/awesome-vscode/blob/master/screenshots/Vetur.png)
 
 ### [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 
@@ -453,12 +447,12 @@ See the difference between these two [here](https://github.com/michaelgmcd/vscod
 
 ### Facebook Flow
 
--   [Flow Language Support](https://marketplace.visualstudio.com/items?itemName=flowtype.flow-for-vscode) - provides all the functionality you would expect — linting, intellisense, type tooltips and click-to-definition
--   [vscode-flow-ide](https://marketplace.visualstudio.com/items?itemName=gcazaciuc.vscode-flow-ide) - an alternative Flowtype extension for Visual Studio Code
+- [Flow Language Support](https://marketplace.visualstudio.com/items?itemName=flowtype.flow-for-vscode) - provides all the functionality you would expect — linting, intellisense, type tooltips and click-to-definition
+- [vscode-flow-ide](https://marketplace.visualstudio.com/items?itemName=gcazaciuc.vscode-flow-ide) - an alternative Flowtype extension for Visual Studio Code
 
 ### TypeScript
 
--   [tslint (deprecated)](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) - TSLint for Visual Studio Code.
+- [tslint (deprecated)](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) - TSLint for Visual Studio Code.
 
 ### [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 
@@ -488,31 +482,31 @@ See the difference between these two [here](https://github.com/michaelgmcd/vscod
 
 These extensions provide slightly different sets of features. While the first one offers better autocompletion support, the second one seems to have more features overall.
 
--   [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)
--   [PHP IntelliSense](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense)
+- [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)
+- [PHP IntelliSense](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense)
 
 ### Laravel
 
--   [Laravel 5 Snippets](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel5-snippets) - Laravel 5 snippets for Visual Studio Code
--   [Laravel Blade Snippets](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade) - Laravel blade snippets and syntax highlight support
+- [Laravel 5 Snippets](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel5-snippets) - Laravel 5 snippets for Visual Studio Code
+- [Laravel Blade Snippets](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade) - Laravel blade snippets and syntax highlight support
 
 [![Laravel blade snippets and syntax highlight support animation](https://raw.githubusercontent.com/onecentlin/laravel-blade-snippets-vscode/master/images/screenshot.gif)](https://raw.githubusercontent.com/onecentlin/laravel-blade-snippets-vscode/master/images/screenshot.gif)
 
--   [Laravel Model Snippets](https://marketplace.visualstudio.com/items?itemName=ahinkle.laravel-model-snippets) - Quickly get models up and running with Laravel Model Snippets.
+- [Laravel Model Snippets](https://marketplace.visualstudio.com/items?itemName=ahinkle.laravel-model-snippets) - Quickly get models up and running with Laravel Model Snippets.
 
 [![Laravel Model Snippets animation](https://raw.githubusercontent.com/ahinkle/vscode-laravel-model-snippets/master/images/example.gif)](https://raw.githubusercontent.com/ahinkle/vscode-laravel-model-snippets/master/images/example.gif)
 
--   [Laravel Artisan](https://marketplace.visualstudio.com/items?itemName=ryannaddy.laravel-artisan) - Laravel Artisan commands within Visual Studio Code
+- [Laravel Artisan](https://marketplace.visualstudio.com/items?itemName=ryannaddy.laravel-artisan) - Laravel Artisan commands within Visual Studio Code
 
 [![Laravel Artisan commands within Visual Studio Code animation](https://raw.githubusercontent.com/TheColorRed/vscode-laravel-artisan/master/images/screens/make-controller.gif)](https://raw.githubusercontent.com/TheColorRed/vscode-laravel-artisan/master/images/screens/make-controller.gif)
 
--   [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) - Support for dotenv file syntax
+- [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) - Support for dotenv file syntax
 
 [![Support for dotenv file syntax screenshot](https://raw.githubusercontent.com/mikestead/vscode-dotenv/master/images/screenshot.png)](https://raw.githubusercontent.com/mikestead/vscode-dotenv/master/images/screenshot.png)
 
 ### Twig
 
--   [Twig Language 2](https://marketplace.visualstudio.com/items?itemName=mblode.twig-language-2)
+- [Twig Language 2](https://marketplace.visualstudio.com/items?itemName=mblode.twig-language-2)
 
 To enable Emmet support in .twig files, you'll need to have the following in your settings:
 
@@ -534,48 +528,48 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ### Other extensions
 
--   [Format HTML in PHP](https://marketplace.visualstudio.com/items?itemName=rifi2k.format-html-in-php) - Formatting for the HTML in PHP files. Runs before the save action so you can still have a PHP formatter.
+- [Format HTML in PHP](https://marketplace.visualstudio.com/items?itemName=rifi2k.format-html-in-php) - Formatting for the HTML in PHP files. Runs before the save action so you can still have a PHP formatter.
 
 [![Format HTML in PHP](https://raw.githubusercontent.com/RiFi2k/format-html-in-php/master/format-html-in-php.gif)](https://raw.githubusercontent.com/RiFi2k/format-html-in-php/master/format-html-in-php.gif)
 
--   [Composer](https://marketplace.visualstudio.com/items?itemName=ikappas.composer)
--   [PHP Debug](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug) - XDebug extension for Visual Studio Code
--   [PHP DocBlocker](https://marketplace.visualstudio.com/items?itemName=neilbrayfield.php-docblocker)
--   [php cs fixer](https://marketplace.visualstudio.com/items?itemName=junstyle.php-cs-fixer) - PHP CS Fixer extension for VS Code, php formatter, php code beautify tool
--   [phpcs](https://marketplace.visualstudio.com/items?itemName=ikappas.phpcs) - PHP CodeSniffer for Visual Studio Code
--   [phpfmt](https://marketplace.visualstudio.com/items?itemName=kokororin.vscode-phpfmt) - phpfmt for Visual Studio Code
+- [Composer](https://marketplace.visualstudio.com/items?itemName=ikappas.composer)
+- [PHP Debug](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug) - XDebug extension for Visual Studio Code
+- [PHP DocBlocker](https://marketplace.visualstudio.com/items?itemName=neilbrayfield.php-docblocker)
+- [php cs fixer](https://marketplace.visualstudio.com/items?itemName=junstyle.php-cs-fixer) - PHP CS Fixer extension for VS Code, php formatter, php code beautify tool
+- [phpcs](https://marketplace.visualstudio.com/items?itemName=ikappas.phpcs) - PHP CodeSniffer for Visual Studio Code
+- [phpfmt](https://marketplace.visualstudio.com/items?itemName=kokororin.vscode-phpfmt) - phpfmt for Visual Studio Code
 
 ### Read more
 
--   [Configuring Visual Studio Code for Drupal](https://www.drupal.org/docs/develop/development-tools/configuring-visual-studio-code)
+- [Configuring Visual Studio Code for Drupal](https://www.drupal.org/docs/develop/development-tools/configuring-visual-studio-code)
 
 ## POV-Ray
 
--   [POV-Ray](https://marketplace.visualstudio.com/items?itemName=jmaxwilson.vscode-povray) - Persistence of Vision Ray Tracer (POV-Ray) Extension, includes Syntax Highlighting and Snippets for common POV-Ray scene elements, Render the current scene from within Visual Studio Code
+- [POV-Ray](https://marketplace.visualstudio.com/items?itemName=jmaxwilson.vscode-povray) - Persistence of Vision Ray Tracer (POV-Ray) Extension, includes Syntax Highlighting and Snippets for common POV-Ray scene elements, Render the current scene from within Visual Studio Code
 
 [![Animated GIF of POV-Ray in Visual Studio Code](https://raw.githubusercontent.com/jmaxwilson/vscode-povray/master/images/vscode-povray-demo.gif)](https://raw.githubusercontent.com/jmaxwilson/vscode-povray/master/images/vscode-povray-demo.gif)
 
 ## Python
 
--   [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Linting, Debugging (multi threaded, web apps), Intellisense, auto-completion, code formatting, snippets, unit testing, and more.
+- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Linting, Debugging (multi threaded, web apps), Intellisense, auto-completion, code formatting, snippets, unit testing, and more.
 
 ### TensorFlow
 
--   [TensorFlow Snippets](https://marketplace.visualstudio.com/items?itemName=vahidk.tensorflow-snippets) - This extension includes a set of useful code snippets for developing TensorFlow models in Visual Studio Code.
+- [TensorFlow Snippets](https://marketplace.visualstudio.com/items?itemName=vahidk.tensorflow-snippets) - This extension includes a set of useful code snippets for developing TensorFlow models in Visual Studio Code.
 
 [![TensorFlow Snippets GIF](https://raw.githubusercontent.com/vahidk/tensorflow-snippets/master/images/framework.gif)](https://raw.githubusercontent.com/vahidk/tensorflow-snippets/master/images/framework.gif)
 
 ## ReasonML
 
--   [ReasonML](https://marketplace.visualstudio.com/items?itemName=jaredly.reason-vscode) - Intellisense, code formatting, refactoring, code lens and more
+- [ReasonML](https://marketplace.visualstudio.com/items?itemName=jaredly.reason-vscode) - Intellisense, code formatting, refactoring, code lens and more
 
 ## Rust
 
--   [Rust](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) - Linting, auto-completion, code formatting, snippets and more
+- [Rust](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) - Linting, auto-completion, code formatting, snippets and more
 
 ## Terraform
 
--   [Terraform](https://marketplace.visualstudio.com/items?itemName=hashicorp.terraform) - Syntax highlighting, linting, formatting, and validation for Hashicorp's Terraform
+- [Terraform](https://marketplace.visualstudio.com/items?itemName=hashicorp.terraform) - Syntax highlighting, linting, formatting, and validation for Hashicorp's Terraform
 
 ## GitHub
 
@@ -908,7 +902,7 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ## [Better Align](https://marketplace.visualstudio.com/items?itemName=wwm.better-align)
 
 > Align your code by colon(:), assignment(=,+=,-=,\*=,/=) and arrow(=>). It has additional support for comma-first coding style and trailing comment.
-> 
+>
 > And it doesn't require you to select what to be aligned, the extension will figure it out by itself.
 
 [![Better Align](https://raw.githubusercontent.com/WarWithinMe/better-align/master/images/2.gif)](https://raw.githubusercontent.com/WarWithinMe/better-align/master/images/2.gif)
@@ -1169,8 +1163,8 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 If you're feeling brave, there are at least two custom UIs for VS Code:
 
--   [Essence](https://github.com/essence-language/vscode-extension)
--   [Pragmatic Essence](https://github.com/orta/Essence)
+- [Essence](https://github.com/essence-language/vscode-extension)
+- [Pragmatic Essence](https://github.com/orta/Essence)
 
 ## Syntax
 
@@ -1352,50 +1346,50 @@ Collection of 18 light themes separated in 4 groups by background's brightness.
 
 A list of Twitter accounts for various people in the VS Code Community
 
--   [@code](https://twitter.com/code) - The official VS Code Twitter
--   [@auchenberg](https://twitter.com/auchenberg) - VS Code Program Manager
--   [@BenjaminPasero](https://twitter.com/BenjaminPasero) - VS Code Dev
--   [@chrisdias](https://twitter.com/chrisdias) - VS Code Program Manager
--   [@\_clarkio](https://twitter.com/_clarkio) - Developer Advocate @ Azure. Creator of VS Code release highlight videos
--   [@eamodio](https://twitter.com/eamodio) - GitLens creator
--   [@ErichGamma](https://twitter.com/ErichGamma) - VS Code Dev
--   [@IsidorN](https://twitter.com/@IsidorN) - VS Code Dev
--   [@joaomoreno](https://twitter.com/joaomoreno) - VS Code Dev
--   [@johannesrieken](https://twitter.com/johannesrieken) - VS Code Dev
--   [@lannonbr](https://twitter.com/lannonbr) - Creator of vscode.rocks & JS Parameter Annotations extension
--   [@maeschli](https://twitter.com/maeschli) - VS Code Dev
--   [@mattbierner](https://twitter.com/mattbierner) - VS Code Dev
--   [@MrAhmadAwais](https://twitter.com/MrAhmadAwais) - JS/WordPress Core Dev. Creator of VSCode.pro course & Shades of Purple theme
--   [@ramyanexus](https://twitter.com/ramyanexus) - VS Code Dev. Maintainer of Go extension
--   [@Tyriar](https://twitter.com/Tyriar) - VS Code Dev. Creator of xterm.js
+- [@code](https://twitter.com/code) - The official VS Code Twitter
+- [@auchenberg](https://twitter.com/auchenberg) - VS Code Program Manager
+- [@BenjaminPasero](https://twitter.com/BenjaminPasero) - VS Code Dev
+- [@chrisdias](https://twitter.com/chrisdias) - VS Code Program Manager
+- [@\_clarkio](https://twitter.com/_clarkio) - Developer Advocate @ Azure. Creator of VS Code release highlight videos
+- [@eamodio](https://twitter.com/eamodio) - GitLens creator
+- [@ErichGamma](https://twitter.com/ErichGamma) - VS Code Dev
+- [@IsidorN](https://twitter.com/@IsidorN) - VS Code Dev
+- [@joaomoreno](https://twitter.com/joaomoreno) - VS Code Dev
+- [@johannesrieken](https://twitter.com/johannesrieken) - VS Code Dev
+- [@lannonbr](https://twitter.com/lannonbr) - Creator of vscode.rocks & JS Parameter Annotations extension
+- [@maeschli](https://twitter.com/maeschli) - VS Code Dev
+- [@mattbierner](https://twitter.com/mattbierner) - VS Code Dev
+- [@MrAhmadAwais](https://twitter.com/MrAhmadAwais) - JS/WordPress Core Dev. Creator of VSCode.pro course & Shades of Purple theme
+- [@ramyanexus](https://twitter.com/ramyanexus) - VS Code Dev. Maintainer of Go extension
+- [@Tyriar](https://twitter.com/Tyriar) - VS Code Dev. Creator of xterm.js
 
 ## Resources for extension developers
 
 ## Documentation
 
--   [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - The Better Comments extension will help you create more human-friendly comments in your code.
--   [Visual Studio Code API](https://code.visualstudio.com/api) section of [Official Documentation](https://code.visualstudio.com/docs)
+- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - The Better Comments extension will help you create more human-friendly comments in your code.
+- [Visual Studio Code API](https://code.visualstudio.com/api) section of [Official Documentation](https://code.visualstudio.com/docs)
 
 ## Libraries
 
--   [vscode-test-content](https://github.com/mlewand-org/vscode-test-content) - A method to set/get editor content, and it's selection. Especially useful for unit tests.
--   [typed-vscode](https://www.npmjs.com/typed-vscode) - Generates types from contribution points of your extension manifest
+- [vscode-test-content](https://github.com/mlewand-org/vscode-test-content) - A method to set/get editor content, and it's selection. Especially useful for unit tests.
+- [typed-vscode](https://www.npmjs.com/typed-vscode) - Generates types from contribution points of your extension manifest
 
 ## Tools
 
--   [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Visual Studio Live Share enables you to collaboratively edit and debug with others in real time, regardless what programming languages you're using or app types you're building.
--   [Online TextMate Themes Editor](https://tmtheme-editor.herokuapp.com/) - since VS Code supports TextMate themes, you can create them in this online editor and then create a new VS Code package using [Yo Code](https://code.visualstudio.com/docs/extensions/yocode) tool
--   [Yo Code - Extension Generator](https://code.visualstudio.com/docs/extensions/yocode)
--   [Open in Code](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code
+- [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Visual Studio Live Share enables you to collaboratively edit and debug with others in real time, regardless what programming languages you're using or app types you're building.
+- [Online TextMate Themes Editor](https://tmtheme-editor.herokuapp.com/) - since VS Code supports TextMate themes, you can create them in this online editor and then create a new VS Code package using [Yo Code](https://code.visualstudio.com/docs/extensions/yocode) tool
+- [Yo Code - Extension Generator](https://code.visualstudio.com/docs/extensions/yocode)
+- [Open in Code](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code
 
 [![macOS Finder toolbar app to open current folder in Visual Studio Code animation](https://camo.githubusercontent.com/edbae5fe27d6c7af23218e60cb07e3a5061bbbab/687474703a2f2f692e696d6775722e636f6d2f4c6d56484978572e676966)](https://camo.githubusercontent.com/edbae5fe27d6c7af23218e60cb07e3a5061bbbab/687474703a2f2f692e696d6775722e636f6d2f4c6d56484978572e676966)
 
--   [Themer](https://themer.dev/) - Easily create your own theme for VS Code (and matching ones for your other tools).
--   [Azure Tools for Visual Studio Code](https://github.com/bradygaster-zz/azure-tools-vscode) - This extension for Visual Studio Code gives Azure developers some convenient commands for creating or accessing resources directly in the editor.
+- [Themer](https://themer.dev/) - Easily create your own theme for VS Code (and matching ones for your other tools).
+- [Azure Tools for Visual Studio Code](https://github.com/bradygaster-zz/azure-tools-vscode) - This extension for Visual Studio Code gives Azure developers some convenient commands for creating or accessing resources directly in the editor.
 
 [![azure-tools-vscode](https://raw.githubusercontent.com/johnpapa/vscode-azure-functions-tools/master/images/json-schema-function.gif)](https://raw.githubusercontent.com/johnpapa/vscode-azure-functions-tools/master/images/json-schema-function.gif)
 
--   [Mark down preview](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) - Markdown Preview Enhanced is an extension that provides you with many useful functionalities such as automatic scroll sync, math typesetting, mermaid, PlantUML, pandoc, PDF export, code chunk, presentation writer, etc. A lot of its ideas are inspired by Markdown Preview Plus and RStudio Markdown.
+- [Mark down preview](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) - Markdown Preview Enhanced is an extension that provides you with many useful functionalities such as automatic scroll sync, math typesetting, mermaid, PlantUML, pandoc, PDF export, code chunk, presentation writer, etc. A lot of its ideas are inspired by Markdown Preview Plus and RStudio Markdown.
 
 ## Online Courses
 
@@ -1403,8 +1397,8 @@ A list of Twitter accounts for various people in the VS Code Community
 
 After 10 years with Sublime Text, [Ahmad Awais](https://twitter.com/MrAhmadAwais/) switched to VSCode, built [Shades of Purple theme](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple), and spent over a 1,000 hours perfecting his setup. He has launched a VSCode Power User Course to help you switch today. You can bring all your custom settings from the previous editor and learn the power user workflows for HTML/CSS, Git/GitHub & Open Source, supercharged Markdown, and everything from JavaScript to PHP, Go, Python, C++, C#, ROR. In this course, you'll also learn to install/setup 50+ Extensions.
 
--   [VSCode.pro](https://vscode.pro/) - 📺 Huge five hours 65 videos VSCode course.
--   [Ahmad Awais](https://twitter.com/MrAhmadAwais/) - 🙌 Creator of Shades of Purple theme. Core Developer for WP/JS. OSS Dev Advocate.
+- [VSCode.pro](https://vscode.pro/) - 📺 Huge five hours 65 videos VSCode course.
+- [Ahmad Awais](https://twitter.com/MrAhmadAwais/) - 🙌 Creator of Shades of Purple theme. Core Developer for WP/JS. OSS Dev Advocate.
 
 ## Contribute
 

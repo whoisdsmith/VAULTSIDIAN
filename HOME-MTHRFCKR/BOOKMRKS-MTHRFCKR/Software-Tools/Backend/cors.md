@@ -1,6 +1,6 @@
 # CORS
 
-https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
+<https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS>
 
 Cross-Origin Resource Sharing (CORS) is a mechanism that uses additional HTTP headers to tell browsers to give a web application running at one origin, access to selected resources from a different origin. A web application executes a cross-origin HTTP request when it requests a resource that has a different origin (domain, protocol, or port) from its own.
 
@@ -35,7 +35,7 @@ http response must have headers:
 Response to preflight request doesn't pass access control check: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '\*' when the request's credentials mode is 'include'. The credentials mode of requests initiated by the XMLHttpRequest is controlled by the withCredentials attribute.
 
 - It does not have HTTP ok status.  
-  https://stackoverflow.com/questions/57640113/cors-it-does-not-have-http-ok-status
+  <https://stackoverflow.com/questions/57640113/cors-it-does-not-have-http-ok-status>
 
 You may need to enable pre-flight requests for your route
 

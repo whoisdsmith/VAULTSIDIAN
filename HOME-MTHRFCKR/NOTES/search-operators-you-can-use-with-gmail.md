@@ -13,7 +13,7 @@ You can use words or symbols called search operators to filter your Gmail search
 
 ## Search operators you can use
 
-**Tip: **Once you do a search using search operators, you can use the results to [set up a filter](/mail/answer/6579) for these messages.
+**Tip:**Once you do a search using search operators, you can use the results to [set up a filter](/mail/answer/6579) for these messages.
 
 What you can search by Search operator & example
 
@@ -45,7 +45,7 @@ Example: `subject:dinner`
 
 Messages that match multiple terms
 
-`OR `or` { }`
+`OR`or`{ }`
 
 Example: `from:amy OR from:david`
 
@@ -89,7 +89,7 @@ Messages that have a Google Drive, Docs, Sheets, or Slides attachment or link
 
 `has:presentation`
 
-Example: `has:drive `
+Example: `has:drive`
 
 Messages that have a YouTube video
 
@@ -135,7 +135,7 @@ Search for messages that are marked as [important](/mail/answer/186543)
 
 `label:important`
 
-Example: `is:important `
+Example: `is:important`
 
 Starred, snoozed, unread, or read messages
 
@@ -165,7 +165,7 @@ Recipients in the cc or bcc field
 
 Example: `cc:david`
 
-**Note: **You can't find messages that you received on bcc.
+**Note:**You can't find messages that you received on bcc.
 
 Search for messages sent during a certain time period
 
@@ -223,7 +223,7 @@ Messages larger or smaller than a certain size in bytes
 
 `smaller:`
 
-Example:` larger:10M`
+Example:`larger:10M`
 
 Results that match a word exactly
 
@@ -235,7 +235,7 @@ Messages with a certain message-id header
 
 `Rfc822msgid:`
 
-Example: `rfc822msgid:200503292@example.com `
+Example: `rfc822msgid:200503292@example.com`
 
 Messages that have or don't have a label
 
@@ -243,13 +243,12 @@ Messages that have or don't have a label
 
 `has:nouserlabels`
 
-Example: `has:nouserlabels `
+Example: `has:nouserlabels`
 
 **Note:** Labels are only added to a message, and not an entire conversation.
 
 **Note:** When using numbers as part of your query, a space or a dash (-) will separate a number while a dot (.) will be a decimal. For example, `01.2047-100` is considered 2 numbers: 01.2047 and 100.
 
-
 ___
 
-#article 
+# article

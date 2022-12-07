@@ -18,7 +18,7 @@ How do you figure out which plan you need? When you first sign up for Zapier, yo
 
 Once you've got the hang of creating Zaps, learn how to take your productivity to the next level with features like:
 
--   [Multi-step Zaps](https://zapier.com/blog/maximize-productivity-with-multi-step-zaps/)
--   [Search actions](https://zapier.com/help/create/basics/search-for-existing-data-in-zaps)
--   [Filters](https://zapier.com/help/create/customize/add-conditions-to-zaps-with-filters)
--   [Zapier's built-in apps](https://zapier.com/blog/zapier-internal-apps-powerful-workflows/)
+- [Multi-step Zaps](https://zapier.com/blog/maximize-productivity-with-multi-step-zaps/)
+- [Search actions](https://zapier.com/help/create/basics/search-for-existing-data-in-zaps)
+- [Filters](https://zapier.com/help/create/customize/add-conditions-to-zaps-with-filters)
+- [Zapier's built-in apps](https://zapier.com/blog/zapier-internal-apps-powerful-workflows/)

@@ -114,15 +114,15 @@ Hope this saves someone’s time.
 
 ----
 
-[1]:	https://nodejs.org/api/vm.html
-[2]:	https://blog.codepen.io/2016/06/08/can-adjust-infinite-loop-protection-timing/
-[3]:	https://github.com/nodejs/node/issues/3020
-[4]:	https://en.wikipedia.org/wiki/AST
-[5]:	https://astexplorer.net/
-[6]:	https://github.com/babel/babel/tree/master/packages/babel-core
-[7]:	https://github.com/thejameskyle/babel-handbook/blob/master/translations/en/plugin-handbook.md
+[1]: https://nodejs.org/api/vm.html
+[2]: https://blog.codepen.io/2016/06/08/can-adjust-infinite-loop-protection-timing/
+[3]: https://github.com/nodejs/node/issues/3020
+[4]: https://en.wikipedia.org/wiki/AST
+[5]: https://astexplorer.net/
+[6]: https://github.com/babel/babel/tree/master/packages/babel-core
+[7]: https://github.com/thejameskyle/babel-handbook/blob/master/translations/en/plugin-handbook.md
 
-[image-1]:	https://miro.medium.com/max/1626/1*pq0y-SfP50SkKnew5lgoDA.png
-[image-2]:	https://miro.medium.com/max/1323/1*JgljmkkE1mprwe7O6C_Cew.png
+[image-1]: https://miro.medium.com/max/1626/1*pq0y-SfP50SkKnew5lgoDA.png
+[image-2]: https://miro.medium.com/max/1323/1*JgljmkkE1mprwe7O6C_Cew.png
 
-#article #loops
+# article #loops

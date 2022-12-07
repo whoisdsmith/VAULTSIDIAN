@@ -1,4 +1,5 @@
 ## Company Search Tools
+
 - [CompeteShark](https://competeshark.com/)
 - [Fortune Global 500 2020 | Full list of rankings | Fortune](https://fortune.com/global500)
 - [globalEDGE](https://globaledge.msu.edu/)

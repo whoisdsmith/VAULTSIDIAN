@@ -4,7 +4,8 @@ Inspire [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78
 Designing and building a modern frontend in any web project can be a long and arduous process. Here's a collection of links to help you. Enjoy!
 
 ## Concept
-##### These sites are good to get a general idea of possible layouts and style paths to take.
+
+##### These sites are good to get a general idea of possible layouts and style paths to take
 
 * [Awwwards](http://www.awwwards.com/) - More awesome sites of various styles.
 * [CodeMyUI](https://codemyui.com/) - List of code snippets for fancy CSS/JS that make an awesome UI.
@@ -22,7 +23,8 @@ Designing and building a modern frontend in any web project can be a long and ar
 * [TheBestDesigns](https://www.thebestdesigns.com/) - General list of hand picked sites from across the web.
 
 ## Creation
-##### These sites are good for building a basic framework for the site.
+
+##### These sites are good for building a basic framework for the site
 
 * Colors 🎨
   * [ColorsWall](https://colorswall.com/) - Place to store your color palettes.
@@ -50,7 +52,8 @@ Designing and building a modern frontend in any web project can be a long and ar
   * [YMNNJQ](http://youmightnotneedjquery.com) - See jQuery functions in natural JS. No libraries.
 
 ## Tools
-##### Every painter needs a brush. Well... Most do.
+
+##### Every painter needs a brush. Well... Most do
 
 * Design Tools
   * [Figma](https://figma.com) - Web-based vector graphics editor
@@ -72,7 +75,8 @@ Designing and building a modern frontend in any web project can be a long and ar
 * [WinSCP](http://winscp.net) - Upload files to a MEAN stack or VPS server.
 
 ## Collaborate
-##### Working with a team? These links are for you.
+
+##### Working with a team? These links are for you
 
 * [Cloud9](https://c9.io) - An awesome, zen way to work with others in the cloud.
 * [Gist](https://gist.github.com) - Share code and text with others fast. Like a mini repository.
@@ -81,7 +85,8 @@ Designing and building a modern frontend in any web project can be a long and ar
 * [Scratchpad](http://scratchpad.io) - A simple, RTC tool for coding and previewing websites.
 
 ## Backends
-##### Every awesome web app needs an awesome backend.
+
+##### Every awesome web app needs an awesome backend
 
 * [Auth0](https://auth0.com/) - Authentication, done for you.
 * [DigitalOcean](https://www.digitalocean.com/) - A cheap and quality VPS hosting company.
@@ -90,7 +95,8 @@ Designing and building a modern frontend in any web project can be a long and ar
 * [Heroku](https://www.heroku.com) - Cloud application platform; very easy to scale.
 
 ## Testing
-##### Before you launch, these are good tools to make sure your site is ready for stardom.
+
+##### Before you launch, these are good tools to make sure your site is ready for stardom
 
 * [Browserling](https://www.browserling.com/) - Cross-browser test your website.
 * [Checkbot](https://www.checkbot.io) - Browser extension that tests your website follows 50+ SEO, speed and security best practices.
@@ -103,6 +109,7 @@ Designing and building a modern frontend in any web project can be a long and ar
 * [Yslow](http://yslow.org) - Tool for analyzing and finding fixes for multiple causes of slow site loading.
 
 ## Good Reads
+
 ##### Need something to read in your spare time?
 
 * [1stWebDesign](http://www.1stwebdesigner.com/blog/) - A good, simple blog on web development and design.

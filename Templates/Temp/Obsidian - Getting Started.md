@@ -14,13 +14,13 @@ Search Tag: #📖
 
 ![[Pasted image 20210907111121.png](Template%20Hub/Templates/Obsidian-Vault-Structure/03%20-%20Content/files/Pasted%20image%2020210907111121.png)
 
-## Welcome to TrustedSec's Obsidian Vault!
+## Welcome to TrustedSec's Obsidian Vault
 
 If you're just getting started, be sure to check out [the complete blog](https://www.trustedsec.com/blog/obsidian-taming-a-collective-consciousness/pertaining) pertaining to Obsidian on TrustedSec's website. In addition, dig into a few of the resources cited below which go into substantially more detail surrounding many of the **how-tos** of Obsidian and the benefits of maintaining a digitial [[Zettlekasten]]!
 
 ___
 
-## Resources:
+## Resources
 
 | Hyperlink | Info |
 | --------- | ---- |

@@ -155,108 +155,108 @@ ___
 ### Computers & Networking
 
 - **Desktop**
-	- Hardware
-		- Audio Cards
-			- Audio Interfaces
-				- Behringer
-				- Focusrite
-				- Presonus
-				- Tascam
-		- Custom Casing
-		- Drives
-			- CD/DVD
-			- Floppy
-			- HDD
-			- SSD
-			- USB
-		- Graphics Cards
-		- Input/Output
-			- Keyboards
-				- Wired
-				- Wireless
-			- Mouse
-				- Wired
-				- Wireless
-			- Monitors
-				- Dual
-				- Quad
-			- Motherboards
-			- Networking Cards
-				- Wi-Fi
-				- LAN
-			- Ports
-				- Aux
-				- Firewire
-				- HDMI
-				- Thunderbolt
-				- USB
-					- 2.0
-					- 3.0
-				- VCA
-			- PSU's
+  - Hardware
+    - Audio Cards
+      - Audio Interfaces
+        - Behringer
+        - Focusrite
+        - Presonus
+        - Tascam
+    - Custom Casing
+    - Drives
+      - CD/DVD
+      - Floppy
+      - HDD
+      - SSD
+      - USB
+    - Graphics Cards
+    - Input/Output
+      - Keyboards
+        - Wired
+        - Wireless
+      - Mouse
+        - Wired
+        - Wireless
+      - Monitors
+        - Dual
+        - Quad
+      - Motherboards
+      - Networking Cards
+        - Wi-Fi
+        - LAN
+      - Ports
+        - Aux
+        - Firewire
+        - HDMI
+        - Thunderbolt
+        - USB
+          - 2.0
+          - 3.0
+        - VCA
+      - PSU's
 - **Operating Systems**
-	- Windows
-		- Windows 95
-		- Windows 98
-		- Windows XP
-		- Windows Vista
-		- Windows 7
-		- Windows 8
-		- Windows 10
-		- Windows 11
-	- MacOS
-		- Mavericks
-		- Yosemite
-		- El Capitan
-		- Sierra
-		- High Sierra
-		- Mojave
-		- Catalina
-		- Big Sur
-		- Monterey
-	- Linux
-		- Elementary
-		- Kali Linux
-		- Mint
-		- Ubuntu
+  - Windows
+    - Windows 95
+    - Windows 98
+    - Windows XP
+    - Windows Vista
+    - Windows 7
+    - Windows 8
+    - Windows 10
+    - Windows 11
+  - MacOS
+    - Mavericks
+    - Yosemite
+    - El Capitan
+    - Sierra
+    - High Sierra
+    - Mojave
+    - Catalina
+    - Big Sur
+    - Monterey
+  - Linux
+    - Elementary
+    - Kali Linux
+    - Mint
+    - Ubuntu
 
 ### Software
 
 - Office
-	- Google Docs
-	- Google Sheets
-	- Microsoft Excel
-	- Microsoft Word
+  - Google Docs
+  - Google Sheets
+  - Microsoft Excel
+  - Microsoft Word
 - CAD
-	- AUTOCAD
-	- Solidworks
+  - AUTOCAD
+  - Solidworks
 
 Computer Networking  
 Data Recovery
 
-	Microsoft Word
-	Microsoft Excel
-	iOS - 10+ years
+ Microsoft Word
+ Microsoft Excel
+ iOS - 10+ years
 
 ### Fabrication
 
-	Brakepress
-		AMADA 
-	CNC Laser
-		CY-Laser
-	CNC Machine - 5 years
-		Screw Machines
-		Broach Machine
-		Lathes
-	CAD - 5 years
-		Blueprint Reading
-		AutoCAD - 5 Years
-		SolidWorks - 5 years
+ Brakepress
+  AMADA
+ CNC Laser
+  CY-Laser
+ CNC Machine - 5 years
+  Screw Machines
+  Broach Machine
+  Lathes
+ CAD - 5 years
+  Blueprint Reading
+  AutoCAD - 5 Years
+  SolidWorks - 5 years
 
 ### Factory
 
-	Assembly - 10+ years
-	Assembly line - 10+ years
+ Assembly - 10+ years
+ Assembly line - 10+ years
 
 ### Audio Production
 

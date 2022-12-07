@@ -6,23 +6,23 @@ The Make REST API allows using HTTP requests to access Make data and control the
 
 The API allows you to interact with multiple [Make resources](https://www.make.com/en/api-documentation/api-resources#api-resources). This documentation covers the following API resources:
 
--   [Connections](https://www.make.com/en/api-documentation/connections#connections)
--   [Data stores](https://www.make.com/en/api-documentation/data-stores#data-stores)
--   [Data structures](https://www.make.com/en/api-documentation/data-structures#data-structures)
--   [Hooks](https://www.make.com/en/api-documentation/hooks#hooks)
--   [Notifications](https://www.make.com/en/api-documentation/notifications#notifications)
--   [Scenarios](https://www.make.com/en/api-documentation/scenarios#scenarios)
--   [Scenarios folders](https://www.make.com/en/api-documentation/scenarios-folders#scenarios-folders)
--   [Templates](https://www.make.com/en/api-documentation/templates#templates)
--   [Users](https://www.make.com/en/api-documentation/users#users)
+- [Connections](https://www.make.com/en/api-documentation/connections#connections)
+- [Data stores](https://www.make.com/en/api-documentation/data-stores#data-stores)
+- [Data structures](https://www.make.com/en/api-documentation/data-structures#data-structures)
+- [Hooks](https://www.make.com/en/api-documentation/hooks#hooks)
+- [Notifications](https://www.make.com/en/api-documentation/notifications#notifications)
+- [Scenarios](https://www.make.com/en/api-documentation/scenarios#scenarios)
+- [Scenarios folders](https://www.make.com/en/api-documentation/scenarios-folders#scenarios-folders)
+- [Templates](https://www.make.com/en/api-documentation/templates#templates)
+- [Users](https://www.make.com/en/api-documentation/users#users)
 
 The following API resources are fully functional, but are not covered in this documentation yet:
 
--   Custom apps
--   Devices
--   Keys
--   Organizations
--   Teams
+- Custom apps
+- Devices
+- Keys
+- Organizations
+- Teams
 
 #### Make API structure
 
@@ -46,64 +46,65 @@ Make API uses standard HTTP methods to interact with endpoints. The following ta
 
 | **HTTP method** | **Description** |
 | --- | --- |
-| 
+|
+
 ```
 GET
 ```
 
- | 
+ |
 
 Retrieves a resource representation without modifying it.
 
 _Example:_  
 [`/scenarios`](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-get)  
 _returns all available Make scenarios_ |
-| 
+|
 
 ```
 POST
 ```
 
- | 
+ |
 
 Creates a resource.
 
 _Example:_  
 [`/scenarios`](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-post)  
 _creates a scenario_ |
-| 
+|
 
 ```
 PUT
 ```
 
- | 
+ |
 
 Updates a resource. If the resource does not exist yet, this method creates it.
 
 _Example:_  
 [`/scenarios/{scenarioId}/data`](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-scenarioId-data-put)  
 _sets module data for a scenario with a given ID_ |
-| 
+|
 
 ```
 PATCH
 ```
 
- | 
+ |
 
 Makes a partial update on a resource. Does not replace the entire resource.
 
 _Example:_  
 [`/scenarios/{scenarioId}`](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-scenarioId-patch)  
 _updates properties (for example, scheduling or blueprint) of the scenario with a given ID_ |
-| 
+|
 
 ```
 DELETE
 ```
 
- | 
+ |
 
 Removes a resource.
 
@@ -122,22 +123,21 @@ To make your first API call, you need to perform the following actions:
 
 How to:
 
-1.  **Create an authentication token**. The token gives you access to Make API resources depending on your [Make role and assigned scopes](https://www.make.com/en/api-documentation/users-password-reset-post#authentication-scopes). You must include the token in the **Authorization** header of all requests. Add the word **Token** and a space before the token itself:  
+1. **Create an authentication token**. The token gives you access to Make API resources depending on your [Make role and assigned scopes](https://www.make.com/en/api-documentation/users-password-reset-post#authentication-scopes). You must include the token in the **Authorization** header of all requests. Add the word **Token** and a space before the token itself:  
     `'Authorization: Token {Your authentication token}'`
-    
-2.  **Choose the** [endpoint](https://www.make.com/en/api-documentation/users-password-reset-post#api-resources) **that corresponds to the resource you want to interact with.** For this example, you need the `/data-stores` endpoint. The endpoint requires the **teamId** query parameter. Place the parameter after the question mark in the endpoint URL. To filter results, you also need the [parameter for ordering data](https://www.make.com/en/api-documentation/users-password-reset-post#pagination-sorting-filtering)—**pg\[sortDir\]**:  
+
+2. **Choose the** [endpoint](https://www.make.com/en/api-documentation/users-password-reset-post#api-resources) **that corresponds to the resource you want to interact with.** For this example, you need the `/data-stores` endpoint. The endpoint requires the **teamId** query parameter. Place the parameter after the question mark in the endpoint URL. To filter results, you also need the [parameter for ordering data](https://www.make.com/en/api-documentation/users-password-reset-post#pagination-sorting-filtering)—**pg\[sortDir\]**:  
     `{environment_url}/api/v2/data-stores?teamId={teamId}&pg%5BsortDir%5D=asc`
-    
+
     The environment URL refers to the Make platform you interact with.
-    
-3.  **Prepare the full request and send it.** In this case, use cURL to making the request. You want to retrieve data without modifying it—use the **GET** method. Let’s put elements from the previous steps together.
-    
+
+3. **Prepare the full request and send it.** In this case, use cURL to making the request. You want to retrieve data without modifying it—use the **GET** method. Let’s put elements from the previous steps together.
+
     The following request example contains a sample authentication token. Don't use it in your requests. [Generate your own token](https://www.make.com/en/api-documentation/users-password-reset-post#authentication-token).
-    
+
     Always include a request body in POST, PUT, or PATCH requests.
-    
-4.  **Evaluate the response.** The API returns `200 OK` and a list of all data stores for the specified team. If your request failed, you receive an error code. Refer to [Troubleshooting and error handling](https://www.make.com/en/api-documentation/users-password-reset-post#troubleshooting) to troubleshoot the issue.
-    
+
+4. **Evaluate the response.** The API returns `200 OK` and a list of all data stores for the specified team. If your request failed, you receive an error code. Refer to [Troubleshooting and error handling](https://www.make.com/en/api-documentation/users-password-reset-post#troubleshooting) to troubleshoot the issue.
 
 Request
 
@@ -203,14 +203,14 @@ Describes the expected outcome when using an endpoint, and what Make features th
 
 These are options you can include with a request to modify the response. Each parameter specifies whether it is required or not. Parameters are divided into two main groups:
 
--   **Path parameters** — path parameters are always required. They are used to identify or specify the resource (usually by indicating its ID) and they should be placed inside the endpoint URI. Example: `/data-stores/54`
-    
--   **Query parameters** — query parameters are often optional. They can be used to specify the resource but they are usually used as [parameters to sort or filter resources](https://www.make.com/en/api-documentation/pagination-sorting-filtering#pagination-sorting-filtering). They are placed at the end of the endpoint URI, after a question mark. Separate multiple parameters with an ampersand symbol. If a parameter contains square brackets, encode them. Example: `/data-stores?teamId=123&pg%5Boffset%5D=10`
-    
--   **Request body** — for some endpoints (mainly connected with the POST, PUT, or PATCH HTTP methods), you can also see the Request body section in the endpoint details. This section contains the description of the payload properties that are needed to modify the resource.
-    
+- **Path parameters** — path parameters are always required. They are used to identify or specify the resource (usually by indicating its ID) and they should be placed inside the endpoint URI. Example: `/data-stores/54`
+
+- **Query parameters** — query parameters are often optional. They can be used to specify the resource but they are usually used as [parameters to sort or filter resources](https://www.make.com/en/api-documentation/pagination-sorting-filtering#pagination-sorting-filtering). They are placed at the end of the endpoint URI, after a question mark. Separate multiple parameters with an ampersand symbol. If a parameter contains square brackets, encode them. Example: `/data-stores?teamId=123&pg%5Boffset%5D=10`
+
+- **Request body** — for some endpoints (mainly connected with the POST, PUT, or PATCH HTTP methods), you can also see the Request body section in the endpoint details. This section contains the description of the payload properties that are needed to modify the resource.
+
     Example:
-    
+
     ```
     {
       "name": "Customers",
@@ -219,7 +219,6 @@ These are options you can include with a request to modify the response. Each pa
       "maxSizeMB": 1
     }
     ```
-    
 
 #### Request examples
 
@@ -284,15 +283,15 @@ Request
 
 cURL
 
--   cURL
--   HTTP
--   Node.js (https)
--   Java (nethttp)
--   PHP (http1)
--   Python (http.client)
--   C# (httpclient)
--   Go
--   Ruby
+- cURL
+- HTTP
+- Node.js (https)
+- Java (nethttp)
+- PHP (http1)
+- Python (http.client)
+- C# (httpclient)
+- Go
+- Ruby
 
 ```
 curl -X POST \
@@ -303,8 +302,8 @@ curl -X POST \
 
 Response
 
--   Value
--   Schema
+- Value
+- Schema
 
 ```
 {
@@ -426,15 +425,15 @@ Request
 
 cURL
 
--   cURL
--   HTTP
--   Node.js (https)
--   Java (nethttp)
--   PHP (http1)
--   Python (http.client)
--   C# (httpclient)
--   Go
--   Ruby
+- cURL
+- HTTP
+- Node.js (https)
+- Java (nethttp)
+- PHP (http1)
+- Python (http.client)
+- C# (httpclient)
+- Go
+- Ruby
 
 ```
 curl -X GET \
@@ -444,8 +443,8 @@ curl -X GET \
 
 Response
 
--   Value
--   Schema
+- Value
+- Schema
 
 ```
 {
@@ -624,15 +623,15 @@ Request
 
 cURL
 
--   cURL
--   HTTP
--   Node.js (https)
--   Java (nethttp)
--   PHP (http1)
--   Python (http.client)
--   C# (httpclient)
--   Go
--   Ruby
+- cURL
+- HTTP
+- Node.js (https)
+- Java (nethttp)
+- PHP (http1)
+- Python (http.client)
+- C# (httpclient)
+- Go
+- Ruby
 
 ```
 curl -X GET \
@@ -642,8 +641,8 @@ curl -X GET \
 
 Response
 
--   Value
--   Schema
+- Value
+- Schema
 
 ```
 {
@@ -782,15 +781,15 @@ Request
 
 cURL
 
--   cURL
--   HTTP
--   Node.js (https)
--   Java (nethttp)
--   PHP (http1)
--   Python (http.client)
--   C# (httpclient)
--   Go
--   Ruby
+- cURL
+- HTTP
+- Node.js (https)
+- Java (nethttp)
+- PHP (http1)
+- Python (http.client)
+- C# (httpclient)
+- Go
+- Ruby
 
 ```
 curl -X GET \
@@ -800,8 +799,8 @@ curl -X GET \
 
 Response
 
--   Value
--   Schema
+- Value
+- Schema
 
 ```
 {
@@ -896,15 +895,15 @@ Request
 
 cURL
 
--   cURL
--   HTTP
--   Node.js (https)
--   Java (nethttp)
--   PHP (http1)
--   Python (http.client)
--   C# (httpclient)
--   Go
--   Ruby
+- cURL
+- HTTP
+- Node.js (https)
+- Java (nethttp)
+- PHP (http1)
+- Python (http.client)
+- C# (httpclient)
+- Go
+- Ruby
 
 ```
 curl -X GET \
@@ -914,8 +913,8 @@ curl -X GET \
 
 Response
 
--   Value
--   Schema
+- Value
+- Schema
 
 ```
 {
@@ -1004,15 +1003,15 @@ Request
 
 cURL
 
--   cURL
--   HTTP
--   Node.js (https)
--   Java (nethttp)
--   PHP (http1)
--   Python (http.client)
--   C# (httpclient)
--   Go
--   Ruby
+- cURL
+- HTTP
+- Node.js (https)
+- Java (nethttp)
+- PHP (http1)
+- Python (http.client)
+- C# (httpclient)
+- Go
+- Ruby
 
 ```
 curl -X GET \
@@ -1022,8 +1021,8 @@ curl -X GET \
 
 Response
 
--   Value
--   Schema
+- Value
+- Schema
 
 ```
 {
@@ -1499,15 +1498,15 @@ Request
 
 cURL
 
--   cURL
--   HTTP
--   Node.js (https)
--   Java (nethttp)
--   PHP (http1)
--   Python (http.client)
--   C# (httpclient)
--   Go
--   Ruby
+- cURL
+- HTTP
+- Node.js (https)
+- Java (nethttp)
+- PHP (http1)
+- Python (http.client)
+- C# (httpclient)
+- Go
+- Ruby
 
 ```
 curl -X GET \
@@ -1517,8 +1516,8 @@ curl -X GET \
 
 Response
 
--   Value
--   Schema
+- Value
+- Schema
 
 ```
 {
@@ -1781,15 +1780,15 @@ Request
 
 cURL
 
--   cURL
--   HTTP
--   Node.js (https)
--   Java (nethttp)
--   PHP (http1)
--   Python (http.client)
--   C# (httpclient)
--   Go
--   Ruby
+- cURL
+- HTTP
+- Node.js (https)
+- Java (nethttp)
+- PHP (http1)
+- Python (http.client)
+- C# (httpclient)
+- Go
+- Ruby
 
 ```
 curl -X PUT \
@@ -1800,8 +1799,8 @@ curl -X PUT \
 
 Response
 
--   Value
--   Schema
+- Value
+- Schema
 
 ```
 {
@@ -1844,15 +1843,15 @@ Request
 
 cURL
 
--   cURL
--   HTTP
--   Node.js (https)
--   Java (nethttp)
--   PHP (http1)
--   Python (http.client)
--   C# (httpclient)
--   Go
--   Ruby
+- cURL
+- HTTP
+- Node.js (https)
+- Java (nethttp)
+- PHP (http1)
+- Python (http.client)
+- C# (httpclient)
+- Go
+- Ruby
 
 ```
 curl -X POST \
@@ -1862,8 +1861,8 @@ curl -X POST \
 
 Response
 
--   Value
--   Schema
+- Value
+- Schema
 
 ```
 {
@@ -1906,15 +1905,15 @@ Request
 
 cURL
 
--   cURL
--   HTTP
--   Node.js (https)
--   Java (nethttp)
--   PHP (http1)
--   Python (http.client)
--   C# (httpclient)
--   Go
--   Ruby
+- cURL
+- HTTP
+- Node.js (https)
+- Java (nethttp)
+- PHP (http1)
+- Python (http.client)
+- C# (httpclient)
+- Go
+- Ruby
 
 ```
 curl -X GET \
@@ -1923,8 +1922,8 @@ curl -X GET \
 
 Response
 
--   Value
--   Schema
+- Value
+- Schema
 
 ```
 {
@@ -1975,15 +1974,15 @@ Request
 
 cURL
 
--   cURL
--   HTTP
--   Node.js (https)
--   Java (nethttp)
--   PHP (http1)
--   Python (http.client)
--   C# (httpclient)
--   Go
--   Ruby
+- cURL
+- HTTP
+- Node.js (https)
+- Java (nethttp)
+- PHP (http1)
+- Python (http.client)
+- C# (httpclient)
+- Go
+- Ruby
 
 ```
 curl -X POST \
@@ -1993,8 +1992,8 @@ curl -X POST \
 
 Response
 
--   Value
--   Schema
+- Value
+- Schema
 
 ```
 {
@@ -2045,15 +2044,15 @@ Request
 
 cURL
 
--   cURL
--   HTTP
--   Node.js (https)
--   Java (nethttp)
--   PHP (http1)
--   Python (http.client)
--   C# (httpclient)
--   Go
--   Ruby
+- cURL
+- HTTP
+- Node.js (https)
+- Java (nethttp)
+- PHP (http1)
+- Python (http.client)
+- C# (httpclient)
+- Go
+- Ruby
 
 ```
 curl -X POST \
@@ -2063,8 +2062,8 @@ curl -X POST \
 
 Response
 
--   Value
--   Schema
+- Value
+- Schema
 
 ```
 {
@@ -2089,106 +2088,106 @@ ___
 
 Make API documentation
 
--   Introduction
--   [Fundamentals](https://www.make.com/en/api-documentation/users-password-reset-post#fundamentals)
--   [Getting started](https://www.make.com/en/api-documentation/users-password-reset-post#getting-started)
--   [Authentication](https://www.make.com/en/api-documentation/users-password-reset-post#authentication)
-    -   [Make roles and API scopes](https://www.make.com/en/api-documentation/users-password-reset-post#authentication-scopes)
-    -   [Generating authentication token](https://www.make.com/en/api-documentation/users-password-reset-post#authentication-token)
-    -   [Managing authentication token](https://www.make.com/en/api-documentation/users-password-reset-post#authentication-managing)
--   [Pagination, sorting and filtering](https://www.make.com/en/api-documentation/users-password-reset-post#pagination-sorting-filtering)
--   [Troubleshooting and error handling](https://www.make.com/en/api-documentation/users-password-reset-post#troubleshooting)
-    -   [HTTP status codes of errors](https://www.make.com/en/api-documentation/users-password-reset-post#http-status-codes)
-    -   [Troubleshooting](https://www.make.com/en/api-documentation/users-password-reset-post#common-issues)
--   [Resources](https://www.make.com/en/api-documentation/users-password-reset-post#api-resources)
+- Introduction
+- [Fundamentals](https://www.make.com/en/api-documentation/users-password-reset-post#fundamentals)
+- [Getting started](https://www.make.com/en/api-documentation/users-password-reset-post#getting-started)
+- [Authentication](https://www.make.com/en/api-documentation/users-password-reset-post#authentication)
+  - [Make roles and API scopes](https://www.make.com/en/api-documentation/users-password-reset-post#authentication-scopes)
+  - [Generating authentication token](https://www.make.com/en/api-documentation/users-password-reset-post#authentication-token)
+  - [Managing authentication token](https://www.make.com/en/api-documentation/users-password-reset-post#authentication-managing)
+- [Pagination, sorting and filtering](https://www.make.com/en/api-documentation/users-password-reset-post#pagination-sorting-filtering)
+- [Troubleshooting and error handling](https://www.make.com/en/api-documentation/users-password-reset-post#troubleshooting)
+  - [HTTP status codes of errors](https://www.make.com/en/api-documentation/users-password-reset-post#http-status-codes)
+  - [Troubleshooting](https://www.make.com/en/api-documentation/users-password-reset-post#common-issues)
+- [Resources](https://www.make.com/en/api-documentation/users-password-reset-post#api-resources)
 
--   Resources
--   [Connections](https://www.make.com/en/api-documentation/users-password-reset-post#connections)
-    -   [List connections](https://www.make.com/en/api-documentation/users-password-reset-post#connections-get)
-    -   [Create connection](https://www.make.com/en/api-documentation/users-password-reset-post#connections-post)
-    -   [Get connection details](https://www.make.com/en/api-documentation/users-password-reset-post#connections-connectionId-get)
-    -   [Update connection](https://www.make.com/en/api-documentation/users-password-reset-post#connections-connectionId-patch)
-    -   [Delete connection](https://www.make.com/en/api-documentation/users-password-reset-post#connections-connectionId-delete)
-    -   [Verify connection](https://www.make.com/en/api-documentation/users-password-reset-post#connections-connectionId-test-post)
-    -   [Verify if connection is scoped](https://www.make.com/en/api-documentation/users-password-reset-post#connections-connectionId-scoped-post)
-    -   [Set connection data](https://www.make.com/en/api-documentation/users-password-reset-post#connections-connectionId-set-data-post)
--   [Data stores](https://www.make.com/en/api-documentation/users-password-reset-post#data-stores)
-    -   [List data stores](https://www.make.com/en/api-documentation/users-password-reset-post#data-stores-get)
-    -   [Create data store](https://www.make.com/en/api-documentation/users-password-reset-post#data-stores-post)
-    -   [Delete data stores](https://www.make.com/en/api-documentation/users-password-reset-post#data-stores-delete)
-    -   [Get data store details](https://www.make.com/en/api-documentation/users-password-reset-post#data-stores-dataStoreId-get)
-    -   [Update data store](https://www.make.com/en/api-documentation/users-password-reset-post#data-stores-dataStoreId-patch)
-    -   [Data](https://www.make.com/en/api-documentation/users-password-reset-post#data-stores-data)
-        -   [List data store records](https://www.make.com/en/api-documentation/users-password-reset-post#data-stores-dataStoreId-data-get)
-        -   [Create data store record](https://www.make.com/en/api-documentation/users-password-reset-post#data-stores-dataStoreId-data-post)
-        -   [Delete data store records](https://www.make.com/en/api-documentation/users-password-reset-post#data-stores-dataStoreId-data-delete)
-        -   [Update entire data store record](https://www.make.com/en/api-documentation/users-password-reset-post#data-stores-dataStoreId-data-dataStoreKeyRecord-put)
-        -   [Update data store record details](https://www.make.com/en/api-documentation/users-password-reset-post#data-stores-dataStoreId-data-dataStoreKeyRecord-patch)
--   [Data structures](https://www.make.com/en/api-documentation/users-password-reset-post#data-structures)
-    -   [List data structures](https://www.make.com/en/api-documentation/users-password-reset-post#data-structures-get)
-    -   [Create data structure](https://www.make.com/en/api-documentation/users-password-reset-post#data-structures-post)
-    -   [Update data structure](https://www.make.com/en/api-documentation/users-password-reset-post#data-structures-dataStructureId-patch)
-    -   [Delete data structure](https://www.make.com/en/api-documentation/users-password-reset-post#data-structures-dataStructureId-delete)
-    -   [Clone data structure](https://www.make.com/en/api-documentation/users-password-reset-post#data-structures-dataStructureId-clone-post)
--   [Hooks](https://www.make.com/en/api-documentation/users-password-reset-post#hooks)
-    -   [List hooks](https://www.make.com/en/api-documentation/users-password-reset-post#hooks-get)
-    -   [Create hook](https://www.make.com/en/api-documentation/users-password-reset-post#hooks-post)
-    -   [Get hook details](https://www.make.com/en/api-documentation/users-password-reset-post#hooks-hookId-get)
-    -   [Delete hook](https://www.make.com/en/api-documentation/users-password-reset-post#hooks-hookId-delete)
-    -   [Update hook](https://www.make.com/en/api-documentation/users-password-reset-post#hooks-hookId-patch)
-    -   [Ping hook](https://www.make.com/en/api-documentation/users-password-reset-post#hooks-hookId-ping-get)
-    -   [Learn start](https://www.make.com/en/api-documentation/users-password-reset-post#hooks-hookId-learn-start-post)
-    -   [Learn stop](https://www.make.com/en/api-documentation/users-password-reset-post#hooks-hookId-learn-stop-post)
-    -   [Enable hook](https://www.make.com/en/api-documentation/users-password-reset-post#hooks-hookId-enable-post)
-    -   [Disable hook](https://www.make.com/en/api-documentation/users-password-reset-post#hooks-hookId-disable-post)
-    -   [Set hook details](https://www.make.com/en/api-documentation/users-password-reset-post#hooks-hookId-set-data-post)
--   [Notifications](https://www.make.com/en/api-documentation/users-password-reset-post#notifications)
-    -   [List notifications](https://www.make.com/en/api-documentation/users-password-reset-post#notifications-get)
-    -   [Delete notifications](https://www.make.com/en/api-documentation/users-password-reset-post#notifications-delete)
-    -   [Get notification detail](https://www.make.com/en/api-documentation/users-password-reset-post#notifications-notificationId-get)
-    -   [Mark all notifications as read](https://www.make.com/en/api-documentation/users-password-reset-post#notifications-mark-as-read-post)
--   [Scenarios](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios)
-    -   [List scenarios](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-get)
-    -   [Create scenario](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-post)
-    -   [Get scenario details](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-scenarioId-get)
-    -   [Update scenario](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-scenarioId-patch)
-    -   [Delete scenario](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-scenarioId-delete)
-    -   [Get scenario blueprint](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-scenarioId-blueprint-get)
-    -   [Get trigger details](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-scenarioId-triggers-get)
-    -   [Clone scenario](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-scenarioId-clone-post)
-    -   [Set module data](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-scenarioId-data-put)
-    -   [Check module data](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-scenarioId-data-moduleId-get)
-    -   [Start scenario](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-scenarioId-start-post)
-    -   [Stop scenario](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-scenarioId-stop-post)
-    -   [Publish scenario](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-scenarioId-publish-post)
-    -   [Logs](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-logs)
-        -   [List scenario logs](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-scenarioId-logs-get)
-        -   [Get execution log](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-scenarioId-logs-executionId-get)
-    -   [Blueprints](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-blueprints)
-        -   [Get blueprint versions](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-scenarioId-blueprints-get)
--   [Scenarios folders](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-folders)
-    -   [List scenario folders](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-folders-get)
-    -   [Create scenario folder](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-folders-post)
-    -   [Update scenario folder](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-folders-folderId-patch)
-    -   [Delete scenario folder](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-folders-folderId-delete)
--   [Templates](https://www.make.com/en/api-documentation/users-password-reset-post#templates)
-    -   [List templates](https://www.make.com/en/api-documentation/users-password-reset-post#templates-get)
-    -   [Create template](https://www.make.com/en/api-documentation/users-password-reset-post#templates-post)
-    -   [Get template details](https://www.make.com/en/api-documentation/users-password-reset-post#templates-templateId-get)
-    -   [Update template](https://www.make.com/en/api-documentation/users-password-reset-post#templates-templateId-patch)
-    -   [Delete template](https://www.make.com/en/api-documentation/users-password-reset-post#templates-templateId-delete)
-    -   [Get template blueprint](https://www.make.com/en/api-documentation/users-password-reset-post#templates-templateId-blueprint-get)
-    -   [Publish template](https://www.make.com/en/api-documentation/users-password-reset-post#templates-templateId-publish-post)
-    -   [Request approval](https://www.make.com/en/api-documentation/users-password-reset-post#templates-templateId-request-approval-post)
-    -   [Public](https://www.make.com/en/api-documentation/users-password-reset-post#templates-public)
-        -   [List public (approved) templates](https://www.make.com/en/api-documentation/users-password-reset-post#templates-public-get)
-        -   [Get public (approved) template details](https://www.make.com/en/api-documentation/users-password-reset-post#templates-public-templateUrl-get)
-        -   [Get public (approved) template blueprint](https://www.make.com/en/api-documentation/users-password-reset-post#templates-public-templateUrl-blueprint-get)
--   [Users](https://www.make.com/en/api-documentation/users-password-reset-post#users)
-    -   [List users](https://www.make.com/en/api-documentation/users-password-reset-post#users-get)
-    -   [Update user](https://www.make.com/en/api-documentation/users-password-reset-post#users-userId-patch)
-    -   [Update user email](https://www.make.com/en/api-documentation/users-password-reset-post#users-userId-attributes-email-put)
-    -   [Update user password](https://www.make.com/en/api-documentation/users-password-reset-post#users-userId-attributes-password-put)
-    -   [Send password reset demand](https://www.make.com/en/api-documentation/users-password-reset-post#users-password-reset-demand-post)
-    -   [Set session for resetting lost password](https://www.make.com/en/api-documentation/users-password-reset-post#users-password-reset-get)
-    -   [Reset lost password](https://www.make.com/en/api-documentation/users-password-reset-post#users-password-reset-post)
+- Resources
+- [Connections](https://www.make.com/en/api-documentation/users-password-reset-post#connections)
+  - [List connections](https://www.make.com/en/api-documentation/users-password-reset-post#connections-get)
+  - [Create connection](https://www.make.com/en/api-documentation/users-password-reset-post#connections-post)
+  - [Get connection details](https://www.make.com/en/api-documentation/users-password-reset-post#connections-connectionId-get)
+  - [Update connection](https://www.make.com/en/api-documentation/users-password-reset-post#connections-connectionId-patch)
+  - [Delete connection](https://www.make.com/en/api-documentation/users-password-reset-post#connections-connectionId-delete)
+  - [Verify connection](https://www.make.com/en/api-documentation/users-password-reset-post#connections-connectionId-test-post)
+  - [Verify if connection is scoped](https://www.make.com/en/api-documentation/users-password-reset-post#connections-connectionId-scoped-post)
+  - [Set connection data](https://www.make.com/en/api-documentation/users-password-reset-post#connections-connectionId-set-data-post)
+- [Data stores](https://www.make.com/en/api-documentation/users-password-reset-post#data-stores)
+  - [List data stores](https://www.make.com/en/api-documentation/users-password-reset-post#data-stores-get)
+  - [Create data store](https://www.make.com/en/api-documentation/users-password-reset-post#data-stores-post)
+  - [Delete data stores](https://www.make.com/en/api-documentation/users-password-reset-post#data-stores-delete)
+  - [Get data store details](https://www.make.com/en/api-documentation/users-password-reset-post#data-stores-dataStoreId-get)
+  - [Update data store](https://www.make.com/en/api-documentation/users-password-reset-post#data-stores-dataStoreId-patch)
+  - [Data](https://www.make.com/en/api-documentation/users-password-reset-post#data-stores-data)
+    - [List data store records](https://www.make.com/en/api-documentation/users-password-reset-post#data-stores-dataStoreId-data-get)
+    - [Create data store record](https://www.make.com/en/api-documentation/users-password-reset-post#data-stores-dataStoreId-data-post)
+    - [Delete data store records](https://www.make.com/en/api-documentation/users-password-reset-post#data-stores-dataStoreId-data-delete)
+    - [Update entire data store record](https://www.make.com/en/api-documentation/users-password-reset-post#data-stores-dataStoreId-data-dataStoreKeyRecord-put)
+    - [Update data store record details](https://www.make.com/en/api-documentation/users-password-reset-post#data-stores-dataStoreId-data-dataStoreKeyRecord-patch)
+- [Data structures](https://www.make.com/en/api-documentation/users-password-reset-post#data-structures)
+  - [List data structures](https://www.make.com/en/api-documentation/users-password-reset-post#data-structures-get)
+  - [Create data structure](https://www.make.com/en/api-documentation/users-password-reset-post#data-structures-post)
+  - [Update data structure](https://www.make.com/en/api-documentation/users-password-reset-post#data-structures-dataStructureId-patch)
+  - [Delete data structure](https://www.make.com/en/api-documentation/users-password-reset-post#data-structures-dataStructureId-delete)
+  - [Clone data structure](https://www.make.com/en/api-documentation/users-password-reset-post#data-structures-dataStructureId-clone-post)
+- [Hooks](https://www.make.com/en/api-documentation/users-password-reset-post#hooks)
+  - [List hooks](https://www.make.com/en/api-documentation/users-password-reset-post#hooks-get)
+  - [Create hook](https://www.make.com/en/api-documentation/users-password-reset-post#hooks-post)
+  - [Get hook details](https://www.make.com/en/api-documentation/users-password-reset-post#hooks-hookId-get)
+  - [Delete hook](https://www.make.com/en/api-documentation/users-password-reset-post#hooks-hookId-delete)
+  - [Update hook](https://www.make.com/en/api-documentation/users-password-reset-post#hooks-hookId-patch)
+  - [Ping hook](https://www.make.com/en/api-documentation/users-password-reset-post#hooks-hookId-ping-get)
+  - [Learn start](https://www.make.com/en/api-documentation/users-password-reset-post#hooks-hookId-learn-start-post)
+  - [Learn stop](https://www.make.com/en/api-documentation/users-password-reset-post#hooks-hookId-learn-stop-post)
+  - [Enable hook](https://www.make.com/en/api-documentation/users-password-reset-post#hooks-hookId-enable-post)
+  - [Disable hook](https://www.make.com/en/api-documentation/users-password-reset-post#hooks-hookId-disable-post)
+  - [Set hook details](https://www.make.com/en/api-documentation/users-password-reset-post#hooks-hookId-set-data-post)
+- [Notifications](https://www.make.com/en/api-documentation/users-password-reset-post#notifications)
+  - [List notifications](https://www.make.com/en/api-documentation/users-password-reset-post#notifications-get)
+  - [Delete notifications](https://www.make.com/en/api-documentation/users-password-reset-post#notifications-delete)
+  - [Get notification detail](https://www.make.com/en/api-documentation/users-password-reset-post#notifications-notificationId-get)
+  - [Mark all notifications as read](https://www.make.com/en/api-documentation/users-password-reset-post#notifications-mark-as-read-post)
+- [Scenarios](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios)
+  - [List scenarios](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-get)
+  - [Create scenario](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-post)
+  - [Get scenario details](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-scenarioId-get)
+  - [Update scenario](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-scenarioId-patch)
+  - [Delete scenario](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-scenarioId-delete)
+  - [Get scenario blueprint](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-scenarioId-blueprint-get)
+  - [Get trigger details](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-scenarioId-triggers-get)
+  - [Clone scenario](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-scenarioId-clone-post)
+  - [Set module data](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-scenarioId-data-put)
+  - [Check module data](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-scenarioId-data-moduleId-get)
+  - [Start scenario](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-scenarioId-start-post)
+  - [Stop scenario](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-scenarioId-stop-post)
+  - [Publish scenario](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-scenarioId-publish-post)
+  - [Logs](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-logs)
+    - [List scenario logs](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-scenarioId-logs-get)
+    - [Get execution log](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-scenarioId-logs-executionId-get)
+  - [Blueprints](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-blueprints)
+    - [Get blueprint versions](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-scenarioId-blueprints-get)
+- [Scenarios folders](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-folders)
+  - [List scenario folders](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-folders-get)
+  - [Create scenario folder](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-folders-post)
+  - [Update scenario folder](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-folders-folderId-patch)
+  - [Delete scenario folder](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-folders-folderId-delete)
+- [Templates](https://www.make.com/en/api-documentation/users-password-reset-post#templates)
+  - [List templates](https://www.make.com/en/api-documentation/users-password-reset-post#templates-get)
+  - [Create template](https://www.make.com/en/api-documentation/users-password-reset-post#templates-post)
+  - [Get template details](https://www.make.com/en/api-documentation/users-password-reset-post#templates-templateId-get)
+  - [Update template](https://www.make.com/en/api-documentation/users-password-reset-post#templates-templateId-patch)
+  - [Delete template](https://www.make.com/en/api-documentation/users-password-reset-post#templates-templateId-delete)
+  - [Get template blueprint](https://www.make.com/en/api-documentation/users-password-reset-post#templates-templateId-blueprint-get)
+  - [Publish template](https://www.make.com/en/api-documentation/users-password-reset-post#templates-templateId-publish-post)
+  - [Request approval](https://www.make.com/en/api-documentation/users-password-reset-post#templates-templateId-request-approval-post)
+  - [Public](https://www.make.com/en/api-documentation/users-password-reset-post#templates-public)
+    - [List public (approved) templates](https://www.make.com/en/api-documentation/users-password-reset-post#templates-public-get)
+    - [Get public (approved) template details](https://www.make.com/en/api-documentation/users-password-reset-post#templates-public-templateUrl-get)
+    - [Get public (approved) template blueprint](https://www.make.com/en/api-documentation/users-password-reset-post#templates-public-templateUrl-blueprint-get)
+- [Users](https://www.make.com/en/api-documentation/users-password-reset-post#users)
+  - [List users](https://www.make.com/en/api-documentation/users-password-reset-post#users-get)
+  - [Update user](https://www.make.com/en/api-documentation/users-password-reset-post#users-userId-patch)
+  - [Update user email](https://www.make.com/en/api-documentation/users-password-reset-post#users-userId-attributes-email-put)
+  - [Update user password](https://www.make.com/en/api-documentation/users-password-reset-post#users-userId-attributes-password-put)
+  - [Send password reset demand](https://www.make.com/en/api-documentation/users-password-reset-post#users-password-reset-demand-post)
+  - [Set session for resetting lost password](https://www.make.com/en/api-documentation/users-password-reset-post#users-password-reset-get)
+  - [Reset lost password](https://www.make.com/en/api-documentation/users-password-reset-post#users-password-reset-post)

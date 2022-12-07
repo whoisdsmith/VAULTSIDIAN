@@ -36,9 +36,7 @@ Payload of POST requests has to be JSON-encoded and accompanied with `Content-Ty
 
 All timestamps are returned in ISO 8601 format:
 
-
 `YYYY-MM-DDTHH:MM:SSZ`
-
 
 ### Rate Limiting <a id="rate-limiting"></a>
 
@@ -79,4 +77,3 @@ Access-Control-Allow-Credentials: true
 ```
 
 ---
-

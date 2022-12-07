@@ -34,35 +34,27 @@ Here are some examples of delimiter runs.
 
 * left-flanking but not right-flanking:  
 
-    
         ***abc
           _abc
         **"abc"
          _"abc"
-    
 
 * right-flanking but not left-flanking:  
 
-    
          abc***
          abc_
         "abc"**
         "abc"_
-    
 
 * Both left and right-flanking:  
 
-    
          abc***def
         "abc"_"def"
-    
 
 * Neither left nor right-flanking:  
 
-    
         abc *** def
         a _ b
-    
 
 (The idea of distinguishing left-flanking and right-flanking delimiter runs based on the character before and the character after comes from Roopesh Chander’s [vfmd](http://www.vfmd.org/vfmd-spec/specification/#procedure-for-identifying-emphasis-tags). vfmd uses the terminology “emphasis indicator string” instead of “delimiter run,” and its rules for distinguishing left- and right-flanking runs are a bit more complex than the ones given here.)  
 The following rules define emphasis and strong emphasis:  

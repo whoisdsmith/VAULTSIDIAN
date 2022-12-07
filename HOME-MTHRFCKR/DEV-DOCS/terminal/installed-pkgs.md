@@ -38,7 +38,6 @@ You’ll see at the beginning of the file it’ll tell you when the file was tur
 
 Alternatively,, if you don’t feel comfortable in Terminal, you can view all your install logs in the Console.app. You can open Console either through Finder by navigating to /Applications/Utilities/Console.app or just by typing ‘cons’ in either Spotlight or Launchpad. Once Console is open, scroll down the sidebar, looking for **/var/log**. Click the disclosure triangle if it’s not already pointing downwards and look for **install.log**. Click on that, and then in the filter bar in the main window, type *installed* (unlike the grep command I gave you above, this one is not case sensitive and will return both ‘Installed’ and ‘installed’).  
 
-
 ---
 
 examining an old, compressed install log

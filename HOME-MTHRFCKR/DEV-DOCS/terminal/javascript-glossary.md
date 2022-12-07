@@ -2,10 +2,10 @@
 
 _Update: Cheat Sheets BETA is here!_
 
-  * Introduction to JavaScript: [Introduction](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/reference)
-  * Introduction to JavaScript: [Conditionals](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-control-flow/reference)
-  * Introduction to JavaScript: [Functions](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-functions/reference)
-  * Introduction to JavaScript: [Scope](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-scope/reference)
+* Introduction to JavaScript: [Introduction](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/reference)
+* Introduction to JavaScript: [Conditionals](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-control-flow/reference)
+* Introduction to JavaScript: [Functions](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-functions/reference)
+* Introduction to JavaScript: [Scope](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-scope/reference)
 
 # Arrays
 
@@ -14,8 +14,7 @@ _Update: Cheat Sheets BETA is here!_
 You can get elements out of arrays if you know their index. Array elements’ indices start at 0 and increment by 1, so the first element’s index is 0, the second element’s index is 1, the third element’s index is 2, etc.
 
 **Syntax**
-    
-    
+
     array[index];
     
     
@@ -2516,14 +2515,7 @@ You can get elements out of arrays if you know their index. Array elements’ in
     const name = 'Michael'
     
     name = 'Samuel'
-    
-    
-    
-    
-    
-    
-
 
 ___
 
-#article #javascript
+# article #javascript

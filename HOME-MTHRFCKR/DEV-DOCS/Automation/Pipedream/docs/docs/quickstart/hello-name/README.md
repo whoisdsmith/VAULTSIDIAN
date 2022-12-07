@@ -1,4 +1,4 @@
-# hello ${name}!
+# hello ${name}
 
 Next, let's pass a name in each HTTP request and return it in the workflow response. This example builds on the workflow we created in [hello world!](/quickstart/hello-world/) and will cover how to:
 
@@ -16,7 +16,7 @@ First, modify the endpoint URL you loaded in your browser to trigger your workfl
 
 ### Inspect the query data sent to the workflow
 
-Return to Pipedream and select the event you just generated from the event list. You should now see `{1}` next to the `query` field indicating it has nested values. Expand it to inspect the query parameter and value for the request. 
+Return to Pipedream and select the event you just generated from the event list. You should now see `{1}` next to the `query` field indicating it has nested values. Expand it to inspect the query parameter and value for the request.
 
 ![image-20210525170616605](./images/image-20210525170616605.png)
 

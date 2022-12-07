@@ -4,23 +4,23 @@
 
 * **[Code Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_code_editors)** - Code Editing Apps & Sites
 
-* **[List.community](https://list.community/)** - Programming / Development GitHub Lists 
+* **[List.community](https://list.community/)** - Programming / Development GitHub Lists
 
 * [WebdevHome](https://webdevhome.github.io/), [Charm](https://charm.sh/) or [Tiny Tools](https://tinytools.directory/) / [2](https://github.com/everestpipkin/tools-list) - Programming Tool Indexes
 
-* [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Programming Site Index 
+* [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Programming Site Index
 
 * [Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping) - Web Scraping Tool Index
 
-* [Awesome-Discord-Communities](https://github.com/mhxion/awesome-discord-communities) - Programming / Developer / Discord Communities 
+* [Awesome-Discord-Communities](https://github.com/mhxion/awesome-discord-communities) - Programming / Developer / Discord Communities
 
 * [TechBliss](https://www.techbliss.org/) - Coding Forum
 
 * [iTabCode](https://www.itabcode.net/) - Programming / Computer Science Forum
 
-* [Awesome Twitter Accounts](https://github.com/yask123/AwesomeTwitterAccounts) or [Awesome Twitter Communities](https://github.com/mattn/awesome-twitter-communities) - Curated List of Programming Related Twitter Pages 
+* [Awesome Twitter Accounts](https://github.com/yask123/AwesomeTwitterAccounts) or [Awesome Twitter Communities](https://github.com/mattn/awesome-twitter-communities) - Curated List of Programming Related Twitter Pages
 
-* [Awesome Programming](https://github.com/hardikvasa/awesome-programming) - Programming Resources 
+* [Awesome Programming](https://github.com/hardikvasa/awesome-programming) - Programming Resources
 
 * [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality/wiki) - Software Quality Testing Tools
 
@@ -30,11 +30,11 @@
 
 * [Commands.dev](https://www.commands.dev/) - Terminal Commands
 
-* [Regex101](https://regex101.com/) - Regex Editor / Debugger 
+* [Regex101](https://regex101.com/) - Regex Editor / Debugger
 
-* [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding Resource Index 
+* [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding Resource Index
 
-* [Algorithm Visualizer](https://algorithm-visualizer.org/), [Sorting Algorithms Visuallizer](https://sadanandpai.github.io/sorting-visualizer/dist/) / [GitHub](https://github.com/sadanandpai/sorting-visualizer) or [mermaid](https://mermaid-js.github.io/mermaid/) - Visualize Code Algorithms 
+* [Algorithm Visualizer](https://algorithm-visualizer.org/), [Sorting Algorithms Visuallizer](https://sadanandpai.github.io/sorting-visualizer/dist/) / [GitHub](https://github.com/sadanandpai/sorting-visualizer) or [mermaid](https://mermaid-js.github.io/mermaid/) - Visualize Code Algorithms
 
 * [Code2Flow](https://app.code2flow.com/) or [Flowchart Generator](https://github.com/MugilanGN/Flowchart-Generator) - Code to Flowchart Converter
 
@@ -72,11 +72,11 @@
 
 * [Shell Cloud](https://shell.cloud.google.com/) - Google Cloud Shell Environment
 
-* [ShellcodeTemplate](https://github.com/Cracked5pider/ShellcodeTemplate) - Modifiable Shellcode Template 
+* [ShellcodeTemplate](https://github.com/Cracked5pider/ShellcodeTemplate) - Modifiable Shellcode Template
 
 * [Spork](https://spork.sh/) - P2P Sockets CLI / [GitHub](https://github.com/atek-cloud/spork) / [Discord](https://discord.gg/UUCVrFYksv)
 
-* Vim Tools - [Tree Explorer](https://github.com/preservim/nerdtree) / [Instant RST Preview](https://github.com/gu-fan/InstantRst) / [Config](https://github.com/ChristianChiarulli/LunarVim) 
+* Vim Tools - [Tree Explorer](https://github.com/preservim/nerdtree) / [Instant RST Preview](https://github.com/gu-fan/InstantRst) / [Config](https://github.com/ChristianChiarulli/LunarVim)
 
 * [Mitosis](https://github.com/BuilderIO/mitosis) - Auto-Compile Components
 
@@ -88,11 +88,11 @@
 
 * [NeovimCraft](https://neovimcraft.com/) - Neovim Plugins
 
-* [NvChad](https://github.com/NvChad/NvChad) - Neovim CLI 
+* [NvChad](https://github.com/NvChad/NvChad) - Neovim CLI
 
 * [NeoVide](https://github.com/neovide/neovide) - Neovim Client
 
-* []DroidVim(https://github.com/shiftrot/droidvim) - Neovim APK
+* []DroidVim(<https://github.com/shiftrot/droidvim>) - Neovim APK
 
 * [Bootstrap Editor](https://vim-bootstrap.com/) - Vim / Neovim Config Generator Bootstrap Editor
 
@@ -110,7 +110,7 @@
 
 * [OpenChakra](https://openchakra.app/) - Visual Editor & Code Generator for React / [GitHub](https://github.com/premieroctet/openchakra)
 
-* [Awesome Visual Studio Code Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/) - Visual Studio Code Extensions 
+* [Awesome Visual Studio Code Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/) - Visual Studio Code Extensions
 
 * [awesome-kotlin](https://kotlin.link/) - Kotlin Resource Index / [GitHub](https://github.com/KotlinBy/awesome-kotlin)
 
@@ -154,7 +154,7 @@
 
 * [Trunk](https://trunk.io/) - Run Linters/Formatters/Checkers Simultaneously
 
-* [Mega Linter](https://github.com/nvuillam/mega-linter), [TCA](https://github.com/Tencent/CodeAnalysis) or [SonarCloud](https://sonarcloud.io/) - Code Analyzer 
+* [Mega Linter](https://github.com/nvuillam/mega-linter), [TCA](https://github.com/Tencent/CodeAnalysis) or [SonarCloud](https://sonarcloud.io/) - Code Analyzer
 
 * [tabnine](https://www.tabnine.com/), [CodeWhisperer](https://aws.amazon.com/codewhisperer/) or [Copilot](https://copilot.github.com/) / [Docs](https://github.com/github/copilot-docs) - AI Assisted Code Completion / Suggestions
 
@@ -188,7 +188,7 @@
 
 * [substitute](https://github.com/comex/substitute) - Free Runtime Modification Library
 
-* [Awesome Machine Learning Art](https://github.com/vibertthio/awesome-machine-learning-art) - Machine Learning Art Resource Index 
+* [Awesome Machine Learning Art](https://github.com/vibertthio/awesome-machine-learning-art) - Machine Learning Art Resource Index
 
 * [Sourcegraph](https://sourcegraph.com/) or [Ag](https://geoff.greer.fm/ag/) / [GitHub](https://github.com/ggreer/the_silver_searcher) - Code Searching
 
@@ -220,9 +220,9 @@
 
 * [OhMyPosh](https://ohmyposh.dev/) - Terminal Theme Engine
 
-* [Dracula](https://draculatheme.com/) - Dark Theme for Code Editors / Terminal Emulators 
+* [Dracula](https://draculatheme.com/) - Dark Theme for Code Editors / Terminal Emulators
 
-* [Zero Dark Matrix](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) - Chrome Devtools Dark Theme 
+* [Zero Dark Matrix](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) - Chrome Devtools Dark Theme
 
 * [Tantiny](https://github.com/baygeldin/tantiny) - Full-Text Ruby Search
 
@@ -240,13 +240,13 @@
 
 * [GPU.js](https://gpu.rocks/) - GPU Accelerated JavaScript
 
-* [JS.ORG](https://js.org/) - Free subdomain for Javascript Developers 
+* [JS.ORG](https://js.org/) - Free subdomain for Javascript Developers
 
-* [1loc](https://1loc.dev/) - 217 Single Line JavaScript Codes 
+* [1loc](https://1loc.dev/) - 217 Single Line JavaScript Codes
 
 * [Javascript Algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and Data Structures in Javascript
 
-* [Gummy](https://gummyjs.vercel.app/) - Easily Build Javascript Programs 
+* [Gummy](https://gummyjs.vercel.app/) - Easily Build Javascript Programs
 
 * [Beautifier](https://beautifier.io/) - Online JavaScript Beautifier
 
@@ -270,9 +270,9 @@
 
 * [py-modindex](https://docs.python.org/3/py-modindex.html) - Python Modules List / Tutorials
 
-* [JSONView](https://jsonview.com/) - JSON Viewer 
+* [JSONView](https://jsonview.com/) - JSON Viewer
 
-* [JSON Formatter](https://jsonformatter.curiousconcept.com/) or [json-formatter](https://github.com/callumlocke/json-formatter) - JSON Formatter 
+* [JSON Formatter](https://jsonformatter.curiousconcept.com/) or [json-formatter](https://github.com/callumlocke/json-formatter) - JSON Formatter
 
 * [Jayson](https://apps.apple.com/us/app/jayson/id1447750768) - JSON Viewer & Editor
 
@@ -320,7 +320,7 @@
 
 * [Valinor](https://github.com/CuyZ/Valinor) - PHP Object Mapper
 
-* [Spatie](https://github.com/spatie/fork) or [3v4l](https://3v4l.org) - Run PHP Concurrently 
+* [Spatie](https://github.com/spatie/fork) or [3v4l](https://3v4l.org) - Run PHP Concurrently
 
 * [Winddown](https://github.com/schneefux/vscode-winddown) or [Sandman](https://alexanderepstein.github.io/Sandman/) - Coding Break Reminders
 
@@ -336,11 +336,11 @@
 
 * [Insomnia](https://insomnia.rest/) - API Client
 
-* [Strapi](https://strapi.io/) - API Designer 
+* [Strapi](https://strapi.io/) - API Designer
 
 * [RapidAPI](https://rapidapi.com/) or [FastAPI](https://github.com/tiangolo/fastapi) - API Framework
 
-* [tRPC](https://trpc.io/) - Build Typesafe APIs 
+* [tRPC](https://trpc.io/) - Build Typesafe APIs
 
 * [Siesta](https://github.com/bustoutsolutions/siesta) - Write REST API Clients for iOS / macOS
 
@@ -356,9 +356,9 @@
 
 * [{JSON} Placeholder](https://jsonplaceholder.typicode.com/) - Fake APIs
 
-* [RandomAPI](https://randomapi.com/) - Generate Fake Data for Populating Mockups 
+* [RandomAPI](https://randomapi.com/) - Generate Fake Data for Populating Mockups
 
-* [InstantAPIs](https://github.com/csharpfritz/InstantAPIs) - API Endpoint Generator 
+* [InstantAPIs](https://github.com/csharpfritz/InstantAPIs) - API Endpoint Generator
 
 * [Pipedream](https://pipedream.com/) - Connect APIs / [Tutorial](https://gist.github.com/ItsRauf/48f252c931ac394b1395312b61b8e35b)
 
@@ -372,7 +372,7 @@
 
 * [CollectionConcurrencyKit](https://github.com/JohnSundell/CollectionConcurrencyKit) - Async & Concurrent Versions of Swift APIs
 
-* [Shizuku](https://github.com/RikkaApps/Shizuku) - Use System APIs Directly with ABD / Root 
+* [Shizuku](https://github.com/RikkaApps/Shizuku) - Use System APIs Directly with ABD / Root
 
 * [Algolia](https://www.algolia.com/), [TypeSense](https://typesense.org/), [StorkSearch](https://stork-search.net/), [Solr](https://solr.apache.org/), [MeiliSearch](https://meilisearch.com/), [Sphinx](http://sphinxsearch.com/) or [FusionBot](https://www.fusionbot.com/) - Search API
 
@@ -380,13 +380,13 @@
 
 * [instagrapi](https://github.com/adw0rd/instagrapi) - Unofficial Instagram API for Python
 
-* [TextNow API](https://github.com/leogomezz4t/PyTextNow_API) - Python Texting API 
+* [TextNow API](https://github.com/leogomezz4t/PyTextNow_API) - Python Texting API
 
 * [Perspective API](https://www.perspectiveapi.com/) - Toxicity Reduction API
 
 * [Plaid](https://plaid.com/) - Financial Account API / [GitHub](https://github.com/plaid)
 
-* [MxPlayer-RestApi](https://github.com/KapilYadav-dev/MxPlayer-RestApi) - MxPlayer API 
+* [MxPlayer-RestApi](https://github.com/KapilYadav-dev/MxPlayer-RestApi) - MxPlayer API
 
 * [aftership](https://www.aftership.com/) - Shipment Tracking API
 
@@ -400,7 +400,7 @@
 
 * **[goormIDE](https://ide.goorm.io/)**, [CodeTasty](https://codetasty.com/), [Repl.it](https://repl.it/), [BoostNote](https://boostnote.io/), [Deta](https://www.deta.sh/), [TerraForm](https://www.terraform.io/), [Atheos](https://www.atheos.io/) / [GitHub](https://github.com/Atheos/Atheos), [m3o](https://m3o.com/), [Datalore](https://datalore.jetbrains.com/), [DeepNote](https://deepnote.com/), [FireMonkeyX](http://www.firemonkeyx.com/) or [Glitch](https://glitch.com/) / [GitHub](https://github.com/m3o/m3o) - Cloud IDE
 
-* **[CodeSandbox](https://codesandbox.io/)**, [StackBlitz](https://stackblitz.com/) or [GitPod](https://www.gitpod.io/) - Cloud IDE / VSCode 
+* **[CodeSandbox](https://codesandbox.io/)**, [StackBlitz](https://stackblitz.com/) or [GitPod](https://www.gitpod.io/) - Cloud IDE / VSCode
 
 * [Text / Code Collaboration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_.2F_code_collaboration) - Text / Code Collaboration Tools
 
@@ -408,7 +408,7 @@
 
 * [cloud](https://gist.github.com/imba-tjd/d73258f0817255dbe77d64d40d985e76#file-cloud-md) - Cloud Platform Index
 
-* [Openshift](https://che.openshift.io/) - Cloud IDE / Eclipse Che 
+* [Openshift](https://che.openshift.io/) - Cloud IDE / Eclipse Che
 
 * [Arduino](https://cloud.arduino.cc/) - Cloud IDE for Arduino
 
@@ -434,7 +434,7 @@
 
 * [Platform.uno](https://platform.uno/) - App Framework
 
-* [tio.run](https://tio.run/) - Programming Language Interpreters 
+* [tio.run](https://tio.run/) - Programming Language Interpreters
 
 * [Online Python Compiler](https://www.onlinegdb.com/online_python_compiler) - Online Python Editor & Tester
 

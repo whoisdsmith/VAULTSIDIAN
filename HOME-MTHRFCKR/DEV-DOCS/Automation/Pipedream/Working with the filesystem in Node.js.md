@@ -1,15 +1,15 @@
 You'll commonly need to work with files in a workflow, for example: downloading content from some service to upload to another. This doc explains how to work with files in Pipedream workflows and provides some sample code for common operations.
 
--   [The /tmp directory](https://pipedream.com/docs/#the-tmp-directory)
--   [Managing /tmp across workflow runs](https://pipedream.com/docs/#managing-tmp-across-workflow-runs)
--   [Writing a file to /tmp](https://pipedream.com/docs/#writing-a-file-to-tmp)
--   [Listing files in /tmp](https://pipedream.com/docs/#listing-files-in-tmp)
--   [Reading a file from /tmp](https://pipedream.com/docs/#reading-a-file-from-tmp)
--   [Delete a file](https://pipedream.com/docs/#delete-a-file)
--   [Download a file to /tmp](https://pipedream.com/docs/#download-a-file-to-tmp)
--   [Upload a file from /tmp](https://pipedream.com/docs/#upload-a-file-from-tmp)
--   [Download a file, uploading it in another multipart/form-data request](https://pipedream.com/docs/#download-a-file-uploading-it-in-another-multipart-form-data-request)
--   [Download email attachments to /tmp, upload to Amazon S3](https://pipedream.com/docs/#download-email-attachments-to-tmp-upload-to-amazon-s3)
+- [The /tmp directory](https://pipedream.com/docs/#the-tmp-directory)
+- [Managing /tmp across workflow runs](https://pipedream.com/docs/#managing-tmp-across-workflow-runs)
+- [Writing a file to /tmp](https://pipedream.com/docs/#writing-a-file-to-tmp)
+- [Listing files in /tmp](https://pipedream.com/docs/#listing-files-in-tmp)
+- [Reading a file from /tmp](https://pipedream.com/docs/#reading-a-file-from-tmp)
+- [Delete a file](https://pipedream.com/docs/#delete-a-file)
+- [Download a file to /tmp](https://pipedream.com/docs/#download-a-file-to-tmp)
+- [Upload a file from /tmp](https://pipedream.com/docs/#upload-a-file-from-tmp)
+- [Download a file, uploading it in another multipart/form-data request](https://pipedream.com/docs/#download-a-file-uploading-it-in-another-multipart-form-data-request)
+- [Download email attachments to /tmp, upload to Amazon S3](https://pipedream.com/docs/#download-email-attachments-to-tmp-upload-to-amazon-s3)
 
 ## [#](https://pipedream.com/docs/#the-tmp-directory) The `/tmp` directory
 

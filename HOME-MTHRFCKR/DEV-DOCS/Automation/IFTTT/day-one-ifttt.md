@@ -1,10 +1,8 @@
 ![[d1-ifttt-create.jpeg]]![[d1-ifttt-about.jpeg]]![[d1-ifttt-action.jpeg]]![[d1-ifttt-body.jpeg]]![[d1-ifttt-latitude.jpeg]]![[d1-ifttt-placename.jpeg]]
 
-
 # Create Journal Entry
 
 This Action will create a new Journal entry in the Journal you specify.
-
 
 ### About this action
 
@@ -16,7 +14,7 @@ Description
 
 This Action will create a new Journal entry in the Journal you specify.
 
-API endpoint slug 
+API endpoint slug
 
 `day\_one.create\_journal\_entry`
 
@@ -46,7 +44,7 @@ Slug
 
 Required
 
-`true 
+`true
 
 Can have default value
 
@@ -206,4 +204,4 @@ Filter code method
 
 ---
 
-#ifttt 
+# ifttt

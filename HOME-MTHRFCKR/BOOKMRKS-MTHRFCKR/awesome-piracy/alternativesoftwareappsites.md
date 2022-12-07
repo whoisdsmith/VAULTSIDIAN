@@ -1,7 +1,5 @@
 # Alternative Software Sites
 
-
-
 [Ethical](https://ethical.net/resources/)
 
 [AlternativeTo](https://alternativeto.net/)

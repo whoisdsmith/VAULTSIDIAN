@@ -8,21 +8,21 @@ When parsing HTML content, it’s often necessary to remove markup entirely. The
 
 **Listing 34-1**AppleScript: Handler that removes HTML markup from text
 
-1.  `on removeMarkupFromText(theText)`
-2.  `set tagDetected to false`
-3.  `set theCleanText to ""`
-4.  `repeat with a from 1 to length of theText`
-5.  `set theCurrentCharacter to character a of theText`
-6.  `if theCurrentCharacter is "<" then`
-7.  `set tagDetected to true`
-8.  `else if theCurrentCharacter is ">" then`
-9.  `set tagDetected to false`
-10.  `else if tagDetected is false then`
-11.  `set theCleanText to theCleanText & theCurrentCharacter as string`
-12.  `end if`
-13.  `end repeat`
-14.  `return theCleanText`
-15.  `end removeMarkupFromText`
+1. `on removeMarkupFromText(theText)`
+2. `set tagDetected to false`
+3. `set theCleanText to ""`
+4. `repeat with a from 1 to length of theText`
+5. `set theCurrentCharacter to character a of theText`
+6. `if theCurrentCharacter is "<" then`
+7. `set tagDetected to true`
+8. `else if theCurrentCharacter is ">" then`
+9. `set tagDetected to false`
+10. `else if tagDetected is false then`
+11. `set theCleanText to theCleanText & theCurrentCharacter as string`
+12. `end if`
+13. `end repeat`
+14. `return theCleanText`
+15. `end removeMarkupFromText`
 
 Listing 34-2 shows how to call the handler in Listing 34-1.
 
@@ -32,6 +32,6 @@ Listing 34-2 shows how to call the handler in Listing 34-1.
 
 **Listing 34-2**AppleScript: Calling a handler to remove HTML markup from text
 
-1.  `set theText to "<a href=\"http://www.apple.com/mac\">This is a <B>great</B> time to own a Mac!</a>"`
-2.  `removeMarkupFromText(theText)`
-3.  `--> Result: "This is a great time to own a Mac!"`
+1. `set theText to "<a href=\"http://www.apple.com/mac\">This is a <B>great</B> time to own a Mac!</a>"`
+2. `removeMarkupFromText(theText)`
+3. `--> Result: "This is a great time to own a Mac!"`

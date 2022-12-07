@@ -1,4 +1,5 @@
 ## PR Reputation & Exposure
+
 - [AbsoluteRevenge](http://absolute-revenge.com/)
 - [Beware](https://www.beware.org/)
 - [BishopAccountability](http://www.bishop-accountability.org/priestdb/PriestDBbylastName-A.html)

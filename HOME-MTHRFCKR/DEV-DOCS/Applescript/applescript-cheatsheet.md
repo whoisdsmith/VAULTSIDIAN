@@ -8,9 +8,11 @@ author:
 # AppleScript cheatsheet
 
 > ## Excerpt
+
 > The one-page guide to AppleScript: usage, examples, links, snippets, and more.
 
 ---
+
 # AppleScript _cheatsheet_
 
 ### Running

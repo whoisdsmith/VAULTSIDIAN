@@ -2,9 +2,8 @@
 
 ---
 
-
--   3 days ago
--   Updated
+- 3 days ago
+- Updated
 
 Rate limits can be enforced for a number of reasons (i.e. to prevent spam or abuse). Here is a summary of rate limits for some triggers and actions on IFTTT:
 

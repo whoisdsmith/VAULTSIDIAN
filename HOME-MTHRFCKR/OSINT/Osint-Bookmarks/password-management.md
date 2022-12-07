@@ -1,4 +1,5 @@
 ## Password Management
+
 - [KeePass Password Manager](https://keepass.info/)
 - [LastPass Password Manager](https://www.lastpass.com/)
 - [Mentalist Wordlist Generator](https://github.com/sc0tfree/mentalist)

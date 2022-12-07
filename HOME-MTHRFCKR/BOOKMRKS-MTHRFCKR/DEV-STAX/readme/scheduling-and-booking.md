@@ -10,5 +10,5 @@
 
 [Pricing page](https://www.cronofy.com/scheduler/pricing/)
 
-* *Free tier*: Unlimited scheduling links
-* *Pros*: Scheduling & Booking API for business
+- *Free tier*: Unlimited scheduling links
+- *Pros*: Scheduling & Booking API for business

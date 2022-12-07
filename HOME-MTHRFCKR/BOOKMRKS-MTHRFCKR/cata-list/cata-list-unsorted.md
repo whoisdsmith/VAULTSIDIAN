@@ -24,7 +24,7 @@
 
 [Best free podcast app for Apple iOS and Android | Let words move you](https://castbox.fm)
 
-https://collapseos.org/
+<https://collapseos.org/>
 
 [Free Software Directory](https://directory.fsf.org/wiki/Main_Page)
 

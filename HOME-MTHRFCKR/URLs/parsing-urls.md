@@ -2,9 +2,9 @@
 
 In a realistic web app, we want to show different content for different URLs:
 
--   `/search`
--   `/search?q=seiza`
--   `/settings`
+- `/search`
+- `/search?q=seiza`
+- `/settings`
 
 How do we do that? We use the [`elm/url`](https://package.elm-lang.org/packages/elm/url/latest/) to parse the raw strings into nice Elm data structures. This package makes the most sense when you just look at examples, so that is what we will do!
 
@@ -12,16 +12,16 @@ How do we do that? We use the [`elm/url`](https://package.elm-lang.org/packages/
 
 Say we have an art website where the following addresses should be valid:
 
--   `/topic/architecture`
--   `/topic/painting`
--   `/topic/sculpture`
--   `/blog/42`
--   `/blog/123`
--   `/blog/451`
--   `/user/tom`
--   `/user/sue`
--   `/user/sue/comment/11`
--   `/user/sue/comment/51`
+- `/topic/architecture`
+- `/topic/painting`
+- `/topic/sculpture`
+- `/blog/42`
+- `/blog/123`
+- `/blog/451`
+- `/user/tom`
+- `/user/sue`
+- `/user/sue/comment/11`
+- `/user/sue/comment/51`
 
 So we have topic pages, blog posts, user information, and a way to look up individual user comments. We would use the [`Url.Parser`](https://package.elm-lang.org/packages/elm/url/latest/Url-Parser) module to write a URL parser like this:
 
@@ -65,12 +65,12 @@ The `Url.Parser` module makes it quite concise to fully turn valid URLs into nic
 
 Now say we have a personal blog where addresses like this are valid:
 
--   `/blog/12/the-history-of-chairs`
--   `/blog/13/the-endless-september`
--   `/blog/14/whale-facts`
--   `/blog/`
--   `/blog?q=whales`
--   `/blog?q=seiza`
+- `/blog/12/the-history-of-chairs`
+- `/blog/13/the-endless-september`
+- `/blog/14/whale-facts`
+- `/blog/`
+- `/blog?q=whales`
+- `/blog?q=seiza`
 
 In this case we have individual blog posts and a blog overview with an optional query parameter. We need to add the [`Url.Parser.Query`](https://package.elm-lang.org/packages/elm/url/latest/Url-Parser-Query) module to write our URL parser this time:
 
@@ -105,12 +105,12 @@ The `</>` and `<?>` operators let us write parsers that look quite like the actu
 
 Okay, now we have a documentation website with addresses like this:
 
--   `/Basics`
--   `/Maybe`
--   `/List`
--   `/List#map`
--   `/List#filter`
--   `/List#foldl`
+- `/Basics`
+- `/Maybe`
+- `/List`
+- `/List#map`
+- `/List#filter`
+- `/List#foldl`
 
 We can use the [`fragment`](https://package.elm-lang.org/packages/elm/url/latest/Url-Parser#fragment) parser from `Url.Parser` to handle these addresses like this:
 
@@ -143,8 +143,8 @@ TODO
 
 The major new things are:
 
-1.  Our `update` parses the URL when it gets a `UrlChanged` message.
-2.  Our `view` function shows different content for different addresses!
+1. Our `update` parses the URL when it gets a `UrlChanged` message.
+2. Our `view` function shows different content for different addresses!
 
 It is really not too fancy. Nice!
 

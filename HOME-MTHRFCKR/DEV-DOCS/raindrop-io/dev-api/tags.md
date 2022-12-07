@@ -12,6 +12,7 @@ Optional collection ID, when not specified all tags from all collections will be
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
+
 ```javascript
 {
     "result": true,
@@ -23,6 +24,7 @@ Optional collection ID, when not specified all tags from all collections will be
     ]
 }
 ```
+
 {% endswagger-response %}
 {% endswagger %}
 
@@ -40,11 +42,11 @@ New name
 {% endswagger-parameter %}
 
 {% swagger-parameter in="body" name="tags" type="array" %}
-Specify 
+Specify
 
 **array**
 
- with 
+ with
 
 **only one**
 
@@ -52,17 +54,19 @@ Specify
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
+
 ```javascript
 {
     "result": true
 }
 ```
+
 {% endswagger-response %}
 {% endswagger %}
 
 {% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/tags/{collectionId}" method="put" summary="Merge tags" %}
 {% swagger-description %}
-Basically this action rename bunch of 
+Basically this action rename bunch of
 
 `tags`
 
@@ -86,11 +90,13 @@ List of tags
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
+
 ```javascript
 {
     "result": true
 }
 ```
+
 {% endswagger-response %}
 {% endswagger %}
 
@@ -108,11 +114,13 @@ List of tags
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
+
 ```javascript
 {
     "result": true
 }
 ```
+
 {% endswagger-response %}
 {% endswagger %}
 
@@ -126,6 +134,7 @@ Raindrop ID
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
+
 ```javascript
 {
     "result": true,
@@ -135,5 +144,6 @@ Raindrop ID
     ]
 }
 ```
+
 {% endswagger-response %}
 {% endswagger %}

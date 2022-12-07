@@ -73,15 +73,11 @@ orbit about the sun.
 
 **AZ --** Azimuth.
 
-  
-
----- 
+----
 
 **[A][10]   [B][11]   [C][12]   [D][13]   [E][14]   [F][15]   [G][16]   [H][17]   [I][18]   [J][19]   [K][20]   [L][21]   [M][22]   [N][23]   [O][24]   [P][25]   [Q][26]   [R][27]   [S][28]   [T][29]   [U][30]   [V][31]   [W][32]   [X][33]   [Y][34]   [Z][35]**  
 
----- 
-
-  
+----
 
 **B --** Bel, a unit of ratio equal to ten [decibels][36]. Named in honor of telecommunications pioneer Alexander Graham Bell.
 
@@ -108,13 +104,11 @@ or more bodies revolve.
 
 **BWG --** Beam waveguide 34-m DSS, the DSN's newest DSS design.
 
-  
-
----- 
+----
 
 **[A][37]   [B][38]   [C][39]   [D][40]   [E][41]   [F][42]   [G][43]   [H][44]   [I][45]   [J][46]   [K][47]   [L][48]   [M][49]   [N][50]   [O][51]   [P][52]   [Q][53]   [R][54]   [S][55]   [T][56]   [U][57]   [V][58]   [W][59]   [X][60]   [Y][61]   [Z][62]**  
 
----- 
+----
 
 **c --** The speed of light, 299,792 km per second.
 
@@ -195,13 +189,11 @@ cancelled.
 
 **CRT --** Cathode ray tube video display device.
 
-  
-
----- 
+----
 
 **[A][64]   [B][65]   [C][66]   [D][67]   [E][68]   [F][69]   [G][70]   [H][71]   [I][72]   [J][73]   [K][74]   [L][75]   [M][76]   [N][77]   [O][78]   [P][79]   [Q][80]   [R][81]   [S][82]   [T][83]   [U][84]   [V][85]   [W][86]   [X][87]   [Y][88]   [Z][89]**  
 
----- 
+----
 
 **dB --** [Decibel][90], an expression of ratio (usually that of power levels) in the form of log base 10. A reference may be specified, for example, dBm is referenced to milliwatts, dBW is referenced to Watts, etc. Example: 20 dBm = 1020/10 = 102 = 100 milliwatts.
 
@@ -254,13 +246,11 @@ equipment at DSCCs.
 accelerate a 1-g mass 1 cm per second per second. Compare with  
 Newton.
 
-  
-
----- 
+----
 
 **[A][96]   [B][97]   [C][98]   [D][99]   [E][100]   [F][101]   [G][102]   [H][103]   [I][104]   [J][105]   [K][106]   [L][107]   [M][108]   [N][109]   [O][110]   [P][111]   [Q][112]   [R][113]   [S][114]   [T][115]   [U][116]   [V][117]   [W][118]   [X][119]   [Y][120]   [Z][121]**  
 
----- 
+----
 
 **E --** East.
 
@@ -326,13 +316,11 @@ than the sun.
 **Extrasolar planet --** A planet orbiting a star other  
 than the sun. Exoplanet.
 
-  
-
----- 
+----
 
 **[A][122]   [B][123]   [C][124]   [D][125]   [E][126]   [F][127]   [G][128]   [H][129]   [I][130]   [J][131]   [K][132]   [L][133]   [M][134]   [N][135]   [O][136]   [P][137]   [Q][138]   [R][139]   [S][140]   [T][141]   [U][142]   [V][143]   [W][144]   [X][145]   [Y][146]   [Z][147]**  
 
----- 
+----
 
 **f, F --** Force. Two commonly used units of force are the [Newton][148] and the [dyne][149]. [Force][150] = Mass X [Acceleration][151].
 
@@ -353,11 +341,11 @@ absorbing radiation of an invisible wavelength.
 
 **FY --** Fiscal year.
 
----- 
+----
 
 **[A][152]   [B][153]   [C][154]   [D][155]   [E][156]   [F][157]   [G][158]   [H][159]   [I][160]   [J][161]   [K][162]   [L][163]   [M][164]   [N][165]   [O][166]   [P][167]   [Q][168]   [R][169]   [S][170]   [T][171]   [U][172]   [V][173]   [W][174]   [X][175]   [Y][176]   [Z][177]**  
 
----- 
+----
 
 **G --** Universal Constant of [Gravitation][178]. Its tiny value (G = 6.6726 x 10\-11 Nm2/kg2) is unchanging throughout the universe.
 
@@ -429,13 +417,11 @@ illuminate solar system objects for imaging.
 **GTO --** Geostationary (or geosynchronous) Transfer  
 Orbit.
 
-  
-
----- 
+----
 
 **[A][182]   [B][183]   [C][184]   [D][185]   [E][186]   [F][187]   [G][188]   [H][189]   [I][190]   [J][191]   [K][192]   [L][193]   [M][194]   [N][195]   [O][196]   [P][197]   [Q][198]   [R][199]   [S][200]   [T][201]   [U][202]   [V][203]   [W][204]   [X][205]   [Y][206]   [Z][207]**  
 
----- 
+----
 
 **HA --** Hour Angle.
 
@@ -468,13 +454,11 @@ object measured westward along the celestial equator from the
 zenith crossing. In effect, HA represents the RA for a particular  
 location and time of day.
 
-  
-
----- 
+----
 
 **[A][209]   [B][210]   [C][211]   [D][212]   [E][213]   [F][214]   [G][215]   [H][216]   [I][217]   [J][218]   [K][219]   [L][220]   [M][221]   [N][222]   [O][223]   [P][224]   [Q][225]   [R][226]   [S][227]   [T][228]   [U][229]   [V][230]   [W][231]   [X][232]   [Y][233]   [Z][234]**  
 
----- 
+----
 
 **ICE --** International Cometary Explorer spacecraft.
 
@@ -524,13 +508,11 @@ directions.
 
 **IUS --** Inertial Upper Stage.
 
-  
-
----- 
+----
 
 **[A][238]   [B][239]   [C][240]   [D][241]   [E][242]   [F][243]   [G][244]   [H][245]   [I][246]   [J][247]   [K][248]   [L][249]   [M][250]   [N][251]   [O][252]   [P][253]   [Q][254]   [R][255]   [S][256]   [T][257]   [U][258]   [V][259]   [W][260]   [X][261]   [Y][262]   [Z][263]**  
 
----- 
+----
 
 **JGR --** _Journal Of Geophysical Research._
 
@@ -543,13 +525,11 @@ of the California Institute of Technology.
 **Jupiter --** Fifth planet from the sun, a gas giant or  
 Jovian planet.
 
-  
-
----- 
+----
 
 **[A][264]   [B][265]   [C][266]   [D][267]   [E][268]   [F][269]   [G][270]   [H][271]   [I][272]   [J][273]   [K][274]   [L][275]   [M][276]   [N][277]   [O][278]   [P][279]   [Q][280]   [R][281]   [S][282]   [T][283]   [U][284]   [V][285]   [W][286]   [X][287]   [Y][288]   [Z][289]**  
 
----- 
+----
 
 **k --** Kilo, a multiplier, x103 from the Greek "khilioi" (thousand). See the entry for CGPM.
 
@@ -640,13 +620,11 @@ north and south poles, also called meridians.
 
 **LOX --** Liquid oxygen.
 
-  
-
----- 
+----
 
 **[A][295]   [B][296]   [C][297]   [D][298]   [E][299]   [F][300]   [G][301]   [H][302]   [I][303]   [J][304]   [K][305]   [L][306]   [M][307]   [N][308]   [O][309]   [P][310]   [Q][311]   [R][312]   [S][313]   [T][314]   [U][315]   [V][316]   [W][317]   [X][318]   [Y][319]   [Z][320]**  
 
----- 
+----
 
 **m --** Meter (U.S. spelling; elsewhere metre), the  
 international standard of linear measurement.
@@ -752,15 +730,11 @@ A natural satellite. Capitalized, the Earth's natural satellite.
 
 **Multiplexing --** A scheme for delivering many different measurements in one data stream. See Chapter 10.
 
-  
-
----- 
+----
 
 **[A][332]   [B][333]   [C][334]   [D][335]   [E][336]   [F][337]   [G][338]   [H][339]   [I][340]   [J][341]   [K][342]   [L][343]   [M][344]   [N][345]   [O][346]   [P][347]   [Q][348]   [R][349]   [S][350]   [T][351]   [U][352]   [V][353]   [W][354]   [X][355]   [Y][356]   [Z][357]**  
 
----- 
-
-  
+----
 
 **N --** Newton, the SI unit of force equal to that  
 required to accelerate a 1-kg mass 1 m per second per second  
@@ -811,13 +785,11 @@ uplink frequency.
 
 **NSP --** DSN Network Simplification Project. A project that re-engineered the DSN to consolidate seven data systems into two data systems that handle the same data types.
 
-  
-
----- 
+----
 
 **[A][360]   [B][361]   [C][362]   [D][363]   [E][364]   [F][365]   [G][366]   [H][367]   [I][368]   [J][369]   [K][370]   [L][371]   [M][372]   [N][373]   [O][374]   [P][375]   [Q][376]   [R][377]   [S][378]   [T][379]   [U][380]   [V][381]   [W][382]   [X][383]   [Y][384]   [Z][385]**  
 
----- 
+----
 
 **OB --** Observatory phase in flyby mission operations  
 encounter period.
@@ -852,13 +824,11 @@ maneuver.
 **OWLT --** One-Way Light Time, elapsed time between Earth  
 and spacecraft or solar system body.
 
-  
-
----- 
+----
 
 **[A][386]   [B][387]   [C][388]   [D][389]   [E][390]   [F][391]   [G][392]   [H][393]   [I][394]   [J][395]   [K][396]   [L][397]   [M][398]   [N][399]   [O][400]   [P][401]   [Q][402]   [R][403]   [S][404]   [T][405]   [U][406]   [V][407]   [W][408]   [X][409]   [Y][410]   [Z][411]**  
 
----- 
+----
 
 **P --** Peta, a multiplier, x1015, from the Greek "pente" (five, the "n" is dropped). The reference to five is because this is the fifth multiplier in the series k, M, G, T, P. See the entry for CGPM.
 
@@ -940,21 +910,15 @@ classified as a small terrestrial planet.
 **PSU --** Pyrotechnic Switching Unit onboard a  
 spacecraft.
 
-  
-
----- 
+----
 
 **[A][412]   [B][413]   [C][414]   [D][415]   [E][416]   [F][417]   [G][418]   [H][419]   [I][420]   [J][421]   [K][422]   [L][423]   [M][424]   [N][425]   [O][426]   [P][427]   [Q][428]   [R][429]   [S][430]   [T][431]   [U][432]   [V][433]   [W][434]   [X][435]   [Y][436]   [Z][437]**  
 
----- 
-
-  
+----
 
 **Quasar --** Quasi-stellar object observed mainly in  
 radio waves. Quasars are extragalactic objects believed to be the  
 very distant centers of active galaxies.
-
-  
 
 **RA --** Right Ascension.
 
@@ -1005,13 +969,11 @@ spacecraft.
 **RTLT --** Round-Trip Light Time, elapsed time roughly  
 equal to 2 x OWLT.
 
-  
-
----- 
+----
 
 **[A][439]   [B][440]   [C][441]   [D][442]   [E][443]   [F][444]   [G][445]   [H][446]   [I][447]   [J][448]   [K][449]   [L][450]   [M][451]   [N][452]   [O][453]   [P][454]   [Q][455]   [R][456]   [S][457]   [T][458]   [U][459]   [V][460]   [W][461]   [X][462]   [Y][463]   [Z][464]**  
 
----- 
+----
 
 **S --** South.
 
@@ -1129,13 +1091,11 @@ planet on the far side of the sun.
 
 **SWG --** Science Working Group.
 
-  
-
----- 
+----
 
 **[A][477]   [B][478]   [C][479]   [D][480]   [E][481]   [F][482]   [G][483]   [H][484]   [I][485]   [J][486]   [K][487]   [L][488]   [M][489]   [N][490]   [O][491]   [P][492]   [Q][493]   [R][494]   [S][495]   [T][496]   [U][497]   [V][498]   [W][499]   [X][500]   [Y][501]   [Z][502]**  
 
----- 
+----
 
 **TAU --** Thousand AU Mission.
 
@@ -1206,15 +1166,11 @@ stage of amplification for downlink (same unit as TWT).
 
 **TXR --** DSN's DSCC Transmitter assembly.
 
-  
-
----- 
+----
 
 **[A][506]   [B][507]   [C][508]   [D][509]   [E][510]   [F][511]   [G][512]   [H][513]   [I][514]   [J][515]   [K][516]   [L][517]   [M][518]   [N][519]   [O][520]   [P][521]   [Q][522]   [R][523]   [S][524]   [T][525]   [U][526]   [V][527]   [W][528]   [X][529]   [Y][530]   [Z][531]**  
 
----- 
-
-  
+----
 
 **UHF --** Ultra-high frequency (around 300MHz).
 
@@ -1243,13 +1199,11 @@ wavelength.
 
 **UWV --** DSN Microwave subsystem in DSSs which includes waveguides, waveguide switches, LNAs, polarization filters, etc.
 
-  
-
----- 
+----
 
 **[A][534]   [B][535]   [C][536]   [D][537]   [E][538]   [F][539]   [G][540]   [H][541]   [I][542]   [J][543]   [K][544]   [L][545]   [M][546]   [N][547]   [O][548]   [P][549]   [Q][550]   [R][551]   [S][552]   [T][553]   [U][554]   [V][555]   [W][556]   [X][557]   [Y][558]   [Z][559]**  
 
----- 
+----
 
 **Velocity --** A vector quantity whose magnitude is a body's speed and whose direction is the body's direction of motion.
 
@@ -1262,13 +1216,11 @@ planet.
 
 **VLBI --** DSN Very Long Baseline Interferometry System. Also, VLBI data. [Link][560].
 
-  
-
----- 
+----
 
 **[A][561]   [B][562]   [C][563]   [D][564]   [E][565]   [F][566]   [G][567]   [H][568]   [I][569]   [J][570]   [K][571]   [L][572]   [M][573]   [N][574]   [O][575]   [P][576]   [Q][577]   [R][578]   [S][579]   [T][580]   [U][581]   [V][582]   [W][583]   [X][584]   [Y][585]   [Z][586]**  
 
----- 
+----
 
 **W --** Watt, a measure of electrical power equal to  
 potential in volts times current in amps.
@@ -1285,13 +1237,11 @@ time required for one oscillation.
 
 **WWW --** World-Wide Web.
 
-  
-
----- 
+----
 
 **[A][588]   [B][589]   [C][590]   [D][591]   [E][592]   [F][593]   [G][594]   [H][595]   [I][596]   [J][597]   [K][598]   [L][599]   [M][600]   [N][601]   [O][602]   [P][603]   [Q][604]   [R][605]   [S][606]   [T][607]   [U][608]   [V][609]   [W][610]   [X][611]   [Y][612]   [Z][613]**  
 
----- 
+----
 
 **X-band --** A range of microwave radio frequencies in  
 the neighborhood of 8 to 12 GHz.
@@ -1308,618 +1258,618 @@ of 100 picometer wavelength.
 **Zenith --** The point on the celestial sphere directly  
 above the observer. Opposite the nadir.
 
-[1]:	http://www.harcourtschool.com/activity/newton/
-[2]:	http://www.physicsclassroom.com/Class/newtlaws/u2l3a.html#Second
-[3]:	http://kestrel.nmt.edu/~raymond/books/radphys/book1/book1.html#x1-600006.4
-[4]:	http://physics.nist.gov/cuu/Units/units.html
-[5]:	https://solarsystem.nasa.gov/basics/glossary//#V
-[6]:	https://solarsystem.nasa.gov/basics/glossary//chapter1-3#neo
-[7]:	https://solarsystem.nasa.gov/basics/glossary//chapter1-3#neo
-[8]:	https://solarsystem.nasa.gov/basics/glossary//chapter1-3#neo
-[9]:	http://aa.usno.navy.mil/faq/docs/RST_defs.php
-[10]:	https://solarsystem.nasa.gov/basics/glossary//#A
-[11]:	https://solarsystem.nasa.gov/basics/glossary//#B
-[12]:	https://solarsystem.nasa.gov/basics/glossary//#C
-[13]:	https://solarsystem.nasa.gov/basics/glossary//#D
-[14]:	https://solarsystem.nasa.gov/basics/glossary//#E
-[15]:	https://solarsystem.nasa.gov/basics/glossary//#F
-[16]:	https://solarsystem.nasa.gov/basics/glossary//#G
-[17]:	https://solarsystem.nasa.gov/basics/glossary//#H
-[18]:	https://solarsystem.nasa.gov/basics/glossary//#I
-[19]:	https://solarsystem.nasa.gov/basics/glossary//#J
-[20]:	https://solarsystem.nasa.gov/basics/glossary//#K
-[21]:	https://solarsystem.nasa.gov/basics/glossary//#L
-[22]:	https://solarsystem.nasa.gov/basics/glossary//#M
-[23]:	https://solarsystem.nasa.gov/basics/glossary//#N
-[24]:	https://solarsystem.nasa.gov/basics/glossary//#O
-[25]:	https://solarsystem.nasa.gov/basics/glossary//#P
-[26]:	https://solarsystem.nasa.gov/basics/glossary//#Q
-[27]:	https://solarsystem.nasa.gov/basics/glossary//#R
-[28]:	https://solarsystem.nasa.gov/basics/glossary//#S
-[29]:	https://solarsystem.nasa.gov/basics/glossary//#T
-[30]:	https://solarsystem.nasa.gov/basics/glossary//#U
-[31]:	https://solarsystem.nasa.gov/basics/glossary//#V
-[32]:	https://solarsystem.nasa.gov/basics/glossary//#W
-[33]:	https://solarsystem.nasa.gov/basics/glossary//#X
-[34]:	https://solarsystem.nasa.gov/basics/glossary//#Y
-[35]:	https://solarsystem.nasa.gov/basics/glossary//#Z
-[36]:	https://solarsystem.nasa.gov/basics/glossary//#D
-[37]:	https://solarsystem.nasa.gov/basics/glossary//#A
-[38]:	https://solarsystem.nasa.gov/basics/glossary//#B
-[39]:	https://solarsystem.nasa.gov/basics/glossary//#C
-[40]:	https://solarsystem.nasa.gov/basics/glossary//#D
-[41]:	https://solarsystem.nasa.gov/basics/glossary//#E
-[42]:	https://solarsystem.nasa.gov/basics/glossary//#F
-[43]:	https://solarsystem.nasa.gov/basics/glossary//#G
-[44]:	https://solarsystem.nasa.gov/basics/glossary//#H
-[45]:	https://solarsystem.nasa.gov/basics/glossary//#I
-[46]:	https://solarsystem.nasa.gov/basics/glossary//#J
-[47]:	https://solarsystem.nasa.gov/basics/glossary//#K
-[48]:	https://solarsystem.nasa.gov/basics/glossary//#L
-[49]:	https://solarsystem.nasa.gov/basics/glossary//#M
-[50]:	https://solarsystem.nasa.gov/basics/glossary//#N
-[51]:	https://solarsystem.nasa.gov/basics/glossary//#O
-[52]:	https://solarsystem.nasa.gov/basics/glossary//#P
-[53]:	https://solarsystem.nasa.gov/basics/glossary//#Q
-[54]:	https://solarsystem.nasa.gov/basics/glossary//#R
-[55]:	https://solarsystem.nasa.gov/basics/glossary//#S
-[56]:	https://solarsystem.nasa.gov/basics/glossary//#T
-[57]:	https://solarsystem.nasa.gov/basics/glossary//#U
-[58]:	https://solarsystem.nasa.gov/basics/glossary//#V
-[59]:	https://solarsystem.nasa.gov/basics/glossary//#W
-[60]:	https://solarsystem.nasa.gov/basics/glossary//#X
-[61]:	https://solarsystem.nasa.gov/basics/glossary//#Y
-[62]:	https://solarsystem.nasa.gov/basics/glossary//#Z
-[63]:	http://aa.usno.navy.mil/faq/docs/RST_defs.php
-[64]:	https://solarsystem.nasa.gov/basics/glossary//#A
-[65]:	https://solarsystem.nasa.gov/basics/glossary//#B
-[66]:	https://solarsystem.nasa.gov/basics/glossary//#C
-[67]:	https://solarsystem.nasa.gov/basics/glossary//#D
-[68]:	https://solarsystem.nasa.gov/basics/glossary//#E
-[69]:	https://solarsystem.nasa.gov/basics/glossary//#F
-[70]:	https://solarsystem.nasa.gov/basics/glossary//#G
-[71]:	https://solarsystem.nasa.gov/basics/glossary//#H
-[72]:	https://solarsystem.nasa.gov/basics/glossary//#I
-[73]:	https://solarsystem.nasa.gov/basics/glossary//#J
-[74]:	https://solarsystem.nasa.gov/basics/glossary//#K
-[75]:	https://solarsystem.nasa.gov/basics/glossary//#L
-[76]:	https://solarsystem.nasa.gov/basics/glossary//#M
-[77]:	https://solarsystem.nasa.gov/basics/glossary//#N
-[78]:	https://solarsystem.nasa.gov/basics/glossary//#O
-[79]:	https://solarsystem.nasa.gov/basics/glossary//#P
-[80]:	https://solarsystem.nasa.gov/basics/glossary//#Q
-[81]:	https://solarsystem.nasa.gov/basics/glossary//#R
-[82]:	https://solarsystem.nasa.gov/basics/glossary//#S
-[83]:	https://solarsystem.nasa.gov/basics/glossary//#T
-[84]:	https://solarsystem.nasa.gov/basics/glossary//#U
-[85]:	https://solarsystem.nasa.gov/basics/glossary//#V
-[86]:	https://solarsystem.nasa.gov/basics/glossary//#W
-[87]:	https://solarsystem.nasa.gov/basics/glossary//#X
-[88]:	https://solarsystem.nasa.gov/basics/glossary//#Y
-[89]:	https://solarsystem.nasa.gov/basics/glossary//#Z
-[90]:	https://solarsystem.nasa.gov/basics/glossary//chapter6-2#db
-[91]:	https://solarsystem.nasa.gov/basics/glossary//chapter6-2#db
-[92]:	http://physics.nist.gov/Pubs/SP811/sec08.html#8.7
-[93]:	http://hyperphysics.phy-astr.gsu.edu/hbase/dens.html#dens
-[94]:	https://solarsystem.nasa.gov/basics/glossary//chapter6-4
-[95]:	http://tycho.usno.navy.mil/systime.html
-[96]:	https://solarsystem.nasa.gov/basics/glossary//#A
-[97]:	https://solarsystem.nasa.gov/basics/glossary//#B
-[98]:	https://solarsystem.nasa.gov/basics/glossary//#C
-[99]:	https://solarsystem.nasa.gov/basics/glossary//#D
-[100]:	https://solarsystem.nasa.gov/basics/glossary//#E
-[101]:	https://solarsystem.nasa.gov/basics/glossary//#F
-[102]:	https://solarsystem.nasa.gov/basics/glossary//#G
-[103]:	https://solarsystem.nasa.gov/basics/glossary//#H
-[104]:	https://solarsystem.nasa.gov/basics/glossary//#I
-[105]:	https://solarsystem.nasa.gov/basics/glossary//#J
-[106]:	https://solarsystem.nasa.gov/basics/glossary//#K
-[107]:	https://solarsystem.nasa.gov/basics/glossary//#L
-[108]:	https://solarsystem.nasa.gov/basics/glossary//#M
-[109]:	https://solarsystem.nasa.gov/basics/glossary//#N
-[110]:	https://solarsystem.nasa.gov/basics/glossary//#O
-[111]:	https://solarsystem.nasa.gov/basics/glossary//#P
-[112]:	https://solarsystem.nasa.gov/basics/glossary//#Q
-[113]:	https://solarsystem.nasa.gov/basics/glossary//#R
-[114]:	https://solarsystem.nasa.gov/basics/glossary//#S
-[115]:	https://solarsystem.nasa.gov/basics/glossary//#T
-[116]:	https://solarsystem.nasa.gov/basics/glossary//#U
-[117]:	https://solarsystem.nasa.gov/basics/glossary//#V
-[118]:	https://solarsystem.nasa.gov/basics/glossary//#W
-[119]:	https://solarsystem.nasa.gov/basics/glossary//#X
-[120]:	https://solarsystem.nasa.gov/basics/glossary//#Y
-[121]:	https://solarsystem.nasa.gov/basics/glossary//#Z
-[122]:	https://solarsystem.nasa.gov/basics/glossary//#A
-[123]:	https://solarsystem.nasa.gov/basics/glossary//#B
-[124]:	https://solarsystem.nasa.gov/basics/glossary//#C
-[125]:	https://solarsystem.nasa.gov/basics/glossary//#D
-[126]:	https://solarsystem.nasa.gov/basics/glossary//#E
-[127]:	https://solarsystem.nasa.gov/basics/glossary//#F
-[128]:	https://solarsystem.nasa.gov/basics/glossary//#G
-[129]:	https://solarsystem.nasa.gov/basics/glossary//#H
-[130]:	https://solarsystem.nasa.gov/basics/glossary//#I
-[131]:	https://solarsystem.nasa.gov/basics/glossary//#J
-[132]:	https://solarsystem.nasa.gov/basics/glossary//#K
-[133]:	https://solarsystem.nasa.gov/basics/glossary//#L
-[134]:	https://solarsystem.nasa.gov/basics/glossary//#M
-[135]:	https://solarsystem.nasa.gov/basics/glossary//#N
-[136]:	https://solarsystem.nasa.gov/basics/glossary//#O
-[137]:	https://solarsystem.nasa.gov/basics/glossary//#P
-[138]:	https://solarsystem.nasa.gov/basics/glossary//#Q
-[139]:	https://solarsystem.nasa.gov/basics/glossary//#R
-[140]:	https://solarsystem.nasa.gov/basics/glossary//#S
-[141]:	https://solarsystem.nasa.gov/basics/glossary//#T
-[142]:	https://solarsystem.nasa.gov/basics/glossary//#U
-[143]:	https://solarsystem.nasa.gov/basics/glossary//#V
-[144]:	https://solarsystem.nasa.gov/basics/glossary//#W
-[145]:	https://solarsystem.nasa.gov/basics/glossary//#X
-[146]:	https://solarsystem.nasa.gov/basics/glossary//#Y
-[147]:	https://solarsystem.nasa.gov/basics/glossary//#Z
-[148]:	https://solarsystem.nasa.gov/basics/glossary//#N
-[149]:	https://solarsystem.nasa.gov/basics/glossary//#D
-[150]:	http://www.harcourtschool.com/activity/newton/
-[151]:	http://www.math.montana.edu/frankw/ccp/units/force-acceleration/body.htm
-[152]:	https://solarsystem.nasa.gov/basics/glossary//#A
-[153]:	https://solarsystem.nasa.gov/basics/glossary//#B
-[154]:	https://solarsystem.nasa.gov/basics/glossary//#C
-[155]:	https://solarsystem.nasa.gov/basics/glossary//#D
-[156]:	https://solarsystem.nasa.gov/basics/glossary//#E
-[157]:	https://solarsystem.nasa.gov/basics/glossary//#F
-[158]:	https://solarsystem.nasa.gov/basics/glossary//#G
-[159]:	https://solarsystem.nasa.gov/basics/glossary//#H
-[160]:	https://solarsystem.nasa.gov/basics/glossary//#I
-[161]:	https://solarsystem.nasa.gov/basics/glossary//#J
-[162]:	https://solarsystem.nasa.gov/basics/glossary//#K
-[163]:	https://solarsystem.nasa.gov/basics/glossary//#L
-[164]:	https://solarsystem.nasa.gov/basics/glossary//#M
-[165]:	https://solarsystem.nasa.gov/basics/glossary//#N
-[166]:	https://solarsystem.nasa.gov/basics/glossary//#O
-[167]:	https://solarsystem.nasa.gov/basics/glossary//#P
-[168]:	https://solarsystem.nasa.gov/basics/glossary//#Q
-[169]:	https://solarsystem.nasa.gov/basics/glossary//#R
-[170]:	https://solarsystem.nasa.gov/basics/glossary//#S
-[171]:	https://solarsystem.nasa.gov/basics/glossary//#T
-[172]:	https://solarsystem.nasa.gov/basics/glossary//#U
-[173]:	https://solarsystem.nasa.gov/basics/glossary//#V
-[174]:	https://solarsystem.nasa.gov/basics/glossary//#W
-[175]:	https://solarsystem.nasa.gov/basics/glossary//#X
-[176]:	https://solarsystem.nasa.gov/basics/glossary//#Y
-[177]:	https://solarsystem.nasa.gov/basics/glossary//#Z
-[178]:	http://csep10.phys.utk.edu/astr161/lect/history/newtongrav.html
-[179]:	https://solarsystem.nasa.gov/basics/glossary//#W
-[180]:	https://solarsystem.nasa.gov/basics/glossary//#K
-[181]:	https://solarsystem.nasa.gov/basics/glossary//#W
-[182]:	https://solarsystem.nasa.gov/basics/glossary//#A
-[183]:	https://solarsystem.nasa.gov/basics/glossary//#B
-[184]:	https://solarsystem.nasa.gov/basics/glossary//#C
-[185]:	https://solarsystem.nasa.gov/basics/glossary//#D
-[186]:	https://solarsystem.nasa.gov/basics/glossary//#E
-[187]:	https://solarsystem.nasa.gov/basics/glossary//#F
-[188]:	https://solarsystem.nasa.gov/basics/glossary//#G
-[189]:	https://solarsystem.nasa.gov/basics/glossary//#H
-[190]:	https://solarsystem.nasa.gov/basics/glossary//#I
-[191]:	https://solarsystem.nasa.gov/basics/glossary//#J
-[192]:	https://solarsystem.nasa.gov/basics/glossary//#K
-[193]:	https://solarsystem.nasa.gov/basics/glossary//#L
-[194]:	https://solarsystem.nasa.gov/basics/glossary//#M
-[195]:	https://solarsystem.nasa.gov/basics/glossary//#N
-[196]:	https://solarsystem.nasa.gov/basics/glossary//#O
-[197]:	https://solarsystem.nasa.gov/basics/glossary//#P
-[198]:	https://solarsystem.nasa.gov/basics/glossary//#Q
-[199]:	https://solarsystem.nasa.gov/basics/glossary//#R
-[200]:	https://solarsystem.nasa.gov/basics/glossary//#S
-[201]:	https://solarsystem.nasa.gov/basics/glossary//#T
-[202]:	https://solarsystem.nasa.gov/basics/glossary//#U
-[203]:	https://solarsystem.nasa.gov/basics/glossary//#V
-[204]:	https://solarsystem.nasa.gov/basics/glossary//#W
-[205]:	https://solarsystem.nasa.gov/basics/glossary//#X
-[206]:	https://solarsystem.nasa.gov/basics/glossary//#Y
-[207]:	https://solarsystem.nasa.gov/basics/glossary//#Z
-[208]:	http://aa.usno.navy.mil/faq/docs/RST_defs.php
-[209]:	https://solarsystem.nasa.gov/basics/glossary//#A
-[210]:	https://solarsystem.nasa.gov/basics/glossary//#B
-[211]:	https://solarsystem.nasa.gov/basics/glossary//#C
-[212]:	https://solarsystem.nasa.gov/basics/glossary//#D
-[213]:	https://solarsystem.nasa.gov/basics/glossary//#E
-[214]:	https://solarsystem.nasa.gov/basics/glossary//#F
-[215]:	https://solarsystem.nasa.gov/basics/glossary//#G
-[216]:	https://solarsystem.nasa.gov/basics/glossary//#H
-[217]:	https://solarsystem.nasa.gov/basics/glossary//#I
-[218]:	https://solarsystem.nasa.gov/basics/glossary//#J
-[219]:	https://solarsystem.nasa.gov/basics/glossary//#K
-[220]:	https://solarsystem.nasa.gov/basics/glossary//#L
-[221]:	https://solarsystem.nasa.gov/basics/glossary//#M
-[222]:	https://solarsystem.nasa.gov/basics/glossary//#N
-[223]:	https://solarsystem.nasa.gov/basics/glossary//#O
-[224]:	https://solarsystem.nasa.gov/basics/glossary//#P
-[225]:	https://solarsystem.nasa.gov/basics/glossary//#Q
-[226]:	https://solarsystem.nasa.gov/basics/glossary//#R
-[227]:	https://solarsystem.nasa.gov/basics/glossary//#S
-[228]:	https://solarsystem.nasa.gov/basics/glossary//#T
-[229]:	https://solarsystem.nasa.gov/basics/glossary//#U
-[230]:	https://solarsystem.nasa.gov/basics/glossary//#V
-[231]:	https://solarsystem.nasa.gov/basics/glossary//#W
-[232]:	https://solarsystem.nasa.gov/basics/glossary//#X
-[233]:	https://solarsystem.nasa.gov/basics/glossary//#Y
-[234]:	https://solarsystem.nasa.gov/basics/glossary//#Z
-[235]:	http://www.iers.org/MainDisp.csl?pid=40-25728
-[236]:	http://www.iers.org/MainDisp.csl?pid=96-107
-[237]:	http://www.iers.org/
-[238]:	https://solarsystem.nasa.gov/basics/glossary//#A
-[239]:	https://solarsystem.nasa.gov/basics/glossary//#B
-[240]:	https://solarsystem.nasa.gov/basics/glossary//#C
-[241]:	https://solarsystem.nasa.gov/basics/glossary//#D
-[242]:	https://solarsystem.nasa.gov/basics/glossary//#E
-[243]:	https://solarsystem.nasa.gov/basics/glossary//#F
-[244]:	https://solarsystem.nasa.gov/basics/glossary//#G
-[245]:	https://solarsystem.nasa.gov/basics/glossary//#H
-[246]:	https://solarsystem.nasa.gov/basics/glossary//#I
-[247]:	https://solarsystem.nasa.gov/basics/glossary//#J
-[248]:	https://solarsystem.nasa.gov/basics/glossary//#K
-[249]:	https://solarsystem.nasa.gov/basics/glossary//#L
-[250]:	https://solarsystem.nasa.gov/basics/glossary//#M
-[251]:	https://solarsystem.nasa.gov/basics/glossary//#N
-[252]:	https://solarsystem.nasa.gov/basics/glossary//#O
-[253]:	https://solarsystem.nasa.gov/basics/glossary//#P
-[254]:	https://solarsystem.nasa.gov/basics/glossary//#Q
-[255]:	https://solarsystem.nasa.gov/basics/glossary//#R
-[256]:	https://solarsystem.nasa.gov/basics/glossary//#S
-[257]:	https://solarsystem.nasa.gov/basics/glossary//#T
-[258]:	https://solarsystem.nasa.gov/basics/glossary//#U
-[259]:	https://solarsystem.nasa.gov/basics/glossary//#V
-[260]:	https://solarsystem.nasa.gov/basics/glossary//#W
-[261]:	https://solarsystem.nasa.gov/basics/glossary//#X
-[262]:	https://solarsystem.nasa.gov/basics/glossary//#Y
-[263]:	https://solarsystem.nasa.gov/basics/glossary//#Z
-[264]:	https://solarsystem.nasa.gov/basics/glossary//#A
-[265]:	https://solarsystem.nasa.gov/basics/glossary//#B
-[266]:	https://solarsystem.nasa.gov/basics/glossary//#C
-[267]:	https://solarsystem.nasa.gov/basics/glossary//#D
-[268]:	https://solarsystem.nasa.gov/basics/glossary//#E
-[269]:	https://solarsystem.nasa.gov/basics/glossary//#F
-[270]:	https://solarsystem.nasa.gov/basics/glossary//#G
-[271]:	https://solarsystem.nasa.gov/basics/glossary//#H
-[272]:	https://solarsystem.nasa.gov/basics/glossary//#I
-[273]:	https://solarsystem.nasa.gov/basics/glossary//#J
-[274]:	https://solarsystem.nasa.gov/basics/glossary//#K
-[275]:	https://solarsystem.nasa.gov/basics/glossary//#L
-[276]:	https://solarsystem.nasa.gov/basics/glossary//#M
-[277]:	https://solarsystem.nasa.gov/basics/glossary//#N
-[278]:	https://solarsystem.nasa.gov/basics/glossary//#O
-[279]:	https://solarsystem.nasa.gov/basics/glossary//#P
-[280]:	https://solarsystem.nasa.gov/basics/glossary//#Q
-[281]:	https://solarsystem.nasa.gov/basics/glossary//#R
-[282]:	https://solarsystem.nasa.gov/basics/glossary//#S
-[283]:	https://solarsystem.nasa.gov/basics/glossary//#T
-[284]:	https://solarsystem.nasa.gov/basics/glossary//#U
-[285]:	https://solarsystem.nasa.gov/basics/glossary//#V
-[286]:	https://solarsystem.nasa.gov/basics/glossary//#W
-[287]:	https://solarsystem.nasa.gov/basics/glossary//#X
-[288]:	https://solarsystem.nasa.gov/basics/glossary//#Y
-[289]:	https://solarsystem.nasa.gov/basics/glossary//#Z
-[290]:	http://physics.nist.gov/cuu/Units/units.html
-[291]:	https://solarsystem.nasa.gov/basics/glossary//chapter2-2#xy
-[292]:	http://physics.nist.gov/cuu/Units/units.html
-[293]:	https://solarsystem.nasa.gov/basics/glossary//#g
-[294]:	http://tycho.usno.navy.mil/leapsec.html
-[295]:	https://solarsystem.nasa.gov/basics/glossary//#A
-[296]:	https://solarsystem.nasa.gov/basics/glossary//#B
-[297]:	https://solarsystem.nasa.gov/basics/glossary//#C
-[298]:	https://solarsystem.nasa.gov/basics/glossary//#D
-[299]:	https://solarsystem.nasa.gov/basics/glossary//#E
-[300]:	https://solarsystem.nasa.gov/basics/glossary//#F
-[301]:	https://solarsystem.nasa.gov/basics/glossary//#G
-[302]:	https://solarsystem.nasa.gov/basics/glossary//#H
-[303]:	https://solarsystem.nasa.gov/basics/glossary//#I
-[304]:	https://solarsystem.nasa.gov/basics/glossary//#J
-[305]:	https://solarsystem.nasa.gov/basics/glossary//#K
-[306]:	https://solarsystem.nasa.gov/basics/glossary//#L
-[307]:	https://solarsystem.nasa.gov/basics/glossary//#M
-[308]:	https://solarsystem.nasa.gov/basics/glossary//#N
-[309]:	https://solarsystem.nasa.gov/basics/glossary//#O
-[310]:	https://solarsystem.nasa.gov/basics/glossary//#P
-[311]:	https://solarsystem.nasa.gov/basics/glossary//#Q
-[312]:	https://solarsystem.nasa.gov/basics/glossary//#R
-[313]:	https://solarsystem.nasa.gov/basics/glossary//#S
-[314]:	https://solarsystem.nasa.gov/basics/glossary//#T
-[315]:	https://solarsystem.nasa.gov/basics/glossary//#U
-[316]:	https://solarsystem.nasa.gov/basics/glossary//#V
-[317]:	https://solarsystem.nasa.gov/basics/glossary//#W
-[318]:	https://solarsystem.nasa.gov/basics/glossary//#X
-[319]:	https://solarsystem.nasa.gov/basics/glossary//#Y
-[320]:	https://solarsystem.nasa.gov/basics/glossary//#Z
-[321]:	https://solarsystem.nasa.gov/basics/glossary//#K
-[322]:	http://kestrel.nmt.edu/~raymond/books/radphys/book1/book1.html#x1-600006.4
-[323]:	http://www.harcourtschool.com/activity/newton/
-[324]:	http://www.physicsclassroom.com/Class/newtlaws/U2L2a.cfm
-[325]:	https://solarsystem.nasa.gov/basics/glossary//#W
-[326]:	https://solarsystem.nasa.gov/basics/glossary//#F
-[327]:	https://solarsystem.nasa.gov/basics/glossary//#A
-[328]:	http://home.netcom.com/~chip.f/viterbi/tutorial.html
-[329]:	https://solarsystem.nasa.gov/basics/glossary//chapter11-4
-[330]:	http://aa.usno.navy.mil/faq/docs/RST_defs.php
-[331]:	http://aa.usno.navy.mil/faq/docs/RST_defs.php
-[332]:	https://solarsystem.nasa.gov/basics/glossary//#A
-[333]:	https://solarsystem.nasa.gov/basics/glossary//#B
-[334]:	https://solarsystem.nasa.gov/basics/glossary//#C
-[335]:	https://solarsystem.nasa.gov/basics/glossary//#D
-[336]:	https://solarsystem.nasa.gov/basics/glossary//#E
-[337]:	https://solarsystem.nasa.gov/basics/glossary//#F
-[338]:	https://solarsystem.nasa.gov/basics/glossary//#G
-[339]:	https://solarsystem.nasa.gov/basics/glossary//#H
-[340]:	https://solarsystem.nasa.gov/basics/glossary//#I
-[341]:	https://solarsystem.nasa.gov/basics/glossary//#J
-[342]:	https://solarsystem.nasa.gov/basics/glossary//#K
-[343]:	https://solarsystem.nasa.gov/basics/glossary//#L
-[344]:	https://solarsystem.nasa.gov/basics/glossary//#M
-[345]:	https://solarsystem.nasa.gov/basics/glossary//#N
-[346]:	https://solarsystem.nasa.gov/basics/glossary//#O
-[347]:	https://solarsystem.nasa.gov/basics/glossary//#P
-[348]:	https://solarsystem.nasa.gov/basics/glossary//#Q
-[349]:	https://solarsystem.nasa.gov/basics/glossary//#R
-[350]:	https://solarsystem.nasa.gov/basics/glossary//#S
-[351]:	https://solarsystem.nasa.gov/basics/glossary//#T
-[352]:	https://solarsystem.nasa.gov/basics/glossary//#U
-[353]:	https://solarsystem.nasa.gov/basics/glossary//#V
-[354]:	https://solarsystem.nasa.gov/basics/glossary//#W
-[355]:	https://solarsystem.nasa.gov/basics/glossary//#X
-[356]:	https://solarsystem.nasa.gov/basics/glossary//#Y
-[357]:	https://solarsystem.nasa.gov/basics/glossary//#Z
-[358]:	http://aa.usno.navy.mil/faq/docs/RST_defs.php
-[359]:	http://physics.nist.gov/cuu/Units/index.html
-[360]:	https://solarsystem.nasa.gov/basics/glossary//#A
-[361]:	https://solarsystem.nasa.gov/basics/glossary//#B
-[362]:	https://solarsystem.nasa.gov/basics/glossary//#C
-[363]:	https://solarsystem.nasa.gov/basics/glossary//#D
-[364]:	https://solarsystem.nasa.gov/basics/glossary//#E
-[365]:	https://solarsystem.nasa.gov/basics/glossary//#F
-[366]:	https://solarsystem.nasa.gov/basics/glossary//#G
-[367]:	https://solarsystem.nasa.gov/basics/glossary//#H
-[368]:	https://solarsystem.nasa.gov/basics/glossary//#I
-[369]:	https://solarsystem.nasa.gov/basics/glossary//#J
-[370]:	https://solarsystem.nasa.gov/basics/glossary//#K
-[371]:	https://solarsystem.nasa.gov/basics/glossary//#L
-[372]:	https://solarsystem.nasa.gov/basics/glossary//#M
-[373]:	https://solarsystem.nasa.gov/basics/glossary//#N
-[374]:	https://solarsystem.nasa.gov/basics/glossary//#O
-[375]:	https://solarsystem.nasa.gov/basics/glossary//#P
-[376]:	https://solarsystem.nasa.gov/basics/glossary//#Q
-[377]:	https://solarsystem.nasa.gov/basics/glossary//#R
-[378]:	https://solarsystem.nasa.gov/basics/glossary//#S
-[379]:	https://solarsystem.nasa.gov/basics/glossary//#T
-[380]:	https://solarsystem.nasa.gov/basics/glossary//#U
-[381]:	https://solarsystem.nasa.gov/basics/glossary//#V
-[382]:	https://solarsystem.nasa.gov/basics/glossary//#W
-[383]:	https://solarsystem.nasa.gov/basics/glossary//#X
-[384]:	https://solarsystem.nasa.gov/basics/glossary//#Y
-[385]:	https://solarsystem.nasa.gov/basics/glossary//#Z
-[386]:	https://solarsystem.nasa.gov/basics/glossary//#A
-[387]:	https://solarsystem.nasa.gov/basics/glossary//#B
-[388]:	https://solarsystem.nasa.gov/basics/glossary//#C
-[389]:	https://solarsystem.nasa.gov/basics/glossary//#D
-[390]:	https://solarsystem.nasa.gov/basics/glossary//#E
-[391]:	https://solarsystem.nasa.gov/basics/glossary//#F
-[392]:	https://solarsystem.nasa.gov/basics/glossary//#G
-[393]:	https://solarsystem.nasa.gov/basics/glossary//#H
-[394]:	https://solarsystem.nasa.gov/basics/glossary//#I
-[395]:	https://solarsystem.nasa.gov/basics/glossary//#J
-[396]:	https://solarsystem.nasa.gov/basics/glossary//#K
-[397]:	https://solarsystem.nasa.gov/basics/glossary//#L
-[398]:	https://solarsystem.nasa.gov/basics/glossary//#M
-[399]:	https://solarsystem.nasa.gov/basics/glossary//#N
-[400]:	https://solarsystem.nasa.gov/basics/glossary//#O
-[401]:	https://solarsystem.nasa.gov/basics/glossary//#P
-[402]:	https://solarsystem.nasa.gov/basics/glossary//#Q
-[403]:	https://solarsystem.nasa.gov/basics/glossary//#R
-[404]:	https://solarsystem.nasa.gov/basics/glossary//#S
-[405]:	https://solarsystem.nasa.gov/basics/glossary//#T
-[406]:	https://solarsystem.nasa.gov/basics/glossary//#U
-[407]:	https://solarsystem.nasa.gov/basics/glossary//#V
-[408]:	https://solarsystem.nasa.gov/basics/glossary//#W
-[409]:	https://solarsystem.nasa.gov/basics/glossary//#X
-[410]:	https://solarsystem.nasa.gov/basics/glossary//#Y
-[411]:	https://solarsystem.nasa.gov/basics/glossary//#Z
-[412]:	https://solarsystem.nasa.gov/basics/glossary//#A
-[413]:	https://solarsystem.nasa.gov/basics/glossary//#B
-[414]:	https://solarsystem.nasa.gov/basics/glossary//#C
-[415]:	https://solarsystem.nasa.gov/basics/glossary//#D
-[416]:	https://solarsystem.nasa.gov/basics/glossary//#E
-[417]:	https://solarsystem.nasa.gov/basics/glossary//#F
-[418]:	https://solarsystem.nasa.gov/basics/glossary//#G
-[419]:	https://solarsystem.nasa.gov/basics/glossary//#H
-[420]:	https://solarsystem.nasa.gov/basics/glossary//#I
-[421]:	https://solarsystem.nasa.gov/basics/glossary//#J
-[422]:	https://solarsystem.nasa.gov/basics/glossary//#K
-[423]:	https://solarsystem.nasa.gov/basics/glossary//#L
-[424]:	https://solarsystem.nasa.gov/basics/glossary//#M
-[425]:	https://solarsystem.nasa.gov/basics/glossary//#N
-[426]:	https://solarsystem.nasa.gov/basics/glossary//#O
-[427]:	https://solarsystem.nasa.gov/basics/glossary//#P
-[428]:	https://solarsystem.nasa.gov/basics/glossary//#Q
-[429]:	https://solarsystem.nasa.gov/basics/glossary//#R
-[430]:	https://solarsystem.nasa.gov/basics/glossary//#S
-[431]:	https://solarsystem.nasa.gov/basics/glossary//#T
-[432]:	https://solarsystem.nasa.gov/basics/glossary//#U
-[433]:	https://solarsystem.nasa.gov/basics/glossary//#V
-[434]:	https://solarsystem.nasa.gov/basics/glossary//#W
-[435]:	https://solarsystem.nasa.gov/basics/glossary//#X
-[436]:	https://solarsystem.nasa.gov/basics/glossary//#Y
-[437]:	https://solarsystem.nasa.gov/basics/glossary//#Z
-[438]:	http://aa.usno.navy.mil/faq/docs/RST_defs.php
-[439]:	https://solarsystem.nasa.gov/basics/glossary//#A
-[440]:	https://solarsystem.nasa.gov/basics/glossary//#B
-[441]:	https://solarsystem.nasa.gov/basics/glossary//#C
-[442]:	https://solarsystem.nasa.gov/basics/glossary//#D
-[443]:	https://solarsystem.nasa.gov/basics/glossary//#E
-[444]:	https://solarsystem.nasa.gov/basics/glossary//#F
-[445]:	https://solarsystem.nasa.gov/basics/glossary//#G
-[446]:	https://solarsystem.nasa.gov/basics/glossary//#H
-[447]:	https://solarsystem.nasa.gov/basics/glossary//#I
-[448]:	https://solarsystem.nasa.gov/basics/glossary//#J
-[449]:	https://solarsystem.nasa.gov/basics/glossary//#K
-[450]:	https://solarsystem.nasa.gov/basics/glossary//#L
-[451]:	https://solarsystem.nasa.gov/basics/glossary//#M
-[452]:	https://solarsystem.nasa.gov/basics/glossary//#N
-[453]:	https://solarsystem.nasa.gov/basics/glossary//#O
-[454]:	https://solarsystem.nasa.gov/basics/glossary//#P
-[455]:	https://solarsystem.nasa.gov/basics/glossary//#Q
-[456]:	https://solarsystem.nasa.gov/basics/glossary//#R
-[457]:	https://solarsystem.nasa.gov/basics/glossary//#S
-[458]:	https://solarsystem.nasa.gov/basics/glossary//#T
-[459]:	https://solarsystem.nasa.gov/basics/glossary//#U
-[460]:	https://solarsystem.nasa.gov/basics/glossary//#V
-[461]:	https://solarsystem.nasa.gov/basics/glossary//#W
-[462]:	https://solarsystem.nasa.gov/basics/glossary//#X
-[463]:	https://solarsystem.nasa.gov/basics/glossary//#Y
-[464]:	https://solarsystem.nasa.gov/basics/glossary//#Z
-[465]:	http://physics.nist.gov/cuu/Units/units.html
-[466]:	http://physics.nist.gov/cuu/Units/second.html
-[467]:	http://physics.nist.gov/cuu/Units/units.html
-[468]:	http://physics.nist.gov/cuu/Units/second.html
-[469]:	http://aa.usno.navy.mil/faq/docs/RST_defs.php
-[470]:	http://www.jpl.nasa.gov/basics/units.php
-[471]:	http://physics.nist.gov/cuu/Units/units.html
-[472]:	http://www.jpl.nasa.gov/basics/units.php
-[473]:	http://physics.nist.gov/cuu/Units/units.html
-[474]:	http://www.jpl.nasa.gov/basics/units.php
-[475]:	http://aa.usno.navy.mil/faq/docs/RST_defs.php
-[476]:	http://aa.usno.navy.mil/faq/docs/RST_defs.php
-[477]:	https://solarsystem.nasa.gov/basics/glossary//#A
-[478]:	https://solarsystem.nasa.gov/basics/glossary//#B
-[479]:	https://solarsystem.nasa.gov/basics/glossary//#C
-[480]:	https://solarsystem.nasa.gov/basics/glossary//#D
-[481]:	https://solarsystem.nasa.gov/basics/glossary//#E
-[482]:	https://solarsystem.nasa.gov/basics/glossary//#F
-[483]:	https://solarsystem.nasa.gov/basics/glossary//#G
-[484]:	https://solarsystem.nasa.gov/basics/glossary//#H
-[485]:	https://solarsystem.nasa.gov/basics/glossary//#I
-[486]:	https://solarsystem.nasa.gov/basics/glossary//#J
-[487]:	https://solarsystem.nasa.gov/basics/glossary//#K
-[488]:	https://solarsystem.nasa.gov/basics/glossary//#L
-[489]:	https://solarsystem.nasa.gov/basics/glossary//#M
-[490]:	https://solarsystem.nasa.gov/basics/glossary//#N
-[491]:	https://solarsystem.nasa.gov/basics/glossary//#O
-[492]:	https://solarsystem.nasa.gov/basics/glossary//#P
-[493]:	https://solarsystem.nasa.gov/basics/glossary//#Q
-[494]:	https://solarsystem.nasa.gov/basics/glossary//#R
-[495]:	https://solarsystem.nasa.gov/basics/glossary//#S
-[496]:	https://solarsystem.nasa.gov/basics/glossary//#T
-[497]:	https://solarsystem.nasa.gov/basics/glossary//#U
-[498]:	https://solarsystem.nasa.gov/basics/glossary//#V
-[499]:	https://solarsystem.nasa.gov/basics/glossary//#W
-[500]:	https://solarsystem.nasa.gov/basics/glossary//#X
-[501]:	https://solarsystem.nasa.gov/basics/glossary//#Y
-[502]:	https://solarsystem.nasa.gov/basics/glossary//#Z
-[503]:	http://aa.usno.navy.mil/faq/docs/RST_defs.php
-[504]:	http://aa.usno.navy.mil/faq/docs/RST_defs.php
-[505]:	https://solarsystem.nasa.gov/basics/glossary//#coherent
-[506]:	https://solarsystem.nasa.gov/basics/glossary//#A
-[507]:	https://solarsystem.nasa.gov/basics/glossary//#B
-[508]:	https://solarsystem.nasa.gov/basics/glossary//#C
-[509]:	https://solarsystem.nasa.gov/basics/glossary//#D
-[510]:	https://solarsystem.nasa.gov/basics/glossary//#E
-[511]:	https://solarsystem.nasa.gov/basics/glossary//#F
-[512]:	https://solarsystem.nasa.gov/basics/glossary//#G
-[513]:	https://solarsystem.nasa.gov/basics/glossary//#H
-[514]:	https://solarsystem.nasa.gov/basics/glossary//#I
-[515]:	https://solarsystem.nasa.gov/basics/glossary//#J
-[516]:	https://solarsystem.nasa.gov/basics/glossary//#K
-[517]:	https://solarsystem.nasa.gov/basics/glossary//#L
-[518]:	https://solarsystem.nasa.gov/basics/glossary//#M
-[519]:	https://solarsystem.nasa.gov/basics/glossary//#N
-[520]:	https://solarsystem.nasa.gov/basics/glossary//#O
-[521]:	https://solarsystem.nasa.gov/basics/glossary//#P
-[522]:	https://solarsystem.nasa.gov/basics/glossary//#Q
-[523]:	https://solarsystem.nasa.gov/basics/glossary//#R
-[524]:	https://solarsystem.nasa.gov/basics/glossary//#S
-[525]:	https://solarsystem.nasa.gov/basics/glossary//#T
-[526]:	https://solarsystem.nasa.gov/basics/glossary//#U
-[527]:	https://solarsystem.nasa.gov/basics/glossary//#V
-[528]:	https://solarsystem.nasa.gov/basics/glossary//#W
-[529]:	https://solarsystem.nasa.gov/basics/glossary//#X
-[530]:	https://solarsystem.nasa.gov/basics/glossary//#Y
-[531]:	https://solarsystem.nasa.gov/basics/glossary//#Z
-[532]:	https://solarsystem.nasa.gov/basics/glossary//chapter2-3
-[533]:	http://tycho.usno.navy.mil/systime.html
-[534]:	https://solarsystem.nasa.gov/basics/glossary//#A
-[535]:	https://solarsystem.nasa.gov/basics/glossary//#B
-[536]:	https://solarsystem.nasa.gov/basics/glossary//#C
-[537]:	https://solarsystem.nasa.gov/basics/glossary//#D
-[538]:	https://solarsystem.nasa.gov/basics/glossary//#E
-[539]:	https://solarsystem.nasa.gov/basics/glossary//#F
-[540]:	https://solarsystem.nasa.gov/basics/glossary//#G
-[541]:	https://solarsystem.nasa.gov/basics/glossary//#H
-[542]:	https://solarsystem.nasa.gov/basics/glossary//#I
-[543]:	https://solarsystem.nasa.gov/basics/glossary//#J
-[544]:	https://solarsystem.nasa.gov/basics/glossary//#K
-[545]:	https://solarsystem.nasa.gov/basics/glossary//#L
-[546]:	https://solarsystem.nasa.gov/basics/glossary//#M
-[547]:	https://solarsystem.nasa.gov/basics/glossary//#N
-[548]:	https://solarsystem.nasa.gov/basics/glossary//#O
-[549]:	https://solarsystem.nasa.gov/basics/glossary//#P
-[550]:	https://solarsystem.nasa.gov/basics/glossary//#Q
-[551]:	https://solarsystem.nasa.gov/basics/glossary//#R
-[552]:	https://solarsystem.nasa.gov/basics/glossary//#S
-[553]:	https://solarsystem.nasa.gov/basics/glossary//#T
-[554]:	https://solarsystem.nasa.gov/basics/glossary//#U
-[555]:	https://solarsystem.nasa.gov/basics/glossary//#V
-[556]:	https://solarsystem.nasa.gov/basics/glossary//#W
-[557]:	https://solarsystem.nasa.gov/basics/glossary//#X
-[558]:	https://solarsystem.nasa.gov/basics/glossary//#Y
-[559]:	https://solarsystem.nasa.gov/basics/glossary//#Z
-[560]:	http://www.iers.org/MainDisp.csl?pid=99-121
-[561]:	https://solarsystem.nasa.gov/basics/glossary//#A
-[562]:	https://solarsystem.nasa.gov/basics/glossary//#B
-[563]:	https://solarsystem.nasa.gov/basics/glossary//#C
-[564]:	https://solarsystem.nasa.gov/basics/glossary//#D
-[565]:	https://solarsystem.nasa.gov/basics/glossary//#E
-[566]:	https://solarsystem.nasa.gov/basics/glossary//#F
-[567]:	https://solarsystem.nasa.gov/basics/glossary//#G
-[568]:	https://solarsystem.nasa.gov/basics/glossary//#H
-[569]:	https://solarsystem.nasa.gov/basics/glossary//#I
-[570]:	https://solarsystem.nasa.gov/basics/glossary//#J
-[571]:	https://solarsystem.nasa.gov/basics/glossary//#K
-[572]:	https://solarsystem.nasa.gov/basics/glossary//#L
-[573]:	https://solarsystem.nasa.gov/basics/glossary//#M
-[574]:	https://solarsystem.nasa.gov/basics/glossary//#N
-[575]:	https://solarsystem.nasa.gov/basics/glossary//#O
-[576]:	https://solarsystem.nasa.gov/basics/glossary//#P
-[577]:	https://solarsystem.nasa.gov/basics/glossary//#Q
-[578]:	https://solarsystem.nasa.gov/basics/glossary//#R
-[579]:	https://solarsystem.nasa.gov/basics/glossary//#S
-[580]:	https://solarsystem.nasa.gov/basics/glossary//#T
-[581]:	https://solarsystem.nasa.gov/basics/glossary//#U
-[582]:	https://solarsystem.nasa.gov/basics/glossary//#V
-[583]:	https://solarsystem.nasa.gov/basics/glossary//#W
-[584]:	https://solarsystem.nasa.gov/basics/glossary//#X
-[585]:	https://solarsystem.nasa.gov/basics/glossary//#Y
-[586]:	https://solarsystem.nasa.gov/basics/glossary//#Z
-[587]:	https://solarsystem.nasa.gov/basics/glossary//#g
-[588]:	https://solarsystem.nasa.gov/basics/glossary//#A
-[589]:	https://solarsystem.nasa.gov/basics/glossary//#B
-[590]:	https://solarsystem.nasa.gov/basics/glossary//#C
-[591]:	https://solarsystem.nasa.gov/basics/glossary//#D
-[592]:	https://solarsystem.nasa.gov/basics/glossary//#E
-[593]:	https://solarsystem.nasa.gov/basics/glossary//#F
-[594]:	https://solarsystem.nasa.gov/basics/glossary//#G
-[595]:	https://solarsystem.nasa.gov/basics/glossary//#H
-[596]:	https://solarsystem.nasa.gov/basics/glossary//#I
-[597]:	https://solarsystem.nasa.gov/basics/glossary//#J
-[598]:	https://solarsystem.nasa.gov/basics/glossary//#K
-[599]:	https://solarsystem.nasa.gov/basics/glossary//#L
-[600]:	https://solarsystem.nasa.gov/basics/glossary//#M
-[601]:	https://solarsystem.nasa.gov/basics/glossary//#N
-[602]:	https://solarsystem.nasa.gov/basics/glossary//#O
-[603]:	https://solarsystem.nasa.gov/basics/glossary//#P
-[604]:	https://solarsystem.nasa.gov/basics/glossary//#Q
-[605]:	https://solarsystem.nasa.gov/basics/glossary//#R
-[606]:	https://solarsystem.nasa.gov/basics/glossary//#S
-[607]:	https://solarsystem.nasa.gov/basics/glossary//#T
-[608]:	https://solarsystem.nasa.gov/basics/glossary//#U
-[609]:	https://solarsystem.nasa.gov/basics/glossary//#V
-[610]:	https://solarsystem.nasa.gov/basics/glossary//#W
-[611]:	https://solarsystem.nasa.gov/basics/glossary//#X
-[612]:	https://solarsystem.nasa.gov/basics/glossary//#Y
-[613]:	https://solarsystem.nasa.gov/basics/glossary//#Z
+[1]: http://www.harcourtschool.com/activity/newton/
+[2]: http://www.physicsclassroom.com/Class/newtlaws/u2l3a.html#Second
+[3]: http://kestrel.nmt.edu/~raymond/books/radphys/book1/book1.html#x1-600006.4
+[4]: http://physics.nist.gov/cuu/Units/units.html
+[5]: https://solarsystem.nasa.gov/basics/glossary//#V
+[6]: https://solarsystem.nasa.gov/basics/glossary//chapter1-3#neo
+[7]: https://solarsystem.nasa.gov/basics/glossary//chapter1-3#neo
+[8]: https://solarsystem.nasa.gov/basics/glossary//chapter1-3#neo
+[9]: http://aa.usno.navy.mil/faq/docs/RST_defs.php
+[10]: https://solarsystem.nasa.gov/basics/glossary//#A
+[11]: https://solarsystem.nasa.gov/basics/glossary//#B
+[12]: https://solarsystem.nasa.gov/basics/glossary//#C
+[13]: https://solarsystem.nasa.gov/basics/glossary//#D
+[14]: https://solarsystem.nasa.gov/basics/glossary//#E
+[15]: https://solarsystem.nasa.gov/basics/glossary//#F
+[16]: https://solarsystem.nasa.gov/basics/glossary//#G
+[17]: https://solarsystem.nasa.gov/basics/glossary//#H
+[18]: https://solarsystem.nasa.gov/basics/glossary//#I
+[19]: https://solarsystem.nasa.gov/basics/glossary//#J
+[20]: https://solarsystem.nasa.gov/basics/glossary//#K
+[21]: https://solarsystem.nasa.gov/basics/glossary//#L
+[22]: https://solarsystem.nasa.gov/basics/glossary//#M
+[23]: https://solarsystem.nasa.gov/basics/glossary//#N
+[24]: https://solarsystem.nasa.gov/basics/glossary//#O
+[25]: https://solarsystem.nasa.gov/basics/glossary//#P
+[26]: https://solarsystem.nasa.gov/basics/glossary//#Q
+[27]: https://solarsystem.nasa.gov/basics/glossary//#R
+[28]: https://solarsystem.nasa.gov/basics/glossary//#S
+[29]: https://solarsystem.nasa.gov/basics/glossary//#T
+[30]: https://solarsystem.nasa.gov/basics/glossary//#U
+[31]: https://solarsystem.nasa.gov/basics/glossary//#V
+[32]: https://solarsystem.nasa.gov/basics/glossary//#W
+[33]: https://solarsystem.nasa.gov/basics/glossary//#X
+[34]: https://solarsystem.nasa.gov/basics/glossary//#Y
+[35]: https://solarsystem.nasa.gov/basics/glossary//#Z
+[36]: https://solarsystem.nasa.gov/basics/glossary//#D
+[37]: https://solarsystem.nasa.gov/basics/glossary//#A
+[38]: https://solarsystem.nasa.gov/basics/glossary//#B
+[39]: https://solarsystem.nasa.gov/basics/glossary//#C
+[40]: https://solarsystem.nasa.gov/basics/glossary//#D
+[41]: https://solarsystem.nasa.gov/basics/glossary//#E
+[42]: https://solarsystem.nasa.gov/basics/glossary//#F
+[43]: https://solarsystem.nasa.gov/basics/glossary//#G
+[44]: https://solarsystem.nasa.gov/basics/glossary//#H
+[45]: https://solarsystem.nasa.gov/basics/glossary//#I
+[46]: https://solarsystem.nasa.gov/basics/glossary//#J
+[47]: https://solarsystem.nasa.gov/basics/glossary//#K
+[48]: https://solarsystem.nasa.gov/basics/glossary//#L
+[49]: https://solarsystem.nasa.gov/basics/glossary//#M
+[50]: https://solarsystem.nasa.gov/basics/glossary//#N
+[51]: https://solarsystem.nasa.gov/basics/glossary//#O
+[52]: https://solarsystem.nasa.gov/basics/glossary//#P
+[53]: https://solarsystem.nasa.gov/basics/glossary//#Q
+[54]: https://solarsystem.nasa.gov/basics/glossary//#R
+[55]: https://solarsystem.nasa.gov/basics/glossary//#S
+[56]: https://solarsystem.nasa.gov/basics/glossary//#T
+[57]: https://solarsystem.nasa.gov/basics/glossary//#U
+[58]: https://solarsystem.nasa.gov/basics/glossary//#V
+[59]: https://solarsystem.nasa.gov/basics/glossary//#W
+[60]: https://solarsystem.nasa.gov/basics/glossary//#X
+[61]: https://solarsystem.nasa.gov/basics/glossary//#Y
+[62]: https://solarsystem.nasa.gov/basics/glossary//#Z
+[63]: http://aa.usno.navy.mil/faq/docs/RST_defs.php
+[64]: https://solarsystem.nasa.gov/basics/glossary//#A
+[65]: https://solarsystem.nasa.gov/basics/glossary//#B
+[66]: https://solarsystem.nasa.gov/basics/glossary//#C
+[67]: https://solarsystem.nasa.gov/basics/glossary//#D
+[68]: https://solarsystem.nasa.gov/basics/glossary//#E
+[69]: https://solarsystem.nasa.gov/basics/glossary//#F
+[70]: https://solarsystem.nasa.gov/basics/glossary//#G
+[71]: https://solarsystem.nasa.gov/basics/glossary//#H
+[72]: https://solarsystem.nasa.gov/basics/glossary//#I
+[73]: https://solarsystem.nasa.gov/basics/glossary//#J
+[74]: https://solarsystem.nasa.gov/basics/glossary//#K
+[75]: https://solarsystem.nasa.gov/basics/glossary//#L
+[76]: https://solarsystem.nasa.gov/basics/glossary//#M
+[77]: https://solarsystem.nasa.gov/basics/glossary//#N
+[78]: https://solarsystem.nasa.gov/basics/glossary//#O
+[79]: https://solarsystem.nasa.gov/basics/glossary//#P
+[80]: https://solarsystem.nasa.gov/basics/glossary//#Q
+[81]: https://solarsystem.nasa.gov/basics/glossary//#R
+[82]: https://solarsystem.nasa.gov/basics/glossary//#S
+[83]: https://solarsystem.nasa.gov/basics/glossary//#T
+[84]: https://solarsystem.nasa.gov/basics/glossary//#U
+[85]: https://solarsystem.nasa.gov/basics/glossary//#V
+[86]: https://solarsystem.nasa.gov/basics/glossary//#W
+[87]: https://solarsystem.nasa.gov/basics/glossary//#X
+[88]: https://solarsystem.nasa.gov/basics/glossary//#Y
+[89]: https://solarsystem.nasa.gov/basics/glossary//#Z
+[90]: https://solarsystem.nasa.gov/basics/glossary//chapter6-2#db
+[91]: https://solarsystem.nasa.gov/basics/glossary//chapter6-2#db
+[92]: http://physics.nist.gov/Pubs/SP811/sec08.html#8.7
+[93]: http://hyperphysics.phy-astr.gsu.edu/hbase/dens.html#dens
+[94]: https://solarsystem.nasa.gov/basics/glossary//chapter6-4
+[95]: http://tycho.usno.navy.mil/systime.html
+[96]: https://solarsystem.nasa.gov/basics/glossary//#A
+[97]: https://solarsystem.nasa.gov/basics/glossary//#B
+[98]: https://solarsystem.nasa.gov/basics/glossary//#C
+[99]: https://solarsystem.nasa.gov/basics/glossary//#D
+[100]: https://solarsystem.nasa.gov/basics/glossary//#E
+[101]: https://solarsystem.nasa.gov/basics/glossary//#F
+[102]: https://solarsystem.nasa.gov/basics/glossary//#G
+[103]: https://solarsystem.nasa.gov/basics/glossary//#H
+[104]: https://solarsystem.nasa.gov/basics/glossary//#I
+[105]: https://solarsystem.nasa.gov/basics/glossary//#J
+[106]: https://solarsystem.nasa.gov/basics/glossary//#K
+[107]: https://solarsystem.nasa.gov/basics/glossary//#L
+[108]: https://solarsystem.nasa.gov/basics/glossary//#M
+[109]: https://solarsystem.nasa.gov/basics/glossary//#N
+[110]: https://solarsystem.nasa.gov/basics/glossary//#O
+[111]: https://solarsystem.nasa.gov/basics/glossary//#P
+[112]: https://solarsystem.nasa.gov/basics/glossary//#Q
+[113]: https://solarsystem.nasa.gov/basics/glossary//#R
+[114]: https://solarsystem.nasa.gov/basics/glossary//#S
+[115]: https://solarsystem.nasa.gov/basics/glossary//#T
+[116]: https://solarsystem.nasa.gov/basics/glossary//#U
+[117]: https://solarsystem.nasa.gov/basics/glossary//#V
+[118]: https://solarsystem.nasa.gov/basics/glossary//#W
+[119]: https://solarsystem.nasa.gov/basics/glossary//#X
+[120]: https://solarsystem.nasa.gov/basics/glossary//#Y
+[121]: https://solarsystem.nasa.gov/basics/glossary//#Z
+[122]: https://solarsystem.nasa.gov/basics/glossary//#A
+[123]: https://solarsystem.nasa.gov/basics/glossary//#B
+[124]: https://solarsystem.nasa.gov/basics/glossary//#C
+[125]: https://solarsystem.nasa.gov/basics/glossary//#D
+[126]: https://solarsystem.nasa.gov/basics/glossary//#E
+[127]: https://solarsystem.nasa.gov/basics/glossary//#F
+[128]: https://solarsystem.nasa.gov/basics/glossary//#G
+[129]: https://solarsystem.nasa.gov/basics/glossary//#H
+[130]: https://solarsystem.nasa.gov/basics/glossary//#I
+[131]: https://solarsystem.nasa.gov/basics/glossary//#J
+[132]: https://solarsystem.nasa.gov/basics/glossary//#K
+[133]: https://solarsystem.nasa.gov/basics/glossary//#L
+[134]: https://solarsystem.nasa.gov/basics/glossary//#M
+[135]: https://solarsystem.nasa.gov/basics/glossary//#N
+[136]: https://solarsystem.nasa.gov/basics/glossary//#O
+[137]: https://solarsystem.nasa.gov/basics/glossary//#P
+[138]: https://solarsystem.nasa.gov/basics/glossary//#Q
+[139]: https://solarsystem.nasa.gov/basics/glossary//#R
+[140]: https://solarsystem.nasa.gov/basics/glossary//#S
+[141]: https://solarsystem.nasa.gov/basics/glossary//#T
+[142]: https://solarsystem.nasa.gov/basics/glossary//#U
+[143]: https://solarsystem.nasa.gov/basics/glossary//#V
+[144]: https://solarsystem.nasa.gov/basics/glossary//#W
+[145]: https://solarsystem.nasa.gov/basics/glossary//#X
+[146]: https://solarsystem.nasa.gov/basics/glossary//#Y
+[147]: https://solarsystem.nasa.gov/basics/glossary//#Z
+[148]: https://solarsystem.nasa.gov/basics/glossary//#N
+[149]: https://solarsystem.nasa.gov/basics/glossary//#D
+[150]: http://www.harcourtschool.com/activity/newton/
+[151]: http://www.math.montana.edu/frankw/ccp/units/force-acceleration/body.htm
+[152]: https://solarsystem.nasa.gov/basics/glossary//#A
+[153]: https://solarsystem.nasa.gov/basics/glossary//#B
+[154]: https://solarsystem.nasa.gov/basics/glossary//#C
+[155]: https://solarsystem.nasa.gov/basics/glossary//#D
+[156]: https://solarsystem.nasa.gov/basics/glossary//#E
+[157]: https://solarsystem.nasa.gov/basics/glossary//#F
+[158]: https://solarsystem.nasa.gov/basics/glossary//#G
+[159]: https://solarsystem.nasa.gov/basics/glossary//#H
+[160]: https://solarsystem.nasa.gov/basics/glossary//#I
+[161]: https://solarsystem.nasa.gov/basics/glossary//#J
+[162]: https://solarsystem.nasa.gov/basics/glossary//#K
+[163]: https://solarsystem.nasa.gov/basics/glossary//#L
+[164]: https://solarsystem.nasa.gov/basics/glossary//#M
+[165]: https://solarsystem.nasa.gov/basics/glossary//#N
+[166]: https://solarsystem.nasa.gov/basics/glossary//#O
+[167]: https://solarsystem.nasa.gov/basics/glossary//#P
+[168]: https://solarsystem.nasa.gov/basics/glossary//#Q
+[169]: https://solarsystem.nasa.gov/basics/glossary//#R
+[170]: https://solarsystem.nasa.gov/basics/glossary//#S
+[171]: https://solarsystem.nasa.gov/basics/glossary//#T
+[172]: https://solarsystem.nasa.gov/basics/glossary//#U
+[173]: https://solarsystem.nasa.gov/basics/glossary//#V
+[174]: https://solarsystem.nasa.gov/basics/glossary//#W
+[175]: https://solarsystem.nasa.gov/basics/glossary//#X
+[176]: https://solarsystem.nasa.gov/basics/glossary//#Y
+[177]: https://solarsystem.nasa.gov/basics/glossary//#Z
+[178]: http://csep10.phys.utk.edu/astr161/lect/history/newtongrav.html
+[179]: https://solarsystem.nasa.gov/basics/glossary//#W
+[180]: https://solarsystem.nasa.gov/basics/glossary//#K
+[181]: https://solarsystem.nasa.gov/basics/glossary//#W
+[182]: https://solarsystem.nasa.gov/basics/glossary//#A
+[183]: https://solarsystem.nasa.gov/basics/glossary//#B
+[184]: https://solarsystem.nasa.gov/basics/glossary//#C
+[185]: https://solarsystem.nasa.gov/basics/glossary//#D
+[186]: https://solarsystem.nasa.gov/basics/glossary//#E
+[187]: https://solarsystem.nasa.gov/basics/glossary//#F
+[188]: https://solarsystem.nasa.gov/basics/glossary//#G
+[189]: https://solarsystem.nasa.gov/basics/glossary//#H
+[190]: https://solarsystem.nasa.gov/basics/glossary//#I
+[191]: https://solarsystem.nasa.gov/basics/glossary//#J
+[192]: https://solarsystem.nasa.gov/basics/glossary//#K
+[193]: https://solarsystem.nasa.gov/basics/glossary//#L
+[194]: https://solarsystem.nasa.gov/basics/glossary//#M
+[195]: https://solarsystem.nasa.gov/basics/glossary//#N
+[196]: https://solarsystem.nasa.gov/basics/glossary//#O
+[197]: https://solarsystem.nasa.gov/basics/glossary//#P
+[198]: https://solarsystem.nasa.gov/basics/glossary//#Q
+[199]: https://solarsystem.nasa.gov/basics/glossary//#R
+[200]: https://solarsystem.nasa.gov/basics/glossary//#S
+[201]: https://solarsystem.nasa.gov/basics/glossary//#T
+[202]: https://solarsystem.nasa.gov/basics/glossary//#U
+[203]: https://solarsystem.nasa.gov/basics/glossary//#V
+[204]: https://solarsystem.nasa.gov/basics/glossary//#W
+[205]: https://solarsystem.nasa.gov/basics/glossary//#X
+[206]: https://solarsystem.nasa.gov/basics/glossary//#Y
+[207]: https://solarsystem.nasa.gov/basics/glossary//#Z
+[208]: http://aa.usno.navy.mil/faq/docs/RST_defs.php
+[209]: https://solarsystem.nasa.gov/basics/glossary//#A
+[210]: https://solarsystem.nasa.gov/basics/glossary//#B
+[211]: https://solarsystem.nasa.gov/basics/glossary//#C
+[212]: https://solarsystem.nasa.gov/basics/glossary//#D
+[213]: https://solarsystem.nasa.gov/basics/glossary//#E
+[214]: https://solarsystem.nasa.gov/basics/glossary//#F
+[215]: https://solarsystem.nasa.gov/basics/glossary//#G
+[216]: https://solarsystem.nasa.gov/basics/glossary//#H
+[217]: https://solarsystem.nasa.gov/basics/glossary//#I
+[218]: https://solarsystem.nasa.gov/basics/glossary//#J
+[219]: https://solarsystem.nasa.gov/basics/glossary//#K
+[220]: https://solarsystem.nasa.gov/basics/glossary//#L
+[221]: https://solarsystem.nasa.gov/basics/glossary//#M
+[222]: https://solarsystem.nasa.gov/basics/glossary//#N
+[223]: https://solarsystem.nasa.gov/basics/glossary//#O
+[224]: https://solarsystem.nasa.gov/basics/glossary//#P
+[225]: https://solarsystem.nasa.gov/basics/glossary//#Q
+[226]: https://solarsystem.nasa.gov/basics/glossary//#R
+[227]: https://solarsystem.nasa.gov/basics/glossary//#S
+[228]: https://solarsystem.nasa.gov/basics/glossary//#T
+[229]: https://solarsystem.nasa.gov/basics/glossary//#U
+[230]: https://solarsystem.nasa.gov/basics/glossary//#V
+[231]: https://solarsystem.nasa.gov/basics/glossary//#W
+[232]: https://solarsystem.nasa.gov/basics/glossary//#X
+[233]: https://solarsystem.nasa.gov/basics/glossary//#Y
+[234]: https://solarsystem.nasa.gov/basics/glossary//#Z
+[235]: http://www.iers.org/MainDisp.csl?pid=40-25728
+[236]: http://www.iers.org/MainDisp.csl?pid=96-107
+[237]: http://www.iers.org/
+[238]: https://solarsystem.nasa.gov/basics/glossary//#A
+[239]: https://solarsystem.nasa.gov/basics/glossary//#B
+[240]: https://solarsystem.nasa.gov/basics/glossary//#C
+[241]: https://solarsystem.nasa.gov/basics/glossary//#D
+[242]: https://solarsystem.nasa.gov/basics/glossary//#E
+[243]: https://solarsystem.nasa.gov/basics/glossary//#F
+[244]: https://solarsystem.nasa.gov/basics/glossary//#G
+[245]: https://solarsystem.nasa.gov/basics/glossary//#H
+[246]: https://solarsystem.nasa.gov/basics/glossary//#I
+[247]: https://solarsystem.nasa.gov/basics/glossary//#J
+[248]: https://solarsystem.nasa.gov/basics/glossary//#K
+[249]: https://solarsystem.nasa.gov/basics/glossary//#L
+[250]: https://solarsystem.nasa.gov/basics/glossary//#M
+[251]: https://solarsystem.nasa.gov/basics/glossary//#N
+[252]: https://solarsystem.nasa.gov/basics/glossary//#O
+[253]: https://solarsystem.nasa.gov/basics/glossary//#P
+[254]: https://solarsystem.nasa.gov/basics/glossary//#Q
+[255]: https://solarsystem.nasa.gov/basics/glossary//#R
+[256]: https://solarsystem.nasa.gov/basics/glossary//#S
+[257]: https://solarsystem.nasa.gov/basics/glossary//#T
+[258]: https://solarsystem.nasa.gov/basics/glossary//#U
+[259]: https://solarsystem.nasa.gov/basics/glossary//#V
+[260]: https://solarsystem.nasa.gov/basics/glossary//#W
+[261]: https://solarsystem.nasa.gov/basics/glossary//#X
+[262]: https://solarsystem.nasa.gov/basics/glossary//#Y
+[263]: https://solarsystem.nasa.gov/basics/glossary//#Z
+[264]: https://solarsystem.nasa.gov/basics/glossary//#A
+[265]: https://solarsystem.nasa.gov/basics/glossary//#B
+[266]: https://solarsystem.nasa.gov/basics/glossary//#C
+[267]: https://solarsystem.nasa.gov/basics/glossary//#D
+[268]: https://solarsystem.nasa.gov/basics/glossary//#E
+[269]: https://solarsystem.nasa.gov/basics/glossary//#F
+[270]: https://solarsystem.nasa.gov/basics/glossary//#G
+[271]: https://solarsystem.nasa.gov/basics/glossary//#H
+[272]: https://solarsystem.nasa.gov/basics/glossary//#I
+[273]: https://solarsystem.nasa.gov/basics/glossary//#J
+[274]: https://solarsystem.nasa.gov/basics/glossary//#K
+[275]: https://solarsystem.nasa.gov/basics/glossary//#L
+[276]: https://solarsystem.nasa.gov/basics/glossary//#M
+[277]: https://solarsystem.nasa.gov/basics/glossary//#N
+[278]: https://solarsystem.nasa.gov/basics/glossary//#O
+[279]: https://solarsystem.nasa.gov/basics/glossary//#P
+[280]: https://solarsystem.nasa.gov/basics/glossary//#Q
+[281]: https://solarsystem.nasa.gov/basics/glossary//#R
+[282]: https://solarsystem.nasa.gov/basics/glossary//#S
+[283]: https://solarsystem.nasa.gov/basics/glossary//#T
+[284]: https://solarsystem.nasa.gov/basics/glossary//#U
+[285]: https://solarsystem.nasa.gov/basics/glossary//#V
+[286]: https://solarsystem.nasa.gov/basics/glossary//#W
+[287]: https://solarsystem.nasa.gov/basics/glossary//#X
+[288]: https://solarsystem.nasa.gov/basics/glossary//#Y
+[289]: https://solarsystem.nasa.gov/basics/glossary//#Z
+[290]: http://physics.nist.gov/cuu/Units/units.html
+[291]: https://solarsystem.nasa.gov/basics/glossary//chapter2-2#xy
+[292]: http://physics.nist.gov/cuu/Units/units.html
+[293]: https://solarsystem.nasa.gov/basics/glossary//#g
+[294]: http://tycho.usno.navy.mil/leapsec.html
+[295]: https://solarsystem.nasa.gov/basics/glossary//#A
+[296]: https://solarsystem.nasa.gov/basics/glossary//#B
+[297]: https://solarsystem.nasa.gov/basics/glossary//#C
+[298]: https://solarsystem.nasa.gov/basics/glossary//#D
+[299]: https://solarsystem.nasa.gov/basics/glossary//#E
+[300]: https://solarsystem.nasa.gov/basics/glossary//#F
+[301]: https://solarsystem.nasa.gov/basics/glossary//#G
+[302]: https://solarsystem.nasa.gov/basics/glossary//#H
+[303]: https://solarsystem.nasa.gov/basics/glossary//#I
+[304]: https://solarsystem.nasa.gov/basics/glossary//#J
+[305]: https://solarsystem.nasa.gov/basics/glossary//#K
+[306]: https://solarsystem.nasa.gov/basics/glossary//#L
+[307]: https://solarsystem.nasa.gov/basics/glossary//#M
+[308]: https://solarsystem.nasa.gov/basics/glossary//#N
+[309]: https://solarsystem.nasa.gov/basics/glossary//#O
+[310]: https://solarsystem.nasa.gov/basics/glossary//#P
+[311]: https://solarsystem.nasa.gov/basics/glossary//#Q
+[312]: https://solarsystem.nasa.gov/basics/glossary//#R
+[313]: https://solarsystem.nasa.gov/basics/glossary//#S
+[314]: https://solarsystem.nasa.gov/basics/glossary//#T
+[315]: https://solarsystem.nasa.gov/basics/glossary//#U
+[316]: https://solarsystem.nasa.gov/basics/glossary//#V
+[317]: https://solarsystem.nasa.gov/basics/glossary//#W
+[318]: https://solarsystem.nasa.gov/basics/glossary//#X
+[319]: https://solarsystem.nasa.gov/basics/glossary//#Y
+[320]: https://solarsystem.nasa.gov/basics/glossary//#Z
+[321]: https://solarsystem.nasa.gov/basics/glossary//#K
+[322]: http://kestrel.nmt.edu/~raymond/books/radphys/book1/book1.html#x1-600006.4
+[323]: http://www.harcourtschool.com/activity/newton/
+[324]: http://www.physicsclassroom.com/Class/newtlaws/U2L2a.cfm
+[325]: https://solarsystem.nasa.gov/basics/glossary//#W
+[326]: https://solarsystem.nasa.gov/basics/glossary//#F
+[327]: https://solarsystem.nasa.gov/basics/glossary//#A
+[328]: http://home.netcom.com/~chip.f/viterbi/tutorial.html
+[329]: https://solarsystem.nasa.gov/basics/glossary//chapter11-4
+[330]: http://aa.usno.navy.mil/faq/docs/RST_defs.php
+[331]: http://aa.usno.navy.mil/faq/docs/RST_defs.php
+[332]: https://solarsystem.nasa.gov/basics/glossary//#A
+[333]: https://solarsystem.nasa.gov/basics/glossary//#B
+[334]: https://solarsystem.nasa.gov/basics/glossary//#C
+[335]: https://solarsystem.nasa.gov/basics/glossary//#D
+[336]: https://solarsystem.nasa.gov/basics/glossary//#E
+[337]: https://solarsystem.nasa.gov/basics/glossary//#F
+[338]: https://solarsystem.nasa.gov/basics/glossary//#G
+[339]: https://solarsystem.nasa.gov/basics/glossary//#H
+[340]: https://solarsystem.nasa.gov/basics/glossary//#I
+[341]: https://solarsystem.nasa.gov/basics/glossary//#J
+[342]: https://solarsystem.nasa.gov/basics/glossary//#K
+[343]: https://solarsystem.nasa.gov/basics/glossary//#L
+[344]: https://solarsystem.nasa.gov/basics/glossary//#M
+[345]: https://solarsystem.nasa.gov/basics/glossary//#N
+[346]: https://solarsystem.nasa.gov/basics/glossary//#O
+[347]: https://solarsystem.nasa.gov/basics/glossary//#P
+[348]: https://solarsystem.nasa.gov/basics/glossary//#Q
+[349]: https://solarsystem.nasa.gov/basics/glossary//#R
+[350]: https://solarsystem.nasa.gov/basics/glossary//#S
+[351]: https://solarsystem.nasa.gov/basics/glossary//#T
+[352]: https://solarsystem.nasa.gov/basics/glossary//#U
+[353]: https://solarsystem.nasa.gov/basics/glossary//#V
+[354]: https://solarsystem.nasa.gov/basics/glossary//#W
+[355]: https://solarsystem.nasa.gov/basics/glossary//#X
+[356]: https://solarsystem.nasa.gov/basics/glossary//#Y
+[357]: https://solarsystem.nasa.gov/basics/glossary//#Z
+[358]: http://aa.usno.navy.mil/faq/docs/RST_defs.php
+[359]: http://physics.nist.gov/cuu/Units/index.html
+[360]: https://solarsystem.nasa.gov/basics/glossary//#A
+[361]: https://solarsystem.nasa.gov/basics/glossary//#B
+[362]: https://solarsystem.nasa.gov/basics/glossary//#C
+[363]: https://solarsystem.nasa.gov/basics/glossary//#D
+[364]: https://solarsystem.nasa.gov/basics/glossary//#E
+[365]: https://solarsystem.nasa.gov/basics/glossary//#F
+[366]: https://solarsystem.nasa.gov/basics/glossary//#G
+[367]: https://solarsystem.nasa.gov/basics/glossary//#H
+[368]: https://solarsystem.nasa.gov/basics/glossary//#I
+[369]: https://solarsystem.nasa.gov/basics/glossary//#J
+[370]: https://solarsystem.nasa.gov/basics/glossary//#K
+[371]: https://solarsystem.nasa.gov/basics/glossary//#L
+[372]: https://solarsystem.nasa.gov/basics/glossary//#M
+[373]: https://solarsystem.nasa.gov/basics/glossary//#N
+[374]: https://solarsystem.nasa.gov/basics/glossary//#O
+[375]: https://solarsystem.nasa.gov/basics/glossary//#P
+[376]: https://solarsystem.nasa.gov/basics/glossary//#Q
+[377]: https://solarsystem.nasa.gov/basics/glossary//#R
+[378]: https://solarsystem.nasa.gov/basics/glossary//#S
+[379]: https://solarsystem.nasa.gov/basics/glossary//#T
+[380]: https://solarsystem.nasa.gov/basics/glossary//#U
+[381]: https://solarsystem.nasa.gov/basics/glossary//#V
+[382]: https://solarsystem.nasa.gov/basics/glossary//#W
+[383]: https://solarsystem.nasa.gov/basics/glossary//#X
+[384]: https://solarsystem.nasa.gov/basics/glossary//#Y
+[385]: https://solarsystem.nasa.gov/basics/glossary//#Z
+[386]: https://solarsystem.nasa.gov/basics/glossary//#A
+[387]: https://solarsystem.nasa.gov/basics/glossary//#B
+[388]: https://solarsystem.nasa.gov/basics/glossary//#C
+[389]: https://solarsystem.nasa.gov/basics/glossary//#D
+[390]: https://solarsystem.nasa.gov/basics/glossary//#E
+[391]: https://solarsystem.nasa.gov/basics/glossary//#F
+[392]: https://solarsystem.nasa.gov/basics/glossary//#G
+[393]: https://solarsystem.nasa.gov/basics/glossary//#H
+[394]: https://solarsystem.nasa.gov/basics/glossary//#I
+[395]: https://solarsystem.nasa.gov/basics/glossary//#J
+[396]: https://solarsystem.nasa.gov/basics/glossary//#K
+[397]: https://solarsystem.nasa.gov/basics/glossary//#L
+[398]: https://solarsystem.nasa.gov/basics/glossary//#M
+[399]: https://solarsystem.nasa.gov/basics/glossary//#N
+[400]: https://solarsystem.nasa.gov/basics/glossary//#O
+[401]: https://solarsystem.nasa.gov/basics/glossary//#P
+[402]: https://solarsystem.nasa.gov/basics/glossary//#Q
+[403]: https://solarsystem.nasa.gov/basics/glossary//#R
+[404]: https://solarsystem.nasa.gov/basics/glossary//#S
+[405]: https://solarsystem.nasa.gov/basics/glossary//#T
+[406]: https://solarsystem.nasa.gov/basics/glossary//#U
+[407]: https://solarsystem.nasa.gov/basics/glossary//#V
+[408]: https://solarsystem.nasa.gov/basics/glossary//#W
+[409]: https://solarsystem.nasa.gov/basics/glossary//#X
+[410]: https://solarsystem.nasa.gov/basics/glossary//#Y
+[411]: https://solarsystem.nasa.gov/basics/glossary//#Z
+[412]: https://solarsystem.nasa.gov/basics/glossary//#A
+[413]: https://solarsystem.nasa.gov/basics/glossary//#B
+[414]: https://solarsystem.nasa.gov/basics/glossary//#C
+[415]: https://solarsystem.nasa.gov/basics/glossary//#D
+[416]: https://solarsystem.nasa.gov/basics/glossary//#E
+[417]: https://solarsystem.nasa.gov/basics/glossary//#F
+[418]: https://solarsystem.nasa.gov/basics/glossary//#G
+[419]: https://solarsystem.nasa.gov/basics/glossary//#H
+[420]: https://solarsystem.nasa.gov/basics/glossary//#I
+[421]: https://solarsystem.nasa.gov/basics/glossary//#J
+[422]: https://solarsystem.nasa.gov/basics/glossary//#K
+[423]: https://solarsystem.nasa.gov/basics/glossary//#L
+[424]: https://solarsystem.nasa.gov/basics/glossary//#M
+[425]: https://solarsystem.nasa.gov/basics/glossary//#N
+[426]: https://solarsystem.nasa.gov/basics/glossary//#O
+[427]: https://solarsystem.nasa.gov/basics/glossary//#P
+[428]: https://solarsystem.nasa.gov/basics/glossary//#Q
+[429]: https://solarsystem.nasa.gov/basics/glossary//#R
+[430]: https://solarsystem.nasa.gov/basics/glossary//#S
+[431]: https://solarsystem.nasa.gov/basics/glossary//#T
+[432]: https://solarsystem.nasa.gov/basics/glossary//#U
+[433]: https://solarsystem.nasa.gov/basics/glossary//#V
+[434]: https://solarsystem.nasa.gov/basics/glossary//#W
+[435]: https://solarsystem.nasa.gov/basics/glossary//#X
+[436]: https://solarsystem.nasa.gov/basics/glossary//#Y
+[437]: https://solarsystem.nasa.gov/basics/glossary//#Z
+[438]: http://aa.usno.navy.mil/faq/docs/RST_defs.php
+[439]: https://solarsystem.nasa.gov/basics/glossary//#A
+[440]: https://solarsystem.nasa.gov/basics/glossary//#B
+[441]: https://solarsystem.nasa.gov/basics/glossary//#C
+[442]: https://solarsystem.nasa.gov/basics/glossary//#D
+[443]: https://solarsystem.nasa.gov/basics/glossary//#E
+[444]: https://solarsystem.nasa.gov/basics/glossary//#F
+[445]: https://solarsystem.nasa.gov/basics/glossary//#G
+[446]: https://solarsystem.nasa.gov/basics/glossary//#H
+[447]: https://solarsystem.nasa.gov/basics/glossary//#I
+[448]: https://solarsystem.nasa.gov/basics/glossary//#J
+[449]: https://solarsystem.nasa.gov/basics/glossary//#K
+[450]: https://solarsystem.nasa.gov/basics/glossary//#L
+[451]: https://solarsystem.nasa.gov/basics/glossary//#M
+[452]: https://solarsystem.nasa.gov/basics/glossary//#N
+[453]: https://solarsystem.nasa.gov/basics/glossary//#O
+[454]: https://solarsystem.nasa.gov/basics/glossary//#P
+[455]: https://solarsystem.nasa.gov/basics/glossary//#Q
+[456]: https://solarsystem.nasa.gov/basics/glossary//#R
+[457]: https://solarsystem.nasa.gov/basics/glossary//#S
+[458]: https://solarsystem.nasa.gov/basics/glossary//#T
+[459]: https://solarsystem.nasa.gov/basics/glossary//#U
+[460]: https://solarsystem.nasa.gov/basics/glossary//#V
+[461]: https://solarsystem.nasa.gov/basics/glossary//#W
+[462]: https://solarsystem.nasa.gov/basics/glossary//#X
+[463]: https://solarsystem.nasa.gov/basics/glossary//#Y
+[464]: https://solarsystem.nasa.gov/basics/glossary//#Z
+[465]: http://physics.nist.gov/cuu/Units/units.html
+[466]: http://physics.nist.gov/cuu/Units/second.html
+[467]: http://physics.nist.gov/cuu/Units/units.html
+[468]: http://physics.nist.gov/cuu/Units/second.html
+[469]: http://aa.usno.navy.mil/faq/docs/RST_defs.php
+[470]: http://www.jpl.nasa.gov/basics/units.php
+[471]: http://physics.nist.gov/cuu/Units/units.html
+[472]: http://www.jpl.nasa.gov/basics/units.php
+[473]: http://physics.nist.gov/cuu/Units/units.html
+[474]: http://www.jpl.nasa.gov/basics/units.php
+[475]: http://aa.usno.navy.mil/faq/docs/RST_defs.php
+[476]: http://aa.usno.navy.mil/faq/docs/RST_defs.php
+[477]: https://solarsystem.nasa.gov/basics/glossary//#A
+[478]: https://solarsystem.nasa.gov/basics/glossary//#B
+[479]: https://solarsystem.nasa.gov/basics/glossary//#C
+[480]: https://solarsystem.nasa.gov/basics/glossary//#D
+[481]: https://solarsystem.nasa.gov/basics/glossary//#E
+[482]: https://solarsystem.nasa.gov/basics/glossary//#F
+[483]: https://solarsystem.nasa.gov/basics/glossary//#G
+[484]: https://solarsystem.nasa.gov/basics/glossary//#H
+[485]: https://solarsystem.nasa.gov/basics/glossary//#I
+[486]: https://solarsystem.nasa.gov/basics/glossary//#J
+[487]: https://solarsystem.nasa.gov/basics/glossary//#K
+[488]: https://solarsystem.nasa.gov/basics/glossary//#L
+[489]: https://solarsystem.nasa.gov/basics/glossary//#M
+[490]: https://solarsystem.nasa.gov/basics/glossary//#N
+[491]: https://solarsystem.nasa.gov/basics/glossary//#O
+[492]: https://solarsystem.nasa.gov/basics/glossary//#P
+[493]: https://solarsystem.nasa.gov/basics/glossary//#Q
+[494]: https://solarsystem.nasa.gov/basics/glossary//#R
+[495]: https://solarsystem.nasa.gov/basics/glossary//#S
+[496]: https://solarsystem.nasa.gov/basics/glossary//#T
+[497]: https://solarsystem.nasa.gov/basics/glossary//#U
+[498]: https://solarsystem.nasa.gov/basics/glossary//#V
+[499]: https://solarsystem.nasa.gov/basics/glossary//#W
+[500]: https://solarsystem.nasa.gov/basics/glossary//#X
+[501]: https://solarsystem.nasa.gov/basics/glossary//#Y
+[502]: https://solarsystem.nasa.gov/basics/glossary//#Z
+[503]: http://aa.usno.navy.mil/faq/docs/RST_defs.php
+[504]: http://aa.usno.navy.mil/faq/docs/RST_defs.php
+[505]: https://solarsystem.nasa.gov/basics/glossary//#coherent
+[506]: https://solarsystem.nasa.gov/basics/glossary//#A
+[507]: https://solarsystem.nasa.gov/basics/glossary//#B
+[508]: https://solarsystem.nasa.gov/basics/glossary//#C
+[509]: https://solarsystem.nasa.gov/basics/glossary//#D
+[510]: https://solarsystem.nasa.gov/basics/glossary//#E
+[511]: https://solarsystem.nasa.gov/basics/glossary//#F
+[512]: https://solarsystem.nasa.gov/basics/glossary//#G
+[513]: https://solarsystem.nasa.gov/basics/glossary//#H
+[514]: https://solarsystem.nasa.gov/basics/glossary//#I
+[515]: https://solarsystem.nasa.gov/basics/glossary//#J
+[516]: https://solarsystem.nasa.gov/basics/glossary//#K
+[517]: https://solarsystem.nasa.gov/basics/glossary//#L
+[518]: https://solarsystem.nasa.gov/basics/glossary//#M
+[519]: https://solarsystem.nasa.gov/basics/glossary//#N
+[520]: https://solarsystem.nasa.gov/basics/glossary//#O
+[521]: https://solarsystem.nasa.gov/basics/glossary//#P
+[522]: https://solarsystem.nasa.gov/basics/glossary//#Q
+[523]: https://solarsystem.nasa.gov/basics/glossary//#R
+[524]: https://solarsystem.nasa.gov/basics/glossary//#S
+[525]: https://solarsystem.nasa.gov/basics/glossary//#T
+[526]: https://solarsystem.nasa.gov/basics/glossary//#U
+[527]: https://solarsystem.nasa.gov/basics/glossary//#V
+[528]: https://solarsystem.nasa.gov/basics/glossary//#W
+[529]: https://solarsystem.nasa.gov/basics/glossary//#X
+[530]: https://solarsystem.nasa.gov/basics/glossary//#Y
+[531]: https://solarsystem.nasa.gov/basics/glossary//#Z
+[532]: https://solarsystem.nasa.gov/basics/glossary//chapter2-3
+[533]: http://tycho.usno.navy.mil/systime.html
+[534]: https://solarsystem.nasa.gov/basics/glossary//#A
+[535]: https://solarsystem.nasa.gov/basics/glossary//#B
+[536]: https://solarsystem.nasa.gov/basics/glossary//#C
+[537]: https://solarsystem.nasa.gov/basics/glossary//#D
+[538]: https://solarsystem.nasa.gov/basics/glossary//#E
+[539]: https://solarsystem.nasa.gov/basics/glossary//#F
+[540]: https://solarsystem.nasa.gov/basics/glossary//#G
+[541]: https://solarsystem.nasa.gov/basics/glossary//#H
+[542]: https://solarsystem.nasa.gov/basics/glossary//#I
+[543]: https://solarsystem.nasa.gov/basics/glossary//#J
+[544]: https://solarsystem.nasa.gov/basics/glossary//#K
+[545]: https://solarsystem.nasa.gov/basics/glossary//#L
+[546]: https://solarsystem.nasa.gov/basics/glossary//#M
+[547]: https://solarsystem.nasa.gov/basics/glossary//#N
+[548]: https://solarsystem.nasa.gov/basics/glossary//#O
+[549]: https://solarsystem.nasa.gov/basics/glossary//#P
+[550]: https://solarsystem.nasa.gov/basics/glossary//#Q
+[551]: https://solarsystem.nasa.gov/basics/glossary//#R
+[552]: https://solarsystem.nasa.gov/basics/glossary//#S
+[553]: https://solarsystem.nasa.gov/basics/glossary//#T
+[554]: https://solarsystem.nasa.gov/basics/glossary//#U
+[555]: https://solarsystem.nasa.gov/basics/glossary//#V
+[556]: https://solarsystem.nasa.gov/basics/glossary//#W
+[557]: https://solarsystem.nasa.gov/basics/glossary//#X
+[558]: https://solarsystem.nasa.gov/basics/glossary//#Y
+[559]: https://solarsystem.nasa.gov/basics/glossary//#Z
+[560]: http://www.iers.org/MainDisp.csl?pid=99-121
+[561]: https://solarsystem.nasa.gov/basics/glossary//#A
+[562]: https://solarsystem.nasa.gov/basics/glossary//#B
+[563]: https://solarsystem.nasa.gov/basics/glossary//#C
+[564]: https://solarsystem.nasa.gov/basics/glossary//#D
+[565]: https://solarsystem.nasa.gov/basics/glossary//#E
+[566]: https://solarsystem.nasa.gov/basics/glossary//#F
+[567]: https://solarsystem.nasa.gov/basics/glossary//#G
+[568]: https://solarsystem.nasa.gov/basics/glossary//#H
+[569]: https://solarsystem.nasa.gov/basics/glossary//#I
+[570]: https://solarsystem.nasa.gov/basics/glossary//#J
+[571]: https://solarsystem.nasa.gov/basics/glossary//#K
+[572]: https://solarsystem.nasa.gov/basics/glossary//#L
+[573]: https://solarsystem.nasa.gov/basics/glossary//#M
+[574]: https://solarsystem.nasa.gov/basics/glossary//#N
+[575]: https://solarsystem.nasa.gov/basics/glossary//#O
+[576]: https://solarsystem.nasa.gov/basics/glossary//#P
+[577]: https://solarsystem.nasa.gov/basics/glossary//#Q
+[578]: https://solarsystem.nasa.gov/basics/glossary//#R
+[579]: https://solarsystem.nasa.gov/basics/glossary//#S
+[580]: https://solarsystem.nasa.gov/basics/glossary//#T
+[581]: https://solarsystem.nasa.gov/basics/glossary//#U
+[582]: https://solarsystem.nasa.gov/basics/glossary//#V
+[583]: https://solarsystem.nasa.gov/basics/glossary//#W
+[584]: https://solarsystem.nasa.gov/basics/glossary//#X
+[585]: https://solarsystem.nasa.gov/basics/glossary//#Y
+[586]: https://solarsystem.nasa.gov/basics/glossary//#Z
+[587]: https://solarsystem.nasa.gov/basics/glossary//#g
+[588]: https://solarsystem.nasa.gov/basics/glossary//#A
+[589]: https://solarsystem.nasa.gov/basics/glossary//#B
+[590]: https://solarsystem.nasa.gov/basics/glossary//#C
+[591]: https://solarsystem.nasa.gov/basics/glossary//#D
+[592]: https://solarsystem.nasa.gov/basics/glossary//#E
+[593]: https://solarsystem.nasa.gov/basics/glossary//#F
+[594]: https://solarsystem.nasa.gov/basics/glossary//#G
+[595]: https://solarsystem.nasa.gov/basics/glossary//#H
+[596]: https://solarsystem.nasa.gov/basics/glossary//#I
+[597]: https://solarsystem.nasa.gov/basics/glossary//#J
+[598]: https://solarsystem.nasa.gov/basics/glossary//#K
+[599]: https://solarsystem.nasa.gov/basics/glossary//#L
+[600]: https://solarsystem.nasa.gov/basics/glossary//#M
+[601]: https://solarsystem.nasa.gov/basics/glossary//#N
+[602]: https://solarsystem.nasa.gov/basics/glossary//#O
+[603]: https://solarsystem.nasa.gov/basics/glossary//#P
+[604]: https://solarsystem.nasa.gov/basics/glossary//#Q
+[605]: https://solarsystem.nasa.gov/basics/glossary//#R
+[606]: https://solarsystem.nasa.gov/basics/glossary//#S
+[607]: https://solarsystem.nasa.gov/basics/glossary//#T
+[608]: https://solarsystem.nasa.gov/basics/glossary//#U
+[609]: https://solarsystem.nasa.gov/basics/glossary//#V
+[610]: https://solarsystem.nasa.gov/basics/glossary//#W
+[611]: https://solarsystem.nasa.gov/basics/glossary//#X
+[612]: https://solarsystem.nasa.gov/basics/glossary//#Y
+[613]: https://solarsystem.nasa.gov/basics/glossary//#Z
 
-[image-1]:	https://solarsystem.nasa.gov/bosf/images/G.gif
+[image-1]: https://solarsystem.nasa.gov/bosf/images/G.gif

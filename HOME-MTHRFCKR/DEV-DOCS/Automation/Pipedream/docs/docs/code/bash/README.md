@@ -65,7 +65,7 @@ echo $WEATHER
 ::: tip
 Use the `--silent` flag with `curl` to suppress extra extra diagnostic information that `curl` produces when making requests.
 
-This enables you to only worry about the body of the response so you can visualize it with tools like `echo` or `jq`. 
+This enables you to only worry about the body of the response so you can visualize it with tools like `echo` or `jq`.
 :::
 
 ### Making a `POST` request
@@ -143,7 +143,7 @@ echo $EXPORT >> $PIPEDREAM_EXPORTS
 ::: warning
 Not all data types can be stored in the `$PIPEDREAM_EXPORTS` data shared between workflow steps.
 
-For the best experience, we recommend only exporting strings from Bash steps that can be serialized to JSON. 
+For the best experience, we recommend only exporting strings from Bash steps that can be serialized to JSON.
 
 [Read more details on step limitations here.](/workflows/steps/#limitations-on-step-exports)
 :::
@@ -172,6 +172,7 @@ You may need to stop your step immediately. You can use the normal `exit` functi
 echo "Exiting now!" 1>&2
 exit 1
 ```
+
 :::warning
 Using `exit` to quit a Bash step early _won't_ stop the execution of the rest of the workflow.
 

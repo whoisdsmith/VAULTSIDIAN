@@ -82,23 +82,23 @@ If you’re starting to build your website, you have the advantage of planning o
 
 Here is what you should do to set up your website structure from scratch:
 
-### 1\. Create a Website Structure Diagram.
+### 1\. Create a Website Structure Diagram
 
 Create a website structure diagram to visualize your navigation and URL structure. You can do this manually or use computer programs and applications.
 
-#### Tips To Create a Website Structure Diagram:
+#### Tips To Create a Website Structure Diagram
 
--   **Make your hierarchy logical.** Simplify and don’t overcomplicate. Each main category should be unique.
--   **Keep main categories at a maximum of seven.** It keeps things simple. Creating links for too many categories can reduce the value of the link.
--   **Try to balance the number of subcategories.**
+- **Make your hierarchy logical.** Simplify and don’t overcomplicate. Each main category should be unique.
+- **Keep main categories at a maximum of seven.** It keeps things simple. Creating links for too many categories can reduce the value of the link.
+- **Try to balance the number of subcategories.**
 
-### 2\. Check the Way Your Competitors’ Websites Are Structured.
+### 2\. Check the Way Your Competitors’ Websites Are Structured
 
 Depending on the size, planning your site structure from scratch can be difficult. Take inspiration from the way top websites in your niche are structured — that may be the industry standard. It could also help give website visitors some sense of familiarity.
 
 We recommend using [Ahrefs](https://ahrefs.com/) to check the top sections of your competitors’ pages and take inspiration from how those pages are structured.
 
-### 3\. Optimize Navigation.
+### 3\. Optimize Navigation
 
 ![Bluehost’s homepage](https://www.bluehost.com/resources/static/2ef2104de3c217f73857cef89c84f04c/f1720/Bluehosts-homepage.png)
 
@@ -108,17 +108,17 @@ The homepage is often the first thing visitors see when they visit your website.
 
 For example, Bluehost’s homepage points to its hosting page, which appears as a sitelink on Google’s SERPs. That indicates that the hosting page is one of the most essential pages on the Bluehost website.
 
-#### Tips to Optimize Navigation:
+#### Tips to Optimize Navigation
 
--   **Add a search bar** to help users find content.
--   **Add a link** to the [sitemap](https://www.bluehost.com/resources/how-to-create-a-sitemap-and-why-you-should/) at the bottom of the page.
--   **Design your website using the** [**three-click rule**](https://tillerdigital.com/glossary/3-click-rule/) **as a guideline**. Users must be able to find their desired information in three clicks or less. You can use [breadcrumbs](https://yoast.com/breadcrumbs-seo/) on webpages to help users find their way back to the homepage. [Yoast’s breadcrumbs](https://yoast.com/help/implement-wordpress-seo-breadcrumbs/) block can help you do that.
+- **Add a search bar** to help users find content.
+- **Add a link** to the [sitemap](https://www.bluehost.com/resources/how-to-create-a-sitemap-and-why-you-should/) at the bottom of the page.
+- **Design your website using the** [**three-click rule**](https://tillerdigital.com/glossary/3-click-rule/) **as a guideline**. Users must be able to find their desired information in three clicks or less. You can use [breadcrumbs](https://yoast.com/breadcrumbs-seo/) on webpages to help users find their way back to the homepage. [Yoast’s breadcrumbs](https://yoast.com/help/implement-wordpress-seo-breadcrumbs/) block can help you do that.
 
 ![Nike follows web structure best practices by using breadcrumbs](https://www.bluehost.com/resources/static/4cb75e8b819d1f1f1322c26597ff86b4/7842b/Nike-follows-web-structure-best-practices-by-using-breadcrumbs.png)
 
 [Image Source](https://directlinedev.com/media/page_photos/0002/photo_2915.normal.png)
 
-### 4\. Don’t Forget About the Menu.
+### 4\. Don’t Forget About the Menu
 
 Several aspects make up website navigation, but your menu should be one of the top considerations because it is the first thing visitors will interact with once they visit your website.
 
@@ -126,27 +126,27 @@ The main pages should be on your menu. For websites with multiple pages and cate
 
 The two most commonly-used menu types are the navigation menu and hamburger menu:
 
--   The **navigation menu** is often located on your homepage. Websites with multiple categories can benefit by having a dropdown menu to save space.
--   The **hamburger menu** is often used on mobile websites. It is a square with three horizontal lines that expands to show full menu options and is usually displayed at the top left or top right side of a page.
+- The **navigation menu** is often located on your homepage. Websites with multiple categories can benefit by having a dropdown menu to save space.
+- The **hamburger menu** is often used on mobile websites. It is a square with three horizontal lines that expands to show full menu options and is usually displayed at the top left or top right side of a page.
 
-#### Tips for Optimizing the Menu:
+#### Tips for Optimizing the Menu
 
--   **Don’t add too many links to the menu.** More links mean less value for both users and search engines. Keep menu items at a maximum of seven.
--   **Use descriptive menu titles.** Creating menu titles with keywords in mind helps users find items more quickly and contribute to SEO.
--   **Position matters.** Put the most important pages in front of your website so they’re easily accessible.
+- **Don’t add too many links to the menu.** More links mean less value for both users and search engines. Keep menu items at a maximum of seven.
+- **Use descriptive menu titles.** Creating menu titles with keywords in mind helps users find items more quickly and contribute to SEO.
+- **Position matters.** Put the most important pages in front of your website so they’re easily accessible.
 
-### 5\. Create an Internal Linking Structure.
+### 5\. Create an Internal Linking Structure
 
 Website structuring is about grouping and linking content on your website. [Neil Patel](https://neilpatel.com/blog/site-structure-enhance-seo/) has likened the internal linking structure to putting meat on the bones of a strong website hierarchy.
 
 Not only does adding internal links establish information hierarchy in a website, but it also distributes ranking power in a website. It increases crawlability and tells search engines that the website puts out related and relevant content.
 
-#### Tips for Creating an Internal Linking Structure:
+#### Tips for Creating an Internal Linking Structure
 
--   **Create a pillar page.** Having a content [pillar page](https://terakeet.com/blog/pillar-page/) – the main topic which branches out to related subtopics – also helps you [build internal links](https://www.bluehost.com/resources/link-building-101/).
--   **Link to your taxonomies.** Taxonomies refer to a group of similar content. In WordPress, default taxonomies are Categories and Tags. Adding links to tags and category pages helps Google understand the structure of your website and allows visitors to navigate to related posts.
--   **Add links to popular or recent posts.**
--   **Link to related posts.** [Several plugins](https://blog.hubspot.com/website/best-wordpress-related-post-plugins) allow you to add related posts at the end of your blog post. You can also opt to create anchor text.
+- **Create a pillar page.** Having a content [pillar page](https://terakeet.com/blog/pillar-page/) – the main topic which branches out to related subtopics – also helps you [build internal links](https://www.bluehost.com/resources/link-building-101/).
+- **Link to your taxonomies.** Taxonomies refer to a group of similar content. In WordPress, default taxonomies are Categories and Tags. Adding links to tags and category pages helps Google understand the structure of your website and allows visitors to navigate to related posts.
+- **Add links to popular or recent posts.**
+- **Link to related posts.** [Several plugins](https://blog.hubspot.com/website/best-wordpress-related-post-plugins) allow you to add related posts at the end of your blog post. You can also opt to create anchor text.
 
 ## Final Thoughts: Does Proper Website Structuring Boost SEO?
 

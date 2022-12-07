@@ -20,7 +20,7 @@ update set name = $1;
 
 # ON CONFLICT
 
-https://www.postgresql.org/docs/9.5/sql-insert.html#SQL-ON-CONFLICT
+<https://www.postgresql.org/docs/9.5/sql-insert.html#SQL-ON-CONFLICT>
 
 ```
 INSERT INTO distributors (did, dname) VALUES (7, 'Redline GmbH')

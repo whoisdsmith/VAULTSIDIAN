@@ -1,6 +1,7 @@
 # Python Cheat Sheet by DaveChild - Download Free From Cheatography - Cheatography.com: Cheat Sheets For Every Occasion
 
 > ## Excerpt
+
 > The Python cheat sheet is a one-page reference sheet for the Python programming language.
 
 ---
@@ -175,8 +176,6 @@ Registered OS names: "posix", "nt",
 
 \_\_call\_\_(self, args, kwargs)
 
- 
-
 ## Python List Methods
 
 append(item)
@@ -350,8 +349,6 @@ b=a\[:\]
 Shallow copy of a
 
 Indexes and Slices of a=\[0,1,2,3,4,5\]
-
- 
 
 ## Python Datetime Methods
 

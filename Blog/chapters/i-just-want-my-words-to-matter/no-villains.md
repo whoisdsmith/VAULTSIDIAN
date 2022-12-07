@@ -18,6 +18,6 @@ So they are not villians, they are just supporting actors and actresses who help
 
 The best way to take away a villains superpower, is to erase their existence and turn them into something that made you a better person
 
-Date:	August 30, 2021 at 11:56:34 PM EDT
+Date: August 30, 2021 at 11:56:34 PM EDT
 
 ---

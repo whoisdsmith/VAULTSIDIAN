@@ -10,11 +10,9 @@ The syntax of a full Web address is the following:
 scheme://prefix.domain:port/path/filename
 ```
 
-### Explanation:
+### Explanation
 
 <table class="table table-bordered table-striped table-header small-font"><tbody><tr><td>scheme</td><td>Specifies the type of Internet service. http/https is the most common.</td></tr><tr><td>prefix</td><td>Specifies a domain prefix. www is the default for http.</td></tr><tr><td>domain</td><td>Specifies the name of the Internet domain.</td></tr><tr><td>port</td><td>Specifies the port number at the host. 80 is the default for http.</td></tr><tr><td>path</td><td>Specifies a path at the server. If it is omitted, the resource will be located at the root directory.</td></tr><tr><td>filename</td><td>Specifies the name of a resource or document.</td></tr></tbody></table>
-
-  
 
 In [HTML](https://www.w3docs.com/learn-html/html-introduction.html), a URL can have a partial form which is often called a relative URL. To create a full URL, a browser fills in missing parts of the URL from the relevant parts of the URL of the current page.
 

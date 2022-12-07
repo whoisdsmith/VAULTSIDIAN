@@ -1,4 +1,5 @@
 ## State Registries of Political Lobbyists
+
 - [LobbyData Lobbyist Database](http://lobbydata.com/Directory)
 - [Alabama Lobbyists Search](http://ethics.alabama.gov/search/PublicOfficialEmployeeSearch.aspx)
 - [Alaska Lobbyist Search](https://aws.state.ak.us/ApocReports/Lobbying)

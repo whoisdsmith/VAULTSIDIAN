@@ -1,6 +1,6 @@
 [VIA Character](https://www.viacharacter.org/survey/account/register) - Free Character Strengths Test
 
-## Result :
+## Result
 
 **1. Discernement, pensée critique, et ouverture d’esprit**
 

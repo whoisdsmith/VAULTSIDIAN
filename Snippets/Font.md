@@ -77,24 +77,18 @@ cssclass: test
 /*  
   garble-text.css -- 2021-08-22 Matthias C. Hormann (aka Moonbase59)
 
-  
-
   Obsidian CSS snippet for use with app.garbleText() from Developer Console or  
   kurakart's "Garble Text" plugin.
-
-  
 
   Makes text look like a mockup/wireframe and blurs images, unveils on hover.  
   Doesn’t affect modals and preview popups, but works with clean-embeds-all.  
   Use with screenshots to hide confidential information.
 
-  
-
   Font "Redacted Script":  
   Copyright (c) 2013, Christian Naths (christiannaths@gmail.com christiannaths.com)  
-  https://github.com/christiannaths/Redacted-Font
+  <https://github.com/christiannaths/Redacted-Font>
 
-  This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL  
+  This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: <http://scripts.sil.org/OFL>  
 */
 
 @font-face {  

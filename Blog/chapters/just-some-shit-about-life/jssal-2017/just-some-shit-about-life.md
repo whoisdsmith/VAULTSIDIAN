@@ -1,6 +1,6 @@
 # Just Some Shit About Life
 
-## Day 50!
+## Day 50
 
 ![](9310102A-588A-4956-8F11-52BF88C77F12-1.jpeg)
 

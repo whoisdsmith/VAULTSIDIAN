@@ -1,6 +1,6 @@
 # The Plain-English Guide to Webhooks
 
-You have **2** free member-only stories left this month. 
+You have **2** free member-only stories left this month.
 
 ![image showing how webhooks work server sending data automatically to user phone in contrast to request response cycle.](https://miro.medium.com/max/1188/1*_X8lkX31ovfPriBq-9akRA.png)
 
@@ -10,7 +10,7 @@ Web-apps have increasingly become so interconnected through the use of APIs whic
 
 **What are Web-hooks?**
 
-A Webhook is a method for one app to update other applications with real-time information. Webhooks operate on the concept of _event reaction _(no need to call me, I’ll call you when I have something new), avoiding the need for the (user) client-side application making constant requests to the server for real-time data.
+A Webhook is a method for one app to update other applications with real-time information. Webhooks operate on the concept of _event reaction_(no need to call me, I’ll call you when I have something new), avoiding the need for the (user) client-side application making constant requests to the server for real-time data.
 
 A more concise definition, for those who are of a more technical persuasion, is:
 
@@ -27,8 +27,7 @@ The first step in using webhooks is given the webhook provider a URL where you d
 _So what do webhooks look like?_
 
 An API calls the server-side app which provides the client-side app with end-point URLs that the client can call. The server-side might expose the following API endpoint URLs for a simple chat application.
-    
-    
+
     POST /messages createNewMessage   
     GET /messages/{messageId} readMessage  
     POST /messages/{messageId}/comments postComment  
@@ -51,13 +50,7 @@ An API calls the server-side app which provides the client-side app with end-poi
     Webhooks are an essential tool to include due to the ever-growing interconnectivity in our web apps. It is a way for users to receive updates immediately and saves server costs. If you want your web application to be more dynamic and flexible in serving the needs of today’s users than adding a webhook in your web app will be paramount.
     
     A monthly summary of the best stories shared in Level Up Coding [Take a look.](https://medium.com/gitconnected/newsletters/top-stories?source=newsletter_v3_promo--------------------------newsletter_v3_promo--------------)
-    
-    
-    
-    
-    
-
 
 ___
 
-#article #Webhooks
+# article #Webhooks

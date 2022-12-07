@@ -5,7 +5,7 @@ next: false
 
 # Overview
 
-Pipedream is the fastest way to automate any process that connects APIs. Build and run workflows with code-level control when you need it, and no code when you don't. 
+Pipedream is the fastest way to automate any process that connects APIs. Build and run workflows with code-level control when you need it, and no code when you don't.
 
 The Pipedream platform includes:
 
@@ -28,8 +28,8 @@ To get started, [sign up for a free account](https://pipedream.com/auth/signup) 
 
 One you understand the basics of workflow development, learn how to get more out of Pipedream:
 
-- [Use code in workflows](/code/) 
-- [Develop custom actions](/components/quickstart/nodejs/actions/) 
+- [Use code in workflows](/code/)
+- [Develop custom actions](/components/quickstart/nodejs/actions/)
 - [Develop custom triggers](/components/quickstart/nodejs/sources/)
 
 ## Use Cases
@@ -38,7 +38,7 @@ Pipedream supports use cases from prototype to production and is trusted by 200k
 
 ![logos](https://res.cloudinary.com/pipedreamin/image/upload/v1612919944/homepage/logos_kcbviz.png)
 
-The platform processes billions of events and is built and [priced](https://pipedream.com/pricing/) for use at scale. [Our team](https://pipedream.com/about) has built internet scale applications and managed data pipelines in excess of 10 million events per second (EPS) at startups and high-growth environments like BrightRoll, Yahoo!, Affirm and Instacart. 
+The platform processes billions of events and is built and [priced](https://pipedream.com/pricing/) for use at scale. [Our team](https://pipedream.com/about) has built internet scale applications and managed data pipelines in excess of 10 million events per second (EPS) at startups and high-growth environments like BrightRoll, Yahoo!, Affirm and Instacart.
 
 Our [community](https://pipedream.com/community) uses Pipedream for a wide variety of use cases including:
 

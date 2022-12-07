@@ -59,4 +59,3 @@ These are not autolinks:
 <Example :index="$page.frontmatter.start++"/>
 
 <Example :index="$page.frontmatter.start++"/>
-    

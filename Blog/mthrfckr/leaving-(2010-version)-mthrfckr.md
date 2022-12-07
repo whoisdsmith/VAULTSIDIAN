@@ -28,7 +28,7 @@ I replied with “How do you know what’s best, when we both know he doesn’t 
 She said “I don’t care what you think, cause come December we are moving out of this state”  
 I replied with “I’ll never understand how you could be so damn cold when were so close”
 
-Days go by and still everything’s the same, I’ve spent everyday blaming myself for things I couldn’t change. 
+Days go by and still everything’s the same, I’ve spent everyday blaming myself for things I couldn’t change.
 
 What does he say when he’s over there, does he ask you if I even care?  
 What do you tell him about me?  

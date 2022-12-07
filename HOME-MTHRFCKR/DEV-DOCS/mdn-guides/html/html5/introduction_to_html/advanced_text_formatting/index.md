@@ -755,7 +755,7 @@ The basic example above just provides a simple machine readable date, but there 
 <time datetime="2016-W04">The fourth week of 2016</time>
 ```
 
-## Test your skills!
+## Test your skills
 
 You've reached the end of this article, but can you remember the most important information? You can find some further tests to verify that you've retained this information before you move on — see [Test your skills: Advanced HTML text](/en-US/docs/Learn/HTML/Introduction_to_HTML/Test_your_skills:_Advanced_HTML_text).
 

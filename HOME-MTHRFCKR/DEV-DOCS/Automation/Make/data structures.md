@@ -1,6 +1,6 @@
--   [Make Help Center](https://www.make.com/en/help/index-en.html)
--   [Tools](https://www.make.com/en/help/tools.html)
--   Data structures
+- [Make Help Center](https://www.make.com/en/help/index-en.html)
+- [Tools](https://www.make.com/en/help/tools.html)
+- Data structures
 
 A data structure is a document that describes in detail the format of the data being transferred to Make. Based on this document, the Scenario editor is able to figure out which module returns or receives which kind of data. The data structure documents are most commonly used for serializing/parsing data formats such as JSON, XML, CSV and others.
 

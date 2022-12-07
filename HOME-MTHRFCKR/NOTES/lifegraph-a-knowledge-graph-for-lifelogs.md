@@ -1,6 +1,6 @@
 # LifeGraph: a Knowledge Graph for Lifelogs
 
-#### Rossetto, Luca ; Baumgartner, Matthias ; Ashena, Narges ; Ruosch, Florian ; Pernisch, Romana ;
+#### Rossetto, Luca ; Baumgartner, Matthias ; Ashena, Narges ; Ruosch, Florian ; Pernisch, Romana
 
 #### Bernstein, Abraham
 
@@ -8,7 +8,7 @@
 
 #### manifold interrelations with itself as well as external information. Representing this data in such a way
 
-#### that these rich relations as well as all the different sources can be leveraged is a non-trivial undertaking.
+#### that these rich relations as well as all the different sources can be leveraged is a non-trivial undertaking
 
 #### In this paper, we present the first iteration of LifeGraph, a Knowledge Graph for lifelogging data. Life-
 
@@ -18,27 +18,27 @@
 
 #### broader context. In the Lifelog Search Challenge 2020, we show a first proof-of-concept implementation
 
-#### of LifeGraph as well as a retrieval system prototype which utilizes it to search the log for specific events.
+#### of LifeGraph as well as a retrieval system prototype which utilizes it to search the log for specific events
 
-#### DOI: https://doi.org/10.1145/3379172.
+#### DOI: <https://doi.org/10.1145/3379172>
 
 #### Posted at the Zurich Open Repository and Archive, University of Zurich
 
-#### ZORA URL: https://doi.org/10.5167/uzh-
+#### ZORA URL: <https://doi.org/10.5167/uzh>-
 
 #### Conference or Workshop Item
 
 #### Published Version
 
-#### Originally published at:
+#### Originally published at
 
-#### Rossetto, Luca; Baumgartner, Matthias; Ashena, Narges; Ruosch, Florian; Pernisch, Romana; Bernstein,
+#### Rossetto, Luca; Baumgartner, Matthias; Ashena, Narges; Ruosch, Florian; Pernisch, Romana; Bernstein
 
 #### Abraham (2020). LifeGraph: a Knowledge Graph for Lifelogs. In: Third Annual Workshop on the Lifelog
 
-#### Search Challenge, Dublin, Ireland, 9 June 2020, ACM.
+#### Search Challenge, Dublin, Ireland, 9 June 2020, ACM
 
-#### DOI: https://doi.org/10.1145/3379172.
+#### DOI: <https://doi.org/10.1145/3379172>
 
 ## Luca Rossetto
 
@@ -133,7 +133,7 @@ and/or a fee. Request permissions from permissions@acm.org.
 LSC ’20, June 9, 2020, Dublin, Ireland  
 © 2020 Copyright held by the owner/author(s). Publication rights licensed to ACM.  
 ACM ISBN 978-1-4503-7136-0/20/06...$15.  
-https://doi.org/10.1145/3379172.
+<https://doi.org/10.1145/3379172>.
 
 ```
 activities or thoughts, maybe occasionally accompanied by a photo-
@@ -676,7 +676,7 @@ arXiv:1902.03878(2019).
 Jónsson, Jakub Lokoč, Wolfgang Hurst, Minh-Triet Tran, and Klaus Schoeffmann.
 ```
 
-2020.  An Introduction to the Third Annual Lifelog Search Challenge, LSC’20.  
+2020. An Introduction to the Third Annual Lifelog Search Challenge, LSC’20.  
     InICMR ’20, The 2020 International Conference on Multimedia Retrieval. ACM,  
     Dublin, Ireland.  
     \[8\]Cathal Gurrin, Klaus Schoeffmann, Hideo Joho, Andreas Leibetseder, Liting Zhou,  
@@ -706,7 +706,7 @@ Jónsson, Jakub Lokoč, Wolfgang Hurst, Minh-Triet Tran, and Klaus Schoeffmann.
     Belongie, Victor Gomes, Abhinav Gupta, Chen Sun, Gal Chechik, David Cai,  
     Zheyun Feng, Dhyanesh Narayanan, and Kevin Murphy. 2017. OpenImages: A  
     public dataset for large-scale multi-label and multi-class image classification.  
-    Dataset available from https://github.com/openimages(2017).  
+    Dataset available from <https://github.com/openimages(2017>).  
     \[15\]Jens Lehmann, Robert Isele, Max Jakob, Anja Jentzsch, Dimitris Kontokostas,  
     Pablo N Mendes, Sebastian Hellmann, Mohamed Morsey, Patrick van Kleef, Soren  
     Auer, and Christian Bizer. 2012. DBpedia ś A Large-scale, Multilingual Knowledge  
@@ -728,7 +728,7 @@ Jónsson, Jakub Lokoč, Wolfgang Hurst, Minh-Triet Tran, and Klaus Schoeffmann.
     Proceedings of the IEEE conference on computer vision and pattern recognition.  
     7263ś7271.  
     \[21\]Joseph Redmon and Ali Farhadi. 2018. YOLOv3 on the Open Images dataset.  
-    https://pjreddie.com/darknet/yolo/.  
+    <https://pjreddie.com/darknet/yolo/>.  
     \[22\]Luca Rossetto, Ralph Gasser, Silvan Heller, Mahnaz Amiri Parian, and Heiko  
     Schuldt. 2019. Retrieval of structured and unstructured data with vitrivr. In  
     Proceedings of the ACM Workshop on Lifelog Search Challenge. 27ś31.  

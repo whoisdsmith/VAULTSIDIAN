@@ -3,518 +3,518 @@
 ---
 
 %% Begin Waypoint %%
+
 - **[automation](../../../..//HOME-MTHRFCKR/DEV-DOCS/automation/automation.md)**
-	- [automation](../../../..//HOME-MTHRFCKR/DEV-DOCS/automation/automation.md)
-	- [automationtools](automationtools.md)
-	- **IFTTT**
-		- [activity-feed](IFTTT/activity-feed.md)
-		- [activity](IFTTT/activity.md)
-		- [applets](IFTTT/applets.md)
-		- [archived-applets](IFTTT/archived-applets.md)
-		- [build-your-integration](IFTTT/build-your-integration.md)
-		- [common-errors](IFTTT/common-errors.md)
-		- [connect-api](IFTTT/connect-api.md)
-		- [connections](IFTTT/connections.md)
-		- [day-one-create-journal-entry](IFTTT/day-one-create-journal-entry.md)
-		- [day-one-ifttt](IFTTT/day-one-ifttt.md)
-		- [example-services](IFTTT/example-services.md)
-		- [faq](IFTTT/faq.md)
-		- [file-not-found](IFTTT/file-not-found.md)
-		- [filter-code](IFTTT/filter-code.md)
-		- [glossary](IFTTT/glossary.md)
-		- [guide](IFTTT/guide.md)
-		- [guidelines-for-success](IFTTT/guidelines-for-success.md)
-		- [guilded-webhooks-guide-ifttt](IFTTT/guilded-webhooks-guide-ifttt.md)
-		- [ifttt-like-a-boss](IFTTT/ifttt-like-a-boss.md)
-		- [my-services](IFTTT/my-services.md)
-		- [private-applets](IFTTT/private-applets.md)
-		- [process-overview](IFTTT/process-overview.md)
-		- [queries](IFTTT/queries.md)
-		- [query](IFTTT/query.md)
-		- [service-api-requirements](IFTTT/service-api-requirements.md)
-		- [service-rate-limit](IFTTT/service-rate-limit.md)
-		- [service-rate-limits](IFTTT/service-rate-limits.md)
-		- [spotify2dayone](IFTTT/spotify2dayone.md)
-		- [superpowers-for-integromat](IFTTT/superpowers-for-integromat.md)
-		- [testing-your-service](IFTTT/testing-your-service.md)
-		- [the-ultimate-ifttt-guide](IFTTT/the-ultimate-ifttt-guide.md)
-		- [usage-limit](IFTTT/usage-limit.md)
-		- [use-siri-to-run-applets](IFTTT/use-siri-to-run-applets.md)
-		- [webhooks](IFTTT/webhooks.md)
-	- [iosshortcutscatalog](iosshortcutscatalog.md)
-	- [iosshortcutslinks](iosshortcutslinks.md)
-	- **Make**
-		- [aggregator](Make/aggregator.md)
-		- [converger](Make/converger.md)
-		- [data store](Make/data%20store.md)
-		- [data structures](Make/data%20structures.md)
-		- [email](Make/email.md)
-		- [flow control](Make/flow%20control.md)
-		- [glossary](Make/glossary.md)
-		- [how to get text parser to produce an output value](Make/how%20to%20get%20text%20parser%20to%20produce%20an%20output%20value.md)
-		- [http](Make/http.md)
-		- [image](Make/image.md)
-		- [iterator](Make/iterator.md)
-		- [json](Make/json.md)
-		- [make api documentation](Make/make%20api%20documentation.md)
-		- [make-rss](Make/make-rss.md)
-		- [make-webhooks](Make/make-webhooks.md)
-		- [replacing google sheets legacy modules](Make/replacing%20google%20sheets%20legacy%20modules.md)
-		- [replacing legacy modules with new modules](Make/replacing%20legacy%20modules%20with%20new%20modules.md)
-		- [router](Make/router.md)
-		- [text parser](Make/text%20parser.md)
-		- [tools](Make/tools.md)
-		- [types of modules](Make/types%20of%20modules.md)
-		- [using make devtool](Make/using%20make%20devtool.md)
-		- [wordpress](Make/wordpress.md)
-		- [xml](Make/xml.md)
-	- [make2](make2.md)
-	- **Pipedream**
-		- [Actions](Pipedream/Actions.md)
-		- [Bash](Pipedream/Bash.md)
-		- **components**
-			- **aws**
-				- **sources**
-					- **new-emails-sent-to-ses-catch-all-domain**
-						- [README](Pipedream/components/aws/sources/new-emails-sent-to-ses-catch-all-domain/README.md)
-					- **new-records-returned-by-cloudwatch-logs-insights-query**
-						- [README](Pipedream/components/aws/sources/new-records-returned-by-cloudwatch-logs-insights-query/README.md)
-					- **new-scheduled-tasks**
-						- [README](Pipedream/components/aws/sources/new-scheduled-tasks/README.md)
-					- **new-sns-messages**
-						- [README](Pipedream/components/aws/sources/new-sns-messages/README.md)
-					- [README](Pipedream/components/aws/sources/README.md)
-			- **discord_bot**
-				- [README](Pipedream/components/discord_bot/README.md)
-			- **faunadb**
-				- [README](Pipedream/components/faunadb/README.md)
-			- **github**
-				- [readme](Pipedream/components/github/readme.md)
-			- **google_cloud**
-				- **sources**
-					- **bigquery-new-row**
-						- [README](Pipedream/components/google_cloud/sources/bigquery-new-row/README.md)
-					- **bigquery-query-results**
-						- [README](Pipedream/components/google_cloud/sources/bigquery-query-results/README.md)
-			- **hacker_news**
-				- [readme](Pipedream/components/hacker_news/readme.md)
-			- **http**
-				- [readme](Pipedream/components/http/readme.md)
-			- **rss**
-				- [README](Pipedream/components/rss/README.md)
-			- **sendgrid**
-				- **sources**
-					- **new-contact**
-						- [README](Pipedream/components/sendgrid/sources/new-contact/README.md)
-			- **shopify_partner**
-				- [README](Pipedream/components/shopify_partner/README.md)
-			- **snowflake**
-				- **sources**
-					- **new-row**
-						- [README](Pipedream/components/snowflake/sources/new-row/README.md)
-					- **query-results**
-						- [README](Pipedream/components/snowflake/sources/query-results/README.md)
-			- **strava**
-				- [README](Pipedream/components/strava/README.md)
-			- **textlocal**
-				- **sources**
-					- **new-contact**
-						- [README](Pipedream/components/textlocal/sources/new-contact/README.md)
-			- **twitter**
-				- [old](Pipedream/components/twitter/old.md)
-				- [readme](Pipedream/components/twitter/readme.md)
-			- **zoom**
-				- [README](Pipedream/components/zoom/README.md)
-			- **zoom_admin**
-				- [README](Pipedream/components/zoom_admin/README.md)
-		- [Concurrency and Throttling](Pipedream/Concurrency%20and%20Throttling.md)
-		- [Connected Accounts](Pipedream/Connected%20Accounts.md)
-		- [Connecting apps in Node.js](Pipedream/Connecting%20apps%20in%20Node.js.md)
-		- [CONTRIBUTING](Pipedream/CONTRIBUTING.md)
-		- [Destinations](Pipedream/Destinations.md)
-		- **docs**
-			- **docs**
-				- **abuse**
-					- [README](Pipedream/docs/docs/abuse/README.md)
-				- **api**
-					- **auth**
-						- [README](Pipedream/docs/docs/api/auth/README.md)
-					- **overview**
-						- [README](Pipedream/docs/docs/api/overview/README.md)
-					- **rest**
-						- [README](Pipedream/docs/docs/api/rest/README.md)
-						- **rss**
-							- [README](Pipedream/docs/docs/api/rest/rss/README.md)
-						- **webhooks**
-							- [README](Pipedream/docs/docs/api/rest/webhooks/README.md)
-						- **workflow-errors**
-							- [README](Pipedream/docs/docs/api/rest/workflow-errors/README.md)
-					- **sse**
-						- [README](Pipedream/docs/docs/api/sse/README.md)
-				- **apps**
-					- **all-apps**
-						- [README](Pipedream/docs/docs/apps/all-apps/README.md)
-					- **discord**
-						- [README](Pipedream/docs/docs/apps/discord/README.md)
-					- **hubspot**
-						- [README](Pipedream/docs/docs/apps/hubspot/README.md)
-					- **intercom**
-						- [README](Pipedream/docs/docs/apps/intercom/README.md)
-					- **servicenow**
-						- [README](Pipedream/docs/docs/apps/servicenow/README.md)
-					- **slack**
-						- [README](Pipedream/docs/docs/apps/slack/README.md)
-					- **strava**
-						- [README](Pipedream/docs/docs/apps/strava/README.md)
-					- **twitter**
-						- [README](Pipedream/docs/docs/apps/twitter/README.md)
-					- **zoho-books**
-						- [README](Pipedream/docs/docs/apps/zoho-books/README.md)
-					- **zoho-crm**
-						- [README](Pipedream/docs/docs/apps/zoho-crm/README.md)
-					- **zoho-mail**
-						- [README](Pipedream/docs/docs/apps/zoho-mail/README.md)
-					- **zoom**
-						- [README](Pipedream/docs/docs/apps/zoom/README.md)
-				- **cli**
-					- **install**
-						- [README](Pipedream/docs/docs/cli/install/README.md)
-					- **login**
-						- [README](Pipedream/docs/docs/cli/login/README.md)
-					- **reference**
-						- [README](Pipedream/docs/docs/cli/reference/README.md)
-				- **code**
-					- **bash**
-						- [README](Pipedream/docs/docs/code/bash/README.md)
-					- **go**
-						- [README](Pipedream/docs/docs/code/go/README.md)
-					- **nodejs**
-						- **async**
-							- [README](Pipedream/docs/docs/code/nodejs/async/README.md)
-						- **auth**
-							- [README](Pipedream/docs/docs/code/nodejs/auth/README.md)
-						- **http-requests**
-							- [README](Pipedream/docs/docs/code/nodejs/http-requests/README.md)
-						- [README](Pipedream/docs/docs/code/nodejs/README.md)
-						- **sharing-code**
-							- [README](Pipedream/docs/docs/code/nodejs/sharing-code/README.md)
-						- **working-with-files**
-							- [README](Pipedream/docs/docs/code/nodejs/working-with-files/README.md)
-					- **python**
-						- [README](Pipedream/docs/docs/code/python/README.md)
-					- [README](Pipedream/docs/docs/code/README.md)
-				- **components**
-					- **actions**
-						- [README](Pipedream/docs/docs/components/actions/README.md)
-					- **api**
-						- [README](Pipedream/docs/docs/components/api/README.md)
-					- **guidelines**
-						- [README](Pipedream/docs/docs/components/guidelines/README.md)
-					- **migrating**
-						- [README](Pipedream/docs/docs/components/migrating/README.md)
-					- **quickstart**
-						- **nodejs**
-							- **actions**
-								- [README](Pipedream/docs/docs/components/quickstart/nodejs/actions/README.md)
-							- **sources**
-								- [README](Pipedream/docs/docs/components/quickstart/nodejs/sources/README.md)
-					- [README](Pipedream/docs/docs/components/README.md)
-				- **connected-accounts**
-					- [README](Pipedream/docs/docs/connected-accounts/README.md)
-				- **destinations**
-					- **email**
-						- [README](Pipedream/docs/docs/destinations/email/README.md)
-					- **emit**
-						- [README](Pipedream/docs/docs/destinations/emit/README.md)
-					- **http**
-						- [README](Pipedream/docs/docs/destinations/http/README.md)
-					- [README](Pipedream/docs/docs/destinations/README.md)
-					- **s3**
-						- [README](Pipedream/docs/docs/destinations/s3/README.md)
-					- **sql**
-						- [README](Pipedream/docs/docs/destinations/sql/README.md)
-					- **sse**
-						- [README](Pipedream/docs/docs/destinations/sse/README.md)
-				- **environment-variables**
-					- [README](Pipedream/docs/docs/environment-variables/README.md)
-				- **errors**
-					- [README](Pipedream/docs/docs/errors/README.md)
-				- **examples**
-					- **adding-rows-to-google-sheets**
-						- [README](Pipedream/docs/docs/examples/adding-rows-to-google-sheets/README.md)
-					- **waiting-to-execute-next-step-of-workflow**
-						- [README](Pipedream/docs/docs/examples/waiting-to-execute-next-step-of-workflow/README.md)
-				- **limits**
-					- [README](Pipedream/docs/docs/limits/README.md)
-				- **migrate-from-v1**
-					- [README](Pipedream/docs/docs/migrate-from-v1/README.md)
-				- **new-feature-or-bug**
-					- [README](Pipedream/docs/docs/new-feature-or-bug/README.md)
-				- **notebook**
-					- **dollar-context**
-						- [README](Pipedream/docs/docs/notebook/dollar-context/README.md)
-					- **dollar-event**
-						- [README](Pipedream/docs/docs/notebook/dollar-event/README.md)
-				- **orgs**
-					- [README](Pipedream/docs/docs/orgs/README.md)
-					- **sso**
-						- **okta**
-							- [README](Pipedream/docs/docs/orgs/sso/okta/README.md)
-				- **pipedream-axios**
-					- [README](Pipedream/docs/docs/pipedream-axios/README.md)
-				- **pricing**
-					- [README](Pipedream/docs/docs/pricing/README.md)
-				- **privacy-and-security**
-					- **best-practices**
-						- [README](Pipedream/docs/docs/privacy-and-security/best-practices/README.md)
-					- **pgp-key**
-						- [README](Pipedream/docs/docs/privacy-and-security/pgp-key/README.md)
-					- [README](Pipedream/docs/docs/privacy-and-security/README.md)
-				- **public-workflows**
-					- [README](Pipedream/docs/docs/public-workflows/README.md)
-				- **quickstart**
-					- **add-data-to-google-sheets**
-						- [README](Pipedream/docs/docs/quickstart/add-data-to-google-sheets/README.md)
-					- **email-yourself**
-						- [README](Pipedream/docs/docs/quickstart/email-yourself/README.md)
-					- **end-workflow-early**
-						- [README](Pipedream/docs/docs/quickstart/end-workflow-early/README.md)
-					- **hello-name**
-						- [README](Pipedream/docs/docs/quickstart/hello-name/README.md)
-					- **hello-world**
-						- [README](Pipedream/docs/docs/quickstart/hello-world/README.md)
-					- **make-http-request**
-						- [README](Pipedream/docs/docs/quickstart/make-http-request/README.md)
-					- **next-steps**
-						- [README](Pipedream/docs/docs/quickstart/next-steps/README.md)
-					- [README](Pipedream/docs/docs/quickstart/README.md)
-					- **real-world-example**
-						- [README](Pipedream/docs/docs/quickstart/real-world-example/README.md)
-					- **run-workflow-on-a-schedule**
-						- [README](Pipedream/docs/docs/quickstart/run-workflow-on-a-schedule/README.md)
-					- **use-managed-auth-in-code**
-						- [README](Pipedream/docs/docs/quickstart/use-managed-auth-in-code/README.md)
-					- **using-npm-packages**
-						- [README](Pipedream/docs/docs/quickstart/using-npm-packages/README.md)
-				- [README](Pipedream/docs/docs/README.md)
-				- **removed-features**
-					- **dollar-variables**
-						- [README](Pipedream/docs/docs/removed-features/dollar-variables/README.md)
-				- **scheduling-future-tasks**
-					- [README](Pipedream/docs/docs/scheduling-future-tasks/README.md)
-				- **sign-up**
-					- [README](Pipedream/docs/docs/sign-up/README.md)
-				- **sources**
-					- **github**
-						- [README](Pipedream/docs/docs/sources/github/README.md)
-					- **http**
-						- [README](Pipedream/docs/docs/sources/http/README.md)
-					- **logs**
-						- [README](Pipedream/docs/docs/sources/logs/README.md)
-					- **public-streams**
-						- [README](Pipedream/docs/docs/sources/public-streams/README.md)
-					- [README](Pipedream/docs/docs/sources/README.md)
-					- **rss**
-						- [README](Pipedream/docs/docs/sources/rss/README.md)
-				- **status**
-					- [README](Pipedream/docs/docs/status/README.md)
-				- **subprocessors**
-					- [README](Pipedream/docs/docs/subprocessors/README.md)
-				- **troubleshooting**
-					- [README](Pipedream/docs/docs/troubleshooting/README.md)
-				- **user-settings**
-					- [README](Pipedream/docs/docs/user-settings/README.md)
-				- **workflows**
-					- **build-and-run**
-						- [README](Pipedream/docs/docs/workflows/build-and-run/README.md)
-					- **concurrency-and-throttling**
-						- [README](Pipedream/docs/docs/workflows/concurrency-and-throttling/README.md)
-					- **copy**
-						- [README](Pipedream/docs/docs/workflows/copy/README.md)
-					- **error-handling**
-						- **global-error-workflow**
-							- [README](Pipedream/docs/docs/workflows/error-handling/global-error-workflow/README.md)
-					- **events**
-						- **cold-starts**
-							- [README](Pipedream/docs/docs/workflows/events/cold-starts/README.md)
-						- **concurrency-and-throttling**
-							- [README](Pipedream/docs/docs/workflows/events/concurrency-and-throttling/README.md)
-						- **inspect**
-							- [README](Pipedream/docs/docs/workflows/events/inspect/README.md)
-						- [README](Pipedream/docs/docs/workflows/events/README.md)
-						- **replay**
-							- [README](Pipedream/docs/docs/workflows/events/replay/README.md)
-						- **test**
-							- [README](Pipedream/docs/docs/workflows/events/test/README.md)
-					- **examples**
-						- **add-multiple-rows-to-google-sheets**
-							- [README](Pipedream/docs/docs/workflows/examples/add-multiple-rows-to-google-sheets/README.md)
-						- **add-record-to-airtable**
-							- [README](Pipedream/docs/docs/workflows/examples/add-record-to-airtable/README.md)
-						- **add-row-to-google-sheets**
-							- [README](Pipedream/docs/docs/workflows/examples/add-row-to-google-sheets/README.md)
-						- **cron-job**
-							- [README](Pipedream/docs/docs/workflows/examples/cron-job/README.md)
-						- **http-response**
-							- [README](Pipedream/docs/docs/workflows/examples/http-response/README.md)
-						- **send-discord-message**
-							- [README](Pipedream/docs/docs/workflows/examples/send-discord-message/README.md)
-						- **send-email-to-someone-else**
-							- [README](Pipedream/docs/docs/workflows/examples/send-email-to-someone-else/README.md)
-						- **send-http-request**
-							- [README](Pipedream/docs/docs/workflows/examples/send-http-request/README.md)
-						- **send-slack-message**
-							- [README](Pipedream/docs/docs/workflows/examples/send-slack-message/README.md)
-						- **send-yourself-email**
-							- [README](Pipedream/docs/docs/workflows/examples/send-yourself-email/README.md)
-						- **trigger-workflow-on-saas-event**
-							- [README](Pipedream/docs/docs/workflows/examples/trigger-workflow-on-saas-event/README.md)
-					- **managing**
-						- [README](Pipedream/docs/docs/workflows/managing/README.md)
-					- **networking**
-						- [README](Pipedream/docs/docs/workflows/networking/README.md)
-					- [README](Pipedream/docs/docs/workflows/README.md)
-					- **settings**
-						- [README](Pipedream/docs/docs/workflows/settings/README.md)
-					- **steps**
-						- **actions**
-							- [README](Pipedream/docs/docs/workflows/steps/actions/README.md)
-						- **params**
-							- [README](Pipedream/docs/docs/workflows/steps/params/README.md)
-						- [README](Pipedream/docs/docs/workflows/steps/README.md)
-						- **triggers**
-							- [README](Pipedream/docs/docs/workflows/steps/triggers/README.md)
-			- [README](Pipedream/docs/README.md)
-		- [Environment Variables](Pipedream/Environment%20Variables.md)
-		- [Events](Pipedream/Events.md)
-		- [Go](Pipedream/Go.md)
-		- **interfaces**
-			- **http**
-				- [README](Pipedream/interfaces/http/README.md)
-			- **timer**
-				- **examples**
-					- **create-component**
-						- [README](Pipedream/interfaces/timer/examples/create-component/README.md)
-				- [README](Pipedream/interfaces/timer/README.md)
-		- [Make HTTP Requests with Node.js](Pipedream/Make%20HTTP%20Requests%20with%20Node.js.md)
-		- [Network  IP range](Pipedream/Network%20%20IP%20range.md)
-		- [Overview](Pipedream/Overview.md)
-		- [Pipedream Overview](Pipedream/Pipedream%20Overview.md)
-		- [Python](Pipedream/Python.md)
-		- [Quickstart](Pipedream/Quickstart.md)
-		- [README](Pipedream/README.md)
-		- [Scheduling future tasks](Pipedream/Scheduling%20future%20tasks.md)
-		- [SECURITY](Pipedream/SECURITY.md)
-		- [Settings](Pipedream/Settings.md)
-		- [Sources](Pipedream/Sources.md)
-		- [Steps](Pipedream/Steps.md)
-		- [Triggers](Pipedream/Triggers.md)
-		- [User Settings](Pipedream/User%20Settings.md)
-		- [What are Workflows](Pipedream/What%20are%20Workflows.md)
-		- [Working with the filesystem in Node.js](Pipedream/Working%20with%20the%20filesystem%20in%20Node.js.md)
-		- [Writing Node.js in Steps](Pipedream/Writing%20Node.js%20in%20Steps.md)
-	- **RSSHub**
-		- [anime](RSSHub/anime.md)
-		- [api](RSSHub/api.md)
-		- [bbs](RSSHub/bbs.md)
-		- [blog](RSSHub/blog.md)
-		- [design](RSSHub/design.md)
-		- [faq](RSSHub/faq.md)
-		- [finance](RSSHub/finance.md)
-		- [forecast](RSSHub/forecast.md)
-		- [game](RSSHub/game.md)
-		- [government](RSSHub/government.md)
-		- **install**
-			- [README](RSSHub/install/README.md)
-		- **joinus**
-			- [pub-date](RSSHub/joinus/pub-date.md)
-			- [quick-start](RSSHub/joinus/quick-start.md)
-			- [script-standard](RSSHub/joinus/script-standard.md)
-			- [use-cache](RSSHub/joinus/use-cache.md)
-		- [journal](RSSHub/journal.md)
-		- [live](RSSHub/live.md)
-		- [multimedia](RSSHub/multimedia.md)
-		- [new-media](RSSHub/new-media.md)
-		- [other](RSSHub/other.md)
-		- [parameter](RSSHub/parameter.md)
-		- [picture](RSSHub/picture.md)
-		- [program-update](RSSHub/program-update.md)
-		- [programming](RSSHub/programming.md)
-		- [reading](RSSHub/reading.md)
-		- [README](RSSHub/README.md)
-		- [shopping](RSSHub/shopping.md)
-		- [social-media](RSSHub/social-media.md)
-		- [study](RSSHub/study.md)
-		- **support**
-			- [README](RSSHub/support/README.md)
-		- [traditional-media](RSSHub/traditional-media.md)
-		- [travel](RSSHub/travel.md)
-		- [university](RSSHub/university.md)
-		- [usage](RSSHub/usage.md)
-	- **Shortcuts**
-		- [fs-bookmarks](Shortcuts/fs-bookmarks.md)
-		- [ios-shortcuts-resources](Shortcuts/ios-shortcuts-resources.md)
-	- **Webhooks**
-		- [the-plain-english-guide-to-webhooks](Webhooks/the-plain-english-guide-to-webhooks.md)
-		- [webhooks-explained](Webhooks/webhooks-explained.md)
-	- **Zapier**
-		- [add branching logic to zaps with filters  customize your zaps  create  help & support  zapier](Zapier/add%20branching%20logic%20to%20zaps%20with%20filters%20%20customize%20your%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [add branching logic to zaps with paths  customize your zaps  create  help & support  zapier](Zapier/add%20branching%20logic%20to%20zaps%20with%20paths%20%20customize%20your%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [add conditions to zaps with filters  customize your zaps  create  help & support  zapier](Zapier/add%20conditions%20to%20zaps%20with%20filters%20%20customize%20your%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [add custom values to dropdown menu fields in zaps  customize your zaps  create  help & support  zapier](Zapier/add%20custom%20values%20to%20dropdown%20menu%20fields%20in%20zaps%20%20customize%20your%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [add delays to zaps  customize your zaps  create  help & support  zapier](Zapier/add%20delays%20to%20zaps%20%20customize%20your%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [adjust date and time values in zaps  customize your zaps  create  help & support  zapier](Zapier/adjust%20date%20and%20time%20values%20in%20zaps%20%20customize%20your%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [are filters case-sensitive  customize your zaps  create  help & support  zapier](Zapier/are%20filters%20case-sensitive%20%20customize%20your%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [automation basics - the zapier quick-start guide  zapier](Zapier/automation%20basics%20-%20the%20zapier%20quick-start%20guide%20%20zapier.md)
-		- [automation for small businesses do more with the software you use every day  zapier](Zapier/automation%20for%20small%20businesses%20do%20more%20with%20the%20software%20you%20use%20every%20day%20%20zapier.md)
-		- [can i use a date format that’s not in the list of formats  format data in zaps  create  help & support  zapier](Zapier/can%20i%20use%20a%20date%20format%20that%E2%80%99s%20not%20in%20the%20list%20of%20formats%20%20format%20data%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [can i use custom values to use a field not in a dropdown menu  customize your zaps  create  help & support  zapier](Zapier/can%20i%20use%20custom%20values%20to%20use%20a%20field%20not%20in%20a%20dropdown%20menu%20%20customize%20your%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [compare dates and times in zaps  customize your zaps  create  help & support  zapier](Zapier/compare%20dates%20and%20times%20in%20zaps%20%20customize%20your%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [convert line items into text strings  format data in zaps  create  help & support  zapier](Zapier/convert%20line%20items%20into%20text%20strings%20%20format%20data%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [create line items in zaps  format data in zaps  create  help & support  zapier](Zapier/create%20line%20items%20in%20zaps%20%20format%20data%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [create lookup tables in zaps  format data in zaps  create  help & support  zapier](Zapier/create%20lookup%20tables%20in%20zaps%20%20format%20data%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [create your first zap - the zapier quick-start guide  zapier](Zapier/create%20your%20first%20zap%20-%20the%20zapier%20quick-start%20guide%20%20zapier.md)
-		- [customize your zaps  create  help & support  zapier](Zapier/customize%20your%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [data deduplication in zaps  basics of creating a zap  create  help & support  zapier](Zapier/data%20deduplication%20in%20zaps%20%20basics%20of%20creating%20a%20zap%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [extract data in zaps  format data in zaps  create  help & support  zapier](Zapier/extract%20data%20in%20zaps%20%20format%20data%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [filter and path rules in zaps  customize your zaps  create  help & support  zapier](Zapier/filter%20and%20path%20rules%20in%20zaps%20%20customize%20your%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [find text with regular expressions in zaps  format data in zaps  create  help & support  zapier](Zapier/find%20text%20with%20regular%20expressions%20in%20zaps%20%20format%20data%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [format data in zaps  create  help & support  zapier](Zapier/format%20data%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [get started with formatter  format data in zaps  create  help & support  zapier](Zapier/get%20started%20with%20formatter%20%20format%20data%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [how are tasks counted in filters  customize your zaps  create  help & support  zapier](Zapier/how%20are%20tasks%20counted%20in%20filters%20%20customize%20your%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [how to use rss feeds to boost your productivity](Zapier/how%20to%20use%20rss%20feeds%20to%20boost%20your%20productivity.md)
-		- [import csv files into zaps  format data in zaps  create  help & support  zapier](Zapier/import%20csv%20files%20into%20zaps%20%20format%20data%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [insert the time your zap runs into a field  customize your zaps  create  help & support  zapier](Zapier/insert%20the%20time%20your%20zap%20runs%20into%20a%20field%20%20customize%20your%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [javascript code examples in zaps  use code and webhooks in zaps  create  help & support  zapier](Zapier/javascript%20code%20examples%20in%20zaps%20%20use%20code%20and%20webhooks%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [keep your files and folders organized with automation  zapier](Zapier/keep%20your%20files%20and%20folders%20organized%20with%20automation%20%20zapier.md)
-		- [learn about tasks in zapier  view and manage your zap history  manage  help & support  zapier](Zapier/learn%20about%20tasks%20in%20zapier%20%20view%20and%20manage%20your%20zap%20history%20%20manage%20%20help%20&%20support%20%20zapier.md)
-		- [learn key concepts in zapier  basics of creating a zap  create  help & support  zapier](Zapier/learn%20key%20concepts%20in%20zapier%20%20basics%20of%20creating%20a%20zap%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [modify date and time formats in zaps  format data in zaps  create  help & support  zapier](Zapier/modify%20date%20and%20time%20formats%20in%20zaps%20%20format%20data%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [modify number formats in zaps  format data in zaps  create  help & support  zapier](Zapier/modify%20number%20formats%20in%20zaps%20%20format%20data%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [modify text formats in zaps  format data in zaps  create  help & support  zapier](Zapier/modify%20text%20formats%20in%20zaps%20%20format%20data%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [other built-in zap functions  create  help & support  zapier](Zapier/other%20built-in%20zap%20functions%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [other things to know - the zapier quick-start guide  zapier](Zapier/other%20things%20to%20know%20-%20the%20zapier%20quick-start%20guide%20%20zapier.md)
-		- [pick from a list of items in zaps  format data in zaps  create  help & support  zapier](Zapier/pick%20from%20a%20list%20of%20items%20in%20zaps%20%20format%20data%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [python code examples in zaps  use code and webhooks in zaps  create  help & support  zapier](Zapier/python%20code%20examples%20in%20zaps%20%20use%20code%20and%20webhooks%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [remove html tags in zaps  format data in zaps  create  help & support  zapier](Zapier/remove%20html%20tags%20in%20zaps%20%20format%20data%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [schedule zaps to run at specific intervals  customize your zaps  create  help & support  zapier](Zapier/schedule%20zaps%20to%20run%20at%20specific%20intervals%20%20customize%20your%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [send webhooks in zaps  use code and webhooks in zaps  create  help & support  zapier](Zapier/send%20webhooks%20in%20zaps%20%20use%20code%20and%20webhooks%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [set default values for blank fields in zaps  format data in zaps  create  help & support  zapier](Zapier/set%20default%20values%20for%20blank%20fields%20in%20zaps%20%20format%20data%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [shorten urls in zaps  format data in zaps  create  help & support  zapier](Zapier/shorten%20urls%20in%20zaps%20%20format%20data%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [split up trigger data in zaps  customize your zaps  create  help & support  zapier](Zapier/split%20up%20trigger%20data%20in%20zaps%20%20customize%20your%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [store data and create digests with zaps  create  help & support  zapier](Zapier/store%20data%20and%20create%20digests%20with%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [store data from code steps with storeclient  use code and webhooks in zaps  create  help & support  zapier](Zapier/store%20data%20from%20code%20steps%20with%20storeclient%20%20use%20code%20and%20webhooks%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [translate text in zaps  format data in zaps  create  help & support  zapier](Zapier/translate%20text%20in%20zaps%20%20format%20data%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [trigger zaps from polling webhooks  use code and webhooks in zaps  create  help & support  zapier](Zapier/trigger%20zaps%20from%20polling%20webhooks%20%20use%20code%20and%20webhooks%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [trigger zaps from webhooks  use code and webhooks in zaps  create  help & support  zapier](Zapier/trigger%20zaps%20from%20webhooks%20%20use%20code%20and%20webhooks%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [troubleshoot webhooks in zapier  use code and webhooks in zaps  create  help & support  zapier](Zapier/troubleshoot%20webhooks%20in%20zapier%20%20use%20code%20and%20webhooks%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [understand spreadsheet-style formula functions  format data in zaps  create  help & support  zapier](Zapier/understand%20spreadsheet-style%20formula%20functions%20%20format%20data%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [use code and webhooks in zaps  create  help & support  zapier](Zapier/use%20code%20and%20webhooks%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [use javascript code in zaps  use code and webhooks in zaps  create  help & support  zapier](Zapier/use%20javascript%20code%20in%20zaps%20%20use%20code%20and%20webhooks%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [use python code in zaps  use code and webhooks in zaps  create  help & support  zapier](Zapier/use%20python%20code%20in%20zaps%20%20use%20code%20and%20webhooks%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [use spreadsheet-style formula functions in zaps  format data in zaps  create  help & support  zapier](Zapier/use%20spreadsheet-style%20formula%20functions%20in%20zaps%20%20format%20data%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [what's the difference between and and or logic in filters and paths  customize your zaps  create  help & support  zapier](Zapier/what's%20the%20difference%20between%20and%20and%20or%20logic%20in%20filters%20and%20paths%20%20customize%20your%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
-		- [work with google sheets in zaps  format data in zaps  create  help & support  zapier](Zapier/work%20with%20google%20sheets%20in%20zaps%20%20format%20data%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+  - [automation](../../../..//HOME-MTHRFCKR/DEV-DOCS/automation/automation.md)
+  - [automationtools](automationtools.md)
+  - **IFTTT**
+    - [activity-feed](IFTTT/activity-feed.md)
+    - [activity](IFTTT/activity.md)
+    - [applets](IFTTT/applets.md)
+    - [archived-applets](IFTTT/archived-applets.md)
+    - [build-your-integration](IFTTT/build-your-integration.md)
+    - [common-errors](IFTTT/common-errors.md)
+    - [connect-api](IFTTT/connect-api.md)
+    - [connections](IFTTT/connections.md)
+    - [day-one-create-journal-entry](IFTTT/day-one-create-journal-entry.md)
+    - [day-one-ifttt](IFTTT/day-one-ifttt.md)
+    - [example-services](IFTTT/example-services.md)
+    - [faq](IFTTT/faq.md)
+    - [file-not-found](IFTTT/file-not-found.md)
+    - [filter-code](IFTTT/filter-code.md)
+    - [glossary](IFTTT/glossary.md)
+    - [guide](IFTTT/guide.md)
+    - [guidelines-for-success](IFTTT/guidelines-for-success.md)
+    - [guilded-webhooks-guide-ifttt](IFTTT/guilded-webhooks-guide-ifttt.md)
+    - [ifttt-like-a-boss](IFTTT/ifttt-like-a-boss.md)
+    - [my-services](IFTTT/my-services.md)
+    - [private-applets](IFTTT/private-applets.md)
+    - [process-overview](IFTTT/process-overview.md)
+    - [queries](IFTTT/queries.md)
+    - [query](IFTTT/query.md)
+    - [service-api-requirements](IFTTT/service-api-requirements.md)
+    - [service-rate-limit](IFTTT/service-rate-limit.md)
+    - [service-rate-limits](IFTTT/service-rate-limits.md)
+    - [spotify2dayone](IFTTT/spotify2dayone.md)
+    - [superpowers-for-integromat](IFTTT/superpowers-for-integromat.md)
+    - [testing-your-service](IFTTT/testing-your-service.md)
+    - [the-ultimate-ifttt-guide](IFTTT/the-ultimate-ifttt-guide.md)
+    - [usage-limit](IFTTT/usage-limit.md)
+    - [use-siri-to-run-applets](IFTTT/use-siri-to-run-applets.md)
+    - [webhooks](IFTTT/webhooks.md)
+  - [iosshortcutscatalog](iosshortcutscatalog.md)
+  - [iosshortcutslinks](iosshortcutslinks.md)
+  - **Make**
+    - [aggregator](Make/aggregator.md)
+    - [converger](Make/converger.md)
+    - [data store](Make/data%20store.md)
+    - [data structures](Make/data%20structures.md)
+    - [email](Make/email.md)
+    - [flow control](Make/flow%20control.md)
+    - [glossary](Make/glossary.md)
+    - [how to get text parser to produce an output value](Make/how%20to%20get%20text%20parser%20to%20produce%20an%20output%20value.md)
+    - [http](Make/http.md)
+    - [image](Make/image.md)
+    - [iterator](Make/iterator.md)
+    - [json](Make/json.md)
+    - [make api documentation](Make/make%20api%20documentation.md)
+    - [make-rss](Make/make-rss.md)
+    - [make-webhooks](Make/make-webhooks.md)
+    - [replacing google sheets legacy modules](Make/replacing%20google%20sheets%20legacy%20modules.md)
+    - [replacing legacy modules with new modules](Make/replacing%20legacy%20modules%20with%20new%20modules.md)
+    - [router](Make/router.md)
+    - [text parser](Make/text%20parser.md)
+    - [tools](Make/tools.md)
+    - [types of modules](Make/types%20of%20modules.md)
+    - [using make devtool](Make/using%20make%20devtool.md)
+    - [wordpress](Make/wordpress.md)
+    - [xml](Make/xml.md)
+  - [make2](make2.md)
+  - **Pipedream**
+    - [Actions](Pipedream/Actions.md)
+    - [Bash](Pipedream/Bash.md)
+    - **components**
+      - **aws**
+        - **sources**
+          - **new-emails-sent-to-ses-catch-all-domain**
+            - [README](Pipedream/components/aws/sources/new-emails-sent-to-ses-catch-all-domain/README.md)
+          - **new-records-returned-by-cloudwatch-logs-insights-query**
+            - [README](Pipedream/components/aws/sources/new-records-returned-by-cloudwatch-logs-insights-query/README.md)
+          - **new-scheduled-tasks**
+            - [README](Pipedream/components/aws/sources/new-scheduled-tasks/README.md)
+          - **new-sns-messages**
+            - [README](Pipedream/components/aws/sources/new-sns-messages/README.md)
+          - [README](Pipedream/components/aws/sources/README.md)
+      - **discord_bot**
+        - [README](Pipedream/components/discord_bot/README.md)
+      - **faunadb**
+        - [README](Pipedream/components/faunadb/README.md)
+      - **github**
+        - [readme](Pipedream/components/github/readme.md)
+      - **google_cloud**
+        - **sources**
+          - **bigquery-new-row**
+            - [README](Pipedream/components/google_cloud/sources/bigquery-new-row/README.md)
+          - **bigquery-query-results**
+            - [README](Pipedream/components/google_cloud/sources/bigquery-query-results/README.md)
+      - **hacker_news**
+        - [readme](Pipedream/components/hacker_news/readme.md)
+      - **http**
+        - [readme](Pipedream/components/http/readme.md)
+      - **rss**
+        - [README](Pipedream/components/rss/README.md)
+      - **sendgrid**
+        - **sources**
+          - **new-contact**
+            - [README](Pipedream/components/sendgrid/sources/new-contact/README.md)
+      - **shopify_partner**
+        - [README](Pipedream/components/shopify_partner/README.md)
+      - **snowflake**
+        - **sources**
+          - **new-row**
+            - [README](Pipedream/components/snowflake/sources/new-row/README.md)
+          - **query-results**
+            - [README](Pipedream/components/snowflake/sources/query-results/README.md)
+      - **strava**
+        - [README](Pipedream/components/strava/README.md)
+      - **textlocal**
+        - **sources**
+          - **new-contact**
+            - [README](Pipedream/components/textlocal/sources/new-contact/README.md)
+      - **twitter**
+        - [old](Pipedream/components/twitter/old.md)
+        - [readme](Pipedream/components/twitter/readme.md)
+      - **zoom**
+        - [README](Pipedream/components/zoom/README.md)
+      - **zoom_admin**
+        - [README](Pipedream/components/zoom_admin/README.md)
+    - [Concurrency and Throttling](Pipedream/Concurrency%20and%20Throttling.md)
+    - [Connected Accounts](Pipedream/Connected%20Accounts.md)
+    - [Connecting apps in Node.js](Pipedream/Connecting%20apps%20in%20Node.js.md)
+    - [CONTRIBUTING](Pipedream/CONTRIBUTING.md)
+    - [Destinations](Pipedream/Destinations.md)
+    - **docs**
+      - **docs**
+        - **abuse**
+          - [README](Pipedream/docs/docs/abuse/README.md)
+        - **api**
+          - **auth**
+            - [README](Pipedream/docs/docs/api/auth/README.md)
+          - **overview**
+            - [README](Pipedream/docs/docs/api/overview/README.md)
+          - **rest**
+            - [README](Pipedream/docs/docs/api/rest/README.md)
+            - **rss**
+              - [README](Pipedream/docs/docs/api/rest/rss/README.md)
+            - **webhooks**
+              - [README](Pipedream/docs/docs/api/rest/webhooks/README.md)
+            - **workflow-errors**
+              - [README](Pipedream/docs/docs/api/rest/workflow-errors/README.md)
+          - **sse**
+            - [README](Pipedream/docs/docs/api/sse/README.md)
+        - **apps**
+          - **all-apps**
+            - [README](Pipedream/docs/docs/apps/all-apps/README.md)
+          - **discord**
+            - [README](Pipedream/docs/docs/apps/discord/README.md)
+          - **hubspot**
+            - [README](Pipedream/docs/docs/apps/hubspot/README.md)
+          - **intercom**
+            - [README](Pipedream/docs/docs/apps/intercom/README.md)
+          - **servicenow**
+            - [README](Pipedream/docs/docs/apps/servicenow/README.md)
+          - **slack**
+            - [README](Pipedream/docs/docs/apps/slack/README.md)
+          - **strava**
+            - [README](Pipedream/docs/docs/apps/strava/README.md)
+          - **twitter**
+            - [README](Pipedream/docs/docs/apps/twitter/README.md)
+          - **zoho-books**
+            - [README](Pipedream/docs/docs/apps/zoho-books/README.md)
+          - **zoho-crm**
+            - [README](Pipedream/docs/docs/apps/zoho-crm/README.md)
+          - **zoho-mail**
+            - [README](Pipedream/docs/docs/apps/zoho-mail/README.md)
+          - **zoom**
+            - [README](Pipedream/docs/docs/apps/zoom/README.md)
+        - **cli**
+          - **install**
+            - [README](Pipedream/docs/docs/cli/install/README.md)
+          - **login**
+            - [README](Pipedream/docs/docs/cli/login/README.md)
+          - **reference**
+            - [README](Pipedream/docs/docs/cli/reference/README.md)
+        - **code**
+          - **bash**
+            - [README](Pipedream/docs/docs/code/bash/README.md)
+          - **go**
+            - [README](Pipedream/docs/docs/code/go/README.md)
+          - **nodejs**
+            - **async**
+              - [README](Pipedream/docs/docs/code/nodejs/async/README.md)
+            - **auth**
+              - [README](Pipedream/docs/docs/code/nodejs/auth/README.md)
+            - **http-requests**
+              - [README](Pipedream/docs/docs/code/nodejs/http-requests/README.md)
+            - [README](Pipedream/docs/docs/code/nodejs/README.md)
+            - **sharing-code**
+              - [README](Pipedream/docs/docs/code/nodejs/sharing-code/README.md)
+            - **working-with-files**
+              - [README](Pipedream/docs/docs/code/nodejs/working-with-files/README.md)
+          - **python**
+            - [README](Pipedream/docs/docs/code/python/README.md)
+          - [README](Pipedream/docs/docs/code/README.md)
+        - **components**
+          - **actions**
+            - [README](Pipedream/docs/docs/components/actions/README.md)
+          - **api**
+            - [README](Pipedream/docs/docs/components/api/README.md)
+          - **guidelines**
+            - [README](Pipedream/docs/docs/components/guidelines/README.md)
+          - **migrating**
+            - [README](Pipedream/docs/docs/components/migrating/README.md)
+          - **quickstart**
+            - **nodejs**
+              - **actions**
+                - [README](Pipedream/docs/docs/components/quickstart/nodejs/actions/README.md)
+              - **sources**
+                - [README](Pipedream/docs/docs/components/quickstart/nodejs/sources/README.md)
+          - [README](Pipedream/docs/docs/components/README.md)
+        - **connected-accounts**
+          - [README](Pipedream/docs/docs/connected-accounts/README.md)
+        - **destinations**
+          - **email**
+            - [README](Pipedream/docs/docs/destinations/email/README.md)
+          - **emit**
+            - [README](Pipedream/docs/docs/destinations/emit/README.md)
+          - **http**
+            - [README](Pipedream/docs/docs/destinations/http/README.md)
+          - [README](Pipedream/docs/docs/destinations/README.md)
+          - **s3**
+            - [README](Pipedream/docs/docs/destinations/s3/README.md)
+          - **sql**
+            - [README](Pipedream/docs/docs/destinations/sql/README.md)
+          - **sse**
+            - [README](Pipedream/docs/docs/destinations/sse/README.md)
+        - **environment-variables**
+          - [README](Pipedream/docs/docs/environment-variables/README.md)
+        - **errors**
+          - [README](Pipedream/docs/docs/errors/README.md)
+        - **examples**
+          - **adding-rows-to-google-sheets**
+            - [README](Pipedream/docs/docs/examples/adding-rows-to-google-sheets/README.md)
+          - **waiting-to-execute-next-step-of-workflow**
+            - [README](Pipedream/docs/docs/examples/waiting-to-execute-next-step-of-workflow/README.md)
+        - **limits**
+          - [README](Pipedream/docs/docs/limits/README.md)
+        - **migrate-from-v1**
+          - [README](Pipedream/docs/docs/migrate-from-v1/README.md)
+        - **new-feature-or-bug**
+          - [README](Pipedream/docs/docs/new-feature-or-bug/README.md)
+        - **notebook**
+          - **dollar-context**
+            - [README](Pipedream/docs/docs/notebook/dollar-context/README.md)
+          - **dollar-event**
+            - [README](Pipedream/docs/docs/notebook/dollar-event/README.md)
+        - **orgs**
+          - [README](Pipedream/docs/docs/orgs/README.md)
+          - **sso**
+            - **okta**
+              - [README](Pipedream/docs/docs/orgs/sso/okta/README.md)
+        - **pipedream-axios**
+          - [README](Pipedream/docs/docs/pipedream-axios/README.md)
+        - **pricing**
+          - [README](Pipedream/docs/docs/pricing/README.md)
+        - **privacy-and-security**
+          - **best-practices**
+            - [README](Pipedream/docs/docs/privacy-and-security/best-practices/README.md)
+          - **pgp-key**
+            - [README](Pipedream/docs/docs/privacy-and-security/pgp-key/README.md)
+          - [README](Pipedream/docs/docs/privacy-and-security/README.md)
+        - **public-workflows**
+          - [README](Pipedream/docs/docs/public-workflows/README.md)
+        - **quickstart**
+          - **add-data-to-google-sheets**
+            - [README](Pipedream/docs/docs/quickstart/add-data-to-google-sheets/README.md)
+          - **email-yourself**
+            - [README](Pipedream/docs/docs/quickstart/email-yourself/README.md)
+          - **end-workflow-early**
+            - [README](Pipedream/docs/docs/quickstart/end-workflow-early/README.md)
+          - **hello-name**
+            - [README](Pipedream/docs/docs/quickstart/hello-name/README.md)
+          - **hello-world**
+            - [README](Pipedream/docs/docs/quickstart/hello-world/README.md)
+          - **make-http-request**
+            - [README](Pipedream/docs/docs/quickstart/make-http-request/README.md)
+          - **next-steps**
+            - [README](Pipedream/docs/docs/quickstart/next-steps/README.md)
+          - [README](Pipedream/docs/docs/quickstart/README.md)
+          - **real-world-example**
+            - [README](Pipedream/docs/docs/quickstart/real-world-example/README.md)
+          - **run-workflow-on-a-schedule**
+            - [README](Pipedream/docs/docs/quickstart/run-workflow-on-a-schedule/README.md)
+          - **use-managed-auth-in-code**
+            - [README](Pipedream/docs/docs/quickstart/use-managed-auth-in-code/README.md)
+          - **using-npm-packages**
+            - [README](Pipedream/docs/docs/quickstart/using-npm-packages/README.md)
+        - [README](Pipedream/docs/docs/README.md)
+        - **removed-features**
+          - **dollar-variables**
+            - [README](Pipedream/docs/docs/removed-features/dollar-variables/README.md)
+        - **scheduling-future-tasks**
+          - [README](Pipedream/docs/docs/scheduling-future-tasks/README.md)
+        - **sign-up**
+          - [README](Pipedream/docs/docs/sign-up/README.md)
+        - **sources**
+          - **github**
+            - [README](Pipedream/docs/docs/sources/github/README.md)
+          - **http**
+            - [README](Pipedream/docs/docs/sources/http/README.md)
+          - **logs**
+            - [README](Pipedream/docs/docs/sources/logs/README.md)
+          - **public-streams**
+            - [README](Pipedream/docs/docs/sources/public-streams/README.md)
+          - [README](Pipedream/docs/docs/sources/README.md)
+          - **rss**
+            - [README](Pipedream/docs/docs/sources/rss/README.md)
+        - **status**
+          - [README](Pipedream/docs/docs/status/README.md)
+        - **subprocessors**
+          - [README](Pipedream/docs/docs/subprocessors/README.md)
+        - **troubleshooting**
+          - [README](Pipedream/docs/docs/troubleshooting/README.md)
+        - **user-settings**
+          - [README](Pipedream/docs/docs/user-settings/README.md)
+        - **workflows**
+          - **build-and-run**
+            - [README](Pipedream/docs/docs/workflows/build-and-run/README.md)
+          - **concurrency-and-throttling**
+            - [README](Pipedream/docs/docs/workflows/concurrency-and-throttling/README.md)
+          - **copy**
+            - [README](Pipedream/docs/docs/workflows/copy/README.md)
+          - **error-handling**
+            - **global-error-workflow**
+              - [README](Pipedream/docs/docs/workflows/error-handling/global-error-workflow/README.md)
+          - **events**
+            - **cold-starts**
+              - [README](Pipedream/docs/docs/workflows/events/cold-starts/README.md)
+            - **concurrency-and-throttling**
+              - [README](Pipedream/docs/docs/workflows/events/concurrency-and-throttling/README.md)
+            - **inspect**
+              - [README](Pipedream/docs/docs/workflows/events/inspect/README.md)
+            - [README](Pipedream/docs/docs/workflows/events/README.md)
+            - **replay**
+              - [README](Pipedream/docs/docs/workflows/events/replay/README.md)
+            - **test**
+              - [README](Pipedream/docs/docs/workflows/events/test/README.md)
+          - **examples**
+            - **add-multiple-rows-to-google-sheets**
+              - [README](Pipedream/docs/docs/workflows/examples/add-multiple-rows-to-google-sheets/README.md)
+            - **add-record-to-airtable**
+              - [README](Pipedream/docs/docs/workflows/examples/add-record-to-airtable/README.md)
+            - **add-row-to-google-sheets**
+              - [README](Pipedream/docs/docs/workflows/examples/add-row-to-google-sheets/README.md)
+            - **cron-job**
+              - [README](Pipedream/docs/docs/workflows/examples/cron-job/README.md)
+            - **http-response**
+              - [README](Pipedream/docs/docs/workflows/examples/http-response/README.md)
+            - **send-discord-message**
+              - [README](Pipedream/docs/docs/workflows/examples/send-discord-message/README.md)
+            - **send-email-to-someone-else**
+              - [README](Pipedream/docs/docs/workflows/examples/send-email-to-someone-else/README.md)
+            - **send-http-request**
+              - [README](Pipedream/docs/docs/workflows/examples/send-http-request/README.md)
+            - **send-slack-message**
+              - [README](Pipedream/docs/docs/workflows/examples/send-slack-message/README.md)
+            - **send-yourself-email**
+              - [README](Pipedream/docs/docs/workflows/examples/send-yourself-email/README.md)
+            - **trigger-workflow-on-saas-event**
+              - [README](Pipedream/docs/docs/workflows/examples/trigger-workflow-on-saas-event/README.md)
+          - **managing**
+            - [README](Pipedream/docs/docs/workflows/managing/README.md)
+          - **networking**
+            - [README](Pipedream/docs/docs/workflows/networking/README.md)
+          - [README](Pipedream/docs/docs/workflows/README.md)
+          - **settings**
+            - [README](Pipedream/docs/docs/workflows/settings/README.md)
+          - **steps**
+            - **actions**
+              - [README](Pipedream/docs/docs/workflows/steps/actions/README.md)
+            - **params**
+              - [README](Pipedream/docs/docs/workflows/steps/params/README.md)
+            - [README](Pipedream/docs/docs/workflows/steps/README.md)
+            - **triggers**
+              - [README](Pipedream/docs/docs/workflows/steps/triggers/README.md)
+      - [README](Pipedream/docs/README.md)
+    - [Environment Variables](Pipedream/Environment%20Variables.md)
+    - [Events](Pipedream/Events.md)
+    - [Go](Pipedream/Go.md)
+    - **interfaces**
+      - **http**
+        - [README](Pipedream/interfaces/http/README.md)
+      - **timer**
+        - **examples**
+          - **create-component**
+            - [README](Pipedream/interfaces/timer/examples/create-component/README.md)
+        - [README](Pipedream/interfaces/timer/README.md)
+    - [Make HTTP Requests with Node.js](Pipedream/Make%20HTTP%20Requests%20with%20Node.js.md)
+    - [Network  IP range](Pipedream/Network%20%20IP%20range.md)
+    - [Overview](Pipedream/Overview.md)
+    - [Pipedream Overview](Pipedream/Pipedream%20Overview.md)
+    - [Python](Pipedream/Python.md)
+    - [Quickstart](Pipedream/Quickstart.md)
+    - [README](Pipedream/README.md)
+    - [Scheduling future tasks](Pipedream/Scheduling%20future%20tasks.md)
+    - [SECURITY](Pipedream/SECURITY.md)
+    - [Settings](Pipedream/Settings.md)
+    - [Sources](Pipedream/Sources.md)
+    - [Steps](Pipedream/Steps.md)
+    - [Triggers](Pipedream/Triggers.md)
+    - [User Settings](Pipedream/User%20Settings.md)
+    - [What are Workflows](Pipedream/What%20are%20Workflows.md)
+    - [Working with the filesystem in Node.js](Pipedream/Working%20with%20the%20filesystem%20in%20Node.js.md)
+    - [Writing Node.js in Steps](Pipedream/Writing%20Node.js%20in%20Steps.md)
+  - **RSSHub**
+    - [anime](RSSHub/anime.md)
+    - [api](RSSHub/api.md)
+    - [bbs](RSSHub/bbs.md)
+    - [blog](RSSHub/blog.md)
+    - [design](RSSHub/design.md)
+    - [faq](RSSHub/faq.md)
+    - [finance](RSSHub/finance.md)
+    - [forecast](RSSHub/forecast.md)
+    - [game](RSSHub/game.md)
+    - [government](RSSHub/government.md)
+    - **install**
+      - [README](RSSHub/install/README.md)
+    - **joinus**
+      - [pub-date](RSSHub/joinus/pub-date.md)
+      - [quick-start](RSSHub/joinus/quick-start.md)
+      - [script-standard](RSSHub/joinus/script-standard.md)
+      - [use-cache](RSSHub/joinus/use-cache.md)
+    - [journal](RSSHub/journal.md)
+    - [live](RSSHub/live.md)
+    - [multimedia](RSSHub/multimedia.md)
+    - [new-media](RSSHub/new-media.md)
+    - [other](RSSHub/other.md)
+    - [parameter](RSSHub/parameter.md)
+    - [picture](RSSHub/picture.md)
+    - [program-update](RSSHub/program-update.md)
+    - [programming](RSSHub/programming.md)
+    - [reading](RSSHub/reading.md)
+    - [README](RSSHub/README.md)
+    - [shopping](RSSHub/shopping.md)
+    - [social-media](RSSHub/social-media.md)
+    - [study](RSSHub/study.md)
+    - **support**
+      - [README](RSSHub/support/README.md)
+    - [traditional-media](RSSHub/traditional-media.md)
+    - [travel](RSSHub/travel.md)
+    - [university](RSSHub/university.md)
+    - [usage](RSSHub/usage.md)
+  - **Shortcuts**
+    - [fs-bookmarks](Shortcuts/fs-bookmarks.md)
+    - [ios-shortcuts-resources](Shortcuts/ios-shortcuts-resources.md)
+  - **Webhooks**
+    - [the-plain-english-guide-to-webhooks](Webhooks/the-plain-english-guide-to-webhooks.md)
+    - [webhooks-explained](Webhooks/webhooks-explained.md)
+  - **Zapier**
+    - [add branching logic to zaps with filters  customize your zaps  create  help & support  zapier](Zapier/add%20branching%20logic%20to%20zaps%20with%20filters%20%20customize%20your%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [add branching logic to zaps with paths  customize your zaps  create  help & support  zapier](Zapier/add%20branching%20logic%20to%20zaps%20with%20paths%20%20customize%20your%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [add conditions to zaps with filters  customize your zaps  create  help & support  zapier](Zapier/add%20conditions%20to%20zaps%20with%20filters%20%20customize%20your%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [add custom values to dropdown menu fields in zaps  customize your zaps  create  help & support  zapier](Zapier/add%20custom%20values%20to%20dropdown%20menu%20fields%20in%20zaps%20%20customize%20your%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [add delays to zaps  customize your zaps  create  help & support  zapier](Zapier/add%20delays%20to%20zaps%20%20customize%20your%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [adjust date and time values in zaps  customize your zaps  create  help & support  zapier](Zapier/adjust%20date%20and%20time%20values%20in%20zaps%20%20customize%20your%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [are filters case-sensitive  customize your zaps  create  help & support  zapier](Zapier/are%20filters%20case-sensitive%20%20customize%20your%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [automation basics - the zapier quick-start guide  zapier](Zapier/automation%20basics%20-%20the%20zapier%20quick-start%20guide%20%20zapier.md)
+    - [automation for small businesses do more with the software you use every day  zapier](Zapier/automation%20for%20small%20businesses%20do%20more%20with%20the%20software%20you%20use%20every%20day%20%20zapier.md)
+    - [can i use a date format that’s not in the list of formats  format data in zaps  create  help & support  zapier](Zapier/can%20i%20use%20a%20date%20format%20that%E2%80%99s%20not%20in%20the%20list%20of%20formats%20%20format%20data%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [can i use custom values to use a field not in a dropdown menu  customize your zaps  create  help & support  zapier](Zapier/can%20i%20use%20custom%20values%20to%20use%20a%20field%20not%20in%20a%20dropdown%20menu%20%20customize%20your%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [compare dates and times in zaps  customize your zaps  create  help & support  zapier](Zapier/compare%20dates%20and%20times%20in%20zaps%20%20customize%20your%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [convert line items into text strings  format data in zaps  create  help & support  zapier](Zapier/convert%20line%20items%20into%20text%20strings%20%20format%20data%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [create line items in zaps  format data in zaps  create  help & support  zapier](Zapier/create%20line%20items%20in%20zaps%20%20format%20data%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [create lookup tables in zaps  format data in zaps  create  help & support  zapier](Zapier/create%20lookup%20tables%20in%20zaps%20%20format%20data%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [create your first zap - the zapier quick-start guide  zapier](Zapier/create%20your%20first%20zap%20-%20the%20zapier%20quick-start%20guide%20%20zapier.md)
+    - [customize your zaps  create  help & support  zapier](Zapier/customize%20your%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [data deduplication in zaps  basics of creating a zap  create  help & support  zapier](Zapier/data%20deduplication%20in%20zaps%20%20basics%20of%20creating%20a%20zap%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [extract data in zaps  format data in zaps  create  help & support  zapier](Zapier/extract%20data%20in%20zaps%20%20format%20data%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [filter and path rules in zaps  customize your zaps  create  help & support  zapier](Zapier/filter%20and%20path%20rules%20in%20zaps%20%20customize%20your%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [find text with regular expressions in zaps  format data in zaps  create  help & support  zapier](Zapier/find%20text%20with%20regular%20expressions%20in%20zaps%20%20format%20data%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [format data in zaps  create  help & support  zapier](Zapier/format%20data%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [get started with formatter  format data in zaps  create  help & support  zapier](Zapier/get%20started%20with%20formatter%20%20format%20data%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [how are tasks counted in filters  customize your zaps  create  help & support  zapier](Zapier/how%20are%20tasks%20counted%20in%20filters%20%20customize%20your%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [how to use rss feeds to boost your productivity](Zapier/how%20to%20use%20rss%20feeds%20to%20boost%20your%20productivity.md)
+    - [import csv files into zaps  format data in zaps  create  help & support  zapier](Zapier/import%20csv%20files%20into%20zaps%20%20format%20data%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [insert the time your zap runs into a field  customize your zaps  create  help & support  zapier](Zapier/insert%20the%20time%20your%20zap%20runs%20into%20a%20field%20%20customize%20your%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [javascript code examples in zaps  use code and webhooks in zaps  create  help & support  zapier](Zapier/javascript%20code%20examples%20in%20zaps%20%20use%20code%20and%20webhooks%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [keep your files and folders organized with automation  zapier](Zapier/keep%20your%20files%20and%20folders%20organized%20with%20automation%20%20zapier.md)
+    - [learn about tasks in zapier  view and manage your zap history  manage  help & support  zapier](Zapier/learn%20about%20tasks%20in%20zapier%20%20view%20and%20manage%20your%20zap%20history%20%20manage%20%20help%20&%20support%20%20zapier.md)
+    - [learn key concepts in zapier  basics of creating a zap  create  help & support  zapier](Zapier/learn%20key%20concepts%20in%20zapier%20%20basics%20of%20creating%20a%20zap%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [modify date and time formats in zaps  format data in zaps  create  help & support  zapier](Zapier/modify%20date%20and%20time%20formats%20in%20zaps%20%20format%20data%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [modify number formats in zaps  format data in zaps  create  help & support  zapier](Zapier/modify%20number%20formats%20in%20zaps%20%20format%20data%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [modify text formats in zaps  format data in zaps  create  help & support  zapier](Zapier/modify%20text%20formats%20in%20zaps%20%20format%20data%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [other built-in zap functions  create  help & support  zapier](Zapier/other%20built-in%20zap%20functions%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [other things to know - the zapier quick-start guide  zapier](Zapier/other%20things%20to%20know%20-%20the%20zapier%20quick-start%20guide%20%20zapier.md)
+    - [pick from a list of items in zaps  format data in zaps  create  help & support  zapier](Zapier/pick%20from%20a%20list%20of%20items%20in%20zaps%20%20format%20data%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [python code examples in zaps  use code and webhooks in zaps  create  help & support  zapier](Zapier/python%20code%20examples%20in%20zaps%20%20use%20code%20and%20webhooks%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [remove html tags in zaps  format data in zaps  create  help & support  zapier](Zapier/remove%20html%20tags%20in%20zaps%20%20format%20data%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [schedule zaps to run at specific intervals  customize your zaps  create  help & support  zapier](Zapier/schedule%20zaps%20to%20run%20at%20specific%20intervals%20%20customize%20your%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [send webhooks in zaps  use code and webhooks in zaps  create  help & support  zapier](Zapier/send%20webhooks%20in%20zaps%20%20use%20code%20and%20webhooks%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [set default values for blank fields in zaps  format data in zaps  create  help & support  zapier](Zapier/set%20default%20values%20for%20blank%20fields%20in%20zaps%20%20format%20data%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [shorten urls in zaps  format data in zaps  create  help & support  zapier](Zapier/shorten%20urls%20in%20zaps%20%20format%20data%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [split up trigger data in zaps  customize your zaps  create  help & support  zapier](Zapier/split%20up%20trigger%20data%20in%20zaps%20%20customize%20your%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [store data and create digests with zaps  create  help & support  zapier](Zapier/store%20data%20and%20create%20digests%20with%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [store data from code steps with storeclient  use code and webhooks in zaps  create  help & support  zapier](Zapier/store%20data%20from%20code%20steps%20with%20storeclient%20%20use%20code%20and%20webhooks%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [translate text in zaps  format data in zaps  create  help & support  zapier](Zapier/translate%20text%20in%20zaps%20%20format%20data%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [trigger zaps from polling webhooks  use code and webhooks in zaps  create  help & support  zapier](Zapier/trigger%20zaps%20from%20polling%20webhooks%20%20use%20code%20and%20webhooks%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [trigger zaps from webhooks  use code and webhooks in zaps  create  help & support  zapier](Zapier/trigger%20zaps%20from%20webhooks%20%20use%20code%20and%20webhooks%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [troubleshoot webhooks in zapier  use code and webhooks in zaps  create  help & support  zapier](Zapier/troubleshoot%20webhooks%20in%20zapier%20%20use%20code%20and%20webhooks%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [understand spreadsheet-style formula functions  format data in zaps  create  help & support  zapier](Zapier/understand%20spreadsheet-style%20formula%20functions%20%20format%20data%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [use code and webhooks in zaps  create  help & support  zapier](Zapier/use%20code%20and%20webhooks%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [use javascript code in zaps  use code and webhooks in zaps  create  help & support  zapier](Zapier/use%20javascript%20code%20in%20zaps%20%20use%20code%20and%20webhooks%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [use python code in zaps  use code and webhooks in zaps  create  help & support  zapier](Zapier/use%20python%20code%20in%20zaps%20%20use%20code%20and%20webhooks%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [use spreadsheet-style formula functions in zaps  format data in zaps  create  help & support  zapier](Zapier/use%20spreadsheet-style%20formula%20functions%20in%20zaps%20%20format%20data%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [what's the difference between and and or logic in filters and paths  customize your zaps  create  help & support  zapier](Zapier/what's%20the%20difference%20between%20and%20and%20or%20logic%20in%20filters%20and%20paths%20%20customize%20your%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
+    - [work with google sheets in zaps  format data in zaps  create  help & support  zapier](Zapier/work%20with%20google%20sheets%20in%20zaps%20%20format%20data%20in%20zaps%20%20create%20%20help%20&%20support%20%20zapier.md)
 
 %% End Waypoint %%
-

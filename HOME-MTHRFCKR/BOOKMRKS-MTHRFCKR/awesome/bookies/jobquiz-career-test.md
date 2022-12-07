@@ -14,18 +14,18 @@
 
 | RANK        | JOB           | SALARY  | COMPETITION |
 | ------------- |:-------------:| -----:| ----: |
-| 6 | Multimedia artist and animator | $63,970 | Challenging | 
-| 7 | Cartographer | $61,880 | Average | 
-| 8 | City planner | $68,220 | Challenging | 
-| 9 | Medical secretary | $33,040 | Low | 
-| 10 | Video game designer | $63,970 | Extreme | 
-| 11 | Educational counselor | $53,660 | Challenging | 
-| 12 | Computer Programmer | $79,530 | Challenging | 
-| 13 | Landscape Architect | $63,810 | Challenging | 
-| 14 | Computer systems analyst | $85,800 | Average | 
-| 15 | Zoologist and wildlife biologist | $59,680 | Challenging | 
+| 6 | Multimedia artist and animator | $63,970 | Challenging |
+| 7 | Cartographer | $61,880 | Average |
+| 8 | City planner | $68,220 | Challenging |
+| 9 | Medical secretary | $33,040 | Low |
+| 10 | Video game designer | $63,970 | Extreme |
+| 11 | Educational counselor | $53,660 | Challenging |
+| 12 | Computer Programmer | $79,530 | Challenging |
+| 13 | Landscape Architect | $63,810 | Challenging |
+| 14 | Computer systems analyst | $85,800 | Average |
+| 15 | Zoologist and wildlife biologist | $59,680 | Challenging |
 
-## Your Personality Analysis:
+## Your Personality Analysis
 
 Your personality style: **Examiner**
 
@@ -33,35 +33,37 @@ As an Examiner you would enjoy a career where you can build success around techn
 
 Your analytical nature makes you perfect for technical careers. You would thrive in roles where accuracy, logic, and a systematic approach to work make up a large part of your day. Most people would find you precise, practical and data-focused. You are driven by facts and information and would enjoy the opportunity to master a complicated, technical field. Your personality shows that you believe that accuracy on-the-job is far more important than speed.
 
-## Your Career Lane Scores:
+## Your Career Lane Scores
 
 One of the most important sections of JobQuiz is the analysis of your skills and desires related to 18 Career Lanes. Your scores on these Career Lanes provide important data in determining a likely career direction and your interest in various professions. Scores range from to minus 100 (Highly unlikely career area) to plus 100 (Highly likely career area). From the scores, we determine the likelihood of career interest, as follows:
+
 * 51 to 100 points = Very Likely
 * 10 to 50 points = Possible
 * -100 to 10 points = Very Unlikely
 
 | Career Lanes | Your Score | Potential Career Area |
-|:-------------:|:-------------:|:-----:| 
-| Counseling | 90 | Very Likely | 
-| Technical Support | 90 | Very Likely | 
-| Arts and Creative | 90 | Very Likely | 
-| Computers | 70 | Very Likely | 
-| Sciences | 70 | Very Likely | 
-| Entrepreneurial | 50 | Possible | 
-| Communication | 50 | Possible | 
-| Education | 50 | Possible | 
-| Engineering | 20 | Possible | 
-| Financial | 0 | Very Unlikely | 
-| General Business | 0 | Very Unlikely | 
-| Office Support Functions | 0 | Very Unlikely | 
-| Medical Care Givers | -50 | Very Unlikely | 
-| General Services | -50 | Very Unlikely | 
-| Executive and Administration | -50 | Very Unlikely | 
-| Sales | -50 | Very Unlikely | 
-| Trades and Construction | -70 | Very Unlikely | 
-| Healthcare Professionals | -70 | Very Unlikely | 
+|:-------------:|:-------------:|:-----:|
+| Counseling | 90 | Very Likely |
+| Technical Support | 90 | Very Likely |
+| Arts and Creative | 90 | Very Likely |
+| Computers | 70 | Very Likely |
+| Sciences | 70 | Very Likely |
+| Entrepreneurial | 50 | Possible |
+| Communication | 50 | Possible |
+| Education | 50 | Possible |
+| Engineering | 20 | Possible |
+| Financial | 0 | Very Unlikely |
+| General Business | 0 | Very Unlikely |
+| Office Support Functions | 0 | Very Unlikely |
+| Medical Care Givers | -50 | Very Unlikely |
+| General Services | -50 | Very Unlikely |
+| Executive and Administration | -50 | Very Unlikely |
+| Sales | -50 | Very Unlikely |
+| Trades and Construction | -70 | Very Unlikely |
+| Healthcare Professionals | -70 | Very Unlikely |
 
 ## Conclusion
+
 1. Your results indicate that you're most interested in the Counseling field! A career in the Counseling field will require working with people to resolve personal and psychological problems. Your day could be filled with talking, listening, and helping others to improve their lives. You will often work with people under stressful situations that will require a calm demeanor focused on the needs and feelings of others.
 2. Your results indicate that you're 2nd highest interest is in the Technical Support field! A career in Technical Support requires strong computer or technical skills and an interest in helping others to achieve results. Your day may be filled with answering questions of a technical nature, repairing computers, evaluating technical problems or performing as a technician in a business, engineering or medical environment. This is a supporting role, but may grow into something more based on skills, knowledge and level of achievement. This type of work requires the ability to manage stress while working with people who are frustrated by the challenges of
 3. Your results indicate that you're 3rd highest interest is in the Arts and Creative field! A career in the Arts and Creative field can be highly competitive, and can range from music and art to video game design and development. While most people possess some level of creativity, it’s only the truly exceptional who have the skill or talent required to work professionally in the arts. However, for those with extraordinary gifts, a creative career can an amazing experience. In addition to pure creative careers, there are many jobs that contain some aspect of creativity. For example, there may be very few successful novelists, but there are many more people working in advertising, public relations or as technical writers. In this field, your day could be filled with creating new ideas and concepts, entertaining or inspiring others, or finding new and innovating methods for achieving results.
@@ -90,13 +92,15 @@ As you completed the various sections of JobQuiz, our decision-engine was tracki
 An issue that you must consider when evaluating potential careers is money. It would be nice if we could all do only what we love, but the reality is that someone must be willing to pay for our efforts. Many people often complain about how much they get paid for doing a specific job. What they may fail to realize is that in a market economy income is highly predictable based on several market forces.
 
 ## The Income Triangle
+
 Income is a factor of supply and demand and is primarily based on three elements:
+
 1. How long does it take to develop a person capable of doing the job?
 2. How scarce are the skills required to perform the job duties? (In other words, how much does the demand for these skills exceed the available supply?)
 3. How much financial gain does the job produce for an employer or organization?
 
-
 The three factors of income can be referred to as:
+
 1. Development Time
 2. Scarcity of Skills
 3. Financial Productivity

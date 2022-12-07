@@ -1,4 +1,5 @@
 ## OSINT Misc
+
 - [Pastebin](https://pastebin.com/)
 - [RaidForums](https://raidforums.com/)
 - [Blog searching](https://www.blogbing.com/)

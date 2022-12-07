@@ -1,6 +1,6 @@
--   [Make Help Center](https://www.make.com/en/help/index-en.html)
--   [Modules](https://www.make.com/en/help/modules.html)
--   Iterator
+- [Make Help Center](https://www.make.com/en/help/index-en.html)
+- [Modules](https://www.make.com/en/help/modules.html)
+- Iterator
 
 Iterator is a special type of module that converts an array into a series of bundles. Each array item will output as a separate bundle.
 
@@ -8,7 +8,7 @@ Iterator is a special type of module that converts an array into a series of bun
 
 Setting up an iterator is done in the same way as [setting any other module](https://www.make.com/en/help/modules/module-settings.html "Module settings"). The Array field contains the array to be converted/split into separate bundles.
 
-### Examples:
+### Examples
 
 #### Save email attachments to Google Drive
 

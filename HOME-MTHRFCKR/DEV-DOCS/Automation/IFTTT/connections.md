@@ -16,12 +16,12 @@ The [connection creation tool](https://platform.ifttt.com/mkt/connections%2Fnew)
 
 #### How to use the tool
 
-1.  Start by searching for and selecting the service you are looking to connect with
-2.  Then add a [feature](https://ifttt.com/docs/glossary#feature) and configure the triggers, queries, and actions you're going to use.
-3.  Enter a title for the connection (e.g. "Control your Hue lights when you stream on Twitch") then click **Update**.
-4.  A runtime script, if included, will run any time a new trigger event occurs for the connection.
-5.  You'll now have access to Connect API endpoints for the selected queries, triggers, and actions.
-6.  Leverage the [Connect API](https://ifttt.com/docs/connect_api) along with the [iOS SDK](https://github.com/IFTTT/ConnectSDK-iOS) and [Android SDK](https://github.com/IFTTT/ConnectSDK-Android) to programmatically execute queries, subscribe to triggers, and run actions for your users.
+1. Start by searching for and selecting the service you are looking to connect with
+2. Then add a [feature](https://ifttt.com/docs/glossary#feature) and configure the triggers, queries, and actions you're going to use.
+3. Enter a title for the connection (e.g. "Control your Hue lights when you stream on Twitch") then click **Update**.
+4. A runtime script, if included, will run any time a new trigger event occurs for the connection.
+5. You'll now have access to Connect API endpoints for the selected queries, triggers, and actions.
+6. Leverage the [Connect API](https://ifttt.com/docs/connect_api) along with the [iOS SDK](https://github.com/IFTTT/ConnectSDK-iOS) and [Android SDK](https://github.com/IFTTT/ConnectSDK-Android) to programmatically execute queries, subscribe to triggers, and run actions for your users.
 
 #### Tips on configuration
 
@@ -229,21 +229,19 @@ Time limit: 10 seconds (your runtime script will be terminated if it exceeds thi
 
 ### Testing and publishing your connections
 
--   To see the Connect API logs for a given connection, click the "API logs" tab and reference set of [status codes](https://ifttt.com/docs/connect_api#http-status-codes).
-    
--   Connections can be tested fully with the [iOS and Android SDKs](https://ifttt.com/docs/connect_api#ios-and-android-sdks).
-    
--   Publishing connections is only available for approved paid organizations. To learn more, [contact sales](mailto:sales@ifttt.com).
-    
+- To see the Connect API logs for a given connection, click the "API logs" tab and reference set of [status codes](https://ifttt.com/docs/connect_api#http-status-codes).
+
+- Connections can be tested fully with the [iOS and Android SDKs](https://ifttt.com/docs/connect_api#ios-and-android-sdks).
+
+- Publishing connections is only available for approved paid organizations. To learn more, [contact sales](mailto:sales@ifttt.com).
 
 ___
 
-#### Next steps:
+#### Next steps
 
--   Explore the [Connect API](https://ifttt.com/docs/connect_api).
--   Create your first connection with our [Connect Quick Start Guide](https://ifttt.com/docs/getting_started_connect).
--   Explore the [Service API](https://ifttt.com/docs/api_reference) to build [triggers](https://ifttt.com/docs/glossary#trigger), [queries](https://ifttt.com/docs/glossary#query), and [actions](https://ifttt.com/docs/glossary#action) that other services can interact with.
-
+- Explore the [Connect API](https://ifttt.com/docs/connect_api).
+- Create your first connection with our [Connect Quick Start Guide](https://ifttt.com/docs/getting_started_connect).
+- Explore the [Service API](https://ifttt.com/docs/api_reference) to build [triggers](https://ifttt.com/docs/glossary#trigger), [queries](https://ifttt.com/docs/glossary#query), and [actions](https://ifttt.com/docs/glossary#action) that other services can interact with.
 
 ---
-#ifttt 
+# ifttt

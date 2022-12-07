@@ -1,19 +1,19 @@
 # Htmlcssjavascript-templates
 
-## HTML/CSS/JavaScript Templates:
+## HTML/CSS/JavaScript Templates
 
 | Website |
 | ------- |
-| https://inovatik.com | 
-| https://www.tooplate.com | 
-| https://html5up.net | 
-| https://templatemo.com | 
-| https://uideck.com | 
-| https://freehtml5.co | 
-| https://www.zerotheme.com |
-| https://bootstrapmade.com |
-| https://graygrids.com |
-| https://tailwindtemplates.co/ |
-| https://themeselection.com/ |
+| <https://inovatik.com> |
+| <https://www.tooplate.com> |
+| <https://html5up.net> |
+| <https://templatemo.com> |
+| <https://uideck.com> |
+| <https://freehtml5.co> |
+| <https://www.zerotheme.com> |
+| <https://bootstrapmade.com> |
+| <https://graygrids.com> |
+| <https://tailwindtemplates.co/> |
+| <https://themeselection.com/> |
   
 [⬆ back to top](#table-of-contents)

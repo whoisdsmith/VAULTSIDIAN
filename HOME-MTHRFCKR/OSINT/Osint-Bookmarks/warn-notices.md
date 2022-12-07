@@ -1,4 +1,5 @@
 ## WARN Notices
+
 - [Alabama WARN Notice List](http://www.madeinalabama.com/warn-list)
 - [Alaska WARN Notice List](http://jobs.alaska.gov/RR/WARN_notices.htm)
 - [California WARN Notice List](https://www.edd.ca.gov/Jobs_and_Training/Layoff_Services_WARN.htm#ListingofWARNNotices)

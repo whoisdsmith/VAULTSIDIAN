@@ -1,4 +1,4 @@
-##  Privacy and Encryption Tools
+## Privacy and Encryption Tools
 
 * [Abine](https://www.abine.com)
 * [Adium](https://adium.im)
@@ -56,4 +56,5 @@
 * [Wickr](https://wickr.com)
 * [WOT](https://www.mywot.com)
 * [ZMail](http://zmail.sourceforge.net)
+
 ---

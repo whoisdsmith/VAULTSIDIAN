@@ -45,7 +45,6 @@ You can use the default keyboard shortcuts in Visual Studio Code when using GitH
 | Open GitHub Copilot (additional suggestions in separate pane) | Ctrl+Enter | github.copilot.generate |
 | Toggle GitHub Copilot on/off | *No default shortcut* | github.copilot.toggleCopilot |
 
-
 ## Rebinding Keyboard Shortcuts
 
 If you don't want to use the default keyboard shortcuts in Visual Studio Code when using GitHub Copilot, you can rebind the shortcuts in the Keyboard Shortcuts editor using your preferred keyboard shortcuts for each specific command.
@@ -60,9 +59,9 @@ If you don't want to use the default keyboard shortcuts in Visual Studio Code wh
 You can enable or disable GitHub Copilot from within Visual Studio Code. The GitHub Copilot status icon in the bottom panel of the Visual Studio Code window indicates whether GitHub Copilot is enabled or disabled. When enabled, the background color of the icon will match the color of the status bar. When disabled, the background color of the icon will contrast with the color of the status bar.
 
 1. To enable or disable GitHub Copilot, click the status icon in the bottom panel of the Visual Studio Code window. ![Screenshot of the status icon in Visual Studio Code](https://docs.github.com/assets/cb-13418/images/help/copilot/status-icon-visual-studio-code.png)
-    
+
 2. If you are disabling GitHub Copilot, you will be asked whether you want to disable suggestions globally, or for the language of the file you are currently editing.
-    
+
     - To disable suggestions from GitHub Copilot globally, click **Disable Globally**.
     - To disable suggestions from GitHub Copilot for the specified language, click **Disable for *LANGUAGE***. ![Screenshot of option to disable GitHub Copilot globally or for the current language](https://docs.github.com/assets/cb-41945/images/help/copilot/disable-copilot-global-or-langugage.png)
 
@@ -79,9 +78,9 @@ You can choose to enable or disable inline suggestions for GitHub Copilot in Vis
 You can specify which languages you want to enable or disable GitHub Copilot for.
 
 1. From the Visual Studio Code, click the **Extensions** tab, then navigate to the **Copilot** section. For more information, see "[Enabling and disabling inline suggestions](https://docs.github.com/en/copilot/configuring-github-copilot/configuring-github-copilot-in-visual-studio-code#enabling-and-disabling-inline-suggestions)."
-    
+
 2. Under "Enable or disable Copilot for specified languages", click **Edit in settings.json**.
-    
+
 3. In the *settings.json* file, add or remove the languages you want to enable or disable GitHub Copilot for. For example, to enable Python in GitHub Copilot, add `"python": true` to the list, ensuring there is a trailing comma after all but the last list item.
 
     ```json
@@ -107,30 +106,25 @@ Once you have an active GitHub Copilot trial or subscription, you can adjust Git
 GitHub Copilot includes a filter which detects code suggestions matching public code on GitHub. You can choose to enable or disable the filter. When the filter is enabled, GitHub Copilot checks code suggestions with their surrounding code of about 150 characters against public code on GitHub. If there is a match or near match, the suggestion will not be shown to you.
 
 1. In the upper-right corner of any page, click your profile photo, then click **Settings**.
-    
 
     ![Settings icon in the user bar](https://docs.github.com/assets/cb-34573/images/help/settings/userbar-account-settings.png)
 
-    
 2. In the left sidebar, click **GitHub Copilot**.
-    
+
 3. Under **Suggestions matching public code**, select the dropdown menu, then click **Allow** to allow suggestions matching public code, or **Block** to block suggestions matching public code. ![Screenshot of duplication detection option](https://docs.github.com/assets/cb-10101/images/help/copilot/duplication-detection.png)
-    
+
 4. To confirm your new settings, click **Save**.
-    
 
 ## Enabling or Disabling Telemetry
 
 You can choose whether your code snippets are collected and retained by GitHub and further processed and shared with Microsoft and OpenAI by adjusting your user settings. For more information about data that GitHub Copilot may collect depending on your telemetry settings, see "[GitHub Terms for Additional Products and Features](https://docs.github.com/en/free-pro-team@latest/site-policy/github-terms/github-terms-for-additional-products-and-features#github-copilot)" and the [GitHub Copilot privacy FAQ](https://github.com/features/copilot/#faq-privacy).
 
 1. In the upper-right corner of any page, click your profile photo, then click **Settings**.
-    
 
     ![Settings icon in the user bar](https://docs.github.com/assets/cb-34573/images/help/settings/userbar-account-settings.png)
 
-    
 2. In the left sidebar, click **GitHub Copilot**.
-    
+
 3. To allow or prevent GitHub using your telemetry data, select or deselect **Allow GitHub to use my code snippets for product improvements**. ![Screenshot of telemetry option](https://docs.github.com/assets/cb-33160/images/help/copilot/telemetry-option.png)
-    
+
 4. To confirm your new settings, click **Save**.

@@ -13,6 +13,7 @@ https://*INSTANCE*/computer/api/json?tree=computer[executors[currentExecutable[*
 ### Reveal all secrets
 
 Execute in https://*INSTANCE*/script to reveal all secrets
+
 ```groovy
 import com.cloudbees.plugins.credentials.CredentialsProvider
 import com.cloudbees.plugins.credentials.Credentials
@@ -43,9 +44,9 @@ Jenkins.get().allItems().collectMany{ CredentialsProvider.lookupStores(it).toLis
 ```
 
 ### Validate a Jenkinsfile
+
 Via [Sandro Cirulli](https://sandrocirulli.net/how-to-validate-a-jenkinsfile/) - (2019) How to Validate a Jenkinsfile
 
 ```
 curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenkins-url/pipeline-model-converter/validate
 ```
-

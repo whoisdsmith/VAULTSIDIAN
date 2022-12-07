@@ -1,4 +1,4 @@
-[True Zodiac Sign Test](https://www.idrlabs.com/true-zodiac-sign/test.php). 
+[True Zodiac Sign Test](https://www.idrlabs.com/true-zodiac-sign/test.php).
 
 **Alternative language :** [French](https://www.idrlabs.com/fr/vrai-signe-du-zodiaque/test.php)
 

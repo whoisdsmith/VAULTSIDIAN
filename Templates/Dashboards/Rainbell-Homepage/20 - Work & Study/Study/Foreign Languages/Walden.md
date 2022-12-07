@@ -98,8 +98,8 @@ But men labor under a mistake. ==The better part of the man== is soon ploughed i
 > “Do not lay up for yourselves treasures on earth,  
 > where moth and rust[a] destroy and where thieves break in and steal,  
 > but lay up for yourselves treasures in heaven,  
->  where neither moth nor rust destroys  
->  and where thieves do not break in and steal.  
+> where neither moth nor rust destroys  
+> and where thieves do not break in and steal.  
 > For where your treasure is, there your heart will be also.  
 > 最后一句话：*珍宝在何处,心就在何处。*
 >
@@ -130,7 +130,7 @@ Most men, even in this ==comparatively== free country, through mere ignorance an
 >
 > ==bloom== 果霜
 >
->   ==Division of Labour and Specialization==  
+> ==Division of Labour and Specialization==  
 > 梭罗的经济观受到亚当·斯密的影响。亚当·斯密在18世纪发表了《国富论》，里面记载了一则轶事：
 > 斯密在考察一家制针工厂之后发现：扣针的制作可以分为抽线、拉直、截断、圆头、包装等十八道工序，如果由一个人独立完成，最多产出不超过二十枚；相反，如果有一个10人小队，每人做两三道工序，日平均成针将高达四千八百枚。这就是division of labour.  
 > 到十九世纪中期，梭罗在外出演讲的闲暇应邀参观织布工场。“规模宏大，效率之高令人惊叹”，他在日记中记载。但与斯密不同，他的兴奋点似乎不在庞大的织机，也不在精密的管理——凝视着流水线上一刻不停忙碌的女工，他联想到他的康科德邻人——日复一日，生活在平静的绝望之中。一年以后，《瓦尔登湖》出版。梭罗的目的，就是要向世人展示他所理解的生活之道和劳动价值观。

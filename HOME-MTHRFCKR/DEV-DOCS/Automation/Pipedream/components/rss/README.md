@@ -41,22 +41,22 @@ Then, you can process items from your event source in 3 ways:
     <kbd><img  alt="RSS Source in Pipedream UI" width="672" src="https://rss.pipedream.com/img/rss-source-in-ui.2832e34f.png"></kbd>
 </p>
 
-You can also visit **https://pipedream.com/sources** and click the Create Source button, then choose the `rss/rss.js` source from the modal that appears.
+You can also visit **<https://pipedream.com/sources>** and click the Create Source button, then choose the `rss/rss.js` source from the modal that appears.
 
-If you don't have a feed handy, you can use **https://rss.m.pipedream.net**. This generates a new, random item once every 15 minutes.
+If you don't have a feed handy, you can use **<https://rss.m.pipedream.net>**. This generates a new, random item once every 15 minutes.
 
 You can also create an event source using [the Pipedream CLI](https://docs.pipedream.com/cli/install/):
 
 ```bash
-  $ pd deploy # Select the rss source, enter your URL
+  pd deploy # Select the rss source, enter your URL
 ```
 
 Once deployed, you can retrieve items emitted by the source using the pd eventscommand:
 
 ```bash
-$ pd events -n 1 sample-feed  # Retrieve the newest item
+pd events -n 1 sample-feed  # Retrieve the newest item
 
-$ pd events -f sample-feed  # Tail the feed in real time
+pd events -f sample-feed  # Tail the feed in real time
 ```
 
 Then, you can trigger a Pipedream workflow— a serverless Node.js script — on every event:

@@ -4,7 +4,7 @@ created: 2022-07-04T22:18:17 (UTC -04:00)
 tags: [ts]
 source: <https://help.nextcloud.com/t/nextcloud-23-02-opcache-interned-strings-buffer/134007/37>
 
-## author:
+## author
 
 # Nextcloud 23.02 OPcache interned strings buffer
 
@@ -18,10 +18,10 @@ The OPcache interned strings buffer is nearly full. To assure that repeating str
 
 I saw in the 10-opcache.ini file that the line was commented out so I guess 8 is the default. I uncommented the line and set the value to 16. After restarting php-fpm, the warning message went away but after a while it complained about 16 not being enough. In the mean time I have set it to 32 but can anyone advise on what a sensible value would be and the logic behind it. Thanks Bill
 
--   [Nextcloud 23.02 OPcache interned strings buffer "8"29](https://help.nextcloud.com/t/nextcloud-23-02-opcache-interned-strings-buffer-8/134290/2)
--   [The PHP OPcache module is not properly configured15](https://help.nextcloud.com/t/the-php-opcache-module-is-not-properly-configured/135870/5)
--   [Sicherheits- & Einrichtungswarnungen nach Update auf 23.0.23](https://help.nextcloud.com/t/sicherheits-einrichtungswarnungen-nach-update-auf-23-0-2/134013/12)
--   <https://help.nextcloud.com/t/nextcloud-23-02-opcache-interned-strings-buffer/134007/37>
+- [Nextcloud 23.02 OPcache interned strings buffer "8"29](https://help.nextcloud.com/t/nextcloud-23-02-opcache-interned-strings-buffer-8/134290/2)
+- [The PHP OPcache module is not properly configured15](https://help.nextcloud.com/t/the-php-opcache-module-is-not-properly-configured/135870/5)
+- [Sicherheits- & Einrichtungswarnungen nach Update auf 23.0.23](https://help.nextcloud.com/t/sicherheits-einrichtungswarnungen-nach-update-auf-23-0-2/134013/12)
+- <https://help.nextcloud.com/t/nextcloud-23-02-opcache-interned-strings-buffer/134007/37>
      [](https://help.nextcloud.com/t/nextcloud-23-02-opcache-interned-strings-buffer/134007/37)![](https://help.nextcloud.com/letter_avatar_proxy/v4/letter/k/85f322/20.png "konki")1d
 
 * * *
@@ -53,8 +53,8 @@ So as long as there are no “real” issues with your instance, I would recomme
 
 Hey guys, this recommendation is not a bug but a new way how OPcache related recommendations are obtained since Nextcloud v23.0.1:
 
--   [https://github.com/nextcloud/server/pull/27403 143](https://github.com/nextcloud/server/pull/27403)
--   [https://github.com/nextcloud/server/issues/31223 99](https://github.com/nextcloud/server/issues/31223)
+- [https://github.com/nextcloud/server/pull/27403 143](https://github.com/nextcloud/server/pull/27403)
+- [https://github.com/nextcloud/server/issues/31223 99](https://github.com/nextcloud/server/issues/31223)
 
 Previously a fixed set of settings was recommended, basically matching the PHP default values. Now the actual OPcache usage is obtained, and when one limit is reached by >90%, a recommendation is shown to increase that particular setting. That way the recommendations have become much more accurate, serving the actual intention.
 
@@ -177,7 +177,7 @@ Best, Bernd
 
 > Since more than 16 MiB are a bit unexpected to be ever used, if Nextcloud is the only web application served by your webserver/PHP instance, and the admin panel shows a recommendation to apply >16 MiB, it would be interesting to see your apps list. Probably we can find similarities or identify the app which allocates that much interned strings. Maybe there is indeed an issue with cache eviction in one of these apps, or it simply contains a large number of strings/text shown in its interfaces.
 
-Ah ok. Does this mean the warning shows recommendations based on the actual usage of the cache? I asumed the test is just checking the values that are set in the configuration, and sometimes fails to do so. 
+Ah ok. Does this mean the warning shows recommendations based on the actual usage of the cache? I asumed the test is just checking the values that are set in the configuration, and sometimes fails to do so.
 
  ![](https://help.nextcloud.com/user_avatar/help.nextcloud.com/lebernd/25/18927_2.png "lebernd") lebernd
 

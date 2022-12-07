@@ -27,6 +27,7 @@ If you need to embed bookmarks to your website or blog read [this article](embed
 :::
 
 ## Customize
+
 You can change appearance of your public page by appending special parameters at the end of a URL.
 
 Imagine you have such public page URL: `https://raindrop.io/exentrich/design-66`, just add `/view/...parameters-here...` at the end, so final URL will be for example `https://raindrop.io/exentrich/design-66/view/theme=dark&sort=-title&page=3`

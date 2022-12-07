@@ -2,16 +2,16 @@
 
 # Social Media
 
-https://www.linkedin.com/in/whoisdsmith/  
-https://www.facebook.com/dontcallmedsmith/  
-https://www.pinterest.com/whoisdsmith/  
-https://twitter.com/Wh0isdsmith
+<https://www.linkedin.com/in/whoisdsmith/>  
+<https://www.facebook.com/dontcallmedsmith/>  
+<https://www.pinterest.com/whoisdsmith/>  
+<https://twitter.com/Wh0isdsmith>
 
 # Dev
 
-https://github.com/whoisdsmith  
-https://glitch.com/@whoisdsmith  
-https://stackoverflow.com/users/17231101/dustin-smith
+<https://github.com/whoisdsmith>  
+<https://glitch.com/@whoisdsmith>  
+<https://stackoverflow.com/users/17231101/dustin-smith>
 
 # Emails
 

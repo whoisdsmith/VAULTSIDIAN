@@ -76,10 +76,10 @@ Time frame to exclude from testing:
 
 - Breach Timeline
 - Exercise metrics
-	- Time to compromise
-	- Time to privilege escalation
-	- Time to detection
-	- Time to recovery
+  - Time to compromise
+  - Time to privilege escalation
+  - Time to detection
+  - Time to recovery
 - Vulnerabilities Exploited
 - Compromised assets
 - Estimated business impact of the breach

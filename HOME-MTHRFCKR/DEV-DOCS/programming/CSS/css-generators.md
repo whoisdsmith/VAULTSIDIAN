@@ -1,6 +1,6 @@
 # Css-generators
 
-## CSS Generators:
+## CSS Generators
 
 | Website | Description |
 | ------- | ------ |

@@ -15,7 +15,7 @@
 
 ## Plain Text Email
 
-https://litmus.com/blog/best-practices-for-plain-text-emails-a-look-at-why-theyre-important
+<https://litmus.com/blog/best-practices-for-plain-text-emails-a-look-at-why-theyre-important>
 
 # Error Tracking
 
@@ -26,7 +26,7 @@ https://litmus.com/blog/best-practices-for-plain-text-emails-a-look-at-why-theyr
 
 ## Optimize Images
 
-- https://developers.google.com/speed/docs/insights/OptimizeImages
+- <https://developers.google.com/speed/docs/insights/OptimizeImages>
 - [ImageMagick]()  
   For example, you can use convert binary to optimize your JPEG images with the following command (parameters inside brackets are optional):
 

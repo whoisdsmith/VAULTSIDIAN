@@ -1,4 +1,4 @@
-To clarify, I’m looking for a decent regular expression to validate URLs that were entered as user input with. I have no interest in parsing a list of URLs from a given string of text (even though some of the regexes on this page are capable of doing that). I also don’t want to allow every possible technically valid URL — quite the opposite. 
+To clarify, I’m looking for a decent regular expression to validate URLs that were entered as user input with. I have no interest in parsing a list of URLs from a given string of text (even though some of the regexes on this page are capable of doing that). I also don’t want to allow every possible technically valid URL — quite the opposite.
 
 See [the URL Standard](http://url.spec.whatwg.org/#parsing) if you’re looking to parse URLs in the same way that browsers do.
 

@@ -148,16 +148,16 @@ But it’s not the mind-expanding sixties anymore. Every era, it seems, has its 
 
 This winter, I spoke again with Alex, the Harvard graduate, and found that, after a break of several months, he had gone back to taking Adderall—a small dose every day. He felt that he was learning to use the drug in a more “disciplined” manner. Now, he said, it was less about staying up late to finish work he should have done earlier, and more “about staying focussed on work, which makes me want to work longer hours.” What employer would object to that? ♦
 
----- 
+----
 
-[1]:	https://www.newyorker.com/cartoon/a14131
-[2]:	https://www.newyorker.com/cartoon/a13965
-[3]:	https://www.newyorker.com/cartoon/a14091
-[4]:	https://www.newyorker.com/cartoon/a14125
-[5]:	https://www.newyorker.com/cartoon/a13945
-[6]:	https://www.newyorker.com/cartoon/a13704
-[7]:	https://www.newyorker.com/cartoon/a14089
+[1]: https://www.newyorker.com/cartoon/a14131
+[2]: https://www.newyorker.com/cartoon/a13965
+[3]: https://www.newyorker.com/cartoon/a14091
+[4]: https://www.newyorker.com/cartoon/a14125
+[5]: https://www.newyorker.com/cartoon/a13945
+[6]: https://www.newyorker.com/cartoon/a13704
+[7]: https://www.newyorker.com/cartoon/a14089
 
-[image-1]:	https://media.newyorker.com/photos/59097602019dfc3494ea2bcf/master/w_2560%2Cc_limit/090427_r18418_p646.jpg
+[image-1]: https://media.newyorker.com/photos/59097602019dfc3494ea2bcf/master/w_2560%2Cc_limit/090427_r18418_p646.jpg
 
-#article #adderall
+# article #adderall

@@ -1,6 +1,5 @@
 # 75 words every sci-fi fan should know
 
-
   1. [Alderson disk (n.)](http://en.wikipedia.org/wiki/Alderson_disk)
   2. [arcology (n.)](http://en.wikipedia.org/wiki/Arcology)
   3. [areography (n.)](http://www.jessesword.com/sf/view/462)
@@ -76,4 +75,3 @@
   73. [wetware (n.)](http://en.wikipedia.org/wiki/Wetware)
   74. [Whuffie (n.)](http://en.wikipedia.org/wiki/Whuffie)
   75. [xenology (n.)](http://www.jessesword.com/sf/view/383)
-

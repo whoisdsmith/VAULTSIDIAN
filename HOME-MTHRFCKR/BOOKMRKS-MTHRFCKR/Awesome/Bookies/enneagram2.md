@@ -1,6 +1,6 @@
 [Cee-Enneagramme](http://www.cee-enneagramme.eu/types/type-1/) - Type 1
 
-Result : 
+Result :
 
 ### Type 1 : Le Perfectionniste
 
@@ -14,6 +14,7 @@ la colère
 la sérénité
 
 **J'aime**
+
 - Me comporter correctement
 - Mettre de l’ordre
 - Avoir raison
@@ -21,6 +22,7 @@ la sérénité
 - M’améliorer
 
 **Je n'aime pas**
+
 - Les tricheurs, ceux qui enfreignent les règles
 - Les critiques injustes
 - Le désordre

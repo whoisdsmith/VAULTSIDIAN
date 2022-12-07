@@ -4,9 +4,9 @@ Pipedream supports [Python v3.8 (opens new window)](https://www.python.org/) in 
 
 ## [#](https://pipedream.com/docs/#adding-a-python-code-step) Adding a Python code step
 
-1.  Click the + icon to add a new step
-2.  Click **Custom Code**
-3.  In the new step, select the `python` language runtime in language dropdown
+1. Click the + icon to add a new step
+2. Click **Custom Code**
+3. In the new step, select the `python` language runtime in language dropdown
 
 ## [#](https://pipedream.com/docs/#logging-and-debugging) Logging and debugging
 
@@ -20,9 +20,9 @@ The output for the `print` **logs** will appear in the `Results` section just be
 
 You can use any packages from [PyPi (opens new window)](https://pypi.org/) in your Pipedream workflows. This includes popular choices such as:
 
--   [`requests` for making HTTP requests (opens new window)](https://pypi.org/project/requests/)
--   [`sqlalchemy`for retrieving or inserting data in a SQL database (opens new window)](https://pypi.org/project/sqlalchemy/)
--   [`pandas` for working with complex datasets (opens new window)](https://pypi.org/project/pandas/)
+- [`requests` for making HTTP requests (opens new window)](https://pypi.org/project/requests/)
+- [`sqlalchemy`for retrieving or inserting data in a SQL database (opens new window)](https://pypi.org/project/sqlalchemy/)
+- [`pandas` for working with complex datasets (opens new window)](https://pypi.org/project/pandas/)
 
 To use a PyPi package, just include it in your step's code:
 
@@ -72,8 +72,8 @@ Not all data types can be stored in the `steps` data shared between workflow ste
 
 For the best experience, we recommend only exporting these types of data from Python steps:
 
--   lists
--   dictionaries
+- lists
+- dictionaries
 
 [Read more details on step limitations here.](https://pipedream.com/docs/workflows/steps/#limitations-on-step-exports)
 

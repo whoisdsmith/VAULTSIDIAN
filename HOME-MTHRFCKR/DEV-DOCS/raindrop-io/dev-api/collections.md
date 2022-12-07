@@ -166,4 +166,3 @@ Every user have several system non-removable collections. They are not contained
 | :--- | :--- |
 | **-1** | "**Unsorted**" collection |
 | **-99** | "**Trash**" collection |
-

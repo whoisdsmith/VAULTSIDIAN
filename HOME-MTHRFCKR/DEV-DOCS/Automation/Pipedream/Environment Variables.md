@@ -4,11 +4,11 @@ You should not include API keys or other sensitive data directly in your workflo
 
 Environment variables are defined at the account-level, and can be referenced in [workflow code](https://pipedream.com/docs/workflows/steps/code/) or [step params](https://pipedream.com/docs/workflows/steps/params/).
 
--   [Creating, updating environment variables](https://pipedream.com/docs/#creating-updating-environment-variables)
--   [Referencing environment variables in code](https://pipedream.com/docs/#referencing-environment-variables-in-code)
--   [Referencing environment variables in actions](https://pipedream.com/docs/#referencing-environment-variables-in-actions)
--   [Copying workflows that use environment variables](https://pipedream.com/docs/#copying-workflows-that-use-environment-variables)
--   [Limits](https://pipedream.com/docs/#limits)
+- [Creating, updating environment variables](https://pipedream.com/docs/#creating-updating-environment-variables)
+- [Referencing environment variables in code](https://pipedream.com/docs/#referencing-environment-variables-in-code)
+- [Referencing environment variables in actions](https://pipedream.com/docs/#referencing-environment-variables-in-actions)
+- [Copying workflows that use environment variables](https://pipedream.com/docs/#copying-workflows-that-use-environment-variables)
+- [Limits](https://pipedream.com/docs/#limits)
 
 ## [#](https://pipedream.com/docs/#creating-updating-environment-variables) Creating, updating environment variables
 

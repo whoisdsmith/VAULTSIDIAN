@@ -236,7 +236,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 * * *
 
-## [](https://dev.to/mrdanishsaleem/git-cheatsheet-4kpn#lets-connect)Let's connect!
+## [](https://dev.to/mrdanishsaleem/git-cheatsheet-4kpn#lets-connect)Let's connect
 
 You can follow me on [Twitter](https://twitter.com/MrDanishSaleem), [LinkedIn](https://www.linkedin.com/in/mrdanishsaleem/) & [GitHub](https://github.com/mrdanishsaleem/)
 

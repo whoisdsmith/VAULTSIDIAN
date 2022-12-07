@@ -2,7 +2,7 @@
 
 Learning about [space](https://www.yourdictionary.com/space) can be exciting and confusing. Start your discovery of astronomy with a cool and simple glossary of space terms kids and adults can understand.
 
-![Planets in solar system](https://assets.ltkcontent.com/images/43444/planets-in-solar-system_0066f46bde.jpg "Planets in solar system") Planets in solar system 
+![Planets in solar system](https://assets.ltkcontent.com/images/43444/planets-in-solar-system_0066f46bde.jpg "Planets in solar system") Planets in solar system
 
 ## Planet Words
 

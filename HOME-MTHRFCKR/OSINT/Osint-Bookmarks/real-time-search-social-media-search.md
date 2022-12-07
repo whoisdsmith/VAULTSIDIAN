@@ -1,4 +1,4 @@
-##  Real-Time Search, Social Media Search, and General Social Media Tools
+## Real-Time Search, Social Media Search, and General Social Media Tools
 
 * [Audiense](https://www.audiense.com) - Tool to identify relevant audience, discover actionable insights and inform strategies to grow your business.
 * [Bottlenose](http://bottlenose.com)
