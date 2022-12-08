@@ -8,7 +8,7 @@
 
 [Academic and Grey Literature Research Tools](academic-and-grey-literature-research-tools.md)
 
-[Adderall](adderall.md)
+[Adderall](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/reference/adderall.md)
 
 [Ancestry Research](ancestry-research.md)
 

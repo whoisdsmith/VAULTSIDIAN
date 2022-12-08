@@ -1,8 +1,4 @@
-\[\[banner2.png\]\]
-
-------------------------------------------------------------------------
-
-## Full Stack Developer
+# Full Stack Developer
 
 September 2021 to Present Day
 

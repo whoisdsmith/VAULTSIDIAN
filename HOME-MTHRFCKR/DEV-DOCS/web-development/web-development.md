@@ -1,0 +1,83 @@
+# Web Development
+
+---
+
+%% Begin Waypoint %%
+- **[web-development](./web-development.md)**
+	- **[cloud9](./cloud9/cloud9.md)**
+		- [cloud9-md](./cloud9/cloud9-md.md)
+		- [cloud9](./cloud9/cloud9.md)
+		- **logs-errors**
+			- [2022-log](./cloud9/logs-errors/2022-log.md)
+			- [logs-errors-md](./cloud9/logs-errors/logs-errors-md.md)
+		- **notes**
+			- [blue-host-info](./cloud9/notes/blue-host-info.md)
+			- [notes-md](./cloud9/notes/notes-md.md)
+		- **[snippets](./cloud9/snippets/snippets.md)**
+			- [cron](./cloud9/snippets/cron.md)
+			- **[logins](./cloud9/snippets/logins/logins.md)**
+				- [162-241-252-245](./cloud9/snippets/logins/162-241-252-245.md)
+				- [elnulqmy-cloud9-ctrlaltback-space-22-home2-elnulqmy](./cloud9/snippets/logins/elnulqmy-cloud9-ctrlaltback-space-22-home2-elnulqmy.md)
+				- [elnulqmy](./cloud9/snippets/logins/elnulqmy.md)
+				- [ftp-ctrlaltback-space](./cloud9/snippets/logins/ftp-ctrlaltback-space.md)
+				- [logins-md](./cloud9/snippets/logins/logins-md.md)
+				- [logins](./cloud9/snippets/logins/logins.md)
+				- [sftp-ftp-ctrlaltback-space-home2-elnulqmy](./cloud9/snippets/logins/sftp-ftp-ctrlaltback-space-home2-elnulqmy.md)
+			- [snippets-md](./cloud9/snippets/snippets-md.md)
+			- [snippets](./cloud9/snippets/snippets.md)
+			- [usr-local-bin-ea-php81](./cloud9/snippets/usr-local-bin-ea-php81.md)
+		- **[troubleshooting](./cloud9/troubleshooting/troubleshooting.md)**
+			- [config-php](./cloud9/troubleshooting/config-php.md)
+			- [opcache](./cloud9/troubleshooting/opcache.md)
+			- [settings-cloud9](./cloud9/troubleshooting/settings-cloud9.md)
+			- [the-php-opcache-module-is-not-properly-configuredly](./cloud9/troubleshooting/the-php-opcache-module-is-not-properly-configuredly.md)
+			- [troubleshooting-md](./cloud9/troubleshooting/troubleshooting-md.md)
+			- [troubleshooting](./cloud9/troubleshooting/troubleshooting.md)
+	- **[domains](./domains/domains.md)**
+		- [-urls](./domains/-urls.md)
+		- [blue-host-info](./domains/blue-host-info.md)
+		- [domains-md](./domains/domains-md.md)
+		- [domains](./domains/domains.md)
+		- [urls](./domains/urls.md)
+	- [occweb-cloud9](./occweb-cloud9.md)
+	- **phpsound**
+		- [php-credentials](./phpsound/php-credentials.md)
+		- [phpsound-md](./phpsound/phpsound-md.md)
+	- **server**
+		- [server-md](./server/server-md.md)
+		- [system-info-ctrlaltback-space-28-03-2022](./server/system-info-ctrlaltback-space-28-03-2022.md)
+	- **ssh**
+		- [162-241-252-245](./ssh/162-241-252-245.md)
+		- [elnulqmy-cloud9-ctrlaltback-space-22-home2-elnulqmy](./ssh/elnulqmy-cloud9-ctrlaltback-space-22-home2-elnulqmy.md)
+		- [elnulqmy](./ssh/elnulqmy.md)
+		- [ftp-ctrlaltback-space](./ssh/ftp-ctrlaltback-space.md)
+		- [sftp-ftp-ctrlaltback-space-home2-elnulqmy-public-html-cloud9-ctrlaltback-space-cron-php](./ssh/sftp-ftp-ctrlaltback-space-home2-elnulqmy-public-html-cloud9-ctrlaltback-space-cron-php.md)
+		- [sftp-ftp-ctrlaltback-space-home2-elnulqmy](./ssh/sftp-ftp-ctrlaltback-space-home2-elnulqmy.md)
+		- [ssh-md](./ssh/ssh-md.md)
+		- [webdav](./ssh/webdav.md)
+	- [web-development-md](./web-development-md.md)
+	- [web-development](./web-development.md)
+	- **wordpress**
+		- [14-fantastic-and-free-wordpress-hosting-themes-for-your-website-bluehost-resource-center](./wordpress/14-fantastic-and-free-wordpress-hosting-themes-for-your-website-bluehost-resource-center.md)
+		- [a-complete-walkthrough-of-the-wordpress-admin-dashboard-bluehost-resource-center](./wordpress/a-complete-walkthrough-of-the-wordpress-admin-dashboard-bluehost-resource-center.md)
+		- [cpanel-ftp-accounts](./wordpress/cpanel-ftp-accounts.md)
+		- [ftp-accounts-cpanel-whm-documentation](./wordpress/ftp-accounts-cpanel-whm-documentation.md)
+		- [ftp-setup-using-secure-ftp-sftp-bluehost-support-1-](./wordpress/ftp-setup-using-secure-ftp-sftp-bluehost-support-1-.md)
+		- [how-to-add-a-blog-to-your-website-using-the-bluehost-website-builder-bluehost-resource-center](./wordpress/how-to-add-a-blog-to-your-website-using-the-bluehost-website-builder-bluehost-resource-center.md)
+		- [how-to-use-sftp-to-connect-to-your-wordpress-website-bluehost-support](./wordpress/how-to-use-sftp-to-connect-to-your-wordpress-website-bluehost-support.md)
+		- [how-to-use-wordpress-plugins-a-guide-for-beginners-bluehost-resource-center](./wordpress/how-to-use-wordpress-plugins-a-guide-for-beginners-bluehost-resource-center.md)
+		- [how-your-web-host-impacts-website-performance-bluehost-resource-center](./wordpress/how-your-web-host-impacts-website-performance-bluehost-resource-center.md)
+		- [intro-to-ftp-bluehost-support](./wordpress/intro-to-ftp-bluehost-support.md)
+		- [plugins-media-wordpress](./wordpress/plugins-media-wordpress.md)
+		- [rss](./wordpress/rss.md)
+		- [server-information-ii-media-wordpress](./wordpress/server-information-ii-media-wordpress.md)
+		- [server-information-media-wordpress](./wordpress/server-information-media-wordpress.md)
+		- [ssh-commands-bluehost-support](./wordpress/ssh-commands-bluehost-support.md)
+		- [vps-dedicated-hosting-managing-backups-with-sftp-bluehost-support](./wordpress/vps-dedicated-hosting-managing-backups-with-sftp-bluehost-support.md)
+		- [website-structuring-101-what-it-is-why-it-matters-and-best-practices-bluehost-resource-center](./wordpress/website-structuring-101-what-it-is-why-it-matters-and-best-practices-bluehost-resource-center.md)
+		- [what-is-a-website-and-how-does-it-work-bluehost-resource-center](./wordpress/what-is-a-website-and-how-does-it-work-bluehost-resource-center.md)
+		- [wordpress-hosting-guide-bluehost-resource-center](./wordpress/wordpress-hosting-guide-bluehost-resource-center.md)
+
+%% End Waypoint %%
+
+

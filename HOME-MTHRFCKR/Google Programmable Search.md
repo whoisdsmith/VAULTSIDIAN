@@ -1,8 +1,6 @@
-# 2022-11-08
+# Google Programmable Search
 
 ---
-
-## Google Programmable Search
 
 **Individual pages:**  
 www.example.com/page.html  
@@ -208,3 +206,5 @@ https://www.xmac.app/*
 ```
 
 ---
+
+#Search #CSE 

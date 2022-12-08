@@ -67,6 +67,6 @@
   - [sep-29-2020](sep-29-2020.md)
   - [success](success.md)
   - [the-truth-is.](the-truth-is..md)
-  - [untitled](untitled.md)
+  - [untitled](Blog/chapters/i-just-want-my-words-to-matter/untitled.md)
 
 %% End Waypoint %%
