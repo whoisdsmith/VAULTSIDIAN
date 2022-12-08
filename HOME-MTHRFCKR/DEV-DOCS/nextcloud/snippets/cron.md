@@ -1,0 +1,1 @@
+/usr/local/bin/ea-php81 /home2/elnulqmy/public_html/cloud9-ctrlaltback-space/cron.php
