@@ -1,5 +1,0 @@
-# Day 43
-
-That pain you're feeling in your heart right now can rebuild you or destroy you. It is you and only you who can decide which outcome will be your destiny. See that one person that made you feel so broken has already moved on, they will never care if you fall apart, you are as non existent to them as you were the day before you entered their life.
-
-Why continue to use them as an excuse to feel sorry for yourself? Let it go. Let them go. Turn that pain into motivation, rebuild yourself. Grow taller, grow stronger and start living again. It won't matter if you bathe in the sunshine or if you surround yourself in the darkest place, plant yourself where you're at and bloom into a better you. Rise above that pain and build an empire so high that you'll never feel that low again. The more you let go, the more you'll begin to live again and don't worry about that person who hurt you ever again, they will have no choice but to notice how you're doing once youre in that place that sits so high above them.
