@@ -1,0 +1,65 @@
+
+Source: [[PDFs/ADDERALL INDUCED DILATED CARDIOMYOPATHY IN AN ADULT MALE WITH ADHD.pdf]]
+
+---
+
+###### Page 1
+
+![ADDERALLINDUCEDDILATEDCARDIOMYOPATHYINANADULTMALEWITHADHD_1_7](Generated/images/ADDERALLINDUCEDDILATEDCARDIOMYOPATHYINANADULTMALEWITHADHD_1_7.png)
+
+**ACC**
+
+## <sup>ATLANTA</sup>
+
+**<sup>May 15 - 17</sup>**
+
+Volume 77, Issue 18 **☆ Complex Clinical Cases**
+
+### Poster Contributions
+
+Monday, May 17,2021,1:15p.m.-2:00p.m.
+
+Session Title: Complex Clinical Cases: FIT Heart Failure and Cardiomyopathies 4 
+
+Abstract Category: FIT: Heart Failure and Cardiomyopathies
+
+but patients receiving Adderall may benefit from periodic TTE monitoring.
+
+2325
+
+JACC May 11,2021 
+
+### **ADDERALL INDUCED DILATED CARDIOMYOPATHY IN AN ADULT MALE WITH ADHD**
+
+Authors: Mohammad Nauman, Christina Hahn, Emmanuel Nketiah, Sarmad Ahmad, Rehan Karmali, Garnet Health Medical Center, 
+
+Middletown, NY, USA **Background:** Non-lschemic Dilated Cardiomyopathy (NIDCM) is a disorder uncommonly found with stimulant use. Adderall is a stimulant 
+
+used to treat Attention Deficit Hyperactivity Disorder (ADHD). We herein present a case of a 41-year-old male who presented with acute 
+
+onset heart failure (HF) with severely reduced ejection fraction that resolved with cessation of Adderall and reoccurred after its resumption. **Case:** A 41 -year-old male with a history of ADHD, hemochromatosis, Celiac disease presented on 04/2019 with HF symptoms and 201b 
+
+weight gain over two weeks. He reported chronic Adderall use and treatment for pneumonia two months prior to symptoms. He denied 
+
+rashes, chest pain, significant family history, alcohol, tobacco, or illicit drug use. Transthoracic Echocardiogram (TTE) showed LVEF of
+
+15-20% and cardiac catheterization showed normal coronaries. He was stabilized, encouraged to stop Adderall and discharged with a life 
+
+vest on medical therapy. A Cardiac MRI on 07/2019 showed biventricular HF with no evidence of infiltrative disease or myocarditis. ATTE 
+
+on 12/2019 showed improvement in LVEF at 45% so the life vest was removed. On 06/2020, he restarted Adderall with reoccurrence of HF 
+
+symptoms confirmed by TTE with a LVEF of <20%. **Decision-making:** The patient presented with NIDCM with risk factors of hemochromatosis, recent viral illness and Adderall use. His 
+
+hemochromatosis was heterozygous and not pathologic due to Celiac’s iron malabsorption. The cardiac MRI also confirmed no infiltrative 
+
+disease. Although a biopsy was not performed to confirm viral illness, the cardiac MRI did not show myositis. He also had reoccurrence of 
+
+HF with resumption of Adderall making post-infectious myocarditis less likely. **Conclusion:** NIDCM has a broad differential from infection to infiltrative and autoimmune disease, toxic injury, and rarely, stimulant use. 
+
+There are few case reports of stimulants like Ritalin and Adderall causing NIDCM. Assessing the pattern of presentation with Adderall 
+
+cessation and resumption and ruling out other etiologies makes Adderall the likely culprit of his HF. These findings warrant further research 
+
+
+### Footnotes
