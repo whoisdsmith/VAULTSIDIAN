@@ -474,4 +474,5 @@ Yokel RA, Pickens R. (1973) Self-administration of optical isomers of amphetamin
 
 ___
 
-# article
+#adderall #amphetamine
+

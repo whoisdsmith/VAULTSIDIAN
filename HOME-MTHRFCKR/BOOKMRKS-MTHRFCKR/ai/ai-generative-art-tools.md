@@ -320,3 +320,6 @@ There are a TON of shared Google Colab notebooks floating around for doing text 
 Has this guide been helpful to you? 🙂 You can follow me on twitter [@pharmapsychotic](https://twitter.com/pharmapsychotic) and I'd love if you would
 
 ---
+
+
+#AI 

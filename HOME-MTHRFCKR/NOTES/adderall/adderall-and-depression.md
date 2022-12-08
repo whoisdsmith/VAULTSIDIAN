@@ -118,4 +118,4 @@ Paul Tardner is the Lead Author at IJEST.org. Paul is a former academic and rese
 
 ___
 
-# article
+#adderall 

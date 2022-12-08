@@ -134,4 +134,4 @@ Articles from American Journal of Ophthalmology Case Reports are provided here c
 
 ___
 
-# article
+#adderall #amphetamine 

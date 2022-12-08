@@ -380,3 +380,8 @@ Published by ScholarSpace @ JCCC, 201
 [4]: http://scholarspace.jccc.edu/honors_journal/vol3/iss1/
 [5]: http://scholarspace.jccc.edu/honors_journal/vol3/iss1/
 [6]: http://scholarspace.jccc.edu/honors_journal/vol3/iss1/
+
+
+---
+
+#adderall #amphetamine 

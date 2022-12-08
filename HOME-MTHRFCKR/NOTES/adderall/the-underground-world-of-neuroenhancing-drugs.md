@@ -160,4 +160,6 @@ This winter, I spoke again with Alex, the Harvard graduate, and found that, afte
 
 [image-1]: https://media.newyorker.com/photos/59097602019dfc3494ea2bcf/master/w_2560%2Cc_limit/090427_r18418_p646.jpg
 
-# article #adderall
+---
+
+#adderall #amphetamine 

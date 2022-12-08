@@ -296,4 +296,4 @@ Articles from Pharmacy: Journal of Pharmacy Education and Practice are provided 
 
 ___
 
-# article Adderall
+#adderall #amphetamine 

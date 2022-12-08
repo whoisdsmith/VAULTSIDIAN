@@ -97,4 +97,5 @@ Detox from Adderall is not sufficient treatment, however. It must be followed wi
 
 ___
 
-# article Adderall
+
+#adderall #amphetamine 
