@@ -111,6 +111,19 @@
 		- [readme](./freesources/readme.md)
 		- [summary](./freesources/summary.md)
 	- **[guided-sites](./guided-sites/guided-sites.md)**
+	- **illegal-services**
+		- [Cracked Windows appsgames](./illegal-services/Cracked%20Windows%20appsgames.md)
+		- [Direct Download Link (DDL)](./illegal-services/Direct%20Download%20Link%20(DDL).md)
+		- [Downloaders](./illegal-services/Downloaders.md)
+		- [Doxing](./illegal-services/Doxing.md)
+		- [illegal--services](./illegal-services/illegal--services.md)
+		- [Internet Protocol Television (IPTV)](./illegal-services/Internet%20Protocol%20Television%20(IPTV).md)
+		- [Modded Android appsgames](./illegal-services/Modded%20Android%20appsgames.md)
+		- [More Features](./illegal-services/More%20Features.md)
+		- [Portable Apps](./illegal-services/Portable%20Apps.md)
+		- [Streaming](./illegal-services/Streaming.md)
+		- [Torrenting](./illegal-services/Torrenting.md)
+		- [Useful Websites](./illegal-services/Useful%20Websites.md)
 	- **[music](./music/music.md)**
 	- **[osint-and-hacking](./osint-and-hacking/osint-and-hacking.md)**
 		- [osint-and-hacking](./osint-and-hacking/osint-and-hacking.md)
