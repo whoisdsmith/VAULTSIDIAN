@@ -3,218 +3,219 @@
 ---
 
 %% Begin Waypoint %%
-
 - **[templates](./templates.md)**
-  - **Dashboards**
-    - **EnvoyOS**
-      - [Dashboard](./Dashboards/EnvoyOS/%20Dashboard.md)
-      - **Attachments**
-        - **banners**
+	- **daily-notes**
+		- [raindrop-recently-added](./daily-notes/raindrop-recently-added.md)
+	- **dashboards**
+		- **envoyos**
+			- [ dashboard](./dashboards/envoyos/%20dashboard.md)
+			- **attachments**
+				- **banners**
 
-      - **Dashboards**
-        - [2022 Goals and Reflections](./Dashboards/EnvoyOS/Dashboards/%202022%20Goals%20and%20Reflections.md)
-        - [Advanced Goal Tracker](./Dashboards/EnvoyOS/Dashboards/%20Advanced%20Goal%20Tracker.md)
-        - [brain dump](./Dashboards/EnvoyOS/Dashboards/%20brain%20dump.md)
-        - [Bucket List](./Dashboards/EnvoyOS/Dashboards/%20Bucket%20List.md)
-        - [Daily Note](./Dashboards/EnvoyOS/Dashboards/%20Daily%20Note.md)
-        - [Dream Life](./Dashboards/EnvoyOS/Dashboards/%20Dream%20Life.md)
-        - [Grow Room](./Dashboards/EnvoyOS/Dashboards/%20Grow%20Room.md)
-        - [Journal](./Dashboards/EnvoyOS/Dashboards/%20Journal.md)
-        - [Notebooks](./Dashboards/EnvoyOS/Dashboards/%20Notebooks.md)
-        - [People](./Dashboards/EnvoyOS/Dashboards/%20People.md)
-        - [Reading](./Dashboards/EnvoyOS/Dashboards/%20Reading.md)
-        - [Tasks](./Dashboards/EnvoyOS/Dashboards/%20Tasks.md)
-        - [Travel](./Dashboards/EnvoyOS/Dashboards/%20Travel.md)
-      - **Life**
-        - [Advanced Goal Tracker Board](./Dashboards/EnvoyOS/Life/%20Advanced%20Goal%20Tracker%20Board.md)
-      - **Notebooks**
-        - [My Favorite Artists](./Dashboards/EnvoyOS/Notebooks/%20My%20Favorite%20Artists.md)
-        - [Symbols, Emojis, & Emoticons](./Dashboards/EnvoyOS/Notebooks/%20Symbols,%20Emojis,%20&%20Emoticons.md)
-      - **Templates**
-        - [Basic Note](./Dashboards/EnvoyOS/Templates/%20Basic%20Note.md)
-        - [Daily Note](./Dashboards/EnvoyOS/Templates/%20Daily%20Note.md)
-        - [Journal Entry](./Dashboards/EnvoyOS/Templates/%20Journal%20Entry.md)
-        - [New Artist](./Dashboards/EnvoyOS/Templates/%20New%20Artist.md)
-        - [New brain dump](./Dashboards/EnvoyOS/Templates/%20New%20brain%20dump.md)
-        - [New Bucket List](./Dashboards/EnvoyOS/Templates/%20New%20Bucket%20List.md)
-        - [New Dashboard](./Dashboards/EnvoyOS/Templates/%20New%20Dashboard.md)
-        - [New Notebook](./Dashboards/EnvoyOS/Templates/%20New%20Notebook.md)
-        - [New Person](./Dashboards/EnvoyOS/Templates/%20New%20Person.md)
-        - [New Reading Item](./Dashboards/EnvoyOS/Templates/%20New%20Reading%20Item.md)
-        - [New Seed](./Dashboards/EnvoyOS/Templates/%20New%20Seed.md)
-        - [New Travel Entry](./Dashboards/EnvoyOS/Templates/%20New%20Travel%20Entry.md)
-    - **Farouk Homepage**
-      - **Farouk Homepage**
-        - **Attachements**
-          - **Banners**
+			- **dashboards**
+				- [ 2022 goals and reflections](./dashboards/envoyos/dashboards/%202022%20goals%20and%20reflections.md)
+				- [ advanced goal tracker](./dashboards/envoyos/dashboards/%20advanced%20goal%20tracker.md)
+				- [ brain dump](./dashboards/envoyos/dashboards/%20brain%20dump.md)
+				- [ bucket list](./dashboards/envoyos/dashboards/%20bucket%20list.md)
+				- [ daily note](./dashboards/envoyos/dashboards/%20daily%20note.md)
+				- [ dream life](./dashboards/envoyos/dashboards/%20dream%20life.md)
+				- [ grow room](./dashboards/envoyos/dashboards/%20grow%20room.md)
+				- [ journal](./dashboards/envoyos/dashboards/%20journal.md)
+				- [ notebooks](./dashboards/envoyos/dashboards/%20notebooks.md)
+				- [ people](./dashboards/envoyos/dashboards/%20people.md)
+				- [ reading](./dashboards/envoyos/dashboards/%20reading.md)
+				- [ tasks](./dashboards/envoyos/dashboards/%20tasks.md)
+				- [ travel](./dashboards/envoyos/dashboards/%20travel.md)
+			- **life**
+				- [ advanced goal tracker board](./dashboards/envoyos/life/%20advanced%20goal%20tracker%20board.md)
+			- **notebooks**
+				- [ my favorite artists](./dashboards/envoyos/notebooks/%20my%20favorite%20artists.md)
+				- [ symbols, emojis, & emoticons](./dashboards/envoyos/notebooks/%20symbols,%20emojis,%20&%20emoticons.md)
+			- **templates**
+				- [ basic note](./dashboards/envoyos/templates/%20basic%20note.md)
+				- [ daily note](./dashboards/envoyos/templates/%20daily%20note.md)
+				- [ journal entry](./dashboards/envoyos/templates/%20journal%20entry.md)
+				- [ new artist](./dashboards/envoyos/templates/%20new%20artist.md)
+				- [ new brain dump](./dashboards/envoyos/templates/%20new%20brain%20dump.md)
+				- [ new bucket list](./dashboards/envoyos/templates/%20new%20bucket%20list.md)
+				- [ new dashboard](./dashboards/envoyos/templates/%20new%20dashboard.md)
+				- [ new notebook](./dashboards/envoyos/templates/%20new%20notebook.md)
+				- [ new person](./dashboards/envoyos/templates/%20new%20person.md)
+				- [ new reading item](./dashboards/envoyos/templates/%20new%20reading%20item.md)
+				- [ new seed](./dashboards/envoyos/templates/%20new%20seed.md)
+				- [ new travel entry](./dashboards/envoyos/templates/%20new%20travel%20entry.md)
+		- **farouk homepage**
+			- **farouk homepage**
+				- **attachements**
+					- **banners**
 
-          - **Others**
+					- **others**
 
-        - **Homepage**
-          - [00. Activity](./Dashboards/Farouk%20Homepage/Farouk%20Homepage/Homepage/00.%20Activity.md)
-          - [00. Homepage](./Dashboards/Farouk%20Homepage/Farouk%20Homepage/Homepage/00.%20Homepage.md)
-          - [00. Life Progress](./Dashboards/Farouk%20Homepage/Farouk%20Homepage/Homepage/00.%20Life%20Progress.md)
-        - **Others**
-          - [000. Obsidian](./Dashboards/Farouk%20Homepage/Farouk%20Homepage/Others/000.%20Obsidian.md)
-          - [Finish writing the homepage post](./Dashboards/Farouk%20Homepage/Farouk%20Homepage/Others/Finish%20writing%20the%20homepage%20post.md)
-      - **Infobox**
-        - **to fix infobox links problem**
+				- **homepage**
+					- [00. activity](./dashboards/farouk%20homepage/farouk%20homepage/homepage/00.%20activity.md)
+					- [00. homepage](./dashboards/farouk%20homepage/farouk%20homepage/homepage/00.%20homepage.md)
+					- [00. life progress](./dashboards/farouk%20homepage/farouk%20homepage/homepage/00.%20life%20progress.md)
+				- **others**
+					- [000. obsidian](./dashboards/farouk%20homepage/farouk%20homepage/others/000.%20obsidian.md)
+					- [finish writing the homepage post](./dashboards/farouk%20homepage/farouk%20homepage/others/finish%20writing%20the%20homepage%20post.md)
+			- **infobox**
+				- **to fix infobox links problem**
 
-      - [README](./Dashboards/Farouk%20Homepage/README.md)
-    - **[Rainbell-Homepage](./Dashboards/Rainbell-Homepage/Rainbell-Homepage.md)**
-      - **00 - DailyNotes**
-        - **DailyNote**
-          - [2022-05-09](./Dashboards/Rainbell-Homepage/00%20-%20DailyNotes/DailyNote/2022-05-09.md)
-          - [2022-05-10](./Dashboards/Rainbell-Homepage/00%20-%20DailyNotes/DailyNote/2022-05-10.md)
-          - [2022-05-11](./Dashboards/Rainbell-Homepage/00%20-%20DailyNotes/DailyNote/2022-05-11.md)
-          - [2022-05-12](./Dashboards/Rainbell-Homepage/00%20-%20DailyNotes/DailyNote/2022-05-12.md)
-          - [2022-05-13](./Dashboards/Rainbell-Homepage/00%20-%20DailyNotes/DailyNote/2022-05-13.md)
-          - [2022-05-16](./Dashboards/Rainbell-Homepage/00%20-%20DailyNotes/DailyNote/2022-05-16.md)
-          - [2022-05-17](./Dashboards/Rainbell-Homepage/00%20-%20DailyNotes/DailyNote/2022-05-17.md)
-          - [2022-05-18](./Dashboards/Rainbell-Homepage/00%20-%20DailyNotes/DailyNote/2022-05-18.md)
-          - [2022-05-19](./Dashboards/Rainbell-Homepage/00%20-%20DailyNotes/DailyNote/2022-05-19.md)
-          - [2022-05-20](./Dashboards/Rainbell-Homepage/00%20-%20DailyNotes/DailyNote/2022-05-20.md)
-          - [2022-05-30](./Dashboards/Rainbell-Homepage/00%20-%20DailyNotes/DailyNote/2022-05-30.md)
-          - [2022-06-01](./Dashboards/Rainbell-Homepage/00%20-%20DailyNotes/DailyNote/2022-06-01.md)
-          - [2022-06-02](./Dashboards/Rainbell-Homepage/00%20-%20DailyNotes/DailyNote/2022-06-02.md)
-        - **WeeklyNote**
-          - [2022-17](./Dashboards/Rainbell-Homepage/00%20-%20DailyNotes/WeeklyNote/2022-17.md)
-          - [2022-18](./Dashboards/Rainbell-Homepage/00%20-%20DailyNotes/WeeklyNote/2022-18.md)
-          - [2022-19](./Dashboards/Rainbell-Homepage/00%20-%20DailyNotes/WeeklyNote/2022-19.md)
-          - [2022-20](./Dashboards/Rainbell-Homepage/00%20-%20DailyNotes/WeeklyNote/2022-20.md)
-      - **10 - People**
-        - **Colleagues**
-          - [One](./Dashboards/Rainbell-Homepage/10%20-%20People/Colleagues/One.md)
-          - [Two](./Dashboards/Rainbell-Homepage/10%20-%20People/Colleagues/Two.md)
-        - **Family**
-          - [00. People](./Dashboards/Rainbell-Homepage/10%20-%20People/Family/00.%20People.md)
-          - [Daughter](./Dashboards/Rainbell-Homepage/10%20-%20People/Family/Daughter.md)
-          - [Father](./Dashboards/Rainbell-Homepage/10%20-%20People/Family/Father.md)
-          - [Mother](./Dashboards/Rainbell-Homepage/10%20-%20People/Family/Mother.md)
-          - [Qin](./Dashboards/Rainbell-Homepage/10%20-%20People/Family/Qin.md)
-      - **20 - Work & Study**
-        - **Codes**
-          - [00. myCodes](./Dashboards/Rainbell-Homepage/20%20-%20Work%20&%20Study/Codes/00.%20myCodes.md)
-          - [Dataviewjs References](./Dashboards/Rainbell-Homepage/20%20-%20Work%20&%20Study/Codes/Dataviewjs%20References.md)
-          - [Life Progress Bar](./Dashboards/Rainbell-Homepage/20%20-%20Work%20&%20Study/Codes/Life%20Progress%20Bar.md)
-          - [Parrot Management Dataview](./Dashboards/Rainbell-Homepage/20%20-%20Work%20&%20Study/Codes/Parrot%20Management%20Dataview.md)
-          - [Test](./Dashboards/Rainbell-Homepage/20%20-%20Work%20&%20Study/Codes/Test.md)
-        - **Study**
-          - [00. Study](./Dashboards/Rainbell-Homepage/20%20-%20Work%20&%20Study/Study/00.%20Study.md)
-          - **CIT593**
-            - [00. MCIT593](./Dashboards/Rainbell-Homepage/20%20-%20Work%20&%20Study/Study/CIT593/00.%20MCIT593.md)
-            - [593-W01](./Dashboards/Rainbell-Homepage/20%20-%20Work%20&%20Study/Study/CIT593/593-W01.md)
-            - [593-W02](./Dashboards/Rainbell-Homepage/20%20-%20Work%20&%20Study/Study/CIT593/593-W02.md)
-          - **CIT594**
-            - [00. MCIT594](./Dashboards/Rainbell-Homepage/20%20-%20Work%20&%20Study/Study/CIT594/00.%20MCIT594.md)
-            - [594-W01](./Dashboards/Rainbell-Homepage/20%20-%20Work%20&%20Study/Study/CIT594/594-W01.md)
-            - [594-W02](./Dashboards/Rainbell-Homepage/20%20-%20Work%20&%20Study/Study/CIT594/594-W02.md)
-          - **Foreign Languages**
-            - [00. English Study](./Dashboards/Rainbell-Homepage/20%20-%20Work%20&%20Study/Study/Foreign%20Languages/00.%20English%20Study.md)
-            - [The Fisherman and His Soul](./Dashboards/Rainbell-Homepage/20%20-%20Work%20&%20Study/Study/Foreign%20Languages/The%20Fisherman%20and%20His%20Soul.md)
-            - [Walden](./Dashboards/Rainbell-Homepage/20%20-%20Work%20&%20Study/Study/Foreign%20Languages/Walden.md)
-          - [Paper One](./Dashboards/Rainbell-Homepage/20%20-%20Work%20&%20Study/Study/Paper%20One.md)
-        - **Work**
-          - [00. Work](./Dashboards/Rainbell-Homepage/20%20-%20Work%20&%20Study/Work/00.%20Work.md)
-          - [Project One](./Dashboards/Rainbell-Homepage/20%20-%20Work%20&%20Study/Work/Project%20One.md)
-          - [Project Two](./Dashboards/Rainbell-Homepage/20%20-%20Work%20&%20Study/Work/Project%20Two.md)
-      - **40 - Obsidian**
-        - **Attachments**
-          - **banners**
+			- [readme](./dashboards/farouk%20homepage/readme.md)
+		- **[rainbell-homepage](./dashboards/rainbell-homepage/rainbell-homepage.md)**
+			- **00 - dailynotes**
+				- **dailynote**
+					- [2022-05-09](./dashboards/rainbell-homepage/00%20-%20dailynotes/dailynote/2022-05-09.md)
+					- [2022-05-10](./dashboards/rainbell-homepage/00%20-%20dailynotes/dailynote/2022-05-10.md)
+					- [2022-05-11](./dashboards/rainbell-homepage/00%20-%20dailynotes/dailynote/2022-05-11.md)
+					- [2022-05-12](./dashboards/rainbell-homepage/00%20-%20dailynotes/dailynote/2022-05-12.md)
+					- [2022-05-13](./dashboards/rainbell-homepage/00%20-%20dailynotes/dailynote/2022-05-13.md)
+					- [2022-05-16](./dashboards/rainbell-homepage/00%20-%20dailynotes/dailynote/2022-05-16.md)
+					- [2022-05-17](./dashboards/rainbell-homepage/00%20-%20dailynotes/dailynote/2022-05-17.md)
+					- [2022-05-18](./dashboards/rainbell-homepage/00%20-%20dailynotes/dailynote/2022-05-18.md)
+					- [2022-05-19](./dashboards/rainbell-homepage/00%20-%20dailynotes/dailynote/2022-05-19.md)
+					- [2022-05-20](./dashboards/rainbell-homepage/00%20-%20dailynotes/dailynote/2022-05-20.md)
+					- [2022-05-30](./dashboards/rainbell-homepage/00%20-%20dailynotes/dailynote/2022-05-30.md)
+					- [2022-06-01](./dashboards/rainbell-homepage/00%20-%20dailynotes/dailynote/2022-06-01.md)
+					- [2022-06-02](./dashboards/rainbell-homepage/00%20-%20dailynotes/dailynote/2022-06-02.md)
+				- **weeklynote**
+					- [2022-17](./dashboards/rainbell-homepage/00%20-%20dailynotes/weeklynote/2022-17.md)
+					- [2022-18](./dashboards/rainbell-homepage/00%20-%20dailynotes/weeklynote/2022-18.md)
+					- [2022-19](./dashboards/rainbell-homepage/00%20-%20dailynotes/weeklynote/2022-19.md)
+					- [2022-20](./dashboards/rainbell-homepage/00%20-%20dailynotes/weeklynote/2022-20.md)
+			- **10 - people**
+				- **colleagues**
+					- [one](./dashboards/rainbell-homepage/10%20-%20people/colleagues/one.md)
+					- [two](./dashboards/rainbell-homepage/10%20-%20people/colleagues/two.md)
+				- **family**
+					- [00. people](./dashboards/rainbell-homepage/10%20-%20people/family/00.%20people.md)
+					- [daughter](./dashboards/rainbell-homepage/10%20-%20people/family/daughter.md)
+					- [father](./dashboards/rainbell-homepage/10%20-%20people/family/father.md)
+					- [mother](./dashboards/rainbell-homepage/10%20-%20people/family/mother.md)
+					- [qin](./dashboards/rainbell-homepage/10%20-%20people/family/qin.md)
+			- **20 - work & study**
+				- **codes**
+					- [00. mycodes](./dashboards/rainbell-homepage/20%20-%20work%20&%20study/codes/00.%20mycodes.md)
+					- [dataviewjs references](./dashboards/rainbell-homepage/20%20-%20work%20&%20study/codes/dataviewjs%20references.md)
+					- [life progress bar](./dashboards/rainbell-homepage/20%20-%20work%20&%20study/codes/life%20progress%20bar.md)
+					- [parrot management dataview](./dashboards/rainbell-homepage/20%20-%20work%20&%20study/codes/parrot%20management%20dataview.md)
+					- [test](./dashboards/rainbell-homepage/20%20-%20work%20&%20study/codes/test.md)
+				- **study**
+					- [00. study](./dashboards/rainbell-homepage/20%20-%20work%20&%20study/study/00.%20study.md)
+					- **cit593**
+						- [00. mcit593](./dashboards/rainbell-homepage/20%20-%20work%20&%20study/study/cit593/00.%20mcit593.md)
+						- [593-w01](./dashboards/rainbell-homepage/20%20-%20work%20&%20study/study/cit593/593-w01.md)
+						- [593-w02](./dashboards/rainbell-homepage/20%20-%20work%20&%20study/study/cit593/593-w02.md)
+					- **cit594**
+						- [00. mcit594](./dashboards/rainbell-homepage/20%20-%20work%20&%20study/study/cit594/00.%20mcit594.md)
+						- [594-w01](./dashboards/rainbell-homepage/20%20-%20work%20&%20study/study/cit594/594-w01.md)
+						- [594-w02](./dashboards/rainbell-homepage/20%20-%20work%20&%20study/study/cit594/594-w02.md)
+					- **foreign languages**
+						- [00. english study](./dashboards/rainbell-homepage/20%20-%20work%20&%20study/study/foreign%20languages/00.%20english%20study.md)
+						- [the fisherman and his soul](./dashboards/rainbell-homepage/20%20-%20work%20&%20study/study/foreign%20languages/the%20fisherman%20and%20his%20soul.md)
+						- [walden](./dashboards/rainbell-homepage/20%20-%20work%20&%20study/study/foreign%20languages/walden.md)
+					- [paper one](./dashboards/rainbell-homepage/20%20-%20work%20&%20study/study/paper%20one.md)
+				- **work**
+					- [00. work](./dashboards/rainbell-homepage/20%20-%20work%20&%20study/work/00.%20work.md)
+					- [project one](./dashboards/rainbell-homepage/20%20-%20work%20&%20study/work/project%20one.md)
+					- [project two](./dashboards/rainbell-homepage/20%20-%20work%20&%20study/work/project%20two.md)
+			- **40 - obsidian**
+				- **attachments**
+					- **banners**
 
-        - **Homepages**
-          - [00. Dashboard](./Dashboards/Rainbell-Homepage/40%20-%20Obsidian/Homepages/00.%20Dashboard.md)
-          - [00. Files](./Dashboards/Rainbell-Homepage/40%20-%20Obsidian/Homepages/00.%20Files.md)
-          - [00. Homepage](./Dashboards/Rainbell-Homepage/40%20-%20Obsidian/Homepages/00.%20Homepage.md)
-          - [00. References](./Dashboards/Rainbell-Homepage/40%20-%20Obsidian/Homepages/00.%20References.md)
-        - **React components**
-          - [music and birthday countdown 1](./Dashboards/Rainbell-Homepage/40%20-%20Obsidian/React%20components/music%20and%20birthday%20countdown%201.md)
-          - [music and birthday countdown 2](./Dashboards/Rainbell-Homepage/40%20-%20Obsidian/React%20components/music%20and%20birthday%20countdown%202.md)
-        - **Templates**
-          - [New Code template](./Dashboards/Rainbell-Homepage/40%20-%20Obsidian/Templates/New%20Code%20template.md)
-          - [New Daily template](./Dashboards/Rainbell-Homepage/40%20-%20Obsidian/Templates/New%20Daily%20template.md)
-          - [New Weekly template](./Dashboards/Rainbell-Homepage/40%20-%20Obsidian/Templates/New%20Weekly%20template.md)
-      - **50 - Zettelkasten**
-        - [00. Cardbox](./Dashboards/Rainbell-Homepage/50%20-%20Zettelkasten/00.%20Cardbox.md)
-        - [address operator](./Dashboards/Rainbell-Homepage/50%20-%20Zettelkasten/address%20operator.md)
-        - [algae](./Dashboards/Rainbell-Homepage/50%20-%20Zettelkasten/algae.md)
-        - [Anarch](./Dashboards/Rainbell-Homepage/50%20-%20Zettelkasten/Anarch.md)
-        - [anemone](./Dashboards/Rainbell-Homepage/50%20-%20Zettelkasten/anemone.md)
-        - [Apple M1 Max chip](./Dashboards/Rainbell-Homepage/50%20-%20Zettelkasten/Apple%20M1%20Max%20chip.md)
-        - [Baader-Meinhof Phenomenon](./Dashboards/Rainbell-Homepage/50%20-%20Zettelkasten/Baader-Meinhof%20Phenomenon.md)
-        - [barnacles](./Dashboards/Rainbell-Homepage/50%20-%20Zettelkasten/barnacles.md)
-        - [beads](./Dashboards/Rainbell-Homepage/50%20-%20Zettelkasten/beads.md)
-        - [Chamberlain](./Dashboards/Rainbell-Homepage/50%20-%20Zettelkasten/Chamberlain.md)
-        - [chariot](./Dashboards/Rainbell-Homepage/50%20-%20Zettelkasten/chariot.md)
-        - [cohort](./Dashboards/Rainbell-Homepage/50%20-%20Zettelkasten/cohort.md)
-        - [conundrum](./Dashboards/Rainbell-Homepage/50%20-%20Zettelkasten/conundrum.md)
-        - [Coral bleaching](./Dashboards/Rainbell-Homepage/50%20-%20Zettelkasten/Coral%20bleaching.md)
-        - [coral reef](./Dashboards/Rainbell-Homepage/50%20-%20Zettelkasten/coral%20reef.md)
-        - [Dunciad](./Dashboards/Rainbell-Homepage/50%20-%20Zettelkasten/Dunciad.md)
-        - [Faun](./Dashboards/Rainbell-Homepage/50%20-%20Zettelkasten/Faun.md)
-        - [meridian](./Dashboards/Rainbell-Homepage/50%20-%20Zettelkasten/meridian.md)
-        - [porpoises](./Dashboards/Rainbell-Homepage/50%20-%20Zettelkasten/porpoises.md)
-      - [Frequently Asked Questions](./Dashboards/Rainbell-Homepage/Frequently%20Asked%20Questions.md)
-      - [Rainbell-Homepage](./Dashboards/Rainbell-Homepage/Rainbell-Homepage.md)
-      - [Updates and Bug Fixes](./Dashboards/Rainbell-Homepage/Updates%20and%20Bug%20Fixes.md)
-  - **OSINT**
-    - [Ancestry_template](./OSINT/Ancestry_template.md)
-    - [person_intelligence](./OSINT/person_intelligence.md)
-    - [Person_Intelligence(explanation)](./OSINT/Person_Intelligence(explanation).md)
-    - [README](./OSINT/README.md)
-  - **README**
-    - [Pro-Temp-README](./README/Pro-Temp-README.md)
-    - [TEMP-README](./README/TEMP-README.md)
-    - [TMPL README](./README/TMPL%20README.md)
-  - **Temp**
-    - [0400 - Gen_Note](./Temp/0400%20-%20Gen_Note.md)
-    - [Admonition](./Temp/Admonition.md)
-    - [Agenda-Template](./Temp/Agenda-Template.md)
-    - [Blog-Post-Template](./Temp/Blog-Post-Template.md)
-    - [Contact-Template](./Temp/Contact-Template.md)
-    - [daily_notes](./Temp/daily_notes.md)
-    - [Daily-Note-Template](./Temp/Daily-Note-Template.md)
-    - [Default-Note-Template](./Temp/Default-Note-Template.md)
-    - [Frontmatter-Template](./Temp/Frontmatter-Template.md)
-    - [gitignore](./Temp/gitignore.md)
-    - [Linking Content](./Temp/Linking%20Content.md)
-    - [List-Template](./Temp/List-Template.md)
-    - [llzektorll-ActionPlan-0](./Temp/llzektorll-ActionPlan-0.md)
-    - [llzektorll-ApplicationRecorder-0](./Temp/llzektorll-ApplicationRecorder-0.md)
-    - [llzektorll-BlogPost-0](./Temp/llzektorll-BlogPost-0.md)
-    - [llzektorll-BookNotes-0](./Temp/llzektorll-BookNotes-0.md)
-    - [llzektorll-CompanyNotes-0](./Temp/llzektorll-CompanyNotes-0.md)
-    - [llzektorll-ContactPeople-0](./Temp/llzektorll-ContactPeople-0.md)
-    - [llzektorll-CourseNotes-0](./Temp/llzektorll-CourseNotes-0.md)
-    - [llzektorll-CourseNotes-1](./Temp/llzektorll-CourseNotes-1.md)
-    - [llzektorll-CourseNotes-2](./Temp/llzektorll-CourseNotes-2.md)
-    - [llzektorll-DailyLog-0](./Temp/llzektorll-DailyLog-0.md)
-    - [llzektorll-DailyLog-1](./Temp/llzektorll-DailyLog-1.md)
-    - [llzektorll-DecisionMaking-0](./Temp/llzektorll-DecisionMaking-0.md)
-    - [llzektorll-HabitNotes-0](./Temp/llzektorll-HabitNotes-0.md)
-    - [llzektorll-MeetingNotes-0](./Temp/llzektorll-MeetingNotes-0.md)
-    - [llzektorll-MocNote-0](./Temp/llzektorll-MocNote-0.md)
-    - [llzektorll-MonthlyReview-0](./Temp/llzektorll-MonthlyReview-0.md)
-    - [llzektorll-Project-0](./Temp/llzektorll-Project-0.md)
-    - [llzektorll-Project-1](./Temp/llzektorll-Project-1.md)
-    - [llzektorll-TaskList-0](./Temp/llzektorll-TaskList-0.md)
-    - [llzektorll-TrakingNote-0](./Temp/llzektorll-TrakingNote-0.md)
-    - [llzektorll-WeeklyLog-0](./Temp/llzektorll-WeeklyLog-0.md)
-    - [llzektorll-WeeklyReview-0](./Temp/llzektorll-WeeklyReview-0.md)
-    - [llzektorll-WeeklyReview-1](./Temp/llzektorll-WeeklyReview-1.md)
-    - [llzektorll-YearlyGoals-0](./Temp/llzektorll-YearlyGoals-0.md)
-    - [llzektorll-YearlyReview-0](./Temp/llzektorll-YearlyReview-0.md)
-    - [MOC-Template](./Temp/MOC-Template.md)
-    - [new_host_template](./Temp/new_host_template.md)
-    - [new_observation_template](./Temp/new_observation_template.md)
-    - [new_recommendation_template](./Temp/new_recommendation_template.md)
-    - [new_scope_template](./Temp/new_scope_template.md)
-    - [Obsidian - Custom CSS](./Temp/Obsidian%20-%20Custom%20CSS.md)
-    - [Obsidian - Getting Started](./Temp/Obsidian%20-%20Getting%20Started.md)
-    - [Obsidian - Plugins](./Temp/Obsidian%20-%20Plugins.md)
-    - [table_top_template](./Temp/table_top_template.md)
-    - [Templater 1](./Temp/Templater%201.md)
-    - [Templater](./Temp/Templater.md)
-  - [templates](./templates.md)
+				- **homepages**
+					- [00. dashboard](./dashboards/rainbell-homepage/40%20-%20obsidian/homepages/00.%20dashboard.md)
+					- [00. files](./dashboards/rainbell-homepage/40%20-%20obsidian/homepages/00.%20files.md)
+					- [00. homepage](./dashboards/rainbell-homepage/40%20-%20obsidian/homepages/00.%20homepage.md)
+					- [00. references](./dashboards/rainbell-homepage/40%20-%20obsidian/homepages/00.%20references.md)
+				- **react components**
+					- [music and birthday countdown 1](./dashboards/rainbell-homepage/40%20-%20obsidian/react%20components/music%20and%20birthday%20countdown%201.md)
+					- [music and birthday countdown 2](./dashboards/rainbell-homepage/40%20-%20obsidian/react%20components/music%20and%20birthday%20countdown%202.md)
+				- **templates**
+					- [new code template](./dashboards/rainbell-homepage/40%20-%20obsidian/templates/new%20code%20template.md)
+					- [new daily template](./dashboards/rainbell-homepage/40%20-%20obsidian/templates/new%20daily%20template.md)
+					- [new weekly template](./dashboards/rainbell-homepage/40%20-%20obsidian/templates/new%20weekly%20template.md)
+			- **50 - zettelkasten**
+				- [00. cardbox](./dashboards/rainbell-homepage/50%20-%20zettelkasten/00.%20cardbox.md)
+				- [address operator](./dashboards/rainbell-homepage/50%20-%20zettelkasten/address%20operator.md)
+				- [algae](./dashboards/rainbell-homepage/50%20-%20zettelkasten/algae.md)
+				- [anarch](./dashboards/rainbell-homepage/50%20-%20zettelkasten/anarch.md)
+				- [anemone](./dashboards/rainbell-homepage/50%20-%20zettelkasten/anemone.md)
+				- [apple m1 max chip](./dashboards/rainbell-homepage/50%20-%20zettelkasten/apple%20m1%20max%20chip.md)
+				- [baader-meinhof phenomenon](./dashboards/rainbell-homepage/50%20-%20zettelkasten/baader-meinhof%20phenomenon.md)
+				- [barnacles](./dashboards/rainbell-homepage/50%20-%20zettelkasten/barnacles.md)
+				- [beads](./dashboards/rainbell-homepage/50%20-%20zettelkasten/beads.md)
+				- [chamberlain](./dashboards/rainbell-homepage/50%20-%20zettelkasten/chamberlain.md)
+				- [chariot](./dashboards/rainbell-homepage/50%20-%20zettelkasten/chariot.md)
+				- [cohort](./dashboards/rainbell-homepage/50%20-%20zettelkasten/cohort.md)
+				- [conundrum](./dashboards/rainbell-homepage/50%20-%20zettelkasten/conundrum.md)
+				- [coral bleaching](./dashboards/rainbell-homepage/50%20-%20zettelkasten/coral%20bleaching.md)
+				- [coral reef](./dashboards/rainbell-homepage/50%20-%20zettelkasten/coral%20reef.md)
+				- [dunciad](./dashboards/rainbell-homepage/50%20-%20zettelkasten/dunciad.md)
+				- [faun](./dashboards/rainbell-homepage/50%20-%20zettelkasten/faun.md)
+				- [meridian](./dashboards/rainbell-homepage/50%20-%20zettelkasten/meridian.md)
+				- [porpoises](./dashboards/rainbell-homepage/50%20-%20zettelkasten/porpoises.md)
+			- [frequently asked questions](./dashboards/rainbell-homepage/frequently%20asked%20questions.md)
+			- [rainbell-homepage](./dashboards/rainbell-homepage/rainbell-homepage.md)
+			- [updates and bug fixes](./dashboards/rainbell-homepage/updates%20and%20bug%20fixes.md)
+	- **osint**
+		- [ancestry_template](./osint/ancestry_template.md)
+		- [person_intelligence](./osint/person_intelligence.md)
+		- [person_intelligence(explanation)](./osint/person_intelligence(explanation).md)
+		- [readme](./osint/readme.md)
+	- **readme**
+		- [pro-temp-readme](./readme/pro-temp-readme.md)
+		- [temp-readme](./readme/temp-readme.md)
+		- [tmpl readme](./readme/tmpl%20readme.md)
+	- **temp**
+		- [0400 - gen_note](./temp/0400%20-%20gen_note.md)
+		- [admonition](./temp/admonition.md)
+		- [agenda-template](./temp/agenda-template.md)
+		- [blog-post-template](./temp/blog-post-template.md)
+		- [contact-template](./temp/contact-template.md)
+		- [daily_notes](./temp/daily_notes.md)
+		- [daily-note-template](./temp/daily-note-template.md)
+		- [default-note-template](./temp/default-note-template.md)
+		- [frontmatter-template](./temp/frontmatter-template.md)
+		- [gitignore](./temp/gitignore.md)
+		- [linking content](./temp/linking%20content.md)
+		- [list-template](./temp/list-template.md)
+		- [llzektorll-actionplan-0](./temp/llzektorll-actionplan-0.md)
+		- [llzektorll-applicationrecorder-0](./temp/llzektorll-applicationrecorder-0.md)
+		- [llzektorll-blogpost-0](./temp/llzektorll-blogpost-0.md)
+		- [llzektorll-booknotes-0](./temp/llzektorll-booknotes-0.md)
+		- [llzektorll-companynotes-0](./temp/llzektorll-companynotes-0.md)
+		- [llzektorll-contactpeople-0](./temp/llzektorll-contactpeople-0.md)
+		- [llzektorll-coursenotes-0](./temp/llzektorll-coursenotes-0.md)
+		- [llzektorll-coursenotes-1](./temp/llzektorll-coursenotes-1.md)
+		- [llzektorll-coursenotes-2](./temp/llzektorll-coursenotes-2.md)
+		- [llzektorll-dailylog-0](./temp/llzektorll-dailylog-0.md)
+		- [llzektorll-dailylog-1](./temp/llzektorll-dailylog-1.md)
+		- [llzektorll-decisionmaking-0](./temp/llzektorll-decisionmaking-0.md)
+		- [llzektorll-habitnotes-0](./temp/llzektorll-habitnotes-0.md)
+		- [llzektorll-meetingnotes-0](./temp/llzektorll-meetingnotes-0.md)
+		- [llzektorll-mocnote-0](./temp/llzektorll-mocnote-0.md)
+		- [llzektorll-monthlyreview-0](./temp/llzektorll-monthlyreview-0.md)
+		- [llzektorll-project-0](./temp/llzektorll-project-0.md)
+		- [llzektorll-project-1](./temp/llzektorll-project-1.md)
+		- [llzektorll-tasklist-0](./temp/llzektorll-tasklist-0.md)
+		- [llzektorll-trakingnote-0](./temp/llzektorll-trakingnote-0.md)
+		- [llzektorll-weeklylog-0](./temp/llzektorll-weeklylog-0.md)
+		- [llzektorll-weeklyreview-0](./temp/llzektorll-weeklyreview-0.md)
+		- [llzektorll-weeklyreview-1](./temp/llzektorll-weeklyreview-1.md)
+		- [llzektorll-yearlygoals-0](./temp/llzektorll-yearlygoals-0.md)
+		- [llzektorll-yearlyreview-0](./temp/llzektorll-yearlyreview-0.md)
+		- [moc-template](./temp/moc-template.md)
+		- [new_host_template](./temp/new_host_template.md)
+		- [new_observation_template](./temp/new_observation_template.md)
+		- [new_recommendation_template](./temp/new_recommendation_template.md)
+		- [new_scope_template](./temp/new_scope_template.md)
+		- [obsidian - custom css](./temp/obsidian%20-%20custom%20css.md)
+		- [obsidian - getting started](./temp/obsidian%20-%20getting%20started.md)
+		- [obsidian - plugins](./temp/obsidian%20-%20plugins.md)
+		- [table_top_template](./temp/table_top_template.md)
+		- [templater 1](./temp/templater%201.md)
+		- [templater](./temp/templater.md)
+	- [templates](./templates.md)
 
 %% End Waypoint %%
