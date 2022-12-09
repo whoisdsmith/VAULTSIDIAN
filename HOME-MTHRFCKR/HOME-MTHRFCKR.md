@@ -19,6 +19,8 @@
 	- **[notes](./notes/notes.md)**
 	- **[osint](./osint/osint.md)**
 	- **[research](./research/research.md)**
+	- **tweets**
+		- [chatgpt-funny](./tweets/chatgpt-funny.md)
 	- **[urls](./urls/urls.md)**
 
 %% End Waypoint %%
