@@ -1,13 +1,3 @@
----
-id: 925
-title: 'Terminal commands'
-date: '2022-07-03T00:12:52+00:00'
-author: whoisdsmith
-layout: revision
-guid: 'https://whoisdsmith.ctrlaltback.space/?p=925'
-permalink: '/?p=925'
----
-
 Command-line (Terminal) is a very powerful tool we have in our machine and this is over responsibility to use it smartly. Let’s get started with these commands. I am dividing this into two sections first one is a must-know and the second one is good to know.
 
 To open the terminal, press **Ctrl+Alt+T** in Ubuntu, or press **Alt+F2**. For mac user **command+space** then type terminal in spotlight search then hit **enter**.

@@ -1,23 +1,23 @@
-One Year of Taking [[Adderall]] to Help with Writing & Focus
+One Year of Taking [[home-mthrfckr/notes/articles/adderall]] to Help with Writing & Focus
 
 ---
 [One Year of Taking Adderall to Help with Writing & Focus](https://chrisguillebeau.com/adderall)
 
 
 
-[[Adderall]]
+[[home-mthrfckr/notes/articles/adderall]]
 
 ![513475016_85639b8bd0_b.jpg](https://www.inoreader.com/camo/s8kr90x-f9-2WZ90YChvpWAVzIUUfeI3YCmDXfyHWJPk,b64/aHR0cDovL2NvbnRlbnQuY2hyaXNndWlsbGViZWF1LmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8xMC81MTM0NzUwMTZfODU2MzliOGJkMF9iLmpwZw)
 
 Last year I shared the story of [why I got a prescription for Adderall](https://chrisguillebeau.com/writing-with-adderall), the brand name of the psychostimulant drug that can help you better manage your attention and focus.
 
-[[Adderall]] is a controlled substance in the U.S. and most other western countries. It’s known for being abused by college students—you know, when you _really need to study_—but it’s also one of the most frequently prescribed treatments for both children and adults with [[ADHD]].
+[[home-mthrfckr/notes/articles/adderall]] is a controlled substance in the U.S. and most other western countries. It’s known for being abused by college students—you know, when you _really need to study_—but it’s also one of the most frequently prescribed treatments for both children and adults with [[ADHD]].
 
 I was diagnosed with [[ADHD]] as a kid (whoa, look at that spaceship!) and was medicated for a while with Ritalin and other drugs, but until last year at the old age of 36, I hadn’t taken anything since I was 12 or so.
 
 The short version of why I decided to alter my stance on [[ADHD]] meds was that things weren’t going super great. I had been late on my last book manuscript, and was beginning a new one that I wanted to complete on time. I had a long list of things I wanted to do (and believed in), but it had become more and more difficult to settle down and knock things off the list.
 
-I wasn’t sure that taking [[Adderall]] or anything else would be the proverbial silver bullet, but instead of just struggling every day, I decided I’d give it a try. If you’re interested, I wrote a lot more about the decision in [the original post](https://chrisguillebeau.com/writing-with-adderall).
+I wasn’t sure that taking [[home-mthrfckr/notes/articles/adderall]] or anything else would be the proverbial silver bullet, but instead of just struggling every day, I decided I’d give it a try. If you’re interested, I wrote a lot more about the decision in [the original post](https://chrisguillebeau.com/writing-with-adderall).
 
 As I expected, that post was quite controversial and I received a lot of feedback from different perspectives. Several people wrote in to say I was encouraging drug addiction, which of course was strange since I’d never really taken drugs before and was just sharing my own experience in trying to solve a problem.
 
@@ -33,7 +33,7 @@ _Replies to emails I had ignored (sorry, everyone) were suddenly flying out of m
 
 _By the way, those last few sentences were written in passive tense, but that’s what it felt like. I’m just the channel! This is working!_
 
-Fast forward a year or so. It hasn’t been quite 365 days of being medicated, but I’ve been prescribed [[Adderall]] for the whole time, and I’ve taken it fairly regularly.
+Fast forward a year or so. It hasn’t been quite 365 days of being medicated, but I’ve been prescribed [[home-mthrfckr/notes/articles/adderall]] for the whole time, and I’ve taken it fairly regularly.
 
 **One Year Later: So What About Now?**
 
@@ -49,7 +49,7 @@ The honest answer is I don’t know. At the moment my thought is, well, as long 
 
 **Introducing My Next Book, Brought to You By Pfizer**
 
-Writing with [[Adderall]] helps you focus. It doesn’t do the work for you.
+Writing with [[home-mthrfckr/notes/articles/adderall]] helps you focus. It doesn’t do the work for you.
 
 One thing I’ve mentioned to several of the people who’ve written in: you really need to have a task in mind or project in front of you when you’re on it. [[Research]]-based projects aren’t as ideal as projects where you know what you have to do, you’re just having trouble doing it.
 
@@ -77,7 +77,7 @@ Sleeplessness is the bigger concern. When I take 10mg instead of 5mg, with the s
 
 So in short, I haven’t completely got the insomnia figured out, but that’s the only major issue of the moment. For me the overall effects are definitely net positive.
 
-I share this experience for anyone who struggles with creative work. If the usual advice—“just turn off the wifi and put down your phone”—doesn’t work for you, maybe you should consider seeing an M.D. or naturopath or whoever you trust with your health, and maybe you should ask them about [[Adderall]] or similar options.
+I share this experience for anyone who struggles with creative work. If the usual advice—“just turn off the wifi and put down your phone”—doesn’t work for you, maybe you should consider seeing an M.D. or naturopath or whoever you trust with your health, and maybe you should ask them about [[home-mthrfckr/notes/articles/adderall]] or similar options.
 
 
 ***
