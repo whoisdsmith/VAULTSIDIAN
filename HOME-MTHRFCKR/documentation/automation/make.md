@@ -28,7 +28,7 @@
 
 ## [[Make-Webhooks]]
 
-## [[Glossary]]
+## [[home-mthrfckr/documentation/make/glossary]]
 
 ## [[Converger]]
 

@@ -16,6 +16,6 @@
 
 [Notetaking](notetaking.md)
 
-[Obsidian](obsidian.md)
+[Obsidian](home-mthrfckr/bookmrks-mthrfckr/pkms/obsidian.md)
 
 ***

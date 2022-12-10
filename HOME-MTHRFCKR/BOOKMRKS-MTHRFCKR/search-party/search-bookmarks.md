@@ -69,7 +69,7 @@
 
 ## [[../search/searches.md]]
 
-## [[Similiar Sites](Similiar%20[[specialized]]ial [[subdomain]]sear[[technology]]]]
+## [[Similiar Sites](Similiar%20[[specialized]]ial [[subdomain]]sear[[home-mthrfckr/bookmrks-mthrfckr/search-party/technology]]]]
 
 # [[HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/search-party/telegram]]ubdo[[words-vocabulary]]h/te[[HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/search-party/youtube]]## [[../search/telegram.md]]
 
