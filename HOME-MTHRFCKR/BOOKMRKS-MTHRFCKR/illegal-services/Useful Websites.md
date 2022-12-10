@@ -44,9 +44,6 @@
 - [Process Hacker](https://processhacker.sourceforge.io/)
 - [Process Explorer](https://learn.microsoft.com/sysinternals/downloads/process-explorer)
 
-#### \[FR\]
-
-- [Le scanner anti-virus de Jotti](https://virusscan.jotti.org/)
 
 ### Security
 

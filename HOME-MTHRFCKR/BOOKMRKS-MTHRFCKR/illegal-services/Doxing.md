@@ -35,12 +35,6 @@
 - [ASCII2D](https://ascii2d.net/)
 - [Photo Sherlock](https://photosherlock.com/)
 
-#### ANIMES
-
-- [Trace](https://trace.moe/)
-- [SauceNAO](https://saucenao.com/)
-- [IQDB](https://iqdb.org/)
-
 #### REDDIT
 
 - [Karma Decay](http://karmadecay.com/)

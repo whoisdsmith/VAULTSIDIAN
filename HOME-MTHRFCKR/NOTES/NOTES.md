@@ -8,6 +8,7 @@
 	- **[articles](./articles/articles.md)**
 	- **chatgpt**
 		- [awesome-chatgpt-prompts](./chatgpt/awesome-chatgpt-prompts.md)
+		- [awesome-chatgpt](./chatgpt/awesome-chatgpt.md)
 		- [chatgpt-universe](./chatgpt/chatgpt-universe.md)
 	- **[daily-notes](./daily-notes/daily-notes.md)**
 	- **[data](./data/data.md)**
