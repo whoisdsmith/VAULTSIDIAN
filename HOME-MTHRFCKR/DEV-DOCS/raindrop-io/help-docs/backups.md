@@ -17,7 +17,7 @@ Never worry about losing your collections, bookmarks, tags and highlights.
 Anytime you can create a new backup and store up to 30 last on your account.
 If you’re a [Pro user](premium-features.md), Raindrop creates backup files for you automatically.
 
-You can easily [restore data](import.md).
+You can easily [restore data](home-mthrfckr/dev-docs/raindrop-io/help-docs/import.md).
 
 :::note
 [Automatic backups](https://app.raindrop.io/settings/backups) are created once a day on days you made any changes.

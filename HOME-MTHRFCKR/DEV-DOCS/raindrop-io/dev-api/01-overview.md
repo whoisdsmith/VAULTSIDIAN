@@ -6,7 +6,7 @@ This is the official documentation for Raindrop.io API. A reference to the funct
 
 Please note that you must [register your application](https://app.raindrop.io/#/settings/apps/dev) and authenticate with OAuth when making requests. Before doing so, be sure to read our [Terms & Guidelines](02-terms.md) to learn how the API may be used.
 
-### Format
+## Format
 
 API endpoints accept arguments either as url-encoded values for non-POST requests or as json-encoded objects encoded in POST request body with `Content-Type: application/json` header.
 
@@ -32,13 +32,13 @@ All `200 OK` responses have the `Content-type: application/json` and contain a J
 
 Payload of POST requests has to be JSON-encoded and accompanied with `Content-Type: application/json` header.
 
-### Timestamps <a id="timestamps"></a>
+## Timestamps <a id="timestamps"></a>
 
 All timestamps are returned in ISO 8601 format:
 
 `YYYY-MM-DDTHH:MM:SSZ`
 
-### Rate Limiting <a id="rate-limiting"></a>
+## Rate Limiting <a id="rate-limiting"></a>
 
 For requests using OAuth, you can make up to 120 requests per minute per authenticated user.
 
@@ -60,7 +60,7 @@ X-RateLimit-Remaining: 0
 X-RateLimit-Reset: 1392321600 
 ```
 
-### CORS <a id="cross-origin-resource-sharing"></a>
+## CORS <a id="cross-origin-resource-sharing"></a>
 
 The API supports Cross Origin Resource Sharing \(CORS\) for AJAX requests. You can read the [CORS W3C recommendation](https://www.w3.org/TR/cors/), or [this intro](http://code.google.com/p/html5security/wiki/CrossOriginRequestSecurity) from the HTML 5 Security Guide.
 

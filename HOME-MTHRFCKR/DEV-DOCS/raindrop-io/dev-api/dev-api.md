@@ -1,4 +1,4 @@
-# Table of contents
+# Table of Contents
 
 * [Overview](../../../../R[Terms & Guidelines](02-terms.md)s](terms.md)
 
@@ -9,16 +9,16 @@
   * [Make authorized calls](calls.md)
 * [Collections](collections.md)
   * [Collection methods](methods.md)
-  * [Nested structure](nested-structure.md)
-  * [Sharing](sharing.md)
-  * [Covers/icons](covers-icons.md)
+  * [Nested structure](home-mthrfckr/dev-docs/raindrop-io/dev-api/nested-structure.md)
+  * [Sharing](home-mthrfckr/dev-docs/raindrop-io/dev-api/sharing.md)
+  * [Covers/icons](home-mthrfckr/dev-docs/raindrop-io/dev-api/covers-icons.md)
 * [Raindrops](raindrops.md)
   * [Single raindrop](single.md)
   * [Multiple raindrops](multiple.md)
-* [Highlights](highlights.md)
+* [Highlights](home-mthrfckr/dev-docs/raindrop-io/dev-api/highlights.md)
 * [User](user.md)
   * [Authenticated user](authenticated.md)
-* [Tags](tags.md)
+* [Tags](home-mthrfckr/dev-docs/raindrop-io/dev-api/tags.md)
 * [Filters](fi[Import](HOME-MTHRFCKR/DEV-DOCS/raindrop-io/dev-api/import.md)I/import.md)
 
 ## More

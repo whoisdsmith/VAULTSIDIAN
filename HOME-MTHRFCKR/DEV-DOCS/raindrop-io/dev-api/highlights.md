@@ -15,7 +15,7 @@ Single `highlight` object:
 | tags    | `Array`  | Tags list                                                                                                                                                                                                                                                                                                            |
 | link    | `String` | Highlighted page URL                                                                                                                                                                                                                                                                                                 |
 
-{% swagger method="get" path="/rest/v1/highlights" baseUrl="https://api.raindrop.io" summary="Get all highlights" %}
+{% swagger method="get" path="/rest/v1/highlights" baseUrl="https://api.raindrop.io" summary="Get all highlights" %}  
 {% swagger-description %}
 
 {% endswagger-description %}
@@ -24,8 +24,8 @@ Single `highlight` object:
 
 {% endswagger-parameter %}
 
-{% swagger-parameter in="query" name="perpage" type="Number" %}
-How many highlights per page. 50 max. Default 25
+{% swagger-parameter in="query" name="perpage" type="Number" %}  
+How many highlights per page. 50 max. Default 25  
 {% endswagger-parameter %}
 
 {% swagger-response status="200: OK" description="" %}
@@ -62,24 +62,24 @@ How many highlights per page. 50 max. Default 25
 }
 ```
 
-{% endswagger-response %}
+{% endswagger-response %}  
 {% endswagger %}
 
-{% swagger method="get" path="/rest/v1/highlights/{collectionId}" baseUrl="https://api.raindrop.io" summary="Get all highlights in a collection" %}
+{% swagger method="get" path="/rest/v1/highlights/{collectionId}" baseUrl="https://api.raindrop.io" summary="Get all highlights in a collection" %}  
 {% swagger-description %}
 
 {% endswagger-description %}
 
-{% swagger-parameter in="path" name="collectionId" type="Number" required="true" %}
-Collection ID
+{% swagger-parameter in="path" name="collectionId" type="Number" required="true" %}  
+Collection ID  
 {% endswagger-parameter %}
 
 {% swagger-parameter in="path" name="page" type="Number" %}
 
 {% endswagger-parameter %}
 
-{% swagger-parameter in="path" name="perpage" type="Number" %}
-How many highlights per page. 50 max. Default 25
+{% swagger-parameter in="path" name="perpage" type="Number" %}  
+How many highlights per page. 50 max. Default 25  
 {% endswagger-parameter %}
 
 {% swagger-response status="200: OK" description="" %}
@@ -114,16 +114,16 @@ How many highlights per page. 50 max. Default 25
 }
 ```
 
-{% endswagger-response %}
+{% endswagger-response %}  
 {% endswagger %}
 
-{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/raindrop/{id}" method="get" summary="Get highlights of raindrop" %}
+{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/raindrop/{id}" method="get" summary="Get highlights of raindrop" %}  
 {% swagger-description %}
 
 {% endswagger-description %}
 
-{% swagger-parameter in="path" name="id" type="number" required="true" %}
-Existing raindrop ID
+{% swagger-parameter in="path" name="id" type="number" required="true" %}  
+Existing raindrop ID  
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
@@ -155,20 +155,20 @@ Existing raindrop ID
 }
 ```
 
-{% endswagger-response %}
+{% endswagger-response %}  
 {% endswagger %}
 
-{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/raindrop/{id}" method="put" summary="Add highlight" %}
-{% swagger-description %}
+{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/raindrop/{id}" method="put" summary="Add highlight" %}  
+{% swagger-description %}  
 Just specify a `highlights` array in body with `object` for each highlight
 
 **Fore example:**
 
-`{"highlights": [ { "text": "Some quote", "color": "red", "note": "Some note" } ] }`
+`{"highlights": [ { "text": "Some quote", "color": "red", "note": "Some note" } ] }`  
 {% endswagger-description %}
 
-{% swagger-parameter in="path" name="id" type="number" required="true" %}
-Existing raindrop ID
+{% swagger-parameter in="path" name="id" type="number" required="true" %}  
+Existing raindrop ID  
 {% endswagger-parameter %}
 
 {% swagger-parameter in="body" name="highlights" type="array" required="true" %}
@@ -216,32 +216,32 @@ Existing raindrop ID
 }
 ```
 
-{% endswagger-response %}
+{% endswagger-response %}  
 {% endswagger %}
 
-{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/raindrop/{id}" method="put" summary="Update highlight" %}
-{% swagger-description %}
+{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/raindrop/{id}" method="put" summary="Update highlight" %}  
+{% swagger-description %}  
 Just specify a `highlights` array in body with `object` containing particular `_id` of highlight you want to update and all other fields you want to change.
 
 **Fore example:**
 
-`{"highlights": [ { "_id": "62388e9e48b63606f41e44a6", "note": "New note" } ] }`
+`{"highlights": [ { "_id": "62388e9e48b63606f41e44a6", "note": "New note" } ] }`  
 {% endswagger-description %}
 
-{% swagger-parameter in="path" name="id" type="number" required="true" %}
-Existing raindrop ID
+{% swagger-parameter in="path" name="id" type="number" required="true" %}  
+Existing raindrop ID  
 {% endswagger-parameter %}
 
 {% swagger-parameter in="body" name="highlights" type="array" required="true" %}
 
 {% endswagger-parameter %}
 
-{% swagger-parameter in="body" name="highlights[]._id" required="true" %}
-Particular highlight_id you want to remove
+{% swagger-parameter in="body" name="highlights[]._id" required="true" %}  
+Particular highlight_id you want to remove  
 {% endswagger-parameter %}
 
-{% swagger-parameter in="body" name="highlights[].text" required="false" %}
-Should be empty string
+{% swagger-parameter in="body" name="highlights[].text" required="false" %}  
+Should be empty string  
 {% endswagger-parameter %}
 
 {% swagger-parameter in="body" name="highlights[].note" %}
@@ -279,32 +279,32 @@ Should be empty string
         ]    }}
 ```
 
-{% endswagger-response %}
+{% endswagger-response %}  
 {% endswagger %}
 
-{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/raindrop/{id}" method="put" summary="Remove highlight" %}
-{% swagger-description %}
+{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/raindrop/{id}" method="put" summary="Remove highlight" %}  
+{% swagger-description %}  
 Just specify a `highlights` array in body with `object` containing particular `_id` of highlight you want to remove and empty string for `text` field.
 
 **Fore example:**
 
-`{"highlights": [ { "_id": "62388e9e48b63606f41e44a6", "text": "" } ] }`
+`{"highlights": [ { "_id": "62388e9e48b63606f41e44a6", "text": "" } ] }`  
 {% endswagger-description %}
 
-{% swagger-parameter in="path" name="id" type="number" required="true" %}
-Existing raindrop ID
+{% swagger-parameter in="path" name="id" type="number" required="true" %}  
+Existing raindrop ID  
 {% endswagger-parameter %}
 
 {% swagger-parameter in="body" name="highlights" type="array" required="true" %}
 
 {% endswagger-parameter %}
 
-{% swagger-parameter in="body" name="highlights[]._id" required="true" %}
-Particular highlight_id you want to remove
+{% swagger-parameter in="body" name="highlights[]._id" required="true" %}  
+Particular highlight_id you want to remove  
 {% endswagger-parameter %}
 
-{% swagger-parameter in="body" name="highlights[].text" required="true" %}
-Should be empty string
+{% swagger-parameter in="body" name="highlights[].text" required="true" %}  
+Should be empty string  
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
@@ -335,7 +335,7 @@ Should be empty string
     }}
 ```
 
-{% endswagger-response %}
+{% endswagger-response %}  
 {% endswagger %}
 
 ---

@@ -2,7 +2,7 @@
 
 ---
 
-### Collaborators
+## Collaborators
 
 Every user who shares at least one collection with another user, has a collaborators record in the API response. The record contains a restricted subset of user-specific fields.
 
@@ -14,16 +14,16 @@ Every user who shares at least one collection with another user, has a collabora
 | fullName   | Full name of the collaborator                                                                                                                                           |
 | role       | <p>Access level:</p><p><strong><code>member</code></strong> have write access and can invite more users</p><p><strong><code>viewer</code></strong> read-only access</p> |
 
-{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/collection/{id}/sharing" method="post" summary="Share collection" %}
-{% swagger-description %}
-Share collection with another user(s). As result invitation(s) will be send to specified email(s) with link to join collection.
+{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/collection/{id}/sharing" method="post" summary="Share collection" %}  
+{% swagger-description %}  
+Share collection with another user(s). As result invitation(s) will be send to specified email(s) with link to join collection.  
 {% endswagger-description %}
 
-{% swagger-parameter in="path" name="id" type="number" %}
-Existing collection ID
+{% swagger-parameter in="path" name="id" type="number" %}  
+Existing collection ID  
 {% endswagger-parameter %}
 
-{% swagger-parameter in="body" name="role" type="string" %}
+{% swagger-parameter in="body" name="role" type="string" %}  
 Access level. Possible values:
 
 \
@@ -32,15 +32,15 @@ Access level. Possible values:
 
 \
 
-**`viewer`**
+**`viewer`**  
 {% endswagger-parameter %}
 
-{% swagger-parameter in="body" name="emails" type="array" %}
+{% swagger-parameter in="body" name="emails" type="array" %}  
 The user email(s) with whom to share the project.
 
 \
 
-Maximum 10
+Maximum 10  
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
@@ -91,16 +91,16 @@ Maximum 10
 }
 ```
 
-{% endswagger-response %}
+{% endswagger-response %}  
 {% endswagger %}
 
-{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/collection/{id}/sharing" method="get" summary="Get collaborators list of collection" %}
+{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/collection/{id}/sharing" method="get" summary="Get collaborators list of collection" %}  
 {% swagger-description %}
 
 {% endswagger-description %}
 
-{% swagger-parameter in="path" name="id" type="number" %}
-Existing collection ID
+{% swagger-parameter in="path" name="id" type="number" %}  
+Existing collection ID  
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
@@ -121,11 +121,11 @@ Existing collection ID
 }
 ```
 
-{% endswagger-response %}
+{% endswagger-response %}  
 {% endswagger %}
 
-{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/collection/{id}/sharing" method="delete" summary="Unshare or leave collection" %}
-{% swagger-description %}
+{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/collection/{id}/sharing" method="delete" summary="Unshare or leave collection" %}  
+{% swagger-description %}  
 There two possible results of calling this method, depends on who authenticated user is:
 
 \
@@ -142,11 +142,11 @@ There two possible results of calling this method, depends on who authenticated 
 
 **Member or viewer**
 
-: authenticated user will be removed from collaborators list
+: authenticated user will be removed from collaborators list  
 {% endswagger-description %}
 
-{% swagger-parameter in="path" name="id" type="number" %}
-Existing collection ID
+{% swagger-parameter in="path" name="id" type="number" %}  
+Existing collection ID  
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
@@ -157,28 +157,28 @@ Existing collection ID
 }
 ```
 
-{% endswagger-response %}
+{% endswagger-response %}  
 {% endswagger %}
 
-{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/collection/{id}/sharing/{userId}" method="put" summary="Change access level of collaborator" %}
+{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/collection/{id}/sharing/{userId}" method="put" summary="Change access level of collaborator" %}  
 {% swagger-description %}
 
 {% endswagger-description %}
 
-{% swagger-parameter in="path" name="userId" type="number" %}
-User ID of collaborator
+{% swagger-parameter in="path" name="userId" type="number" %}  
+User ID of collaborator  
 {% endswagger-parameter %}
 
-{% swagger-parameter in="path" name="id" type="number" %}
-Existing collection ID
+{% swagger-parameter in="path" name="id" type="number" %}  
+Existing collection ID  
 {% endswagger-parameter %}
 
-{% swagger-parameter in="body" name="role" type="string" %}
+{% swagger-parameter in="body" name="role" type="string" %}  
 **`member`**
 
  or
 
-**`viewer`**
+**`viewer`**  
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
@@ -189,20 +189,20 @@ Existing collection ID
 }
 ```
 
-{% endswagger-response %}
+{% endswagger-response %}  
 {% endswagger %}
 
-{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/collection/{id}/sharing/{userId}" method="delete" summary="Delete a collaborator" %}
-{% swagger-description %}
-Remove an user from shared collection
+{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/collection/{id}/sharing/{userId}" method="delete" summary="Delete a collaborator" %}  
+{% swagger-description %}  
+Remove an user from shared collection  
 {% endswagger-description %}
 
-{% swagger-parameter in="path" name="userId" type="number" %}
-User ID of collaborator
+{% swagger-parameter in="path" name="userId" type="number" %}  
+User ID of collaborator  
 {% endswagger-parameter %}
 
-{% swagger-parameter in="path" name="id" type="number" %}
-Existing collection ID
+{% swagger-parameter in="path" name="id" type="number" %}  
+Existing collection ID  
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
@@ -213,20 +213,20 @@ Existing collection ID
 }
 ```
 
-{% endswagger-response %}
+{% endswagger-response %}  
 {% endswagger %}
 
-{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/collection/{id}/join" method="post" summary="Accept an invitation" %}
-{% swagger-description %}
-Accept an invitation to join a shared collection
+{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/collection/{id}/join" method="post" summary="Accept an invitation" %}  
+{% swagger-description %}  
+Accept an invitation to join a shared collection  
 {% endswagger-description %}
 
-{% swagger-parameter in="path" name="id" type="number" %}
-Existing collection ID
+{% swagger-parameter in="path" name="id" type="number" %}  
+Existing collection ID  
 {% endswagger-parameter %}
 
-{% swagger-parameter in="body" name="token" type="string" %}
-Secret token from email
+{% swagger-parameter in="body" name="token" type="string" %}  
+Secret token from email  
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
@@ -264,5 +264,5 @@ Secret token from email
 }
 ```
 
-{% endswagger-response %}
+{% endswagger-response %}  
 {% endswagger %}

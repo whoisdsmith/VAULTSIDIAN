@@ -1,4 +1,4 @@
-# Obtain access token
+# Obtain Access Token
 
 ---
 
@@ -13,19 +13,19 @@ This procedure is comprised of several steps, which will be described below.
 
 1: The authorization request
 
-Direct the user to our authorization URL with specified request parameters.
- — If the user is not logged in, they will be asked to log in
- — The user will be asked if he would like to grant your application access to his Raindrop.io data
+Direct the user to our authorization URL with specified request parameters.  
+—If the user is not logged in, they will be asked to log in  
+—The user will be asked if he would like to grant your application access to his Raindrop.io data
 
 Parameters
 
-Queryre
-direct_uri    string     Redirect URL configured in your application setting
-client_id      string      The unique Client ID of the Raindrop.io app that you registered
+Queryre  
+direct_uri string Redirect URL configured in your application setting  
+client_id string The unique Client ID of the Raindrop.io app that you registered
 
 Responses
 
-307                                    Check details in Step 2
+307 Check details in Step 2
 
 ```
 ```
@@ -36,7 +36,7 @@ Here example CURL request:
 curl "https://api.raindrop.io/v1/oauth/authorize?client_id=5e1c382cf6f48c0211359083&redirect_uri=https:%2F%2Foauthdebugger.com%2Fdebug"
 ```
 
-## Step 2: The redirection to your application site
+## Step 2: The Redirection to Your Application Site
 
 When the user grants your authorization request, the user will be redirected to the redirect URL configured in your application setting. The redirect request will come with query parameter attached: `code` .
 
@@ -49,8 +49,8 @@ In case of error redirect request will come with `error` query parameter:
 | access\_denied               | When the user denies your authorization request                                                                |
 | invalid\_application\_status | When your application exceeds the maximum token limit or when your application is being suspended due to abuse |
 
-{% swagger baseUrl="https://raindrop.io" path="/oauth/access_token" method="post" summary="Step 3: The token exchange" %}
-{% swagger-description %}
+{% swagger baseUrl="https://raindrop.io" path="/oauth/access_token" method="post" summary="Step 3: The token exchange" %}  
+{% swagger-description %}  
 Once you have the authorization
 
 `code`
@@ -63,35 +63,35 @@ Once you have the authorization
 
 `POST`
 
- request with all required body parameters as JSON:
+ request with all required body parameters as JSON:  
 {% endswagger-description %}
 
-{% swagger-parameter in="header" name="Content-Type" type="string" %}
-application/json
+{% swagger-parameter in="header" name="Content-Type" type="string" %}  
+application/json  
 {% endswagger-parameter %}
 
-{% swagger-parameter in="body" name="grant_type" type="string" %}
-**authorization_code**
+{% swagger-parameter in="body" name="grant_type" type="string" %}  
+**authorization_code**  
 {% endswagger-parameter %}
 
-{% swagger-parameter in="body" name="code" type="string" %}
-Code that you received in step 2
+{% swagger-parameter in="body" name="code" type="string" %}  
+Code that you received in step 2  
 {% endswagger-parameter %}
 
-{% swagger-parameter in="body" name="client_id" type="string" %}
-The unique Client ID of the Raindrop.io app that you registered
+{% swagger-parameter in="body" name="client_id" type="string" %}  
+The unique Client ID of the Raindrop.io app that you registered  
 {% endswagger-parameter %}
 
-{% swagger-parameter in="body" name="client_secret" type="string" %}
-Client secret
+{% swagger-parameter in="body" name="client_secret" type="string" %}  
+Client secret  
 {% endswagger-parameter %}
 
-{% swagger-parameter in="body" name="redirect_uri" type="string" %}
+{% swagger-parameter in="body" name="redirect_uri" type="string" %}  
 Same
 
 `redirect_uri`
 
- from step 1
+ from step 1  
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
@@ -114,7 +114,7 @@ Same
 {"error": "bad_authorization_code"}
 ```
 
-{% endswagger-response %}
+{% endswagger-response %}  
 {% endswagger %}
 
 Here an example CURL request:
@@ -131,8 +131,8 @@ curl -X "POST" "https://raindrop.io/oauth/access_token" \
 }'
 ```
 
-{% swagger baseUrl="https://raindrop.io" path="/oauth/access_token" method="post" summary="♻️ The access token refresh" %}
-{% swagger-description %}
+{% swagger baseUrl="https://raindrop.io" path="/oauth/access_token" method="post" summary="♻️ The access token refresh" %}  
+{% swagger-description %}  
 For security reasons access tokens (except "test tokens") will
 
 **expire after two weeks**
@@ -141,27 +141,27 @@ For security reasons access tokens (except "test tokens") will
 
 `POST`
 
- request with body parameters (JSON):
+ request with body parameters (JSON):  
 {% endswagger-description %}
 
-{% swagger-parameter in="header" name="Content-Type" type="string" %}
-application/json
+{% swagger-parameter in="header" name="Content-Type" type="string" %}  
+application/json  
 {% endswagger-parameter %}
 
-{% swagger-parameter in="body" name="client_id" type="string" %}
-The unique Client ID of your app that you registered
+{% swagger-parameter in="body" name="client_id" type="string" %}  
+The unique Client ID of your app that you registered  
 {% endswagger-parameter %}
 
-{% swagger-parameter in="body" name="client_secret" type="string" %}
-Client secret of your app
+{% swagger-parameter in="body" name="client_secret" type="string" %}  
+Client secret of your app  
 {% endswagger-parameter %}
 
-{% swagger-parameter in="body" name="grant_type" type="string" %}
-**refresh_token**
+{% swagger-parameter in="body" name="grant_type" type="string" %}  
+**refresh_token**  
 {% endswagger-parameter %}
 
-{% swagger-parameter in="body" name="refresh_token" type="string" %}
-Refresh token that you get in step 3
+{% swagger-parameter in="body" name="refresh_token" type="string" %}  
+Refresh token that you get in step 3  
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
@@ -176,7 +176,7 @@ Refresh token that you get in step 3
 }
 ```
 
-{% endswagger-response %}
+{% endswagger-response %}  
 {% endswagger %}](<# Obtain access token
 
 ---
@@ -190,9 +190,9 @@ This procedure is comprised of several steps, which will be described below.
 
 The authorization request
 
-Direct the user to our authorization URL with specified request parameters.
-— If the user is not logged in, they will be asked to log in
-— The user will be asked if he would like to grant your application access to his Raindrop.io data
+Direct the user to our authorization URL with specified request parameters.  
+—If the user is not logged in, they will be asked to log in  
+—The user will be asked if he would like to grant your application access to his Raindrop.io data
 
 Redirect URL configured in your application setting
 
@@ -209,7 +209,7 @@ Here example CURL request:
 curl "https://api.raindrop.io/v1/oauth/authorize?client_id=5e1c382cf6f48c0211359083&redirect_uri=https:%2F%2Foauthdebugger.com%2Fdebug"
 ```
 
-## Step 2: The redirection to your application site
+## Step 2: The Redirection to Your Application Site
 
 When the user grants your authorization request, the user will be redirected to the redirect URL configured in your application setting. The redirect request will come with query parameter attached: `code` .
 

@@ -2,13 +2,13 @@
 
 ---
 
-{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/tags/{collectionId}" method="get" summary="Get tags" %}
+{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/tags/{collectionId}" method="get" summary="Get tags" %}  
 {% swagger-description %}
 
 {% endswagger-description %}
 
-{% swagger-parameter in="path" name="collectionId" type="number" %}
-Optional collection ID, when not specified all tags from all collections will be retrieved
+{% swagger-parameter in="path" name="collectionId" type="number" %}  
+Optional collection ID, when not specified all tags from all collections will be retrieved  
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
@@ -25,23 +25,23 @@ Optional collection ID, when not specified all tags from all collections will be
 }
 ```
 
-{% endswagger-response %}
+{% endswagger-response %}  
 {% endswagger %}
 
-{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/tags/{collectionId}" method="put" summary="Rename tag" %}
+{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/tags/{collectionId}" method="put" summary="Rename tag" %}  
 {% swagger-description %}
 
 {% endswagger-description %}
 
-{% swagger-parameter in="path" name="collectionId" type="number" %}
-It's possible to restrict rename action to just one collection. It's optional
+{% swagger-parameter in="path" name="collectionId" type="number" %}  
+It's possible to restrict rename action to just one collection. It's optional  
 {% endswagger-parameter %}
 
-{% swagger-parameter in="body" name="replace" type="string" %}
-New name
+{% swagger-parameter in="body" name="replace" type="string" %}  
+New name  
 {% endswagger-parameter %}
 
-{% swagger-parameter in="body" name="tags" type="array" %}
+{% swagger-parameter in="body" name="tags" type="array" %}  
 Specify
 
 **array**
@@ -50,7 +50,7 @@ Specify
 
 **only one**
 
- string (name of a tag)
+ string (name of a tag)  
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
@@ -61,11 +61,11 @@ Specify
 }
 ```
 
-{% endswagger-response %}
+{% endswagger-response %}  
 {% endswagger %}
 
-{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/tags/{collectionId}" method="put" summary="Merge tags" %}
-{% swagger-description %}
+{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/tags/{collectionId}" method="put" summary="Merge tags" %}  
+{% swagger-description %}  
 Basically this action rename bunch of
 
 `tags`
@@ -74,19 +74,19 @@ Basically this action rename bunch of
 
 `replace`
 
- field)
+ field)  
 {% endswagger-description %}
 
-{% swagger-parameter in="path" name="collectionId" type="string" %}
-It's possible to restrict merge action to just one collection. It's optional
+{% swagger-parameter in="path" name="collectionId" type="string" %}  
+It's possible to restrict merge action to just one collection. It's optional  
 {% endswagger-parameter %}
 
-{% swagger-parameter in="body" name="replace" type="string" %}
-New name
+{% swagger-parameter in="body" name="replace" type="string" %}  
+New name  
 {% endswagger-parameter %}
 
-{% swagger-parameter in="body" name="tags" type="array" %}
-List of tags
+{% swagger-parameter in="body" name="tags" type="array" %}  
+List of tags  
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
@@ -97,20 +97,20 @@ List of tags
 }
 ```
 
-{% endswagger-response %}
+{% endswagger-response %}  
 {% endswagger %}
 
-{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/tags/{collectionId}" method="delete" summary="Remove tag(s)" %}
+{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/tags/{collectionId}" method="delete" summary="Remove tag(s)" %}  
 {% swagger-description %}
 
 {% endswagger-description %}
 
-{% swagger-parameter in="path" name="collectionId" type="string" %}
-It's possible to restrict remove action to just one collection. It's optional
+{% swagger-parameter in="path" name="collectionId" type="string" %}  
+It's possible to restrict remove action to just one collection. It's optional  
 {% endswagger-parameter %}
 
-{% swagger-parameter in="body" name="tags" type="array" %}
-List of tags
+{% swagger-parameter in="body" name="tags" type="array" %}  
+List of tags  
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
@@ -121,16 +121,16 @@ List of tags
 }
 ```
 
-{% endswagger-response %}
+{% endswagger-response %}  
 {% endswagger %}
 
-{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/tags/suggest/{raindropId}" method="get" summary="Suggest tags" %}
+{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/tags/suggest/{raindropId}" method="get" summary="Suggest tags" %}  
 {% swagger-description %}
 
 {% endswagger-description %}
 
-{% swagger-parameter in="path" name="raindropId" type="number" %}
-Raindrop ID
+{% swagger-parameter in="path" name="raindropId" type="number" %}  
+Raindrop ID  
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
@@ -145,5 +145,5 @@ Raindrop ID
 }
 ```
 
-{% endswagger-response %}
+{% endswagger-response %}  
 {% endswagger %}

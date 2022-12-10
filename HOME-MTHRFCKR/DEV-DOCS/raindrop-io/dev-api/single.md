@@ -1,14 +1,14 @@
-# Single raindrop
+# Single Raindrop
 
 ---
 
-{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/raindrop/{id}" method="get" summary="Get raindrop" %}
+{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/raindrop/{id}" method="get" summary="Get raindrop" %}  
 {% swagger-description %}
 
 {% endswagger-description %}
 
-{% swagger-parameter in="path" name="id" type="number" required="true" %}
-Existing raindrop ID
+{% swagger-parameter in="path" name="id" type="number" required="true" %}  
+Existing raindrop ID  
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
@@ -16,16 +16,16 @@ Existing raindrop ID
 ```
 ```
 
-{% endswagger-response %}
+{% endswagger-response %}  
 {% endswagger %}
 
-{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/raindrop" method="post" summary="Create raindrop" %}
-{% swagger-description %}
-Description and possible values of fields described in "Fields"
+{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/raindrop" method="post" summary="Create raindrop" %}  
+{% swagger-description %}  
+Description and possible values of fields described in "Fields"  
 {% endswagger-description %}
 
-{% swagger-parameter in="body" name="pleaseParse" type="object" %}
-Specify empty object to automatically parse meta data (cover, description, html) in the background
+{% swagger-parameter in="body" name="pleaseParse" type="object" %}  
+Specify empty object to automatically parse meta data (cover, description, html) in the background  
 {% endswagger-parameter %}
 
 {% swagger-parameter in="body" name="created" type="string" %}
@@ -36,14 +36,14 @@ Specify empty object to automatically parse meta data (cover, description, html)
 
 {% endswagger-parameter %}
 
-{% swagger-parameter in="body" name="order" type="number" %}
+{% swagger-parameter in="body" name="order" type="number" %}  
 Specify sort order (ascending).
 
 \
 
 For example if you want to move raindrop to the first place set this field to
 
-**0**
+**0**  
 {% endswagger-parameter %}
 
 {% swagger-parameter in="body" name="important" type="boolean" %}
@@ -97,16 +97,16 @@ For example if you want to move raindrop to the first place set this field to
 }
 ```
 
-{% endswagger-response %}
+{% endswagger-response %}  
 {% endswagger %}
 
-{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/raindrop/{id}" method="put" summary="Update raindrop" %}
-{% swagger-description %}
-Description and possible values of fields described in "Fields"
+{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/raindrop/{id}" method="put" summary="Update raindrop" %}  
+{% swagger-description %}  
+Description and possible values of fields described in "Fields"  
 {% endswagger-description %}
 
-{% swagger-parameter in="path" name="id" type="number" required="true" %}
-Existing raindrop ID
+{% swagger-parameter in="path" name="id" type="number" required="true" %}  
+Existing raindrop ID  
 {% endswagger-parameter %}
 
 {% swagger-parameter in="body" name="created" type="string" %}
@@ -117,18 +117,18 @@ Existing raindrop ID
 
 {% endswagger-parameter %}
 
-{% swagger-parameter in="body" name="pleaseParse" type="object" %}
-Specify empty object to re-parse link meta data (cover, type, html) in the background
+{% swagger-parameter in="body" name="pleaseParse" type="object" %}  
+Specify empty object to re-parse link meta data (cover, type, html) in the background  
 {% endswagger-parameter %}
 
-{% swagger-parameter in="body" name="order" type="number" %}
+{% swagger-parameter in="body" name="order" type="number" %}  
 Specify sort order (ascending).
 
 \
 
 For example if you want to move raindrop to the first place set this field to
 
-**0**
+**0**  
 {% endswagger-parameter %}
 
 {% swagger-parameter in="body" name="important" type="boolean" %}
@@ -182,11 +182,11 @@ For example if you want to move raindrop to the first place set this field to
 }
 ```
 
-{% endswagger-response %}
+{% endswagger-response %}  
 {% endswagger %}
 
-{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/raindrop/{id}" method="delete" summary="Remove raindrop" %}
-{% swagger-description %}
+{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/raindrop/{id}" method="delete" summary="Remove raindrop" %}  
+{% swagger-description %}  
 When you remove raindrop it will be moved to user
 
 `Trash`
@@ -195,11 +195,11 @@ When you remove raindrop it will be moved to user
 
 `Trash`
 
-, it will be removed permanently.
+, it will be removed permanently.  
 {% endswagger-description %}
 
-{% swagger-parameter in="path" name="id" type="number" required="true" %}
-Existing raindrop ID
+{% swagger-parameter in="path" name="id" type="number" required="true" %}  
+Existing raindrop ID  
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
@@ -210,28 +210,28 @@ Existing raindrop ID
 }
 ```
 
-{% endswagger-response %}
+{% endswagger-response %}  
 {% endswagger %}
 
-{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/raindrop/file" method="put" summary="Upload file" %}
-{% swagger-description %}
+{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/raindrop/file" method="put" summary="Upload file" %}  
+{% swagger-description %}  
 Make sure to send PUT request with
 
 [multipart/form-data](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST#example)
 
- body
+ body  
 {% endswagger-description %}
 
-{% swagger-parameter in="header" name="Content-Type" type="string" required="true" %}
-multipart/form-data
+{% swagger-parameter in="header" name="Content-Type" type="string" required="true" %}  
+multipart/form-data  
 {% endswagger-parameter %}
 
-{% swagger-parameter in="body" name="file" type="object" required="true" %}
-File
+{% swagger-parameter in="body" name="file" type="object" required="true" %}  
+File  
 {% endswagger-parameter %}
 
-{% swagger-parameter in="body" name="collectionId" %}
-Collection Id
+{% swagger-parameter in="body" name="collectionId" %}  
+Collection Id  
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
@@ -280,24 +280,24 @@ Collection Id
 }
 ```
 
-{% endswagger-response %}
+{% endswagger-response %}  
 {% endswagger %}
 
-{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/raindrop/{id}/cover" method="put" summary="Upload cover" %}
-{% swagger-description %}
-PNG, GIF or JPEG
+{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/raindrop/{id}/cover" method="put" summary="Upload cover" %}  
+{% swagger-description %}  
+PNG, GIF or JPEG  
 {% endswagger-description %}
 
-{% swagger-parameter in="path" name="id" type="number" required="true" %}
-Existing raindrop ID
+{% swagger-parameter in="path" name="id" type="number" required="true" %}  
+Existing raindrop ID  
 {% endswagger-parameter %}
 
-{% swagger-parameter in="header" name="Content-Type" type="string" required="true" %}
-multipart/form-data
+{% swagger-parameter in="header" name="Content-Type" type="string" required="true" %}  
+multipart/form-data  
 {% endswagger-parameter %}
 
-{% swagger-parameter in="body" name="cover" type="object" required="true" %}
-File
+{% swagger-parameter in="body" name="cover" type="object" required="true" %}  
+File  
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
@@ -344,16 +344,16 @@ File
 }
 ```
 
-{% endswagger-response %}
+{% endswagger-response %}  
 {% endswagger %}
 
-{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/raindrop/{id}/cache" method="get" summary="Get permanent copy" %}
-{% swagger-description %}
-Links permanently saved with all content (only in PRO plan). Using this method you can navigate to this copy.
+{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/raindrop/{id}/cache" method="get" summary="Get permanent copy" %}  
+{% swagger-description %}  
+Links permanently saved with all content (only in PRO plan). Using this method you can navigate to this copy.  
 {% endswagger-description %}
 
-{% swagger-parameter in="path" name="id" type="number" required="true" %}
-Existing raindrop ID
+{% swagger-parameter in="path" name="id" type="number" required="true" %}  
+Existing raindrop ID  
 {% endswagger-parameter %}
 
 {% swagger-response status="307" description="" %}
@@ -362,5 +362,5 @@ Existing raindrop ID
 Location: https://s3.aws...
 ```
 
-{% endswagger-response %}
+{% endswagger-response %}  
 {% endswagger %}

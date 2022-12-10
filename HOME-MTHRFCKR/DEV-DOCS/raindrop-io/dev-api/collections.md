@@ -1,6 +1,6 @@
 # Collections
 
-### Fields
+## Fields
 
 <table>
   <thead>
@@ -154,11 +154,11 @@
   </tbody>
 </table>
 
-{% hint style="warning" %}
-Our API response could contain **other fields**, not described above. It's **unsafe to use** them in your integration! They could be removed or renamed at any time.
+{% hint style="warning" %}  
+Our API response could contain **other fields**, not described above. It's **unsafe to use** them in your integration! They could be removed or renamed at any time.  
 {% endhint %}
 
-### System collections
+## System Collections
 
 Every user have several system non-removable collections. They are not contained in any API responses.
 

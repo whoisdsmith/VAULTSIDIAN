@@ -13,4 +13,17 @@
 
 [BOOKMRKS-MTHRFCKR](https://raindrop.io/whoisdsmith/bookmrks-mthrfckr-29652372)
 
-`https://raindrop.io/whoisdsmith/bookmrks-mthrfckr-29652372`
+	https://raindrop.io/whoisdsmith/bookmrks-mthrfckr-29652372
+
+---
+
+	Authorization: Bearer ae261404-11r4-47c0-bce3-e18a423da828
+
+---
+
+	https://api.raindrop.io/rest/v1/collection/{id}
+
+	https://api.raindrop.io/rest/v1/raindrops/{collectionId}
+
+	https://api.raindrop.io/rest/v1/collection/29652372
+

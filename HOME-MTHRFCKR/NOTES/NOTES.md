@@ -6,6 +6,9 @@
 - **[notes](./notes.md)**
 	- **[adderall](./adderall/adderall.md)**
 	- **[articles](./articles/articles.md)**
+	- **chatgpt**
+		- [awesome-chatgpt-prompts](./chatgpt/awesome-chatgpt-prompts.md)
+		- [chatgpt-universe](./chatgpt/chatgpt-universe.md)
 	- **[daily-notes](./daily-notes/daily-notes.md)**
 	- **[data](./data/data.md)**
 	- **[day-one](./day-one/day-one.md)**
@@ -20,6 +23,7 @@
 	- **[misc](./misc/misc.md)**
 	- [notes](./notes.md)
 	- **[research-papers](./research-papers/research-papers.md)**
+	- [run-simulation](./run-simulation.md)
 	- **[sci-fi](./sci-fi/sci-fi.md)**
 	- **[space](./space/space.md)**
 		- [50-space-terms-for-understanding-the-universe](./space/50-space-terms-for-understanding-the-universe.md)

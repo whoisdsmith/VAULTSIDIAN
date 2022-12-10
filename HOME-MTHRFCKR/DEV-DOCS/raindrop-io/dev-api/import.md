@@ -2,13 +2,13 @@
 
 ---
 
-{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/import/url/parse" method="get" summary="Parse URL" %}
-{% swagger-description %}
-Parse and extract useful info from any URL
+{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/import/url/parse" method="get" summary="Parse URL" %}  
+{% swagger-description %}  
+Parse and extract useful info from any URL  
 {% endswagger-description %}
 
-{% swagger-parameter in="query" name="url" type="string" %}
-URL
+{% swagger-parameter in="query" name="url" type="string" %}  
+URL  
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
@@ -81,16 +81,16 @@ URL
 }
 ```
 
-{% endswagger-response %}
+{% endswagger-response %}  
 {% endswagger %}
 
-{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/import/url/exists" method="post" summary="Check URL(s) existence " %}
-{% swagger-description %}
-Does specified URL's are already saved?
+{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/import/url/exists" method="post" summary="Check URL(s) existence " %}  
+{% swagger-description %}  
+Does specified URL's are already saved?  
 {% endswagger-description %}
 
-{% swagger-parameter in="body" name="urls" type="array" %}
-URL's
+{% swagger-parameter in="body" name="urls" type="array" %}  
+URL's  
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="ids array contains ID of existing bookmarks" %}
@@ -112,24 +112,24 @@ URL's
 }
 ```
 
-{% endswagger-response %}
+{% endswagger-response %}  
 {% endswagger %}
 
-{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/import/file" method="post" summary="Parse HTML import file" %}
-{% swagger-description %}
+{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/import/file" method="post" summary="Parse HTML import file" %}  
+{% swagger-description %}  
 Convert HTML bookmark file to JSON.
 
 \
 
-Support Nestcape, Pocket and Instapaper file formats
+Support Nestcape, Pocket and Instapaper file formats  
 {% endswagger-description %}
 
-{% swagger-parameter in="header" name="Content-Type" type="string" %}
-multipart/form-data
+{% swagger-parameter in="header" name="Content-Type" type="string" %}  
+multipart/form-data  
 {% endswagger-parameter %}
 
-{% swagger-parameter in="body" name="import" type="string" %}
-File
+{% swagger-parameter in="body" name="import" type="string" %}  
+File  
 {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
@@ -188,7 +188,7 @@ File
 }
 ```
 
-{% endswagger-response %}
+{% endswagger-response %}  
 {% endswagger %}
 
 ---

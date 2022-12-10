@@ -9,7 +9,7 @@
 
 ## 4.4.4
 
-- New feature: [Highlights](highlights.md)
+- New feature: [Highlights](home-mthrfckr/dev-docs/raindrop-io/help-docs/highlights.md)
 - Remove Facebook SDK (hugely improve privacy)
 - Bug fixes
   - Fix preview of HTTP (non-secure) links on iOS

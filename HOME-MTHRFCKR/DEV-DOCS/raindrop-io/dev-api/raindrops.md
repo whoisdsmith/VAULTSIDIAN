@@ -2,7 +2,7 @@
 
 ---
 
-### Main fields
+## Main Fields
 
 | Field          | Type            | Description                                                                       |
 | -------------- | --------------- | --------------------------------------------------------------------------------- |
@@ -22,7 +22,7 @@
 | user           | `Object`        | ​                                                                                 |
 | user.$id       | `Integer`       | Raindrop owner                                                                    |
 
-### Other fields
+## Other Fields
 
 | Field                 | Type      | Description                                                                                                                                                                                                                                                                                                          |
 | --------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -46,6 +46,6 @@
 | highlights\[].note    | `String`  | Optional note for highlight                                                                                                                                                                                                                                                                                          |
 | highlights\[].created | `String`  | Creation date of highlight                                                                                                                                                                                                                                                                                           |
 
-{% hint style="warning" %}
-Our API response could contain **other fields**, not described above. It's **unsafe to use** them in your integration! They could be removed or renamed at any time.
+{% hint style="warning" %}  
+Our API response could contain **other fields**, not described above. It's **unsafe to use** them in your integration! They could be removed or renamed at any time.  
 {% endhint %}

@@ -1,22 +1,16 @@
 # Covers/icons
 
----
 In your app you could easily make icon/cover selector from more than 10 000 icons
 
----
+[![](https://github.com/raindropio/developer-site/raw/master/.gitbook/assets/icon-finder.png)](https://github.com/raindropio/developer-site/blob/master/.gitbook/assets/icon-finder.png)
 
-{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/collections/covers/{text}" method="get" summary="Search for cover" %}
-{% swagger-description %}
-Search for specific cover (icon)
-{% endswagger-description %}
+{% swagger baseUrl="[https://api.raindrop.io](https://api.raindrop.io)" path="/rest/v1/collections/covers/{text}" method="get" summary="Search for cover" %} {% swagger-description %} Search for specific cover (icon) {% endswagger-description %}
 
-{% swagger-parameter in="path" name="text" type="string" %}
-For example "pokemon"
-{% endswagger-parameter %}
+{% swagger-parameter in="path" name="text" type="string" %} For example "pokemon" {% endswagger-parameter %}
 
 {% swagger-response status="200" description="" %}
 
-```javascript
+```js
 {
   "items": [
     {
@@ -41,11 +35,9 @@ For example "pokemon"
 }
 ```
 
-{% endswagger-response %}
-{% endswagger %}
+{% endswagger-response %} {% endswagger %}
 
-{% swagger baseUrl="https://api.raindrop.io" path="/rest/v1/collections/covers" method="get" summary="Featured covers" %}
-{% swagger-description %}
+{% swagger baseUrl="[https://api.raindrop.io](https://api.raindrop.io)" path="/rest/v1/collections/covers" method="get" summary="Featured covers" %} {% swagger-description %}
 
 {% endswagger-description %}
 
@@ -55,7 +47,7 @@ For example "pokemon"
 
 {% swagger-response status="200" description="" %}
 
-```javascript
+```js
 {
   "items": [
     {
@@ -78,7 +70,4 @@ For example "pokemon"
 }
 ```
 
-{% endswagger-response %}
-{% endswagger %}
-
----
+{% endswagger-response %} {% endswagger %}

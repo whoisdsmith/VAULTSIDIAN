@@ -2,7 +2,7 @@
 
 ---
 
-### Main fields
+## Main Fields
 
 | Field | Publicly visible | Type | Description |
 | :--- | :--- | :--- | :--- |
@@ -20,7 +20,7 @@
 | proExpire | No | `String` | When PRO subscription will expire |
 | registered | No | `String` | Registration date |
 
-### Config fields
+## Config Fields
 
 <table>
   <thead>
@@ -39,7 +39,7 @@
       </td>
       <td style="text-align:left">
         <p>Broken links finder configuration, possible values:</p>
-        <p><code>basic</code>  <code>default</code>  <code>strict</code> or <code>off</code>
+        <p><code>basic</code> <code>default</code> <code>strict</code> or <code>off</code>
         </p>
       </td>
     </tr>
@@ -48,7 +48,7 @@
       <td style="text-align:left">No</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left">Bookmark preview style: <code>sunset</code>  <code>night</code> or empty</td>
+      <td style="text-align:left">Bookmark preview style: <code>sunset</code> <code>night</code> or empty</td>
     </tr>
     <tr>
       <td style="text-align:left">config.font_size</td>
@@ -78,7 +78,7 @@
       </td>
       <td style="text-align:left">
         <p>Default bookmark sort:</p>
-        <p><code>title</code>  <code>-title</code>  <code>-sort</code>  <code>domain</code>  <code>-domain</code>  <code>+lastUpdate</code> or <code>-lastUpdate</code>
+        <p><code>title</code> <code>-title</code> <code>-sort</code> <code>domain</code> <code>-domain</code> <code>+lastUpdate</code> or <code>-lastUpdate</code>
         </p>
       </td>
     </tr>
@@ -89,14 +89,14 @@
       </td>
       <td style="text-align:left">
         <p>Default bookmark view:</p>
-        <p><code>grid</code>  <code>list</code>  <code>simple</code> or <code>masonry</code>
+        <p><code>grid</code> <code>list</code> <code>simple</code> or <code>masonry</code>
         </p>
       </td>
     </tr>
   </tbody>
 </table>
 
-### Groups object fields <a id="single-group-detail"></a>
+## Groups Object Fields <a id="single-group-detail"></a>
 
 | Field | Type | Description |
 | :--- | :--- | :--- |
@@ -105,7 +105,7 @@
 | sort | `Integer` | Ascending order position |
 | collections | `Array<Integer>` | Collection ID's in order |
 
-### Other fields
+## Other Fields
 
 | Field | Publicly visible | Type | Description |
 | :--- | :--- | :--- | :--- |
@@ -116,8 +116,8 @@
 | dropbox.enabled | No | `Boolean` | Does Dropbox backup is enabled |
 | gdrive.enabled | No | `Boolean` | Does Google Drive backup is enabled |
 
-{% hint style="warning" %}
-Our API response could contain **other fields**, not described above. It's **unsafe to use** them in your integration! They could be removed or renamed at any time.
+{% hint style="warning" %}  
+Our API response could contain **other fields**, not described above. It's **unsafe to use** them in your integration! They could be removed or renamed at any time.  
 {% endhint %}
 
 ---
