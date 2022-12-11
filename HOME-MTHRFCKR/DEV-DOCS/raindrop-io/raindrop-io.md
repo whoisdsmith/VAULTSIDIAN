@@ -33,6 +33,7 @@
 	- [importing-raindrop-bookmarks-to-obsidian](./importing-raindrop-bookmarks-to-obsidian.md)
 	- [mthrfckr-raindrop-api](./mthrfckr-raindrop-api.md)
 	- [obsidian-raindrop-plugin](./obsidian-raindrop-plugin.md)
+	- [raindrop-collections](./raindrop-collections.md)
 	- [raindrop-io](./raindrop-io.md)
 	- [raindrop-n8n-documentation](./raindrop-n8n-documentation.md)
 
