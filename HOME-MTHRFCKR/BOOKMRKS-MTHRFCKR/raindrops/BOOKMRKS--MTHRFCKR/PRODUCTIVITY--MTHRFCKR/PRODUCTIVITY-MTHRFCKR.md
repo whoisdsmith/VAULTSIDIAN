@@ -2,48 +2,50 @@
 
 ---
 
-- [Apps](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/PRODUCTIVITY--MTHRFCKR/Apps.md)
+- [APPS](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/PRODUCTIVITY--MTHRFCKR/APPS.md)
 
-- [Charts](Charts.md)
+- [CHARTS](CHARTS.md)
 
-- [Dashboards](Dashboards.md)
+- [DASHBOARDS](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/PRODUCTIVITY--MTHRFCKR/DASHBOARDS.md)
 
-- [Data Analysis](Data%20Analysis.md)
+- [DATA-ANALYSIS](DATA-ANALYSIS.md)
 
-- [Data Integration and Visualisers](Data%20Integration%20and%20Visualisers.md)
+- [DATA-INTEGRATION-AND-VISUALISERS](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/PRODUCTIVITY--MTHRFCKR/DATA-INTEGRATION-AND-VISUALISERS.md)
 
-- [Data Logins](Data%20Logins.md)
+- [DATA-LOGINS](DATA-LOGINS.md)
 
-- [Data Scrapers](Data%20Scrapers.md)
+- [DATA-SCRAPERS](DATA-SCRAPERS.md)
 
-- [Database](Database.md)
+- [DATABASE](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/PRODUCTIVITY--MTHRFCKR/DATABASE.md)
 
-- [Day One](Day%20One.md)
+- [DAY-ONE](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/PRODUCTIVITY--MTHRFCKR/DAY-ONE.md)
 
-- [Direct Documents](Direct%20Documents.md)
+- [DIRECT-DOCUMENTS](DIRECT-DOCUMENTS.md)
 
-- [Financial](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/PRODUCTIVITY--MTHRFCKR/Financial.md)
+- [FINANCIAL](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/PRODUCTIVITY--MTHRFCKR/FINANCIAL.md)
 
-- [Google](Google.md)
+- [GOOGLE](GOOGLE.md)
 
-- [Graphs](Graphs.md)
+- [GRAPHS](GRAPHS.md)
 
-- [Journal](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/PRODUCTIVITY--MTHRFCKR/Journal.md)
+- [JOURNAL](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/PRODUCTIVITY--MTHRFCKR/JOURNAL.md)
 
-- [Lifeline Development](Lifeline%20Development.md)
+- [LIFELINE-DEVELOPMENT](LIFELINE-DEVELOPMENT.md)
 
-- [Memex](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/PRODUCTIVITY--MTHRFCKR/Memex.md)
+- [MEMEX](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/PRODUCTIVITY--MTHRFCKR/MEMEX.md)
 
-- [Notetaking](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/PRODUCTIVITY--MTHRFCKR/Notetaking.md)
+- [NOTETAKING](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/PRODUCTIVITY--MTHRFCKR/NOTETAKING.md)
 
-- [Obsidian](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/PRODUCTIVITY--MTHRFCKR/Obsidian.md)
+- [OBSIDIAN](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/PRODUCTIVITY--MTHRFCKR/OBSIDIAN.md)
 
-- [Plots](Plots.md)
+- [PLOTS](PLOTS.md)
 
-- [Resume CV](Resume%20CV.md)
+- [PRODUCTIVITY-MTHRFCKR](PRODUCTIVITY-MTHRFCKR.md)
 
-- [Spreadsheets](Spreadsheets.md)
+- [TIMELINES](TIMELINES.md)
 
-- [Timelines](Timelines.md)
+- [SPREADSHEETS](SPREADSHEETS.md)
+
+- [RESUME-CV](RESUME-CV.md)
 
 ---

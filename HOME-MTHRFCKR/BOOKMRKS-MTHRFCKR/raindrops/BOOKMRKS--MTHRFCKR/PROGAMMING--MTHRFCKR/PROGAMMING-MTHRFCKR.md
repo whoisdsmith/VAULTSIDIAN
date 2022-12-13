@@ -2,26 +2,28 @@
 
 ---
 
-- [Code Editors](Code%20Editors.md)
+- [CODE-EDITORS](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/PROGAMMING--MTHRFCKR/CODE-EDITORS.md)
 
-- [Database](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/PROGAMMING--MTHRFCKR/Database.md)
+- [DATABASE](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/PROGAMMING--MTHRFCKR/DATABASE.md)
 
-- [Developer](Developer.md)
+- [DEVELOPER](DEVELOPER.md)
 
-- [Javascript](Javascript.md)
+- [JAVASCRIPT](JAVASCRIPT.md)
 
 - [JSON](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/PROGAMMING--MTHRFCKR/JSON.md)
 
-- [Markdown](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/PROGAMMING--MTHRFCKR/Markdown.md)
+- [MARKDOWN](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/PROGAMMING--MTHRFCKR/MARKDOWN.md)
 
-- [Misc](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/PROGAMMING--MTHRFCKR/Misc.md)
+- [MISC](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/PROGAMMING--MTHRFCKR/MISC.md)
 
-- [Python](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/PROGAMMING--MTHRFCKR/Python.md)
+- [PROGAMMING-MTHRFCKR](PROGAMMING-MTHRFCKR.md)
 
-- [Regex](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/PROGAMMING--MTHRFCKR/Regex.md)
+- [PYTHON](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/PROGAMMING--MTHRFCKR/PYTHON.md)
 
-- [Snippets](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/PROGAMMING--MTHRFCKR/Snippets.md)
+- [REGEX](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/PROGAMMING--MTHRFCKR/REGEX.md)
 
-- [Terminal](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/PROGAMMING--MTHRFCKR/Terminal.md)
+- [SNIPPETS](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/PROGAMMING--MTHRFCKR/SNIPPETS.md)
+
+- [TERMINAL](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/PROGAMMING--MTHRFCKR/TERMINAL.md)
 
 ---

@@ -2,40 +2,42 @@
 
 ---
 
-- [Adderall](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/SOCIAL--MTHRFCKR/Adderall.md)
+- [ADDERALL](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/SOCIAL--MTHRFCKR/ADDERALL.md)
 
-- [Blogs](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/SOCIAL--MTHRFCKR/Blogs.md)
+- [BLOGS](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/SOCIAL--MTHRFCKR/BLOGS.md)
 
-- [Create Blog](Create%20Blog.md)
+- [CREATE-BLOG](CREATE-BLOG.md)
 
-- [Data](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/SOCIAL--MTHRFCKR/Data.md)
+- [DATA](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/SOCIAL--MTHRFCKR/DATA.md)
 
-- [Dev-Sites](Dev-Sites.md)
+- [DEV-SITES](DEV-SITES.md)
 
-- [Dev.to](Dev.to.md)
+- [DEV.TO](DEV.TO.md)
 
-- [Discord](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/SOCIAL--MTHRFCKR/Discord.md)
+- [DISCORD](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/SOCIAL--MTHRFCKR/DISCORD.md)
 
-- [Facebook](Facebook.md)
+- [FACEBOOK](FACEBOOK.md)
 
-- [Forums](Forums.md)
+- [FORUMS](FORUMS.md)
 
-- [Instagram](Instagram.md)
+- [INSTAGRAM](INSTAGRAM.md)
 
-- [Medium Blogs](Medium%20Blogs.md)
+- [MEDIUM-BLOGS](MEDIUM-BLOGS.md)
 
-- [OSINT Blogs](OSINT%20Blogs.md)
+- [OSINT-BLOGS](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/SOCIAL--MTHRFCKR/OSINT-BLOGS.md)
 
-- [People To Follow](People%20To%20Follow.md)
+- [PEOPLE-TO-FOLLOW](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/SOCIAL--MTHRFCKR/PEOPLE-TO-FOLLOW.md)
 
-- [Podcasts](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/SOCIAL--MTHRFCKR/Podcasts.md)
+- [PODCASTS](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/SOCIAL--MTHRFCKR/PODCASTS.md)
 
-- [Reddit](Reddit.md)
+- [REDDIT](REDDIT.md)
 
-- [Social](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/SOCIAL--MTHRFCKR/Social.md)
+- [SOCIAL](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/SOCIAL--MTHRFCKR/SOCIAL.md)
 
-- [Telegram](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/SOCIAL--MTHRFCKR/Telegram.md)
+- [SOCIAL-MTHRFCKR](SOCIAL-MTHRFCKR.md)
 
-- [Twitter](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/SOCIAL--MTHRFCKR/Twitter.md)
+- [TELEGRAM](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/SOCIAL--MTHRFCKR/TELEGRAM.md)
+
+- [TWITTER](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/SOCIAL--MTHRFCKR/TWITTER.md)
 
 ---

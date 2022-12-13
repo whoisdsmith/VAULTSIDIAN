@@ -10,7 +10,7 @@
 
 - [MEDIA-MTHRFCKR](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/MEDIA--MTHRFCKR/MEDIA-MTHRFCKR.md)
 
-- [MTHRFCKR](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/-MTHRFCKR-/MTHRFCKR.md)
+- [MTHRFCKR](MTHRFCKR.md)
 
 - [PIRACY-MTHRFCKR](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/PIRACY--MTHRFCKR/PIRACY-MTHRFCKR.md)
 

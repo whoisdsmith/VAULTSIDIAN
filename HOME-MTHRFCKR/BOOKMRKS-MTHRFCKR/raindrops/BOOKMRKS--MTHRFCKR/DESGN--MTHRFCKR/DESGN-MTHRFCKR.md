@@ -4,34 +4,34 @@
 
 - [DESGN-MTHRFCKR](DESGN-MTHRFCKR.md)
 
-- [Design Resources](Design%20Resources.md)
+- [DESIGN-RESOURCES](DESIGN-RESOURCES.md)
 
-- [Fonts](Fonts.md)
+- [FONTS](FONTS.md)
 
-- [Icons](Icons.md)
+- [ICONS](ICONS.md)
 
-- [Images](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/DESGN--MTHRFCKR/Images.md)
+- [IMAGES](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/DESGN--MTHRFCKR/IMAGES.md)
 
-- [Logos](Logos.md)
+- [LOGOS](LOGOS.md)
 
-- [Mockup's](Mockup's.md)
+- [MOCKUP'S](MOCKUP'S.md)
 
-- [Pallets](Pallets.md)
+- [PALLETS](PALLETS.md)
 
-- [Patterns](Patterns.md)
+- [PATTERNS](PATTERNS.md)
 
-- [Photoshop](Photoshop.md)
+- [PHOTOSHOP](PHOTOSHOP.md)
 
-- [Placeholder](Placeholder.md)
+- [PLACEHOLDER](PLACEHOLDER.md)
 
-- [PNGs](PNGs.md)
+- [PNGS](PNGS.md)
 
-- [Stock Photos](Stock%20Photos.md)
+- [STOCK-PHOTOS](STOCK-PHOTOS.md)
 
 - [SVG](SVG.md)
 
-- [Templates](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/DESGN--MTHRFCKR/Templates.md)
+- [TEMPLATES](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/DESGN--MTHRFCKR/TEMPLATES.md)
 
-- [Vectors](Vectors.md)
+- [VECTORS](VECTORS.md)
 
 ---

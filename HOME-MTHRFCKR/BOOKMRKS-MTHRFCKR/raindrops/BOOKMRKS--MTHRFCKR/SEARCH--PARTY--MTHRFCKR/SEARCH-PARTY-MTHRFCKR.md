@@ -2,22 +2,25 @@
 
 ---
 
-- [Custom-Search-Engines](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/SEARCH--PARTY--MTHRFCKR/Custom-Search-Engines.md)
+- [CUSTOM-SEARCH-ENGINES](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/SEARCH--PARTY--MTHRFCKR/CUSTOM-SEARCH-ENGINES.md)
 
-- [Document Search](Document%20Search.md)
+- [DOCUMENT-SEARCH](DOCUMENT-SEARCH.md)
 
-- [Files and Downloads Search](Files%20and%20Downloads%20Search.md)
+- [FILES-AND-DOWNLOADS-SEARCH](FILES-AND-DOWNLOADS-SEARCH.md)
 
-- [Multimedia Search](Multimedia%20Search.md)
+- [MULTIMEDIA-SEARCH](MULTIMEDIA-SEARCH.md)
 
-- [OSINT Search](OSINT%20Search.md)
+- [OSINT-SEARCH](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/SEARCH--PARTY--MTHRFCKR/OSINT-SEARCH.md)
 
-- [Search Engines](Search%20Engines.md)
+- [SEARCH-ENGINES](SEARCH-ENGINES.md)
 
-- [Search Tools](Search%20Tools.md)
+- [SEARCH-PARTY-MTHRFCKR](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/SEARCH--PARTY--MTHRFCKR/SEARCH-PARTY-MTHRFCKR.md)
 
-- [Specialty Search Engines](Specialty%20Search%20Engines.md)
+- [SEARCH-TOOLS](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/SEARCH--PARTY--MTHRFCKR/SEARCH-TOOLS.md)
 
-- [Tech Search](Tech%20Search.md)
+- [SPECIALTY-SEARCH-ENGINES](SPECIALTY-SEARCH-ENGINES.md)
+
+- [TECH-SEARCH](TECH-SEARCH.md)
+
 
 ---

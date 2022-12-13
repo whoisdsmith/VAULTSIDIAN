@@ -6,6 +6,7 @@
 - **[notes](./notes.md)**
 	- **[adderall](./adderall/adderall.md)**
 	- **[articles](./articles/articles.md)**
+	- [Autofill](./Autofill.md)
 	- **chatgpt**
 		- [awesome-chatgpt-prompts](./chatgpt/awesome-chatgpt-prompts.md)
 		- [awesome-chatgpt](./chatgpt/awesome-chatgpt.md)
@@ -23,6 +24,7 @@
 	- **[glossary](./glossary/glossary.md)**
 	- **[misc](./misc/misc.md)**
 	- [notes](./notes.md)
+	- [Publii](./Publii.md)
 	- **[research-papers](./research-papers/research-papers.md)**
 	- [run-simulation](./run-simulation.md)
 	- **[sci-fi](./sci-fi/sci-fi.md)**

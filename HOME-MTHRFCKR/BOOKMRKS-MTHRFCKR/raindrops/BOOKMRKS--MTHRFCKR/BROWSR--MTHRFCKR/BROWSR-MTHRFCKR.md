@@ -2,10 +2,12 @@
 
 ---
 
-- [Adblock-Paywalls](Adblock-Paywalls.md)
+- [ADBLOCK-PAYWALLS](ADBLOCK-PAYWALLS.md)
 
-- [Browser](Browser.md)
+- [BROWSER](BROWSER.md)
 
-- [URL Tools](URL%20Tools.md)
+- [BROWSR-MTHRFCKR](BROWSR-MTHRFCKR.md)
+
+- [URL-TOOLS](URL-TOOLS.md)
 
 ---

@@ -5,7 +5,7 @@
 %% Begin Waypoint %%
 
 - **[bookmrks-mthrfckr](home-mthrfckr/bookmrks-mthrfckr/awesome-piracy/bookmrks-mthrfckr.md)CKR/BOOKMRKS-MTHR[ai-generative-art-tools](ai-generative-art-tools.md)rfckr[singularity-ai](singularity-ai.md)tool[alternativesoftwareappsites](alternativesoftwareappsites.md)ingula[awesome](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/awesome/awesome.md)wareappsites](alternativesoftwareappsites.md)
-  - **[Awesome](./Awesome[badges](badges.md)Awes[bookmrks-mthrfckr](home-mthrfckr/bookmrks-mthrfckr/awesome-piracy/bookmrks-mthrfckr.md)racy[c0d3bl0ckspiracybooty](c0d3bl0ckspiracybooty.md)](../.[cata-list](cata-list.md)CKR/the-[champagne-guides](champagne-guides.md)
+  - **[Awesome](./Awesome[badges](badges.md)Awes[bookmrks-mthrfckr](home-mthrfckr/bookmrks-mthrfckr/awesome-piracy/bookmrks-mthrfckr.md)racy[c0d3bl0ckspiracybooty](c0d3bl0ckspiracybooty.md)](../.[cata-list](home-mthrfckr/bookmrks-mthrfckr/cata-list/cata-list.md)CKR/the-[champagne-guides](champagne-guides.md)
   - [c0d[champagne-piracy-wiki](../champagne-piracy-wiki/champagne-piracy-wiki.md)t/Cata[clouddown](clouddown.md)-GUIDE[content](content.md)-GUIDES.md)**
   - **[CHAMPAGNE-PIRACY-WIKI](./CHAMPAGNE-PIRACY[designresourcesfordevelopers](designresourcesfordevelopers.md) **[Co[dev-stax](dev-stax.md)**[DAIL[dev-stax](dev-stax.md)OTES.md)**
   - [design[activity-feeds-and-chat-messaging](activity-feeds-and-chat-messaging.md)TAX.md[app-hosting](app-hosting.md)**read[app-testing](app-testing.md)/DEV-S[application-performance-monitoring](application-performance-monitoring.md)ting.m[code-collaboration-tools](code-collaboration-tools.md)-perfo[code-review-and-coverage](code-review-and-coverage.md)d)
@@ -77,7 +77,7 @@
     - [GENERAL-AWESOME-COLLECTION 2](./THE%20I%20AINT%20PAYING%20FOR%20SHIT%20RESOURCE%20LIST/GENERAL-AWESOME-COLLECTION%202.md)
     - [GRAPHIC DESIGN MASTER LIST](./THE%20I%20AINT%20PAYING%20FOR%20SHIT%20RESOURCE%20LIST/GRAPHIC%20DESIGN%20MASTER%20LIST.md)
     - [LIST OF WEBSITES TO KNOW ANYTHING ABOUT EVERYTHING](./THE%20I%20AINT%20PAYING%20FOR%20SHIT%20RESOURCE%20LIST/LIST%20OF%20WEBSITES%20TO%20KNOW%20ANYTHING%20ABOUT%20EVERYTHING.md)
-    - [MILANS ULTIMATE RESOURCE LIST](./THE%20I%20AINT%20PAYING%20FOR%20SHIT%20RESOURCE%20LIST/MILANS%20ULTIMATE%20RESOURCE%20L[thebookofsecretknowledge](the-i-aint-paying-for-shit-resource-list/thebookofsecretknowledge.md)%20P[tools](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/the-i-aint-paying-for-shit-resource-list/tools.md)20RESO[useful-stuff](useful-stuff.md)- **the[useful-stuff](useful-stuff.md)](./thebookofsecretknowledge.md)
+    - [MILANS ULTIMATE RESOURCE LIST](./THE%20I%20AINT%20PAYING%20FOR%20SHIT%20RESOURCE%20LIST/MILANS%20ULTIMATE%20RESOURCE%20L[thebookofsecretknowledge](the-i-aint-paying-for-shit-resource-list/thebookofsecretknowledge.md)%20P[tools](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/the-i-aint-paying-for-shit-resource-list/tools.md)20RESO[USEFUL-STUFF](USEFUL-STUFF.md)- **the[USEFUL-STUFF](USEFUL-STUFF.md)](./thebookofsecretknowledge.md)
 [weboasis](weboasis/weboasis.md)l-stuff[adminfinds-1](weboasis/adminfinds-1.md)seful[adminfinds-2](weboasis/adminfinds-2.md) [web[adminfinds-3](adminfinds-3.md)asis][adminfinds-4](adminfinds-4.md)-1](.[adminfinds-5](weboasis/adminfinds-5.md)-2](.[adminfinds](weboasis/adminfinds.md)inds-3](./Weboasis/adminfinds-3.md)
     - [adminfinds-4](weboasis/adminfinds-4.md)
     - [adminfinds-5](weboasis/adminfinds-5.md)

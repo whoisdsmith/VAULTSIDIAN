@@ -2,34 +2,37 @@
 
 ---
 
-- [Academic](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/REFERENCE--MTHRFCKR/Academic.md)
+- [ACADEMIC](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/REFERENCE--MTHRFCKR/ACADEMIC.md)
 
-- [Acronyms and Abbreviations](Acronyms%20and%20Abbreviations.md)
+- [ACRONYMS-AND-ABBREVIATIONS](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/REFERENCE--MTHRFCKR/ACRONYMS-AND-ABBREVIATIONS.md)
 
-- [Adderall](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/REFERENCE--MTHRFCKR/Adderall.md)
+- [ADDERALL](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/REFERENCE--MTHRFCKR/ADDERALL.md)
 
-- [Ancestry Research](Ancestry%20Research.md)
+- [ANCESTRY-RESEARCH](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/REFERENCE--MTHRFCKR/ANCESTRY-RESEARCH.md)
 
-- [Annotation and Highlighting](Annotation%20and%20Highlighting.md)
+- [ANNOTATION-AND-HIGHLIGHTING](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/REFERENCE--MTHRFCKR/ANNOTATION-AND-HIGHLIGHTING.md)
 
-- [DocArticles](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/REFERENCE--MTHRFCKR/DocArticles.md)
+- [DOCARTICLES](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/REFERENCE--MTHRFCKR/DOCARTICLES.md)
 
-- [Ebooks](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/REFERENCE--MTHRFCKR/Ebooks.md)
+- [EBOOKS](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/REFERENCE--MTHRFCKR/EBOOKS.md)
 
 - [EDU](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/REFERENCE--MTHRFCKR/EDU.md)
 
-- [Glossaries and Dictionaries](Glossaries%20and%20Dictionaries.md)
+- [GLOSSARIES-AND-DICTIONARIES](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/REFERENCE--MTHRFCKR/GLOSSARIES-AND-DICTIONARIES.md)
 
-- [Grammer](Grammer.md)
+- [GRAMMER](GRAMMER.md)
 
-- [Newspaper Sites](Newspaper%20Sites.md)
+- [NEWSPAPER-SITES](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/REFERENCE--MTHRFCKR/NEWSPAPER-SITES.md)
 
-- [Papers and Journals](Papers%20and%20Journals.md)
+- [PAPERS-AND-JOURNALS](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/REFERENCE--MTHRFCKR/PAPERS-AND-JOURNALS.md)
 
-- [PDF Management](PDF%20Management.md)
+- [PDF-MANAGEMENT](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/REFERENCE--MTHRFCKR/PDF-MANAGEMENT.md)
 
-- [Publications](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/REFERENCE--MTHRFCKR/Publications.md)
+- [PUBLICATIONS](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/REFERENCE--MTHRFCKR/PUBLICATIONS.md)
 
-- [Reference Tools](Reference%20Tools.md)
+- [REFERENCE-MTHRFCKR](REFERENCE-MTHRFCKR.md)
+
+- [REFERENCE-TOOLS](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/REFERENCE--MTHRFCKR/REFERENCE-TOOLS.md)
+
 
 ---
