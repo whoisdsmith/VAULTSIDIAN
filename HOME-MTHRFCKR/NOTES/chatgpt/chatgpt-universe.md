@@ -1,4 +1,3 @@
-
 # ChatGPT Universe
 
 This tiny place of the Web stores a growing collection of interesting things about [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT) and GPT-3 from OpenAI.
@@ -11,16 +10,16 @@ The collections are not limited to only the best resources, tools, examples, dem
 
 The following resources started off based on awesome-chatgpt lists<sup><a href="chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#user-content-fn-1-017ae03f5da90cbaf8ca3e22ffa1a502" id="user-content-fnref-1-017ae03f5da90cbaf8ca3e22ffa1a502" data-footnote-ref="" aria-describedby="footnote-label">1</a></sup><sup><a href="chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#user-content-fn-2-017ae03f5da90cbaf8ca3e22ffa1a502" id="user-content-fnref-2-017ae03f5da90cbaf8ca3e22ffa1a502" data-footnote-ref="" aria-describedby="footnote-label">2</a></sup> but with my own modifications:
 
-## [](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#general-resources)General Resources
+## General Resources
 
 -   [ChatGPT launch blog post](https://openai.com/blog/chatgpt/)
 -   [ChatGPT official app](https://chat.openai.com)
 
-## [](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#chatgpt-community--discussion)ChatGPT Community / Discussion
+## ChatGPT Community / Discussion
 
 -   [OpenAI Discord Channel](https://discord.com/invite/openai)
 
-## [](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#examples)Examples
+## Examples
 
 Example prompts.
 
@@ -28,7 +27,7 @@ Example prompts.
 -   [impressive-chatgpt](https://github.com/sw33tLie/impressive-chatgpt) - A collection of impressive and useful results from ChatGPT.
 -   [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts) - Prompts that works well. Just follow [@goodside](https://twitter.com/goodside)
 
-## [](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#experiments)Experiments
+## Experiments
 
 -   [golergka/advent-of-code-2022-with-chat-gpt](https://github.com/golergka/advent-of-code-2022-with-chat-gpt) - Solving Advent of Code 2022 with ChatGPT.
 -   [max-sixty/aoc-gpt](https://github.com/max-sixty/aoc-gpt) - First place in Advent of Code leaderboard with GPT-3.
@@ -40,7 +39,7 @@ Example prompts.
 -   [chat-gpt-ppt](https://github.com/williamfzc/chat-gpt-ppt) - Use ChatGPT to generate PPT automatically.
 -   [emailGPT](https://github.com/lucasmccabe/emailGPT) - A quick and easy interface to generate emails with ChatGPT.
 
-## [](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#blog-posts-and-articles)Blog Posts and Articles
+## Blog Posts and Articles
 
 -   [Building A Virtual Machine inside ChatGPT](https://www.engraved.blog/building-a-virtual-machine-inside/)
 -   [AI Homework](https://stratechery.com/2022/ai-homework/)
@@ -58,13 +57,13 @@ Example prompts.
 -   [ChatGPT produces made-up nonexistent references](https://news.ycombinator.com/item?id=33841672)
 -   [Artificial intelligence is permeating business at last](https://www.economist.com/business/2022/12/06/artificial-intelligence-is-permeating-business-at-last)
 
-### [](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#prompt-engineering)Prompt Engineering
+### Prompt Engineering
 
 > Wanted: Prompt engineer. Minimum 10 years prompt engineering experience. #hiring #joke
 
 -   [Why "Prompt Engineering" and "Generative AI" are overhyped](https://lspace.swyx.io/p/why-prompt-engineering-and-generative)
 
-## [](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#development-tools)Development Tools
+## Development Tools
 
 Unofficial API and SDK.
 
@@ -79,7 +78,7 @@ Tools.
 -   [Dust](https://github.com/dust-tt/dust) - Design and deploy large language model (LLM) apps. Generative models app specification and execution engine. Prompt engineering, re-imagined with one goal, help accelerate LLMs deployment.
 -   [LangChain](https://github.com/hwchase17/langchain/) - Building applications with LLMs through composability.
 
-## [](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#browser-extensions)Browser Extensions
+## Browser Extensions
 
 Use ChatGPT anywhere.
 
@@ -89,9 +88,9 @@ Use ChatGPT anywhere.
 -   [Chrome extension](https://github.com/kazuki-sf/ChatGPT_Extension) - A really simple Chrome Extension (manifest v3) that you can access OpenAI's ChatGPT from anywhere on the web.
 -   [summarize.site](https://github.com/clmnin/summarize.site) - Chrome extension to summarize blogs and articles using ChatGPT.
 
-## [](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#access-chatgpt-from-other-platforms)Access ChatGPT From Other Platforms
+## Access ChatGPT From Other Platforms
 
-### [](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#bots)Bots
+### Bots
 
 -   [WhatsApp bot](https://github.com/danielgross/whatsapp-gpt)
 -   [Go Telegram bot](https://github.com/m1guelpf/chatgpt-telegram) - Run your own GPTChat Telegram bot, with a single command.
@@ -99,20 +98,20 @@ Use ChatGPT anywhere.
 -   [ChatGPT ProBot](https://github.com/oceanlvr/ChatGPTBot) - A GitHub App. Type `/chatgpt` to chat with ChatGPTBot.
 -   [Discord bot](https://github.com/Zero6992/chatGPT-discord-bot) - Integrate your own Discord bot using chatGPT.
 
-## [](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#cli-tools)CLI Tools
+## CLI Tools
 
 -   [chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation) - Voice-based chatGPT.
 
-### [](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#editors-and-ides)Editors and IDEs
+### Editors and IDEs
 
 -   [VSCode extension](https://github.com/mpociot/chatgpt-vscode) ([demo](https://twitter.com/marcelpociot/status/1599180144551526400))
 
-### [](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#others)Others
+### Others
 
 -   [RayCast Extension (unofficial)](https://github.com/abielzulio/chatgpt-raycast) - Run ChatGPT through Raycast extension.
 -   [Google Docs](https://github.com/cesarhuret/docGPT) - ChatGPT directly within Google Docs as an Editor Add-on.
 
-## [](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#applications)Applications
+## Applications
 
 Web applications and desktop applications.
 
@@ -120,14 +119,14 @@ Web applications and desktop applications.
 -   [ChatGPT desktop app](https://github.com/sonnylazuardi/chatgpt-desktop) - Windows/MacOS desktop menubar app using Tauri and Rust.
 -   [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac): MacOS menubar app.
 
-## [](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#ai-safety-and-ethics)AI Safety and Ethics
+## AI Safety and Ethics
 
 -   [Use of ChatGPT generated text for posts on Stack Overflow is temporarily banned](http://archive.today/bMruL)
 -   [Generative AI: autocomplete for everything](https://noahpinion.substack.com/p/generative-ai-autocomplete-for-everything) — A long-form piece on the future of human work in the age of generative AI. tl;dr: AI doesn't take over jobs, it takes over tasks. [Comparative advantage](https://en.wikipedia.org/wiki/Comparative_advantage) is why humans will still have jobs.
 
 ---
 
-## [](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#demos)Demos
+## Demos
 
 Demos<sup><a href="chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#user-content-fn-3-017ae03f5da90cbaf8ca3e22ffa1a502" id="user-content-fnref-3-017ae03f5da90cbaf8ca3e22ffa1a502" data-footnote-ref="" aria-describedby="footnote-label">3</a></sup> and examples in the form of tweets:
 
@@ -170,7 +169,7 @@ Demos<sup><a href="chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generate
 37.  [That's how I'll pick books in the future](https://twitter.com/thorstenball/status/1599320310171414528)
 38.  [ChatGPT is amazing but OpenAI has not come close to addressing the problem of bias. Filters appear to be bypassed with simple tricks, and superficially masked](https://twitter.com/spiantado/status/1599462375887114240)
 
-## [](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#others-1)Others
+## Others
 
 Mostly found in GitHub Gist:
 
@@ -196,3 +195,6 @@ Mostly found in GitHub Gist:
 2.  [https://github.com/Kamigami55/awesome-chatgpt](https://github.com/Kamigami55/awesome-chatgpt) [↩](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#user-content-fnref-2-017ae03f5da90cbaf8ca3e22ffa1a502)
     
 3.  [https://github.com/saharmor/awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt) [↩](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#user-content-fnref-3-017ae03f5da90cbaf8ca3e22ffa1a502)
+
+
+---

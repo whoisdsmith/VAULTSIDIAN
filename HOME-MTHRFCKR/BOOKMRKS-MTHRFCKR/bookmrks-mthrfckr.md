@@ -354,6 +354,9 @@
 				- [WEB-ANIMATION](./raindrops/BOOKMRKS--MTHRFCKR/WEBDEV--MTHRFCKR/WEB-ANIMATION.md)
 				- [WEBDEV-MTHRFCKR](./raindrops/BOOKMRKS--MTHRFCKR/WEBDEV--MTHRFCKR/WEBDEV-MTHRFCKR.md)
 				- [WEBSITE](./raindrops/BOOKMRKS--MTHRFCKR/WEBDEV--MTHRFCKR/WEBSITE.md)
+		- [MTHRFCKR-API](./raindrops/MTHRFCKR-API.md)
+		- [RaindropandChatGPTPrompts](./raindrops/RaindropandChatGPTPrompts.md)
+		- [RaindrophelpfromCopilotandChatGPT](./raindrops/RaindrophelpfromCopilotandChatGPT.md)
 	- [rd-2022-12-07](./rd-2022-12-07.md)
 	- [readme](./readme.md)
 	- **[reference](./reference/reference.md)**

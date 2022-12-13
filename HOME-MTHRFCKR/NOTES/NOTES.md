@@ -7,10 +7,12 @@
 	- **[adderall](./adderall/adderall.md)**
 	- **[articles](./articles/articles.md)**
 	- [Autofill](./Autofill.md)
-	- **chatgpt**
-		- [awesome-chatgpt-prompts](./chatgpt/awesome-chatgpt-prompts.md)
+	- **[chatgpt](./chatgpt/chatgpt.md)**
+		- [Awesome--ChatGPT](./chatgpt/Awesome--ChatGPT.md)
+		- [Awesome-ChatGPT-Prompts](./chatgpt/Awesome-ChatGPT-Prompts.md)
 		- [awesome-chatgpt](./chatgpt/awesome-chatgpt.md)
 		- [chatgpt-universe](./chatgpt/chatgpt-universe.md)
+		- [chatgpt](./chatgpt/chatgpt.md)
 	- **[daily-notes](./daily-notes/daily-notes.md)**
 	- **[data](./data/data.md)**
 	- **[day-one](./day-one/day-one.md)**
