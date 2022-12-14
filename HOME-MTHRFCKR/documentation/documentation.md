@@ -83,6 +83,23 @@
 		- [upgrading-gmail-and-email-app-versions-using-make-devtool](./make/upgrading-gmail-and-email-app-versions-using-make-devtool.md)
 		- [wordpress](./make/wordpress.md)
 		- [xml](./make/xml.md)
+	- **openai-cookbook**
+		- **examples**
+			- **azure**
+
+			- **book_translation**
+				- **data**
+
+			- **dalle**
+
+			- **data**
+
+			- **fine-tuned_qa**
+
+		- [README](./openai-cookbook/README.md)
+		- [techniques_to_improve_reliability](./openai-cookbook/techniques_to_improve_reliability.md)
+		- **transition_guides_for_deprecated_API_endpoints**
+			- [README](./openai-cookbook/transition_guides_for_deprecated_API_endpoints/README.md)
 	- [pages-and-sections-dashy](./pages-and-sections-dashy.md)
 	- [quick-start-dashy](./quick-start-dashy.md)
 	- **rsshub**

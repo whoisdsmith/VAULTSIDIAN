@@ -11,8 +11,11 @@
 		- [Awesome--ChatGPT](./chatgpt/Awesome--ChatGPT.md)
 		- [Awesome-ChatGPT-Prompts](./chatgpt/Awesome-ChatGPT-Prompts.md)
 		- [awesome-chatgpt](./chatgpt/awesome-chatgpt.md)
+		- [ChatGPT Optimizing Language Models for Dialogue](./chatgpt/ChatGPT%20Optimizing%20Language%20Models%20for%20Dialogue.md)
+		- [chatgpt-thread_12-13-2022-18-17-57](./chatgpt/chatgpt-thread_12-13-2022-18-17-57.md)
 		- [chatgpt-universe](./chatgpt/chatgpt-universe.md)
 		- [chatgpt](./chatgpt/chatgpt.md)
+		- [prompt](./chatgpt/prompt.md)
 	- **[daily-notes](./daily-notes/daily-notes.md)**
 	- **[data](./data/data.md)**
 	- **[day-one](./day-one/day-one.md)**
