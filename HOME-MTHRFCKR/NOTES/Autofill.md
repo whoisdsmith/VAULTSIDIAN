@@ -9,6 +9,7 @@ https://twitter.com/Wh0isdsmith
 https://www.facebook.com/dontcallmedsmith/  
 https://github.com/whoisdsmith  
 https://instagram.com/dsmith4life
+https://www.youtube.com/@whoisdsmith
 
 ### Dev Sites
 
