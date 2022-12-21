@@ -27,6 +27,7 @@
 		- [files](./documents/files.md)
 		- [text](./documents/text.md)
 	- **[glossary](./glossary/glossary.md)**
+	- [left-on-read](./left-on-read.md)
 	- **[misc](./misc/misc.md)**
 	- [notes](./notes.md)
 	- [Publii](./Publii.md)
