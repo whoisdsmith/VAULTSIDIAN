@@ -1,0 +1,36 @@
+GET /rest/v1/collections HTTP/1.1
+Authorization: Bearer 8a97290c-9297-44b3-9abc-5009f5172087
+Cookie: AWSALB=VAWGLjOPhN+ynXcZMl2b0zX5Z6jPmvvTxzXXIZ50aQcwdboDWrGMKEc3uQTxth1DU0v1tUGBmargZORpbfSJ4T6wI1BVxu5oWYGnnbY94qChThDOuIILCfWODrmZ; AWSALBCORS=VAWGLjOPhN+ynXcZMl2b0zX5Z6jPmvvTxzXXIZ50aQcwdboDWrGMKEc3uQTxth1DU0v1tUGBmargZORpbfSJ4T6wI1BVxu5oWYGnnbY94qChThDOuIILCfWODrmZ
+Host: api.raindrop.io
+Connection: close
+User-Agent: RapidAPI/4.0.0 (Macintosh; OS X/12.5.0) GCDHTTPRequest
+
+
+
+GET /rest/v1/user/stats HTTP/1.1
+Authorization: Bearer 8a97290c-9297-44b3-9abc-5009f5172087
+Cookie: AWSALB=VAWGLjOPhN+ynXcZMl2b0zX5Z6jPmvvTxzXXIZ50aQcwdboDWrGMKEc3uQTxth1DU0v1tUGBmargZORpbfSJ4T6wI1BVxu5oWYGnnbY94qChThDOuIILCfWODrmZ; AWSALBCORS=VAWGLjOPhN+ynXcZMl2b0zX5Z6jPmvvTxzXXIZ50aQcwdboDWrGMKEc3uQTxth1DU0v1tUGBmargZORpbfSJ4T6wI1BVxu5oWYGnnbY94qChThDOuIILCfWODrmZ
+Host: api.raindrop.io
+Connection: close
+User-Agent: RapidAPI/4.0.0 (Macintosh; OS X/12.5.0) GCDHTTPRequest
+
+
+
+GET /rest/v1/collections/covers HTTP/1.1
+Authorization: Bearer 8a97290c-9297-44b3-9abc-5009f5172087
+Cookie: AWSALB=VAWGLjOPhN+ynXcZMl2b0zX5Z6jPmvvTxzXXIZ50aQcwdboDWrGMKEc3uQTxth1DU0v1tUGBmargZORpbfSJ4T6wI1BVxu5oWYGnnbY94qChThDOuIILCfWODrmZ; AWSALBCORS=VAWGLjOPhN+ynXcZMl2b0zX5Z6jPmvvTxzXXIZ50aQcwdboDWrGMKEc3uQTxth1DU0v1tUGBmargZORpbfSJ4T6wI1BVxu5oWYGnnbY94qChThDOuIILCfWODrmZ
+Host: api.raindrop.io
+Connection: close
+User-Agent: RapidAPI/4.0.0 (Macintosh; OS X/12.5.0) GCDHTTPRequest
+
+
+
+GET /rest/v1/collections/childrens HTTP/1.1
+Authorization: Bearer 8a97290c-9297-44b3-9abc-5009f5172087
+Cookie: AWSALB=VAWGLjOPhN+ynXcZMl2b0zX5Z6jPmvvTxzXXIZ50aQcwdboDWrGMKEc3uQTxth1DU0v1tUGBmargZORpbfSJ4T6wI1BVxu5oWYGnnbY94qChThDOuIILCfWODrmZ; AWSALBCORS=VAWGLjOPhN+ynXcZMl2b0zX5Z6jPmvvTxzXXIZ50aQcwdboDWrGMKEc3uQTxth1DU0v1tUGBmargZORpbfSJ4T6wI1BVxu5oWYGnnbY94qChThDOuIILCfWODrmZ
+Host: api.raindrop.io
+Connection: close
+User-Agent: RapidAPI/4.0.0 (Macintosh; OS X/12.5.0) GCDHTTPRequest
+
+
+
