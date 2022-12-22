@@ -1,10 +1,10 @@
 ![[Obsidian-Github-Cover.jpeg]]
 
-## [[Automation/Automation]]
+## [[../../home-mthrfckr/documentation/automation/automation.md]]
 
 ![[Automation-Banner-Small.jpeg]]
 
-## [[home-mthrfckr/notes/documents/documentation ]]
+## [[../../home-mthrfckr/notes/documents/documentation.md ]]
 
 ![[writing-banner.jpeg]]
 

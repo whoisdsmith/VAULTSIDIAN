@@ -4,7 +4,7 @@
 
 %% Begin Waypoint %%
 
-- **[webdev](../../../../..//HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/Awesome/webdev/webdev.md)**
+- **[webdev](../../../../..//home-mthrfckr/bookmrks-mthrfckr/awesome/webdev/webdev.md)**
   - [Awesome Dev Fun (2)](Awesome%20Dev%20Fun%20(2).md)
   - [Awesome Dev Fun](Awesome%20Dev%20Fun.md)
   - [Awesome Dev Resources (2)](Awesome%20Dev%20Resources%20(2).md)
@@ -18,7 +18,7 @@
   - [Awesome Web Icons (2)](Awesome%20Web%20Icons%20(2).md)
   - [Awesome Web Icons](Awesome%20Web%20Icons.md)
   - [Awesome-Blogging-Platforms (2)](Awesome-Blogging-Platforms%20(2).md)
-  - [Awesome-Blogging-Platforms](Awesome-Blogging-Platforms.md)
+  - [Awesome-Blogging-Platforms](awesome-blogging-platforms.md)
   - [awesome-selfhosted Automation (2)](awesome-selfhosted%20Automation%20(2).md)
   - [awesome-selfhosted Automation](awesome-selfhosted%20Automation.md)
   - [awesome-selfhosted Blogging Platforms (2)](awesome-selfhosted%20Blogging%20Platforms%20(2).md)
@@ -33,6 +33,6 @@
   - [Spellbook of Modern Web Dev](Spellbook%20of%20Modern%20Web%20Dev.md)
   - [web-development-resources (2)](web-development-resources%20(2).md)
   - [web-development-resources](web-development-resources.md)
-  - [webdev](../../../../..//HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/Awesome/webdev/webdev.md)
+  - [webdev](../../../../..//home-mthrfckr/bookmrks-mthrfckr/awesome/webdev/webdev.md)
 
 %% End Waypoint %%

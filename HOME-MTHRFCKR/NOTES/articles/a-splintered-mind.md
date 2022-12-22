@@ -200,7 +200,7 @@ When my productivity drops and time sails out the window, I know I haven’t bee
 
   
 
-### When Does [[Research]] Become a Fixation?
+### When Does [[../../research/research.md]] Become a Fixation?
 
 _I pull back the curtain a bit today, revealing a deep, dark secret about myself—a secret so dank, surely I’ll lose the last three readers I have._
 

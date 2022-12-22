@@ -10,17 +10,17 @@ Secondary Categories: [[02 - Obsidian](02%20-%20Obsidian.md) - [[02 - Resources]
 Links: [[Plugins]] - [[Required]] - [[Configuration]]  
 Search Tag: #📖  
 
-# [[Obsidian - Plugins](Obsidian%20-%20Plugins.md)
+# [[Obsidian - Plugins](../../..//templates/temp/obsidian%20-%20plugins.md)
 
 ## Required
 
 [[Obsidian Git](Obsidian%20Git.md)  
-[[Templater 1](Templater%201.md)Template%20Hub/Templates/Obsidian-Vault-Structure/03%20-%20Content/Templater.md)  
+[[Templater 1](templater%201.md)Template%20Hub/Templates/Obsidian-Vault-Structure/03%20-%20Content/Templater.md)  
 
 ## Additional
 
-[[../../../../../Obsidian/obsidian-hub/02%20-%20Comm[[Admonition]]s/02.05%20All%20Co[[Admonition]]ons/Plugins/dataview.md]]  
-[[Admonition]]  
+[[../../../../../Obsidian/obsidian-hub/02%20-%20Comm[[admonition.md]]s/02.05%20All%20Co[[admonition.md]]ons/Plugins/dataview.md]]  
+[[admonition.md]]  
 
 ___
 

@@ -11,13 +11,13 @@ favicon: img/favicon.png
 
 ## Simple
 
-APIs are coded in Javascript and are very easy to make! Check out the [documentation](home-mthrfckr/notes/documents/documentation.md) or follow our API walkthrough to learn how to start making your own APIs!  
+APIs are coded in Javascript and are very easy to make! Check out the [documentation](../../notes/documents/documentation.md) or follow our API walkthrough to learn how to start making your own APIs!  
 [> Geocaching API walkthrough](http://blog.randomapi.com/geocaching-api-demo/)
 
 ## Fast & Powerful
 
 With user snippets & libraries like [Faker](https://npmjs.com/package/Faker) along with a complete programming language, you have full control over the output of your API.  
-[> Browse Snippet Library](search)
+[> Browse Snippet Library](../../../snippets/search.md)
 
 ## Pricing
 

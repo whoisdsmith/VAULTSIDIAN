@@ -6,7 +6,7 @@ _Note: For security purposes, only https URLs will be included in this repo._
 
 ## Configuration
 
-Read the guide for [Firefox](FIREFOX.md) or the guide for [Chrome](CHROME.md).
+Read the guide for [Firefox](awesome-custom-search-engines/firefox.md) or the guide for [Chrome](awesome-custom-search-engines/chrome.md).
 
 _Note: The %s in the strings should be removed for Firefox._
 

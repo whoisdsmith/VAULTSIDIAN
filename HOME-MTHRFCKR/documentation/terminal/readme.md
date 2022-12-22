@@ -3,7 +3,7 @@
 - [Text Manipulation](text-manipulation.md)
 - [Files and Directories](filesdirectories.md)
 - [Process Monitoring](process-monitoring.md)
-- [Networking Processes](networking-commands.md)
+- [Networking Processes](../networking/networking-commands.md)
 - [Bash scripting](shell-scripting.md)
 - [Performance Management](performance-management.md)
 - [vim](vim.md)

@@ -49,7 +49,7 @@ sort file.mtime desc
 limit 10
 ```
 
-[[00. myCodes|代码管理主页](00.%20myCodes.md)
+[[00. myCodes|代码管理主页](00.%20mycodes.md)
 
 ---
 

@@ -9,15 +9,15 @@ coverY: 0
 
 <figure><img src=".gitbook/assets/FMHY Stats 2.png" alt=""><figcaption></figcaption></figure>
 
-## 📛 [Adblock / Privacy / Antivirus](adblockvpnguide.md)
+## 📛 [Adblock / Privacy / Antivirus](fmhy/adblockvpnguide.md)
 
 **Adblocking Extensions, Privacy Extensions, Privacy Tools, VPN's, Proxies, Antivirus**
 
-## [📺 Movies / TV / Anime / Sports](videopiracyguide.md)
+## [📺 Movies / TV / Anime / Sports](fmhy/videopiracyguide.md)
 
 **Streaming Apps, Streaming Sites, Download Sites, Torrent Apps, Torrent Sites**
 
-## [🎵 Music / Podcasts / Radio](audiopiracyguide.md)
+## [🎵 Music / Podcasts / Radio](fmhy/audiopiracyguide.md)
 
 **Audio Streaming, Audio Downloading, Audio Torrenting**
 
@@ -25,35 +25,35 @@ coverY: 0
 
 **Download Games, Torrent Games, Emulators, ROMs**
 
-## [📗 Books / Comics / Manga](readingpiracyguide.md)
+## [📗 Books / Comics / Manga](fmhy/readingpiracyguide.md)
 
 **Books, Comics, Magazines, Newspapers, Light Novels**
 
-## [💾 Downloading](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/freemediaheckyeah/fmhyedit/fmhy/downloadpiracyguide.md)
+## [💾 Downloading](fmhy/downloadpiracyguide.md)
 
 **Download Forums, Download Directories, Download Sites**
 
-## [🌀 Torrenting](torrentpiracyguide.md)
+## [🌀 Torrenting](fmhy/torrentpiracyguide.md)
 
 **Torrent Clients, Torrent Sites, Tracker Invites**
 
-## [🧠 Educational](edupiracyguide.md)
+## [🧠 Educational](fmhy/edupiracyguide.md)
 
 **Courses, Documentaries, Calculators, Language Learning, Tools**
 
-## [🔧 Tools](toolsguide.md)
+## [🔧 Tools](../../awesome-piracy/piracy-misc/toolsguide.md)
 
 **General Tools, Internet Tools, System Tools, Gaming Tools**
 
-## [📂 Miscellaneous](miscguide.md)
+## [📂 Miscellaneous](../../awesome-piracy/piracy-misc/miscguide.md)
 
 **Extensions, Indexes, News, Health, Cooking, Fun Sites**
 
-## [📱 Android / iOS](androidpiracyguide.md)
+## [📱 Android / iOS](fmhy/androidpiracyguide.md)
 
 **Adblocking, Emulators, APKs, Apps, Torrenting, Streaming**
 
-## [🐧 Linux / MacOS](linuxguide.md)
+## [🐧 Linux / MacOS](fmhy/linuxguide.md)
 
 **Apps, Tools, Adblocking, Privacy, Software, Gaming**
 
@@ -65,7 +65,7 @@ coverY: 0
 
 **Beginners Guide to Piracy**
 
-## [🔒 Backups](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/freemediaheckyeah/fmhyedit/fmhy/backups.md)
+## [🔒 Backups](fmhy/backups.md)
 
 **FMHY Backups**
 
@@ -73,7 +73,7 @@ coverY: 0
 
 **Chat, Get Help, Suggest Sites**
 
-## [🖥 Storage](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/freemediaheckyeah/fmhyedit/fmhy/storage.md)
+## [🖥 Storage](fmhy/storage.md)
 
 Link to the GitHub storage page.&#x20;
 

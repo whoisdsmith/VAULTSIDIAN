@@ -157,7 +157,7 @@ description: Main Dashboard fo this Vault
   🤓 Personal Stuff
 </div>
 
-# [[ ../../../HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/projects/journal.md]]
+# [[ ../../../home-mthrfckr/bookmrks-mthrfckr/projects/journal.md]]
 
 # [[ Bucket List]]
 

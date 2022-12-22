@@ -4,8 +4,8 @@
 
 %% Begin Waypoint %%
 
-- **[champagne-piracy-wiki](./champagne-piracy-wiki.md)**
-  - [champagne-piracy-wiki](./champagne-piracy-wiki.md)
+- **[champagne-piracy-wiki](../../../..//home-mthrfckr/bookmrks-mthrfckr/champagne-piracy-wiki/champagne-piracy-wiki.md)**
+  - [champagne-piracy-wiki](../../../..//home-mthrfckr/bookmrks-mthrfckr/champagne-piracy-wiki/champagne-piracy-wiki.md)
 
 %% End Waypoint %%
 
@@ -95,7 +95,7 @@ These will come in handy with what you are about to attempt.
 
 * * *
 
-[Web Browsing Extensions](Recent%20Lists/CHAMPAGNE-PIRACY-WIKI/Web%20Browsing%20Extensions.md)
+[Web Browsing Extensions](../../../Recent%20Lists/CHAMPAGNE-PIRACY-WIKI/Web%20Browsing%20Extensions.md)
 
 [Activate Windows & Office Products!](Activate%20Windows%20&%20Office%20Products!.md)
 

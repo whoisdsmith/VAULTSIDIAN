@@ -6,7 +6,7 @@ Originally Forked From
 
 ***
 
-![Header](DEV-STAX-header-image.png)
+![Header](dev-stax-header-image.png)
 
 ```
 All Credit Goes To Original Creator @255kb

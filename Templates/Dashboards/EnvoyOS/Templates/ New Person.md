@@ -8,7 +8,7 @@ description: A basic structure for capturing the details of a person, they could
 ---
 
 **Tags**:: #person <% tp.system.suggester(["This person is a Friend", "This person is a relative" , "This person is a guy from Internet"], ["#contact", ""]) %>  
-**Links**:: [[Templates/Dashboards/EnvoyOS/Dashboards/ People](HOME-MTHRFCKR/osint/osint-bookmarks/people.md)
+**Links**:: [[Templates/Dashboards/EnvoyOS/Dashboards/ People](../../../../home-mthrfckr/osint/osint-bookmarks/people.md)
 
 ---
 

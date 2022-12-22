@@ -6,30 +6,30 @@ https://openknowledgemaps.org/
 
  
 
--   [ Search](index)
--   [About](about)
+-   [ Search](../../documentation/mdn-guides/seo/index.md)
+-   [About](../../documentation/raindrop-io/help-docs/about.md)
 -   [Team](team)
 -   [Community](community)
--   [Projects](projects)
--   [News](news)
--   [FAQs](faq)
+-   [Projects](../../bookmrks-mthrfckr/projects/projects.md)
+-   [News](../../bookmrks-mthrfckr/awesome/webdev/frontend-dev-bookmarks/ecosystem/news.md)
+-   [FAQs](../../documentation/rsshub/faq.md)
 -   [Get in touch](getintouch)
 -   [Become a supporting member](supporting-membership)
 
 
 
-[![](./img/logo-okmaps.png)](index)
+[![](./img/logo-okmaps.png)](../../documentation/mdn-guides/seo/index.md)
 
--   [Open Knowledge Maps](index)
+-   [Open Knowledge Maps](../../documentation/mdn-guides/seo/index.md)
 -   A visual interface to the world's scientific knowledge
 
--   [ Search](index)
--   [About](about)
+-   [ Search](../../documentation/mdn-guides/seo/index.md)
+-   [About](../../documentation/raindrop-io/help-docs/about.md)
 -   [Team](team)
 -   [Community](community)
--   [Projects](projects)
--   [News](news)
--   [FAQs](faq)
+-   [Projects](../../bookmrks-mthrfckr/projects/projects.md)
+-   [News](../../bookmrks-mthrfckr/awesome/webdev/frontend-dev-bookmarks/ecosystem/news.md)
+-   [FAQs](../../documentation/rsshub/faq.md)
 -   [Get in touch](getintouch)
 -   [ Become a supporting member](supporting-membership)
 
@@ -227,7 +227,7 @@ Unless otherwise noted, all content on openknowledgemaps.org is licensed under a
 ### Materials
 
 -   [ Training Materials](community#training-materials)
--   [ Logos](logos)
+-   [ Logos](../../bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/DESGN--MTHRFCKR/LOGOS.md)
 -   [ Poster](https://drive.google.com/open?id=1mIHWkbmnNIE22FbZ40zfqYhbgSMvoKoh)
 -   [ Flyer](https://openknowledgemaps.org/staging/project-website/doc/open-knowledge-maps-supporting-membership3.pdf)
 
@@ -242,7 +242,7 @@ Unless otherwise noted, all content on openknowledgemaps.org is licensed under a
 ### Legal & Privacy
 
 -   [ Legal Notice](imprint#legalnotice)
--   [ Privacy Policy](privacy)
+-   [ Privacy Policy](../../osint/osint-bookmarks/privacy.md)
 -   [ Community Guidelines](community-guidelines)
 -   [ Impressum](imprint#impressum)
 -   [ Datenschutzerklärung](datenschutz)

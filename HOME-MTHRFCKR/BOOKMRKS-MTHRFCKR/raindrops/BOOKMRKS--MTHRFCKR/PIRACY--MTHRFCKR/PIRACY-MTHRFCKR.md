@@ -2,13 +2,13 @@
 
 ---
 
-- [CLOUD](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/PIRACY--MTHRFCKR/CLOUD.md)
+- [CLOUD](CLOUD.md)
 
 - [CRACKS](CRACKS.md)
 
 - [DIRECT-DOWNLOAD](DIRECT-DOWNLOAD.md)
 
-- [INDEXES](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/PIRACY--MTHRFCKR/INDEXES.md)
+- [INDEXES](INDEXES.md)
 
 - [LINKS-AND-LISTS](LINKS-AND-LISTS.md)
 
@@ -18,7 +18,7 @@
 
 - [OPEN-DIRECTORY-SEARCH](OPEN-DIRECTORY-SEARCH.md)
 
-- [PIRACY-MTHRFCKR](PIRACY-MTHRFCKR.md)
+- [PIRACY-MTHRFCKR](../../../../../..//home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/PIRACY--MTHRFCKR/PIRACY-MTHRFCKR.md)
 
 - [PREMIUM-LINK-GENERATERS](PREMIUM-LINK-GENERATERS.md)
 
@@ -26,7 +26,7 @@
 
 - [SERIALS-AND-KEYGEN](SERIALS-AND-KEYGEN.md)
 
-- [TORRENTS](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/PIRACY--MTHRFCKR/TORRENTS.md)
+- [TORRENTS](TORRENTS.md)
 
 - [WAREZ](WAREZ.md)
 

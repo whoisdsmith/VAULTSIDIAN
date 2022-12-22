@@ -8091,7 +8091,7 @@ and theta polymorphisms in neurological disease. *Hum Exp Toxicol* **18**:141-14
 
 Suganuma M, Okabe S, Oniyama M, Tada Y, Ito H and Fujiki H (1998) Wide 
 
-distribution of [3H](-)-epigallocatechin gallate, a cancer preventive tea 
+distribution of [3H](../../documentation/terminal/all-commands/-.md)-epigallocatechin gallate, a cancer preventive tea 
 
 polyphenol, in mouse tissue. *Carcinogenesis* **19**:1771-1776. 
 

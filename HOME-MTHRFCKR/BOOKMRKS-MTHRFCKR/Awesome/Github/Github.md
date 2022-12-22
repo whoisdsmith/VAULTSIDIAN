@@ -4,9 +4,9 @@
 
 %% Begin Waypoint %%
 
-- **[Github](../../../../..//HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/Awesome/Github/Github.md)**
+- **[Github](../../../../..//home-mthrfckr/bookmrks-mthrfckr/awesome/github/github.md)**
   - [Awesome Github Actions](Awesome%20Github%20Actions.md)
   - [Awesome GitHub](Awesome%20GitHub.md)
-  - [Github](../../../../..//HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/Awesome/Github/Github.md)
+  - [Github](../../../../..//home-mthrfckr/bookmrks-mthrfckr/awesome/github/github.md)
 
 %% End Waypoint %%

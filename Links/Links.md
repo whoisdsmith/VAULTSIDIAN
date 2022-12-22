@@ -4,17 +4,17 @@
 
 %% Begin Waypoint %%
 
-- **[Links](../..//Links/Links.md)**
+- **[Links](../..//links/links.md)**
   - [about-me](about-me.md)
-  - [Bands](Bands.md)
-  - [Blogs](Blogs.md)
-  - [Dev](Dev.md)
+  - [Bands](bands.md)
+  - [Blogs](blogs.md)
+  - [Dev](dev.md)
   - [infos](infos.md)
-  - [Links](../..//Links/Links.md)
-  - [Photos](Photos.md)
-  - [Profiles](Profiles.md)
-  - [Social](Social.md)
-  - [Videos](Videos.md)
-  - [Websites](Websites.md)
+  - [Links](../..//links/links.md)
+  - [Photos](photos.md)
+  - [Profiles](profiles.md)
+  - [Social](social.md)
+  - [Videos](videos.md)
+  - [Websites](websites.md)
 
 %% End Waypoint %%

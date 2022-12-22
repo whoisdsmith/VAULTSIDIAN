@@ -4,11 +4,11 @@
 
 ***
 
-[Academic](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/reference/academic.md)
+[Academic](academic.md)
 
 [Academic and Grey Literature Research Tools](academic-and-grey-literature-research-tools.md)
 
-[Adderall](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/reference/adderall.md)
+[Adderall](adderall.md)
 
 [Ancestry Research](ancestry-research.md)
 
@@ -36,7 +36,7 @@
 
 [PDF Sites](pdf-sites.md)
 
-[Publications](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/reference/publications.md)
+[Publications](publications.md)
 
 [Reference Tools](reference-tools.md)
 

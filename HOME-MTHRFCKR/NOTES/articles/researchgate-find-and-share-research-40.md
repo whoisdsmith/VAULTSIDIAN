@@ -88,9 +88,9 @@ Find out more
 
 ](https://www.researchgate.net/marketing-solutions?utm_source=researchgate&utm_medium=community-loggedout&utm_campaign=recruitment-focused-index-footer&utm_content=advertising)
 
-[About us](about)
+[About us](../../documentation/raindrop-io/help-docs/about.md)
 
-[News](blog)
+[News](../../documentation/rsshub/blog.md)
 
 [Careers](careers)
 

@@ -4,10 +4,10 @@
 
 %% Begin Waypoint %%
 
-- **[MacOS](../../..//HOME-MTHRFCKR/MacOS/MacOS.md)**
-  - [Brewfile](Brewfile.md)
-  - [Installed Apps](Installed%20Apps.md)
-  - [MacOS](../../..//HOME-MTHRFCKR/MacOS/MacOS.md)
+- **[MacOS](../../..//home-mthrfckr/macos/macos.md)**
+  - [Brewfile](brewfile.md)
+  - [Installed Apps](installed%20apps.md)
+  - [MacOS](../../..//home-mthrfckr/macos/macos.md)
   - [pip](pip.md)
 
 %% End Waypoint %%

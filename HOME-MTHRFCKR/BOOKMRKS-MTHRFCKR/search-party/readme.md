@@ -4,11 +4,11 @@
 
 [Custom-Search-Engines](custom-search-engines.md)
 
-[Files](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/search-party/files.md)
+[Files](files.md)
 
 [General](general%201.md)
 
-[People Search Tools](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/search-party/people-search-tools.md)
+[People Search Tools](people-search-tools.md)
 
 [Technology](../../bookmrks-mthrfckr/search-engines/Technology.md)
 

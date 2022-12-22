@@ -6,7 +6,7 @@ Originally Forked From
 
 ***
 
-![Header](FREESOURCES-github-header.png)
+![Header](freesources-github-header.png)
 
 ```
 All Credit Goes To Original Creator @ripienaar

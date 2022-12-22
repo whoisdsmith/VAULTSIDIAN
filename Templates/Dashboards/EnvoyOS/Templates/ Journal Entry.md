@@ -5,7 +5,7 @@ banner: ""
 ---
 
 **Tags**:: #journal  
-**Links**:: [[ ../../../../HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/projects/journal.md]]  
+**Links**:: [[ ../../../../home-mthrfckr/bookmrks-mthrfckr/projects/journal.md]]  
 **Topic**::
 
 ---

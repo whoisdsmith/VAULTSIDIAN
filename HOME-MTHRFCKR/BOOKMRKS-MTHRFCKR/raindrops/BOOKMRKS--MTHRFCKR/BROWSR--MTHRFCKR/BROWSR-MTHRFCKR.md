@@ -6,7 +6,7 @@
 
 - [BROWSER](BROWSER.md)
 
-- [BROWSR-MTHRFCKR](BROWSR-MTHRFCKR.md)
+- [BROWSR-MTHRFCKR](../../../../../..//home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/BROWSR--MTHRFCKR/BROWSR-MTHRFCKR.md)
 
 - [URL-TOOLS](URL-TOOLS.md)
 

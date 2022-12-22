@@ -58,7 +58,7 @@ To look at the results yourself, please click here.](/Bioline_dataUse.pdf)
 
 ![](/imgs/covers/oc_cover.jpg)
 
-[**What's new?**](news)
+[**What's new?**](../../bookmrks-mthrfckr/awesome/webdev/frontend-dev-bookmarks/ecosystem/news.md)
 
 Ciência Florestal, Vol. 29 (01)  
 Chilean Journal of Agricultural Research, Vol. 79 (04)  

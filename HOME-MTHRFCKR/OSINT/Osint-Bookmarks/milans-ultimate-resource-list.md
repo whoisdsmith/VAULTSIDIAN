@@ -11,7 +11,7 @@
 [Web animation  Drawing](Web%20animation%20%20Drawing.md)
 [Responsive](Responsive.md)
 [Accessibility](Awesome/MILANS%20ULTIMATE%20RESOURCE%20LIST/Accessibility.md)
-[Forms](Forms.md)
+[Forms](../../bookmrks-mthrfckr/freesources/readme/forms.md)
 [CMS  Website builders](CMS%20%20Website%20builders.md)
 [Data Viz](Data%20Viz.md)
 [Online learning](Online%20learning.md)
@@ -42,7 +42,7 @@ The book: [https://www.thesprintbook.com/](https://www.google.com/url?q=https://
 [Design Sprint Resources & Planning Tools + Blog](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://voltagecontrol.com/blog/design-sprint-resources-planning-tools/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228547016%26amp;usg%3DAOvVaw0eC_70kWJSOf67nFWRj41K&sa=D&source=docs&ust=1645230228994342&usg=AOvVaw01wmiKtY5T3CT_nR0rwrgK)
 📊 Marketing
 [Analytics](Analytics.md)
-[Email](Email.md)
+[Email](../../documentation/make/email.md)
 [Copy](Copy.md)
 
 ##
@@ -100,7 +100,7 @@ Branding
 [Side Projects](Side%20Projects.md)
 [Public Speaking](Public%20Speaking.md)
 [Remote Jobs](Awesome/MILANS%20ULTIMATE%20RESOURCE%20LIST/Remote%20Jobs.md)
-[Hiring](Hiring.md)
+[Hiring](hiring.md)
 [Startups](Startups.md)
 [Stock  Equity](Stock%20%20Equity.md)
 [Salary  Rates  Negotiation money](Salary%20%20Rates%20%20Negotiation%20money.md)
@@ -108,14 +108,14 @@ Branding
 [Documents](Awesome/MILANS%20ULTIMATE%20RESOURCE%20LIST/Documents.md)
 [Freelancing  Making a portfolio  Getting a job  Running a business](Freelancing%20%20Making%20a%20portfolio%20%20Getting%20a%20job%20%20Running%20a%20business.md)
 [Lawyers](Lawyers.md)
-[Accountants](Accountants.md)
+[Accountants](accountants.md)
 [Design portfolio tips](Design%20portfolio%20tips.md)
 [Applying for developer jobs](Applying%20for%20developer%20jobs.md)
 [What it’s like to work at…](What%20it’s%20like%20to%20work%20at….md)
 [Writing a bio](Writing%20a%20bio.md)
 [Directories](Directories.md)
 [For non-Black folks](For%20non-Black%20folks.md)
-[Reading](Reading.md)
+[Reading](../../documentation/rsshub/reading.md)
 I’ve been reading [So You Want To Talk About Race](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://www.ijeomaoluo.com/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228878020%26amp;usg%3DAOvVaw2RZtntAcYUHqbaJIsk5rEQ&sa=D&source=docs&ust=1645230229052262&usg=AOvVaw3VWAAIDCecFHFvNZ_-XTCI) by Ijeoma Oluo and [Me and White Supremacy](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.meandwhitesupremacybook.com/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228878472%26amp;usg%3DAOvVaw0xxepGBtKM668WU3JUWkNY&sa=D&source=docs&ust=1645230229052339&usg=AOvVaw27M_hmctszfA_lKdhOaCOo) by Layla F. Saad. They’ve been really helpful to me, check them out! Up next is [White Fragility](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.indiebound.org/book/9780807047415%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228878966%26amp;usg%3DAOvVaw0A7puoB3i5xu2MOidexWLO&sa=D&source=docs&ust=1645230229052422&usg=AOvVaw0bOIbPmRnJuA1K2_P0uN6R) by Robin DiAngelo.
 [Newsletters](Awesome/MILANS%20ULTIMATE%20RESOURCE%20LIST/Newsletters.md)
 [Accounts I Follow](Accounts%20I%20Follow.md)

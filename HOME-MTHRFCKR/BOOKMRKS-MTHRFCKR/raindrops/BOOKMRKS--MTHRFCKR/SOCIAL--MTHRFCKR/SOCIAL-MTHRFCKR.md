@@ -2,19 +2,19 @@
 
 ---
 
-- [ADDERALL](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/SOCIAL--MTHRFCKR/ADDERALL.md)
+- [ADDERALL](ADDERALL.md)
 
-- [BLOGS](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/SOCIAL--MTHRFCKR/BLOGS.md)
+- [BLOGS](BLOGS.md)
 
 - [CREATE-BLOG](CREATE-BLOG.md)
 
-- [DATA](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/SOCIAL--MTHRFCKR/DATA.md)
+- [DATA](DATA.md)
 
 - [DEV-SITES](DEV-SITES.md)
 
 - [DEV.TO](DEV.TO.md)
 
-- [DISCORD](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/SOCIAL--MTHRFCKR/DISCORD.md)
+- [DISCORD](DISCORD.md)
 
 - [FACEBOOK](FACEBOOK.md)
 
@@ -24,20 +24,20 @@
 
 - [MEDIUM-BLOGS](MEDIUM-BLOGS.md)
 
-- [OSINT-BLOGS](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/SOCIAL--MTHRFCKR/OSINT-BLOGS.md)
+- [OSINT-BLOGS](OSINT-BLOGS.md)
 
-- [PEOPLE-TO-FOLLOW](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/SOCIAL--MTHRFCKR/PEOPLE-TO-FOLLOW.md)
+- [PEOPLE-TO-FOLLOW](PEOPLE-TO-FOLLOW.md)
 
-- [PODCASTS](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/SOCIAL--MTHRFCKR/PODCASTS.md)
+- [PODCASTS](PODCASTS.md)
 
 - [REDDIT](REDDIT.md)
 
-- [SOCIAL](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/SOCIAL--MTHRFCKR/SOCIAL.md)
+- [SOCIAL](SOCIAL.md)
 
-- [SOCIAL-MTHRFCKR](SOCIAL-MTHRFCKR.md)
+- [SOCIAL-MTHRFCKR](../../../../../..//home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/SOCIAL--MTHRFCKR/SOCIAL-MTHRFCKR.md)
 
-- [TELEGRAM](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/SOCIAL--MTHRFCKR/TELEGRAM.md)
+- [TELEGRAM](TELEGRAM.md)
 
-- [TWITTER](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/SOCIAL--MTHRFCKR/TWITTER.md)
+- [TWITTER](TWITTER.md)
 
 ---

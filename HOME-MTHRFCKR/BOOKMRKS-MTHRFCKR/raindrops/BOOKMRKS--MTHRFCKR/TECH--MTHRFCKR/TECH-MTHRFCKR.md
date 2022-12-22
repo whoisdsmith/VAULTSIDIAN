@@ -2,10 +2,10 @@
 
 ---
 
-- [MOBILE](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/TECH--MTHRFCKR/MOBILE.md)
+- [MOBILE](MOBILE.md)
 
-- [PC](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/TECH--MTHRFCKR/PC.md)
+- [PC](PC.md)
 
-- [TECH-MTHRFCKR](TECH-MTHRFCKR.md)
+- [TECH-MTHRFCKR](../../../../../..//home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/TECH--MTHRFCKR/TECH-MTHRFCKR.md)
 
 ---

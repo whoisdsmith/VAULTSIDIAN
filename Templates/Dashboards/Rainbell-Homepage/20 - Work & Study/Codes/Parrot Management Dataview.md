@@ -75,7 +75,7 @@ sort file.mtime desc
 limit 10
 ```
 
-[[00. myCodes|⬅️ Back to Codes Homepage](00.%20myCodes.md)
+[[00. myCodes|⬅️ Back to Codes Homepage](00.%20mycodes.md)
 
 ---
 

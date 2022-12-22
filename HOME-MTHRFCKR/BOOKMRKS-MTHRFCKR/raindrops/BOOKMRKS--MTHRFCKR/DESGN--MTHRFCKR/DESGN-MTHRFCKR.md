@@ -2,7 +2,7 @@
 
 ---
 
-- [DESGN-MTHRFCKR](DESGN-MTHRFCKR.md)
+- [DESGN-MTHRFCKR](../../../../../..//home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/DESGN--MTHRFCKR/DESGN-MTHRFCKR.md)
 
 - [DESIGN-RESOURCES](DESIGN-RESOURCES.md)
 
@@ -10,7 +10,7 @@
 
 - [ICONS](ICONS.md)
 
-- [IMAGES](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/DESGN--MTHRFCKR/IMAGES.md)
+- [IMAGES](IMAGES.md)
 
 - [LOGOS](LOGOS.md)
 
@@ -30,7 +30,7 @@
 
 - [SVG](SVG.md)
 
-- [TEMPLATES](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/DESGN--MTHRFCKR/TEMPLATES.md)
+- [TEMPLATES](TEMPLATES.md)
 
 - [VECTORS](VECTORS.md)
 

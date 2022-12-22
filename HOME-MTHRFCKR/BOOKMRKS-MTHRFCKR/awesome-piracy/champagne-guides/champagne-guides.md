@@ -4,8 +4,8 @@
 
 %% Begin Waypoint %%
 
-- **[champagne-guides](./champagne-guides.md)**
-  - [champagne-guides](./champagne-guides.md)
+- **[champagne-guides](../../../../..//home-mthrfckr/bookmrks-mthrfckr/awesome-piracy/champagne-guides/champagne-guides.md)**
+  - [champagne-guides](../../../../..//home-mthrfckr/bookmrks-mthrfckr/awesome-piracy/champagne-guides/champagne-guides.md)
 
 %% End Waypoint %%
 
@@ -36,7 +36,7 @@ For our Piracy Wiki, go here: **[CHAMPAGNE PIRACY WIKI](https://rentry.org/champ
   9. Google Shared Drives + One Drive Generators
   10. Activate Windows & Office Products!
 
-[Web Browsing Extensions](Web%20Browsing%20Extensions.md)
+[Web Browsing Extensions](../../../../Recent%20Lists/CHAMPAGNE-PIRACY-WIKI/Web%20Browsing%20Extensions.md)
 
 [Windows Tools and Apps + Websites](Windows%20Tools%20and%20Apps%20+%20Websites.md)
 

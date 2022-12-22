@@ -1,54 +1,54 @@
 # Make
 
-![[Logo.png]]
+![[../../../templates/dashboards/envoyos/attachments/banners/logo.png]]
 
 ---
 
-## [[Make API Documentation]]
+## [[Make API Documentation](make/make%20api%20documentation.md)
 
-## [[Types of modules]]
+## [[Types of modules](make/types%20of%20modules.md)
 
-## [[XML]]
+## [[make/xml.md]]
 
-## [[Make-RSS]]
+## [[make/make-rss.md]]
 
-## [[JSON]]
+## [[make/json.md]]
 
-## [[HTTP]]
+## [[make/http.md]]
 
 ## [[Folders/Documentation/Make/Tools]]
 
-## [[Email]]
+## [[make/email.md]]
 
 ## [[Folders/Documentation/Make/Image]]
 
-## [[Router]]
+## [[make/router.md]]
 
-## [[Iterator]]
+## [[make/iterator.md]]
 
-## [[Make-Webhooks]]
+## [[make/make-webhooks.md]]
 
-## [[home-mthrfckr/documentation/make/glossary]]
+## [[../make/glossary.md]]
 
-## [[Converger]]
+## [[make/converger.md]]
 
 ## [[GH Bookmarks/Wordpress]]
 
-## [[Aggregator]]
+## [[make/aggregator.md]]
 
-## [[Data store]]
+## [[Data store](make/data%20store.md)
 
-## [[Text Parser]]
+## [[Text Parser](make/text%20parser.md)
 
-## [[Flow control]]
+## [[Flow control](make/flow%20control.md)
 
-## [[Data structures]]
+## [[Data structures](make/data%20structures.md)
 
-## [[Types of modules]]
+## [[Types of modules](make/types%20of%20modules.md)
 
-## [[Replacing Legacy Modules with New Modules]]
+## [[Replacing Legacy Modules with New Modules](make/replacing%20legacy%20modules%20with%20new%20modules.md)
 
-## [[How to get Text Parser to produce an output value]]
+## [[How to get Text Parser to produce an output value](make/how%20to%20get%20text%20parser%20to%20produce%20an%20output%20value.md)
 
 ## [[Replacing Google Sheets legacy Modules with New Modules]]
 

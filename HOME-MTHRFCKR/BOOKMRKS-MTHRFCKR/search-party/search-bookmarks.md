@@ -2,9 +2,9 @@
 
 ---
 
-## [[HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/search-party/academic]]
+## [[academic.md]]
 
-## [[alternative--search--engines]]
+## [[alternative--search--engines.md]]
 
 ## [[Archived Pages](Archived%20Pages.md)
 
@@ -12,32 +12,32 @@
 
 ## [[Code & Dev & Tech](Code%20&%20Dev%20&%20Tech.md)
 
-## [[HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/search-party/cryptocurrency]]
+## [[cryptocurrency.md]]
 
-## [[cse]]
+## [[cse.md]]
 
-## [[HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/search-party/darkweb]]
+## [[darkweb.md]]
 
-## [[HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/search-party/databreach]]
+## [[databreach.md]]
 
-## [[developer-search-resources]]
+## [[developer-search-resources.md]]
 
 ## [[Direct Download]]
 
-## [[../../NOTES/documents/documents.md]]
+## [[../../notes/documents/documents.md]]
 
 ## [[general.md]]
 
 ## [[Google Custom Search](Google%20Custom%20Search.md)
 
-[[google-custom-search]]d]]
-[[HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/search-party/infomation]]d]]
+[[google-custom-search.md]]d]]
+[[infomation.md]]d]]
 
 ## [[IP Address](IP%20Address.md)
 
-[[HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/search-party/maps]]d]]
-[[meta]]d]]
-[[HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/search-party/name]]d]]
+[[maps.md]]d]]
+[[meta.md]]d]]
+[[name.md]]d]]
 
 ## [[Online Marketplace](Online%20Marketplace.md)
 
@@ -45,33 +45,33 @@
 
 ## [[Open Directory](Open%20Directory.md)
 
-[[os-software]]d]]
+[[os-software.md]]d]]
 
 ## [[OSINT Hacking](OSINT%20Hacking.md)
 
-[[HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/search-party/pastebin]]d]]
-[[HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/search-party/people]]d]]
+[[pastebin.md]]d]]
+[[people.md]]d]]
 
 ## [[Phone Number](Phone%20Number.md)
 
-[[HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/search-party/publications]]d]]
+[[publications.md]]d]]
 
 ## [[Search Terms Expertise](Search%20Terms%20Expertise.md)
 
 ## [[Search_Blog]]
 
-[[search_image]]d]]
-[[search_misc]]d]]
-[[search_tools]]d]]
-[[search_torrents]]d]]
-[[search_video]]d]]
-[[search-tools-fmhy]]ols-[[search-tools]]earc[[searches]]md]]
+[[search_image.md]]d]]
+[[search_misc.md]]d]]
+[[search_tools.md]]d]]
+[[search_torrents.md]]d]]
+[[search_video.md]]d]]
+[[search-tools-fmhy.md]]ols-[[search-tools.md]]earc[[searches.md]]md]]
 
 ## [[../search/searches.md]]
 
-## [[Similiar Sites](Similiar%20[[specialized]]ial [[subdomain]]sear[[home-mthrfckr/bookmrks-mthrfckr/search-party/technology]]]]
+## [[Similiar Sites](Similiar%20[[specialized.md]]ial [[subdomain.md]]sear[[technology.md]]]]
 
-# [[HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/search-party/telegram]]ubdo[[words-vocabulary]]h/te[[HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/search-party/youtube]]## [[../search/telegram.md]]
+# [[telegram.md]]ubdo[[words-vocabulary.md]]h/te[[youtube.md]]## [[../search/telegram.md]]
 
 ## [[../search/words-vocabulary.md]]
 

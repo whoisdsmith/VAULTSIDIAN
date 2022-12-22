@@ -1470,7 +1470,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 - [Dav Abramov Medium](https://medium.com/@dan_abramov)
 - [Overreacted - Dav Abramov Blog](https://overreacted.io/)
 - [Kent C. Dodds Blog](https://kentcdodds.com/blog)
-- [DEV Community](dev.to)
+- [DEV Community](../raindrops/BOOKMRKS--MTHRFCKR/SOCIAL--MTHRFCKR/DEV.TO.md)
 - [alligator.io](https://alligator.io/)
 - [Flavio Copes](https://flaviocopes.com/)
 - [Una Kravets](https://una.im/)

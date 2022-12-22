@@ -4,21 +4,21 @@
 
 - [BACKLINKS](BACKLINKS.md)
 
-- [CLOUD](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/WEBDEV--MTHRFCKR/CLOUD.md)
+- [CLOUD](CLOUD.md)
 
-- [DASHBOARDS](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/WEBDEV--MTHRFCKR/DASHBOARDS.md)
+- [DASHBOARDS](DASHBOARDS.md)
 
 - [DEV-WEB](DEV-WEB.md)
 
-- [FINDING-SSL-CERTIFICATES](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/WEBDEV--MTHRFCKR/FINDING-SSL-CERTIFICATES.md)
+- [FINDING-SSL-CERTIFICATES](FINDING-SSL-CERTIFICATES.md)
 
-- [HOST-DOMAINS](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/WEBDEV--MTHRFCKR/HOST-DOMAINS.md)
+- [HOST-DOMAINS](HOST-DOMAINS.md)
 
 - [HOSTING](HOSTING.md)
 
 - [HTML-AND-CSS](HTML-AND-CSS.md)
 
-- [HTTP](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/WEBDEV--MTHRFCKR/HTTP.md)
+- [HTTP](HTTP.md)
 
 - [SELF-HOSTED](SELF-HOSTED.md)
 
@@ -30,7 +30,7 @@
 
 - [WEB-ANIMATION](WEB-ANIMATION.md)
 
-- [WEBDEV-MTHRFCKR](WEBDEV-MTHRFCKR.md)
+- [WEBDEV-MTHRFCKR](../../../../../..//home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/WEBDEV--MTHRFCKR/WEBDEV-MTHRFCKR.md)
 
 - [WEBSITE](WEBSITE.md)
 

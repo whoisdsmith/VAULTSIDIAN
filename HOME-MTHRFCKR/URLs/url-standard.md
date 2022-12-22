@@ -97,9 +97,9 @@ This specification depends on the Infra Standard. [[INFRA]](https://url.spec.wha
 Some terms used in this specification are defined in the following standards and specifications:
 
 - DOM Standard [[DOM]](https://url.spec.whatwg.org//#biblio-dom)
-- Encoding Standard [[../BOOKMRKS-MTHRFCKR/Software-Tools/encoding.md]](https://url.spec.whatwg.org//#biblio-encoding)
+- Encoding Standard [[../bookmrks-mthrfckr/software-tools/encoding.md]](https://url.spec.whatwg.org//#biblio-encoding)
 - File API [[FILEAPI]](https://url.spec.whatwg.org//#biblio-fileapi)
-- HTML Standard [[HTML]](https://url.spec.whatwg.org//#biblio-html)
+- HTML Standard [[../../snippets/html.md]](https://url.spec.whatwg.org//#biblio-html)
 - Media Source Extensions [[MEDIA-SOURCE]](https://url.spec.whatwg.org//#biblio-media-source)
 - Unicode IDNA Compatibility Processing [[UTS46]](https://url.spec.whatwg.org//#biblio-uts46)
 - Web IDL [[WEBIDL]](https://url.spec.whatwg.org//#biblio-webidl)
@@ -184,7 +184,7 @@ The userinfo percent-encode set is the [path percent-encode set](https://url.spe
 
 The component percent-encode set is the [userinfo percent-encode set](https://url.spec.whatwg.org//#userinfo-percent-encode-set) and U+0024 ($) to U+0026 (&), inclusive, U+002B (+), and U+002C (,).
 
-This is used by HTML for `[registerProtocolHandler()](https://html.spec.whatwg.org/multipage/system-state.html#dom-navigator-registerprotocolhandler)`, and could also be used by other standards to percent-encode data that can then be embedded in a [URL](https://url.spec.whatwg.org//#concept-url)’s [path](https://url.spec.whatwg.org//#concept-url-path), [query](https://url.spec.whatwg.org//#concept-url-query), or [fragment](https://url.spec.whatwg.org//#concept-url-fragment); or in an [opaque host](https://url.spec.whatwg.org//#opaque-host). Using it with [UTF-8 percent-encode](https://url.spec.whatwg.org//#string-utf-8-percent-encode) gives identical results to JavaScript’s [`encodeURIComponent()` [sic]](https://tc39.es/ecma262/#sec-encodeuricomponent-uricomponent). [[HTML]](https://url.spec.whatwg.org//#biblio-html) [[ECMA-262]](https://url.spec.whatwg.org//#biblio-ecma-262)
+This is used by HTML for `[registerProtocolHandler()](https://html.spec.whatwg.org/multipage/system-state.html#dom-navigator-registerprotocolhandler)`, and could also be used by other standards to percent-encode data that can then be embedded in a [URL](https://url.spec.whatwg.org//#concept-url)’s [path](https://url.spec.whatwg.org//#concept-url-path), [query](https://url.spec.whatwg.org//#concept-url-query), or [fragment](https://url.spec.whatwg.org//#concept-url-fragment); or in an [opaque host](https://url.spec.whatwg.org//#opaque-host). Using it with [UTF-8 percent-encode](https://url.spec.whatwg.org//#string-utf-8-percent-encode) gives identical results to JavaScript’s [`encodeURIComponent()` [sic]](https://tc39.es/ecma262/#sec-encodeuricomponent-uricomponent). [[../../snippets/html.md]](https://url.spec.whatwg.org//#biblio-html) [[ECMA-262]](https://url.spec.whatwg.org//#biblio-ecma-262)
 
 The `application/x-www-form-urlencoded` percent-encode set is the [component percent-encode set](https://url.spec.whatwg.org//#component-percent-encode-set) and U+0021 (!), U+0027 (') to U+0029 RIGHT PARENTHESIS, inclusive, and U+007E (~).
 
@@ -1014,7 +1014,7 @@ How user input in the web browser’s address bar is converted to a [URL record]
 
 The basic URL parser takes a string input, with an optional null or [base URL](https://url.spec.whatwg.org//#concept-base-url) base (default null), an optional [encoding](https://encoding.spec.whatwg.org/#encoding) encoding (default [UTF-8](https://encoding.spec.whatwg.org/#utf-8)), an optional [URL](https://url.spec.whatwg.org//#concept-url) url, and an optional state override state override, and then runs these steps:
 
-The encoding argument is a legacy concept only relevant for HTML. The url and state override arguments are only for use by various APIs. [[HTML]](https://url.spec.whatwg.org//#biblio-html)
+The encoding argument is a legacy concept only relevant for HTML. The url and state override arguments are only for use by various APIs. [[../../snippets/html.md]](https://url.spec.whatwg.org//#biblio-html)
 
 When the url and state override arguments are not passed, the [basic URL parser](https://url.spec.whatwg.org//#concept-basic-url-parser) returns either a new [URL](https://url.spec.whatwg.org//#concept-url) or failure. If they are passed, the algorithm modifies the passed url and can terminate without returning anything.
 
@@ -1568,7 +1568,7 @@ To determine whether a [URL](https://url.spec.whatwg.org//#concept-url) A equals
 
 ### 4.7. Origin[](https://url.spec.whatwg.org//#origin)
 
-See [origin](https://html.spec.whatwg.org/multipage/browsers.html#concept-origin)’s definition in HTML for the necessary background information. [[HTML]](https://url.spec.whatwg.org//#biblio-html)
+See [origin](https://html.spec.whatwg.org/multipage/browsers.html#concept-origin)’s definition in HTML for the necessary background information. [[../../snippets/html.md]](https://url.spec.whatwg.org//#biblio-html)
 
 The origin of a [URL](https://url.spec.whatwg.org//#concept-url) url is the [origin](https://html.spec.whatwg.org/multipage/browsers.html#concept-origin) returned by running these steps, switching on url’s [scheme](https://url.spec.whatwg.org//#concept-url-scheme):
 
@@ -1646,7 +1646,7 @@ Internationalized domain names (IDNs), special characters, and bidirectional tex
 
 The `application/x-www-form-urlencoded` format provides a way to encode name-value pairs.
 
-The `application/x-www-form-urlencoded` format is in many ways an aberrant monstrosity, the result of many years of implementation accidents and compromises leading to a set of requirements necessary for interoperability, but in no way representing good design practices. In particular, readers are cautioned to pay close attention to the twisted details involving repeated (and in some cases nested) conversions between character encodings and byte sequences. Unfortunately the format is in widespread use due to the prevalence of HTML forms. [[HTML]](https://url.spec.whatwg.org//#biblio-html)
+The `application/x-www-form-urlencoded` format is in many ways an aberrant monstrosity, the result of many years of implementation accidents and compromises leading to a set of requirements necessary for interoperability, but in no way representing good design practices. In particular, readers are cautioned to pay close attention to the twisted details involving repeated (and in some cases nested) conversions between character encodings and byte sequences. Unfortunately the format is in widespread use due to the prevalence of HTML forms. [[../../snippets/html.md]](https://url.spec.whatwg.org//#biblio-html)
 
 ### 5.1. `application/x-www-form-urlencoded` parsing[](https://url.spec.whatwg.org//#urlencoded-parsing)
 
@@ -1951,7 +1951,7 @@ Firefox for Android?iOS Safari?Chrome for Android?Android WebView?Samsung Intern
 
 Node.js7.0.0+
 
-The `origin` getter steps are to return the [serialization](https://html.spec.whatwg.org/multipage/browsers.html#ascii-serialisation-of-an-origin) of [this](https://webidl.spec.whatwg.org/#this)’s [URL](https://url.spec.whatwg.org//#concept-url-url)’s [origin](https://url.spec.whatwg.org//#concept-url-origin). [[HTML]](https://url.spec.whatwg.org//#biblio-html)
+The `origin` getter steps are to return the [serialization](https://html.spec.whatwg.org/multipage/browsers.html#ascii-serialisation-of-an-origin) of [this](https://webidl.spec.whatwg.org/#this)’s [URL](https://url.spec.whatwg.org//#concept-url-url)’s [origin](https://url.spec.whatwg.org//#concept-url-origin). [[../../snippets/html.md]](https://url.spec.whatwg.org//#biblio-html)
 
 **✔**MDN
 
@@ -2698,7 +2698,7 @@ The higher-level notion here is that values are to be exposed as immutable data 
 
 If a standard decides to use a variant of the name "URL" for a feature it defines, it should name such a feature "url" (i.e., lowercase and with an "l" at the end). Names such as "URL", "URI", and "IRI" should not be used. However, if the name is a compound, "URL" (i.e., uppercase) is preferred, e.g., "newURL" and "oldURL".
 
-The `[EventSource](https://html.spec.whatwg.org/multipage/server-sent-events.html#eventsource)` and `[HashChangeEvent](https://html.spec.whatwg.org/multipage/nav-history-apis.html#hashchangeevent)` interfaces in HTML are examples of proper naming. [[HTML]](https://url.spec.whatwg.org//#biblio-html)
+The `[EventSource](https://html.spec.whatwg.org/multipage/server-sent-events.html#eventsource)` and `[HashChangeEvent](https://html.spec.whatwg.org/multipage/nav-history-apis.html#hashchangeevent)` interfaces in HTML are examples of proper naming. [[../../snippets/html.md]](https://url.spec.whatwg.org//#biblio-html)
 
 ## Acknowledgments[](https://url.spec.whatwg.org//#acknowledgments)
 

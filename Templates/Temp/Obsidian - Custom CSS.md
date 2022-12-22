@@ -10,7 +10,7 @@ Secondary Categories: [[02 - Obsidian](02%20-%20Obsidian.md) - [[02 - Resources]
 Links: [[HOME-MTHRFCKR/DEV-DOCS/programming/CSS/CSS]] - [[Styling]] - [[../../HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/THE%20I%20AINT%20PAYING%20FOR%20SHIT%20RESOURCE%20LIST/CUSTOMIZATION.md]]  
 Search Tag: #📖  
 
-# [[Obsidian - Custom CSS](Obsidian%20-%20Custom%20CSS.md)
+# [[Obsidian - Custom CSS](../../..//templates/temp/obsidian%20-%20custom%20css.md)
 
 ## Enabling Custom CSS Snippets
 

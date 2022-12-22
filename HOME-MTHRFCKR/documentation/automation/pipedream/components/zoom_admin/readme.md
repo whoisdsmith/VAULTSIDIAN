@@ -14,4 +14,4 @@ To use a workflow, just **Copy** it and follow the instructions in the workflow'
 
 - [Save Zoom recordings to Amazon S3, then delete Zoom recording](https://pipedream.com/@dylburger/save-zoom-recordings-to-amazon-s3-p_PACKJG/readme)
 
-For a deeper introduction to Pipedream and event sources, see the [root `README` in this repo](../../../../../../README.md), the [component API](/COMPONENT-API.md), or the [docs](https://docs.pipedream.com/apps/zoom/).
+For a deeper introduction to Pipedream and event sources, see the [root `README` in this repo](../../../../../../readme.md), the [component API](/COMPONENT-API.md), or the [docs](https://docs.pipedream.com/apps/zoom/).

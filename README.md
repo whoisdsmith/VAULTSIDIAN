@@ -1,4 +1,4 @@
-![](Attachments/VAULTSIDIAN.png)
+![](attachments/vaultsidian.png)
 
 ---
 

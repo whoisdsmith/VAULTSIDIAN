@@ -7,8 +7,8 @@
 [Company Search Tools](Company%20Search%20Tools.md)
 [Coordinate Based Search](Coordinate%20Based%20Search.md)
 [Cryptocurrency](Raindrop/Cryptocurrency.md)
-[darkweb](HOME-MTHRFCKR/osint/osint-bookmarks/darkweb.md)
-[databreach](HOME-MTHRFCKR/NOTES/data/databreach.md)
+[darkweb](darkweb.md)
+[databreach](../../notes/data/databreach.md)
 [Email Searches](Email%20Searches.md)
 [Event Search](Event%20Search.md)
 [Exploit Search Engines](Exploit%20Search%20Engines.md)
@@ -23,14 +23,14 @@
 [IP Address](IP%20Address.md)
 [LEAKS & DECLASSIFIED](LEAKS%20&%20DECLASSIFIED.md)
 [Logo Search and Identification Tools](Logo%20Search%20and%20Identification%20Tools.md)
-[name](HOME-MTHRFCKR/osint/osint-bookmarks/name.md)
+[name](name.md)
 [Onion Search Engines  Links](Onion%20Search%20Engines%20%20Links.md)
 [Online Marketplace](Online%20Marketplace.md)
 [Online Records](Online%20Records.md)
 [OSINT Hacking](OSINT%20Hacking.md)
-[people](HOME-MTHRFCKR/osint/osint-bookmarks/people.md)
+[people](people.md)
 [Phone Number](Phone%20Number.md)
-[PROPERTY](PROPERTY.md)
+[PROPERTY](property.md)
 [Russian Social MediaSearch](Russian%20Social%20MediaSearch.md)
 [Salary Search](Salary%20Search.md)
 [Search](Raindrop/Search.md)
@@ -79,7 +79,7 @@
 - [Skypli — Skype Users Search](https://skypli.com/)
 - [Snapchat - Map](https://map.snapchat.com/)
 - [Snapchat - Snapdex](https://www.snapdex.com/)
-- [telegram](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/search-party/telegram.md)
+- [telegram](../../bookmrks-mthrfckr/search-party/telegram.md)
 - [Tweetdeck](https://tweetdeck.twitter.com/)
 - [VK Search Engine](https://cse.google.com/cse?cx=f5e7cd4c6e33954ec)
 - [Who posted what? — Facebook Search](https://whopostedwhat.com/)
@@ -444,11 +444,11 @@
 
 ### Telegram
 
-- [telegram](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/search-party/telegram.md)
+- [telegram](../../bookmrks-mthrfckr/search-party/telegram.md)
 
 ### TELEGRAM
 
-- [telegram](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/search-party/telegram.md)
+- [telegram](../../bookmrks-mthrfckr/search-party/telegram.md)
 
 ### TIKTOK
 
@@ -530,7 +530,7 @@
 - [First Tweet](http://ctrlq.org/first)
 - [Twittertrails.com](http://twittertrails.com/)
 - [Download and Export Twitter Followers into Excel for Free](https://www.vicinitas.io/free-tools/download-twitter-followers)
-[VKONTAKTE](VKONTAKTE.md)
+[VKONTAKTE](vkontakte.md)
 
 ## Start.me Resources
 

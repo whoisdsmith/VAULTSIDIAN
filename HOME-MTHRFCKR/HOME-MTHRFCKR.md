@@ -3,7 +3,7 @@
 
 ---
 
-![](../Attachments/C4F8497E-266F-4946-95E9-A5A0ED808E96.png)
+![](../attachments/c4f8497e-266f-4946-95e9-a5a0ed808e96.png)
 
 ---
 
@@ -18,7 +18,6 @@
 	- **[notes](./notes/notes.md)**
 	- **[osint](./osint/osint.md)**
 	- **[research](./research/research.md)**
-	- **[SnippetsLab](./SnippetsLab/SnippetsLab.md)**
 	- **[tweets](./tweets/tweets.md)**
 	- **[urls](./urls/urls.md)**
 

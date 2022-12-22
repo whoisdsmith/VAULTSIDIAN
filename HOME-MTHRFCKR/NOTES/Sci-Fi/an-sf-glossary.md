@@ -466,7 +466,7 @@ Sfnal Adjective For Anything From Earth (Terra). A \`\`Terran'' Without Modifier
 
 This Usage Displaced The Earlier But More Etymologically Correct \`\`Tellurian'' And \`\`Tellus'' In The 1940S And 50S; These Older Terms Are Now Primarily Associated With [Space Opera](Http://Www.Catb.Org/~Esr/Sf-Words/Glossary.Html#Space_Opera).
 
-[[Timeline]]
+[[../../bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/TOOLS--MTHRFCKR/TIMELINE.md]]
 
 \[First Use Unknown; Dates Back To 1940S\]
 

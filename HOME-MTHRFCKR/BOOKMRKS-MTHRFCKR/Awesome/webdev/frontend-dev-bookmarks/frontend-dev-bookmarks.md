@@ -4,7 +4,7 @@
 
 %% Begin Waypoint %%
 
-- **[frontend-dev-bookmarks](../../../../../..//HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/Awesome/webdev/frontend-dev-bookmarks/frontend-dev-bookmarks.md)**
+- **[frontend-dev-bookmarks](../../../../../..//home-mthrfckr/bookmrks-mthrfckr/awesome/webdev/frontend-dev-bookmarks/frontend-dev-bookmarks.md)**
   - **animation**
     - [web-animations-api (2)](animation/web-animations-api%20(2).md)
   - **appearance**
@@ -35,7 +35,7 @@
     - [organizations (2)](ecosystem/organizations%20(2).md)
     - [organizations](ecosystem/organizations.md)
     - [podcasts (2)](ecosystem/podcasts%20(2).md)
-  - [frontend-dev-bookmarks](../../../../../..//HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/Awesome/webdev/frontend-dev-bookmarks/frontend-dev-bookmarks.md)
+  - [frontend-dev-bookmarks](../../../../../..//home-mthrfckr/bookmrks-mthrfckr/awesome/webdev/frontend-dev-bookmarks/frontend-dev-bookmarks.md)
   - **languages-protocols-browser-apis**
     - [cascading-style-sheets-css (2)](languages-protocols-browser-apis/cascading-style-sheets-css%20(2).md)
     - [document-object-model-dom (2)](languages-protocols-browser-apis/document-object-model-dom%20(2).md)
@@ -52,7 +52,7 @@
     - [webassembly (2)](languages-protocols-browser-apis/webassembly%20(2).md)
   - [README (2)](README%20(2).md)
   - [TOTALLY-GIGANTIC-FILE (2)](TOTALLY-GIGANTIC-FILE%20(2).md)
-  - [TOTALLY-GIGANTIC-FILE](TOTALLY-GIGANTIC-FILE.md)
+  - [TOTALLY-GIGANTIC-FILE](totally-gigantic-file.md)
   - **user-interface-components**
     - [buttons (2)](user-interface-components/buttons%20(2).md)
     - [code (2)](user-interface-components/code%20(2).md)

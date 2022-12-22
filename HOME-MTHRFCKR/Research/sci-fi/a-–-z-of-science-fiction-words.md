@@ -556,7 +556,7 @@ A useful guide to scientific words for the Science Fiction enthusiast. It first 
 
 **[[Wave number]].** Reciprocal of wavelength, being the number of waves in unit distance.
 
-**[[Work]].** Phenomenon whereby a force acts on a body in such a way that motion results. If a force F acts on a body and its point of application moves a distance s in a direction making an angle *theta* with the direction of F, then the force is said to do an amount of work F_cos theta_ on the body.
+**[[../../osint/osint-bookmarks/work.md]].** Phenomenon whereby a force acts on a body in such a way that motion results. If a force F acts on a body and its point of application moves a distance s in a direction making an angle *theta* with the direction of F, then the force is said to do an amount of work F_cos theta_ on the body.
 
 **[[X-rays]].** Electromagnetic waves of length from 5X10-7 to 6X10-10 cm, produced when matter is bombarded by cathode rays.
 

@@ -2,30 +2,30 @@
 
 ---
 
-- [APPS](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/DEV--MTHRFCKR/APPS.md)
+- [APPS](APPS.md)
 
-- [AUDIO](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/DEV--MTHRFCKR/AUDIO.md)
+- [AUDIO](AUDIO.md)
 
-- [BITBUCKET](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/DEV--MTHRFCKR/BITBUCKET.md)
+- [BITBUCKET](BITBUCKET.md)
 
 - [BLOG-AND-CMS](BLOG-AND-CMS.md)
 
-- [CLOUD-DEV](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/DEV--MTHRFCKR/CLOUD-DEV.md)
+- [CLOUD-DEV](CLOUD-DEV.md)
 
-- [DECENTRALIZED](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/DEV--MTHRFCKR/DECENTRALIZED.md)
+- [DECENTRALIZED](DECENTRALIZED.md)
 
 - [DEPLOYMENT](DEPLOYMENT.md)
 
-- [DESIGN](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/DEV--MTHRFCKR/DESIGN.md)
+- [DESIGN](DESIGN.md)
 
-- [DEV-MTHRFCKR](DEV-MTHRFCKR.md)
+- [DEV-MTHRFCKR](../../../../../..//home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/DEV--MTHRFCKR/DEV-MTHRFCKR.md)
 
 - [DEV-TOOLS](DEV-TOOLS.md)
 
-- [GITHUB](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/DEV--MTHRFCKR/GITHUB.md)
+- [GITHUB](GITHUB.md)
 
-- [RESOURCES](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/DEV--MTHRFCKR/RESOURCES.md)
+- [RESOURCES](RESOURCES.md)
 
-- [SEARCH](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/DEV--MTHRFCKR/SEARCH.md)
+- [SEARCH](SEARCH.md)
 
 ---

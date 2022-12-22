@@ -2,23 +2,23 @@
 
 ---
 
-- [CATA-LIST](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/MTHRFCKR/CATA-LIST.md)
+- [CATA-LIST](CATA-LIST.md)
 
-- [FMHY](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/MTHRFCKR/FMHY.md)
+- [FMHY](FMHY.md)
 
-- [ILLEGAL-SERVICES](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/MTHRFCKR/ILLEGAL-SERVICES.md)
+- [ILLEGAL-SERVICES](ILLEGAL-SERVICES.md)
 
 - [IMAGE-TOOLS](IMAGE-TOOLS.md)
 
 - [M-T-H-R-F-C-K-R](M-T-H-R-F-C-K-R.md)
 
-- [MTHRFCKR](MTHRFCKR.md)
+- [MTHRFCKR](../../../../../..//home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/MTHRFCKR/MTHRFCKR.md)
 
-- [OSINT](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/MTHRFCKR/OSINT.md)
+- [OSINT](OSINT.md)
 
 - [SODA](SODA.md)
 
-- [STABLE-DIFFUSION](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/MTHRFCKR/STABLE-DIFFUSION.md)
+- [STABLE-DIFFUSION](STABLE-DIFFUSION.md)
 
 - [USEFUL-STUFF](USEFUL-STUFF.md)
 

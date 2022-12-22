@@ -1,4 +1,4 @@
-# Common Errors - [[IFTTT]]
+# Common Errors - [[ifttt.md]]
 
 ---
 
@@ -26,7 +26,7 @@ We'll provide some basic troubleshooting steps below, but check out the communit
 1.  Head to [https://ifttt.com/my\_services](https://ifttt.com/my_services) or the mobile app and locate the service you're having trouble with
 2.  Click ⚙︎ **Settings** on the top right
 3.  Click **Reconnect**
-4.  You'll be taken to a page where you can reconnect the service to [[IFTTT]]
+4.  You'll be taken to a page where you can reconnect the service to [[ifttt.md]]
 
 ![mceclip1.png](https://help.ifttt.com/hc/article_attachments/4406475965595/mceclip1.png)
 
@@ -36,11 +36,11 @@ We'll provide some basic troubleshooting steps below, but check out the communit
 
 If refreshing the connection didn't work, try reconnecting the service. This often helps with issues such as drop-down menus not populating, or authentication issues with the service.
 
-To reconnect the service, follow the steps above, but this time click **Remove**. Disconnecting your service may disable related Applets and connections on your [[IFTTT]] account so be prepared to reconnect them afterward.
+To reconnect the service, follow the steps above, but this time click **Remove**. Disconnecting your service may disable related Applets and connections on your [[ifttt.md]] account so be prepared to reconnect them afterward.
 
 ## Search for service-specific tips online
 
-Search **\[service name\] IFTTT help** online - it's possible that the service has specific requirements for how to use [[IFTTT]]. For example, some services only offer [[IFTTT]] support with certain plans on their product.
+Search **\[service name\] IFTTT help** online - it's possible that the service has specific requirements for how to use [[ifttt.md]]. For example, some services only offer [[ifttt.md]] support with certain plans on their product.
 
 ## Double-check the trigger and action fields
 
@@ -56,7 +56,7 @@ This will show you are any error messages there that can help you understand wha
 
 ## IoT devices (smart home products, voice assistants, etc) 
 
-If you are using a connection with an IoT device that is not running successfully, try a full reset of the device, double-check that you have connected [[IFTTT]] to the same device account where it is registered, and ensure your internet connection is strong. Also, confirm that your device is [[IFTTT]] compatible.
+If you are using a connection with an IoT device that is not running successfully, try a full reset of the device, double-check that you have connected [[ifttt.md]] to the same device account where it is registered, and ensure your internet connection is strong. Also, confirm that your device is [[ifttt.md]] compatible.
 
 ## File Not Found error
 
@@ -64,7 +64,7 @@ This likely means that a required field in an Applet is empty or not filled out
 
 ## Where to go for further help
 
-If the above information doesn't help to get your Applet working, please contact the service owner. Most services on the [[IFTTT]] platform have tools to help them diagnose user issues as they come up. You can often locate a service's support info by searching for **\[service name\] IFTTT help** online.
+If the above information doesn't help to get your Applet working, please contact the service owner. Most services on the [[ifttt.md]] platform have tools to help them diagnose user issues as they come up. You can often locate a service's support info by searching for **\[service name\] IFTTT help** online.
 
 ---
 #ifttt 

@@ -17,7 +17,7 @@
 - [Internet Protocol Television (IPTV)](Internet%20Protocol%20Television%20(IPTV).md)
 - [Direct Download Link (DDL)](Direct%20Download%20Link%20(DDL).md)
 - [Streaming](Streaming.md)
-- [Torrenting](home-mthrfckr/bookmrks-mthrfckr/illegal-services/Torrenting.md)
+- [Torrenting](Torrenting.md)
 - [Cracked Windows appsgames](Cracked%20Windows%20appsgames.md)
 - [Modded Android appsgames](Modded%20Android%20appsgames.md)
 - [Downloaders](Downloaders.md)

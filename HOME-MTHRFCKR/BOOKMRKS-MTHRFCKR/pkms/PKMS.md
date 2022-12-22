@@ -8,7 +8,7 @@
 
 [Apps](apps.md)
 
-[Communities](../Content/communities.md)
+[Communities](../content/communities.md)
 
 [Glossaries and Dictionaries](glossaries-and-dictionaries.md)
 
@@ -16,6 +16,6 @@
 
 [Notetaking](notetaking.md)
 
-[Obsidian](home-mthrfckr/bookmrks-mthrfckr/pkms/obsidian.md)
+[Obsidian](obsidian.md)
 
 ***

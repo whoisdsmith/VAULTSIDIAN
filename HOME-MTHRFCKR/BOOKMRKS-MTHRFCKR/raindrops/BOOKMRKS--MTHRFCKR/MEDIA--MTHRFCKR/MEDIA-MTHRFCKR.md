@@ -4,17 +4,17 @@
 
 - [3D](3D.md)
 
-- [ANIMATION](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/MEDIA--MTHRFCKR/ANIMATION.md)
+- [ANIMATION](ANIMATION.md)
 
 - [ART](ART.md)
 
-- [AUDIO-BOOKS](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/MEDIA--MTHRFCKR/AUDIO-BOOKS.md)
+- [AUDIO-BOOKS](AUDIO-BOOKS.md)
 
-- [MEDIA-MTHRFCKR](MEDIA-MTHRFCKR.md)
+- [MEDIA-MTHRFCKR](../../../../../..//home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/MEDIA--MTHRFCKR/MEDIA-MTHRFCKR.md)
 
-- [MUSIC-DL](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/MEDIA--MTHRFCKR/MUSIC-DL.md)
+- [MUSIC-DL](MUSIC-DL.md)
 
-- [PRO-AUDIO](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/MEDIA--MTHRFCKR/PRO-AUDIO.md)
+- [PRO-AUDIO](PRO-AUDIO.md)
 
 - [VIDEO-RESOURCE-TOOLBOX](VIDEO-RESOURCE-TOOLBOX.md)
 

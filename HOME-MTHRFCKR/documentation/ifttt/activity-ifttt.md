@@ -52,7 +52,7 @@
     
     path
     
-    [[IFTTT]]/Spotify`
+    [[ifttt.md]]/Spotify`
     
 -   ![](https://assets.ifttt.com/images/channels/51464135/icons/monochrome_regular.png)
     
