@@ -7,7 +7,7 @@
 
 ![[IFTTT-Banner.png]]
 
-## [[Make]]
+## [[home-mthrfckr/documentation/automation/make]]
 
 ![[make-banner.jpeg]]
 

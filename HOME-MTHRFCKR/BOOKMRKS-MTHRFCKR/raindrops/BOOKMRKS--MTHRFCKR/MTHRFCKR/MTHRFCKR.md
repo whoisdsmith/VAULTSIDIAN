@@ -6,7 +6,7 @@
 
 - [FMHY](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/MTHRFCKR/FMHY.md)
 
-- [ILLEGAL-SERVICES](ILLEGAL-SERVICES.md)
+- [ILLEGAL-SERVICES](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/MTHRFCKR/ILLEGAL-SERVICES.md)
 
 - [IMAGE-TOOLS](IMAGE-TOOLS.md)
 

@@ -10,7 +10,6 @@
 %% Begin Waypoint %%
 - **[home-mthrfckr](./home-mthrfckr.md)**
 	- **[bookmrks-mthrfckr](./bookmrks-mthrfckr/bookmrks-mthrfckr.md)**
-	- **[dev-docs](./dev-docs/dev-docs.md)**
 	- **[documentation](./documentation/documentation.md)**
 	- [google programmable search](./google%20programmable%20search.md)
 	- [home-mthrfckr](./home-mthrfckr.md)
@@ -19,8 +18,8 @@
 	- **[notes](./notes/notes.md)**
 	- **[osint](./osint/osint.md)**
 	- **[research](./research/research.md)**
-	- **tweets**
-		- [chatgpt-funny](./tweets/chatgpt-funny.md)
+	- **[SnippetsLab](./SnippetsLab/SnippetsLab.md)**
+	- **[tweets](./tweets/tweets.md)**
 	- **[urls](./urls/urls.md)**
 
 %% End Waypoint %%

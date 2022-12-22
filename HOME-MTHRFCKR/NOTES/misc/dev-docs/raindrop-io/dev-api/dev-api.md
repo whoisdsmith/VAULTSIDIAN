@@ -12,7 +12,7 @@
   * [Nested structure](home-mthrfckr/dev-docs/raindrop-io/dev-api/nested-structure.md)
   * [Sharing](home-mthrfckr/dev-docs/raindrop-io/dev-api/sharing.md)
   * [Covers/icons](home-mthrfckr/dev-docs/raindrop-io/dev-api/covers-icons.md)
-* [Raindrops](raindrops.md)
+* [Raindrops](home-mthrfckr/notes/misc/dev-docs/raindrop-io/dev-api/raindrops.md)
   * [Single raindrop](single.md)
   * [Multiple raindrops](multiple.md)
 * [Highlights](home-mthrfckr/dev-docs/raindrop-io/dev-api/highlights.md)
