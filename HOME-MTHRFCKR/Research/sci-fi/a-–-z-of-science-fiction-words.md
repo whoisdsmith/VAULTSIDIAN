@@ -1,6 +1,6 @@
 # a-–-z-of-science-fiction-words
 
-A useful guide to scientific words for the Science Fiction enthusiast. It first appeared as monthly instalments in _Authentic Science Fiction_ and was printed and published as a booklet by Hamilton & co., in the Goldhawk Road, London W 12. It was compiled by H.J. Campbell. Being 1954 very little is related to computers. At C you will find Cybernetics and at B Betelgeuse...
+A useful guide to scientific words for the Science Fiction enthusiast. It first appeared as monthly instalments in *Authentic Science Fiction* and was printed and published as a booklet by Hamilton & co., in the Goldhawk Road, London W 12. It was compiled by H.J. Campbell. Being 1954 very little is related to computers. At C you will find Cybernetics and at B Betelgeuse…
 
 **[[Absolute]].** Not relative. Independent of all scale and comparisons. E.g., zero temperature, number, the speed of light.
 
@@ -78,7 +78,7 @@ A useful guide to scientific words for the Science Fiction enthusiast. It first 
 
 **[[Cloud chamber]].** An instrument used for the study of alpha, beta, gamma and x-rays, in which the rays are passed through a vessel supersaturated with water vapour, leaving tracks of water droplets caused by ionisation.
 
-**[[Clusters]].** Groups of stars. Open clusters, like the Pleiades, consist of 500 stars over a wide area. Globular clusters, like NGC6553, are composed of thousands of stars in a compact mass lying _outside_ the Milky Way.
+**[[Clusters]].** Groups of stars. Open clusters, like the Pleiades, consist of 500 stars over a wide area. Globular clusters, like NGC6553, are composed of thousands of stars in a compact mass lying *outside* the Milky Way.
 
 **[[Ceolostat]].** An instrument consisting of a mirror mounted so that it turns on an axis parallel to the Earth’s. Clockwork drives it westwards as the Earth turns eastwards; it reflects a constant image into a stationary telescope.
 
@@ -272,7 +272,7 @@ A useful guide to scientific words for the Science Fiction enthusiast. It first 
 
 **[[Interferometer]].** Instrument that divides a light beam and then reunites it to form an interference pattern. Used for measuring the diameters of stars. The one at Mt. Wilson can measure the angle that a pinhead in London would subtend at Carlisle.
 
-**[[Inverse square law]].** The law obeyed by gravity, light intensity, electric field discharge, etc. According to the law an effect caused by a source at _x_ at a point _y_, varies inversely as the square of the distance _xy_.
+**[[Inverse square law]].** The law obeyed by gravity, light intensity, electric field discharge, etc. According to the law an effect caused by a source at *x* at a point *y*, varies inversely as the square of the distance *xy*.
 
 **[[Ion]].** An electrified atom. May be positve (few electrons) or negative (more electrons). The proton is a hydrogen ion.
 
@@ -338,7 +338,7 @@ A useful guide to scientific words for the Science Fiction enthusiast. It first 
 
 **[[Nova]].** Sudden contraction of a star, liberating an enormous amount of energy and giving rise to a brief increase in brightness. When the brightness dies down, there remains a white dwarf star.
 
-**[[Nuclear Charge]].** The electrical charge on the nucleus of an atom that exactly balances the opposite charge on the electrons in the shell. A decrease in the electronic charge gives a _positive_ ion; an increase gives a _negative_ ion. The nuclear charge is numerically equal to the number of electrons in the shell, to the number of protons in the nucleus and to the atomic number of the atom.
+**[[Nuclear Charge]].** The electrical charge on the nucleus of an atom that exactly balances the opposite charge on the electrons in the shell. A decrease in the electronic charge gives a *positive* ion; an increase gives a *negative* ion. The nuclear charge is numerically equal to the number of electrons in the shell, to the number of protons in the nucleus and to the atomic number of the atom.
 
 **[[Nuclear fission]].** The splitting of an atom into two smaller atoms of nearly equal mass by breaking up of the original atom’s nucleus. May be accompanied by tremendous release of energy, or may be calm as in natural radioactive decay.
 
@@ -388,7 +388,7 @@ A useful guide to scientific words for the Science Fiction enthusiast. It first 
 
 **[[Piezo-electric effect]].** The phenomenon of electrical charges appearing on opposite faces of an asymmetrical crystal due to pressure on the crystal due to pressure on the crystal.
 
-**[[Planck’s constant]].** 6.624X10-27 erg.sec. This constant, symbolized by h, gives the relation between the frequency of a radiation and its quantum of energy by the equation E=_hv_, where E is energy and _v_ is frequency. The constant is of great importance in relativity and the geometry of space and time.
+**[[Planck’s constant]].** 6.624X10-27 erg.sec. This constant, symbolized by h, gives the relation between the frequency of a radiation and its quantum of energy by the equation E=*hv*, where E is energy and *v* is frequency. The constant is of great importance in relativity and the geometry of space and time.
 
 **[[Planetoid]].** Synonymous with asteroid, a small celestial body orbiting the Sun, not a planet. It is possible that the asteroids are sometimes caught in the gravity fields of large planets; they then become satellites.
 
@@ -398,7 +398,7 @@ A useful guide to scientific words for the Science Fiction enthusiast. It first 
 
 **[[Q-value]].** Effective energy produced in a nuclear reaction expressed in terms of millions of electron volts.
 
-**[[Quantum]].** Amount of energy dependent upon the frequency of the radiation associated with electromagnetic waves by the relation Q=_hv_, where _h_ is Planck’s constant and _v_ is the frequency.
+**[[Quantum]].** Amount of energy dependent upon the frequency of the radiation associated with electromagnetic waves by the relation Q=*hv*, where *h* is Planck’s constant and *v* is the frequency.
 
 **[[Radical]].** A group of atoms which retains its form throughout a chemical reaction.
 
@@ -450,7 +450,7 @@ A useful guide to scientific words for the Science Fiction enthusiast. It first 
 
 **[[Spin energy]].** Energy possessed by a sub-atomic particle by virtue of its revolution about its own axis.
 
-**[[Squared circle]].** An impossible mathematical conception, wherein a square is exactly equal in area to a given circle. Since circle area is computed in terms of the inexact constant _pi_, it is impossible to construct such a circle.
+**[[Squared circle]].** An impossible mathematical conception, wherein a square is exactly equal in area to a given circle. Since circle area is computed in terms of the inexact constant *pi*, it is impossible to construct such a circle.
 
 **States.** Matter may exist in either the solid, liquid or gaseous states.
 
@@ -466,7 +466,7 @@ A useful guide to scientific words for the Science Fiction enthusiast. It first 
 
 **[[Stratosphere]].** The layer of Earth’s atmosphere roughly seven miles up.
 
-**[[Streptomycin]].** A therapeutically active metabolic product of the fungus _Actinomyces._
+**[[Streptomycin]].** A therapeutically active metabolic product of the fungus *Actinomyces.*
 
 **[[Stroboscope]].** Instrument for the periodic illumination of stationary, rotating or vibrating bodies at the same frequency as the body is moving, thus making the bodies appear non-moving.
 
@@ -478,7 +478,7 @@ A useful guide to scientific words for the Science Fiction enthusiast. It first 
 
 **[[Superheterodyne]].** A radio circuit that utilises intermediate frequency amplification.
 
-**[[Supersonic]].** Applied to anything that moves faster than sound (1,100 ft.p.s. in air)–_not_ to sounds that have higher than audible frequency (ultrasonics).
+**[[Supersonic]].** Applied to anything that moves faster than sound (1,100 ft.p.s. in air)–*not* to sounds that have higher than audible frequency (ultrasonics).
 
 **[[Synchrotron]].** Electron accelerator that combines the characteristics of the betatron and cyclotron. It is able to raise the velocity of electrons to an extent whereby their mass increases in accordance with the predictions of the relativity theory.
 
@@ -486,7 +486,7 @@ A useful guide to scientific words for the Science Fiction enthusiast. It first 
 
 **[[Telemeter]].** Any device for measuring a phenomenon at a distance.
 
-**[[Temperature]].** A measure of the degree of kinetic energy of the molecules of a substance. Temperature rises as kinetic energy increases. Molecular kinetic energy constitutes _heat._
+**[[Temperature]].** A measure of the degree of kinetic energy of the molecules of a substance. Temperature rises as kinetic energy increases. Molecular kinetic energy constitutes *heat.*
 
 **[[Temporary magnetism]].** Magnetism that lasts only so long as the magnetized body remains in a magnetic field.
 
@@ -556,7 +556,7 @@ A useful guide to scientific words for the Science Fiction enthusiast. It first 
 
 **[[Wave number]].** Reciprocal of wavelength, being the number of waves in unit distance.
 
-**[[Work]].** Phenomenon whereby a force acts on a body in such a way that motion results. If a force F acts on a body and its point of application moves a distance s in a direction making an angle _theta_ with the direction of F, then the force is said to do an amount of work F_cos theta_ on the body.
+**[[Work]].** Phenomenon whereby a force acts on a body in such a way that motion results. If a force F acts on a body and its point of application moves a distance s in a direction making an angle *theta* with the direction of F, then the force is said to do an amount of work F_cos theta_ on the body.
 
 **[[X-rays]].** Electromagnetic waves of length from 5X10-7 to 6X10-10 cm, produced when matter is bombarded by cathode rays.
 

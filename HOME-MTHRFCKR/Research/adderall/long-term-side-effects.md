@@ -24,7 +24,7 @@ AAC is in-network with many insurance providers. Addiction treatment can be free
 
 As prescriptions for Adderall rise, so may its potential for diversion and nonmedical use, which increases its health risks too. Adderall is abused as a [“smart drug” across college campuses][6]. It may be abused by students to combat pressures of higher education, as students perceive it will help them get better grades because they can stay up and study for longer.
 
-A study at the University of Kentucky found that 30 percent of its students had abused an ADHD stimulant drug like Adderall at some point as a possible “study enhancer,” _CNN_ reports.
+A study at the University of Kentucky found that 30 percent of its students had abused an ADHD stimulant drug like Adderall at some point as a possible “study enhancer,” *CNN* reports.
 
 Adderall also suppresses the appetite and may also be abused as a weight loss drug. Other times it may be used in conjunction with other drugs or alcohol recreationally, or to get “high.” Mixing Adderall with other substances can be very dangerous and may more easily result in a life-threatening overdose or negative interaction between the substances.
 
@@ -38,8 +38,7 @@ If you believe you or someone you love may be struggling with addiction, let us 
 
 There are a variety of confidential, free, and no obligation ways to get in contact with us to learn more about treatment.
 
-* Call us at  or [get a text][7] for information on various treatment options. There, you can talk to one of our admissions advisors where we can answer any questions you might have about treatment or insurance coverage for you or a loved one.
-
+* Call us at or [get a text][7] for information on various treatment options. There, you can talk to one of our admissions advisors where we can answer any questions you might have about treatment or insurance coverage for you or a loved one.
 * Fill in our online insurance verification form below to find out if your insurance provider may be able to cover the cost of treatment. Our admissions advisors may contact you thereafter to discuss your options.
 
 Check to see if your insurance is in-network at an American Addiction Centers location
@@ -60,11 +59,11 @@ View All Facilities
 
 As Adderall leaves the bloodstream, withdrawal symptoms and drug cravings may occur, indicating a physical and emotional dependence on the drug. The way in which Adderall is abused, along with the amount and duration of abuse can affect the dependence level to the drug. Crushing the pills and then injecting or snorting them, for example, sends the drug into the brain more rapidly than ingesting them whole and having them enter the bloodstream via the digestive tract. As a result, injecting or snorting the crushed pills increases the chances for a life-threatening overdose and the potential for addiction. Addiction is a disease that affects each person individually, and environmental and biological factors may also play a role in its onset.
 
-Someone who is dependent on Adderall may have trouble sleeping and concentrating, notice a lack of motivation, and feel depressed, irritable, lethargic, or fatigued when it is removed from the body. [Abusing amphetamines][9] like Adderall may raise the risk of aggression and suicidal thoughts, according to _[ABC News][10]_. For someone who has been abusing Adderall for an extended period of time, the emotional aspect of withdrawal may be the most noticeable side effect. Natural production of dopamine is reduced, causing low moods and trouble feeling pleasure without the drug.
+Someone who is dependent on Adderall may have trouble sleeping and concentrating, notice a lack of motivation, and feel depressed, irritable, lethargic, or fatigued when it is removed from the body. [Abusing amphetamines][9] like Adderall may raise the risk of aggression and suicidal thoughts, according to *[ABC News][10]*. For someone who has been abusing Adderall for an extended period of time, the emotional aspect of withdrawal may be the most noticeable side effect. Natural production of dopamine is reduced, causing low moods and trouble feeling pleasure without the drug.
 
 > The more and longer Adderall is abused, the more pronounced the mood swings may be when it is no longer available in the body. Most of these changes in the brain will likely be repaired over time with sustained abstinence and proper care and support, fortunately.
 
-In some cases, Adderall and other prescription stimulants have been reported to cause psychosis and schizophrenia-like symptoms, such as paranoid delusions, hallucinations, and other behavioral or mood disturbances, according to the journal _[Molecular Psychiatry_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2670101/). Anxiety and panic attacks may also be triggered by long-term use of an amphetamine stimulant or during Adderall withdrawal. The_[U.S. Food and Drug Administration][11]_, or FDA, even prints warnings on Adderall labels about potential negative psychiatric side effects. Symptoms may be heightened in someone with a history of mental illness or an underlying mental health disorder, such as bipolar disorder or schizophrenia.
+In some cases, Adderall and other prescription stimulants have been reported to cause psychosis and schizophrenia-like symptoms, such as paranoid delusions, hallucinations, and other behavioral or mood disturbances, according to the journal *[Molecular Psychiatry_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2670101/). Anxiety and panic attacks may also be triggered by long-term use of an amphetamine stimulant or during Adderall withdrawal. The*[U.S. Food and Drug Administration][11]_, or FDA, even prints warnings on Adderall labels about potential negative psychiatric side effects. Symptoms may be heightened in someone with a history of mental illness or an underlying mental health disorder, such as bipolar disorder or schizophrenia.
 
 ## Physical Side Effects of Adderall
 
@@ -77,29 +76,17 @@ Adderall can cause damage to the heart and cardiovascular system when used for a
 Other side effects of abusing Adderall long-term include:
 
 * Heart disease
-
 * Dizziness
-
 * Abdominal pain
-
 * Weight loss
-
 * Insomnia
-
 * Dry mouth
-
 * Heart palpitations
-
 * Headaches
-
 * Tremors
-
 * Trouble breathing
-
 * Constipation
-
 * Hyperactivity
-
 * Feeling jittery or “on edge”
 
 > Using Adderall heavily for a long period of time increases all the risk factors and potential long-term side effects, which may get progressively worse.

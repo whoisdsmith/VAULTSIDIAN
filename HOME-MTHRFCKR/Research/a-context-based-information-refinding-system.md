@@ -2,7 +2,7 @@
 
 ## A Review
 
-Abstract- In recent technological development people are  
+AbstractIn recent technological development people are  
 experiencing unprecedentedly data explosion, reading, writing,  
 and collecting different kinds of information from local  
 computer and the global Web. As such most of the times  
@@ -17,8 +17,8 @@ This survey paper gives the different techniques for context
 based information refinding systems with intent to give the  
 direction of the my project work with improved context based  
 information refinding system.  
-_Keywords: information refinding, context cue, refinding  
-queries._
+*Keywords: information refinding, context cue, refinding  
+queries.*
 
 ### I. Introduction
 
@@ -50,8 +50,8 @@ information retrieval is a challenging task. Refinding is a
 common task is difficult when previously viewed  
 information is modified, moved or removed. How
 
-_Author α σ ρ: CMR Institute of Technology Hyderabad  
-e-mail: riyazsidd@yahoo.co.in._
+*Author α σ ρ: CMR Institute of Technology Hyderabad  
+e-mail: riyazsidd@yahoo.co.in.*
 
 ```
 information refinding is different from information
@@ -123,6 +123,7 @@ G
 #### II. Relatedwork
 
 #####
+
 
 ```
 key word and their related information after a couple of
@@ -627,10 +628,10 @@ shown in above table.
     Support for Finding and Re-Finding,” Proc. 20th  
     Ann. ACM Symp. User Interface Software and  
     Technology (UIST), 2007.  
-    12. S.K. Tyler and J. Teevan, “Large Scale Query Log  
+    1. S.K. Tyler and J. Teevan, “Large Scale Query Log  
         Analysis of Re-Finding,” Proc. Third ACM Int’l Conf.  
         Web Search and Data Mining(WSDM), 2010.  
-    13. Google Web History, [http://www.google.com/](http://www.google.com/)  
+    2. Google Web History, [http://www.google.com/](http://www.google.com/)  
         history,
 
 ```

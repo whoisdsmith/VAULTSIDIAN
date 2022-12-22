@@ -1,4 +1,4 @@
-# astronomy-vocabulary-word-list
+# Astronomy-vocabulary-word-list
 
 A
 

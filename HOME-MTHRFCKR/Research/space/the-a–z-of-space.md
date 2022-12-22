@@ -2,7 +2,7 @@
 
 ![](https://whatsupgermany.de//wp-content/uploads/2019/04/The-a-z-of-space.gif)
 
-Space is a vast expanse. We’re still unearthing this great unknown and its mysteries. _What’s Up, Germany?_ brings you a glossary of interesting space words. You may be familiar with some. If not, there’s even more to learn!
+Space is a vast expanse. We’re still unearthing this great unknown and its mysteries. *What’s Up, Germany?* brings you a glossary of interesting space words. You may be familiar with some. If not, there’s even more to learn!
 
 ![](https://whatsupgermany.de//wp-content/uploads/2019/04/Ben-Gravity.png)
 

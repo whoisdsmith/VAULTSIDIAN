@@ -30,13 +30,13 @@ A 34-year-old man presented for evaluation of a “dark cloud” in his left eye
 
 [Fig. 1](/pmc/articles/PMC8924628/figure/fig1/?report=objectonly)
 
-Imaging of the right eye. Color fundus photography (**A**) showed a subtle small cluster of yellow deposits at the level of the retinal pigment epithelium in the superotemporal macula (white arrow). Fluorescein angiography (**B**) was unremarkable. Optical coherence ...
+Imaging of the right eye. Color fundus photography (**A**) showed a subtle small cluster of yellow deposits at the level of the retinal pigment epithelium in the superotemporal macula (white arrow). Fluorescein angiography (**B**) was unremarkable. Optical coherence …
 
 ![Fig. 2](/pmc/articles/PMC8924628/bin/gr2.gif)
 
 [Fig. 2](/pmc/articles/PMC8924628/figure/fig2/?report=objectonly)
 
-Imaging of the left eye. Color fundus photography (**A**) showed a serous detachment in the macula. There was a small, flat choroidal nevus in the superior macula. The horizontal white line represents the location of the optical coherence tomography (OCT) ...
+Imaging of the left eye. Color fundus photography (**A**) showed a serous detachment in the macula. There was a small, flat choroidal nevus in the superior macula. The horizontal white line represents the location of the optical coherence tomography (OCT) …
 
 At the four months follow up visit, he was advised to stop the Adderall, which he did promptly. He returned two months later (six months from his initial visit) and reported that his vision had started to improve within a few days of stopping the Adderall. Acuity was improved to 20/20 in the left eye and the subretinal fluid had resolved ([Fig. 2](/pmc/articles/PMC8924628/figure/fig2/?report=objectonly)E) and remained resolved at a subsequent visit one month later.
 
@@ -134,4 +134,4 @@ Articles from American Journal of Ophthalmology Case Reports are provided here c
 
 ___
 
-# article
+# Article

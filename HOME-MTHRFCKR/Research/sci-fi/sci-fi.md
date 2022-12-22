@@ -3,6 +3,7 @@
 ---
 
 %% Begin Waypoint %%
+
 - **[sci-fi](./sci-fi.md)**
 	- [660-science-fiction-writing-prompts-that-will-get-you-writing-at-warp-speed](./660-science-fiction-writing-prompts-that-will-get-you-writing-at-warp-speed.md)
 	- [a-–-z-of-science-fiction-words](./a-%E2%80%93-z-of-science-fiction-words.md)
@@ -21,4 +22,3 @@
 	- [vocab](./vocab.md)
 
 %% End Waypoint %%
-

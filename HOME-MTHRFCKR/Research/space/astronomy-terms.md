@@ -1,4 +1,4 @@
-# astronomy-terms
+# Astronomy-terms
 
 Knowing some of the most oft-used astronomy terms will help you better understand the nuts and bolts of stargazing and the science of astronomy.
 
@@ -8,7 +8,7 @@ Whether you're choosing a telescope, deep in the pages of [_Sky & Telescope_](ht
 
 [![Galaxy Alphabet - Astronomy Terms](https://skyandtelescope.org/wp-content/uploads/et950y_big.png)](http://skyandtelescope.org/wp-content/uploads/et950y_big.png)
 
-_Galaxy Zoo_
+*Galaxy Zoo*
 
 ___
 
@@ -16,7 +16,7 @@ ___
 The apparent size of an object in the sky, or the distance between two objects, measured as an angle. Your index finger held at arm’s length spans about 1°, your fist about 10°.
 
 **Aperture**  
-The diameter of a telescope’s main lens or mirror — and the scope’s most important attribute. As a rule of thumb, a telescope’s maximum useful magnification is 50 times its aperture in inches (or twice its aperture in millimeters).
+The diameter of a telescope’s main lens or mirror—and the scope’s most important attribute. As a rule of thumb, a telescope’s maximum useful magnification is 50 times its aperture in inches (or twice its aperture in millimeters).
 
 **Asterism**  
 Any prominent star pattern that isn’t a whole constellation, such as the Northern Cross or the Big Dipper.
@@ -39,7 +39,7 @@ A few "beads" of sunlight, shining between mountain peaks and through the valley
 A lens that’s placed into the focusing tube to effectively double or triple a telescope’s focal length and, in turn, the magnification of any eyepiece used with it.
 
 **Black Hole**  
-A concentration of mass so dense that nothing — not even light — can escape its gravitational pull once swallowed up. Many galaxies (including ours) have supermassive black holes at their centers. Want to know more? [Check out our FREE ebook on black holes](http://skyandtelescope.org/black-holes-free-ebook/).
+A concentration of mass so dense that nothing—not even light—can escape its gravitational pull once swallowed up. Many galaxies (including ours) have supermassive black holes at their centers. Want to know more? [Check out our FREE ebook on black holes](http://skyandtelescope.org/black-holes-free-ebook/).
 
 **Blue Moon**  
 Traditionally, something that happens rarely or never. More recently, this has come to mean the second full Moon in a single calendar month.
@@ -75,7 +75,7 @@ The moment when a celestial object crosses the meridian and is thus at its highe
 ___
 
 **Dark Adaptation**  
-The eyes’ transition to night vision, in order to see faint objects. Dark adaptation is rapid during the first 5 or 10 minutes after you leave a well-lit room, but full adaptation requires at least a half hour — and it can be ruined by a momentary glance at a bright light.
+The eyes’ transition to night vision, in order to see faint objects. Dark adaptation is rapid during the first 5 or 10 minutes after you leave a well-lit room, but full adaptation requires at least a half hour—and it can be ruined by a momentary glance at a bright light.
 
 **Declination (Dec.)**  
 The celestial equivalent of latitude, denoting how far (in degrees) an object in the sky lies north or south of the celestial equator.
@@ -129,7 +129,7 @@ A lens or mirror’s focal length divided by its aperture. For instance, a teles
 ___
 
 **Galaxy**  
-A vast collection of stars, gas, and dust, typically 10,000 to 100,000 light-years in diameter and containing billions of stars (from galaxias kuklos, Greek for “circle of milk,” originally used to describe our own Milky Way). Galaxies may be _spiral_ (with one or more spiral-shape arms), _elliptical_ (shaped more like fuzzy footballs with no distinguishing features), or _irregular_ (chaotic appearance).
+A vast collection of stars, gas, and dust, typically 10,000 to 100,000 light-years in diameter and containing billions of stars (from galaxias kuklos, Greek for “circle of milk,” originally used to describe our own Milky Way). Galaxies may be *spiral* (with one or more spiral-shape arms), *elliptical* (shaped more like fuzzy footballs with no distinguishing features), or *irregular* (chaotic appearance).
 
 **Gibbous**  
 When the Moon or other body appears more than half, but not fully, illuminated (from gibbus, Latin for “hump”).
@@ -206,7 +206,7 @@ A telescope’s main light-gathering lens or mirror.
 When the Moon or a planet passes directly in front of a more distant planet or star. A grazing occultation occurs if the background body is never completely hidden from the observer.
 
 **Opposition**  
-When a planet or asteroid is opposite the Sun in the sky. At such times the object is visible all night — rising at sunset and setting at sunrise.
+When a planet or asteroid is opposite the Sun in the sky. At such times the object is visible all night—rising at sunset and setting at sunrise.
 
 ___
 
@@ -283,7 +283,7 @@ The line on the Moon or a planet that divides the bright, sunlit part from the p
 When Mercury or Venus crosses the disk of the Sun, making the planet visible as a black dot in silhouette, or when a moon passes across the face of its parent planet. Transit also refers to the instant when a celestial object crosses the meridian and thus is highest in the sky.
 
 **Transparency**  
-A measure of the atmosphere’s clarity — how dark the sky is at night and how blue it is during the day. When transparency is high, you see the most stars. Yet crystal-clear nights with superb transparency often have poor seeing.
+A measure of the atmosphere’s clarity—how dark the sky is at night and how blue it is during the day. When transparency is high, you see the most stars. Yet crystal-clear nights with superb transparency often have poor seeing.
 
 **Twilight**  
 The time after sunset or before sunrise when the sky is not fully dark. Astronomical twilight ends after sunset (and begins before sunrise) when the Sun is 18° below the horizon.

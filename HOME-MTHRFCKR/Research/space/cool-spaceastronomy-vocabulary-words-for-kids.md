@@ -1,4 +1,4 @@
-# cool-spaceastronomy-vocabulary-words-for-kids
+# Cool-spaceastronomy-vocabulary-words-for-kids
 
 Learning about [space](https://www.yourdictionary.com/space) can be exciting and confusing. Start your discovery of astronomy with a cool and simple glossary of space terms kids and adults can understand.
 

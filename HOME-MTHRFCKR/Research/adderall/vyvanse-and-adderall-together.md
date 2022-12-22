@@ -4,11 +4,11 @@ Vyvanse and Adderall are essentially the same drug once you look under the hood.
 
 Is it a good idea then to take Vyvanse and Adderall together at the same time?
 
-A lot of people – especially young people who use Adderall on a daily basis – wonder whether stacking Adderall and Vyvanse might make both drugs even more powerful.
+A lot of people–especially young people who use Adderall on a daily basis–wonder whether stacking Adderall and Vyvanse might make both drugs even more powerful.
 
 You should be very careful when taking Vyvanse and Adderall, as they can interact with other medicines. You should let your doctor know if you are on any anti-depressants or any other kind of medicine that could interact with Vyvanse. Also, you should tell your doctor about any other medicines you are taking, such as psychiatric medicines or even over-the-counter products. Your list of medicines should be complete and updated. If you decide to take Vyvanse and Adderall together, make sure to take your Adderall as directed. Your doctor may need to adjust your dose.
 
-_In this article, we’ll look at the dangers and benefits of taking Vyvanse and Adderall together. In the end, we’ll tell you whether or not we think this is something anyone should ever do._
+*In this article, we’ll look at the dangers and benefits of taking Vyvanse and Adderall together. In the end, we’ll tell you whether or not we think this is something anyone should ever do.*
 
 **Contents** hide
 
@@ -104,4 +104,4 @@ Paul Tardner is the Lead Author at IJEST.org. Paul is a former academic and rese
 
 ___
 
-# article
+# Article

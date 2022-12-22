@@ -1,7 +1,7 @@
 # JCCC Honors Journal
 
 Volume 3  
-Issue 1 _Fall 2011_ Article 2
+Issue 1 *Fall 2011* Article 2
 
 2012
 
@@ -14,7 +14,7 @@ Follow this and additional works at:http://scholarspace.jccc.edu/honors\_journal
 This Article iHonors Journal by an authors brought to you for fized adminiree and opestrator of Sn access by the HcholarSpace @ JConors Program at ScholarSpace @ JCCC. For more information, please contactCC. It has bebbaile14@jen accepted for inclusion in JCccc.edu. CC
 
 Recommended Citation  
-Sherzada, Awista (2012) "Available at:http://scholarspace.jccc.edu/honorAn Analysis of ADHD Drs\_journal/vol3/iss1/2ugs: Ritalin and Adderall," _JCCC Honors Journal_ : Vol. 3: Iss. 1, Article 2.
+Sherzada, Awista (2012) "Available at:http://scholarspace.jccc.edu/honorAn Analysis of ADHD Drs\_journal/vol3/iss1/2ugs: Ritalin and Adderall," *JCCC Honors Journal* : Vol. 3: Iss. 1, Article 2.
 
 ## An Analysis of ADHD Drugs: Ritalin and Adderall
 

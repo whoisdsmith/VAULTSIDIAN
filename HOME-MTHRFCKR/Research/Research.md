@@ -3,6 +3,7 @@
 ---
 
 %% Begin Waypoint %%
+
 - **[research](./research.md)**
 	- [a-context-based-information-refinding-system](./a-context-based-information-refinding-system.md)
 	- [academic](./academic.md)

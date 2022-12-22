@@ -16,7 +16,8 @@ As the agency unrelentingly forged a path toward astronomical discovery, [NASA a
 
 ##
 
-# 1. Aberration of light
+
+# 1. Aberration of Light
 
 Similar to how raindrops hit a moving car window as if from an angle, an aberration of light is the phenomenon where stars or other celestial bodies appear from Earth to be slightly off from their true position. This happens because of motion—specifically, the interaction of the Earth’s movement with the speed of light causes this confusing phenomenon.
 
@@ -30,6 +31,7 @@ Skatebiker // Wikimedia Commons
 
 ##
 
+
 # 2. Alpha Centauri
 
 Alpha Centauri is the name of the closest star system to earth. It comprises two main stars, Alpha Centauri A and Alpha Centauri B, as well as the closest of the three stars, Proxima Centauri. In 2016, astronomers found an Earth-sized planet orbiting Proxima Centauri, later named Proxima b. While this planet shows signs that life could exist, astronomers are still unsure how habitable it is.
@@ -42,6 +44,7 @@ Alpha Centauri is the name of the closest star system to earth. It comprises two
 
 ##
 
+
 # 3. Andromeda Galaxy
 
 Also known as M31, this galaxy is the closest to the Milky Way, where the Earth exists. Andromeda Galaxy has a similar structure to the Milky Way; it is spiral in shape and has a large density of stars, dust, and gas. Because of its proximity, it is the only galaxy that can be seen from Earth with the unaided eye, particularly on fall and winter nights.
@@ -51,6 +54,7 @@ Also known as M31, this galaxy is the closest to the Milky Way, where the Earth 
 4 / 50
 
 ##
+
 
 # 4. Asteroid
 
@@ -64,6 +68,7 @@ NASA Space Place // Wikimedia Commons
 
 ##
 
+
 # 5. Barycenter
 
 A barycenter is the common center mass around which a solar system orbits. While it has become common knowledge that planets orbit stars, it is, in fact, the barycenter that both stars and planets orbit around. Our solar system’s barycenter is constantly changing position based on where each of the planets is in its orbit, ranging from being near the center of the sun to being just outside its surface.
@@ -73,6 +78,7 @@ A barycenter is the common center mass around which a solar system orbits. While
 6 / 50
 
 ##
+
 
 # 6. Big Bang
 
@@ -86,7 +92,8 @@ The Big Bang Theory is a model describing the origin of the universe. It explain
 
 ##
 
-# 7. Binary star
+
+# 7. Binary Star
 
 Binary stars are systems that only contain two stars that orbit together. Together, they orbit a common center of mass. There are two types of binary stars: wide binaries and close binaries. Wide binaries orbit with a significant distance apart from each other, causing them to have little effect on each other. Close binaries orbit closely and actually can acquire material from one another.
 
@@ -100,7 +107,8 @@ NASA // Wikimedia Commons
 
 ##
 
-# 8. Black hole
+
+# 8. Black Hole
 
 Made famous by Einstein’s theory of general relativity, a black hole is the small dense core remnant of a dead star. Since the density of this core is more than about three times more than the density of the sun, the strong force of gravity produces a black hole.
 
@@ -112,7 +120,8 @@ Made famous by Einstein’s theory of general relativity, a black hole is the sm
 
 ##
 
-# 9. Brown dwarf
+
+# 9. Brown Dwarf
 
 A brown dwarf is born from a collapse of gas and dust, similar to stars. This collapse creates a large amount of energy that gets trapped in a ball of material. The energy emits light from within for tens of millions of years, becoming dimmer as time passes.
 
@@ -124,7 +133,8 @@ A brown dwarf is born from a collapse of gas and dust, similar to stars. This co
 
 ##
 
-# 10. Celestial sphere
+
+# 10. Celestial Sphere
 
 A celestial sphere is a tool used in spherical astronomy. It is a sphere with a large radius that is concentric with Earth. The sky surrounding the Earth is projected on the sphere, which is helpful for astronomers when they are attempting to plot positions in situations where distances aren’t important.
 
@@ -133,6 +143,7 @@ A celestial sphere is a tool used in spherical astronomy. It is a sphere with a 
 11 / 50
 
 ##
+
 
 # 11. Comet
 
@@ -148,6 +159,7 @@ Gh5046 // Wikimedia Commons
 
 ##
 
+
 # 12. Constellation
 
 One of the first things we learn about space is its many constellations. From Orion and his belt to the mythical Seven Sisters and the big and little dipper, constellations map out a group of stars that form shapes in the sky. Constellations were first used by explorers to map direction as well as a tool for storytelling.
@@ -160,7 +172,8 @@ One of the first things we learn about space is its many constellations. From Or
 
 ##
 
-# 13. Dark energy
+
+# 13. Dark Energy
 
 Like the cosmic mystery its name evokes, dark energy is hard to define. The easiest way to think of it is a property of space that accounts for an expanding universe. The universe’s “empty space” may still have its own, dark energy. However, scientists are still trying to pin down the properties of this dark energy that makes up most of the universe.
 
@@ -174,7 +187,8 @@ Smithsonian Institution // Wikimedia Commons
 
 ##
 
-# 14. Dark matter
+
+# 14. Dark Matter
 
 Somewhat similar to dark energy, dark matter also covers a large chunk of the universe and remains quite mysterious to scientists. The main difference is that dark matter explains more of how groups of objects in the universe function together. Though scientists have a greater understanding of what dark matter isn’t than what it is, a leading theory posits dark matter is made from exotic particles like axions or Weakly Interacting Massive Particles (WIMPS).
 
@@ -188,7 +202,8 @@ NASA/JPL-Caltech // Wikimedia Commons
 
 ##
 
-# 15. Doppler shift
+
+# 15. Doppler Shift
 
 Also known to most as the Doppler effect, the Doppler shift explains the phenomenon of the change in frequency of a wave in relation to an observer. This can be observed when an ambulance drives past you and the volume of the siren doesn’t quite match with the proximity of the ambulance to you.
 
@@ -199,6 +214,7 @@ Also known to most as the Doppler effect, the Doppler shift explains the phenome
 16 / 50
 
 ##
+
 
 # 16. Eclipse
 
@@ -211,6 +227,7 @@ An eclipse refers to one body in space moving into the shadow of another body. E
 17 / 50
 
 ##
+
 
 # 17. Equinox
 
@@ -226,7 +243,8 @@ Alexander Mokletsov // Wikimedia Commons
 
 ##
 
-# 18. Escape velocity
+
+# 18. Escape Velocity
 
 Escape velocity is the speed that an object needs in order to escape a planet or moon’s gravitational pull. For example, the escape velocity for a spaceship to leave the surface of Earth is about 25,000 miles per hour.
 
@@ -237,6 +255,7 @@ Escape velocity is the speed that an object needs in order to escape a planet or
 19 / 50
 
 ##
+
 
 # 19. Exoplanet
 
@@ -252,7 +271,8 @@ Department of Energy. Office of Public Affairs // Wikimedia Commons
 
 ##
 
-# 20. Fermi paradox
+
+# 20. Fermi Paradox
 
 Named after Italian-American physicist Enrico Fermi, the Fermi paradox is a theory using statistical analysis to postulate why we have yet to see signs of life on other planets within our galaxy. The paradox assesses the likeliness that there are similar planets to Earth within the Milky Way, and likely have the ability to support life, yet no signs of life have been found which means it’s a paradox.
 
@@ -263,6 +283,7 @@ Named after Italian-American physicist Enrico Fermi, the Fermi paradox is a theo
 21 / 50
 
 ##
+
 
 # 21. Galaxy
 
@@ -278,7 +299,8 @@ NASA/GSFC // Wikimedia Commons
 
 ##
 
-# 22. Gamma-ray burst
+
+# 22. Gamma-ray Burst
 
 A gamma-ray burst is the most violent type of explosion in the universe. The explosion itself emits more energy in 10 seconds than the sun will emit in its lifetime. When it happens, it’s the brightest source of light in the observable universe. Satellite evidence suggests gamma-ray bursts are the result of matter collapsing into black holes.
 
@@ -291,6 +313,7 @@ A gamma-ray burst is the most violent type of explosion in the universe. The exp
 Jim Campbell/Aero-News Network // Wikipedia
 
 ##
+
 
 # 23. Gravity
 
@@ -306,6 +329,7 @@ Bruno Gilli/ESO // Wikimedia Commons
 
 ##
 
+
 # 24. Hypergalaxy
 
 A hypergalaxy consists of one large dominant galaxy surrounded by various smaller tertiary galaxies. The Milky Way and our neighboring Andromeda galaxies are both hypergalaxies.
@@ -320,6 +344,7 @@ Bob King // Wikimedia Commons
 
 ##
 
+
 # 25. Light-year
 
 A light-year is as simple a concept as its name suggests. It is an astronomical distance that measures the distance that light travels in a year. One light-year roughly equates to 6 trillion miles.
@@ -330,7 +355,8 @@ A light-year is as simple a concept as its name suggests. It is an astronomical 
 
 ##
 
-# 26. Magellanic clouds
+
+# 26. Magellanic Clouds
 
 Understanding Magellanic clouds has become a propelling source of understanding distant galaxies. They consist of two irregular galaxies that orbit the Milky Way. Orbiting about 200,000 light-years away, the Magellanic clouds are formed by the Large Magellanic Cloud and the Small Magellanic Cloud.
 
@@ -341,6 +367,7 @@ Understanding Magellanic clouds has become a propelling source of understanding 
 27 / 50
 
 ##
+
 
 # 27. Magnitude
 
@@ -356,6 +383,7 @@ Navicore // Wikimedia Commons
 
 ##
 
+
 # 28. Meteor
 
 A meteor is a rocky object or asteroid that vaporizes when entering the Earth’s atmosphere. They’re often called “shooting stars” and provide a beautiful glowing tail as they enter the atmosphere. Next time you see one, be sure to make a wish upon a meteor!
@@ -367,6 +395,7 @@ A meteor is a rocky object or asteroid that vaporizes when entering the Earth’
 29 / 50
 
 ##
+
 
 # 29. Milky Way
 
@@ -380,6 +409,7 @@ The Earth’s galactic home, the Milky Way is a spiral galaxy that is constantly
 
 ##
 
+
 # 30. Moon
 
 The moon is a heavenly body that orbits the Earth and happens to be the easiest object to spot in the night sky. As the moon orbits our planet, we see it go through “phases,” where at different times different proportions of the moon’s surface are visible. These phases have guided time since the beginning of humanity. The calendar month roughly replicates the moon’s orbit of the Earth.
@@ -391,6 +421,7 @@ The moon is a heavenly body that orbits the Earth and happens to be the easiest 
 31 / 50
 
 ##
+
 
 # 31. Nebula
 
@@ -406,7 +437,8 @@ Internet Archive Book Images // Wikimedia Commons
 
 ##
 
-# 32. Nebular hypothesis
+
+# 32. Nebular Hypothesis
 
 The Nebular hypothesis is the most widely accepted theory of how our solar system was born. The theory itself was born during the Scientific Revolution from the 16th to18th centuries. The theory’s essence states that our solar system was birthed from a nebula billions of years ago. The theory has also been applied to how all stars came to be.
 
@@ -420,7 +452,8 @@ Casey Reed - Penn State University // Wikimedia Commons
 
 ##
 
-# 33. Neutron star
+
+# 33. Neutron Star
 
 Neutron stars are small, but very dense objects that are birthed by the explosive death of a giant star. Neutron stars can exist in two states. The first is a pulsar, which emits a narrow radiation beam. The second is a magnetar, which has a powerful magnetic field that has the force to distort atoms.
 
@@ -431,6 +464,7 @@ Neutron stars are small, but very dense objects that are birthed by the explosiv
 34 / 50
 
 ##
+
 
 # 34. Oort Cloud
 
@@ -446,6 +480,7 @@ NASA // Wikimedia Commons
 
 ##
 
+
 # 35. Orbit
 
 In short, an orbit is the gravitationally curved trajectory of an object in space. In other words, an orbit is the circular motion in which objects in space travel due to gravity’s pull. For example, the moon orbits around the Earth and the Earth orbits around the sun in a circular motion. An object that orbits another is called its satellite.
@@ -457,6 +492,7 @@ In short, an orbit is the gravitationally curved trajectory of an object in spac
 36 / 50
 
 ##
+
 
 # 36. Parallax
 
@@ -470,6 +506,7 @@ Measuring using parallax involves estimating the distance of nearby celestial ob
 
 ##
 
+
 # 37. Quasar
 
 Quasars are large distant objects in space that are powered by large, powerful black holes. They tend to shine so brightly that their light eclipses the old galaxies that they exist within. They are capable of emitting thousands of times more energy than the Milky Way emits.
@@ -482,7 +519,8 @@ Quasars are large distant objects in space that are powered by large, powerful b
 
 ##
 
-# 38. Red giant
+
+# 38. Red Giant
 
 A red giant is a star that is reaching its final days and approaching death. If a star has turned into a red giant, the star is in the last states of its stellar evolution and expands. Our own sun will eventually expand and turn into a red giant—but not for a few billion years.
 
@@ -494,7 +532,8 @@ A red giant is a star that is reaching its final days and approaching death. If 
 
 ##
 
-# 39. Red shift
+
+# 39. Red Shift
 
 Red shift and blue shift explain how light changes wavelength as objects in space move closer or farther from each other. As an object moves away from us, the light is shifted towards the red end of the color spectrum. In turn, as it moves closer, the light shifts towards the blue end of the spectrum. Along with blue shift, red shift is hugely valuable in understanding the universe’s expansion.
 
@@ -506,7 +545,8 @@ Red shift and blue shift explain how light changes wavelength as objects in spac
 
 ##
 
-# 40. Solar system
+
+# 40. Solar System
 
 A solar system is a gravitationally bound system of a sun and the objects that orbit it. That includes the bodies that orbit the objects orbiting the sun. For example, our solar system contains the sun, the planets that orbit it, as well as moons and other objects that orbit them.
 
@@ -518,7 +558,8 @@ A solar system is a gravitationally bound system of a sun and the objects that o
 
 ##
 
-# 41. Solar wind
+
+# 41. Solar Wind
 
 Solar wind is a wind streaming solar particles and plasma from the sun. As a solar wind carries charged particles from the sun towards the Earth could have catastrophic effects for Earth’s habitants. But don’t worry, Earth’s magnetic field provides a pretty sturdy shield against any of these negative effects.
 
@@ -532,6 +573,7 @@ Creative Commons // Wikimedia Commons
 
 ##
 
+
 # 42. Spaghettification
 
 Sometimes referred to as the “noodle effect,” Spaghettification is when the extreme tidal forces stretch out objects to be long and thin like a noodle. This effect can also be caused by the immense gravitational pull of a black hole.
@@ -543,6 +585,7 @@ Sometimes referred to as the “noodle effect,” Spaghettification is when the 
 43 / 50
 
 ##
+
 
 # 43. Star
 
@@ -556,7 +599,8 @@ Other than serving as beautiful guiding lights in our sky, stars are astronomica
 
 ##
 
-# 44. Star cluster
+
+# 44. Star Cluster
 
 In the same way that planets can be gravitationally bound to the sun, causing them to orbit it, stars can also cluster together due to gravity. Two types of star clusters can be determined: globular clusters and open clusters. Globular clusters are tight clusters of thousands of older stars, whereas open clusters are made up of a few hundred very young stars.
 
@@ -565,6 +609,7 @@ In the same way that planets can be gravitationally bound to the sun, causing th
 45 / 50
 
 ##
+
 
 # 45. Supernova
 
@@ -577,6 +622,7 @@ A supernova is the largest explosion that can be seen with the human eye. A supe
 46 / 50
 
 ##
+
 
 # 46. Telescope
 
@@ -592,7 +638,8 @@ Public Domain // Wikimedia Commons
 
 ##
 
-# 47. Theory of relativity
+
+# 47. Theory of Relativity
 
 The theory of relativity was developed by Albert Einstein in 1905 and includes both theories of special relativity and general relativity. The theory determines that the laws of physics are the same for all non-accelerating observers and was monumental in introducing a framework for space and time.
 
@@ -604,6 +651,7 @@ Lookang // Wikimedia Commons
 
 ##
 
+
 # 48. Tides
 
 Tides are the rise and fall of sea level that is caused by the gravitational pull of the moon and the sun. They are one of the most reliable phenomena in the world. The difference between high and low tide is called the tidal range.
@@ -614,7 +662,8 @@ Tides are the rise and fall of sea level that is caused by the gravitational pul
 
 ##
 
-# 49. White dwarf
+
+# 49. White Dwarf
 
 A white dwarf is a relatively small star that is about the size of a planet that is very dense. It is essentially a star that has exhausted all of its nuclear fuel from within. It expels most of its outer material, leaving a white-hot core that cools over the next billion years.
 
@@ -625,6 +674,7 @@ A white dwarf is a relatively small star that is about the size of a planet that
 50 / 50
 
 ##
+
 
 # 50. Universe
 

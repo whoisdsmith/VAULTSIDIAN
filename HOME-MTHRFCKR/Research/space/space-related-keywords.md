@@ -93,9 +93,7 @@ Vaporize, Variation, Variety, Vast, Vehicle, Velocity, Vent, Venus, Vibration, V
 Waning moon, Warming, Wavelength, Waxing moon, Weather, Weightlessness, Whirl
 
 * **X)**
-
 * **Y)**
-
 * **Z)**
 
 Zeal, Zenith, Zero, Zodiac, Zone

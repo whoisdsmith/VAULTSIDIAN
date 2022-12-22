@@ -1,4 +1,4 @@
-# basics-of-space-flight-solar-system-exploration-nasa-science
+# Basics-of-space-flight-solar-system-exploration-nasa-science
 
 **a, A --** Acceleration.   a = Δ velocity / Δ time. [Acceleration][1] = [Force][2] / [Mass][3]
 
@@ -514,7 +514,7 @@ directions.
 
 ----
 
-**JGR --** _Journal Of Geophysical Research._
+**JGR --** *Journal Of Geophysical Research.*
 
 **Jovian --** Jupiter-like planets, the gas giants Jupiter,  
 Saturn, Uranus, and Neptune.
@@ -629,7 +629,7 @@ north and south poles, also called meridians.
 **m --** Meter (U.S. spelling; elsewhere metre), the  
 international standard of linear measurement.
 
-**m --** milli- multiplier of one one-thousandth, e.g. 1 mW = 1/1000 of a Watt, mm = 1/1000 meter.
+**m --** millimultiplier of one one-thousandth, e.g. 1 mW = 1/1000 of a Watt, mm = 1/1000 meter.
 
 **m, M --** Mass. The [kilogram][321] is the standard unit of mass. [Mass][322] = [Acceleration][323] / [Force][324].
 
@@ -1034,7 +1034,7 @@ ring particles.
 
 **SI base unit --** One of [seven SI units of measure][471] from which all the other SI units are derived. See SI derived unit. See also [Units of Measure][472].
 
-**SI derived unit --** One of [many SI units of measure][473] expressed as relationships of the SI base units. For example, the watt, W, is the SI derived unit of power. It is equal to joules per second.   W = m2 ⋅ kg ⋅ s–3   (Note: the joule, J, is the SI _derived unit_ for energy, work, or quantity of heat.) See also [Units of Measure][474].
+**SI derived unit --** One of [many SI units of measure][473] expressed as relationships of the SI base units. For example, the watt, W, is the SI derived unit of power. It is equal to joules per second.   W = m2 ⋅ kg ⋅ s–3   (Note: the joule, J, is the SI *derived unit* for energy, work, or quantity of heat.) See also [Units of Measure][474].
 
 **Sidereal time --** Time relative to the stars other than  
 the sun.

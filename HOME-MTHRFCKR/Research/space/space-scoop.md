@@ -1,4 +1,4 @@
-# space-scoop
+# Space-scoop
 
 Space Words
 
@@ -212,7 +212,7 @@ Space Words
 
 [X-ray X-rays are a type of invisible light. X-rays can travel through soft tissue like skin and muscle, so they can be used to take pictures of broken bones.](http://www.spacescoop.org/en/words/x-ray/)
 
-## Still Curious? Learn more
+## Still Curious? Learn More
 
 [![](http://www.spacescoop.org/static/img/resources/resource-space-scoop.c459b3c1e6ff.svg)](http://www.spacescoop.org/en/about/)
 

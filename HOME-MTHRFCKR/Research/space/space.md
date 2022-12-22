@@ -3,6 +3,7 @@
 ---
 
 %% Begin Waypoint %%
+
 - **[space](./space.md)**
 	- [50-space-terms-for-understanding-the-universe](./50-space-terms-for-understanding-the-universe.md)
 	- [aos-blog](./aos-blog.md)
@@ -19,4 +20,3 @@
 	- [the-a–z-of-space](./the-a%E2%80%93z-of-space.md)
 
 %% End Waypoint %%
-

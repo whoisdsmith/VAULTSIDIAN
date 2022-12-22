@@ -1,4 +1,4 @@
-# glossary-of-astronomy-terms-astronomy-reference-guide-on-sea-and-sky
+# Glossary-of-astronomy-terms-astronomy-reference-guide-on-sea-and-sky
 
 A
 

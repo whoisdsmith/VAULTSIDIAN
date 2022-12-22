@@ -1,4 +1,4 @@
-# cyberpunk-slang-an-index-of-geek-slang-and-future-slang-words
+# Cyberpunk-slang-an-index-of-geek-slang-and-future-slang-words
 
 ## Cyberpunk Words, Terms, and Phrases
 
@@ -8,7 +8,7 @@ While contemporary slang is nothing to shake a stick at, I have a particularly s
 
 What I'm referring to is geek slang, cyberpunk slang, and other slang that is created in near-future and science fiction novels. Just as the sci-fi genre predicts how we will live and behave in the future, it hypothesizes our future speech patterns as well, and boy, do they ever get colorful!
 
-What follows is an index of some of my favorite cyberpunk slang terms used by fictional characters of the future. I propose that we start using these words and phrases _now_! Why not make the prophecies come true??
+What follows is an index of some of my favorite cyberpunk slang terms used by fictional characters of the future. I propose that we start using these words and phrases *now*! Why not make the prophecies come true??
 
 ## Origins of These Futuristic-Sounding Words
 
@@ -20,7 +20,7 @@ Bon appetit!
 
 ## Words for "Internet"
 
-There are many different words used by forward-thinking people today _and_ science fiction authors to describe the Internet. Many emerged from "series of tubes," a term originating from a [meme](http://en.wikipedia.org/wiki/Series_of_tubes) surrounding once-senator Ted Stevens' lack of Internet understanding.
+There are many different words used by forward-thinking people today *and* science fiction authors to describe the Internet. Many emerged from "series of tubes," a term originating from a [meme](http://en.wikipedia.org/wiki/Series_of_tubes) surrounding once-senator Ted Stevens' lack of Internet understanding.
 
 - The net
 - The web
@@ -42,7 +42,6 @@ Cyberpunk Words A–Z
 - **==[[Crumbly]]== (n):** An elderly person (and apparently current British slang with the same meaning). Other common iterations of the term: crumblies (multiple old people); Crumblyville (a neighborhood full of elderly people)4
 - **==[[Deadhead]]== (v):** To go into suspended animation for a set or indefinite period of time, either to fight the drudgery of travel or to pass by a particularly boring patch in history1
 - **==[[Duppy]]== (adj.):** Crazy, stupid5
-
 - **==[[Face rank]]== (n):** Fame (See also: whuffie)4
 - **==Far== (adv.):** Very (e.g. "This far duppy")5
 - **==[[Fenfen]]== (adj.):** Messed up, f\*\*\*ed up, stupid (a derogatory adjective)5
@@ -81,15 +80,15 @@ Cyberpunk Words A–Z
 
 ## Book / Movie / Show Credits
 
-1. _Down and Out in the Magic Kingdom_ by Cory Doctorow
-2. _Brave New World_ by Aldous Huxley
-3. _Super Sad True Love Story_ by Gary Shteyngart
+1. *Down and Out in the Magic Kingdom* by Cory Doctorow
+2. *Brave New World* by Aldous Huxley
+3. *Super Sad True Love Story* by Gary Shteyngart
 4. The Uglies series by Scott Westerfeld
 5. The Otherland series by Tad Williams
-6. _Accelerando_ by Charles Stross
-7. _Battlestar Gallactica_
-8. _Star Wars_
-9. _Firefly_
+6. *Accelerando* by Charles Stross
+7. *Battlestar Gallactica*
+8. *Star Wars*
+9. *Firefly*
 
 ## Reader Coinages
 

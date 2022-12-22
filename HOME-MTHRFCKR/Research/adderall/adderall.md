@@ -3,6 +3,7 @@
 ---
 
 %% Begin Waypoint %%
+
 - **[adderall](./adderall.md)**
 	- [adderall-and-depression](./adderall-and-depression.md)
 	- [adderall](./adderall.md)
@@ -16,4 +17,3 @@
 	- [vyvanse-and-adderall-together](./vyvanse-and-adderall-together.md)
 
 %% End Waypoint %%
-

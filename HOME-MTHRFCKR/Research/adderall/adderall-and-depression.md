@@ -10,7 +10,7 @@ However, there is some evidence to suggest that Adderall may actually be an effe
 
 So does Adderall cause depression? Or is there a different mechanism behind the link between Adderall use, Adderall withdrawals, and depressive symptoms? Can Adderall actually help with depression in adults?
 
-_In this article, we will answer all of these questions in some detail. If you’re concerned that Adderall is making you depressed, or you’re thinking about using Adderall as a treatment for your depression, keep reading!_
+*In this article, we will answer all of these questions in some detail. If you’re concerned that Adderall is making you depressed, or you’re thinking about using Adderall as a treatment for your depression, keep reading!*
 
 **Contents** hide
 
@@ -76,7 +76,7 @@ In some cases, Adderall can be used to help treat the symptoms of depression and
 
 It is vital that you do not attempt to self-medicate with Adderall you either obtained without a prescription or for another purpose. If your doctor has not prescribed Adderall to help with depression, then there is no safe dose for you to take as the stimulant may make your depression significantly worse.
 
-Adderall – any dose of Adderall – can also strongly interact with antidepressant medications. If you are taking antidepressant medication, you _must_talk to your doctor before taking any stimulants, especially those that act on your dopaminergic system like Adderall is known to do.
+Adderall–any dose of Adderall–can also strongly interact with antidepressant medications. If you are taking antidepressant medication, you _must_talk to your doctor before taking any stimulants, especially those that act on your dopaminergic system like Adderall is known to do.
 
 * * *
 
@@ -98,7 +98,7 @@ The short answer to this question is “no”.
 
 That is, not unless you have been instructed to take a specific dose of Adderall to help treat your depression.
 
-While some individual cases of depression and anxiety can be managed with Adderall or other stimulants, the vast majority of people will find that Adderall makes their depression and anxiety _significantly worse._
+While some individual cases of depression and anxiety can be managed with Adderall or other stimulants, the vast majority of people will find that Adderall makes their depression and anxiety *significantly worse.*
 
 **If you’re struggling with symptoms of depression, such as lethargy, lack of motivation, low mood, fatigue and anxiety, it is best to avoid synthetic, prescription medications like Adderall unless you have been told to take them by a medical professional.**
 
@@ -118,4 +118,4 @@ Paul Tardner is the Lead Author at IJEST.org. Paul is a former academic and rese
 
 ___
 
-# article
+# Article
