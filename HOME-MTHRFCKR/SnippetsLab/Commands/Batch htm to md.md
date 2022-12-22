@@ -7,4 +7,6 @@ tags: pandoc, htm to md
 title: Batch htm to md
 ---
 
+# Batch htm to md
+
 find . -name \*.htm -type f -exec pandoc -o {}.md {} \;

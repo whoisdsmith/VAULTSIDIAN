@@ -6,6 +6,6 @@ tags: brew
 title: asciinema
 ---
 
-# asciinema
+# Asciinema
 
 asciinema

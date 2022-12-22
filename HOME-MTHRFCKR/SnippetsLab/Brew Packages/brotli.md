@@ -6,6 +6,6 @@ tags: brew
 title: brotli
 ---
 
-# brotli
+# Brotli
 
 brotli

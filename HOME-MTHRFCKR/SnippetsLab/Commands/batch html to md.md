@@ -7,4 +7,6 @@ tags: html to md
 title: batch html to md
 ---
 
+# batch html to md
+
 find . -name \*.html -type f -exec pandoc -o {}.md {} \;

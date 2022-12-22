@@ -5,4 +5,6 @@ modified: 2022-07-03T04:59:05Z
 title: bat
 ---
 
+# bat
+
 A cat(1) clone with syntax highlighting and Git integration.

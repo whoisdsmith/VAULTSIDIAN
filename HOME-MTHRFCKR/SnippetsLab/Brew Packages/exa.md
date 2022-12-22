@@ -6,6 +6,6 @@ tags: brew
 title: exa
 ---
 
-# exa
+# Exa
 
 exa

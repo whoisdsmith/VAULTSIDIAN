@@ -6,6 +6,6 @@ tags: brew
 title: lolcat
 ---
 
-# lolcat
+# Lolcat
 
 lolcat

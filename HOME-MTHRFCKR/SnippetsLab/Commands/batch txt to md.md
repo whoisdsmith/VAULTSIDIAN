@@ -7,4 +7,6 @@ tags: pandoc, txt to md
 title: batch txt to md
 ---
 
+# batch txt to md
+
 find . -name \*.txt -type f -exec pandoc -o {}.md {} \;

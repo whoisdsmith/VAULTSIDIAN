@@ -6,14 +6,16 @@ tags: twitter, instagram, facebook, reddit, medium, github, last.fm, notion, sna
 title: Social Links
 ---
 
-https://twitter.com/Wh0isdsmith
-https://www.instagram.com/dsmith4life
-https://www.facebook.com/dontcallmedsmith
-https://www.reddit.com/user/Iamthereaper85
-https://medium.com/@dsmith4life
-https://github.com/p4rk0ur
-https://www.last.fm/user/whoisdsmith
-https://www.whoisdsmith.notion.site
-https://raindrop.io/whoisdsmith/wh0isdsmith-bookmark-collection-22490780
-https://www.snapchat.com/add/whoisdsmith
+# Social Links
+
+https://twitter.com/Wh0isdsmith  
+https://www.instagram.com/dsmith4life  
+https://www.facebook.com/dontcallmedsmith  
+https://www.reddit.com/user/Iamthereaper85  
+https://medium.com/@dsmith4life  
+https://github.com/p4rk0ur  
+https://www.last.fm/user/whoisdsmith  
+https://www.whoisdsmith.notion.site  
+https://raindrop.io/whoisdsmith/wh0isdsmith-bookmark-collection-22490780  
+https://www.snapchat.com/add/whoisdsmith  
 https://www.c0debl0ck.wordpress.com

@@ -6,6 +6,6 @@ tags: brew
 title: thefuck
 ---
 
-# thefuck
+# Thefuck
 
 thefuck

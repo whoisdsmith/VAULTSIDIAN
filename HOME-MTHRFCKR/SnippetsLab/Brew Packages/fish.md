@@ -6,6 +6,6 @@ tags: brew
 title: fish
 ---
 
-# fish
+# Fish
 
 fish

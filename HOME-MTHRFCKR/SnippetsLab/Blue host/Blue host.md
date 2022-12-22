@@ -1,8 +1,9 @@
 # Blue Host
 
---- 
+---
 
 %% Begin Waypoint %%
+
 - **[Blue host](./Blue%20host.md)**
 	- [162-241-252-245](./162-241-252-245.md)
 	- [Blue host](./Blue%20host.md)
@@ -18,4 +19,3 @@
 	- [WEBDAV](./WEBDAV.md)
 
 %% End Waypoint %%
-

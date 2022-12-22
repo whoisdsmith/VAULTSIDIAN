@@ -6,6 +6,6 @@ tags: brew
 title: fzf
 ---
 
-# fzf
+# Fzf
 
 fzf

@@ -6,6 +6,6 @@ tags: brew
 title: broot
 ---
 
-# broot
+# Broot
 
 broot

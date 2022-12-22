@@ -6,6 +6,6 @@ tags: brew
 title: bat
 ---
 
-# bat
+# Bat
 
 bat

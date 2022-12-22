@@ -6,6 +6,6 @@ tags: brew
 title: tmux
 ---
 
-# tmux
+# Tmux
 
 tmux

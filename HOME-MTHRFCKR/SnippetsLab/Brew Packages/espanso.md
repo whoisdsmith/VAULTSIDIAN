@@ -6,6 +6,6 @@ tags: brew
 title: espanso
 ---
 
-# espanso
+# Espanso
 
 espanso
