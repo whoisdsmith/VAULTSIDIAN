@@ -1,4 +1,4 @@
-# cyberpunk-links
+# Cyberpunk-links
 
 **CyberPunk Links**
 

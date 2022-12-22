@@ -1,4 +1,4 @@
-# consuming-the-world-via-rss
+# Consuming-the-world-via-rss
 
 This is supposed to provide a quick overview over some options one has with news feeds.
 

@@ -1,4 +1,4 @@
-# consuming-the-world-via-rss-ii
+# Consuming-the-world-via-rss-ii
 
 **More Feeds**  
 

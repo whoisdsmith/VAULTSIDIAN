@@ -1,4 +1,4 @@
-# adminfinds
+# Adminfinds
 
 <https://runestone.academy/runestone/books/>  
 <https://6b.eleuther.ai/>  

@@ -1,1 +1,0 @@
-## Ripping, Transcoding, Converting, Encoding

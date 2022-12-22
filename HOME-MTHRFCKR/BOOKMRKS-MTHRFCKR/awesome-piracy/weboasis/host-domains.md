@@ -1,4 +1,4 @@
-# host-domains
+# Host-domains
 
 <https://www.ipwatchdog.com/business/domain-name-purchase-agreements/>  
 <https://deepnamer.com>  
