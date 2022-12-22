@@ -1,10 +1,8 @@
-![[56CA857B-3CE6-4900-9CCE-D46C0D1393D9.jpeg]]![[5BA05065-7C87-40A7-B757-28CCE47C1831.jpeg]]![[F593BC77-272B-4C6D-9E4F-07E6C5E967A9.jpeg]]![[9067CE63-5FD2-4D6C-A053-57786D816968.jpeg]]![[C8DAA904-720D-4551-8E3E-25F8F9B8F600.jpeg]]![[C7713679-7600-4533-8AA3-A909B1C5D244.jpeg]]
-
+![[d1-ifttt-create.jpeg]]![[d1-ifttt-about.jpeg]]![[d1-ifttt-action.jpeg]]![[d1-ifttt-body.jpeg]]![[d1-ifttt-latitude.jpeg]]![[d1-ifttt-placename.jpeg]]
 
 # Create Journal Entry
 
 This Action will create a new Journal entry in the Journal you specify.
-
 
 ### About this action
 
@@ -16,7 +14,7 @@ Description
 
 This Action will create a new Journal entry in the Journal you specify.
 
-API endpoint slug 
+API endpoint slug
 
 `day\_one.create\_journal\_entry`
 
@@ -46,7 +44,7 @@ Slug
 
 Required
 
-`true 
+`true
 
 Can have default value
 
@@ -206,4 +204,4 @@ Filter code method
 
 ---
 
-#ifttt 
+# ifttt
