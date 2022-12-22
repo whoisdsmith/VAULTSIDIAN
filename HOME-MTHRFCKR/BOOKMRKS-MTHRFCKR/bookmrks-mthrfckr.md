@@ -7,6 +7,7 @@
 	- **[ai](./ai/ai.md)**
 	- **[awesome](./awesome/awesome.md)**
 	- **[awesome-piracy](./awesome-piracy/awesome-piracy.md)**
+	- [bookmrks-mthrfckr_GlossaryIndex](./bookmrks-mthrfckr_GlossaryIndex.md)
 	- [bookmrks-mthrfckr](./bookmrks-mthrfckr.md)
 	- **[cata-list](./cata-list/cata-list.md)**
 	- **[champagne-piracy-wiki](./champagne-piracy-wiki/champagne-piracy-wiki.md)**
