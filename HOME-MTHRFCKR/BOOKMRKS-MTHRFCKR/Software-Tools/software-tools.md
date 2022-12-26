@@ -93,7 +93,7 @@
 		- [software-tools](readme/software-tools.md)
 		- [tools-box](readme/tools-box.md)
 	- [readme-copy](readme-copy.md)
-	- [readme](readme.md)
+	- [readme](../../../readme.md)
 	- [redis](redis.md)
 	- [regexp](regexp.md)
 	- [saas](saas.md)

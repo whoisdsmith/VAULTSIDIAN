@@ -10,7 +10,7 @@ Clute And Nicholls' Encylopedia Of Science Fiction Traces The First Modern Use T
 
 Oed Ii Says "An Automaton Resembling A Human Being", With Cites For The Older Variant "Androides" Going Back To 1727.
 
-[[Ansible]]
+[[../../documentation/ansible/ansible.md]]
 
 From Ursula K. Leguin's Oikumene Stories Beginning C.1965
 

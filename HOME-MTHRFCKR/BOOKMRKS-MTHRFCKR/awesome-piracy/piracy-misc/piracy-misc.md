@@ -98,7 +98,7 @@
 	- [privatebin](privatebin.md)
 	- [reading_material_and_elearning](reading_material_and_elearning.md)
 	- [reading-and-learning](reading-and-learning.md)
-	- [readme](readme.md)
+	- [readme](../../../../readme.md)
 	- [related_subreddits](related_subreddits.md)
 	- [resources](resources.md)
 	- [safe-ddl-site-list](safe-ddl-site-list.md)

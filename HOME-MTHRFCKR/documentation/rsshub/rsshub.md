@@ -31,7 +31,7 @@
 	- [program-update](program-update.md)
 	- [programming](programming.md)
 	- [reading](reading.md)
-	- [readme](readme.md)
+	- [readme](../../../readme.md)
 	- [rsshub](../../../..//home-mthrfckr/documentation/rsshub/rsshub.md)
 	- [shopping](shopping.md)
 	- [social-media](social-media.md)

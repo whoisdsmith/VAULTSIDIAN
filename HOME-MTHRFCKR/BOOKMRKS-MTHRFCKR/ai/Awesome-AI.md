@@ -1,8 +1,9 @@
 # Awesome AI
+
 > curated list artificial intelligence tools around the web
 
+## Writing Tools
 
-## writing tools
 - [grammarly](https://www.grammarly.com/?ref=awesomeAI) `Compose bold, clear, mistake-free writing with Grammarly’s AI-powered writing assistant.`
 - [copy ai](https://www.copy.ai/?ref=awesomeAI) `Write better marketing copy and content with AI`
 - [jasper AI](https://www.jasper.ai/?ref=awesomeAI) `Jasper - AI Copywriting & Content Generation for Teams`
@@ -30,7 +31,7 @@
 - [scalenut](https://www.scalenut.com/?ref=awesomeAI) `Tell Better Stories at Scale`
 - [NeuralText](https://www.neuraltext.com/?ref=awesomeAI) `NeuralText - AI Writing Assistant and tools for SEO`
 - [closerscopy](https://www.closerscopy.com/?ref=awesomeAI) `AI Copywriting Robot - ClosersCopy`
-- [inkforall](https://inkforall.com/?ref=awesomeAI) `INK – World’s Best AI Content Assistant for Marketing & SEO`
+- [inkforall](https://inkforall.com/?ref=awesomeAI) `INK–World’s Best AI Content Assistant for Marketing & SEO`
 - [peppertype](https://www.peppertype.ai/?ref=awesomeAI) `Create Quality Content Faster`
 - [ai-writer](https://ai-writer.com/?ref=awesomeAI) `AI-Writer is the most accurate content generation platform, using state-of-the-art AI writing models to generate articles from just a headline.`
 - [GetGenie](https://getgenie.ai/?ref=awesomeAI) `The WordPress AI SuperApp for Content & SEO | GetGenie`
@@ -41,7 +42,8 @@
 - [Writecream](https://www.writecream.com/?ref=awesomeAI) `Writecream - Best AI Writer & Content Generator - Writecream`
 - [outranking](https://www.outranking.io/?ref=awesomeAI) `Outranking helps content teams achieve predictable content success with AI assistance.`
 
-## video tools
+## Video Tools
+
 - [runway](https://runwayml.com/?ref=awesomeAI) `Everything you need to make content, fast.`
 - [Fliki](https://fliki.ai/?ref=awesomeAI) `Turn text into videos with AI voices`
 - [synthesia](https://www.synthesia.io/?ref=awesomeAI) `Create videos from plain text in minutes`
@@ -52,7 +54,8 @@
 - [plask](https://plask.ai/) `AI-powered Mocap Animation Tool`
 - [Rokoko video](https://www.rokoko.com/products/video) `Rokoko Video Free AI motion capture`
 
-## audio tools
+## Audio Tools
+
 - [play ht](https://play.ht/?ref=awesomeAI) `AI powered text to voice generator`
 - [Murf AI](https://murf.ai/?ref=awesomeAI) `AI Voice Generator: Versatile Text to Speech Software | Murf AI`
 - [resemble ai](https://www.resemble.ai/?ref=awesomeAI) `Your Complete Generative Voice AI Toolkit`
@@ -62,7 +65,8 @@
 - [songdonkey](https://songdonkey.ai/?ref=awesomeAI) `Extract vocals and instruments with artificial intelligence`
 - [krisp ai](https://krisp.ai/?ref=awesomeAI) `Krisp’s AI removes background voices, noises and echo from all your calls, giving you peace of mind.`
 
-## images tools
+## Images Tools
+
 - [letsenhance](https://letsenhance.io/?ref=awesomeAI) `Automatic AI editor to increase image resolution without losing quality`
 - [facet ai](https://facet.ai/?ref=awesomeAI) `Facet is the first AI-powered image editor, empowering artists to do what they do best: create.`
 - [remove bg](https://www.remove.bg/?ref=awesomeAI) `Remove backgrounds 100% automatically in 5 seconds with one click`
@@ -73,7 +77,8 @@
 - [upscale](https://www.upscale.media/?ref=awesomeAI) `Upscale and Enhance Your Images for FREE`
 - [ai image enlarger](https://imglarger.com/?ref=awesomeAI) `All-in-one AI toolkits help you enhance and upscale images. Increases image resolution without losing quality`
 
-## commerce & marketing tools
+## Commerce & Marketing Tools
+
 - [syte ai](https://www.syte.ai/?ref=awesomeAI) `The World's #1 Product Discovery Platform for eCommerce`
 - [nureply](https://nureply.com/?ref=awesomeAI) `Get 2.4x More Replies and Revenue with Cold Emails Powered by Advanced AI`
 - [zia by zoho](https://www.zoho.com/zia/?ref=awesomeAI) `Meet Zia, the AI-powered assistant for your business`
@@ -82,7 +87,8 @@
 - [On-Page.ai](https://on-page.ai/?ref=awesomeAI) `On-Page SEO Optimization Tool Helps You Rank - On-Page.ai`
 - [sapling](https://sapling.ai/?ref=awesomeAI) `AI messaging assistant for customer-facing teams. Respond twice as fast.`
 
-## design tools
+## Design Tools
+
 - [beautiful ai](https://www.beautiful.ai/?ref=awesomeAI) `Presentation software that designs for you.`
 - [avatarai](https://avatarai.me/?ref=awesomeAI) `Create your own AI-generated avatars`
 - [profilepicture](https://www.profilepicture.ai/?ref=awesomeAI)
@@ -100,11 +106,13 @@
 - [durable website builder](https://durable.co/ai-website-builder/?ref=awesomeAI) `Build a website in 30 seconds using artificial intelligence`
 - [makelogo ai](https://makelogoai.com/?ref=awesomeAI) `Uniques logos, for less than a coffee`
 
-## Coding tools
+## Coding Tools
+
 - [GitHub copilot](https://github.com/features/copilot/?ref=awesomeAI) `Your AI pair programmer`
 - [tabnine](https://www.tabnine.com/?ref=awesomeAI) `AI assistant for software developers`
 
-## miscellaneous
+## Miscellaneous
+
 - [interview-warmup by google](https://grow.google/certificates/interview-warmup/?ref=awesomeAI)
 - [fastoutreach](https://www.fastoutreach.ai/?ref=awesomeAI) `The smartest AI personalization tool for entrepreneurs.`
 - [getleon](https://getleon.ai/?ref=awesomeAI) `Leon is your open-source personal assistant who can live on your server.`

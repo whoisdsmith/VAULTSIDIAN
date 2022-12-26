@@ -134,7 +134,7 @@
 	- [raindrop-obsidian-plugin](raindrop-obsidian-plugin.md)
 	- **[raindrops](raindrops/raindrops.md)**
 	- [rd-2022-12-07](rd-2022-12-07.md)
-	- [readme](readme.md)
+	- [readme](../../readme.md)
 	- **[reference](reference/reference.md)**
 		- [academic-and-grey-literature-research-tools](reference/academic-and-grey-literature-research-tools.md)
 		- [academic](reference/academic.md)

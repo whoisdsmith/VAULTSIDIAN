@@ -8,7 +8,7 @@
 	- **[Brew Packages](Brew%20Packages/Brew%20Packages.md)**
 	- **[Commands](Commands/Commands.md)**
 	- **[Emails](Emails/Emails.md)**
-	- **[Links](Links/Links.md)**
+	- **[Links](../../links/links.md)**
 	- [SnippetsLab](../../..//snippets/SnippetsLab/SnippetsLab.md)
 
 %% End Waypoint %%

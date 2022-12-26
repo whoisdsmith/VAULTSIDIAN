@@ -17,7 +17,7 @@
 		- **fine-tuned_qa**
 
 	- [openai-cookbook](../../../..//home-mthrfckr/documentation/openai-cookbook/openai-cookbook.md)
-	- [README](README.md)
+	- [README](../../../readme.md)
 	- [techniques_to_improve_reliability](techniques_to_improve_reliability.md)
 	- **transition_guides_for_deprecated_API_endpoints**
 		- [README](transition_guides_for_deprecated_API_endpoints/README.md)

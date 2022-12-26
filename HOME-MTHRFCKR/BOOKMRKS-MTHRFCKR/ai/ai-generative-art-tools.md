@@ -1,4 +1,3 @@
-
 # Tools and Resources for AI Art
 
 ---
@@ -13,9 +12,7 @@ There are a TON of shared Google Colab notebooks floating around for doing text 
 - [Huemin Jax Diffusion 2.7](https://colab.research.google.com/github/huemin-art/jax-guided-diffusion/blob/v2.7/Huemin_Jax_Diffusion_2_7.ipynb) by nshepperd, huemin\_art ([guide](https://docs.google.com/document/d/11HWN5e57taWdpyZlW5s6gqzrwMsLlmOQivyJncOPPhE)) ([stitching guide](https://dreamingcomputers.com/ai-articles/huemin-jax-diffusion-2-7-stitching/))
 - [pytti-tools v0.10](https://colab.research.google.com/github/pytti-tools/pytti-notebook/blob/main/pyttitools-PYTTI.ipynb) by DigThatData and sportsracer
 - [VQGAN+CLIP](https://colab.research.google.com/drive/1peZ98vBihDD9A1v7JdH5VvHDUuW5tcRK) by remi\_durant
-
 - \[2022/11/30\] [BAOAB-limit sampler](https://colab.research.google.com/drive/17kesyBVqubV_Zzchf2XoR-7MHk5jxTuo?usp=sharing) - new SD sampler that can also make anims hella fast ([paper](https://www.ajayjain.net/journey/))  
-
 - \[2022/11/25\] [Stable Diffusion 2.0 Web UI](https://colab.research.google.com/github/qunash/stable-diffusion-2-gui/blob/main/stable_diffusion_2_0.ipynb) - by @anzorq (run SD 2.0 in colab using Diffusers)
 - \[2022/11/24\] [Stable Diffusion 2.0 w Diffusers](https://colab.research.google.com/github/amrrs/stable-diffusion-v2-colab-ui/blob/main/How_to_use_Stable_Diffusion_2_0_with_Diffusers.ipynb) - by @amrrs ([youtube](https://www.youtube.com/watch?v=9v3jABCh_L4))
 - \[2022/11/08\] [Midjourney v4 Style](https://colab.research.google.com/drive/1vkuxKKeSYNYI2OLZm8mR-WqcokQtSURM?usp=sharing) - (dreambooth SD finetune on midjourney v4 outputs)
@@ -69,13 +66,10 @@ There are a TON of shared Google Colab notebooks floating around for doing text 
 - \[2022/06/15\] [Latent Majesty Diffusion v1.6](https://colab.research.google.com/github/multimodalart/MajestyDiffusion/blob/main/latent.ipynb) by @dango233max and @multimodalart
 - \[2022/06/13\] [Centipede Diffusion v3.2](https://colab.research.google.com/github/Zalring/Centipede_Diffusion/blob/main/Centipede_Diffusion.ipynb) by @ZalringTW (brings latest updated from Disco 5.3 to centipede)
 - \[2022/06/11\] [Disco Diffusion v5.3](https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb) by @somnai\_dreams and @gandamu (bring symmetry to official Disco)  
-
 - \[2022/06/08\] [Pixel Art Diffusion v2.01](https://colab.research.google.com/github/KaliYuga-ai/Pixel-Art-Diffusion/blob/main/Pixel_Art_Diffusion_v2_01.ipynb) by @KaliYuga (larger model, color improvements from Zippy)  
-
 - \[2022/06/06\] [Disco Diffusion v5.2 + extra symmetry](https://colab.research.google.com/github/kostarion/guided-diffusion/blob/main/Disco_Diffusion_v5_2_%5Bw_VR_Mode%5D_%2B_symmetry.ipynb) by @cut\_pow (extra symmetry options for Disco)
 - \[2022/06/01\] [Pixel Art Diffusion v1.0](https://colab.research.google.com/github/KaliYugaa/Pixel-Art-Diffusion/blob/main/Pixel_Art_Diffusion_v1_0.ipynb) by @KaliYuga (fine tuned diffusion for pixel art landscapes)
 - \[2022/05/29\] [Latent Majesty Diffusion v1.3](https://colab.research.google.com/github/multimodalart/MajestyDiffusion/blob/main/latent.ipynb) by Dango233 and @multimodalart (CLIP guided latent diffusion)  
-
 - \[2022/05/24\] [Huemin Jax Diffusion 2.7](https://colab.research.google.com/github/huemin-art/jax-guided-diffusion/blob/v2.7/Huemin_Jax_Diffusion_2_7.ipynb) by @huemin\_art (adds automated stitching for large canvas)
 - \[2022/05/22\] [V-Majesty Diffusion](https://colab.research.google.com/github/multimodalart/MajestyDiffusion/blob/main/v.ipynb) by Dango233 and @multimodalart (latest v-objective princess generator)
 - \[2022/05/20\] [Modified ruDalle](https://colab.research.google.com/github/pharmapsychotic/ai-notebooks/blob/main/pharmapsychotic_rudalle.ipynb) by @pharmapsychotic (google drive, batching, auto translation, more models)
@@ -83,7 +77,6 @@ There are a TON of shared Google Colab notebooks floating around for doing text 
 - \[2022/05/13\] [DALL-E Flow](https://colab.research.google.com/github/jina-ai/dalle-flow/blob/main/client.ipynb) (combined pipeline of Dall-e mega -> Glid3XL -> SwinIR)
 - \[2022/05/13\] [Centipede Diffusion V3](https://colab.research.google.com/github/Zalring/Centipede_Diffusion/blob/main/Centipede_Diffusion.ipynb) (combines output of latent to input of Disco plus inpainting) by Zalring
 - \[2021/05/08\] [Improved Multi-Perceptor VQGAN+CLIP](https://colab.research.google.com/drive/1peZ98vBihDD9A1v7JdH5VvHDUuW5tcRK?usp=sharing) by @remi\_durant (new batch runs, noise burst, anim)  
-
 - \[2022/05/05\] [Simplified Disco Diffusion](https://colab.research.google.com/github/entmike/disco-diffusion-1/blob/main/Simplified_Disco_Diffusion.ipynb) by entmike
 - \[2022/04/27\] [pytti-tools v0.10](https://colab.research.google.com/github/pytti-tools/pytti-notebook/blob/main/pyttitools-PYTTI.ipynb) - fork of pytti 5 by @DigThatData, new AudioReactivity, ViTL/14@336
 - \[2022/04/18\] [DALL-E Mini](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb) ([github](https://github.com/borisdayma/dalle-mini)) ([huggingface](https://huggingface.co/spaces/dalle-mini/dalle-mini)) (originally from 2021/07)
@@ -110,7 +103,6 @@ There are a TON of shared Google Colab notebooks floating around for doing text 
 - \[2022/02/25\] [Laionide v3](https://colab.research.google.com/gist/afiaka87/8655b15c94bf0e80f586ce54cfe39ab5/laionide-v3.ipynb) - GLIDE fine tuned by laion.ai folks
 - \[2022/02/24\] [JAX 2.6 Neuralism Edit](https://colab.research.google.com/drive/1tgM0sI6suaaBEfYZwMEDzgsjnizuf5UC) by @Thor
 - \[2022/02/22\] [pytti-tools (fork of pytti 5 beta)](https://colab.research.google.com/github/pytti-tools/pytti-notebook/blob/main/pyttitools-PYTTI.ipynb) by @DigThatData  
-
 - \[2022/02/10\] [Text to Image (CC12M Diffusion)](https://colab.research.google.com/drive/1TBo4saFn1BCSfgXsmREFrUl3zSQFg6CC) by @RiversHaveWings - updated with FAST PLMS sampling
 - \[2022/02/02\]  [JAX 2.5 Edit](https://colab.research.google.com/drive/1QLrCrZlocYe6mKyYUA_9zsaU7-d4Ha1n) with prompt queueing system
 - \[2022/01/30\] [JAX CLIP Guided Diffusion v2.6](https://colab.research.google.com/drive/12ecr18kOuzE5I6wLm5BwQXBznLDXut4z#scrollTo=DiQ-zsUVZAo4) with QoL tweaks
@@ -120,31 +112,22 @@ There are a TON of shared Google Colab notebooks floating around for doing text 
 - \[2022/01/15\] [Disco Diffusion v4.1](https://colab.research.google.com/drive/1sHfRn5Y0YKYKi1k-ifUSBFRNJ8_1sa39) by @Somnai\_dreams
 - \[2022/01/13\] [Looking Glass v1.4](https://colab.research.google.com/drive/15MQTRMqc7yn626PiC3KPb-DvVx_FrBAr) - adds Google drive support, auto Russian translation and more
 - \[2022/01/11\] [360Diffusion](https://colab.research.google.com/github/sadnow/360Diffusion/blob/main/360Diffusion_Public.ipynb) by @sadly\_existent  
-
 - \[2022/01/11\] [nshepperd's JAX CLIP Guided Diffusion v2.6](https://colab.research.google.com/drive/1fW_tPEX7iD3xZK3VBDQ_Y2WnfdSzpacM?usp=sharing) by @nshepperd
 - \[2022/01/05\] [Text to Image (CC12M Diffusion)](https://colab.research.google.com/drive/1TBo4saFn1BCSfgXsmREFrUl3zSQFg6CC) by @RiversHaveWings
 - \[2022/01/04\] [Disco Diffusion v4](https://colab.research.google.com/drive/1DHvr-DSNtlpvf0HgI0QmCLSe_PtShzPH?usp=sharing) by @Somnai\_dream  
-
 - \[2021/12/24\] [Dango's Princess Generator](https://colab.research.google.com/drive/14xBm1aSxQLbq26-jmDJi8I1HJ4ti5ybt) ?
 - \[2021/12/22\] [OpenAI GLIDE notebook](https://colab.research.google.com/drive/13lvp0yPfM4adWlPv73dtX57A0H5A6PWn?usp=sharing) - realistic but low res 64x64  
-
 - \[2021/12/21\] [nshepperd's JAX CLIP Guided Diffusion v2.5](https://colab.research.google.com/drive/1lmXwWcs4eYMpgMrdT-xf4stS-uvFtBHT#scrollTo=OoIL7ayzq7kC) by @nshepperd
 - \[2021/12/18\] [Looking Glass v1.3](https://colab.research.google.com/drive/15vFLeepkSTr1qd4xs31g9kMEiwkWP0sh) - generates more images like the one given  
-
 - \[2021/12/16\]  [v-diffusion-pytorch](https://colab.research.google.com/drive/1M4QKDt5ExIo3GLml0YKcJM9gfaX9ptfg) by @BoneAmputee  
-
 - \[2021/12/15\] [ruDALLE arbitrary resolution v2.0](https://colab.research.google.com/drive/1JznXpirarS-zAZqXGOWRWDgFxLdL_xAU) by @apeoffire
 - \[2021/11/13\] [IllusTrip3D](https://colab.research.google.com/github/eps696/aphantasia/blob/master/IllusTrip3D.ipynb) - zooming animations with depth warping  
-
 - \[2021/11/08\] [nshepperd's JAX CLIP Guided Diffusion v2.3](https://colab.research.google.com/drive/12Bod44YVIXYRh39WRqp0kNz8OUBNFk9Z?usp=sharing) by @nshepperd  
-
 - \[2021/??/??\] [Disco Diffusion v3.1 \[w/ SLIP & DangoCutn\]](https://colab.research.google.com/drive/1bItz4NdhAPHg5-u87KcH-MmJZjK-XqHN) by @Somnai\_dream
 - \[2021/10/29\] [QoL MP Diffusion v2](https://colab.research.google.com/drive/1Pf5F84FzWe9iAKNbiPaEo_v4hvQZ9SqS?usp=sharing) by @Somnai\_dream
 - \[2021/10/16\]  [CLIP Guided Deep Image Prior](https://colab.research.google.com/drive/1_oqIK8A67EgtJDdfsuJojc5ukNzirdle) by @danielrussruss ([tweet](https://twitter.com/danielrussruss/status/1482661239121596417?s=20))
 - \[2021/09/22\]  [Mse regularized Modified\_VQGANCLIP\_zquantize](https://colab.research.google.com/drive/1gFn9u3oPOgsNzJWEFmdK-N9h_y65b8fj) by @jbusted1  
-
 - \[2021/07/31\] [EleutherAI VQGAN+CLIP](https://huggingface.co/spaces/EleutherAI/VQGAN_CLIP) Hugging Face space  
-
 - \[2021/07/20\] [VQGAN+CLIP z-quantize with augmentation](https://colab.research.google.com/drive/1L8oL-vLJXVcRzCFbPwOoMkPKJ8-aYdPN#scrollTo=g7EDme5RYCrt) by Justin John
 
 ## Image Super-resolution
@@ -158,9 +141,7 @@ There are a TON of shared Google Colab notebooks floating around for doing text 
 - [Neural Love](https://neural.love/image-upscale) - credit based system for diffusion upscaling
 - [Stable Diffusion Upscaler](https://colab.research.google.com/drive/1o1qYJcFeywzCIdkfKJy7cTpgZTCM2EI4) - latest and greatest 🔥
 - [SuperRes Diffusion](https://colab.research.google.com/drive/19euI_7GAgbvMoZsuPj9SZseDeuFnwBj8) - Batch upscaling and super resolution with latent-diffusion  
-
 - [SwinIR](https://huggingface.co/spaces/akhaliq/SwinIR) - Hugging Face space  
-
 - [Upscale Model Database](https://upscale.wiki/wiki/Model_Database) - big set of pretrained models for upscaling different types of content
 - [Waifu2x](http://waifu2x.udp.jp/) ([github](https://github.com/nagadomi/waifu2x)) - designed for anime / manga
 - [WaifuXL](https://waifuxl.com/) - newer and beats Waifu2x in quality
@@ -174,7 +155,6 @@ There are a TON of shared Google Colab notebooks floating around for doing text 
 - [StyleCLIP](https://colab.research.google.com/github/orpatashnik/StyleCLIP/blob/main/notebooks/StyleCLIP_global.ipynb#scrollTo=deFVuu4drKHp) - Text-drive manipulation of StyleGAN imagery
 - [Structured Dreaming](https://colab.research.google.com/drive/1tf-xUjhYm0p4pQSyKD-jq6EAGl_L5Al0#scrollTo=XYNwvEy3HH49) - Styledreams With helpers
 - [Structured Dreaming](https://colab.research.google.com/github/ekgren/StructuredDreaming/blob/main/colabs/Structured_Dreaming_Styledreams.ipynb) (CLIP+StyleGAN) by @ArYoMo ([tweet](https://twitter.com/ArYoMo/status/1444398963571019783?s=20))  
-
 - [StyleGAN 2 pretrained models](https://nvlabs-fi-cdn.nvidia.com/stylegan2-ada/pretrained/) - can use these with Structured Dreaming
 - [StyleGAN 2 awesome pretrained models](https://github.com/justinpinkney/awesome-pretrained-stylegan2) - BIG collection of models
 - [StyleGAN 3 training](https://colab.research.google.com/github/dvschultz/stylegan3/blob/main/SG3.ipynb) - train a StyleGAN and do interpolation video by @dvsch (currently busted)
@@ -192,42 +172,34 @@ There are a TON of shared Google Colab notebooks floating around for doing text 
 - [Neuralism Generative Art Prompt Generator](https://colab.research.google.com/drive/1mrlY_mc-HdIxEHILY2BvA9u0mOjD2Ze5) - generate prompts to use for text to image
 - [OpenAI GPT3 Playground](https://beta.openai.com/playground) - generate text with GPT-3 (requires free account)
 - [Textsynth Playground](https://textsynth.com/playground.html) - text completion using large language models
-
 - [Dalle-2 Prompt Generator](http://dalle2-prompt-generator.s3-website-us-west-2.amazonaws.com/) - nice site that let's you generate interesting text prompts
 - [Prompt Parrot](https://colab.research.google.com/drive/1ZZWvzsqjEHNn1qevQ4ed7Ozs4vij7qfc?usp=sharing) by @KyrickYoung - train GPT2 on a list of your prompts
 - [MadLib Prompt Generator](https://colab.research.google.com/drive/1gGwD0zDvyx0OnJU4KLjE8HrwnTlzI2rS) - makes interesting prompts for you, by @remi\_durant
 - [Noodle Soup Prompts v2.1](https://colab.research.google.com/github/WASasquatch/noodle-soup-prompts/blob/main/Noodle_Soup_Prompts_Prompt_Terminology_Generator_v2_1.ipynb) by WASasquatch  
-
 - [Neuralism Prompt Generator](https://colab.research.google.com/drive/1mrlY_mc-HdIxEHILY2BvA9u0mOjD2Ze5#scrollTo=tiOsdJV4u0FY) - generative art prompt generator
 
 ### Video
 
-###### Interpolation
+#### Interpolation
 
 - [Video Enhance AI](https://www.topazlabs.com/video-enhance-ai/ref/1354/) by Topaz Labs - commercial upscaling and frame interpolation <- excellent
 - [AnimationKit AI](https://colab.research.google.com/github/sadnow/AnimationKit-AI_Upscaling-Interpolation_RIFE-RealESRGAN/blob/main/AnimationKit_Rife_RealESRGAN_Upscaling_Interpolation.ipynb) - video upscaling and interpolation tool <- great
 - [FILM colab](https://colab.research.google.com/drive/1tbbbnQge0yb0LmnWNchEKNhjtBNC6jX-) - by @KyrickYoung has pause, loops, reverse <- my fave FILM  
-
 - [3D Ken Burns Effect from single image](https://colab.research.google.com/drive/1hxx4iSuAOyeI2gCL54vQkpEuBVrIv1hY) - animated video from 2D image  
-
 - [3D Photo Inpainting](https://colab.research.google.com/github/fzantalis/colab_collection/blob/master/3D_Photo_Inpainting.ipynb) - cool 3D effects for 2D images
 - [Animating Pictures with Eulerian Motion Fields](https://eulerian.cs.washington.edu/) - code not out yet, looks like it'll be awesome
 - [DAIN colab](https://colab.research.google.com/github/baowenbo/DAIN/blob/master/Colab_DAIN.ipynb) - depth aware interpolation
 - [EbSynth](https://ebsynth.com/) - stylize video by giving it ai or hand painted key frames from video
 - [ESRGAN 4 Video](https://colab.research.google.com/github/MSFTserver/AI-Colab-Notebooks/blob/main/ESRGAN_4_Video.ipynb) - increase resolution of video with ESRGAN  
-
 - [FILM: Frame Interpolation for Large Motion](https://github.com/google-research/frame-interpolation) - ([replicate link](https://replicate.com/google-research/frame-interpolation)) smooth interpolation/morphing  
-
 - [Flowframes](https://nmkd.itch.io/flowframes) - free Windows tool with patreon option, uses RIFE and other models  
-
 - [PyTTI-Tools: FILM](https://colab.research.google.com/github/pytti-tools/frame-interpolation/blob/main/PyTTI_Tools_FiLM-colab.ipynb) \- @DigThatData 's version of FILM for video frames
 - [RIFE](https://colab.research.google.com/github/HeylonNHP/RIFE-Colab/blob/main/RIFE_Colab.ipynb) - smooth interpolation of video to increase frame rate  
-
 - [Sequence Frame Interpolation](https://colab.research.google.com/drive/1VA3Mw2Cr3FoChBE7kQlqbS2W2z8DCdBB?usp=sharing) \- batch version of FILM
 - [Super Slomo](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/SuperSloMo.ipynb) \- another way to increase frame rate of video
 - [Video Art and Styling Tools](https://colab.research.google.com/drive/1Y3a76IS_dqqVqjVGuIFPu91dCUmASkB2) \- by @Coskaiy (style transfer, interpolation, superres, and more)
 
-###### Animation
+#### Animation
 
 - \[2022/11/03\] [FrameSync.xyz](https://www.framesync.xyz/) - Automate Deforum Keyframe animations with waveforms
 - \[2022/10/26\] [Tulpa Prompter](https://dreamingtulpa.com/tools/prompter) by @dreamingtulpa - helper to build animation prompts ([tweet](https://twitter.com/dreamingtulpa/status/1585368484212772864?s=20&t=Z_rnmEJ6W22sluwbjewvIg))
@@ -236,7 +208,6 @@ There are a TON of shared Google Colab notebooks floating around for doing text 
 - \[2022/03/31\] [PyDub Audio to Disco Diffusion Keyframe Generator v0.1](https://colab.research.google.com/gist/austinhquinn/52c9a845a3ede3541bf3890efda276e0/pydub-audio-to-disco-diffusion-keyframe-generator-v0-1.ipynb) by austinhquinn
 - \[2022/02/26\] [Wiggle animation key frame generator](https://colab.research.google.com/github/zippy731/wiggle/blob/main/Wiggle_Standalone_5_0.ipynb) by @zippy731
 - \[2022/02/23\] [audio-reactive-video](https://colab.research.google.com/github/vsewall/too_motion-colab-notebooks/blob/main/audio_reactive_video_v1_1.ipynb) - by @vsewall2motion, skip video frames based on volume  
-
 - [Keyframe string generator](https://keyframe-string-generator.glitch.me/) for AI animation notebooks
 - [Audio to keyframe string generator for AI animation notebooks](https://www.chigozie.co.uk/audio-keyframe-generator/)  
 
@@ -252,14 +223,11 @@ There are a TON of shared Google Colab notebooks floating around for doing text 
 - Great explanation of VQGAN+CLIP - [https://ljvmiranda921.github.io/notebook/2021/08/08/clip-vqgan/](https://ljvmiranda921.github.io/notebook/2021/08/08/clip-vqgan/)
 - Nice [overview of lots of different optimization algorithms](https://ruder.io/optimizing-gradient-descent/) SGD, Adam, RMSProp etc and their differences (also covered in this [lecture](https://www.youtube.com/watch?v=_JB0AO7QxSA&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=7))
 - Stanford's Convolutional Neural Networks class on YouTube - [https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
-
 - [ClipMatrix](https://colab.research.google.com/drive/1rT_NIYryAC1UNBsETm6XbgW3DWqIJnmf?usp=sharing) - text controlled 3D mesh deformation and stylization  
-
 - [CLIP-Mesh](https://colab.research.google.com/drive/15Fm4EhLlB20EugLUnTdhSJElvGVCU7Ys?usp=sharing) - text to 3D mesh with texture and normal map (still pretty simple and mixed results)
 - [DreamFields](https://colab.research.google.com/drive/1u5-zA330gbNGKVfXMW5e3cmllbfafNNB?usp=sharing) - latest text to 3D ([github](https://github.com/shengyu-meng/dreamfields-3D))
 - [ImageSorter](https://colab.research.google.com/github/pharmapsychotic/ai-notebooks/blob/main/pharmapsychotic_ImageSorter.ipynb) by @pharmapsychotic - sort images by similarity (nice for StyleGAN/FiLM animated loops)
 - [PIFuHD Colab](https://colab.research.google.com/drive/11z58bl3meSzo6kFqkahMa35G5jmh2Wgt) - Human photo to 3D mesh of the human  
-
 - [text2mesh](https://www.kaggle.com/code/neverix/text2mesh/notebook) - Kaggle notebook for text to 3D mesh
 - [Watermark images](https://colab.research.google.com/drive/1OjKvOEYUOA8d1sMPL3hBVeCryGxZW-e2?usp=sharing) - little notebook to add text watermark to images
 - [Zero-Shot Text-Guided Object Generation with Dream Fields](https://colab.research.google.com/drive/17GtPqdUCbG5CsmTnQFecPpoq_zpNKX7A?usp=sharing) - text to 3D render  
@@ -268,11 +236,8 @@ There are a TON of shared Google Colab notebooks floating around for doing text 
 
 - [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/) - really nice overview of Stable Diffusion and the pieces that make it up
 - AIAIART - really nice ongoing [youtube series](https://www.youtube.com/playlist?list=PL23FjyM69j910zCdDFVWcjSIKHbSB7NE8) and discussion in its [Discord](https://discord.com/invite/aq3kv4Mtcd)  
-
 - [Deep Learning for Art, Aesthetics, and Creativity](https://www.youtube.com/playlist?list=PLCpMvp7ftsnIbNwRnQJbDNRqO6qiN3EyH) - MIT course available on youtube  
-
 - [Dive into Deep Learning](https://d2l.ai/index.html) (online, free, interactive)  
-
 - [Generative Deep Learning](https://amzn.to/3FNr3ap): Teaching Machines to Paint, Write, Compose, and Play by David Foster \[2019\]  
     Really enjoyed this and it's a great book! It's from 2019 so doesn't cover the very latest like VQGAN, CLIP, guided diffusion though.
 - [The Artist in the Machine](https://amzn.to/32I0kOm): The world of AI-powered creativity by Arthur I. Miller \[2020\]  
@@ -281,7 +246,7 @@ There are a TON of shared Google Colab notebooks floating around for doing text 
 
 ## Cool Apps
 
-##### No Code AI Art tools
+### No Code AI Art Tools
 
 - [Artbreeder](https://www.artbreeder.com/) - StyleGAN model with "genes" (directions in latent space) for editing
 - [Artbreeder Collage](https://collage.artbreeder.com/) - CLIP guided diffusion on top of simple collages
@@ -301,18 +266,16 @@ There are a TON of shared Google Colab notebooks floating around for doing text 
 - [ProsePainter](https://www.prosepainter.com/) - interactive tool to "paint with words"
 - [runwayml](https://runwayml.com/) - video editing powered by AI
 - [snowpixel](https://snowpixel.app/) - text to image and variations  
-
 - [Stability.ai](https://stability.ai/beta-signup-form) - new Stable Diffusion model (sign up for the beta it is great!) 🔥🔥🔥
 - [StarryAI](https://www.starryai.com/) - text to image with easy selection of styles
 - [synth.run](https://www.synth.run/) - text to image app for iOS, Android, and web
 - [tokkingheads](https://www.tokkingheads.com/) - animate portraits with Ai
 - [uberduck.ai](https://uberduck.ai/speak) - text to speech with lots of different voices
 - [Visions of Chaos](https://softology.pro/voc.htm) - run the popular AI notebooks locally on Windows (see the Machine Learning setup steps)  
-
 - [Wombo](https://app.wombo.art/) - Super fast and free
 - [wzrd.ai](https://wzrd.ai/) - give it a music file and produce animation from big set of pretrained GANs
 
-##### Online Galleries to Showcase Art
+### Online Galleries to Showcase Art
 
 - OnCyber art galleries - [https://oncyber.io](https://oncyber.io/) - Cool 3D art gallery to showcase your art with links to NFT market
 - Spatial - [https://spatial.io](https://spatial.io/)
@@ -321,5 +284,4 @@ Has this guide been helpful to you? 🙂 You can follow me on twitter [@pharmaps
 
 ---
 
-
-#AI 
+#AI

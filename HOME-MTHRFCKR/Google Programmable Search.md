@@ -17,7 +17,7 @@ www.example.com/docs/*
 
 ---
 
-### MacOSX Crack Sites
+## MacOSX Crack Sites
 
 ```
 https://allmacworld.com/  
@@ -50,7 +50,7 @@ https://xmac.app/
 
 ---
 
-### Entire Domain
+## Entire Domain
 
 ```
 *.allmacworld.com/*
@@ -71,7 +71,7 @@ https://xmac.app/
 
 ---
 
-### Original URL
+## Original URL
 
 ```
 https://allmacworld.com/  
@@ -124,7 +124,7 @@ https://xmac.app/app?keywords=
 
 ---
 
-### Original Alt URL
+## Original Alt URL
 
 ```
 *.allmacworld.com/*  
@@ -177,7 +177,7 @@ xmac.app/app?keywords=*
 
 ---
 
-### Updated
+## Updated
 
 ```
 https://www.4download.net/software/mac*  
@@ -207,4 +207,4 @@ https://www.xmac.app/*
 
 ---
 
-#Search #CSE 
+#Search #CSE

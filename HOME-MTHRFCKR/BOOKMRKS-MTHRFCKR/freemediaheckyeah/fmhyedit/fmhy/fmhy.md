@@ -12,7 +12,7 @@
   - [devtools](devtools.md)
   - [downloadpiracyguide[devtools](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/freemediaheckyeah/fmhyedit/fmhy/devtools.md).md)[downloadpiracyguide](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/freemediaheckyeah/fmhyedit/fmhy/downloadpiracyguide.md)guide](edupiracyguide.md)
   - [fmhy](../../../../../..//home-mthrfckr/bookmrks-mthrfckr/freemediaheckyeah/fmhyedit/fmhy/fmhy.md)
-  - [game-tools](./game-[fmhy](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/freemediaheckyeah/fmhyedit/fmhy/fmhy.md)[misc-guide](misc-guide.md)
+  - [game-tools](./game-[fmhy](../../../../../..//home-mthrfckr/bookmrks-mthrfckr/freemediaheckyeah/fmhyedit/fmhy/fmhy.md)[misc-guide](misc-guide.md)
   - [readingpiracyguide](readingpiracyguide.md)
   - [site-hunting-guide](site-hunting-guide.md)
   - [storage](storage.md)

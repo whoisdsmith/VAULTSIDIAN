@@ -3,11 +3,11 @@
 ---
 
 %% Begin Waypoint %%
-- **[ansible](./ansible.md)**
-	- [ansible-concepts](./ansible-concepts.md)
-	- [ansible-tutorials](./ansible-tutorials.md)
-	- [ansible](./ansible.md)
-	- [readme](./readme.md)
+- **[ansible](../../../..//home-mthrfckr/documentation/ansible/ansible.md)**
+	- [ansible-concepts](ansible-concepts.md)
+	- [ansible-tutorials](ansible-tutorials.md)
+	- [ansible](../../../..//home-mthrfckr/documentation/ansible/ansible.md)
+	- [readme](readme.md)
 
 %% End Waypoint %%
 

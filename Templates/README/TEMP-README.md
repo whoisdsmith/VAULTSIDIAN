@@ -58,7 +58,7 @@ GitHub Template Repository for ScribeMD
     language, formats, and tooling formats.
   - Add any needed [CSpell](https://cspell.org/) dictionaries to
     [`cspell.config.yaml`](cspell.config.yaml).
-  - Update the [`../../../../../../../../../../../../license`](LICENSE) copyright year(s) if necessary.
+  - Update the [`../../../../../../../../../../../../license`](../../license) copyright year(s) if necessary.
   - Update the project name, description, and authors in
     [`pyproject.toml`](pyproject.toml).
   - Modif[`README.md`](../../..//templates/readme/temp-readme.md)ME.md)/README.md`](README.md) to document the new repository.

@@ -8,17 +8,17 @@
 ---
 
 %% Begin Waypoint %%
-- **[home-mthrfckr](./home-mthrfckr.md)**
-	- **[bookmrks-mthrfckr](./bookmrks-mthrfckr/bookmrks-mthrfckr.md)**
-	- **[documentation](./documentation/documentation.md)**
-	- [google programmable search](./google%20programmable%20search.md)
-	- [home-mthrfckr](./home-mthrfckr.md)
-	- **[macos](./macos/macos.md)**
-	- **[mental health](./mental%20health/mental%20health.md)**
-	- **[notes](./notes/notes.md)**
-	- **[osint](./osint/osint.md)**
-	- **[research](./research/research.md)**
-	- **[tweets](./tweets/tweets.md)**
-	- **[urls](./urls/urls.md)**
+- **[home-mthrfckr](../..//home-mthrfckr/home-mthrfckr.md)**
+	- **[bookmrks-mthrfckr](bookmrks-mthrfckr/bookmrks-mthrfckr.md)**
+	- **[documentation](documentation/documentation.md)**
+	- [google programmable search](google%20programmable%20search.md)
+	- [home-mthrfckr](../..//home-mthrfckr/home-mthrfckr.md)
+	- **[macos](macos/macos.md)**
+	- **[mental health](mental%20health/mental%20health.md)**
+	- **[notes](notes/notes.md)**
+	- **[osint](osint/osint.md)**
+	- **[research](research/research.md)**
+	- **[tweets](tweets/tweets.md)**
+	- **[urls](urls/urls.md)**
 
 %% End Waypoint %%

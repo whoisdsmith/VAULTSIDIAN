@@ -4,7 +4,7 @@
 
 %% Begin Waypoint %%
 - **[Bookies](../../../../..//home-mthrfckr/bookmrks-mthrfckr/awesome/bookies/bookies.md)**
-	- [aws](home-mthrfckr/bookmrks-mthrfckr/awesome/bookies/aws.md)
+	- [aws](aws.md)
 	- [bitbucket](bitbucket.md)
 	- [Bookies](../../../../..//home-mthrfckr/bookmrks-mthrfckr/awesome/bookies/bookies.md)
 	- [careerquiz-career-report](careerquiz-career-report.md)

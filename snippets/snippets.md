@@ -27,7 +27,7 @@
 	- [image adjustments](image%20adjustments.md)
 	- [images](images.md)
 	- [lines - horizontal](lines%20-%20horizontal.md)
-	- [links](links.md)
+	- [links](../links.md)
 	- [lists - (un)ordered](lists%20-%20(un)ordered.md)
 	- **[markdown-snippets](markdown-snippets/markdown-snippets.md)**
 		- [01.00-header](markdown-snippets/01.00-header.md)
