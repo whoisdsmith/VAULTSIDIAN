@@ -1,2 +1,0 @@
-https://mjl.clarivate.com/
-

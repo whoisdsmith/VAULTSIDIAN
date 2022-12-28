@@ -1,2 +1,0 @@
-http://www.scholarpedia.org/
-
