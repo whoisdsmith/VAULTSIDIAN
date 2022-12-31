@@ -1,8 +1,6 @@
 # More Features
 
-## More Features
-
-### Seedbox
+## Seedbox
 
 - [Seed4.Me](https://seed4.me/)
 - [MaxSpeedBox](https://maxspeedbox.com/home.html)
@@ -14,9 +12,9 @@
 - [SeedBoxBay](https://seedboxbay.com/)
 - [Evoseedbox](https://evoseedbox.com/)
 
-### Warez Content Creator
+## Warez Content Creator
 
-#### Courses/Tutorial/Guides
+### Courses/Tutorial/Guides
 
 - [pirate-haven](https://pirate-haven.github.io/)
 - [redacted Interview Prep](https://interviewfor.red/)
@@ -42,16 +40,16 @@
 - [Google Drive Library Tutorial : Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/)
 - [The Warez Scene: How it works : CrackWatch](https://www.reddit.com/r/CrackWatch/comments/92uz49/the_warez_scene_how_it_works/)
 
-#### EBOOKS
+### EBOOKS
 
 - [How to make a raw scan e-book using FineReader](http://ebooks.byethost6.com/scanning_howto.htm?i=1)
 
-#### Online Converters
+### Online Converters
 
 - [CloudConvert](https://cloudconvert.com/)
 - [TinyWow](https://tinywow.com/)
 
-#### Video/Audio Editing
+### Video/Audio Editing
 
 - [LosslessCut](https://mifi.github.io/lossless-cut/)
 - [Avidemux](https://avidemux.sourceforge.net/)
@@ -59,47 +57,47 @@
 - [Shutter Encoder](https://www.shutterencoder.com/)
 - [HandBrake](https://handbrake.fr/)
 
-#### CONVERTERS
+### CONVERTERS
 
-#### WINDOWS
+### WINDOWS
 
 - [Hybrid](https://www.selur.de/)
 - [Video to Video Converter](https://www.videotovideo.org/)
 
-#### LINUX
+### LINUX
 
 - [Hybrid](https://www.selur.de/)
 
-#### MAC
+### MAC
 
 - [Hybrid](https://www.selur.de/)
 
-#### .mkv Video Editing
+### .mkv Video Editing
 
 - [MKVToolNix](https://mkvtoolnix.download/)
 
-#### Audio Editing
+### Audio Editing
 
 - [SoX](https://sox.sourceforge.net/)
 
-#### CONVERTERS
+### CONVERTERS
 
 - [Online Audio Converter](https://online-audio-converter.com/)
 
-#### Pictures Editing
+### Pictures Editing
 
-#### CONVERTERS
+### CONVERTERS
 
 - [Convert JPG to PDF](https://www.convert-jpg-to-pdf.net/)
 - [PDF Candy](https://pdfcandy.com/)
 
-#### CONVERTERS
+### CONVERTERS
 
 - [ConvertImage](https://convertir-une-image.com/)
 
-#### Ebook Editing
+### Ebook Editing
 
-#### CONVERTERS
+### CONVERTERS
 
 - [OBAR.INFO](https://obar.info/)
 - [Kindle Comic Converter](https://kcc.iosphe.re/)
@@ -108,64 +106,64 @@
 - [PAPERTURN](https://www.paperturn.com/)
 - [Online ebook converter](https://ebook.online-convert.com/)
 
-#### Subtitle Editing
+### Subtitle Editing
 
 - [Subtitle Edit](https://www.nikse.dk/subtitleedit)
 - [Aegisub](https://github.com/Aegisub/Aegisub/)
 - [Subtitle Workshop](https://subworkshop.sourceforge.net/)
 
-#### CONVERTERS
+### CONVERTERS
 
 - [Subtitle Tools](https://subtitletools.com/convert-to-srt-online)
 - [CCExtractor](https://ccextractor.org/)
 - [subrip](http://zuggy.wz.cz/)
 
-#### Subtitle Translator
+### Subtitle Translator
 
 - [Subtitles Translator](https://subtitlestranslator.com/)
 
-#### Ebook Reader
+### Ebook Reader
 
 - [calibre](https://calibre-ebook.com/)
 - [calibre-web](https://github.com/janeczku/calibre-web)
 
-#### EPUB
+### EPUB
 
 - [EPUB Reader](https://www.neat-reader.com/)
 
-#### COMICS
+### COMICS
 
 - [YACReader](https://www.yacreader.com/)
 
-#### Manga Reader
+### Manga Reader
 
-#### ANDROID
+### ANDROID
 
 - [Manga Zone](https://mangazoneapp.com/)
 - [Tachiyomi](https://tachiyomi.org/)
 
-#### iOS
+### iOS
 
 - [Manga Zone](https://mangazoneapp.com/)
 
-#### Comic Reader
+### Comic Reader
 
 - [gazee](https://hub.docker.com/r/linuxserver/gazee/)
 
-#### CD/DVD Ripping
+### CD/DVD Ripping
 
 - [MakeMKV](https://makemkv.com/)
 - [HandBrake](https://handbrake.fr/)
 - [WonderFox DVD Ripper](https://www.videoconverterfactory.com/)
 
-#### CD Ripping
+### CD Ripping
 
 - [Exact Audio Copy](https://www.exactaudiocopy.de/)
 - [CUETools](http://cue.tools/wiki/Main_Page)
 
-#### Torrent Clients
+### Torrent Clients
 
-#### WINDOWS
+### WINDOWS
 
 - [qBittorrent](https://www.qbittorrent.org/)
 - [Deluge](https://www.deluge-torrent.org/)
@@ -173,7 +171,7 @@
 - [PicoTorrent](https://picotorrent.org/)
 - [Tribler](https://www.tribler.org/)
 
-#### ANDROID
+### ANDROID
 
 - [Transmission](https://transmissionbt.com/)
 - [Transdroid](http://www.transdroid.org/)
@@ -186,76 +184,76 @@
 - [Trireme for Deluge](https://f-droid.org/packages/org.deluge.trireme/)
 - [GitHub - proninyaroslav/libretorrent: Free and Open Source, full-featured torrent client for Android. Mirrored from https://gitlab.com/proninyaroslav/libretorrent](https://github.com/proninyaroslav/libretorrent)
 
-#### MAC
+### MAC
 
 - [qBittorrent](https://www.qbittorrent.org/)
 - [Deluge](https://www.deluge-torrent.org/)
 - [Transmission](https://transmissionbt.com/)
 - [Tribler](https://www.tribler.org/)
 
-#### LINUX
+### LINUX
 
 - [qBittorrent](https://www.qbittorrent.org/)
 - [Deluge](https://www.deluge-torrent.org/)
 - [Transmission](https://transmissionbt.com/)
 - [Tribler](https://www.tribler.org/)
 
-#### Multimedia Player
+### Multimedia Player
 
 - [VLC Media Player](https://www.videolan.org/vlc/)
 - [mpv](https://mpv.io/)
 
-#### Audio Player
+### Audio Player
 
 - [AIMP](https://www.aimp.ru/)
 
-#### IPTV Player
+### IPTV Player
 
 - [VLC Media Player](https://www.videolan.org/vlc/)
 - [TiviMate IPTV Player](https://play.google.com/store/apps/details?id=ar.tvplayer.tv)
 
-#### NFO Viewer
+### NFO Viewer
 
 - [iNFekt](https://infekt.ws/)
 - [jane](https://www.kifoth.de/jane/)
 
-#### Digital Media Analysis
+### Digital Media Analysis
 
 - [MediaInfo](https://mediaarea.net/en/MediaInfo)
 - [Fakin' The Funk?](https://fakinthefunk.net/)
 
-#### Ad Blocker
+### Ad Blocker
 
 - [uBlock Origin](https://ublockorigin.com/)
 
-#### WINDOWS
+### WINDOWS
 
 - [AdGuard](https://adguard.com/)
 
-#### Screen Recorder
+### Screen Recorder
 
 - [Open Broadcaster Software](https://obsproject.com/)
 
-#### File Archiver
+### File Archiver
 
 - [7-Zip](https://www.7-zip.org/index.html)
 
-#### Windows File Explorer Tools
+### Windows File Explorer Tools
 
 - [FileBot](https://www.filebot.net/)
 - [voidtools](https://www.voidtools.com/)
 - [Lumisoft](https://www.luminescence-software.org/)
 
-#### File Verification
+### File Verification
 
 - [QuickSFV](https://www.quicksfv.org/)
 
-#### Website Copier
+### Website Copier
 
 - [Website Copier](https://websitecopier.net/)
 - [HTTrack Website Copier](https://www.httrack.com/)
 
-### Warez Wikis
+## Warez Wikis
 
 - [WebOasis](https://weboasis.app/)
 - [Ripped](https://ripped.guide/)
@@ -278,29 +276,29 @@
 - [nbats/FMHYedit](https://github.com/nbats/FMHYedit)
 - [rippedpiracy/docs](https://github.com/rippedpiracy/docs)
 
-#### VIDEOGAMES
+### VIDEOGAMES
 
 - [r/PiratedGames](https://rentry.org/pgames-mega-thread)
 - [Rekulous/Pirated-Games](https://github.com/Rekulous/PiratedGames/blob/main/README.md)
 - [Rekulous/The-Piratez-List](https://github.com/Rekulous/The-Piratez-List/blob/main/The%20Safe%20Shores/Software.md)
 
-#### STREAMING
+### STREAMING
 
 - [Streaming Sites](https://streamingsites.com/)
 - [Best free streaming sites](https://www.bestfreestreaming.org/)
 
-#### TELEVISION
+### TELEVISION
 
-#### SPORT
+### SPORT
 
 - [BettingDude](https://bettingdude.com/sports-streaming-sites/)
 - [BettingDude](https://bettingdude.com/free-sports-streaming-sites/)
 
-#### DOCUMENTARIES
+### DOCUMENTARIES
 
 - [r/Documentaries](https://www.reddit.com/r/Documentaries/comments/h9pu7/my_big_list_of_documentary_sites_streaming_and/)
 
-#### TORRENTING
+### TORRENTING
 
 - [Torrends](https://torrends.to/)
 - [Opentrackers](https://opentrackers.org/)
@@ -308,21 +306,21 @@
 - [Tracker Status](https://trackerstatus.info/)
 - [XTORX](https://www.xtorx.com/)
 
-#### ANIMES
+### ANIMES
 
 - [The Index](https://theindex.moe/)
 - [Piracy.Wiki](https://piracy.wiki/)
 - [My Otaku Space](https://myotaku.space/)
 
-#### LEGAL
+### LEGAL
 
 - [r/anime](https://www.reddit.com/r/anime/wiki/legal_streams/)
 
-#### DOWNLOADERS
+### DOWNLOADERS
 
 - [Download Music School](https://downloadmusicschool.com/)
 
-#### EBOOKS
+### EBOOKS
 
 - [pearltrees ebooks](http://www.pearltrees.com/k/fr/ebooks)
 - [Ebooks | Pearltrees](http://www.pearltrees.com/gingerchopi/ebooks/id11529064)
@@ -331,55 +329,55 @@
 - [R Books | Pearltrees](http://www.pearltrees.com/galleman/r-books/id8004333)
 - [PDF/Ebooks | Pearltrees](http://www.pearltrees.com/gingerchopi/pdf-ebooks/id11529058)
 
-#### MANGAS
+### MANGAS
 
 - [MALSync](https://github.com/MALSync/MALSync/blob/master/pages.md)
 
-#### MATHEMATICS
+### MATHEMATICS
 
 - [Free Math Resources](https://free-math-resources.netlify.app/)
 
-#### FREE VPNS
+### FREE VPNS
 
 - [Free Proxy List](https://free-proxy-list.net/best-free-vpn.html)
 
-#### FREE WEB PROXYS
+### FREE WEB PROXYS
 
 - [Web Proxy List](https://www.xroxy.com/webproxylist.html)
 - [CyberSyndrome](http://www.cybersyndrome.net/link.html)
 - [Free Proxy List](https://free-proxy-list.net/web-proxy.html)
 
-#### TEMP MAILS
+### TEMP MAILS
 
 - [storage - FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_teamdrive_generators)
 
-#### DDOS
+### DDOS
 
 - [DDoSForHire](https://ddosforhire.net/)
 
-#### PREMIUM LINKS GENERATOR
+### PREMIUM LINKS GENERATOR
 
 - [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page)
 - [Free Premium Leeches/T](https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches/T)
 
-#### DOWNLOAD MANAGERS
+### DOWNLOAD MANAGERS
 
 - [r/DataHoarder](https://www.reddit.com/r/DataHoarder/wiki/software/#wiki_download_managers)
 
-#### SEEDBOX
+### SEEDBOX
 
 - [Seedbox Guide](https://seedboxgui.de/)
 
-#### FILE SHARING APPLICATIONS
+### FILE SHARING APPLICATIONS
 
 - [Framalibre](https://framalibre.org/tags/p2p)
 
 
-#### EMULATORS
+### EMULATORS
 
 - [Gamesmountain](https://gamesmountain.com/emulator/emulators/)
 
-#### DARKNET
+### DARKNET
 
 - [Darknetlive](https://darknetlive.com/onions/)
 - [dark.fail](https://dark.fail/)
@@ -391,40 +389,40 @@
 - [tor.cab](https://tor.cab/)
 - [dark.direct](https://dark.direct/)
 
-#### VENDORS
+### VENDORS
 
 - [http://ventora666wkeeitp2pvi6e4zowfllpghkkuchbvd5c3gcl4bzbdr3yd.onion/](http://ventora666wkeeitp2pvi6e4zowfllpghkkuchbvd5c3gcl4bzbdr3yd.onion/)
 
 
-### Search Engines
+## Search Engines
 
-#### ANIMES
+### ANIMES
 
 - [The /r/AnimePiracy B:CSE](https://ui.customsearch.ai/hosted-page?customconfig=12619b8a-0cac-4a38-b20b-04c79ddb616d&version=latest&market=en-US&q)
 - [Programmable Search Engine](https://cse.google.com/cse?cx=013420823012203834139:c0f9tfupfep)
 
-#### DARKNET
+### DARKNET
 
 - [OnionLand Search](https://onionlandsearchengine.com/)
 - [Tor Search](https://torsearch.com/)
 
-#### Cracked Windows apps/games
+### Cracked Windows apps/games
 
-#### Applications
+### Applications
 
 - [Rave Software Search](https://ravesoftwaresearch.pages.dev/)
 
-#### Videogames
+### Videogames
 
 - [Rave Game Search](https://ravegamesearch.pages.dev/)
 - [Rez](https://rezi.one/)
 
-#### Ebooks
+### Ebooks
 
 - [Rave Book Search](https://ravebooksearch.com/)
 - [Programmable Search Engine](https://cse.google.com/cse?cx=000661023013169144559:a1-kkiboeco)
 
-### File Searching
+## File Searching
 
 - [TavazSearch](https://tavaz.xyz/)
 - [FilePursuit](https://filepursuit.com/)
@@ -437,7 +435,7 @@
 - [RapidGator File Search Engine](https://rapidgators.net/file-search/)
 - [Linkvertise](https://linkvertise.com/)
 
-#### Open Directory Search Tools
+### Open Directory Search Tools
 
 - [Strixx](https://strixx.vercel.app/)
 - [lumpysoft](https://lumpysoft.com/)
@@ -445,28 +443,28 @@
 - [jimmyr](http://www.jimmyr.com/)
 - [Abifog](https://opendirsearch.abifog.com/)
 
-#### MUSIC
+### MUSIC
 
 - [Musgle](http://www.musgle.com/)
 
-#### Google Drive
+### Google Drive
 
 - [de🔸digger](https://www.dedigger.com/#gsc.tab=0)
 
-#### Usenet
+### Usenet
 
 - [BinTube](https://bintube.com/)
 
-#### FTP
+### FTP
 
 - [NAPALM FTP Indexer](https://www.searchftps.net/)
 - [Mamont](https://www.mmnt.ru/int/)
 
 ---
 
-### File Sharing
+## File Sharing
 
-#### File Sharing Applications
+### File Sharing Applications
 
 - [MUTE](https://mute-net.sourceforge.net/)
 - [WinMX World](https://www.winmxworld.com/)
@@ -510,11 +508,11 @@
 - [WireShare](https://sourceforge.net/projects/wireshare/)
 - [eMule Plus](https://sourceforge.net/projects/emuleplus/)
 
-#### FORUMS
+### FORUMS
 
 - [WinMX World](https://forum.winmxworld.com/index.php)
 
-#### Cloud Storage
+### Cloud Storage
 
 - [Filen](https://filen.io/)
 - [MegaBox](http://megabox.me/)
@@ -547,20 +545,20 @@
 - [mail.com](https://www.mail.com/cloud/)
 - [PikPak](https://mypikpak.com/)
 
-#### Cloud Transfer
+### Cloud Transfer
 
 - [Gmail Productivity Tools | Sync, Migration and Back up - cloudHQ](https://www.cloudhq.net/g_suite)
 - [cloud data migration | cloud to cloud transfer | Cloudsfer Data Migration](https://www.cloudsfer.com/)
 - [Fast Cloud File Migrations • Mover](https://mover.io/index.html)
 - [Air Explorer - Manage and synchronize multiple cloud storage services](https://www.airexplorer.net/en/)
 
-#### Cloud Mirrors
+### Cloud Mirrors
 
 - [MultCloud](https://www.multcloud.com/)
 
-#### Image Sharing
+### Image Sharing
 
-#### GIF
+### GIF
 
 - [Gfycat](https://gfycat.com/)
     
@@ -609,7 +607,7 @@
 - [Photobucket](https://photobucket.com/)
     
 
-#### Paste Sharing
+### Paste Sharing
 
 - [Pastebin](https://pastebin.com/)
 - [Rentry](https://rentry.org/)
@@ -645,7 +643,7 @@
 - [Shrib](https://shrib.com/#Avianna3zaK4oV)
 - [Wareziens](https://www.wareziens.net/paste_subdomain/index/)
 
-#### Stream Sharing
+### Stream Sharing
 
 - [StreamPlay](https://streamplay.to/)
 - [UpStream](https://upstream.to/)
@@ -657,7 +655,7 @@
 - [GO Unlimited](https://gounlimited.to/)
 - [Streamza](https://streamza.com/)
 
-#### Sharing Mirrors
+### Sharing Mirrors
 
 - [Mirrored](https://www.mirrored.to/)
 - [MirrorAce](https://mirrorace.com/)
@@ -669,34 +667,34 @@
 - [Multi-UP](http://multi-up.com/)
 - [uploadonall](http://www.uploadonall.com/)
 
-#### Request Bin
+### Request Bin
 
 - [RequestBin](https://requestbin.com/)
 
-#### "Special"
+### "Special"
 
 - [Snapdrop](https://snapdrop.net/)
 
-#### Link Protectors
+### Link Protectors
 
 - [keeplinks](https://www.keeplinks.org/)
 - [ToLink](https://tolink.to/)
 
-#### DARKNET
+### DARKNET
 
 - [Black Cloud](http://bcloudwenjxgcxjh6uheyt72a5isimzgg4kv5u74jb2s22y3hzpwh6id.onion/)
 - [CryptBB](http://cryptbbmgu4offops7nj676thvibogf2mokfv2vlmvnsrzdh5xtdvhqd.onion/)
 
 ---
 
-### Link Money
+## Link Money
 
 - [Clictune](https://www.clictune.com/)
 - [Shorte](https://shorte.st/)
 - [exe.io](https://exe.io/)
 - [AdFly](https://adf.ly/)
 
-### Release Logs
+## Release Logs
 
 - [srrDB](https://www.srrdb.com/)
 - [PREdb](https://predb.ovh/)
@@ -712,19 +710,19 @@
 - [NFO Viewer](https://scene.crackhub.site/)
 - [r/LinuxCrackSupport](https://www.reddit.com/r/LinuxCrackSupport/wiki/index/)
 
-#### ANIMES
+### ANIMES
 
 - [SeaDex](https://sneedex.moe/)
 - [A Certain Fansubber's Index](https://docs.google.com/spreadsheets/d/1PJYwhjzLNPXV2X1np-S4rdZE4fb7pxp-QbHY1O0jH6Q/htmlview)
 
-#### AUDIO
+### AUDIO
 
 - [Offical Pro Audio Release Log](https://upawg.ca/)
 - [MusicBrainz](https://musicbrainz.org/)
 - [Discogs](https://www.discogs.com/)
 - [Beatport](https://www.beatport.com/)
 
-#### VIDEOGAMES
+### VIDEOGAMES
 
 - [Steam Cracked Games](https://steamcrackedgames.com/)
 - [NSW Releases](http://nswdb.com/)
@@ -734,55 +732,55 @@
 - [r/Crack Status](https://www.reddit.com/r/CrackStatus/)
 - [r/QuestPiracy](https://www.reddit.com/r/QuestPiracy/wiki/index/)
 
-#### NZB
+### NZB
 
 - [NZBIndex](https://nzbindex.com/)
 - [Binsearch](https://binsearch.info/)
 - [NZBKing](https://nzbking.com/)
 
-#### SCENE RULES
+### SCENE RULES
 
 - [scenerules](https://scenerules.org/)
 
-#### MOVIES
+### MOVIES
 
 - [IMDb](https://www.imdb.com/)
 - [The Movie Database (TMDB)](https://www.themoviedb.org/?language=fr)
 - [RedList](http://www.redlist-db.be/)
 - [DVDFr](https://www.dvdfr.com/)
 
-#### RARE
+### RARE
 
 - [L'Arène d'Airain](http://larenedairain.fr/)
 
-#### VSH
+### VSH
 
 - [VHSdb](http://vhsdb.org/)
 
-#### SCIENCE-FICTION
+### SCIENCE-FICTION
 
 - [scifist](https://scifist.net/)
 
-#### SERIES
+### SERIES
 
 - [IMDb](https://www.imdb.com/)
 - [The Movie Database (TMDB)](https://www.themoviedb.org/?language=fr)
 - [RedList](http://www.redlist-db.be/)
 - [DVDFr](https://www.dvdfr.com/)
 
-#### ANIMES
+### ANIMES
 
 - [MyAnimeList](https://myanimelist.net/)
 - [Planète Jeunesse](http://www.planete-jeunesse.com/)
 - [AniDB](https://anidb.net/anime)
 
-#### EBOOKS
+### EBOOKS
 
-#### MANGAS
+### MANGAS
 
 - [MyAnimeList](https://myanimelist.net/)
 
-### AudioBooks
+## AudioBooks
 
 - [AudioBook Bay](https://audiobookbay.fi/)
 - [AudioBB](https://audiobb.com/)
@@ -805,15 +803,15 @@
 - [Read Free From Internet](https://readfrom.net/)
 - [App Audio Books](https://appaudiobooks.com/)
 
-#### FORUMS
+### FORUMS
 
 - [AudioBook Bay Forum](https://audiobookbay.fi/forum/)
 
-#### DARKNET
+### DARKNET
 
 - [Just Another Library](http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion/archives/audiobooks/)
 
-### Ebooks
+## Ebooks
 
 - [Library Genesis](https://libgen.rs/)
 - [Library Genesis](https://libgen.gs/)
@@ -873,11 +871,11 @@
 - [Publication search - e-nautia](https://e-nautia.com/search/?t=publications)
 - [Dataset Search](https://datasetsearch.research.google.com/)
 
-#### SERVERS
+### SERVERS
 
 - [The Eye](https://the-eye.eu/public/Books/)
 
-#### MAGAZINES
+### MAGAZINES
 
 - [DownMagaz](https://downmagaz.net/)
 - [MAGAZINELIB](https://magazinelib.com/)
@@ -886,11 +884,11 @@
 - [YUMPU News](https://www.yumpu.com/news/en)
 - [Magazine PDF](https://freemagazines.top/)
 
-#### LEGAL
+### LEGAL
 
 - [rock6070](http://www.rock6070.com/Vapeur.html)
 
-#### MANGAS
+### MANGAS
 
 - [All Anime Site](https://allanime.site/manga)
 - [MangaReader](https://mangareader.to/)
@@ -950,7 +948,7 @@
 - [NEPTISE SCANS](https://neptise.livejournal.com/)
 - [r/manga](https://www.reddit.com/r/manga/)
 
-#### NOVELS
+### NOVELS
 
 - [Free Web Novel](https://freewebnovel.com/)
 - [All Novel](https://allnovel.org/)
@@ -970,7 +968,7 @@
 - [That Novel Corner](https://thatnovelcorner.com/)
 - [AzyNovel](https://azynovel.com/)
 
-#### COMICS
+### COMICS
 
 - [ReadComicOnline](https://readcomiconline.li/)
 - [Read Comics Online](https://readcomicsonline.ru/)
@@ -990,15 +988,15 @@
 - [Mister Kitty](https://misterkitty.org/)
 - [British Comics Compilations](https://britishcomicscompilations.wordpress.com/)
 
-#### SERVERS
+### SERVERS
 
 - [The Eye](https://the-eye.eu/public/Comics/)
 
-#### Comic Applications
+### Comic Applications
 
 - [ComicK](https://comick.fun/install_app)
 
-#### COMPUTER SCIENCE
+### COMPUTER SCIENCE
 
 - [LearnEngineering](https://learnengineering.in/)
 - [eBooks-IT](https://ebooks-it.org/)
@@ -1014,7 +1012,7 @@
 - [ScanLibs](https://scanlibs.com/)
 - [CoderProg](https://coderprog.com/)
 
-#### SCIENCE
+### SCIENCE
 
 - [Sci-Hub](https://sci-hub.se/)
 - [Sci-Hub](https://sci-hub.st/)
@@ -1024,24 +1022,24 @@
 - [Digital Einstein Papers Home](https://einsteinpapers.press.princeton.edu/)
 - [Physics Forums](https://www.physicsforums.com/)
 
-#### MAGAZINES
+### MAGAZINES
 
 - [scientificmagazines](http://scientificmagazines.top/)
 
-#### MATHEMATICS
+### MATHEMATICS
 
 - [Real Not Complex](https://realnotcomplex.com/)
 - [ClassicalRealAnalysis](http://classicalrealanalysis.info/)
 
-#### SCHOLARLY
+### SCHOLARLY
 
 - [arXiv](https://arxiv.org/)
 
-#### CRYPTOLOGY
+### CRYPTOLOGY
 
 - [Cryptology ePrint Archive](https://eprint.iacr.org/)
 
-#### LEGAL
+### LEGAL
 
 - [INTERNET ARCHIVE - Books](https://archive.org/details/books)
 - [Google Books](https://books.google.com/)
@@ -1052,14 +1050,14 @@
 - [Wikibooks](https://www.wikibooks.org/)
 - [Online Library of Liberty](https://oll.libertyfund.org/)
 
-#### FORUMS
+### FORUMS
 
 - [Library Genesis](https://forum.mhut.org/)
 - [LG Forum](https://libgen.gs/community/)
 - [MobileRead](https://www.mobileread.com/)
 - [Ebooks-shares](https://ebooks-shares.org/account-login.php?returnto=%2F)
 
-#### DARKNET
+### DARKNET
 
 - [Z-Library](http://fr.zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion/)
 - [GenoType](http://libgenfrialc7tguyjywa36vtrdcplwpxaw43h6o63dmmwhvavo5rqqd.onion/)
@@ -1070,21 +1068,21 @@
 - [Bible4u](https://bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion/)
 - [PsychonautWiki](http://vvedndyt433kopnhv6vejxnut54y5752vpxshjaqmj7ftwiu6quiv2ad.onion/wiki/Main_Page)
 
-#### COMICS
+### COMICS
 
 - [Comic Book Library](http://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion/)
 
-#### MAGAZINES
+### MAGAZINES
 
 - [Telecharger Magazines](https://telecharger-magazines.com/)
 - [DownMagaz](https://fr.downmagaz.net/)
 - [YUMPU](https://www.yumpu.com/fr/browse)
 
-#### ABANDONWARES
+### ABANDONWARES
 
 - [Magazines Abandonwares](https://www.abandonware-magazines.org/)
 
-#### MANGAS
+### MANGAS
 
 - [ReaperScansFR](https://reaperscans.fr/)
 - [Scantrad](https://scantrad.net/)
@@ -1100,59 +1098,59 @@
 - [Scan One Piece](https://www.scan-vf.net/)
 - [LelscanVF](https://lelscanvf.com/)
 
-#### COMICS
+### COMICS
 
 - [Yogi, Scooby et Tutti Quanti](http://yogiscoobyetuttiquanti.unblog.fr/)
 
-#### FORUMS
+### FORUMS
 
 - [EmuleBDZ](https://ebdz.xyz/forum/)
 
-#### MAGAZINES
+### MAGAZINES
 
 - [DownMagaz](https://de.downmagaz.net/)
 - [YUMPU](https://www.yumpu.com/de/browse)
 - [YUMPU News](https://www.yumpu.com/news/de)
 
-#### MANGAS
+### MANGAS
 
 - [Kanjiku](https://kanjiku.net/)
 - [COMIX-LOAD](https://comix-load.in/manga-index-german/)
 
-#### COMICS
+### COMICS
 
 - [COMIX-LOAD](https://comix-load.in/a-z-index-german/)
 
-#### MAGAZINES
+### MAGAZINES
 
 - [DownMagaz](https://it.downmagaz.net/)
 
-#### MANGAS
+### MANGAS
 
 - [LupiTeam](https://lupiteam.net/)
 
-#### CLASSIC
+### CLASSIC
 
 - [AnimeShinigami Fansub](https://animeshinigami.altervista.org/joomla/)
 
-#### MAGAZINES
+### MAGAZINES
 
 - [DownMagaz](https://es.downmagaz.net/)
 
-#### MANGAS
+### MANGAS
 
 - [TuMangaOnline](https://lectortmo.com/)
 - [Mangadoor](http://mangadoor.com/)
 
-#### CLASSIC
+### CLASSIC
 
 - [El Cuento](http://www.elcuentorevistadeimaginacion.org/indexcuento.php)
 
-#### SCIENCE
+### SCIENCE
 
 - [SciELO](https://scielo.conicyt.cl/)
 
-### Musics
+## Musics
 
 - [New Album Releases](https://newalbumreleases.net/)
 - [slider](https://slider.kz/)
@@ -1185,7 +1183,7 @@
 - [RipRequests!](https://www.reddit.com/r/riprequests/)
 - [r/deemix](https://www.reddit.com/r/deemix/)
 
-#### VIDEOGAMES
+### VIDEOGAMES
 
 - [Video Game Music Downloads](https://downloads.khinsider.com/)
 - [VGMusic](https://www.vgmusic.com/)
@@ -1193,7 +1191,7 @@
 - [FILMMUSIC](http://filmmusic.ru/category/soundtrack-game/)
 - [OverClocked ReMix](https://ocremix.org/)
 
-#### ANIMES
+### ANIMES
 
 - [All Anime Site](https://allanime.site/music)
 - [Hikarinoakariost](https://hikarinoakari.com/)
@@ -1201,53 +1199,53 @@
 - [Sitting on Clouds](https://www.sittingonclouds.ru/anim)
 - [FILMMUSIC](http://filmmusic.ru/category/soundtrack-animation/)
 
-#### MOVIES
+### MOVIES
 
 - [FILMMUSIC](http://filmmusic.ru/category/soundtrack-movie/)
 
-#### LYRICS
+### LYRICS
 
-#### ANIMES
+### ANIMES
 
 - [Anime Lyrics](https://www.animelyrics.com/)
 
-#### BOLLYWOOD
+### BOLLYWOOD
 
 - [dR Music](https://www.desirulez.cc/forumdisplay.php/26-dR-Music)
 
-#### FORUMS
+### FORUMS
 
 - [DTS Metal](https://dts-metal.com/)
 
-#### Music Applications
+### Music Applications
 
 - [Soulseek](https://www.slsknet.org/news/)
 - [Nicotine+](https://nicotine-plus.org/)
 - [deemix](https://deemix.app/)
 - [mrusse/Slsk-Upload-Stats-Tracker: A utility to track, save and view stats on your soulseek uploads](https://github.com/mrusse/Slsk-Upload-Stats-Tracker)
 
-#### Search and Download
+### Search and Download
 
 - [MP3Juices](https://www.mp3juices.cc/)
 - [BeeMP3](https://beemp3s.net/)
 
-#### FORUMS
+### FORUMS
 
 - [Pirate-Punk](https://www.pirate-punk.net/)
 
-#### SOUNDTRACKS
+### SOUNDTRACKS
 
 - [FILMMUSIC](http://filmmusic.ru/)
 
-#### FORUMS
+### FORUMS
 
 - [Metal Torrent Tracker](https://www.metal-tracker.com/)
 
-#### LYRICS
+### LYRICS
 
 - [lyrciskeeper](https://lyricskeeper.pl/)
 
-### Courses/Tutorial/Guides
+## Courses/Tutorial/Guides
 
 - [Course Club](https://courseclub.me/)
 - [FreeCourseSite](https://freecoursesite.com/)
@@ -1260,30 +1258,30 @@
 - [DiscUdemy](https://www.discudemy.com/)
 - [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui)
 
-#### LEGAL
+### LEGAL
 
 - [Ethical Hacking Tutorials](https://www.hacking-tutorial.com/)
 - [AllTypeHacks](https://www.alltypehacks.net/)
 - [MS Guides](https://msguides.com/)
 - [MOOC](https://www.mooc.fi/)
 
-#### FORUMS
+### FORUMS
 
 - [GFXDomain Forums](https://forum.gfxdomain.net/forums/others-tutorials.42/)
 
-#### DARKNET
+### DARKNET
 
 - [Just Another Library](http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion/archives/courses/)
 
 
 
-### Spoofing
+## Spoofing
 
 - [Technitium MAC Address Changer](https://technitium.com/tmac/)
 - [VolumeID](https://learn.microsoft.com/en-us/sysinternals/downloads/volumeid)
 - [AntiOS](https://github.com/vektort13/AntiOS)
 
-### Piracy Proxys
+## Piracy Proxys
 
 - [Sites Unblocked](https://isosite.org/)
 - [Unblocked](https://siteunblocked.info/)
@@ -1292,14 +1290,14 @@
 - [UNBLOCKIT](https://unblockit.page/)
 - [Immortal Proxy](https://immortalproxy.com/)
 
-### Scammers Exposed
+## Scammers Exposed
 
-#### DDoS
+### DDoS
 
 - [DDoSForHire](https://ddosforhire.net/scam.php)
 - [Quez Stresser](https://quez.in/scammers)
 
-#### VIDEOGAMES
+### VIDEOGAMES
 
 - [x1gz0rbix1721.jpg (JPEG Image, 1920 × 1080 pixels)—Scaled (86%)](https://i.redd.it/x1gz0rbix1721.jpg)
 - [Screenshot\_275.png - Imgur](https://imgur.com/pNjo10d)
@@ -1320,52 +1318,52 @@
 - [CorePack's dirty tactics.. : CrackWatch](https://www.reddit.com/r/CrackWatch/comments/8x8ct8/corepacks_dirty_tactics/)
 - [\[Crack Watch\] Decision was made: Corepack is suspended from posting on reddit : CrackWatch](https://www.reddit.com/r/CrackWatch/comments/8x9wra/crack_watch_decision_was_made_corepack_is/)
 
-#### WAREZ WIKIS
+### WAREZ WIKIS
 
 - [add Illegal Services by Illegal-Services · Pull Request #60 · rippedpiracy/docs · GitHub](https://github.com/rippedpiracy/docs/pull/60)
 
-### Covers
+## Covers
 
-#### CD
+### CD
 
 - [CoverTarget](https://covertarget.com/)
 - [Classic Rock Covers Database](https://www.classic-rock-covers.com/)
 
-#### DVD
+### DVD
 
 - [CoverCity](https://www.covercity.net/)
 - [monsters-from-the-grave](https://monsters-from-the-grave.over-blog.com/)
 
-### XDCC IRC
+## XDCC IRC
 
 - [SunXDCC](https://sunxdcc.com/)
 - [XDCC](https://www.xdcc.eu/)
 
-#### ANIMES
+### ANIMES
 
 - [nibl](https://nibl.co.uk/)
 
-#### EBOOKS
+### EBOOKS
 
 - [irchighway](http://ebooks.byethost6.com/index.html)
 
-### Bypasser
+## Bypasser
 
 - [FastForward](https://fastforward.team/)
 - [manuGMG/debrid-scripts: 1Fichier Debrid Scripts.](https://github.com/manuGMG/debrid-scripts)
 
-#### Linkvertise
+### Linkvertise
 
 - [bypass.vip](https://bypass.vip/)
 - [bypass.fusedgt](https://bypass.fusedgt.com/)
 - [Linkvertise Bypasser](https://thebypasser.com/)
 - [Bypasser Online](https://bypasser.online/)
 
-### Emulators
+## Emulators
 
 - [RetroArch](https://retroarch.com/)
 
-#### Android
+### Android
 
 - [LDPlayer](https://www.ldplayer.net/)
 - [GameLoop](https://www.gameloop.com/)
@@ -1373,88 +1371,88 @@
 - [Andy](https://www.andyroid.net/)
 - [Noxplayer](https://www.bignox.com/)
 
-#### Xbox
+### Xbox
 
 - [xemu](https://xemu.app/)
 
-#### Xbox 360
+### Xbox 360
 
 - [xenia](https://xenia.jp/)
 
-#### PlayStation 1
+### PlayStation 1
 
 - [DuckStation](https://www.duckstation.org/)
 - [ePSXe](https://www.epsxe.com/)
 
-#### Playstation 2
+### Playstation 2
 
 - [PCSX2](https://pcsx2.net/)
 
-#### PlayStation 3
+### PlayStation 3
 
 - [RPCS3](https://rpcs3.net/)
 
-#### PlayStation Portable
+### PlayStation Portable
 
 - [PPSSPP](https://www.ppsspp.org/)
 
-#### Nintendo 3DS
+### Nintendo 3DS
 
 - [Citra](https://citra-emu.org/)
 
-#### Nintendo DS
+### Nintendo DS
 
 - [DeSmuME](https://desmume.org/)
 - [melonDS](https://melonds.kuribo64.net/)
 - [No$GBA](https://www.nogba.com/)
 
-#### Nintendo 64
+### Nintendo 64
 
 - [Project64](https://www.pj64-emu.com/)
 
-#### Nintendo Switch
+### Nintendo Switch
 
 - [Ryujinx](https://ryujinx.org/)
 - [yuzu](https://yuzu-emu.org/)
 
-#### Super Nintendo Entertainment System
+### Super Nintendo Entertainment System
 
 - [Snes9X](https://www.snes9x.com/)
 - [ZSNES](https://www.zsnes.com/)
 
-#### Wii-U
+### Wii-U
 
 - [Cemu Emulator](http://cemu.info/)
 
-#### Wii
+### Wii
 
 - [Dolphin Emulator](https://dolphin-emu.org/)
 
-#### GameCube
+### GameCube
 
 - [Dolphin Emulator](https://dolphin-emu.org/)
 
-#### Game Boy Advance
+### Game Boy Advance
 
 - [mGBA](https://mgba.io/)
 - [No$GBA](https://www.nogba.com/)
 
-#### Game Boy Color
+### Game Boy Color
 
 - [SameBoy](https://sameboy.github.io/)
 
-#### Game Boy
+### Game Boy
 
 - [SameBoy](https://sameboy.github.io/)
 
-#### Sega Dreamcast
+### Sega Dreamcast
 
 - [nullDC](https://segaretro.org/NullDC)
 
-### Uncategorized
+## Uncategorized
 
 
-#### WordPress
+### WordPress
 
 - [https://uptobox815521139.wordpress.com/](https://uptobox815521139.wordpress.com/)
 - [https://moviemegaupload.wordpress.com/](https://moviemegaupload.wordpress.com/)
@@ -1533,7 +1531,7 @@
 - [https://popculturemecha.wordpress.com/](https://popculturemecha.wordpress.com/)
 - [https://animahou.wordpress.com/](https://animahou.wordpress.com/)
 
-#### Gits
+### Gits
 
 - [https://notabug.org/sayem314/d-fi](https://notabug.org/sayem314/d-fi)
 - [Yaroslav Pronin / libretorrent · GitLab](https://gitlab.com/proninyaroslav/libretorrent)
@@ -2339,7 +2337,7 @@
 - [Wamy-Dev/ReziWebsite: Official GitHub for the Rezi Website](https://github.com/Wamy-Dev/ReziWebsite)
 - [streamroot/clappr-p2phls-plugin: BemTV peer-to-peer plugin for Clappr Player (HTTP Live Streaming, HLS, WebRTC, P2P)](https://github.com/streamroot/clappr-p2phls-plugin)
 
-#### Reddit
+### Reddit
 
 - [Reddit - Dive into anything](https://www.reddit.com/r/IPTV)
 - [Clone of megalinks with less strict rules](https://www.reddit.com/r/MegaLinks4U/)
@@ -2514,9 +2512,9 @@
 - [Unreleased Disco](https://www.reddit.com/r/UnreleasedDisco/)
 - [https://www.reddit.com/r/SoftwarePirates/](https://www.reddit.com/r/SoftwarePirates/)
 
-### Darknet
+## Darknet
 
-#### Wikis
+### Wikis
 
 - [dark.fail](http://darkfailenbsdla5mal2mxn2uz66od5vtzd5qozslagrfzachha3f3id.onion/)
 - [OnionLinks](http://s4k4ceiapwwgcm3mkb6e4diqecpo7kvdnfr5gg7sph7jjppqkvwwqtyd.onion/)
@@ -2540,7 +2538,7 @@
 - [Deep Links Dump](http://deepqelxz6iddqi5obzla2bbwh5ssyqqobxin27uzkr624wtubhto3ad.onion/)
 - [Trusted Links](http://5o4s6gxvrxpojeltpx4gkprws5dnlaw3vpqny6xh5hyfn6n74ywbfjyd.onion/)
 
-#### Search Engines
+### Search Engines
 
 - [Kraken](http://krakenai2gmgwwqyo7bcklv2lzcvhe7cxzzva2xpygyax5f33oqnxpad.onion/)
     

@@ -1,6 +1,4 @@
-# Modded Android appsgames
-
-## Modded Android apps/games
+# Modded Android apps/games
 
 - [A2Z APK](https://a2zapk.com/)
 - [ANDROID ZONE](https://android-zone.ws/)
@@ -45,7 +43,7 @@
 - [r/ApksApps](https://www.reddit.com/r/ApksApps/)
 - [UnlockAPK | AdFree Tool](https://unlockapk.com/AdFree-Tool.php)
 
-### FORUMS
+## FORUMS
 
 - [Platinmods](https://platinmods.com/)
 - [Mobilism](https://forum.mobilism.org/index.php)
@@ -53,9 +51,9 @@
 - [BlackMod](https://blackmod.net/)
 - [r/Modded Android Apps](https://www.reddit.com/r/moddedandroidapps/)
 
-### Modded YouTube
+## Modded YouTube
 
-#### Vanced
+### Vanced
 
 - [YouTube Vanced](https://vancedapp.com/)
 - [YouTube Vanced](https://youtubevanced.ru/)
@@ -67,13 +65,13 @@
 - [Best YouTube Vanced alternatives: NewPipe, SkyTube, LibreTube, & more!](https://www.xda-developers.com/best-youtube-vanced-alternatives/#kiwi)
 - [Best YouTube Vanced alternatives: NewPipe, SkyTube, LibreTube, & more!](https://cutelearner.com/best-youtube-vanced-alternatives/)
 
-#### Pure Tuber
+### Pure Tuber
 
 - [Pure Tuber](https://www.puretuber.com/)
 - [Pure Tuber](https://puretuber.ru/)
 - [PureTuber (ex. Vanced Tuber)](https://4pda.to/forum/index.php?showtopic=1013193)
 
-#### Youtube Pink (no legit/official mirrors)
+### Youtube Pink (no legit/official mirrors)
 
 - [YouTube Pink](https://iodroid.net/ru/youtube-pink)
     
@@ -118,7 +116,7 @@
 - [SkyTubeTeam/SkyTube: Copylefted libre / open source YouTube player for Android](https://github.com/SkyTubeTeam/SkyTube)
     
 
-#### iOS
+### iOS
 
 - [YT ++ for YouTube](https://4pda.to/forum/index.php?showtopic=993633)
 - [\[Release\] Cercube iPA for non-jailbreak users, include Cercube 5.2.12 & Youtube 16.10.5 & YTUHD. Also Spotify++ 8.6.10 : sideloaded](https://www.reddit.com/r/sideloaded/comments/m8h3jt/release_cercube_ipa_for_nonjailbreak_users/)
@@ -126,18 +124,18 @@
 - [qnblackcat/uYouPlus: uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!](https://github.com/qnblackcat/uYouPlus)
 - [qnblackcat/CercubePlus: Cercube with extra features](https://github.com/qnblackcat/CercubePlus)
 
-#### BROWSERS
+### BROWSERS
 
 - [Brave](https://brave.com/)
 
-#### BROWSERS (Add-ons supported)
+### BROWSERS (Add-ons supported)
 
 - [Kiwi Browser](https://kiwibrowser.com/)
 - [Iceraven](https://github.com/fork-maintainers/iceraven-browser)
 
-### Modded YouTube Music
+## Modded YouTube Music
 
-#### Vanced
+### Vanced
 
 - [YouTube Vanced](https://vancedapp.com/)
     
@@ -158,23 +156,23 @@
 - [SongTube/SongTube-App: Simple & Beautiful App (Tool) made in Flutter to Download Media from YouTube](https://github.com/SongTube/SongTube-App)
     
 
-### Modded Telegram
+## Modded Telegram
 
 - [Nekogram](https://nekogram.app/)
 - [NekoX](https://github.com/NekoX-Dev/NekoX)
 
-### Modded Instagram
+## Modded Instagram
 
 - [Instagram Mods](https://www.instamod.net/)
 - [Instander](https://thedise.me/instander/)
 
-### Modded Whats App
+## Modded Whats App
 
 - [WhatsApp Mods](https://www.whatsappmods.net/)
 - [CyberFlix](https://cyberflix.info/category/whatsapp-mods/)
 - [Fouad MODS](https://www.fouadmods.net/)
 
-### Modded Twitter
+## Modded Twitter
 
 - [TwitPane](https://twitpane.com/)
 - [TwitPane](https://play.google.com/store/apps/details?id=com.twitpane)
@@ -182,22 +180,22 @@
 - [TwitPane for Twitter - 4PDA](https://4pda.to/forum/index.php?showtopic=595234&st=120)
 - [Twitpane v15.3.1 \[Mod\] - Android Applications - ANDROID ZONE](https://android-zone.ws/topic/228316-twitpane-v1531-mod/)
 
-### Modded Kik
+## Modded Kik
 
 - [Blue Kik](https://bluesmods.com/bluekik/)
 
-### Modded Discord
+## Modded Discord
 
 - [Bluecord](https://bluesmods.com/bluecord/)
 - [Aliucord](https://github.com/Aliucord/Aliucord)
 
-### Modded Spotify
+## Modded Spotify
 
 - [xManager-v2](https://github.com/xManager-v2/xManager-Spotify)
 
-### Modded Android apps/games Applications
+## Modded Android apps/games Applications
 
-#### ANDROID
+### ANDROID
 
 - [WorldSrc Mobile Application](https://worldsrc.net/WorldSrcApp/)
 - [ACMarket](https://acmarket.net/)

@@ -448,7 +448,7 @@
 
 </details><details> <summary>xtras-01-inline-html/</summary>
 
-## [xtras-01-inline-html/keyboard.md](keyboard.md)
+## [xtras-01-inline-html/keyboard.md](snippets/markdown-snippets/keyboard.md)
 
 <kbd>Strg+X</kbd>  
 <kbd>Strg</kbd> + <kbd>X</kbd>  

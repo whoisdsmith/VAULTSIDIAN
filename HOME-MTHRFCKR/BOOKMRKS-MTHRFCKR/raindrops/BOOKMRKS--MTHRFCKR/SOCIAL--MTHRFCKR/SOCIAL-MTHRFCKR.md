@@ -28,7 +28,7 @@
 
 - [PEOPLE-TO-FOLLOW](PEOPLE-TO-FOLLOW.md)
 
-- [PODCASTS](PODCASTS.md)
+- [PODCASTS](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/SOCIAL--MTHRFCKR/PODCASTS.md)
 
 - [REDDIT](REDDIT.md)
 

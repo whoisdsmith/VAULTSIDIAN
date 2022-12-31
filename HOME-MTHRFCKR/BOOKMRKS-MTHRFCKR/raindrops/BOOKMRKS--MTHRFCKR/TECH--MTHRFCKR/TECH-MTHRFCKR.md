@@ -2,7 +2,7 @@
 
 ---
 
-- [MOBILE](MOBILE.md)
+- [MOBILE](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/TECH--MTHRFCKR/MOBILE.md)
 
 - [PC](PC.md)
 

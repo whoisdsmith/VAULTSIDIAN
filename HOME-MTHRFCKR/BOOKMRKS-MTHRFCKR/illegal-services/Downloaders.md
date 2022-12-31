@@ -1,31 +1,29 @@
 # Downloaders
 
-## Downloaders
-
-### Audio
+## Audio
 
 - [Free MP3 Download](https://free-mp3-download.net/)
 - [Ytmdl Web](https://ytmdl.deepjyoti30.dev/)
 - [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop)
 
-#### ANDROID
+### ANDROID
 
 - [YouTube Music](https://ytmdesktop.app/)
 - [Fildo](https://fildo.net/Android)
 
-#### WINDOWS
+### WINDOWS
 
 - [YouTube Music](https://ytmdesktop.app/)
 
-#### MAC
+### MAC
 
 - [YouTube Music](https://ytmdesktop.app/)
 
-#### LINUX
+### LINUX
 
 - [YouTube Music](https://ytmdesktop.app/)
 
-### Audio/Video
+## Audio/Video
 
 - [Catchvideo](https://catchvideo.net/)
 - [9xbuddy](https://9xbuddy.xyz/)
@@ -39,7 +37,7 @@
 - [ClipConverter](https://www.clipconverter.cc/)
 - [youtube-dl Web Interface](https://projectlounge.pw/ytdl)
 
-#### WINDOWS
+### WINDOWS
 
 - [MediaHuman](https://www.mediahuman.com/)
 - [Stacher](https://stacher.io/)
@@ -54,21 +52,21 @@
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl)
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
-#### MAC
+### MAC
 
 - [MediaHuman](https://www.mediahuman.com/)
 - [Stacher](https://stacher.io/)
 
-#### LINUX
+### LINUX
 
 - [MediaHuman](https://www.mediahuman.com/)
 - [nzuri-video Downloader](https://nzurivideodownloader.vercel.app/)
 
-#### Web Extensions
+### Web Extensions
 
 - [DownloadHelper](https://www.downloadhelper.net/)
 
-### Download Managers
+## Download Managers
 
 - [Internet Download Manager](https://www.internetdownloadmanager.com/)
 - [Xtreme Download Manager](https://xtremedownloadmanager.com/)
@@ -82,39 +80,30 @@
 - [AntDM](https://antdownloadmanager.com/)
 - [monkeyWie/gopeed: High speed downloader that supports all platforms.](https://github.com/monkeyWie/gopeed)
 
-#### Web Download Manager
+### Web Download Manager
 
 - [FileStream](https://filestream.me/)
 
-### App Store
+## App Store
 
-#### iOS
+### iOS
 
 - [AltStore](https://altstore.io/)
 
-### Animes
-
-- [HakuNeko](https://hakuneko.download/)
-
-#### Crunchyroll
-
-- [Kamyroll GUI](https://github.com/Grub4K/kamyroll-gui)
-- [hyugogirubato/Kamyroll-Python](https://github.com/hyugogirubato/Kamyroll-Python)
-
-### Ebooks
+## Ebooks
 
 - [Doc Downloader](https://docdownloader.com/)
 - [4qu3l3c4r4/Scribd-Downloader](https://github.com/4qu3l3c4r4/Scribd-Downloader)
 
-#### MANGAS
+### MANGAS
 
 - [HakuNeko](https://hakuneko.download/)
 
-#### NOVELS
+### NOVELS
 
 - [LagradOst/QuickNovel: Android app for downloading novels](https://github.com/LagradOst/QuickNovel)
 
-### YouTube
+## YouTube
 
 - [YouTube Downloader](https://www.y2mate.com/)
 - [MP3Juices](https://mp3juices.pics/)
@@ -123,46 +112,46 @@
 - [Y2meta](https://www.y2meta.buzz/)
 - [YT5s](https://yt5s.com/)
 
-#### YOUTUBE REGION RESTRICTION CHECKER
+### YOUTUBE REGION RESTRICTION CHECKER
 
 - [YouTube region restriction checker](https://polsy.org.uk/stuff/ytrestrict.cgi)
 
-### SoundCloud
+## SoundCloud
 
 - [Soundcloud Downloader](https://www.klickaud.co/)
 
-### Instagram
+## Instagram
 
 - [Bibliogram](https://bibliogram.art/)
 - [iGram](https://igram.io/)
 
-### TikTok
+## TikTok
 
 - [SaveTik](https://savetik.co/)
 
-### Spotify
+## Spotify
 
 - [rickyrorton/spotify-downloader](https://github.com/rickyrorton/spotify-downloader)
 
-### Reddit
+## Reddit
 
 - [lew.la](https://lew.la/reddit/)
 - [RedditSave](https://redditsave.com/)
 
-### Google Drive
+## Google Drive
 
 - [Google Drive direct download link generator](https://maulvi.github.io/)
 - [GoDownloader](https://godownloader.com/)
 
-### Mega
+## Mega
 
 - [Megatools](https://megatools.megous.com/)
 
-### Baidu
+## Baidu
 
 - [One Leaf Download](https://oneleaf.icu/)
 
-### Premium Links Generator
+## Premium Links Generator
 
 - [MultiUp](https://multiup.org/en/debrid/link)
 - [AllDebrid](https://alldebrid.com/)

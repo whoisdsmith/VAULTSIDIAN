@@ -1,7 +1,5 @@
 # Internet Protocol Television (IPTV)
 
-## Internet Protocol Television (IPTV)
-
 - [IPTV Cat](https://iptvcat.com/home_15)
 - [Iptv M3u Lists](https://www.iptvm3ulist.com/list-links/)
 - [IPTV Mate](https://iptvmate.net/blog/)
@@ -36,23 +34,23 @@
 - [r/IPTV](https://www.reddit.com/r/IPTV/)
 - [r/IPTVReviews](https://www.reddit.com/r/IPTVReviews/)
 
-### FORUMS
+## FORUMS
 
 - [IPTV Community](https://iptv.community/)
 
-### IPTV Applications
+## IPTV Applications
 
-#### WINDOWS
+### WINDOWS
 
 - [Ace stream](https://acestream.org/)
 - [Ace Stream Broadcasts Search](https://acestreamsearch.net/en/)
 
-#### ANDROID
+### ANDROID
 
 - [Pluto TV](https://www.eu-landing.corp.pluto.tv/)
 - [Channels Pro](https://play.google.com/store/apps/details?id=com.sirstudio.channelsprorn)
 
-#### iOS
+### iOS
 
 - [Pluto TV](https://www.eu-landing.corp.pluto.tv/)
 - [Channels Pro](https://channelspro.app/)

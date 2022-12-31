@@ -1,8 +1,6 @@
 # Useful Websites
 
-## Useful Websites
-
-### Virus Scanners
+## Virus Scanners
 
 - [VirusTotal](https://www.virustotal.com/gui/)
 - [Hybrid Analysis](https://www.hybrid-analysis.com/)
@@ -10,49 +8,49 @@
 - [AntiScan](https://antiscan.me/)
 - [malwares.com](https://www.malwares.com/)
 
-#### Sandbox
+### Sandbox
 
 - [ANY.RUN](https://any.run/)
 - [Joe Sandbox Cloud Basic](https://www.joesandbox.com/#windows)
 
-#### Fraudulent Website?
+### Fraudulent Website?
 
 - [URL Scan](https://urlscan.io/)
 - [scumware](https://scumware.org/)
 - [desenmascarame](https://desenmascara.me/)
 
-#### Scam Advisers
+### Scam Advisers
 
 - [ScamAdviser](https://www.scamadviser.com/)
 - [Trustpilot](https://www.trustpilot.com/)
 - [Scam](http://www.scam.cz/)
 
-#### Firewalls
+### Firewalls
 
 - [Malwarebytes Windows Firewall Control](https://binisoft.org/)
 - [simplewall](https://www.henrypp.org/product/simplewall)
 - [PeerBlock](https://www.peerblock.com/)
 
-#### Internet Monitoring
+### Internet Monitoring
 
 - [Wireshark](https://www.wireshark.org/)
 - [Process Hacker](https://processhacker.sourceforge.io/)
 - [Process Explorer](https://learn.microsoft.com/sysinternals/downloads/process-explorer)
 
-#### Process Monitoring
+### Process Monitoring
 
 - [Process Hacker](https://processhacker.sourceforge.io/)
 - [Process Explorer](https://learn.microsoft.com/sysinternals/downloads/process-explorer)
 
 
-### Security
+## Security
 
 - [How Secure Is My Password ?](https://www.security.org/how-secure-is-my-password/)
 - [Have I Been Pwned](https://haveibeenpwned.com/)
 - [Firefox Monitor](https://monitor.firefox.com/)
 - [CyberNews](https://cybernews.com/personal-data-leak-check/)
 
-#### Leaks Test
+### Leaks Test
 
 - [Do I Leak?](https://www.doileak.com/)
 - [Do I Leak?](https://www.top10vpn.com/tools/do-i-leak/)
@@ -61,7 +59,7 @@
 - [DNS leak test](https://www.dnsleaktest.com/)
 - [IP/DNS Detect](https://ipleak.net/)
 
-### Leaks
+## Leaks
 
 - [DeHashed](https://dehashed.com/)
 - [Leak Lookup](https://leak-lookup.com/search)
@@ -74,14 +72,14 @@
 - [WikiLeaks](https://wikileaks.org/)
 - [0wx](https://www.0wx.org/0wx/pass/)
 
-#### Combo Lists
+### Combo Lists
 
 - [Combo List](https://combo-list.com/)
 - [Combo List](https://www.frecombo.com/search/label/Combo-List)
 - [Sinisterly](https://sinister.ly/Forum-Combo-Lists)
 - [Daily-combo](https://t.me/dailycombolist)
 
-### VPNs
+## VPNs
 
 - [PrivadoVPN](https://privadovpn.com/)
 - [ProtonVPN](https://protonvpn.com/)
@@ -97,11 +95,11 @@
 - [CloudSSH](https://cloudssh.net/)
 - [SSH dropbear](https://sshdropbear.net/)
 
-#### Web Browser
+### Web Browser
 
 - [Opera Browser](https://www.opera.com/browsers/opera)
 
-### Proxys
+## Proxys
 
 - [ProxyScan](https://www.proxyscan.io/)
 - [Open Proxy List](https://openproxylist.com/)
@@ -120,7 +118,7 @@
 - [mertguvencli/http-proxy-list: It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.](https://github.com/mertguvencli/http-proxy-list)
 - [manuGMG/proxy-365: SOCKS5 Proxy List—Updates Everyday.](https://github.com/manuGMG/proxy-365)
 
-#### Proxys (no Free api)
+### Proxys (no Free api)
 
 - [Free Proxy List](https://free-proxy-list.net/)
 - [SSL Proxy List](https://sslproxies.org/)
@@ -155,15 +153,15 @@
 - [Wannabe1337](https://wannabe1337.xyz/proxygen)
 - [Telegram: Contact @proxiesfine](https://t.me/proxiesfine)
 
-#### REGISTRATION REQUIERED
+### REGISTRATION REQUIERED
 
 - [ProxyAxe](https://proxyaxe.com/)
 
-#### Proxy Checkers
+### Proxy Checkers
 
 - [Proxy Checker](https://checkerproxy.net/)
 
-### Web Proxys
+## Web Proxys
 
 - [CroxyProxy](https://www.croxyproxy.com/)
 - [Free web proxy](https://proxyium.com/)
@@ -171,7 +169,7 @@
 - [Holy Unblocker](https://holyubofficial.net/6.html)
 - [Page Sandbox](https://new.unblocksite.info/)
 
-### Temp Mails
+## Temp Mails
 
 - [ProtonMail](https://mail.proton.me/)
 - [StartMail](https://www.startmail.com/en/)
@@ -187,20 +185,20 @@
 - [FakeMail](https://www.fakemail.net/)
 - [YOPmail](https://yopmail.com/)
 
-#### DARKNET
+### DARKNET
 
 - [ProtonMail](https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion/)
 
-#### Email Proxys
+### Email Proxys
 
 - [Firefox Relay](https://relay.firefox.com/)
 - [SimpleLogin](https://simplelogin.io/)
 
-#### Gmail Dot Generator
+### Gmail Dot Generator
 
 - [Fake Gmail Generator](https://emailfake.com/blog/fake-gmail-generator)
 
-### Temp SMS
+## Temp SMS
 
 - [Temp SMS](https://temp-sms.org/)
 - [mytrashmobile](https://www.mytrashmobile.com/)
@@ -234,7 +232,7 @@
 - [Temp Mails](https://www.temp-mails.com/number)
 - [5SIM](https://5sim.net/)
 
-#### REGISTRATION REQUIERED
+### REGISTRATION REQUIERED
 
 - [Esendex AU](https://www.esendex.com.au/)
 - [Zadarma](https://zadarma.com/)
@@ -247,13 +245,13 @@
 - [Virtty](https://virtty.com/)
 - [TextAnywhere](https://www.textanywhere.com/)
 
-### SendSMS
+## SendSMS
 
-#### REGISTRATION REQUIERED
+### REGISTRATION REQUIERED
 
 - [SendSMSnow](https://www.sendsmsnow.com/)
 
-### Web Resolvers
+## Web Resolvers
 
 - [Cyber-hub](https://cyber-hub.pw/)
 - [WebResolver](https://webresolver.nl/)
@@ -265,7 +263,7 @@
 - [Sellthing](https://sellthing.co/)
 - [Skype Resolver](http://www.skypeipresolver.net/)
 
-### Fake Generators
+## Fake Generators
 
 - [Fake Person Generator](https://www.fakepersongenerator.com/)
 - [Fake Iphone Messages](https://www.fakeimess.com/generator)
@@ -274,15 +272,15 @@
 - [ElfQrin](https://www.elfqrin.com/)
 - [This Person Does Not Exist](https://thispersondoesnotexist.com/)
 
-### Warez News
+## Warez News
 
 - [TorrentFreak](https://torrentfreak.com/)
 
-#### NINTENDO
+### NINTENDO
 
 - [Hackintendo](https://hackintendo.com/)
 
-### Credit Card (CC)
+## Credit Card (CC)
 
 - [binlist](https://binlist.net/)
 - [NamsoGen](https://namso-gen.com/)
@@ -296,7 +294,7 @@
 - [mrchecker](https://www.mrchecker.net/)
 - [The One Generator](https://theonegenerator.com/)
 
-### Password Dictionaries
+## Password Dictionaries
 
 - [Hack Today](https://hacktoday.io/t/password-dictionaries/47)
 - [Assetnote Wordlists](https://wordlists.assetnote.io/)
@@ -306,45 +304,45 @@
 - [swisskyrepo/PayloadsAllTheThings: A list of useful payloads and bypass for Web Application Security and Pentest/CTF](https://github.com/swisskyrepo/PayloadsAllTheThings)
 - [danielmiessler/SecLists: SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.](https://github.com/danielmiessler/SecLists)
 
-### Others
+## Others
 
-#### Minecraft Account Generator
+### Minecraft Account Generator
 
 - [TheAltening](https://thealtening.com/)
 - [EasyMC](https://easymc.io/)
 
-#### Capture Website Screenshot
+### Capture Website Screenshot
 
 - [IPVoid](https://www.ipvoid.com/capture-website-screenshot/)
 - [Wannabe1337](https://wannabe1337.xyz/website-screenshot)
 
-#### ISP Blocking Bypass
+### ISP Blocking Bypass
 
 - [1.1.1.1](https://cloudflarewarp.com/)
 - [AdGuard](https://adguard.com/)
 - [ValdikSS/GoodbyeDPI: GoodbyeDPI—Deep Packet Inspection circumvention utility (for Windows)](https://github.com/ValdikSS/GoodbyeDPI)
 - [krlvm/PowerTunnel: Powerful and extensible proxy server with anti-censorship functionality](https://github.com/krlvm/PowerTunnel)
 
-#### Webpage Archive
+### Webpage Archive
 
 - [Wayback Machine](https://web.archive.org/)
 - [Webpage archive](https://archive.ph/)
 
-#### REDDIT
+### REDDIT
 
 - [reveddit](https://www.reveddit.com/about/#welcome)
 
-#### Front-End Alternatives
+### Front-End Alternatives
 
-#### YouTube
+### YouTube
 
 - [Invidious](https://invidious.snopyta.org/feed/popular)
 
-#### Twitter
+### Twitter
 
 - [nitter](https://nitter.net/)
 
-#### Google Drive Stuff
+### Google Drive Stuff
 
 - [Multiple File Rename for Google Drive](https://driverename.iblogbox.com/)
 - [TeamDrive Generator](https://td.msgsuite.workers.dev/)
@@ -364,14 +362,14 @@
 - [rclone/rclone: "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files](https://github.com/rclone/rclone)
 - [ericyd/gdrive-copy: Web app to copy a Google Drive folder](https://github.com/ericyd/gdrive-copy)
 
-#### Google TeamDrive
+### Google TeamDrive
 
 - [Create Google Team Drive](https://teamdrive.mfoxx.workers.dev/)
 - [Create Google TeamDrive](https://gd.404edu.workers.dev/)
 - [Create Google TeamDrive](https://gdrive.zppcw.cn/)
 - [Create Google TeamDrive](https://tv.ssr.workers.dev/)
 
-#### Android Rooting
+### Android Rooting
 
 - [Magisk](https://forum.xda-developers.com/f/magisk.5903/)
 - [Kingo ROOT](https://www.kingoapp.com/)
@@ -383,41 +381,41 @@
 - [OneClickRoot - 4PDA](https://4pda.to/forum/index.php?showtopic=728001)
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)
 
-#### User Scripts
+### User Scripts
 
 - [Greasy Fork](https://greasyfork.org/)
 - [Userscript.Zone](https://www.userscript.zone/)
 - [OpenUserJS](https://openuserjs.org/)
 - [Search · "==UserScript==" · GitHub](https://gist.github.com/search?l=JavaScript&o=desc&q=%22%3D%3DUserScript%3D%3D%22&s=updated)
 
-#### Decentralize
+### Decentralize
 
 - [Let's Decentralize](https://letsdecentralize.org/)
 - [No More Google](https://nomoregoogle.com/)
 - [mafintosh/awesome-p2p: List of great p2p resources](https://github.com/mafintosh/awesome-p2p)
 - [moshest/p2p-index: 👯♂️ A collection of peer-to-peer decentralized projects.](https://github.com/moshest/p2p-index)
 
-#### YouTube
+### YouTube
 
 - [JoinPeerTube](https://joinpeertube.org/)
 - [peer.tube](https://peer.tube/)
 
-#### DARKNET
+### DARKNET
 
 - [Let's Decentralize](http://xanthexikes7btjqlkakrxjf546rze2n4ftnqzth6qk52jdgrf6jwpqd.onion/)
 
-#### Steam Stuff
+### Steam Stuff
 
 - [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager)
 - [Steam Workshop Downloader](https://steamworkshopdownloader.io/)
 - [CS.RIN.RU - Steam Underground Community • View topic - Koalageddon - Legit Multi-Platform DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?f=10&t=112021)
 - [GitHub - acidicoala/Koalageddon: Legit DLC Unlocker for Steam, Epic, Origin, EA Desktop & Uplay (R1)](https://github.com/acidicoala/koalageddon/)
 
-#### Find Music From TV and Movies
+### Find Music From TV and Movies
 
 - [Tunefind](https://www.tunefind.com/)
 
-#### Hacking
+### Hacking
 
 - [OneHack](https://onehack.us/)
 - [NumberMask](https://numbermask.com/)
@@ -428,7 +426,7 @@
 - [mbcrump/awesome-security: A collection of awesome ethical hacking and security related content!](https://github.com/mbcrump/awesome-security)
 - [hacker-tools · GitHub Topics · GitHub](https://github.com/topics/hacker-tools)
 
-#### FORUMS
+### FORUMS
 
 - [Nulled](https://www.nulled.to/)
 - [Nulled](https://nulled.si/)
@@ -440,16 +438,16 @@
 - [Hack Today](https://hacktoday.io/)
 - [0x00sec](https://0x00sec.org/)
 
-#### Anonymous Network Layer
+### Anonymous Network Layer
 
 - [Tor Project](https://www.torproject.org/)
 - [I2P Anonymous Network](https://geti2p.net/en/)
 
-#### DARKNET
+### DARKNET
 
 - [Tor Project](http://2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion/)
 
-#### Tor2Web
+### Tor2Web
 
 - [Tor2web: Browse the Tor Onion Services](https://www.tor2web.org/)
 - [Onion.Ws Tor2Web Gateway](http://onion.ws/)
@@ -461,7 +459,7 @@
 - [tor2web](http://tor2web.to/)
 - [Tor2web](http://tor2web.in/)
 
-#### Tor Gateway
+### Tor Gateway
 
 - [TorGateway](https://torgateway.com/)
     

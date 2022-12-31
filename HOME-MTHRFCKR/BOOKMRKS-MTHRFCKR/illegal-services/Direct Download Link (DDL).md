@@ -1,4 +1,4 @@
-# Direct Download Link (DDL)
+# DDL
 
 ## Direct Download Link (DDL)
 
@@ -69,17 +69,17 @@
 - [mark41stark - Drive One](https://m.mark41stark.workers.dev/0:/)
 - [mark41stark - Drive Two](https://m.mark41stark.workers.dev/1:/)
 
-### SERVERS
+## SERVERS
 
 - [The Eye](https://the-eye.eu/public/)
 
-### RARE
+## RARE
 
 - [Rarelust](https://rarelust.com/)
 - [rarefilmm](https://rarefilmm.com/)
 - [RareFilm](http://rarefilm.net/)
 
-### VIDEOGAMES
+## VIDEOGAMES
 
 - [Download game](https://dlpsgame.com/home/)
 - [NoPayStation v3](https://nopaystation.com/)
@@ -116,7 +116,7 @@
 - [r/PkgLinks](https://www.reddit.com/r/PkgLinks/)
 - [A script for easy downloading of emuparadise roms! : Piracy](https://www.reddit.com/r/Piracy/comments/968sm6/a_script_for_easy_downloading_of_emuparadise_roms/)
 
-#### ABANDONWARES
+### ABANDONWARES
 
 - [My Abandonware](https://www.myabandonware.com/)
 - [GamesNostalgia](https://gamesnostalgia.com/)
@@ -125,26 +125,26 @@
 - [Old Games Download](https://oldgamesdownload.com/)
 - [DOS Games Archive](https://www.dosgamesarchive.com/)
 
-### CLASSIC
+## CLASSIC
 
 - [MyDuckIsDead](http://myduckisdead.org/)
 - [Vintage Classix](http://www.vintageclassix.com/)
 - [THE SKARO HUNTING SOCIETY](https://skarohuntingsociety.wordpress.com/)
 - [Kaijucast Commentaries](http://commentaries.kaijucast.com/)
 
-### SERIES
+## SERIES
 
 - [O2TvSeries](https://o2tvseries.com/)
 - [TvShows4Mobile](https://tvshows4mobile.com/)
 
-#### CLASSIC
+### CLASSIC
 
 - [Luurah Productions](https://luurah.wordpress.com/)
 - [/m/subs | /m/echa’s own sub group](https://msubsreleases.wordpress.com/)
 - [THE SKARO HUNTING SOCIETY](https://skarohuntingsociety.wordpress.com/)
 - [Live-eviL](http://www.live-evil.org/)
 
-### MAC
+## MAC
 
 - [NXMac Ked](https://nmac.to/hub/)
 - [MacDrop](https://mac.cmacked.com/)
@@ -155,24 +155,24 @@
 - [Adobe Zii](https://tntzii.com/mainhome-latestij/)
 - [appdb](https://appdb.to/)
 
-### iOS
+## iOS
 
 - [AppCake](https://www.iphonecake.com/)
 - [appdb](https://appdb.to/search/?type=ios)
 - [WorldSrc Mobile Application](https://worldsrc.net/WorldSrcApp/)
 
-#### FORUMS
+### FORUMS
 
 - [Platinmods](https://platinmods.com/)
 - [Mobilism](https://forum.mobilism.org/index.php)
 - [AppCake](https://forum.iphonecake.com/)
 
-### VIDEO
+## VIDEO
 
 - [VideoHelp](https://www.videohelp.com/)
 - [FREEWARE VIDEO CODECs :-)](https://codec.kiev.ua/)
 
-### AUDIO
+## AUDIO
 
 - [Audio wareZ](https://audioz.download/)
 - [Sheet-Music](https://sheet-music.xyz/)
@@ -180,20 +180,20 @@
 - [VB-Audio](https://vb-audio.com/)
 - [FREEWARE VIDEO CODECs :-)](https://codec.kiev.ua/)
 
-#### STOCK MUSIC
+### STOCK MUSIC
 
 - [Bensound](https://www.bensound.com/)
 
-### ABANDONWARES
+## ABANDONWARES
 
 - [VETUSWARE](https://vetusware.com/)
 - [Abandonware Ring](https://www.abandonwarering.com/)
 
-### FIRMWARES
+## FIRMWARES
 
 - [SamSony](https://samsony.net/en)
 
-### GFX
+## GFX
 
 - [GFxtra](https://www.gfxtra31.com/)
 - [GFX-HUB](https://gfx-hub.cc/)
@@ -209,18 +209,18 @@
 - [Aedownloadpro](https://aedownloadpro.com/)
 - [all-free-download](https://all-free-download.com/)
 
-### DOCUMENTARIES
+## DOCUMENTARIES
 
 - [ihavenotv](https://ihavenotv.com/)
 
-### BOLLYWOOD
+## BOLLYWOOD
 
 - [Mkvmoviespoint](https://mkvmoviespoint.icu/category/bollywood-movies/)
 - [FzMovies](https://fzmovies.net/)
 - [MobileTVshows](https://www.mobiletvshows.net/)
 - [aFilmywap](https://www1.afilmywap.bz/)
 
-#### Hindi
+### Hindi
 
 - [MoviesVerse](https://moviesmod.com/)
 - [BetaMovie](https://dexmovies.xyz/)
@@ -229,20 +229,20 @@
 - [iMoviesFlix](https://themoviezflix.club/)
 - [MoviesFD](https://moviesfd.wiki/)
 
-#### Tamil
+### Tamil
 
 - [Moviesda](https://new.hotstar.news/)
 - [isaimini](https://isaimininew.in/)
 
-### ROMS
+## ROMS
 
 - [TIRoms](https://tiroms.weebly.com/)
 
-### BIOS
+## BIOS
 
 - [BIOS](https://apkretro.com/bios/)
 
-### TOKUSATSU
+## TOKUSATSU
 
 - [Tokusatsu-Fansub](https://tokusatsu-fansub.fr/)
 - [Tokusatsu.org](https://www.tokusatsu.org/)
@@ -256,7 +256,7 @@
 - [Over-Time](https://over-ti.me/)
 - [KRDL](https://krdl.moe/)
 
-### FORUMS
+## FORUMS
 
 - [Andr||Net](https://forum-andr.net/)
 - [TehParadox](https://www.tehparadox.net/)
@@ -272,23 +272,21 @@
 - [ShareSpark](https://sharespark.me/)
 - [ShareMania.US](https://sharemania.us/)
 
-### Direct Download Link (DDL) Applications
+## ANDROID
 
-#### ANDROID
-
-#### AUDIO
+## AUDIO
 
 - [datmusic](https://play.google.com/store/apps/details?id=tm.alashow.datmusic)
 
-#### iOS
+## iOS
 
 - [AppCake for iOS](https://www.iphonecake.com/app/)
 
-#### SERIES
+## SERIES
 
 - [Séries & Dramas (A-Z) - Google Docs](https://docs.google.com/document/d/1fb2yM3BW7Dn2-ueXldW5IN8EKCEfDQtesCF_xXpYTl0/edit)
 
-#### VIDEOGAMES
+## VIDEOGAMES
 
 - [NSW-Passion](https://www.nsw-passion.xyz/)
 - [Psp-Passion](https://www.psp-passion.xyz/)
@@ -296,18 +294,18 @@
 - [EmuGen](https://www.emugen.net/)
 - [RomsMania](https://romsmania.club/)
 
-#### DOCUMENTARIES
+## DOCUMENTARIES
 
 - [9Docu](https://9docu.org/)
 - [EspaceDocs](https://espacedocs.blogspot.com/)
 - [EspaceDocs](http://espacedocs.over-blog.com/)
 
-#### TELEVISION
+## TELEVISION
 
 - [Captvty](https://captvty.fr/)
 - [TopReplay](https://vww.topreplay.cc/)
 
-#### SERVERS
+## SERVERS
 
 - [http://37.59.40.140/private/](http://37.59.40.140/private/)
 - [http://37.187.0.159/p/](http://37.187.0.159/p/)
@@ -322,7 +320,7 @@
 - [http://cassos.ovh/](http://cassos.ovh/)
 - [http://188.165.227.112/](http://188.165.227.112/)
 
-#### CLASSIC
+## CLASSIC
 
 - [Les Filmographies de Chems](http://filmochems.eklablog.com/)
 - [Le Bunker Des Inédits](https://le-bunker-des-inedits.blogspot.com/)
@@ -332,11 +330,11 @@
 - [Fullmoon Empire Anthology](https://charlesband-empire.blogspot.com/)
 - [Warning Zone](http://stalkerjany.blogspot.com/)
 
-#### B MOVIES
+## B MOVIES
 
 - [bmoviesblog](https://bmoviesblog.wordpress.com/)
 
-#### FANSUB
+## FANSUB
 
 - [Koneko Fansub](https://konekofansub.gq/)
 - [Kaerizaki Fansub](https://kaerizaki-fansub.com/)
@@ -348,20 +346,15 @@
 - [Nobluesky Fansub](https://nobluesub.com/)
 - [KFR Fansub](https://www.kfrfansub.com/)
 
-#### HORROR
+## HORROR
 
 - [GHOSTS OF HELL](https://ghostsofhell.forumactif.com/)
 
-#### ABANDONWARES
+## ABANDONWARES
 
 - [Vidéos Abandonwares](https://www.abandonware-videos.org/)
 
-#### VIDEOGAMES
-
-- [Abandonware France](https://www.abandonware-france.org/)
-- [EmuGen](https://www.emugen.net/)
-
-#### FORUMS
+## FORUMS
 
 - [FRBoarD](https://www.frboard.com/)
 - [Extreme Téléchargement](https://extreme-telechargement.online/)
@@ -370,12 +363,3 @@
 - [The Ultim Telechargement](https://ultim-telechargement.net/)
 - [Le Temple Du Film](http://filmtemple.forumprod.com/)
 - [Flixcord](https://flixcord.wixsite.com/flixcord/forum)
-
-#### VIDEOGAMES
-
-- [NSW-Passion](https://www.nsw-passion.xyz/download.html)
-- [Psp-Passion](https://www.psp-passion.xyz/forum.html)
-- [Nds-Passion](https://www.nds-passion.xyz/forum.html)
-
-
----

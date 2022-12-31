@@ -4,7 +4,7 @@
 
 %% Begin Waypoint %%
 - **[snippets](../..//snippets/snippets.md)**
-	- [animation](animation.md)
+	- [animation](snippets/animation.md)
 	- [block quote inline](block%20quote%20inline.md)
 	- [block quote](block%20quote.md)
 	- [buttons - stylized](buttons%20-%20stylized.md)

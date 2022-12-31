@@ -1,11 +1,9 @@
 # Portable Apps
 
-## Portable Apps
-
 - [PortableApps](https://portableapps.com/)
 - [Portapps](https://portapps.io/)
 
-### Tweakers
+## Tweakers
 
 - [Winaero Tweaker](https://winaerotweaker.com/download/winaerotweaker.zip)
 - [Ultimate Windows Tweaker 4](https://www.thewindowsclub.com/downloads/UWT4.zip)
@@ -22,7 +20,7 @@
 - [SpeedyFox](https://crystalidea.com/downloads/speedyfox.zip)
 - [Autoruns](https://download.sysinternals.com/files/Autoruns.zip)
 
-### Cleaners
+## Cleaners
 
 - [CCleaner](https://download.ccleaner.com/portable/ccsetup603.zip)
 - [CCEnhancer](https://singularlabs.com/download/10320/)
@@ -32,7 +30,7 @@
 - [Revo Uninstaller](https://www.revouninstaller.com/download-free-portable.php)
 - [Czkawka](https://github.com/qarmin/czkawka/releases/latest/download/windows_czkawka_gui.zip)
 
-### Windows Repairs
+## Windows Repairs
 
 - [Windows Repair AIO](https://github.com/Illegal-Services/Illegal_Services/raw/downloads/Tweaking.com_-_Windows_Repair.7z)
 - [Windows Repair Toolbox](https://windows-repair-toolbox.com/files/Windows_Repair_Toolbox.zip)
@@ -40,7 +38,7 @@
 - [FixWin 2](https://www.thewindowsclub.com/downloads/fixwin2.zip)
 - [FixWin](https://www.thewindowsclub.com/downloads/FixWin.zip)
 
-### Updaters + Drivers
+## Updaters + Drivers
 
 - [Patch My PC](https://patchmypc.com/freeupdater/PatchMyPC.exe)
 - [UCheck x64](https://download.adlice.com/api/?action=download&app=ucheck&type=x64)
@@ -51,7 +49,7 @@
 - [DriversCloud x86](https://mcdrivers.driverscloud.com/applis/DriversCloud_11_2_4_0.exe)
 - [Snappy Driver Installer](https://sdi-tool.org/releases/SDI_R2102.zip)
 
-### Drivers
+## Drivers
 
 - [Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer/releases/download/v0.11.72/DriverStoreExplorer.v0.11.72.zip)
 - [Device Cleanup Tool](https://www.uwe-sieber.de/files/DeviceCleanup.zip)
@@ -64,7 +62,7 @@
 - [CPU-Z](https://download.cpuid.com/cpu-z/cpu-z_1.98-en.zip)
 - [SpeedFan](https://www.almico.com/instspeedfan452.exe)
 
-### Windows Privacy/Telemetry
+## Windows Privacy/Telemetry
 
 - [OOSU10 (Win 10)](https://dl5.oo-software.com/files/ooshutup10/OOSU10.exe)
 - [Ashampoo AntiSpy (Win 10)](https://cdn1.ashampoo.net/public/ashf/1004/Ashampoo_AntiSpy.exe)
@@ -77,7 +75,7 @@
 - [Blackbird x64](https://www.getblackbird.net/download/Blackbird_v1.0.80.2_x64.zip)
 - [Blackbird x32](https://www.getblackbird.net/download/Blackbird_v1.0.80.2_x32.zip)
 
-### Anti Viruses and Malwares
+## Anti Viruses and Malwares
 
 - [ADW Cleaner](https://download.toolslib.net/download/direct/1/latest)
 - [ZHP Cleaner](https://www.nicolascoolman.eu/wp-content/uploads/wp-updates/ZHPCleaner.exe)
@@ -91,7 +89,7 @@
 - [Spybot - Search and Destroy](https://download2.portableapps.com/portableapps/SpybotPortable/SpybotPortable_2.9.82.paf.exe)
 - [Batch Antivirus](https://github.com/anic17/Batch-Antivirus/archive/master.zip)
 
-### Others
+## Others
 
 - [Everything x64](https://www.voidtools.com/Everything-1.4.1.1015.x64.zip)
 - [Everything x86](https://www.voidtools.com/Everything-1.4.1.1015.x86.zip)
@@ -105,9 +103,9 @@
 - [RegScanner x86](https://www.nirsoft.net/utils/regscanner.zip)
 - [ISLC](https://www.wagnardsoft.com/ISLC/ISLC%20v1.0.2.5.exe)
 
-### Windows and Office Cracks
+## Windows and Office Cracks
 
-#### Activators
+### Activators
 
 - [ConsoleAct](https://appnee.com/consoleact/)
 - [AAct](https://appnee.com/aact/)
@@ -124,7 +122,7 @@
 - [guides/office\_activation](https://www.reddit.com/r/Piracy/wiki/guides/office_activation/)
 - [Telegram: Contact @microsoft*product*keys](https://t.me/microsoft_product_keys)
 
-#### Tools
+### Tools
 
 - [MAS](https://massgrave.dev/)
 - [KMSAuto Helper](https://appnee.com/kmsauto-helper/)
@@ -132,7 +130,7 @@
 - [WAT Fix](http://www.solidfiles.com/v/kXqVBML2mmBDA)
 - [MSAct](https://appnee.com/msact/)
 
-#### ISO Downloaders
+### ISO Downloaders
 
 - [Windows ISO Downloader](https://heidoc.net/php/Windows-ISO-Downloader.exe)
 - [MVS Collection](https://isofiles.bd581e55.workers.dev/)

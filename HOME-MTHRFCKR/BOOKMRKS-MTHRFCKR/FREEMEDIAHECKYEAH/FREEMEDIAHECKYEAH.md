@@ -41,7 +41,7 @@
   - [freemediaheckyeah](../../../..//home-mthrfckr/bookmrks-mthrfckr/freemediaheckyeah/freemediaheckyeah.md)
   - [graphics-design](graphics-design.md)
   - [misc](misc.md)
-  - [mobile](mobile.md)
+  - [mobile](home-mthrfckr/bookmrks-mthrfckr/freemediaheckyeah/mobile.md)
   - [read](read.md)
   - [recomended-sites](recomended-sites.md)
   - **[storage](storage/storage.md)**

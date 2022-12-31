@@ -1,7 +1,5 @@
 # Streaming
 
-## Streaming
-
 - [PrimeWire](https://www.primewire.tf/)
 - [Los Movies](https://losmovies.online/)
 - [M4UHD](https://m4uhd.tv/)
@@ -42,26 +40,26 @@
 - [MobileTVshows](https://www.mobiletvshows.net/)
 - [WatchSoMuch](https://watchsomuch.tv/)
 
-### SERIES
+## SERIES
 
 - [Wootly](https://wootly.ch/)
 
-### ASIAN
+## ASIAN
 
 - [AsiaFlix](https://asiaflix.app/)
 - [Asianload](https://asianembed.io/)
 - [Rakuten Viki](https://www.viki.com/)
 - [KissAsian](https://kissasian.li/)
 
-#### DRAMAS
+### DRAMAS
 
 - [Dramacool](https://www.dramacool9.co/)
 
-#### TAIWANESE
+### TAIWANESE
 
 - [Sugoideas](https://sugoideas.com/)
 
-### ANIMES
+## ANIMES
 
 - [Animension](https://animension.to/)
 - [KissCartoon](https://kisscartoon.info/)
@@ -95,26 +93,26 @@
 - [AnimeK](https://animek.fun/)
 - [kawaiifu](https://kawaiifu.com/)
 
-#### THEMES
+### THEMES
 
 - [AnimeThemes](https://animethemes.moe/)
 - [Themes](https://themes.moe/)
 - [Openings](https://openings.moe/?video=Opening1-MobileSuitGundam)
 
-#### LEGAL
+### LEGAL
 
 - [South Park](https://www.southparkstudios.com/)
 - [Anime-Planet](https://www.anime-planet.com/)
 - [Crunchyroll](https://www.crunchyroll.com/)
 
-### TELEVISION
+## TELEVISION
 
 - [Time 4 Tv](https://time4tv.stream/)
 - [123TV](https://123tv.live/)
 - [USTVGO](https://ustvgo.tv/)
 - [worldtvmobile](https://worldtvmobile.com/)
 
-#### SPORT
+### SPORT
 
 - [LiveTV](http://livetv.sx/)
 - [Live Rugby Streaming | Rugby Online | RugbyStream | Rugby Streams](https://rugbystreams.me/)
@@ -154,7 +152,7 @@
 - [Cricfree](https://watch.cricfree.io/)
 - [Soccer Streams](https://reddit5.soccerstreams.net/)
 
-#### LEGAL
+### LEGAL
 
 - [Pluto TV](https://pluto.tv/)
 - [Rakuten TV](https://www.rakuten.tv/)
@@ -162,42 +160,42 @@
 - [ZEE5](https://www.zee5.com/global/live-tv)
 - [Squid TV](https://www.squidtv.net/)
 
-### SPORT
+## SPORT
 
 - [Soccer-GoalsHD](https://soccer-goalshd.blogspot.com/)
 - [FullmatchTV](https://fullmatchtv.com/)
 
-### DOCUMENTARIES
+## DOCUMENTARIES
 
 - [Top Documentary Films](https://topdocumentaryfilms.com/)
 - [ihavenotv](https://ihavenotv.com/)
 - [Thought Maybe](https://thoughtmaybe.com/)
 - [r/Documentaries](https://www.reddit.com/r/Documentaries/)
 
-### BOLLYWOOD
+## BOLLYWOOD
 
 - [Movierulz TV](https://movierulztvv.in/)
 - [DesiRulez](https://www.desirulez.cc/)
 
-#### Hindi
+### Hindi
 
 - [MoviesFD](https://moviesfd.wiki/)
 - [TOPEUROPIX](https://europix-hd.net/bollywood/bollys)
 
-#### Tamil
+### Tamil
 
 - [Moviesda](https://new.hotstar.news/)
 - [isaimini](https://isaimininew.in/)
 
-#### LEGAL
+### LEGAL
 
 - [aha](https://www.aha.video/)
 
-### CLASSIC
+## CLASSIC
 
 - [The Corn Pone Flicks](http://cornponeflicks.org/)
 
-### LEGAL
+## LEGAL
 
 - [Pluto TV](https://pluto.tv/)
 - [Rakuten TV](https://www.rakuten.tv/)
@@ -209,26 +207,26 @@
 - [Midnight Pulp](https://www.midnightpulp.com/)
 - [Crackle](https://www.crackle.com/)
 
-### FORUMS
+## FORUMS
 
 - [Supernova](https://supernova.to/sn)
 
-#### TELEVISION
+### TELEVISION
 
-#### LEGAL
+### LEGAL
 
 - [Plex Forum](https://forums.plex.tv/)
 
-### Streaming Applications
+## Streaming Applications
 
-#### WINDOWS
+### WINDOWS
 
 - [Popcorn Time](https://popcorn-time.ga/)
 - [Kodi](https://kodi.tv/)
 - [popcorn-official/popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop)
 - [Popcorn Time](https://www.reddit.com/r/PopCornTimeApp/)
 
-#### ANDROID
+### ANDROID
 
 - [HDO BOX](https://hdo.app/)
 - [Stremio](https://www.stremio.com/)
@@ -245,51 +243,51 @@
 - [Ocean Streamz](https://oceanstreamz.com/)
 - [Kodi](https://kodi.tv/)
 
-#### iOS
+### iOS
 
 - [HDO BOX](https://hdo.app/)
 - [Stremio](https://www.stremio.com/)
 - [MediaBox HD](https://mediaboxhd.net/)
 - [Kodi](https://kodi.tv/)
 
-#### LINUX
+### LINUX
 
 - [Kodi](https://kodi.tv/)
 
-#### RASPBERRY Pi
+### RASPBERRY Pi
 
 - [Kodi](https://kodi.tv/)
 
-#### MACOS
+### MACOS
 
 - [Kodi](https://kodi.tv/)
 
-#### tvOS
+### tvOS
 
 - [Kodi](https://kodi.tv/)
 
-#### TELEVISION
+### TELEVISION
 
 - [TvMob](http://tvmob.net/)
 - [Live NetTV](https://www.livenettv.bz/)
 - [HDTVLive](https://hdtvlive.xyz/)
 
-#### \[RU\]
+### \[RU\]
 
-#### WINDOWS
+### WINDOWS
 
 - [ZETFLIX](https://zetflix.app/)
 
-#### ANDROID
+### ANDROID
 
 - [ZETFLIX](https://zetflix.app/)
 - [Zona](https://android.zona.pub/)
 
-#### iOS
+### iOS
 
 - [ZETFLIX](https://zetflix.app/)
 
-### \[FR\]
+## \[FR\]
 
 - [FRStream](https://frenchstream.info/)
 - [French Stream](https://wvw.french-stream.re/)
@@ -314,11 +312,11 @@
 - [Ridzov](https://grebak.com/)
 - [LibertyStream](https://libertystream.org/)
 
-#### SERIES
+### SERIES
 
 - [VoirSeries](https://voirseries.tv/)
 
-#### ANIMES
+### ANIMES
 
 - [Voiranime](https://voiranime.com/)
 - [Neko-sama](https://neko-sama.fr/)
@@ -352,17 +350,17 @@
 - [Anime-Ultime (v4)](http://www.anime-ultime.net/index-0-1)
 - [Anime-Ultime (v5)](https://v5.anime-ultime.net/)
 
-#### TELEVISION
+### TELEVISION
 
 - [MyFree Tivi](https://www.myfree-tivi.com/livetv)
 - [Captvty](https://captvty.fr/)
 
-#### SPORT
+### SPORT
 
 - [LiveTV](http://livetv.sx/frx/)
 - [SPORT+](https://fr4.sportplus.live/)
 
-#### LEGAL
+### LEGAL
 
 - [Molotov](https://www.molotov.tv/)
 - [France tv](https://www.france.tv/)
@@ -371,15 +369,15 @@
 - [RTLplay](https://www.rtlplay.be/)
 - [TV5MONDE](https://live.tv5monde.com/fbs.html?)
 
-#### RARE
+### RARE
 
 - [Netbis](https://ok.ru/video/c6401893)
 
-#### FORUMS
+### FORUMS
 
 - [Anime-Ultime](http://forum.anime-ultime.net/phpBB3/index.php)
 
-### \[DE\]
+## \[DE\]
 
 - [Burning Series](https://bs.to/)
 - [cine.to](https://cine.to/)
@@ -390,21 +388,21 @@
 - [Movie2k](https://www1.movie2k.ch/)
 - [MEGAKino](https://megakino.co/)
 
-#### ANIMES
+### ANIMES
 
 - [ANIME-LOADS](https://www.anime-loads.org/)
 
-#### TELEVISION
+### TELEVISION
 
 - [Sehen Bundesliga](https://bundesliga-streams.net/nachste-spiele-8/)
 - [Schoener Fernsehen](https://schoener-fernsehen.com/)
 - [Free TV Stream](http://www.freetvstream.in/)
 
-#### LEGAL
+### LEGAL
 
 - [Netzkino](https://www.netzkino.de/)
 
-### \[ES\]
+## \[ES\]
 
 - [CINECALIDAD](https://cinecalidad.st/)
 - [Peliculas-HD](https://www.peliculas-hd.net/)
@@ -412,26 +410,26 @@
 - [TELENOVELAS](https://www4.telenovelahd.com/)
 - [Doramas](https://doramaonline.net/)
 
-#### ANIMES
+### ANIMES
 
 - [AnimeFLV](https://www3.animeflv.net/)
 - [JKanime](https://jkanime.net/)
 
-#### SERIES
+### SERIES
 
 - [novelas360](https://novelas360.com/)
 - [Tlnovelas](https://tlnovelas.net/)
 - [Tele-novelas](https://tele-novelas.org/)
 - [Ver Novelas Online](https://vertelenovelasonline.org/)
 
-#### TELEVISION
+### TELEVISION
 
 - [CABLE GRATIS ONLINE TV](https://cablegratis.online/)
 - [ROJADIRECTA](https://www.rojadirectaenvivo.net/)
 - [Ver Canales Del Salvador En Vivo](https://www.canalesdelsalvadorenvivo.com/)
 - [PHOTOCALL](https://photocall.tv/)
 
-### \[RU\]
+## \[RU\]
 
 - [ZONA](https://w139.zona.plus/)
 - [Kinogo](https://kinogo.fm/)
@@ -442,7 +440,7 @@
 - [Fast torrent](http://fast-torrent.ru/)
 - [new-kino](http://new-kino.net/)
 
-#### ANIMES
+### ANIMES
 
 - [Animenime](https://animenime.ru/)
 - [animevost](https://v2.vost.pw/)
@@ -453,11 +451,11 @@
 - [JUT.SU](https://jut.su/)
 - [AniLibria](https://anilibria.tv/)
 
-#### Streaming Applications
+### Streaming Applications
 
 - [Anixart](https://anixart.tv/)
 
-### \[BG\]
+## \[BG\]
 
 - [Big Boss Cinema](https://big-boss-cinema.com/)
 - [filmite-bg](https://www.filmite-bg.com/)
@@ -481,7 +479,7 @@
 - [TubeBG](https://www.tubebg.com/)
 - [MyOnVideo](https://myonvideo.com/)
 
-#### SERIES
+### SERIES
 
 - [PlayTube](https://playtube.tv/)
 - [nu6i-Bg-Net](https://www.nu6i-bg-net.com/)
@@ -492,53 +490,53 @@
 - [bgtvnet](https://bgtvnet.com/)
 - [ТВ сериали](https://tvserial.site/)
 
-#### DOCUMENTARIES
+### DOCUMENTARIES
 
 - [Документални филми](https://www.dokumentalni.com/)
 
-#### TELEVISION
+### TELEVISION
 
 - [seir sanduk](https://www.seir-sanduk.com/)
 - [Evrokom Online](http://www.iptvbulgaria.net/)
 - [NOVA](https://nova.bg/live)
 
-### \[AR\]
+## \[AR\]
 
-#### ANIMES
+### ANIMES
 
 - [FansubsTV](https://fansubs.tv/)
 
-### \[ID\]
+## \[ID\]
 
-#### ANIMES
+### ANIMES
 
 - [ANIsub](https://anisubid.fun/)
 - [Nimegami](https://nimegami.id/)
 
-### \[IT\]
+## \[IT\]
 
 - [Altadefinizione](https://altadefinizione.ro/)
 
-#### ANIMES
+### ANIMES
 
 - [AnimeWorld](https://www.animeworld.tv/)
 
-### \[PT\]
+## \[PT\]
 
 - [Vizer](https://vizer.tv/)
 
-### \[TR\]
+## \[TR\]
 
 - [توك توك سينما](https://w.tuktukcinema.net/d6/)
 
-#### ANIMES
+### ANIMES
 
 - [Türk Anime TV](https://www.turkanime.co/)
 
-### \[LU\]
+## \[LU\]
 
-#### TELEVISION
+### TELEVISION
 
-#### LEGAL
+### LEGAL
 
 - [RTL Play](https://play.rtl.lu/)

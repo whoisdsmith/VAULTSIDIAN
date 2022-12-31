@@ -1,7 +1,5 @@
 # Torrenting
 
-## Torrenting
-
 - [Solid Torrents](https://solidtorrents.to/)
 - [TorrentFunk](https://www.torrentfunk.com/)
 - [GloTorrents](https://www.gtdb.to/)
@@ -22,7 +20,7 @@
 - [Milkie](https://milkie.cc/)
 - [WatchSoMuch](https://watchsomuch.to/)
 
-### ANIMES
+## ANIMES
 
 - [Nyaa](https://nyaa.si/)
 - [AniRena](https://www.anirena.com/)
@@ -35,73 +33,73 @@
 - [TV-Nihon](https://tracker.tvnihon.com/)
 - [#honobono](http://honobono.cc/)
 
-#### FANSUBS
+### FANSUBS
 
 - [Doremi-Fansubs](https://doremi-fansubs.com/)
 - [South Wind Subs](https://southwindsubs.wordpress.com/)
 
-#### CLASSIC
+### CLASSIC
 
-#### FANSUBS
+### FANSUBS
 
 - [Saizen Fansubs](https://www.saizenfansubs.com/)
 - [Live-eviL](http://live-evil.fansub-torrents.com/)
 - [Inka-Subs](http://www.inka-subs.net/)
 
-### MOVIES
+## MOVIES
 
 - [YTS](https://yts.mx/)
 - [MoviesFD](https://moviesfd.wiki/)
 - [Torrents2Download](https://www.torrents2download.com/)
 
-### CLASSIC
+## CLASSIC
 
 - [Public Domain Movie Torrents with PDA iPod Divx PSP versions](http://www.publicdomaintorrents.info/)
 
-### TELEVISION
+## TELEVISION
 
 - [EZTV](https://eztv.re/)
 
-### MAC
+## MAC
 
 - [Mac Torrents](https://mactorrents.io/)
 - [Mac Torrents](https://www.torrentmac.net/)
 
-### AUDIO
+## AUDIO
 
 - [VST Torrent](https://looptorrent.net/)
 
-### VIDEOGAMES
+## VIDEOGAMES
 
 - [Game-2u](https://game-2u.com/)
 
-### DOCUMENTARIES
+## DOCUMENTARIES
 
 - [ihavenotv](https://ihavenotv.com/)
 
-### BOLLYWOOD
+## BOLLYWOOD
 
-#### Tamil
+### Tamil
 
 - [1TamilMV](https://www.1tamilmv.media/)
 
-### SPORT
+## SPORT
 
 - [Sport Video](https://www.sport-video.org.ua/)
 
-#### MMA
+### MMA
 
 - [MMA-Torrents](https://mma-torrents.com/)
 
-### LINUX
+## LINUX
 
 - [Linuxtracker](https://linuxtracker.org/)
 
-### TOKUSATSU
+## TOKUSATSU
 
 - [#TV-Nihon](https://www.tvnihon.com/)
 
-### FORUMS
+## FORUMS
 
 - [The Pirate Bay](https://pirates-forum.org/)
 - [GloTorrents](https://forums.glodls.to/)
@@ -117,28 +115,28 @@
 - [Deluge Forum](https://forum.deluge-torrent.org/)
 - [KG](https://karagarga.in/)
 
-#### Torrent Invites
+### Torrent Invites
 
 - [InviteHawk](https://www.invitehawk.com/)
 - [Torrent Invites](https://torrentinvites.org/)
 
-#### Private Trackers
+### Private Trackers
 
 - [DigitalCore](https://digitalcore.club/login)
 - [AvistaZ](https://avistaz.to/)
 - [CGPeers](https://www.cgpeers.to/)
 
-#### DESI
+### DESI
 
 - [Bwtorrents](https://bwtorrents.tv/login.php?returnto=%2F)
 
-### DARKNET
+## DARKNET
 
 - [The Pirate Bay | (untrusted: https://rentry.org/SoftwarePirates-Megathread#unsafe-untrusted-sites)](http://piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid.onion/)
 - [SuprBay: The PirateBay Forum | (untrusted: https://rentry.org/SoftwarePirates-Megathread#unsafe-untrusted-sites)](http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion/)
 - [TorrentGalaxy](http://galaxy3yrfbwlwo72q3v2wlyjinqr2vejgpkxb22ll5pcpuaxlnqjiid.onion/)
 
-### Torrent Searching
+## Torrent Searching
 
 - [FileListing](https://filelisting.com/)
 - [BT4G](https://bt4g.org/)
@@ -168,7 +166,7 @@
 - [Torrends](https://search.torrends.to/)
 - [btsearch](https://www.btsearch.ml/)
 
-### Torrent Proxys
+## Torrent Proxys
 
 - [The Proxy Bay](https://proxy-bay.page/)
 - [ProxyGalaxy](https://proxygalaxy.pw/)
@@ -181,7 +179,7 @@
 - [Torrent Proxy List](https://torrends.to/proxy/)
 - [Knaben's Proxy List](https://knaben.info/)
 
-### Torrent Trackers
+## Torrent Trackers
 
 - [Demonii Tracker](https://demonii.com/)
 - [Torrents](https://torrends.to/torrent-tracker-list/)
@@ -191,36 +189,36 @@
 - [ngosang](https://ngosang.github.io/trackerslist/)
 - [XIU2/TrackersListCollection](https://trackerslist.com/)
 
-### Torrent Storage Cache
+## Torrent Storage Cache
 
 - [iTorrents](https://itorrents.org/)
 - [Torrage](https://torrage.info/)
 
-### Torrent Parts
+## Torrent Parts
 
 - [Torrent Parts](https://torrent.parts/)
 
-### Torrent URI Shortener
+## Torrent URI Shortener
 
 - [Mgnet](http://mgnet.me/)
 
-### Torrent Editor
+## Torrent Editor
 
 - [Yatzuko Torrent](https://yutzuko-torrent.appspot.com/)
 
-### Torrent to Drive
+## Torrent to Drive
 
 - [Avocado](https://theavocado.herokuapp.com/home)
 
-### Torrent to Magnet
+## Torrent to Magnet
 
 - [Torrent >> Magnet](http://torrent2magnet.com/)
 
-### Magnet to Torrent
+## Magnet to Torrent
 
 - [Magnet >> Torrent](http://magnet2torrent.com/)
 
-### Web Torrenting
+## Web Torrenting
 
 - [WebTorrent](https://webtorrent.io/)
 - [Webtor](https://webtor.io/#/)
@@ -229,7 +227,7 @@
 - [Torrent Safe](https://www.torrentsafe.com/)
 - [Zbigz](https://zbigz.com/)
 
-### Torrenting Applications
+## Torrenting Applications
 
 - [Jackett](https://github.com/Jackett/Jackett)
 - [Tribler](https://www.tribler.org/)
