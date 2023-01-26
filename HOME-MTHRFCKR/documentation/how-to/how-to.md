@@ -2,7 +2,7 @@
 tags: MOCs
 ---
 
-# MOC: textgenerator
+# MOC: how-to
 
 ---
 

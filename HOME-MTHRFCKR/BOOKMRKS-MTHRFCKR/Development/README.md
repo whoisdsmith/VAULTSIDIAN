@@ -10,7 +10,7 @@
 
 [Design](design.md)
 
-[DevOps](devops.md)
+[DevOps](home-mthrfckr/bookmrks-mthrfckr/development/devops.md)
 
 [Git](git.md)
 

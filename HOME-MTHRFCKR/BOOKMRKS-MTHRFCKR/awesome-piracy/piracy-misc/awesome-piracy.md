@@ -89,7 +89,7 @@
 	- [direct-downloads](direct-downloads.md)
 	- [direct-links-to-other-useful-resources!](direct-links-to-other-useful-resources!.md)
 	- [discord-servers](discord-servers.md)
-	- [discord](discord.md)
+	- [discord](home-mthrfckr/bookmrks-mthrfckr/awesome-piracy/piracy-misc/discord.md)
 	- [disroot-bin-encrypted-pastebin-by-privatebin](disroot-bin-encrypted-pastebin-by-privatebin.md)
 	- [disroot-bin-encrypted-pastebin-by-privatebin2](disroot-bin-encrypted-pastebin-by-privatebin2.md)
 	- [disroot-bin-encrypted-pastebin-by-privatebin3](disroot-bin-encrypted-pastebin-by-privatebin3.md)

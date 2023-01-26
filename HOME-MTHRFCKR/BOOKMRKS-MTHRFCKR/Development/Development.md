@@ -8,7 +8,7 @@
   - [awesome-design-tools](awesome-design-tools.md)
   - [design](design.md)
   - [Development](../../../..//home-mthrfckr/bookmrks-mthrfckr/development/development.md)
-  - [devops](devops.md)
+  - [devops](home-mthrfckr/bookmrks-mthrfckr/development/devops.md)
   - [git](git.md)
   - [programming](programming.md)
   - [README](../../../readme.md)

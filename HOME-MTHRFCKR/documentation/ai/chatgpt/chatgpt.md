@@ -8,6 +8,7 @@
 	- [awesome-chatgpt](./awesome-chatgpt.md)
 	- [awesome-chatgpt.orig](./awesome-chatgpt.orig.md)
 	- [awesomer-chatgpt](./awesomer-chatgpt.md)
+	- [chatgpt-funny](./chatgpt-funny.md)
 	- [chatgpt-optimizing-language-models-for-dialogue](./chatgpt-optimizing-language-models-for-dialogue.md)
 	- [chatgpt-thread-12-13-2022-18-17-57](./chatgpt-thread-12-13-2022-18-17-57.md)
 	- [chatgpt-thread-12-23-2022-05-38-13](./chatgpt-thread-12-23-2022-05-38-13.md)

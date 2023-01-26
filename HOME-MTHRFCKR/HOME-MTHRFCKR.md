@@ -14,7 +14,8 @@
 	- [google programmable search](./google%20programmable%20search.md)
 	- [home-mthrfckr](./home-mthrfckr.md)
 	- **[macos](./macos/macos.md)**
-	- **mental health**
+	- **[mental health](./mental%20health/mental%20health.md)**
+		- [mental health](./mental%20health/mental%20health.md)
 		- [mental-health](./mental%20health/mental-health.md)
 		- [stutz](./mental%20health/stutz.md)
 	- **[notes](./notes/notes.md)**

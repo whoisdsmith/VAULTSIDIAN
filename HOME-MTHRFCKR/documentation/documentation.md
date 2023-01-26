@@ -6,7 +6,6 @@
 - **[documentation](./documentation.md)**
 	- **[actions](./actions/actions.md)**
 	- **[ai](./ai/ai.md)**
-	- [alternate-views-opening-methods-dashy](./alternate-views-opening-methods-dashy.md)
 	- **[ansible](./ansible/ansible.md)**
 	- **[api-tools](./api-tools/api-tools.md)**
 		- [apache-solr](./api-tools/apache-solr.md)
@@ -43,7 +42,6 @@
 		- [type-safe-apis](./api-tools/type-safe-apis.md)
 		- [typesense](./api-tools/typesense.md)
 		- [webauthn](./api-tools/webauthn.md)
-	- [app-management-dashy](./app-management-dashy.md)
 	- **[applescript](./applescript/applescript.md)**
 	- **[automation](./automation/automation.md)**
 	- **[awesome](./awesome/awesome.md)**
@@ -61,37 +59,51 @@
 		- [cloud](./cloud/cloud.md)
 		- [google-cloud-platform-a-cheat-sheet-techrepublic](./cloud/google-cloud-platform-a-cheat-sheet-techrepublic.md)
 		- [your-complete-guide-to-free-google-services](./cloud/your-complete-guide-to-free-google-services.md)
-	- [configuring-dashy](./configuring-dashy.md)
 	- **[dashy](./dashy/dashy.md)**
+		- [alternate-views-opening-methods-dashy](./dashy/alternate-views-opening-methods-dashy.md)
+		- [app-management-dashy](./dashy/app-management-dashy.md)
+		- [configuring-dashy](./dashy/configuring-dashy.md)
 		- **dashy-configs**
 			- [readme](./dashy/dashy-configs/readme.md)
 		- [dashy](./dashy/dashy.md)
+		- [deployment-dashy](./dashy/deployment-dashy.md)
+		- [icons-dashy](./dashy/icons-dashy.md)
 		- [indeed-resume](./dashy/indeed-resume.md)
+		- [keyboard-shortcuts-dashy](./dashy/keyboard-shortcuts-dashy.md)
+		- [pages-and-sections-dashy](./dashy/pages-and-sections-dashy.md)
+		- [quick-start-dashy](./dashy/quick-start-dashy.md)
+		- [theming-dashy](./dashy/theming-dashy.md)
+		- [widgets-dashy](./dashy/widgets-dashy.md)
 	- **[data](./data/data.md)**
-	- [deployment-dashy](./deployment-dashy.md)
 	- **[dev-articles](./dev-articles/dev-articles.md)**
-	- [developer-relations](./developer-relations.md)
-	- [development-environments](./development-environments.md)
-	- [development](./development.md)
-	- [devloper-jekyll-guide](./devloper-jekyll-guide.md)
-	- [devlopr](./devlopr.md)
-	- [devops-and-system-administration](./devops-and-system-administration.md)
-	- [devops](./devops.md)
-	- [discord](./discord.md)
+	- **[development](./development/development.md)**
+		- [developer-relations](./development/developer-relations.md)
+		- [development 1](./development/development%201.md)
+		- [development-environments](./development/development-environments.md)
+		- [development](./development/development.md)
+		- [devloper-jekyll-guide](./development/devloper-jekyll-guide.md)
+		- [devlopr](./development/devlopr.md)
+		- [devops-and-system-administration](./development/devops-and-system-administration.md)
+		- [devops](./development/devops.md)
+		- [get-started-devlopr](./development/get-started-devlopr.md)
+		- [hack-your-growth](./development/hack-your-growth.md)
+		- [helpful-tech-resources](./development/helpful-tech-resources.md)
+		- [welcome-to-mweb](./development/welcome-to-mweb.md)
 	- **[docker](./docker/docker.md)**
 	- [documentation](./documentation.md)
-	- **fluentd**
+	- **[fluentd](./fluentd/fluentd.md)**
+		- [fluentd](./fluentd/fluentd.md)
 		- [readme](./fluentd/readme.md)
-	- **gcp**
+	- **[gcp](./gcp/gcp.md)**
+		- [gcp](./gcp/gcp.md)
 		- [introduction](./gcp/introduction.md)
-	- [get-started-devlopr](./get-started-devlopr.md)
 	- **[github](./github/github.md)**
-	- **grafana**
+	- **[grafana](./grafana/grafana.md)**
+		- [grafana](./grafana/grafana.md)
 		- [readme](./grafana/readme.md)
-	- [hack-your-growth](./hack-your-growth.md)
-	- [helpful-tech-resources](./helpful-tech-resources.md)
-	- **how-to**
+	- **[how-to](./how-to/how-to.md)**
 		- [edit-grafana-dashboards](./how-to/edit-grafana-dashboards.md)
+		- [how-to](./how-to/how-to.md)
 		- [instal-helm](./how-to/instal-helm.md)
 		- [install-vagrant](./how-to/install-vagrant.md)
 		- [install-virtualbox](./how-to/install-virtualbox.md)
@@ -99,7 +111,6 @@
 		- [readme](./how-to/readme.md)
 		- [setup-rancher](./how-to/setup-rancher.md)
 		- [write-yaml](./how-to/write-yaml.md)
-	- [icons-dashy](./icons-dashy.md)
 	- **[ifttt](./ifttt/ifttt.md)**
 	- **[infrastructure-provisioning](./infrastructure-provisioning/infrastructure-provisioning.md)**
 		- [infrastructure-provisioning](./infrastructure-provisioning/infrastructure-provisioning.md)
@@ -112,7 +123,6 @@
 		- [jenkins-concepts](./jenkins/jenkins-concepts.md)
 		- [jenkins-tutorials](./jenkins/jenkins-tutorials.md)
 		- [jenkins](./jenkins/jenkins.md)
-	- [keyboard-shortcuts-dashy](./keyboard-shortcuts-dashy.md)
 	- **[kubernetes](./kubernetes/kubernetes.md)**
 		- [cronjobs](./kubernetes/cronjobs.md)
 		- [kube-advanced](./kubernetes/kube-advanced.md)
@@ -142,7 +152,6 @@
 	- **[package-managers](./package-managers/package-managers.md)**
 		- [package-managers](./package-managers/package-managers.md)
 		- [readme](./package-managers/readme.md)
-	- [pages-and-sections-dashy](./pages-and-sections-dashy.md)
 	- **[programming](./programming/programming.md)**
 	- **[prometheus](./prometheus/prometheus.md)**
 		- [prometheus-concepts](./prometheus/prometheus-concepts.md)
@@ -154,8 +163,6 @@
 		- [puppet-concepts](./puppet/puppet-concepts.md)
 		- [puppet](./puppet/puppet.md)
 		- [readme](./puppet/readme.md)
-	- [python](./python.md)
-	- [quick-start-dashy](./quick-start-dashy.md)
 	- **[raindrop-io](./raindrop-io/raindrop-io.md)**
 	- **[replicated](./replicated/replicated.md)**
 		- [replicated-kots](./replicated/replicated-kots.md)
@@ -174,7 +181,6 @@
 		- [terraform-tutorials](./terraform/terraform-tutorials.md)
 		- [terraform](./terraform/terraform.md)
 	- **[text](./text/text.md)**
-	- [theming-dashy](./theming-dashy.md)
 	- **[toolbox](./toolbox/toolbox.md)**
 		- [readme](./toolbox/readme.md)
 		- [toolbox](./toolbox/toolbox.md)
@@ -184,9 +190,6 @@
 		- [travis-concepts](./travisci/travis-concepts.md)
 		- [travisci](./travisci/travisci.md)
 	- **[webhooks](./webhooks/webhooks.md)**
-	- [webhooks](./webhooks.md)
-	- [welcome-to-mweb](./welcome-to-mweb.md)
-	- [widgets-dashy](./widgets-dashy.md)
 	- **[working-copy](./working-copy/working-copy.md)**
 	- **[yourls](./yourls/yourls.md)**
 		- [yourls-your-own-url-shortener](./yourls/yourls-your-own-url-shortener.md)

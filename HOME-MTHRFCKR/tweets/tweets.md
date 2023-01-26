@@ -3,9 +3,8 @@
 ---
 
 %% Begin Waypoint %%
-- **[tweets](../../..//home-mthrfckr/tweets/tweets.md)**
-	- [chatgpt-funny](chatgpt-funny.md)
-	- [tweets](../../..//home-mthrfckr/tweets/tweets.md)
+- **[tweets](./tweets.md)**
+	- [tweets](./tweets.md)
 
 %% End Waypoint %%
 

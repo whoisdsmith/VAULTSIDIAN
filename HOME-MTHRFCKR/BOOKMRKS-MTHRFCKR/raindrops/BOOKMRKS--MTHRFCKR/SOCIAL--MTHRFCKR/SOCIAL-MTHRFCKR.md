@@ -14,7 +14,7 @@
 
 - [DEV.TO](DEV.TO.md)
 
-- [DISCORD](DISCORD.md)
+- [DISCORD](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/SOCIAL--MTHRFCKR/DISCORD.md)
 
 - [FACEBOOK](FACEBOOK.md)
 
