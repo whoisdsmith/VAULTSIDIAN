@@ -4,8 +4,7 @@
 
 %% Begin Waypoint %%
 - **[bookmrks-mthrfckr](./bookmrks-mthrfckr.md)**
-	- **[ai](./ai/ai.md)**
-	- **[awesome](./awesome/awesome.md)**
+	- **[ai](ai.md)ome/awesome.md)**
 	- **[awesome-piracy](./awesome-piracy/awesome-piracy.md)**
 	- **bookies**
 		- [developer-personality-test](./bookies/developer-personality-test.md)
@@ -233,6 +232,13 @@
 		- [publications](./reference/publications.md)
 		- [reference-tools](./reference/reference-tools.md)
 		- [reference](./reference/reference.md)
+	- **rentry**
+		- [cool-extensions](./rentry/cool-extensions.md)
+		- [cool-software](./rentry/cool-software.md)
+		- [cool-userscripts](./rentry/cool-userscripts.md)
+		- [megathreads-wikis-lists](./rentry/megathreads-wikis-lists.md)
+		- [theultimatemusicrippingguide](./rentry/theultimatemusicrippingguide.md)
+		- [unorganized-list](./rentry/unorganized-list.md)
 	- **[search-party](./search-party/search-party.md)**
 		- [academic](./search-party/academic.md)
 		- [alternative--search--engines](./search-party/alternative--search--engines.md)

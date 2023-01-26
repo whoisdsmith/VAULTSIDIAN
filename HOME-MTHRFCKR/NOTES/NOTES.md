@@ -4,8 +4,7 @@
 
 %% Begin Waypoint %%
 - **[notes](./notes.md)**
-	- [Autofill](./Autofill.md)
-	- **[chatgpt](./chatgpt/chatgpt.md)**
+	- [autofill](./autofill.md)
 	- **[daily-notes](./daily-notes/daily-notes.md)**
 	- **[data](./data/data.md)**
 	- **[day-one](./day-one/day-one.md)**
@@ -20,7 +19,7 @@
 	- [left-on-read](./left-on-read.md)
 	- **[misc](./misc/misc.md)**
 	- [notes](./notes.md)
-	- [Publii](./Publii.md)
+	- [publii](./publii.md)
 	- [run-simulation](./run-simulation.md)
 	- **[sci-fi](./sci-fi/sci-fi.md)**
 	- **[space](./space/space.md)**

@@ -46,9 +46,9 @@
 
 - [SPREADSHEET](SPREADSHEET.md)
 
-- [TEXT](TEXT.md)
+- [TEXT](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/TOOLS--MTHRFCKR/TEXT.md)
 
-- [TIMELINE](TIMELINE.md)
+- [TIMELINE](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/TOOLS--MTHRFCKR/TIMELINE.md)
 
 - [TOOLS-MTHRFCKR](../../../../../..//home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/TOOLS--MTHRFCKR/TOOLS-MTHRFCKR.md)
 

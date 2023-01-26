@@ -16,7 +16,7 @@
 
 [Programming](programming.md)
 
-[Resources](resources.md)
+[Resources](home-mthrfckr/bookmrks-mthrfckr/development/resources.md)
 
 [WebDev](webdev.md)
 

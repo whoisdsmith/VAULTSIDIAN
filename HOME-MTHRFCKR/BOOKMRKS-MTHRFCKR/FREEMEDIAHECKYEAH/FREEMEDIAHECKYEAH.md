@@ -5,7 +5,7 @@
 %% Begin Waypoint %%
 
 - **[freemediaheckyeah](../../../..//home-mthrfckr/bookmrks-mthrfckr/freemediaheckyeah/freemediaheckyeah.md)**
-  - [audio](audio.md)
+  - [audio](home-mthrfckr/bookmrks-mthrfckr/freemediaheckyeah/audio.md)
   - [best-dns-servers](best-dns-servers.md)
   - [browser-network](browser-network.md)
   - [computers](computers.md)

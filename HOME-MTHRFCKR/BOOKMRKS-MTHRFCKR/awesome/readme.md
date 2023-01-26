@@ -76,7 +76,7 @@ Programming/mark-up languages and web related standards.
 Drop-in UI components for web sites and applications.
 
 + **[Bu[Buttons](buttons.md) The term button refers to any graphical control element that provides the user a simple way to trigger an event, like searching for a query at a search engine, or to interact with dialog boxes, like confirming an action.
-+ **[Co[Code](code.md) Code viewers and editors designed for embedding inside a website.
++ **[Co[Code](home-mthrfckr/bookmrks-mthrfckr/awesome/code.md) Code viewers and editors designed for embedding inside a website.
 + **[Fo[Forms](../freesources/readme/forms.md) A HTML form on a web page allows a user to enter data that is sent to a server for processing. Web users fill out the forms using checkboxes, radio buttons, or text fields.
 + **[Ga[Galeries & Image Sliders](galeries-and-image-sliders.md) A sophisticated way to present a collection of images on your website.
 + **[Gr[Grid](grid.md) CSS Grid Layout Systems.

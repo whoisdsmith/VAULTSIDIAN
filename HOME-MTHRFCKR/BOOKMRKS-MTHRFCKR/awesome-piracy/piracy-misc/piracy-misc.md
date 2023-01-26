@@ -100,7 +100,7 @@
 	- [reading-and-learning](reading-and-learning.md)
 	- [readme](../../../../readme.md)
 	- [related_subreddits](related_subreddits.md)
-	- [resources](resources.md)
+	- [resources](home-mthrfckr/bookmrks-mthrfckr/awesome-piracy/piracy-misc/resources.md)
 	- [safe-ddl-site-list](safe-ddl-site-list.md)
 	- [safe-repackers-list](safe-repackers-list.md)
 	- [safe-torrent-site-list](safe-torrent-site-list.md)
