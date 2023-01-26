@@ -53,12 +53,10 @@
 	- [ai-tool-master-list](./ai-tool-master-list.md)
 	- [ai](./ai.md)
 	- [awesome-ai](./awesome-ai.md)
-	- [awesome-chatgpt](./awesome-chatgpt.md)
 	- [awesome-generative-deep-art-archive](./awesome-generative-deep-art-archive.md)
 	- [awesome-generative-deep-art](./awesome-generative-deep-art.md)
 	- **[chatgpt](./chatgpt/chatgpt.md)**
 	- [clip-as-a-service](./clip-as-a-service.md)
-	- [diffusion-bee-prompts](./diffusion-bee-prompts.md)
 	- **[openai-cookbook](./openai-cookbook/openai-cookbook.md)**
 	- [papers2gui](./papers2gui.md)
 	- **[prompts](./prompts/prompts.md)**
@@ -120,7 +118,7 @@
 			- [sitnature](./prompts/dalle-2/sitnature.md)
 		- **[default](./prompts/default/default.md)**
 			- [default](./prompts/default/default.md)
-			- [default.md](./prompts/default/default.md.md)
+			- [defaults](./prompts/default/defaults.md)
 			- [getemailneg](./prompts/default/getemailneg.md)
 			- [getemailpos](./prompts/default/getemailpos.md)
 			- [getideas](./prompts/default/getideas.md)
@@ -131,14 +129,13 @@
 			- [rewrite](./prompts/default/rewrite.md)
 			- [simplify](./prompts/default/simplify.md)
 			- [summarize](./prompts/default/summarize.md)
+		- [diffusion-bee-prompts](./prompts/diffusion-bee-prompts.md)
 		- **[huggingface](./prompts/huggingface/huggingface.md)**
 			- [classify-bart-large-mnli](./prompts/huggingface/classify-bart-large-mnli.md)
 			- [completetextbloom](./prompts/huggingface/completetextbloom.md)
 			- [huggingface](./prompts/huggingface/huggingface.md)
 			- [summarizebart](./prompts/huggingface/summarizebart.md)
 		- [prompts](./prompts/prompts.md)
-	- [RaindropandChatGPTPrompts](./RaindropandChatGPTPrompts.md)
-	- [RaindrophelpfromCopilotandChatGPT](./RaindrophelpfromCopilotandChatGPT.md)
 	- [singularity-ai](./singularity-ai.md)
 	- **[stable-diffusion](./stable-diffusion/stable-diffusion.md)**
 
