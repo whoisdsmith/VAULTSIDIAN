@@ -1,5 +1,5 @@
 
-# HOME-MTHRFCKR
+# HOME[-](-.md)MTHRFCKR
 
 ---
 
@@ -20,7 +20,6 @@
 	- **[notes](./notes/notes.md)**
 	- **[osint](./osint/osint.md)**
 	- **[research](./research/research.md)**
-	- **[tweets](./tweets/tweets.md)**
 	- **[urls](./urls/urls.md)**
 
 %% End Waypoint %%

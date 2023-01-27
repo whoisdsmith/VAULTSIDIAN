@@ -138,8 +138,6 @@
 	- **[minikube](./minikube/minikube.md)**
 		- [minikube-commands](./minikube/minikube-commands.md)
 		- [minikube](./minikube/minikube.md)
-	- **[misc](./misc/misc.md)**
-		- [misc](./misc/misc.md)
 	- **[nagios](./nagios/nagios.md)**
 		- [nagios](./nagios/nagios.md)
 		- [readme](./nagios/readme.md)
