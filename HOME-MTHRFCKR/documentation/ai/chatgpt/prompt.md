@@ -8,5 +8,4 @@ Act as a Legal Advisor I want you to act as my legal advisor. I will describe a 
 
 
 ---
-
-
+#AI #ChatGPT 

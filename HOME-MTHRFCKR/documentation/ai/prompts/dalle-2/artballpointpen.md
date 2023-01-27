@@ -19,3 +19,6 @@ reqParams:
  url: "https://api.openai.com/v1/images/generations"
 ---
 {{selection}}, ball-point pen art
+
+---
+#AI #imageprompts

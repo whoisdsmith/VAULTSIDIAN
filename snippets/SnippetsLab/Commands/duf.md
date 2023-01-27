@@ -5,6 +5,6 @@ modified: 2022-07-03T05:10:10Z
 title: duf
 ---
 
-# duf
+# Duf
 
 Disk Usage/Free Utility (Linux, BSD, macOS & Windows)

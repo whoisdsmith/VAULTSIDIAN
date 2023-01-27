@@ -13,4 +13,6 @@ title:
 prompt:
 write an outline for a blog for this title.
 outline:
-- 
+
+---
+#AI #imageprompts

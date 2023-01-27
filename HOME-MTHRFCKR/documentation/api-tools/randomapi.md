@@ -11,7 +11,7 @@ favicon: img/favicon.png
 
 ## Simple
 
-APIs are coded in Javascript and are very easy to make! Check out the [documentation](../../notes/documents/documentation.md) or follow our API walkthrough to learn how to start making your own APIs!  
+APIs are coded in Javascript and are very easy to make! Check out the [documentation](home-mthrfckr/research/documents/documentation.md) or follow our API walkthrough to learn how to start making your own APIs!  
 [> Geocaching API walkthrough](http://blog.randomapi.com/geocaching-api-demo/)
 
 ## Fast & Powerful
@@ -32,9 +32,9 @@ No internet? No problem! Thanks to the [RandomAPI](https://npmjs.com/package/ran
 ## Convenient
 
 An easy to use implementation, clean interface, and RESTful API make RandomAPI simple to use in all your applications.  
-[> Calling your APIs](home-mthrfckr/notes/documents/documentation.md#callingAPIs)
+[> Calling your APIs](home-mthrfckr/research/documents/documentation.md#callingAPIs)
 
 ## Sharing
 
 Snippets are shared pieces of code that make up a big part of RandomAPI. If you've made a function that helps generate data, publish it for others to use!  
-[> About Snippets](home-mthrfckr/notes/documents/documentation.md#snippets)
+[> About Snippets](home-mthrfckr/research/documents/documentation.md#snippets)

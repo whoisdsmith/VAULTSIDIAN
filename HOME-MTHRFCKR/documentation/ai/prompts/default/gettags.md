@@ -14,3 +14,6 @@ content:
 prompt:
 suggest tags for the content in markdown format
 tags:
+
+---
+#AI #imageprompts

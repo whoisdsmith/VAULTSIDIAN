@@ -572,3 +572,8 @@ In the future, expect better models and better techniques to be published. Even 
 | You can have the model analyze both good and bogus explanations to figure out which set of explanations are most consistent    | [Maieutic Prompting: Logically Consistent Reasoning with Recursive Explanations](https://arxiv.org/abs/2205.11822)                        | 2022 May |
 | You can think about these techniques in terms of probabilistic programming, where systems comprise unreliable components       | [Language Model Cascades](https://arxiv.org/abs/2207.10342)                                                                               | 2022 Jul |
 | You can eliminate hallucination with sentence label manipulation, and you can reduce wrong answers with a 'halter' prompt   | [Faithful Reasoning Using Large Language Models](https://arxiv.org/abs/2208.14271)                                                                               | 2022 Aug |
+
+
+
+---
+#AI #openai

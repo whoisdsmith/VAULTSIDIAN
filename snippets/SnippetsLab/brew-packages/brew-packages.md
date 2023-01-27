@@ -3,6 +3,7 @@
 ---
 
 %% Begin Waypoint %%
+
 - **[brew-packages](./brew-packages.md)**
 	- [asciinema](./asciinema.md)
 	- [bat](./bat.md)

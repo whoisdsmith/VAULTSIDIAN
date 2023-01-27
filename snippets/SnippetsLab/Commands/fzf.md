@@ -5,6 +5,6 @@ modified: 2022-07-03T05:15:22Z
 title: fzf
 ---
 
-# fzf
+# Fzf
 
 fzf is a general-purpose command-line fuzzy finder.

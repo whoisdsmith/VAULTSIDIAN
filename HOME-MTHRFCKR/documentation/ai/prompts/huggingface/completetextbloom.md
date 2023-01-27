@@ -20,3 +20,6 @@ reqParams:
 ---
 {{selection}}
 
+
+---
+#AI #imageprompts

@@ -5,6 +5,6 @@ modified: 2022-07-03T05:36:18Z
 title: visidata
 ---
 
-# visidata
+# Visidata
 
 A terminal interface for exploring and arranging tabular data.

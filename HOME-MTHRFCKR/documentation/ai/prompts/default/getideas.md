@@ -11,3 +11,6 @@ content:
 {{context}}
 prompt:
 brainstorm ideas about this content
+
+---
+#AI #imageprompts

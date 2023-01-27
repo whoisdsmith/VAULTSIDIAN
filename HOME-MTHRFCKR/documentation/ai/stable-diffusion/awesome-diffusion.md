@@ -55,3 +55,6 @@ A curated list of awesome Diffusion notebooks, tools, software, tutorials and re
 * [Disco Diffusion Discord](https://discord.com/invite/V9SeW7GMgZ) - description will be defined
 * [LAION Discord](https://discord.com/invite/e2GFUEfK) - description will be defined
 * [VQGAN+CLIP Discord](https://discord.com/invite/CDUM5V54PC) - description will be defined
+
+---
+#AI #stablediffusion 

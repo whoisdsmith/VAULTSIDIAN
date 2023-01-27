@@ -7,6 +7,6 @@ tags: pandoc
 title: html to md
 ---
 
-# html to md
+# Html to Md
 
 -f html -t markdown -s -o

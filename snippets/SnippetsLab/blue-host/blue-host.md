@@ -3,6 +3,7 @@
 ---
 
 %% Begin Waypoint %%
+
 - **[blue-host](./blue-host.md)**
 	- [162-241-252-245](./162-241-252-245.md)
 	- [blue-host](./blue-host.md)

@@ -4,9 +4,9 @@
 
 %% Begin Waypoint %%
 - **[chatgpt](./chatgpt.md)**
+	- [awesome-chatgpt-orig](./awesome-chatgpt-orig.md)
 	- [awesome-chatgpt-prompts](./awesome-chatgpt-prompts.md)
 	- [awesome-chatgpt](./awesome-chatgpt.md)
-	- [awesome-chatgpt.orig](./awesome-chatgpt.orig.md)
 	- [awesomer-chatgpt](./awesomer-chatgpt.md)
 	- [chatgpt-funny](./chatgpt-funny.md)
 	- [chatgpt-optimizing-language-models-for-dialogue](./chatgpt-optimizing-language-models-for-dialogue.md)
@@ -16,6 +16,11 @@
 	- [chatgpt-universe](./chatgpt-universe.md)
 	- [chatgpt](./chatgpt.md)
 	- [chatgpt3](./chatgpt3.md)
+	- **[chemistry](./chemistry/chemistry.md)**
+		- [chemistry](./chemistry/chemistry.md)
+		- [deca-durabolin](./chemistry/deca-durabolin.md)
+		- [ketamine](./chemistry/ketamine.md)
+		- [lsd](./chemistry/lsd.md)
 	- [prompt](./prompt.md)
 	- [raindrop-chat](./raindrop-chat.md)
 	- [raindropandchatgptprompts](./raindropandchatgptprompts.md)

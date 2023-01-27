@@ -5,7 +5,7 @@ modified: 2022-07-03T05:29:17Z
 title: nnn
 ---
 
-# nnn
+# Nnn
 
 nnn (n³) is a full-featured terminal file manager. It's tiny, nearly 0-config and incredibly fast.
 

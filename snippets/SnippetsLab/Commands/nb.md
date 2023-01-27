@@ -5,7 +5,7 @@ modified: 2022-07-03T05:26:38Z
 title: nb
 ---
 
-# nb
+# Nb
 
 nb is a command line and local web note‑taking, bookmarking, archiving, and knowledge base application with:
 

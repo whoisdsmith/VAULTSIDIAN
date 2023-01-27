@@ -3,6 +3,7 @@
 ---
 
 %% Begin Waypoint %%
+
 - **[links](./links.md)**
 	- [daily-links](./daily-links.md)
 	- [links](./links.md)

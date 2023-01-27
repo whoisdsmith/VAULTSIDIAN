@@ -5,7 +5,7 @@ modified: 2022-07-08T20:24:40Z
 title: OCC cmds
 ---
 
-# OCC cmds
+# OCC Cmds
 
 elnulqmy@ctrlaltback.space [~/public_html/cloud9-ctrlaltback-space]# php occ list --format=txt  
 CLOUD9 24.0.1

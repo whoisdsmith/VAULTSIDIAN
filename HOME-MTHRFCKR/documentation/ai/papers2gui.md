@@ -129,3 +129,6 @@ The application is developed on `Windows`. Fortunately, utilising Microsoft's `S
 ### Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Baiyuetribe/paper2gui&type=Date)](https://star-history.com/#Baiyuetribe/paper2gui&Date)
+
+---
+#AI 

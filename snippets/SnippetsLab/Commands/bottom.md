@@ -5,7 +5,7 @@ modified: 2022-07-03T05:04:12Z
 title: bottom
 ---
 
-# bottom
+# Bottom
 
 A customizable cross-platform graphical process/system monitor for the terminal.  
 Supports Linux, macOS, and Windows. Inspired by gtop, gotop, and htop.

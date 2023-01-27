@@ -21,3 +21,6 @@ reqParams:
   Authorization: "Bearer You_API_KEY_HERE"
 ---
 {{selection}}
+
+---
+#AI #imageprompts

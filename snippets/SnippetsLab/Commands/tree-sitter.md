@@ -5,6 +5,6 @@ modified: 2022-07-03T05:35:01Z
 title: tree-sitter
 ---
 
-# tree-sitter
+# Tree-sitter
 
 more tree views

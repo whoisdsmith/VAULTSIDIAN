@@ -1488,3 +1488,6 @@ raindrop.collections.get({ type: 'public' }).then((collections) => {
 ```
 
 Please note that you will need to replace YOUR_API_KEY and YOUR_API_SECRET with your own Raindrop.io API credentials. You can obtain these by signing up for an account at https://www.raindrop.io/register and creating a new API key in your account settings.
+
+---
+#AI #ChatGPT 

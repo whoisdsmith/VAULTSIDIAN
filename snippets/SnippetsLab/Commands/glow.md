@@ -5,7 +5,7 @@ modified: 2022-07-03T05:18:36Z
 title: glow
 ---
 
-# glow
+# Glow
 
 Glow is a terminal based markdown reader designed from the ground up to bring out the beauty—and power—of the CLI.
 

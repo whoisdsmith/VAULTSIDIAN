@@ -72,11 +72,5 @@
 ... just follow [@goodside](https://twitter.com/goodside)
 
 
-
-
 ---
-
-### Contribution
-
-This list started as personal collection of interesting things about chatGPT from OpenAI. Your contributions and suggestions are warmly welcomed.
-
+#AI #ChatGPT 

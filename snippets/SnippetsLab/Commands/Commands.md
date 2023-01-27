@@ -3,6 +3,7 @@
 ---
 
 %% Begin Waypoint %%
+
 - **[commands](./commands.md)**
 	- [algernon](./algernon.md)
 	- [antigen](./antigen.md)

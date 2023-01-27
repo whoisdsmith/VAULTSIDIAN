@@ -155,11 +155,6 @@ Source: https://andrewmayneblog.wordpress.com/2022/11/30/collaborative-creative-
 - [All the best examples of ChatGPT, from OpenAI](https://twitter.com/bentossell/status/1598269692082151424)
 - [11 business ideas you could build on ChatGPT](https://twitter.com/bentossell/status/1598694052144320516)
 
-## Contributing
 
-__Open an issue or a pull request to suggest changes or additions.__
-
-[Find me on twitter](https://twitter.com/iammoizfarooq)
-
-[:arrow_up: __Back To Top__](#python-snippets)
-
+---
+#AI #ChatGPT 

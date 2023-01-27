@@ -5,7 +5,7 @@ modified: 2022-07-03T05:16:25Z
 title: gh
 ---
 
-# gh
+# Gh
 
 Work seamlessly with GitHub from the command line.
 

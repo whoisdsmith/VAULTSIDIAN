@@ -643,13 +643,6 @@
 * [The Art of PNG Glitch](https://ucnv.github.io/pnglitch/)
 * [HashLips/hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine): tool used to create multiple different instances of artworks based on provided layers
 
-## Contribute
 
-Contributions welcome! Read the [contribution guidelines](home-mthrfckr/bookmrks-mthrfckr/software-tools/contributing.md) first.
-
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
-
-To the extent possible under law, Filipe Calegario has waived all copyright and
-related or neighboring rights to this work.
+---
+#AI 

@@ -131,6 +131,7 @@
 		- [kubernetes](./kubernetes/kubernetes.md)
 		- [pv-pvc](./kubernetes/pv-pvc.md)
 		- [readme](./kubernetes/readme.md)
+	- **[macos](./macos/macos.md)**
 	- **[make](./make/make.md)**
 	- **[markdown](./markdown/markdown.md)**
 	- **[mdn-guides](./mdn-guides/mdn-guides.md)**

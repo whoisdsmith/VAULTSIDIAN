@@ -12,7 +12,7 @@
 	- [code-editors](code-editors.md)
 	- **compatibility**
 	- [css-tools](css-tools.md)
-	- [documentation](documentation.md)
+	- [documentation](home-mthrfckr/bookmrks-mthrfckr/awesome/documentation.md)
 	- **ecosystem**
 	- [fonts-for-programmers](fonts-for-programmers.md)
 	- [frontend-dev-bookmarks](../../../..//home-mthrfckr/bookmrks-mthrfckr/awesome/frontend-dev-bookmarks.md)

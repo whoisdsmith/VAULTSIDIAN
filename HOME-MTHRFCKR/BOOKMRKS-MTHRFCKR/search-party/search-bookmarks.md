@@ -24,7 +24,7 @@
 
 ## [[Direct Download]]
 
-## [[../../notes/documents/documents.md]]
+## [[documents]]
 
 ## [[general.md]]
 

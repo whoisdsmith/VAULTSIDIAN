@@ -11,3 +11,6 @@ content:
 {{context}}
 prompt:
 rewrite the content to make it more attractive
+
+---
+#AI #imageprompts

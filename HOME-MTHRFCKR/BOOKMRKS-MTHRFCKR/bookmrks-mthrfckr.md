@@ -4,9 +4,10 @@
 
 %% Begin Waypoint %%
 - **[bookmrks-mthrfckr](./bookmrks-mthrfckr.md)**
-	- **[ai](ai.md)ome/awesome.md)**
+	- **[awesome](./awesome/awesome.md)**
 	- **[awesome-piracy](./awesome-piracy/awesome-piracy.md)**
-	- **bookies**
+	- **[bookies](./bookies/bookies.md)**
+		- [bookies](./bookies/bookies.md)
 		- [developer-personality-test](./bookies/developer-personality-test.md)
 		- [developer-type](./bookies/developer-type.md)
 		- [disc-personality](./bookies/disc-personality.md)
@@ -76,7 +77,7 @@
 	- **[content](./content/content.md)**
 	- **[dev-stax](./dev-stax/dev-stax.md)**
 		- [dev-stax](./dev-stax/dev-stax.md)
-		- **readme**
+		- **[readme](./dev-stax/readme/readme.md)**
 			- [activity-feeds-and-chat-messaging](./dev-stax/readme/activity-feeds-and-chat-messaging.md)
 			- [app-hosting](./dev-stax/readme/app-hosting.md)
 			- [app-testing](./dev-stax/readme/app-testing.md)
@@ -99,6 +100,7 @@
 			- [mobile-analytics](./dev-stax/readme/mobile-analytics.md)
 			- [monitoring](./dev-stax/readme/monitoring.md)
 			- [push-notifications](./dev-stax/readme/push-notifications.md)
+			- [readme](./dev-stax/readme/readme.md)
 			- [scheduling-and-booking](./dev-stax/readme/scheduling-and-booking.md)
 			- [searching](./dev-stax/readme/searching.md)
 			- [security](./dev-stax/readme/security.md)
@@ -113,7 +115,7 @@
 	- **[freemediaheckyeah](./freemediaheckyeah/freemediaheckyeah.md)**
 	- **[freesources](./freesources/freesources.md)**
 		- [freesources](./freesources/freesources.md)
-		- **readme**
+		- **[readme](./freesources/readme/readme.md)**
 			- [analytics-events-and-statistics](./freesources/readme/analytics-events-and-statistics.md)
 			- [apis-data-and-ml](./freesources/readme/apis-data-and-ml.md)
 			- [artifact-repos](./freesources/readme/artifact-repos.md)
@@ -157,6 +159,7 @@
 			- [package-build-system](./freesources/readme/package-build-system.md)
 			- [payment-and-billing-integration](./freesources/readme/payment-and-billing-integration.md)
 			- [privacy-management](./freesources/readme/privacy-management.md)
+			- [readme](./freesources/readme/readme.md)
 			- [remote-desktop-tools](./freesources/readme/remote-desktop-tools.md)
 			- [screenshot-apis](./freesources/readme/screenshot-apis.md)
 			- [search](./freesources/readme/search.md)
@@ -173,18 +176,27 @@
 			- [web-hosting](./freesources/readme/web-hosting.md)
 		- [readme](./freesources/readme.md)
 		- [summary](./freesources/summary.md)
-	- **frontend-dev-bookmarks**
-		- **animation**
-		- **appearance**
-		- **architecture**
-		- **compatibility**
-		- **ecosystem**
-		- **languages-protocols-browser-apis**
+	- **[frontend-dev-bookmarks](./frontend-dev-bookmarks/frontend-dev-bookmarks.md)**
+		- **[animation](./frontend-dev-bookmarks/animation/animation.md)**
+			- [animation](./frontend-dev-bookmarks/animation/animation.md)
+		- **[appearance](./frontend-dev-bookmarks/appearance/appearance.md)**
+			- [appearance](./frontend-dev-bookmarks/appearance/appearance.md)
+		- **[architecture](./frontend-dev-bookmarks/architecture/architecture.md)**
+			- [architecture](./frontend-dev-bookmarks/architecture/architecture.md)
+		- **[compatibility](./frontend-dev-bookmarks/compatibility/compatibility.md)**
+			- [compatibility](./frontend-dev-bookmarks/compatibility/compatibility.md)
+		- **[ecosystem](./frontend-dev-bookmarks/ecosystem/ecosystem.md)**
+			- [ecosystem](./frontend-dev-bookmarks/ecosystem/ecosystem.md)
+		- [frontend-dev-bookmarks](./frontend-dev-bookmarks/frontend-dev-bookmarks.md)
+		- **[languages-protocols-browser-apis](./frontend-dev-bookmarks/languages-protocols-browser-apis/languages-protocols-browser-apis.md)**
+			- [languages-protocols-browser-apis](./frontend-dev-bookmarks/languages-protocols-browser-apis/languages-protocols-browser-apis.md)
 		- [sourcemaps](./frontend-dev-bookmarks/sourcemaps.md)
 		- [tutorials](./frontend-dev-bookmarks/tutorials.md)
-		- **user-interface-components**
+		- **[user-interface-components](./frontend-dev-bookmarks/user-interface-components/user-interface-components.md)**
+			- [user-interface-components](./frontend-dev-bookmarks/user-interface-components/user-interface-components.md)
 		- [version-control](./frontend-dev-bookmarks/version-control.md)
-		- **workflow**
+		- **[workflow](./frontend-dev-bookmarks/workflow/workflow.md)**
+			- [workflow](./frontend-dev-bookmarks/workflow/workflow.md)
 	- **[guided-sites](./guided-sites/guided-sites.md)**
 	- **[illegal-services](./illegal-services/illegal-services.md)**
 	- **[lists](./lists/lists.md)**
@@ -232,11 +244,12 @@
 		- [publications](./reference/publications.md)
 		- [reference-tools](./reference/reference-tools.md)
 		- [reference](./reference/reference.md)
-	- **rentry**
+	- **[rentry](./rentry/rentry.md)**
 		- [cool-extensions](./rentry/cool-extensions.md)
 		- [cool-software](./rentry/cool-software.md)
 		- [cool-userscripts](./rentry/cool-userscripts.md)
 		- [megathreads-wikis-lists](./rentry/megathreads-wikis-lists.md)
+		- [rentry](./rentry/rentry.md)
 		- [theultimatemusicrippingguide](./rentry/theultimatemusicrippingguide.md)
 		- [unorganized-list](./rentry/unorganized-list.md)
 	- **[search-party](./search-party/search-party.md)**

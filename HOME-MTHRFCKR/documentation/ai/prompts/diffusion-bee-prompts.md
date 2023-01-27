@@ -14,3 +14,6 @@ a ultradetailed beautiful concept art of the crystal formation of the prismatic 
 
 symmetry!! portrait of green alien in the style of horizon zero dawn, machine face, intricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha, 8 k 
 
+
+---
+#AI #imageprompts

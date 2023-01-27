@@ -117,3 +117,6 @@ Users are encouraged to provide feedback on problematic model outputs through th
 Entries can be submitted via the feedback form that is linked in the ChatGPT interface.
 
 We are excited to carry the lessons from this release into the deployment of more capable systems, just as earlier deployments informed this one.
+
+---
+#AI #ChatGPT 

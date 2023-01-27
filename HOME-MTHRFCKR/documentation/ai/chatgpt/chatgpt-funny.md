@@ -149,4 +149,6 @@ GeekingUp ([@GeekingUpNews](https://twitter.com/GeekingUpNews)) - December 5, 20
 > 
 > [Tweet link](https://twitter.com/goodside/status/1599082185402642432)
 
-[Tweet link](https://twitter.com/GeekingUpNews/status/1599828917568696320)
+
+---
+#AI #ChatGPT 

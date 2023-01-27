@@ -51,3 +51,7 @@ Resources, news, tools, and materials related to AI
 > Direct links to prompts in OpenAI’s GPT-3 playground (requires prior login)
 
 - [Dr Thompson Leta](https://beta.openai.com/playground/p/zUf68zBlohJfvPL5c80p7fsq?model=davinci) - Old `davinci` model, [Leta](https://lifearchitect.ai/leta/) from The GPT-3 Leta video series
+
+
+---
+#AI 

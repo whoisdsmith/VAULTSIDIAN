@@ -5,7 +5,7 @@ modified: 2022-07-03T05:38:26Z
 title: zoxide
 ---
 
-# zoxide
+# Zoxide
 
 zoxide is a smarter cd command, inspired by z and autojump.
 

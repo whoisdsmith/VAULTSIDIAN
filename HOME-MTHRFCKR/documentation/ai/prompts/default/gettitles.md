@@ -12,3 +12,6 @@ content:
 prompt:
 suggest 10 attactive blog titles about this content:
 
+
+---
+#AI #imageprompts

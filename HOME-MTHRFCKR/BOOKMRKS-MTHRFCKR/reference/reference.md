@@ -16,7 +16,7 @@
 
 [Audio Books](audio-books.md)
 
-[DocArticles](docarticles.md)
+[DocArticles](home-mthrfckr/bookmrks-mthrfckr/reference/docarticles.md)
 
 [Document Checking](document-checking.md)
 

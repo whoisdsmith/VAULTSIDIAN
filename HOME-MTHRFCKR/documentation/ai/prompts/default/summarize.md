@@ -13,3 +13,5 @@ prompt:
 summarize the content
 
 
+---
+#AI #imageprompts

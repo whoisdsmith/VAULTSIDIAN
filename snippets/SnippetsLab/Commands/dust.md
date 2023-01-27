@@ -5,7 +5,7 @@ modified: 2022-07-03T05:11:07Z
 title: dust
 ---
 
-# dust
+# Dust
 
 Dust  
 du + rust = dust. Like du but more intuitive.
