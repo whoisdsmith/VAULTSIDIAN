@@ -136,7 +136,10 @@
 			- [huggingface](./prompts/huggingface/huggingface.md)
 			- [summarizebart](./prompts/huggingface/summarizebart.md)
 		- [prompts](./prompts/prompts.md)
+		- [text2img-prompts](./prompts/text2img-prompts.md)
 	- [singularity-ai](./singularity-ai.md)
 	- **[stable-diffusion](./stable-diffusion/stable-diffusion.md)**
+	- [The Brilliance and Weirdness of ChatGPT - The New York Times](./The%20Brilliance%20and%20Weirdness%20of%20ChatGPT%20-%20The%20New%20York%20Times.md)
+	- [The Day The AGI Was Born](./The%20Day%20The%20AGI%20Was%20Born.md)
 
 %% End Waypoint %%
