@@ -1,28 +1,6 @@
-# <p align=center>𝓐𝔀𝓮𝓼𝓸𝓶𝓮 𝓣𝓮𝔁𝓽📝-𝓽𝓸-𝓘𝓶𝓪𝓰𝓮🌇</p>
-<!--# <p align=center>`Awesome Text📝-to-Image🌇`</p>-->
-<div align=center>
+# 𝓐𝔀𝓮𝓼𝓸𝓶𝓮 𝓣𝓮𝔁𝓽📝-𝓽𝓸-𝓘𝓶𝓪𝓰𝓮🌇
+## To Do
 
-<p>
- 
- ![GitHub stars](https://img.shields.io/github/stars/Yutong-Zhou-cv/Awesome-Text-to-Image.svg?color=red&style=for-the-badge) 
- ![GitHub forks](https://img.shields.io/github/forks/Yutong-Zhou-cv/Awesome-Text-to-Image.svg?style=for-the-badge) 
- ![GitHub activity](https://img.shields.io/github/last-commit/Yutong-Zhou-cv/Awesome-Text-to-Image?color=yellow&style=for-the-badge) 
- ![GitHub issues](https://img.shields.io/github/issues/Yutong-Zhou-cv/Awesome-Text-to-Image?style=for-the-badge)
- ![GitHub closed issues](https://img.shields.io/github/issues-closed/Yutong-Zhou-cv/Awesome-Text-to-Image?color=inactive&style=for-the-badge)
- 
- [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Yutong-Zhou-cv/Awesome-Text-to-Image) 
- [![Star History Chart](https://api.star-history.com/svg?repos=Yutong-Zhou-cv/Awesome-Text-to-Image&type=Date)](https://star-history.com/#Yutong-Zhou-cv/Awesome-Text-to-Image&Date)
-</p>
-
-𝓐 𝓬𝓸𝓵𝓵𝓮𝓬𝓽𝓲𝓸𝓷 𝓸𝓯 𝓻𝓮𝓼𝓸𝓾𝓻𝓬𝓮𝓼 𝓸𝓷 𝓽𝓮𝔁𝓽-𝓽𝓸-𝓲𝓶𝓪𝓰𝓮 𝓼𝔂𝓷𝓽𝓱𝓮𝓼𝓲𝓼/𝓶𝓪𝓷𝓲𝓹𝓾𝓵𝓪𝓽𝓲𝓸𝓷 𝓽𝓪𝓼𝓴𝓼.
- 
-</div>
-
-![Figure from paper](pic/Overview.png)
-> *From: [Hierarchical Text-Conditional Image Generation with CLIP Latents](https://cdn.openai.com/papers/dall-e-2.pdf)*
-
-## *<img src="./pic/icon/to-do-list.png" width="25" /> To Do*
 * - [ ] Add [**Best Collection**]() for Awesome-Text-to-Image
 * - [ ] Add **Topic Order** list and **Chronological Order** list
 
