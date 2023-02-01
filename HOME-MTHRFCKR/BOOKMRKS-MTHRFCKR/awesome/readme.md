@@ -37,7 +37,7 @@ Ability of a product to work with different input/output devices and rendering s
 
 + **[Cr[Cross Browser](cross-browser.md) Cross-browser refers to the ability of a website, web application, HTML construct or client-side script to function in environments that provide its required features and to bow out or degrade gracefully when features are absent or lacking.
 + **[E-[E-Mail](e-mail.md) Preparing HTML based electronic mail.
-+ **[Ke[Keyboard](home-mthrfckr/bookmrks-mthrfckr/awesome/keyboard.md) Working with keyboard input in a web browser.
++ **[Ke[Keyboard](keyboard.md) Working with keyboard input in a web browser.
 + **[Mobile](Folders/Awesome/Web%20Dev/frontend-dev-bookmarks-master/compatibility/mobile.md)**: Development of websites optimized for viewing on smartphone and tablet devices.
 + **[Pr[Printers](printers.md) Manipulation of printer output through CSS.
 + **[Re[Responsive Web Design (RWD)](responsive-web-design-rwd.md) RWD responds to the needs of the users and the devices they’re using. The layout changes based on the size and capabilities of the device.
@@ -51,7 +51,7 @@ Important developers, companies, organizations and news sources.
 + **[Ne[News](news.md) Websites & newsletters which provide daily and weekly news related to frontend web development.
 + **[No[Notable Community Members](notable-community-members.md) Important engineers, evangelists, architects and other celebrities.
 + **[Or[Organizations](organizations.md) Commercial companies and nonprofit organizations around web development.
-+ **[Po[Podcasts](home-mthrfckr/bookmrks-mthrfckr/awesome/podcasts.md) A podcast is a form of digital media that consists of an episodic series of audio, video, digital radio, PDF, or ePub files subscribed to and downloaded automatically through web syndication or streamed online to a computer or mobile device.
++ **[Po[Podcasts](podcasts.md) A podcast is a form of digital media that consists of an episodic series of audio, video, digital radio, PDF, or ePub files subscribed to and downloaded automatically through web syndication or streamed online to a computer or mobile device.
 
 ## Languages, Protocols, Browser APIs
 
@@ -76,7 +76,7 @@ Programming/mark-up languages and web related standards.
 Drop-in UI components for web sites and applications.
 
 + **[Bu[Buttons](buttons.md) The term button refers to any graphical control element that provides the user a simple way to trigger an event, like searching for a query at a search engine, or to interact with dialog boxes, like confirming an action.
-+ **[Co[Code](home-mthrfckr/bookmrks-mthrfckr/awesome/code.md) Code viewers and editors designed for embedding inside a website.
++ **[Co[Code](code.md) Code viewers and editors designed for embedding inside a website.
 + **[Fo[Forms](../freesources/readme/forms.md) A HTML form on a web page allows a user to enter data that is sent to a server for processing. Web users fill out the forms using checkboxes, radio buttons, or text fields.
 + **[Ga[Galeries & Image Sliders](galeries-and-image-sliders.md) A sophisticated way to present a collection of images on your website.
 + **[Gr[Grid](grid.md) CSS Grid Layout Systems.
@@ -100,8 +100,8 @@ Task automation and asset delivery.
 + **[Im[Image Post Processing](image-post-processing.md) Tools for image conversion and optimization.
 + **[Ja[JavaScript Tools](javascript-tools.md) Tools for static analysis, pre and post processing of JavaScript files.
 + **[Pa[Package Management](package-management.md) A package manager or package management system is a collection of software tools that automates the process of installing, upgrading, configuring, and removing reusable libraries and components in a consistent manner.
-+ **[So[Sourcemaps](sourcemaps.md) Sourcemap is a way to map a combined/minified file back to an unbuilt state.
-+ **[Ve[Version Control](version-control.md) Version control or source control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
++ **[So[Sourcemaps](../frontend-dev-bookmarks/sourcemaps.md) Sourcemap is a way to map a combined/minified file back to an unbuilt state.
++ **[Ve[Version Control](../frontend-dev-bookmarks/version-control.md) Version control or source control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
 
 ------------------
 

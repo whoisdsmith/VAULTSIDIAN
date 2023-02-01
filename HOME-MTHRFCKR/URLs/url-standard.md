@@ -92,7 +92,7 @@ As the editors learn more about the subject matter the goals might increase in s
 
 ## 1. Infrastructure[](https://url.spec.whatwg.org//#infrastructure)
 
-This specification depends on the Infra Standard. [[INFRA]](https://url.spec.whatwg.org//#biblio-infra)
+This specification depends on the Infra Standard. [[../ai-and-machine-learning/ai-notes/infra.md]](https://url.spec.whatwg.org//#biblio-infra)
 
 Some terms used in this specification are defined in the following standards and specifications:
 

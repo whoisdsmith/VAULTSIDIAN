@@ -10,13 +10,13 @@
 
 [Design](design.md)
 
-[DevOps](home-mthrfckr/bookmrks-mthrfckr/development/devops.md)
+[DevOps](devops.md)
 
 [Git](git.md)
 
 [Programming](programming.md)
 
-[Resources](home-mthrfckr/bookmrks-mthrfckr/development/resources.md)
+[Resources](resources.md)
 
 [WebDev](webdev.md)
 

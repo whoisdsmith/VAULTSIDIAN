@@ -3,7 +3,7 @@
 ---
 
 %% Begin Waypoint %%
-- **[coding](./coding.md)**
-	- [coding](./coding.md)
+- **[coding](../../../..//home-mthrfckr/bookmrks-mthrfckr/coding/coding.md)**
+	- [coding](../../../..//home-mthrfckr/bookmrks-mthrfckr/coding/coding.md)
 
 %% End Waypoint %%

@@ -43,7 +43,7 @@ The book: [https://www.thesprintbook.com/](https://www.google.com/url?q=https://
 📊 Marketing
 [Analytics](Analytics.md)
 [Email](../../documentation/make/email.md)
-[Copy](Copy.md)
+[Copy](../../documentation/automation/pipedream/docs/docs/workflows/copy/copy.md)
 
 ##
 

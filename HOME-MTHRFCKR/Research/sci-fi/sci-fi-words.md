@@ -42,7 +42,7 @@ Study Of Extremely Low Temperatures
 [[Cybernetics]]  
 Study Of Communication In Organisms, Organic Processes, And Mechanical Or Electronic Systems…When Accompanied With Implants, The Concept Of Bionics Is Created.
 
-[[CYBORGS]]  
+[[../../ai-and-machine-learning/ai-notes/stub-notes/cyborgs.md]]  
 A Fictional Being That Is Part-Human, Part-Robot
 
 [[Cyberpunk]]  

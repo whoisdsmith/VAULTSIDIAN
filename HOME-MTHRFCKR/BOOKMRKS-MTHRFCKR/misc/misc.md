@@ -3,7 +3,7 @@
 ---
 
 %% Begin Waypoint %%
-- **[misc](./misc.md)**
-	- [misc](./misc.md)
+- **[misc](../../../..//home-mthrfckr/bookmrks-mthrfckr/misc/misc.md)**
+	- [misc](../../../..//home-mthrfckr/bookmrks-mthrfckr/misc/misc.md)
 
 %% End Waypoint %%

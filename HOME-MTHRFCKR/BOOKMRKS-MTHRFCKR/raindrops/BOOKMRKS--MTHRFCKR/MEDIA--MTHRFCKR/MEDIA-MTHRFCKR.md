@@ -4,7 +4,7 @@
 
 - [3D](3D.md)
 
-- [ANIMATION](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/MEDIA--MTHRFCKR/ANIMATION.md)
+- [ANIMATION](ANIMATION.md)
 
 - [ART](ART.md)
 

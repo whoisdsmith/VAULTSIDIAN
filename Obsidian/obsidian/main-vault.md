@@ -4,7 +4,7 @@
 
 ![[Automation-Banner-Small.jpeg]]
 
-## [[home-mthrfckr/research/documents/documentation ]]
+## [[../../home-mthrfckr/research/documents/documentation.md ]]
 
 ![[writing-banner.jpeg]]
 

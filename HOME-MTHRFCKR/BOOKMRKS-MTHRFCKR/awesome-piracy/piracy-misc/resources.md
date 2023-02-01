@@ -1,6 +1,6 @@
 # Resources
 
-[[home-mthrfckr/documentation/ai/ai-notes/Resources/Resources]]
+[[home-mthrfckr/ai/ai-notes/resources/resources]]
 
 # Resources
 

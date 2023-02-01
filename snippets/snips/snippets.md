@@ -28,7 +28,7 @@
 	- [image-adjustments](image-adjustments.md)
 	- [images](images.md)
 	- [lines-horizontal](lines-horizontal.md)
-	- [links](links.md)
+	- [links](../../links.md)
 	- [lists-un-ordered](lists-un-ordered.md)
 	- **[markdown-snippets](./markdown-snippets/markdown-snippets.md)**
 		- [01-00-header](./markdown-snippets/01-00-header.md)
@@ -72,15 +72,15 @@
 	- **[snippetslab](./snippetslab/snippetslab.md)**
 	- **[snips](./snips/snips.md)**
 		- [snips](./snips/snips.md)
-	- [special-effects](./special-effects.md)
-	- [status-bar](./status-bar.md)
-	- [table](./table.md)
-	- [tag-pills](./tag-pills.md)
-	- [title-bar](./title-bar.md)
-	- [tooltip](./tooltip.md)
-	- [urls](./urls.md)
-	- [vim-static-caret](./vim-static-caret.md)
-	- [wysiwyg](./wysiwyg.md)
-	- [yaml](./yaml.md)
+	- [special-effects](special-effects.md)
+	- [status-bar](status-bar.md)
+	- [table](table.md)
+	- [tag-pills](tag-pills.md)
+	- [title-bar](title-bar.md)
+	- [tooltip](tooltip.md)
+	- [urls](urls.md)
+	- [vim-static-caret](vim-static-caret.md)
+	- [wysiwyg](wysiwyg.md)
+	- [yaml](yaml.md)
 
 %% End Waypoint %%

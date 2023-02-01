@@ -76,7 +76,7 @@
 		- [google-cloud-platform-a-cheat-sheet-techrepublic](./cloud/google-cloud-platform-a-cheat-sheet-techrepublic.md)
 		- [your-complete-guide-to-free-google-services](./cloud/your-complete-guide-to-free-google-services.md)
 	- [code-design-schools](code-design-schools.md)
-	- [code-editors](home-mthrfckr/notes/misc/code-editors.md)
+	- [code-editors](code-editors.md)
 	- [code-runner](code-runner.md)
 	- [code-search-engines](code-search-engines.md)
 	- [code-search](code-search.md)

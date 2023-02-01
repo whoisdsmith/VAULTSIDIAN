@@ -2,7 +2,7 @@
 
 ---
 
-- [CODE-EDITORS](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/PROGAMMING--MTHRFCKR/CODE-EDITORS.md)
+- [CODE-EDITORS](CODE-EDITORS.md)
 
 - [DATABASE](DATABASE.md)
 

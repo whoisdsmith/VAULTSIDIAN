@@ -14,7 +14,7 @@
 
 - [DEV.TO](DEV.TO.md)
 
-- [DISCORD](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/SOCIAL--MTHRFCKR/DISCORD.md)
+- [DISCORD](DISCORD.md)
 
 - [FACEBOOK](FACEBOOK.md)
 
@@ -28,7 +28,7 @@
 
 - [PEOPLE-TO-FOLLOW](PEOPLE-TO-FOLLOW.md)
 
-- [PODCASTS](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/SOCIAL--MTHRFCKR/PODCASTS.md)
+- [PODCASTS](PODCASTS.md)
 
 - [REDDIT](REDDIT.md)
 
