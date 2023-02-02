@@ -75,27 +75,21 @@ This section uses these image prompts:
 
 ## Lucy in the sky with diamonds
 
-![](build/groups/lucy-in-the-sky-with-diamonds-the-beatles/montage-tile-2x3.png)
-
-Prompt: lucy in the sky with diamonds
+	Prompt: lucy in the sky with diamonds
 
 "Lucy in the Sky with Diamonds" is a song by the English rock band the Beatles from their 1967 album Sgt. Pepper's Lonely Hearts Club Band. Lennon's son Julian inspired the song with a nursery school drawing that he called "Lucy – in the sky with diamonds". Lennon  attributed the song's fantastical imagery to his reading of Lewis Carroll's Alice in Wonderland books.
 
 
 ## Robots celebrating a birthday party
 
-![](build/groups/robots-celebrating-a-birthday-party/montage-tile-2x3.png)
-
-Prompt: robots celebrating a birthday party
+	Prompt: robots celebrating a birthday party
 
 An android is a humanoid robot. Historically, androids were in the domain of science fiction, but recent advances in robot technology now allow the design of functional and realistic humanoid robots. A fascination in developing robots that can mimic it can be found historically in the assimilation of two concepts: simulacra (devices that exhibit likeness) and automata (devices that have independence).
 
 
 ## Comic book superhero battling evil
 
-![](build/groups/comic-book-superhero-battling-evil/montage-tile-2x3.png)
-
-Prompt: comic book superhero battling evil
+	Prompt: comic book superhero battling evil
 
 Comic books have some origins in 18th century in Eastern Asia, and were popularized in the United States and the United Kingdom during the 1930s. The first modern comic book, Famous Funnies, was released in the US in 1933 and was a reprinting of earlier newspaper humor comic strips, which had established many of the story-telling devices used in comics. The most valuable American comics have combined rarity and quality with the first appearances of popular and enduring characters, such as Action Comics #1 with the first appearance of Superman, and Detective Comics #27 with the first appearance of Batman.
 

@@ -130,30 +130,6 @@ There are a TON of shared Google Colab notebooks floating around for doing text 
 - [EleutherAI VQGAN+CLIP](https://huggingface.co/spaces/EleutherAI/VQGAN_CLIP) Hugging Face space  
 - [VQGAN+CLIP z-quantize with augmentation](https://colab.research.google.com/drive/1L8oL-vLJXVcRzCFbPwOoMkPKJ8-aYdPN#scrollTo=g7EDme5RYCrt) by Justin John
 
-
-
-
-
-### Text
-
-
-
-### Video
-
-
-
-## Other
-
-
-
-
-
-## Cool Apps
-
-
-
-
-
 ---
 
 #AI #stablediffusion #image
