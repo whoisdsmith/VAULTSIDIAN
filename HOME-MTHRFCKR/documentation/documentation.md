@@ -6,7 +6,7 @@
 - **[documentation](../../..//home-mthrfckr/documentation/documentation.md)**
 	- **[actions](actions/actions.md)**
 	- **[ansible](ansible/ansible.md)**
-[ai](ai.md)s](./api-tools/api-tools.md)**
+[AI-General](AI-General.md)s](./api-tools/api-tools.md)**
 		- [apache-solr](api-tools/apache-solr.md)
 		- [api-list](api-tools/api-list.md)
 		- [api-tools](api-tools/api-tools.md)

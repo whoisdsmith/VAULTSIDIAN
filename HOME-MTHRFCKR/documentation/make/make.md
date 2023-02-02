@@ -24,7 +24,7 @@
 	- [replacing-legacy-modules-with-new-modules](replacing-legacy-modules-with-new-modules.md)
 	- [router](router.md)
 	- [text-parser](text-parser.md)
-	- [tools](tools.md)
+	- [tools](home-mthrfckr/documentation/make/tools.md)
 	- [types-of-modules](types-of-modules.md)
 	- [upgrading-gmail-and-email-app-versions-using-make-devtool](upgrading-gmail-and-email-app-versions-using-make-devtool.md)
 	- [wordpress](wordpress.md)

@@ -8,7 +8,7 @@
 
 ***
 
-[Design](design.md)
+[Design](home-mthrfckr/bookmrks-mthrfckr/development/design.md)
 
 [DevOps](devops.md)
 

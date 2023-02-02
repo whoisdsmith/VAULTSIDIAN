@@ -105,7 +105,7 @@
 	- [ssl](ssl.md)
 	- [summary](summary.md)
 	- [tmux](tmux.md)
-	- [tools](tools.md)
+	- [tools](home-mthrfckr/bookmrks-mthrfckr/software-tools/tools.md)
 	- [unix](unix.md)
 	- [update](update.md)
 

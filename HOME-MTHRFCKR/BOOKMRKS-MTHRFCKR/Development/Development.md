@@ -6,7 +6,7 @@
 
 - **[Development](../../../..//home-mthrfckr/bookmrks-mthrfckr/development/development.md)**
   - [awesome-design-tools](awesome-design-tools.md)
-  - [design](design.md)
+  - [design](home-mthrfckr/bookmrks-mthrfckr/development/design.md)
   - [Development](../../../..//home-mthrfckr/bookmrks-mthrfckr/development/development.md)
   - [devops](devops.md)
   - [git](git.md)

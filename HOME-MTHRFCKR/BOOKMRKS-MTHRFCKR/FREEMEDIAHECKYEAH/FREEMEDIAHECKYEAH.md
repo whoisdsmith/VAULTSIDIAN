@@ -4,7 +4,7 @@
 
 %% Begin Waypoint %%
 - **[freemediaheckyeah](../../../..//home-mthrfckr/bookmrks-mthrfckr/freemediaheckyeah/freemediaheckyeah.md)**
-	- [audio](audio.md)
+	- [audio](home-mthrfckr/bookmrks-mthrfckr/freemediaheckyeah/audio.md)
 	- [best-dns-servers](best-dns-servers.md)
 	- [browser-network](browser-network.md)
 	- [computers](computers.md)
@@ -56,7 +56,7 @@
 		- [sitehunt](to-do/sitehunt.md)
 		- [test-sites](to-do/test-sites.md)
 		- [to-do](to-do/to-do.md)
-	- [tools](tools.md)
+	- [tools](home-mthrfckr/bookmrks-mthrfckr/freemediaheckyeah/tools.md)
 	- [video](video.md)
 
 %% End Waypoint %%
