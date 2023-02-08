@@ -2,7 +2,7 @@
 
 Here are some bonuses :
 
-[ChatGPT Copywriting Prompts 101](100%20BEST%20CHATGPT%20PROMPTS%2065133ea063fb452291c6401c14de921f/ChatGPT%20Copywriting%20Prompts%20101%205168a8f685ec4b5786d8750c692caf7d.md)
+[ChatGPT Copywriting Prompts 101](ChatGPT%20Copywriting%20Prompts%20101%205168a8f685ec4b5786d8750c692caf7d.md)
 
 ---
 
