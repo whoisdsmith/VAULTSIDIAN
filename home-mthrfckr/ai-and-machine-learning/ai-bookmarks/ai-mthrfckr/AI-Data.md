@@ -43,4 +43,4 @@
 
 ---
 
-[Previous - Content Generation](AI-Content%20Generation.md)                                                                    [Next - Design](AI-Design.md)
+[Previous - Content Generation](AI-Content%20Generation.md)                                                                    [Next - Design](Resources/ai-and-machine-learning/ai-bookmarks/ai-mthrfckr/AI-Design.md)

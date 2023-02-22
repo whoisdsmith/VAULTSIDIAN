@@ -180,4 +180,4 @@
 
 ---
 
-[Previous - Business](AI-Business.md)                                                                   [Next - Content Generation](AI-Content%20Generation.md)
+[Previous - Business](Resources/ai-and-machine-learning/ai-bookmarks/ai-mthrfckr/AI-Business.md)/Resources/ai-and-machine-learning/ai-bookmarks/ai-mthrfckr/AI-Business.md)                                                                   [Next - Content Generation](AI-Content%20Generation.md)

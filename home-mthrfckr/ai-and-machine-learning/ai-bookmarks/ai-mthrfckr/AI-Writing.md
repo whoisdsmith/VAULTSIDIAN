@@ -181,4 +181,4 @@
 
 ---
 
-[Previous - Video](AI-Video.md)                                                                                                          [Home](AI-MTHRFCKR.md)
+[Previous - Video](Resources/ai-and-machine-learning/ai-bookmarks/ai-mthrfckr/AI-Video.md)                                                                                                          [Home](../../../../AI-MTHRFCKR.md)

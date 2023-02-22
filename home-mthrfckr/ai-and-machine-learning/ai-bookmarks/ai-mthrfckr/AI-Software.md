@@ -275,4 +275,4 @@
 
 ---
 
-[Previous - Productivity](AI-Productivity.md)                                                                                       [Next - Text](AI-Text.md)
+[Previous - Productivity](Resources/ai-and-machine-learning/ai-bookmarks/ai-mthrfckr/AI-Productivity.md)                                                                                       [Next - Text](Resources/ai-and-machine-learning/ai-bookmarks/ai-mthrfckr/AI-Text.md)

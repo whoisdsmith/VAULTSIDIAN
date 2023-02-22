@@ -111,4 +111,4 @@
 
 ---
 
-[Previous - Software](AI-Software.md)                                                                                           [Next - Tools](AI-Tools.md)
+[Previous - Software](AI-Software.md)                                                                                           [Next - Tools](Resources/ai-and-machine-learning/ai-bookmarks/ai-mthrfckr/AI-Tools.md)

@@ -214,4 +214,4 @@
 
 ---
 
-[Previous - Design](AI-Design.md)                                                                  [Next - Education & Learning](AI-Education%20&%20Learning.md)
+[Previous - Design](Resources/ai-and-machine-learning/ai-bookmarks/ai-mthrfckr/AI-Design.md)                                                                  [Next - Education & Learning](AI-Education%20&%20Learning.md)

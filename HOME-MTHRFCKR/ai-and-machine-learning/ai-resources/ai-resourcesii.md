@@ -6,7 +6,7 @@ Various resources for AI, Deep Learning, Computer Vision, Computer Graphics, Pro
 
 | Section | Description |
 | --- | --- |
-| [**ai‑resources.md**](ai-resources.md) | A collection of various resources related to Machine Learning, Deep Learning, Computer Vision. |
+| [**ai‑resources.md**](Resources/ai-and-machine-learning/ai-resources/ai-resources.md) | A collection of various resources related to Machine Learning, Deep Learning, Computer Vision. |
 | [**ai-notes.md**](home-mthrfckr/ai/ai-resources/ai-notes.md) | My personal ai notes with figures, text based on papers, articles etc. |
 | [**blender-notes.md**](home-mthrfckr/ai/ai-resources/blender-notes.md) | My personal blender notes that can be applied for AI tasks etc. |
 | [**papers.md**](papers.md) | Add only papers worth implementing, important concepts that can be applied in future or need to be revisited again with easy to understand, SOTA, close to SOTA results or unique ideas. |

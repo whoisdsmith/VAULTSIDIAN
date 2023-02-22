@@ -101,4 +101,4 @@
 
 ---
 
-[Previous - Education & Learning](AI-Education%20&%20Learning.md)                                                                   [Next - Health](AI-Health.md)
+[Previous - Education & Learning](AI-Education%20&%20Learning.md)                                                                   [Next - Health](Resources/ai-and-machine-learning/ai-bookmarks/ai-mthrfckr/AI-Health.md)

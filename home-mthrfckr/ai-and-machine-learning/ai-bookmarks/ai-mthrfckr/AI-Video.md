@@ -144,4 +144,4 @@
 
 ---
 
-[Previous - Tools](AI-Tools.md)                                                                                             [Next - Writing](AI-Writing.md)
+[Previous - Tools](Resources/ai-and-machine-learning/ai-bookmarks/ai-mthrfckr/AI-Tools.md)                                                                                             [Next - Writing](Resources/ai-and-machine-learning/ai-bookmarks/ai-mthrfckr/AI-Writing.md)

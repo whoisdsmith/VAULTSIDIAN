@@ -37,4 +37,4 @@
 
 ---
 
-[Previous - Development](AI-Development.md)                                                                                     [Next - Fun](AI-Fun.md)
+[Previous - Development](Resources/ai-and-machine-learning/ai-bookmarks/ai-mthrfckr/AI-Development.md)                                                                                     [Next - Fun](AI-Fun.md)

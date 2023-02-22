@@ -59,4 +59,4 @@
 
 ---
 
-[Previous - Data](AI-Data.md)                                                                                   [Next - Development](AI-Development.md)
+[Previous - Data](Resources/ai-and-machine-learning/ai-bookmarks/ai-mthrfckr/AI-Data.md)                                                                                   [Next - Development](Resources/ai-and-machine-learning/ai-bookmarks/ai-mthrfckr/AI-Development.md)

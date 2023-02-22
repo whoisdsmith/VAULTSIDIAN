@@ -148,4 +148,4 @@
 
 ---
 
-[Previous - Home](AI-MTHRFCKR.md)                                                                                [Next - Art and Image](AI-Art%20And%20Image.md)
+[Previous - Home](../../../../AI-MTHRFCKR.md)                                                                                [Next - Art and Image](AI-Art%20And%20Image.md)

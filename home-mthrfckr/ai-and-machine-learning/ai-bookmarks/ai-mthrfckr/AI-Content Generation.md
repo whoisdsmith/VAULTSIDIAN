@@ -79,4 +79,4 @@
 
 ---
 
-[Previous - Business](AI-Business.md)                                                                                           [Next - Data](AI-Data.md)
+[Previous - Business](Resources/ai-and-machine-learning/ai-bookmarks/ai-mthrfckr/AI-Business.md)                                                                                           [Next - Data](Resources/ai-and-machine-learning/ai-bookmarks/ai-mthrfckr/AI-Data.md)

@@ -762,4 +762,4 @@
 
 ---
 
-**[Previous - General](AI-General.md)**                                                                                          [Next - Audio](AI-Audio.md)
+**[Previous - General](AI-General.md)**                                                                                          [Next - Audio](Resources/ai-and-machine-learning/ai-bookmarks/ai-mthrfckr/AI-Audio.md)

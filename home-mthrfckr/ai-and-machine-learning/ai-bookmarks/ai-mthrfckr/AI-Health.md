@@ -46,4 +46,4 @@
 
 ---
 
-[Previous - Fun](AI-Fun.md)                                                                                                  [Next - Other](AI-Other.md)
+[Previous - Fun](AI-Fun.md)                                                                                                  [Next - Other](Resources/ai-and-machine-learning/ai-bookmarks/ai-mthrfckr/AI-Other.md)

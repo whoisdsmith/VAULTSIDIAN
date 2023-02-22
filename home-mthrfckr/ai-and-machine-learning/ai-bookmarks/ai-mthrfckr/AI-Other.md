@@ -420,4 +420,4 @@
 
 ---
 
-[Previous - Health](AI-Health.md)                                                                                   [Next - Productivity](AI-Productivity.md)
+[Previous - Health](Resources/ai-and-machine-learning/ai-bookmarks/ai-mthrfckr/AI-Health.md)                                                                                   [Next - Productivity](Resources/ai-and-machine-learning/ai-bookmarks/ai-mthrfckr/AI-Productivity.md)

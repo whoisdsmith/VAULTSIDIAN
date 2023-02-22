@@ -107,4 +107,4 @@
 
 ---
 
-[Previous - Art and Image](AI-Art%20And%20Image.md)                                                                           [Next - Business](AI-Business.md)
+[Previous - Art and Image](AI-Art%20And%20Image.md)                                                                           [Next - Business](Resources/ai-and-machine-learning/ai-bookmarks/ai-mthrfckr/AI-Business.md)

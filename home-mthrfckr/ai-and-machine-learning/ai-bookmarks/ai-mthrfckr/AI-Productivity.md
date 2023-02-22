@@ -222,4 +222,4 @@
 
 ---
 
-[Previous - Other](AI-Other.md)                                                                                         [Next - Software](AI-Software.md)
+[Previous - Other](Resources/ai-and-machine-learning/ai-bookmarks/ai-mthrfckr/AI-Other.md)                                                                                         [Next - Software](AI-Software.md)

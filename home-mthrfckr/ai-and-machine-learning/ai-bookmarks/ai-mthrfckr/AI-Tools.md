@@ -173,4 +173,4 @@
 
 ---
 
-[Previous - Text](AI-Text.md)                                                                                                  [Next - Video](AI-Video.md)
+[Previous - Text](Resources/ai-and-machine-learning/ai-bookmarks/ai-mthrfckr/AI-Text.md)                                                                                                  [Next - Video](Resources/ai-and-machine-learning/ai-bookmarks/ai-mthrfckr/AI-Video.md)
