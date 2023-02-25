@@ -20,6 +20,7 @@
 		- [stutz](./mental%20health/stutz.md)
 	- **[notes](./notes/notes.md)**
 	- **[osint](./osint/osint.md)**
+	- [Please redirect your DNS](./Please%20redirect%20your%20DNS.md)
 	- **[research](./research/research.md)**
 	- **[urls](./urls/urls.md)**
 
