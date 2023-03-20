@@ -54,9 +54,9 @@
 
 [Artificial-intelligence](Artificial-intelligence.md)
 
-[Chrome](Chrome.md)
+[Website](home-mthrfckr/bookmrks-mthrfckr/project-stars/Website.md)
 
-[Chrome](Chrome.md)
+[Website](home-mthrfckr/bookmrks-mthrfckr/project-stars/Website.md)
 
 [Terminal](Terminal.md)
 
@@ -190,7 +190,7 @@
 
 [Google](Google.md)
 
-[Graphql](Graphql.md)
+[Database](home-mthrfckr/bookmrks-mthrfckr/project-stars/Database.md)
 
 [Hackathon](Hackathon.md)
 
@@ -208,7 +208,7 @@
 
 [Html](Html.md)
 
-[Http](Http.md)
+[Website](home-mthrfckr/bookmrks-mthrfckr/project-stars/Website.md)
 
 [Icon-font](Icon-font.md)
 
@@ -224,9 +224,9 @@
 
 [Javascript](Javascript.md)
 
-[Jekyll](Jekyll.md)
+[Website](home-mthrfckr/bookmrks-mthrfckr/project-stars/Website.md)
 
-[Jekyll](Jekyll.md)
+[Website](home-mthrfckr/bookmrks-mthrfckr/project-stars/Website.md)
 
 [Jquery](Jquery.md)
 
@@ -274,15 +274,15 @@
 
 [Mobile](Mobile.md)
 
-[Mongodb](Mongodb.md)
+[Database](home-mthrfckr/bookmrks-mthrfckr/project-stars/Database.md)
 
-[Mongoose](Mongoose.md)
+[Database](home-mthrfckr/bookmrks-mthrfckr/project-stars/Database.md)
 
-[Monitoring](Monitoring.md)
+[Website](home-mthrfckr/bookmrks-mthrfckr/project-stars/Website.md)
 
 [Music](Music.md)
 
-[Mysql](Mysql.md)
+[Database](home-mthrfckr/bookmrks-mthrfckr/project-stars/Database.md)
 
 [Neovim](Neovim.md)
 
@@ -296,7 +296,7 @@
 
 [Node](Node.md)
 
-[Nosql](Nosql.md)
+[Database](home-mthrfckr/bookmrks-mthrfckr/project-stars/Database.md)
 
 [Terminal](Terminal.md)
 
@@ -338,7 +338,7 @@
 
 [Project-management](Project-management.md)
 
-[Publishing](Publishing.md)
+[Website](home-mthrfckr/bookmrks-mthrfckr/project-stars/Website.md)
 
 [Pwa](Pwa.md)
 
@@ -366,7 +366,7 @@
 
 [Redux](Redux.md)
 
-[Rest-api](Rest-api.md)
+[Website](home-mthrfckr/bookmrks-mthrfckr/project-stars/Website.md)
 
 [Osint](Osint.md)
 
@@ -384,9 +384,9 @@
 
 [Osint](Osint.md)
 
-[Server](Server.md)
+[Website](home-mthrfckr/bookmrks-mthrfckr/project-stars/Website.md)
 
-[Serverless](Serverless.md)
+[Website](home-mthrfckr/bookmrks-mthrfckr/project-stars/Website.md)
 
 [Terminal](Terminal.md)
 

@@ -167,3 +167,97 @@
 - [Hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing Fast, Instant Realtime GraphQL APIs On Your DB With Fine Grained Access Control, Also Trigger Webhooks On Database Events.
 - [Orlangure/gnomock](https://github.com/orlangure/gnomock) - Test Your Code Without Writing Mocks With Ephemeral Docker Containers 📦 Setup Popular Services With Just A Couple Lines Of Code ⏱️ No Bash, No Yaml, Only Code 💻
 - [Smklancher/ExistExportToSQL](https://github.com/smklancher/ExistExportToSQL) - Import Exist.io Data Into SQL Server
+
+
+# Graphql
+
+- [Weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate Is An Open Source Vector Search Engine That Stores Both Objects And Vectors, Allowing For Combining Vector Search With Structured Filtering With The Fault-tolerance And Scalability Of A Cloud
+- [Stashapp/stash](https://github.com/stashapp/stash) - An Organizer For Your Porn, Written In Go. Documentation: Https://docs.stashapp.cc
+- [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway Written In Go, Supporting REST, GraphQL, TCP And GRPC Protocols
+- [Directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰—Directus Is An Instant REST+GraphQL API And Intuitive No-code Data Collaboration App For Any SQL Database.
+- [Strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry) - A GraphQL Library For Python That Leverages Type Annotations 🍓
+- [Supabase/supabase](https://github.com/supabase/supabase) - The Open Source Firebase Alternative. Follow To Stay Updated About Our Public Beta.
+- [Maticzav/swift-graphql](https://github.com/maticzav/swift-graphql) - A GraphQL Client That Lets You Forget About GraphQL.
+- [Kong/insomnia](https://github.com/Kong/insomnia) - The Open-source, Cross-platform API Client For GraphQL, REST, WebSockets And GRPC.
+- [Apollographql/apollo-ios](https://github.com/apollographql/apollo-ios) - 📱  A Strongly-typed, Caching GraphQL Client For IOS, Written In Swift.
+- [Dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - Build NodeJS / GO APIs In 5 Minutes Not Weeks
+- [Graphql-python/graphene-sqlalchemy](https://github.com/graphql-python/graphene-sqlalchemy) - Graphene SQLAlchemy Integration
+- [Edgedb/edgedb](https://github.com/edgedb/edgedb) - A Graph-relational Database With Declarative Schema, Built-in Migration System, And A Next-generation Query Language
+- [Graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & The GraphQL LSP Reference Ecosystem For Building Browser & IDE Tools.
+- [Chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome List Of GraphQL
+- [Graphql-python/graphene-django](https://github.com/graphql-python/graphene-django) - Integrate GraphQL Into Your Django Project.
+- [Graphql-python/graphene](https://github.com/graphql-python/graphene) - GraphQL Framework For Python
+- [Dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database With Graph Backend
+- [PckdHQ/Pckd](https://github.com/PckdHQ/Pckd) - The ⚡️ Analytics-intensive, Self-hostable Link-shortener With A Beautiful UI | AKA Free Bit.ly Alternative 🚀
+- [Refinedev/refine](https://github.com/refinedev/refine) - Build Your React-based CRUD Applications, Without Constraints.
+- [Gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The Fastest Frontend For The Headless Web. Build Modern Websites With React.
+- [Graphql-markdown/graphql-markdown](https://github.com/graphql-markdown/graphql-markdown) - Flexible GraphQL Documentation Generator (Markdown)
+- [Sleepyqadir/TechFolio](https://github.com/sleepyqadir/TechFolio) - An Open Sourced Creative Portfolio For Developer And Tech Geeks 😀
+- [Prettier/prettier](https://github.com/prettier/prettier) - Prettier Is An Opinionated Code Formatter.
+- [Apollographql/apollo-ios](https://github.com/apollographql/apollo-ios) - 📱  A Strongly-typed, Caching GraphQL Client For IOS, Written In Swift.
+- [Chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome List Of GraphQL
+- [Happy-mammal/timeliner](https://github.com/happy-mammal/timeliner) - A Simple Interest Tracking App Which Tries/aims To Provide Real-time History Feed Of Interests You Like E.g. (IPhone13, Tesla, Covid-19). It Similar To A Customized RSS Feed But A Mixture Of News And
+- [Hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing Fast, Instant Realtime GraphQL APIs On Your DB With Fine Grained Access Control, Also Trigger Webhooks On Database Events.
+
+
+# Mongodb
+
+- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A Truly Open Source MongoDB Alternative
+- [Bytebase/bytebase](https://github.com/bytebase/bytebase) - Database CI/CD For DevOps Teams. Https://www.bytebase.com
+- [Mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Official Golang Driver For MongoDB
+- [Pyeve/eve](https://github.com/pyeve/eve) - REST API Framework Designed For Human Beings
+- [Golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database Migrations. CLI And Golang Library.
+- [Daniel31x13/linkwarden](https://github.com/Daniel31x13/linkwarden) - A Self-hosted Bookmark + Archive Manager To Store Your Useful Links.
+- [Matthewgrosman/messenger-analytics](https://github.com/matthewgrosman/messenger-analytics) - Project That Ingests Facebook Messenger Conversations And Generates Analytics.
+- [Tks18/gindex-v4](https://github.com/tks18/gindex-v4) - A Vue Js Based G Index With Improved Dark Mode, Search And Video Player
+- [Pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks](https://github.com/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks) - * W.I.P *🛠 Full-on Full Stack Front End And A Bit Of Back End Web Development Challenge. Challenging Every Day To Learn New Stuffs About React & Its In-depth Features And Also To Explore The Taste Of
+- [Anyrange/measurify](https://github.com/anyrange/measurify) - Spotify Listening Stats [Last.fm + Stats.fm Clone]
+- [Reubn/daylight](https://github.com/reubn/daylight) - Your Life, On A Map.
+
+
+# Mongoose
+
+- [Tks18/gindex-v4](https://github.com/tks18/gindex-v4) - A Vue Js Based G Index With Improved Dark Mode, Search And Video Player
+- [Pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks](https://github.com/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks) - * W.I.P *🛠 Full-on Full Stack Front End And A Bit Of Back End Web Development Challenge. Challenging Every Day To Learn New Stuffs About React & Its In-depth Features And Also To Explore The Taste Of
+
+
+# Mysql
+
+- [Gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI Tool For Backup Your Databases, Files To FTP / SCP / S3 / GCS And Other Cloud Storages.
+- [Mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - A Low-code Machine Learning Platform To Help Developers Build #AI Solutions
+- [Tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser And Transpiler
+- [Directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰—Directus Is An Instant REST+GraphQL API And Intuitive No-code Data Collaboration App For Any SQL Database.
+- [Orlangure/gnomock](https://github.com/orlangure/gnomock) - Test Your Code Without Writing Mocks With Ephemeral Docker Containers 📦 Setup Popular Services With Just A Couple Lines Of Code ⏱️ No Bash, No Yaml, Only Code 💻
+- [Bytebase/bytebase](https://github.com/bytebase/bytebase) - Database CI/CD For DevOps Teams. Https://www.bytebase.com
+- [Oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - OceanBase Is An Enterprise Distributed Relational Database With High Availability, High Performance, Horizontal Scalability, And Compatibility With SQL Standards.
+- [Dolthub/dolt](https://github.com/dolthub/dolt) - Dolt–Git For Data
+- [Dolthub/go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible Relational Database With A Storage Agnostic Query Engine. Implemented In Pure Go.
+- [Linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, We Are Using This Curriculum For Onboarding Our Entry-level Talents Into The SRE Role.
+- [Dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - Build NodeJS / GO APIs In 5 Minutes Not Weeks
+- [Kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate Type-safe Code From SQL
+- [Go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver Is A MySQL Driver For Go's (Golang) Database/sql Package
+- [Cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube—The Semantic Layer For Building Data Applications
+- [Encode/databases](https://github.com/encode/databases) - Async Database Support For Python. 🗄
+- [Tortoise/tortoise-orm](https://github.com/tortoise/tortoise-orm) - Familiar Asyncio ORM For Python, Built With Relations In Mind
+- [XiaoMi/soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
+- [Golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database Migrations. CLI And Golang Library.
+- [Dbcli/mycli](https://github.com/dbcli/mycli) - A Terminal Client For MySQL With AutoCompletion And Syntax Highlighting.
+- [Xo/usql](https://github.com/xo/usql) - Universal Command-line Interface For SQL Databases
+- [Pingcap/tidb](https://github.com/pingcap/tidb) - TiDB Is An Open-source, Cloud-native, Distributed, MySQL-Compatible Database For Elastic Scale And Real-time Analytics. Try AI-powered Chat2Query Free At : Https://tidbcloud.com/free-trial
+- [Julien-duponchelle/python-mysql-replication](https://github.com/julien-duponchelle/python-mysql-replication) - Pure Python Implementation Of MySQL Replication Protocol Build On Top Of PyMYSQL
+- [Grafana/grafana](https://github.com/grafana/grafana) - The Open And Composable Observability And Data Visualization Platform. Visualize Metrics, Logs, And Traces From Multiple Sources Like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres And Many More.
+- [Salahineo/bookmarks-manager](https://github.com/salahineo/bookmarks-manager) - Bookmarks Manager For Your Links
+- [Grafana/grafana](https://github.com/grafana/grafana) - The Open And Composable Observability And Data Visualization Platform. Visualize Metrics, Logs, And Traces From Multiple Sources Like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres And Many More.
+- [Wisser/Jailer](https://github.com/Wisser/Jailer) - Database Subsetting And Relational Data Browsing Tool.
+- [Hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing Fast, Instant Realtime GraphQL APIs On Your DB With Fine Grained Access Control, Also Trigger Webhooks On Database Events.
+- [Nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [Getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect To Any Data Source, Easily Visualize, Dashboard And Share Your Data.
+
+
+# Nosql
+
+- [Tidb-incubator/tidis](https://github.com/tidb-incubator/tidis) - A Distributed Transactional Large-scale NoSQL Database Powered By TiKV
+- [Surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A Scalable, Distributed, Collaborative, Document-graph Database, For The Realtime Web
+- [RedisGraph/RedisGraph](https://github.com/RedisGraph/RedisGraph) - A Graph Database As A Redis Module
+- [Linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, We Are Using This Curriculum For Onboarding Our Entry-level Talents Into The SRE Role.
+- [Apache/zeppelin](https://github.com/apache/zeppelin) - Web-based Notebook That Enables Data-driven, Interactive Data Analytics And Collaborative Documents With SQL, Scala And More.
