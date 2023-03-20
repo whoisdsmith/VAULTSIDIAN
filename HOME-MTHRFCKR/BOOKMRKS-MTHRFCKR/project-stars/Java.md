@@ -1,0 +1,34 @@
+# Java
+
+- [Dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A Distributed Transaction Framework, Supports Workflow, Saga, Tcc, Xa, 2-phase Message, Outbox Patterns, Supports Many Languages.
+- [Extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend Anything With WebAssembly.
+- [Xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：Https://xiaolincoding.com
+- [Google/tink](https://github.com/google/tink) - Tink Is A Multi-language, Cross-platform, Open Source Library That Provides Cryptographic APIs That Are Secure, Easy To Use Correctly, And Hard(er) To Misuse.
+- [Turms-im/turms](https://github.com/turms-im/turms) - 🕊️ The World's Most Advanced Open Source Instant Messaging Engine For 100K~10M Concurrent Users Https://turms-im.github.io/docs
+- [Doocs/leetcode](https://github.com/doocs/leetcode) - 😏 LeetCode Solutions In Any Programming Language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
+- [Opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open Source Distributed And RESTful Search Engine.
+- [Trinodb/trino](https://github.com/trinodb/trino) - Official Repository Of Trino, The Distributed SQL Query Engine For Big Data, Formerly Known As PrestoSQL (Https://trino.io)
+- [Dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's Update PR Creation Logic. Feedback: Https://github.com/orgs/community/discussions/categories/code-security
+- [Uber/cadence](https://github.com/uber/cadence) - Cadence Is A Distributed, Scalable, Durable, And Highly Available Orchestration Engine To Execute Asynchronous Long-running Business Logic In A Scalable And Resilient Way.
+- [Apache/flink](https://github.com/apache/flink) - Apache Flink
+- [Oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :Rocket:
+- [Lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - Xdb) Is A Offline IP Address Manager Framework And Locator, Support Billions Of Data Segments, Ten Microsecond Searching Performance. Xdb Engine Implementation For Many Programming La
+- [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :Books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
+- [Ray-project/ray](https://github.com/ray-project/ray) - Ray Is A Unified Framework For Scaling AI And Python Applications. Ray Consists Of A Core Distributed Runtime And A Toolkit Of Libraries (Ray AIR) For Accelerating ML Workloads.
+- [Apache/zeppelin](https://github.com/apache/zeppelin) - Web-based Notebook That Enables Data-driven, Interactive Data Analytics And Collaborative Documents With SQL, Scala And More.
+- [Apache/spark](https://github.com/apache/spark) - Apache Spark - A Unified Analytics Engine For Large-scale Data Processing
+- [Elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free And Open, Distributed, RESTful Search Engine
+- [Opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open Source Distributed And RESTful Search Engine.
+- [Matthewgrosman/messenger-analytics](https://github.com/matthewgrosman/messenger-analytics) - Project That Ingests Facebook Messenger Conversations And Generates Analytics.
+- [Oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 Mega-Linter Analyzes 50 Languages, 22 Formats, 21 Tooling Formats, Excessive Copy-pastes, Spelling Mistakes And Security Issues In Your Repository Sources With A GitHub Action, Other CI Tools Or Loc
+- [Jesperancinha/markdowner](https://github.com/jesperancinha/markdowner) - Markdowner Is A Parser Project Exclusively Made For Mardown Files.
+- [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine Is A Free, Open Source Power Tool For Working With Messy Data And Improving It
+- [Drewnoakes/metadata-extractor](https://github.com/drewnoakes/metadata-extractor) - Extracts Exif, IPTC, XMP, ICC And Other Metadata From Image, Video And Audio Files
+- [Mpfthprblmtq/moose](https://github.com/mpfthprblmtq/moose) - A Music Management System That Reads And Modifies Id3 Tags And Stuff
+- [Internetarchive/heritrix3](https://github.com/internetarchive/heritrix3) - Heritrix Is The Internet Archive's Open-source, Extensible, Web-scale, Archival-quality Web Crawler Project.
+- [CodeverDotDev/bookmarks](https://github.com/CodeverDotDev/bookmarks) - :Bookmark: :Star: Collection Of Public Dev Bookmarks, Shared With :Heart: From Www.codever.dev
+- [Wisser/Jailer](https://github.com/Wisser/Jailer) - Database Subsetting And Relational Data Browsing Tool.
+- [Sitewhere/sitewhere](https://github.com/sitewhere/sitewhere) - SiteWhere Is An Industrial Strength Open-source Application Enablement Platform For The Internet Of Things (IoT). It Provides A Multi-tenant Microservice-based Infrastructure That Includes Device/asse
+- [Thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device Management, Data Collection, Processing And Visualization.
+- [Soujava/historia](https://github.com/soujava/historia) - História Do SouJava
+- [D-w-arnold/reflective-journal-CSV-to-TXT-converter](https://github.com/d-w-arnold/reflective-journal-CSV-to-TXT-converter) - Automate The Creation Of Your Year In Industry Reflective Journal 📚

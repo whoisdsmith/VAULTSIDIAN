@@ -1,0 +1,91 @@
+# Html
+
+- [Microcosm-cc/bluemonday](https://github.com/microcosm-cc/bluemonday) - Bluemonday: A Fast Golang HTML Sanitizer (Inspired By The OWASP Java HTML Sanitizer) To Scrub User Generated Content Of XSS
+- [Bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &Lt;/&gt; Htmx - High Power Tools For HTML
+- [Microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started As A Web Developer
+- [Pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: Https://pyscript.net Examples: Https://pyscript.net/examples
+- [Mdn/content](https://github.com/mdn/content) - The Content Behind MDN Web Docs
+- [Alecthomas/chroma](https://github.com/alecthomas/chroma) - A General Purpose Syntax Highlighter In Pure Go
+- [Scinfu/SwiftSoup](https://github.com/scinfu/SwiftSoup) - SwiftSoup: Pure Swift HTML Parser, With Best Of DOM, CSS, And Jquery (Supports Linux, IOS, Mac, TvOS, WatchOS)
+- [Psharanda/Atributika](https://github.com/psharanda/Atributika) - Convert Text With HTML Tags, Links, Hashtags, Mentions Into NSAttributedString. Make Them Clickable With UILabel Drop-in Replacement.
+- [Doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
+- [Novnc/noVNC](https://github.com/novnc/noVNC) - VNC Client Web Application
+- [JohnSundell/Plot](https://github.com/JohnSundell/Plot) - A DSL For Writing Type-safe HTML, XML And RSS In Swift.
+- [Thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The Perfect Front-End Checklist For Modern Websites And Meticulous Developers
+- [Mattmakai/fullstackpython.com](https://github.com/mattmakai/fullstackpython.com) - Full Stack Python Source With Pelican, Bootstrap And Markdown.
+- [Videojs/video.js](https://github.com/videojs/video.js) - Video.js - Open Source HTML5 Video Player
+- [LilaRest/obsidian-custom-classes](https://github.com/LilaRest/obsidian-custom-classes) - A Minimal Obsidian Plugin That Allows You To Add Your Own HTML Classes To Chosen Markdown Elements Directly From Your Notes.
+- [KosmosisDire/obsidian-webpage-export](https://github.com/KosmosisDire/obsidian-webpage-export) - Exports Obsidian Documents As Html, Correctly Including All Styling And Formatting.
+- [Nodsoft/MoltenObsidian](https://github.com/Nodsoft/MoltenObsidian) - Obsidian-flavoured Markdown Parsing Library For .NET 6+, With Support For Obsidian Vaults Navigation.
+- [Doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
+- [JS-DevTools/rehype-url-inspector](https://github.com/JS-DevTools/rehype-url-inspector) - A Rehype Plugin To Inspect, Validate, Or Rewrite URLs Anywhere In An HTML Document
+- [SkiingIsFun123/WaybackBrowserMacOS](https://github.com/SkiingIsFun123/WaybackBrowserMacOS) - Pick A Date And Explore Websites From The Early Days Of The Internet To Now All In An Easy-to-use Browser Format! 💻
+- [Soham-Chakraborty-8455/Banner-Generator-](https://github.com/Soham-Chakraborty-8455/Banner-Generator-) - An Automatic Banner Generator Website
+- [Conway-markdown/conway-markdown.github.io](https://github.com/conway-markdown/conway-markdown.github.io) - GitHub Pages Documentation For Conway-Markdown (CMD).
+- [Joriewong/html2md](https://github.com/joriewong/html2md) - :Fax:html2MD
+- [Wakeful-Cloud/html-translator](https://github.com/Wakeful-Cloud/html-translator) - Translate HTML5 To Discord Flavored Markdown
+- [OS-expected/EzGitDoc](https://github.com/OS-expected/EzGitDoc) - Simple & Fast WYSIWYG Repo Documentation Generator With Personal Enchacements.
+- [Gaojiuli/tomd](https://github.com/gaojiuli/tomd) - Convert HTML To Markdown.
+- [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML To Markdown. Even Works With Entire Websites And Can Be Extended Through Rules.
+- [Thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown) - Convert HTML To Markdown With PHP
+- [Mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML To Markdown Converter Written In JavaScript
+- [Jaywcjlove/markdown-to-html](https://github.com/jaywcjlove/markdown-to-html) - Converts Markdown Text To HTML.
+- [Linbreux/wikmd](https://github.com/Linbreux/wikmd) - A File Based Wiki That Uses Markdown
+- [Tim-gromeyer/html2md](https://github.com/tim-gromeyer/html2md) - Transform Your HTML Into Clean, Easy-to-read Markdown With Html2md.
+- [Bwc9876/menagerie](https://github.com/Bwc9876/menagerie) - A Static Site Generator Made For MarkDown, HTML, JsonSchema, XMLSchema, And More
+- [Vijayyprajapati/Share-Your-Bookmarks](https://github.com/vijayyprajapati/Share-Your-Bookmarks) - A Platform Where Anyone Can Make Their Profile, Share Their Twitter And LinkedIn Bookmarks, See Other Shared Bookmarks, And Contribute To The Community. This Repository Is Participating In Hacktoberfe
+- [Jstrieb/urlpages](https://github.com/jstrieb/urlpages) - Create And View Web Pages Stored Entirely In The URL
+- [CCharlieLi/bookmark-parser](https://github.com/CCharlieLi/bookmark-parser) - Find And Parse Firefox/Chrome Bookmark HTML And Jsonlz4 File Into Useable JSON Object Or Export As JSON File.
+- [Nuthrash/obsidian-html-plugin](https://github.com/nuthrash/obsidian-html-plugin) - This Is A Plugin For Obsidian (Https://obsidian.md). Can Open Document With .Html And .Htm File Extensions.
+- [Lise-henry/crowbook](https://github.com/lise-henry/crowbook) - Converts Books Written In Markdown To HTML, LaTeX/PDF And EPUB
+- [Salahineo/bookmarks-manager](https://github.com/salahineo/bookmarks-manager) - Bookmarks Manager For Your Links
+- [Sneas/cv-template](https://github.com/sneas/cv-template) - An Easy Way To Create HTML And PDF Versions Of Your Resume, And Automatically Host Them On GitHub Pages.
+- [Jsonresume/resume-website](https://github.com/jsonresume/resume-website) - Website For JSON Resume. 🏡
+- [Jglovier/resume-template](https://github.com/jglovier/resume-template) - :Page_facing_up::briefcase::tophat: A Simple Jekyll + GitHub Pages Powered Resume Template.
+- [0xAliRaza/0xfolio](https://github.com/0xAliRaza/0xfolio) - A Free HTML Portfolio Template For Developers.
+- [Codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - VCard Is A Fully Responsive Personal Portfolio Website, Responsive For All Devices.
+- [Elipapa/markdown-cv](https://github.com/elipapa/markdown-cv) - A Simple Template To Write Your CV In A Readable Markdown File And Use CSS To Publish/print It.
+- [MichaelCurrin/html-timeline-generator](https://github.com/MichaelCurrin/html-timeline-generator) - Browser Tool To Create Pretty HTML Timelines
+- [Garimasingh128/gitsetgo](https://github.com/garimasingh128/gitsetgo) - A Github Resume Generator 👨‍💻👩‍ To Create Your Own Personalised Resume Based On Your Github Profile. 🔎 This Tool Lets You Have Your Resume On A Single Click.
+- [Prat0318/json_resume](https://github.com/prat0318/json_resume) - Generates Pretty HTML, LaTeX, Markdown, With Biodata Feeded As Input In JSON
+- [Khalby786/REHeader](https://github.com/khalby786/REHeader) - Generate Beautiful Header Images For Your GitHub Profile READMEs.
+- [Pokiiio/GooglePhotoMarkdowner](https://github.com/pokiiio/GooglePhotoMarkdowner) - GooglePhotoにアップロードした写真を、ブログなどで貼り付けられる形式に変換するアプリです。
+- [Dan-smith-tech/shelf](https://github.com/dan-smith-tech/shelf) - A Fully Customisable, Open-source Browser Startpage.
+- [Joeyespo/grip](https://github.com/joeyespo/grip) - Preview GitHub README.md Files Locally Before Committing Them.
+- [Danburzo/percollate](https://github.com/danburzo/percollate) - A Command-line Tool To Turn Web Pages Into Readable PDF, EPUB, HTML, Or Markdown Docs.
+- [Showdownjs/showdown](https://github.com/showdownjs/showdown) - A Bidirectional Markdown To HTML To Markdown Converter Written In Javascript
+- [Aromalanil/markItDown](https://github.com/aromalanil/markItDown) - 📱 A React App To Preview And Edit Markdown✍. You Can Also Export It As HTML.
+- [Artiomn/markdown_articles_tool](https://github.com/artiomn/markdown_articles_tool) - Parse Markdown Article, Download Images And Replace Images URL's With Local Paths
+- [Obsidian-html/obsidian-html](https://github.com/obsidian-html/obsidian-html) - Python Code To Convert Obsidian Notes To Proper Markdown And Optionally To Create An Html Site Too.
+- [Prettier/prettier](https://github.com/prettier/prettier) - Prettier Is An Opinionated Code Formatter.
+- [Tabler/tabler](https://github.com/tabler/tabler) - Tabler Is Free And Open-source HTML Dashboard UI Kit Built On Bootstrap
+- [X0RBYT3/PIG-Tools](https://github.com/X0RBYT3/PIG-Tools) - An Online Collection Of Open Source Intelligence Tools
+- [Michabirklbauer/instagram_json_viewer](https://github.com/michabirklbauer/instagram_json_viewer) - Transforms Instagram's *.Json / Backup Data - That You Get Via The Data Download Tool - To A Readable Format!
+- [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your Web Application For Managing Personal Data. &Lt;personal.management.system.pms@gmail.com&gt;
+- [Chris3Arcadia/Evernote-to-DayOne](https://github.com/Chris3Arcadia/Evernote-to-DayOne) - Python Script For Converting Evernote Notes To Day One Journal Entries Using Day One's Official Command Line Interface.
+- [Syahravi/syahravi-timeline](https://github.com/syahravi/syahravi-timeline) - Syahravi Timeline - A Timeline Of Important Events In My Life.
+- [Dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A List Of Command Line Tools For Manipulating Structured Text Data
+- [Coding/Coding-iOS](https://github.com/coding/Coding-iOS) - CODING IOS 客户端源代码
+
+
+# Html5
+
+- [Novnc/noVNC](https://github.com/novnc/noVNC) - VNC Client Web Application
+- [Mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
+- [Videojs/video.js](https://github.com/videojs/video.js) - Video.js - Open Source HTML5 Video Player
+- [Chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts Using The &Lt;canvas&gt; Tag
+- [LeeReid1/MarkdownToSiteGenerator](https://github.com/LeeReid1/MarkdownToSiteGenerator) - An Example Of My Code Style, For C# 11 And .NET Core 7.0. Written From Scratch Using Test-driven-development. The Solution Builds A Static Multiple-HTML-page Site From A Directory Of Markdown Files, H
+- [Laxmanbalaraman/Broken-Links-Finder](https://github.com/laxmanbalaraman/Broken-Links-Finder) - A Web Application To Find All The Dead Links In A Website
+- [JS-DevTools/rehype-url-inspector](https://github.com/JS-DevTools/rehype-url-inspector) - A Rehype Plugin To Inspect, Validate, Or Rewrite URLs Anywhere In An HTML Document
+- [Stevenvachon/broken-link-checker](https://github.com/stevenvachon/broken-link-checker) - Find Broken Links, Missing Images, Etc Within Your HTML.
+- [Asrvd/gitbanner](https://github.com/asrvd/gitbanner) - Generate Banner For You Profile Readme On GitHub. GitHub Readme Banner Generator With Name, About Section And Profile Picture.
+- [Wakeful-Cloud/html-translator](https://github.com/Wakeful-Cloud/html-translator) - Translate HTML5 To Discord Flavored Markdown
+- [Tim-gromeyer/html2md](https://github.com/tim-gromeyer/html2md) - Transform Your HTML Into Clean, Easy-to-read Markdown With Html2md.
+- [Zainaftab44/ResumeMaker](https://github.com/zainaftab44/ResumeMaker) - A Resume Maker App Developed In Vue.js To Generate Beautiful Resumes Free-of-cost.
+- [Supercodingninja/markdown-cv](https://github.com/supercodingninja/markdown-cv) - This Is A Simple Template To Help You Write Your CV, In A Readable Markdown File; And Use CSS To Publish/print It. I Got A Lot Of Positive Responses, Concerning This Format I Chose To Use For My CV.
+- [Ishandeveloper/Portfolio](https://github.com/ishandeveloper/Portfolio) - A Fully Responsive Progressive Web App That I'm Currently Working On Which Will Contain An About Section, Showcase, Contact Etc.
+- [Mayhemantt/Portfolio-Website](https://github.com/mayhemantt/Portfolio-Website) - Free To Use Portfolio Website. Dont Forget To Start. Thank You.
+- [Sadanandpai/resume-builder](https://github.com/sadanandpai/resume-builder) - Build A Standard And Professional Single Page Resume
+- [Tabler/tabler](https://github.com/tabler/tabler) - Tabler Is Free And Open-source HTML Dashboard UI Kit Built On Bootstrap
+- [Dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, And Taxonomy Of Modern JavaScript Web Development
+- [Br3ndonland/udacity-fsnd](https://github.com/br3ndonland/udacity-fsnd) - Udacity Full Stack Web Developer Nanodegree Program (FSND) Course Materials

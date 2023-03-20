@@ -1,0 +1,27 @@
+# Flutter
+
+- [Localsend/localsend](https://github.com/localsend/localsend) - An Open Source Cross-platform Alternative To AirDrop
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy Is An Open-source Alternative To Notion. You Are In Charge Of Your Data And Customizations. Built With Flutter And Rust.
+- [Vandadnp/flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks) - A Collection Of Flutter And Dart Tips And Tricks
+- [Bytedance/flutter_ume](https://github.com/bytedance/flutter_ume) - UME Is An In-app Debug Kits Platform For Flutter. Produced By Flutter Infra Team Of ByteDance
+- [Rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / Remote Desktop Infrastructure For Everyone! Open Source TeamViewer / Citrix Alternative.
+- [Felangel/bloc](https://github.com/felangel/bloc) - A Predictable State Management Library That Helps Implement The BLoC Design Pattern
+- [OpenFlutter/fluwx](https://github.com/OpenFlutter/fluwx) - Flutter版微信SDK.WeChat SDK For Flutter.
+- [TheAlphamerc/flutter_twitter_clone](https://github.com/TheAlphamerc/flutter_twitter_clone) - Fully Functional Twitter Clone Built In Flutter Framework Using Firebase Realtime Database And Storage
+- [Mitesh77/Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) - Completely Free For Everyone. Its Build-in Flutter Dart.
+- [Fluttercandies/wechat_flutter](https://github.com/fluttercandies/wechat_flutter) - Wechat_flutter Flutter版本微信，一个优秀的Flutter即时通讯IM开源库！
+- [Ionorg/ion](https://github.com/ionorg/ion) - Real-Distributed RTC System By Pure Go And Flutter
+- [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An Awesome List That Curates The Best Flutter Libraries, Tools, Tutorials, Articles And More.
+- [Flutter/flutter](https://github.com/flutter/flutter) - Flutter Makes It Easy And Fast To Build Beautiful Apps For Mobile And Beyond
+- [Dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :Iphone: Collaborative List Of Open-Source IOS Apps
+- [Ndahlquist/stable-horde-flutter](https://github.com/ndahlquist/stable-horde-flutter) - An Android+iOS App For The Stable Horde
+- [KRTirtho/wives](https://github.com/KRTirtho/wives) - A Beautiful, Modern & Feature-rich Terminal Emulator
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open Source Spotify Client That Doesn't Require Premium Nor Uses Electron! Available For Both Desktop & Mobile!
+- [Litlifesoftware/HistoryOfMe](https://github.com/litlifesoftware/HistoryOfMe) - Your Own Personal Diary.
+- [Appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server For Web, Mobile & Flutter Developers 🚀 AKA The 100% Open-source Firebase Alternative.
+- [Harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & Manages Your Music Library. Looks Beautiful & Juicy. Playlists, Visuals, Synced Lyrics, Pitch Shift, Volume Boost & More.
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy Is An Open-source Alternative To Notion. You Are In Charge Of Your Data And Customizations. Built With Flutter And Rust.
+- [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An Awesome List That Curates The Best Flutter Libraries, Tools, Tutorials, Articles And More.
+- [Vincnttt/SimpleTimeline](https://github.com/vincnttt/SimpleTimeline) - Simple Timeline For Flutter Android Application
+- [Happy-mammal/timeliner](https://github.com/happy-mammal/timeliner) - A Simple Interest Tracking App Which Tries/aims To Provide Real-time History Feed Of Interests You Like E.g. (IPhone13, Tesla, Covid-19). It Similar To A Customized RSS Feed But A Mixture Of News And
+- [Dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :Iphone: Collaborative List Of Open-Source IOS Apps

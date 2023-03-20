@@ -1,0 +1,27 @@
+# Aws
+
+- [Cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The Open Source High Performance Data Integration Platform Built For Developers.
+- [Bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent Cloud Misconfigurations And Find Vulnerabilities During Build-time In Infrastructure As Code, Container Images And Open Source Packages With Checkov By Bridgecrew.
+- [Prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler Is An Open Source Security Tool To Perform Cloud Security Best Practices Assessments, Audits, Incident Response, Continuous Monitoring, Hardening And Forensics Readiness. It Contains Hundreds
+- [Tenable/terrascan](https://github.com/tenable/terrascan) - Detect Compliance And Security Violations Across Infrastructure As Code To Mitigate Risk Before Provisioning Cloud Native Infrastructure.
+- [Turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL To Instantly Query Your Cloud Services (AWS, Azure, GCP And More). Open Source CLI. No DB Required.
+- [Kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure External DNS Servers (AWS Route53, Google CloudDNS And Others) For Kubernetes Ingresses And Services
+- [Google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A Library And Tools For Open Cloud Development In Go.
+- [Getmoto/moto](https://github.com/getmoto/moto) - A Library That Allows You To Easily Mock Out Tests Based On AWS Infrastructure.
+- [Infracost/infracost](https://github.com/infracost/infracost) - Cloud Cost Estimates For Terraform In Pull Requests💰📉 Love Your Cloud Bill!
+- [Aws/aws-sdk-go-v2](https://github.com/aws/aws-sdk-go-v2) - AWS SDK For The Go Programming Language.
+- [Gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest Is A Go Library That Makes It Easier To Write Automated Tests For Your Infrastructure Code.
+- [Gardener/gardener](https://github.com/gardener/gardener) - Kubernetes-native System Managing The Full Lifecycle Of Conformant Kubernetes Clusters As A Service On Alicloud, AWS, Azure, GCP, OpenStack, VSphere, KubeVirt, Hetzner, EquinixMetal, MetalStack, And O
+- [Aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit Is A Framework For Defining Cloud Infrastructure In Code
+- [Hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS Provider
+- [Aws/serverless-application-model](https://github.com/aws/serverless-application-model) - The AWS Serverless Application Model (AWS SAM) Transform Is A AWS CloudFormation Macro That Transforms SAM Templates Into CloudFormation Templates.
+- [Pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Universal Infrastructure As Code. Your Cloud, Your Language, Your Way 🚀
+- [Opencost/opencost](https://github.com/opencost/opencost) - Cross-cloud Cost Allocation Models For Kubernetes Workloads
+- [Localstack/localstack](https://github.com/localstack/localstack) - 💻 A Fully Functional Local AWS Cloud Stack. Develop And Test Your Cloud & Serverless Apps Offline!
+- [Aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework For AWS
+- [Boto/boto3](https://github.com/boto/boto3) - AWS SDK For Python
+- [Kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy A Production Ready Kubernetes Cluster
+- [Duolingo/metasearch](https://github.com/duolingo/metasearch) - Search Aggregator For Slack, Google Docs, GitHub, And More :Mag:
+- [Po3rin/github_link_creator](https://github.com/po3rin/github_link_creator) - GitHub Link Card Creator Lets You Generate GitHub Images Has Links To Repositories.
+- [Sitewhere/sitewhere](https://github.com/sitewhere/sitewhere) - SiteWhere Is An Industrial Strength Open-source Application Enablement Platform For The Internet Of Things (IoT). It Provides A Multi-tenant Microservice-based Infrastructure That Includes Device/asse
+- [Donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data Science Python Notebooks: Deep Learning (TensorFlow, Theano, Caffe, Keras), Scikit-learn, Kaggle, Big Data (Spark, Hadoop MapReduce, HDFS), Matplotlib, Pandas, NumPy, SciPy, Python Essentials, AW

@@ -4,7 +4,7 @@
 
 - [APPS](APPS.md)
 
-- [AUDIO](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/DEV--MTHRFCKR/AUDIO.md)
+- [AUDIO](AUDIO.md)
 
 - [BITBUCKET](BITBUCKET.md)
 
@@ -16,7 +16,7 @@
 
 - [DEPLOYMENT](DEPLOYMENT.md)
 
-- [DESIGN](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/DEV--MTHRFCKR/DESIGN.md)
+- [DESIGN](DESIGN.md)
 
 - [DEV-MTHRFCKR](../../../../../..//home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/DEV--MTHRFCKR/DEV-MTHRFCKR.md)
 

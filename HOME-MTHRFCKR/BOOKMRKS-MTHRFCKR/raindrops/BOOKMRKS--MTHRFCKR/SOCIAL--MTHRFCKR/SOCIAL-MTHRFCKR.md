@@ -8,7 +8,7 @@
 
 - [CREATE-BLOG](CREATE-BLOG.md)
 
-- [DATA](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/SOCIAL--MTHRFCKR/DATA.md)
+- [DATA](DATA.md)
 
 - [DEV-SITES](DEV-SITES.md)
 

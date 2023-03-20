@@ -1,0 +1,62 @@
+# Music
+
+- [Qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / MacOS / Linux :Electron:
+- [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit) - Swift Audio Synthesis, Processing, & Analysis Platform For IOS, MacOS And TvOS
+- [Tdeerenberg/Musort](https://github.com/tdeerenberg/Musort) - Rename Multiple Audio/music Files Based On The ID3 Tag At Once. Written In Python3.
+- [Rakuri255/UltraSinger](https://github.com/rakuri255/UltraSinger) - AI Based Tool To Convert Vocals Text And Pitch From Music To Autogenerate Ultrastar, Midi And Notes. It Automatic Tapping, Adding Text, Pitch Vocals And Creates Karaoke Files.
+- [Spnw/free-music-plugins](https://github.com/spnw/free-music-plugins) - A List Of Free Audio And MIDI Plugins For Music Production
+- [Gridsound/daw](https://github.com/gridsound/daw) - GridSound (0.40.1) Wants To Be An Open Source Online Digital Audio Workstation Following The New WebAudio API 🎛🎹🎵✨ -- If You Can, Please Sponsor Us A Little On Our Patreon ❤️
+- [MeadowlarkDAW/Meadowlark](https://github.com/MeadowlarkDAW/Meadowlark) - A (Currently Incomplete) Open-source Digital Audio Workstation, Made By Musicians, For Musicians
+- [LMMS/lmms](https://github.com/LMMS/lmms) - Cross-platform Music Production Software
+- [Lfzawacki/musical-artifacts](https://github.com/lfzawacki/musical-artifacts) - Helping To Catalog, Preserve And Free The Artifacts You Need To Produce Music.
+- [Hlorenzi/musicode](https://github.com/hlorenzi/musicode) - 🎶 Markup Language For Music Creation And Analysis! -- Https://hlorenzi.github.io/musicode/
+- [Chavinlo/riffusion-manipulation](https://github.com/chavinlo/riffusion-manipulation) - Tools To Manipulate Audio With Riffusion
+- [Natooz/MidiTok](https://github.com/Natooz/MidiTok) - Convenient MIDI / Symbolic Music Tokenizers For Deep Learning Networks 🎶
+- [Ashishpatel26/Best-Audio-Classification-Resources-with-Deep-learning](https://github.com/ashishpatel26/Best-Audio-Classification-Resources-with-Deep-learning) - List Of Articles Related To Deep Learning Applied To Music
+- [Axeldelafosse/stemgen](https://github.com/axeldelafosse/stemgen) - 🎛 Stemgen Is A Stem File Generator. Convert Any Track Into A Stem And Have Fun With Traktor.
+- [Ybayle/awesome-deep-learning-music](https://github.com/ybayle/awesome-deep-learning-music) - List Of Articles Related To Deep Learning Applied To Music
+- [Monocasual/giada](https://github.com/monocasual/giada) - Your Hardcore Loop Machine.
+- [Spotify/basic-pitch](https://github.com/spotify/basic-pitch) - A Lightweight Yet Powerful Audio-to-MIDI Converter With Pitch Bend Detection
+- [Tuneflow/tuneflow-py](https://github.com/tuneflow/tuneflow-py) - 🧠+🎧 Build Your Music Algorithms And AI Models With The Next-gen DAW 🔥
+- [Microsoft/muzic](https://github.com/microsoft/muzic) - Muzic: Music Understanding And Generation With Artificial Intelligence
+- [Mahshidaln/AI-for-music](https://github.com/mahshidaln/AI-for-music) - Resources On AI Applications In The Music Domain
+- [Tuneflow/tuneflow](https://github.com/tuneflow/tuneflow) - 🧠+🎧 Build Your Music Algorithms And AI Models With The Next-gen DAW 🔥
+- [Riffusion/riffusion-app](https://github.com/riffusion/riffusion-app) - Stable Diffusion For Real-time Music Generation (Web App)
+- [Csteinmetz1/ai-audio-startups](https://github.com/csteinmetz1/ai-audio-startups) - Community List Of Startups Working With AI In Audio And Music Technology
+- [Salu133445/musegan](https://github.com/salu133445/musegan) - An AI For Music Generation
+- [Salu133445/muspy](https://github.com/salu133445/muspy) - A Toolkit For Symbolic Music Generation
+- [Samim23/polymath](https://github.com/samim23/polymath) - Convert Any Music Library Into A Music Production Sample-library With ML
+- [LibAudioFlux/audioFlux](https://github.com/libAudioFlux/audioFlux) - A Library For Audio And Music Analysis, Feature Extraction.
+- [Sajayprakash/megathread](https://github.com/sajayprakash/megathread) - A List Of Useful Apps, Websites, Extensions And Other Stuff I Use And Recommend.
+- [Sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open Source Spotify Client That Doesn't Require Premium Nor Uses Electron! Available For Both Desktop & Mobile!
+- [Lev-kochergin/levboard](https://github.com/lev-kochergin/levboard) - A Stats.fm Integration For Building Custom Charts.
+- [Dlccyes/playlastify](https://github.com/dlccyes/playlastify) - A Webapp Visualizing Your Spotify Playlist Stats With Spotify WebAPI & Last.fm API
+- [Aneeshnema/spotify-stats](https://github.com/aneeshnema/spotify-stats) - A React App To See Your Listening Habits On Spotify.
+- [Nextcloud/recognize](https://github.com/nextcloud/recognize) - 👁 👂 Smart Media Tagging For Nextcloud: Recognizes Faces, Objects, Landscapes, Music Genres
+- [Metabrainz/picard](https://github.com/metabrainz/picard) - MusicBrainz Picard Audio File Tagger
+- [Beetbox/beets](https://github.com/beetbox/beets) - Music Library Manager And MusicBrainz Tagger
+- [Thijstakken/MusicService](https://github.com/thijstakken/MusicService) - A Tool That Synchronizes Your YouTube Playlists And Other Music Providers With Your Cloud Storage Like Nextcloud As MP3s.
+- [Nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming Music Player That Finds Free Music For You
+- [Staniel359/muffon](https://github.com/staniel359/muffon) - Music Streaming Browser
+- [Techboy-coder/mmdl](https://github.com/techboy-coder/mmdl) - MMDL (Mega Music Downloader) - A Tool To Easily Download Music.
+- [AllToMP3/alltomp3-app](https://github.com/AllToMP3/alltomp3-app) - Download And Convert YouTube, SoundCloud & Spotify In MP3 With Full Tags (Title, Artist, Genre, Cover, Lyrics 🔥)
+- [Cooperhammond/irs](https://github.com/cooperhammond/irs) - :Guitar: :Notes: A Music Downloader That Understands Your Metadata Needs.
+- [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify / Gaana / Youtube Music / Jio Saavn / SoundCloud. NOT
+- [Shangril/crero](https://github.com/shangril/crero) - CMS For Record Labels, Written To Propel Crem Road Records Initially. Sell Your Physical Releases At Fixed Price Or In A "Name Your Price" Manner. Streaming Or Free Download Of Online Music. Digital M
+- [Emarkou/Audio-auto-tagging](https://github.com/emarkou/Audio-auto-tagging) - Convolutional Neural Network For Auto-tagging Of Audio Clips On MagnaTagATune Dataset
+- [Miraclx/freyr-js](https://github.com/miraclx/freyr-js) - A Tool For Downloading Songs From Music Streaming Services Like Spotify And Apple Music.
+- [Blackcandy-org/black_candy](https://github.com/blackcandy-org/black_candy) - A Self Hosted Music Streaming Server
+- [Tamland/airsonic-refix](https://github.com/tamland/airsonic-refix) - Modern UI For Airsonic / Subsonic
+- [Arlodotexe/strix-music](https://github.com/Arlodotexe/strix-music) - It's Your Music. Play It Your Way.
+- [Harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & Manages Your Music Library. Looks Beautiful & Juicy. Playlists, Visuals, Synced Lyrics, Pitch Shift, Volume Boost & More.
+- [Azuline/repertoire](https://github.com/azuline/repertoire) - Whoops Never Finished This Lol, Don't Look It's Old And Embarrassing
+- [Rstemmer/musicdb](https://github.com/rstemmer/musicdb) - 🎧 A Music Manager With Focus On Remote Access To Your Music By Having A WebUI And Providing An Audio Stream.
+- [Navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server And Streamer Compatible With Subsonic/Airsonic
+- [Librosa/librosa](https://github.com/librosa/librosa) - Python Library For Audio And Music Analysis
+- [Neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - :City_sunrise: A Collection Of Links For Free Stock Photography, Video And Illustration Websites
+- [Ad-si/awesome-music-production](https://github.com/ad-si/awesome-music-production) - A Curated List Of Software, Services And Resources To Create And Distribute Music.
+- [Ohhsodead/FileMasta](https://github.com/ohhsodead/FileMasta) - A Search Application To Explore, Discover And Share Online Files
+- [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A Curated List Of Awesome Warez And Piracy Links
+- [Aufree/ESTMusicPlayer](https://github.com/Aufree/ESTMusicPlayer) - An Elegant And Simple IOS Music Player.
+- [PeterDing/iScript](https://github.com/PeterDing/iScript) - 各种脚本 -- 关于 虾米 Xiami.com, 百度网盘 Pan.baidu.com, 115网盘 115.com, 网易音乐 Music.163.com, 百度音乐 Music.baidu.com, 360网盘/云盘 Yunpan.cn, 视频解析 Flvxz.com, Bt Torrent ↔ Magnet, Ed2k 搜索, Tumblr 图片下载, Unzip

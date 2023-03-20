@@ -1,0 +1,156 @@
+# Operating-system
+
+- [Phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing An OS In Rust
+- [The-akira/Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources) - A List Of Resources In Different Fields Of Computer Science
+- [Jubalh/awesome-os](https://github.com/jubalh/awesome-os) - A List Of Operating Systems And Stuff
+
+
+# Windows
+
+- [Alacritty/alacritty](https://github.com/alacritty/alacritty) - A Cross-platform, OpenGL Terminal Emulator.
+- [Alexkim205/G-Desktop-Suite](https://github.com/alexkim205/G-Desktop-Suite) - Google Suite As A Desktop App. Made Possible With Electron.
+- [ANSSI-FR/ADTimeline](https://github.com/ANSSI-FR/ADTimeline) - Timeline Of Active Directory Changes With Replication Metadata
+- [Appium/appium](https://github.com/appium/appium) - Cross-platform Automation Framework For All Kinds Of Your Apps Built On Top Of W3C WebDriver Protocol
+- [Appium/appium](https://github.com/appium/appium) - Cross-platform Automation Framework For All Kinds Of Your Apps Built On Top Of W3C WebDriver Protocol
+- [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :Computer: 🎉 An Awesome & Curated List Of Best Applications And Tools For Windows.
+- [Benjysugi/InternetArchiveDownloader](https://github.com/benjysugi/InternetArchiveDownloader) - A Program That Allows You To Download Folders Posted On The Internet Archive In Full Without Using The Torrent
+- [Chrisknepper/android-messages-desktop](https://github.com/chrisknepper/android-messages-desktop) - Android Messages As A Cross-platform Desktop App
+- [Donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A Supercharged Git/GitHub Command Line Interface (CLI). An Official Integration For GitHub And GitHub Enterprise: Https://github.com/works-with/category/desktop-tools
+- [Dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking Notebook And Markdown Editor.
+- [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A Simple Zero-config Tool To Make Locally Trusted Development Certificates With Any Names You'd Like.
+- [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A Simple Zero-config Tool To Make Locally Trusted Development Certificates With Any Names You'd Like.
+- [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :Mag: Quick File Search & App Launcher For Windows With Community-made Plugins
+- [Flutter/flutter](https://github.com/flutter/flutter) - Flutter Makes It Easy And Fast To Build Beautiful Apps For Mobile And Beyond
+- [Giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform Lib For Process And System Monitoring In Python
+- [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A Cross-platform, Customizable Science Fiction Terminal Emulator With Advanced Monitoring & Touchscreen Support.
+- [G-l-i-t-c-h-o-r-s-e/PromptWizard](https://github.com/g-l-i-t-c-h-o-r-s-e/PromptWizard) - Randomize The Order Of StableDiffusion Prompts & More
+- [Harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & Manages Your Music Library. Looks Beautiful & Juicy. Playlists, Visuals, Synced Lyrics, Pitch Shift, Volume Boost & More.
+- [Invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI Is A Leading Creative Engine For Stable Diffusion Models, Empowering Professionals, Artists, And Enthusiasts To Generate And Create Visual Media Using The Latest AI-driven Technologies. The S
+- [Jinxiansen/Windows11](https://github.com/Jinxiansen/Windows11) - 💻 Windows 11 In SwiftUI.
+- [Jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master The Command Line, In One Page
+- [Jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master The Command Line, In One Page
+- [Kacos2000/Win10](https://github.com/kacos2000/Win10) - Win 10 Related Research
+- [Kivy/kivy](https://github.com/kivy/kivy) - Open Source UI Framework Written In Python, Running On Windows, Linux, MacOS, Android And IOS
+- [Kivy/kivy](https://github.com/kivy/kivy) - Open Source UI Framework Written In Python, Running On Windows, Linux, MacOS, Android And IOS
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open Source Spotify Client That Doesn't Require Premium Nor Uses Electron! Available For Both Desktop & Mobile!
+- [KRTirtho/wives](https://github.com/KRTirtho/wives) - A Beautiful, Modern & Feature-rich Terminal Emulator
+- [Lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows And Linux)
+- [Lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows And Linux)
+- [Marktext/marktext](https://github.com/marktext/marktext) - 📝A Simple And Elegant Markdown Editor, Available For Linux, MacOS And Windows.
+- [MassCodeIO/massCode](https://github.com/massCodeIO/massCode) - A Free And Open Source Code Snippets Manager For Developers
+- [Massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows And Office Activator Using HWID / KMS38 / Online KMS Activation Methods, With A Focus On Open-source Code And Fewer Antivirus Detections.
+- [Microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (Aka Winget)
+- [Moisespr123/GoogleDriveUploadTool](https://github.com/moisespr123/GoogleDriveUploadTool) - A Tool For Windows To Upload And Manage Files In Google Drive. It Resumes Uploads In Case Of An Error Or Failure. Perfect For Uploading Large Files Or If Your Connection Is Unstable.
+- [Monocasual/giada](https://github.com/monocasual/giada) - Your Hardcore Loop Machine.
+- [MoonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt Passwords/cookies/history/bookmarks From The Browser. 一款可全平台运行的浏览器数据导出解密工具。
+- [Muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - A Better 'Df' Alternative
+- [Muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - A Better 'Df' Alternative
+- [Ngudbhav/lazyType](https://github.com/ngudbhav/lazyType) - A Software To Create Aliases For Commands, Applications To Type In Cmd, Terminal.
+- [Nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming Music Player That Finds Free Music For You
+- [Onivim/oni2](https://github.com/onivim/oni2) - Native, Lightweight Modal Code Editor
+- [Otiel/BandcampDownloader](https://github.com/Otiel/BandcampDownloader) - A Windows App Used To Download Albums From Bandcamp.
+- [Qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / MacOS / Linux :Electron:
+- [Qirpi/selfspy](https://github.com/qirpi/selfspy) - Log Everything You Do On The Computer, For Statistics, Future Reference And All-around Fun! (Ported For Python3)
+- [Quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly Create And Run Optimised Windows, MacOS And Linux Desktop Virtual Machines.
+- [Rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management And Kubernetes On The Desktop
+- [Sajayprakash/megathread](https://github.com/sajayprakash/megathread) - A List Of Useful Apps, Websites, Extensions And Other Stuff I Use And Recommend.
+- [Sedm0784/thereiclippedit](https://github.com/sedm0784/thereiclippedit) - A Tool For Sending Your Clipboard From IOS To Your Computer And Back
+- [Sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt Down Social Media Accounts By Username Across Social Networks
+- [Sonnylazuardi/chat-ai-desktop](https://github.com/sonnylazuardi/chat-ai-desktop) - Unofficial ChatGPT Desktop App For Mac, Windows, & Linux Menubar Using Tauri & Rust
+- [Ssube/onnx-web](https://github.com/ssube/onnx-web) - Web UI For GPU-accelerated ONNX Pipelines Like Stable Diffusion, Even On Windows And AMD
+- [Staniel359/muffon](https://github.com/staniel359/muffon) - Music Streaming Browser
+- [Txthinking/brook](https://github.com/txthinking/brook) - A Cross-platform Network Tool Designed For Developers. 一个为开发者设计的跨平台网络工具.
+- [Ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A New Bootable USB Solution.
+- [Wailsapp/wails](https://github.com/wailsapp/wails) - Create Beautiful Applications Using Go
+- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor For Reverse Engineers, Programmers And People Who Value Their Retinas When Working At 3 AM.
+
+
+# Ubuntu
+
+- [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer Helps You Get Started With Running Apps In Docker.
+- [Bearlike/my-popos-setup](https://github.com/bearlike/my-popos-setup) - A List Of Boring Installations And Configurations That I Have To Do Every Time I Flush My PC.
+- [Shinokada/dotties](https://github.com/shinokada/dotties) - Dotties Is A Simple Dotfile Management Script. It Saves Specified Dotfiles In The Home Directory To A Secret Gist. I Also Can Clone Them From The Gist, And More.
+- [Geektrovert/AwsTerm](https://github.com/Geektrovert/AwsTerm) - A Collection Of Awesome Terminal Utilities
+- [Dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking Notebook And Markdown Editor.
+- [Am0rphous/Awesome](https://github.com/Am0rphous/Awesome) - Awesome Collection Of Resources 😎 Work In Progress🔥
+
+
+# Linux
+
+- [Lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows And Linux)
+- [Xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：Https://xiaolincoding.com
+- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
+- [Apinske/virt](https://github.com/apinske/virt) - Small Linux VM, Ready To Run Containers, For MacOS On ARM
+- [Aquasecurity/tracee](https://github.com/aquasecurity/tracee) - Linux Runtime Security And Forensics Using EBPF
+- [Txthinking/brook](https://github.com/txthinking/brook) - A Cross-platform Network Tool Designed For Developers. 一个为开发者设计的跨平台网络工具.
+- [Gojue/ecapture](https://github.com/gojue/ecapture) - Capture SSL/TLS Text Content Without CA Cert Using EBPF. Supports Linux/Android X86_64/Aarch64.
+- [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A Simple Zero-config Tool To Make Locally Trusted Development Certificates With Any Names You'd Like.
+- [Quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly Create And Run Optimised Windows, MacOS And Linux Desktop Virtual Machines.
+- [Qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / MacOS / Linux :Electron:
+- [Ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A New Bootable USB Solution.
+- [SmartKeyerror/Psyduck](https://github.com/SmartKeyerror/Psyduck) - Record CS Knowlegement With XMind, Version 2.0. 使用 XMind 记录 Linux 操作系统，网络，C++，Golang 以及数据库的一些设计
+- [Rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management And Kubernetes On The Desktop
+- [Alacritty/alacritty](https://github.com/alacritty/alacritty) - A Cross-platform, OpenGL Terminal Emulator.
+- [Rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / Remote Desktop Infrastructure For Everyone! Open Source TeamViewer / Citrix Alternative.
+- [Grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug Performance Issues Down To A Single Line Of Code
+- [Cilium/ebpf](https://github.com/cilium/ebpf) - Ebpf-go Is A Pure-Go Library To Read, Modify And Load EBPF Programs And Attach Them To Various Hooks In The Linux Kernel.
+- [Orf/gping](https://github.com/orf/gping) - Ping, But With A Graph
+- [Linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, We Are Using This Curriculum For Onboarding Our Entry-level Talents Into The SRE Role.
+- [Muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - A Better 'Df' Alternative
+- [Iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim And Vimscript Doesn't Have To Be Hard. This Is The Guide That You're Looking For 📖
+- [Kivy/kivy](https://github.com/kivy/kivy) - Open Source UI Framework Written In Python, Running On Windows, Linux, MacOS, Android And IOS
+- [Containers/podman](https://github.com/containers/podman) - Podman: A Tool For Managing OCI Containers And Pods.
+- [Sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt Down Social Media Accounts By Username Across Social Networks
+- [Containerd/cgroups](https://github.com/containerd/cgroups) - Cgroups Package For Go
+- [Yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn And Understand Docker&Container Technologies, With Real DevOps Practice!
+- [Ish-app/ish](https://github.com/ish-app/ish) - Linux Shell For IOS
+- [Google/gvisor](https://github.com/google/gvisor) - Application Kernel For Containers
+- [Giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform Lib For Process And System Monitoring In Python
+- [Matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) - A Collaborative List Of Awesome Swift Libraries And Resources. Feel Free To Contribute!
+- [Jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master The Command Line, In One Page
+- [Monocasual/giada](https://github.com/monocasual/giada) - Your Hardcore Loop Machine.
+- [Ssube/onnx-web](https://github.com/ssube/onnx-web) - Web UI For GPU-accelerated ONNX Pipelines Like Stable Diffusion, Even On Windows And AMD
+- [Lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows And Linux)
+- [KRTirtho/wives](https://github.com/KRTirtho/wives) - A Beautiful, Modern & Feature-rich Terminal Emulator
+- [Mishakorzik/UserFinder](https://github.com/mishakorzik/UserFinder) - OSINT Tool For Finding Profiles By Username
+- [Warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp Is A Blazingly-fast Modern Rust Based GPU-accelerated Terminal Built To Make You And Your Team More Productive.
+- [Cipher387/awesome-grep](https://github.com/cipher387/awesome-grep) - List Of GREP Modifications And Alternatives For A Variety Of Purposes
+- [Sajayprakash/megathread](https://github.com/sajayprakash/megathread) - A List Of Useful Apps, Websites, Extensions And Other Stuff I Use And Recommend.
+- [Alexkim205/G-Desktop-Suite](https://github.com/alexkim205/G-Desktop-Suite) - Google Suite As A Desktop App. Made Possible With Electron.
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open Source Spotify Client That Doesn't Require Premium Nor Uses Electron! Available For Both Desktop & Mobile!
+- [Invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI Is A Leading Creative Engine For Stable Diffusion Models, Empowering Professionals, Artists, And Enthusiasts To Generate And Create Visual Media Using The Latest AI-driven Technologies. The S
+- [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A Simple Zero-config Tool To Make Locally Trusted Development Certificates With Any Names You'd Like.
+- [MassCodeIO/massCode](https://github.com/massCodeIO/massCode) - A Free And Open Source Code Snippets Manager For Developers
+- [Seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An Open Apple AirDrop Implementation Written In Python
+- [Sirredbeard/Awesome-UNIX](https://github.com/sirredbeard/Awesome-UNIX) - All The UNIX And UNIX-Like: Linux, BSD, MacOS, Illumos, 9front, And More.
+- [Harrytran103/awesome-linux-apps](https://github.com/harrytran103/awesome-linux-apps) - 🚀 A List Of Awesome Applications For 🐧 Linux Distributions.
+- [Jubalh/awesome-os](https://github.com/jubalh/awesome-os) - A List Of Operating Systems And Stuff
+- [Luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A List Of Awesome Linux Softwares
+- [Myugan/awesome-linux-customization](https://github.com/myugan/awesome-linux-customization) - :Books: An Awesome List Of Customization Tools For Your UN*X/Linux Desktop.
+- [Bearlike/my-popos-setup](https://github.com/bearlike/my-popos-setup) - A List Of Boring Installations And Configurations That I Have To Do Every Time I Flush My PC.
+- [Wailsapp/wails](https://github.com/wailsapp/wails) - Create Beautiful Applications Using Go
+- [OrkoHunter/keep](https://github.com/OrkoHunter/keep) - A Meta CLI Toolkit : Personal Shell Command Keeper And Snippets Manager
+- [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development To Production All Configurations With Basic Notes To Debug Efficiently.
+- [Nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming Music Player That Finds Free Music For You
+- [Staniel359/muffon](https://github.com/staniel359/muffon) - Music Streaming Browser
+- [Harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & Manages Your Music Library. Looks Beautiful & Juicy. Playlists, Visuals, Synced Lyrics, Pitch Shift, Volume Boost & More.
+- [Shinokada/dotties](https://github.com/shinokada/dotties) - Dotties Is A Simple Dotfile Management Script. It Saves Specified Dotfiles In The Home Directory To A Secret Gist. I Also Can Clone Them From The Gist, And More.
+- [Canop/broot](https://github.com/Canop/broot) - A New Way To See And Navigate Directory Trees : Https://dystroy.org/broot
+- [Muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - A Better 'Df' Alternative
+- [Geektrovert/AwsTerm](https://github.com/Geektrovert/AwsTerm) - A Collection Of Awesome Terminal Utilities
+- [Marktext/marktext](https://github.com/marktext/marktext) - 📝A Simple And Elegant Markdown Editor, Available For Linux, MacOS And Windows.
+- [Tariqbuilds/linux-dash](https://github.com/tariqbuilds/linux-dash) - A Beautiful Web Dashboard For Linux
+- [Thenurhabib/tenssens](https://github.com/thenurhabib/tenssens) - Tenssens Framework Focused On Gathering Information From Free Tools Or Resources. The Intention Is To Help People Find Free OSINT Resources.
+- [Jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master The Command Line, In One Page
+- [Onivim/oni2](https://github.com/onivim/oni2) - Native, Lightweight Modal Code Editor
+- [Dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking Notebook And Markdown Editor.
+- [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A Cross-platform, Customizable Science Fiction Terminal Emulator With Advanced Monitoring & Touchscreen Support.
+- [Chrisknepper/android-messages-desktop](https://github.com/chrisknepper/android-messages-desktop) - Android Messages As A Cross-platform Desktop App
+- [Qirpi/selfspy](https://github.com/qirpi/selfspy) - Log Everything You Do On The Computer, For Statistics, Future Reference And All-around Fun! (Ported For Python3)
+- [Kalliope-project/kalliope](https://github.com/kalliope-project/kalliope) - Kalliope Is A Framework That Will Help You To Create Your Own Personal Assistant.
+- [Trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A Collection Of Inspiring Lists, Manuals, Cheatsheets, Blogs, Hacks, One-liners, Cli/web Tools And More.
+- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
+- [DavidJKTofan/CyberSec-resources](https://github.com/DavidJKTofan/CyberSec-resources) - A Repo Of Useful CyberSec Tools/urls, OSINT, Linux Security Resources, And More.
+- [Inputsh/awesome-linux](https://github.com/inputsh/awesome-linux) - :Penguin: A List Of Awesome Projects And Resources That Make Linux Even More Awesome. :Penguin:
+- [Kivy/kivy](https://github.com/kivy/kivy) - Open Source UI Framework Written In Python, Running On Windows, Linux, MacOS, Android And IOS
+- [Donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A Supercharged Git/GitHub Command Line Interface (CLI). An Official Integration For GitHub And GitHub Enterprise: Https://github.com/works-with/category/desktop-tools

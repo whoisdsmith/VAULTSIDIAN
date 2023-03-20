@@ -1,0 +1,149 @@
+# Swift
+
+- [A2/swift-shortcuts](https://github.com/a2/swift-shortcuts) - An IOS 14 Shortcuts Creator Written In Swift, Inspired By SwiftUI.
+- [Airbnb/lottie-ios](https://github.com/airbnb/lottie-ios) - An IOS Library To Natively Render After Effects Vector Animations
+- [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking In Swift
+- [Apollographql/apollo-ios](https://github.com/apollographql/apollo-ios) - 📱  A Strongly-typed, Caching GraphQL Client For IOS, Written In Swift.
+- [Apollographql/apollo-ios](https://github.com/apollographql/apollo-ios) - 📱  A Strongly-typed, Caching GraphQL Client For IOS, Written In Swift.
+- [Apple/sample-food-truck](https://github.com/apple/sample-food-truck) - SwiftUI Sample Code From WWDC22
+- [Apple/swift-distributed-actors](https://github.com/apple/swift-distributed-actors) - Peer-to-peer Cluster Implementation For Swift Distributed Actors
+- [Apple/swift-nio](https://github.com/apple/swift-nio) - Event-driven Network Application Framework For High Performance Protocol Servers & Clients, Non-blocking.
+- [AppPear/ChartView](https://github.com/AppPear/ChartView) - ChartView Made In SwiftUI
+- [Appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server For Web, Mobile & Flutter Developers 🚀 AKA The 100% Open-source Firebase Alternative.
+- [Artsy/eigen](https://github.com/artsy/eigen) - The Art World In Your Pocket Or Your Trendy Tech Company's Tote, Artsy's Mobile App.
+- [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit) - Swift Audio Synthesis, Processing, & Analysis Platform For IOS, MacOS And TvOS
+- [Bellebethcooper/existAPI](https://github.com/bellebethcooper/existAPI) - IOS Framework For Working With The Exist API (Https://developer.exist.io/)
+- [CocoaDebug/CocoaDebug](https://github.com/CocoaDebug/CocoaDebug) - IOS Debugging Tool 🚀
+- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App For MacOS–Elevate Your Code Editing Experience. Open Source, Free Forever.
+- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App For MacOS–Elevate Your Code Editing Experience. Open Source, Free Forever.
+- [Daltoniam/Starscream](https://github.com/daltoniam/Starscream) - Websockets In Swift For IOS And OSX
+- [Danielsaidi/RichTextKit](https://github.com/danielsaidi/RichTextKit) - RichTextKit Is A Swift-based Library For Working With Rich Text In UIKit, AppKit And SwiftUI.
+- [Danielsaidi/SwiftUIKit](https://github.com/danielsaidi/SwiftUIKit) - SwiftUIKit Contains Additional Functionality For SwiftUI.
+- [Devicekit/DeviceKit](https://github.com/devicekit/DeviceKit) - DeviceKit Is A Value-type Replacement Of UIDevice.
+- [Dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :Iphone: Collaborative List Of Open-Source IOS Apps
+- [Dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :Iphone: Collaborative List Of Open-Source IOS Apps
+- [Dkhamsing/osia](https://github.com/dkhamsing/osia) - :Octocat: IOS App To Browse Open-source-ios-apps
+- [EFPrefix/EFQRCode](https://github.com/EFPrefix/EFQRCode) - A Better Way To Operate QR Code In Swift, Support IOS, MacOS, WatchOS And TvOS.
+- [Exyte/Macaw](https://github.com/exyte/Macaw) - Powerful And Easy-to-use Vector Graphics Swift Library With SVG Support
+- [Fatbobman/SwiftUIOverlayContainer](https://github.com/fatbobman/SwiftUIOverlayContainer) - SwiftUI Overlay Container Is A View Container Component For SwiftUI. It Is A Customizable, Efficient And Convenient View Manager. With Just A Simple Configuration, SwiftUI Overlay Container Can Do Th
+- [Godly-devotion/MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion) - Run Stable Diffusion On Mac Natively
+- [Gonzalezreal/swift-markdown-ui](https://github.com/gonzalezreal/swift-markdown-ui) - Display And Customize Markdown Text In SwiftUI
+- [Grpc/grpc-swift](https://github.com/grpc/grpc-swift) - The Swift Language Implementation Of GRPC.
+- [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero) - Elegant Transition Library For IOS & TvOS
+- [Iina/iina](https://github.com/iina/iina) - The Modern Video Player For MacOS.
+- [Jevonmao/PermissionsSwiftUI](https://github.com/jevonmao/PermissionsSwiftUI) - A SwiftUI Package To Beautifully Display And Handle Permissions.
+- [Jinxiansen/Windows11](https://github.com/Jinxiansen/Windows11) - 💻 Windows 11 In SwiftUI.
+- [JohnSundell/Splash](https://github.com/JohnSundell/Splash) - A Fast, Lightweight And Flexible Swift Syntax Highlighter For Blogs, Tools And Fun!
+- [Joncardasis/To-The-Apples-Core](https://github.com/joncardasis/To-The-Apples-Core) - ⚙️ A Collection Of Non-jailbroken Code Snippets On Reverse-engineered IOS Private Apis
+- [Jounce/Surge](https://github.com/Jounce/Surge) - A Swift Library That Uses The Accelerate Framework To Provide High-performance Functions For Matrix Math, Digital Signal Processing, And Image Manipulation.
+- [Jphong1111/awesome-ios-developer](https://github.com/jphong1111/awesome-ios-developer) - List Of Awesome IOS & Swift Stuff!!
+- [Juanpe/About-SwiftUI](https://github.com/Juanpe/About-SwiftUI) - Gathering All Info Published, Both By Apple And By Others, About New Framework SwiftUI.
+- [Juanpe/SkeletonView](https://github.com/Juanpe/SkeletonView) - ☠️ An Elegant Way To Show Users That Something Is Happening And Also Prepare Them To Which Contents They Are Awaiting
+- [JVirus/ios-learning-materials](https://github.com/jVirus/ios-learning-materials) - 📚Curated List Of Articles, Web-resources, Tutorials And Code Repositories That May Help You Dig A Little Bit Deeper Into IOS [And Apple Platforms].
+- [Kean/Nuke](https://github.com/kean/Nuke) - Image Loading System
+- [Kean/Pulse](https://github.com/kean/Pulse) - Network Logger For Apple Platforms
+- [Krzysztofzablocki/Sourcery](https://github.com/krzysztofzablocki/Sourcery) - Meta-programming For Swift, Stop Writing Boilerplate Code.
+- [Krzyzanowskim/CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - CryptoSwift Is A Growing Collection Of Standard And Secure Cryptographic Algorithms Implemented In Swift
+- [Lighter-swift/Lighter](https://github.com/Lighter-swift/Lighter) - Swift APIs For SQLite: Type-safe Down To The Schema. Very, Very, Fast. Dependency Free.
+- [Loopwerk/Parsley](https://github.com/loopwerk/Parsley) - A Markdown Parser For Swift, Using Github Flavored Markdown And Metadata
+- [Majd/ipatool](https://github.com/majd/ipatool) - Command-line Tool That Allows Searching And Downloading App Packages (Known As Ipa Files) From The IOS App Store
+- [Marcosgriselli/ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) - ViewAnimator Brings Your UI To Life With Just One Line
+- [Marmelroy/PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit) - A Swift Framework For Parsing, Formatting And Validating International Phone Numbers. Inspired By Google's Libphonenumber.
+- [Maticzav/swift-graphql](https://github.com/maticzav/swift-graphql) - A GraphQL Client That Lets You Forget About GraphQL.
+- [Matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) - A Collaborative List Of Awesome Swift Libraries And Resources. Feel Free To Contribute!
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control Your Display's Brightness & Volume On Your Mac As If It Was A Native Apple Display. Use Apple Keyboard Keys Or Custom Shortcuts. Shows The Native MacOS OSDs.
+- [Motianjun4/ChatGPT_Chatbot](https://github.com/motianjun4/ChatGPT_Chatbot) - An IOS Application For Interacting With ChatGPT Without Being Blocked By Cloudflare.
+- [Mxcl/PromiseKit](https://github.com/mxcl/PromiseKit) - Promises For Swift & ObjC.
+- [Nalexn/clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui) - SwiftUI Sample App Using Clean Architecture. Examples Of Working With CoreData Persistence, Networking, Dependency Injection, Unit Testing, And More.
+- [ObuchiYuki/DevToysMac](https://github.com/ObuchiYuki/DevToysMac) - DevToys For Mac
+- [Ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) - 📖 Design Patterns Implemented In Swift 5.0
+- [Olucurious/Awesome-ARKit](https://github.com/olucurious/Awesome-ARKit) - A Curated List Of Awesome ARKit Projects And Resources. Feel Free To Contribute!
+- [Onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) - A Lightweight, Pure-Swift Library For Downloading And Caching Images From The Web.
+- [Paololeonardi/WaterfallGrid](https://github.com/paololeonardi/WaterfallGrid) - A Waterfall Grid Layout View For SwiftUI.
+- [ParetoSecurity/pareto-mac](https://github.com/ParetoSecurity/pareto-mac) - Automatically Audit Your Mac For Basic Security Hygiene.
+- [Playbook-ui/playbook-ios](https://github.com/playbook-ui/playbook-ios) - 📘A Library For Isolated Developing UI Components And Automatically Taking Snapshots Of Them.
+- [Psharanda/Atributika](https://github.com/psharanda/Atributika) - Convert Text With HTML Tags, Links, Hashtags, Mentions Into NSAttributedString. Make Them Clickable With UILabel Drop-in Replacement.
+- [Quick/Quick](https://github.com/Quick/Quick) - The Swift (And Objective-C) Testing Framework.
+- [ReactiveX/RxSwift](https://github.com/ReactiveX/RxSwift) - Reactive Programming In Swift
+- [Realm/realm-swift](https://github.com/realm/realm-swift) - Realm Is A Mobile Database: A Replacement For Core Data & SQLite
+- [Realm/SwiftLint](https://github.com/realm/SwiftLint) - A Tool To Enforce Swift Style And Conventions.
+- [Rightpoint/BonMot](https://github.com/Rightpoint/BonMot) - Beautiful, Easy Attributed Strings In Swift
+- [RsyncOSX/RsyncOSX](https://github.com/rsyncOSX/RsyncOSX) - A MacOS GUI For Rsync. Compiled For MacOS Big Sur And Later
+- [Scinfu/SwiftSoup](https://github.com/scinfu/SwiftSoup) - SwiftSoup: Pure Swift HTML Parser, With Best Of DOM, CSS, And Jquery (Supports Linux, IOS, Mac, TvOS, WatchOS)
+- [SDWebImage/SDWebImageSwiftUI](https://github.com/SDWebImage/SDWebImageSwiftUI) - SwiftUI Image Loading And Animation Framework Powered By SDWebImage
+- [SerenaKit/Santander](https://github.com/SerenaKit/Santander) - A New, Enhanced File Manager For IOS Devices
+- [Serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome List Of Open Source Applications For MacOS. Https://t.me/s/opensourcemacosapps
+- [Serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome List Of Open Source Applications For MacOS. Https://t.me/s/opensourcemacosapps
+- [SFSafeSymbols/SFSafeSymbols](https://github.com/SFSafeSymbols/SFSafeSymbols) - Safely Access Apple's SF Symbols Using Static Typing
+- [SimpleBoilerplates/SwiftUI-Cheat-Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet) - SwiftUI 2.0 Cheat Sheet
+- [Sindresorhus/Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert Videos To High-quality GIFs On Your Mac
+- [SkiingIsFun123/WaybackBrowserMacOS](https://github.com/SkiingIsFun123/WaybackBrowserMacOS) - Pick A Date And Explore Websites From The Early Days Of The Internet To Now All In An Easy-to-use Browser Format! 💻
+- [Stephencelis/SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A Type-safe, Swift-language Layer Over SQLite3.
+- [Stleamist/BetterSafariView](https://github.com/stleamist/BetterSafariView) - A Better Way To Present A SFSafariViewController Or Start A ASWebAuthenticationSession In SwiftUI.
+- [Surfstudio/StackOv](https://github.com/surfstudio/StackOv) - An Open-source SwiftUI Stack Overflow Client
+- [SvenTiigi/WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) - Showcase Your Awesome New App Features 📱
+- [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A Fully Native Discord Client For MacOS Built 100% In Swift!
+- [SwifterSwift/SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) - A Handy Collection Of More Than 500 Native Swift Extensions To Boost Your Productivity.
+- [SwiftPackageIndex/PackageList](https://github.com/SwiftPackageIndex/PackageList) - The Master List Of Repositories For The Swift Package Index.
+- [Swift-server-community/APNSwift](https://github.com/swift-server-community/APNSwift) - An HTTP/2 APNS Library Built On AsyncHTTPClient
+- [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - Extensions And Additions To The Standard SwiftUI Library.
+- [Swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit) - Swift Framework To Interact With JavaScript Through WebAssembly.
+- [Swinject/Swinject](https://github.com/Swinject/Swinject) - Dependency Injection Framework For Swift With IOS/macOS/Linux
+- [TokamakUI/Tokamak](https://github.com/TokamakUI/Tokamak) - SwiftUI-compatible Framework For Building Browser Apps With WebAssembly And Native Apps For Other Platforms
+- [Toni77777/awesome-swiftui-libraries](https://github.com/Toni77777/awesome-swiftui-libraries) - :Rocket: Awesome SwiftUI Libraries
+- [Turms-im/turms](https://github.com/turms-im/turms) - 🕊️ The World's Most Advanced Open Source Instant Messaging Engine For 100K~10M Concurrent Users Https://turms-im.github.io/docs
+- [Tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown App To Help You Write Great Sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言
+- [Twostraws/ControlRoom](https://github.com/twostraws/ControlRoom) - A MacOS App To Control The Xcode Simulator.
+- [Vapor/vapor](https://github.com/vapor/vapor) - 💧 A Server-side Swift HTTP Web Framework.
+- [VergeGroup/swift-Verge](https://github.com/VergeGroup/swift-Verge) - 🟣 Verge Is A Very Tunable State-management Engine On IOS App (UIKit / SwiftUI) And Built-in ORM.
+- [WeTransfer/WeScan](https://github.com/WeTransfer/WeScan) - Document Scanning Made Easy For IOS
+- [Wireapp/wire-ios](https://github.com/wireapp/wire-ios) - 📱 Wire For IOS (IPhone And IPad)
+- [Wordpress-mobile/WordPress-iOS](https://github.com/wordpress-mobile/WordPress-iOS) - WordPress For IOS - Official Repository
+- [Xmartlabs/Eureka](https://github.com/xmartlabs/Eureka) - Elegant IOS Form Builder In Swift
+- [Xmartlabs/XLForm](https://github.com/xmartlabs/XLForm) - XLForm Is The Most Flexible And Powerful IOS Library To Create Dynamic Table-view Forms. Fully Compatible With Swift & Obj-C.
+- [Yattee/yattee](https://github.com/yattee/yattee) - Privacy Oriented Video Player For IOS, TvOS And MacOS
+- [Yummypets/YPImagePicker](https://github.com/Yummypets/YPImagePicker) - 📸 Instagram-like Image Picker & Filters For IOS
+
+
+# Swiftui
+
+- [Apple/sample-food-truck](https://github.com/apple/sample-food-truck) - SwiftUI Sample Code From WWDC22
+- [AppPear/ChartView](https://github.com/AppPear/ChartView) - ChartView Made In SwiftUI
+- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App For MacOS–Elevate Your Code Editing Experience. Open Source, Free Forever.
+- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App For MacOS–Elevate Your Code Editing Experience. Open Source, Free Forever.
+- [Danielsaidi/RichTextKit](https://github.com/danielsaidi/RichTextKit) - RichTextKit Is A Swift-based Library For Working With Rich Text In UIKit, AppKit And SwiftUI.
+- [Danielsaidi/SwiftUIKit](https://github.com/danielsaidi/SwiftUIKit) - SwiftUIKit Contains Additional Functionality For SwiftUI.
+- [Dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :Iphone: Collaborative List Of Open-Source IOS Apps
+- [Dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :Iphone: Collaborative List Of Open-Source IOS Apps
+- [Exyte/ActivityIndicatorView](https://github.com/exyte/ActivityIndicatorView) - A Number Of Preset Loading Indicators Created With SwiftUI
+- [Exyte/FloatingButton](https://github.com/exyte/FloatingButton) - Easily Customizable Floating Button Menu Created With SwiftUI
+- [Exyte/PopupView](https://github.com/exyte/PopupView) - Toasts And Popups Library Written With SwiftUI
+- [Fatbobman/SwiftUIOverlayContainer](https://github.com/fatbobman/SwiftUIOverlayContainer) - SwiftUI Overlay Container Is A View Container Component For SwiftUI. It Is A Customizable, Efficient And Convenient View Manager. With Just A Simple Configuration, SwiftUI Overlay Container Can Do Th
+- [Godly-devotion/MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion) - Run Stable Diffusion On Mac Natively
+- [Gonzalezreal/swift-markdown-ui](https://github.com/gonzalezreal/swift-markdown-ui) - Display And Customize Markdown Text In SwiftUI
+- [Jevonmao/PermissionsSwiftUI](https://github.com/jevonmao/PermissionsSwiftUI) - A SwiftUI Package To Beautifully Display And Handle Permissions.
+- [Jinxiansen/Windows11](https://github.com/Jinxiansen/Windows11) - 💻 Windows 11 In SwiftUI.
+- [Juanpe/About-SwiftUI](https://github.com/Juanpe/About-SwiftUI) - Gathering All Info Published, Both By Apple And By Others, About New Framework SwiftUI.
+- [JVirus/ios-learning-materials](https://github.com/jVirus/ios-learning-materials) - 📚Curated List Of Articles, Web-resources, Tutorials And Code Repositories That May Help You Dig A Little Bit Deeper Into IOS [And Apple Platforms].
+- [Motianjun4/ChatGPT_Chatbot](https://github.com/motianjun4/ChatGPT_Chatbot) - An IOS Application For Interacting With ChatGPT Without Being Blocked By Cloudflare.
+- [Nachonavarro/Pages](https://github.com/nachonavarro/Pages) - 📖 A Lightweight, Paging View Solution For SwiftUI
+- [Nalexn/clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui) - SwiftUI Sample App Using Clean Architecture. Examples Of Working With CoreData Persistence, Networking, Dependency Injection, Unit Testing, And More.
+- [Paololeonardi/WaterfallGrid](https://github.com/paololeonardi/WaterfallGrid) - A Waterfall Grid Layout View For SwiftUI.
+- [ParetoSecurity/pareto-mac](https://github.com/ParetoSecurity/pareto-mac) - Automatically Audit Your Mac For Basic Security Hygiene.
+- [Playbook-ui/playbook-ios](https://github.com/playbook-ui/playbook-ios) - 📘A Library For Isolated Developing UI Components And Automatically Taking Snapshots Of Them.
+- [Pointfreeco/isowords](https://github.com/pointfreeco/isowords) - Open Source Game Built In SwiftUI And The Composable Architecture.
+- [Pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - A Library For Building Applications In A Consistent And Understandable Way, With Composition, Testing, And Ergonomics In Mind.
+- [SDWebImage/SDWebImageSwiftUI](https://github.com/SDWebImage/SDWebImageSwiftUI) - SwiftUI Image Loading And Animation Framework Powered By SDWebImage
+- [Simibac/ConfettiSwiftUI](https://github.com/simibac/ConfettiSwiftUI) - SwiftUI Package For Configurable Confetti Animation 🎉
+- [SimpleBoilerplates/SwiftUI-Cheat-Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet) - SwiftUI 2.0 Cheat Sheet
+- [Sindresorhus/Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert Videos To High-quality GIFs On Your Mac
+- [Stleamist/BetterSafariView](https://github.com/stleamist/BetterSafariView) - A Better Way To Present A SFSafariViewController Or Start A ASWebAuthenticationSession In SwiftUI.
+- [Surfstudio/StackOv](https://github.com/surfstudio/StackOv) - An Open-source SwiftUI Stack Overflow Client
+- [SvenTiigi/WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) - Showcase Your Awesome New App Features 📱
+- [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A Fully Native Discord Client For MacOS Built 100% In Swift!
+- [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - Extensions And Additions To The Standard SwiftUI Library.
+- [TokamakUI/Tokamak](https://github.com/TokamakUI/Tokamak) - SwiftUI-compatible Framework For Building Browser Apps With WebAssembly And Native Apps For Other Platforms
+- [Toni77777/awesome-swiftui-libraries](https://github.com/Toni77777/awesome-swiftui-libraries) - :Rocket: Awesome SwiftUI Libraries
+- [Twostraws/ControlRoom](https://github.com/twostraws/ControlRoom) - A MacOS App To Control The Xcode Simulator.
+- [VergeGroup/swift-Verge](https://github.com/VergeGroup/swift-Verge) - 🟣 Verge Is A Very Tunable State-management Engine On IOS App (UIKit / SwiftUI) And Built-in ORM.
+- [Yattee/yattee](https://github.com/yattee/yattee) - Privacy Oriented Video Player For IOS, TvOS And MacOS

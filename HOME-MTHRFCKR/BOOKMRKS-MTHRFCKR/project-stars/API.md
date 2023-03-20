@@ -1,0 +1,40 @@
+# API
+
+- [Postcatlab/postcat](https://github.com/Postcatlab/postcat) - Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An Extensible API Tool.
+- [Trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️ Move Fast And Break Nothing. End-to-end Typesafe APIs Made Easy.
+- [Metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect Your Local Process And Your Cloud Environment, And Run Local Code In Cloud Conditions.
+- [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway Written In Go, Supporting REST, GraphQL, TCP And GRPC Protocols
+- [Pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是
+- [Go-chi/chi](https://github.com/go-chi/chi) - Lightweight, Idiomatic And Composable Router For Building Go HTTP Services
+- [Go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 Implementation For Go
+- [Directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰—Directus Is An Instant REST+GraphQL API And Intuitive No-code Data Collaboration App For Any SQL Database.
+- [Httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie For Terminal—Modern, User-friendly Command-line HTTP Client For The API Era. JSON Support, Colors, Sessions, Downloads, Plugins & More.
+- [YaoApp/yao](https://github.com/YaoApp/yao) - :Rocket: A Performance App Engine To Create Web Services And Applications In Minutes.Suitable For AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance And Many Other Use-cases.
+- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator Allows Generation Of API Client Libraries (SDK Generation), Server Stubs, Documentation And Configuration Automatically Given An OpenAPI Spec (V2, V3)
+- [Apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
+- [Kong/insomnia](https://github.com/Kong/insomnia) - The Open-source, Cross-platform API Client For GraphQL, REST, WebSockets And GRPC.
+- [R-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :Rocket: Open Source REST API For SpaceX Launch, Rocket, Core, Capsule, Starlink, Launchpad, And Landing Pad Data.
+- [Meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A Lightning-fast Search Engine That Fits Effortlessly Into Your Apps, Websites, And Workflow.
+- [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中….】
+- [Microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
+- [Shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist Of The Most Important Security Countermeasures When Designing, Testing, And Releasing Your API
+- [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API For Any Postgres Database
+- [Postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, Written In Python + Flask.
+- [Public-apis/public-apis](https://github.com/public-apis/public-apis) - A Collective List Of Free APIs
+- [Slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful Static Documentation For Your API
+- [Neuml/txtai](https://github.com/neuml/txtai) - 💡 Build AI-powered Semantic Search Applications
+- [Cipher387/API-s-for-OSINT](https://github.com/cipher387/API-s-for-OSINT) - List Of API's For Gathering Information About Phone Numbers, Addresses, Domains Etc
+- [Melipass/lastfm-to-markdown](https://github.com/melipass/lastfm-to-markdown) - GitHub Actions Workflow That Automatically Updates The Covers From Your Last.fm's Weekly Chart Everyday, Inside Your Profile Repository's README.md File. Useful For Customizing Your Profile In Repos N
+- [Learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize World's Knowledge, Explore Connections And Curate Learning Paths
+- [Itsnexn/raindropcli](https://github.com/Itsnexn/raindropcli) - 💧Unofficial Raindrop.io Command-line Interface Written In Python.
+- [ObsidianPublisher/obsidian-github-publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher) - A Plugin To Easily Publish Note To Github Using A Frontmatter State Entry
+- [1998code/isitdownorjustme-API](https://github.com/1998code/isitdownorjustme-API) - An API For 'Is It Down Or Just Me' Monitor.
+- [Pushkarydv/public-apis-api](https://github.com/pushkarydv/public-apis-api) - List Of 1400+ Apis Their Documentation, Properties And A Lot More All Divided Into 50+ Cateogories All This Data Just A Api Call Away 🚀
+- [Nick-Gottschlich/Social-Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - Forget The Past. Social Amnesia Makes Sure Your Social Media Accounts Only Show Your Posts From Recent History, Not From "That Phase" 5 Years Ago.
+- [Thewhiteh4t/pwnedOrNot](https://github.com/thewhiteh4t/pwnedOrNot) - OSINT Tool For Finding Passwords Of Compromised Email Addresses
+- [Meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A Lightning-fast Search Engine That Fits Effortlessly Into Your Apps, Websites, And Workflow.
+- [Kapeli/Dash-iOS](https://github.com/Kapeli/Dash-iOS) - Dash Gives Your IPad And IPhone Instant Offline Access To 200+ API Documentation Sets
+- [Proyecto26/MyAPI](https://github.com/proyecto26/MyAPI) - A Template To Create Awesome APIs Easily ⚡️
+- [Public-apis/public-apis](https://github.com/public-apis/public-apis) - A Collective List Of Free APIs
+- [Neovim/neovim](https://github.com/neovim/neovim) - Vim-fork Focused On Extensibility And Usability
+- [Hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing Fast, Instant Realtime GraphQL APIs On Your DB With Fine Grained Access Control, Also Trigger Webhooks On Database Events.

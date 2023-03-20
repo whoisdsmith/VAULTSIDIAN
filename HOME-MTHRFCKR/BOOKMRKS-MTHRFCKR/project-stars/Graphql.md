@@ -1,0 +1,29 @@
+# Graphql
+
+- [Weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate Is An Open Source Vector Search Engine That Stores Both Objects And Vectors, Allowing For Combining Vector Search With Structured Filtering With The Fault-tolerance And Scalability Of A Cloud
+- [Stashapp/stash](https://github.com/stashapp/stash) - An Organizer For Your Porn, Written In Go. Documentation: Https://docs.stashapp.cc
+- [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway Written In Go, Supporting REST, GraphQL, TCP And GRPC Protocols
+- [Directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰—Directus Is An Instant REST+GraphQL API And Intuitive No-code Data Collaboration App For Any SQL Database.
+- [Strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry) - A GraphQL Library For Python That Leverages Type Annotations 🍓
+- [Supabase/supabase](https://github.com/supabase/supabase) - The Open Source Firebase Alternative. Follow To Stay Updated About Our Public Beta.
+- [Maticzav/swift-graphql](https://github.com/maticzav/swift-graphql) - A GraphQL Client That Lets You Forget About GraphQL.
+- [Kong/insomnia](https://github.com/Kong/insomnia) - The Open-source, Cross-platform API Client For GraphQL, REST, WebSockets And GRPC.
+- [Apollographql/apollo-ios](https://github.com/apollographql/apollo-ios) - 📱  A Strongly-typed, Caching GraphQL Client For IOS, Written In Swift.
+- [Dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - Build NodeJS / GO APIs In 5 Minutes Not Weeks
+- [Graphql-python/graphene-sqlalchemy](https://github.com/graphql-python/graphene-sqlalchemy) - Graphene SQLAlchemy Integration
+- [Edgedb/edgedb](https://github.com/edgedb/edgedb) - A Graph-relational Database With Declarative Schema, Built-in Migration System, And A Next-generation Query Language
+- [Graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & The GraphQL LSP Reference Ecosystem For Building Browser & IDE Tools.
+- [Chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome List Of GraphQL
+- [Graphql-python/graphene-django](https://github.com/graphql-python/graphene-django) - Integrate GraphQL Into Your Django Project.
+- [Graphql-python/graphene](https://github.com/graphql-python/graphene) - GraphQL Framework For Python
+- [Dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database With Graph Backend
+- [PckdHQ/Pckd](https://github.com/PckdHQ/Pckd) - The ⚡️ Analytics-intensive, Self-hostable Link-shortener With A Beautiful UI | AKA Free Bit.ly Alternative 🚀
+- [Refinedev/refine](https://github.com/refinedev/refine) - Build Your React-based CRUD Applications, Without Constraints.
+- [Gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The Fastest Frontend For The Headless Web. Build Modern Websites With React.
+- [Graphql-markdown/graphql-markdown](https://github.com/graphql-markdown/graphql-markdown) - Flexible GraphQL Documentation Generator (Markdown)
+- [Sleepyqadir/TechFolio](https://github.com/sleepyqadir/TechFolio) - An Open Sourced Creative Portfolio For Developer And Tech Geeks 😀
+- [Prettier/prettier](https://github.com/prettier/prettier) - Prettier Is An Opinionated Code Formatter.
+- [Apollographql/apollo-ios](https://github.com/apollographql/apollo-ios) - 📱  A Strongly-typed, Caching GraphQL Client For IOS, Written In Swift.
+- [Chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome List Of GraphQL
+- [Happy-mammal/timeliner](https://github.com/happy-mammal/timeliner) - A Simple Interest Tracking App Which Tries/aims To Provide Real-time History Feed Of Interests You Like E.g. (IPhone13, Tesla, Covid-19). It Similar To A Customized RSS Feed But A Mixture Of News And
+- [Hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing Fast, Instant Realtime GraphQL APIs On Your DB With Fine Grained Access Control, Also Trigger Webhooks On Database Events.

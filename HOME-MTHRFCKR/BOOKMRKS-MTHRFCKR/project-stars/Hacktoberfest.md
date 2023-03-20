@@ -1,0 +1,332 @@
+# Hacktoberfest
+
+- [Cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The Open Source High Performance Data Integration Platform Built For Developers.
+- [Huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art Diffusion Models For Image And Audio Generation In PyTorch
+- [Containrrr/watchtower](https://github.com/containrrr/watchtower) - A Process For Automating Docker Container Base Image Updates.
+- [Alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Kubernetes
+- [Bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent Cloud Misconfigurations And Find Vulnerabilities During Build-time In Infrastructure As Code, Container Images And Open Source Packages With Checkov By Bridgecrew.
+- [Anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :Zap: Dynamically Generated Stats For Your Github Readmes
+- [Dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI Is The .NET Multi-platform App UI, A Framework For Building Native Device Applications Spanning Mobile, Tablet, And Desktop.
+- [Stashapp/stash](https://github.com/stashapp/stash) - An Organizer For Your Porn, Written In Go. Documentation: Https://docs.stashapp.cc
+- [Ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player Emulator Written In Rust
+- [Charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI Home Video Recorder 📼
+- [Matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - Matplotlib: Plotting With Python
+- [Phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing An OS In Rust
+- [Pingcap/docs-cn](https://github.com/pingcap/docs-cn) - TiDB/TiKV/PD Documentation In Chinese.
+- [Arl/statsviz](https://github.com/arl/statsviz) - :Rocket: Visualise Go Program Runtime Metrics In Real Time In Your Browser
+- [Remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A List Of Semi To Fully Remote-friendly Companies (Jobs) In Tech.
+- [Turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL To Instantly Query Your Cloud Services (AWS, Azure, GCP And More). Open Source CLI. No DB Required.
+- [Carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A Design System Built By IBM
+- [Orhun/git-cliff](https://github.com/orhun/git-cliff) - A Highly Customizable Changelog Generator That Follows Conventional Commit Specifications ⛰️
+- [Louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A Fancy Self-hosted Monitoring Tool
+- [Earthly/earthly](https://github.com/earthly/earthly) - Super Simple CI/CD Framework With Repeatable Builds That You Write Once And Run Anywhere–Laptop, Remote, Or Any CI
+- [Surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A Scalable, Distributed, Collaborative, Document-graph Database, For The Realtime Web
+- [Grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go Language Implementation Of GRPC. HTTP/2 Based RPC
+- [Mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - A Low-code Machine Learning Platform To Help Developers Build #AI Solutions
+- [Owncast/owncast](https://github.com/owncast/owncast) - Take Control Over Your Live Stream Video By Running It Yourself. Streaming + Chat Out Of The Box.
+- [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges For Your Personal Developer Branding, Profile, And Projects.
+- [Huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The Largest Hub Of Ready-to-use Datasets For ML Models With Fast, Easy-to-use And Efficient Data Manipulation Tools
+- [Tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go Compiler For Small Places. Microcontrollers, WebAssembly (WASM/WASI), And Command-line Tools. Based On LLVM.
+- [Scrapy/parsel](https://github.com/scrapy/parsel) - Parsel Lets You Extract Data From XML/HTML Documents Using XPath Or CSS Selectors
+- [Renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal Dependency Update Tool That Fits Into Your Workflows.
+- [Giscus/giscus](https://github.com/giscus/giscus) - A Comment System Powered By GitHub Discussions. :Octocat: :Speech_balloon: :Gem:
+- [Dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy And Fast File Sharing From The Command-line.
+- [Timescale/tobs](https://github.com/timescale/tobs) - Tobs - The Observability Stack For Kubernetes. Easy Install Of A Full Observability Stack Into A K8s Cluster With Helm Charts.
+- [Asyncapi/spec](https://github.com/asyncapi/spec) - The AsyncAPI Specification Allows You To Create Machine-readable Definitions Of Your Asynchronous APIs.
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge Is A Lightweight, High-performance, And Extensible WebAssembly Runtime For Cloud Native, Edge, And Decentralized Applications. It Powers Serverless Apps, Embedded Functions, Microservices, Sm
+- [Charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A Powerful Little TUI Framework 🏗
+- [Charmbracelet/glow](https://github.com/charmbracelet/glow) - Render Markdown On The CLI, With Pizzazz! 💅🏻
+- [Excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual Whiteboard For Sketching Hand-drawn Like Diagrams
+- [Flyteorg/flyte](https://github.com/flyteorg/flyte) - Kubernetes-native Workflow Automation Platform For Complex, Mission-critical Data And ML Processes At Scale. It Has Been Battle-tested At Lyft, Spotify, Freenome, And Others And Is Truly Open-source.
+- [Orlangure/gnomock](https://github.com/orlangure/gnomock) - Test Your Code Without Writing Mocks With Ephemeral Docker Containers 📦 Setup Popular Services With Just A Couple Lines Of Code ⏱️ No Bash, No Yaml, Only Code 💻
+- [Anchore/syft](https://github.com/anchore/syft) - CLI Tool And Library For Generating A Software Bill Of Materials From Container Images And Filesystems
+- [Melbahja/goph](https://github.com/melbahja/goph) - 🤘 The Native Golang Ssh Client To Execute Your Commands Over Ssh Connection. 🚀🚀
+- [Kedro-org/kedro](https://github.com/kedro-org/kedro) - A Python Framework For Creating Reproducible, Maintainable And Modular Data Science Code.
+- [Bloomberg/memray](https://github.com/bloomberg/memray) - Memray Is A Memory Profiler For Python
+- [Projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - Httpx Is A Fast And Multi-purpose HTTP Toolkit That Allows Running Multiple Probes Using The Retryablehttp Library.
+- [Grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir Provides Horizontally Scalable, Highly Available, Multi-tenant, Long-term Storage For Prometheus.
+- [Pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm Is A Modern Go Module To Easily Beautify Console Output. Featuring Charts, Progressbars, Tables, Trees, Text Input, Select Menus And Much More 🚀 It's Completely Configurable And 100% Cross-pl
+- [Rogchap/v8go](https://github.com/rogchap/v8go) - Execute JavaScript From Go
+- [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS Feed For Websites Missing It
+- [Prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, Low-code, Simplify And Accelerate Development, ⚡ Instant, Realtime, High-performance On Any Postgres Application, Existing Or New
+- [Hashicorp/boundary](https://github.com/hashicorp/boundary) - Boundary Enables Identity-based Access Management For Dynamic Infrastructure.
+- [Requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A Modern And Powerful Wiki App Built On Node.js
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy Is An Open-source Alternative To Notion. You Are In Charge Of Your Data And Customizations. Built With Flutter And Rust.
+- [Kubesphere/ks-devops](https://github.com/kubesphere/ks-devops) - This Is A Cloud-native Application That Focuses On The DevOps Area.
+- [Kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform On Kubernetes
+- [Quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly Create And Run Optimised Windows, MacOS And Linux Desktop Virtual Machines.
+- [Strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry) - A GraphQL Library For Python That Leverages Type Annotations 🍓
+- [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A Curated List Of High Quality Coding Style Conventions And Standards.
+- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator Allows Generation Of API Client Libraries (SDK Generation), Server Stubs, Documentation And Configuration Automatically Given An OpenAPI Spec (V2, V3)
+- [Shipwright-io/build](https://github.com/shipwright-io/build) - Shipwright - A Framework For Building Container Images On Kubernetes
+- [Go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy And Fluent Go Cron Scheduling. This Is A Fork From Https://github.com/jasonlvhit/gocron
+- [Go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP And REST Client Library For Go
+- [Frappe/charts](https://github.com/frappe/charts) - Simple, Responsive, Modern SVG Charts With Zero Dependencies
+- [Kuberhealthy/kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) - A Kubernetes Operator For Running Synthetic Checks As Pods. Works Great With Prometheus!
+- [Supabase/supabase](https://github.com/supabase/supabase) - The Open Source Firebase Alternative. Follow To Stay Updated About Our Public Beta.
+- [Sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A Modular SQL Linter And Auto-formatter With Support For Multiple Dialects And Templated Code.
+- [Godotengine/godot](https://github.com/godotengine/godot) - Godot Engine–Multi-platform 2D And 3D Game Engine
+- [Tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build Smaller, Faster, And More Secure Desktop Applications With A Web Frontend.
+- [Opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open Source Distributed And RESTful Search Engine.
+- [Metallb/metallb](https://github.com/metallb/metallb) - A Network Load-balancer Implementation For Kubernetes Using Standard Routing Protocols
+- [Keptn/keptn](https://github.com/keptn/keptn) - Cloud-native Application Life-cycle Orchestration. Keptn Automates Your SLO-driven Multi-stage Delivery And Operations & Remediation Of Your Applications.
+- [Arrow-py/arrow](https://github.com/arrow-py/arrow) - 🏹 Better Dates & Times For Python
+- [Grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug Performance Issues Down To A Single Line Of Code
+- [Hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This Unofficial Extension Integrates Draw.io (Also Known As Diagrams.net) Into VS Code.
+- [Redocly/redoc](https://github.com/Redocly/redoc) - 📘 OpenAPI/Swagger-generated API Reference Documentation
+- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor For Reverse Engineers, Programmers And People Who Value Their Retinas When Working At 3 AM.
+- [Apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A Platform To Programmatically Author, Schedule, And Monitor Workflows
+- [Parca-dev/parca](https://github.com/parca-dev/parca) - Continuous Profiling For Analysis Of CPU And Memory Usage, Down To The Line Number And Throughout Time. Saving Infrastructure Cost, Improving Performance, And Increasing Reliability.
+- [Yikeke/zh-style-guide](https://github.com/yikeke/zh-style-guide) - An Open-source Style Guide For Writing Chinese Technical Documents: Https://zh-style-guide.readthedocs.io
+- [V2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A Platform For Building Proxies To Bypass Network Restrictions.
+- [Github/docs](https://github.com/github/docs) - The Open-source Repo For Docs.github.com
+- [Muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - A Better 'Df' Alternative
+- [Zenika/alpine-chrome](https://github.com/Zenika/alpine-chrome) - Chrome Headless Docker Images Built Upon Alpine Official Image
+- [TokamakUI/Tokamak](https://github.com/TokamakUI/Tokamak) - SwiftUI-compatible Framework For Building Browser Apps With WebAssembly And Native Apps For Other Platforms
+- [Surfstudio/StackOv](https://github.com/surfstudio/StackOv) - An Open-source SwiftUI Stack Overflow Client
+- [Imdario/mergo](https://github.com/imdario/mergo) - Mergo: Merging Go Structs And Maps Since 2013
+- [Devicekit/DeviceKit](https://github.com/devicekit/DeviceKit) - DeviceKit Is A Value-type Replacement Of UIDevice.
+- [Open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - Gatekeeper - Policy Controller For Kubernetes
+- [EFPrefix/EFQRCode](https://github.com/EFPrefix/EFQRCode) - A Better Way To Operate QR Code In Swift, Support IOS, MacOS, WatchOS And TvOS.
+- [Tektoncd/catalog](https://github.com/tektoncd/catalog) - Catalog Of Shared Tasks And Pipelines.
+- [Cortexproject/cortex](https://github.com/cortexproject/cortex) - A Horizontally Scalable, Highly Available, Multi-tenant, Long Term Prometheus.
+- [Microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft Community Windows Package Manager Manifest Repository
+- [Pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A Black Hole For Internet Advertisements
+- [Osquery/osquery](https://github.com/osquery/osquery) - SQL Powered Operating System Instrumentation, Monitoring, And Analytics.
+- [Containerd/containerd](https://github.com/containerd/containerd) - An Open And Reliable Container Runtime
+- [Github/super-linter](https://github.com/github/super-linter) - Combination Of Multiple Linters To Install As A GitHub Action
+- [Facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy To Maintain Open Source Documentation Websites.
+- [Go-gitea/gitea](https://github.com/go-gitea/gitea) - Git With A Cup Of Tea, Painless Self-hosted Git Service
+- [Argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment For Kubernetes.
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :Books: Freely Available Programming Books
+- [Argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine For Kubernetes
+- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A One-of-a-kind Resume Builder That Keeps Your Privacy In Mind. Completely Secure, Customizable, Portable, Open-source And Free Forever. Try It Out Today!
+- [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video Editing With Python
+- [Jd/tenacity](https://github.com/jd/tenacity) - Retrying Library For Python
+- [Ory/keto](https://github.com/ory/keto) - Open Source (Go) Implementation Of "Zanzibar: Google's Consistent, Global Authorization System". Ships GRPC, REST APIs, NewSQL, And An Easy And Granular Permission Language. Supports ACL, RBAC, And Ot
+- [Ory/kratos](https://github.com/ory/kratos) - Next-gen Identity Server (Think Auth0, Okta, Firebase) With Ory-hardened Authentication, MFA, FIDO2, TOTP, WebAuthn, Profile Management, Identity Schemas, Social Sign In, Registration, Account Recover
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - Data Science On Data Without Acquiring A Copy
+- [Chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform For Kubernetes.
+- [Adnanh/webhook](https://github.com/adnanh/webhook) - Webhook Is A Lightweight Incoming Webhook Server To Run Shell Commands
+- [Runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
+- [Rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
+- [Kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API And Runtime In Order To Define And Manage Virtual Machines.
+- [Aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find Vulnerabilities, Misconfigurations, Secrets, SBOM In Containers, Kubernetes, Code Repositories, Clouds And More
+- [Github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically Generate Change Log From Your Tags, Issues, Labels And Pull Requests On GitHub.
+- [Pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The Pytest Framework Makes It Easy To Write Small Tests, Yet Scales To Support Complex Functional Testing
+- [Caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast And Extensible Multi-platform HTTP/1-2-3 Web Server With Automatic HTTPS
+- [Goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go Binaries As Fast And Easily As Possible
+- [Dask/distributed](https://github.com/dask/distributed) - A Distributed Task Scheduler For Dask
+- [Sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt Down Social Media Accounts By Username Across Social Networks
+- [Huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning For Pytorch, TensorFlow, And JAX.
+- [Ory/oathkeeper](https://github.com/ory/oathkeeper) - A Cloud Native Identity & Access Proxy / API (IAP) And Access Control Decision API That Authenticates, Authorizes, And Mutates Incoming HTTP(s) Requests. Inspired By The BeyondCorp / Zero Trust White
+- [Juanpe/About-SwiftUI](https://github.com/Juanpe/About-SwiftUI) - Gathering All Info Published, Both By Apple And By Others, About New Framework SwiftUI.
+- [Projectcontour/contour](https://github.com/projectcontour/contour) - Contour Is A Kubernetes Ingress Controller Using Envoy Proxy.
+- [Dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) Identity And OAuth 2.0 Provider With Pluggable Connectors
+- [Falcosecurity/falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
+- [Kedacore/keda](https://github.com/kedacore/keda) - KEDA Is A Kubernetes-based Event Driven Autoscaling Component. It Provides Event Driven Scale For Any Container Running In Kubernetes
+- [Kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The Container Platform Tailored For Kubernetes Multi-cloud, Datacenter, And Edge Management ⎈ 🖥 ☁️
+- [Cri-o/cri-o](https://github.com/cri-o/cri-o) - Open Container Initiative-based Implementation Of Kubernetes Container Runtime Interface
+- [Kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization Of Kubernetes YAML Configurations
+- [Aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks Whether Kubernetes Is Deployed According To Security Best Practices As Defined In The CIS Kubernetes Benchmark
+- [Tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A Cloud-native Pipeline Resource.
+- [Iterative/dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git For Data & Models | ML Experiments Management
+- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter Written In Rust
+- [Rust-lang/rust](https://github.com/rust-lang/rust) - Empowering Everyone To Build Reliable And Efficient Software.
+- [Grafana/loki](https://github.com/grafana/loki) - Like Prometheus, But For Logs.
+- [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram Client Library, For Bots Too!
+- [Microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+- [FluidGroup/Brightroom](https://github.com/FluidGroup/Brightroom) - 📷 A Composable Image Editor Using Core Image And Metal.
+- [Tikv/tikv](https://github.com/tikv/tikv) - Distributed Transactional Key-value Database, Originally Created To Complement TiDB
+- [Ish-app/ish](https://github.com/ish-app/ish) - Linux Shell For IOS
+- [Vmware-tanzu/velero](https://github.com/vmware-tanzu/velero) - Backup And Migrate Kubernetes Applications And Their Persistent Volumes
+- [Leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript Concepts Every Developer Should Know.
+- [Mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation Of Diagrams Like Flowcharts Or Sequence Diagrams From Text In A Similar Manner As Markdown
+- [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative Web Scraping
+- [Mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost Is An Open Source Platform For Secure Collaboration Across The Entire Software Development Lifecycle.
+- [Goharbor/harbor](https://github.com/goharbor/harbor) - An Open Source Trusted Cloud Native Registry Project That Stores, Signs, And Scans Content.
+- [Aio-libs/aioredis-py](https://github.com/aio-libs/aioredis-py) - Asyncio (PEP 3156) Redis Support
+- [Golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database Migrations. CLI And Golang Library.
+- [Cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically Provision And Manage TLS Certificates In Kubernetes
+- [Ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect And OAuth Provider Written In Go - Cloud Native, Security-first, Open Source API Security For Your Infrastructure. SDKs For Any Language. Works With Hardware Security
+- [Thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly Available Prometheus Setup With Long Term Storage Capabilities. A CNCF Incubating Project.
+- [Tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative Cheatsheets For Console Commands
+- [Serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome List Of Open Source Applications For MacOS. Https://t.me/s/opensourcemacosapps
+- [Pingcap/tidb](https://github.com/pingcap/tidb) - TiDB Is An Open-source, Cloud-native, Distributed, MySQL-Compatible Database For Elastic Scale And Real-time Analytics. Try AI-powered Chat2Query Free At : Https://tidbcloud.com/free-trial
+- [Psf/black](https://github.com/psf/black) - The Uncompromising Python Code Formatter
+- [Kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy A Production Ready Kubernetes Cluster
+- [Swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
+- [Danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered Component To Easily Create Skeleton Loadings.
+- [Iina/iina](https://github.com/iina/iina) - The Modern Video Player For MacOS.
+- [Graphql-python/graphene-django](https://github.com/graphql-python/graphene-django) - Integrate GraphQL Into Your Django Project.
+- [Juanpe/SkeletonView](https://github.com/Juanpe/SkeletonView) - ☠️ An Elegant Way To Show Users That Something Is Happening And Also Prepare Them To Which Contents They Are Awaiting
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® Is A Free Analytics DBMS For Big Data
+- [Home-assistant/core](https://github.com/home-assistant/core) - :House_with_garden: Open Source Home Automation That Puts Local Control And Privacy First.
+- [Ansible/awx](https://github.com/ansible/awx) - AWX Provides A Web-based User Interface, REST API, And Task Engine Built On Top Of Ansible. It Is One Of The Upstream Projects For Red Hat Ansible Automation Platform.
+- [Google/go-github](https://github.com/google/go-github) - Go Library For Accessing The GitHub V3 API
+- [Mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use Foundational React Components, Free Forever. It Includes Material UI, Which Implements Google's Material Design.
+- [Webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming Torrent Client For The Web
+- [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript Library For Mobile-friendly Interactive Maps 🇺🇦
+- [Swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI Is A Collection Of HTML, JavaScript, And CSS Assets That Dynamically Generate Beautiful Documentation From A Swagger-compliant API.
+- [Prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus Monitoring System And Time Series Database.
+- [Scikit-image/scikit-image](https://github.com/scikit-image/scikit-image) - Image Processing In Python
+- [Marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow) - A Lightweight Library For Converting Complex Objects To And From Simple Python Datatypes.
+- [Xmartlabs/Eureka](https://github.com/xmartlabs/Eureka) - Elegant IOS Form Builder In Swift
+- [Ansible/ansible](https://github.com/ansible/ansible) - Ansible Is A Radically Simple IT Automation Platform That Makes Your Applications And Systems Easier To Deploy And Maintain. Automate Everything From Code Deployment To Network Configuration To Cloud
+- [Fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The Easiest Way To Automate Building And Releasing Your IOS And Android Apps
+- [Aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP Client/server Framework For Asyncio And Python
+- [Avelino/awesome-go](https://github.com/avelino/awesome-go) - A Curated List Of Awesome Go Frameworks, Libraries And Software
+- [Cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - The Open Source, Cloud-native Distributed SQL Database.
+- [Ipython/ipython](https://github.com/ipython/ipython) - Official Repository For IPython Itself. Other Repos In The IPython Organization Contain Things Like The Website, Documentation Builds, Etc.
+- [Highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript Syntax Highlighter With Language Auto-detection And Zero Dependencies.
+- [Grafana/grafana](https://github.com/grafana/grafana) - The Open And Composable Observability And Data Visualization Platform. Visualize Metrics, Logs, And Traces From Multiple Sources Like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres And Many More.
+- [Ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A Delightful Community-driven (With 2,100+ Contributors) Framework For Managing Your Zsh Configuration. Includes 300+ Optional Plugins (Rails, Git, MacOS, Hub, Docker, Homebrew, Node, Php, Python,
+- [Scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, A Fast High-level Web Crawling & Scraping Framework For Python.
+- [Getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first Error Tracking And Performance Monitoring
+- [Chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts Using The &Lt;canvas&gt; Tag
+- [Lagmoellertim/unsilence](https://github.com/lagmoellertim/unsilence) - Console Interface And Library To Remove Silent Parts Of A Media File 🔈
+- [Aashutoshrathi/awesome-bashrc](https://github.com/aashutoshrathi/awesome-bashrc) - 🚀 Collection Of Bash Snippets/aliases That Will Save Your Time On The Terminal
+- [Harish-sethuraman/readme-components](https://github.com/harish-sethuraman/readme-components) - Cards For Your Readme
+- [Souvikinator/notion-to-md](https://github.com/souvikinator/notion-to-md) - Convert Notion Pages, Block And List Of Blocks To Markdown (Supports Nesting And Custom Parsing)
+- [Marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Tensor Search For Humans.
+- [Opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open Source Distributed And RESTful Search Engine.
+- [Slskd/slskd](https://github.com/slskd/slskd) - A Modern Client-server Application For The Soulseek File Sharing Network.
+- [Stage-Whisper/Stage-Whisper](https://github.com/Stage-Whisper/Stage-Whisper) - The Main Repo For Stage Whisper—A Free, Secure, And Easy-to-use Transcription App For Journalists, Powered By OpenAI's Whisper Automatic Speech Recognition (ASR) Machine Learning Models.
+- [Amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify) - :Closed_book: A Minimal Markdown Editor Desktop App
+- [Outline/outline](https://github.com/outline/outline) - The Fastest Knowledge Base For Growing Teams. Beautiful, Realtime Collaborative, Feature Packed, And Markdown Compatible.
+- [Extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 Fast Terminal-ui For Git Written In Rust 🦀
+- [Curl/curl](https://github.com/curl/curl) - A Command Line Tool And Library For Transferring Data With URL Syntax, Supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
+- [Six2dez/reconftw](https://github.com/six2dez/reconftw) - ReconFTW Is A Tool Designed To Perform Automated Recon On A Target Domain By Running The Best Set Of Tools To Perform Scanning And Finding Out Vulnerabilities
+- [Intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) - Intel Owl: Analyze Files, Domains, IPs In Multiple Ways From A Single API At Scale
+- [Theahmadov/slash](https://github.com/theahmadov/slash) - The Slash OSINT Tool
+- [TheTechRobo/discord-urls-extractor](https://github.com/TheTechRobo/discord-urls-extractor) - Rust Program For Extracting Most URLs From Discord Scrapes. Works With Discord History Tracker, Discard2, And DiscordChatExporter.
+- [Brunty/awesome-checker-services](https://github.com/Brunty/awesome-checker-services) - ✅ List Of Links To The Various Checkers Out There On The Web For Sites, Domains, Security Etc.
+- [TIGMINT/TIGMINT](https://github.com/TIGMINT/TIGMINT) - TIGMINT: OSINT (Open Source Intelligence) GUI Software Framework
+- [Wei/socialify](https://github.com/wei/socialify) - 💞 Socialify Your Project. 🌐 Share With The World!
+- [Realodix/urlhub](https://github.com/realodix/urlhub) - ✂️ URL Shortener Web Application Based On The Laravel PHP Framework.
+- [Crwlrsoft/url](https://github.com/crwlrsoft/url) - Swiss Army Knife For Urls.
+- [Gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow For Alfred 4
+- [Gaurav-nelson/github-action-markdown-link-check](https://github.com/gaurav-nelson/github-action-markdown-link-check) - Check All Links In Markdown Files If They Are Alive Or Dead. 🔗✔️
+- [Public-apis-dev/public-apis](https://github.com/public-apis-dev/public-apis) - A Collaborative List Of Public APIs For Developers
+- [Hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev) - List Of Free Stuff For Developer
+- [Trikzon/obsidian-web-browser](https://github.com/Trikzon/obsidian-web-browser) - An Obsidian Plugin That Lets You Browse The Web Within Obsidian.
+- [Shreyasminocha/regex-for-regular-folk](https://github.com/shreyasminocha/regex-for-regular-folk) - 🔍💪 Regular Expressions For Regular Folk—A Visual, Example-based Introduction To RegEx [BETA]
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A Blazing Fast Cross Platform/shell Prompt Renderer
+- [Refinedev/refine](https://github.com/refinedev/refine) - Build Your React-based CRUD Applications, Without Constraints.
+- [Svengreb/tmpl](https://github.com/svengreb/tmpl) - A Collection Of Template Repositories For New Projects.
+- [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker) - 🏆 Best Profile Generator, Create Your Perfect GitHub Profile ReadMe In The Best Possible Way. Lots Of Features And Tools Included, All For Free ! 💫
+- [Arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator) - GitHub Profile Readme Generator Allows You To Create Nice And Simple GitHub Profile Readme Files That Will Be Included In Your Profile Previews.
+- [Dar5hak/generator-awesome-list](https://github.com/dar5hak/generator-awesome-list) - :Sunglasses: Yeoman Generator For GitHub Awesome Lists
+- [Jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
+- [Charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI Home Video Recorder 📼
+- [Stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :Sunglasses: A Curated List Of Add-ons That Extend/enhance The Git CLI.
+- [Envoy-VC/awesome-badges](https://github.com/Envoy-VC/awesome-badges) - 😎 A Curated List Of GitHub Badges For Your Next Project
+- [Rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator) - 🚀 This Tool Contains Mini GUI Components That You Can Hook Together To Automatically Generate Markdown Code For A Perfect Readme.
+- [Thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown) - Convert HTML To Markdown With PHP
+- [Hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - The Best Platform To Write And Share Markdown.
+- [Atapas/markdown-cheatsheet](https://github.com/atapas/markdown-cheatsheet) - A Single Place For All The Markdown Syntaxes I Have Learned So Far.
+- [Requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A Modern And Powerful Wiki App Built On Node.js
+- [Vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue Powered Static Site Generator.
+- [Aryankashyap7/CheatSheets-for-Developers](https://github.com/aryankashyap7/CheatSheets-for-Developers) - This Cheat Sheet List Has Been Made To Enhance The Workflow And Efficiency. This Well Curated List Will Save You Time When You Just Can't Remember The Code.
+- [Osquery/osquery](https://github.com/osquery/osquery) - SQL Powered Operating System Instrumentation, Monitoring, And Analytics.
+- [Kewbish/matter](https://github.com/kewbish/matter) - An RSS Links Page + Bookmarking Tool.
+- [Vijayyprajapati/Share-Your-Bookmarks](https://github.com/vijayyprajapati/Share-Your-Bookmarks) - A Platform Where Anyone Can Make Their Profile, Share Their Twitter And LinkedIn Bookmarks, See Other Shared Bookmarks, And Contribute To The Community. This Repository Is Participating In Hacktoberfe
+- [SerenaKit/Santander](https://github.com/SerenaKit/Santander) - A New, Enhanced File Manager For IOS Devices
+- [Athensresearch/athens](https://github.com/athensresearch/athens) - ATHENS IS NO LONGER BEING ACTIVELY MAINTAINED. Athens Is An Open-source, Collaborative Knowledge Graph.
+- [Archivy/archivy](https://github.com/archivy/archivy) - Archivy Is A Self-hostable Knowledge Repository That Allows You To Learn And Retain Information In Your Own Personal And Extensible Wiki.
+- [Vinitshahdeo/github-stars-feed](https://github.com/vinitshahdeo/github-stars-feed) - Get The Latest Feed Of GitHub Stars Out There! 🌟 ⭐  ✨
+- [Searxng/searxng](https://github.com/searxng/searxng) - SearXNG Is A Free Internet Metasearch Engine Which Aggregates Results From Various Search Services And Databases. Users Are Neither Tracked Nor Profiled.
+- [Akshay2211/NYTimes-Compose](https://github.com/akshay2211/NYTimes-Compose) - An Offline-first Application In Jetpack Compose With MVVM Architecture, Representing A Minimalistic Implementation Of Top Stories API.
+- [Wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js - The Headless WordPress Framework
+- [Http-party/http-server](https://github.com/http-party/http-server) - A Simple Zero-configuration Command-line Http Server
+- [Appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server For Web, Mobile & Flutter Developers 🚀 AKA The 100% Open-source Firebase Alternative.
+- [Colbyfayock/next-wordpress-starter](https://github.com/colbyfayock/next-wordpress-starter) - 📝 Bring WordPress To The Static World With Next.js
+- [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS Feed For Websites Missing It
+- [Turicas/rows](https://github.com/turicas/rows) - A Common, Beautiful Interface To Tabular Data, No Matter The Format
+- [Shravan20/github-readme-quotes](https://github.com/shravan20/github-readme-quotes) - Dynamic Quote Generator For Your GitHub Readmes | Give A Poetic Touch To Readmes
+- [ZekroTJA/stargrab](https://github.com/zekroTJA/stargrab) - Securely Mirror Your Starred Repositories.
+- [Vimal-verma/Master-Portfolio](https://github.com/vimal-verma/Master-Portfolio) - A Clean, Beautiful, Responsive And 100% Customizable Portfolio Template For Developers!
+- [Tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative Cheatsheets For Console Commands
+- [Garimasingh128/gitsetgo](https://github.com/garimasingh128/gitsetgo) - A Github Resume Generator 👨‍💻👩‍ To Create Your Own Personalised Resume Based On Your Github Profile. 🔎 This Tool Lets You Have Your Resume On A Single Click.
+- [Resuminator/resuminator](https://github.com/resuminator/resuminator) - Build Beautiful Single-page Resumes; Without The Hassle! The Easiest Resume-builder Out There With Intuitive Drag-n-drop & WYSIWYG Editor
+- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A One-of-a-kind Resume Builder That Keeps Your Privacy In Mind. Completely Secure, Customizable, Portable, Open-source And Free Forever. Try It Out Today!
+- [DiptoChakrabarty/Resume-Generator](https://github.com/DiptoChakrabarty/Resume-Generator) - A Resume Builder Which Allows Users To Build Their Own Custom Resumes With Details Like Experience,projects , Skills ,Education Etc. Users Can Also Have The Feature To Download Their Resumes . To C
+- [Rahulbanerjee26/githubProfileReadmeGenerator](https://github.com/rahulbanerjee26/githubProfileReadmeGenerator) - Generate A Cool README/About Me Page For Your Github Profile
+- [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically Generated, Customizable SVG That Gives The Appearance Of Typing And Deleting Text. Typing SVGs Can Be Used As A Bio On Your GitHub Profile Readme Or Repository.
+- [Kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - Show Your Spotify Playing On Your Github Profile
+- [Jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README With The Recent GitHub Activity Of A User
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay Motivated And Show Off Your Contribution Streak! 🌟 Display Your Total Contributions, Current Streak, And Longest Streak On Your GitHub Profile README
+- [Anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :Zap: Dynamically Generated Stats For Your Github Readmes
+- [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges For Your Personal Developer Branding, Profile, And Projects.
+- [Khalby786/REHeader](https://github.com/khalby786/REHeader) - Generate Beautiful Header Images For Your GitHub Profile READMEs.
+- [Rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub Profile README Easily With The Latest Add-ons Like Visitors Count, GitHub Stats, Etc Using Minimal UI.
+- [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically Deploy Your Project To GitHub Pages Using GitHub Actions. This Action Can Be Configured To Push Your Production-ready Code Into Any Branch You'd Like.
+- [Muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action That Automatically Generates & Updates Markdown Content (Like Your README.md)
+- [Gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show Your Latest Blog Posts From Any Sources Or StackOverflow Activity Or Youtube Videos On Your GitHub Profile/project Readme Automatically Using The RSS Feed
+- [Lubien/bookmarker](https://github.com/lubien/bookmarker) - Export Google Chrome Bookmarks Into Markdown Files
+- [Arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create A Dynamic Portfolio By Just Providing Your GitHub Username.
+- [Prashoon123/github-cards](https://github.com/Prashoon123/github-cards) - Create Beautiful-looking Cards For Your GitHub Profile Or GitHub Repo!
+- [Nextcloud/social](https://github.com/nextcloud/social) - 🎉 Social Can Be Used For Work, Or To Connect To The Fediverse!
+- [Nextcloud/photos](https://github.com/nextcloud/photos) - 📸 Your Memories Under Your Control
+- [Nextcloud/spreed](https://github.com/nextcloud/spreed) - 🗨️ Nextcloud Talk–Chat, Video & Audio Calls For Nextcloud
+- [Nextcloud/circles](https://github.com/nextcloud/circles) - 👪 Create Groups With Other Users On A Nextcloud Instance And Share With Them
+- [Harrytran103/awesome-linux-apps](https://github.com/harrytran103/awesome-linux-apps) - 🚀 A List Of Awesome Applications For 🐧 Linux Distributions.
+- [Charmbracelet/gum](https://github.com/charmbracelet/gum) - A Tool For Glamorous Shell Scripts 🎀
+- [Correia-jpv/fucking-awesome-zsh-plugins](https://github.com/Correia-jpv/fucking-awesome-zsh-plugins) - A Collection Of ZSH Frameworks, Plugins, Themes And Tutorials. With Repository Stars⭐ And Forks🍴
+- [GuillaumeFalourd/useful-actions](https://github.com/GuillaumeFalourd/useful-actions) - Curated List Of Useful Github Actions With Workflows Examples 💡
+- [Beetbox/beets](https://github.com/beetbox/beets) - Music Library Manager And MusicBrainz Tagger
+- [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development To Production All Configurations With Basic Notes To Debug Efficiently.
+- [Xperimental/nextcloud-exporter](https://github.com/xperimental/nextcloud-exporter) - Prometheus Exporter For Nextcloud Servers.
+- [Nextcloud/registration](https://github.com/nextcloud/registration) - User Registration App For Nextcloud
+- [Nextcloud/notifications](https://github.com/nextcloud/notifications) - :Bell: Notifications App For Nextcloud
+- [Nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A Monitoring App Which Creates A Server Info Dashboard For Admins
+- [Louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A Fancy Self-hosted Monitoring Tool
+- [Canop/broot](https://github.com/Canop/broot) - A New Way To See And Navigate Directory Trees : Https://dystroy.org/broot
+- [Muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - A Better 'Df' Alternative
+- [Charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style Definitions For Nice Terminal Layouts 👄
+- [Voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List Any Node_modules 📦 Dir In Your System And How Heavy They Are. You Can Then Select Which Ones You Want To Erase To Free Up Space 🧹
+- [Ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A Smarter Cd Command. Supports All Major Shells.
+- [Withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style Autocomplete For Your Existing Terminal & Shell
+- [Charmbracelet/glow](https://github.com/charmbracelet/glow) - Render Markdown On The CLI, With Pizzazz! 💅🏻
+- [Deinsoftware/swpm](https://github.com/deinsoftware/swpm) - Switch Package Manager
+- [Aromalanil/markItDown](https://github.com/aromalanil/markItDown) - 📱 A React App To Preview And Edit Markdown✍. You Can Also Export It As HTML.
+- [Monizb/vscode-regex-snippets](https://github.com/monizb/vscode-regex-snippets) - Official Repository For Regular Expression Snippets Extension On VSCode
+- [Guastallaigor/vue-horizontal-timeline](https://github.com/guastallaigor/vue-horizontal-timeline) - Just A Simple Horizontal Timeline Component Made With Vue.js (Works With Vue 2 & Vue 3)
+- [FreeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - FreeCodeCamp.org's Open-source Codebase And Curriculum. Learn To Code For Free.
+- [Thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly Available Prometheus Setup With Long Term Storage Capabilities. A CNCF Incubating Project.
+- [Koel/koel](https://github.com/koel/koel) - 🐦 A Personal Music Streaming Server That Works.
+- [SergiX44/XBackBone](https://github.com/SergiX44/XBackBone) - A Lightweight File Manager With Full ShareX Support And More
+- [Grafana/grafana](https://github.com/grafana/grafana) - The Open And Composable Observability And Data Visualization Platform. Visualize Metrics, Logs, And Traces From Multiple Sources Like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres And Many More.
+- [Decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS For Static Site Generators
+- [Marcelscruz/dev-resources](https://github.com/marcelscruz/dev-resources) - A Collaborative List Of Resources For Developers
+- [Vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons) - A Curated List Of Awesome Web Font Icons
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A Self-hostable Personal Dashboard Built For You. Includes Status-checking, Widgets, Themes, Icon Packs, A UI Editor And Tons More!
+- [Jnmcfly/awesome-startpage](https://github.com/jnmcfly/awesome-startpage) - This Is A Carefully Compiled List Of Remarkable Projects With The Focus On Startpages.
+- [Sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - (FREE SITE GENERATOR) - A Customizable/Hackable Portfolio Jekyll Theme Where You Can Blog Using Markdown Or CMS :Rocket: In Minutes Built For Developers. (With CMS)
+- [Sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :Link: Some Useful Websites For Programmers.
+- [Mattwilson1024/google-photos-exif](https://github.com/mattwilson1024/google-photos-exif) - A Tool To Populate Missing `DateTimeOriginal` EXIF Metadata In Google Photos Takeout, Using Google's JSON Metadata.
+- [Shahednasser/awesome-resources](https://github.com/shahednasser/awesome-resources) - :Sunglasses: List Of Helpful Resources Added By The Community For The Community!
+- [Bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A Very Simple Static Homepage For Your Server.
+- [Unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A Collection Of ZSH Frameworks, Plugins, Themes And Tutorials.
+- [Sharkdp/bat](https://github.com/sharkdp/bat) - A Cat(1) Clone With Wings.
+- [Pimcore/pimcore](https://github.com/pimcore/pimcore) - Open Source Data & Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce)
+- [Apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake Is An Open-source Dev Data Platform To Ingest, Analyze, And Visualize The Fragmented Data From DevOps Tools, Extracting Insights For Engineering Excellence, Developer Experience, And Co
+- [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord Chat Logs To A File
+- [Roaldnefs/awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - A Curated List Of Awesome Prometheus Resources, Projects And Tools.
+- [Academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :Memo: An Awesome Data Science Repository To Learn And Apply For Real World Problems.
+- [Muesli/beehive](https://github.com/muesli/beehive) - A Flexible Event/agent & Automation System With Lots Of Bees 🐝
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy Is An Open-source Alternative To Notion. You Are In Charge Of Your Data And Customizations. Built With Flutter And Rust.
+- [Rust-lang/rust](https://github.com/rust-lang/rust) - Empowering Everyone To Build Reliable And Efficient Software.
+- [Tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (Main Repository)
+- [Ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A Delightful Community-driven (With 2,100+ Contributors) Framework For Managing Your Zsh Configuration. Includes 300+ Optional Plugins (Rails, Git, MacOS, Hub, Docker, Homebrew, Node, Php, Python,
+- [Davorg/svg-timeline](https://github.com/davorg/svg-timeline) - Create Timelines With SVG
+- [Visjs/vis-timeline](https://github.com/visjs/vis-timeline) - 📅 Create A Fully Customizable, Interactive Timelines And 2d-graphs With Items And Ranges.
+- [Exceljs/exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
+- [AutomaApp/automa](https://github.com/AutomaApp/automa) - A Browser Extension For Automating Your Browser By Connecting Blocks
+- [Org-roam/org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam Replica With Org-mode
+- [Serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome List Of Open Source Applications For MacOS. Https://t.me/s/opensourcemacosapps
+- [Nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically Decrypt Encryptions Without Knowing The Key Or Cipher, Decode Encodings, And Crack Hashes ⚡
+- [Hslatman/awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) - A Curated List Of Awesome Threat Intelligence Resources
+- [Getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect To Any Data Source, Easily Visualize, Dashboard And Share Your Data.
+- [Ansible/ansible](https://github.com/ansible/ansible) - Ansible Is A Radically Simple IT Automation Platform That Makes Your Applications And Systems Easier To Deploy And Maintain. Automate Everything From Code Deployment To Network Configuration To Cloud

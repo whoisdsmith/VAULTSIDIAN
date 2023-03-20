@@ -9,7 +9,7 @@ Imaginary Creature From Outer Space.
 [[Alternate Universe]]  
 A World Other Than Our Own. Similar To Parallel Universe.
 
-[[Android]]  
+[[../../bookmrks-mthrfckr/project-stars/Android.md]]  
 A Human-Looking Robot
 
 [[Asteroid]]  

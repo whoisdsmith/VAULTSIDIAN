@@ -1,0 +1,54 @@
+# Monitoring
+
+- [Highlight/highlight](https://github.com/highlight/highlight) - Highlight.io: The Open Source, Full-stack Monitoring Platform. Error Monitoring, Session Replay, Logging And More.
+- [Ccfos/nightingale](https://github.com/ccfos/nightingale) - An Enterprise-level Cloud-native Monitoring System, Which Can Be Used As Drop-in Replacement Of Prometheus For Alerting And Grafana For Visualization.
+- [Arl/statsviz](https://github.com/arl/statsviz) - :Rocket: Visualise Go Program Runtime Metrics In Real Time In Your Browser
+- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated Developer-oriented Status Page
+- [Louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A Fancy Self-hosted Monitoring Tool
+- [Deepflowio/deepflow](https://github.com/deepflowio/deepflow) - Application Observability Using EBPF
+- [Timescale/tobs](https://github.com/timescale/tobs) - Tobs - The Observability Stack For Kubernetes. Easy Install Of A Full Observability Stack Into A K8s Cluster With Helm Charts.
+- [Megaease/easeprobe](https://github.com/megaease/easeprobe) - A Simple, Standalone, And Lightweight Tool That Can Do Health/status Checking, Written In Go.
+- [Pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs With Prometheus Manageable, Accessible, And Easy To Use For Everyone!
+- [Uptrace/uptrace](https://github.com/uptrace/uptrace) - Open Source APM: OpenTelemetry Traces, Metrics, And Logs
+- [Kuberhealthy/kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) - A Kubernetes Operator For Running Synthetic Checks As Pods. Works Great With Prometheus!
+- [Pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
+- [Bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army Knife For 802.11, BLE, IPv4 And IPv6 Networks Reconnaissance And MITM Attacks.
+- [Grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug Performance Issues Down To A Single Line Of Code
+- [Parca-dev/parca](https://github.com/parca-dev/parca) - Continuous Profiling For Analysis Of CPU And Memory Usage, Down To The Line Number And Throughout Time. Saving Infrastructure Cost, Improving Performance, And Increasing Reliability.
+- [Huginn/huginn](https://github.com/huginn/huginn) - Create Agents That Monitor And Act On Your Behalf. Your Agents Are Standing By!
+- [Cortexproject/cortex](https://github.com/cortexproject/cortex) - A Horizontally Scalable, Highly Available, Multi-tenant, Long Term Prometheus.
+- [Osquery/osquery](https://github.com/osquery/osquery) - SQL Powered Operating System Instrumentation, Monitoring, And Analytics.
+- [Cilium/cilium](https://github.com/cilium/cilium) - EBPF-based Networking, Security, And Observability
+- [Healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - A Cron Monitoring Tool Written In Python & Django
+- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: Fast, Cost-effective Monitoring Solution And Time Series Database
+- [Taosdata/TDengine](https://github.com/taosdata/TDengine) - TDengine Is An Open Source, High-performance, Cloud Native Time-series Database Optimized For Internet Of Things (IoT), Connected Cars, Industrial IoT And DevOps.
+- [Kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - Add-on Agent To Generate And Expose Cluster-level Metrics.
+- [Google/mtail](https://github.com/google/mtail) - Extract Internal Monitoring Data From Application Logs For Collection In A Timeseries Database
+- [Opencost/opencost](https://github.com/opencost/opencost) - Cross-cloud Cost Allocation Models For Kubernetes Workloads
+- [Influxdata/telegraf](https://github.com/influxdata/telegraf) - The Plugin-driven Server Agent For Collecting & Reporting Metrics.
+- [Nicolargo/glances](https://github.com/nicolargo/glances) - Glances An Eye On Your System. A Top/htop Alternative For GNU/Linux, BSD, Mac OS And Windows Operating Systems.
+- [Thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly Available Prometheus Setup With Long Term Storage Capabilities. A CNCF Incubating Project.
+- [Prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus Monitoring System And Time Series Database.
+- [Giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform Lib For Process And System Monitoring In Python
+- [Netdata/netdata](https://github.com/netdata/netdata) - Real-time Performance Monitoring, Done Right! Https://www.netdata.cloud
+- [Influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable Datastore For Metrics, Events, And Real-time Analytics
+- [Grafana/grafana](https://github.com/grafana/grafana) - The Open And Composable Observability And Data Visualization Platform. Visualize Metrics, Logs, And Traces From Multiple Sources Like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres And Many More.
+- [Getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first Error Tracking And Performance Monitoring
+- [Urlstechie/urlchecker-action](https://github.com/urlstechie/urlchecker-action) - :Octocat: :Link: GitHub Action To Extract And Check Urls In Code And Documentations.
+- [Osquery/osquery](https://github.com/osquery/osquery) - SQL Powered Operating System Instrumentation, Monitoring, And Analytics.
+- [Statping/statping](https://github.com/statping/statping) - Status Page For Monitoring Your Websites And Applications With Beautiful Graphs, Analytics, And Plugins. Run On Any Type Of Environment.
+- [Runsidekick/sidekick](https://github.com/runsidekick/sidekick) - Free And Open-source Live Application Debugger. Like Chrome Dev Tools But For Your Backend
+- [Xperimental/nextcloud-exporter](https://github.com/xperimental/nextcloud-exporter) - Prometheus Exporter For Nextcloud Servers.
+- [Nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A Monitoring App Which Creates A Server Info Dashboard For Admins
+- [Louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A Fancy Self-hosted Monitoring Tool
+- [Axelhahn/pimped-apache-status](https://github.com/axelhahn/pimped-apache-status) - Pimped Apache Status Page; PHP Web Application That Renders Server-status Page And Makes It Readable; Even For Load Balanced Websites
+- [Nicolargo/glances](https://github.com/nicolargo/glances) - Glances An Eye On Your System. A Top/htop Alternative For GNU/Linux, BSD, Mac OS And Windows Operating Systems.
+- [Nodiscc/xsrv](https://github.com/nodiscc/xsrv) - [Mirror] Install And Manage Self-hosted Services/applications, On Your Own Server(s) - Ansible Collection And Utilities
+- [Aksakalli/gtop](https://github.com/aksakalli/gtop) - System Monitoring Dashboard For Terminal
+- [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet Another Cross-platform Graphical Process/system Monitor.
+- [Allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess Is A Real-time Web Log Analyzer And Interactive Viewer That Runs In A Terminal In *Nix Systems Or Through Your Browser.
+- [Tariqbuilds/linux-dash](https://github.com/tariqbuilds/linux-dash) - A Beautiful Web Dashboard For Linux
+- [Thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly Available Prometheus Setup With Long Term Storage Capabilities. A CNCF Incubating Project.
+- [Grafana/grafana](https://github.com/grafana/grafana) - The Open And Composable Observability And Data Visualization Platform. Visualize Metrics, Logs, And Traces From Multiple Sources Like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres And Many More.
+- [Tapwork/HeapInspector-for-iOS](https://github.com/tapwork/HeapInspector-for-iOS) - Find Memory Issues & Leaks In Your IOS App Without Instruments
+- [Huginn/huginn](https://github.com/huginn/huginn) - Create Agents That Monitor And Act On Your Behalf. Your Agents Are Standing By!

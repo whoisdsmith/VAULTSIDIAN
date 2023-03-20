@@ -1,0 +1,32 @@
+# Serverless
+
+- [Anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :Zap: Dynamically Generated Stats For Your Github Readmes
+- [Surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A Scalable, Distributed, Collaborative, Document-graph Database, For The Realtime Web
+- [Neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We Separated Storage And Compute To Offer Autoscaling, Branching, And Bottomless Storage.
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge Is A Lightweight, High-performance, And Extensible WebAssembly Runtime For Cloud Native, Edge, And Decentralized Applications. It Powers Serverless Apps, Embedded Functions, Microservices, Sm
+- [OpenFunction/OpenFunction](https://github.com/OpenFunction/OpenFunction) - Cloud Native Function-as-a-Service Platform (CNCF Sandbox Project)
+- [Datafuselabs/databend](https://github.com/datafuselabs/databend) - A Modern Cloud Data Warehouse Focusing On Reducing Cost And Complexity For Your Massive-scale Analytics Needs. Open Source Alternative To Snowflake. Also Available In The Cloud: Https://app.databend.c
+- [Apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
+- [Kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
+- [Cncf/wg-serverless](https://github.com/cncf/wg-serverless) - CNCF Serverless WG
+- [Serverlessworkflow/specification](https://github.com/serverlessworkflow/specification) - Serverless Workflow Specification
+- [Crossplane/crossplane](https://github.com/crossplane/crossplane) - Cloud Native Control Planes
+- [Cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube—The Semantic Layer For Building Data Applications
+- [Aws/serverless-application-model](https://github.com/aws/serverless-application-model) - The AWS Serverless Application Model (AWS SAM) Transform Is A AWS CloudFormation Macro That Transforms SAM Templates Into CloudFormation Templates.
+- [Dapr/dapr](https://github.com/dapr/dapr) - Dapr Is A Portable, Event-driven, Runtime For Building Distributed Applications Across Cloud And Edge.
+- [Firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure And Fast MicroVMs For Serverless Computing.
+- [Pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Universal Infrastructure As Code. Your Cloud, Your Language, Your Way 🚀
+- [Cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification
+- [Kedacore/keda](https://github.com/kedacore/keda) - KEDA Is A Kubernetes-based Event Driven Autoscaling Component. It Provides Event Driven Scale For Any Container Running In Kubernetes
+- [Aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework For AWS
+- [Knative/serving](https://github.com/knative/serving) - Kubernetes-based, Scale-to-zero, Request-driven Compute
+- [Openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
+- [Pingcap/tidb](https://github.com/pingcap/tidb) - TiDB Is An Open-source, Cloud-native, Distributed, MySQL-Compatible Database For Elastic Scale And Real-time Analytics. Try AI-powered Chat2Query Free At : Https://tidbcloud.com/free-trial
+- [Cncf/landscape](https://github.com/cncf/landscape) - 🌄 The Cloud Native Interactive Landscape Filters And Sorts Hundreds Of Projects And Products, And Shows Details Including GitHub Stars, Funding Or Market Cap, First And Last Commits, Contributor Count
+- [Harish-sethuraman/readme-components](https://github.com/harish-sethuraman/readme-components) - Cards For Your Readme
+- [Vimtaai/gumdrop](https://github.com/vimtaai/gumdrop) - Script To Display Markdown Documents As Static HTML Pages
+- [Runpod/serverless-workers](https://github.com/runpod/serverless-workers) - ⚙️ | Official Set Of Serverless Worker Provided By RunPod As Endpoints.
+- [Kormyen/memex](https://github.com/kormyen/memex) - Simple Bookmarks And Notes
+- [Appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server For Web, Mobile & Flutter Developers 🚀 AKA The 100% Open-source Firebase Alternative.
+- [Anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :Zap: Dynamically Generated Stats For Your Github Readmes
+- [Miserlou/Zappa](https://github.com/Miserlou/Zappa) - Serverless Python

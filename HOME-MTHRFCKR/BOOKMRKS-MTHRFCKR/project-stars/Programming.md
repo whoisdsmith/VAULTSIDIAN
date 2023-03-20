@@ -1,0 +1,25 @@
+# Programming
+
+- [Papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers From The Computer Science Community To Read And Discuss.
+- [Samber/mo](https://github.com/samber/mo) - 🦄 Monads And Popular FP Abstractions, Powered By Go 1.18+ Generics (Option, Result, Either…)
+- [Samber/lo](https://github.com/samber/lo) - 💥 A Lodash-style Go Library Based On Go 1.18+ Generics (Map, Filter, Contains, Find…)
+- [Weartist/computer-book-list](https://github.com/weartist/computer-book-list) - 一个综合了豆瓣，Goodreads综合评分的计算机书籍书单
+- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka Is A Python Compiler Written In Python. It's Fully Compatible With Python 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, And 3.10. You Feed It Your Python App, It Does A Lot Of Clever Things, A
+- [Jevonmao/PermissionsSwiftUI](https://github.com/jevonmao/PermissionsSwiftUI) - A SwiftUI Package To Beautifully Display And Handle Permissions.
+- [Iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim And Vimscript Doesn't Have To Be Hard. This Is The Guide That You're Looking For 📖
+- [Adnanh/webhook](https://github.com/adnanh/webhook) - Webhook Is A Lightweight Incoming Webhook Server To Run Shell Commands
+- [30-seconds/30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python) - Short Python Code Snippets For All Your Development Needs
+- [Binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns Of Scalable, Reliable, And Performant Large-Scale Systems
+- [Leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript Concepts Every Developer Should Know.
+- [Codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master Programming By Recreating Your Favorite Technologies From Scratch.
+- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript Code Snippets For All Your Development Needs
+- [Donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn How To Design Large-scale Systems. Prep For The System Design Interview. Includes Anki Flashcards.
+- [Hlorenzi/musicode](https://github.com/hlorenzi/musicode) - 🎶 Markup Language For Music Creation And Analysis! -- Https://hlorenzi.github.io/musicode/
+- [Theahmadov/slash](https://github.com/theahmadov/slash) - The Slash OSINT Tool
+- [Hl2guide/Awesome-Visual-Studio-Code-Extensions](https://github.com/hl2guide/Awesome-Visual-Studio-Code-Extensions) - A List Of Awesome Visual Studio Code Extensions.
+- [FreeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - FreeCodeCamp.org's Open-source Codebase And Curriculum. Learn To Code For Free.
+- [Marcelscruz/dev-resources](https://github.com/marcelscruz/dev-resources) - A Collaborative List Of Resources For Developers
+- [CodeverDotDev/bookmarks](https://github.com/CodeverDotDev/bookmarks) - :Bookmark: :Star: Collection Of Public Dev Bookmarks, Shared With :Heart: From Www.codever.dev
+- [Codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master Programming By Recreating Your Favorite Technologies From Scratch.
+- [MorganGeek/bookmarks](https://github.com/MorganGeek/bookmarks) - :Bookmark: +5K Awesome Resources For Geeks And Software Crafters :Beer:
+- [Donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A Supercharged Git/GitHub Command Line Interface (CLI). An Official Integration For GitHub And GitHub Enterprise: Https://github.com/works-with/category/desktop-tools

@@ -40,7 +40,7 @@
 - [Privacy](Privacy.md)
 - [Proxy Sites](Proxy%20Sites.md)
 - [Ripping, Transcoding, Converting, Encoding](Ripping,%20Transcoding,%20Converting,%20Encoding.md)
-- [Software](home-mthrfckr/bookmrks-mthrfckr/awesome-piracy/awesome--piracy/Software.md)
+- [Software](Software.md)
 - [Stream Synchronisation](Stream%20Synchronisation.md)
 - [Stremio](Stremio.md)
 - [Telegram Piracy](Telegram%20Piracy.md)

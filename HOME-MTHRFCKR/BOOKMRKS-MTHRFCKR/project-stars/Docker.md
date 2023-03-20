@@ -1,0 +1,90 @@
+# Docker
+
+- [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose Examples Of Selfhosted FOSS And Proprietary Projects.
+- [Usememos/memos](https://github.com/usememos/memos) - An Open-source, Self-hosted Memo Hub With Knowledge Management And Social Networking.
+- [Containrrr/watchtower](https://github.com/containrrr/watchtower) - A Process For Automating Docker Container Base Image Updates.
+- [Jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
+- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated Developer-oriented Status Page
+- [Louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A Fancy Self-hosted Monitoring Tool
+- [Guangzhengli/k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials) - K8s Tutorials | K8s 教程
+- [Sorintlab/stolon](https://github.com/sorintlab/stolon) - PostgreSQL Cloud Native High Availability And More.
+- [Chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source Customer Engagement Suite, An Alternative To Intercom, Zendesk, Salesforce Service Cloud Etc. 🔥💬
+- [Kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API Traffic Analyzer For Kubernetes Providing Real-time K8s Protocol-level Visibility, Capturing And Monitoring All Traffic And Payloads Going In, Out And Across Containers, Pods, Nodes And Cluste
+- [Getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A Beautiful Personal/home Server OS For Self-hosting With An App Store. Install On A Raspberry Pi 4, Any Ubuntu/Debian System, Or A VPS.
+- [Labring/sealos](https://github.com/labring/sealos) - Sealos Is A Kubernetes Distribution, A General-purpose Cloud Operating System Designed For Managing Cloud-native Applications. Demo: Https://cloud.sealos.io
+- [Kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers Is An Open Source Project And Community Working To Build A Standard Implementation Of Lightweight Virtual Machines (VMs) That Feel And Perform Like Containers, But Provide The Workload
+- [Ko-build/ko](https://github.com/ko-build/ko) - Build And Deploy Go Applications
+- [Dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy And Fast File Sharing From The Command-line.
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge Is A Lightweight, High-performance, And Extensible WebAssembly Runtime For Cloud Native, Edge, And Decentralized Applications. It Powers Serverless Apps, Embedded Functions, Microservices, Sm
+- [Orlangure/gnomock](https://github.com/orlangure/gnomock) - Test Your Code Without Writing Mocks With Ephemeral Docker Containers 📦 Setup Popular Services With Just A Couple Lines Of Code ⏱️ No Bash, No Yaml, Only Code 💻
+- [Anchore/syft](https://github.com/anchore/syft) - CLI Tool And Library For Generating A Software Bill Of Materials From Container Images And Filesystems
+- [Sealerio/sealer](https://github.com/sealerio/sealer) - Build, Share And Run Both Your Kubernetes Cluster And Distributed Applications (Project Under CNCF)
+- [Dagger/dagger](https://github.com/dagger/dagger) - A Programmable CI/CD Engine That Runs Your Pipelines In Containers
+- [Mastodon/mastodon](https://github.com/mastodon/mastodon) - Your Self-hosted, Globally Interconnected Microblogging Community
+- [Pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs With Prometheus Manageable, Accessible, And Easy To Use For Everyone!
+- [Abiosoft/colima](https://github.com/abiosoft/colima) - Container Runtimes On MacOS (And Linux) With Minimal Setup
+- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A Simple, Easy-to-use, Elegant Open-source Home Cloud System.
+- [Authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor Portal For Web Apps
+- [Imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast And Secure Standalone Server For Resizing And Converting Remote Images
+- [Erda-project/erda](https://github.com/erda-project/erda) - An Enterprise-grade Cloud-Native Application Platform For Kubernetes.
+- [Tkestack/tke](https://github.com/tkestack/tke) - Native Kubernetes Container Management Platform Supporting Multi-tenant And Multi-cluster
+- [Casdoor/casdoor](https://github.com/casdoor/casdoor) - An Open-source Identity And Access Management (IAM) / Single-Sign-On (SSO) Platform With Web UI Supporting OAuth 2.0, OIDC, SAML And CAS
+- [Apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
+- [Remote-android/redroid-doc](https://github.com/remote-android/redroid-doc) - ReDroid (Remote-Android) Is A Multi-arch, GPU Enabled, Android In Cloud Solution. Track Issues / Docs Here
+- [Microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - NOTE: Most Of The Contents Of This Repository Have Been Migrated To The New Devcontainers GitHub Org (Https://github.com/devcontainers). See Https://github.com/devcontainers/template-starter And Https
+- [Gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest Is A Go Library That Makes It Easier To Write Automated Tests For Your Infrastructure Code.
+- [R-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :Rocket: Open Source REST API For SpaceX Launch, Rocket, Core, Capsule, Starlink, Launchpad, And Landing Pad Data.
+- [Zenika/alpine-chrome](https://github.com/Zenika/alpine-chrome) - Chrome Headless Docker Images Built Upon Alpine Official Image
+- [Sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run MacOS VM In A Docker! Run Near Native OSX-KVM In Docker! X11 Forwarding! CI/CD For OS X Security Research! Docker Mac Containers.
+- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑 Language Focused Docker Images, Minus The Operating System.
+- [Google/go-containerregistry](https://github.com/google/go-containerregistry) - Go Library And CLIs For Working With Container Registries
+- [Containerd/containerd](https://github.com/containerd/containerd) - An Open And Reliable Container Runtime
+- [Argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment For Kubernetes.
+- [Drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully Featured And Highly Configurable SFTP Server With Optional HTTP/S, FTP/S And WebDAV Support - S3, Google Cloud Storage, Azure Blob
+- [Dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - Build NodeJS / GO APIs In 5 Minutes Not Weeks
+- [K3d-io/k3d](https://github.com/k3d-io/k3d) - Little Helper To Run CNCF's K3s In Docker
+- [Aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find Vulnerabilities, Misconfigurations, Secrets, SBOM In Containers, Kubernetes, Code Repositories, Clouds And More
+- [Containers/podman](https://github.com/containers/podman) - Podman: A Tool For Managing OCI Containers And Pods.
+- [Browserless/chrome](https://github.com/browserless/chrome) - The Browserless Chrome Service In Docker. Run On Our Cloud, Or Bring Your Own.
+- [Goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go Binaries As Fast And Easily As Possible
+- [Ksync/ksync](https://github.com/ksync/ksync) - Sync Files Between Your Local System And A Kubernetes Cluster.
+- [Opencontainers/runc](https://github.com/opencontainers/runc) - CLI Tool For Spawning And Running Containers According To The OCI Specification
+- [Traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
+- [Dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's Update PR Creation Logic. Feedback: Https://github.com/orgs/community/discussions/categories/code-security
+- [Rancher/rancher](https://github.com/rancher/rancher) - Complete Container Management Platform
+- [Kubeedge/kubeedge](https://github.com/kubeedge/kubeedge) - Kubernetes Native Edge Computing Framework (Project Under CNCF)
+- [Kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - Local Clusters For Testing Kubernetes
+- [Yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn And Understand Docker&Container Technologies, With Real DevOps Practice!
+- [Wagoodman/dive](https://github.com/wagoodman/dive) - A Tool For Exploring Each Layer In A Docker Image
+- [Abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS Interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" Framework • 🌐 "Web Server" Framework • ➵ ➶
+- [Goharbor/harbor](https://github.com/goharbor/harbor) - An Open Source Trusted Cloud Native Registry Project That Stores, Signs, And Scans Content.
+- [Elasticsearch-dump/elasticsearch-dump](https://github.com/elasticsearch-dump/elasticsearch-dump) - Import And Export Tools For Elasticsearch
+- [Ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect And OAuth Provider Written In Go - Cloud Native, Security-first, Open Source API Security For Your Infrastructure. SDKs For Any Language. Works With Hardware Security
+- [Openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
+- [Telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local Development Against A Remote Kubernetes Or OpenShift Cluster
+- [Google/gvisor](https://github.com/google/gvisor) - Application Kernel For Containers
+- [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
+- [Rook/rook](https://github.com/rook/rook) - Storage Orchestration For Kubernetes
+- [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy And Repeatable Kubernetes Development
+- [Netdata/netdata](https://github.com/netdata/netdata) - Real-time Performance Monitoring, Done Right!
+- [Neomatrix369/awesome-ai-ml-dl](https://github.com/neomatrix369/awesome-ai-ml-dl) - Awesome Artificial Intelligence, Machine Learning And Deep Learning As We Learn It. Study Notes And A Curated List Of Awesome Resources Of Such Topics.
+- [Mediocreatmybest/gaslightingeveryone](https://github.com/mediocreatmybest/gaslightingeveryone) - Let's Gaslight Everything; Containers, ML, Scripts, And Everyone! #AUSPOL Can Wait.
+- [Kruemmelspalter/FileSpider](https://github.com/Kruemmelspalter/FileSpider) - FileSpider Is A Software For Organizing And Editing Documents Consisting Of A Main File And Optionally Different Assets Like Images.
+- [Cloud-CV/EvalAI](https://github.com/Cloud-CV/EvalAI) - :Cloud: :Rocket: :Bar_chart: :Chart_with_upwards_trend: Evaluating State Of The Art In AI
+- [Runpod/serverless-workers](https://github.com/runpod/serverless-workers) - ⚙️ | Official Set Of Serverless Worker Provided By RunPod As Endpoints.
+- [Outline/outline](https://github.com/outline/outline) - The Fastest Knowledge Base For Growing Teams. Beautiful, Realtime Collaborative, Feature Packed, And Markdown Compatible.
+- [Bitsofinfo/comms-analyzer-toolbox](https://github.com/bitsofinfo/comms-analyzer-toolbox) - Tool For OSINT Forensic Analysis, Search And Graphing Of Communications Content Such As Email MBOX Files And CSV Text Message Data Using Elasticsearch And Kibana
+- [Linbreux/wikmd](https://github.com/Linbreux/wikmd) - A File Based Wiki That Uses Markdown
+- [Dubs3c/Bookie](https://github.com/dubs3c/Bookie) - Save All Your Bookmarks!
+- [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer Helps You Get Started With Running Apps In Docker.
+- [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker Setup For Stable Diffusion With User-friendly UI
+- [Statping/statping](https://github.com/statping/statping) - Status Page For Monitoring Your Websites And Applications With Beautiful Graphs, Analytics, And Plugins. Run On Any Type Of Environment.
+- [Appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server For Web, Mobile & Flutter Developers 🚀 AKA The 100% Open-source Firebase Alternative.
+- [Mashb1t/spotisights](https://github.com/mashb1t/spotisights) - Statistic Dashboards For Spotify
+- [Thijstakken/MusicService](https://github.com/thijstakken/MusicService) - A Tool That Synchronizes Your YouTube Playlists And Other Music Providers With Your Cloud Storage Like Nextcloud As MP3s.
+- [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development To Production All Configurations With Basic Notes To Debug Efficiently.
+- [Louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A Fancy Self-hosted Monitoring Tool
+- [Lorey/obsi](https://github.com/lorey/obsi) - 💎 Supercharge Your Note-taking With Index Pages, Anki Decks, Calendar Pages, And More.
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A Self-hostable Personal Dashboard Built For You. Includes Status-checking, Widgets, Themes, Icon Packs, A UI Editor And Tons More!
+- [Theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server With CI/CD And Kanban
+- [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome Cheatsheets For Popular Programming Languages, Frameworks And Development Tools. They Include Everything You Should Know In One Single File.

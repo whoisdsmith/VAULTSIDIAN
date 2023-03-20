@@ -1,7 +1,7 @@
 - [Newsfeed](newsfeed.md)
 - [Downloads]
 	- [Models](models.md)
-	- [Dreambooth](db.md)
+	- [Dreambooth](../../../documentation/terminal/cmds/db.md)
 	- [Embeddings](embed.md)
 	- [Hypernetworks](hn.md)
 	- [Aesthetic Gradients](ag.md)
@@ -12,7 +12,7 @@
 	- [Datasets](dataset.md)
 - [FAQ](faq.md)
 - [Link Dump](ld.md)
-- [Miscellaneous](misc.md)
+- [Miscellaneous](../../../notes/misc/misc.md)
 - [SDupdates 1](sdupdates_backup.md)
 - [SDupdates 2](sdupdates_2_backup.md)
-- [Embeddings](embeddings.md)
+- [Embeddings](../Embeddings.md)

@@ -69,7 +69,7 @@ Opaqueness to radiant heat. A theoretical black body is completely athermant, i.
 
 The gaseous layer above the surface of a celestial body. Earth’s atmosphere ceases to show significant resistance above about 500 miles. There is no sudden stop. The thinness gradually increases until no atoms are detectable in any reasonable sample. The pressure exerted by these miles of air at sea level is about 14.7 lbs. per sq. inch.
 
-## [[Atom]]
+## [[../../bookmrks-mthrfckr/project-stars/Atom.md]]
 
 The smallest unit of matter that will take part in chemical reactions. Consists of a positively charged nucleus composed of protons and neutrons, and a variable number of orbital rings of electrons. It is the number of these electrons that determines the chemical properties of the atom.
 
@@ -345,7 +345,7 @@ The chemical splitting of a medium into components by the passage of an electric
 
 Waves that do not require a medium for their passage, and which travel at the speed of light (which is one form of electromagnetic wave; other forms are infrared, ultraviolet, x-rays, wireless waves, gamma rays, etc.).
 
-## [[Electron]]
+## [[../../bookmrks-mthrfckr/project-stars/Electron.md]]
 
 A subatomic particle of negative charge, with a mass of 9.107X10-28 and a charge of 4.803X10-10 electrostatic units. Electrons form spheres of negative charge surrounding the positively charged atomic nucleus.
 

@@ -3,7 +3,7 @@
 [Resources](Awesome/MILANS%20ULTIMATE%20RESOURCE%20LIST/Resources.md)
 [HTML](Awesome/MILANS%20ULTIMATE%20RESOURCE%20LIST/HTML.md)
 [CSS](Awesome/MILANS%20ULTIMATE%20RESOURCE%20LIST/CSS.md)
-[JS](JS.md)
+[Javascript](../../bookmrks-mthrfckr/project-stars/Javascript.md)
 [React](Awesome/MILANS%20ULTIMATE%20RESOURCE%20LIST/React.md)
 [Python](Awesome/MILANS%20ULTIMATE%20RESOURCE%20LIST/Python.md)
 [Flexbox](Flexbox.md)
@@ -41,7 +41,7 @@ The book: [https://www.thesprintbook.com/](https://www.google.com/url?q=https://
 [How to conduct a Design Sprint — Good Design](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://medium.com/good-design/how-to-conduct-a-design-sprint-825b798a631b%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228546274%26amp;usg%3DAOvVaw1MNCnGyJR3NEwi8zUBOWDn&sa=D&source=docs&ust=1645230228994234&usg=AOvVaw1Wk7MlKEJf2EGdhU9Py8k-)
 [Design Sprint Resources & Planning Tools + Blog](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://voltagecontrol.com/blog/design-sprint-resources-planning-tools/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228547016%26amp;usg%3DAOvVaw0eC_70kWJSOf67nFWRj41K&sa=D&source=docs&ust=1645230228994342&usg=AOvVaw01wmiKtY5T3CT_nR0rwrgK)
 📊 Marketing
-[Analytics](Analytics.md)
+[Analytics](../../bookmrks-mthrfckr/project-stars/Analytics.md)
 [Email](../../documentation/make/email.md)
 [Copy](../../documentation/automation/pipedream/docs/docs/workflows/copy/copy.md)
 
@@ -57,7 +57,7 @@ The book: [https://www.thesprintbook.com/](https://www.google.com/url?q=https://
 [Design Systems](Design%20Systems.md)
 [Process  Case Studies](Process%20%20Case%20Studies.md)
 [Figma](Figma.md)
-[Sketch](Sketch.md)
+[Sketch](../../bookmrks-mthrfckr/project-stars/Sketch.md)
 [Mega Resources](Mega%20Resources.md)
 [Newsletters  Blogs](Newsletters%20%20Blogs.md)
 [Decks  Presentation](Decks%20%20Presentation.md)

@@ -5,7 +5,7 @@
 %% Begin Waypoint %%
 
 - **[help-docs](../../../../..//HOME-MTHRFCKR/DEV-DOCS/raindrop-io/help-docs/help-docs.md)**
-  - [about](home-mthrfckr/documentation/raindrop-io/help-docs/about.md)
+  - [about](about.md)
   - [account-basics](account-basics.md)
   - [account-settings](account-settings.md)
   - [api](home-mthrfckr/dev-docs/raindrop-io/help-docs/api.md)

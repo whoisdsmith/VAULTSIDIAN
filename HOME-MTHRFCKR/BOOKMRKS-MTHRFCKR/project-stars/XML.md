@@ -1,0 +1,25 @@
+# XML
+
+- [Balavenkatesh3322/audio-pretrained-model](https://github.com/balavenkatesh3322/audio-pretrained-model) - A Collection Of Audio And Speech Pre-trained Models.
+- [BurliEnterprises/tensorflow-music-generator](https://github.com/burliEnterprises/tensorflow-music-generator) - Generates Music (Midi Files) Using A Tensorflow RNN
+- [Dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A List Of Command Line Tools For Manipulating Structured Text Data
+- [Deezer/spleeter](https://github.com/deezer/spleeter) - Deezer Source Separation Library Including Pretrained Models.
+- [Donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data Science Python Notebooks: Deep Learning (TensorFlow, Theano, Caffe, Keras), Scikit-learn, Kaggle, Big Data (Spark, Hadoop MapReduce, HDFS), Matplotlib, Pandas, NumPy, SciPy, Python Essentials, AW
+- [Dreftymac/awesome-yaml](https://github.com/dreftymac/awesome-yaml) - YAML Awesomeness
+- [Hulk66/timeline](https://github.com/hulk66/timeline) - Timeline - A Photo Organizer
+- [Jaketrent/dayone-plist-to-markdown](https://github.com/jaketrent/dayone-plist-to-markdown) - Convert Dayone .Doentry To Markdown Files
+- [JohnSundell/Plot](https://github.com/JohnSundell/Plot) - A DSL For Writing Type-safe HTML, XML And RSS In Swift.
+- [Jonathandinu/ai4artists](https://github.com/jonathandinu/ai4artists) - A List Of AI Art Courses, Tools, Libraries, People, And Places.
+- [Kacos2000/Win10](https://github.com/kacos2000/Win10) - Win 10 Related Research
+- [Lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer For Neural Network, Deep Learning, And Machine Learning Models
+- [Luuil/Tensorflow-Audio-Classification](https://github.com/luuil/Tensorflow-Audio-Classification) - Audio Classification With VGGish As Feature Extractor In TensorFlow
+- [Marcogdepinto/emotion-classification-from-audio-files](https://github.com/marcogdepinto/emotion-classification-from-audio-files) - Understanding Emotions From Audio Files Using Neural Networks And Multiple Datasets.
+- [Marl/crepe](https://github.com/marl/crepe) - CREPE: A Convolutional REpresentation For Pitch Estimation -- Pre-trained Model (ICASSP 2018)
+- [Mikefarah/yq](https://github.com/mikefarah/yq) - Yq Is A Portable Command-line YAML, JSON, XML, CSV And Properties Processor
+- [Qax-os/excelize](https://github.com/qax-os/excelize) - Go Language Library For Reading And Writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) Spreadsheets
+- [Salu133445/musegan](https://github.com/salu133445/musegan) - An AI For Music Generation
+- [Scrapy/parsel](https://github.com/scrapy/parsel) - Parsel Lets You Extract Data From XML/HTML Documents Using XPath Or CSS Selectors
+- [Spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python Library For Working With Audio.
+- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, Put And Delete Data From JSON, TOML, YAML, XML And CSV Files With A Single Tool. Supports Conversion Between Formats And Can Be Used As A Go Package.
+- [Wader/fq](https://github.com/wader/fq) - Jq For Binary Formats - Tool, Language And Decoders For Working With Binary And Text Formats
+- [YixuanLi/densenet-tensorflow](https://github.com/YixuanLi/densenet-tensorflow) - DenseNet Implementation In Tensorflow

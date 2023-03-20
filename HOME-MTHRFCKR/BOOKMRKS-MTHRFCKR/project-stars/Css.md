@@ -1,0 +1,40 @@
+# Css
+
+- [Vercel/satori](https://github.com/vercel/satori) - Enlightened Library To Convert HTML And CSS To SVG
+- [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The Iconic SVG, Font, And CSS Toolkit
+- [Scrapy/parsel](https://github.com/scrapy/parsel) - Parsel Lets You Extract Data From XML/HTML Documents Using XPath Or CSS Selectors
+- [Microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started As A Web Developer
+- [Mdn/content](https://github.com/mdn/content) - The Content Behind MDN Web Docs
+- [Tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A Utility-first CSS Framework For Rapid UI Development.
+- [Elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
+- [Doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
+- [Thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The Perfect Front-End Checklist For Modern Websites And Meticulous Developers
+- [Tronic247/terminai](https://github.com/Tronic247/terminai) - Generate Cli Commands With Natural Language
+- [Ixth/obsidian-stylist](https://github.com/ixth/obsidian-stylist) - Obsidian Plugin That Allows To Add Classes And Styles On Markdown Blocks
+- [Doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
+- [Soham-Chakraborty-8455/Banner-Generator-](https://github.com/Soham-Chakraborty-8455/Banner-Generator-) - An Automatic Banner Generator Website
+- [Chetachiezikeuzor/Obsidian-Snippets](https://github.com/chetachiezikeuzor/Obsidian-Snippets) - A Repo Full Of My Snippets For Obsidian.md. Use Them To Customize Your Workspace And/or Add To A Theme! 🪄
+- [Efemkay/obsidian-modular-css-layout](https://github.com/efemkay/obsidian-modular-css-layout) - CSS Layout Hack For Obsidian.md
+- [Bwc9876/menagerie](https://github.com/Bwc9876/menagerie) - A Static Site Generator Made For MarkDown, HTML, JsonSchema, XMLSchema, And More
+- [Vijayyprajapati/Share-Your-Bookmarks](https://github.com/vijayyprajapati/Share-Your-Bookmarks) - A Platform Where Anyone Can Make Their Profile, Share Their Twitter And LinkedIn Bookmarks, See Other Shared Bookmarks, And Contribute To The Community. This Repository Is Participating In Hacktoberfe
+- [Jstrieb/urlpages](https://github.com/jstrieb/urlpages) - Create And View Web Pages Stored Entirely In The URL
+- [ZizhengYang/Collection-Obsidian-Templates-Snippets](https://github.com/ZizhengYang/Collection-Obsidian-Templates-Snippets) - This Is A Document Collecting Or Different `Obsidian` Snippets, How To Write, How To Use And How To Expand
+- [Salahineo/bookmarks-manager](https://github.com/salahineo/bookmarks-manager) - Bookmarks Manager For Your Links
+- [Jglovier/resume-template](https://github.com/jglovier/resume-template) - :Page_facing_up::briefcase::tophat: A Simple Jekyll + GitHub Pages Powered Resume Template.
+- [Sleepyqadir/TechFolio](https://github.com/sleepyqadir/TechFolio) - An Open Sourced Creative Portfolio For Developer And Tech Geeks 😀
+- [0xAliRaza/0xfolio](https://github.com/0xAliRaza/0xfolio) - A Free HTML Portfolio Template For Developers.
+- [Codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - VCard Is A Fully Responsive Personal Portfolio Website, Responsive For All Devices.
+- [Ishandeveloper/Portfolio](https://github.com/ishandeveloper/Portfolio) - A Fully Responsive Progressive Web App That I'm Currently Working On Which Will Contain An About Section, Showcase, Contact Etc.
+- [Elipapa/markdown-cv](https://github.com/elipapa/markdown-cv) - A Simple Template To Write Your CV In A Readable Markdown File And Use CSS To Publish/print It.
+- [Garimasingh128/gitsetgo](https://github.com/garimasingh128/gitsetgo) - A Github Resume Generator 👨‍💻👩‍ To Create Your Own Personalised Resume Based On Your Github Profile. 🔎 This Tool Lets You Have Your Resume On A Single Click.
+- [Sadanandpai/resume-builder](https://github.com/sadanandpai/resume-builder) - Build A Standard And Professional Single Page Resume
+- [Khalby786/REHeader](https://github.com/khalby786/REHeader) - Generate Beautiful Header Images For Your GitHub Profile READMEs.
+- [Dan-smith-tech/shelf](https://github.com/dan-smith-tech/shelf) - A Fully Customisable, Open-source Browser Startpage.
+- [Lisandra-dev/Obsidian-Snippet-collection](https://github.com/Lisandra-dev/Obsidian-Snippet-collection) - A Collection Of Snippet To Customize Obsidian
+- [Chetachiezikeuzor/MySnippets-Plugin](https://github.com/chetachiezikeuzor/MySnippets-Plugin) - MySnippets Is A Plugin That Adds A Status Bar Menu Allowing The User To Quickly Manage Their Snippets Within The Comfort Of Their Workspace 🖌.
+- [Prettier/prettier](https://github.com/prettier/prettier) - Prettier Is An Opinionated Code Formatter.
+- [Tabler/tabler](https://github.com/tabler/tabler) - Tabler Is Free And Open-source HTML Dashboard UI Kit Built On Bootstrap
+- [X0RBYT3/PIG-Tools](https://github.com/X0RBYT3/PIG-Tools) - An Online Collection Of Open Source Intelligence Tools
+- [Birdie0/userstyles](https://github.com/Birdie0/userstyles) - Small Collection Of "Css Patches"
+- [Syahravi/syahravi-timeline](https://github.com/syahravi/syahravi-timeline) - Syahravi Timeline - A Timeline Of Important Events In My Life.
+- [Soujava/historia](https://github.com/soujava/historia) - História Do SouJava

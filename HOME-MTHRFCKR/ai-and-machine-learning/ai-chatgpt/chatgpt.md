@@ -16,7 +16,7 @@
 	- [chatgpt-thread-12-23-2022-05-41-47](raindrop-prompts/chatgpt-thread-12-23-2022-05-41-47.md)
 	- [chatgpt-universe](chatgpt-universe.md)
 	- [chatgpt](../../../..//home-mthrfckr/ai-and-machine-learning/ai-c[chemistry](chemistry.md)atgpt3.[chemistry](chemistry.md)istry[deca-durabolin](deca-durabolin.md))
-		-[ketamine](ketamine.md)durabolin.md)
+		-[ketamine](chemistry/ketamine.md)durabolin.md)
 		- [ketamine](chemistry/ketamine.md)
 		- [lsd](home-mthrfckr/ai/ai-chatgpt/chemistry/lsd.md)
 	- [prompt](prompt.md)

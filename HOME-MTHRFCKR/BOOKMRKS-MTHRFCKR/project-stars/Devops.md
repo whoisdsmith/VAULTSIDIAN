@@ -1,0 +1,47 @@
+# Devops
+
+- [Containrrr/watchtower](https://github.com/containrrr/watchtower) - A Process For Automating Docker Container Base Image Updates.
+- [Alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Kubernetes
+- [Bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent Cloud Misconfigurations And Find Vulnerabilities During Build-time In Infrastructure As Code, Container Images And Open Source Packages With Checkov By Bridgecrew.
+- [Txn2/kubefwd](https://github.com/txn2/kubefwd) - Bulk Port Forwarding Kubernetes Services For Local Development.
+- [Tenable/terrascan](https://github.com/tenable/terrascan) - Detect Compliance And Security Violations Across Infrastructure As Code To Mitigate Risk Before Provisioning Cloud Native Infrastructure.
+- [Turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL To Instantly Query Your Cloud Services (AWS, Azure, GCP And More). Open Source CLI. No DB Required.
+- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated Developer-oriented Status Page
+- [Nektos/act](https://github.com/nektos/act) - Run Your GitHub Actions Locally 🚀
+- [Devstream-io/devstream](https://github.com/devstream-io/devstream) - DevStream: The Open-source DevOps Toolchain Manager (DTM).
+- [Kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API Traffic Analyzer For Kubernetes Providing Real-time K8s Protocol-level Visibility, Capturing And Monitoring All Traffic And Payloads Going In, Out And Across Containers, Pods, Nodes And Cluste
+- [Httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie For Terminal—Modern, User-friendly Command-line HTTP Client For The API Era. JSON Support, Colors, Sessions, Downloads, Plugins & More.
+- [Dagger/dagger](https://github.com/dagger/dagger) - A Programmable CI/CD Engine That Runs Your Pipelines In Containers
+- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I Am Using This Repository To Document My Journey Learning About DevOps. I Began This Process On January 1, 2022, And Plan To Continue Until March 31. I Will Be Dedicating One Hour Each Day, Including
+- [Infracost/infracost](https://github.com/infracost/infracost) - Cloud Cost Estimates For Terraform In Pull Requests💰📉 Love Your Cloud Bill!
+- [Bytebase/bytebase](https://github.com/bytebase/bytebase) - Database CI/CD For DevOps Teams. Https://www.bytebase.com
+- [Kubesphere/ks-devops](https://github.com/kubesphere/ks-devops) - This Is A Cloud-native Application That Focuses On The DevOps Area.
+- [Datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes Misconfigurations From Reaching Production (Again 😤 )! From Code To Cloud, Datree Provides An E2E Policy Enforcement Solution To Run Automatic Checks For Rule Violations. See Our Do
+- [Kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape Is An Open-source Kubernetes Security Platform For Your IDE, CI/CD Pipelines, And Clusters. It Includes Risk Analysis, Security, Compliance, And Misconfiguration Scanning, Saving Kubernetes
+- [Erda-project/erda](https://github.com/erda-project/erda) - An Enterprise-grade Cloud-Native Application Platform For Kubernetes.
+- [Apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
+- [Grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug Performance Issues Down To A Single Line Of Code
+- [Gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest Is A Go Library That Makes It Easier To Write Automated Tests For Your Infrastructure Code.
+- [Aws/copilot-cli](https://github.com/aws/copilot-cli) - The AWS Copilot CLI Is A Tool For Developers To Build, Release And Operate Production Ready Containerized Applications On AWS App Runner Or Amazon ECS On AWS Fargate.
+- [Go-gitea/gitea](https://github.com/go-gitea/gitea) - Git With A Cup Of Tea, Painless Self-hosted Git Service
+- [Argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment For Kubernetes.
+- [Lensapp/lens](https://github.com/lensapp/lens) - Lens - The Way The World Runs Kubernetes
+- [Adnanh/webhook](https://github.com/adnanh/webhook) - Webhook Is A Lightweight Incoming Webhook Server To Run Shell Commands
+- [Runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
+- [Healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - A Cron Monitoring Tool Written In Python & Django
+- [Rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A Curated List For Awesome Cloud Native Tools, Software And Tutorials. - Https://jimmysong.io/awesome-cloud-native/
+- [Kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The Container Platform Tailored For Kubernetes Multi-cloud, Datacenter, And Edge Management ⎈ 🖥 ☁️
+- [Binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns Of Scalable, Reliable, And Performant Large-Scale Systems
+- [Yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn And Understand Docker&Container Technologies, With Real DevOps Practice!
+- [Buger/goreplay](https://github.com/buger/goreplay) - GoReplay Is An Open-source Tool For Capturing And Replaying Live HTTP Traffic Into A Test Environment In Order To Continuously Test Your System With Real Data. It Can Be Used To Increase Confidence In
+- [Netdata/netdata](https://github.com/netdata/netdata) - Real-time Performance Monitoring, Done Right! Https://www.netdata.cloud
+- [Getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first Error Tracking And Performance Monitoring
+- [Visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A Curated List Of References For MLOps
+- [Wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) - A Curated List Of Awesome DevOps Platforms, Tools, Practices And Resources
+- [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development To Production All Configurations With Basic Notes To Debug Efficiently.
+- [Moul/awesome-ssh](https://github.com/moul/awesome-ssh) - :Computer: A Curated List Of SSH Resources.
+- [Theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server With CI/CD And Kanban
+- [Apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake Is An Open-source Dev Data Platform To Ingest, Analyze, And Visualize The Fragmented Data From DevOps Tools, Extracting Insights For Engineering Excellence, Developer Experience, And Co
+- [Trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A Collection Of Inspiring Lists, Manuals, Cheatsheets, Blogs, Hacks, One-liners, Cli/web Tools And More.
+- [MorganGeek/bookmarks](https://github.com/MorganGeek/bookmarks) - :Bookmark: +5K Awesome Resources For Geeks And Software Crafters :Beer:
+- [Mlcommons/ck](https://github.com/mlcommons/ck) - This Cross-platform Tool Helps To Make Software Projects More Portable, Modular, Reusable And Reproducible Across Continuously Changing Software, Hardware And Data. It Is Being Developed By The Open

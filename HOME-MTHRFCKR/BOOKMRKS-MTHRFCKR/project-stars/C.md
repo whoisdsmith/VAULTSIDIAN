@@ -1,0 +1,23 @@
+# C
+
+- [Extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend Anything With WebAssembly.
+- [Xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：Https://xiaolincoding.com
+- [Hashcat/hashcat](https://github.com/hashcat/hashcat) - World's Fastest And Most Advanced Password Recovery Utility
+- [Obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free And Open Source Software For Live Streaming And Screen Recording
+- [Ossrs/srs](https://github.com/ossrs/srs) - SRS Is A Simple, High Efficiency And Realtime Video Server, Supports RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH And GB28181.
+- [Zpoint/CPython-Internals](https://github.com/zpoint/CPython-Internals) - Dive Into CPython Internals, Trying To Illustrate Every Detail Of CPython Implementation
+- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display And Control Your Android Device
+- [Oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :Rocket:
+- [Lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - Xdb) Is A Offline IP Address Manager Framework And Locator, Support Billions Of Data Segments, Ten Microsecond Searching Performance. Xdb Engine Implementation For Many Programming La
+- [Serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome List Of Open Source Applications For MacOS. Https://t.me/s/opensourcemacosapps
+- [Python-pillow/Pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library (Fork)
+- [BillyDM/Awesome-Audio-DSP](https://github.com/BillyDM/Awesome-Audio-DSP) - My Curated List Of Audio DSP And Plugin Development Resources
+- [Curl/curl](https://github.com/curl/curl) - A Command Line Tool And Library For Transferring Data With URL Syntax, Supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
+- [Libimobiledevice/libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A Cross-platform Protocol Library To Communicate With IOS Devices
+- [Jiacai2050/oh-my-github](https://github.com/jiacai2050/oh-my-github) - Oh My GitHub Is A Delightful, Open Source Tool For Managing Your GitHub Repositories
+- [Allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess Is A Real-time Web Log Analyzer And Interactive Viewer That Runs In A Terminal In *Nix Systems Or Through Your Browser.
+- [Vim/vim](https://github.com/vim/vim) - The Official Vim Repository
+- [Joncardasis/To-The-Apples-Core](https://github.com/joncardasis/To-The-Apples-Core) - ⚙️ A Collection Of Non-jailbroken Code Snippets On Reverse-engineered IOS Private Apis
+- [Neovim/neovim](https://github.com/neovim/neovim) - Vim-fork Focused On Extensibility And Usability
+- [Serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome List Of Open Source Applications For MacOS. Https://t.me/s/opensourcemacosapps
+- [Libimobiledevice/ifuse](https://github.com/libimobiledevice/ifuse) - A Fuse Filesystem To Access The Contents Of IOS Devices

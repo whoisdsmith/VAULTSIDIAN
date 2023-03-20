@@ -1,0 +1,31 @@
+# Analytics
+
+- [Academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :Memo: An Awesome Data Science Repository To Learn And Apply For Real World Problems.
+- [Allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess Is A Real-time Web Log Analyzer And Interactive Viewer That Runs In A Terminal In *Nix Systems Or Through Your Browser.
+- [Apache/superset](https://github.com/apache/superset) - Apache Superset Is A Data Visualization And Data Exploration Platform
+- [Apricote/Listory](https://github.com/apricote/Listory) - Track Your Spotify Listens
+- [Bitsofinfo/comms-analyzer-toolbox](https://github.com/bitsofinfo/comms-analyzer-toolbox) - Tool For OSINT Forensic Analysis, Search And Graphing Of Communications Content Such As Email MBOX Files And CSV Text Message Data Using Elasticsearch And Kibana
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® Is A Free Analytics DBMS For Big Data
+- [Clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A Lightweight Log Analytic And Data Visualize Platform Built On Clickhouse.
+- [Cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube—The Semantic Layer For Building Data Applications
+- [Dagster-io/dagster](https://github.com/dagster-io/dagster) - An Orchestration Platform For The Development, Production, And Observation Of Data Assets.
+- [Delta-io/delta](https://github.com/delta-io/delta) - An Open-source Storage Framework That Enables Building A Lakehouse Architecture With Compute Engines Including Spark, PrestoDB, Flink, Trino, And Hive And APIs
+- [Duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB Is An In-process SQL OLAP Database Management System
+- [Getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect To Any Data Source, Easily Visualize, Dashboard And Share Your Data.
+- [Grafana/grafana](https://github.com/grafana/grafana) - The Open And Composable Observability And Data Visualization Platform. Visualize Metrics, Logs, And Traces From Multiple Sources Like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres And Many More.
+- [Grafana/grafana](https://github.com/grafana/grafana) - The Open And Composable Observability And Data Visualization Platform. Visualize Metrics, Logs, And Traces From Multiple Sources Like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres And Many More.
+- [Hamilton/microfiche](https://github.com/hamilton/microfiche) - ALPHA ~ A Web Extension Framework For Collecting Rich, Customized Browsing History Datasets.
+- [Matthewgrosman/messenger-analytics](https://github.com/matthewgrosman/messenger-analytics) - Project That Ingests Facebook Messenger Conversations And Generates Analytics.
+- [Modin-project/modin](https://github.com/modin-project/modin) - Modin: Scale Your Pandas Workflows By Changing A Single Line Of Code
+- [Netdata/netdata](https://github.com/netdata/netdata) - Real-time Performance Monitoring, Done Right! Https://www.netdata.cloud
+- [Opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open Source Distributed And RESTful Search Engine.
+- [Opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open Source Distributed And RESTful Search Engine.
+- [Pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Open Source Software Insights - Analysis, Comparison, Trends, Rankings Of Open Source Software, You Can Also Get Insight From More Than 5 Billion With Natural Language (Powered By OpenAI). Follow Us O
+- [Plausible/analytics](https://github.com/plausible/analytics) - Simple, Open-source, Lightweight (&Lt; 1 KB) And Privacy-friendly Web Analytics Alternative To Google Analytics.
+- [Qax-os/excelize](https://github.com/qax-os/excelize) - Go Language Library For Reading And Writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) Spreadsheets
+- [Simonwongwong/Facebook-Messenger-Statistics](https://github.com/simonwongwong/Facebook-Messenger-Statistics) - Discover Fun Stats About Your Facebook Messenger Usage Such As: Most Used Words, Most Active Year, Most Active Hours, Etc. Using This Jupyter Notebook
+- [Spiderpig86/spottr](https://github.com/Spiderpig86/spottr) - :Cactus: Your Spotify Stats All In One Place.
+- [Timescale/timescaledb](https://github.com/timescale/timescaledb) - An Open-source Time-series SQL Database Optimized For Fast Ingest And Complex Queries. Packaged As A PostgreSQL Extension.
+- [Trinodb/trino](https://github.com/trinodb/trino) - Official Repository Of Trino, The Distributed SQL Query Engine For Big Data, Formerly Known As PrestoSQL (Https://trino.io)
+- [Umami-software/umami](https://github.com/umami-software/umami) - Umami Is A Simple, Fast, Privacy-focused Alternative To Google Analytics.
+- [Vijayvardhan94/Personal-Analytics-Resources](https://github.com/vijayvardhan94/Personal-Analytics-Resources) - List Of Categorized Resources In The Field Of Personal Analytics. Simply Put, Personal Analytics Is An Extension Of Quantified Self That Includes Tracking And Analyzing More Parameters Compared To Jus

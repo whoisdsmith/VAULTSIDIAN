@@ -1,0 +1,1540 @@
+# Others
+
+- [Lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let Us Control Diffusion Models!
+- [Microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official Repo For The Paper: Visual ChatGPT: Talking, Drawing And Editing With Visual Foundation Models
+- [Ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port Of Facebook's LLaMA Model In C/C++
+- [GanymedeNil/document.ai](https://github.com/GanymedeNil/document.ai) - 基于向量数据库与GPT3.5的通用本地知识库方案(A Universal Local Knowledge Base Solution Based On Vector Database And GPT3.5)
+- [Ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port Of OpenAI's Whisper Model In C/C++
+- [Ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor Library For Machine Learning
+- [Mckaywrigley/paul-graham-gpt](https://github.com/mckaywrigley/paul-graham-gpt) - AI Search & Chat For All Of Paul Graham’s Essays.
+- [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和 Vue3 搭建的 ChatGPT 演示网页
+- [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming Framework For Writing And Deploying Cloud Applications.
+- [Trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) -
+- [Mjl-/mox](https://github.com/mjl-/mox) - Modern Full-featured Open Source Secure Mail Server For Low-maintenance Self-hosted Email
+- [Facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference Code For LLaMA Models
+- [Hashicorp/golang-lru](https://github.com/hashicorp/golang-lru) - Golang LRU Cache
+- [Cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) - Wildebeest Is An ActivityPub And Mastodon-compatible Server
+- [Eliaszon/Programmers-Overseas-Job-Interview-Handbook](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook) - 🏂🏻 程序员海外工作/英文面试手册
+- [Mozilla/sccache](https://github.com/mozilla/sccache) - Sccache Is Ccache With Cloud Storage
+- [Johnlindquist/kit](https://github.com/johnlindquist/kit) - Script Kit. Automate Anything.
+- [Adriankumpf/teslamate](https://github.com/adriankumpf/teslamate) - A Self-hosted Data Logger For Your Tesla 🚘
+- [Cxfksword/jellyfin-plugin-metashark](https://github.com/cxfksword/jellyfin-plugin-metashark) - Jellyfin电影元数据插件
+- [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork Of Redis
+- [Google/cdc-file-transfer](https://github.com/google/cdc-file-transfer) - Tools For Synching And Streaming Files From Windows To Linux
+- [Book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy And Fast Book Searcher, Create And Search Your Private Library. Index Metadata For Over 10 Million Books In One Minute As Well As Search In 30µs.
+- [Karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The Simplest, Fastest Repository For Training/finetuning Medium-sized GPTs.
+- [Apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion With Core ML On Apple Silicon
+- [Openai/point-e](https://github.com/openai/point-e) - Point Cloud Diffusion For 3D Model Synthesis
+- [Google/forma](https://github.com/google/forma) - An Efficient Vector-graphics Renderer
+- [Google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability Scanner Written In Go Which Uses The Data Provided By Https://osv.dev
+- [TedGoas/Cerberus](https://github.com/TedGoas/Cerberus) - A Few Simple, But Solid Patterns For Responsive HTML Email Templates And Newsletters. Even In Outlook And Gmail.
+- [Alibaba/havenask](https://github.com/alibaba/havenask) -
+- [Android/architecture-templates](https://github.com/android/architecture-templates) -
+- [Jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The Lazier Way To Manage Everything Docker
+- [Iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection Of Publicly Available IPTV Channels From All Over The World
+- [Gocn/styleguide](https://github.com/gocn/styleguide) - 翻译 Https://google.github.io/styleguide/go/index
+- [Topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask For Android
+- [Microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Get Unified Metadata From Websites Using Open Graph, Microdata, RDFa, Twitter Cards, JSON-LD, HTML, And More.
+- [Runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI An Open Source Client For Container Development
+- [Google/btree](https://github.com/google/btree) - BTree Provides A Simple, Ordered, In-memory Data Structure For Go Programs.
+- [Fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - An Open-source GitHub Copilot Server
+- [Hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
+- [Rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move And Resize Windows On MacOS With Keyboard Shortcuts And Snap Areas
+- [Facebookresearch/ParlAI](https://github.com/facebookresearch/ParlAI) - A Framework For Training And Evaluating AI Models On A Variety Of Openly Available Dialogue Datasets.
+- [Tkem/cachetools](https://github.com/tkem/cachetools) - Extensible Memoizing Collections And Decorators
+- [Facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
+- [Mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
+- [Messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
+- [Grafana/faro-web-sdk](https://github.com/grafana/faro-web-sdk) - The Grafana Faro Web SDK, Part Of The Grafana Faro Project, Is A Highly Configurable Web SDK For Real User Monitoring (RUM) That Instruments Browser Frontend Applications To Capture Observability Sign
+- [Cockroachdb/errors](https://github.com/cockroachdb/errors) - Go Error Library With Error Portability Over The Network
+- [Amueller/word_cloud](https://github.com/amueller/word_cloud) - A Little Word Cloud Generator In Python
+- [Ivanceras/svgbob](https://github.com/ivanceras/svgbob) - Convert Your Ascii Diagram Scribbles Into Happy Little SVG
+- [Vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image As A Service - Generate Cards For Twitter, Facebook, Slack, Etc
+- [ZutJoe/Koala_hacker_news](https://github.com/ZutJoe/Koala_hacker_news) - Koala Hacker News 周报内容 每周二0点左右自动更新
+- [Snaplet/postgres-wasm](https://github.com/snaplet/postgres-wasm) - A PostgresQL Server Running In Your Browser
+- [Cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm Runtime That Powers Cloudflare Workers
+- [Openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition Via Large-Scale Weak Supervision
+- [Klauspost/cpuid](https://github.com/klauspost/cpuid) - CPU Feature Identification For Go
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - A Structural Diff That Understands Syntax 🟥🟩
+- [Hashicorp/go-version](https://github.com/hashicorp/go-version) - A Go (Golang) Library For Parsing And Verifying Versions And Version Constraints.
+- [Inlets/mixctl](https://github.com/inlets/mixctl) - A Tiny TCP Load Balancer 🍸
+- [Mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) - Go Library For Decoding Generic Map Values Into Native Go Structures And Vice Versa.
+- [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A Latent Text-to-image Diffusion Model
+- [Apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler Is The Modern Data Workflow Orchestration Platform With Powerful User Interface, Dedicated To Solving Complex Task Dependencies In The Data Pipeline And Providing Various Types
+- [Easychen/checkchan-dist](https://github.com/easychen/checkchan-dist) - Check酱：监测网页内容变化，并发送异动到微信。亦支持http Status、json和rss监测。配合自架云端，关电脑后也能运行。
+- [Apple/swift-book](https://github.com/apple/swift-book) - The Swift Programming Language Book
+- [K88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight Rules For Git
+- [Jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, Easy, And Predictable Development Environments
+- [Karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn How To Design Systems At Scale And Prepare For System Design Interviews
+- [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
+- [Jorgef/engineeringladders](https://github.com/jorgef/engineeringladders) - A Framework For Engineering Managers
+- [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community Fork Of PlayCover
+- [AlexAkulov/clickhouse-backup](https://github.com/AlexAkulov/clickhouse-backup) - Tool For Easy ClickHouse Backup And Restore With Cloud Storages Support
+- [Docker/docs](https://github.com/docker/docs) - Source Repo For Docker's Documentation
+- [Insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize MacOS 12 And Later On Apple Silicon
+- [Jordibruin/Swift-Charts-Examples](https://github.com/jordibruin/Swift-Charts-Examples) - An Overview Of The Different Types Of Charts You Can Make With Swift Charts
+- [Go-mysql-org/go-mysql](https://github.com/go-mysql-org/go-mysql) - A Powerful Mysql Toolset With Go
+- [Hashicorp/raft](https://github.com/hashicorp/raft) - Golang Implementation Of The Raft Consensus Protocol
+- [Cncf/glossary](https://github.com/cncf/glossary) - The CNCF Cloud Native Glossary Project Aims To Define Cloud Native Concepts In Clear And Simple Language, Making Them Accessible To Anyone—Whether They Have A Technical Background Or Not (Https://g
+- [Opencurve/curve](https://github.com/opencurve/curve) - Curve Is A High-performance, Lightweight-operation, Cloud-native Open Source Distributed Storage System. Curve Can Be Applied To: 1) Mainstream Cloud-native Infrastructure Platforms OpenStack And Kube
+- [Twostraws/HackingWithSwift](https://github.com/twostraws/HackingWithSwift) - The Project Source Code For Hackingwithswift.com
+- [Benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming Replication For SQLite.
+- [Apple/swift-distributed-tracing](https://github.com/apple/swift-distributed-tracing) - Instrumentation Library For Swift Server Applications
+- [KhaosT/MacVM](https://github.com/KhaosT/MacVM) - MacOS VM For Apple Silicon Using Virtualization API
+- [Google/styleguide](https://github.com/google/styleguide) - Style Guides For Google-originated Open-source Projects
+- [Bufbuild/protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) - Protoc Plugin To Generate Polyglot Message Validators
+- [Awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A Topic-centric List Of HQ Open Datasets.
+- [Spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive Is An Open Source Cross-platform File Explorer, Powered By A Virtual Distributed Filesystem Written In Rust.
+- [Getporter/porter](https://github.com/getporter/porter) - Porter Enables You To Package Your Application Artifact, Client Tools, Configuration And Deployment Logic Together As An Installer That You Can Distribute, And Install With A Single Command.
+- [JustinFincher/WWDC2022-SwiftUINodeEditor](https://github.com/JustinFincher/WWDC2022-SwiftUINodeEditor) - [WWDC 22 Swift Student Challenge] Pegboard, A SwiftUI Based Node-editor Workspace For Game Dev And More
+- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit Including Self-Supervised Learning Model, SOTA/Streaming ASR With Punctuation, Streaming TTS With Text Frontend, Speaker Verification System, End-to-End Speech Translation A
+- [Trustwallet/assets](https://github.com/trustwallet/assets) - A Comprehensive, Up-to-date Collection Of Information About Several Thousands (!) Of Crypto Tokens.
+- [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题；并成为新中国人的核心宗教，核心信念。
+- [Facebook/lexical](https://github.com/facebook/lexical) - Lexical Is An Extensible Text Editor Framework That Provides Excellent Reliability, Accessibility And Performance.
+- [Wgpsec/ENScan](https://github.com/wgpsec/ENScan) - 基于各大API的一款企业信息查询工具，为了更快速的获取企业的信息，省去收集的麻烦过程，web端于plat平台上线
+- [Pingcap/tiflash](https://github.com/pingcap/tiflash) - The Analytical Engine For TiDB And TiDB Cloud. Try Free: Https://tidbcloud.com/free-trial
+- [Qiangmzsx/Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google) -《Software Engineering At Google》的中英文对译版本
+- [RanKKI/LawRefBook](https://github.com/RanKKI/LawRefBook) - 中华人民共和国法律手册
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's Guide About How To Cook At Home (Chinese Only).
+- [Juanfont/headscale](https://github.com/juanfont/headscale) - An Open Source, Self-hosted Implementation Of The Tailscale Control Server
+- [Yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
+- [Openairplay/airplay2-receiver](https://github.com/openairplay/airplay2-receiver) - AirPlay 2 Receiver - Python Implementation
+- [Balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS Images To SD Cards & USB Drives, Safely And Easily.
+- [Kr/pretty](https://github.com/kr/pretty) - Pretty Printing For Go Values
+- [Mayandev/where-is-douban250](https://github.com/Mayandev/where-is-douban250) - 🐛 一个爬虫程序，整理了腾讯视频、爱奇艺、优酷、哔哩哔哩等视频网站中，能够观看的「豆瓣电影 Top250 榜单」影片。
+- [Lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast And Powerful Code Editor Written In Rust
+- [Davidaurelio/hashids-python](https://github.com/davidaurelio/hashids-python) - Implementation Of Hashids (Http://hashids.org) In Python. Compatible With Python 2 And Python 3
+- [Alibaba/canal](https://github.com/alibaba/canal) - 阿里巴巴 MySQL Binlog 增量订阅&消费组件
+- [Cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel Client (Formerly Argo Tunnel)
+- [Dreamhead/patterns-of-distributed-systems](https://github.com/dreamhead/patterns-of-distributed-systems) -《Patterns Of Distributed Systems》中文版
+- [Alpinejs/alpine](https://github.com/alpinejs/alpine) - A Rugged, Minimal Framework For Composing JavaScript Behavior In Your Markup.
+- [Dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码—像小说一样品读 Linux 0.11 核心代码
+- [Vishnubob/wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure Bash Script To Test And Wait On The Availability Of A TCP Host And Port
+- [Taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & Portable High-performance Programming In Python.
+- [Apple/swift-markdown](https://github.com/apple/swift-markdown) - A Swift Package For Parsing, Building, Editing, And Analyzing Markdown Documents.
+- [FiloSottile/age](https://github.com/FiloSottile/age) - A Simple, Modern And Secure Encryption Tool (And Go Library) With Small Explicit Keys, No Config Options, And UNIX-style Composability.
+- [Google/gnostic](https://github.com/google/gnostic) - A Compiler For APIs Described By The OpenAPI Specification With Plugins For Code Generation And Other API Support Tasks.
+- [Submariner-io/submariner](https://github.com/submariner-io/submariner) - Connect All Your Kubernetes Clusters, No Matter Where They Are In The World.
+- [Shengcaishizhan/kkndme_tianya](https://github.com/shengcaishizhan/kkndme_tianya) - 天涯 Kkndme 神贴聊房价
+- [Aws/aws-lambda-go](https://github.com/aws/aws-lambda-go) - Libraries, Samples And Tools To Help Go Developers Develop AWS Lambda Functions.
+- [Klintcheng/kim](https://github.com/klintcheng/kim) - King IM Cloud 分布式即时通信云IM
+- [Taowen/modularization-examples](https://github.com/taowen/modularization-examples) - 代码防腐实用技术
+- [Ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security Health Metrics For Open Source
+- [PaddlePaddle/PaddleClas](https://github.com/PaddlePaddle/PaddleClas) - A Treasure Chest For Visual Classification And Recognition Powered By PaddlePaddle
+- [Koreader/koreader](https://github.com/koreader/koreader) - An Ebook Reader Application Supporting PDF, DjVu, EPUB, FB2 And Many More Formats, Running On Cervantes, Kindle, Kobo, PocketBook And Android Devices
+- [Easychen/one-person-businesses-methodology](https://github.com/easychen/one-person-businesses-methodology) - 一人公司方法论
+- [Racket/racket](https://github.com/racket/racket) - The Racket Repository
+- [Didi/KnowStreaming](https://github.com/didi/KnowStreaming) - 一站式云原生实时流数据平台，通过0侵入、插件化构建企业级Kafka服务，极大降低操作、存储和管理实时流数据门槛
+- [Burnash/gspread](https://github.com/burnash/gspread) - Google Sheets Python API
+- [Elastic/beats](https://github.com/elastic/beats) - :Tropical_fish: Beats - Lightweight Shippers For Elasticsearch & Logstash
+- [Containerd/accelerated-container-image](https://github.com/containerd/accelerated-container-image) - A Production-ready Remote Container Image Format (Overlaybd) And Snapshotter Based On Block-device.
+- [Aleimu/asyncio_different](https://github.com/aleimu/asyncio_different) - Go与python的协程对比,以及python中协程的改进历史,和示例代码
+- [Robfig/cron](https://github.com/robfig/cron) - A Cron Library For Go
+- [Alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines Pmd Implements And IDE Plugin
+- [Coder/code-server](https://github.com/coder/code-server) - VS Code In The Browser
+- [HackerNews/API](https://github.com/HackerNews/API) - Documentation And Samples For The Official HN API
+- [Pvieito/PythonKit](https://github.com/pvieito/PythonKit) - Swift Framework To Interact With Python.
+- [Poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️ Companies That Don't Have A Broken Hiring Process
+- [Pywebio/PyWebIO](https://github.com/pywebio/PyWebIO) - Write Interactive Web App In Script Way.
+- [Actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions Runner Images
+- [Dbader/schedule](https://github.com/dbader/schedule) - Python Job Scheduling For Humans.
+- [Iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools For BPF-based Linux IO Analysis, Networking, Monitoring, And More
+- [Easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most Of This Not Work Outside China , So No English Translate
+- [Juicedata/juicesync](https://github.com/juicedata/juicesync) - A Tool To Move Your Data Between Any Clouds Or Regions.
+- [Missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - The CS Missing Semester Chinese Version
+- [Grafana/agent](https://github.com/grafana/agent) - Telemetry Agent For The LGTM Stack.
+- [Prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL Metric Exporter For Prometheus
+- [Romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh Theme
+- [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) - 小巧精悍、准确、实用 GeoIP2 数据库
+- [Containerd/nerdctl](https://github.com/containerd/nerdctl) - ContaiNERD CTL - Docker-compatible CLI For Containerd, With Support For Compose, Rootless, EStargz, OCIcrypt, IPFS, …
+- [Upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free Uptime Monitor And Status Page Powered By GitHub
+- [Apple/swift-nio-ssh](https://github.com/apple/swift-nio-ssh) - SwiftNIO SSH Is A Programmatic Implementation Of SSH Using SwiftNIO
+- [Appleboy/gin-jwt](https://github.com/appleboy/gin-jwt) - JWT Middleware For Gin Framework
+- [Picklepete/pyicloud](https://github.com/picklepete/pyicloud) - A Python + ICloud Wrapper To Access IPhone And Calendar Data.
+- [Grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo Is A High Volume, Minimal Dependency Distributed Tracing Backend.
+- [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
+- [Commaai/openpilot](https://github.com/commaai/openpilot) - Openpilot Is An Open Source Driver Assistance System. Openpilot Performs The Functions Of Automated Lane Centering And Adaptive Cruise Control For Over 200 Supported Car Makes And Models.
+- [Resumejob/interview-questions](https://github.com/resumejob/interview-questions) - Interview Questions For Google, Amazon, Apple, Etc. 根据超过 2000 篇真实面经整理的腾讯，阿里，字节跳动，Shopee，美团，滴滴高频面试题
+- [Hashicorp/waypoint](https://github.com/hashicorp/waypoint) - A Tool To Build, Deploy, And Release Any Application On Any Platform.
+- [Resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes Generated Using The GitHub Informations
+- [Darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS Emulation Layer For Linux
+- [Apple/swift-atomics](https://github.com/apple/swift-atomics) - Low-level Atomic Operations For Swift
+- [Cockroachdb/pebble](https://github.com/cockroachdb/pebble) - RocksDB/LevelDB Inspired Key-value Database In Go
+- [Rongcloud/server-sdk-go](https://github.com/rongcloud/server-sdk-go) - RongCloud Server SDK In Go.
+- [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs) - Open Source Documentation Of Microsoft Azure
+- [TensorSpeech/TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS) - :Stuck_out_tongue_closed_eyes: TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis For Tensorflow 2 (Supported Including English, French, Korean, Chinese, German And Easy To Adapt For Other Lan
+- [Ent/ent](https://github.com/ent/ent) - An Entity Framework For Go
+- [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - Dnscrypt-proxy 2 - A Flexible DNS Proxy, With Support For Encrypted DNS Protocols.
+- [Danielgtaylor/python-betterproto](https://github.com/danielgtaylor/python-betterproto) - Clean, Modern, Python 3.6+ Code Generator & Library For Protobuf 3 And Async GRPC
+- [Haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) -
+- [Exyte/Grid](https://github.com/exyte/Grid) - The Most Powerful Grid Container Missed In SwiftUI
+- [SeasonZhu/SwiftUI-WeChat](https://github.com/seasonZhu/SwiftUI-WeChat) - 一个微信SwiftUI编写,在原作者的基础上面修改学习
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome Multilingual OCR Toolkits Based On PaddlePaddle (Practical Ultra Lightweight OCR System, Support 80+ Languages Recognition, Provide Data Annotation And Synthesis Tools, Support Training And De
+- [RedisBloom/RedisBloom](https://github.com/RedisBloom/RedisBloom) - Probabilistic Datatypes Module For Redis
+- [Argoproj-labs/argo-workflows-catalog](https://github.com/argoproj-labs/argo-workflows-catalog) - Argo Workflows Catalog
+- [Apple/swift-numerics](https://github.com/apple/swift-numerics) - Advanced Mathematical Types And Functions For Swift
+- [OAuthSwift/OAuthSwift](https://github.com/OAuthSwift/OAuthSwift) - Swift Based OAuth Library For IOS
+- [Actions/runner](https://github.com/actions/runner) - The Runner For GitHub Actions :Rocket:
+- [Shuveb/containers-the-hard-way](https://github.com/shuveb/containers-the-hard-way) - Learning About Containers And How They Work By Creating Them The Hard Way
+- [Go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct And Field Validation, Including Cross Field, Cross Struct, Map, Slice And Array Diving
+- [Hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad Is An Easy-to-use, Flexible, And Performant Workload Orchestrator That Can Deploy A Mix Of Microservice, Batch, Containerized, And Non-containerized Applications. Nomad Is Easy To Operate And Sc
+- [Altair-viz/altair](https://github.com/altair-viz/altair) - Declarative Statistical Visualization Library For Python
+- [Prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter For Machine Metrics
+- [Probot/probot](https://github.com/probot/probot) - 🤖 A Framework For Building GitHub Apps To Automate And Improve Your Workflow
+- [Swift-server/swift-aws-lambda-runtime](https://github.com/swift-server/swift-aws-lambda-runtime) - Swift Implementation Of AWS Lambda Runtime
+- [Milvus-io/milvus](https://github.com/milvus-io/milvus) - A Cloud-native Vector Database With High-performance And High Scalability.
+- [Tailscale/tailscale](https://github.com/tailscale/tailscale) - The Easiest, Most Secure Way To Use WireGuard And 2FA.
+- [Mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :Art: Diagram As Code For Prototyping Cloud System Architectures
+- [Pingcap/parser](https://github.com/pingcap/parser) - A MySQL Compatible SQL Parser
+- [Octodns/octodns](https://github.com/octodns/octodns) - Tools For Managing DNS Across Multiple Providers
+- [Github/codeql](https://github.com/github/codeql) - CodeQL: The Libraries And Queries That Power Security Researchers Around The World, As Well As Code Scanning In GitHub Advanced Security
+- [Kubernetes/git-sync](https://github.com/kubernetes/git-sync) - A Sidecar App Which Clones A Git Repo And Keeps It In Sync With The Upstream.
+- [Ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
+- [JohnCoates/Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver For Mac
+- [Spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System For Go
+- [WireGuard/wireguard-go](https://github.com/WireGuard/wireguard-go) - Mirror Only. Official Repository Is At Https://git.zx2c4.com/wireguard-go
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI Tool For Saving Complete Web Pages As A Single HTML File
+- [Yichengchen/clashX](https://github.com/yichengchen/clashX) -
+- [Xtaci/kcptun](https://github.com/xtaci/kcptun) - A Stable & Secure Tunnel Based On KCP With N:M Multiplexing And FEC. Available For ARM, MIPS, 386 And AMD64。N:M 多重化とFECを備えたKCPに基づく安定した安全なトンネル。N:M 다중화 및 FEC를 사용하는 KCP 기반의 안정적이고 안전한 터널입니다. Un Tunn
+- [Izackwu/TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN) - TeachYourselfCS 的中文翻译 | A Chinese Translation Of TeachYourselfCS
+- [Swift-server/async-http-client](https://github.com/swift-server/async-http-client) - HTTP Client Library Built On SwiftNIO
+- [Pingcap/tiup](https://github.com/pingcap/tiup) - A Component Manager For TiDB
+- [Tidb-incubator/tidb-in-action](https://github.com/tidb-incubator/tidb-in-action) - TiDB In Action: Based On 4.0
+- [Frida/frida](https://github.com/frida/frida) - Clone This Repo To Build Frida
+- [Sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent Proxy Server That Works As A Poor Man's VPN. Forwards Over Ssh. Doesn't Require Admin. Works With Linux And MacOS. Supports DNS Tunneling.
+- [Apple/swift-log](https://github.com/apple/swift-log) - A Logging API For Swift
+- [Jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL Driver And Toolkit For Go
+- [Viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions To Ask The Company During Your Interview
+- [Bufbuild/buf](https://github.com/bufbuild/buf) - A New Way Of Working With Protocol Buffers.
+- [Facebook/watchman](https://github.com/facebook/watchman) - Watches Files And Records, Or Triggers Actions, When They Change.
+- [Prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox Prober Exporter
+- [Rancher/local-path-provisioner](https://github.com/rancher/local-path-provisioner) - Dynamically Provisioning Persistent Local Storage With Kubernetes
+- [Laixintao/iredis](https://github.com/laixintao/iredis) - Interactive Redis: A Terminal Client For Redis With AutoCompletion And Syntax Highlighting.
+- [Flutter/samples](https://github.com/flutter/samples) - A Collection Of Flutter Examples And Demos
+- [Pythonprofilers/memory_profiler](https://github.com/pythonprofilers/memory_profiler) - Monitor Memory Usage Of Python Code
+- [Ownthink/KnowledgeGraphData](https://github.com/ownthink/KnowledgeGraphData) - 史上最大规模1.4亿中文知识图谱开源下载
+- [Facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 Is A Platform For Object Detection, Segmentation And Other Visual Recognition Tasks.
+- [Google/jax](https://github.com/google/jax) - Composable Transformations Of Python+NumPy Programs: Differentiate, Vectorize, JIT To GPU/TPU, And More
+- [Laalaguer/ethereum-compass](https://github.com/laalaguer/ethereum-compass) -《以太坊的指南针》一本写给普通人看的以太坊区块链技术书。A Book Of Ethereum In Chinese.
+- [Containers/podman-compose](https://github.com/containers/podman-compose) - A Script To Run Docker-compose.yml Using Podman
+- [Google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices Documentation
+- [Jiaaro/pydub](https://github.com/jiaaro/pydub) - Manipulate Audio With A Simple And Easy High Level Interface
+- [Tensorflow/models](https://github.com/tensorflow/models) - Models And Examples Built With TensorFlow
+- [Google/pybadges](https://github.com/google/pybadges) - A Python Library For Creating Github-style Badges
+- [Valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP Package For Go. Tuned For High Performance. Zero Memory Allocations In Hot Paths. Up To 10x Faster Than Net/http
+- [Kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling Components For Kubernetes
+- [Kubernetes-sigs/sig-storage-local-static-provisioner](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner) - Static Provisioner Of Local Volumes
+- [Rancher/rke](https://github.com/rancher/rke) - Rancher Kubernetes Engine (RKE), An Extremely Simple, Lightning Fast Kubernetes Distribution That Runs Entirely Within Containers.
+- [Apple/swift-package-manager](https://github.com/apple/swift-package-manager) - The Package Manager For The Swift Programming Language
+- [Github/semantic](https://github.com/github/semantic) - Parsing, Analyzing, And Comparing Source Code Across Many Languages
+- [Open-telemetry/opentelemetry-specification](https://github.com/open-telemetry/opentelemetry-specification) - Specifications For OpenTelemetry
+- [Kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find And Install Kubectl Plugins
+- [Ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
+- [Kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK For Building Kubernetes APIs Using CRDs
+- [Google/trillian](https://github.com/google/trillian) - A Transparent, Highly Scalable And Cryptographically Verifiable Data Store.
+- [AlDanial/cloc](https://github.com/AlDanial/cloc) - Cloc Counts Blank Lines, Comment Lines, And Physical Lines Of Source Code In Many Programming Languages.
+- [Spf13/viper](https://github.com/spf13/viper) - Go Configuration With Fangs
+- [Google/pprof](https://github.com/google/pprof) - Pprof Is A Tool For Visualization And Analysis Of Profiling Data
+- [X-motemen/gore](https://github.com/x-motemen/gore) - Yet Another Go REPL That Works Nicely. Featured With Line Editing, Code Completion, And More.
+- [RomuloOliveira/commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide) - A Guide To Understand The Importance Of Commit Messages And How To Write Them Well
+- [Kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose Web UI For Kubernetes Clusters
+- [Malcommac/SwiftLocation](https://github.com/malcommac/SwiftLocation) - 🛰 CoreLocation Made Easy - Efficient & Easy Location Tracker, IP Location, Gecoder, Geofence, Autocomplete, Beacon Ranging, Broadcaster And Visits Monitoring
+- [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo For Counting Stars And Contributing. Press F To Pay Respect To Glorious Developers.
+- [Xiaolai/public-speaking-with-meaning](https://github.com/xiaolai/public-speaking-with-meaning) -《我也有话要说》——普通人的当众讲话技能
+- [Jakeheis/Shout](https://github.com/jakeheis/Shout) - SSH Made Easy In Swift
+- [Selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One Has No Future If One Couldn't Teach Themself.
+- [Fighting41love/funNLP](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名
+- [Kenwoodjw/python_interview_question](https://github.com/kenwoodjw/python_interview_question) - 关于Python的面试题
+- [Kkroening/ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python Bindings For FFmpeg - With Complex Filtering Support
+- [GoogleContainerTools/container-diff](https://github.com/GoogleContainerTools/container-diff) - Container-diff: Diff Your Docker Containers
+- [Eranyanay/1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) - Handling 1M Websockets Connections In Go
+- [Shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :See_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
+- [VincentSit/ChinaMobilePhoneNumberRegex](https://github.com/VincentSit/ChinaMobilePhoneNumberRegex) - Regular Expressions That Match The Mobile Phone Number In Mainland China. / 一组匹配中国大陆手机号码的正则表达式。
+- [Rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - Record And Replay The Web
+- [Marteinn/The-Big-Username-Blocklist](https://github.com/marteinn/The-Big-Username-Blocklist) - This Is A Opinionated Blocklist Of Words That You Might Not Like To See Used As Usernames In Your Service.
+- [Leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) - Wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
+- [Jamiehannaford/what-happens-when-k8s](https://github.com/jamiehannaford/what-happens-when-k8s) - 🤔 What Happens When I Type Kubectl Run?
+- [Facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast Real-time Compression Algorithm
+- [GeneralMills/pytrends](https://github.com/GeneralMills/pytrends) - Pseudo API For Google Trends
+- [S0md3v/XSStrike](https://github.com/s0md3v/XSStrike) - Most Advanced XSS Scanner.
+- [Django-extensions/django-extensions](https://github.com/django-extensions/django-extensions) - This Is A Repository For Collecting Global Custom Management Extensions For The Django Framework.
+- [Stephentian/33-js-concepts](https://github.com/stephentian/33-js-concepts) - :Scroll: 每个 JavaScript 工程师都应懂的33个概念 @Leonardomso
+- [Microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines A Common Protocol For Language Servers.
+- [Apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - Distributed Pub-sub Messaging System
+- [Un33k/python-slugify](https://github.com/un33k/python-slugify) - Returns Unicode Slugs
+- [Tianon/gosu](https://github.com/tianon/gosu) - Simple Go-based Setuid+setgid+setgroups+exec
+- [Kiali/kiali](https://github.com/kiali/kiali) - Kiali Project, Observability For The Istio Service Mesh
+- [Xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
+- [DocsHome/microservices](https://github.com/DocsHome/microservices) - Microservices From Design To Deployment 中文版《微服务：从设计到部署》
+- [Apple/swift-protobuf](https://github.com/apple/swift-protobuf) - Plugin And Runtime Library For Using Protobuf With Swift
+- [Kubernetes/client-go](https://github.com/kubernetes/client-go) - Go Client For Kubernetes.
+- [Envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native High-performance Edge/middle/service Proxy
+- [Apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - The Open Source, Distributed, Transactional Key-value Store
+- [Kragniz/python-etcd3](https://github.com/kragniz/python-etcd3) - Python Client For The Etcd API V3
+- [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
+- [Antvis/G2](https://github.com/antvis/G2) - 📊 A Concise And Progressive Visualization Grammar.
+- [Jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, A Distributed Tracing Platform
+- [Lib/pq](https://github.com/lib/pq) - Pure Go Postgres Driver For Database/sql
+- [ProjectDent/ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) - Combines The High Accuracy Of AR With The Scale Of GPS Data.
+- [Uqfoundation/dill](https://github.com/uqfoundation/dill) - Serialize All Of Python
+- [Ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn Regex The Easy Way
+- [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) - A Query And Indexing Engine For Redis, Providing Secondary Indexing, Full-text Search, And Aggregations.
+- [Getsentry/responses](https://github.com/getsentry/responses) - A Utility For Mocking Out The Python Requests Library.
+- [Josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A Curated List Of Awesome Machine Learning Frameworks, Libraries And Software.
+- [Kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive Roadmaps, Guides And Other Educational Content To Help Developers Grow In Their Careers.
+- [Bazelbuild/bazel](https://github.com/bazelbuild/bazel) - A Fast, Scalable, Multi-language And Extensible Build System
+- [Astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A Golang Ebook Intro How To Build A Web With Golang
+- [Python/cpython](https://github.com/python/cpython) - The Python Programming Language
+- [Greatghoul/remote-working](https://github.com/greatghoul/remote-working) - 收集整理远程工作相关的资料
+- [Mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader In JavaScript
+- [Skyline75489/what-happens-when-zh_CN](https://github.com/skyline75489/what-happens-when-zh_CN) - What-happens-when 的中文翻译，原仓库 Https://github.com/alex/what-happens-when
+- [Daviddrysdale/python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Python Port Of Google's Libphonenumber
+- [X-hw/amazing-qr](https://github.com/x-hw/amazing-qr) - 💮 Amazing QRCode Generator In Python (Supporting Animated Gif) - Python Amazing 二维码生成器（支持 Gif 动态图片二维码）
+- [Quilljs/quill](https://github.com/quilljs/quill) - Quill Is A Modern WYSIWYG Editor Built For Compatibility And Extensibility.
+- [Jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab Computational Environment.
+- [Gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) - GitPython Is A Python Library Used To Interact With Git Repositories.
+- [Andialbrecht/sqlparse](https://github.com/andialbrecht/sqlparse) - A Non-validating SQL Parser Module For Python
+- [Apple/swift](https://github.com/apple/swift) - The Swift Programming Language
+- [Sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A Collection Of Awesome Browser-side JavaScript Libraries, Resources And Shiny Things.
+- [Docker-library/official-images](https://github.com/docker-library/official-images) - Primary Source Of Truth For The Docker "Official Images" Program
+- [Prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library For Building Powerful Interactive Command Line Applications In Python
+- [Danielgindi/Charts](https://github.com/danielgindi/Charts) - Beautiful Charts For IOS/tvOS/OSX! The Apple Side Of The Crossplatform MPAndroidChart.
+- [Grpc/grpc](https://github.com/grpc/grpc) - The C Based GRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+- [Joewalnes/websocketd](https://github.com/joewalnes/websocketd) - Turn Any Program That Uses STDIN/STDOUT Into A WebSocket Server. Like Inetd, But For WebSockets.
+- [Protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's Data Interchange Format
+- [Gorakhargosh/watchdog](https://github.com/gorakhargosh/watchdog) - Python Library And Shell Utilities To Monitor Filesystem Events.
+- [Ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line Program To Download Videos From YouTube.com And Other Video Sites
+- [Paramiko/paramiko](https://github.com/paramiko/paramiko) - The Leading Native Python SSHv2 Protocol Library.
+- [Fxsjy/jieba](https://github.com/fxsjy/jieba) - 结巴中文分词
+- [Redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
+- [Redis/redis](https://github.com/redis/redis) - Redis Is An In-memory Database That Persists On Disk. The Data Model Is Key-value, But Many Different Kind Of Values Are Supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi
+- [Anonymous-pits/pits](https://github.com/anonymous-pits/pits) - PITS: Variational Pitch Inference For End-to-end Pitch-controllable TTS Without External Pitch Predictor
+- [Showlab/Tune-A-Video](https://github.com/showlab/Tune-A-Video) - Tune-A-Video: One-Shot Tuning Of Image Diffusion Models For Text-to-Video Generation
+- [Cfenollosa/bashblog](https://github.com/cfenollosa/bashblog) - A Single Bash Script To Create Blogs. Download, Run, Write, Done!
+- [Yiglas/obsidian-file-publisher](https://github.com/yiglas/obsidian-file-publisher) -
+- [Csansoon/ai-web-designer](https://github.com/csansoon/ai-web-designer) - An Easy Way To Create And Edit Static Websites Powered By OpenAI's API
+- [Djmango/obsidian-transcription](https://github.com/djmango/obsidian-transcription) - Obsidian Plugin To Create High-quality Transcriptions From Markdown Linked Audio Files
+- [InterwebAlchemy/obsidian-ai-research-assistant](https://github.com/InterwebAlchemy/obsidian-ai-research-assistant) - Prompt Engineering Research Tool For AI APIs
+- [Olrenso/obsidian-home-tab](https://github.com/olrenso/obsidian-home-tab) - A Browser-like Search Tab For Your Local Files In Obsidian.
+- [Mahamedm/Riffusion_AI_Image_Music-generator_Gardio](https://github.com/Mahamedm/Riffusion_AI_Image_Music-generator_Gardio) - This Code Includes A Collection Of Tools For Processing Audio Files, Specifically For Converting Spectrogram Images To Audio Waveforms And Vice Versa.
+- [Aecorredor/awesome-music-production](https://github.com/aecorredor/awesome-music-production) - Wiki Repo Housing A Bunch Of Resources For Music Production.
+- [Kmatheussen/radium](https://github.com/kmatheussen/radium) - A Graphical Music Editor. A Next Generation Tracker.
+- [Stargatedaw/stargate](https://github.com/stargatedaw/stargate) - Innovation-first Digital Audio Workstation (DAW), Instrument And Effect Plugins, Wave Editor
+- [Arkrow/PyMusicLooper](https://github.com/arkrow/PyMusicLooper) - A Script For Creating Seamless Music Loops, With Play/export Support.
+- [Djfun/audio-visualizer-python](https://github.com/djfun/audio-visualizer-python) - A Little GUI Tool To Render Visualization Videos Of Audio Files
+- [Pac-dev/AudioMasher](https://github.com/pac-dev/AudioMasher) - Generative Audio Playground
+- [Teticio/audio-diffusion](https://github.com/teticio/audio-diffusion) - Apply Diffusion Models Using The New Hugging Face Diffusers Package To Synthesize Music Instead Of Images.
+- [Sadiaafsana138/Music-Genre-Classification](https://github.com/sadiaafsana138/Music-Genre-Classification) - Academic Project Using Python And ML (AI-4.1)
+- [Wayne391/sf_segmenter](https://github.com/wayne391/sf_segmenter) - Music Segmentation Algorithm, Based On SF (Structural Feature)
+- [Facebookresearch/demucs](https://github.com/facebookresearch/demucs) - Code For The Paper Hybrid Spectrogram And Waveform Source Separation
+- [Davideriboli/Generative-Music](https://github.com/davideriboli/Generative-Music) - Docs, Patches, Scripts, Tools & Utilities Mainly Related To VCV Rack, Wotjia And Monome Norns. Shield
+- [Stevenwaterman/musetree](https://github.com/stevenwaterman/musetree) - AI Music Generation For The Real World
+- [LlSourcell/AI_For_Music_Composition](https://github.com/llSourcell/AI_For_Music_Composition) - This Is The Code For "AI For Music Composition" By Siraj Raval On Youtube
+- [Justjake/Gauss](https://github.com/justjake/Gauss) - Stable Diffusion MacOS Native App
+- [KoboldAI/KoboldAI-Client](https://github.com/KoboldAI/KoboldAI-Client) -
+- [HeyCLI/heyCLI_client](https://github.com/HeyCLI/heyCLI_client) - HeyCLI Allows You To Use Your Command Line Terminal In Natural Language
+- [Jthat/zsh-namelink](https://github.com/jthat/zsh-namelink) - Zsh Plugin For Synchronized Mapping Of Filesystem Entries To The Named Directory Hash
+- [Anadius/mediafire-bulk-importer](https://github.com/anadius/mediafire-bulk-importer) - Import Mediafire Links To Your Account In Bulk
+- [Giselle197/obsidian-external-links-in-document](https://github.com/giselle197/obsidian-external-links-in-document) - Panel Of External Links
+- [Bluemoondragon07/Obsidian-amazing-snippets](https://github.com/Bluemoondragon07/Obsidian-amazing-snippets) -
+- [Devzbysiu/dox](https://github.com/devzbysiu/dox) - Index And Search Your Documents
+- [Nikutopian/DocumentQA](https://github.com/nikutopian/DocumentQA) - Ingest And Index Documents, Search Documents And Support Natural Language Question Answering
+- [Paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A Community-supported Supercharged Version Of Paperless: Scan, Index And Archive All Your Physical Documents
+- [Misbahsy/chat-your-data-self-hosted](https://github.com/misbahsy/chat-your-data-self-hosted) - This Repo Guides You Through Building A Chatbot On Your Own Data With Self Hosted LLM
+- [Facebookresearch/shumai](https://github.com/facebookresearch/shumai) - Fast Differentiable Tensor Library In JavaScript And TypeScript With Bun + Flashlight
+- [Gewerd-Strauss/ObsidianScripts](https://github.com/Gewerd-Strauss/ObsidianScripts) - A Variety Of Obsidian.md Helpers, In Varying States Of Completion
+- [0xRusowsky/bookmarks-to-obsidian](https://github.com/0xRusowsky/bookmarks-to-obsidian) - A Lil Project To Sync Twitter Bookmarks With An Obsidian Vault.
+- [Hdykokd/obsidian-textlint](https://github.com/hdykokd/obsidian-textlint) - An Obsidian Plugin For Textlint.
+- [Brianpetro/obsidian-smart-prompts](https://github.com/brianpetro/obsidian-smart-prompts) - Prompt Templating Tools Designed For Interacting With Language Interfaces Like OpenAI's ChatGPT In Obsidian.
+- [Maksim77/obsidian-mactagger-plugin](https://github.com/maksim77/obsidian-mactagger-plugin) -
+- [BambusControl/obsidian-unicode-search](https://github.com/BambusControl/obsidian-unicode-search) - Obsidian Plugin For Simple Unicode Character Search
+- [Kxxt/obsidian-advanced-paste](https://github.com/kxxt/obsidian-advanced-paste) - Advanced Pasting Functionality For Obsidian
+- [OwenKruse/gpt-helper](https://github.com/OwenKruse/gpt-helper) - Obsidian GPT Integration
+- [Santinic/how2](https://github.com/santinic/how2) - AI For The Command Line
+- [SmisoMazibuko/Book-of-Prompts](https://github.com/SmisoMazibuko/Book-of-Prompts) - The Book Of Prompts: A Collection Of Prompts For Large Language Models Like ChatGPT. Collaborate, Share, And Refine Prompts For Various Domains. Join The Community And Help Build The Ultimate Resource
+- [Fayeed/github-banner](https://github.com/fayeed/github-banner) - Build Custom GitHub Banners For Your Github Profiles, To Add Some Flair To Your Readmes. Like The Project, Star The Project.
+- [KasRoudra/repository-readme-generator](https://github.com/KasRoudra/repository-readme-generator) - Repository Readme Generator Is A Website/web-application To Generate Beautiful README.md For Your Repository. You Can Copy Or Download That. Enjoy!
+- [CIMSTA/obsidiosaurus](https://github.com/CIMSTA/obsidiosaurus) - Obsidian -&Gt; Docusaurus Converter
+- [Friebetill/obsidian-file-diff](https://github.com/friebetill/obsidian-file-diff) - View The Difference Between Two Files Within Obsidian.
+- [Malaya-zemlya/gpt-jailbreaks](https://github.com/malaya-zemlya/gpt-jailbreaks) - A Repository Of Methods Of Bypassing GPT And ChatGPT Content Filters
+- [AnbuKumar-maker/ChatGPT-Machine-Learning-Prompts](https://github.com/AnbuKumar-maker/ChatGPT-Machine-Learning-Prompts) -
+- [Wshuyi/demo-notion-markdown-exporter](https://github.com/wshuyi/demo-notion-markdown-exporter) -
+- [Connertennery/Notion-to-Obsidian-Converter](https://github.com/connertennery/Notion-to-Obsidian-Converter) - Converts Exported Notion Notes To Work With Obsidian.
+- [Niraj-Lunavat/Artificial-Intelligence](https://github.com/Niraj-Lunavat/Artificial-Intelligence) - Awesome AI Learning With +100 AI Cheat-Sheets, Free Online Books, Top Courses, Best Videos And Lectures, Papers, Tutorials, +99 Researchers, Premium Websites, +121 Datasets, Conferences, Frameworks, T
+- [Ulisesantana/obsidian-pending-notes](https://github.com/ulisesantana/obsidian-pending-notes) - Obsidian Plugin For Searching Links Without Notes In Your Vault.
+- [Illegal-Services/Illegal_Services](https://github.com/Illegal-Services/Illegal_Services) - ♾️🌚✨Illegal Services✨🌚♾️
+- [RocketGod-git/HackRF-Treasure-Chest](https://github.com/RocketGod-git/HackRF-Treasure-Chest) - HackRF Software And Captures By Everyone And For Everyone. Argh Matey.
+- [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (And Dump) Of Stuff I Make Or Modify For The Flipper Zero
+- [RocketGod-git/PowerShell-for-Hackers](https://github.com/RocketGod-git/PowerShell-for-Hackers) - This Repository Is A Collection Of Powershell Functions Every Hacker Should Know
+- [RocketGod-git/ChatGPT-Creations](https://github.com/RocketGod-git/ChatGPT-Creations) - A Compilation Of Anonymous User ChatGPT Prompt Responses
+- [Eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 Automates README Creation And Generates Codebase Documentation, Powered By OpenAI Language Model APIs.
+- [Jordanweaver/midjourn-prompts](https://github.com/jordanweaver/midjourn-prompts) - Tool For Generating Midjourney Prompts Using Custom Word Banks.
+- [Mschlegel81/Image_Generation](https://github.com/mschlegel81/Image_Generation) - Simple Image Generation And Manipulation Program
+- [Qunash/stable-diffusion-2-gui](https://github.com/qunash/stable-diffusion-2-gui) - Lightweight Stable Diffusion V 2.1 Web UI: Txt2img, Img2img, Depth2img, Inpaint And Upscale4x.
+- [DdPn08/flat](https://github.com/ddPn08/flat) - All-in-one Image Generation AI (To Be…)
+- [Osvik/prompt-generators](https://github.com/osvik/prompt-generators) - Prompt Generator For Midjourney And Maybe Other AIs In The Future.
+- [LlSourcell/AI_Artist](https://github.com/llSourcell/AI_Artist) - AI Artist For Machine Learning For Hackers #5
+- [Gjohnpaull/midjourney-templates](https://github.com/gjohnpaull/midjourney-templates) -
+- [Coffee-cup/obsidian-vault-parser](https://github.com/coffee-cup/obsidian-vault-parser) - Vault Parser For The Obsidian Note Taking App
+- [Theiceshelf/esker](https://github.com/theiceshelf/esker) - Static Site Generator For Obsidian
+- [Marcusolsson/obsidian-projects](https://github.com/marcusolsson/obsidian-projects) - Plain Text Project Planning In Obsidian
+- [Bkerler/mtkclient](https://github.com/bkerler/mtkclient) - MTK Reverse Engineering And Flash Tool
+- [Nxvvvv/warp-plus](https://github.com/nxvvvv/warp-plus) - Get Free WARP+ GBs In CloudFlare's 1.1.1.1!!
+- [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui) - Convert AI Papers To GUI，Make It Easy And Convenient For Everyone To Use Artificial Intelligence Technology。让每个人都简单方便的使用前沿人工智能技术
+- [Jordanm88/flame-dashboard](https://github.com/jordanm88/flame-dashboard) - Flame Is Self-hosted Startpage For Your Server. Easily Manage Your Apps And Bookmarks With Built-in Editors.
+- [Udayqq/Ai-File-Organizer](https://github.com/udayqq/Ai-File-Organizer) -
+- [ValarMorghulis-faceless/TwitterStats](https://github.com/ValarMorghulis-faceless/TwitterStats) -
+- [Jamesmeisler/twitter-stats](https://github.com/jamesmeisler/twitter-stats) - User Twitter Stats
+- [Nathanielastudillo/twitter-stats](https://github.com/nathanielastudillo/twitter-stats) -
+- [Godmayhem7/social-media-stats](https://github.com/godmayhem7/social-media-stats) -
+- [Cnrad/d](https://github.com/cnrad/d) - 📊 Minimal Dashboard Tracking Stats Of Your Various Social Medias
+- [Ivoinestrachan/instagram-wrapped](https://github.com/ivoinestrachan/instagram-wrapped) - Lets Unwrapped The Year Of Photos And Videos
+- [SongoMen/SocialMe](https://github.com/SongoMen/SocialMe) - App To Show Stats About Your Fb Page Or Instagram Account.
+- [Ellpeck/ObsidianSimpleTimeTracker](https://github.com/Ellpeck/ObsidianSimpleTimeTracker) - Multi-purpose Time Trackers For Your Notes!
+- [Fnumatic/obsidian-plugin-dynamic-toc](https://github.com/fnumatic/obsidian-plugin-dynamic-toc) - An Obsidian Plugin For Creating Tables Of Contents That Stay Updated With Your Document
+- [Wakatime/obsidian-wakatime](https://github.com/wakatime/obsidian-wakatime) - Obsidian.md Plugin For Automatic Time Tracking And Metrics Generated From Your Obsidian Usage Activity.
+- [Kobbled/technical-obsidian-template](https://github.com/kobbled/technical-obsidian-template) - Base Template For Creating A Vault For Technical/scientific Notes
+- [Mocca101/obsidian-plugin-groups](https://github.com/Mocca101/obsidian-plugin-groups) - A Plugin That Allows You To Easily Group And Manage Your Other Plugins In Obsidian.
+- [Guopenghui/obsidian-text-compiler](https://github.com/guopenghui/obsidian-text-compiler) - Compile Text To Another Format
+- [AleksiVirkkala/obsidian-perspective-plugin](https://github.com/AleksiVirkkala/obsidian-perspective-plugin) - Plugin That Makes It Possible To Give Multiple Definitions For Single Concept And Switch Between Them Easily
+- [Fwends-net/obsidian-templates](https://github.com/fwends-net/obsidian-templates) - Templates For Obsidian
+- [Lexwebb/obsidian-story-graph](https://github.com/lexwebb/obsidian-story-graph) -
+- [VMaston/obsidian-scripts](https://github.com/VMaston/obsidian-scripts) - Collection Of Public Obsidian Scripts For Use With ObsidianMD.
+- [Dashedstripes/obsidian-to-hugo](https://github.com/dashedstripes/obsidian-to-hugo) - An Obsidian Plugin To Export Notes To Hugo
+- [Mpi31415/Obsidian-Indexator-Plugin](https://github.com/mpi31415/Obsidian-Indexator-Plugin) -
+- [Alangrainger/obsidian-google-photos](https://github.com/alangrainger/obsidian-google-photos) - Connect To Google Photos From Obsidian
+- [Jensmtg/influx](https://github.com/jensmtg/influx) - An Alternative Backlinks Plugin, Which Displays Relevant And Formatted Excerpts From Notes With Linked Mentions, Based On The Position Of Mentions In The Notes' Hierarchical Structure (Bullet Level In
+- [Benhughes/obsidian-link-exploder](https://github.com/benhughes/obsidian-link-exploder) -
+- [1stprinciples/auto-tagger-obsidian](https://github.com/1stprinciples/auto-tagger-obsidian) -
+- [Jmilldotdev/obsidian-gpt](https://github.com/jmilldotdev/obsidian-gpt) - Obsidian Plugin For Getting Language Model Completions From GPT-3, ChatGPT, Cohere, And Others
+- [Wgledbetter/do2obs](https://github.com/wgledbetter/do2obs) - DayOne Journal To Obsidian Notes
+- [Bramses/summarize-with-gpt3-obsidian](https://github.com/bramses/summarize-with-gpt3-obsidian) - Summarize Text With GPT-3 In Obsidian (Progressive Summarization)
+- [Rajputd/obsidian-metrics](https://github.com/rajputd/obsidian-metrics) - A Simple App To Track Metrics On Obsidian Usage
+- [PassionPenguin/obsidian-coded-card](https://github.com/PassionPenguin/obsidian-coded-card) -
+- [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model
+- [Oguzhaninan/Buka](https://github.com/oguzhaninan/Buka) - Buka Is A Modern Software That Helps You Manage Your Ebook At Ease.
+- [Noonesimg/obsidian-audio-player](https://github.com/noonesimg/obsidian-audio-player) - Audio Player Plugin With Bookmarks For Obsidian.md
+- [Make-md/makemd](https://github.com/Make-md/makemd) -
+- [Bobheadxi/clippings](https://github.com/bobheadxi/clippings) - 🌱 An Opinionated And Minimal Highlights And References Importer And Manager For Obsidian
+- [Rien7/obsidian-colorful-tag](https://github.com/rien7/obsidian-colorful-tag) - Make Your Tag More Beautiful And Powerful!
+- [Dobrovolsky/obsidian-structure](https://github.com/dobrovolsky/obsidian-structure) -
+- [Akaalias/Streamline](https://github.com/akaalias/Streamline) - Streamline Is A Stream-of-consciousness Writer For Obsidian
+- [Seraphli/obsidian-link-embed](https://github.com/Seraphli/obsidian-link-embed) - This Plugin Allow You To Convert URLs In Your Notes Into Embeded Previews.
+- [Ivre/obsidian-ivre-plugin](https://github.com/ivre/obsidian-ivre-plugin) - Grabs Data From IVRE And Brings It Into Obsidian Notes
+- [Vilmacio/gslides-maker](https://github.com/vilmacio/gslides-maker) - Generate Google Slides From Wikipedia Content
+- [Blackberry/pe_tree](https://github.com/blackberry/pe_tree) - Python Module For Viewing Portable Executable (PE) Files In A Tree-view Using Pefile And PyQt5. Can Also Be Used With IDA Pro And Rekall To Dump In-memory PE Files And Reconstruct Imports.
+- [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy) - A Curated List Of Awesome Warez And Piracy Links.
+- [Lightning-Universe/Echo](https://github.com/Lightning-Universe/Echo) - Production-ready Audio And Video Transcription App That Can Run On Your Laptop Or In The Cloud.
+- [M1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Run Your Own GPTChat Telegram Bot, With A Single Command!
+- [Dabblelab/gptanswers-node](https://github.com/dabblelab/gptanswers-node) - Building A GPT-3 Knowledge Base App (NodeJS)
+- [Belay-labs/gpt-explorer](https://github.com/belay-labs/gpt-explorer) - GPT-3 Explorer
+- [Alignedai/chatgpt-prompt-evaluator](https://github.com/alignedai/chatgpt-prompt-evaluator) - This Shows The Results From Using A Second, Filter LLM That Analyses Prompts Before Sending Them To GPT-Chat
+- [Progrmoiz/awesome-chatgpt](https://github.com/progrmoiz/awesome-chatgpt) - Prompts, Resources, Demos, And Everything
+- [Mixu/markdown-styles](https://github.com/mixu/markdown-styles) - Markdown To Static HTML Generator And Multiple CSS Themes For Markdown
+- [1000ch/node-github-markdown](https://github.com/1000ch/node-github-markdown) - Parse GitHub Flavored Markdown To Static Html.
+- [Thatguyjs/idaro](https://github.com/Thatguyjs/idaro) - An Easy-to-use Static Site Generator For Markdown Pages
+- [Mborne/markdown-to-html](https://github.com/mborne/markdown-to-html) - An Experimental Markdown Renderer Based On Marked Aiming At Providing Both A Static Site Generator And A Live Server
+- [Addozhang/obsidian-image-upload-toolkit](https://github.com/addozhang/obsidian-image-upload-toolkit) - An Obsidian Plugin For Uploading Local Images Embedded In Markdown To Remote Store And Export Markdown For Publishing To Static Site.
+- [GBasil/anise](https://github.com/gBasil/anise) - ⭐ A Simplistic Alternative To Obsidian Publish And Quartz.
+- [Farallon-OSINT/OSINT-Project](https://github.com/Farallon-OSINT/OSINT-Project) - This Project Is Using Digital Garden To Publish From Obsidian. It Can Be Seen Here
+- [Wchorski/nextjs-obsidian-publish](https://github.com/wchorski/nextjs-obsidian-publish) - Alternative To Obsidian Publish
+- [Tokenshift/obsidian-page-gallery](https://github.com/tokenshift/obsidian-page-gallery) - Generates A Gallery Based On Selected Page Contents.
+- [S-blu/obsidian_dataview_example_vault](https://github.com/s-blu/obsidian_dataview_example_vault) - A Example Vault To Collect And Showcase Various Dataview Queries. Created On Behalf Of AB1908
+- [Breadthe/sd-buddy](https://github.com/breadthe/sd-buddy) - Companion Desktop App For The Self-hosted M1 Mac Version Of Stable Diffusion
+- [SingularReza/drive-folder-copier](https://github.com/SingularReza/drive-folder-copier) - A Simple Script To Copy Folders To Team Drives/Shared Drives In Google Drive
+- [Onflapp/TextSerPlugins](https://github.com/onflapp/TextSerPlugins) - Plugins For TextSer App
+- [Lvwzhen/ChatGPT-Matrix-Style](https://github.com/lvwzhen/ChatGPT-Matrix-Style) - Make ChatGPT Like The Matrix.
+- [Jina-ai/dalle-flow](https://github.com/jina-ai/dalle-flow) - 🌊 A Human-in-the-Loop Workflow For Creating HD Images From Text
+- [Lkrimphove/obsidian-templates](https://github.com/lkrimphove/obsidian-templates) - Templates And Scripts For Obsidian.md
+- [Yanenok/obsidian-images-plugin](https://github.com/yanenok/obsidian-images-plugin) - Easy Image Layouts For Obsidian
+- [Vertis/obsidian-image-layouts](https://github.com/vertis/obsidian-image-layouts) -
+- [Zremboldt/obsidian-media-grid](https://github.com/zremboldt/obsidian-media-grid) - Add More Meaning And Visual Interest To Your Markdown Documents By Grouping Sets Of Images, Videos, Or Even Audio Tracks Into Grid Layouts In Obsidian.
+- [Cmdr2/stable-diffusion-ui](https://github.com/cmdr2/stable-diffusion-ui) - Easiest 1-click Way To Install And Use Stable Diffusion On Your Own Computer. Provides A Browser UI For Generating Images From Text Prompts And Images. Just Enter Your Text Prompt, And See The Generat
+- [Pinilpypinilpy/sd-webui-colab-simplified](https://github.com/pinilpypinilpy/sd-webui-colab-simplified) - A One-click Version Of Sd-webui-colab
+- [Abhishek-nigam/raindrop-backup-bookmarks](https://github.com/abhishek-nigam/raindrop-backup-bookmarks) - A Simple Tool I Use To Backup My Bookmarks From Raindrop.io Service
+- [Antonnagorniy/raindrop-io-api-client](https://github.com/antonnagorniy/raindrop-io-api-client) -
+- [KittenYang/ChatGPT-Mac-MenuBar](https://github.com/KittenYang/ChatGPT-Mac-MenuBar) - Chat With OpenAI's ChatGPT In Mac Menu Bar Like A Pro.
+- [Danielunderwood/notes-scripts](https://github.com/danielunderwood/notes-scripts) - Scripts For Organizing And Reformatting Markdown Notes
+- [Davycloud/obtool](https://github.com/davycloud/obtool) - A Command Lint Tool For Obsidian
+- [Quinn-p-mchugh/obsidian-bulk-editing-utils](https://github.com/quinn-p-mchugh/obsidian-bulk-editing-utils) - Scripts For Bulk Editing Markdown Files In Obsidian
+- [Ergebnis/day-one-to-obsidian-converter](https://github.com/ergebnis/day-one-to-obsidian-converter) - :Notebook: Provides A Console Command For Converting DayOne Journals To Obsidian Notes.
+- [Valentine195/fantasy-statblocks](https://github.com/valentine195/fantasy-statblocks) - Create Dungeons And Dragons Style Statblocks For Obsidian.md
+- [Trikzon/obsidian-frontmatter-links](https://github.com/Trikzon/obsidian-frontmatter-links) - An Obsidian Plugin That Renders Links In A Note's Frontmatter As Links.
+- [Jjuliano/markdown-ui](https://github.com/jjuliano/markdown-ui) - Write UI In Markdown Syntax
+- [Rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create Book From Markdown Files. Like Gitbook But Implemented In Rust
+- [Barnesoir/chatgpt-vscode-plugin](https://github.com/barnesoir/chatgpt-vscode-plugin) - A VS Code Plugin For ChatGPT Built By ChatGPT
+- [Maks-s/sd-akashic](https://github.com/Maks-s/sd-akashic) - A Compendium Of Informations Regarding Stable Diffusion (SD)
+- [Anonymousaga/webloc-to-url-mac-app](https://github.com/anonymousaga/webloc-to-url-mac-app) - A GUI Mac App That Converts Mac-specific Webloc Files Into Equally-functional URL Files That Also Work With Windows.
+- [DamianFlynn/py-obsidian-parser](https://github.com/DamianFlynn/py-obsidian-parser) - Obsidian Parser, Used To Create The Content For Hugo SSG
+- [Clemens-E/obsidian-languagetool-plugin](https://github.com/Clemens-E/obsidian-languagetool-plugin) - Languagetool Plugin For Obsidian
+- [Tahaluindo/Free-Proxies](https://github.com/tahaluindo/Free-Proxies) - Free Proxy Auto Update The Tools Is Work
+- [Erusev/parsedown-extra](https://github.com/erusev/parsedown-extra) - Markdown Extra Extension For Parsedown
+- [Suntong/html2md](https://github.com/suntong/html2md) - HTML To Markdown Converter
+- [Mdube99/websiteToMarkdown](https://github.com/mdube99/websiteToMarkdown) -
+- [SettingDust/obsidian-web-clipper](https://github.com/SettingDust/obsidian-web-clipper) - Clip Web Page Content To Obsidian As Markdown
+- [Aleen42/gitbook-treeview](https://github.com/aleen42/gitbook-treeview) - :Evergreen_tree: A Gitbook Plugin For Generating Tree View For Ech Page
+- [Warpdotdev/commands.dev](https://github.com/warpdotdev/commands.dev) - Commands.dev Is A Searchable, Templated Catalog Of Popular Terminal Commands Curated From Across The Internet.
+- [Devsecboy/DomainRecon](https://github.com/devsecboy/DomainRecon) - Based On URL And Organization Name, Collect The IP Ranges, Subdomains Using Various Tools Like Amass, Subfinder, Etc.. And Check For Uphost And Run Masscan To Grap CNAME Entries, Take The Screenshot O
+- [Riramar/Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet) - Web Attack Cheat Sheet
+- [Bgebhardt/osx_scripts_folder](https://github.com/bgebhardt/osx_scripts_folder) - My Repository Of Miscellaneous AppleScripts I've Written For OS X
+- [Stepva/chatalysis](https://github.com/stepva/chatalysis) - Analyse And Visualise Your Chats - Currently Supporting Facebook Messenger And Instagram
+- [Tsouchlarakis/imessage-extractor](https://github.com/tsouchlarakis/imessage-extractor) - Extract Chat Data From IMessage And Much, Much More!
+- [Sindresorhus/urls-md](https://github.com/sindresorhus/urls-md) - Convert URLs To Markdown Links: Extracts URLs From Text → Gets Their Article Title → Creates Markdown Links
+- [Obsidianforensics/obsidianforensics](https://github.com/obsidianforensics/obsidianforensics) -
+- [Obsidianforensics/unfurl](https://github.com/obsidianforensics/unfurl) - Extract And Visualize Data From URLs Using Unfurl
+- [Trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome Deals On Black Friday: Apps, SaaS, Books, Courses, Etc.
+- [Harrisonpim/broken-link-checker](https://github.com/harrisonpim/broken-link-checker) - 🔗 A Github Action To Periodically Check A Site For Broken Links
+- [Timaschew/link-checker](https://github.com/timaschew/link-checker) - 🚀Superfast Link Checker For HTML Pages
+- [Butuzov/deadlinks](https://github.com/butuzov/deadlinks) - Health Checks For Your Documentation Links. Https://pypi.org/project/deadlinks
+- [Nazuke/SEOMacroscope](https://github.com/nazuke/SEOMacroscope) - SEO Macroscope Is A Website Scanning Tool, To Check Your Website For Broken Links; Including Some Technical SEO Functionality, Site Scraping, Excel Reporting, And More.
+- [Smallhadroncollider/brok](https://github.com/smallhadroncollider/brok) - Find Broken Links In Text Documents
+- [Cipher387/regex-for-OSINT](https://github.com/cipher387/regex-for-OSINT) - A List Of Application Tools And Information Resources To Help You Effectively Use Regular Expressions In OSINT (Open Source Intelligence)
+- [Cipher387/Advanced-search-operators-list](https://github.com/cipher387/Advanced-search-operators-list) - List Of The Links To The Docs For Different Services, Which Explain Using Of Advanced Search Operators
+- [Cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List Of Github Repositories And Articles With List Of Dorks For Different Search Engines
+- [Oduwsdl/archivenow](https://github.com/oduwsdl/archivenow) - A Tool To Push Web Resources Into Web Archives
+- [Omilab/internet-archive-link-extractor](https://github.com/omilab/internet-archive-link-extractor) - Tool For Extracting External Links Of A URL From Internet Archive Snapshots
+- [Pjamar/htmls-to-datasette](https://github.com/pjamar/htmls-to-datasette) - Tool To Index And Serve HTML Files. Powered By Datasette.
+- [Teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats) - Showcase Your Github Stats On Your Profile README.md
+- [Vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A Tool To Generate Your Github Summary Card For Profile README
+- [Kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A Collection Of Awesome Readme Templates To Display On Your Profile
+- [Rippedpiracy/docs](https://github.com/rippedpiracy/docs) -
+- [Filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform Internet Upload/download Manager For HTTP(S), FTP(S), SSH, Magnet-link, BitTorrent, M3u8, Ed2k, And Online Videos. WebDAV Client, FTP Client, SSH Client.
+- [JohnDeved/megacrypt.js](https://github.com/JohnDeved/megacrypt.js) - Just A Concept For Now
+- [Menukaonline/Mega-to-Google-Drive](https://github.com/menukaonline/Mega-to-Google-Drive) - This Is A Google Colab Notebook That Helps You To Transfer Files From Mega To Google Drive
+- [Loli-Killer/TgFolderClone](https://github.com/Loli-Killer/TgFolderClone) - Telegram Bot For Using Folderclone
+- [JonathanTIE/googledrive-copy-downloader](https://github.com/jonathanTIE/googledrive-copy-downloader) - Python Script To Download Google Drive Files Even If The Daily Limit Of Download Has Excedeed.
+- [Ericyd/gdrive-copy](https://github.com/ericyd/gdrive-copy) - Web App To Copy A Google Drive Folder
+- [Tasti/react-linkify](https://github.com/tasti/react-linkify) - React Component To Parse Links (Urls, Emails, Etc.) In Text Into Clickable Links
+- [E-oj/grabity](https://github.com/e-oj/grabity) - Generate Link Previews From Pages With Open Graph Or Twitter Cards Markup. Just Grab It! 🎣
+- [Acidham/search-alfred-workflows](https://github.com/Acidham/search-alfred-workflows) - Search Alfred Workflows
+- [Gilbarbara/alfred-workflows](https://github.com/gilbarbara/alfred-workflows) - Collection Of Alfred Workflows
+- [Joebuhlig/alfred-obsidian-projects](https://github.com/joebuhlig/alfred-obsidian-projects) - Alfred Workflow For Managing Project Folders And Note Files In Obsidian.
+- [Chrisgrieser/shimmering-obsidian](https://github.com/chrisgrieser/shimmering-obsidian) - Alfred Workflow For Various Enhancements Of Obsidian.
+- [Zeus-12/fmhy-ui](https://github.com/zeus-12/fmhy-ui) - Frontend For A Popular Reddit Community, Fmhy.
+- [Polo2ro/imapbox](https://github.com/polo2ro/imapbox) - Dump Imap Inbox To A Local Folder In A Regular Backupable Format: Html, Json And Attachements
+- [Forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - The Best Free Email Forwarding For Custom Domains (Web Server)
+- [PatheticGeek/gdrive-index](https://github.com/patheticGeek/gdrive-index) - An Index Server For Google Drive
+- [G4brym/R2-Explorer](https://github.com/G4brym/R2-Explorer) - A Google Drive Interface For Your Cloudflare R2 Buckets
+- [Thebrandonc/gdrive-file-auditor](https://github.com/thebrandonc/gdrive-file-auditor) - This Repo Contains A Script That Turns Google Sheets Into A File Permissions Auditor For Google Drive. The Script Adds A New Menu Item To The Sheet With An Option To Run The File Auditing Process. Whi
+- [LeeluPradhan/G-Index](https://github.com/LeeluPradhan/G-Index) - Google Drive Directory Index Running On CloudFlare Workers [Search + DarkMode] [ENGLISH]
+- [Rokibhasansagar/BhadooGDIndex](https://github.com/rokibhasansagar/BhadooGDIndex) - Customized Mirror For Bhadoo Google Drive Index Repo From GitLab
+- [Nfway/gdrive-index](https://github.com/nfway/gdrive-index) - Fork From Http://github.com/Aicirou/goindex-theme-acrou/ Remove The Tracking Code, For Good.
+- [Menukaonline/goindex-extended](https://github.com/menukaonline/goindex-extended) - A Google Drive Index, Which Has A Lot Of Extra Features, Running On Cloudflare Workers.
+- [Shashankdeshpande/github-profile-generator](https://github.com/shashankdeshpande/github-profile-generator) - Generate README For GitHub Profile Using This Web App!
+- [Marshallku/banner-maker](https://github.com/marshallku/banner-maker) - Create Thumbnails, And Banners With HTML5 Canvas
+- [Thingnotok/obsidian-google-mail](https://github.com/thingnotok/obsidian-google-mail) - Fetch Emails To Obsidian (As Markdown) From Gmail Server
+- [Dustinknopoff/obsidian-snippets](https://github.com/dustinknopoff/obsidian-snippets) - A Communal Collection Of Obsidian Snippets For Theming, Plugin Development, And Power Usage.
+- [ArianaKhit/text-snippets-obsidian](https://github.com/ArianaKhit/text-snippets-obsidian) - Snippets Plugin For Obsidian
+- [255kb/stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A Collection Of Services With Great Free Tiers For Developers On A Budget. Sponsored By Mockoon, The Best Mock API Tool. Https://mockoon.com
+- [AchoArnold/discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev) - This Is List Of Discounts On Software (SaaS, PaaS, IaaS, Etc.) And Other Offerings For Developers Who Are Students
+- [Luckman212/obsidian-plugin-downloader](https://github.com/luckman212/obsidian-plugin-downloader) - Search, Download And Explore The Growing Library Of Obsidian Plugins!
+- [Cloudhao1999/obsidian-scroll-to-top-plugin](https://github.com/cloudhao1999/obsidian-scroll-to-top-plugin) - This Is A Plugin For Obsidian That Adds A Button To Scroll To The Top Of The Current Note.
+- [Johackim/obsidian-writing](https://github.com/johackim/obsidian-writing) - Write And Format Your Next Book Directly From Obsidian
+- [Fevol/obsidian-translate](https://github.com/Fevol/obsidian-translate) - A Translation Plugin For Obsidian
+- [Nogira/obsidian-better-links](https://github.com/nogira/obsidian-better-links) - Converts A URL To A Pretty Formatted Link.
+- [J-E-J-S/autograph-obsidian](https://github.com/J-E-J-S/autograph-obsidian) - Automatic Knowledge Graph Generation For Obsidian.md
+- [TfTHacker/obsidian42-strange-new-worlds](https://github.com/TfTHacker/obsidian42-strange-new-worlds) - Discover The Connections Of Thought In Your Obsidian Vault
+- [MaLeLabTs/RegexGenerator](https://github.com/MaLeLabTs/RegexGenerator) - This Project Contains The Source Code Of A Tool For Generating Regular Expressions For Text Extraction: 1. Automatically, 2. Based Only On Examples Of The Desired Behavior, 3. Without Any External Hi
+- [Lukehaas/RegexHub](https://github.com/lukehaas/RegexHub) - A Collection Of Useful Regex Patterns
+- [Mdnice/sitdown](https://github.com/mdnice/sitdown) - Turn Html To Nice Markdown
+- [Island205/h2m](https://github.com/island205/h2m) - Tool For Converting HTML To Markdown, Like Html2markdown.
+- [Ebullient/obsidian-snippetor](https://github.com/ebullient/obsidian-snippetor) - An Assist For Creating CSS Snippets For Obsidian
+- [Lovelacecoding/Helpful-Tech-Resources](https://github.com/lovelacecoding/Helpful-Tech-Resources) - A Collection Of Helpful And Educational Resources I Found On Social Media
+- [WebMemex/webmemex-extension](https://github.com/WebMemex/webmemex-extension) - 📇 Your Digital Memory Extension, As A Browser Extension
+- [Tavernhell/useful-stuff](https://github.com/tavernhell/useful-stuff) - Basic Website In Which I Store My Favorites, Useful Software Etc.
+- [Tosoju/awesome-piracy](https://github.com/Tosoju/awesome-piracy) - A Curated List Of Awesome Warez And Piracy Links [But I Actually Update It]
+- [Concrete-utopia/utopia](https://github.com/concrete-utopia/utopia) - Design ❤️ Code
+- [Louis3797/awesome-readme-template](https://github.com/Louis3797/awesome-readme-template) - An Awesome README Template For Your Projects!
+- [Akshay090/svg-banners](https://github.com/Akshay090/svg-banners) - Styled Banners For Your Readme Made With Html/css In SVG !!
+- [Upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free Uptime Monitor And Status Page Powered By GitHub
+- [Slhck/sanitize-filenames](https://github.com/slhck/sanitize-filenames) - MacOS Workflow To Sanitize Filenames
+- [Imanzarrabian/StarsToRain](https://github.com/imanzarrabian/StarsToRain) - Simple Python Script That Exports All Github Stars For A Given User Into An HTML File Importable By Raindrop.io
+- [Cryptix/gombrella](https://github.com/cryptix/gombrella) - Extract Bookmarks From Raindrop.io
+- [Virgile-fr/Raindrop-HomePage](https://github.com/Virgile-fr/Raindrop-HomePage) - Raindrop HomePage Is A Minimalist Interface To Display Your Raindrop.io Bookmarks Marked As Favorites. This Application Is Not Intended To Replicate The Interface Of Raindrop.io.
+- [Tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) - Showcase Your Skills On Your Github Readme Or Resumé With Ease ✨
+- [Hilja/file-batcher](https://github.com/hilja/file-batcher) - Bulk Edit Front Matter Markdown Files With Ease
+- [Piyushmaurya23/free-for-student](https://github.com/piyushmaurya23/free-for-student) - A List Of Developers Tools & Services Which Are Free For Students. This Repo Will Also Contains List Of Free Tier Services.
+- [Ajju2211/free-college-id](https://github.com/Ajju2211/free-college-id) - This Application Provides Free College ID Cards For Students.
+- [Shalvah/Free-for-students](https://github.com/shalvah/Free-for-students) - Because Software Is Expensive, Money Is Elusive And Piracy Is…evil!
+- [Gollum/gollum](https://github.com/gollum/gollum) - A Simple, Git-powered Wiki With A Sweet API And Local Frontend.
+- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern Documentation Format And Toolchain Using Git And Markdown
+- [Saber2pr/wiki-builder](https://github.com/Saber2pr/wiki-builder) - Powered By Saber2pr.github.io
+- [Cmbrose/github-docs-to-wiki](https://github.com/cmbrose/github-docs-to-wiki) -
+- [Thlorenz/doctoc](https://github.com/thlorenz/doctoc) - 📜 Generates Table Of Contents For Markdown Files Inside Local Git Repository. Links Are Compatible With Anchors Generated By Github Or Other Sites.
+- [EshanTrivedi21/Git-CheatSheet](https://github.com/EshanTrivedi21/Git-CheatSheet) - An Opensource Initiative To Which Over 37 Individuals From All Over The World Collaborated In Order To Streamline The Process Of Learning Git And GitHub.
+- [Platers/obsidian-linter](https://github.com/platers/obsidian-linter) - An Obsidian Plugin That Formats And Styles Your Notes With A Focus On Configurability And Extensibility.
+- [Etsy/MIDAS](https://github.com/etsy/MIDAS) - Mac Intrusion Detection Analysis System
+- [Vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A Curated List Of Awesome Things Related To Vue.js
+- [Googleprojectzero/iOS-messaging-tools](https://github.com/googleprojectzero/iOS-messaging-tools) -
+- [Siguza/imobax](https://github.com/Siguza/imobax) - IOS Mobile Backup Extractor
+- [S3Jensen/iRET](https://github.com/S3Jensen/iRET) -
+- [Dmayer/idb](https://github.com/dmayer/idb) - Idb Is A Tool To Simplify Some Common Tasks For IOS Pentesting And Research
+- [Pstirparo/mac4n6](https://github.com/pstirparo/mac4n6) - Collection Of Forensics Artifacs Location For Mac OS X And IOS
+- [Jipegit/OSXAuditor](https://github.com/jipegit/OSXAuditor) - OS X Auditor Is A Free Mac OS X Computer Forensics Tool
+- [Yelp/osxcollector](https://github.com/Yelp/osxcollector) - A Forensic Evidence Collection & Analysis Toolkit For OS X
+- [Selimrbd/py-obsidianmd](https://github.com/selimrbd/py-obsidianmd) - Python Interface To Your Obsidian Notes
+- [Edwardcodelab/bookmark2wiki](https://github.com/edwardcodelab/bookmark2wiki) - To Send Bookmark From Browser To Dokuwiki
+- [Vishnugopal/bookmarks-to-obsidian](https://github.com/vishnugopal/bookmarks-to-obsidian) - Syncs Netscape Bookmarks.html To Markdown Files For Use In Obsidian
+- [Bxrlin/blossom-night-startpage](https://github.com/bxrlin/blossom-night-startpage) - Aesthetic Startpage With Essential Bookmarks
+- [Woywro/Linkly](https://github.com/woywro/Linkly) - :Zap: Open Source Tool To Manage Bookmarks. Each Link Can Be Assigned To Collection And Each Collection Can Be Shared With Other Users.
+- [DBDoco/Better-Bookmarks](https://github.com/DBDoco/Better-Bookmarks) - JavaScript Google Chrome Extension That Improves Default Bookmark Feature By Adding Ability To Include Notes Byside Given Bookmarks.
+- [Manpreet-Singh001/bookmarks](https://github.com/Manpreet-Singh001/bookmarks) - Web-app To Store The Bookmarks In A Way I Like.
+- [Rifkyzena/bookmark-keeper](https://github.com/rifkyzena/bookmark-keeper) - A Mobile-responsive Website That Allows User To Locally Save And Edit Bookmarks Of Any Website Links.
+- [Pajecawav/pockly](https://github.com/pajecawav/pockly) - Bookmark Manager
+- [Przemsen/BookmarksBase](https://github.com/przemsen/BookmarksBase) - Searching Through All Bookmarked Web Sites
+- [Pfcao/abookmark](https://github.com/pfcao/abookmark) - Advanced Bookmark & Tab Manager
+- [Andreasphil/bookmarks](https://github.com/andreasphil/bookmarks) - 🐿 A Collection Of Useful And Mostly Free Resources And Tools Around Web Development, Design, And Programming In General
+- [Hundredrabbits/Themes](https://github.com/hundredrabbits/Themes) - Simple Theme Framework
+- [Dotcli/memex](https://github.com/dotcli/memex) - Simple Bookmarks And Notes
+- [Hackershare/hackershare](https://github.com/hackershare/hackershare) - Hackershare Is A Powerful Social Bookmarking Service And A Knowledge-sharing Community, With Advanced Search And Tag Management Feature
+- [Balogunpraise/bookmarkapp](https://github.com/balogunpraise/bookmarkapp) - A Simple Bookmark Application Using Nestjs
+- [Bboerzel/raindrop-to-obsidian](https://github.com/bboerzel/raindrop-to-obsidian) -
+- [Squarebitchris/raindropio-to-obsidian](https://github.com/squarebitchris/raindropio-to-obsidian) - Sync Raindrop Data Into Obsidian
+- [9gits/windsribe-account-generator-confirmation](https://github.com/9gits/windsribe-account-generator-confirmation) -
+- [Luckymarmot/ThemeKit](https://github.com/luckymarmot/ThemeKit) - MacOS Theming Library
+- [Trapexit/mergerfs](https://github.com/trapexit/mergerfs) - A Featureful Union Filesystem
+- [Priyankavergadia/google-cloud-4-words](https://github.com/priyankavergadia/google-cloud-4-words) - The Google Cloud Developer's Cheat Sheet
+- [Jlord/git-it-electron](https://github.com/jlord/git-it-electron) - :Computer: :Mortar_board: Git-it Is A (Mac, Win, Linux) Desktop App For Learning Git And GitHub
+- [Rust1667/a-FMHY-search-engine](https://github.com/Rust1667/a-FMHY-search-engine) - A Search Engine For The Link Collection FMHY (Https://www.reddit.com/r/FREEMEDIAHECKYEAH/)
+- [Notwaldorf/tiny-care-terminal](https://github.com/notwaldorf/tiny-care-terminal) - 💖💻 A Little Dashboard That Tries To Take Care Of You When You're Using Your Terminal.
+- [Phillipadsmith/awesome-github](https://github.com/phillipadsmith/awesome-github) - A Curated List Of GitHub's Awesomeness
+- [Radam9/bookmarks-converter](https://github.com/radam9/bookmarks-converter) - Parse Db/html/json Bookmarks File From (Chrome - Firefox - Custom Source) And Convert It To Db/html/json Format.
+- [Kcabo/bookmark-file-prettify](https://github.com/kcabo/bookmark-file-prettify) - Improve The Visual Appearanceof NETSCAPE-Bookmark-files
+- [Xiaoluoboding/bookmark.style](https://github.com/xiaoluoboding/bookmark.style) - 🪄 Turn Any Link Into A Stylish Visual Web Bookmark, One-click To Copy The Beautiful Web Bookmark Image.
+- [WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate) - 📦🔗 Organize Your Web With WebCrate, A Modern And Beautiful Bookmarking Tool
+- [Trustedsec/Obsidian-Vault-Structure](https://github.com/trustedsec/Obsidian-Vault-Structure) -
+- [Garyng/obsidian-temple](https://github.com/garyng/obsidian-temple) - A Plugin For Templating In Obsidian, Powered By Nunjucks.
+- [Cwinfosec/redteam_obsidian_templates](https://github.com/cwinfosec/redteam_obsidian_templates) - Red Team Templates For Obsidian.md
+- [Faroukx/obsidian-homepage](https://github.com/faroukx/obsidian-homepage) - Obsidian Homepage - Minimal And Aesthetic Template (With My Unique Features)
+- [TfTHacker/obsidian42-brat](https://github.com/TfTHacker/obsidian42-brat) - BRAT - Beta Reviewer's Auto-update Tool For Obsidian. Part Of The Obsidian42 Family Of Plugins.
+- [Guomo/ObsidianHelper](https://github.com/guomo/ObsidianHelper) - Simple Scripts To Generate Local Hierarchies For Us With The Popular Obsidian Not Taking Tool.
+- [JoshSweaterGuy/lava](https://github.com/JoshSweaterGuy/lava) - Lava Is A Markup Generation Tool Built For Obsidian
+- [Jachimo/obstagtools](https://github.com/Jachimo/obstagtools) - Obsidian YAML+Markdown Document Tagging Tools
+- [Pythonadventurer/PySidian](https://github.com/pythonadventurer/PySidian) - Miscellaneous Tools For The Obsidian Note Taking App.
+- [Darthmachina/obsidian-neural-link](https://github.com/darthmachina/obsidian-neural-link) - Tool To Automate Obsidian Data
+- [Wchorski/obsidian-developer](https://github.com/wchorski/obsidian-developer) - Tutorials, Set Up, Self Hosted, Routing, Tooling, Home Lab, Etc
+- [MarkMindCkm/obsidian-markmind](https://github.com/MarkMindCkm/obsidian-markmind) - A Mind Map, Outline And Pdf Annotate Tool For Obsidian,It Support Mobile And Desktop
+- [Aidenlx/obsidian-icon-shortcodes](https://github.com/aidenlx/obsidian-icon-shortcodes) - Obsidian Plugin: Insert Emoji And Custom Icons With Shortcodes
+- [Mgmeyers/obsidian-icon-swapper](https://github.com/mgmeyers/obsidian-icon-swapper) - Allows Swapping Out Obsidian's Icons
+- [Newdevprojects/publish](https://github.com/Newdevprojects/publish) - Obsidian Notes
+- [Lun-4/obsidian2web](https://github.com/lun-4/obsidian2web) - My Obsidian Publish Knockoff That Generates (Largely Static) Websites
+- [CommitSans/obsidian-gitbook](https://github.com/CommitSans/obsidian-gitbook) - A Quick Tool To Publish An Obsidian Vault On GitBook
+- [Reorx/obsidian-telegraph-publish](https://github.com/reorx/obsidian-telegraph-publish) - Publish Your Obsidian Note To A Telegraph Page.
+- [SaraVieira/obsidian-notes-publish-plugin](https://github.com/SaraVieira/obsidian-notes-publish-plugin) - An Obsidian Plugin To Publish Your Notes
+- [Jaynguyens/obsidian-ghost-publish](https://github.com/jaynguyens/obsidian-ghost-publish) - Write On Obsidian. Publish To Ghost With A Single Click.
+- [PabloLION/free-lightweight-obsidian-publisher](https://github.com/PabloLION/free-lightweight-obsidian-publisher) -
+- [Yoursamlan/pubsidian](https://github.com/yoursamlan/pubsidian) - An Obsidian-Publish Alternative But It's FREE
+- [Eviabs/downtify-premium](https://github.com/eviabs/downtify-premium) - Downtify Is An Open Source Spofity Downloader Which Makes It Possible To Download All Your Favourite Songs And/or Playlists Directly From Spotify. A Spotify Premium Account Is Required.
+- [DobyTang/LazyLibrarian](https://github.com/DobyTang/LazyLibrarian) - This Project Isn't Finished Yet. Goal Is To Create A SickBeard, CouchPotato, Headphones-like Application For Ebooks. Headphones Is Used As A Base, So There Are Still A Lot Of References To It.
+- [Mrjackphil/obsidian-text-expand](https://github.com/mrjackphil/obsidian-text-expand) - A Simple Text Expand Plugin For Obsidian.md
+- [Openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition Via Large-Scale Weak Supervision
+- [Koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A Tiling Window Manager For MacOS Based On Binary Space Partitioning
+- [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A Latent Text-to-image Diffusion Model
+- [CoolElectronics/bookmarkfs](https://github.com/CoolElectronics/bookmarkfs) - Exploit Chrome's Profile Sync For Free Cloud Storage
+- [Hadynz/obsidian-sidekick](https://github.com/hadynz/obsidian-sidekick) - A Companion To Identify Hidden Connections That Match Your Tags And Pages
+- [Lukeleppan/better-word-count](https://github.com/lukeleppan/better-word-count) - Counts The Words Of Selected Text In The Editor.
+- [Caronchen/obsidian-chartsview-plugin](https://github.com/caronchen/obsidian-chartsview-plugin) - Data Visualization Solution In Obsidian, Support Plots And Graphs.
+- [Theowenyoung/gatsby-theme-primer-wiki](https://github.com/theowenyoung/gatsby-theme-primer-wiki) - A Gatsby Theme For Wiki/Docs/Knowledge Base, Which Using Primer Style As The UI Theme, Can Work Well With Foam Or Obsibian Or Just Markdown Files.
+- [Cuken/obsidian-weave](https://github.com/cuken/obsidian-weave) - Obsidian Vault Template For Software Developers/Managers Working In The Corporate World.
+- [Qawatake/obsidian-core-search-assistant-plugin](https://github.com/qawatake/obsidian-core-search-assistant-plugin) - An Obsidian Plugin To Enhance Built-in Search: Keyboard Interface, Card Preview, Bigger Preview
+- [Mgmeyers/obsidian-contextual-typography](https://github.com/mgmeyers/obsidian-contextual-typography) -
+- [Benature/obsidian-text-format](https://github.com/Benature/obsidian-text-format) - Format Seleted Text In Obsdidian.md
+- [Mokeyish/obsidian-enhancing-export](https://github.com/mokeyish/obsidian-enhancing-export) - This Is An Enhancing Export Plugin Base On Pandoc For Obsidian (Https://obsidian.md/ ). It's Allow You To Export To Formats Like Markdown、Markdown (Hugo Https://gohugo.io/ )、Html、docx、Latex Etc.
+- [Tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template) - Starter Templates For Obsidian
+- [Tth05/obsidian-completr](https://github.com/tth05/obsidian-completr) - Auto-completion Plugin For The Obsidian Editor.
+- [Arnau/obsidian-metatable](https://github.com/arnau/obsidian-metatable) - An Obsidian Plugin To Display The Frontmatter Section As A Fully Expanded Table.
+- [Mgmeyers/obsidian-smart-typography](https://github.com/mgmeyers/obsidian-smart-typography) - Converts Quotes To Curly Quotes, Dashes To Em Dashes, And Periods To Ellipses
+- [Visini/obsidian-icons-plugin](https://github.com/visini/obsidian-icons-plugin) - Add Icons To Your Obsidian Notes–Experimental Obsidian Plugin
+- [Phibr0/obsidian-commander](https://github.com/phibr0/obsidian-commander) - Commander - Obsidian Plugin | Add Commands To Every Part Of Obsidian's User Interface
+- [FHachez/obsidian-convert-url-to-iframe](https://github.com/FHachez/obsidian-convert-url-to-iframe) - Plugin For Obsidian.md To Convert A Selected URL To An Iframe.
+- [Tanepiper/obsidian-garden](https://github.com/tanepiper/obsidian-garden) - A Knowledge Management Garden For Https://obsidian.md, In Which To Grow Your Ideas
+- [Denolehov/obsidian-url-into-selection](https://github.com/denolehov/obsidian-url-into-selection) - Paste URLs Into Selected Text "Notion Style"
+- [Tadashi-aikawa/obsidian-various-complements-plugin](https://github.com/tadashi-aikawa/obsidian-various-complements-plugin) - This Plugin For Obsidian Enables You Complete Words Like The Auto-completion Of IDE.
+- [FlorianWoelki/obsidian-icon-folder](https://github.com/FlorianWoelki/obsidian-icon-folder) - Simply Add Icons To Your Folders Or Files In Obsidian.
+- [Noatpad/obsidian-banners](https://github.com/noatpad/obsidian-banners) - An Obsidian Plugin That Adds Banners To Your Notes
+- [Chhoumann/MetaEdit](https://github.com/chhoumann/MetaEdit) - MetaEdit For Obsidian
+- [Phibr0/obsidian-charts](https://github.com/phibr0/obsidian-charts) - Charts - Obsidian Plugin | Create Editable, Interactive And Animated Charts In Obsidian Via Chart.js
+- [Ppeetteerrs/obsidian-zola](https://github.com/ppeetteerrs/obsidian-zola) - A No-brainer Solution To Turning Your Obsidian PKM Into A Zola Site.
+- [Masonlr/obsidian-starter-templates](https://github.com/masonlr/obsidian-starter-templates) - :Rocket: Starter Templates For Obsidian.md
+- [Mgmeyers/obsidian-style-settings](https://github.com/mgmeyers/obsidian-style-settings) - A Dynamic User Interface For Adjusting Theme, Plugin, And Snippet CSS Variables Within Obsidian
+- [Pisa-engine/pisa](https://github.com/pisa-engine/pisa) - PISA: Performant Indexes And Search For Academia
+- [Frutik/awesome-search](https://github.com/frutik/awesome-search) - Awesome Search - This Is All About The (E-commerce, But Not Only) Search And Its Awesomeness
+- [Shaarli/netscape-bookmark-parser](https://github.com/shaarli/netscape-bookmark-parser) - PHP Library To Parse Netscape Bookmark Files
+- [Thlorenz/parse-link-header](https://github.com/thlorenz/parse-link-header) - Parses A Link Header And Returns Paging Information For Each Contained Link.
+- [Nekoshita/obsidian-auto-card-link](https://github.com/nekoshita/obsidian-auto-card-link) -
+- [Thiiagoms/mark-parse](https://github.com/thiiagoms/mark-parse) - Extract And Validate Links From Markdown Files :Books:
+- [Hold-baby/bookmark-file-parser](https://github.com/hold-baby/bookmark-file-parser) - Parse Firefox/Chrome/IE/Safari HTML Bookmarks Files
+- [FlyingWolFox/Netscape-Bookmarks-File-Parser](https://github.com/FlyingWolFox/Netscape-Bookmarks-File-Parser) - Parser And Creator For Netscape Bookmarks File Format That Is Used When Exporting Bookmarks From Browsers
+- [Bookmarks-tools/bookmarks-parser](https://github.com/bookmarks-tools/bookmarks-parser) - :Bookmark: Parses Firefox/Chrome HTML Bookmarks Files
+- [Calibr/node-bookmarks-parser](https://github.com/calibr/node-bookmarks-parser) - Parses Firefox/Chrome HTML Bookmarks Files
+- [Kafene/netscape-bookmark-parser](https://github.com/kafene/netscape-bookmark-parser) - A Php Script (Function) To Parse Netscape Format Bookmark Files
+- [Cheap-glitch/warpgate](https://github.com/cheap-glitch/warpgate) - 💫 A Lightweight Browser Extension To Jump To Various External Bookmarks From The Address Bar.
+- [Spencerkimball/stargazers](https://github.com/spencerkimball/stargazers) - Analyze GitHub Stars
+- [Dimonomid/geekmarks](https://github.com/dimonomid/geekmarks) - API-Driven, Geeky Bookmarking Service
+- [Darekkay/static-marks](https://github.com/darekkay/static-marks) - Shareable Bookmarks
+- [Obheda12/GitDorker](https://github.com/obheda12/GitDorker) - A Python Program To Scrape Secrets From GitHub Through Usage Of A Large Repository Of Dorks.
+- [Zerokei/TextConverter](https://github.com/Zerokei/TextConverter) - A Tool To Convert Text From Obsidian Markdown Format Into Mkdocs Markfown Format.
+- [Agreatfool/obsidian-utils](https://github.com/agreatfool/obsidian-utils) - Command Line Tools To Help Obsidian Stuff
+- [Basilioss/obsidian-scrapers](https://github.com/basilioss/obsidian-scrapers) - Get Information From Link For Obsidian
+- [Ganesshkumar/obsidian-plugins-stats-ui](https://github.com/ganesshkumar/obsidian-plugins-stats-ui) - A Tool To Get Plugin Statistics Of Obsidian Plugin Ecosystem.
+- [Shakedlokits/obsidian-bellboy](https://github.com/shakedlokits/obsidian-bellboy) - Opinionated File Structure Manager For The Obsidian Knowledge Base.
+- [Tkat0/obsidian-scrapbox-flavored](https://github.com/tkat0/obsidian-scrapbox-flavored) - Scrapbox-flavored Grid View And Efficient List Operations For Obsidian
+- [Czottmann/obsidian-actions-uri](https://github.com/czottmann/obsidian-actions-uri) - A Plugin For Obsidian (Https://obsidian.md) That Adds Additional `X-callback-url` Endpoints To The App For Common Actions—It's A Clean, Super-charged Addition To Obsidian URI.
+- [Zoni/obsidian-export](https://github.com/zoni/obsidian-export) - Rust Library And CLI To Export An Obsidian Vault To Regular Markdown
+- [PatheticGeek/improved-potato](https://github.com/patheticGeek/improved-potato) - Chrome Extension To Export Bookmarks Sanely
+- [Liamfrazer/frz.dev](https://github.com/liamfrazer/frz.dev) - An Automated Second Brain Workflow Between Obsidian Notes &Gt; Docs.frz.dev
+- [Atsuoishimoto/python-raindropio](https://github.com/atsuoishimoto/python-raindropio) - Python Wrapper For Raindrop.io API.
+- [Vaibhavk97/GoBooDo](https://github.com/vaibhavk97/GoBooDo) - A Google Book Downloader With Proxy Support.
+- [Lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, Async, Stream-based Link Checker Written In Rust. Finds Broken URLs And Mail Addresses Inside Markdown, HTML, ReStructuredText, Websites And More!
+- [Misuroz/Music-Composition-with-Cakewalk-CAL](https://github.com/misuroz/Music-Composition-with-Cakewalk-CAL) - Hundreds Of Tools For Composers That Will Save A Lot Of Time When Writing Music, Skipping Routine Tasks And Providing Inspiration.
+- [Dev-plvlml/Cakewalk-MIDI-Instruments](https://github.com/dev-plvlml/Cakewalk-MIDI-Instruments) - A Bunch Of Cakewalk (Tm) MIDI Instrument Definitions
+- [Vdetstvepil/plugin-manager](https://github.com/vdetstvepil/plugin-manager) - Plugin Manager For Cakewalk
+- [Jtauber/wrk-reader](https://github.com/jtauber/wrk-reader) - Exploring How To Read Old Cakewalk WRK Files
+- [Pedrolcl/wrk2mid](https://github.com/pedrolcl/wrk2mid) - Cakewalk To Standard MIDI Files Command Line Utility Translator (Mirror)
+- [Microlinkhq/sdk](https://github.com/microlinkhq/sdk) - Make Any URL Embeddable. Turn Any URL Into A Beautiful Link Preview.
+- [Lrsjng/h5ai](https://github.com/lrsjng/h5ai) - HTTP Web Server Index For Apache Httpd, Lighttpd And Nginx.
+- [Cure53/HTTPLeaks](https://github.com/cure53/HTTPLeaks) - HTTPLeaks - All Possible Ways, A Website Can Leak HTTP Requests
+- [Raad1masum/SpotiStats](https://github.com/raad1masum/SpotiStats) - 🎵 A Website To Get Stats About Your Spotify Playlists.
+- [Nnsdev/spotify-stats](https://github.com/nnsdev/spotify-stats) - Spotify Statistics For Your Top Tracks And Artists All-time/past 4 Weeks/past 6 Months With Ability To Create Playlists.
+- [Mdezube/sms-analysis](https://github.com/mdezube/sms-analysis) - Python/IPython Code To Analyze One's Text Messages. Intended To Work Out Of The Box, See README For Details.
+- [Dsouzarc/iMessageAnalyzer](https://github.com/dsouzarc/iMessageAnalyzer) - Analyzes A User's IMessage
+- [Cocktail-forensics/macCocktail](https://github.com/cocktail-forensics/macCocktail) - Parses Forensic Artifacts From MacOS File Systems
+- [CrowdStrike/automactc](https://github.com/CrowdStrike/automactc) - AutoMacTC: Automated Mac Forensic Triage Collector
+- [Mac4n6/APOLLO](https://github.com/mac4n6/APOLLO) - Apple Pattern Of Life Lazy Output'er
+- [Raindropio/developer-site](https://github.com/raindropio/developer-site) - Official Documentation For Raindrop.io API
+- [Exentrich/free-for-dev](https://github.com/exentrich/free-for-dev) - A List Of SaaS, PaaS And IaaS Offerings That Have Free Tiers Of Interest To Devops And Infradev
+- [WebCrateApp/browser-extension](https://github.com/WebCrateApp/browser-extension) - Add Links To WebCrate Via A Browser Extension
+- [Hrshainik/bookmark-manager](https://github.com/hrshainik/bookmark-manager) - Here You Can Bookmark Your Favourite Website Links And This Links Stored In Local Storage That's Why You Find This Bookmarks Any Time It's Won't Vanish.
+- [OpenXapps/web-apps-bookmarker-mui](https://github.com/openXapps/web-apps-bookmarker-mui) - Updated Bookmarker App Rebuilt In MUI Framework
+- [Dribehub/nord-startpage](https://github.com/dribehub/nord-startpage) - Nord-themed Startpage Written In Pure Js
+- [Eramdam/starry-raindrop](https://github.com/eramdam/starry-raindrop) - Sync GitHub Starred Repos To A Raindrop.io Collection
+- [Raindropio/app](https://github.com/raindropio/app) -
+- [Tussanakorn/spotify-dashboard-with-tableau](https://github.com/tussanakorn/spotify-dashboard-with-tableau) - Spotify Dataset With Tableau
+- [Sejaldua/lyrical-sentiment-analysis](https://github.com/sejaldua/lyrical-sentiment-analysis) - Using Spotify API To Obtain Audio Feature Data And Lyrics And Tableau To Produce Sick Visualizations.
+- [Themattmayfield/SpotifyDashboard](https://github.com/themattmayfield/SpotifyDashboard) -
+- [Rtedwards/spotify-data-visualizations](https://github.com/rtedwards/spotify-data-visualizations) - An App That Monitors A User's Spotify Account And Creates A Dashboard To Visualize Usage Over Time.
+- [Lucas-nelson-uiuc/spotipy_analysis](https://github.com/lucas-nelson-uiuc/spotipy_analysis) - Home Of The Spotify Analysis Dashboard
+- [Mbaronetti/spotify-dash](https://github.com/mbaronetti/spotify-dash) - Simple And Easy To Use Spotify Dashboard
+- [Poulainv/tottem](https://github.com/poulainv/tottem) - Bookmark Manager On Steroid Built With React / NextJs / Apollo Tools / Prisma 2— Styled With TailwindCSS 🌱🎺
+- [JastinXyz/withcoding.me](https://github.com/JastinXyz/withcoding.me) - Free Subdomain For Everyone.
+- [Thedev-id/thedev.id](https://github.com/thedev-id/thedev.id) - Identity For Developers On The Web.
+- [Nbats/FMHY](https://github.com/nbats/FMHY) - /R/FREEMEDIAHECKYEAH
+- [Roshanlam/ReadMeTemplate](https://github.com/roshanlam/ReadMeTemplate) - Done With Your Project But Having A Hard Time Writing A ReadMe? Check Out This Repo. If You Like It Then Use It
+- [Temidayoxyz/vCard](https://github.com/temidayoxyz/vCard) - My Portfolio Website Built With HTML, CSS, And Javascript
+- [Ramiboutas/coverletters](https://github.com/ramiboutas/coverletters) - Download Multiple Cover Letters In Minutes. No Registration Required. Totally Free
+- [Super-Coding-Ninja-TM/markdown-cv](https://github.com/Super-Coding-Ninja-TM/markdown-cv) - A Simple Template To Write Your CV In A Readable Markdown File And Use CSS To Publish/print It.
+- [Izzydoesizzy/resumetemplate](https://github.com/izzydoesizzy/resumetemplate) - Creative: Personal Website/landing Page Template.
+- [Bedimcode/responsive-resume-cv-smith](https://github.com/bedimcode/responsive-resume-cv-smith) - Responsive Resume Cv Website Using HTML CSS And JavaScript
+- [Sonnysangha/Resume-Portfolio-Starter-pack](https://github.com/sonnysangha/Resume-Portfolio-Starter-pack) -
+- [Mszep/pandoc_resume](https://github.com/mszep/pandoc_resume) - The Markdown Resume
+- [Benefiction/resume-reader](https://github.com/benefiction/resume-reader) - An Interpreter For Resume JSON Data.
+- [Perminder-klair/resume-parser](https://github.com/perminder-klair/resume-parser) - A Simple NodeJs Library To Parse Resume / CV To JSON.
+- [Gogsbread/ResumeParser](https://github.com/gogsbread/ResumeParser) - Resume Parser Using Rule Based Approach. Developed Using Framework Provided By GATE
+- [Actions/deploy-pages](https://github.com/actions/deploy-pages) -
+- [Actions/jekyll-build-pages](https://github.com/actions/jekyll-build-pages) - A Simple GitHub Action For Producing Jekyll Build Artifacts Compatible With GitHub Pages.
+- [Guilhermeborgesbastos/live-resume](https://github.com/guilhermeborgesbastos/live-resume) - Stand Out Of The Crowd By Showing A Professional Website/resume. Building Fast And Easy The Best Personal Web Application Resume!
+- [GabrieleVir/Timeline-generator](https://github.com/GabrieleVir/Timeline-generator) - A Generator Of Timelines
+- [Kodestudio/neon](https://github.com/kodestudio/neon) - Simple Static Site Generator (Not Sure) For Display The Repository's (GitHub) Events On A Timeline.
+- [Molly/static-timeline-generator](https://github.com/molly/static-timeline-generator) - Create Static Timeline Webpages.
+- [Sramezani/resume-builder](https://github.com/sramezani/resume-builder) - Modern Real-time Design And 100% Free Resume Builder.
+- [Aliherawi7/resume-builder](https://github.com/Aliherawi7/resume-builder) - Build Your Resume Free And Easy
+- [Hernanjkd/Resume-Builder](https://github.com/hernanjkd/Resume-Builder) - React. Creates A Dynamic Resume That Can Be Easily Modified. Experience And Skill Cards Can Be Edited.
+- [Hallcoder/resume-builder](https://github.com/Hallcoder/resume-builder) - Awesome Resume-builder Coming At Rescue For All These Paid Resume-builders Out There
+- [Tbaltrushaitis/cv](https://github.com/tbaltrushaitis/cv) - :Mortar_board: Best In Class Modern CV, Resume And Portfolio Website Template. All-in-One-Page Site With Simply Customizable Builder.
+- [Resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes Generated Using The GitHub Informations
+- [Hacksalot/HackMyResume](https://github.com/hacksalot/HackMyResume) - Generate Polished Résumés And CVs In HTML, Markdown, LaTeX, MS Word, PDF, Plain Text, JSON, XML, YAML, Smoke Signal, And Carrier Pigeon.
+- [Kirtan403/bookmark-github-stars](https://github.com/kirtan403/bookmark-github-stars) - Generate Bookmarks Export File (Html) Of The Github User's Starred Repos
+- [IRaul/creative-portfolios](https://github.com/iRaul/creative-portfolios) - 🌀 A Curated List Of Creative Portfolios
+- [JeffreyCA/lastfm-recently-played-readme](https://github.com/JeffreyCA/lastfm-recently-played-readme) - Display Your Recent Last.fm Scrobbles On Your GitHub Profile README.
+- [Durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - This Repository Contains Best Profile Readme's For Your Reference.
+- [DevelopStorm/simple-badges](https://github.com/developStorm/simple-badges) - Awesome Simple Icons On Your Favorite Shields.io Badges. Try Out On Your Profile Today!
+- [Isacmlee/csv-to-playlist](https://github.com/isacmlee/csv-to-playlist) - A Python Script That Converts .Csv Playlist Files Into A Spotify Playlist.
+- [TimBroddin/raindrop-to-wpcom](https://github.com/TimBroddin/raindrop-to-wpcom) - Lambda Function To Post Raindrop.io Bookmarks To Wpcom
+- [Lonekorean/wordpress-export-to-markdown](https://github.com/lonekorean/wordpress-export-to-markdown) - Converts A WordPress Export XML File Into Markdown Files.
+- [Github-actions-x/hugo](https://github.com/github-actions-x/hugo) - Build You Site With Hugo
+- [Jackyzha0/hugo-obsidian](https://github.com/jackyzha0/hugo-obsidian) - Simple GitHub Action To Parse Markdown Links Into A .Json File For Hugo
+- [Luooooob/create-my-awesome](https://github.com/luooooob/create-my-awesome) - Github Actions For Automatically Generating The Personal Awesome List From All Of The Repositories You Starred.
+- [Actions-js/profile-readme](https://github.com/actions-js/profile-readme) - 🗣 Display Profile Activity And Other Cool Widgets In Your Profile README.md
+- [Jsmrcaga/action-netlify-deploy](https://github.com/jsmrcaga/action-netlify-deploy) -
+- [Chlohal/obsidian-terminal](https://github.com/chlohal/obsidian-terminal) - A Terminal Panel For Obsidian
+- [Kometenstaub/copy-publish-url](https://github.com/kometenstaub/copy-publish-url) - Copy Or Open The Obsidian Publish URL Of A Note. You Can Also Open Its Git Commit History On GitHub.
+- [Benbinbin/TagDown](https://github.com/Benbinbin/TagDown) - A Bookmarks Manager Chrome Extension.
+- [Watsonbox/exportify](https://github.com/watsonbox/exportify) - Export/Backup Spotify Playlists Using The Web API
+- [Azedo/raindrop-io-github-starred-repos](https://github.com/azedo/raindrop-io-github-starred-repos) - Add All Of Your Starred Repos To Raindrop.io
+- [YousufSSyed/Raindrop.io-Scripts](https://github.com/YousufSSyed/Raindrop.io-Scripts) - Python Scripts To Interact With The Raindrop.io Bookmarking Service.
+- [Rchangmh/bookmarks-management](https://github.com/rchangmh/bookmarks-management) - Manage Your Links Saved In Pocket And Raindrop.io.
+- [ProfessorKolodziej/idea-generator](https://github.com/ProfessorKolodziej/idea-generator) - An Idea Generator, Powered By A Selected Set Of Bookmarks On Raindrop.io.
+- [Sintaxi/harp](https://github.com/sintaxi/harp) - Static Web Server/Generator/Bundler
+- [Paschmann/changd](https://github.com/paschmann/changd) - Changd Is A Open Source Web Monitoring Application For Monitoring Visual Site Changes Using Screenshots, XPath's Or API's.
+- [Umaar/export-github-stars](https://github.com/umaar/export-github-stars) - A Node.js Webapp To Scrape The Stars Of Specified GitHub Users
+- [Violethaze74/nextcloud-webhooks](https://github.com/violethaze74/nextcloud-webhooks) - Webhooks App For Nextcloud :Globe_with_meridians: :Zap:
+- [Fankijo/ncocc](https://github.com/fankijo/ncocc) - Runs Nextclouds Occ Commands Without The Need To Type "Sudo -U Www-data…….."
+- [CedricGoby/nextcloud-occ-scripts](https://github.com/CedricGoby/nextcloud-occ-scripts) -
+- [Floalt/Nextcloud-OCC-Scripts](https://github.com/floalt/Nextcloud-OCC-Scripts) - Various OCC Scripts Für Nextcloud
+- [Nextcloud/integration_reddit](https://github.com/nextcloud/integration_reddit) - 🛸 Reddit Integration Into Nextcloud
+- [Nextcloud/integration_gitlab](https://github.com/nextcloud/integration_gitlab) - 🦊 GitLab Integration Into Nextcloud
+- [Nextcloud/bookmarks](https://github.com/nextcloud/bookmarks) - 🔖 Bookmark App For Nextcloud
+- [Nextcloud/files_rightclick](https://github.com/nextcloud/files_rightclick) - 👉 Right Click Menu For Nextcloud
+- [Nextcloud/cms_pico](https://github.com/nextcloud/cms_pico) - 🗃 Integrate Pico CMS And Let Your Users Manage Their Own Websites
+- [Gino0631/nextcloud-metadata](https://github.com/gino0631/nextcloud-metadata) - A Nextcloud Plugin For Displaying File Metadata.
+- [Jancborchardt/nextcloud-scripts](https://github.com/jancborchardt/nextcloud-scripts) - ☁️ Scripts To Easier Set Up & Update Nextcloud
+- [PaulLereverend/NextcloudExtract](https://github.com/PaulLereverend/NextcloudExtract) - Bring Extraction To Your Nextcloud Web Interface
+- [Nextcloud/external](https://github.com/nextcloud/external) - 🌐 Embed External Sites In Your Nextcloud
+- [Nextcloud/previewgenerator](https://github.com/nextcloud/previewgenerator) - Nextcloud App To Do Preview Generation In The Background.
+- [Zorn-v/nextcloud-social-login](https://github.com/zorn-v/nextcloud-social-login) -
+- [Nextcloud/nextcloud-initial-state](https://github.com/nextcloud/nextcloud-initial-state) - Access Data From The Server-side Initial State API Within Apps
+- [Mattd/google-photos-downloader](https://github.com/mattd/google-photos-downloader) - Downloads Photos From Google Photos.
+- [Itech001/awesome-linux-resources](https://github.com/itech001/awesome-linux-resources) - Linux Resources For The Begainners And Advanced Users.
+- [LordGuccif3r/AwesomeArch](https://github.com/LordGuccif3r/AwesomeArch) - Automatic Installation Of Arch Linux And Custom Awesome Theme
+- [Malipramod/google-photos-migration-app](https://github.com/malipramod/google-photos-migration-app) - Migrates Photo/Albums From One Google Photos Account To Another With A Single Click.
+- [Barryanders/grav-plugin-blackhole](https://github.com/barryanders/grav-plugin-blackhole) - The Static Site Generator For Grav CMS
+- [Girliemac/a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words) - I Am Trying To Describe Complex Matters In Simple Doodles!
+- [Scottschiller/SoundManager2](https://github.com/scottschiller/SoundManager2) - A JavaScript Sound API Supporting MP3, MPEG4 And HTML5 Audio + RTMP, Providing Reliable Cross-browser/platform Audio Control In As Little As 12 KB. BSD Licensed.
+- [Scriptify/thesoundofus](https://github.com/scriptify/thesoundofus) - Connect Your Google Photos And Spotify Account, Select A Photo Album And A Spotify Playlist, And The Web App Will Create An Interactive Photo Album With Music From The Time The Photo Was Taken. Intend
+- [Scriptify/nextcloud-music-folder-sync](https://github.com/scriptify/nextcloud-music-folder-sync) - Syncs Your Folder Structure Into NextCloud Music Playlists
+- [Leibniz-zmt/files_metadataeditor](https://github.com/leibniz-zmt/files_metadataeditor) - A Nextcloud App For Annotating Research Data With Metadata
+- [MacKarp/NextcloudAudio_Converter](https://github.com/MacKarp/NextcloudAudio_Converter) - Audio Converter App For Nextcloud
+- [Prsnbrg/files_audio_converter](https://github.com/prsnbrg/files_audio_converter) - Convert Audio Files From One Format To Another Directly From The Web Interface.
+- [Rello/audioplayer_sonos](https://github.com/Rello/audioplayer_sonos) - Audio Player SONOS Add-on For The Audio Player In Nextcloud
+- [Fwicht/TunesCloud](https://github.com/fwicht/TunesCloud) - XSLT Transformation To Export ITunes Playlists To Nextcloud/Owncloud Music App
+- [Aurelien-brabant/nextcloud-music-player](https://github.com/aurelien-brabant/nextcloud-music-player) - [WIP] A Clone Of Apple's Music App Designed To Work With Any Nextcloud Instance, Build With React Native
+- [Kapdap/freshrss-extensions](https://github.com/kapdap/freshrss-extensions) - Unofficial FreshRSS Extensions Created By @Kapdap.
+- [Langfeld/FreshRSS-extensions](https://github.com/langfeld/FreshRSS-extensions) - Add Touch Gestures To FreshRSS
+- [DevonHess/FreshRSS-Extensions](https://github.com/DevonHess/FreshRSS-Extensions) -
+- [Balthisar/xExtension-RedditSub](https://github.com/balthisar/xExtension-RedditSub) - A FreshRSS Extension To Show A Reddit Subreddit As Part Of The Article Title
+- [Harleypig/FreshRSS-extensions](https://github.com/harleypig/FreshRSS-extensions) - A Collection Of FreshRSS Extensions To Make Installation And Upgrading Easier.
+- [Benrobo/baaymax](https://github.com/Benrobo/baaymax) - Easily Generate Unique Portfolio From Your Github Profile
+- [Abdulbadii/history-tidying](https://github.com/abdulbadii/history-tidying) - Tidying Up Bash Command History By Putting Good Control In Erasing Certain Lines.
+- [Galonga/OwnCloud-NextCloud-Cron-Wrapper](https://github.com/galonga/OwnCloud-NextCloud-Cron-Wrapper) -
+- [GAS85/nextcloud_scripts](https://github.com/GAS85/nextcloud_scripts) - This A Collection Of Scripts That Makes My Nextcloud Administrator Life Easy By Automation And Better Reporting. And I Would Like To Share It With U.
+- [Syseleven/nextcloud-tools](https://github.com/syseleven/nextcloud-tools) - This Project Contains Tools To Operate Nextcloud.
+- [Rcdailey/nextcloud-cronjob](https://github.com/rcdailey/nextcloud-cronjob) - A Simple Container To Run Cron.php In Your Nextcloud Docker Container
+- [Nextcloud/logreader](https://github.com/nextcloud/logreader) - 📜 Log Reader For Nextcloud
+- [Nextcloud/nextcloud-config-converter](https://github.com/nextcloud/nextcloud-config-converter) - This Script Converts The Config.sample.php To RST Code For The Documentation
+- [Qcif/nextcloud-sync-cron](https://github.com/qcif/nextcloud-sync-cron) - Cron Job Script For Running The Linux/Unix Nextcloud Command Line Client
+- [Jpochyla/psst](https://github.com/jpochyla/psst) - Fast And Multi-platform Spotify Client With Native GUI
+- [Yarrm80s/orpheusdl-soundcloud](https://github.com/yarrm80s/orpheusdl-soundcloud) -
+- [Tvvocold/FOSS-for-Dev](https://github.com/tvvocold/FOSS-for-Dev) - A Hub Of Free And Open-source Software For Developers
+- [Insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize MacOS 12 And Later On Apple Silicon
+- [Alexandr-web/MusicApplicationPEVN](https://github.com/Alexandr-web/MusicApplicationPEVN) - 🎵🎶 This Is A Musical Project Written In PEVN
+- [Borewit/music-metadata](https://github.com/Borewit/music-metadata) - Stream And File Based Music Metadata Parser For Node. Supporting A Wide Range Of Audio And Tag Formats.
+- [Squeek502/audiometa](https://github.com/squeek502/audiometa) - An Audio Metadata/tag Reading Library Written In Zig
+- [Mpatric/mp3agic](https://github.com/mpatric/mp3agic) - A Java Library For Reading Mp3 Files And Reading / Manipulating The ID3 Tags (ID3v1 And ID3v2.2 Through ID3v2.4).
+- [Iheanyi/bandcamp-dl](https://github.com/iheanyi/bandcamp-dl) - Simple Python Script To Download Bandcamp Albums
+- [Yarrm80s/orpheusdl](https://github.com/yarrm80s/orpheusdl) -
+- [Anhthii/Echo](https://github.com/anhthii/Echo) - :Musical_note: A Music Streaming App Built With React And Nodejs
+- [TheUltimateC0der/Deemixrr](https://github.com/TheUltimateC0der/Deemixrr) - Deemixrr Manages Your Artists And Playlists Completely Automated. You Add Your Favorite Artists And Playlists, And Deemixrr Does The Rest For You.
+- [Agent255/clspotify](https://github.com/agent255/clspotify) - Spotify Song Downloader Without Injecting Into The Windows Client
+- [Erwinkramer/SoundCloud-Playlist-Sync](https://github.com/erwinkramer/SoundCloud-Playlist-Sync) - Improvement Fork
+- [Nextcloud/notify_push](https://github.com/nextcloud/notify_push) - Update Notifications For Nextcloud Clients
+- [Rello/audioplayer](https://github.com/Rello/audioplayer) - Audio Player For Nextcloud And OwnCloud
+- [Westberliner/checksum](https://github.com/westberliner/checksum) - Plugin For Nextcloud And OwnCloud To Create Hashes Of Files.
+- [Agersant/polaris](https://github.com/agersant/polaris) - Polaris Is A Music Streaming Application, Designed To Let You Enjoy Your Music Collection From Any Computer Or Mobile Device.
+- [Izderadicka/audioserve](https://github.com/izderadicka/audioserve) - Simple Personal Server To Serve Audiofiles Files From Folders. Intended Primarily For Audio Books, But Anything With Decent Folder Structure Will Do.
+- [Andreasjacobsen93/awesome-nextcloud](https://github.com/andreasjacobsen93/awesome-nextcloud) - List Of Awesome Tools For NextCloud And OwnCloud
+- [Othmar52/slimpd](https://github.com/othmar52/slimpd) - PHP/JS Based MPD-web-client For Large Music Collections
+- [Phpservermon/phpservermon](https://github.com/phpservermon/phpservermon) - PHP Server Monitor
+- [Arnowelzel/netdata-nextcloud](https://github.com/arnowelzel/netdata-nextcloud) - A Plugin For Netdata To Monitor Nextcloud Servers
+- [Y-u-r/nextcloud-zabbix](https://github.com/y-u-r/nextcloud-zabbix) - With This Tamplate You Can Monitor A Nextcloud Via The Xml File
+- [Zabbix/community-templates](https://github.com/zabbix/community-templates) - Zabbix Community Templates Repository
+- [Trazfr/prometheus-nextcloud-exporter](https://github.com/trazfr/prometheus-nextcloud-exporter) - Monitoring Of A Nextcloud Instance Using The Servinfo Plugin
+- [Bootandy/dust](https://github.com/bootandy/dust) - A More Intuitive Version Of Du In Rust
+- [AjGaht/Weboasis](https://github.com/AjGaht/Weboasis) - Oasis Of Web Addresses
+- [Mjolnirapp/mjolnir](https://github.com/mjolnirapp/mjolnir) - Lightweight Automation And Productivity App For OS X
+- [Jondot/awesome-devenv](https://github.com/jondot/awesome-devenv) - A Curated List Of Awesome Tools, Resources And Workflow Tips Making An Awesome Development Environment.
+- [Gleitz/howdoi](https://github.com/gleitz/howdoi) - Instant Coding Answers Via The Command Line
+- [Hungsu/typomagical-obsidian](https://github.com/hungsu/typomagical-obsidian) - An Obsidian Theme For Typographic Appreciators, With Support For Style Settings By Mgmeyers
+- [LlZektorll/Template_Hub](https://github.com/llZektorll/Template_Hub) - Obsidian Template Hub Started On The 13th Of June 2022. It Was Set Up To Gather As Many Note Templates As Possible.
+- [Ramisedhom/obsidian-plugins-categorization](https://github.com/ramisedhom/obsidian-plugins-categorization) - The Purpose Of This Project Is To Categorize The Obsidian.md Community Or Third-party Plugins. This Effort Is Mainly To Help Myself And Others To Find The Proper Plugin For Personal Needs..
+- [Plugins-galore/obsidian-plugins-galore](https://github.com/plugins-galore/obsidian-plugins-galore) - This Is An Obsidian Plugin To Allow Easily Sideloading Other Plugins.
+- [06000208/obsidian-items](https://github.com/06000208/obsidian-items) - Graphical Metadata/yaml Editing For Obsidian
+- [Andrejli/ObsidianYarn](https://github.com/andrejli/ObsidianYarn) - Generator Obsidian Markdown Files From And To Files
+- [Chenyukang/obweb](https://github.com/chenyukang/obweb) - ObWeb = Obsidian On Mobile + Flomo + Rss Reader
+- [Avirut/obsidian-metatemplates](https://github.com/avirut/obsidian-metatemplates) - Take Advantage Of YAML Front-matter In Generating Notes From Templates (For Obsidian.md)
+- [Oleeskild/digitalgarden](https://github.com/oleeskild/digitalgarden) -
+- [Spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive Is An Open Source Cross-platform File Explorer, Powered By A Virtual Distributed Filesystem Written In Rust.
+- [Scmbreeze/scm_breeze](https://github.com/scmbreeze/scm_breeze) - Adds Numbered Shortcuts To The Output Git Status, And Much More
+- [2ndalpha/gasmask](https://github.com/2ndalpha/gasmask) - Hosts File Manager For OS X
+- [Phpsysinfo/phpsysinfo](https://github.com/phpsysinfo/phpsysinfo) - PhpSysInfo: A Customizable PHP Script That Displays Information About Your System Nicely
+- [Airsonic-advanced/airsonic-advanced](https://github.com/airsonic-advanced/airsonic-advanced) -
+- [Vinirossa/regex-expressions](https://github.com/vinirossa/regex-expressions) - A List Of Useful Regular Expressions.
+- [Netsession/regexSnippets](https://github.com/netsession/regexSnippets) - Regex Snippets
+- [Jeffreyshen19/RegEx-Snippets](https://github.com/jeffreyshen19/RegEx-Snippets) - Organized List Of Useful RegEx Snippets
+- [IvanGlinkin/Fast-Google-Dorks-Scan](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan) - The OSINT Project, The Main Idea Of Which Is To Collect All The Possible Google Dorks Search Combinations And To Find The Information About The Specific Web-site: Common Admin Panels, The Widespread F
+- [Nbats/FMHYedit](https://github.com/nbats/FMHYedit) - Make Changes To FMHY
+- [ItsMeAbhishekRai/Termux-All-Packages-Install](https://github.com/ItsMeAbhishekRai/Termux-All-Packages-Install) - All Packages Install On Termux In One Click
+- [Actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions Runner Images
+- [Janloeffler/import-day-one](https://github.com/janloeffler/import-day-one) - WordPress Plugin For Importing Entries From Day One Export File
+- [WildPress/obsidian-wp](https://github.com/WildPress/obsidian-wp) - Post Directly To Your WordPress Blog From Obsidian.
+- [Quilicicf/markdown-formatter](https://github.com/quilicicf/markdown-formatter) - A Markdown Formatter Intended For Writing Specifications
+- [Jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 Host Your Own Second Brain And Digital Garden For Free
+- [Krissrex/obsidian-html](https://github.com/krissrex/obsidian-html) - A Simple Tool To Convert An Obsidian Vault Into HTML
+- [DolbyIO/awesome-audio](https://github.com/DolbyIO/awesome-audio) - A Curated List Of Awesome Audio Technology Resources For Developers
+- [Jaedb/Iris](https://github.com/jaedb/Iris) - Discover, Explore And Manage Your Music Library Across Multiple Sources With This Beautiful Web-based Interface. Iris Is A Mopidy Frontend Extension.
+- [Puikinsh/Adminator-admin-dashboard](https://github.com/puikinsh/Adminator-admin-dashboard) - Adminator Is Easy To Use And Well Design Admin Dashboard Template Based On Bootstrap 5 For Web Apps, Websites, Services And More
+- [ZhaoUncle/Awesome-Homepage](https://github.com/ZhaoUncle/Awesome-Homepage) - Here Is A Curated List Of Outstanding Projects With A Focus On Homepage, Homelab, Self-hosted, Startpage, Single-page, Bookmark.
+- [Blacklanternsecurity/spiderfoot-neo4j](https://github.com/blacklanternsecurity/spiderfoot-neo4j) - Import, Visualize, And Analyze SpiderFoot Scans In Neo4j, A Graph Database
+- [ChmaraX/forensix](https://github.com/ChmaraX/forensix) - Google Chrome Forensic Tool To Process, Analyze And Visualize Browsing Artifacts
+- [Colbyfayock/md-to-wp](https://github.com/colbyfayock/md-to-wp) - Upload A Directory Of Markdown Files To WordPress
+- [Ransurf/obsidian-resources](https://github.com/ransurf/obsidian-resources) - I Can't Seem To Upload .Md Files On WordPress, So This Will Have To Do.
+- [Jmtornetta/extract-bookmarks](https://github.com/jmtornetta/extract-bookmarks) - Exports And Extracts Bookmarks From Windows Browsers Into A Folder That Can Be Easily Archived By Launchers Like Windows Search, Cortana, Launchy, Wox, Everything And PowerToys Run.
+- [Mtopping/obsidian-raindrop](https://github.com/mtopping/obsidian-raindrop) - This Plugin Allows For Basic Integration With Raindrop.io, A Bookmarking Service And Obsidian.
+- [S1z5d/raindrop-integrations](https://github.com/s1z5d/raindrop-integrations) - A Set Of Scripts That Connect Various Apps To Raindrop.io
+- [Auroracramer/dayone-audio-summarizer](https://github.com/auroracramer/dayone-audio-summarizer) - Generating Summarizations Of DayOne Audio Journals In Markdown Format
+- [Bastian-Kuhn/DayOne2Html](https://github.com/Bastian-Kuhn/DayOne2Html) - Script To Convert DayOne Json Into HTML
+- [Danielhusar/ghost-timeline](https://github.com/danielhusar/ghost-timeline) - Ghost.js Theme
+- [Kirbyt/timeline-jekyll-theme](https://github.com/kirbyt/timeline-jekyll-theme) - A Multipurpose, Single Page Jekyll Theme.
+- [Smartdevcode/awesome-wordpress](https://github.com/smartdevcode/awesome-wordpress) -
+- [Dropndot/awesome-wordpress](https://github.com/dropndot/awesome-wordpress) - A Curated List Of Awesome WordPress Theme, Plugins And Framework Development Resources And WordPress Communities.
+- [Miziomon/awesome-wordpress](https://github.com/miziomon/awesome-wordpress) - A Curated List Of Amazingly Awesome WordPress Resources, Themes, Plugins And Shiny Things. Inspired By Awesome-php.
+- [Gothinkster/realworld](https://github.com/gothinkster/realworld) - "The Mother Of All Demo Apps"—Exemplary Fullstack Medium.com Clone Powered By React, Angular, Node, Django, And Many More
+- [Voidfiles/awesome-rss](https://github.com/voidfiles/awesome-rss) - Awesome Links Related To RSS, ATOM, And Syndication Formats.
+- [Paul-Houser/StartTree](https://github.com/Paul-Houser/StartTree) - A Terminal-style Home Page Replicating The Tree Command .
+- [Kikiklang/pomme-page](https://github.com/kikiklang/pomme-page) - Big Buttons With Easy Click Startpage For A Browser.
+- [PrettyCoffee/yet-another-generic-startpage](https://github.com/PrettyCoffee/yet-another-generic-startpage) - This A Generic Startpage To Demonstrate The React Startpage Library.
+- [TheLQ/forum-scraper](https://github.com/TheLQ/forum-scraper) - Mass Forum Archiving Project
+- [Xyvs/visualtree](https://github.com/xyvs/visualtree) - A Tool That Allows You To Visualize And Interact With The Output Of Your Tree Command.
+- [MergenStudios/memento](https://github.com/MergenStudios/memento) - Command Line Tool Written In Go For Sorting And Categorizing Personal Files Like Screenshots, Recordings, Logs And More.
+- [Swivro/weboasis-continued](https://github.com/Swivro/weboasis-continued) - An Attempt To Recreate And Continue The Now Defunct Weboasis (Was Accessible Via Weboas.is, But Is Now Down). RIP Webby 1992-2022.
+- [Blitzmid123/weboas.is](https://github.com/blitzmid123/weboas.is) -
+- [Unkn0wn95/weboas.is](https://github.com/unkn0wn95/weboas.is) - All Of Source Code Of Weboas.is
+- [Benhays42/WebOasis](https://github.com/benhays42/WebOasis) - A Fork Of Weboas.is
+- [Szymboro/weboasis](https://github.com/szymboro/weboasis) - Fork Of Weboas.is
+- [Shreeshjha/WebOas-is](https://github.com/shreeshjha/WebOas-is) - This Is The Copy Of Famous WebOas-is Using The Resources Provided By Webby…
+- [Scriptzteam/weboas.is](https://github.com/scriptzteam/weboas.is) - In Memoriam Of Webby (1992-2022). May You Rest In Peace. Life Is Sometime Strange, You Have To Keep Fighting!
+- [Ndsamuelson/weboas-is](https://github.com/ndsamuelson/weboas-is) - This Is A Copy Of Weboas.is Using His Source Code That He Released On His Death. RIP Webby.
+- [Ronitsinha/homepage](https://github.com/ronitsinha/homepage) - A Customized Version Of Weboas.is
+- [Jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A Curated List Of Awesome Computer Vision Resources
+- [Markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) - Awesome Web Development Resources.
+- [Planetjekyll/awesome-jekyll](https://github.com/planetjekyll/awesome-jekyll) - A Collection Of Awesome Jekyll Goodies (Tools, Templates, Plugins, Guides, Etc.)
+- [Planetjekyll/awesome-jekyll-themes](https://github.com/planetjekyll/awesome-jekyll-themes) - A Collection Of Awesome (Gem-packaged) Jekyll Themes - Add Your Theme!
+- [Bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated List Of Design And UI Resources From Stock Photos, Web Templates, CSS Frameworks, UI Libraries, Tools And Much More
+- [Hellerve/programming-talks](https://github.com/hellerve/programming-talks) - Awesome & Interesting Talks About Programming
+- [JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - Awesome Online Talks And Screencasts
+- [Birdie0/discord-ifttt](https://github.com/Birdie0/discord-ifttt) - Https://discord-ifttt.vercel.app
+- [Rogerdudler/git-guide](https://github.com/rogerdudler/git-guide) - Git - The Simple Guide
+- [Vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) -
+- [Dmytro-Shulha/obsidian-css-snippets](https://github.com/Dmytro-Shulha/obsidian-css-snippets) - Most Common Appearance Solutions For Obsidian Now In A Single Place. Initially Collected By Klaas: Https://forum.obsidian.md/t/how-to-achieve-css-code-snippets/8474
+- [Konhi/obsidian-community-list](https://github.com/konhi/obsidian-community-list) - 📃 • Updated List Of Community Themes & Plugins For Obsidian.md!
+- [M1rkwood/google-photos-takeout-scripts](https://github.com/m1rkwood/google-photos-takeout-scripts) - Useful Scripts To Get Out Of Google Photos
+- [Fokion/google_drive_extractor](https://github.com/fokion/google_drive_extractor) - Extract And Migrate Photos And Videos When You Takeout Your Data From Google
+- [Brainynai/googlePhotosFlattener](https://github.com/brainynai/googlePhotosFlattener) - I Used Google Takeout To Get My Photos, But I Wanted To Extract Just The Photos, Eliminate Duplicates, And Flatten To A Single Folder.
+- [Gusevdaniel/google-photo-takeout](https://github.com/gusevdaniel/google-photo-takeout) -
+- [Moe-k/GoogleTakeout](https://github.com/moe-k/GoogleTakeout) - Script To Reorganize Photos And Videos Taken From Google Photos Takeout Download
+- [Tobiasschuerg/Photo-Organizer](https://github.com/tobiasschuerg/Photo-Organizer) - Tool To Help Organizing Large (Unorganized) Collections Of Photos, Such As From Google Takeout.
+- [Normanlorrain/gt-cleanup](https://github.com/normanlorrain/gt-cleanup) - Restructure The Photos From Google Takeout Into A Folder Structure, Removing Duplicates And Extra Files.
+- [Pwatk/google-photos-takeout](https://github.com/pwatk/google-photos-takeout) - Sort And Organise Google Photos Takeout Using Exiftool
+- [MaeglynD/bulk-modify](https://github.com/MaeglynD/bulk-modify) - I Hate Google Photos So God Damn Much
+- [Jastribl/photosync](https://github.com/jastribl/photosync) - Util To Do Things With Google Photos
+- [Simsor/takeout-browser](https://github.com/simsor/takeout-browser) - Web Gallery To Browse A Google Photos Extract Using Takeout
+- [Simonedegiacomi/gphotosuploader](https://github.com/simonedegiacomi/gphotosuploader) - Unofficial Google Photos Uploader And Go Library
+- [Gregordr/ImageStore](https://github.com/gregordr/ImageStore) - Open Source Google Photos Alternative!
+- [3846masa/upload-gphotos](https://github.com/3846masa/upload-gphotos) - Upload Photo To Google Photos (Unofficial).
+- [Runerasmussen/google-photos-upload](https://github.com/runerasmussen/google-photos-upload) - Upload A Local Image Directory Into An Album In Google Photos (Works On Mac/pc/linux). Coded In C# .NET Core 3.0
+- [Heartly/awesome-writing-tools](https://github.com/heartly/awesome-writing-tools) - A Curated List Of Awesome Tools For Improving Written Communication
+- [NidhiiK/Text-Tool](https://github.com/NidhiiK/Text-Tool) - Text-Tool Is An App Which Allows The User To Perform Multiple Text-editing Functions, Such As Making The Full-text Capital Or Small Case, Removing Extra Spaces Between Words, Copying, And Deleting The
+- [Ososoio/txtool](https://github.com/ososoio/txtool) - Text Tool
+- [Nitin-Sharma-coder/textry](https://github.com/Nitin-Sharma-coder/textry) - A Very Handy Online Text Tool Where You Can Change Between Lower Case And Upper Case Letters, Capitalize, Uncapitalize And Remove Extra Spaces From Your Text
+- [Harehare/textusm](https://github.com/harehare/textusm) - Online Tool For Generate A User Story Map From Indented Text.
+- [Brraghav/simpleTools](https://github.com/brraghav/simpleTools) - This Repository Is Intended To Create And Maintain Simple Tools That Anyone Can Use Without Having To Code. The Tools Can Be As Simple As Extracting Few Keywords From Text, But With Lot Of Options And
+- [Nerixyz/text-tools](https://github.com/Nerixyz/text-tools) - DeAnd Encode Tools For Text.
+- [Queryverse/TextParse.jl](https://github.com/queryverse/TextParse.jl) - A Bunch Of Fast Text Parsing Tools
+- [Dok/awesome-text-editing](https://github.com/dok/awesome-text-editing) - Collection Of Text Editing Resources And Libraries For The Web
+- [Officetxt/awesome-txt](https://github.com/officetxt/awesome-txt) - A Collection Of Awesome .TXT / Text Tools, Formats, Services, Tips & Tricks And More.
+- [SpamVerse/Piratezparty](https://github.com/SpamVerse/Piratezparty) -
+- [Scraggo/bookmarks-markdown-utils](https://github.com/scraggo/bookmarks-markdown-utils) - Collection Of Command-line Tools For Chrome, OneTab, Evernote, And FireFox Bookmark Management. The Tools Are Mostly To Convert Proprietary Formats To Markdown And Organizing And Add Tags.
+- [Ozum/concat-md](https://github.com/ozum/concat-md) - CLI And API To Concatenate Markdown Files And Modify As Necessary.
+- [Pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame Is Self-hosted Startpage For Your Server. Easily Manage Your Apps And Bookmarks With Built-in Editors.
+- [Rmountjoy92/DashMachine](https://github.com/rmountjoy92/DashMachine) - Another Web Application Bookmark Dashboard, With Fun Features.
+- [Phntxx/dashboard](https://github.com/phntxx/dashboard) - :Bar_chart: A Nice And Simple Dashboard / Landing Page.
+- [Obsidian-userland/publish](https://github.com/obsidian-userland/publish) - Open Source Obsidian Publish Alternative
+- [Obsidian-community/obsidian-hub](https://github.com/obsidian-community/obsidian-hub) - Resource Hub For Obsidian Resources.
+- [Denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup Your Obsidian.md Vault With Git
+- [Lisandra-dev/obsidian-hub](https://github.com/Lisandra-dev/obsidian-hub) - Resource Hub For Obsidian Resources.
+- [Idnan/bash-guide](https://github.com/Idnan/bash-guide) - A Guide To Learn Bash
+- [Dermesser/photosync](https://github.com/dermesser/photosync) - Now That Google Deprecated The Photos&lt;-&gt;Drive Synchronization, I Need Another Way To Back Up My Photos Locally. This Program Downloads All Photos From Your Google Photos Account And Organizes Th
+- [Emacs-mirror/emacs](https://github.com/emacs-mirror/emacs) - Mirror Of GNU Emacs
+- [Giuspen/cherrytree](https://github.com/giuspen/cherrytree) - Cherrytree
+- [AlexW00/StartTreeV2](https://github.com/AlexW00/StartTreeV2) - 🌳 A $Tree Styled Start Page Generator!
+- [Mtalcott/google-photos-deduper-python](https://github.com/mtalcott/google-photos-deduper-python) - Locally Run Python Application To Remove Duplicates From Google Photos Based On Metadata
+- [Rolias/applescripts](https://github.com/Rolias/applescripts) - Collection Project For Experiments In AppleScript
+- [Nat-davydova/timeline](https://github.com/nat-davydova/timeline) - HTML/CSS/JS (ES6) Timeline Experiment
+- [AgentOfChaos/divergence-viewer](https://github.com/agentOfChaos/divergence-viewer) - Provide A Visual Hash Of The Current Timeline, Useful For Theoretical Time Travellers
+- [Sigma67/spotifyplaylist_to_ytmusic](https://github.com/sigma67/spotifyplaylist_to_ytmusic) - Clone A Spotify Playlist To YouTube Music
+- [Agreatfool/dayone2md](https://github.com/agreatfool/dayone2md) - Dump All Dayone Posts To Local Disk Md Files
+- [Aaronsw/html2text](https://github.com/aaronsw/html2text) - Convert HTML To Markdown-formatted Text.
+- [Sunilkumarvalmiki/Anonymous-Developemnt-Resources](https://github.com/sunilkumarvalmiki/Anonymous-Developemnt-Resources) - This Repo Contain's A List Of Useful Development Resources … .
+- [Amirgamil/apollo](https://github.com/amirgamil/apollo) - A Unix-style Personal Search Engine And Web Crawler For Your Digital Footprint.
+- [Docschina/GFM-docs](https://github.com/docschina/GFM-docs) - [印记中文](Https://docschina.org/) - GitHub 风格 Markdown 规范(GitHub Flavored Markdown Spec)
+- [Mil/markdown-tree](https://github.com/mil/markdown-tree) - A Sinatra Script To Serve A Hierarchy / Tree Directory Of Markdown Files. Use Intended For Small Sites Built In Markdown.
+- [Lifeparticle/Markdown-Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet) - The Ultimate Markdown Cheat Sheet
+- [Vitorgalvao/custom-alfred-iterm-scripts](https://github.com/vitorgalvao/custom-alfred-iterm-scripts) - AppleScript For ITerm2 Alfred Integration.
+- [Adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, And Thunderbird Extension That Lets You Write Email In Markdown And Render It Before Sending.
+- [Fezfox/dylogger](https://github.com/fezfox/dylogger) -
+- [Onlyhavecans/tootlogger](https://github.com/onlyhavecans/tootlogger) - Command-line Tool To Archive Your Mastodon Toots To DayOne
+- [Granddave/en2jrnl](https://github.com/Granddave/en2jrnl) - A Journal Converter From Evernote To Jrnl
+- [Chuwy/dnevnichok](https://github.com/chuwy/dnevnichok) - Poorman's Day One
+- [Ruanyf/simple-bash-scripts](https://github.com/ruanyf/simple-bash-scripts) - A Collection Of Simple Bash Scripts
+- [Ravatsindhav/Instagram-Backup-Data-Viewer-Latest-Format](https://github.com/ravatsindhav/Instagram-Backup-Data-Viewer-Latest-Format) - To View The Download Backup Data(message) Of Instagram For The New Format
+- [Mainigautam/instagram_backup_manager](https://github.com/mainigautam/instagram_backup_manager) - This Is A Simple Web Based Application Which Makes Your Instagram Backup Data Readable To A Great Extent. Call It "Instagram Backup Manager" Or "Instagram Backup Data Viewer"
+- [Benemmons/Instagram-Conversation-Analyser](https://github.com/benemmons/Instagram-Conversation-Analyser) - Provides Functions To Analyse Conversation Data From Instagram's Downloadable Messages.json File.
+- [D-Kats/InstagramJSON2HTML](https://github.com/D-Kats/InstagramJSON2HTML) - A Python Script To Parse The Instagram 'Messages.json' File And Create An HTML Report With All The Conversations Of The Account Under Examination.
+- [Kvnal/Instagram_Messages_Reader](https://github.com/kvnal/Instagram_Messages_Reader) - Instagram's "Messages.txt/.json" Into Readable Format Converter.
+- [Silnshadow/InstagramMessages](https://github.com/silnshadow/InstagramMessages) - This Project Is An Attempt To Make Instagram Backup Messages From Json To Readable Format.
+- [Orglce/instagram-chat-analyzer](https://github.com/orglce/instagram-chat-analyzer) - Analyzes Files From Intagram And Signal Direct Messaging Backup Files
+- [Theblood/open-insta](https://github.com/Theblood/open-insta) - An Autonomous And Complete API Provider For Instagram Direct Messages
+- [Sipspatidar/Instagram-Backup-Data-Viewer](https://github.com/sipspatidar/Instagram-Backup-Data-Viewer) - To View The Download Backup Data(message) Of Instagram
+- [Elyx0/instagram-inbox-api](https://github.com/Elyx0/instagram-inbox-api) - 📬 Node.js Web API For Accessing Instagram Private Messages To Couple With A Frontend
+- [RishiTiku/InstagramJSONToReadableText](https://github.com/RishiTiku/InstagramJSONToReadableText) - This Script Can Convert Messages.json In Your Instagram Dump To Readable Separate Text Files For Each User You've Chatted With.
+- [Lukekarrys/dayone-templates](https://github.com/lukekarrys/dayone-templates) - DayOne CLI With Template Support.
+- [Lukekarrys/metalsmith-dayone-example](https://github.com/lukekarrys/metalsmith-dayone-example) - An Example Metalsmith Site Built From Day One Data.
+- [Mapbox/csv2geojson](https://github.com/mapbox/csv2geojson) - Magically Convert Csv Files To Geojson Files
+- [Darpa-i2o/memex-program-index](https://github.com/darpa-i2o/memex-program-index) - A List Of Memex-related Tools And Their Repository URLs
+- [Kazuph/dayone.vim](https://github.com/kazuph/dayone.vim) -
+- [Jphastings/Email-DayOne](https://github.com/jphastings/Email-DayOne) - DayOne Is A Mac/iOS Journal App Which Uses DropBox As A Syncing Agent. This Heroku App Takes Advantage Of That And Gives You An Email Address You Can Use To Email Entries Directly To Your Journal.
+- [Tompropst/dayone-parser](https://github.com/tompropst/dayone-parser) -
+- [Dougpark/dayone](https://github.com/dougpark/dayone) - Better Touch Tool Create A DayOne Journal Entry
+- [Donnierayjones/dayone-jpeg-metadata](https://github.com/donnierayjones/dayone-jpeg-metadata) - Export DayOne Journal Entries Into Jpegs With Metadata
+- [Alienlebarge/dayone-export-template](https://github.com/alienlebarge/dayone-export-template) - Custom Template For Exporting And Printing Dayone Journal As A Book
+- [Bachya/Sifttter-Redux](https://github.com/bachya/Sifttter-Redux) - IFTTT To Day One Service
+- [Azu/dayone-to-quiver](https://github.com/azu/dayone-to-quiver) - Convert DayOne's Journal.dayone To Quiver Notebook File.
+- [Kalyan02/dayone](https://github.com/kalyan02/dayone) - Python/Django Server To Publish To Web From Your Classic Dayone Journal Directly
+- [Davidbosman/Day-One-OSX-Gallery](https://github.com/davidbosman/Day-One-OSX-Gallery) - Display A Photo Gallery On OS X Based On Day One's Pictures
+- [Voigt/dayone-to-ghost](https://github.com/voigt/dayone-to-ghost) - A Python Script Which Creates Importable Files For Ghost From Your DayOne Journal
+- [Zsbenke/dayone-to-wordpress](https://github.com/zsbenke/dayone-to-wordpress) - Ruby Script To Migrate From Day One To WordPress.
+- [Mori-dev/emacs-dayone](https://github.com/mori-dev/emacs-dayone) - Utilitiy Script For Dayone
+- [Synox/dayone-convert](https://github.com/synox/dayone-convert) -
+- [Leonspok/TinyDayOne](https://github.com/leonspok/TinyDayOne) - Tiny Day One Client App. Tiny Because It Offers You Less Opportunities Than You Expect.
+- [Emacsmirror/dayone](https://github.com/emacsmirror/dayone) - Utility Script For Day One
+- [Lukekarrys/metalsmith-dayone](https://github.com/lukekarrys/metalsmith-dayone) - A Metalsmith Plugin To Create Files From A Day One JSON Export.
+- [Wcerfgba/searx](https://github.com/wcerfgba/searx) - A Modified Version Of Searx (The Privacy-respecting Metasearch Engine) To Only Search An Allowlist Of Sites, To Build Functionality Similar To Rollyo And Bing Custom Search.
+- [Vmogilev/dop](https://github.com/vmogilev/dop) - Day One Parser
+- [Jheddings/dayone2notion](https://github.com/jheddings/dayone2notion) - Import Content From Day One Into Notion
+- [Jverkoey/jekyll-dayone](https://github.com/jverkoey/jekyll-dayone) - A Day One Jekyll Plugin For Associating Day One Entries With Jekyll Posts.
+- [Kraigparkinson/HookPlugins](https://github.com/kraigparkinson/HookPlugins) - Application Scripts For Hook (Https://hookproductivity.com)
+- [Planetjekyll/awesome-jekyll-plugins](https://github.com/planetjekyll/awesome-jekyll-plugins) - A Collection Of Awesome Jekyll Plugins (Gems, Scripts, Pasties, Etc.)
+- [Ahmed-Ali/JSONExport](https://github.com/Ahmed-Ali/JSONExport) - JSONExport Is A Desktop Application For Mac OS X Which Enables You To Export JSON Objects As Model Classes With Their Associated Constructors, Utility Methods, Setters And Getters In Your Favorite Lan
+- [Holzschu/a-Shell-commands](https://github.com/holzschu/a-Shell-commands) - Shell Commands, Pre-compiled To WebAssembly, Ready To Use In A-Shell
+- [Dustinkirkland/hollywood](https://github.com/dustinkirkland/hollywood) -
+- [Jailbreak-Update-zz/jailbreak-update.github.io](https://github.com/Jailbreak-Update-zz/jailbreak-update.github.io) - This Is A Dedicated Repository For Jailbreak And Other IPhone Related Projects.
+- [UDST/vizicities](https://github.com/UDST/vizicities) - A Framework For 3D Geospatial Visualization In The Browser
+- [Geoffreylitt/wildcard](https://github.com/geoffreylitt/wildcard) - A Browser Extension For Customizing Web Apps With A Spreadsheet View
+- [LifeScopeLabs/lifescope-app](https://github.com/LifeScopeLabs/lifescope-app) - Search And Explore The Internet Of You
+- [Chapmanjacobd/everydayvirtualvacation](https://github.com/chapmanjacobd/everydayvirtualvacation) - An ICal File To Transport You To A New Place Every Day Until You Die
+- [ArneTR/standardnotes_day_one_importer](https://github.com/ArneTR/standardnotes_day_one_importer) - Day One JSON Export Importer For Standard Notes
+- [Nueh/extractDOJ](https://github.com/nueh/extractDOJ) - This Is A Python Script To Extract Plain Text From A Day One Journal.
+- [Matthewrankin/tagdayone](https://github.com/matthewrankin/tagdayone) - Go-based CLI To Add Tags To JSON Day One Journal Entries
+- [Itsdanni/MOMO_desktop](https://github.com/itsdanni/MOMO_desktop) - Journaling/note-taking App Built On Electron Aspiring To Be An Open Source Evernote/day-one
+- [Wardsquid/journal](https://github.com/wardsquid/journal) - Inkling Is Your Journaling Partner. It Utilizes The Latent Data Your Phone Collects Throughout Your Day To Build A Journal Entry That You Can Easily Edit, Save, And Share With Loved Ones.
+- [MattbookPro/Day.fm](https://github.com/MattbookPro/Day.fm) - Log Your Last.fm Top Weekly Artists And Tracks To Your Day One Journal
+- [Kalebhermes/day_one_quick_log](https://github.com/kalebhermes/day_one_quick_log) - Quickly Capture Your Smaller Thoughts Throughout The Day, And Have Them Logged Into A Single, Timestamped Journal Entry At The End Of The Day.
+- [Simonelnahas/DayOne2-import-from-CSViMoodJournal](https://github.com/simonelnahas/DayOne2-import-from-CSViMoodJournal) - A Python Script For Importing Entries Into DayOne2 From CSV Export From IMoodJournal
+- [Cajacko/journal-to-photo](https://github.com/cajacko/journal-to-photo) - Script To Convert Day One Journal Entries To Images
+- [K-donn/pyqt-journal-times](https://github.com/k-donn/pyqt-journal-times) - A PyQt App To Visualize Day One Entries
+- [Phillco/journalview](https://github.com/phillco/journalview) - Alternative Web-based Viewing UI For Day One Journals
+- [Philochang/All-DayOne-Journal-to-Evernote](https://github.com/philochang/All-DayOne-Journal-to-Evernote) - If You Want To Quit Using DayOne And Begin Using Evernote As You Primary Journal App, Try This.
+- [Mnich0ls/day-one-csv-importer](https://github.com/mnich0ls/day-one-csv-importer) - Imports Existing Journal Entries To DayOne
+- [Ejb/DayOneMap](https://github.com/ejb/DayOneMap) - Turn Your Day One Journal Into A Dynamic Map
+- [Vigneshrajsb/Day-One-Journal-Clone](https://github.com/vigneshrajsb/Day-One-Journal-Clone) -
+- [Sungchul/DayOne.NET](https://github.com/Sungchul/DayOne.NET) - Day One Journal For Windows(based On .Net Framework)
+- [Rross101/dayonejournalsplitter](https://github.com/rross101/dayonejournalsplitter) - Day One Journal Entry Splitter
+- [Morisunshine/DayOne](https://github.com/morisunshine/DayOne) - Ruby Module To Create Day One Journal Entries
+- [Chanmadsen/JournalCoreDataDayOne](https://github.com/chanmadsen/JournalCoreDataDayOne) -
+- [ChristopherAlan/DayOneJournal](https://github.com/ChristopherAlan/DayOneJournal) - Built A Page Using Iframe And Pull-out Menu To Collect All My Journal Post Since Its Not Built Into The Day One App Yet.
+- [Arman-ashrafian/DayOneParse](https://github.com/arman-ashrafian/DayOneParse) - Parse Day One Journal XML
+- [Misterfoo/DayOneWin](https://github.com/misterfoo/DayOneWin) - Windows Client For DayOne Journal
+- [Simonjefford/rdayone](https://github.com/simonjefford/rdayone) - A Ruby Gem For Accessing Day One (Http://dayoneapp.com/) Journals
+- [Kmarchand/dowcAlfredWorkflow](https://github.com/kmarchand/dowcAlfredWorkflow) - Alfred2 Workflow For Word Count Searches In A Day One Journal
+- [Jerico/dayone-web-js](https://github.com/jerico/dayone-web-js) - Day One Journal Web View
+- [Feoh/DayMinusOne](https://github.com/feoh/DayMinusOne) - A Utility To Convert The DayOne Journal JSON Format To Markdown (Suitable For Import Into Joplin And Elsewhere)
+- [Tam-Lin/MacJournaltoDayOne---Python](https://github.com/Tam-Lin/MacJournaltoDayOne---Python) - A MacJournal -&Gt; Day One Importer, Written In Python
+- [Pwaldhauer/dayone](https://github.com/pwaldhauer/dayone) - NodeJS Module To Create, List And Remove Day One Journal Entries
+- [Matrix-hacks/matrix-puppet-facebook](https://github.com/matrix-hacks/matrix-puppet-facebook) - A Puppetted Facebook Bridge
+- [Matrix-hacks/matrix-puppet-imessage](https://github.com/matrix-hacks/matrix-puppet-imessage) - A Two-way Puppeted Matrix Bridge For Apple IMessage / Messages
+- [Matrix-hacks/ichat2json](https://github.com/matrix-hacks/ichat2json) - Reads An .Ichat Binary Plist File And Writes Newline-separated JSON To STDOUT
+- [Kccqzy/imessage-db-extract](https://github.com/kccqzy/imessage-db-extract) - Extract Messages From An IMessage Database From IOS 8
+- [Michael-danello/iMessageWrappedRelease](https://github.com/michael-danello/iMessageWrappedRelease) - Data And Visualizations On All Your 2020 IMessages
+- [CamHenlin/imessageninja](https://github.com/CamHenlin/imessageninja) - Hosted IMessage Service
+- [CamHenlin/iMessageService](https://github.com/CamHenlin/iMessageService) - Send And Receive IMessages On Anything With A Web Browser
+- [CamHenlin/imessageclient](https://github.com/CamHenlin/imessageclient) - Send And Receive IMessages In A Terminal Or Over Ssh
+- [CamHenlin/iMessageModule](https://github.com/CamHenlin/iMessageModule) - A Node Module For Sending IMessages On Your Mac
+- [CamHenlin/imessagegraphqlserver](https://github.com/CamHenlin/imessagegraphqlserver) -
+- [CamHenlin/imessagebot](https://github.com/CamHenlin/imessagebot) - Who Wouldn't Want To IMessage A Bot?
+- [CamHenlin/MessagesForMacintosh](https://github.com/CamHenlin/MessagesForMacintosh) - An Apple IMessage Client For Classic Macintosh (System 2.0 - MacOS 9.2.2)
+- [CamHenlin/iMessageWebClient](https://github.com/CamHenlin/iMessageWebClient) - Send And Receive IMessages On Anything With A Web Browser
+- [Michael-danello/iMessageWrapped](https://github.com/michael-danello/iMessageWrapped) - Visualizing And Exploring IMessage Data
+- [Automaticmode/active_workflow](https://github.com/automaticmode/active_workflow) - Polyglot Workflows Without Leaving The Comfort Of Your Technology Stack.
+- [Openhoangnc/taskbar-stats](https://github.com/openhoangnc/taskbar-stats) - Display Live System Stats On Windows's Taskbar
+- [Arangodb-foxx/ifttt-example](https://github.com/arangodb-foxx/ifttt-example) - IFTTT Webhook Example
+- [Sushil79g/Facebook-message-to-CSV-exporter](https://github.com/sushil79g/Facebook-message-to-CSV-exporter) - This Script Helps In Producing The Chat Dataset(in Csv Format) Of Your Facebook Chat
+- [Tmthrgd/booked](https://github.com/tmthrgd/booked) - A Facebook Data Export Visualizer Tool.
+- [Jacopofar/location-data-to-heatmap](https://github.com/jacopofar/location-data-to-heatmap) - Create An Animated Heatmap From A Google Location Data Takeout Export
+- [Top-on/life-vault](https://github.com/top-on/life-vault) - Using Selenium To Automate Google Takeout Routines
+- [Cosm/Data-Logger-for-iPhone](https://github.com/cosm/Data-Logger-for-iPhone) - Data Logger For IPhone Can Be Used For Storing And Sharing Various Types Of Data With Pachube.com.
+- [Ryanseys/iphone-sms-stats](https://github.com/ryanseys/iphone-sms-stats) - Parses An SQLite Database From An IPhone And Runs Statistical Analysis On These Messages.
+- [Pryv/open-pryv.io](https://github.com/pryv/open-pryv.io) - Open-source Version Of Pryv.io
+- [Adamtow/geocuts](https://github.com/adamtow/geocuts) - GeoCuts Runs Shortcuts Or Sends Messages Using Your Current Location, Automatically When Paired With Cronios.
+- [Mattdutson/imessage-to-html](https://github.com/mattdutson/imessage-to-html) - A Script For Converting MacOS IMessage History Into A Searchable HTML File, Written For My Lovely Wife Itzel
+- [Wilsonparson/day-one-to-markdown](https://github.com/wilsonparson/day-one-to-markdown) - Script To Convert Day One Journal Entries To Markdown Files.
+- [Tdyydt/DayOne-stats](https://github.com/tdyydt/DayOne-stats) - Show Statistics Of Day One Journals
+- [Digitalbias/journal_converter](https://github.com/digitalbias/journal_converter) - An Elixir Program Created To Convert Simple Markdown Journal Files Into Something That Can Be Imported Into Day One
+- [RobotDisco/day-one-emacs](https://github.com/RobotDisco/day-one-emacs) - Emacs Client For The 'Day One' OSX/iOS Journalling App.
+- [Cnicolai/bullet-journal-day-one](https://github.com/cnicolai/bullet-journal-day-one) - Add Images Of Bullet Journal To Day One While Transcribing The Content
+- [Mfisher911/movies-to-dayone](https://github.com/mfisher911/movies-to-dayone) - Look Up Movie Details And Store As Day One Journal Entries
+- [K-donn/journal-times](https://github.com/k-donn/journal-times) - A Way To Visual Day One Entries
+- [Yashbhojgarhia/DayOneClone](https://github.com/yashbhojgarhia/DayOneClone) - Day One Journaling IOS Application Clone
+- [Akeemphilbert/joplin-dayone](https://github.com/akeemphilbert/joplin-dayone) - Joplin Plugin That Makes It Easier To Transition From Day One Journal
+- [Smarj/Convert-Journal-Markdown](https://github.com/smarj/Convert-Journal-Markdown) - Import Day One JSON Export Into Ulysses
+- [Macronius/day-one-clone](https://github.com/Macronius/day-one-clone) - Clone Of The Day One Journal App On IOS
+- [Dionysus11-source/dayonetoTxt](https://github.com/dionysus11-source/dayonetoTxt) - Change JSON File Of Dayone App To Txt For Bear App
+- [Jheddings/dayone-import](https://github.com/jheddings/dayone-import) - Utilities For Importing Entries Into The Day One Journal App.
+- [Aivantg/journalbot](https://github.com/aivantg/journalbot) - A Bot That Helps Send Slack Messages Directly To DayOne, A Journaling App
+- [Kshigeyama/mdImportDayOne](https://github.com/kshigeyama/mdImportDayOne) - MarkDown ( And Other Text Files ) Import DayOne Journal Bash Script
+- [Alxhslm/journey2dayone](https://github.com/alxhslm/journey2dayone) - Python Script To Convert Journey Diary Entries To Day One Format
+- [Ruthenic/facebook-message-parser](https://github.com/Ruthenic/facebook-message-parser) - Parses The Message Json Provided By Facebook's Data Export And Turns It Into A Human Readable Format, Along With Reversing It To Be Oldest To Newest, As Opposed To Newest To Oldest
+- [Balasaida/MessageExporter](https://github.com/balasaida/MessageExporter) -
+- [Stephenhebert/iphonemessageexport](https://github.com/stephenhebert/iphonemessageexport) - IPhone Backup Message Export Tool Using C# And SQLite
+- [Sethrj/iphone-message-export](https://github.com/sethrj/iphone-message-export) - Hackish Tool To Export Messages And Attachments From An Unencrypted Iphone Backup
+- [Tagatac/bagoup](https://github.com/tagatac/bagoup) - Mac OS Messages Export
+- [Mariuz/fbexport](https://github.com/mariuz/fbexport) - FBExport Is A Tool For Importing/exporting Data And Executing SQL Statements On Firebird , FBCopy Is A Tool To Copy And Compare Data Accross Firebird Databases.
+- [Alexyorke/fb-export-to-slack](https://github.com/alexyorke/fb-export-to-slack) - Export Your Facebook Messenger Data, And Import The Messages Into Slack
+- [Karlicoss/fbmessengerexport](https://github.com/karlicoss/fbmessengerexport) - Export/access You Messenger/Facebook Chat Messages
+- [Jlfwong/messenger-to-markdown](https://github.com/jlfwong/messenger-to-markdown) - Chrome Plugin To Convert Conversations On Messenger.com To Markdown
+- [Jpoehls/go-dayone](https://github.com/jpoehls/go-dayone) - Go Package For Reading Day One Journal Files (Http://dayoneapp.com)
+- [Jannerchang/AppleScript](https://github.com/jannerchang/AppleScript) -
+- [Underscorephil/taskpaperscripts](https://github.com/underscorephil/taskpaperscripts) -
+- [Pwaldhauer/elizabeth](https://github.com/pwaldhauer/elizabeth) - Moves.app Data Exporter
+- [Johnvining/dayonealfred](https://github.com/johnvining/dayonealfred) - Helps Ya Help Alfred Log Stuff To Day One
+- [Papatangosierra/livejournal-archive-tools](https://github.com/papatangosierra/livejournal-archive-tools) -
+- [Dduan/Tweet-Importer-For-Day-One](https://github.com/dduan/Tweet-Importer-For-Day-One) - Imports Tweet Archive To Day One
+- [D12frosted/elpa-mirror](https://github.com/d12frosted/elpa-mirror) - Mirror For Some Emacs Package Archives
+- [SnShine/Wordpress-to-DayOne](https://github.com/SnShine/Wordpress-to-DayOne) - :Book: :Blue_book: Imports Wordpress Blog Entries To DayOne Journal
+- [SnShine/Twitter-to-DayOne](https://github.com/SnShine/Twitter-to-DayOne) - Fetches All Your Tweets Of The Day And Makes A DayOne Entry.
+- [Microdotblog/microblog-mac](https://github.com/microdotblog/microblog-mac) - Micro.blog For Mac
+- [RobTrew/tree-tools](https://github.com/RobTrew/tree-tools) - Various Scripts For Working With Nested Text Outlines
+- [Kevin1/OhLife2DayOne](https://github.com/kevin1/OhLife2DayOne) - Migrate Your OhLife Entries To Day One Without Messing Up The Line Endings.
+- [BooneJS/OhLife2DayOne](https://github.com/BooneJS/OhLife2DayOne) - Convert OhLife Entries To Day One
+- [Goobaroo/wp2dayone](https://github.com/Goobaroo/wp2dayone) - Wordpress To Day One Import.
+- [Beingmrkenny/VesperToDayOne](https://github.com/beingmrkenny/VesperToDayOne) -
+- [Kitykity/socImport](https://github.com/kitykity/socImport) - Send Twitter/Instagram/Facebook Posts To Day One Journal
+- [Kitykity/dotw](https://github.com/kitykity/dotw) - Day One &Lt;- Twitter
+- [Kitykity/dowp](https://github.com/kitykity/dowp) - Day One &Lt;- WordPress
+- [Kitykity/doig](https://github.com/kitykity/doig) - Day One &Lt;- Instagram
+- [Kitykity/DayOneRandom](https://github.com/kitykity/DayOneRandom) - Day One Doesn't Have A Random Post Button (Yet!), But This Web Page Will Allow You To Go To Any Random Post That You've Put Into It. Requires A Little Work Each Time You Write A Post, But It's Worth I
+- [Acdpnk/.scrpt](https://github.com/acdpnk/.scrpt) -
+- [Jyruzicka/rb-dayone](https://github.com/jyruzicka/rb-dayone) - A Ruby Library For Creating (And, One Day, Editing And Removing) DayOne.app Entries
+- [Donnierayjones/dayone-html](https://github.com/donnierayjones/dayone-html) -
+- [Dduan/git2dayone](https://github.com/dduan/git2dayone) - A Script For Logging Git Commit Messages In The App Day One
+- [Nitinthewiz/pyDayOne](https://github.com/nitinthewiz/pyDayOne) - A Cross-platform Python App To Show Your Day One Entries And Let You Make New Ones. Tested In Windows.
+- [Jensbrehmen/sirishortcuts](https://github.com/jensbrehmen/sirishortcuts) - Siri Shortcuts Collection
+- [Jbwhaley/Clip-To-Day-One](https://github.com/jbwhaley/Clip-To-Day-One) - An OS X System Service That Sends Selected Text To A New Day One Entry.
+- [Jbwhaley/DayOne-Quick](https://github.com/jbwhaley/DayOne-Quick) - A Simple Workflow For Alfred 2 Which Facilitates Dead-quick Addition Of Entries To DayOne.app.
+- [Gregryork/DayOneViewer](https://github.com/gregryork/DayOneViewer) - A Viewer For Day One Journal Entries In Java
+- [HomemadeToast57/repofinder](https://github.com/HomemadeToast57/repofinder) - APT Repository App For Jailbroken IOS Devices
+- [Jrk/scrobbl](https://github.com/jrk/scrobbl) - Last.fm Scrobbler For Jailbroken IPhone OS Devices
+- [Frostland/GPS-Stone](https://github.com/frostland/GPS-Stone) - Record Your Position And Export Your Trip In GPX With GPS Stone On IOS.
+- [Jasonette/JASONETTE-iOS](https://github.com/Jasonette/JASONETTE-iOS) - 📡 Native App Over HTTP, On IOS
+- [Hyper-expanse/dayone-to-joplin](https://github.com/hyper-expanse/dayone-to-joplin) - Import A Day One JSON Export Into The Joplin Note-taking Application With All Journal Entries And Photos.
+- [Soleaf/EvernoteToDayone2](https://github.com/soleaf/EvernoteToDayone2) - Move Notes From Evernote To DayOne2 On Mac
+- [JackeyGao/dayone2PDF](https://github.com/jackeyGao/dayone2PDF) - 📚📔Convert Your Dayone Journal To Pdf Book.
+- [Hollyxu/evernote2dayone](https://github.com/hollyxu/evernote2dayone) - Migrate From Evernote Into DayOne
+- [Hollyxu/todoist2dayone](https://github.com/hollyxu/todoist2dayone) - Migrate From TODOist Into DayOne
+- [Ginatrapani/jfp](https://github.com/ginatrapani/jfp) - Quick-and-dirty Journey To Day One Import Helper
+- [Wogong/dayone-to-roam](https://github.com/wogong/dayone-to-roam) - Day One To Roam Research
+- [Essux/Quantified-Self-Reports](https://github.com/Essux/Quantified-Self-Reports) - Personal Activity Reports That Go Directly To Your Inbox.
+- [Lacunaverse/hawk](https://github.com/lacunaverse/hawk) - Get A Bird's Eye View Of You
+- [Pleonova/data-diary](https://github.com/pleonova/data-diary) - My Life Dashboard - Automatically Track And Visualize Your Data. Using Common Tracker APIs To Create A Minute By Minute Representation Of Your Day.
+- [Pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker) - A Plugin Tracks Occurrences And Numbers In Your Notes
+- [Hakusaro/email-to-DayOne](https://github.com/hakusaro/email-to-DayOne) - Before Day One Supported IFTTT, I Wrote A Simple Ruby Script To Import Emails Into Day One. This Is That Script.
+- [Quantumgardener/dayone-to-obsidian](https://github.com/quantumgardener/dayone-to-obsidian) - Convert A DayOne JSON Export Into Individual Entries For Obsidian
+- [Measuresforjustice/textricator](https://github.com/measuresforjustice/textricator) - Textricator Is A Tool To Extract Text From Documents And Generate Structured Data.
+- [Vijaysattigeri/InstagramJsonMessageReader](https://github.com/vijaysattigeri/InstagramJsonMessageReader) - This Python Script Reads Instagram's JSON Export File (Messages.json) And Prints In A User Readable Format
+- [Siddhxrth/imessage-analyze-and-export](https://github.com/siddhxrth/imessage-analyze-and-export) - Command Line Interface (CLI) To Analyze And Export Imessage Conversations Into .Csv Files Containing Messages, Timestamps, And IDs 📲
+- [Saheethao/imessage-exporter](https://github.com/saheethao/imessage-exporter) -
+- [Jkeen/forever-chat-imessage-export](https://github.com/jkeen/forever-chat-imessage-export) - IMessage Export In The Forever Chat Format
+- [Drbh/imessage-exporter](https://github.com/drbh/imessage-exporter) - This Project Aims To Help People Better Analyze Thier Messaging Application And Is A Continuation Of Work Done For This Article: Https://towardsdatascience.com/what-your-imessage-data-says-about-you-d
+- [Cfinke/OSX-Messages-Exporter](https://github.com/cfinke/OSX-Messages-Exporter) - Exports IMessages And SMS's To Files.
+- [Aaronpk/iMessage-Export](https://github.com/aaronpk/iMessage-Export) - Archive Your IMessage History To HTML, CSV Or SQL
+- [Keirp/chat_export](https://github.com/keirp/chat_export) - A Python Script To Export Facebook Messenger And IMessage Data Into A CSV With Only Names And Timestamps.
+- [Gamma032steam/fbtimestamp](https://github.com/gamma032steam/fbtimestamp) - Exports Facebook Messenger Timestamps For Analysis.
+- [Bencooper222/Facebook-Messenger-Export-Display](https://github.com/bencooper222/Facebook-Messenger-Export-Display) - A Display Of Your Exported Facebook Messages
+- [Bencooper222/Facebook-Messenger-Export](https://github.com/bencooper222/Facebook-Messenger-Export) - Converting Messenger's Export Into Something Useful
+- [Bogurd/messenger-explorer](https://github.com/bogurd/messenger-explorer) - A Messages Explorer For Data Exported From Facebook Messenger
+- [Quantitare/quantitare-categories](https://github.com/quantitare/quantitare-categories) - Category Specifications For Quantitare Scrobbles
+- [N0shake/Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A Public List Of APIs From Round The Web.
+- [Ugilio/keen](https://github.com/ugilio/keen) - The Knowledge Engineering ENvironment For Timeline-based Planning
+- [Appium/appium-inspector](https://github.com/appium/appium-inspector) - A GUI Inspector For Mobile Apps And More, Powered By A (Separately Installed) Appium Server
+- [Frankwxu/digital-forensics-lab](https://github.com/frankwxu/digital-forensics-lab) - Free Hands-on Digital Forensics Labs For Students And Faculty
+- [Azim-Vau/crack-pro](https://github.com/Azim-Vau/crack-pro) - NEW FACEBOOK COINING TOOL
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome Multilingual OCR Toolkits Based On PaddlePaddle (Practical Ultra Lightweight OCR System, Support 80+ Languages Recognition, Provide Data Annotation And Synthesis Tools, Support Training And De
+- [Ran88dom99/QS-data-flow-network-graph](https://github.com/ran88dom99/QS-data-flow-network-graph) -
+- [Alkashef/timeline-visualization](https://github.com/alkashef/timeline-visualization) - Visualization Of Parallel Timelines In Excel
+- [FranciscaOrtizRuiz/timelines](https://github.com/FranciscaOrtizRuiz/timelines) - Personal Collection Of Examples To Do Different Timelines In R, For Social Science Researchers.
+- [Gverni/kairoi](https://github.com/gverni/kairoi) - Project Timelines Made Easy…
+- [Quantitare/quantitare](https://github.com/quantitare/quantitare) - A Self-hosted Personal Dashboard
+- [Infertux/lifechart](https://github.com/infertux/lifechart) - Spend Your Time Wisely
+- [Skeate/Leaflet.timeline](https://github.com/skeate/Leaflet.timeline) - Display Arbitrary GeoJSON On A Map With A Timeline Slider And Play Button
+- [Shaoxiongji/knowledge-graphs](https://github.com/shaoxiongji/knowledge-graphs) - A Collection Of Research On Knowledge Graphs
+- [ScotterC/Momento3toDayOne2Importer](https://github.com/ScotterC/Momento3toDayOne2Importer) - Small Script To Make Importing Data From Momento Journal To DayOne 2 Easy
+- [Davidbosman/Import-Markdown-to-Day-One](https://github.com/davidbosman/Import-Markdown-to-Day-One) - Import Markdown Journal Entries (Txt Files) To Day One App (OS X)
+- [Wells19d/my-timeline-journal](https://github.com/wells19d/my-timeline-journal) -
+- [EdwardRutz/music-timeline-bullet-journal](https://github.com/EdwardRutz/music-timeline-bullet-journal) - Create Your Life's Soundtrack By Making A Music Timeline With The Timeline-bullet-journal.
+- [Jakubvalenta/automatic-diary](https://github.com/jakubvalenta/automatic-diary) - Create One Timeline From Various Digital Sources
+- [FWMSH/timelineViewer](https://github.com/FWMSH/timelineViewer) - Build Interactive, Multi-touch Timelines Using A Spreadsheet
+- [Ionstage/timeline](https://github.com/ionstage/timeline) - Web-based Timeline Viewer
+- [Arcterex/dayone2csvimport](https://github.com/arcterex/dayone2csvimport) - Day One V2 Import Of CSV File
+- [Janw/imessage-parser](https://github.com/janw/imessage-parser) -
+- [Mhejda/dayone2logseq-md](https://github.com/mhejda/dayone2logseq-md) - Converting DayOne Journals Into Markdown Files Compatible With Logseq
+- [Joshbrunty/SMS.db-to-CSV](https://github.com/joshbrunty/SMS.db-to-CSV) - Converts The IOS SMS.db To CSV Output
+- [Maxmad68/SMSDB2HTML](https://github.com/Maxmad68/SMSDB2HTML) - Archive Your Sms.db Messages As A IOS Like Web Site
+- [Bernuli/smsExport](https://github.com/bernuli/smsExport) - SmsExport Is A Perl Script That Reads Your IOS Device Backup Files And Creates A CSV File Of Your Text Messages. It Uses The Messages Sql Database And Matches Up Phone Numbers With The Addressbook Da
+- [Camdez/org-dayone](https://github.com/camdez/org-dayone) - Import Day One Exports Into Emacs Org Mode
+- [Simrun/dayone-export](https://github.com/simrun/dayone-export) - Script To Extract Data From A Day One JSON Export. Journal Entries And Metadata Are Printed In Individual Text Files.
+- [WeibingChen17/SimpleDayOneExporter](https://github.com/WeibingChen17/SimpleDayOneExporter) - An Extremely DayOne Export To Save Your Data
+- [Hossman333/DayOne-Find-And-Replace](https://github.com/Hossman333/DayOne-Find-And-Replace) - Find And Replace Text For Day One JSON Exports.
+- [Ezrahill/FBExport_DayOne](https://github.com/ezrahill/FBExport_DayOne) - Facebook Data Export To DayOne
+- [Hakusaro/exist-to-dayone](https://github.com/hakusaro/exist-to-dayone) - Exports All Mood Entries From Exist.io Into Day One.
+- [Yeefom/day-one-exporter](https://github.com/yeefom/day-one-exporter) - Export Day One Entries As Individual Files
+- [C2DH/histograph](https://github.com/C2DH/histograph) - Neo4j Powered Web Application For Multimedia Collections: Bring Graph-based Exploration And Crowd-based Indexation.
+- [CVCEeu-dh/histograph](https://github.com/CVCEeu-dh/histograph) - Neo4j Powered Web Application For Multimedia Collections: Bring Graph-based Exploration And Crowd-based Indexation.
+- [Jbmorley/day-one-to-markdown](https://github.com/jbmorley/day-one-to-markdown) - Convert Day One Journal Entries To Markdown And Front Matter
+- [Ploum/dayone2markdown](https://github.com/ploum/dayone2markdown) - Converting DayOne Journals Into Markdown Files
+- [Karlicoss/HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
+- [Karlicoss/orger](https://github.com/karlicoss/orger) - Tool To Convert Data Into Searchable And Interactive Org-mode Views
+- [Abrignoni/iLEAPP](https://github.com/abrignoni/iLEAPP) - IOS Logs, Events, And Plist Parser
+- [Simon987/awesome-datahoarding](https://github.com/simon987/awesome-datahoarding) - List Of Data-hoarding Related Tools
+- [Dogsheep/dogsheep-beta](https://github.com/dogsheep/dogsheep-beta) - Build A Search Index Across Content From Multiple SQLite Database Tables And Run Faceted Searches Against It Using Datasette
+- [Dogsheep/dogsheep-photos](https://github.com/dogsheep/dogsheep-photos) - Upload Your Photos To S3 And Import Metadata About Them Into A SQLite Database
+- [Dogsheep/healthkit-to-sqlite](https://github.com/dogsheep/healthkit-to-sqlite) - Convert An Apple Healthkit Export Zip To A SQLite Database
+- [Bcbernardo/aw-watcher-ask](https://github.com/bcbernardo/aw-watcher-ask) - An ActivityWatch Watcher To Pose Questions To The User And Record Her Answers.
+- [Corajr/dayone-convert](https://github.com/corajr/dayone-convert) - A JSON Parser (And Plain Text File Importer) For Day One.
+- [Bryan1anderson/iMessage-to-Day-One-Importer](https://github.com/bryan1anderson/iMessage-to-Day-One-Importer) - Grabs All The IMessages From Chat.db And Begins An Import Into Day One App
+- [Donnierayjones/dayone-js-html](https://github.com/donnierayjones/dayone-js-html) - Renders Day One App Entries As HTML
+- [Sinwindie/OSINT](https://github.com/sinwindie/OSINT) - Collections Of Tools And Methods Created To Aid In OSINT Collection
+- [Cyberglot/awesome-answers](https://github.com/cyberglot/awesome-answers) - Curated List Of Inspiring And Thoughtful Answers Given On Stackoverflow, Quora, Etc.
+- [Willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) - A Curated List About Audio Visualization.
+- [Jordanmerrick/scriptable](https://github.com/jordanmerrick/scriptable) -
+- [Alx-xlx/goindex](https://github.com/alx-xlx/goindex) - Index Your Google Drive
+- [The-SamminAter/repo](https://github.com/The-SamminAter/repo) - My (The-SamminAter's) Repo For Jailbroken Devices
+- [Nicho1asdev/repo](https://github.com/nicho1asdev/repo) - A Repository For Nicho1asdev's Jailbreak Tweaks!
+- [Alombi/alombi.xyz](https://github.com/alombi/alombi.xyz) - My Personal Website And My Blog, Live At Alombi.xyz
+- [Sbhnkhrmn/sbhnkhrmn.github.io](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io) - Jailbreak Repo
+- [ShazStar/privrepo](https://github.com/ShazStar/privrepo) - Personal Repo For Jailbreak Needs.
+- [Thezeroalpha/zerotab-old](https://github.com/thezeroalpha/zerotab-old) - My Old Custom Startpage, Based Off WebOasis. No Longer In Use Because It's Super Heavy.
+- [PanJiaChen/awesome-bookmarks](https://github.com/PanJiaChen/awesome-bookmarks) - :Sparkling_heart: A Curated List Of Awesome Things
+- [Sawankumar/Google-Drive-Index](https://github.com/sawankumar/Google-Drive-Index) - A Google Drive Index Running On CloudFlare Workers.
+- [Pixelbubble/ProtOSINT](https://github.com/pixelbubble/ProtOSINT) - ProtOSINT Is A Python Script That Helps You Investigate Protonmail Accounts And ProtonVPN IP Addresses
+- [WebBreacher/yoga](https://github.com/WebBreacher/yoga) - Your OSINT Graphical Analyzer
+- [Barba99/barba_music](https://github.com/barba99/barba_music) - #Este Script Descarca De Facebook Spotify Y Youtube
+- [Mikecel79/DISMGUI](https://github.com/mikecel79/DISMGUI) - DISM GUI Is A Graphical Interface For The DISM Command Line Utility Written In The .NET. DISM GUI Allows You To Mount And Dismount WIMs, Manager Drivers, Features And Packages.
+- [Hackerspider1/EchoPwn](https://github.com/hackerspider1/EchoPwn) - Recon Automation For Hackers By Hackers
+- [DataSploit/datasploit](https://github.com/DataSploit/datasploit) - An #OSINT Framework To Perform Various Recon Techniques On Companies, People, Phone Number, Bitcoin Addresses, Etc., Aggregate All The Raw Data, And Give Data In Multiple Formats.
+- [Igglybuff/awesome-piracy-bot](https://github.com/Igglybuff/awesome-piracy-bot) - Set Of Bots For Scraping URLs From Discord, Telegram, Reddit, And IRC.
+- [DenisIzmaylov/awesome-telegram-bots](https://github.com/DenisIzmaylov/awesome-telegram-bots) - Collection Of Examples, Libraries And Starter-kits For Telegram Bots
+- [Aviranzerioniac/awesome-piracy](https://github.com/aviranzerioniac/awesome-piracy) - This Is Oftentimes A Clone Of The Original Awesome Piracy Repo. At Times, I Just Go Along Editing A Little Too Many Links From The Collection, And It Becomes Something Else.
+- [JoyGhoshs/FbBruteforcer](https://github.com/JoyGhoshs/FbBruteforcer) - Facebook Bruteforce Python Script You Can Use It In Windows If You Have Python 2.7 Installed On Your Windows Also You Can Use It In Kali Linux
+- [Yeyintminthuhtut/Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) - List Of Awesome Red Teaming Resources
+- [Hong6914/awesome_software_securities](https://github.com/hong6914/awesome_software_securities) - Sites And URLs On Software And Securities That I Hope To Learn From You Guys
+- [Tihmstar/futurerestore](https://github.com/tihmstar/futurerestore) - A Hacked Up Idevicerestore Wrapper, Which Allows Specifying SEP And Baseband For Restoring
+- [JohnCoatesOSS/Limitless](https://github.com/JohnCoatesOSS/Limitless) - Fork Of Cydia. Different Name To Avoid Confusion. Goal: Refactor Cydia To Make Contributions Easier. Backport Features To Cydia's Coding Style So They Can Be Submitted For Consideration.
+- [Krzysztofzablocki/PropertyMapper](https://github.com/krzysztofzablocki/PropertyMapper) - Property Mapping For Objective-C IOS Apps.
+- [Bitly/data_hacks](https://github.com/bitly/data_hacks) - Command Line Utilities For Data Analysis
+- [Selfspy/selfspy](https://github.com/selfspy/selfspy) - Log Everything You Do On The Computer, For Statistics, Future Reference And All-around Fun!
+- [Jmmaloney4/IOS-scripts](https://github.com/jmmaloney4/IOS-scripts) -
+- [Billychasen/appstore_resize](https://github.com/billychasen/appstore_resize) - A Script To Generate All Your App Store Images From An IOS 6 Plus Image
+- [Peterhajas/Smissy](https://github.com/peterhajas/Smissy) - A Visualizer For IOS SMS Backups
+- [Vsouza/Bird](https://github.com/vsouza/Bird) - :Bird: IOS Push Notifications With Python
+- [Realityone/APNManager](https://github.com/realityone/APNManager) - A Simple IOS Apn Proxy Profile Generater
+- [Buza/OpenPhoto](https://github.com/Buza/OpenPhoto) - OpenPhoto For IOS
+- [Shmoopi/iOS-System-Services](https://github.com/Shmoopi/iOS-System-Services) - IOS System Services Is A Class To Gather All Available Information About A Device.
+- [Shopify/superdb](https://github.com/Shopify/superdb) - The Super Debugger, A Realtime Wireless Debugger For IOS
+- [Evilwindowdog/itunesfs](https://github.com/evilwindowdog/itunesfs) - Script For Generating An ITunes Connect Package (.Itmsp) Straight From The File System
+- [Thomasfinch/CyLogos](https://github.com/thomasfinch/CyLogos) - Logos Syntax For Cycript
+- [KJCracks/Clutch](https://github.com/KJCracks/Clutch) - Fast IOS Executable Dumper
+- [SilentCircle/iap-local-receipt](https://github.com/SilentCircle/iap-local-receipt) - Python Library To Do Local Server-side Verification Of IOS App Store Receipts
+- [Route-me/route-me](https://github.com/route-me/route-me) - Open Source Map Library For IOS
+- [Mixi-inc/iOSTraining](https://github.com/mixi-inc/iOSTraining) - Training Course Repository For IOS App Development
+- [Sorin-ionescu/tilde](https://github.com/sorin-ionescu/tilde) - These Are Scripts That I Use. Not All Are Written By Me.
+- [Yeliu84/python-wechat](https://github.com/yeliu84/python-wechat) - WeChat.py Is A Library Which Provides An Easy Access To The WeChat (Weixin) App's Chat Log.
+- [Alexlee002/XcodeScripts](https://github.com/alexlee002/XcodeScripts) - Useful Scripts For IOS / OS X Projects
+- [Clayallsopp/routable-ios](https://github.com/clayallsopp/routable-ios) - Routable, An In-app Native URL Router, For IOS
+- [Danielamitay/iHasApp](https://github.com/danielamitay/iHasApp) - The IHasApp IOS Framework Allows You To Detect Installed Apps On A User's Device.
+- [Sole/snippets](https://github.com/sole/snippets) - Code Snippets. Miscellaneous Purposes And Languages.
+- [Tencent/MLeaksFinder](https://github.com/Tencent/MLeaksFinder) - Find Memory Leaks In Your IOS App At Develop Time.
+- [Ptshih/PSCollectionView](https://github.com/ptshih/PSCollectionView) - A Simple Open Source Implementation Of A Pinterest Pinboard For IOS
+- [Honcheng/iOSPlot](https://github.com/honcheng/iOSPlot) - Chart Library For IOS
+- [3lvis/Form](https://github.com/3lvis/Form) - The Most Flexible And Powerful Way To Build A Form On IOS
+- [Zipme/RQShineLabel](https://github.com/zipme/RQShineLabel) - Secret App Like Text Animation
+- [Brow/leaves](https://github.com/brow/leaves) - A Page-turning Interface For IOS Apps
+- [Gpambrozio/BlockAlertsAnd-ActionSheets](https://github.com/gpambrozio/BlockAlertsAnd-ActionSheets) - Beautifully Done UIAlertView And UIActionSheet Replacements Inspired By TweetBot
+- [Ericjohnson/canabalt-ios](https://github.com/ericjohnson/canabalt-ios) - Open Source Release Of Canabalt For IOS
+- [Shinydevelopment/SimulatorStatusMagic](https://github.com/shinydevelopment/SimulatorStatusMagic) - Clean Up Your Status Bar For Taking Screenshots On The IOS Simulator.
+- [Tomwilkie/awesomation](https://github.com/tomwilkie/awesomation) - Home Awesomation; Python Home Automation System.
+- [Danielamitay/DAKeyboardControl](https://github.com/danielamitay/DAKeyboardControl) - DAKeyboardControl Adds Keyboard Awareness And Scrolling Dismissal (Ala IMessages App) To Any View With Only 1 Line Of Code.
+- [Bitstadium/QuincyKit](https://github.com/bitstadium/QuincyKit) - HockeyApp Was Retired And The SDKs Are Deprecated. Please Use App Center Instead.
+- [Terryworona/TWMessageBarManager](https://github.com/terryworona/TWMessageBarManager) - An IOS Manager For Presenting System-wide Notifications Via A Dropdown Message Bar.
+- [Glasslion/fontdump](https://github.com/glasslion/fontdump) -
+- [Jaraen/TiAccurateTimer](https://github.com/jaraen/TiAccurateTimer) - An Accurate IOS Timer Module For Titanium That Improves The JavaScript SetInterval And SetTimeout Functions. Valid For Basic Media Applications And Games.
+- [Alibaba/iOSSecAudit](https://github.com/alibaba/iOSSecAudit) - IOS Security Audit Toolit - A Semi-automatic Tool For IOS App Security Audit And IOS Reverse Engineering
+- [Matheusjardimb/ios2android](https://github.com/matheusjardimb/ios2android) - Python Script To Convert Ios Images Into Android Compatible Ones
+- [Panicinc/PunchClock](https://github.com/panicinc/PunchClock) - An In/out Tracking App For IOS 7+ That Uses IBeacon And Geofencing.
+- [Krzysztofzablocki/Bootstrap](https://github.com/krzysztofzablocki/Bootstrap) - IOS Project Bootstrap Aimed At High Quality Coding.
+- [Nmattisson/DropdownMenu](https://github.com/nmattisson/DropdownMenu) - DropdownMenu Is An IOS Navigation Controller Using A Container View, Storyboards And Segues.
+- [Mihaip/feed-scraping](https://github.com/mihaip/feed-scraping) - Collection Of Feed Scraping Scripts
+- [Ylechelle/OpenUDID](https://github.com/ylechelle/OpenUDID) - [OpenUDID IS NOW DEPRECATED] Open Source Initiative For A Universal And Persistent UDID Solution For IOS
+- [Intentkit/IntentKit](https://github.com/intentkit/IntentKit) - An Easier Way To Handle Third-party URL Schemes In IOS Apps.
+- [ISECPartners/jailbreak](https://github.com/iSECPartners/jailbreak) - Jailbreak
+- [Kennytm/Miscellaneous](https://github.com/kennytm/Miscellaneous) - This Repository Contains Stuff Which Would Be Helpful For Jailbroken IOS Development.
+- [0xced/XCDYouTubeKit](https://github.com/0xced/XCDYouTubeKit) - YouTube Video Player For IOS, TvOS And MacOS
+- [Overshare/overshare-kit](https://github.com/overshare/overshare-kit) - A Soup-to-nuts Sharing Library For IOS.
+- [PoorBillionaire/USN-Journal-Parser](https://github.com/PoorBillionaire/USN-Journal-Parser) - Python Script To Parse The NTFS USN Journal
+- [Mattt/GroundControl](https://github.com/mattt/GroundControl) - Remote Configuration For IOS
+- [Omz/AppSales-Mobile](https://github.com/omz/AppSales-Mobile) - App Sales Allows IPhone And Mac App Store Developers To Download And Analyze Their Daily And Weekly Sales Reports From ITunes Connect.
+- [Alexbw/novocaine](https://github.com/alexbw/novocaine) - Painless High-performance Audio On IOS And Mac OS X
+- [Droidsec-cn/iOS-private-api-checker](https://github.com/droidsec-cn/iOS-private-api-checker) - IOS-private-api-checker 苹果IOS私有API检查工具 Developer Tool To Scan IOS Apps For Private API Usage Before Submitting To Apple
+- [Miguelgazela/Projects](https://github.com/miguelgazela/Projects) - [Python] Trying To Complete All Projects From Http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/
+- [Wmjan/Odysseus](https://github.com/wmjan/Odysseus) - Odysseus For Windows
+- [Henrik4433/cylinder-master](https://github.com/henrik4433/cylinder-master) -
+- [SupremacyXI/iRecord](https://github.com/SupremacyXI/iRecord) - A Screen Recorder For IOS 8
+- [Lavaalone/iControl](https://github.com/lavaalone/iControl) - Control The IOS Devices.
+- [Theiostream/utilities](https://github.com/theiostream/utilities) - My Own Open-source Replacements For Popular Command-line Tools From The Jailbreaking Community.
+- [Ap4y/iSAP](https://github.com/ap4y/iSAP) - Implementation Of The RSAP Protocol Fo The Iphone. Based On The BTStack(http://code.google.com/p/btstack/)
+- [Grp/pyrecovery](https://github.com/grp/pyrecovery) - Python Library For Low-level USB Communications. Incomplete; Do Not Use.
+- [Comex/spirit](https://github.com/comex/spirit) -
+- [Posixninja/spirit-linux](https://github.com/posixninja/spirit-linux) - Linux Port Of The "Spirit" Jailbreak Using Libimobiledevice
+- [Coolstar/RecordMyScreen](https://github.com/coolstar/RecordMyScreen) - Record The Display Even On Non-jailbroken IPhones.
+- [Thomasfinch/GammaThingy](https://github.com/thomasfinch/GammaThingy) - Changes Screen Gamma On IOS, No Jailbreak Required
+- [Tcurdt/iProxy](https://github.com/tcurdt/iProxy) - Let's You Connect Your Laptop To The IPhone To Surf The Web.
+- [Pybrain/pybrain](https://github.com/pybrain/pybrain) -
+- [Fivesheep/chnroutes](https://github.com/fivesheep/chnroutes) - Scripts Help Chinese Netizen, Who Uses Vpn To Combat Censorship, By Modifying The Route Table So As Routing Only The Censored Ip To The Vpn
+- [Gorakhargosh/watchdog](https://github.com/gorakhargosh/watchdog) - Python Library And Shell Utilities To Monitor Filesystem Events.
+- [Jeanphix/Ghost.py](https://github.com/jeanphix/Ghost.py) - Webkit Based Scriptable Web Browser For Python.
+- [Worldveil/dejavu](https://github.com/worldveil/dejavu) - Audio Fingerprinting And Recognition In Python
+- [CouchPotato/CouchPotatoServer](https://github.com/CouchPotato/CouchPotatoServer) - Automatic Movie Downloading Via NZBs & Torrents
+- [Mrmign/iOS-private-api-scanner](https://github.com/mrmign/iOS-private-api-scanner) - Scan IOS Private Api
+- [RobinMeis/Siri-API](https://github.com/RobinMeis/Siri-API) - Siri-API Is A Tool Which Opens Apples Siri For Your Own Wishes WITHOUT The Requirement Of A Jailbreak. You Can Predefine Keywords Which Execute Your Own Python Code When They Are Found In A Request.
+- [Pod2g/ios_stuff](https://github.com/pod2g/ios_stuff) - IOS Hacking Stuff
+- [Mountainstorm/MobileDevice](https://github.com/mountainstorm/MobileDevice) - A Python Package, And Command Line Tool, Which Wraps Apple's MobileDevice API - Providing Access To IOS Devices.
+- [Sauce-archives/isign](https://github.com/sauce-archives/isign) - Code Sign IOS Applications, Without Proprietary Apple Software Or Hardware
+- [MengTo/DesignerNewsApp](https://github.com/MengTo/DesignerNewsApp) - Build A Swift App As A Designer
+- [ColdGrub1384/CellMD](https://github.com/ColdGrub1384/CellMD) - CellMD Is An IOS Application For Jailbroken Devices To Run Shell Commands.
+- [Gravemind1753/GBA4iOS-master](https://github.com/gravemind1753/GBA4iOS-master) -
+- [Vgel/summarize.py](https://github.com/vgel/summarize.py) - A Python Script For Summarizing Articles Using Nltk
+- [Hubert3/iSniff-GPS](https://github.com/hubert3/iSniff-GPS) - Passive Sniffing Tool For Capturing And Visualising WiFi Location Data Disclosed By IOS Devices
+- [Viewfinderco/viewfinder](https://github.com/viewfinderco/viewfinder) - Viewfinder Client And Server Code
+- [Kstenerud/iOS-Universal-Framework](https://github.com/kstenerud/iOS-Universal-Framework) - An XCode Project Template To Build Universal Frameworks (Arm7, Arm7s, And Simulator) For IOS / IPhone.
+- [Theano/Theano](https://github.com/Theano/Theano) - Theano Was A Python Library That Allows You To Define, Optimize, And Evaluate Mathematical Expressions Involving Multi-dimensional Arrays Efficiently. It Is Being Continued As Aesara: Www.github.com/p
+- [Askedrelic/journal](https://github.com/askedrelic/journal) - Python CLI Tool To Help With Keeping A Work/personal Journal
+- [Romaonthego/REMenu](https://github.com/romaonthego/REMenu) - Dropdown Menu Inspired By Vine.
+- [Mwaterfall/MWFeedParser](https://github.com/mwaterfall/MWFeedParser) - An Objective-C RSS / Atom Feed Parser For IOS
+- [Twitter-archive/CocoaSPDY](https://github.com/twitter-archive/CocoaSPDY) - SPDY For IOS And OS X
+- [Phoboslab/Ejecta](https://github.com/phoboslab/Ejecta) - A Fast, Open Source JavaScript, Canvas & Audio Implementation For IOS
+- [Jhhjhh/wm-design](https://github.com/jhhjhh/wm-design) - WM Design Repo, Mostly Styl Files
+- [Nicklockwood/SwipeView](https://github.com/nicklockwood/SwipeView) - SwipeView Is A Class Designed To Simplify The Implementation Of Horizontal, Paged Scrolling Views On IOS. It Is Based On A UIScrollView, But Adds Convenient Functionality Such As A UITableView-style D
+- [Jverkoey/iOS-Framework](https://github.com/jverkoey/iOS-Framework) - How To Create, Develop, And Distribute IOS Static Frameworks Quickly And Efficiently
+- [Leichunfeng/MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa) - GitBucket IOS App
+- [0xced/iOS-Artwork-Extractor](https://github.com/0xced/iOS-Artwork-Extractor) - Extract IOS Artwork And Emoji Symbols Into Png Files, Generate Glossy Buttons Png Files
+- [TheAmazingAudioEngine/TheAmazingAudioEngine](https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine) - Core Audio, Cordially: A Sophisticated Framework For IOS Audio Applications, Built So You Don't Have To.
+- [Boctor/idev-recipes](https://github.com/boctor/idev-recipes) - Open Source Code For The Idevrecipes.com Blog
+- [Marxon13/M13ProgressSuite](https://github.com/Marxon13/M13ProgressSuite) - A Suite Containing Many Tools To Display Progress Information On IOS.
+- [Wmayner/pyphi](https://github.com/wmayner/pyphi) - A Toolbox For Integrated Information Theory.
+- [Jrspruitt/ubi_reader](https://github.com/jrspruitt/ubi_reader) - Collection Of Python Scripts For Reading Information About And Extracting Data From UBI And UBIFS Images.
+- [KnuffApp/Knuff](https://github.com/KnuffApp/Knuff) - The Debug Application For Apple Push Notification Service (APNs).
+- [Beeldengeluid/linkedtv-editortool](https://github.com/beeldengeluid/linkedtv-editortool) - Final Version Of The LinkedTV (Linkedtv.eu) Editor Tool
+- [Syedhali/EZAudio](https://github.com/syedhali/EZAudio) - An IOS And MacOS Audio Visualization Framework Built Upon Core Audio Useful For Anyone Doing Real-time, Low-latency Audio Processing And Visualizations.
+- [Cruffenach/CRToast](https://github.com/cruffenach/CRToast) - A Modern IOS Toast View That Can Fit Your Notification Needs
+- [Fpillet/NSLogger](https://github.com/fpillet/NSLogger) - A Modern, Flexible Logging Tool
+- [Holypriest/edit-scripts](https://github.com/holypriest/edit-scripts) - A Bunch Of Scripts To Automate Tasks Of An Editorial Office
+- [Venkateshshukla/th-editorials-python](https://github.com/venkateshshukla/th-editorials-python) - Python Application For Getting The Hindu Editorials
+- [Reinecke/EditMaker](https://github.com/reinecke/EditMaker) - Python Editorial Tools
+- [Shadowsocks/shadowsocks-iOS](https://github.com/shadowsocks/shadowsocks-iOS) - Removed According To Regulations.
+- [Johnno1962/injectionforxcode](https://github.com/johnno1962/injectionforxcode) - Runtime Code Injection For Objective-C & Swift
+- [Kalupa/editorial-scripts](https://github.com/kalupa/editorial-scripts) - Editorial.app Backup Files
+- [Harvard-lil/perma](https://github.com/harvard-lil/perma) - Indelible Links
+- [Pfcbenjamin/Editorial-Stuff](https://github.com/pfcbenjamin/Editorial-Stuff) - Scripts For Working With Editorial For IOS
+- [Mamaral/Onboard](https://github.com/mamaral/Onboard) - An IOS Framework To Easily Create A Beautiful And Engaging Onboarding Experience With Only A Few Lines Of Code.
+- [ChenYilong/iOS9AdaptationTips](https://github.com/ChenYilong/iOS9AdaptationTips) - IOS9适配系列教程（iOS开发学习交流群：Https://github.com/ChenYilong/iOSBlog/issues/21）
+- [Hackersanddesigners/momentary-zine](https://github.com/hackersanddesigners/momentary-zine) -
+- [Nivlaaa/flickr-mosaic](https://github.com/nivlaaa/flickr-mosaic) -
+- [MortimerGoro/MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell) - An Easy To Use UITableViewCell Subclass That Allows To Display Swippable Buttons With A Variety Of Transitions.
+- [ECSlidingViewController/ECSlidingViewController](https://github.com/ECSlidingViewController/ECSlidingViewController) - Customizable Sliding View Controller Container.
+- [Facebookarchive/Tweaks](https://github.com/facebookarchive/Tweaks) - An Easy Way To Fine-tune, And Adjust Parameters For IOS Apps In Development.
+- [Sacmwg/draft-ietf-sacm-information-model](https://github.com/sacmwg/draft-ietf-sacm-information-model) -
+- [Sethkontny/iphone-dataprotection.keychainviewer](https://github.com/sethkontny/iphone-dataprotection.keychainviewer) - Automatically Exported From Code.google.com/p/iphone-dataprotection.keychainviewer
+- [Kif-framework/KIF](https://github.com/kif-framework/KIF) - Keep It Functional - An IOS Functional Testing Framework
+- [Venkateshshukla/th-editorials-server](https://github.com/venkateshshukla/th-editorials-server) - Get The Editorials Published In The Hindu, The Leading English Daily In India
+- [JonasGessner/NoCarrier](https://github.com/JonasGessner/NoCarrier) - Remove The Carrier Logo From The Status Bar On IOS.
+- [OptimistTeam/OptimistTeam.github.io](https://github.com/OptimistTeam/OptimistTeam.github.io) -
+- [Matthewdunlap/editorial](https://github.com/matthewdunlap/editorial) - Editorial Workflows
+- [Analogmethod/editorial](https://github.com/analogmethod/editorial) - Basic Editorial Site Using Mezzanine
+- [Dave1482/iRepoMakerServer](https://github.com/Dave1482/iRepoMakerServer) - Just The Server Used For IRepoMaker In Cydia
+- [Kohaku-/Koharu-Repository](https://github.com/kohaku-/Koharu-Repository) - Http://cydia.kohaku.repo
+- [Jmmaloney4/Cydia_Apps](https://github.com/jmmaloney4/Cydia_Apps) -
+- [Dotar/InformativeLite2.0](https://github.com/dotar/InformativeLite2.0) - Pebble Watchface Using Smartwatch+ On Cydia
+- [ResearchKit/ResearchKit](https://github.com/ResearchKit/ResearchKit) - ResearchKit Is An Open Source Software Framework That Makes It Easy To Create Apps For Medical Research Or For Other Research Projects.
+- [Nst/iOS-Runtime-Headers](https://github.com/nst/iOS-Runtime-Headers) - IOS Objective-C Headers As Derived From Runtime Introspection
+- [Jzplusplus/OkSiri](https://github.com/jzplusplus/OkSiri) -
+- [Fleshgordo/120days](https://github.com/fleshgordo/120days) - 120days Of *Buntu - Book Documentation
+- [Michaeltyson/TPKeyboardAvoiding](https://github.com/michaeltyson/TPKeyboardAvoiding) - A Drop-in Universal Solution For Moving Text Fields Out Of The Way Of The Keyboard In IOS
+- [Flyingeek/editolido](https://github.com/flyingeek/editolido) - A Collection Of Utilities For Playing With Lido And Editorial IOS App
+- [Mkarneim/editorial-crypto](https://github.com/mkarneim/editorial-crypto) - Encryption And Decryption For Editorial Documents
+- [Flipboard/FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) - Performant Animated GIF Engine For IOS
+- [ViewDeck/ViewDeck](https://github.com/ViewDeck/ViewDeck) - An Implementation Of The Sliding Menu Found In Various IOS Apps.
+- [Linusyang/ChineseConv](https://github.com/linusyang/ChineseConv) - Action Menu Plugin For Converting Texts Into Traditional Chinese
+- [BoltsFramework/Bolts-ObjC](https://github.com/BoltsFramework/Bolts-ObjC) - Bolts Is A Collection Of Low-level Libraries Designed To Make Developing Mobile Apps Easier.
+- [LongAppleC/iphone-dataprotection.keychainviewer](https://github.com/LongAppleC/iphone-dataprotection.keychainviewer) - Automatically Exported From Code.google.com/p/iphone-dataprotection.keychainviewer
+- [Rtcweb-wg/security-arch](https://github.com/rtcweb-wg/security-arch) - Security Architecture Document
+- [CanvasPod/Canvas](https://github.com/CanvasPod/Canvas) - Animate In Xcode Without Code
+- [Carbamide/vMacForiOS](https://github.com/carbamide/vMacForiOS) -
+- [Square/PonyDebugger](https://github.com/square/PonyDebugger) - Remote Network And Data Debugging For Your Native IOS App Using Chrome Developer Tools
+- [HBCompass/Bly](https://github.com/HBCompass/Bly) - Bly Editorial Workflow Project
+- [Ibireme/YYText](https://github.com/ibireme/YYText) - Powerful Text Framework For IOS To Display And Edit Rich Text.
+- [Stonesam92/Furlough](https://github.com/stonesam92/Furlough) - An Attempt To Create A Cydia Substrate API Compatibility Shim Which Can Be Used To Inject Extensions On Jailed Devices
+- [Lpcdma/lua_dump](https://github.com/lpcdma/lua_dump) - Hook LuaL_loadbuffer Dump Lua Files.You Need To Choose The Loading Method You Like, Inject Or Path Elf.
+- [Mvu8912/ios-perl](https://github.com/mvu8912/ios-perl) - Installing Perl On A Jail Broken IOS Device
+- [Efrederickson/Link2App](https://github.com/efrederickson/Link2App) - Open Links In Their Native Apps **Obsolete, Use LinkOpener**
+- [GotoHack/iphone-dataprotection.keychainviewer](https://github.com/GotoHack/iphone-dataprotection.keychainviewer) - Automatically Exported From Code.google.com/p/iphone-dataprotection.keychainviewer
+- [Theiostream/bozocache](https://github.com/theiostream/bozocache) - Get Dsc Through AFC
+- [Softctrl/Security-App](https://github.com/softctrl/Security-App) - IOS App To Audit Stuff Will Need Jailbreak
+- [Dotar/InformativeLite](https://github.com/dotar/InformativeLite) - Watchface/watchapp For IOS With Smartwatch+
+- [Nickpack/xpwn-ios](https://github.com/nickpack/xpwn-ios) - Xpwn We Used For Bootlace
+- [Codyd51/VeloxLite](https://github.com/codyd51/VeloxLite) - Source Code To The Free Velox Lite
+- [Prapin/lua-iphone](https://github.com/prapin/lua-iphone) - Distribution Of Lua For Jailbroken IPhones
+- [Heardrwt/RevealLoader](https://github.com/heardrwt/RevealLoader) - Reveal Loader Dynamically Loads LibReveal.dylib (Reveal.app Support) Into IOS Apps On Jailbroken Devices.
+- [Comex/substitute](https://github.com/comex/substitute) - A Free Runtime Modification Library.
+- [Planetbeing/xpwn](https://github.com/planetbeing/xpwn) - A Cross-platform Custom NOR Firmware Loader And Custom IPSW Generator For The IPhone
+- [Mwaterfall/MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) - A Simple IOS Photo And Video Browser With Grid View, Captions And Selections.
+- [FLEXTool/FLEX](https://github.com/FLEXTool/FLEX) - An In-app Debugging And Exploration Tool For IOS
+- [Rosskarchner/eventgrinder](https://github.com/rosskarchner/eventgrinder) - An Editorial System For Calendars, Which Includes An ICal Aggregator, User Submissions, And An Editorial Queue.
+- [Kudanai/libDayOne](https://github.com/kudanai/libDayOne) - Simple Python Module To Interact With Day One Journals
+- [Mcholl/productivityscripts](https://github.com/mcholl/productivityscripts) -
+- [Bodhiconnolly/python-day-one-client](https://github.com/bodhiconnolly/python-day-one-client) - A Day One Client Written In Python For CSSE1001 Assignment 3.
+- [IsaacJG/emajourn](https://github.com/IsaacJG/emajourn) - Email To Day One
+- [Bissenmann/txt-analysis](https://github.com/Bissenmann/txt-analysis) - Text Analysis Of DayOne Journal Using Python Natural Language Processing Module
+- [Jmscsns/DayOneLogging](https://github.com/jmscsns/DayOneLogging) - Simple Code That (Will) Concatenate Text Files Into A Single Day One Entry
+- [Jmscsns/DayOneIt](https://github.com/jmscsns/DayOneIt) - Takes Txt And Jpg Files And Creates Day One Entries
+- [DaniilHarik/dayone-journal-py](https://github.com/DaniilHarik/dayone-journal-py) - Day One Journal Tools For Python
+- [TPei/DayOne_Editor](https://github.com/TPei/DayOne_Editor) - DayOne Editor Written In Python
+- [Sambev/reportermd](https://github.com/sambev/reportermd) - Convert ReporterApp Entries To Markdown. Also Import Said Markdown Files Into DayOne.
+- [Yjpark/dayone2evernote](https://github.com/yjpark/dayone2evernote) - Export Day One Entries Into Evernote
+- [Lardissone/DayOneLogger](https://github.com/lardissone/DayOneLogger) - Log Anything You Add To A Folder To Day One. Ideal To Use With IFTTT.
+- [Underscorephil/dayonelib](https://github.com/underscorephil/dayonelib) -
+- [Mq1tran/introducing-python-scripts](https://github.com/mq1tran/introducing-python-scripts) -
+- [ShambhalaLogan/The-Ultimate-Insult-Creator](https://github.com/ShambhalaLogan/The-Ultimate-Insult-Creator) -
+- [Cclauss/read_from_Google_Drive](https://github.com/cclauss/read_from_Google_Drive) - Read A File From Google Drive Into Pythonista For IOS
+- [Harrisonkamau/python-peers](https://github.com/Harrisonkamau/python-peers) - A Group Of Pythonistas. Here, You Will Find Python Challenges.
+- [Pedrohdz/ios-http-file-server](https://github.com/pedrohdz/ios-http-file-server) - This Project Has Been Moved To Https://github.com/digitalrounin/pythonista-fileserver.
+- [Briarfox/uiStyle](https://github.com/briarfox/uiStyle) - Style Pythonista Ui.view
+- [Tddbc/python_pytest](https://github.com/tddbc/python_pytest) - Skeleton For Pythonista
+- [Zmitchell/Pythonista-Dropbox-Picker](https://github.com/zmitchell/Pythonista-Dropbox-Picker) - A Python Script To Allow Pythonista To Download Files From Dropbox
+- [Balachandrana/pythonista_textlayout](https://github.com/balachandrana/pythonista_textlayout) - A Compact Text Based Alternative To Pyui
+- [Jesperpsvensson/Pythonista-scripts](https://github.com/jesperpsvensson/Pythonista-scripts) - Python Skripts För IOS-appen Pythonista
+- [Bob-Arctor/mleaning-pythonista](https://github.com/Bob-Arctor/mleaning-pythonista) - Machine Learning Stuff On Pythonista
+- [Ludwa6/walt_pythonista](https://github.com/ludwa6/walt_pythonista) - Moving Code From Github To Pythonista, 1st Step
+- [Kobsy/pythonista-scripts](https://github.com/kobsy/pythonista-scripts) -
+- [Robjsliwa/pythonista-textadv](https://github.com/robjsliwa/pythonista-textadv) -
+- [Mcavatar/PythonistaScripts](https://github.com/mcavatar/PythonistaScripts) -
+- [Netdude78/pythonistaTimecard](https://github.com/netdude78/pythonistaTimecard) - Timecard App Written In Python & Pythonista For Mobile Tracking Of Time In/out At Work
+- [Brosensteiner/PythonistaScripts](https://github.com/brosensteiner/PythonistaScripts) -
+- [Ncarding/NavViewTemplate](https://github.com/ncarding/NavViewTemplate) - Template For A Pythonista Navigation View App
+- [Morganpdx/pythonista](https://github.com/morganpdx/pythonista) - Pythoning All Day Every Day
+- [DocVaughan/Pythonista](https://github.com/DocVaughan/Pythonista) - Repository Containing Code For Use In The IOS App Pythonista
+- [FlawlessFalcon/Pythonista](https://github.com/FlawlessFalcon/Pythonista) - Python Modules Learning
+- [Dotarac/Pythonista](https://github.com/dotarac/Pythonista) -
+- [Robbiehanson/CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket) - Asynchronous Socket Networking Library For Mac And IOS
+- [Facebookarchive/three20](https://github.com/facebookarchive/three20) - Three20 Is An Objective-C Library For IPhone Developers
+- [Kevinzhow/PNChart](https://github.com/kevinzhow/PNChart) - A Simple And Beautiful Chart Lib Used In Piner And CoinsMan For IOS
+- [Ibireme/YYKit](https://github.com/ibireme/YYKit) - A Collection Of IOS Components.
+- [SnapKit/Masonry](https://github.com/SnapKit/Masonry) - Harness The Power Of AutoLayout NSLayoutConstraints With A Simplified, Chainable And Expressive Syntax. Supports IOS And OSX Auto Layout
+- [BradLarson/GPUImage](https://github.com/BradLarson/GPUImage) - An Open Source IOS Framework For GPU-based Image And Video Processing
+- [Chyld/pythonista](https://github.com/chyld/pythonista) -
+- [Rudra24/Pythonista](https://github.com/Rudra24/Pythonista) -
+- [Geekcomputers/Pythonista](https://github.com/geekcomputers/Pythonista) - My Scripts I Use In Pythonista On IOS Devices
+- [Cookiebytes/pythonista](https://github.com/cookiebytes/pythonista) - Python Scripts Written In/for Pythonista On IOS.
+- [Skrohmer/Pythonista](https://github.com/skrohmer/Pythonista) -
+- [Ruboerner/pythonista](https://github.com/ruboerner/pythonista) - First Attempt To Learn Python
+- [Jessemillar/pythonista](https://github.com/jessemillar/pythonista) - A Repo To Hold My Python Scripts
+- [Jonlong/pythonista](https://github.com/jonlong/pythonista) - Pythonista Scripts
+- [Matticus/Pythonista](https://github.com/matticus/Pythonista) - Projects Built To Run In Pythonista On IOS
+- [Patpatpatpatpat/pythonista](https://github.com/patpatpatpatpat/pythonista) - Repo For Playing With Python
+- [Ankurbt/pythonista](https://github.com/ankurbt/pythonista) - Some Primary Work With Python
+- [Weikefei/pythonista](https://github.com/weikefei/pythonista) -
+- [Elpiniki/pythonista](https://github.com/elpiniki/pythonista) - Dive Into Python
+- [Pghpy/python-intro](https://github.com/pghpy/python-intro) -
+- [Hakutsuru/dbss](https://github.com/hakutsuru/dbss) - Managing Sql-server Database Snapshots
+- [Quchunguang/dotsublime](https://github.com/quchunguang/dotsublime) -
+- [Cclauss/SPLnFFT_tools](https://github.com/cclauss/SPLnFFT_tools) - Python Tools For Working With Sound Pressure Level Files Generated By The IOS Apps SPLnFFT And SPLnWatch Https://www.facebook.com/SPLnFFT
+- [Wizardofozzie/alphabear-solver](https://github.com/wizardofozzie/alphabear-solver) -
+- [Bpuderer/python-snippets27](https://github.com/bpuderer/python-snippets27) - Python 2.7 Code Snippets And Quickstarts
+- [Lukaskollmer/archive_scripts](https://github.com/lukaskollmer/archive_scripts) - A Small Collection Of Python Scripts To Archive Certain Data From The Internet
+- [Jsbain/shellista-bashhistory](https://github.com/jsbain/shellista-bashhistory) - Bash-like History, And History Substitution For Shellista
+- [Oefe/lunch](https://github.com/oefe/lunch) - Lunch Ordering Tracker For IOS
+- [Mygeekdaddy/camera_photo_merge](https://github.com/mygeekdaddy/camera_photo_merge) - Pythonista Script That Prompts You To Take Two Pictures And Then Automatically Merges The Two Images Into A Single Image And Saves It To Your Camera Roll.
+- [Kish1/krawll](https://github.com/kish1/krawll) - Web Crawling Made Easy For Pythonistas. Just Supply Extractor And Terminator Functions To This Higher-order Function And Let Krawll Do The Rest.
+- [Ganeshskudva/Python_projects](https://github.com/ganeshskudva/Python_projects) - Projects Done To Learn Python
+- [Lyndsysimon/python-prospects](https://github.com/lyndsysimon/python-prospects) - [WIP] Scrapes Various Sites Around The Web To Find Active Pythonistas And Tie Profiles To Identities.
+- [Wizardofozzie/Pythonista_scripts](https://github.com/wizardofozzie/Pythonista_scripts) - Pythonista 2.0 For IOS
+- [Pythonista-cloud/server](https://github.com/pythonista-cloud/server) - The Index Powering Pythonista-cloud, The Package Manager For Pythonista.
+- [Jsongraph/jsongraph.py](https://github.com/jsongraph/jsongraph.py) - JsonGraph Library For Pythonistas
+- [Controversial/Pythonista-UI-Templates](https://github.com/controversial/Pythonista-UI-Templates) - Blank Pyui Files For All IOS Device Screen Sizes, As Well As An Editor Action For Copying Them To Your Current Working Directory.
+- [Ltddev/MyPythonista](https://github.com/ltddev/MyPythonista) - All Pythonista Apps And Coding
+- [Lukaskollmer/pythonista](https://github.com/lukaskollmer/pythonista) - Attempt At A Central Pythonista Module To Access, Enhance And Modify The Behavior Of The App Itself
+- [Pythonista-cloud/sample](https://github.com/pythonista-cloud/sample) - An Example Package For Pythonista-cloud
+- [10c8/paper](https://github.com/10c8/paper) - Develop Applications For Pythonista Using Web Tools.
+- [Cethric/Pythonista-Objective-C-Runtime-Library](https://github.com/Cethric/Pythonista-Objective-C-Runtime-Library) -
+- [Controversial/Pythonista-theme-utils](https://github.com/controversial/Pythonista-theme-utils) - A Library For Working With Themes In Pythonista
+- [Marcus67/pyzipista](https://github.com/marcus67/pyzipista) - Tool To Create A Self-extracting Pythonista Application
+- [Niels-k-86/lcp-pythonista-couchpotato](https://github.com/niels-k-86/lcp-pythonista-couchpotato) - Add Movies To CouchPotato From Launch Center Pro On IOS
+- [Mikaelho/pythonista-reminderstore](https://github.com/mikaelho/pythonista-reminderstore) - Key-value Store Using IOS Reminders For Persistence And Distribution Across IOS Devices.
+- [Humberry/photo_text](https://github.com/humberry/photo_text) - Pythonista
+- [SebastianJarsve/Pythonista-Pixel-Editor](https://github.com/SebastianJarsve/Pythonista-Pixel-Editor) - A Simple Pixel Art Editor For Pythonista.
+- [N8henrie/n8pythonista](https://github.com/n8henrie/n8pythonista) - This Repo Is No Longer Actively Maintained. I Found That Gists Are Better For This Kind Of Thing. If You're Looking For An Updated Version Of Something You Find Here, Search My Gists Or Give Me A Shou
+- [Cclauss/Pythonista_scene](https://github.com/cclauss/Pythonista_scene) -
+- [Xielingwang/pyScheme](https://github.com/xielingwang/pyScheme) - It's Just A Simple Project For Learning How A Interpreter Works.
+- [Tkmru/biwx](https://github.com/tkmru/biwx) - Binary Editor
+- [Philchristensen/Pythonista-Artnet](https://github.com/philchristensen/Pythonista-Artnet) - A Proof-of-concept Integrating Pythonista With Storyboards And Python-artnet, Ultimately Abandoned In Favor Of A Pure-C Approach (*Sigh*)
+- [ChewingPencils/drafts_to_gist](https://github.com/ChewingPencils/drafts_to_gist) - A Drafts App URL Action To Create Gists.
+- [SebastianJarsve/Pythonista-Webbrowser](https://github.com/SebastianJarsve/Pythonista-Webbrowser) -
+- [Pysmath/wc_sync](https://github.com/pysmath/wc_sync) -
+- [Cclauss/Ten-lines-or-less](https://github.com/cclauss/Ten-lines-or-less) - Python Scripts That Are Short But Useful Or Interesting
+- [Ywangd/pythonista-tools-installer](https://github.com/ywangd/pythonista-tools-installer) - Pythonista Script Installation Made Easy
+- [Madscheme/introducing-python](https://github.com/madscheme/introducing-python) - An Introduction To Python
+- [Omz/PythonistaAppTemplate](https://github.com/omz/PythonistaAppTemplate) - Xcode Template For Building Standalone Apps From Pythonista (IOS) Scripts
+- [Deepthawtz/faker](https://github.com/deepthawtz/faker) - A Python Library For Generating Fake User Data.
+- [Laike9m/ezcf](https://github.com/laike9m/ezcf) - Import Configuration File For Pythonista
+- [Ywangd/stash](https://github.com/ywangd/stash) - StaSh - Shell For Pythonista
+- [Perone/stallion](https://github.com/perone/stallion) - Stallion - A Python Package Manager
+- [Studioimaginaire/phue](https://github.com/studioimaginaire/phue) - A Python Library For The Philips Hue System
+- [Poise/python](https://github.com/poise/python) - THIS COOKBOOK IS DEPRECATED–Chef Cookbook To Install Python And Related Tools
+- [HeyItsJono/Pythonista](https://github.com/HeyItsJono/Pythonista) - Various Scripts Crafted In Pythonista
+- [Bolencki13/Traverse](https://github.com/bolencki13/Traverse) - Traverse Jailbreak Tweak
+- [XueshiQiao/FLEXLoader](https://github.com/XueshiQiao/FLEXLoader) - A Jailbreak IOS Device Tweak Which Can Load FLEX Dynamiclly
+- [Horrorho/InflatableDonkey](https://github.com/horrorho/InflatableDonkey) - IOS9+ ICloud Backup Retrieval Proof Of Concept
+- [Horrorho/iloot](https://github.com/horrorho/iloot) - OpenSource Tool For ICloud Backup Extraction
+- [Dkhamsing/dkhamsing.github.io](https://github.com/dkhamsing/dkhamsing.github.io) - :Octocat: My GitHub Page
+- [Daviesia/Pythonista](https://github.com/daviesia/Pythonista) - Useful Scripts For IOS Pythonista App.
+- [Tchich/pythonista](https://github.com/tchich/pythonista) - Short Scripts For Pythonista (The IOS App)
+- [Griffrawk/momento2dayone](https://github.com/griffrawk/momento2dayone) -
+- [Wlighting/DayOne3](https://github.com/wlighting/DayOne3) - 每天日记DayOne3
+- [Hartlco/DayOneToMarkdownFiles](https://github.com/hartlco/DayOneToMarkdownFiles) - Create Markdown Files Out Of DayOne Json Export
+- [Mbrio/ulysses-style-dayone](https://github.com/mbrio/ulysses-style-dayone) -
+- [Utkarshjaiswal/DayOne](https://github.com/utkarshjaiswal/DayOne) - First Git Project
+- [Juniorbird/d1ista](https://github.com/juniorbird/d1ista) - Tools For DayOne On Mobile And Desktop
+- [Abruzzihraig/DayOneFlow](https://github.com/abruzzihraig/DayOneFlow) - Journals Flow Based On DayOne2 For Automatically Compile&deploy.
+- [Danseethaler/dayone-companion](https://github.com/danseethaler/dayone-companion) - Expanding On The Functionality Of The DayOne Journal App
+- [Nathangrigg/dayone_export](https://github.com/nathangrigg/dayone_export) - Export Day One Entries Using A Jinja Template
+- [Yyoon/Journaley](https://github.com/yyoon/Journaley) - A Simple And Elegant Open-source Journal Keeping Software For Windows
+- [Hackappcom/iloot](https://github.com/hackappcom/iloot) - OpenSource Tool For ICloud Backup Extraction
+- [Bipio-server/bipio](https://github.com/bipio-server/bipio) - The Bip.io API Server
+- [Xdotcommer/momento2dayone](https://github.com/xdotcommer/momento2dayone) - Import Momento Plain Text Export Into Day One
+- [Durden/dayonetools](https://github.com/durden/dayonetools) - Set Of Tools To Import Data Into Day One Journaling Application
+- [Myles/dayone](https://github.com/myles/dayone) - A Python Library For The Mac OS X & IOS Application Day One.
+- [Voicepod/Automation](https://github.com/voicepod/Automation) - Automation IOS & Android Apps
+- [Friggog/Localisations](https://github.com/friggog/Localisations) - Localisations For Cydia Tweaks
+- [Srolfe/tweaks](https://github.com/srolfe/tweaks) - Collection Of Small Cydia Tweaks
+- [PocketMine/Cydia-Repository](https://github.com/PocketMine/Cydia-Repository) - PocketMine Cydia Repository
+- [Danniez/cydia](https://github.com/Danniez/cydia) - Cydia Is An Alternative To Apple's App Store For "Jailbroken" Devices, At This Time Including IPhones, IPads, And IPod Touches, Specializing In The Distribution Of All That Is Not An "App".
+- [Autopear/Cydia](https://github.com/autopear/Cydia) - Cydia Installer
+- [Legoless/Alpha](https://github.com/Legoless/Alpha) - Next Generation Debugging Framework For IOS
+- [Segmentio/analytics-ios](https://github.com/segmentio/analytics-ios) - The Hassle-free Way To Integrate Analytics Into Any IOS Application.
+- [Gutechsoc-hackathon/Django](https://github.com/gutechsoc-hackathon/Django) -

@@ -1,0 +1,163 @@
+# Kubernetes
+
+<<<<<<< HEAD
+
+- [Horizoncd/horizon](https://github.com/horizoncd/horizon) - Production-Grade GitOps CD PlatForm For CloudNative Applications, MiddleWares, Etc.
+- [Cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The Open Source High Performance Data Integration Platform Built For Developers.
+- [GoogleContainerTools/kpt](https://github.com/GoogleContainerTools/kpt) - Automate Kubernetes Configuration Editing
+- [GoogleContainerTools/kpt-config-sync](https://github.com/GoogleContainerTools/kpt-config-sync) - ConfigSync - Used To Sync Git, OCI And Helm Charts To Your Clusters. Part Of KPT.
+- [Alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Kubernetes
+- [Bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent Cloud Misconfigurations And Find Vulnerabilities During Build-time In Infrastructure As Code, Container Images And Open Source Packages With Checkov By Bridgecrew.
+- [Txn2/kubefwd](https://github.com/txn2/kubefwd) - Bulk Port Forwarding Kubernetes Services For Local Development.
+- [Carina-io/carina](https://github.com/carina-io/carina) - Carina: An High Performance And Ops-free Local Storage For Kubernetes
+- [Jupyterhub/zero-to-jupyterhub-k8s](https://github.com/jupyterhub/zero-to-jupyterhub-k8s) - Helm Chart & Documentation For Deploying JupyterHub On Kubernetes
+- [Memphisdev/memphis](https://github.com/memphisdev/memphis) - Next-Generation Event Processing Platform
+- [Komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The Missing UI For Helm - Visualize Your Releases
+- [Tenable/terrascan](https://github.com/tenable/terrascan) - Detect Compliance And Security Violations Across Infrastructure As Code To Mitigate Risk Before Provisioning Cloud Native Infrastructure.
+- [Metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect Your Local Process And Your Cloud Environment, And Run Local Code In Cloud Conditions.
+- [Stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go Microservice Template For Kubernetes
+- [Turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL To Instantly Query Your Cloud Services (AWS, Azure, GCP And More). Open Source CLI. No DB Required.
+- [Vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A Web-based UI For Deploying And Managing Applications In Kubernetes Clusters
+- [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway Written In Go, Supporting REST, GraphQL, TCP And GRPC Protocols
+- [Guangzhengli/k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials) - K8s Tutorials | K8s 教程
+- [Sorintlab/stolon](https://github.com/sorintlab/stolon) - PostgreSQL Cloud Native High Availability And More.
+- [Deepflowio/deepflow](https://github.com/deepflowio/deepflow) - Application Observability Using EBPF
+- [Cubefs/cubefs](https://github.com/cubefs/cubefs) - CubeFS Is A Cloud Native File Storage
+- [Nolar/kopf](https://github.com/nolar/kopf) - A Python Framework To Write Kubernetes Operators In Just A Few Lines Of Code
+- [Containers/podman-desktop](https://github.com/containers/podman-desktop) - Podman Desktop - A Graphical Tool For Developing On Containers And Kubernetes
+- [Kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API Traffic Analyzer For Kubernetes Providing Real-time K8s Protocol-level Visibility, Capturing And Monitoring All Traffic And Payloads Going In, Out And Across Containers, Pods, Nodes And Cluste
+- [Clusternet/clusternet](https://github.com/clusternet/clusternet) - [CNCF Sandbox Project] Managing Your Kubernetes Clusters (Including Public, Private, Edge, Etc.) As Easily As Visiting The Internet ⎈
+- [Labring/sealos](https://github.com/labring/sealos) - Sealos Is A Kubernetes Distribution, A General-purpose Cloud Operating System Designed For Managing Cloud-native Applications. Demo: Https://cloud.sealos.io
+- [Kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure External DNS Servers (AWS Route53, Google CloudDNS And Others) For Kubernetes Ingresses And Services
+- [Kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers Is An Open Source Project And Community Working To Build A Standard Implementation Of Lightweight Virtual Machines (VMs) That Feel And Perform Like Containers, But Provide The Workload
+- [Helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively Deploy Your Kubernetes Manifests, Kustomize Configs, And Charts As Helm Releases. Generate All-in-one Manifests For Use With ArgoCD.
+- [Ko-build/ko](https://github.com/ko-build/ko) - Build And Deploy Go Applications
+- [Timescale/tobs](https://github.com/timescale/tobs) - Tobs - The Observability Stack For Kubernetes. Easy Install Of A Full Observability Stack Into A K8s Cluster With Helm Charts.
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge Is A Lightweight, High-performance, And Extensible WebAssembly Runtime For Cloud Native, Edge, And Decentralized Applications. It Powers Serverless Apps, Embedded Functions, Microservices, Sm
+- [Envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy As A Standalone Or Kubernetes-based Application Gateway
+- [Clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A Lightweight Log Analytic And Data Visualize Platform Built On Clickhouse.
+- [Flyteorg/flyte](https://github.com/flyteorg/flyte) - Kubernetes-native Workflow Automation Platform For Complex, Mission-critical Data And ML Processes At Scale. It Has Been Battle-tested At Lyft, Spotify, Freenome, And Others And Is Truly Open-source.
+- [Koordinator-sh/koordinator](https://github.com/koordinator-sh/koordinator) - QoS Based Scheduling System For Hybrid Orchestration Workloads On Kubernetes, Bringing Workloads The Best Layout And Status.
+- [Orlangure/gnomock](https://github.com/orlangure/gnomock) - Test Your Code Without Writing Mocks With Ephemeral Docker Containers 📦 Setup Popular Services With Just A Couple Lines Of Code ⏱️ No Bash, No Yaml, Only Code 💻
+- [Tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define Your Dev Environment As Code. For Microservice Apps On Kubernetes.
+- [Sealerio/sealer](https://github.com/sealerio/sealer) - Build, Share And Run Both Your Kubernetes Cluster And Distributed Applications (Project Under CNCF)
+- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I Am Using This Repository To Document My Journey Learning About DevOps. I Began This Process On January 1, 2022, And Plan To Continue Until March 31. I Will Be Dedicating One Hour Each Day, Including
+- [Googleforgames/agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting And Scaling For Multiplayer Games On Kubernetes
+- [Kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) - Kubernetes-native Job Queueing
+- [Argoproj-labs/hera-workflows](https://github.com/argoproj-labs/hera-workflows) - Hera Is An Argo Workflows Python SDK. Hera Aims To Make Workflow Construction And Submission Easy And Accessible To Everyone! Hera Abstracts Away Workflow Setup Details While Still Maintaining A Consi
+- [Pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs With Prometheus Manageable, Accessible, And Easy To Use For Everyone!
+- [Abiosoft/colima](https://github.com/abiosoft/colima) - Container Runtimes On MacOS (And Linux) With Minimal Setup
+- [Alibaba/open-local](https://github.com/alibaba/open-local) - Cloud-native Local Storage Management System
+- [Gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker Makes Networks With WireGuard. Netmaker Automates Fast, Secure, And Distributed Virtual Networks.
+- [Actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes Controller For GitHub Actions Self-hosted Runners
+- [Kubesphere/ks-devops](https://github.com/kubesphere/ks-devops) - This Is A Cloud-native Application That Focuses On The DevOps Area.
+- [Alibaba/open-simulator](https://github.com/alibaba/open-simulator) - K8s Cluster Simulator For Capacity Planning
+- [Datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes Misconfigurations From Reaching Production (Again 😤 )! From Code To Cloud, Datree Provides An E2E Policy Enforcement Solution To Run Automatic Checks For Rule Violations. See Our Do
+- [Karmada-io/karmada](https://github.com/karmada-io/karmada) - Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
+- [Kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform On Kubernetes
+- [Loft-sh/vcluster](https://github.com/loft-sh/vcluster) - Vcluster - Create Fully Functional Virtual Kubernetes Clusters - Each Vcluster Runs Inside A Namespace Of The Underlying K8s Cluster. It's Cheaper Than Creating Separate Full-blown Clusters And It Off
+- [OpenFunction/OpenFunction](https://github.com/OpenFunction/OpenFunction) - Cloud Native Function-as-a-Service Platform (CNCF Sandbox Project)
+- [Authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor Portal For Web Apps
+- [Kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape Is An Open-source Kubernetes Security Platform For Your IDE, CI/CD Pipelines, And Clusters. It Includes Risk Analysis, Security, Compliance, And Misconfiguration Scanning, Saving Kubernetes
+- [Homeport/havener](https://github.com/homeport/havener) - /ˈHeɪvənə/ - Think Of It As A Swiss Army Knife For Kubernetes Tasks
+- [Erda-project/erda](https://github.com/erda-project/erda) - An Enterprise-grade Cloud-Native Application Platform For Kubernetes.
+- [Openelb/openelb](https://github.com/openelb/openelb) - Load Balancer Implementation For Kubernetes In Bare-Metal, Edge, And Virtualization
+- [Fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统
+- [Tkestack/tke](https://github.com/tkestack/tke) - Native Kubernetes Container Management Platform Supporting Multi-tenant And Multi-cluster
+- [Jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build Multimodal AI Services Via Cloud Native Technologies · Neural Search · Generative AI · Cloud Native
+- [Apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
+- [Kuberhealthy/kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) - A Kubernetes Operator For Running Synthetic Checks As Pods. Works Great With Prometheus!
+- [Rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management And Kubernetes On The Desktop
+- [Pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
+- [Gogf/gf](https://github.com/gogf/gf) - GoFrame Is A Modular, Powerful, High-performance And Enterprise-class Application Development Framework Of Golang.
+- [Fluxcd/flux2](https://github.com/fluxcd/flux2) - Open And Extensible Continuous Delivery Solution For Kubernetes. Powered By GitOps Toolkit.
+- [Metallb/metallb](https://github.com/metallb/metallb) - A Network Load-balancer Implementation For Kubernetes Using Standard Routing Protocols
+- [Longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native Distributed Storage Built On And For Kubernetes
+- [Keptn/keptn](https://github.com/keptn/keptn) - Cloud-native Application Life-cycle Orchestration. Keptn Automates Your SLO-driven Multi-stage Delivery And Operations & Remediation Of Your Applications.
+- [Kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes Locally
+- [Yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - YugabyteDB - The Cloud Native Distributed SQL Database For Mission-critical Applications.
+- [Nocalhost/nocalhost](https://github.com/nocalhost/nocalhost) - Nocalhost Is Cloud Native Dev Environment.
+- [Harvester/harvester](https://github.com/harvester/harvester) - Open Source Hyperconverged Infrastructure (HCI) Software
+- [Kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management
+- [Kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
+- [Artifacthub/hub](https://github.com/artifacthub/hub) - Find, Install And Publish Kubernetes Packages
+- [Parca-dev/parca](https://github.com/parca-dev/parca) - Continuous Profiling For Analysis Of CPU And Memory Usage, Down To The Line Number And Throughout Time. Saving Infrastructure Cost, Improving Performance, And Increasing Reliability.
+- [Bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
+- [Openservicemesh/osm](https://github.com/openservicemesh/osm) - Open Service Mesh (OSM) Is A Lightweight, Extensible, Cloud Native Service Mesh That Allows Users To Uniformly Manage, Secure, And Get Out-of-the-box Observability Features For Highly Dynamic Microser
+- [Operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk) - SDK For Building Kubernetes Applications. Provides High Level APIs, Useful Abstractions, And Project Scaffolding.
+- [Open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - Gatekeeper - Policy Controller For Kubernetes
+- [Stashed/stash](https://github.com/stashed/stash) - 🛅 Backup Your Kubernetes Stateful Applications
+- [Gardener/gardener](https://github.com/gardener/gardener) - Kubernetes-native System Managing The Full Lifecycle Of Conformant Kubernetes Clusters As A Service On Alicloud, AWS, Azure, GCP, OpenStack, VSphere, KubeVirt, Hetzner, EquinixMetal, MetalStack, And O
+- [Cortexproject/cortex](https://github.com/cortexproject/cortex) - A Horizontally Scalable, Highly Available, Multi-tenant, Long Term Prometheus.
+- [Kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler For Kubernetes
+- [Argoproj/argo-events](https://github.com/argoproj/argo-events) - Event-driven Automation Framework
+- [Containerd/containerd](https://github.com/containerd/containerd) - An Open And Reliable Container Runtime
+- [Argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment For Kubernetes.
+- [Kubereboot/kured](https://github.com/kubereboot/kured) - Kubernetes Reboot Daemon
+- [Volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project Under CNCF)
+- [Argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine For Kubernetes
+- [Cilium/cilium](https://github.com/cilium/cilium) - EBPF-based Networking, Security, And Observability
+- [Lensapp/lens](https://github.com/lensapp/lens) - Lens - The Way The World Runs Kubernetes
+- [Crossplane/crossplane](https://github.com/crossplane/crossplane) - Cloud Native Control Planes
+- [Stakater/Reloader](https://github.com/stakater/Reloader) - A Kubernetes Controller To Watch Changes In ConfigMap And Secrets And Do Rolling Upgrades On Pods With Their Associated Deployment, StatefulSet, DaemonSet And DeploymentConfig–[✩Star] If You're Usin
+- [Fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive Delivery Kubernetes Operator (Canary, A/B Testing And Blue/Green Deployments)
+- [K3d-io/k3d](https://github.com/k3d-io/k3d) - Little Helper To Run CNCF's K3s In Docker
+- [Chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform For Kubernetes.
+- [GoogleCloudPlatform/spark-on-k8s-operator](https://github.com/GoogleCloudPlatform/spark-on-k8s-operator) - Kubernetes Operator For Managing The Lifecycle Of Apache Spark Applications On Kubernetes.
+- [Openkruise/kruise](https://github.com/openkruise/kruise) - Automated Management Of Large-scale Applications On Kubernetes (Project Under CNCF)
+- [Dapr/dapr](https://github.com/dapr/dapr) - Dapr Is A Portable, Event-driven, Runtime For Building Distributed Applications Across Cloud And Edge.
+- [Kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API And Runtime In Order To Define And Manage Virtual Machines.
+- [Aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find Vulnerabilities, Misconfigurations, Secrets, SBOM In Containers, Kubernetes, Code Repositories, Clouds And More
+- [Containers/podman](https://github.com/containers/podman) - Podman: A Tool For Managing OCI Containers And Pods.
+- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: Fast, Cost-effective Monitoring Solution And Time Series Database
+- [Vmware-archive/octant](https://github.com/vmware-archive/octant) - Highly Extensible Platform For Developers To Better Understand The Complexity Of Kubernetes Clusters.
+- [Pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Universal Infrastructure As Code. Your Cloud, Your Language, Your Way 🚀
+- [Vmware-tanzu/sonobuoy](https://github.com/vmware-tanzu/sonobuoy) - Sonobuoy Is A Diagnostic Tool That Makes It Easier To Understand The State Of A Kubernetes Cluster By Running A Set Of Kubernetes Conformance Tests And Other Plugins In An Accessible And Non-destructi
+- [Traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
+- [Microsoft/recommenders](https://github.com/microsoft/recommenders) - Best Practices On Recommendation Systems
+- [Kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - Add-on Agent To Generate And Expose Cluster-level Metrics.
+- [Projectcontour/contour](https://github.com/projectcontour/contour) - Contour Is A Kubernetes Ingress Controller Using Envoy Proxy.
+- [Dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) Identity And OAuth 2.0 Provider With Pluggable Connectors
+- [Kyma-project/kyma](https://github.com/kyma-project/kyma) - A Flexible And Easy Way To Connect And Extend Enterprise Applications In A Cloud-native World
+- [Falcosecurity/falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
+- [Ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster Way To Switch Between Clusters And Namespaces In Kubectl
+- [Kedacore/keda](https://github.com/kedacore/keda) - KEDA Is A Kubernetes-based Event Driven Autoscaling Component. It Provides Event Driven Scale For Any Container Running In Kubernetes
+- [Kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The Container Platform Tailored For Kubernetes Multi-cloud, Datacenter, And Edge Management ⎈ 🖥 ☁️
+- [Cri-o/cri-o](https://github.com/cri-o/cri-o) - Open Container Initiative-based Implementation Of Kubernetes Container Runtime Interface
+- [Rancher/rancher](https://github.com/rancher/rancher) - Complete Container Management Platform
+- [Opencost/opencost](https://github.com/opencost/opencost) - Cross-cloud Cost Allocation Models For Kubernetes Workloads
+- [Databus23/helm-diff](https://github.com/databus23/helm-diff) - A Helm Plugin That Shows A Diff Explaining What A Helm Upgrade Would Change
+- [Kubeedge/kubeedge](https://github.com/kubeedge/kubeedge) - Kubernetes Native Edge Computing Framework (Project Under CNCF)
+- [Aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks Whether Kubernetes Is Deployed According To Security Best Practices As Defined In The CIS Kubernetes Benchmark
+- [Tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A Cloud-native Pipeline Resource.
+- [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample Cloud-first Application With 10 Microservices Showcasing Kubernetes, Istio, And GRPC.
+- [Derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [K3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
+- [Kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - Local Clusters For Testing Kubernetes
+- [Yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn And Understand Docker&Container Technologies, With Real DevOps Practice!
+- [Kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (KOps) - Production Grade K8s Installation, Upgrades And Management
+- [Vmware-tanzu/velero](https://github.com/vmware-tanzu/velero) - Backup And Migrate Kubernetes Applications And Their Persistent Volumes
+- [Goharbor/harbor](https://github.com/goharbor/harbor) - An Open Source Trusted Cloud Native Registry Project That Stores, Signs, And Scans Content.
+- [Rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) - Kubernetes中文指南/云原生应用架构实战手册 - Https://jimmysong.io/kubernetes-handbook
+- [M3db/m3](https://github.com/m3db/m3) - M3 Monorepo - Distributed TSDB, Aggregator And Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform
+- [Gravitational/teleport](https://github.com/gravitational/teleport) - The Easiest, Most Secure Way To Access Infrastructure.
+- [Knative/serving](https://github.com/knative/serving) - Kubernetes-based, Scale-to-zero, Request-driven Compute
+- [Cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically Provision And Manage TLS Certificates In Kubernetes
+- [Minio/minio](https://github.com/minio/minio) - Multi-Cloud :Cloud: Object Storage
+- [Hashicorp/consul](https://github.com/hashicorp/consul) - Consul Is A Distributed, Highly Available, And Data Center Aware Solution To Connect And Configure Applications Across Dynamic, Distributed Infrastructure.
+- [Openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
+- [Telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local Development Against A Remote Kubernetes Or OpenShift Cluster
+- [Google/gvisor](https://github.com/google/gvisor) - Application Kernel For Containers
+- [Kubernetes-client/python](https://github.com/kubernetes-client/python) - Official Python Client Library For Kubernetes
+- [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
+- [Kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress-NGINX Controller For Kubernetes
+- [Rook/rook](https://github.com/rook/rook) - Storage Orchestration For Kubernetes
+- [Kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy A Production Ready Kubernetes Cluster
+- [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy And Repeatable Kubernetes Development
+- [Kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit For Kubernetes
+- [Istio/istio](https://github.com/istio/istio) - Connect, Secure, Control, And Observe Services.
+- [Helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
+- [Netdata/netdata](https://github.com/netdata/netdata) - Real-time Performance Monitoring, Done Right! Https://www.netdata.cloud
+- [Ceph/ceph](https://github.com/ceph/ceph) - Ceph Is A Distributed Object, Block, And File Storage Platform
+- [Etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed Reliable Key-value Store For The Most Critical Data Of A Distributed System
+- [Kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling And Management

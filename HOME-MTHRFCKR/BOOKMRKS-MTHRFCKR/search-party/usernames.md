@@ -4,10 +4,10 @@
 
 - [../Search/General.md](general.md)
 - [../../osint/osint-bookmarks/osint.md](../../osint/osint-bookmarks/osint.md)
-- [../osint-and-hacking/../osint-and-hacking/../osint-and-hacking/../osint-and-hacking/../osint-and-hacking/../osint-and-hacking/osint-search-engines.md.md.md.md.md.md](osint-search-engines)
+- [../osint-and-hacking/../osint-and-hacking/../osint-and-hacking/../osint-and-hacking/../osint-and-hacking/../osint-and-hacking/../osint-and-hacking/osint-search-engines.md.md.md.md.md.md.md](osint-search-engines)
 - [SEARCH PARTY MTHRFCKR](SEARCH PARTY MTHRFCKR)
 - [tools](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/awesome-piracy/tools.md)
-- [../Software-Tools/readme/../Software-Tools/readme/../software-tools/readme/../software-tools/readme/../software-tools/readme/../software-tools/readme/tools-box.md.md.md.md.md.md](tools-box)
+- [../Software-Tools/readme/../Software-Tools/readme/../software-tools/readme/../software-tools/readme/../software-tools/readme/../software-tools/readme/../software-tools/readme/tools-box.md.md.md.md.md.md.md](tools-box)
 - [webdev](../awesome-piracy/weboasis/webdev.md)
 
 ---

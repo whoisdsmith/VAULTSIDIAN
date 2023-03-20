@@ -1,0 +1,21 @@
+# Twitter
+
+- [Chocolateboy/userscripts](https://github.com/chocolateboy/userscripts) - Userscripts For Greasemonkey, Tampermonkey Etc.
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything Is RSSible
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything Is RSSible
+- [Huginn/huginn](https://github.com/huginn/huginn) - Create Agents That Monitor And Act On Your Behalf. Your Agents Are Standing By!
+- [Huginn/huginn](https://github.com/huginn/huginn) - Create Agents That Monitor And Act On Your Behalf. Your Agents Are Standing By!
+- [Insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser Extension Which Gives You More Control Over Your Twitter Timeline And Adds Missing Features And UI Improvements - Available For Desktop And Mobile Browsers
+- [Kbravh/obsidian-tweet-to-markdown](https://github.com/kbravh/obsidian-tweet-to-markdown) - An Obsidian.md Plugin To Save Tweets As Markdown Files.
+- [Kennbroorg/iKy](https://github.com/kennbroorg/iKy) - OSINT Project
+- [Megadose/holehe](https://github.com/megadose/holehe) - Holehe Allows You To Check If The Mail Is Used On Different Sites Like Twitter, Instagram And Will Retrieve Information On Sites With The Forgotten Password Function.
+- [Mholt/timeliner](https://github.com/mholt/timeliner) - All Your Digital Life On A Single Timeline, Stored Locally
+- [Nextcloud/integration_twitter](https://github.com/nextcloud/integration_twitter) - 🐦 Twitter Integration Into Nextcloud
+- [Nick-Gottschlich/Social-Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - Forget The Past. Social Amnesia Makes Sure Your Social Media Accounts Only Show Your Posts From Recent History, Not From "That Phase" 5 Years Ago.
+- [Novoid/twitter-json_to_orgmode](https://github.com/novoid/twitter-json_to_orgmode) - Converts The Twitter Export Files (JSON Format) Into An Emacs Org-mode File
+- [Rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) - 🔥An Artistic "Twitter Like" Community Built On Gin+zinc+vue+ts 清新文艺微社区
+- [Sb-haz/twitter-wrapped](https://github.com/sb-haz/twitter-wrapped) - Brings The Spotify Wrapped Concept To Twitter.
+- [TheAlphamerc/flutter_twitter_clone](https://github.com/TheAlphamerc/flutter_twitter_clone) - Fully Functional Twitter Clone Built In Flutter Framework Using Firebase Realtime Database And Storage
+- [TIGMINT/TIGMINT](https://github.com/TIGMINT/TIGMINT) - TIGMINT: OSINT (Open Source Intelligence) GUI Software Framework
+- [Transitive-bullshit/chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) - Twitter Bot Powered By OpenAI's ChatGPT. It's Aliveeeee 🤖
+- [X0rz/tweets_analyzer](https://github.com/x0rz/tweets_analyzer) - Tweets Metadata Scraper & Activity Analyzer
