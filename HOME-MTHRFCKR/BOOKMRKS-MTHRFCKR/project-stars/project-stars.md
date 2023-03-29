@@ -54,9 +54,9 @@
 
 [Artificial-intelligence](Artificial-intelligence.md)
 
-[Website](home-mthrfckr/bookmrks-mthrfckr/project-stars/Website.md)
+[Website](Website.md)
 
-[Website](home-mthrfckr/bookmrks-mthrfckr/project-stars/Website.md)
+[Website](Website.md)
 
 [Terminal](Terminal.md)
 
@@ -190,7 +190,7 @@
 
 [Google](Google.md)
 
-[Database](home-mthrfckr/bookmrks-mthrfckr/project-stars/Database.md)
+[Database](Database.md)
 
 [Hackathon](Hackathon.md)
 
@@ -208,7 +208,7 @@
 
 [Html](Html.md)
 
-[Website](home-mthrfckr/bookmrks-mthrfckr/project-stars/Website.md)
+[Website](Website.md)
 
 [Icon-font](Icon-font.md)
 
@@ -224,9 +224,9 @@
 
 [Javascript](Javascript.md)
 
-[Website](home-mthrfckr/bookmrks-mthrfckr/project-stars/Website.md)
+[Website](Website.md)
 
-[Website](home-mthrfckr/bookmrks-mthrfckr/project-stars/Website.md)
+[Website](Website.md)
 
 [Jquery](Jquery.md)
 
@@ -274,15 +274,15 @@
 
 [Mobile](Mobile.md)
 
-[Database](home-mthrfckr/bookmrks-mthrfckr/project-stars/Database.md)
+[Database](Database.md)
 
-[Database](home-mthrfckr/bookmrks-mthrfckr/project-stars/Database.md)
+[Database](Database.md)
 
-[Website](home-mthrfckr/bookmrks-mthrfckr/project-stars/Website.md)
+[Website](Website.md)
 
 [Music](Music.md)
 
-[Database](home-mthrfckr/bookmrks-mthrfckr/project-stars/Database.md)
+[Database](Database.md)
 
 [Neovim](Neovim.md)
 
@@ -296,7 +296,7 @@
 
 [Node](Node.md)
 
-[Database](home-mthrfckr/bookmrks-mthrfckr/project-stars/Database.md)
+[Database](Database.md)
 
 [Terminal](Terminal.md)
 
@@ -338,7 +338,7 @@
 
 [Project-management](Project-management.md)
 
-[Website](home-mthrfckr/bookmrks-mthrfckr/project-stars/Website.md)
+[Website](Website.md)
 
 [Pwa](Pwa.md)
 
@@ -366,7 +366,7 @@
 
 [Redux](Redux.md)
 
-[Website](home-mthrfckr/bookmrks-mthrfckr/project-stars/Website.md)
+[Website](Website.md)
 
 [Osint](Osint.md)
 
@@ -384,9 +384,9 @@
 
 [Osint](Osint.md)
 
-[Website](home-mthrfckr/bookmrks-mthrfckr/project-stars/Website.md)
+[Website](Website.md)
 
-[Website](home-mthrfckr/bookmrks-mthrfckr/project-stars/Website.md)
+[Website](Website.md)
 
 [Terminal](Terminal.md)
 

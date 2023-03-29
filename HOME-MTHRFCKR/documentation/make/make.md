@@ -12,7 +12,7 @@
 	- [flow-control](flow-control.md)
 	- [glossary](glossary.md)
 	- [how-to-get-text-parser-to-produce-an-output-value](how-to-get-text-parser-to-produce-an-output-value.md)
-	- [http](home-mthrfckr/documentation/make/http.md)
+	- [http](http.md)
 	- [image](image.md)
 	- [iterator](iterator.md)
 	- [json](json.md)

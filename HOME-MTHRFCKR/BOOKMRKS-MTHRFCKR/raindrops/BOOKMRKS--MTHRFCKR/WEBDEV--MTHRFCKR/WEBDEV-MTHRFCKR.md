@@ -18,7 +18,7 @@
 
 - [HTML-AND-CSS](HTML-AND-CSS.md)
 
-- [HTTP](home-mthrfckr/bookmrks-mthrfckr/raindrops/BOOKMRKS--MTHRFCKR/WEBDEV--MTHRFCKR/HTTP.md)
+- [HTTP](HTTP.md)
 
 - [SELF-HOSTED](SELF-HOSTED.md)
 

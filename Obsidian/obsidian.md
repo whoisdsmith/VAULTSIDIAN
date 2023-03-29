@@ -5,11 +5,11 @@
 %% Begin Waypoint %%
 - **[obsidian](../..//obsidian/obsidian.md)**
 	- [links](links.md)
-	- **[obsidian](obsidian/obsidian.md)**
+	- **[obsidian](../..//obsidian/obsidian.md)**
 		- [main-vault](obsidian/main-vault.md)
 		- [obsidian-clipper](obsidian/obsidian-clipper.md)
 		- [obsidian-git](obsidian/obsidian-git.md)
-		- [obsidian](obsidian/obsidian.md)
+		- [obsidian](../..//obsidian/obsidian.md)
 		- [obsidiantools](obsidian/obsidiantools.md)
 		- [publish-and-github-url-plugin](obsidian/publish-and-github-url-plugin.md)
 		- [share-as-gist](obsidian/share-as-gist.md)

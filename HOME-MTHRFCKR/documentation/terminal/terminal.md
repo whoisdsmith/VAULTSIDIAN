@@ -166,7 +166,7 @@
 	- [plugins-mdformat-0-7-13-documentation](plugins-mdformat-0-7-13-documentation.md)
 	- [process-monitoring](process-monitoring.md)
 	- [programming-2](programming-2.md)
-	- [readme](readme.md)
+	- [readme](../../../readme.md)
 	- [settling-into-unix](settling-into-unix.md)
 	- [shell-scripting-cheatsheet](shell-scripting-cheatsheet.md)
 	- [shell-scripting](shell-scripting.md)

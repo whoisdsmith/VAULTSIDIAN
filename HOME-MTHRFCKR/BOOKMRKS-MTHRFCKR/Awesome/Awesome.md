@@ -147,7 +147,7 @@
 	- [package-management](package-management.md)
 	- [podcasts](podcasts.md)
 	- [printers](printers.md)
-	- [readme](readme.md)
+	- [readme](../../../readme.md)
 	- [responsive-web-design-rwd](responsive-web-design-rwd.md)
 	- [rich-text-editors](rich-text-editors.md)
 	- [scalable-vector-graphics-svg](scalable-vector-graphics-svg.md)

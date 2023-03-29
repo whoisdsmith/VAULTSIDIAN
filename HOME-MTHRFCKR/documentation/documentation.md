@@ -167,11 +167,11 @@
 		- [replicated](replicated/replicated.md)
 	- **[rsshub](rsshub/rsshub.md)**
 	- **[spotify-api](spotify-api/spotify-api.md)**
-	- **[templates](templates/templates.md)**
+	- **[templates](../../templates/templates.md)**
 		- [deploy-django](templates/deploy-django.md)
 		- [deploy-node-server](templates/deploy-node-server.md)
 		- [deploy-static-sites](templates/deploy-static-sites.md)
-		- [templates](templates/templates.md)
+		- [templates](../../templates/templates.md)
 	- **[terminal](terminal/terminal.md)**
 	- **[terraform](terraform/terraform.md)**
 		- [readme](terraform/readme.md)
