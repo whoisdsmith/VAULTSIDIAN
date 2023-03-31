@@ -52,6 +52,8 @@
 	- **[osint](./osint/osint.md)**
 	- [Please redirect your DNS](./Please%20redirect%20your%20DNS.md)
 	- **[research](./research/research.md)**
+	- [text_mining_resources](./text_mining_resources.md)
+	- [TextUtiliyTopicsonGithub](./TextUtiliyTopicsonGithub.md)
 	- **[urls](./urls/urls.md)**
 	- [Website Names](./Website%20Names.md)
 
