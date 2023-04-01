@@ -1,0 +1,533 @@
+Source: [[PDFs/Prescribing amphetamine to amphetamine users as a .pdf]]
+
+---
+
+# Page 1
+
+![Prescribingamphetaminetoamphetamineusersasa_1_7](Generated/images/Prescribingamphetaminetoamphetamineusersasa_1_7.png)
+
+![Prescribingamphetaminetoamphetamineusersasa_1_17](Generated/images/Prescribingamphetaminetoamphetamineusersasa_1_17.png)
+
+ELSEVIERInternational Journal of Drug Policy 9 (1998) 339-344
+
+# <sup>THE INTERNATIONAL JOURNAL OF</sup>
+
+# <sup>Hampshire PO5 1LR, UK</sup>
+
+<sup>Received 1 April 1998; received in revised form 1 June 1998; accepted 1 July 1998</sup>
+
+**Abstract**
+
+**1. Introduction**
+
+Amphetamine misuse is a  widespread problem in many countries (Yoshida, 1997; World Drug Report, 1997). It has been the principal drug of misuse in Japan and Sweden for many years. The US has had an amphetamine problem since the 1960’s and there is some evidence of a resurgence
+
+<sup>1 This paper is based on a  presentation given at the 9th International Conference on the Reduction of Drug Related Harm held in Sao Paulo, Brazil, 15-19 March 1998.</sup>
+
+<sup>0955-3959/98/$ - see front matter © 1998 Elsevier Science B.V. All rights reserved. PIIS0955-3959(98)00046-2</sup>
+
+DRUG
+
+# POLICY
+
+# Prescribing Amphetamine to Amphetamine Users as a Harm Reduction Measure1
+
+# Philip M. Fleming Consultant Psychiatrist, Portsmouth City Drug and Alcohol Service, Kingsway House, 130 Elm Grove, Southsea,
+
+Amphetamine misuse is a  widespread problem in many countries. This paper briefly reviews the history of amphetamine prescribing, considering experience particularly in Sweden and the UK. The current extent of amphetamine prescribing in the UK is described. From this and from the personal experience of the author, guidelines for prescribing are described. These consider the indications and contraindications, goals of treatment, dosage and form, monitoring and how long treatment should continue. The effectiveness of such prescribing is reviewed and the need for more research in this area as well as the need for services targeted at amphetamine users is noted. © 1998 Elsevier Science B.V. All rights reserved.
+
+Keywords: Drugs; Amphetamine; Substitute prescribing; Amphetamine prescribing; Prescribing policies; Treatment
+
+in its use particularly on the West Coast. Cur­ rently in the UK and Australia amphetamine is the most frequently used illegal drug after cannabis.
+
+Many users just take the drug on a  recreational basis but there are increasing numbers of heavy dependent users. Many of these people inject the drug (Peters et al., 1997) with the attendant risks
+
+of HIV and hepatitis C  infection and there are
+
+other physical and mental health sequelea of heavy amphetamine use. Criminal activity, vio­ lence, and social disruption are all associated with heavy use (Farrell et al., 1997).
+
+---
+
+## Page 2
+
+![Prescribingamphetaminetoamphetamineusersasa_2_7](Generated/images/Prescribingamphetaminetoamphetamineusersasa_2_7.png)
+
+<sup>340P.M. Fleming / International Journal of Drug Policy 9 (1998) 339-344</sup>
+
+In spite of widespread use and the morbidity associated with heavy use of the drug, there has been relatively little recent research into am­ phetamine misuse (Klee, 1992). This contrasts markedly with the efforts put into research into cocaine and heroin misuse. This paper looks at
+
+one aspect of the treatment of amphetamine mis­ users that of substitute prescribing. It is important to emphasise that amphetamine prescribing
+
+should be only one option in a  range of treatment approaches to amphetamine misuse. It is one that is, uniquely, available in the UK.
+
+**2. History of amphetamine prescribing**
+
+Amphetamine was available as an over the counter medicine from the 1930’s onwards. It was used to treat nasal congestion, but there were early reports of its being misused for its stimulant and its fatigue delaying effects. During the Second World War it was widely distributed to troops to enhance their performance and to delay fatigue. In the 1950’s doctors prescribed amphetamines as a treatment for depression and for the treatment
+
+of obesity. The misuse of amphetamine amongst young people began to be seen in Japan in the late
+
+1940’s and 50’s and in Sweden in the 1950’s. The phenomenon appeared in the US and UK in the
+
+1960’s.
+
+In Sweden following a  large media campaign in favour of liberalisation of drug policy an experi­ ment with legal prescription of central stimulants and opiates for injection was initiated in April,
+
+1965 (Kall, 1997). The idea was to stop the need to commit crime by supplying the drugs the users wanted and then to gradually reduce the dose and get them off the drugs. The experiment was deemed a failure as there was much leakage onto the black market and users were not getting off the drugs and it was ended after 2  years following the death of a  young girl from an overdose of morphine and amphetamine (Bejerot, 1970).
+
+There were two reports of amphetamine pre­
+
+scribing in the UK in the 1960’s. In 1968 there was widespread methylamphetamine misuse in London that was brought to an end after a  few months following the withdrawal of the drug
+
+from retail pharmacies. A  special clinic was set up
+
+to provide treatment for these misusers and 12
+
+patients received prescriptions of methylam­
+
+phetamine for injection (Mitcheson et al., 1976).
+
+The results of this trial were considered to be a
+
+failure. A second report on amphetamine misusers
+
+treated with oral amphetamine at a  clinic in Lon­
+
+don in 1968/69 concluded that such prescriptions
+
+were unlikely to be effective (Gardner and Con­
+
+nell, 1972). These experiences were influential for
+
+nearly two decades in the UK in discouraging
+
+amphetamine prescribing as a treatment.
+
+**3. Current situation in the UK**
+
+An increase in the amount of illicitly available
+
+amphetamine sulphate in the UK in the 1980’s
+
+resulted in an increase in the number of problem­
+
+atic amphetamine users. These did not often
+
+present to drug services, which were principally
+
+geared to the treatment of opiate users. The sys­
+
+tem for registering addicts at the Home Office did
+
+not include amphetamine users so there was no
+
+measure of the numbers who might require treat­
+
+ment. It was the setting up of the first needle
+
+exchange schemes in 1987 that brought to light
+
+the problem of injecting amphetamine use. In
+
+some places more amphetamine users were access­
+
+ing these exchanges than opiate users (Stimson et
+
+al., 1988). A  number of drug services in the UK
+
+(including our own in Portsmouth) began to pre­
+
+scribe amphetamine to heavy dependent injecting
+
+users (Standing Conference on Drug Abuse,
+
+1989).
+
+Over the past 10 years the number of services
+
+that prescribe amphetamine has gradually in­
+
+creased in England and Wales—there is no am­
+
+phetamine prescribing reported in Scotland. This
+
+has occurred as a pragmatic response to the prob­
+
+lem users that have presented to services but in
+
+the absence of much in the way of scientific
+
+evidence to support it. Neither has there been an y
+
+agreed prescribing protocols to guide practice.
+
+The current legal position in the UK with re­
+
+spect to prescribing amphetamine is covered by
+
+the Misuse of Drugs Act. Amphetamine is in­
+
+cluded under Schedule 2, which requires amongst
+
+---
+
+## Page 3
+
+![Prescribingamphetaminetoamphetamineusersasa_3_7](Generated/images/Prescribingamphetaminetoamphetamineusersasa_3_7.png)
+
+<sup>P.M. Fleming / International Journal of Drug Policy 9 (1998) 339-344341</sup>
+
+other things that practitioners conform to cer­ tain regulations in the writing of prescriptions. However, any fully registered doctor, either hos­ pital or general practitioner may prescribe am­ phetamine. In practice such prescribing is almost always undertaken by specialist agencies usually with their own specialist medical staff or some­ times working with local general practitioners. There is also a  requirement to inform a  regional database on anonymised forms of any drug mis­ user seeking treatment.
+
+Results from a  1995 survey of community pharmacists in England and Wales (Strang and
+
+Sheridan, 1997) concluded that that there were an estimated 900-1000 patients receiving am­ phetamine for the treatment of addiction, 97% in the form of oral preparations. (This compares to an estimated 400 patients receiving heroin prescriptions and 17000 receiving methadone).
+
+We undertook a  survey of specialists in drug dependence in England and Wales in 1996 to
+
+obtain some information about amphetamine prescribing practices (Bradbeer et al., 1998). We identified 201 doctors and sent them a  short questionnaire and obtained a  74% response rate. Of 149 doctors responding, 69 (46%) were pre­
+
+scribing amphetamine. A  larger percentage, 60%, agreed that there was a  role for the prescription
+
+of amphetamine. In addition we have been in touch with several colleagues who have experi­ ence of amphetamine prescribing and have asked them about their practice in more detail. This information forms the basis for the following discussion.
+
+**4. Prescribing guidelines**
+
+4.1. Indications
+
+Prescribing should be limited to primary am­ phetamine users with heavy problematic use. In the UK this will mean using more than 1  g of
+
+street amphetamine sulphate a  day. In practice heavy users may take 3  or 4  g a  day and will usually have been taking amphetamine regularly for at least several months. Of users presenting
+
+to services 50% are injecting the drug (Depart­
+
+ment of Health, 1996) and this is the main
+
+group for whom substitute prescribing is re­
+
+served though some services will consider pre­
+
+scribing for heavy non-injecting users.
+
+The aim is to prescribe only to those users
+
+who are dependent on the drug. It used to be
+
+considered that though users may become psy­
+
+chologically dependent on amphetamine there
+
+was no physical dependence and thus no indica­
+
+tion for substitute prescribing. Recent work has
+
+shown that both the physical and psychological
+
+dependence on amphetamine in regular users has
+
+been underestimated and that this is a  powerful
+
+drive for continued use of the drug (Dackis and
+
+Gold 1990; Topp et al., 1995; Topp and Darke,
+
+1997; Cantwell and McBride, 1998)
+
+4.2. Contraindications
+
+These include a  history of mental illness, hy­
+
+pertension, heart disease or pregnancy. The issue
+
+of mental illness is not always clear cut as heavy
+
+amphetamine users often experience paranoid
+
+feelings and indeed occasional psychotic
+
+episodes. The UK practice generally is to avoid
+
+amphetamine prescriptions if there has been an
+
+episode of frank psychosis even if this has been
+
+associated with drug use, as these sometimes
+
+presage the development of a  schizophrenic
+
+illness.
+
+4.3. Goals of treatment
+
+These are no different from methadone substi­
+
+tution treatment and are principally harm reduc­
+
+tion goals. These include a  reduction and
+
+eventual cessation in injecting activity, and a
+
+move to safer injecting practices; reduction in
+
+the use of street drugs; improvements in physical
+
+and mental health; improved social functioning
+
+and this includes a  reduction in criminal activity
+
+(Lintzeris et al., 1996). Heavy amphetamine mis­
+
+users are often chaotic in their behaviour and
+
+the initial aim is to try and stabilise them and
+
+reduce the risks they pose to themselves and
+
+others.
+
+---
+
+## Page 4
+
+![Prescribingamphetaminetoamphetamineusersasa_4_7](Generated/images/Prescribingamphetaminetoamphetamineusersasa_4_7.png)
+
+<sup>342P.M. Fleming / International Journal of Drug Policy 9 (1998) 339-344</sup>
+
+4.4. Dosage and form
+
+There is not enough in the way of clinical studies to be able to make very definitive state­ ments about dosage. In the UK, the average purity of street amphetamine sulphate is 5% (In­ stitute for the Study of Drug Dependence, 1997). However, recently amphetamine ‘base’ has been available which is of much higher purity and this makes it difficult to assess the amount of active drug that a  misuser has been taking. The fre­ quency distribution of amphetamine analyses per­ formed on seized drug by the Forensic Science Service in London in 1997 show the modal values remain between 2  and 4%. The mean value is raised in comparison to earlier years because of the small number of higher purity samples, for example 7.6% of samples contained more than 40% amphetamine (personal communication). In general the aim should be to minimise withdrawal symptoms rather than to give an equivalent dose to that used illegally. The pharmacy study found a mean dose for oral amphetamine of 41 mg daily. Our survey gave a  mean upper limit of 66 mg. Many practitioners had an upper limit of 60 mg although some prescribed higher doses i.e. 80-100 mg in some cases. Paranoid symptoms were rarely reported as side effects even with the higher dosages. On those occasions when para­ noid symptoms were seen it was usually the case that subjects had used illicit amphetamine on top of their prescribed dose. Concerning the form in which dexamphetamine is dispensed, our preference is for an elixir pre­ pared from amphetamine sulphate powder that is taken orally and is dispensed on several days a week. This minimises the opportunity for diver­ sion. We have had no reports of users injecting the elixir. Most colleagues prescribe oral prepara­ tions more often in the form of tablets than in a liquid. The half-life of amphetamine depends on the pH of the urine, and Sherman alkalinised the urine to increase the half-life of amphetamine (Sherman, 1990). The average half-life is about 12 h and most practitioners find a  single morning dose is effective.
+
+4.5. Monitoring
+
+This is most commonly by urinalysis for the presence of other drugs, and inspection of injec­ tion sites. Recently developed techniques allow for the distinction to be made between prescribed and illicit amphetamine in the urine (Tetlow and
+
+Merrill, 1996). In addition monitoring should in­ clude: mental state, blood pressure and weight and general social stability.
+
+4.6. How long should prescribing continue?
+
+Once again there is little to guide us, and there are differing views amongst practitioners. There is
+
+some uncertainty about the long-term effects of amphetamine on the brain (Gawin and Ellinwood, 1988) which has led us to advise that prescriptions should be time limited. However
+
+some specialists argue that if users are showing benefit from a  prescription—that is that some of the goals of prescribing are being met—and they relapse if the prescription is withdrawn the bal­ ance of advantage lies in continuing the prescrip­ tion. If there is no progress towards any of the goals of treatment then there is little purpose in continuing the prescription. This can be stopped immediately or tailed off. Rates of reduction vary:
+
+5 mg reduction every 1-2 weeks is often used.
+
+**5. Issues**
+
+5.1. Is amphetamine prescribing effective as a harm reduction measure?
+
+Most of the published reports are of observa­ tional and follow up studies and clinical experi­ ence and there is little in the way of controlled clinical trials. Klee reports on a  study in the Northwest of England of 43 clients presenting to drug treatment services with amphetamine-related problems matched with controls (Klee, 1997).
+
+Both groups were followed up for six months.
+
+From the treatment group 43% were prescribed amphetamine and it was amongst these that the greatest decline was seen in use of street am­ phetamine, injecting activity and criminal activity.
+
+---
+
+## Page 5
+
+![Prescribingamphetaminetoamphetamineusersasa_5_7](Generated/images/Prescribingamphetaminetoamphetamineusersasa_5_7.png)
+
+<sup>P.M. Fleming / International Journal of Drug Policy 9 (1998) 339-344343</sup>
+
+McBride et al. (1997) compared a  treatment group who received amphetamine with a  control group who fulfilled the same criteria but who had attended the same service before dexamphetamine prescribing began. The treatment group used less illicit drugs and showed reduction in injecting activity and had more contact with services.
+
+In addition to these studies there are a  number
+
+of reports of follow up studies of patients who have received dexamphetamine prescriptions
+
+(Sherman, 1990; Fleming and Roberts, 1994; Pates et al., 1996). These have also showed similar benefits. Thus there is an increasing body of clini­ cal work showing the benefit of amphetamine prescribing in the treatment of dependent am­ phetamine users. These benefits are principally in the area of harm reduction.
+
+5.2. Other benefits from prescribing
+
+The perception of many amphetamine users is that current services have little to offer them
+
+(Farrell et al., 1997) although if such services did target them they would be more likely to attend. The existence of an amphetamine prescribing pro­ gramme sends out a  message that amphetamine problems are taken seriously. Our own experience
+
+(Fleming and Roberts, 1994) has been that fol­ lowing the establishment of such a programme we had a  significant increase in self-referrals with amphetamine problems. Interestingly many of these people were not seeking a  prescription but were looking for help in reducing and modifying their use of the drug. This is help that a  drug
+
+service should be providing. Experience with a prescribing service is that in addition to attracting users to services, providing a  prescription helps to keep users in treatment (McBride et al., 1997).
+
+5.3. The need for more research
+
+Klee noted the lack of research interest into amphetamine misuse (Klee, 1992). Whilst the re­ ports so far have suggested benefits for am­ phetamine prescribing there is clearly a  need for more controlled studies (Mattick and Darke,
+
+1995). The guidelines outlined above have been developed pragmatically from clinical experience.
+
+In this era of clinical effectiveness the y need to be
+
+firmly based on evidence and this is only going to
+
+come from adequate clinical trials. What is lack­
+
+ing at present is any longer term controlled stud­
+
+ies into the effect of amphetamine prescribing. We
+
+know little about the natural history of heavy
+
+amphetamine use and even less about whether a
+
+prescription will modify this.
+
+5.4. Services targeted at amphetamine misusers
+
+In the UK drug services have historically been
+
+directed at opiate users and the needs of stimulant
+
+users have been neglected. There is a need there­
+
+fore to develop specific services targeted at this
+
+group (Klee, 1997). As mentioned above services
+
+that have offered substitute amphetamine pre­
+
+scribing have found that they attract more am­
+
+phetamine users to their service not all of them
+
+necessarily seeking a prescription. Services should
+
+offer help with modifying patterns of use, and
+
+general harm reduction advice as well as substitu­
+
+tion treatment where this is indicated.
+
+**References**
+
+<sup>Bejerot M. The years of chaos in Swedish drug policy. Addic­</sup>
+
+<sup>tion and Society. Ch. 7. Charles Thomas, Springfield, 1970.</sup>
+
+<sup>Bradbeer TM, Fleming PM, Charlton P, Crichton JS. Survey</sup>
+
+<sup>of amphetamine prescribing in England and Wales. Drug</sup>
+
+<sup>Alcohol Rev, 1998 (in press).</sup>
+
+<sup>Cantwell B, McBride AJ. Self detoxification by amphetamine</sup>
+
+<sup>dependent patients: a  pilot study. Drug Alcohol Depend,</sup>
+
+<sup>1998;49(2):157 163.</sup>
+
+<sup>Dackis CA, Gold MS. Addictiveness of central stimulants.</sup>
+
+<sup>Adv Alcohol Subst Abuse 1990;9:9-26.</sup>
+
+<sup>Department of Health. Drug Misuse Statistics (1995). Depart­</sup>
+
+<sup>ment of Health, London, 1996.</sup>
+
+<sup>Farrell M, Howes S, Griffiths P, Williamson S, Bacchus L,</sup>
+
+<sup>Taylor C. Stimulant Needs Assessment Project. Report to</sup>
+
+<sup>the Department of Health. National Addiction Centre,</sup>
+
+<sup>London.</sup>
+
+<sup>Fleming PM, Roberts D. Is the prescription of amphetamine</sup>
+
+<sup>justified as a  harm reduction measure? J  R Soc Health</sup>
+
+<sup>1994;114(3):127-31.</sup>
+
+<sup>Gardner R, Connell PH. Amphetamine and other non-opioid</sup>
+
+<sup>drug users attending a  special drug dependence clinic. Br</sup>
+
+<sup>Med J 1972;2:322-5.</sup>
+
+<sup>Gawin FH, Ellinwood EH. Cocaine and other stimulants:</sup>
+
+<sup>actions, abuse and treatment. New Engl J  Med</sup>
+
+<sup>1988;318(18):1173-82.</sup>
+
+---
+
+## Page 6
+
+![Prescribingamphetaminetoamphetamineusersasa_6_7](Generated/images/Prescribingamphetaminetoamphetamineusersasa_6_7.png)
+
+<sup>344P.M. Fleming / International Journal of Drug Policy 9 (1998) 339-344</sup>
+
+<sup>Institute for the Study of Drug Dependence. Drug Misuse in Britain 1996. Institute for the Study of Drug Depen­ dence, London, 1997. Kall K. Amphetamine abuse in Sweden. In: Klee H, editor. Amphetamine Misuse: International Perspectives on Cur­ rent Trends. Harwood Academic Publishers, 1997. Klee H. A  new target for behavioural research-amphetamine misuse. Br J Addict 1992;87:439-46. Klee H. Amphetamine Use and Treatment: A  Study of Indi­ vidual and Policy Impediments to Effective Service Deliv­ ery. Report to the Dept of Health. Centre for Social Research on Health and Substance Abuse. The Manchester</sup>
+
+<sup>Metropolitan University, 1997. Lintzeris N, Holgate F, Dunlop D. Addressing dependent</sup>
+
+<sup>amphetamine use: a  place for prescription. Drug Alcohol Rev 1996;15:189-95. McBride AJ, Sullivan G, Blewitt AE, Morgan S. Am­ phetamine prescribing as a  harm reduction measure: a preliminary study. Addict Res 1997;5(2):95-112. Mattick RP, Darke S. Drug replacement treatments: is am­ phetamine substitution a  horse of a  different colour? Drug Alcohol Rev 1995;14:389-94. Mitcheson M, Edwards G, Hawks D, Ogbourne A. Treatment</sup>
+
+<sup>of methylamphetamine users during the 1968 epidemic. In:</sup>
+
+<sup>Edwards G, Russell MAH, Hawks A, MacCafferty M, editors. Drugs and Drug Dependence. London: Saxon House Publishers, 1976. Pates R, Coombes N, Ford N. A  pilot programme in prescrib­ ing dexamphetamine for amphetamine users (part 1). J</sup>
+
+<sup>Subst Misuse 1996;1:80-4.</sup>
+
+<sup>Peters A, Davies T, Richardson A. Increasing popularity of</sup>
+
+<sup>injection as the route of administration of amphetamine in</sup>
+
+<sup>Edinburgh. Drug Alcohol Dependence 1997;48(3):227-34.</sup>
+
+<sup>Sherman P. Dexamphetamine for ‘speed’ addiction. Med J</sup>
+
+<sup>Aust 1990;153:306.</sup>
+
+<sup>Standing Conference on Drug Abuse. Working with Stimulant</sup>
+
+<sup>Users: Report of SCODA Conference held on 5  October</sup>
+
+<sup>1989. London: Standing Conference on Drug Abuse, 1989.</sup>
+
+<sup>Strang J, Sheridan J. Prescribing amphetamines to drug mis­</sup>
+
+<sup>users: data from the 1995 survey of community pharmacies</sup>
+
+<sup>in England and Wales. Addiction 1997;92(7):833-8.</sup>
+
+<sup>Stimson GV, Alldritt L, Dolan K, Donoghoe M, and Lart R.</sup>
+
+<sup>Injecting Equipment Exchange Schemes. Final Report.</sup>
+
+<sup>London: Goldsmiths’ College, 1988.</sup>
+
+<sup>Tetlow VA, Merrill J. Rapid determination of amphetamine</sup>
+
+<sup>stereoisomer ratios in urine by gas chromatography-mass</sup>
+
+<sup>spectroscopy. Ann Clin Biochem 1996;33:50-4.</sup>
+
+<sup>Topp L, Darke S. The applicability of the dependence syn­</sup>
+
+<sup>drome to amphetamine. Drug Alcohol Depend</sup>
+
+<sup>1997;48:113-8.</sup>
+
+<sup>Topp L, Mattick RP, Lovibond PF. The Nature of the</sup>
+
+<sup>Amphetamine Dependence Syndrome: Appetitive or Aver­</sup>
+
+<sup>sive Motivation? Technical Report No. 30. The National</sup>
+
+<sup>Drug and Alcohol research Centre, University of New</sup>
+
+<sup>South Wales, Australia, 1995</sup>
+
+<sup>World Drug Report. United Nations International Drug Con­</sup>
+
+<sup>trol Programme. Oxford University Press, 1997.</sup>
+
+<sup>Yoshida T. Use and Misuse of Amphetamines: An Interna­</sup>
+
+<sup>tional Overview. In: Klee H, editor. Amphetamine Misuse:</sup>
+
+<sup>International Perspectives on Current Trends. Harwood</sup>
+
+<sup>Academic publishers.</sup>
+
+# Footnotes

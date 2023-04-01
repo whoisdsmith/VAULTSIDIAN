@@ -5,11 +5,12 @@
 %% Begin Waypoint %%
 - **[research](./research.md)**
 	- [a-context-based-information-refinding-system](./a-context-based-information-refinding-system.md)
-	- [Academic (2)](./Academic%20(2).md)
 	- [academic](./academic.md)
 	- **Adderall**
+		- [22-5-19-GPT_ DAN Mode Activated_DAN_ DAN Mode Unleashed](./Adderall/22-5-19-GPT_%20DAN%20Mode%20Activated_DAN_%20DAN%20Mode%20Unleashed.md)
 		- [Adderall and Depression](./Adderall/Adderall%20and%20Depression.md)
 		- [Amphetamine Increases Errors During Episodic Memory Retrieval](./Adderall/Amphetamine%20Increases%20Errors%20During%20Episodic%20Memory%20Retrieval.md)
+		- [Amphetamines Addiction](./Adderall/Amphetamines%20Addiction.md)
 		- **Articles**
 			- [A Letter to Adderall from the Asylum](./Adderall/Articles/A%20Letter%20to%20Adderall%20from%20the%20Asylum.md)
 			- [A Life Spent Helping Others Understand ADHD Online](./Adderall/Articles/A%20Life%20Spent%20Helping%20Others%20Understand%20ADHD%20Online.md)
@@ -26,9 +27,12 @@
 			- [The Disillusions of an Adderall World](./Adderall/Articles/The%20Disillusions%20of%20an%20Adderall%20World.md)
 			- [Unpredictable Reward, Predictable Happiness](./Adderall/Articles/Unpredictable%20Reward,%20Predictable%20Happiness.md)
 			- [What a Lifetime of Adderall Does to Your Brain](./Adderall/Articles/What%20a%20Lifetime%20of%20Adderall%20Does%20to%20Your%20Brain.md)
+		- [Baig - 2018 - DARK Side of Amphetamine and Analogues Pharmacolo](./Adderall/Baig%20-%202018%20-%20DARK%20Side%20of%20Amphetamine%20and%20Analogues%20Pharmacolo.md)
 		- [Central serous chorioretinopathy](./Adderall/Central%20serous%20chorioretinopathy.md)
 		- [Comments For Dr Jekylls Hangover  Quitting Adderall](./Adderall/Comments%20For%20Dr%20Jekylls%20Hangover%20%20Quitting%20Adderall.md)
 		- [D-Amphetamine Salt Combo](./Adderall/D-Amphetamine%20Salt%20Combo.md)
+		- [Dextroamphetamine Saccharate, Amphetamine Aspartate, Dextroamphetamine Sulfate and Amphetamine Sulfate Extended-Release Capsules CII - USA](./Adderall/Dextroamphetamine%20Saccharate,%20Amphetamine%20Aspartate,%20Dextroamphetamine%20Sulfate%20and%20Amphetamine%20Sulfate%20Extended-Release%20Capsules%20CII%20-%20USA.md)
+		- [Dextroamphetamine Saccharate, Amphetamine Aspartate, Dextroamphetamine Sulfate and Amphetamine Sulfate Tablets CII - USA](./Adderall/Dextroamphetamine%20Saccharate,%20Amphetamine%20Aspartate,%20Dextroamphetamine%20Sulfate%20and%20Amphetamine%20Sulfate%20Tablets%20CII%20-%20USA.md)
 		- [Do You Have a Prescription for that Adderall](./Adderall/Do%20You%20Have%20a%20Prescription%20for%20that%20Adderall.md)
 		- [Long-Term Side Effects](./Adderall/Long-Term%20Side%20Effects.md)
 		- [Neurocognitive, Autonomic, and Mood Effects of Adderall](./Adderall/Neurocognitive,%20Autonomic,%20and%20Mood%20Effects%20of%20Adderall.md)
