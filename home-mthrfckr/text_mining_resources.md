@@ -718,7 +718,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 
 # Contribute
 
-Contributions are more than welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
+Contributions are more than welcome! Please read the [contribution guidelines](bookmrks-mthrfckr/software-tools/contributing.md) first.
 
 
 ## License

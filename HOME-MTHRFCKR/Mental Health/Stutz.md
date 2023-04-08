@@ -12,6 +12,3 @@
 - The Shadow
 - The Snapshot
   - The Realm of Illusion
-
-
-gpt

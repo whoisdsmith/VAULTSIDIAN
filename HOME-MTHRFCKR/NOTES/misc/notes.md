@@ -4,7 +4,7 @@
 
 %% Begin Waypoint %%
 - **[notes](../../../..//home-mthrfckr/notes/misc/notes.md)**
-	- [13-years-of-adderall-and-how-i-feel-about-it-now489-revision-v1-13-years-of-adderall-and-how-i-feel-about-it-now](13-years-of-adderall-and-how-i-feel-about-it-now489-revision-v1-13-years-of-adderall-and-how-i-feel-about-it-now.md)
+	- [13-years-of-adderall-and-how-i-feel-about-it-now489-revision-v1-13-years-of-adderall-and-how-i-feel-about-it-now](../../research/Adderall/Articles/13-years-of-adderall-and-how-i-feel-about-it-now489-revision-v1-13-years-of-adderall-and-how-i-feel-about-it-now.md)
 	- [18-selected-super-useful-linux-one-liners914-revision-v1-18-selected-super-useful-linux-one-liners](18-selected-super-useful-linux-one-liners914-revision-v1-18-selected-super-useful-linux-one-liners.md)
 	- [a-context-based-information-refinding-system](a-context-based-information-refinding-system.md)
 	- [about-me-2589-revision-v1-about-me](about-me-2589-revision-v1-about-me.md)
