@@ -1,0 +1,2054 @@
+# SEARCH PARTY
+
+## A.I. Search
+
+- [AI-Powered Search Engine - Lucidworks](https://lucidworks.com/ai-powered-search/) - Lucidworks AI-powered Search Engine Can Be Used To Search, Discover, And Interact With Data In A Way That Is More Human-like.
+- [AISearchTool](https://aisearchtool.com/) - A Search Tool Powered By AI.
+- [AISEO](https://aiseo.ai/) - An AI-powered SEO Tool.
+- [Alfred Search](https://www.alfredsearch.com/) - Search Engine That Uses AI To Provide Personalized Search Results.
+- [Algolia](https://www.algolia.com/) - AI-powered Search And Discovery Platform That Helps Businesses Deliver Relevant Search Results And Personalized Recommendations.
+- [All Search AI](https://www.allsearch.ai/) - A Search Engine That Provides Results From Multiple Sources.
+- [Andi](https://andisearch.com/) - Andi Is A Search Engine That Allows You To Search And Browse Through All The Images On The Internet.
+- [Andisearch](http://andisearch.com) - Search For The Next Generation  
+- [Answer Overflow](https://www.answeroverflow.com/) - Answer Overflow Is A Search Engine For Programming Questions And Answers, Using AI To Provide More Accurate And Relevant Results.
+- [Anypod](http://www.anypod.ai) - Search Engines Built For Creators. We Make Your Content Searchable.
+- [ArtHub](https://arthub.ai/) - ArtHub Is An Online Art Gallery That Provides The Most Comprehensive And Comprehensive Online Art Search Engine.
+- [Ask Command](https://askcommand.com/) - A natural language search engine that allows users to find answers quickly by asking questions.
+- [AskMyBook](https://askmybook.com/): An AI-based Search Engine That Helps Users Find Books By Simply Asking Questions About The Content They Want To Read.
+- [Backlinks AI](https://getbacklinks.ai/) - An AI-powered Backlink Analysis Tool.  
+- [Barua AI](http://baruaai.com) - A Company That Provides AI-powered Solutions For Various Industries.
+- [Bria](https://bria.ai/) - Bria Is A Search Engine For The Web That Lets You Search For Things You Want To See.
+- [Casetext](https://casetext.com/) - Casetext Is A Search Engine That Lets You Search For The Most Relevant And Recent Cases From The Courts.
+- [ChatGPT Chrome Extension](https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban) - A Chrome Extension That Allows You To Search For And Browse Through The Most Recent And Relevant News Articles.
+- [ChatGPT For Search Engine](https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban/) - A Chrome Extension That Allows Users To Search For Information On The Web Using Natural Language Queries, Powered By AI.
+- [ChatGPT](https://chat.openai.com/chat) - ChatGPT Is A Search Engine That Lets You Search For The Most Recent And Relevant News Articles.
+- [Chatsonic](https://aiinfinity.blogspot.com/p/search-enginechatsonic.html) - ChatGPT Alternative Built With Superpowers!
+- [Cheatlayer.com](https://cheatlayer.com/) - A Search Engine That Helps Developers Quickly Find The Answers To Programming Questions And Issues.
+- [Civitai](https://civitai.com/) - Civitai Is A Search Engine That Lets You Search For And Browse Through The Latest News, Sports, And Entertainment Content.
+- [Collie](https://collie.ai/) - Collie Is An AI-powered Search Tool For Finding Similar Images. It Uses Machine Learning To Identify Visual Patterns And Similarities Between Images, And Can Be Used For Applications Like Product Search And Content Discovery.
+- [Consensus](https://consensus.app/search) - Consensus Is A Search Engine That Provides Real-time And Up-to-date Information On Various Topics, Including Finance, News, And Current Events.
+- [Context | AI-Powered Audio & Video Search Engine](https://addcontext.xyz/) - Context Is A Search Engine That Lets You Search For And Browse Through The Most Recent And Relevant News Articles.
+- [Crowdview](https://aiinfinity.blogspot.com/p/search-enginecrowdview.html) - Forum Search Engine!
+- [Dreamsands](https://dreamsands.ai/) - Dreamsands Is A Search Engine That Lets You Search For The Most Recent And Relevant News Articles.
+- [Dream Up (Deviant Art)](https://www.dreamup.com/) - Dream Up Is A Search Engine That Lets You Search For The Most Recent And Relevant News Articles.
+- [Enterpix](https://enterpix.app/) - Search For Images By Image.
+- [Everypixel](https://www.everypixel.com/) - Search For Images By Image.
+- [ExactBuyer Search](http://www.exactbuyer.com) - AI Powered Business Search For Prospecting Teams  
+- [Explore AI](https://exploreai.vercel.app/) - Explore A Collection Of AI Generated Images.
+- [FAQx](https://aiinfinity.blogspot.com/p/search-enginefaqx.html) - Say Goodbye to Endless Searches, Get Facts on FAQx.
+- [Ferret.ai](https://www.ferret.ai/): A Search Tool That Uses AI And Natural Language Processing To Help Teams Find The Information They Need Across Multiple Platforms.
+- [FindMyAITool](https://findmyaitool.com/) - A search engine for AI tools, making it easier to discover the right AI solutions for your needs.
+- [Fireflies.ai](https://fireflies.ai/) - Search For Images By Image.
+- [Generated Photos](https://generated.photos/) - Explore A Collection Of AI Generated Images.
+- [Glarity](https://glarity.app/) - Glarity Is An AI-powered Search Engine That Uses Natural Language Processing To Understand User Queries And Provide Relevant Search Results. It Includes Features Like Topic Clustering And Personalized Search.
+- [Glean](https://www.glean.com/) - Search For Images By Image.
+- [GoodLookup](https://www.goodlookup.com/): A Search Engine That Uses AI To Provide Personalized Recommendations For Products And Services.
+- [GrowthBar SEO](https://www.growthbarseo.com/): A SEO Tool That Uses AI To Help Businesses Improve Their Search Engine Rankings And Increase Website Traffic.
+- [Hello: Search Engine For Developers](https://beta.sayhello.so/) - Search For Images By Image.
+- [Imaiger](https://imaiger.com/) - Search For Images By Image.
+- [Kailua Labs Image Search](https://app.kailualabs.com/image-search?q=dog+with+sunglasses&fq=) - A Search Engine That Uses AI To Find Images Based On Specific Search Queries.
+- [Krea](https://www.krea.ai/) - AI-powered Marketing Automation Platform. Krea Helps Brands Take Control Of Their Customer Journeys, And Make The Most Out Of Their Customer Data, With No Coding Required.
+- [Laion](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images) - Laion Is An AI-powered Search Engine That Helps You Find The Best Images For Your Project, As Fast As Possible.
+- [Lexii.ai](http://lexii.ai/) - Lexii. AI. Lexii.ai Is An AI Search Assistant That Answers Questions And Cites Sources.
+- [Libraire](https://libraire.ai/) - Library Is An AI-powered Search Engine That Helps You Find The Best Images For Your Project, As Fast As Possible.
+- [Looria](https://looria.com/) - Looria Is An AI-powered Search Engine That Helps You Find The Best Images For Your Project, As Fast As Possible.
+- [Mage](https://www.mage.space/) - Mage Is An AI-powered Search Engine That Helps You Find The Best Images For Your Project, As Fast As Possible.
+- [Metaphor](https://aiinfinity.blogspot.com/p/search-enginemetaphor.html) - Metaphor is a search engine that predicts the next link, similar to the way that GPT-3 predicts the next word.
+- [Neeva.com](https://neeva.com/)- Neeva Is An Ad-free, Privacy-focused Search Engine That Uses AI Technology To Deliver More Relevant And Personalized Search Results.
+- [Neeva](https://aiinfinity.blogspot.com/p/search-engineneeva.html) - Search Powered by AI! Get Answers.Not Ads.
+- [Nuclia](https://nuclia.com/) - Nuclia Is An AI-powered Search Engine That Helps You Find The Best Images For Your Project, As Fast As Possible.
+- [Nyx](https://nyx.gallery/) - Nyx Is An AI-powered Search Engine That Helps You Find The Best Images For Your Project, As Fast As Possible.
+- [One More AI](https://onemoreai.com/) - One More AI Is An AI-powered Search Engine That Helps You Find The Best Images For Your Project, As Fast As Possible.
+- [OpenArt Photo Booth](http://openart.ai) - Discover And Generate AI Art - Openart. Search 10M+ Prompts, And Generate AI Art Via Stable Diffusion, DALL·E 2.
+- [Perplexity AI](https://aiinfinity.blogspot.com/p/search-engineperplexity-ai.html) - Perplexity AI unlocks the power of knowledge with information discovery and sharing. 
+- [Pheeds](http://Pheeds.com) - A Search Engine That Aggregates And Categorizes News Articles, Blog Posts, And Other Online Content.
+- [Phind: AI Search Engine](https://phind.com/) - Phind Is An AI-powered Search Engine That Helps You Find The Best Images For Your Project, As Fast As Possible.
+- [Playground AI](https://playgroundai.com/) - Playground AI Is An AI-powered Search Engine That Helps You Find The Best Images For Your Project, As Fast As Possible.
+- [PromptBase](https://promptbase.com/) - PromptBase Is An AI-powered Search Engine That Helps You Find The Best Images For Your Project, As Fast As Possible.
+- [PromptHero](https://prompthero.com/) - PromptHero Is An AI-powered Search Engine That Helps You Find The Best Images For Your Project, As Fast As Possible.
+- [QueryKittie](https://www.querykitty.com/) - A search engine that uses AI to provide users with relevant and personalized search results based on their preferences and behavior.
+- [Rosebud](https://www.rosebud.ai/) - Rosebud Is An AI-powered Search Engine That Helps You Find The Best Images For Your Project, As Fast As Possible.
+- [Search](https://raindrop.io/whoisdsmith/search-29978203/sort=title&perpage=30&page=0) - This Is A Search Engine That Provides Users With Information On A Wide Range Of Topics, Sorted And Organized In A User-friendly Manner.
+- [Shaped](https://www.shaped.ai/) - Shaped Is A Platform That Provides Businesses With AI-powered Solutions, Including Virtual Assistants, Chatbots, And Voice Recognition Technology.
+- [SID Search](https://www.sidsearch.com/?via=aitoolhunt) - A specialized search engine focused on finding AI tools and services for various industries.
+- [Smarty Names](http://smartynames.com) - Free Creative Domain Name Search By AI Robots. Finding A Creative And Unique Domain That Is Still Available Is Easy With SmartyNames.com - Tell Us What You Do, And Our Robots Will Find The Domain That Is Just Right For You. Company Name Generator In One Click.
+- [Steno](https://steno.ai/) - Steno Is An AI-powered Platform That Offers A Wide Range Of Solutions For Businesses, Including Virtual Assistants, Chatbots, And Voice Recognition.
+- [Stock AI](https://www.stockai.com/) - Stock AI Is A Financial Platform That Provides Stock Market Insights And Predictions Based On Data Analysis And Machine Learning Algorithms.
+- [StockGPT](https://www.askstockgpt.com/) - AI-Powered Search Engine. StockGPT Is An AI-powered Search Engine That Was Trained On All Of Tesla' S Quarterly Earnings Call Transcripts Dating Back To Q2 2011.
+- [The Keys AI](https://www.Thekeys.Ai/) - An AI-powered Platform For Search Engine Optimization And Online Advertising.
+- [You](https://aiinfinity.blogspot.com/p/search-engineyou.html) - The AI Search Engine You Control
+- [Your SearchAI](https://app.yoursearch.ai/) - A search engine that uses AI to surface relevant and personalized results.
+- [Zevi.ai](https://www.zevi.ai/) - Zevi Is A Web-based Platform That Offers Data-driven Insights And Predictions In The Financial Industry.
+
+## Address and Contact Information Search
+
+- [118712.fr](https://www.118712.fr/) - A French online directory service for finding people and businesses in France.
+- [411.com Reverse Address Search](https://www.411.com/) - An online directory service that provides reverse address lookup, people search, and phone number lookup for the United States.
+- [Addresses Reverse Address Search](https://www.addresses.com/reverse-address) - An online directory service that offers reverse address search and people search for the United States.
+- [Address Search Reverse Address Search](https://reverse.addresssearch.com/) - An online directory service that provides reverse address search and people search for the United States.
+- [Australialookup.com](https://www.australialookup.com/) - An online directory service that offers people search, phone number lookup, and business search for Australia.
+- [BeenVerified Reverse Address Search](https://www.beenverified.com/reverse-address-lookup/) - An online service that provides reverse address search, people search, and public records lookup for the United States.
+- [Free Email Address Lookup & Mailing Address Search](https://www.addresssearch.com/) - An online directory service that offers free email address lookup, mailing address search, and people search for the United States.
+- [homemetry](https://homemetry.com/) - An online directory service that provides property information, people search, and reverse address search for the United States.
+- [Instant People Search Service: Free Online People Finder - Verispy.com](https://www.verispy.com/people-search/) - An online people search service that offers free people finder and background check for the United States.
+- [Intellius Reverse Address Search](https://www.intelius.com/reverse-address-lookup/) - An online directory service that provides reverse address lookup, people search, and public records search for the United States.
+- [Melissa Property Viewer Reverse Address Search](https://www.melissa.com/v2/lookups/property/) - An online service that provides property data and reverse address lookup for the United States.
+- [New Canada 411](https://www.canada411.ca/) - A Canadian online directory service that offers people search, reverse phone lookup, and business search for Canada.
+- [Phonebooks.com](https://www.phonebooks.com/) - An online directory service that provides people search and phone number lookup for the United States.
+- [PrivateEye Reverse Address Search](https://www.privateeye.com/address-finder/) - An online directory service that offers reverse address search, people search, and public records search for the United States.
+- [Spokeo Reverse Address Search](https://www.spokeo.com/reverse-address-search) - An online directory service that provides reverse address lookup, people search, and public records search for the United States.
+- [SquareFoot Commercial Real Estate Search](https://www.squarefoot.com/) - An online platform for finding commercial real estate properties in the United States.
+- [ThatsThem](https://thatsthem.com/challenge?r=%2Freverse-address-lookup) - An online directory service that provides people search, phone number lookup, and reverse address lookup for the United States.
+- [ThisNumber](https://www.thisnumber.com/) - An online directory service that provides phone number lookup, people search, and reverse phone lookup for the United States.
+- [ukphonebook.com](https://www.ukphonebook.com/) - A UK-based online directory service that offers people search, phone number lookup, and business search for the United Kingdom.
+- [anywho](https://www.anywho.com/yellow-pages) - An online directory service that provides people search and phone number lookup for the United States.
+- [Zillow Residential Real Estate Search](https://www.zillow.com/) - An online platform for finding residential real estate properties in the United States. The website offers home search, home value estimates, and real estate agent search functionalities.
+
+## Advanced Searching
+
+- [As.onionsearchengine.com](https://as.onionsearchengine.com/) - A search engine that allows users to search for content on the dark web. This search engine is only accessible through the Tor network.
+- [Epieos, the ultimate OSINT tool](https://epieos.com/) - A web-based tool that offers various functionalities for open-source intelligence (OSINT) gathering. This tool can be used for social media investigations, domain and IP address lookups, and email address lookups, among other things.
+- [ExoneraTor–Tor Metrics](https://metrics.torproject.org/exonerator.html) - A tool that allows users to check whether a given IP address was used as a Tor relay. This tool is useful for analyzing Tor network traffic and for identifying potential Tor nodes that might be compromised.
+- [Riddler.io](https://riddler.io/) - A web-based tool that allows users to conduct OSINT investigations. This tool offers functionalities for domain and IP address lookups, email address lookups, and search engine scraping, among other things. Riddler.io is a paid service that offers different pricing plans based on the number of requests made.
+
+## Analytics
+
+- [Anonymous Ad Preview Tool](https://ads.google.com/anon/AdPreview) - A tool provided by Google that allows users to preview how ads appear in Google search results for different geographic locations and languages. This tool is useful for advertisers who want to test their ads before launching them.
+- [Semrush](https://www.semrush.com/) - A marketing analytics tool that offers functionalities for keyword research, competitor analysis, and website audit, among other things. Semrush is useful for SEO professionals, digital marketers, and content creators.
+- [Social Searcher](https://www.social-searcher.com/media-monitoring/) - A social media search engine that allows users to search for content on various social media platforms. This tool can be used for social media monitoring, reputation management, and social media analysis.
+- [Social Trends](https://www.social-searcher.com/social-trends/) - A tool provided by Social Searcher that allows users to monitor social media trends and hashtags. This tool is useful for social media marketers, content creators, and influencers who want to stay up-to-date on the latest trends and topics.
+
+## Apps
+
+- [FND.IO](https://fnd.io/) - An app discovery platform for iOS and macOS. This platform allows users to search for apps and games on the App Store, and provides information such as reviews, ratings, and price changes. Users can also create watchlists and receive notifications when apps go on sale or receive updates.
+- [MTHRFCKR's MacOSX App Search](https://cse.google.com/cse?cx=8741bcfbbc69912f4#gsc.tab=0) - A custom search engine that allows users to search for macOS apps by name, developer, or description. This search engine is useful for macOS users who want to find new apps or alternative apps for specific tasks.
+- [Chrome Extensions CSE](https://cse.google.com/cse?cx=006205189065513216365%3Apn3lumi80ne#gsc.tab=0) - A custom search engine that allows users to search for Google Chrome extensions by name, developer, or description. This search engine is useful for Chrome users who want to find new extensions or alternative extensions for specific tasks.
+
+## Archived Pages
+
+- [Archive.org (downloader)](https://github.com/hartator/wayback-machine-downloader) - A tool that allows users to download websites from the Internet Archive's Wayback Machine. This tool is useful for web archivists and researchers who want to preserve a website's content or access a website that is no longer available online.
+- [Archive.today](https://archive.ph/) - A website archiving service that allows users to save snapshots of web pages. This service is useful for archiving online content for research purposes, preserving web pages that may be altered or deleted, and accessing blocked or censored web content.
+- [Cached Pages](http://www.cachedpages.com/) - A search engine that allows users to search for cached versions of web pages. This search engine is useful for accessing web content that may be temporarily or permanently unavailable online.
+- [CachedView](https://cachedview.nl/) - A tool that allows users to view cached versions of web pages. This tool is useful for accessing web content that may be temporarily or permanently unavailable online.
+- [Follow That Page](https://followthatpage.com/) - A website monitoring tool that allows users to track changes to web pages. This tool is useful for tracking news articles, job postings, and other content that may be updated frequently.
+- [Google Cached Pages of Any Website](https://cachedview.com/) - A tool that allows users to view cached versions of web pages from Google's cache. This tool is useful for accessing web content that may be temporarily or permanently unavailable online.
+- [Web Citation](https://webcitation.org/) - A tool that allows users to create permanent archives of web pages. This tool is useful for preserving web content that may be altered or deleted, and for citing online sources in academic or research papers.
+
+## Audio
+
+- [Free Music Search](http://musgle.com/) - A music search engine that allows users to find and listen to songs online. This search engine is useful for discovering new music and finding specific songs or artists.
+- [Listen Notes](https://www.listennotes.com/) - A podcast search engine that allows users to search for and discover podcasts. This search engine is useful for finding podcasts on specific topics, browsing popular podcasts, and creating podcast playlists.
+- [Museo](https://museo.app/) - A music discovery app that allows users to find and listen to new music. This app provides personalized music recommendations based on the user's listening history, and allows users to create playlists and follow their favorite artists.
+- [Search for Music Using Your Voice](https://www.midomi.com/) - A music search engine that allows users to find and identify songs by humming or singing a tune. This search engine is useful for identifying a song when the user does not know the title or artist.
+
+## Awesome Hacking Search Engines
+
+- [GrayhatWarfare](https://shorteners.grayhatwarfare.com/domains) - A search engine that allows users to find domains and subdomains by keyword or data such as IP, DNS, and SSL.
+- [Alexander Mylnikov](https://www.mylnikov.org/) - Personal website of Alexander Mylnikov, a security researcher and software engineer.
+- [Redhunt Labs](https://redhuntlabs.com/) - A cybersecurity company that provides services such as penetration testing, vulnerability assessment, and threat hunting.
+- [BreachForums](https://breached.to/) - A forum for discussing data breaches, leaks, and other cybersecurity-related topics.
+- [C99 Free APIs - C99s API Service](https://api.c99.nl/) - A collection of APIs for various purposes such as IP geolocation, URL shortening, and password generation.
+- [National Cellular Directory](https://www.nationalcellulardirectory.com/) - A website for searching phone numbers and information about people and businesses.
+- [Censys](https://search.censys.io/certificates) - A search engine for finding and analyzing internet-connected devices and services such as websites, servers, and certificates.
+- [Cert Spotter](https://sslmate.com/certspotter/) - A search engine for finding SSL/TLS certificates and identifying potential security issues.
+- [Cloud Vulnerabilities & Security Issues Database](https://www.cloudvulndb.org/) - A database of vulnerabilities and security issues related to cloud services such as AWS, Azure, and Google Cloud.
+- [Common Crawl Index Server](https://index.commoncrawl.org/) - A search engine for the Common Crawl web archive, which contains a large collection of web pages and data.
+- [Cybersecurity Search Engine | Criminal IP](https://www.criminalip.io/) - A search engine for finding and analyzing IP addresses associated with criminal activities and cybersecurity threats.
+- [Deep Web Links](https://deepweblinks.net/) - A directory of links to websites and resources on the deep web, which is not indexed by traditional search engines.
+- [Entrust Certificate Search - Entrust, Inc.](https://ui.ctsearch.entrust.com/ui/ctsearchui) - A search engine for SSL/TLS certificates issued by Entrust.
+- [Farsight Technical Documentation](https://docs.farsightsecurity.com/#dnsdb) - Technical documentation for Farsight Security services such as DNSDB, a database of historical DNS data.
+- [Feodo Tracker](https://feodotracker.abuse.ch/) - A website that tracks and reports on botnets, malware, and other cyber threats.
+- [Filesec.io](https://filesec.io/) - A platform that allows users to securely share files and documents with others, while keeping them encrypted and protected.
+- [emailhippo](https://tools.emailhippo.com/) - A set of tools for validating and verifying email addresses, checking their validity and deliverability.
+- [VulnIQ](https://vulniq.com/) - A cloud-based vulnerability management platform that allows organizations to identify, prioritize, and remediate security vulnerabilities across their IT environment.
+- [Free WiFi Cafe Spots](http://www.wificafespots.com/) - A directory of free WiFi hotspots in cafes, restaurants, and other public places around the world.
+- [FullHunt | Expose Your Attack Surface](https://fullhunt.io/) - A cybersecurity platform that helps organizations identify and analyze their attack surface, including exposed assets and vulnerabilities.
+- [GitHub Advisory Database](https://github.com/advisories) - A database of security advisories and vulnerabilities for projects hosted on GitHub.
+- [GitHub Code Search (Preview)](https://cs.github.com/) - A preview of a new search engine for finding code and repositories on GitHub.
+- [Global Email Checker Tool | Melissa Lookups](https://www.melissa.com/v2/lookups/emailcheck/email/) - An email verification and validation tool that checks the syntax, domain, and mailbox of an email address.
+- [Grayhatwarfare](https://grayhatwarfare.com/) - A search engine for finding open webcams, databases, and other internet-connected devices and services.
+- [GTFOBins](https://gtfobins.github.io/) - A curated list of Unix binaries that can be used to bypass local security restrictions and escalate privileges.
+- [Home - SOCRadar® Extended Threat Intelligence](https://socradar.io/) - A platform that provides threat intelligence and monitoring services to help organizations detect and respond to cyber threats.
+- [Homepage - Tor Link](https://tor.link/) - A directory of links to Tor hidden services, websites that can only be accessed through the Tor network.
+- [LeakCheck](https://leakcheck.io/) - A tool that allows users to check if their email address has been involved in any data breaches and leaks.
+- [LOLBAS](https://lolbas-project.github.io/) - A collection of Windows binaries that can be used to bypass security mechanisms and perform malicious actions.
+- [MAC Address Lookup](https://macvendors.com/) - A lookup service that provides information about a MAC address, including its vendor and other details.
+- [MAC Address Vendor Lookup](https://macaddress.io/) - A lookup service that allows users to identify the vendor of a MAC address.
+- [MalAPI.io](https://malapi.io/) - A platform that provides a REST API for analyzing and detecting malware and suspicious files.
+- [MalwareBazaar - Browse](https://bazaar.abuse.ch/verify-ua/) - A web-based platform that allows users to browse and search for malware samples and indicators of compromise (IoCs).
+- [MalwareBazaar - Malware sample exchange](https://bazaar.abuse.ch/) - A community-driven platform that allows users to share and analyze malware samples and IoCs.
+- [Microsoft Defender Threat Intelligence | Microsoft Security](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-threat-intelligence) - A service that provides threat intelligence and insights into cyber attacks using data from Microsoft Defender and other sources.
+- [MITRE ATT&CK®](https://attack.mitre.org/) - A knowledge base and framework for understanding and describing the tactics, techniques, and procedures (TTPs) used by attackers during cyber attacks.
+- [Natlas | Natlas](https://natlas.io/) - An open-source platform for network reconnaissance and vulnerability scanning.
+- [Netlas.io](https://netlas.io/) - A platform for discovering and analyzing internet-connected assets and their vulnerabilities.
+- [NVD - Search and Statistics](https://nvd.nist.gov/vuln/search) - The National Vulnerability Database (NVD), a government-funded database that contains information about vulnerabilities and security weaknesses in software and hardware products.
+- [Onion Search Engine](https://onionengine.com/) - A search engine for finding Tor hidden services and onion sites.
+- [Online Tools - Wannabe1337](https://wannabe1337.xyz/) - A collection of online tools for web and network security testing and analysis.
+- [Open Source Vulnerability Database | Mend](https://www.mend.io/vulnerability-database/) - An open-source vulnerability database that provides information about software vulnerabilities and their associated patches and fixes.
+- [OpenCVE](https://www.opencve.io/welcome) - An open-source platform that provides information about vulnerabilities and security advisories from multiple sources, including the National Vulnerability Database (NVD) and the Common Vulnerabilities and Exposures (CVE) database.
+- [OpenWiFiMap](https://openwifimap.net/) - A crowdsourced map of public WiFi hotspots around the world.
+- [OSV](https://osv.dev/list) - A platform that provides a database of open-source software vulnerabilities and their associated patches and fixes.
+- [Overcast Security](https://www.overcast-security.com/) - A cybersecurity company that provides a cloud-based vulnerability scanning and management platform for businesses.
+- [Payloads All The Things](https://swisskyrepo.github.io/PayloadsAllTheThingsWeb/) - A community-driven repository of payloads and bypasses for various security testing and hacking scenarios.
+- [Phonebook.cz](https://phonebook.cz/) - A web-based phone book and contact directory for people and businesses in the Czech Republic.
+- [HotExamples](https://hotexamples.com/) - A platform that provides code examples and snippets for various programming languages and frameworks.
+- [PolySwarm](https://polyswarm.network/) - A decentralized marketplace for threat intelligence and malware analysis, powered by blockchain technology.
+- [Projectdiscovery.io | Chaos](https://chaos.projectdiscovery.io/#/) - A platform that provides automated scanning and discovery of subdomains and other web assets using various open-source tools and technologies.
+- [RapidDNS](https://rapiddns.io/) - A web-based tool for quickly and easily resolving domain names and IP addresses and performing other DNS-related tasks.
+- [Reacher](https://reacher.email/) - An email verification and validation tool that allows users to verify the existence and deliverability of email addresses.
+- [reddit](https://new.reddit.com/) - A popular social news aggregation and discussion website.
+- [Reports](https://tria.ge/s) - A platform that provides threat intelligence and analysis on cyber attacks and other security incidents, powered by crowdsourcing and machine learning.
+- [Rescure](https://rescure.me/) - A platform that provides an emergency response and tracking service for people in distress or danger.
+- [NumLookup](https://www.numlookup.com/) - A reverse phone lookup service that allows users to identify and verify phone numbers and their associated information.
+- [See cached version of website](https://stored.website/) - A tool that allows users to view cached versions of websites and pages that may have been removed or changed.
+- [Snusbase Database Search Engine](https://snusbase.com/) - A search engine that provides access to various public and private databases and leaks containing sensitive information.
+- [Snyk](https://security.snyk.io/) - A cloud-based platform that provides automated security testing and monitoring for software applications and development teams.
+- [SSLBL | Detecting malicious SSL connections](https://sslbl.abuse.ch/) - A project that provides a real-time database of malicious SSL/TLS connections and certificates used in cyber attacks and other malicious activities.
+- [SSLBL | Malicious SSL Certificates](https://sslbl.abuse.ch/ssl-certificates) - A database that provides information on malicious SSL certificates, including their hashes and other identifying information.
+- [Subdomain Finder - C99.nl](https://subdomainfinder.c99.nl/) - A web-based tool that allows users to quickly and easily discover subdomains for a given domain name.
+- [ThreatFox - Browse](https://threatfox.abuse.ch/browse) - A platform that provides a database of known malware and threat indicators, including IP addresses, domains, and URLs associated with cyber attacks and other malicious activities.
+- [ThreatFox - Share Indicators Of Compromise (IOCs)](https://threatfox.abuse.ch/) - A platform that allows users to submit and share indicators of compromise (IOCs) associated with cyber attacks and other malicious activities.
+- [UKWA Home](https://www.webarchive.org.uk/ukwa) - The official website of the UK Web Archive, a collaborative project to preserve and provide access to websites and online content related to the UK and its history.
+- [urlquery.net - Automated URL Scanner](https://urlquery.net/) - A web-based tool that allows users to scan URLs and web pages for signs of malicious activity and other security threats.
+- [VulDB](https://vuldb.com/) - A database of known vulnerabilities and exploits for various software applications, systems, and devices.
+- [Vulnerabilities (CVE) - OpenCVE](https://www.opencve.io/cve) - A platform that provides information on known Common Vulnerabilities and Exposures (CVEs), including their descriptions, severity ratings, and affected systems and software.
+- [Vulnerability Database | Aqua Security](https://avd.aquasec.com/) - A cloud-based platform that provides real-time information on known vulnerabilities and threats to various software applications and systems.
+- [Vulners - Vulnerability DataBase](https://vulners.com/) - A database that provides information on known vulnerabilities and exploits for various software applications, systems, and devices, as well as related threat intelligence and security tools.
+- [vx-underground](https://www.vx-underground.org/) - A community-driven repository of malware samples and other threat intelligence, as well as related research and analysis.
+- [We map the deep structure of the web.](https://netograph.io/) - A platform that provides real-time mapping and analysis of the deep web, including hidden services, marketplaces, and other hard-to-find online content.
+- [Reverse Phone Lookup](https://www.reversephonelookup.com/) - A web-based tool that allows users to identify and verify phone numbers and their associated information, including owners, locations, and carriers.
+- [Who.is](https://who.is/) - A web-based tool that provides information on domain names and their owners, including their registration and contact details.
+- [YARAify - YARA Scan Engine](https://yaraify.abuse.ch/) - A platform that provides real-time scanning and analysis of files and other content using YARA rules and other threat intelligence. 
+- [FOFA](https://fofa.info/) - A web-based search engine that allows users to search for and discover various online assets, including domains, IP addresses, web applications, and more.
+
+## Blog
+
+- [Blog Search](https://www.blog-search.com/) - A blog search engine that allows users to search for blogs based on keywords.
+- [Blog Search Engine](https://www.blogsearchengine.com/) - A blog search engine that provides access to blogs from around the world.
+- [Blogarama](https://www.blogarama.com/) - A blog directory that allows users to search for blogs by category or by keyword.
+- [Blogging Fusion](https://www.bloggingfusion.com/) - A blog directory that allows users to search for blogs by category or by keyword.
+- [Blogs Botw](https://botw.org/) - A web directory that includes a section for blogs, allowing users to search for blogs by category.
+- [DeepBlog.com](http://deepblog.com/index.html) - A search engine that allows users to search for blogs based on keywords.
+- [Medium](https://medium.com/search?q=%25s&ref=opensearch) - A publishing platform where users can read and write stories, and search for stories and authors based on keywords.
+- [OSINT Blogs Search Engine](https://cse.google.com/cse?cx=fd4729049350a76d0) - A custom search engine that searches for blogs focused on open-source intelligence (OSINT).
+- [Search](http://www.blogster.com/search) - A search engine that allows users to search for blogs based on keywords.
+- [Twingly](https://www.twingly.com/) - A blog search engine that provides access to blogs from around the world.
+- [Twingly](https://www.twingly.com/blogs-api) - A service that provides access to Twingly's blog data through an API.
+- [WordPress Content Snatcher](https://cse.google.com/cse?cx=011081986282915606282%3Aw8bndhohpi0) - A custom search engine that searches for WordPress blogs based on keywords.
+- [World Blogs](https://www.worldpress.org/blogs.htm) - A blog directory that allows users to search for blogs by country and by category.
+- [www.blogdigger.com/](https://blogdigger.com/) - A blog search engine that allows users to search for blogs based on keywords.
+
+## C0D3BL0CK Custom Search Engines
+
+- [Google Hack Attack](https://cse.google.com/cse?cx=017648920863780530960%3Alddgpbzqgoi) - A custom search engine that allows users to search for advanced Google search queries, also known as Google dorks. This search engine is useful for finding specific types of information on the web, such as vulnerable websites, exposed servers, and confidential documents.
+- [Advanced Bing Search Options](https://help.bing.microsoft.com/#apex/18/en-us/10002/0) - A guide to advanced search features on the Bing search engine. This guide explains how to refine search results by date, location, language, and other criteria.
+- [BinGoo](https://github.com/Hood3dRob1n/BinGoo) - A tool that allows users to perform automated Google and Bing searches using advanced search queries. This tool is useful for finding specific types of information on the web, such as exposed databases, sensitive files, and vulnerable web applications.
+- [Chrome Extension Archive Search Engine](https://cse.google.com/cse?cx=000501358716561852263%3Ah-5uyshsclq) - A custom search engine that allows users to search for Chrome browser extensions in the Chrome Web Store. This search engine is useful for finding new extensions that provide specific functionalities or solving particular problems.
+- [CSE Utopia](https://start.me/p/EL84Km/cse-utopia) - A collection of custom search engines for finding information on various topics, such as programming, social media, news, and entertainment.
+- [Custom Search | Google Developers](https://developers.google.com/custom-search) - A tool provided by Google that allows users to create custom search engines for their websites or applications. This tool is useful for developers who want to provide customized search experiences for their users.
+- [Deep Web](https://cse.google.com/cse?cx=009679435902400177945%3Aqb5l2oulqhg) - A custom search engine that allows users to search for content on the deep web, which is not indexed by traditional search engines. This search engine is useful for finding content that is not available on the surface web, such as academic research papers, government reports, and private databases.
+- [Document Finder](https://cse.google.com/cse?cx=009679435902400177945%3Awhgvsi86pmo) - A custom search engine that allows users to search for specific types of documents, such as PDFs, Excel spreadsheets, and PowerPoint presentations.
+- [Dog Bites Search Engine](https://cse.google.com/cse?cx=partner-pub-8216357153102971%3A3267723418) - A custom search engine that allows users to search for dog-related content, such as breeds, health issues, training tips, and product reviews.
+- [Dorks for Intelligence X and Google](https://intelx.io/dorks) - A collection of advanced search queries, also known as Google dorks, for finding information on the web using the Intelligence X search engine and Google search engine. This collection is useful for finding specific types of information, such as exposed databases, leaked documents, and compromised credentials.
+- [GEOSINTsearch](https://cse.google.com/cse?cx=015328649639895072395%3Asbv3zyxzmji) - A custom search engine that allows users to search for geospatial intelligence content, such as satellite imagery, maps, and geospatial analysis tools.
+- [Github with Awesome-List Search Engine](https://cse.google.com/cse?cx=017261104271573007538%3Afqn_jyftcdq) - A search engine for finding curated lists of resources on GitHub.
+- [Gizoogle](http://www.gizoogle.net/) - A search engine that transforms text into "gangsta" style language.
+- [Google CSE instances Search Engine](https://cse.google.com/cse?cx=009462381166450434430%3Avggeu3dhhgg#gsc.tab=0) - A search engine for custom Google Custom Search Engines.
+- [Google Domain Hacker](https://cse.google.com/cse?cx=005797772976587943970%3Aca2hiy6hmri) - A search engine for generating domain name ideas.
+- [Google Dorking](https://www.google-dorking.com/) - A technique of using advanced search operators to find sensitive information on the web.
+- [Google Dorks - Cybrary](https://www.cybrary.it/blog/0p3n/google-dorks-easy-way-of-hacking/) - A blog post on how to use Google dorks for hacking.
+- [Google Dorks List 2019 / 2020](https://gbhackers.com/latest-google-dorks-list/) - A list of Google dorks for finding sensitive information.
+- [Google Drive Folder Search Engine](https://cse.google.com/cse?cx=013991603413798772546%3Anwzqlcysx_w) - A search engine for finding public Google Drive folders.
+- [Google hacking / google dorking](https://en.wikipedia.org/wiki/Google_hacking) - A Wikipedia article explaining the technique of Google dorking.
+- [Google Hacking Database (GHDB)](https://www.exploit-db.com/google-hacking-database) - A collection of Google dorks for finding security vulnerabilities.
+- [Leet - Paste Skimmer](https://sites.google.com/view/l33tech/tools/pasteskimmer) - A tool for scraping and searching through pastes on various websites.
+- [Linkedin Contact Extractor](https://cse.google.com/cse?cx=001394533911082033616%3Atm5y1wqwmme) - A search engine for extracting contacts from LinkedIn.
+- [Linkedin CSE](https://cse.google.com/cse?cx=001394533911082033616%3Aeijeouh5qpa) - A search engine for finding content on LinkedIn.
+- [Linkedin People Finder](https://cse.google.com/cse?cx=009679435902400177945%3Ac__vbhhkuom) - A search engine for finding people on LinkedIn.
+- [List XLS PDF](https://cse.google.com/cse?cx=001394533911082033616%3Aubweltd6dqy) - A search engine for finding lists in XLS and PDF formats.
+- [Obsidian Search Engine](https://cse.google.com/cse?cx=e1cb686ddc9bb4236#gsc.tab=0) - A search engine for finding information on the Obsidian.md knowledge management software.
+- [Pasted tekst](https://cse.google.com/cse?cx=013991603413798772546%3Anxs552dhq8k) - A search engine for finding text that has been pasted on various websites.
+- [Programmable Search - All search engines](https://accounts.google.com/v3/signin/identifier?dsh=S-469637132%3A1668003243362513&continue=https%3A%2F%2Fprogrammablesearchengine.google.com%2Fcontrolpanel%2Fall&followup=https%3A%2F%2Fprogrammablesearchengine.google.com%2Fcontrolpanel%2Fall&passive=1209600&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=ARgdvAumAKtnOff-5Q6Hk532m6_XgHp_W0M-h38g9bQKGm-FE8QP5JMwp-YwHtXISn5sYB0GVLOyZQ) - A search engine for custom Google Custom Search Engines.
+- [Programmable Search - Congratulations!](https://accounts.google.com/v3/signin/identifier?dsh=S-1190613080%3A1668003243293254&continue=https%3A%2F%2Fcse.google.com%2Fcse%2Fcreate%2Fcongrats%3Fcx%3D87fbaa5440fa3e4dd&gl=us&hl=en&passive=true&service=cprose&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=ARgdvAsXM5f-04fap2IIvAeFS7rTH-yxxyx-pWsJS7TEC0bF-S1IcgX6VCGYphR7KRetJANwEs-xtA) - A page that displays when you successfully create a Google Custom Search Engine.
+- [Programmable Search - Create search engine](https://accounts.google.com/v3/signin/identifier?dsh=S-234107800%3A1668003243409514&continue=https%3A%2F%2Fprogrammablesearchengine.google.com%2Fcontrolpanel%2Fcreate&followup=https%3A%2F%2Fprogrammablesearchengine.google.com%2Fcontrolpanel%2Fcreate&passive=1209600&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=ARgdvAsassEg6uKuEm5evftBoenLJefPSXhezDXa2j_YJPwIEMpaiayCcpWX2uVh127aSk4WX0NXMA) - A page where you can create a Google Custom Search Engine.
+- [Recruiters and Sourcers](https://cse.google.com/cse?cx=009462381166450434430%3A1w9uqgljuvq) - A search engine for finding candidates and sourcing talent.
+- [Reddit](https://cse.google.com/cse?cx=017261104271573007538%3Abbzhlah6n4o) - A search engine for finding content on the Reddit website.
+- [Refine web searches](https://support.google.com/websearch/answer/2466433?hl=en) - A support page from Google that explains how to refine web searches.
+- [Robots.txt Search Engine](https://cse.google.com/cse?cx=013991603413798772546%3Azu7epjqvunu) - A search engine for finding robots.txt files on websites.
+- [a-FMHY-search-engine](https://github.com/Rust1667/a-FMHY-search-engine) - An open-source search engine that allows users to search for information on various websites.
+- [Search Engine Finder](https://cse.google.com/cse?cx=016621447308871563343%3Anyvaorurd5l) - A search engine for finding other search engines.
+- [Sourcego.blogspot.com several CSEs 5/22/20](https://sourcego.blogspot.com/) - A blog post that provides several Google Custom Search Engines for finding information on various topics.
+- [uDork - Google Hacking Tool](https://hakin9.org/udork-google-hacking-tool/) - A tool that allows users to perform advanced Google searches to find sensitive information.
+- [Useful Google dorks](https://gist.github.com/stevenswafford/393c6ec7b5375d5e8cdc) - A list of useful Google dorks for finding sensitive information.
+
+
+## Code & Dev & Tech
+
+- [Hoogle -](https://hoogle.haskell.org/?hoogle=%25s) Hoogle is a Haskell search engine that allows you to search for functions and libraries by name, type signature, or even by example. It's a useful tool for Haskell developers who are looking for specific functions or libraries to use in their code.
+- [Arsturn -](https://www.arsturn.com/) Arsturn is a website that provides a variety of online tools for developers, including a code editor, a regular expression tester, and a JSON formatter. It's a useful resource for developers who need quick access to these tools without having to download anything.
+- [Code Snippets -](https://snipplr.com/) Code Snippets is a website that provides a collection of code snippets in various programming languages, including HTML, CSS, JavaScript, PHP, and more. It's a useful resource for developers who are looking for specific code snippets to use in their projects.
+- [CODE WITH THE FLOW -](https://cse.google.com/cse?cx=013991603413798772546%3Agejhsvqignk) CODE WITH THE FLOW is a custom search engine that allows you to search for code-related content from various sources, including Stack Overflow, GitHub, and more. It's a useful tool for developers who want to search for code-related content across multiple platforms.
+- [Code.woboq.org -](https://codebrowser.dev/) Code.woboq.org is a website that provides an interactive code browser for C and C++ code. It allows you to browse code and see its structure and dependencies in a visual way. It's a useful tool for developers who are working with large codebases and need to understand their structure.
+- [Codefinder.org -](https://codefinder.org/) Codefinder.org is a search engine for open-source code. It allows you to search for code across various platforms, including GitHub, Bitbucket, and more. It's a useful resource for developers who are looking for open-source code to use in their projects.
+- [codesearch.debian.net -](https://codesearch.debian.net/) codesearch.debian.net is a search engine for code in Debian packages. It allows you to search for code in various programming languages that are included in Debian packages. It's a useful resource for developers who are working with Debian packages and need to find specific code.
+- [Cs.android.com -](https://cs.android.com/) Cs.android.com is a website that provides the source code for the Android Open Source Project. It allows you to browse and search the codebase for Android and its various components. It's a useful resource for developers who are working with Android and need to understand its source code.
+- [Cs.opensource.google/bazel -](https://cs.opensource.google/bazel) Cs.opensource.google/bazel is a website that provides the source code for the Bazel build system. It allows you to browse and search the codebase for Bazel and its various components. It's a useful resource for developers who are working with Bazel and need to understand its source code.
+- [CSE Codeforces -](https://cse.google.com/cse?cx=017177223831066255531%3Aj3hjrl7vxgs&q=+) CSE Codeforces is a custom search engine that allows you to search for content related to Codeforces, a competitive programming platform. It's a useful tool for competitive programmers who are looking for specific content related to Codeforces.
+- [CSE Developers + -](https://hiddenresumes.com/custom-searches/) CSE Developers + is a custom search engine that allows you to search for content related to programming and development across various platforms, including GitHub, Stack
+- [CSE Livecode Search -](https://cse.google.com/cse?cx=002762050828011275793%3A09mnfq5cmmy) CSE Livecode Search is a custom search engine that allows you to search for content related to LiveCode, an open-source rapid application development platform. It's a useful tool for developers who are looking for specific content related to LiveCode.
+- [CSE Mobile Game Producers -](https://cse.google.com/cse?cx=009305272063906253811%3Ahkoxufbb8vy) CSE Mobile Game Producers is a custom search engine that allows you to search for content related to mobile game development. It's a useful tool for developers who are looking for specific content related to mobile game development.
+- [CSE ReadWriteWeb Open Data search engine -](https://cse.google.com/cse?cx=000893276566003557773%3Ayvkihl-ixyk) CSE ReadWriteWeb Open Data search engine is a custom search engine that allows you to search for open data resources. It's a useful tool for developers who are looking for open data resources to use in their projects.
+- [CSE schema.org dev community -](https://cse.google.com/cse?cx=003736913799082383568%3Ac44bi0_xxek) CSE schema.org dev community is a custom search engine that allows you to search for content related to schema.org, a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet. It's a useful tool for developers who are looking for specific content related to schema.org.
+- [CSE SearchDotNet Developers Search Engine -](https://cse.google.com/cse?cx=002213837942349435108%3Ajki1okx03jq) CSE SearchDotNet Developers Search Engine is a custom search engine that allows you to search for content related to .NET development. It's a useful tool for developers who are looking for specific content related to .NET development.
+- [CSE Stack Exchange -](https://cse.google.com/cse?cx=017177223831066255531%3Ahvat4hdnvvy) CSE Stack Exchange is a custom search engine that allows you to search for content on the Stack Exchange network, which includes sites such as Stack Overflow, Super User, and more. It's a useful tool for developers who are looking for specific content on the Stack Exchange network.
+- [Custom Search Engine HTAccess -](https://cse.google.com/cse?cx=002660089121042511758%3Akk7rwc2gx0i) Custom Search Engine HTAccess is a custom search engine that allows you to search for content related to the HTAccess file. It's a useful tool for developers who are looking for specific content related to HTAccess.
+- [Developer CSE -](https://cse.google.com/cse?cx=003397785032979619197%3Aqmbl_n5_etq) Developer CSE is a custom search engine that allows you to search for content related to programming and development across various platforms, including GitHub, Stack Overflow, and more. It's a useful tool for developers who want to search for programming and development content across multiple platforms.
+- [Ember Observer -](https://emberobserver.com/code-search) Ember Observer is a website that provides a code search tool for Ember.js addons. It allows you to search for addons by name, description, or even by functionality. It's a useful tool for Ember.js developers who are looking for specific addons to use in their projects.
+- [explainshell.com -](https://explainshell.com/explain?cmd=%25s) explainshell.com is a website that allows you to enter a shell command and see a breakdown of what each part of the command does. It's a useful tool for developers who are learning shell commands or who need help understanding a complex shell command.
+- [freecodecamp.org CSE 9/1/19 -](https://cse.google.com/cse?cx=000905274576528531678%3Ahelqyahxtuz) freecodecamp.org CSE 9/1/19 is a custom search engine that allows you to search for content on freecodecamp.org, a nonprofit organization that provides free coding education to people around the world. It's a useful tool for developers who are looking for specific content on freecodecamp.org.
+- [git-hound -](https://github.com/tillson/git-hound) git-hound is a tool that searches a git repository for secrets and other sensitive information. It's a useful tool for developers who want to ensure that their codebase doesn't contain any sensitive information before publishing it.
+- [GitDorker -](https://github.com/obheda12/GitDorker) GitDorker is a tool that searches GitHub for sensitive information and other security vulnerabilities. It's a useful tool for developers who want to ensure that their GitHub repositories don't contain any sensitive information or security vulnerabilities.
+- [GitHub -](https://gist.github.com/search?q=%25s&ref=opensearch) GitHub is a website that provides a code hosting platform for version control and collaboration. It allows developers to host their code repositories and collaborate with others on their code. The link provided allows you to search for code snippets and gists on GitHub.
+- [Github Search + -](https://cse.google.com/cse?cx=017177223831066255531%3Abinmqbueqr4&q=+) Github Search + is a custom search engine that allows you to search for content on GitHub, including repositories, issues, pull requests, and more. It's a useful tool for developers who want to search for specific content on GitHub.
+- [GitHub Search Engine -](https://cse.google.com/cse?cx=1b053c8ec746d6611) GitHub Search Engine is a custom search engine that allows you to search for content on GitHub, including code, issues, pull requests, and more. It's a useful tool for developers who want to search for specific content on GitHub.
+- [Google Code -](https://code.google.com/) Google Code is a website that provides a code hosting platform for version control and collaboration. It allows developers to host their code repositories and collaborate with others on their code. However, it was closed in 2016 and is no longer active.
+- [Google Custom Search Android Stuff -](https://cse.google.com/cse?cx=004085571554339270840%3Ah0dcfprkwsc) Google Custom Search Android Stuff is a custom search engine that allows you to search for content related to Android development. It's a useful tool for developers who are looking for specific content related to Android development.
+- [Google Custom Search App Stores Search Engine -](https://cse.google.com/cse?cx=006205189065513216365%3Aaqogom-kfne) Google Custom Search App Stores Search Engine is a custom search engine that allows you to search for mobile apps across various app stores, including the Google Play Store and the Apple App Store. It's a useful tool for mobile app developers who want to search for similar apps or check if their app name is already taken.
+- [Google Custom Search AWS/Dropbox/Azure Cloud + -](https://cse.google.com/cse?cx=002972716746423218710%3Aveac6ui3rio) Google Custom Search AWS/Dropbox/Azure Cloud + is a custom search engine that allows you to search for content related to cloud computing, specifically on Amazon Web Services, Dropbox, and Microsoft Azure. It's a useful tool for developers who are looking for specific content related to these cloud platforms.
+- [Google Custom Search C++ Search -](https://cse.google.com/cse?cx=000872085005376217422%3Als3uha-lskw) Google Custom Search C++ Search is a custom search engine that allows you to search for content related to C++ programming language. It's a useful tool for developers who are looking for specific content related to C++ programming language.
+- [Google Custom Search channel9.msdn -](https://cse.google.com/cse?cx=014414512506709758688%3Alw8tquo75fu) Google Custom Search channel9.msdn is a custom search engine that allows you to search for content related to Microsoft's Channel 9 platform, which provides videos and other content for developers. It's a useful tool for developers who are looking for specific content on Channel 9.
+- [Google Custom Search Dev -](https://cse.google.com/cse?cx=009828010126686317309%3A34dln55a5g4) Google Custom Search Dev is a custom search engine that allows you to search for content related to software development, including programming languages, libraries, and frameworks. It's a useful tool for developers who want to search for programming and development content across multiple platforms.
+- [Google Custom Search Developer -](https://cse.google.com/cse?cx=007221746090449490499%3Aliubjduev9o) Google Custom Search Developer is a custom search engine that allows you to search for content related to software development, including programming languages, libraries, and frameworks. It's a useful tool for developers who want to search for programming and development content across multiple platforms.
+- [Google Custom Search Development -](https://cse.google.com/cse?cx=010294177795457125149%3Aa6n-6zpsvz8) Google Custom Search Development is a custom search engine that allows you to search for content related to software development, including programming languages, libraries, and frameworks. It's a useful tool for developers who want to search for programming and development content across multiple platforms.
+- [Google Custom Search Development and Coding Search -](https://cse.google.com/cse?cx=005154715738920500810%3Afmizctlroiw) Google Custom Search Development and Coding Search is a custom search engine that allows you to search for content related to software development, including programming languages, libraries, and frameworks. It's a useful tool for developers who want to search for programming and development content across multiple platforms.
+- [Google Custom Search FolgerTech 2020 Custom Search Engine -](https://cse.google.com/cse?cx=001956934792321444063%3Akptybhr31yy) Google Custom Search FolgerTech 2020 Custom Search Engine is a custom search engine that allows you to search for content related to 3D printing and CNC machining. It's a useful tool for makers who want to search for specific content related to these topics.
+- [Google Custom Search Google Developers Official -](https://cse.google.com/cse?cx=005326727925058575645%3Au2hfjb_gpuk) Google Custom Search Google Developers Official is a custom search engine that allows you to search for content related to Google's development tools and platforms, including Android, Chrome, and Firebase. It's a useful tool for developers who are looking for specific content related to Google's development tools and platforms.
+- [Google Custom Search Google Operating System Blog Search: -](https://cse.google.com/cse?cx=003884673279755833555%3A2nd1kupam-s) Google Custom Search Google Operating System Blog Search is a custom search engine that allows you to search for content related to Google's operating system and software, including Chrome OS, Android, and Google apps. It's a useful tool for users and developers who are looking for specific content related to Google's operating system and software.
+- [Google Custom Search Hacker News Search -](https://cse.google.com/cse?cx=000604492950510474204%3Anla4hxmojqu) Google Custom Search Hacker News Search is a custom search engine that allows you to search for content on Hacker News, a social news website focused on computer science and entrepreneurship. It's a useful tool for developers who want to keep up with the latest news and discussions in the tech industry.
+- [Google Custom Search Internet Engineering Task Force -](https://cse.google.com/cse?cx=006728497408158459967%3Aybxjdw-bjjw) Google Custom Search Internet Engineering Task Force is a custom search engine that allows you to search for content related to internet engineering and standards. It's a useful tool for developers who are looking for specific content related to internet standards and protocols.
+- [Google Custom Search JAVA -](https://cse.google.com/cse?client=pub-8324125911897442&cof=GFNT%3A%23996699%3BGALT%3A%233333CC%3BLH%3A43%3BCX%3AJava%3BVLC%3A%23FF0000%3BDIV%3A%23996699%3BFORID%3A1%3BT%3A%23333399%3BALC%3A%23996699%3BLC%3A%23996699%3BL%3Ahttp%3A%2F%2Fjava.sun.com%2Fimages%2Fgetjava_med.gif%3BGIMP%3A%23996699%3BLP%3A1%3BBGC%3A%23FFFFFF%3BAH%3Aleft&cx=005506632761844726871%3Asmfqscqavok&sa=Search) Google Custom Search JAVA is a custom search engine that allows you to search for content related to the Java programming language. It's a useful tool for developers who are looking for specific solutions or tutorials related to Java programming.
+- [Google Custom Search Microsoft MSDN -](https://cse.google.com/cse?cx=001706605492879182808%3Ayra97xpb_7y) Google Custom Search Microsoft MSDN is a custom search engine that allows you to search for content related to Microsoft technologies and products, including .NET, Windows, and Azure. It's a useful tool for developers who are working with Microsoft technologies and want to find specific documentation or solutions related to their work.
+- [Google Custom Search Open Source -](https://cse.google.com/cse?cx=007950368875930262986%3Avwrqfjvw_u4&hl=en) Google Custom Search Open Source is a custom search engine that allows you to search for open-source software and related documentation. It's a useful tool for developers who are looking for specific open-source solutions or want to contribute to open-source projects.
+- [Google Custom Search Paste Bin -](https://cse.google.com/cse?cx=000905274576528531678%3Azdstbilawf0) Google Custom Search Paste Bin is a custom search engine that allows you to search for content on Pastebin, a popular website for sharing code snippets and text. It's a useful tool for developers who are looking for specific code snippets or want to share their own code snippets.
+- [Google Custom Search The Invisible Internet Project](https://cse.google.com/cse?cx=013791148858571516042%3Aadxvhgecf4m&hl=en)
+- [Google Custom Search Twisted Matrix Java](https://cse.google.com/cse?cx=000092903031650492802%3Awmoqkjvon0i)
+- [Google Custom Search Uboontu Search](https://cse.google.com/cse?cx=002072379199720138921%3A9m-bgfzutzq)
+- [Google Custom Search Xda-developers search engine](https://cse.google.com/cse?cx=000825531964825142534%3Acqr2sjirilw)
+- [Google to search profiles on GitHub](https://recruitin.net/github.php)
+- [Grepp.App](https://grep.app/)
+- [Human verification](https://stackoverflow.com/nocaptcha?s=87655f74-bf27-4f7b-80e6-be0505c0be2b)
+- [Krugle](https://www.krugle.com/)
+- [Merobase.com](https://merobase.com/)
+- [mtopping/obsidian-raindrop: This plugin allows for basic integration with Raindrop.io, a bookmarking service and Obsidian.](https://github.com/mtopping/obsidian-raindrop)
+- [NerdyData](https://www.nerdydata.com/)
+- [Paste Search](https://psbdmp.ws/)
+- [Pastes Search Engine](https://cse.google.com/cse?cx=661713d0371832a02)
+- [Pastes Search Engine 2](https://cse.google.com/cse?cx=006896442834264595052%3Afawrl1rug9e)
+- [Posts containing s](https://skeptics.stackexchange.com/search?q=%25s)
+- [Programmable Search Engine](https://cse.google.com/cse?cx=000905274576528531678%3Aczs5xrlwb3m)
+- [ProgrammableWeb](https://www.programmableweb.com/)
+- [PublicWWW.com - Search Engine for Source Code](https://publicwww.com/)
+- [Raw Git Hacker](https://cse.google.com/cse?cx=007791543817084091905%3Avmwkk8ksx9k)
+- [Reference Source](https://referencesource.microsoft.com/)
+- [Scala Code Examples Search](https://www.programcreek.com/scala/)
+- [Searchcode | Source Code Search Engine](https://searchcode.com/)
+- [Shhgit](https://github.com/eth0izzle/shhgit)
+- [Software Code CSE](https://cse.google.com/cse?cx=009462381166450434430%3A4pw19akdthg)
+- [Source.chromium.org/chromium](https://source.chromium.org/chromium)
+- [Sourcegraph](https://about.sourcegraph.com/)
+- [Stackoverflow CSE](https://cse.google.com/cse?cx=partner-pub-7396620608505330%3Axjbbr6-w0cu)
+- [Techq.com](https://techq.com/)
+- [The Code Chaser](https://cse.google.com/cse?cx=013991603413798772546%3Axbbb31a0ecw)
+- [Welcome to Codota!](https://www.tabnine.com/code)
+
+## Custom-Search-Engines
+
+- [adsecurity.org](https://adsecurity.org/?s=%25s)
+- [Amazon](https://www.amazon.com/s/ref=nb_sb_noss?field-keywords=%25s&url=search-alias%3Daps&x=0&y=0)
+- [Any.Run File hash](https://app.any.run/submissions/#filehash:Markster)
+- [CENSYS](https://search.censys.io/search?resource=hosts)
+- [community.fireeye.com](https://community.fireeye.com/s/search?terms=%25s)
+- [Docker Hub Image](https://hub.docker.com/search?q=%25s&type=image)
+- [docs.sekoia.io](https://docs.sekoia.io/search.html?q=%25s)
+- [Google News](https://news.google.com/search?ceid=US%3Aen&gl=US&hl=en-US&q=%25s)
+- [Google Translate English to French](https://translate.google.com/#en%7Cfr%7C%s%0A)
+- [GreyNoise IP](https://viz.greynoise.io/query?gnql=ip%3A%25s)
+- [Humble Bundle](https://www.humblebundle.com/store/search?hmb_campaign=opensearch&hmb_medium=opensearch&hmb_source=opensearch&search=%25s)
+- [joesandbox.com](https://www.joesandbox.com/search?q=%25s)
+- [Kitploit](https://www.kitploit.com/search/max-results=7?q=%25s)
+- [Linguee English to French](https://www.linguee.fr/anglais-francais/search?query=%25s&source=auto)
+- [LinkedIn](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fall%3Fkeywords%3D%2525s%26origin%3DGLOBAL_SEARCH_HEADER&trk=login_reg_redirect)
+- [Office 365 Security & Compliance - ATP Alert](https://login.microsoftonline.com/common/oauth2/authorize?client_id=80ccca67-54bd-44ab-8625-4b79c4dc7775&response_type=code%20id_token&scope=openid%20profile&state=OpenIdConnect.AuthenticationProperties%3DY7gesPS4B0bozXEzXeCIVgr5djpcu36945L9FdbUmNB9e5u3UsvqyaP5f1gWFLEoW4X2MBYnGFA7S739pvKlrDtYvPnjRC24ge2j18R6sbVgFUeDrSIQSrl79-cnuLYNXET5V2qUrOiHob5wMmNcjE_HokPQuBOp2z963QcHgEk&response_mode=form_post&nonce=638036000527043025.ZGQ3NGQ1ZTItNWFlZS00OTJjLTgxMGQtNDU5NmFhMDFhNThiOThkNDc4YjctOWM0Ni00ZWI1LWEyOWYtMGM1ZjI3NDZkOTAy&client-request-id=726783a7-39d9-4433-a378-5ee1e7834802&redirect_uri=https%3A%2F%2Fprotection.office.com%2F&x-client-SKU=ID_NET461&x-client-ver=6.22.1.0)
+- [Port Lookup](https://www.speedguide.net/port.php?port=%25s)
+- [Shodan](https://www.shodan.io/search?query=%25s)
+- [URLScan.io General](https://urlscan.io/search#%s)
+- [VirusTotal](https://www.virustotal.com/gui/#/search/Markster)
+- [whois.domaintools.com](https://whois.domaintools.com/s.com)
+- [Wikip√©dia (fr)](https://fr.wikipedia.org/w/index.php?search=%25s&title=Sp%C3%A9cial%3ARecherche&ns0=1)
+- [Wikipedia (en)](https://en.wikipedia.org/wiki/%25s)
+- [Windows Security Log Events](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/)
+- [Wolfram Alpha](https://www.wolframalpha.com/input?i=%25s)
+- [ZoomEye](https://www.zoomeye.org/searchResult?q=%25s)
+
+## CV and Resume Search
+
+- [Bayt](https://www.bayt.com/)
+- [Hiring.careerbuilder.com](https://hiring.careerbuilder.com/)
+- [Indeed](https://www.indeed.com/m/)
+- [MightyRecruiter](https://www.mightyrecruiter.com/)
+- [Monster - Hiring](https://hiring.monster.com/)
+- [Search Resumes Free](https://www.jobvertise.com/resumes/search)
+- [ZipRecruiter](https://www.ziprecruiter.com/)
+
+## Decentralised Search Engines
+
+- [Almonit.eth.link](https://almonit.eth.link/)
+- [Susper.com](https://susper.com/)
+
+## Direct Download
+
+- [dedigger](https://www.dedigger.com/#gsc.tab=0)
+- [Filepursuit.com](https://filepursuit.com/)
+- [Filesearch.link](https://filesearch.link/)
+- [Zippyshare Search and Download](https://zippysharesearch.com/)
+
+## Documents
+
+- [Cryptome Custom](https://www.google.com/search?q=site%3Acryptome.org+%22name%22)
+- [CSE Document Search](https://cse.google.com/cse?cx=001394533911082033616%3Afuzzaqxt_m0)
+- [CSE Document Search by format](https://cse.google.co.uk/cse?cof=CX%3ADocuments%2520-%2520Formats%3B&cx=009462381166450434430%3Anudphlkt3p4&ei=TgKvWJLJCamUgAaP1Y2IBA#=100)
+- [CSE Filetype](https://cse.google.com/cse?cx=000282908376521554675%3Au17b76ejebe)
+- [CSE gutenberg Free Ebooks](https://cse.google.com/cse?cx=018092787084840399530%3Ahym7amfffto)
+- [CSE PDF Search](https://cse.google.com/cse?cx=001428116054185302584%3Azkwyutgabn0)
+- [CSE PubMed CSE by GH](https://cse.google.com/cse?cx=001394533911082033616%3Ahb6fz4kptg8)
+- [CSE Web Based Document Hosting](https://cse.google.com/cse?cx=009305272063906253811%3Agrhk5kfzv3a)
+- [Document by Format CSE](https://cse.google.com/cse?cx=009462381166450434430%3Anudphlkt3p4)
+- [Ebooks | ebooks6.com](https://ebooks6.com/)
+- [Google Custom Search](https://cse.google.com/cse?cx=001580308195336108602%3Ahx9tv6r_od4)
+- [Google Custom Search 4archive.org](https://cse.google.com/cse?cx=+017289221794755012486%3Aunlt0f39uxg)
+- [Google Custom Search Books & Publications](https://cse.google.com/cse?cx=000661023013169144559%3Aa1-kkiboeco)
+- [Google Custom Search DCox theWord Sites](https://cse.google.com/cse?cx=001792384477095493274%3Ajevstkzzedu)
+- [Google Custom Search DirectMail.com Mailing Lists](https://cse.google.com/cse?cx=001920996721159070519%3A8ftyjhggvus)
+- [Google Custom Search DivShare School Docs](https://cse.google.com/cse?cx=017486593862980384588%3Awyw7npm1de4)
+- [Google Custom Search Doc Search](https://cse.google.com/cse?cx=partner-pub-3515348084564366%3A4202656657)
+- [Google Custom Search Docs And Publications](https://cse.google.com/cse?cx=007843865286850066037%3A3ajwn2jlweq)
+- [Google Custom Search Docs Search](https://cse.google.com/cse?cx=002687040058168385213%3Afybyovrsimq)
+- [Google Custom Search docs.openhab.org](https://cse.google.com/cse?cx=003707250976775348452%3Ah9hxadbatfq)
+- [Google Custom Search Document Archieve](https://cse.google.com.au/cse?cx=partner-pub-2060328396151526%3Aea9sar-xttn)
+- [Google Custom Search Excel](https://cse.google.com/cse?cx=003792548944738135704%3Aadsi4suki70)
+- [Google Custom Search ExcelUser.com Search Engine](https://cse.google.com/cse?cx=002479282654111334943%3Ackphga52hvg)
+- [Google Custom Search GH Loop CSE (Publications)](https://cse.google.com/cse?cx=001394533911082033616%3Arzqdeqcihdm)
+- [Google Custom Search Google File Search](https://cse.google.com/cse?cx=005524257534178064433%3A43qyxjr7upa)
+- [Google Custom Search scribd](https://cse.google.com/cse?cx=013791148858571516042%3Agqsws13ehog&hl=en)
+- [Google Custom Search Search Blogs, Docs, Help & Forum](https://cse.google.com/cse?cx=013315504628135767172%3Ad6shbtxu-uo&q=%25s)
+- [Google Custom Search SEARCH BY FILETYPE](https://cse.google.com/cse?cx=013991603413798772546%3Amu-oio3a980)
+- [Google Custom Search Search by type of Documents](https://cse.google.com/cse?cx=010005218567305408382%3Apz_7fcd3pr0)
+- [Google Custom Search Typepad](https://cse.google.com/cse?cx=010283551365367049042%3Aomw04pcoiyq)
+- [Google Custom Search TYPO3](https://cse.google.com/cse?cx=000230591601826276191%3Auyt_ca9wqfy)
+- [Google Doccs CSE](https://cse.google.com/cse?cx=001315216799338982565%3Abdtlvsicgts&hl=en)
+- [Search for PDF CSE](https://cse.google.com/cse?cx=009462381166450434430%3Aefyzyfhat50)
+- [SearchShared.com](https://cse.google.com/cse?cx=004002012908077721647%3A1rl4dea84iw)
+- [Slideshare](https://www.slideshare.net/)
+- [UVRX File Search](http://www.uvrx.com/search-all.html)
+- [AutoMetadata - Inspect and Edit Metadata in PDF Documents](https://evermap.com/autometadata.asp)
+- [Doc Scrubber™](https://www.brightfort.com/docscrubber.html)
+- [Fetching title...](https://0xacab.org/jvoisin/mat2)
+- [GitHub - DIA-NZ/Metadata-Extraction-Tool: The National Library of New Zealands Metadata Extraction Tool automatically extracts preservation-related metadata from digital files, then output that metadata in XML formats. It can be used through a gra...](https://github.com/DIA-NZ/Metadata-Extraction-Tool)
+- [Metadata2go.com](https://www.metadata2go.com/)
+- [Metashield Clean-up Online](https://metashieldclean-up.elevenpaths.com/)
+- [PDF metadata editor: change metadata of PDF document](https://pdfcandy.com/edit-pdf-meta.html)
+- [psal/anonymouth](https://github.com/psal/anonymouth)
+- [Read PDF Metadata, View PDF Metadata Online | PDFYeah](https://www.pdfyeah.com/view-pdf-metadata)
+
+## E-mail Search
+
+- [Aeroleads.com](https://aeroleads.com/)
+- [Anymailfinder.com](https://anymailfinder.com/)
+- [cyberbackgroundChecks](https://www.cyberbackgroundchecks.com/)
+- [Emailmatcher.com](https://emailmatcher.com/)
+- [Emailx.discoveryvip.com](https://emailx.discoveryvip.com/)
+- [Fetching title...](https://www.aware-online.com/osint-tools/e-mail-search-tool/)
+- [Find Emails](https://www.findemails.com/)
+- [Find People for Free Using an Email Address](https://thatsthem.com/challenge?r=%2Freverse-email-lookup)
+- [Findthat.email.com](https://findthat.email/)
+- [FindThatLead](https://findthatlead.com/en)
+- [GitHub - m4ll0k/Infoga: Infoga - Email OSINT](https://github.com/m4ll0k/infoga)
+- [GitHub - vulnbe/github-osint: GitHub OSINT tool](https://github.com/vulnbe/github-osint)
+- [LeadFuze](https://www.leadfuze.com/)
+- [Leads search - omail.io](https://omail.io/leads)
+- [Mailswipe](https://appmaster.io/)
+- [Name2email.com](https://name2email.com/)
+- [Phantombuster](https://phantombuster.com/phantombuster)
+- [Sell Hack: Social Profile Emails Uncovered](https://sellhack.com/)
+- [Skymem.info](https://www.skymem.info/)
+- [Snov](https://snov.io/)
+- [Surf7.net Free Email Extractor Lite](https://eel.surf7.net.my/)
+- [VoilaNorbert](https://www.voilanorbert.com/)
+
+## Expert Search
+
+- [Expert Witness Directory](https://www.expertpages.com/)
+- [Expert Witness Directory](https://www.almexperts.com/)
+- [Expertengine.com](https://www.expertengine.com/)
+- [Expertfile.com](https://expertfile.com/)
+- [Expertinstitute.com](https://www.expertinstitute.com/)
+- [Expertise Finder](https://expertisefinder.com/)
+- [Expertrepublic.com](https://expertrepublic.com/)
+- [Experts, Expert Witnesses, Press Releases](https://www.expertclick.com/)
+- [Experts.com](https://www.experts.com/)
+- [Find a speaker | SpeakerHub](https://speakerhub.com/speakers)
+- [Findanexpertonline.com](https://findanexpertonline.com/)
+- [Help A Reporter](https://www.helpareporter.com/)
+- [Idealist](https://www.idealist.org/en)
+- [Idealist Expert Consultant Finder](https://www.idealist.org/en?type=JOB)
+- [InnoCentive](https://www.wazoku.com/)
+- [Lunchclub.ai](https://lunchclub.com/)
+- [Maven](https://www.maven.co/)
+- [Newswise: News for Journalists](https://www.newswise.com/)
+- [NewtonX](https://www.newtonx.com/)
+- [Nsaspeaker.org](https://nsaspeaker.org/)
+- [ORC Experts Expert Finder](https://www.hugedomains.com/domain_profile.cfm?d=orcexperts.com)
+- [PR Newswire for Journalists](https://prnmedia.prnewswire.com/)
+- [ProfNet Expert Consultant Finder](https://profnet.prnewswire.com/ProfNetHome/What-is-Profnet.aspx)
+- [ResearcherID](https://clarivate.com/products/scientific-and-academic-research/research-discovery-and-workflow-solutions/researcher-profiles/)
+- [Round Table Group](https://www.roundtablegroup.com/)
+- [SEAK, Inc. Expert Witness Directory](https://www.seakexperts.com/)
+- [Sources Media Relations Experts News Releases Publicity](https://www.sources.com/)
+- [Speaker Directory - Motivational speakers, inspirational speakers, and more!](https://www.speakermatch.com/directory/speakers/)
+- [Speakinc.com](https://www.speakinc.com/)
+- [Theexpertfinder.com](https://theexpertfinder.com/)
+- [WMC SheSource](https://womensmediacenter.com/shesource)
+- [Zintro](https://www.zintro.com/home)
+
+## Finding Data and Statistics
+
+- [About BIS statistics](https://www.bis.org/statistics/index.htm)
+- [AidData—A Research Lab at William & Mary](https://www.aiddata.org/)
+- [Archaeology Data Service](https://archaeologydataservice.ac.uk/)
+- [archive.ics.uci.edu/ml/index.php](https://archive.ics.uci.edu/ml/index.php)
+- [Bill of Lading Database, Import Export Data: PIERS | IHS Markit](https://ihsmarkit.com/products/piers.html)
+- [CERN Open Data Portal](https://opendata.cern.ch/)
+- [Country Profiles, Toolkits, Bilaterals, News, Stats](https://agoa.info/)
+- [Data](https://www.gapminder.org/data/)
+- [Data & Statistics](https://www.iea.org/data-and-statistics)
+- [Data & Tools](https://www.idea.int/data-tools)
+- [Data Europa](https://data.europa.eu/en)
+- [Data.gov](https://data.gov/)
+- [Data.world.com](https://data.world/)
+- [Data360.org](https://www.data360.org/)
+- [Dataportals.org](https://dataportals.org/)
+- [Datasearch.gesis.org/search](https://datasearch.gesis.org/search)
+- [Datasets](https://www.pewresearch.org/internet/datasets/)
+- [DBpedia](https://www.dbpedia.org/)
+- [Dryad Home](https://datadryad.org/stash)
+- [EMBL European Bioinformatics Institute](https://www.ebi.ac.uk/)
+- [Fairsharing.org](https://fairsharing.org/)
+- [FAOSTAT](https://www.fao.org/faostat/en/#home)
+- [finance](https://www.google.com/finance/)
+- [Find open data](https://www.data.gov.uk/)
+- [FiveThirtyEight](https://data.fivethirtyeight.com/)
+- [Fred](https://fred.stlouisfed.org/)
+- [Google Public Data Explorer](https://www.google.com/publicdata/directory)
+- [GovData](https://www.govdata.de/)
+- [Home](https://ec.europa.eu/eurostat)
+- [Human Development Reports 1990-2015](https://hdr.undp.org/reports-and-publications)
+- [Ilostat.ilo.org](https://ilostat.ilo.org/)
+- [IMF Data](https://www.imf.org/en/Data)
+- [IMF World Economic Outlook Database List, information about Gross Domestic Product (GDP)](https://www.imf.org/external/ns/cs.aspx?id=28)
+- [IndexMundi](https://www.indexmundi.com/)
+- [International Labor Comparisons (ILC)](https://www.bls.gov/fls/chartbook.htm)
+- [Junar.com](https://junar.com/)
+- [Landmatrix.org](https://landmatrix.org/)
+- [Latinobarometro.org](https://www.latinobarometro.org/)
+- [Msropendata.com](https://msropendata.com/)
+- [NationMaster: Stats by Category](https://www.nationmaster.com/statistics)
+- [Net Data Directory](https://netdatadirectory.org/)
+- [Open Data | Open Government, Government of Canada](https://open.canada.ca/en/open-data)
+- [Open Data Network](https://www.opendatanetwork.com/)
+- [Opendataportal.at](https://www.data.gv.at/opendataportal-at/)
+- [Opengov-muenchen.de](https://opendata.muenchen.de/)
+- [Registry.opendata.aws](https://registry.opendata.aws/)
+- [Research Data - Mendeley Data](https://data.mendeley.com/research-data/)
+- [Search.datacite.org](https://search.datacite.org/)
+- [Statistical Database System (SDBS) | Asian Development Bank](https://www.adb.org/data/sdbs)
+- [theOECD](https://data.oecd.org/)
+- [Welcome](https://data.europa.eu/data/datasets?catalog=european-union-open-data-portal&showcatalogdetails=true&minScoring=0)
+
+## FTP & File Search
+
+- [Bestandstypen Search Tool - OSINT-tools - Aware Online Academy](https://www.aware-online.com/osint-tools/bestandstypen-search-tool/)
+- [FreewareWeb](https://www.freewareweb.com/ftpsearch.shtml)
+- [goofile](https://www.kali.org/tools/goofile/)
+- [IntelligenceX-Files](https://intelx.io/tools?tab=file)
+- [MegaSearch](http://ww7.megasearch.co/)
+- [MMNT](https://www.mmnt.ru/)
+- [Search Files](https://searchfiles.de/)
+- [Searchshared.info](https://www.searchshared.info/)
+- [Search by File Format (beta) || Fagan Finder](https://www.faganfinder.com/filetype/)
+- [Programmable Search Engine](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z#gsc.tab=0)
+- [Google.de/search FTP Suche](https://www.google.de/search?ei=1Tm9WM31BYOSU7K-lvgM&gws_rd=cr&q=inurl%3Aftp+-inurl%3A%28http%7Chttps%29+SUCHE+HIER)
+- [Google Drive: Sign-in](https://accounts.google.com/v3/signin/identifier?dsh=S772622272%3A1668003275685873&continue=https%3A%2F%2Fdrive.google.com%2Fdrive%2Fsearch%3Fq%3D%2525s&followup=https%3A%2F%2Fdrive.google.com%2Fdrive%2Fsearch%3Fq%3D%2525s&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=ARgdvAsTL_53JulSLpXIoTNnr0Ex9QOwgYLuAaw0NJ4NfZhWjjkpFhctxRTFAwMW99BQkEPskisLEw)
+- [Download search engine - Crawli.net](https://crawli.net/)
+
+## General
+
+- [%s at DuckDuckGo](https://duckduckgo.com/?q=%25s)
+- [100searchengines.com](https://www.100searchengines.com/)
+- [15 handige Google Operators - Effectief zoeken - Aware Online Academy](https://www.aware-online.com/15-handige-google-operators/)
+- [2Lingual](https://2lingual.com/)
+- [A look at search engines with their own indexes](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/)
+- [advanced search](https://www.google.nl/advanced_search)
+- [Alexa Top 500](https://www.alexa.com/topsites)
+- [AOL Search](https://search.aol.com/)
+- [APSE | A Personal Search Engine](https://apse.io/)
+- [Aware-online.com/academy/osint-tools](https://www.aware-online.com/osint-tools/)
+- [Baidu](https://news.baidu.com/?tn=news)
+- [Bing](https://www.bing.com/?scope=web&cc=US&FORM=INCOH1&pc=1SMB)
+- [Blog Search Engine](https://www.blogsearchengine.org/)
+- [Brave Search](https://search.brave.com/)
+- [Carrot2 Clustering Engine](https://search.carrot2.org/#/web)
+- [ccTLD List](https://icannwiki.org/Country_code_top-level_domain#Current_ccTLDs)
+- [Common Dorks List](https://medium.com/@polihenko.o/google-dorks-3cbc0e2de2dc)
+- [Constant Contact Dork](https://www.google.com/search?ei=tpuuW83xJaqUjwTB_6zoAw&gs_l=psy-ab.3...3118.13595..16539...1.0..0.105.1567.18j1......0....1..gws-wiz.wZK5_0lx1Oo&oq=%22XX%22+AND+site%3A*.constantcontact.com&q=%22XX%22+AND+site%3A*.constantcontact.com)
+- [CSE General](https://cse.google.ca/cse?cx=partner-pub-0375491626617707%3A7151836262)
+- [CSE General Plus](https://cse.google.com/cse?cx=018413290510798844940%3Ak69bxcfofe0)
+- [CuteStat](https://www.cutestat.com/)
+- [DevHuntr](https://tamilan-apps-and-tech.github.io/devhuntr-web/?ref=producthunt#/)
+- [Donotlink.it](https://donotlink.it/)
+- [Dorks List 2019](https://ahrefs.com/blog/google-advanced-search-operators/)
+- [Dsmiths Custom Search Engine](https://cse.google.com/cse?cx=679d31ebf4f3f4a53#gsc.tab=0)
+- [DuckDuckGo](https://duckduckgo.com/)
+- [Emojipedia](https://emojipedia.org/)
+- [Entireweb Search Engine](https://www.entireweb.com/)
+- [General Search CSE](https://cse.google.com/cse?cx=000855927744969374910%3Atuta4di9ies)
+- [General Search Google Custom Search](https://cse.google.ca/cse?cx=partner-pub-9033736287770724%3A5710551291)
+- [Geolocalized Search](https://geolocalizedsearch.com/)
+- [GitHub - amirgamil/apollo: A Unix-style personal search engine and web crawler for your digital footprint.](https://github.com/amirgamil/apollo)
+- [Gnod Search | Compare Search Engines](https://www.gnod.com/search/?engines=f%2Cu%2Cp%2C1%2Co%2Cs%2Cj%2Cr%2C2%2Cw%2Ch%2C3%2C4%2C5%2Cn%2C6%2C7%2C8%2Cl%2Cx%2Ci%2Cg%2Cv%2C9%2Cm%2Ca%2Cb%2Ck%2Ct%2Cc%2Cd%2Cq%2Ce)
+- [Goodsearch](https://www.goodshop.com/search)
+- [Google](https://www.google.com/)
+- [Google Alerts Search Engine](https://cse.google.com/cse?cx=013991603413798772546%3Ars7bbm8kdsg)
+- [Google CSE Finder](https://cse.google.com/cse?cx=011081986282915606282%3Afa52ldjw5to)
+- [Google CSE Resources Search Engine](https://cse.google.com/cse?cx=013991603413798772546%3Adhoqafcmphk)
+- [Google Custom Search Carnegie Mellon University](https://cse.google.com/cse?cx=000183942383624155094%3Ante7gfnbgha)
+- [Google Custom Search DSF Google Refinement](https://cse.google.com/cse?cx=002207347744245223449%3A3wxoicg4myg)
+- [Google Custom Search General](https://cse.google.co.in/cse?cx=001639366659799729802%3Avr921b1tgry)
+- [Google Custom Search General](https://cse.google.co.uk/cse?cx=002717229081227036262%3Ae-izaongzem)
+- [Google Custom Search General Search](https://cse.google.com/cse?cx=011545203169215625696%3A-yygy0imnne&hl=en)
+- [Google Custom Search General Search plus](https://cse.google.com/cse?cx=011507650028433360591%3Amw4qttke1oe)
+- [Google Docs Search Engine](https://cse.google.com/cse?cx=013991603413798772546%3Arse-4irjrn8)
+- [Google Plus Communities CSE](https://cse.google.com/cse?cx=009238533315723793042%3Aosjzdvijbbe)
+- [Google Trends](https://trends.google.com/trends/?geo=US)
+- [Google Trends for locations.](https://mashups.appb.in/google-trend-mashup)
+- [google.com](https://www.google.com/ncr)
+- [Google+ Collections & Communities Search](https://cse.google.com/cse?cx=013991603413798772546%3Ag5vjn23udla)
+- [Intelligence X](https://intelx.io/tools?tab=general)
+- [IP Lookup](https://whatismyipaddress.com/ip-lookup)
+- [Is This Website Safe](https://safeweb.norton.com/)
+- [iseek](https://www.iseek.com/#/web)
+- [LazyWeb](https://lazyweb.ai/)
+- [Lets Search! The best way for effective search queries!](https://letssearch.org/)
+- [LetsFind - Search Engine for Private Data.](https://letsfind.io/?ref=producthunt)
+- [LetsFind.io](https://app.letsfind.io/)
+- [Lycos](https://www.lycos.com/)
+- [Mastering Google Operators](https://moz.com/blog/mastering-google-search-operators-in-67-steps)
+- [Mojeek](https://datasette.io/)
+- [mywebsearchdefault](https://hp.mywebsearch.com/mywebsearch/index.html)
+- [Naver](https://www.naver.com/)
+- [NerdyData.com](https://www.nerdydata.com/reports/new)
+- [Onion Search Engine](https://onionsearchengine.com/mobile.php)
+- [OpenSearch](https://opensearch.org/)
+- [Oscobo](https://www.oscobo.com/)
+- [PDF My URL](https://pdfmyurl.com/)
+- [peekier](https://peekier.com/)
+- [PenTest Tools](https://pentest-tools.com/)
+- [Presearch](https://presearch.com/)
+- [Qwant](https://lite.qwant.com/?redirect=Safari5.1)
+- [Qwant Search](https://lite.qwant.com/)
+- [Search My Site - Open source search engine and search as a service for personal and independent websites](https://searchmysite.net/)
+- [Search Results | Lyzem.com](https://lyzem.com/search?f=groups&l=en&q=mega)
+- [Searchable.ai](https://app.searchable.cloud/log-in)
+- [SearchEngineColossus](https://www.searchenginecolossus.com/)
+- [Site Map Crawler](https://www.xml-sitemaps.com/)
+- [Sogou](https://www.sogou.com/)
+- [SpeakerHub CSe 6/29/20](https://cse.google.com/cse?cx=009462381166450434430%3Azhxxazdaqc4#gsc.tab=0)
+- [Sphinx | Open Source Search Engine](https://sphinxsearch.com/?utm_source=saashub&utm_medium=marketplace&utm_campaign=saashub)
+- [The Custom Search Engine CSE](https://cse.google.com/cse?cx=001691553474536676049%3Aop4j-wn6tq4)
+- [The searx Open Source Project on Open Hub](https://www.openhub.net/p/searx)
+- [URL Shortner CSE 5/15/19](https://cse.google.com/cse?cx=000905274576528531678%3Attpspvkuqhc)
+- [Web Search&#x000A; - Exalead](https://www.exalead.com/search/web/)
+- [Yahoo! Advanced Web Search](https://www.vcrlter.virginia.edu/yahoosearch.html)
+- [Yamii (Arabic)](https://www.yamli.com/arabic-keyboard/)
+- [Yamli](https://www.yamli.com/)
+- [Yandex (RU)](https://yandex.ru/)
+- [Yandex Russian, English version](https://yandex.com/)
+
+## Google Custom Search
+
+- [Aktienregister OR Aktienbuch](https://www.google.de/search?oq=%22Aktienregister+OR+Aktienbuch%22&q=%22Aktienregister+OR+Aktienbuch%22)
+- [2lingual Google Search](https://www.2lingual.com/2lingual-google)
+- [Amazon cloudfront Suche OSINT](https://www.google.de/search?q=site%3Acloudfront.net+osint)
+- [Amazon Web Services (AWS)](https://www.google.de/search?aqs=chrome..69i57j69i58.320j0j9&ie=UTF-8&oq=site%3As3.amazonaws.com+%E2%80%9Ckeyword%E2%80%9D&q=site%3As3.amazonaws.com+%E2%80%9Ckeyword%E2%80%9D&sourceid=chrome)
+- [CV Lebenslauf](https://www.google.de/search?ei=FO9qW76gLYmzsAft35H4Bw&oq=%22Vorname+Name%22+%22CV%22+OR+%22Lebenslauf%22+OR+%22Bewerbung%22+OR+%22Resum%C3%A9+OR+%22curr%C3%ADculum+v%C3%ADtae%22+OR+%22Bewerbungsunterlagen%22+OR+%22Bio%22&q=%22Vorname+Name%22+%22CV%22+OR+%22Lebenslauf%22+OR+%22Bewerbung%22+OR+%22Resum%C3%A9+OR+%22curr%C3%ADculum+v%C3%ADtae%22+OR+%22Bewerbungsunterlagen%22+OR+%22Bio%22)
+- [Geburtstag Schlüsselwörter](https://www.google.de/#q=%E2%80%9CVorname+Name%E2%80%9D+(%22Geburtsdatum%22+OR+%22geboren+am%22+OR+%22Geburtstag%22))
+- [Google - search operator for all file types](https://www.google.com/search?q=book+-inurl%3A%28jsp%7Cpl%7Cphp%7Chtml%7Caspx%7Chtm%7Ccf%7Cshtml%29+intitle%3Aindex.of+-inurl%3A%28listen77%7Cmp3raid%7Cmp3toss%7Cmp3drug%7Cindex_of%7Cwallywashis%29)
+- [Google Advanced Search Operators ~ Supple](https://supple.com.au/tools/google-advance-search-operators/)
+- [Google Adwords Anzeigenvorschau](https://ads.google.com/apt/AdPreview)
+- [Google DE](https://www.google.de/)
+- [Google exact term Operator](https://www.google.de/#q=%22bruno+mortier%22)
+- [Google Filetype Operator](https://www.google.de/#q=filetype:PDF+%22bruno+mortier%22)
+- [Google ftp Search containing Vertraulich](https://www.google.de/#q=inurl:ftp+-inurl:(http%7Chttps)+%22vertraulich%22)
+- [Google Hacking Diggity Project Resources](https://resources.bishopfox.com/resources/tools/google-hacking-diggity/)
+- [Google intitle:index.of+osint Webserver directory containing OSINT](https://www.google.de/#q=intitle:index.of+%22osint%22)
+- [Google inurl: Operator containing OSINT](https://www.google.de/#q=inurl:osint)
+- [Google Patents Advanced Search](https://patents.google.com/advanced)
+- [Google Preferences | Sucheinstellungen](https://www.google.de/preferences)
+- [Google Search Operators](https://www.googleguide.com/advanced_operators_reference.html)
+- [Google Site: Operator](https://www.google.de/#q=site:digintel-training.com)
+- [Google Trends](https://trends.google.com/trends/)
+- [Google.de Erweiterte Suche | Extended Search](https://www.google.de/advanced_search)
+- [Hochzeit Schlüsselwörter](https://www.google.de/#q=%22Vorname+Name%22+(%22Eheschlie%C3%9Fung%E2%80%9C+OR+%22Heirat%E2%80%9C+OR+%22Ringwechsel%E2%80%9C+OR+%E2%80%9CTrauung%E2%80%9C+OR+%22Verbindung%E2%80%9C+OR+%22Verehelichung%E2%80%9C+OR+%22Verheiratung%E2%80%9C+OR+%22Verm%C3%A4hlung%E2%80%9C+OR+%22Ehe%E2%80%9C+OR+%22Hochzeit%E2%80%9C+OR+%22Hochzeitsfest%E2%80%9C+OR+%E2%80%9CTaufe%E2%80%9C))
+- [Index of OSINT](https://www.google.com/search?q=index+of+osint)
+- [Mitglied im Verein](https://www.google.de/search?aqs=chrome..69i57j0l5.12991j0j4&ie=UTF-8&oq=%22Vorname+Name%22+%28%22Erster+Vorsitzender%22+OR+%22Zweiter+Vorsitzender%22+OR+%22Schatzmeister%22+OR+%22Schriftf%C3%BChrer%22+OR+%22Beisitzer%22+OR+%22Kassenpr%C3%BCfer%22+OR+%22Vorstand%22%29&q=%22Vorname+Name%22+%28%22Erster+Vorsitzender%22+OR+%22Zweiter+Vorsitzender%22+OR+%22Schatzmeister%22+OR+%22Schriftf%C3%BChrer%22+OR+%22Beisitzer%22+OR+%22Kassenpr%C3%BCfer%22+OR+%22Vorstand%22%29&sourceid=chrome)
+- [Nachruf Schlüsselwörter](https://www.google.de/#q=%E2%80%9CVorname+Name%E2%80%9D+(%22Nachruf%22+OR+%E2%80%9ETodesinserat%E2%80%9C+OR+%22Todesanzeige%22+OR+%22Traueranzeige%22+OR+%22Traueranzeigen%22+OR+%22Sterberegister%22+OR+%22Bestattungskalender%22+OR+%22Kirchenb%C3%BCcher%22+OR+%22Personenstandsurkunde%22+OR+%22Sterbef%C3%A4lle%22+OR+%22Diozesanes+Totenbuch%22+OR+%22Totenbuch%22+OR+%E2%80%9ESterbemitteilung%E2%80%9C+OR+%E2%80%9EHinterbliebenen%E2%80%9C))
+- [search.google.com/search-console](https://search.google.com/search-console/about)
+- [Unprotected Cameras](https://www.google.de/search?aqs=chrome..69i57j69i58.13845j0j7&ie=UTF-8&oq=inurl%3Aview%2Findex.shtml&q=inurl%3Aview%2Findex.shtml&sourceid=chrome)
+
+## Image
+
+- [%s - Google Search](https://www.google.com/search?q=%25s&tbm=isch)
+- [Baidu](https://image.baidu.com/)
+- [Beautiful Photo Album Finder](https://cse.google.com/cse?cx=013991603413798772546%3Abt8ybjlsnok)
+- [Bing Image Search](https://www.bing.com/?FORM=NOFORM&nr=1&scope=images)
+- [Bing Images](https://www.bing.com/images/feed)
+- [Diff Checker](https://www.diffchecker.com/image-diff/)
+- [Drag and drop  |  Cloud Vision API Documentation&#x000A;  |  Google Cloud](https://cloud.google.com/vision/docs/drag-and-drop)
+- [European Union Trademark search](https://euipo.europa.eu/eSearch#advanced/trademarks)
+- [facesaerch](https://www.facesaerch.com/)
+- [Flickr](https://secure.flickr.com/)
+- [Flickr Search—“%s”](https://www.flickr.com/search?opensearch=yes&text=%25s)
+- [FotoForensics](https://fotoforensics.com/)
+- [Google Custom Search Clip Art](https://cse.google.com/cse?cx=013097366078944830717%3Atsojriz_t1a)
+- [Google Custom Search Clip Art Pictures](https://cse.google.com/cse?cx=015775560953662364258%3Ajbn052ab538)
+- [Google Custom Search Fotolog Photo Search Engine](https://cse.google.com/cse?cx=000521750095050289010%3Azpcpi1ea4s8)
+- [Google Custom Search Image Search](https://cse.google.com/cse?cx=007197546127051102533%3Antzgmbf9hdm)
+- [Google Custom Search Images](https://cse.google.com/cse?cx=001580308195336108602%3Anjhlcftp3cs)
+- [Google Custom Search Photo](https://cse.google.com/cse?cx=011011820386761411814%3Afdioa10ovoi)
+- [Google Images](https://images.google.com/)
+- [Google Images](https://www.google.com/imghp)
+- [Google Photo Archives Hacker](https://cse.google.com/cse?cx=006205189065513216365%3Avp0ly0owiou)
+- [Google+ Photos Search Engine](https://cse.google.com/cse?cx=006205189065513216365%3Auo99tr1fxjq)
+- [GooglePlus Photo Albums Search Engine](https://cse.google.com/cse?cx=013991603413798772546%3A5h_z8fh4eyy)
+- [image identify](https://www.imageidentify.com/)
+- [Image Metadata Viewer](http://exif.regex.info/down.html)
+- [Images Search Engine](https://cse.google.com/cse?cx=281566d4e61dcc05d)
+- [Imgops](https://imgops.com/)
+- [Logo Search](https://logosear.ch/)
+- [MyHeritage Photo Enhancer](https://www.myheritage.com/photo-enhancer)
+- [Neural network image super-resolution and enhancement](https://letsenhance.io/)
+- [Openly Licensed Images, Audio and More | Openverse](https://wordpress.org/openverse/)
+- [Photo Album Finder](https://cse.google.com/cse?cx=013991603413798772546%3Abldnx392j6u)
+- [Pictriev](http://pictriev.com/)
+- [PimEyes](https://pimeyes.com/en)
+- [Pixabay](https://pixabay.com/images/search/)
+- [Pixsy](https://www.pixsy.com/)
+- [Rootabout](https://rootabout.com/)
+- [same.energy](https://same.energy/)
+- [Search | Flickrnew icn messageflickr-free-ic3d pan white](https://www.flickr.com/search?q=)
+- [See it, search it](https://www.bing.com/visualsearch)
+- [Sogou](https://pic.sogou.com/)
+- [The Photastic Search Engine](https://cse.google.com/cse?cx=017261104271573007538%3Avmpv6nt8dc4)
+- [ThoughtfulDev/EagleEye](https://github.com/ThoughtfulDev/EagleEye)
+- [TinEye](https://tineye.com/)
+- [Trademarkts (USA)](https://trademarks.justia.com/search?q=)
+- [Videoindexer.ai](https://www.videoindexer.ai/account/login)
+- [Wallpaper Search Engine](https://cse.google.com/cse?cx=006205189065513216365%3Azorwyd7ztvk)
+- [Yahoo Image Search](https://images.search.yahoo.com/images)
+- [Yandex.Images: search for images on the internet, search by image](https://www.yandex.com/images)
+- [Flickr Search](https://www.flickr.com/search/people?username=)
+- [Inkscape](https://instantdomainsearch.com/)
+- [Reverse Image Search](https://support.google.com/websearch/answer/1325808?hl=en)
+- [Reverse Image Search–Get this Extension for ?? Firefox (en-US)](https://addons.mozilla.org/en-US/firefox/addon/image-reverse-search/)
+- [Reverse Image Search. - HD-internet](https://hdinternet.nl/reverse-image-search/)
+- [RIS Reverse Image Search](https://www.reverse-image-search.org/)
+
+## Information
+
+- [Google Custom Search FAS.Org Fed American Scientists](https://cse.google.com/cse?cx=001482665168924075807%3Ahyits1jhoek)
+- [Google Custom Search Free Full-Text Online Law Review/Law Journal Search Engine](https://cse.google.com/cse?cx=000933248691480580078%3A57y4iyinbqe)
+- [Google Custom Search Google Scholar CSE (Publications) by GH](https://cse.google.com/cse?cx=001394533911082033616%3Awcf5spgmnbc)
+- [Mailing List Archives Search Engine](https://cse.google.com/cse?cx=013991603413798772546%3Asipriovnbxq)
+- [PBWorks Search Engine](https://cse.google.com/cse?cx=017261104271573007538%3Axhguhddcxuk)
+- [The Researchers Vault](https://cse.google.com/cse?cx=013991603413798772546%3Afjfpayt0bje)
+- [The Search Engine Search Engine](https://cse.google.com/cse?cx=013991603413798772546%3Ahvkibqdijhe)
+- [Visual Concepts CSE](https://cse.google.com/cse?cx=013991603413798772546%3Agj6rx9spox8)
+
+## Maps
+
+- [Active Agency Map](https://www.google.com/maps/d/viewer?mid=1eYVDPh5itXq5acDT9b0BVeQwmESBa4cB)
+- [Aerophotostock (NL)](https://www.aerophotostock.com/)
+- [Antennebureau (NL)](https://www.antenneregister.nl/Html5Viewer_Antenneregister/Index.html?viewer=antenneregister)
+- [APlaceBetween.Us](https://a.placebetween.us/)
+- [ArcGIS Wildfire Map](https://www.arcgis.com/home/webmap/viewer.html?webmap=df8bcc10430f48878b01c96e907a1fc3#!)
+- [Bing Maps](https://www.bing.com/maps)
+- [COVID-19 Map](https://coronavirus.jhu.edu/map.html)
+- [Dualmaps.com](http://dualmaps.com/)
+- [Earthquake Watch](https://www.arcgis.com/apps/dashboards/c8af9c5411814584b460cc87cb7c3780)
+- [Echosec (paid)](https://www.echosec.net/)
+- [Europe live map refugees/terrorism](https://europe.liveuamap.com/)
+- [Facebook Live Map](https://www.facebook.com/watch/live/?ref=live_delegate)
+- [fgdc_gp_demoss public fiddles](https://jsfiddle.net/user/fgdc_gp_demos/fiddles)
+- [FIRMS](https://firms.modaps.eosdis.nasa.gov/map/)
+- [Generate a panorama](https://www.udeuschle.de/panoramas/makepanoramas_en.htm)
+- [Geograph (photos)](https://www.geograph.org/)
+- [GeoLocateThis](https://survey-smiles.com/)
+- [Google Earth (download link)](https://www.google.com/earth/about/download/gep/agree.html)
+- [Google Map Search Engine](https://cse.google.com/cse?cx=013991603413798772546%3Amofb1uoaebi)
+- [Google Maps](https://www.google.com/maps)
+- [GPSies](https://www.alltrails.com/?referrer=gpsies)
+- [Gpx File Editor](https://gpx.studio/)
+- [Hate Map](https://www.splcenter.org/hate-map)
+- [Hectometerpaal (NL)](https://www.hmpaal.nl/)
+- [Hoogspanningsnet (NL) (power pylons)](https://webkaart.hoogspanningsnet.com/index2.php#7/52.000/5.000)
+- [https://www.google.com/maps/search/%s?hl=en&source=opensearch](https://www.google.com/maps/search/%s?hl=en&source=opensearch)
+- [InciWeb](https://inciweb.nwcg.gov/)
+- [Instant Google Street View](https://www.instantstreetview.com/)
+- [Islamic State map](https://umap.openstreetmap.fr/en/map/islamic-state-claimed-provinces-map_29647#7/33.409/42.902)
+- [Kadaster - Bagviewer (NL)](https://bagviewer.kadaster.nl/lvbag/bag-viewer/index.html)
+- [KartaView](https://kartaview.org/map)
+- [Living Atlas of the World | ArcGIS](https://livingatlas.arcgis.com/en/browse/)
+- [Livingatlas - Wayback](https://livingatlas.arcgis.com/wayback/)
+- [Map of Syrian Civil War](https://syria.liveuamap.com/)
+- [Mapchecking](https://www.mapchecking.com/)
+- [Mapillary](https://www.mapillary.com/app)
+- [Mappillary](https://www.mapillary.com/)
+- [MapQuest](https://www.mapquest.com/)
+- [Maps.descarteslabs.com](https://maps.descarteslabs.com/)
+- [MODIS Wildfire](https://www.arcgis.com/apps/dashboards/bf5df3a49a624521844a2e5e1ec7df05)
+- [OALLEY](https://www.smappen.com/app/)
+- [OpenSeaMap](https://www.openseamap.org/index.php?L=1&id=openseamap)
+- [OpenStreetMap](https://www.openstreetmap.org/)
+- [Power Plants in the United States](https://www.arcgis.com/apps/dashboards/201fc98c0d74482d8b3acb0c4cc47f16)
+- [Radio Garden](https://radio.garden/search)
+- [Satellites.pro](https://satellites.pro/)
+- [Strava Heatmap](https://www.strava.com/heatmap)
+- [Strava search engine](https://www.doogal.co.uk/strava)
+- [UK Onshore Oil and Gas Activity](https://www.arcgis.com/apps/webappviewer/index.html?id=29c31fa4b00248418e545d222e57ddaa)
+- [Ukraine Interactive map](https://liveuamap.com/)
+- [US Labor Strike Map](https://www.google.com/maps/d/viewer?ll=34.35833140861117%2C-102.63857702467465&mid=1hE1nDR-Ff_sVgOS67IteJSxGZlvqIP3k&z=4)
+- [Walmart Store Status](https://www.arcgis.com/apps/dashboards/4e573c79e1224081805165d25b4f33c7)
+- [Waze](https://www.waze.com/live-map)
+- [Whats3words](https://what3words.com/clip.apples.leap?redirect=true)
+- [WhatsHalfway](https://www.whatshalfway.com/)
+- [Wikimapia](https://wikimapia.org/)
+- [Windy](https://www.windy.com/-Webcams/webcams)
+- [Yandex maps](https://n.maps.yandex.ru/)
+- [Yandex.Maps](https://yandex.com/maps)
+- [Zoom.earth](https://zoom.earth/)
+- [百度地图](https://map.baidu.com/)
+
+## Medical Search Engines
+
+- [Allmedx.com](https://allmedx.com/)
+- [DrugBank](https://go.drugbank.com/)
+- [Drugs](https://www.drugs.com/)
+- [FindZebra](https://findzebra.com/)
+- [Googlemt.com](https://www.googlemt.com/)
+- [Medicalndx.com](https://medicalndx.com/)
+- [MedlinePlus](https://medlineplus.gov/)
+- [Mednar.com](https://mednar.com/)
+- [MedWorm: Medical Search Engine and RSS News](https://medworm.com/)
+- [Mwsearch.com](https://www.mwsearch.com/)
+- [PDR.Net](https://pdr.net/)
+- [Seenso.com](https://www.seenso.com/)
+- [ZocDoc](https://www.zocdoc.com/about/unsupported-browser/)
+
+## Meta
+
+- [All the Internet](https://www.alltheinternet.com/)
+- [All-io](https://all-io.net/)
+- [Ask.com - Whats Your Question?](https://www.ask.com/?o=1474130)
+- [Bing](https://www.bing.com/)
+- [Biznar](https://biznar.com/biznar/desktop/en/search.html)
+- [Blockscan.com](https://blockscan.com/)
+- [Databasd](https://databasd.com/)
+- [DSC Data Science Search Engine](https://www.datasciencecentral.com/?s=)
+- [Ecosia](https://www.ecosia.org/)
+- [Etools.ch/searchEtools Hilfe Operatoren](https://www.etools.ch/searchHelp.do;jsessionid=BCE9A06400A2C7CEB9877510A1DF70BA)
+- [Exalead Search Operators - Quick Reference](https://www.exalead.com/search/web/search-syntax/)
+- [Excite](https://www.excite.com/)
+- [Fagan Finder](https://www.faganfinder.com/#search)
+- [Fagan Finder: find anything and everything online](https://www.faganfinder.com/)
+- [fefoo search app](https://fefoo.com/)
+- [Findwith.me](https://www.findwith.me/)
+- [info.com](https://info.com/)
+- [Instya MultiSearch Meta Search](https://www.instya.com/)
+- [Ipse.io](https://www.ipse.io/)
+- [Ixquick](https://www.startpage.com/)
+- [iZito](https://www.izito.com/)
+- [Lookahead.surfwax.com](http://lookahead.surfwax.com/)
+- [Mojeek](https://www.mojeek.com/)
+- [Occusearch.de has moved](https://occusearch.net/)
+- [Pdfsearch.io](https://www.pdfsearch.io/)
+- [Private Search All search engine apps web news jobs social video photo](https://www.searchall.net/)
+- [Publc.com](https://publc.com/)
+- [Runnaroo](https://www.runnaroo.com/)
+- [search](https://www.search.com/)
+- [Search engine and human edited web directory KartOO](http://www.kartoo.com/)
+- [Search the web](https://dadgogo.com/)
+- [Search-22.com](https://search-22.com/)
+- [Search-it.netlify.app](https://search-it.netlify.app/)
+- [Sonicrun.com](https://www.sonicrun.com/)
+- [The-lookup.com](https://the-lookup.com/)
+- [Toki.com](https://toki.com/)
+- [Vulmon - Vulnerability Intelligence Search Engine](https://vulmon.com/)
+- [Vulnerability & Exploit Database](https://www.rapid7.com/db/)
+- [www.searchinfo.site](https://www.searchinfo.site/)
+- [Yahoo Search](https://search.yahoo.com/)
+- [Yassen.com](https://yassen.com/)
+- [ZapMeta](https://www.zapmeta.com/)
+- [Zoo Search](https://www.metacrawler.com/)
+
+## Misc
+
+- [Acestreamsearch.net/en/](https://acestreamsearch.net/en/)
+- [AIO Search](https://www.aiosearch.com/)
+- [Argumentsearch.com](https://argumentsearch.com/)
+- [Assessor and Property Tax Records Search Directory](https://www.publicrecords.onlinesearches.com/Assessor-and-Property-Tax-Records.htm)
+- [Best Phone Lookup](https://phonesearch.us/login.php)
+- [Blogspot Blog Search](https://www.searchblogspot.com/)
+- [Burns](https://predb.ovh/)
+- [County Search](https://www.brbpublications.com/gen/brbsearch.aspx)
+- [Custom Search Engine](https://programmablesearchengine.google.com/about/)
+- [DarkSearch Search email on Darkweb](https://darksearch.io/)
+- [Discover Podcasts Here!](https://podsearch.com/)
+- [Easy-Wi](https://ebook-hunter.org/)
+- [Excite](https://search.excite.com/)
+- [EXT Torrents](https://www.eyedex.org/)
+- [ezGIF](https://f1lter.com/)
+- [FamilySearch: Sign In](https://ident.familysearch.org/cis-web/oauth2/v3/authorization?client_id=3Z3L-Z4GK-J7ZS-YT3Z-Q4KY-YN66-ZX5K-176R&client_secret=WXExoUx36sCbsd2QXtC55MN9EgTjYZ25IrLXdIMKg4WN9xnRHp5bsxGmt6g9BMq8lGvfJWNkJzxUuyZhhA8UMsLSBtlOzTRN2HEbHWTqdzoKN4%2Bkn6fOmTwhgJzj5CuaRisDhOcJ7KRugK%2BXpJZ7ZXXlJL0BJN8FglDmZ7QlIwGQ2q1qkyE6loSYd9EZnyXKhbs3O4KoQHqgTKcaG7Rimms0s1qi%2FTB6J4fZFcb%2ButkuVIgudFMklmdYXBnpvuRY4%2BD%2B82RrfRTRmcPqpThYbx8AxkBu6hiGvPoCBFT1YkXQPEIq2Na73tJAo1iyphp5dm9y9FSeiBOy1aXBOZDKUg%3D%3D&display=tree&redirect_uri=https%3A%2F%2Fwww.familysearch.org%2Fauth%2Ffamilysearch%2Fcallback&response_type=code&state=https%3A%2F%2Fwww.familysearch.org%2Ftree%2Ffind%2Fname)
+- [Federal Records Guide: Alphabetical Index - A | National Archives](https://www.archives.gov/research/guide-fed-records/index-alpha/a.html)
+- [Filetype search tool](https://www.aware-online.com/en/osint-tools/filetype-search-tool/)
+- [Findtubes](https://www.findtubes.com/)
+- [Firefox Monitor](https://mosermichael.github.io/duckduckbang/html/main.html)
+- [Flixwatch.co](https://www.flixwatch.co/)
+- [Free Family History and Genealogy Records—FamilySearch.org](https://www.familysearch.org/en/)
+- [FTP Search (Change searchterm in search box)](https://www.google.com/search?client=firefox-a&ei=Ql7hW7LIDMmv9QPm6o6YDQ&gs_l=psy-ab.3...2358.3764..3896...0.0..0.226.1595.0j8j2......0....1..gws-wiz.Q7cKYS1AATI&hl=en&newwindow=1#=100&oq=inurl%3Aftp+-inurl%3A%28http%7Chttps%29+searchterm&q=inurl%3Aftp+-inurl%3A%28http%7Chttps%29+searchterm&rls=org.mozilla%3Aen-US%3Aofficial&safe=off)
+- [G Toolkit](https://gutensearch.com/)
+- [Georgia Felon Search](https://gta.georgia.gov/gta-services/data-sales/georgia-felon-search)
+- [Georgia Superior Court Clerk](https://www.gsccca.org/search)
+- [GeoVisual Search](https://search.descarteslabs.com/?layer=naip_v2_rgb_2014-2015#lat=39.2322531&lng=-100.8544921&skipTut=true&zoom=5)
+- [Getty Search Gateway](https://search.getty.edu/gateway/search?cat=highlight&dir=s&f=%22Open+Content+Images%22&pg=1&q=&rows=10&srt=a)
+- [Ghost](https://github.com/urbanguacamole/torrent-paradise)
+- [GitHub - dessant/search-by-image: Browser extension for reverse image search, available on Chrome, Firefox and Opera](https://github.com/dessant/search-by-image)
+- [Github.com/megadose/OnionSearch](https://github.com/megadose/OnionSearch)
+- [Google Plus Search - Search Google Plus (Google+) public contents...](https://googleplussearch.chromefans.org/)
+- [Google search](https://support.google.com/websearch/answer/2466433?hl=en&p=adv_operators&rd=1)
+- [Google Social Search](https://www.social-searcher.com/google-social-search/)
+- [Google vs. Bing vs. Yandex: Comparing Image Search Filters–i-intelligence](https://i-intelligence.eu/insights/google-vs-bing-vs-yandex-image-search-comparing-filters)
+- [Google Webfonts Helper](https://grammatech.gitlab.io/Mnemosyne/docs/)
+- [Google.com/search?q=peerflix+site%3Aherokuapp](https://www.google.com/search?q=peerflix+site%3Aherokuapp.com)
+- [Graph Search Important Changes](https://booleanstrings.com/2018/06/25/facebook-graph-search-important-changes/)
+- [Hack Gence Open Directoy Search](https://hardenedbsd.org/)
+- [Hashtag Search](https://tagboard.com/TEST/search)
+- [Home - First Choice](https://firstchoiceresearch.com/)
+- [How to check Google search results for different locations - Search Engine Watch Search Engine WatchHow to check Google search results for different locations - Search Engine Watch](https://www.searchenginewatch.com/2019/08/29/check-google-search-results-for-locations/)
+- [Hunter Domain Search](https://hunter.io/users/sign_in)
+- [Image Raider - Search URL images up to 20 images](https://infringement.report/api/raider-reverse-image-search)
+- [Indiana Case Search](https://public.courts.in.gov/mycase#/vw/Search)
+- [Instant Domain Search](https://intotheinter.net/)
+- [International Search Engines Index](https://www.searchenginesindex.com/)
+- [Invisionapp.com/inside-design/search?q=wireframing](https://www.invisionapp.com/inside-design/search/?q=wireframing)
+- [Ipfs-search](https://www.ipfs-search.com/)
+- [Irc2go](https://irc2go.com/)
+- [Jake Archibald](https://javascriptjob.xyz/)
+- [Kiwi IRC Search](https://koel.dev/)
+- [Maryland Judiciary Case Search](https://casesearch.courts.state.md.us/casesearch/inquiry-index.jsp)
+- [Maxkersten.nl/binary-analysis-course/obtaining-samples/searching-samples/](https://maxkersten.nl/binary-analysis-course/obtaining-samples/searching-samples/)
+- [Meganzsearch.com](https://www.meganzsearch.com/)
+- [MidaSearch](https://midasearch.org/)
+- [MP3 Juice MP3 Download for Free - MP3Juices](https://www.mp3juices.cc/dd7d1)
+- [Napalm FTP Indexer](https://www.searchftps.net/)
+- [NewspaperArchive](https://newspaperarchive.com/search/)
+- [NudeVista Free Porn Search Engine](https://www.nudevista.com/)
+- [NY Rent Regulated Building Search](https://hcr.ny.gov/forms-applications)
+- [NZBKing - Usenet Indexer](https://nzbking.com/)
+- [Ohio Corrections Search](https://appgateway.drc.ohio.gov/OffenderSearch)
+- [Ohio Secretary of State Search](https://businesssearch.ohiosos.gov/)
+- [Online IDE and Paste Search Engine](https://redhuntlabs.com/online-ide-search)
+- [Paul Myers FB Graph Links](https://researchclinic.net/facebook/facebook.html)
+- [PDF Drive - Document Search](https://www.pdfdrive.com/search?q=password)
+- [Periscope Watch on Web | Periscope Search](https://www.perisearch.xyz/)
+- [Phone number search Tool](https://www.aware-online.com/en/osint-tools/phone-number-search-tool/)
+- [Pictures](https://www.picsearch.com/)
+- [Piper](https://github.com/lruggieri/gonema)
+- [Pixelmob - Royalty Free Photos Search Engine. Find Free Images](https://pixelmob.co/)
+- [POW Video](https://predb.org/tracers)
+- [PREDB Europe](https://prefap.com/)
+- [Public Record Retriver Network](https://www.prrn.us/404)
+- [Radio-Sherlock](https://www.dxmaps.com/search.html)
+- [ReactOS](https://recipe-search.typesense.org/)
+- [Redasm](https://redditcommentsearch.com/)
+- [resume name](https://www.google.com/search?newwindow=1&q=resume+%22name%22&tbm=isch)
+- [Sandboxie](https://github.com/Securityautomation/DumpTheGit)
+- [Schare](https://vast.ai/)
+- [Schema.org](https://www.schema.org/)
+- [Search](https://lookup-id.com/facebooksearch.html)
+- [search (@search@gab.com) | gab.com - Gab Social](https://gab.com/search)
+- [Search All Junk - Classifieds search](https://searchalljunk.com/)
+- [Search Atlas: Visualizing Divergent Search Results Across Geopolitical Borders](https://searchatlas.org/)
+- [Search Buzz](https://securegroup.com/products/secure-hardware-platforms)
+- [Search craigslist](https://searchcraigslist.org/)
+- [Search Datasets](https://datahub.io/search)
+- [Search Engine Party](https://searchengine.party/)
+- [Search for Charts by Data Visualization Functions](https://datavizcatalogue.com/search.html)
+- [Search is Back - Extra Search tool](https://searchisback.com/)
+- [Search Tips](https://hdinternet.nl/facebook-graph-search/)
+- [SearchPeopleDirectory.com](https://www.searchpeopledirectory.com/)
+- [Skiplagged](https://skiplagged.com/)
+- [Skiplagged.com/about](https://skiplagged.com/about)
+- [SmallSEOTools Reverse Image Search](https://smallseotools.com/reverse-image-search/)
+- [Spytox Email Search](https://www.spytox.com/email-search)
+- [SQLite Viewer](https://intelx.io/)
+- [Steam Community :: Search](https://steamcommunity.com/search/users)
+- [The No More Ransom Project](https://www.nomoreransom.org/en/decryption-tools.html)
+- [Thepiratebay.org/search.php?q=user:generation2](https://thepiratebay.org/search.php?q=user%3Ageneration2)
+- [This X Does Not Exist](https://threatfeeds.io/)
+- [TMP Mail](https://github.com/sergiotapia/torrentinim)
+- [Torrent Galaxy](https://trace.moe/)
+- [ToS;DR Search](https://search.tosdr.org/)
+- [Tracers](https://search.tracers.com/TracersInfoContent/Login.aspx)
+- [Trape OSINT tool: People tracker on the Internet](https://hakin9.org/people-tracker-on-the-internet-osint-analysis-and-research-tool)
+- [US & World newspapers](https://search.findmypast.com/search/british-newspapers)
+- [USA - Public Records](https://www.publicrecords.onlinesearches.com/)
+- [Username search tool](https://www.aware-online.com/en/osint-tools/username-search-tool/)
+- [Vimeo search tool](https://www.aware-online.com/en/osint-tools/vimeo-search-tool/)
+- [Web archive search tool](https://www.aware-online.com/osint-tools/web-archive-search-tool/)
+- [Website search tool](https://www.aware-online.com/en/osint-tools/website-search-tool/)
+- [White Pages- Email Search](https://www.searchpeopledirectory.com/phonebooks/hungary/)
+- [WHOIS History Search](https://torrage.info/)
+- [WikiLeaks Search](https://search.wikileaks.org/)
+- [WordPress Search](https://en.search.wordpress.com/)
+- [Yahoo Image Search](https://images.search.yahoo.com/)
+- [Yandex.Images](https://www.yandex.com/images/search)
+- [YAPO e+](https://github.com/crisdosyago/Diskernet)
+- [ZoomInfos database](https://www.zoominfo.com/s/search)
+
+## More Custom Search Engines
+
+- [Poal: Say what you want.](https://poal.co/all/new)
+- [- Petal Search](https://petalsearch.com/)
+- [- VIPSearch](http://vipsearch.top/v2/index.php?q=#gsc.tab=0)
+- [.blue–The search engine for ocean restoration](https://blue-search.org/)
+- [@nifty](https://www.nifty.com/)
+- [/ | yande.re](https://yande.re/post)
+- [1000x Faster Spelling Correction algorithm (2012)](https://wolfgarbe.medium.com/1000x-faster-spelling-correction-algorithm-2012-8701fcd87a5f)
+- [14 People Search Engines to Find Old Friends](https://www.hongkiat.com/blog/people-search-engines/)
+- [1707](https://arxiv.org/pdf/1707.07835.pdf)
+- [1steKeuze zoekmachine ! Een van de betere zoekmachines.](https://www.eerstekeuze.nl/)
+- [2108](https://arxiv.org/pdf/2108.04026.pdf)
+- [3 Guidelines for Search Engine No Results Pages](https://www.nngroup.com/articles/search-no-results-serp/)
+- [403 Forbidden](https://startgoogle.startpagina.nl/)
+- [5 Right Ways to Measure How Search Is Performing - OpenSource Connections](https://opensourceconnections.com/blog/2020/05/11/5-right-ways-to-measure-search/)
+- [5 Searchandising Hacks to Increase Ecommerce Sales](https://searchanise.io/blog/searchandising/)
+- [7 Filtering Implementations That Make Macy’s Best-in-Class–Articles–Baymard Institute](https://baymard.com/blog/macys-filtering-experience)
+- [9 UX Best Practice Design Patterns for Autocomplete Suggestions (Only 19% Get Everything Right)–Articles–Baymard Institute](https://baymard.com/blog/autocomplete-design)
+- [98 personal data points that Facebook uses to target ads to you](https://www.washingtonpost.com/news/the-intersect/wp/2016/08/19/98-personal-data-points-that-facebook-uses-to-target-ads-to-you/)
+- [A closer look into the spell correction problem—Part 1](https://medium.com/@searchhub.io/a-closer-look-into-the-spell-correction-problem-part-1-a6795bbf7112)
+- [A closer look into the spell correction problem—Part 2—introducing preDict](https://medium.com/@searchhub.io/a-closer-look-into-the-spell-correction-problem-part-2-introducing-predict-8993ecab7226)
+- [A closer look into the spell correction problem—Part 3—the bells and whistles](https://medium.com/@searchhub.io/a-closer-look-into-the-spell-correction-problem-part-3-the-bells-and-whistles-19697a34011b)
+- [A Face Is Exposed for AOL Searcher No. 4417749 (Published 2006)](https://www.nytimes.com/2006/08/09/technology/09aol.html)
+- [A simple spell checker built from word vectors](https://edrushton.medium.com/a-simple-spell-checker-built-from-word-vectors-9f28452b6f26)
+- [A Structural Look at Search—philosophe.*](https://www.philosophe.com/archived_content/search_topics/structure.html)
+- [A.I. for Search | E-commerce Search by 904Labs](https://www.904labs.com/en/blog-google-kills-instant-search.html)
+- [A/B Testing for Search is Different](https://dtunkelang.medium.com/a-b-testing-for-search-is-different-f6b0f6f4d0f5)
+- [A/B Testing Search: thinking like a scientist](https://jamesrubinstein.medium.com/a-b-testing-search-thinking-like-a-scientist-1cc34b88392e)
+- [Aarne Talman & Dmitry Kan–Muves: Multimodal & multilingual vector search w/ Hardware Acceleration](https://m.youtube.com/watch?v=9OS8cMf2rwY)
+- [About us - Mayyan](https://www.mayyan.org/)
+- [Account Suspended](http://searchnews.org/cgi-sys/suspendedpage.cgi)
+- [AI for Query Understanding](https://www.linkedin.com/pulse/ai-query-understanding-daniel-tunkelang)
+- [AI-Powered Search](https://www.manning.com/books/ai-powered-search)
+- [Alhea](https://www.alhea.com/)
+- [Almonit](https://almonit.club/)
+- [AlohaFind Private web search - Private search for VPN](https://alohafind.com/)
+- [Altroo - Your search engine for doing good](https://search.altroo.net/)
+- [Amazon SEO Explained: How to Rank Your Products #1 in 2020](https://crazylister.com/blog/amazon-seo-ultimate-guide/)
+- [An Introduction to Search Quality - OpenSource Connections](https://opensourceconnections.com/blog/2018/11/19/an-introduction-to-search-quality/)
+- [Analyzing online search relevance metrics with Elasticsearch & the Elastic Stack](https://www.elastic.co/blog/analyzing-online-search-relevance-metrics-with-the-elastic-stack)
+- [Anonymisation code](https://ico.org.uk/media/1061/anonymisation-code.pdf)
+- [AOL search log release - Wikipedia](https://en.wikipedia.org/wiki/AOL_search_data_leak)
+- [Applying Context Aware Spell Checking in Spark NLP](https://medium.com/spark-nlp/applying-context-aware-spell-checking-in-spark-nlp-3c29c46963bc)
+- [Ark2030: Search the web to help restore the ecosystem!](https://search.ark2030.org/)
+- [Assumptions About Search—philosophe.*](https://www.philosophe.com/archived_content/search_topics/search_assumptions.html)
+- [Assumptions About User Search Behavior—philosophe.*](https://www.philosophe.com/archived_content/search_topics/user_behavior.html)
+- [au Webポータル](https://portal.auone.jp/)
+- [Autocomplete](https://queryunderstanding.com/autocomplete-69ed81bba245)
+- [Autocomplete and User Experience](https://queryunderstanding.com/autocomplete-and-user-experience-421df6ab3000)
+- [Autocomplete Search Best Practices for Ecommerce - Lucidworks](https://lucidworks.com/post/autocomplete-search-increase-conversions/)
+- [Autocomplete, Live Search Suggestions, and Autocorrection: Best Practice Design Patterns](https://hybrismart.com/2019/01/08/autocomplete-live-search-suggestions-autocorrection-best-practice-design-patterns/)
+- [Autocorrect in Google, Amazon and Pinterest and how to write your own one](https://towardsdatascience.com/autocorrect-in-google-amazon-and-pinterest-and-how-to-write-your-own-one-6d23bc927c81)
+- [Autosuggest for Search : Query-based vs. Content-based](https://web.archive.org/web/20181207194952/https://www.searchblox.com/autosuggest-search-query-based-vs-content-based)
+- [Autosuggest Ranking](https://medium.com/related-works-inc/autosuggest-ranking-d8a3242c2837)
+- [AutoSuggest Retrieval & Ranking (Part 2)](https://tech.olx.com/autosuggest-retrieval-ranking-part-2-14a8f50fef34)
+- [Autosuggest Retrieval Data Structures & Algorithms](https://medium.com/related-works-inc/autosuggest-retrieval-data-structures-algorithms-3a902c74ffc8)
+- [Badjojo Porn Search](https://www.badjojo.com/)
+- [Balance Your Search Budget!](https://www.linkedin.com/pulse/balance-your-search-budget-daniel-tunkelang)
+- [Basilisk web browser](https://www.basilisk-browser.org/)
+- [Beaker | A peer-to-peer browser for Web hackers.](https://beakerbrowser.com/)
+- [Berlin Buzzwords 2022 | Berlin Buzzwords 2022](https://2022.berlinbuzzwords.de/)
+- [Better Internet Search](https://www.betterinternetsearch.com/)
+- [Better than Average: Sort by Best Rating with Elasticsearch](https://www.elastic.co/blog/better-than-average-sort-by-best-rating-with-elasticsearch)
+- [BIGLOBEウェブ検索](https://search.biglobe.ne.jp/)
+- [Blackle - Energy Saving Search](http://www.blackle.com/)
+- [BM25 The Next Generation of Lucene Relevance - OpenSource Connections](https://opensourceconnections.com/blog/2015/10/16/bm25-the-next-generation-of-lucene-relevation/)
+- [Bonesearch | Metasearch search engine](https://www.bonesearch.com/)
+- [BoodiGoGo News and Commentary For Adults](https://boodigogo.com/)
+- [Book emb nlp draft](https://josecamachocollados.com/book_embNLP_draft.pdf)
+- [Boosting product discovery with semantic search](https://blog.griddynamics.com/boosting-product-discovery-with-semantic-search/)
+- [Boosting the power of Elasticsearch with synonyms](https://www.elastic.co/blog/boosting-the-power-of-elasticsearch-with-synonyms)
+- [Bootstrapping Autosuggest](https://medium.com/related-works-inc/bootstrapping-autosuggest-c1ca3edaf1eb)
+- [Broad and Ambiguous Search Queries](https://dtunkelang.medium.com/broad-and-ambiguous-search-queries-1bbbe417dcc)
+- [Bromite](https://www.bromite.org/)
+- [Building a Better Search Engine for Semantic Scholar](https://blog.allenai.org/building-a-better-search-engine-for-semantic-scholar-ea23a0b661e7)
+- [Building an Autosuggest Corpus, Part 1](https://medium.com/related-works-inc/building-an-autosuggest-corpus-part-1-3acd26056708)
+- [Building an Autosuggest Corpus, Part 2](https://medium.com/related-works-inc/building-an-autosuggest-corpus-nlp-d21b0f25c31b)
+- [Building an Effective Search Team: the key to great search & relevancy - OpenSource Connections](https://opensourceconnections.com/blog/2020/05/14/building-an-effective-search-team-the-key-to-great-search-relevancy/)
+- [Building Corpus for AutoSuggest (Part 1)](https://tech.olx.com/building-corpus-for-autosuggest-part-1-4f63512b1ea1)
+- [Buscapique.com Search Engine](https://buscapique.com/)
+- [Cactus Search](https://cactus-search.com/)
+- [Character Filtering](https://queryunderstanding.com/character-filtering-76ede1cf1a97)
+- [Chars2vec: character-based language model for handling real world texts with spelling errors and… | HackerNoon](https://hackernoon.com/chars2vec-character-based-language-model-for-handling-real-world-texts-with-spelling-errors-and-a3e4053a147d)
+- [Chedot Browser](https://landing.chedot.com/en)
+- [Cheerie - The search engine that saves animals](https://www.cheerie.org/legal/privacy)
+- [Choosing your search relevance evaluation metric - OpenSource Connections](https://opensourceconnections.com/blog/2020/02/28/choosing-your-search-relevance-metric/)
+- [Clarification Dialogues](https://queryunderstanding.com/clarification-dialogues-69420432f451)
+- [Click Modeling for eCommerce](https://tech.ebayinc.com/engineering/click-modeling-for-ecommerce/)
+- [Click Models for Web Search (Synthesis Lectures on Information Concepts, Retrieval, and Services)](https://www.amazon.com/Synthesis-Lectures-Information-Concepts-Retrieval/dp/1627056475)
+- [Coffee, Coffee, Coffee!](https://dtunkelang.medium.com/coffee-coffee-coffee-de3121b797d1)
+- [Colibri: Browse without tabs](https://colibri.opqr.co/)
+- [Complex Search-Results Pages Change Search Behavior: The Pinball Pattern](https://www.nngroup.com/articles/pinball-pattern-search-behavior/)
+- [Compute Mean Reciprocal Rank (MRR) using Pandas](https://softwaredoug.com/blog/2021/04/21/compute-mrr-using-pandas.html)
+- [Công cụ tìm kiếm Cốc Cốc](https://coccoc.com/search)
+- [Considering Search: Search Topics—philosophe.*](https://www.philosophe.com/archived_content/search_topics/search_topics.html)
+- [Contextual Query Understanding: An Overview](https://queryunderstanding.com/contextual-query-understanding-65c78d792dd8)
+- [Customizing Taxonomy Facets](https://accidental-taxonomist.blogspot.com/2020/10/customizing-taxonomy-facets.html)
+- [Danbooru: Anime Image Board](https://danbooru.donmai.us/)
+- [Daniel Tunkelang–Medium](https://dtunkelang.medium.com/)
+- [Datafari Enterprise Search](https://www.datafari.com/en/index.html)
+- [Daum](https://www.daum.net/)
+- [DDLSearch | Rapidshare Megaupload search engine](http://ddlsearch.free.fr/)
+- [Deconstructing E-Commerce Search UX: The 8 Most Common Search Query Types (42% of Sites Have Issues)–Articles–Baymard Institute](https://baymard.com/blog/ecommerce-search-query-types)
+- [Deep Learning for Search](https://www.manning.com/books/deep-learning-for-search)
+- [Demystifying nDCG and ERR - OpenSource Connections](https://opensourceconnections.com/blog/2019/12/09/demystifying-ndcg-and-err/)
+- [Disconnect Search: Search privately using your favorite search engine](https://search.disconnect.me/)
+- [Discounted cumulative gain - Wikipedia](https://en.wikipedia.org/wiki/Discounted_cumulative_gain)
+- [Discover How Cassini (The eBay Search Engine) Works and Rank #1](https://crazylister.com/blog/ebay-search-engine-cassini/)
+- [Disroot SearX](https://search.disroot.org/)
+- [Dive into WordNet with NLTK](https://medium.com/@don_khozzy/dive-into-wordnet-with-nltk-b313c480e788)
+- [DLive · Live Stream on Blockchain](https://dlive.io/)
+- [Dlive Protocol | Livestream what you want. When you want.](https://dlive.org/)
+- [Do all-stopword queries matter?](https://observer.wunderwood.org/2007/05/31/do-all-stopword-queries-matter/)
+- [Donetica](https://www.donetica.com/)
+- [dooble](https://textbrowser.github.io/dooble/)
+- [Doodo](https://doodo.in/)
+- [Download latest stable Chromium binaries (64-bit and 32-bit)](https://chromium.woolyss.com/#windows)
+- [E-Commerce Search Field Design and Its Implications–Articles–Baymard Institute](https://baymard.com/blog/search-field-design)
+- [E-Commerce Search Needs to Support Users’ Non-Product Search Queries (15% Don’t)–Articles–Baymard Institute](https://baymard.com/blog/support-non-product-search)
+- [E-commerce Search Re-Ranking as a Reinforcement Learning Problem](https://towardsdatascience.com/e-commerce-search-re-ranking-as-a-reinforcement-learning-problem-a9d1561edbd0)
+- [E-Commerce Search Usability: Report & Benchmark–Articles–Baymard Institute](https://baymard.com/blog/ecommerce-search-report-and-benchmark)
+- [E-commerce Site-Search KPIs - Part 1 - Customers - OpenSource Connections](https://opensourceconnections.com/blog/2020/08/28/e-commerce-site-search-kpis/)
+- [E-commerce Site-Search KPIs - Part 2 - Products - OpenSource Connections](https://opensourceconnections.com/blog/2020/09/10/e-commerce-site-search-kpis-part-2/)
+- [E-Commerce Site-Search KPIs - Part 3 - Queries - OpenSource Connections](https://opensourceconnections.com/blog/2020/09/24/e-commerce-site-search-kpis-part-3-queries/)
+- [E-Commerce Sites Need Multiple of These 5 ‘Search Scope’ Features–Articles–Baymard Institute](https://baymard.com/blog/search-scope)
+- [E-Commerce Sites Should Include Contextual Search Snippets (96% Get it Wrong)–Articles–Baymard Institute](https://baymard.com/blog/search-snippets)
+- [E-Commerce UX Research Articles–Baymard Institute](https://baymard.com/blog)
+- [Egerin](https://www.egerin.com/)
+- [Ekoru - every search cleans our oceans](https://www.ekoru.org/)
+- [ElasticON conference events for Elasticsearch and ELK Stack users](https://www.elastic.co/elasticon)
+- [Ellpedia - Private Metasearch Engine](https://en.ellpedia.com/)
+- [Ellpedia -プライバシーを守る検索エンジン](https://www.ellpedia.com/)
+- [Embedding for spelling correction](https://towardsdatascience.com/embedding-for-spelling-correction-92c93f835d79)
+- [Entity Recognition](https://queryunderstanding.com/entity-recognition-763cae840a20)
+- [EpicSearch.in - True Private Search](https://www.epicsearch.in/)
+- [eTools.ch - The Transparent Metasearch Engine from Switzerland](https://www.etools.ch/search.do)
+- [Etsy Engineering | How Etsy Uses Thermodynamics to Help You Search for](https://www.etsy.com/codeascraft/how-etsy-uses-thermodynamics-to-help-you-search-for-geeky)
+- [Etsy Engineering | Modeling Spelling Correction for Search at Etsy](https://www.etsy.com/codeascraft/modeling-spelling-correction-for-search-at-etsy)
+- [Etsy Engineering | Targeting Broad Queries in Search](https://www.etsy.com/codeascraft/targeting-broad-queries-in-search)
+- [Evaluating & Addressing Position Bias in Adobe Stock Search](https://blog.developer.adobe.com/evaluating-addressing-position-bias-in-adobe-stock-search-9807b11ee268)
+- [Evaluating Search: Measure It](https://dtunkelang.medium.com/evaluating-good-search-part-i-measure-it-5507b2dbf4f6)
+- [Evaluating Search: Measuring Searcher Behavior](https://dtunkelang.medium.com/evaluating-search-measuring-searcher-behavior-5f8347619eb0)
+- [Evaluating Search: Using Human Judgement](https://dtunkelang.medium.com/evaluating-search-using-human-judgement-fbb2eeba37d9)
+- [Evaluation measures (information retrieval) - Wikipedia](https://en.wikipedia.org/wiki/Evaluation_measures_(information_retrieval)#Precision_at_K))
+- [ExaSearch](https://search.exarius.org/)
+- [Exciteエキサイト](https://www.excite.co.jp/)
+- [Explore the Map](https://freedomhouse.org/explore-the-map?type=fiw&year=2022)
+- [External Article: The Current State of E-Commerce Search–Articles–Baymard Institute](https://baymard.com/blog/external-article-state-of-ecommerce-search)
+- [F-score - Wikipedia](https://en.wikipedia.org/wiki/F1_score)
+- [Facet Search: The Most Comprehensive Guide. Best Practices, Design Patterns, Hidden Caveats, And Workarounds.](https://hybrismart.com/2019/02/13/facet-search-the-most-comprehensible-guide-best-practices-design-patterns/#d5)
+- [Faceted Search](https://queryunderstanding.com/faceted-search-7d053cc4fada)
+- [Faceted Sorting - A New Method for Sorting Search Results–Articles–Baymard Institute](https://baymard.com/blog/faceted-sorting)
+- [Facets of Faceted Search](https://dtunkelang.medium.com/facets-of-faceted-search-38c3e1043592)
+- [Falkon](https://www.falkon.org/)
+- [Falsehoods Programmers Believe About Search - OpenSource Connections](https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/)
+- [Fast Word Segmentation of Noisy Text](https://towardsdatascience.com/fast-word-segmentation-for-noisy-text-2c2c41f9e8da)
+- [Feedback debt: what the Segway teaches search teams - OpenSource Connections](https://opensourceconnections.com/blog/2020/03/19/feedback-debt/)
+- [Filtering: The Missing WHERE Clause in Vector Search | Pinecone](https://www.pinecone.io/learn/vector-search-filtering/)
+- [Find It](https://find-it.pro/)
+- [Findx - an experimental search engine by Privacore.](https://www.findx.com/)
+- [Flag ukraine 1f1fa 1f1e6](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/flag-ukraine_1f1fa-1f1e6.png)
+- [Flaru - a torch to light your way](https://test.flaru.com/en)
+- [Food Discovery with Uber Eats: Building a Query Understanding Engine | Uber Blog](https://www.uber.com/blog/uber-eats-query-understanding)
+- [FoodDiscovery#2: Ethical Search: Designing an irresistible journey with a positive impact](https://medium.com/empathyco/fooddiscovery-2-ethical-search-designing-an-irresistible-journey-with-a-positive-impact-cc921c07a5a8)
+- [Forever Domains](https://foreverdomains.io/)
+- [Francité Annuaires, Moteur de recherche et portail francophone - webmestre - rencontre](http://www.francite.com/)
+- [Free email accounts | Register today at mail.com](https://www.mail.com/)
+- [Free Porn Search - Porndex](https://www.porndex.com/)
+- [Fundamentals of query rewriting (part 1): introduction to query expansion - OpenSource Connections](https://opensourceconnections.com/blog/2021/10/19/fundamentals-of-query-rewriting-part-1-introduction-to-query-expansion/)
+- [Gelbooru | Free Anime and Hentai Gallery](https://gelbooru.com/)
+- [Gensim Word2Vec Tutorial: An End-to-End Example - Kavita Ganesan, PhD](https://kavita-ganesan.com/gensim-word2vec-tutorial-starter-code/#.XV-wnJMzbUL)
+- [Gensim: topic modelling for humans](https://radimrehurek.com/gensim/models/phrases.html)
+- [Gentoo Portage Overlays - News](https://gpo.zugaina.org/)
+- [getasearch.com - Search Engine](https://getasearch.com/)
+- [Gexsi–The search engine for a better world](https://gexsi.com/en/)
+- [Ghostery Glow](https://ghosterysearch.com/)
+- [Ghostery Glow](https://glowstery.com/)
+- [GitHub - AgregoreWeb/agregore-browser: A minimal browser for the distributed web (Desktop version)](https://github.com/AgregoreWeb/agregore-browser)
+- [GitHub - ahmia/ahmia-site: Ahmia.fi - Hidden service search engine](https://github.com/ahmia/ahmia-site)
+- [GitHub - almonit/almonit-plugin: ENS+IPFS Firefox plugin by Almonit](https://github.com/almonit/almonit-plugin)
+- [GitHub - axic/mango: Mango: Git, completely decentralised.](https://github.com/axic/mango)
+- [GitHub - backprop-ai/backprop: Backprop makes it simple to use, finetune, and deploy state-of-the-art ML models.](https://github.com/backprop-ai/backprop)
+- [GitHub - bakwc/JamSpell: Modern spell checking library - accurate, fast, multi-language](https://github.com/bakwc/JamSpell)
+- [GitHub - benbusby/whoogle-search: A self-hosted, ad-free, privacy-respecting metasearch engine](https://github.com/benbusby/whoogle-search)
+- [GitHub - bozbez/win-capture-audio: An OBS plugin that allows capture of independant application audio streams on Windows, in a similar fashion to OBSs game capture and Discords application streaming.](https://github.com/bozbez/win-capture-audio)
+- [GitHub - castorini/docTTTTTquery: docTTTTTquery document expansion model](https://github.com/castorini/docTTTTTquery)
+- [GitHub - cjb/GitTorrent: A decentralization of GitHub using BitTorrent and Bitcoin](https://github.com/cjb/GitTorrent)
+- [GitHub - codelibs/fess: Fess is very powerful and easily deployable Enterprise Search Server.](https://github.com/codelibs/fess)
+- [GitHub - deepset-ai/haystack: Haystack is an open source NLP framework that leverages pre-trained Transformer models. It enables developers to quickly implement production-ready semantic search, question answering, summarization and document ranki...](https://github.com/deepset-ai/haystack)
+- [GitHub - duckduckgo/Android: DuckDuckGo Android App](https://github.com/duckduckgo/Android)
+- [GitHub - elzabrowser/elza: Private, fast and minimal web browser based on electron with built-in tor.](https://github.com/elzabrowser/elza)
+- [GitHub - fork-maintainers/iceraven-browser: Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser)
+- [GitHub - frutik/awesome-cloud-apps](https://github.com/frutik/awesome-cloud-apps)
+- [GitHub - frutik/awesome-e-commerce](https://github.com/frutik/awesome-e-commerce)
+- [GitHub - frutik/awesome-knowledge-graphs: Graph databases, Knowledge Graphs, SPARQ](https://github.com/frutik/awesome-knowledge-graphs)
+- [GitHub - frutik/awesome-spacy](https://github.com/frutik/awesome-spacy)
+- [GitHub - frutik/awesome-timeseries: Forecasting, anomaly detection, predictive analytics, econometrics and much more](https://github.com/frutik/awesome-timeseries)
+- [GitHub - gigablast/open-source-search-engine: Nov 20 2017 -- A distributed open source search engine and spider/crawler written in C/C++ for Linux on Intel/AMD. From gigablast dot com, which has binaries for download. See the README.md file at the...](https://github.com/gigablast/open-source-search-engine)
+- [GitHub - GNU-Linux-libre/Awesome-VPN-Network: The best vpn service 2022 Lifetime free anonymous Awesome dVPN foss Network decentralized Ethereum Blockchain DHT-VPN Peer-to-peer open-source](https://github.com/GNU-Linux-libre/Awesome-VPN-Network)
+- [GitHub - hazuki0x0/YuzuBrowser: Customizable browser for android](https://github.com/hazuki0x0/YuzuBrowser)
+- [GitHub - hnhx/librex: A privacy respecting free as in freedom meta search engine for Google and popular torrent sites](https://github.com/hnhx/librex)
+- [GitHub - imperviousinc/beacon: Beacon browser for desktop](https://github.com/imperviousinc/beacon)
+- [GitHub - intika/Librefox: Librefox: Firefox with privacy enhancements](https://github.com/intika/Librefox)
+- [GitHub - ipfs-search/dweb-search-frontend: Frontend for dweb-search, formerly ipfs-search.com](https://github.com/ipfs-search/dweb-search-frontend)
+- [GitHub - ipfs-search/ipfs-search: Search engine for the Interplanetary Filesystem.](https://github.com/ipfs-search/ipfs-search)
+- [GitHub - jaeksoft/opensearchserver: Open-source Enterprise Grade Search Engine Software](https://github.com/jaeksoft/opensearchserver)
+- [GitHub - jina-ai/jina: -10179; Build cross-modal and multimodal applications on the cloud · Neural Search · Creative AI · Cloud Native · MLOps](https://github.com/jina-ai/jina)
+- [GitHub - jpbarrette/moman: Forever incomplete suite of tools for an orthographic/grammatical checker](https://github.com/jpbarrette/moman)
+- [GitHub - kiwibrowser/src.next: Source-code for Kiwi Next, a Kiwi Browser auto-rebased with latest Chromium](https://github.com/kiwibrowser/src.next)
+- [GitHub - learn-anything/learn-anything: Organize worlds knowledge, explore connections and curate learning paths](https://github.com/learn-anything/learn-anything)
+- [GitHub - LIAAD/yake: Single-document unsupervised keyword extraction](https://github.com/LIAAD/yake)
+- [GitHub - maidsafe/sn_browser: Safe Network Browser Application](https://github.com/maidsafe/sn_browser)
+- [GitHub - mammothb/symspellpy: Python port of SymSpell: 1 million times faster spelling correction & fuzzy search through Symmetric Delete spelling correction algorithm](https://github.com/mammothb/symspellpy)
+- [GitHub - meilisearch/meilisearch: A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.](https://github.com/meilisearch/meilisearch)
+- [GitHub - midori-browser/core: Midori Web Browser - a lightweight, fast and free web browser using WebKit and GTK+](https://github.com/midori-browser/core)
+- [GitHub - minbrowser/min: A fast, minimal browser that protects your privacy](https://github.com/minbrowser/min)
+- [GitHub - o19s/quepid: Not A Search Relevancy Workbench ;-). Improve your Elasticsearch and Solr search quality.](https://github.com/o19s/quepid)
+- [GitHub - paulgoio/searxng: SearXNG image with changed simple theme, settings.yml](https://github.com/paulgoio/searxng)
+- [GitHub - PurpleI2P/i2pdbrowser: i2pd browser bundle](https://github.com/PurpleI2P/i2pdbrowser)
+- [GitHub - querqy/chorus: Towards an open source stack for e-commerce search](https://github.com/querqy/chorus)
+- [GitHub - querqy/querqy: Query preprocessor for Java-based search engines (Querqy Core and Solr implementation)](https://github.com/querqy/querqy)
+- [GitHub - querqy/smui: Search Management UI](https://github.com/querqy/smui)
+- [GitHub - quorumcontrol/dgit: dgit adds decentralized ownership to git - powered by Tupelo DLT and Skynet](https://github.com/quorumcontrol/dgit)
+- [GitHub - qutebrowser/qutebrowser: A keyboard-driven, vim-like browser based on Python and Qt.](https://github.com/qutebrowser/qutebrowser)
+- [GitHub - RimoChan/sese-engine:【sese-engine】新时代的搜索引擎！](https://github.com/RimoChan/sese-engine)
+- [GitHub - sanazbahargam/Query-Understanding](https://github.com/sanazbahargam/Query-Understanding)
+- [GitHub - searchhub/preDict: Lightning fast spell correction / fuzzy search library based on SymSpell by Commerce-Experts](https://github.com/searchhub/preDict)
+- [GitHub - searchhub/search-collector: A fast and simple JavaScript library specifically targeted at collecting search and search related browser events.](https://github.com/searchhub/search-collector)
+- [GitHub - searx/searx: Privacy-respecting metasearch engine](https://github.com/searx/searx)
+- [GitHub - SeaseLtd/rated-ranking-evaluator: Search Quality Evaluation Tool for Apache Solr & Elasticsearch search-based infrastructures](https://github.com/SeaseLtd/rated-ranking-evaluator)
+- [GitHub - SieloBrowser/sielo-legacy: An open source browser made with Qt and WebEngine](https://github.com/SieloBrowser/sielo-legacy)
+- [GitHub - sorayuki/obs-multi-rtmp: OBS ≧ 26.1用複数サイト同時配信プラグイン](https://github.com/sorayuki/obs-multi-rtmp)
+- [GitHub - soumyaxyz/query-segmenter: Query Segmentation for search](https://github.com/soumyaxyz/query-segmenter)
+- [GitHub - terrier-org/terrier-core: Terrier IR Platform](https://github.com/terrier-org/terrier-core)
+- [GitHub - tiekoettercom/searx-instances-uptime: -10179; Uptime monitor and status page for SearXNG and SearX instances](https://github.com/tiekoettercom/searx-instances-uptime)
+- [GitHub - typesense/typesense: Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ -10179; ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences](https://github.com/typesense/typesense)
+- [GitHub - webcatalog/chromeless: Official Chromeless app](https://github.com/webcatalog/chromeless)
+- [GitHub - wexond/browser-base: Modern and feature-rich web browser base based on Electron](https://github.com/wexond/browser-base)
+- [GitHub - wolfgarbe/SymSpell: SymSpell: 1 million times faster spelling correction & fuzzy search through Symmetric Delete spelling correction algorithm](https://github.com/wolfgarbe/symspell)
+- [GitHub - yacy/yacy_search_server: Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance](https://github.com/yacy/yacy_search_server)
+- [GitHub - YunYouJun/sese-engine-ui: -10179; Sese engine ui. 色色搜索引擎 UI](https://github.com/YunYouJun/sese-engine-ui)
+- [GitHub - zentity-io/zentity: Entity resolution for Elasticsearch.](https://github.com/zentity-io/zentity)
+- [Glimesh - Next-Gen Live Streaming](https://glimesh.tv/)
+- [GNUzilla and IceCat - GNU Project - Free Software Foundation](https://www.gnu.org/software/gnuzilla/)
+- [Good Abandonment on Search Results Pages](https://www.nngroup.com/articles/good-abandonment/)
+- [Google is improving web search with BERT–can we use it for enterprise search too?](https://www.linkedin.com/pulse/google-improving-web-search-bert-can-we-use-too-mickel-gr%C3%B6nroos)
+- [GreenH2O Search: Support water charities with each search](https://search.greenh2o.org/)
+- [Greening The Earth: Search the web to offset your carbon footprint!](https://search.greeningtheearth.com/)
+- [Haystack - The Search Relevance Conference](https://haystackconf.com/)
+- [Hide My Searches | Home](https://www.hidemysearches.com/home)
+- [Home](https://www.activate-conf.com/)
+- [Home | KURO](https://pixiv.kurocore.com/)
+- [Homepage - Derpibooru](https://derpibooru.org/)
+- [How Bing Ranks Search Results: Core Algorithm & Blue Links](https://www.searchenginejournal.com/how-bing-ranks-search-results/357804/)
+- [How Google Search Ranking Works–Darwinism in Search](https://www.searchenginejournal.com/how-google-search-ranking-works/307591/)
+- [How is search different than other machine learning problems? - OpenSource Connections](https://opensourceconnections.com/blog/2017/08/03/search-as-machine-learning-prob/)
+- [How Many Facets Should a Taxonomy Have](https://accidental-taxonomist.blogspot.com/2020/07/how-many-facets-in-taxonomy.html)
+- [How Not To Sort By Average Rating](https://www.evanmiller.org/how-not-to-sort-by-average-rating.html)
+- [How to Achieve Ecommerce Search Relevance](https://blog.searchhub.io/how-to-achieve-ecommerce-search-relevance?cn-reloaded=1&cn-reloaded=1)
+- [How to Build a Smart Synonyms Model](https://blog.kensho.com/how-to-build-a-smart-synonyms-model-1d525971a4ee)
+- [How to Develop Word Embeddings in Python with Gensim](https://machinelearningmastery.com/develop-word-embeddings-python-gensim)
+- [How to Gain Insight From Search Analytics | SearchBlox](https://www.searchblox.com/how-to-gain-insight-from-search-analytics/)
+- [How to Implement a Normalized Discounted Cumulative Gain (NDCG) Ranking Quality Scorer in Quepid - OpenSource Connections](https://opensourceconnections.com/blog/2018/02/26/ndcg-scorer-in-quepid/)
+- [How to implement faceted search the right way](https://medium.com/empathyco/how-to-implement-faceted-search-the-right-way-4bfba2bd2adc)
+- [How to incorporate phrases into Word2Vec - a text mining approach - Kavita Ganesan, PhD](https://kavita-ganesan.com/how-to-incorporate-phrases-into-word2vec-a-text-mining-approach/#.XV-wnJMzbUL)
+- [How to measure Diversity of Search Results | Berlin Buzzwords 2021](https://2021.berlinbuzzwords.de/session/how-measure-diversity-search-results)
+- [How to Write a Spelling Corrector](https://norvig.com/spell-correct.html)
+- [Humans—Search for Things not for Strings](https://www.linkedin.com/pulse/humans-search-things-strings-andreas-wagner)
+- [Hybrid search > sum of its parts? Berlin Buzzwords 2022](https://pretalx.com/bbuzz22/talk/YEHRTE/)
+- [Hyperbeam—Embed Virtual Computers in your website](https://hyperbeam.com/)
+- [hyperDart](https://hyperdart.com/hd/web)
+- [Idol Complex image search](https://idol.iqdb.org/)
+- [If I Only Had an (Enterprise Search) Brain: Behind the Wizardry of a Seamless Search Experience - Enterprise Knowledge](https://enterprise-knowledge.com/if-i-only-had-an-enterprise-search-brain-behind-the-wizardry-of-a-seamless-search-experience/)
+- [Implementing a Linkedin like search as you type with Elasticsearch](https://spinscale.de/posts/2020-05-29-implementing-a-linkedin-like-search-as-you-type-with-elasticsearch.html)
+- [Improving Search Suggestions for eCommerce](https://medium.com/empathyco/improving-search-suggestions-for-ecommerce-cb1bc2946021)
+- [In Search of Recall](https://www.linkedin.com/pulse/search-recall-daniel-tunkelang)
+- [Index](https://rsf.org/en/index?year=2022)
+- [Infoseek[インフォシーク] - 楽天が運営するポータルサイト](https://www.infoseek.co.jp/)
+- [Integrating Search and Knowledge Graphs Series Part 1: Displaying Relationships - Enterprise Knowledge](https://enterprise-knowledge.com/integrating-search-and-knowledge-graphs-series-part-1-displaying-relationships/)
+- [Interactions with Search Systems](https://www.cambridge.org/core/books/interactions-with-search-systems/5B3CF5920355A8B09088F2C409FFABDC)
+- [Interview Questions for Search Relevance Engineers, Data Scientists, and Product Managers](https://dtunkelang.medium.com/interview-questions-for-search-relevance-engineers-and-product-managers-7a1b6b8cacea)
+- [InviZible–Main](https://invizible.net/en/)
+- [ipfs-search.com](https://dweb-search-frontend.on.fleek.co/)
+- [ipfs-search.com](https://ipfs-search.com/#/)
+- [IPSE-TEAM - Overview](https://github.com/IPSE-TEAM)
+- [Iridium Browser | A browser securing your privacy. That’s it.](https://iridiumbrowser.de/)
+- [Join me on Search for a Cause!](https://search.gladly.io/)
+- [JonDonym - the anonymisation service](https://anonymous-proxy-servers.net/)
+- [Jubii - Nyheder, Mail, Debat, Underholdning, Video](https://www.jubii.dk/)
+- [Kagi Search](https://kagi.com/)
+- [KARMA](https://karmasearch.org/)
+- [KAZ.KZ - Поисковая Система](http://kaz.kz/)
+- [Keyword Extraction using RAKE](https://codelingo.wordpress.com/2017/05/26/keyword-extraction-using-rake/)
+- [Kiddle - visual search engine for kids](https://www.kiddle.co/)
+- [KidzSearch | Kids Safe Search Engine.](https://www.kidzsearch.com/)
+- [KindSearch](https://kindsearch.org/)
+- [Knowledge graphs applied in the retail industry](https://towardsdatascience.com/knowledge-graphs-applied-in-the-retail-industry-ecac4e7baf8)
+- [Kvasir - En smartere måte å lete på](https://www.kvasir.no/)
+- [Language Identification](https://queryunderstanding.com/language-identification-c1d2a072eda)
+- [Learning from Friction to Improve the Search Experience](https://dtunkelang.medium.com/learning-from-friction-to-improve-the-search-experience-8937c71ec97a)
+- [Learning to Rank for Flight Itinerary Search | HackerNoon](https://hackernoon.com/learning-to-rank-for-flight-itinerary-search-8594761eb867)
+- [Libero: Mail, Ricerca e News con aggiornamento quotidiano](https://www.libero.it/)
+- [LibreWeb: -10180; Decentralized Internet](https://libreweb.org/)
+- [LibreWolf Browser](https://librewolf.net/)
+- [LibreX](https://librex.beparanoid.de/)
+- [Lilo](https://search.lilo.org/)
+- [Listing Embeddings in Search Ranking](https://medium.com/airbnb-engineering/listing-embeddings-for-similar-listing-recommendations-and-real-time-personalization-in-search-601172f7603e)
+- [LMGTFY - Let Me Google That For You](https://lmgtfy.app/)
+- [Locality Sensitive Hashing](https://towardsdatascience.com/understanding-locality-sensitive-hashing-49f6d1f6134)
+- [Locality Sensitive Hashing (LSH): The Illustrated Guide | Pinecone](https://www.pinecone.io/learn/locality-sensitive-hashing/)
+- [Location as Context](https://queryunderstanding.com/geographical-context-77ce4c773dc7)
+- [Lolibooru](https://lolibooru.moe/)
+- [Lookaroo (Beta)](https://lookaroo.com.au/)
+- [LookSeek.com No Tracking Search Engine - Search Privately - We dont track you - Alternative Search](https://lookseek.com/)
+- [LookSmart - Web Search](https://www.looksmart.com/)
+- [lucidthoughts](https://www.youtube.com/c/LucidThoughts?app=desktop)
+- [Lucidworks](https://www.youtube.com/user/LucidWorksSearch?app=desktop)
+- [Lukol - Anonymous Search Engine](https://www.lukol.com/)
+- [Lycos.com](https://search.lycos.com/)
+- [Machine Learning-Powered Search Ranking of Airbnb Experiences](https://medium.com/airbnb-engineering/machine-learning-powered-search-ranking-of-airbnb-experiences-110b4b1a0789)
+- [mail.com Search](https://search.mail.com/web)
+- [Mail.ru: почта, поиск в интернете, новости, игры](https://mail.ru/)
+- [Mean reciprocal rank - Wikipedia](https://en.wikipedia.org/wiki/Mean_reciprocal_rank)
+- [Measuring Search, A Human Approach](https://jamesrubinstein.medium.com/measuring-search-a-human-approach-acf54e2cf33d)
+- [Measuring Search: Metrics Matter](https://jamesrubinstein.medium.com/measuring-search-metrics-matter-de124c2f6f8c)
+- [Meilisearch Documentation](https://docs.meilisearch.com/)
+- [Metacrap](https://people.well.com/user/doctorow/metacrap.htm)
+- [Metadata and Faceted Search](https://medium.com/searchblox/metadata-and-faceted-search-62ec6e4de353)
+- [MetaGer - Mehr als eine Suchmaschine](https://metager.de/)
+- [MICES 2022 - Mix-camp E-Commerce Search](https://mices.co/)
+- [Midori | F-Droid - Free and Open Source Android App Repository](https://f-droid.org/packages/org.midorinext.android/)
+- [Migrating to Elasticsearch with dense vector for Carousell Spotlight search engine](https://medium.com/carousell-insider/migrating-to-elasticsearch-with-dense-vector-for-carousell-spotlight-search-engine-e328b16155fc)
+- [MinHash—datasketch 1.0.0 documentation](https://ekzhu.com/datasketch/minhash.html)
+- [MIx-Camp E-commerce Search](https://www.youtube.com/channel/UCCxvMykUdtFFc1O_tIr9oxA?app=desktop)
+- [Mojeek UK](https://www.mojeek.co.uk/)
+- [monocles search](https://monocles.de/)
+- [Moose.at - Österreichische Suchmaschine -10179;](https://www.moose.at/)
+- [Multiword synonyms in search using Querqy - Luminis](https://sharing.luminis.eu/blog/multiword-synonyms-in-search-using-querqy/)
+- [Mycroft Project: Search Engine Plugins - Firefox IE Chrome](https://mycroftproject.com/search-engines.html)
+- [MyWay](https://hp.myway.com/myway/index.html)
+- [Najdi.si](https://www.najdi.si/)
+- [Nearest Neighbor Indexes for Similarity Search | Pinecone](https://www.pinecone.io/learn/vector-indexes/)
+- [News & E-Mail bei t-online.de | Politik, Sport, Unterhaltung & Ratgeber](https://www.t-online.de/)
+- [NLP: Text Data To Numbers](https://medium.com/fintechexplained/nlp-text-data-to-numbers-d28d32294d2e)
+- [Noodlemagazine | The best search engine of HD videos](https://noodlemagazine.com/new-video)
+- [Not your father’s search engine: a brief history of retail search](https://blog.griddynamics.com/not-your-fathers-search-engine-a-brief-history-of-retail-search/)
+- [OceanHero - The search that saves the oceans](https://oceanhero.today/search)
+- [OCG - the search engine that cleans the Ocean - ocg.org](https://ocg.org/)
+- [Omlet Arcade–Mobile Game Livestreaming](https://omlet.gg/)
+- [On Search Leadership](https://dtunkelang.medium.com/on-search-leadership-815b36c15df1)
+- [On Semantic Search](https://medium.com/modern-nlp/semantic-search-fuck-yeah-e371c0f639d)
+- [On-site search design patterns for e-commerce: schema structure, data driven ranking & more](https://project-a.github.io/on-site-search-design-patterns-for-e-commerce/)
+- [Open Broadcaster Software | OBS](https://obsproject.com/)
+- [OpenSearchServer | Open Source Search Engine and Search API](https://www.opensearchserver.com/)
+- [OpenSource Connections](https://www.youtube.com/channel/UCiuXt-f2Faan4Es37nADUdQ?app=desktop)
+- [Opportunity Analysis for Search](https://www.linkedin.com/pulse/opportunity-analysis-search-daniel-tunkelang)
+- [Optimizing Your Search Experience: A Human-Centered Approach to Search Design - Enterprise Knowledge](https://enterprise-knowledge.com/optimizing-your-search-experience-a-human-centered-approach-to-search-design/)
+- [Paper18](https://ceur-ws.org/Vol-2410/paper18.pdf)
+- [Part 2: Search Quality for Discovery & Inspiration](https://blog.searchhub.io/three-pillars-of-search-quality-in-ecommerce-part-2-discovery-inspiration)
+- [Patterns for Personalization in Recommendations and Search](https://eugeneyan.com/writing/patterns-for-personalization/)
+- [PaulGO](https://paulgo.io/)
+- [Personal data - Wikipedia](https://en.wikipedia.org/wiki/Personal_data)
+- [Personalization](https://queryunderstanding.com/personalization-3ed715e05ef)
+- [Pesquisa SAPO](http://pesquisa.sapo.pt/?barra=directorio)
+- [Porn Search - Free Porn Videos of the Best Porn Sites :: RO89.com](https://ro89.com/)
+- [pornabc.xyz - Domain Name For Sale | Dan.com](https://pornabc.xyz/)
+- [PornMD: A Search Engine for ALL of the Worlds Best Porn Sites](https://www.pornmd.com/)
+- [PornStar Search By Face! Find Hottest Pornstars Videos, Top Sex Photo](https://pornstarbyface.com/)
+- [Posts | Idol Complex - Idol & Cosplay Images](https://idol.sankakucomplex.com/)
+- [Posts | Sankaku Channel - Anime, manga & game related images & videos](https://chan.sankakucomplex.com/)
+- [Pp0295 mishra](https://www.microsoft.com/en-us/research/wp-content/uploads/2011/01/pp0295-mishra.pdf)
+- [Practical BM25 - Part 1: How Shards Affect Relevance Scoring in Elasticsearch](https://www.elastic.co/blog/practical-bm25-part-1-how-shards-affect-relevance-scoring-in-elasticsearch)
+- [Practical BM25 - Part 2: The BM25 Algorithm and its Variables](https://www.elastic.co/blog/practical-bm25-part-2-the-bm25-algorithm-and-its-variables)
+- [Precision and recall - Wikipedia](https://en.wikipedia.org/wiki/Precision_and_recall)
+- [Privacia - Private Search Engine. No Tracking. No Search History](https://privacia.org/)
+- [Privado Blog - Your data is your business. Keep it private.](https://blog.privado.com/)
+- [Product Thumbnails Should Dynamically Update to Match the Variation Searched For (54% Don’t)–Articles–Baymard Institute](https://baymard.com/blog/color-and-variation-searches)
+- [Pron.tv - Porn and Adult Channel with the hottest XXX Movies](https://www.mypron.tv/)
+- [Puffin Web Browser - Apps on Google Play](https://play.google.com/store/apps/details?gl=US&hl=en&id=com.cloudmosa.puffinFree)
+- [Qmamu - Indian search engine](https://qmamu.com/)
+- [Query Expansion](https://queryunderstanding.com/query-expansion-2d68d47cf9c8)
+- [Query Relaxation](https://queryunderstanding.com/query-relaxation-342bc37ad425)
+- [Query Rewriting: An Overview](https://queryunderstanding.com/query-rewriting-an-overview-d7916eb94b83)
+- [Query Scoping](https://queryunderstanding.com/query-scoping-ed61b5ec8753)
+- [Query Segmentation](https://queryunderstanding.com/query-segmentation-2cf860ade503)
+- [Query Segmentation and Spelling Correction](https://towardsdatascience.com/query-segmentation-and-spelling-correction-483173008981)
+- [Query Triage: The Secret Weapon for Search Relevance](https://jamesrubinstein.medium.com/query-triage-the-secret-weapon-for-search-relevance-1a02cdd297ed)
+- [Query Understanding and Chatbots](https://queryunderstanding.com/query-understanding-and-chatbots-5fa0c154f)
+- [Query Understanding and Voice Interfaces](https://queryunderstanding.com/query-understanding-and-voice-interfaces-6cd60d063fca)
+- [Query Understanding, Divided into Three Parts](https://dtunkelang.medium.com/query-understanding-divided-into-three-parts-d9cbc81a5d09)
+- [Query Understanding: An Introduction](https://queryunderstanding.com/introduction-c98740502103)
+- [Question Answering](https://queryunderstanding.com/question-answering-94984185c203)
+- [Radicle](https://radicle.xyz/)
+- [Rapusia - The search engine that helps our planet](https://rapusia.org/)
+- [Rastgelelik Arama Motoru - Wiki, Sözlük, Firma, Dizin, Sosyal Medya...](https://www.rastgelelik.com/)
+- [Real Talk About Synonyms and Search](https://dtunkelang.medium.com/real-talk-about-synonyms-and-search-bb5cf41a8741)
+- [Reinforcement learning assisted search ranking](https://medium.com/sajari/reinforcement-learning-assisted-search-ranking-a594cdc36c29)
+- [Relevance Feedback](https://queryunderstanding.com/relevance-feedback-c6999529b92c)
+- [Relevant Facets by Lucian Precup and Radu Pop](https://m.youtube.com/watch?v=W8DJYfAKKLA)
+- [Relevant Search](https://www.manning.com/books/relevant-search)
+- [Result Hunter - Search Engine Built with Freedom, Truth, and Individual Rights](https://resulthunter.com/)
+- [Right Dao](https://rightdao.com/)
+- [Roovet - Live News and International Updates!](https://roovet.com/)
+- [Russian warship, go fuck yourself - Wikipedia](https://en.wikipedia.org/wiki/Russian_warship,_go_fuck_yourself)
+- [Safe Search Engine | Safe Search Engine for Kids, Students & Society](https://www.safesearchengine.com/)
+- [Safebooru - Anime picture search engine!](https://safebooru.org/)
+- [SafeSearch - אינדקס אתרים ישראלי](https://searcheira.com/)
+- [Safesearch not supported](https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/safesearch-not-supported)
+- [Sample](https://moe.fiepi.com/)
+- [sandbox April 2021 · Issue #17 · frutik/awesome-search](https://github.com/frutik/awesome-search/issues/17)
+- [sandbox Dec 2020 · Issue #10 · frutik/awesome-search](https://github.com/frutik/awesome-search/issues/10)
+- [sandbox Jan 2020 · Issue #1 · frutik/awesome-search](https://github.com/frutik/awesome-search/issues/1)
+- [sandbox Jun 2021 · Issue #19 · frutik/awesome-search](https://github.com/frutik/awesome-search/issues/19)
+- [sandbox May 2021 · Issue #18 · frutik/awesome-search](https://github.com/frutik/awesome-search/issues/18)
+- [SAPO](https://www.sapo.pt/)
+- [Scoped Search: Dangerous, but Sometimes Useful](https://www.nngroup.com/articles/scoped-search/)
+- [Search](https://search.zonealarm.com/)
+- [Search Analytics for Your Site: Conversations with Your Customers](https://www.amazon.com/Search-Analytics-Your-Site-Conversations/dp/1933820209)
+- [Search as a Conversation](https://queryunderstanding.com/search-as-a-conversation-bafa7cd0c9a5)
+- [Search at Slack - Slack Engineering](https://slack.engineering/search-at-slack/)
+- [Search Belt - Search Engine for Christians](https://searchbelt.com/)
+- [Search Encrypt | Home](https://www.searchencrypt.com/)
+- [Search Engine](https://www.searchengine.com/)
+- [Search engine - Wikipedia](https://en.wikipedia.org/wiki/Search_engine)
+- [Search Engines | Most popular Search Engines in the U.S](https://www.kadaza.com/search-engines)
+- [Search is a Team Sport](https://medium.com/search-in-21st-century/search-is-a-team-sport-400eecdfe736)
+- [Search Optimization 101 - How do I know that my search is broken? - Supahands](https://blog.supahands.com/2020/07/08/how-do-i-know-that-my-search-is-broken/)
+- [Search Optimization 101 - How do you fix a broken search? - Supahands](https://blog.supahands.com/2020/08/04/search-optimization-101-how-do-you-fix-a-broken-search/)
+- [Search Optimization 101 - Reducing business risk by optimizing search - Supahands](https://blog.supahands.com/2020/09/02/reducing-business-risks-by-optimizing-search/)
+- [Search Optimization 101 - What does it mean if my search is broken? - Supahands](https://blog.supahands.com/2020/07/20/search-optimization-101-what-does-it-mean-if-my-search-is-broken/)
+- [Search Product Management: The Most Misunderstood Role in Search?](https://jamesrubinstein.medium.com/search-product-management-the-most-misunderstood-role-in-search-2b7569058638)
+- [Search Queries and Search Intent](https://dtunkelang.medium.com/search-queries-and-search-intent-1dec79ad155f)
+- [Search Query Embeddings using query2vec](https://bytes.grubhub.com/search-query-embeddings-using-query2vec-f5931df27d79)
+- [Search Relevance - Solr,Elasticsearch,OpenSearch - Training & Consulting](https://opensourceconnections.com/)
+- [Search Result Snippets](https://queryunderstanding.com/search-result-snippets-e8c447950219)
+- [Search Results Clustering](https://queryunderstanding.com/search-results-clustering-b2fa64c6c809)
+- [Search Results Presentation](https://queryunderstanding.com/search-results-presentation-7d6c6c384ec1)
+- [Search the Swiss web - search.ch](https://web.search.ch/)
+- [Search the Web to Give Clean Water to Those in Need » giveWater Search Engine](https://www.givewater.com/)
+- [Search User Interfaces](https://www.searchuserinterfaces.com/)
+- [Search UX: 6 Essential Elements for ‘No Results’ Pages–Articles–Baymard Institute](https://baymard.com/blog/no-results-page)
+- [Search UX: Autodirect or Guide Users to Matching Category Scopes (46% Get It Wrong)–Articles–Baymard Institute](https://baymard.com/blog/autodirect-searches-matching-category-scopes)
+- [Search-Log Analysis: The Most Overlooked Opportunity in Web UX Research](https://www.nngroup.com/articles/search-log-analysis/)
+- [Search: Intent, Not Inventory](https://dtunkelang.medium.com/search-intent-not-inventory-289386f28a21)
+- [search|hub - home](https://www.searchhub.io/)
+- [searchhub - blog](https://blog.searchhub.io/humans-search-for-things-not-for-strings-2?cn-reloaded=1)
+- [searchhub - blog](https://blog.searchhub.io/the-art-of-abstraction-revisting-webshop-architecture)
+- [searchhub - blog](https://blog.searchhub.io/three-pillars-of-search-quality-in-ecommerce-part-1-findability)
+- [Searching for Goldilocks](https://dtunkelang.medium.com/searching-for-goldilocks-12cb21c7d036)
+- [SearchScene - The Charitable Search Engine](https://www.searchscene.com/)
+- [searchx.mobi - Domain Name For Sale | Dan.com](https://dan.com/buy-domain/searchx.mobi?redirected=true)
+- [searx](https://acestream.me/)
+- [Searx instances](https://searx.space/)
+- [SearXNG](https://searx.underworld.fr/)
+- [SearXNG and SearX instances status and uptime](https://searx-instances.tiekoetter.com/)
+- [Sease - Information Retrieval Applied [Consulting, Trainings and Guides]](https://sease.io/)
+- [Seasonality](https://queryunderstanding.com/seasonality-5eef79d8bf1c)
+- [Semantic query parsing blueprint](https://blog.griddynamics.com/semantic-query-parsing-blueprint/)
+- [Semantic Vector Search Engine: The New Frontier in Product Discovery](https://blog.griddynamics.com/semantic-vector-search-the-new-frontier-in-product-discovery/)
+- [Sepia Search](https://sepiasearch.org/)
+- [Session Context](https://queryunderstanding.com/session-context-4af0a355c94a)
+- [Setting up a relevance evaluation program](https://jamesrubinstein.medium.com/setting-up-a-relevance-evaluation-program-c955d32fba0e)
+- [Seva: The Search Engine That Feeds Hungry Children](https://sevasearch.org/)
+- [Seznam–najdu tam, co neznám](https://www.seznam.cz/)
+- [Seznam.cz - vyhledávání na Internetu](https://search.seznam.cz/)
+- [Shopping is Hard, Let’s go Searching!](https://dtunkelang.medium.com/shopping-is-hard-lets-go-searching-f61f3d5764d3)
+- [SHOWROOM](https://www.showroom-live.com/)
+- [shuushuu: Shuushuu Image Board](https://e-shuushuu.net/)
+- [SIGIR eCom](http://sigir-ecom.weebly.com/)
+- [SIGIR eCom](https://sigir-ecom.github.io/ecom2018/index.html)
+- [SIGIR eCom](https://sigir-ecom.github.io/ecom2019/index.html)
+- [SIGIR eCom](https://sigir-ecom.github.io/index.html)
+- [SIGIR eCom](https://www.youtube.com/channel/UCd6PyC_9zrxgA7vmT05Mx4Q?app=desktop)
+- [Site Search Suggestions](https://www.nngroup.com/articles/site-search-suggestions/)
+- [Six ‘COVID-19’ Related E-Commerce UX Improvements to Make–Articles–Baymard Institute](https://baymard.com/blog/covid-19-ux-improvements)
+- [Smart autocomplete best practices](https://blog.griddynamics.com/smart-autocomplete-best-practices/)
+- [So-net(ソネット)](https://www.so-net.ne.jp/)
+- [Sonmit - The Charitable Search Engine That Fights Cancer](https://www.sonmit.com/)
+- [SOZEER.COM搜这儿](https://www.sozeer.com/)
+- [Spelling Correction](https://queryunderstanding.com/spelling-correction-471f71b19880)
+- [Split Search](https://splitsearch.netlify.app/)
+- [SRWare Iron - The Browser of the Future](https://www.srware.net/iron/)
+- [Startpagina.nl | Jouw startpagina voor weer, verkeer en meer](https://www.startpagina.nl/)
+- [Statistical and human-centered approaches to search engine improvement](https://jamesrubinstein.medium.com/statistical-and-human-centered-approaches-to-search-engine-improvement-52af0e98f38f)
+- [Stemming and Lemmatization](https://queryunderstanding.com/stemming-and-lemmatization-6c086742fe45)
+- [Stream URL Extraction Tool](https://pwn.sh/tools/getstream.html)
+- [Streamlabs | #1 free set of tools for live streamers and gamers](https://streamlabs.com/)
+- [Supporting the Searcher’s Journey: When and How](https://dtunkelang.medium.com/supporting-the-searchers-journey-when-and-how-568e9b68fe02)
+- [Surf Clear - Clearing the oceans one search at a time](https://surfclear.org/)
+- [Sweet - Search Anything With One Click](https://www.usesweet.com/)
+- [SymSpell vs. BK-tree: 100x faster fuzzy string search & spell checking](https://towardsdatascience.com/symspell-vs-bk-tree-100x-faster-fuzzy-string-search-spell-checking-c4f10d80a078)
+- [Synonyms and Antonyms from WordNet](https://medium.com/@tameremil/synonyms-and-antonyms-from-wordnet-778f6274fb09)
+- [Synonyms and Antonyms in Python](https://towardsdatascience.com/synonyms-and-antonyms-in-python-a865a5e14ce8)
+- [Synonyms in Solr I—The good, the bad and the ugly](https://medium.com/empathyco/synonyms-in-solr-i-the-good-the-bad-and-the-ugly-efe8e437a940)
+- [Taxonomies and Ontologies](https://queryunderstanding.com/taxonomies-and-ontologies-8e4812a79cb2)
+- [Testing Search—philosophe.*](https://www.philosophe.com/archived_content/search_topics/search_tests.html)
+- [The Groot Search - Simple Search Engine Created by SSuite Office Software | The best and most fastest internet search engine without advertising, personal data, or telemetry tracking.](https://groot.ssuiteoffice.com/#gsc.tab=0)
+- [The importance of Synonyms in eCommerce Search](https://blog.searchhub.io/the-importance-of-synonyms-in-ecommerce-search)
+- [The influence of TF-IDF algorithms in eCommerce search](https://medium.com/empathyco/the-influence-of-tf-idf-algorithms-in-ecommerce-search-e7cb9ab8e662)
+- [The Launch Review: bringing it all together …](https://jamesrubinstein.medium.com/the-launch-review-bringing-it-all-together-2f7e4cfbf86e)
+- [The Love-at-First-Sight Gaze Pattern on Search-Results Pages](https://www.nngroup.com/articles/love-at-first-sight-pattern/)
+- [The non profit search engine, non profit Social network, not for profit Social network, not for profit search engine](https://www.anoox.com/index.php)
+- [The Pale Moon Project homepage](https://www.palemoon.org/)
+- [The Role of Search Product Owners - Enterprise Knowledge](https://enterprise-knowledge.com/the-role-of-search-product-owners/)
+- [The Search Engine Map](https://www.searchenginemap.com/)
+- [The Swiss Search Engine - search.ch](https://www.search.ch/)
+- [The Terrier Project](http://terrier.org/docs/v4.2/website_search.html)
+- [The Unreasonable Effectiveness of Collocations - OpenSource Connections](https://opensourceconnections.com/blog/2019/05/16/unreasonable-effectiveness-of-collocations/)
+- [Thoughts about Managing Search Teams](https://dtunkelang.medium.com/thoughts-about-managing-search-teams-f8d2f54fbed7)
+- [Thoughts on Search Result Diversity](https://dtunkelang.medium.com/thoughts-on-search-result-diversity-1df54cb5bf4a)
+- [three-dee-booru~](http://behoimi.org/)
+- [Tiger.ch, die Schweizer Suchmaschine](https://tiger.ch/)
+- [Tokenization](https://queryunderstanding.com/tokenization-c8cdd6aef7ff)
+- [Tor Browser APK for Android Download](https://apkpure.com/tor-browser/org.torproject.torbrowser)
+- [Torry Search Engine | Search Anonymously with Torry](https://www.torry.io/)
+- [Train and Test Sets Split for Evaluating Learning To Rank Models](https://sease.io/2022/07/how-to-split-your-dataset-into-train-and-test-sets-for-evaluating-learning-to-rank-models.html)
+- [Trust Mamma](https://www.mamma.com/)
+- [TuroSearch - Personalized Search](https://www.turosearch.com/)
+- [Types of Information Collections—philosophe.*](https://www.philosophe.com/archived_content/search_topics/collections.html)
+- [Unbubble.eu - Suchmaschinen](https://www.unbubble.eu/)
+- [Understanding BERT and Search Relevance - OpenSource Connections](https://opensourceconnections.com/blog/2019/11/05/understanding-bert-and-search-relevance/)
+- [Understanding the Search Query—Part I](https://towardsdatascience.com/understanding-the-search-query-part-i-632d1b323b50)
+- [Understanding the Search Query—Part II](https://medium.com/analytics-vidhya/understanding-the-search-query-part-ii-44d18892283f)
+- [Understanding the Search Query—Part III](https://sonusharma-mnnit.medium.com/understanding-the-search-query-part-iii-a0c5637a639)
+- [UOL Busca](https://busca.uol.com.br/)
+- [Upvote Search Engine](https://upvote.vote/)
+- [Use Automatic Synonym Detection for Better Searches | Lucidworks](https://lucidworks.com/post/search-automatic-synonym-detection/)
+- [Useful Search Links and References—philosophe.*](https://www.philosophe.com/archived_content/search_topics/search_links.html)
+- [Users and the Task of Information Retrieval—philosophe.*](https://www.philosophe.com/archived_content/search_topics/search_tasks.html)
+- [Using Behavioral Data to Improve Search](https://tech.ebayinc.com/engineering/using-behavioral-data-to-improve-search/)
+- [Vinden](https://www.vinden.nl/)
+- [Virgilio: Mail, Login, Ultime Notizie in tempo reale e tanto altro!](https://www.virgilio.it/)
+- [Visualizing search metrics](https://nathanday.shinyapps.io/rank-algo-app)
+- [WASD.TV—Новая культура стриминга](https://wasd.tv/)
+- [Waterfox, Free Web Browser](https://www.waterfox.net/)
+- [Web Browser & Search - Private, Fast, Secure:](https://www.nitrobrowse.com/)
+- [Web Search Engine: ExactSeek.com](https://www.exactseek.com/)
+- [WEB.DE - E-Mail-Adresse kostenlos, FreeMail, De-Mail & Nachrichten](https://web.de/)
+- [WeBrowser EN - Otro Sitio Realizado Con WordPress](https://webrowser.org/en/)
+- [Welcome to Jina!](https://docs.jina.ai/)
+- [What are some algorithms of spelling correction that are used by search engines? For example, when I used Google to search Google imeges...](https://www.quora.com/String-Searching-Algorithms/What-are-some-algorithms-of-spelling-correction-that-are-used-by-search-engines-For-example-when-I-used-Google-to-search-Google-imeges-it-prompted-me-Did-you-mean-Google-images/answer/Wolf-Garbe)
+- [What is a Relevant Search Result? - OpenSource Connections](https://opensourceconnections.com/blog/2019/12/11/what-is-a-relevant-search-result/)
+- [What is Learning To Rank? - OpenSource Connections](https://opensourceconnections.com/blog/2017/02/24/what-is-learning-to-rank/)
+- [What is Presentation Bias in search?](https://softwaredoug.com/blog/2022/07/16/what-is-presentation-bias-in-search.html)
+- [When a Taxonomy Should not be Hierarchical](https://accidental-taxonomist.blogspot.com/2020/06/when-taxonomy-should-not-be-hierarchical.html)
+- [When There’s No Conversion Rate](https://dtunkelang.medium.com/when-theres-no-conversion-rate-67a372666fed)
+- [When to use a machine learned vs. score-based search ranker](https://towardsdatascience.com/when-to-use-a-machine-learned-vs-score-based-search-ranker-aa8762cd9aa9)
+- [Which browsers are best for privacy?](https://privacytests.org/)
+- [Whoogle Search](https://whoogle.sdf.org/)
+- [Why is it so hard to sort by price?](https://dtunkelang.medium.com/why-is-it-so-hard-to-sort-by-price-2a5e63899233)
+- [why we’ve developed the searchhub smartSuggest module and why it might matter to you](https://www.linkedin.com/pulse/why-weve-developed-searchhub-smartsuggest-module-might-andreas-wagner)
+- [Wiby - Search Engine for the Classic Web](https://wiby.org/)
+- [Word2Vec For Phrases—Learning Embeddings For More Than One Word](https://towardsdatascience.com/word2vec-for-phrases-learning-embeddings-for-more-than-one-word-727b6cf723cf)
+- [Writing a full-text search engine using Bloom filters - Stavros Stuff](https://www.stavros.io/posts/bloom-filter-search-engine/)
+- [Xayn Personalised & Private News Reader](https://www.xayn.com/?referrer=https://search.xayn.com#/)
+- [Xbooru](https://xbooru.com/)
+- [Xslist.org - JAV Model Listing](https://xslist.org/)
+- [Xslist.org - JAV Model Listing](https://xslist.org/en)
+- [Yahoo Erweiterte Web-Suche](https://de.yhs4.search.yahoo.com/web/advanced?ei=UTF-8&fr=altavista&p=)
+- [Yahoo!検索](https://search.yahoo.co.jp/)
+- [Yandex](https://yandex.az/)
+- [Yandex](https://yandex.com.am/)
+- [Yandex](https://yandex.com.ge/showcaptcha?cc=1&mt=52D9C2D7F7B62B333B0276A5477D120A26EC7FAE773A7AE4A32FEEEC8A0A042B&retpath=aHR0cHM6Ly95YW5kZXguY29tLmdlLz8%2C_2320ceeb5797e9c0fecc0872295b5fed&t=2/1668003448/e1eecfaf314fee6c52ca69db7da63399&u=245224db-9bbfd85a-c760bbb5-63ed3580&s=849a63b8831c344d52409624e5dfb95d)
+- [Yandex](https://yandex.com.tr/)
+- [Yandex](https://yandex.ee/showcaptcha?cc=1&mt=963B04E99FE7F99B306EA016B32CE292B6AB3B83AA96763519B5876915491BDD&retpath=aHR0cHM6Ly95YW5kZXguZWUvPw%2C%2C_307c9a0d9a2029a8d8e4818b86b7498b&t=2/1668003449/e2102b1328de0e842e53cb370452412a&u=d1fad043-d2e2cacd-fdab8cb9-3645bf0b&s=f5e44ad01ecdaf9da95e86a4b41e54ae)
+- [Yandex](https://yandex.eu/)
+- [Yandex](https://yandex.fr/)
+- [Yandex](https://yandex.lt/showcaptcha?cc=1&mt=15C18C6E617B10039BFC21D3574F08605B18F63A1EBF7B1E98B49F9FB35AA0C4&retpath=aHR0cHM6Ly95YW5kZXgubHQvPw%2C%2C_d2bd58a365bb82acc50f274d2c297039&t=2/1668003449/c91ddaf62643e3dc79579c5acac3677a&u=fc455816-438752b5-c7ebddfc-c70078fd&s=0e0578fc6604a3dd3201e7b2fcd4c55c)
+- [Yandex](https://yandex.lv/)
+- [Yandex](https://yandex.md/)
+- [Yandex](https://yandex.tj/)
+- [Yandex](https://yandex.tm/)
+- [Yandex](https://yandex.uz/showcaptcha?cc=1&mt=5213E2C4DDC873A871C3CCF5C2B09638B7E9EC9FB488C65A189A79EB5CCBD180&retpath=aHR0cHM6Ly95YW5kZXgudXovPw%2C%2C_66ddd424a0048d84105e7e0d9d927212&t=2/1668003450/9cb9fdd1635056df058d9bbfa852fed8&u=c89eaf9d-546d3003-a87154f-f67143a8&s=296eb6ab69ff8d93b3216343a66e076c)
+- [Yandex Browser—neat, convenient and smart](https://browser.yandex.com/)
+- [You.com | The search engine you control.](https://you.com/)
+- [YouCare | The charity search engine](https://youcare.world/)
+- [Your private und anonymous search engine Swisscows](https://swisscows.com/en?region=iv)
+- [ZeLoop Search: Reduce plastic pollution with each search!](https://search.zeloop.net/)
+- [Zerochan HQ Anime Imageboard](https://www.zerochan.net/)
+- [Zoznam slovenského internetu](https://www.zoznam.sk/)
+- [Исправляем опечатки с учётом контекста](https://habr.com/ru/post/346618/)
+- [Киберспортивная стриминговая платформа](https://goodgame.ru/)
+- [Поиск](https://poshukach.com/)
+- [Яндекс](https://sso.passport.yandex.ru/push?retpath=https%3A%2F%2Fya.ru%2F%3Fnr%3D1&uuid=90f2d8ff-555b-4340-81f3-54295964a8b1)
+- [Яндекс](https://yandex.by/showcaptcha?cc=1&mt=76C669C1D2870C9722EFF8A671AEFF9854A005B998866DDB80F011989BA808C3&retpath=aHR0cHM6Ly95YW5kZXguYnkvPw%2C%2C_69630e66e8e7a5cf745c680869504b8e&t=2/1668003454/6bfaf1da77a173cadcfa644d891f77f6&u=f657584e-70760e1a-aa52ee5c-cd3439ca&s=861e91f5985cae2199df43e5b6b5b4a1)
+- [한눈에 보는 오늘 : 네이트](https://www.nate.com/)
+- [ニュース検索フレッシュアイは「今」を知る情報サイトです](https://smp.fresheye.com/)
+- [ニュース検索フレッシュアイは「今」を知る情報サイトです](https://www.fresheye.com/)
+
+## Open DB, Directories, and Services Search
+
+- [GitHub - citcheese/ODBParser: OSINT tool to search, parse and dump only the open Elasticsearch and MongoDB directories that have the data you care about exposing](https://github.com/citcheese/ODBParser)
+- [GitHub - initstring/cloud_enum: Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud.](https://github.com/initstring/cloud_enum)
+- [GitHub - jordanpotti/CloudScraper: CloudScraper: Tool to enumerate targets in search of cloud resources. S3 Buckets, Azure Blobs, Digital Ocean Storage Space.](https://github.com/jordanpotti/CloudScraper)
+- [GitHub - sa7mon/S3Scanner: Scan for open AWS S3 buckets and dump the contents](https://github.com/sa7mon/S3Scanner)
+- [GitHub - woj-ciech/LeakLooker: Find open databases - Powered by Binaryedge.io](https://github.com/woj-ciech/LeakLooker)
+- [Global data](https://knoema.com/atlas)
+- [L33Tech - Open Directory Search](https://sites.google.com/view/l33tech/tools/ods)
+- [NYC Open data](https://opendata.cityofnewyork.us/)
+- [Open data Africa](https://africaopendata.org/)
+- [Open data Australia](https://data.gov.au/search)
+- [Open data USA gov](https://catalog.data.gov/dataset)
+- [r/opendirectories](https://www.reddit.com/r/opendirectories)
+
+## OS-Software
+
+- [All packages by name | Hackage](https://hackage.haskell.org/packages/search?terms=%25s)
+- [Search Result: %s | AlternativeTo](https://alternativeto.net/browse/search/?q=%25s)
+
+## Pastebin
+
+- [Doxbin](https://doxbin.org/)
+- [PasteLert](https://www.andrewmohawk.com/2011/09/09/pastelert-facepalm/)
+
+## People Search
+
+### People
+
+- [Pipl](https://pipl.com/)
+- [Classmates](https://www.classmates.com/)
+- [ClustrMaps](https://clustrmaps.com/)
+- [Degree Verification](https://nscverifications.org/welcome-to-verification-services/)
+- [FullContact](https://www.fullcontact.com/)
+- [Intelius](https://www.intelius.com/)
+- [International- Infobel Directory](https://www.infobel.com/)
+- [MarketVisual Search](http://marketvisual.com/)
+- [Monster](https://www.monster.com/)
+- [Myspace](https://myspace.com/)
+- [OSINT for Finding People](https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc/edit#gid=0)
+- [Privacyai.com](https://privacyai.com/)
+- [TLOxp (PAID)](https://www.tlo.com/searches-and-reports)
+- [Trape v2.0](https://www.kitploit.com/2018/11/trape-v20-people-tracker-on-internet.html?amp=0)
+- [TruePeopleSearch](https://truepeoplesearch.com/)
+- [US Search](https://www.ussearch.com/)
+- [VoteWithMe](https://votewithme.us/)
+- [Webstagram](https://webstagram.org/)
+- [xillwillx/skiptracer](https://github.com/xillwillx/skiptracer)
+- [YouTube](https://www.youtube.com/)
+- [LeadFerret](https://leadferret.com/search)
+- [ContactOut](https://contactout.com/)
+- [Littlesis](https://littlesis.org/)
+- [PeekYou](https://www.peekyou.com/)
+- [Been Verified](https://www.beenverified.com/)
+- [Spokeo](https://www.spokeo.com/)
+- [UK - Search for People, Businesses and Places](https://www.192.com/)
+- [UserSearch](https://usersearch.org/)
+- [White Pages](https://www.whitepages.com/)
+- [Truepeoplesearch.net](https://truepeoplesearch.net/)
+- [Lookups](https://www.melissa.com/v2/lookups/)
+
+### Email/User
+
+- [WhatBreach](https://github.com/Ekultek/WhatBreach)
+- [D4Vinci/Cr3dOv3r](https://github.com/D4Vinci/Cr3dOv3r)
+- [Email Address Verification](https://verifyemailaddress.com/)
+- [Email Permutator](http://metricsparrow.com/toolkit/email-permutator/)
+- [Email Permutator and Checker](http://emailpermutator.com/permutator/)
+- [gaijin](https://www.gaijin.at/en/olsmailheader.php)
+- [GSuite Toolbox Messageheader](https://toolbox.googleapps.com/apps/messageheader/analyzeheader)
+- [HA71/Namechk](http://github.com/HA71/Namechk)
+- [Have I been pwned?](https://haveibeenpwned.com/)
+- [Hunter](https://hunter.io/)
+- [IPTrackerOnline](https://www.iptrackeronline.com/email-header-analysis.php)
+- [JungleScam](https://github.com/pielco11/JungleScam)
+- [laramies/theHarvester](http://github.com/laramies/theHarvester)
+- [Leak - Lookup](https://leak-lookup.com/)
+- [mrbrutti/esearchy-ng](https://github.com/mrbrutti/esearchy-ng)
+- [Namechk](https://namechk.com/)
+- [Scythe Framework](http://blog.c22.cc/2012/10/03/scythe-framework)
+- [SearchPOF.com](https://searchpof.com/)
+- [WhatsMyName](https://whatsmyname.app/)
+- [KnowEm](https://knowem.com/)
+- [maldevel/EmailHarvester](http://github.com/maldevel/EmailHarvester)
+- [dehashed](https://www.dehashed.com/)
+- [Clearbit](https://connect.clearbit.com/)
+- [Citadel](http://citadel.pw/)
+- [Check Usernames](http://checkusernames.com/)
+- [Mail Header Analyzer (MHA)](https://mailheaderanalyzer.herokuapp.com/)
+
+## People Search Tools
+
+- [Cubib Person Search](https://xlek.com/#search)
+- [GitHub - lulz3xploit/LittleBrother: Information gathering (OSINT) on a person (EU)](https://github.com/Lulz3xploit/LittleBrother)
+- [Gravatar](https://en.gravatar.com/)
+- [Hedd.ac.uk](https://hedd.ac.uk/)
+- [Hitta](https://www.hitta.se/)
+- [IDCrawl](https://www.idcrawl.com/)
+- [Locate Family Person Search](https://www.locatefamily.com/Street-Lists/index.html)
+- [Nuwber Person Search](https://nuwber.com/)
+- [People Search](https://www.peoplesearch.com.au/)
+- [PEP Checks and Sanction Screening](https://namescan.io/)
+- [Qualificationcheck.com](https://www.qualificationcheck.com/)
+- [Search-people.online.com](https://www.search-people.online/)
+- [Searchgb.co.uk](https://www.searchgb.co.uk/)
+- [Skopenow](https://www.skopenow.com/)
+- [Sydex.net](https://sydex.net/)
+- [They Rule](https://theyrule.net/)
+- [TruthFinder Person Search](https://www.truthfinder.com/people-search)
+- [US Search Person Search](https://www.ussearch.com/people-search)
+- [WebMii Person Search](https://webmii.com/)
+- [Welcome to Verification Services](https://nscverifications.org/welcome-to-verification-services/)
+- [find people search](https://findpeoplesearch.com/)
+- [People Search | Intelius](https://www.intelius.com/people-search/)
+- [People search Tool](https://www.aware-online.com/en/osint-tools/people-search-tool/)
+- [True People Search](https://www.truepeoplesearch.com/results?phoneno=%28515%29419-8701)
+- [True People Search - People search](https://www.truepeoplesearch.com/)
+
+## Public Records
+
+- [aleph.occrp.org](https://aleph.occrp.org/)
+- [Australiapublicrecord.com](https://www.australiapublicrecord.com/)
+- [Family Watchdog](https://www.familywatchdog.us/)
+- [Fold3](https://www.fold3.com/)
+- [GoLookUp](https://golookup.com/)
+- [Govdataca.com](https://datagovca.com/)
+- [Melissa](https://www.melissa.com/)
+- [Oa.anu.edu.au](https://oa.anu.edu.au/)
+- [Obittree.com](https://www.tributearchive.com/)
+- [People Search](https://www.instantcheckmate.com/)
+- [Political MoneyLine](https://www.politicalmoneyline.com/)
+- [Public Records](https://www.brbpub.com/)
+- [Public Records](https://www.publicrecords.com.au/)
+- [Publicrecords.directory.com](https://publicrecords.directory/)
+- [qPublic](https://qpublic.schneidercorp.com/)
+- [SCRA](https://scra.dmdc.osd.mil/scra/#/home)
+- [UniCourt](https://unicourt.com/)
+- [VerificationSearch Conditions - The Dru Sjodin National Sex Offender Public Website](https://www.nsopw.gov/en/Search/Verification)
+- [xlek](https://xlek.com/)
+
+## Search
+
+- [Direct Download Almost Anything](https://ewasion.github.io/opendirectory-finder/#)
+- [FilePursuit- Discover Everything!, Search the web for files, videos, audios, eBooks and much more.](https://filepursuit.com/)
+
+## Search Engines
+
+- [Arabo.com](http://arabo.com/)
+- [Baidu, you will know](https://www.baidu.com/)
+- [BeVigil](https://bevigil.com/)
+- [Boardreader - Forum Search](https://boardreader.com/)
+- [Bookmarks](https://one-plus.github.io/Bookmarks)
+- [CachedViews.com](https://cachedviews.com/)
+- [Debate.cards](https://debate.cards/)
+- [Dogpile.com](https://www.dogpile.com/?sc=Xsv6lcE0ts4Y10)
+- [eTools.ch - Information about Federated Search](https://www.etools.ch/searchInfo.do)
+- [Flippity](https://www.flippity.com/)
+- [Google & Bing](https://one-plus.github.io/GoogleBing)
+- [Google Advanced Search](https://www.google.com/advanced_search)
+- [Google to search profiles on Stack Overflow](https://recruitin.net/stackoverflow.php)
+- [Home - YaCy](https://yacy.net/)
+- [ipfs-search.com](https://ipfs-search.com/#/search)
+- [keys.openpgp.org](https://keys.openpgp.org/)
+- [Libgen.rs](https://libgen.rs/)
+- [MAC Address Lookup](https://maclookup.app/)
+- [Milled](https://milled.com/search)
+- [Million Short](https://millionshort.com/)
+- [MIT PGP Key Server](https://pgp.mit.edu/)
+- [Octosearch.dootech.com](https://octosearch.dootech.com/)
+- [Osint Open Source Projects](https://awesomeopensource.com/projects/osint)
+- [OSINT Resources—Learn All The Things](https://www.learnallthethings.net/osint-resources)
+- [Private.sh - the search engine that cryptographically protects your privacy](https://private.sh/)
+- [Public AWS S3 & Azure Search](https://buckets.grayhatwarfare.com/)
+- [Recon Access Queue](https://recon222tttn4ob7ujdhbn3s4gjre7netvzybuvbq2bcqwltkiqinhad.onion.pet/)
+- [SearX](https://searx.ninja/)
+- [searxng/searxng: SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.](https://github.com/searxng/searxng)
+- [sploitus](https://sploitus.com/)
+- [Stacksearch](https://stacksear.ch/)
+- [The best document search engine](http://www.doc-txt.com/)
+- [The YouTube Channel Crawler](https://channelcrawler.com/eng)
+- [URL Shorteners Search](https://shorteners.grayhatwarfare.com/)
+- [World Social Media Platforms | OSINT Combine](https://www.osintcombine.com/world-social-media-platforms)
+- [Your private und anonymous search engine Swisscows](https://swisscows.com/en)
+- [ZorexEye](https://zorexeye.com/)
+
+## Search Hacks
+
+- [- .com](https://www.google.com/search?btnG=Search&hl=en&num=100&q=-%22.com%22)
+- [-intext jobs](https://www.google.com/search?btnG=Search&hl=en&num=100&q=-intext%3Ajobs)
+- [-inurl htm -inurl html -filetype htm -filetype html](https://www.google.com/search?btnG=Search&hl=en&num=100&q=-inurl%3Ahtm+-inurl%3Ahtml+-filetype%3Ahtm+-filetype%3Ahtml)
+- [.Net developers](https://www.google.com/search?bih=578&biw=1280&ei=jUioXrGkJJmF9PwPu4SYkAc&gs_lcp=CgZwc3ktYWIQAzoECAAQR1DzC1jzC2DmDmgAcAJ4AIABsAGIAbABkgEDMC4xmAEAoAECoAEBqgEHZ3dzLXdpeg&hl=en&oq=%28intitle%3Aresume+OR+inurl%3Aresume%29+%E2%80%9C.NET+Developer%E2%80%9D+%28MVP+OR+MVC%29+-job+-jobs+-sample+-examples&q=%28intitle%3Aresume+OR+inurl%3Aresume%29+%E2%80%9C.NET+Developer%E2%80%9D+%28MVP+OR+MVC%29+-job+-jobs+-sample+-examples&sclient=psy-ab&uact=5&ved=0ahUKEwjxnsrotIvpAhWZAp0JHTsCBnIQ4dUDCAw)
+- [(1990..1999 OR 2001..2007) intext present (770 OR Atlanta) ,.GA](http://www.google.com/search?btnG=Search&hl=en&num=100&q=%281990..1999+OR+2001..2007%29+intext%3Apresent+%28770+OR+Atlanta%29+%2C.GA)
+- [About Section Front End Dev](https://www.google.com/search?ei=ZVSgXrmEB4KztQbioLTgBA&gs_lcp=CgZwc3ktYWIQA1C23gRY_PoEYPH9BGgDcAB4AIABSIgBswqSAQIyMpgBAKABAaoBB2d3cy13aXo&oq=site%3A*.com%2Fabout+%22I+am+a+front-end+developer%22&q=site%3A*.com%2Fabout+%22I+am+a+front-end+developer%22&rlz=1C1GCEB_enUS870US870&sclient=psy-ab&uact=5&ved=0ahUKEwj5yo_-nvzoAhWCWc0KHWIQDUwQ4dUDCAw)
+- [about sections for software engineers](https://www.google.com/search?ei=XVSgXsqCMpbctAan5ITADA&gs_lcp=CgZwc3ktYWIQA1CrH1iyMGD5MmgAcAB4AIABVIgBjASSAQE5mAEAoAEBqgEHZ3dzLXdpeg&oq=site%3A*.com%2Fabout+%22I+am+a+software+engineer%22&q=site%3A*.com%2Fabout+%22I+am+a+software+engineer%22&rlz=1C1GCEB_enUS870US870&sclient=psy-ab&uact=5&ved=0ahUKEwiKpdL6nvzoAhUWLs0KHScyAcgQ4dUDCAw)
+- [Boolean Search Cheatsheets to Fine-tune Sourcing | Workable](https://resources.workable.com/boolean-search-cheatsheets/)
+- [Dev resumes hosted on Github](https://www.google.com/search?ei=A1SgXvGFJ_LrtQaZ0o_ADA&gs_lcp=CgZwc3ktYWIQA1CmGVimGWD1ImgAcAB4AIABPYgBeZIBATKYAQCgAQGqAQdnd3Mtd2l6&oq=site%3A*github.io+%28resume+OR+CV%29&q=site%3A*github.io+%28resume+OR+CV%29&rlz=1C1GCEB_enUS870US870&sclient=psy-ab&uact=5&ved=0ahUKEwixk9LPnvzoAhXydc0KHRnpA8gQ4dUDCAw)
+- [Find Ruby Devs on satckoverflow](https://www.google.com/search?bih=578&biw=1280&ei=NUmoXtuLMoi3tQa32JDIAw&gs_lcp=CgZwc3ktYWIQA1DO7ANYzuwDYO_xA2gAcAB4AIABkwGIAYsCkgEDMC4ymAEAoAECoAEBqgEHZ3dzLXdpeg&hl=en&oq=site%3Astackoverflow.com%2Fusers%2F+%E2%80%9Cbadges%E2%80%9D+%E2%80%9Cruby+on+rails+developer%E2%80%9D&q=site%3Astackoverflow.com%2Fusers%2F+%E2%80%9Cbadges%E2%80%9D+%E2%80%9Cruby+on+rails+developer%E2%80%9D&sclient=psy-ab&uact=5&ved=0ahUKEwib-uW4tYvpAhWIW80KHTcsBDkQ4dUDCAw)
+- [Gaming Devs with C#](https://www.google.com/search?bih=578&biw=1280&ei=_EmoXrOvHtm2tAbr5YPwDQ&gs_lcp=CgZwc3ktYWIQA1CBogVYgaIFYIGlBWgAcAB4AIABAIgBAJIBAJgBAaABAqABAaoBB2d3cy13aXo&hl=en&oq=%28intitle%3Aresume+OR+intitle%3Acv%29+%28%E2%80%9Cgame+developer%E2%80%9D+OR+%E2%80%9Cgame+programmer%E2%80%9D%29+%28C%23+OR+C%2B%2B%29+-job+-jobs+-sample+-examples&q=%28intitle%3Aresume+OR+intitle%3Acv%29+%28%E2%80%9Cgame+developer%E2%80%9D+OR+%E2%80%9Cgame+programmer%E2%80%9D%29+%28C%23+OR+C%2B%2B%29+-job+-jobs+-sample+-examples&sclient=psy-ab&uact=5&ved=0ahUKEwizncSXtovpAhVZG80KHevyAN4Q4dUDCAw)
+- [linkextension pdf resume](https://search.yahoo.com/search;_ylt=A0geu5QBLehGf1gB4TRXNyoA?fr=sfp&p=linkextension%3Apdf+resume&y=Search)
+- [linkextension rss OR linkextension xml OR linkextension atom linkextension rdf](https://search.yahoo.com/search;_ylt=A0geu.lqJ.hGaSwBpslXNyoA?fr=yfp-t-471&p=linkextension%3Arss+OR+linkextension%3Axml+OR+linkextension%3Aatom+linkextension%3Ardf&y=Search)
+- [PDF software engineer resumes](https://www.google.com/search?bih=529&biw=1280&ei=dFygXoXjDJm7tQatlaaoCw&gs_lcp=CgZwc3ktYWIQA1CoEliKjwNglZQDaA5wAHgAgAFdiAH7JZIBAjc4mAEAoAEBqgEHZ3dzLXdpeg&oq=filetype%3Apdf+%28resume+OR+CV%29+%28%22software+engineer%27+OR+%22software+developer%22+OR+%22web+developer%22%29&q=filetype%3Apdf+%28resume+OR+CV%29+%28%22software+engineer%27+OR+%22software+developer%22+OR+%22web+developer%22%29&rlz=1C1GCEB_enUS870US870&sclient=psy-ab&uact=5&ved=0ahUKEwiF7fDVpvzoAhWZXc0KHa2KCbUQ4dUDCAw)
+- [resume -depth 0](https://search.yahoo.com/search;_ylt=A0geu5HhKuhG_uwA_ONXNyoA?fr=yfp-t-471&p=resume+-depth%3A0&y=Search)
+- [resume -inbody jobs -intitle jobs -you](https://www.bing.com/search?FORM=LIVSOP&go.x=4&go.y=9&mkt=en-us&q=resume+-inbody%3Ajobs+-intitle%3Ajobs+-you)
+- [resume -intext jobs -intitle jobs -you](https://www.google.com/search?btnG=Search&client=opera&hl=en&hs=vPC&num=100&q=resume+-intext%3Ajobs+-intitle%3Ajobs+-you&rls=en)
+- [resume feature acrobat feature homepage](https://search.yahoo.com/search;_ylt=A0geu7diLOhGMhAByHVXNyoA?fr=sfp&p=resume+feature%3Aacrobat+feature%3Ahomepage&y=Search)
+- [resume html](https://search.yahoo.com/search;_ylt=A0geu.WVJ.hGTmMBv8tXNyoA?fr=yfp-t-471&p=%22resume+*+html%22&y=Search)
+- [Senior Python Developers](https://www.google.com/search?ei=tESoXorBJtnLtQb0pJWgAw&gs_lcp=CgZwc3ktYWIQA1DnOFjoQWDEWmgAcAB4AIABAIgBAJIBAJgBBKABAaoBB2d3cy13aXo&oq=%28intitle%3Aresume+OR+inurl%3Aresume%29+%E2%80%9Csenior+developer%E2%80%9D+Python++-job+-jobs+-templates+-sample+-examples+-hire&q=%28intitle%3Aresume+OR+inurl%3Aresume%29+%E2%80%9Csenior+developer%E2%80%9D+Python++-job+-jobs+-templates+-sample+-examples+-hire&rlz=1C1GCEB_enUS870US870&sclient=psy-ab&uact=5&ved=0ahUKEwiK6_SSsYvpAhXZZc0KHXRSBTQQ4dUDCAw)
+- [Sourcing Devs on Meetup](https://www.google.com/search?bih=578&biw=1280&ei=FUmoXs_3CI_RtQbx1pH4Cw&gs_lcp=CgZwc3ktYWIQA1DLLljg5QFgqfkBaABwAHgAgAG2AYgBoy-SAQQwLjQ4mAEAoAEBqgEHZ3dzLXdpeg&hl=en&oq=site%3Ameetup.com+%28%22software+engineer%22+OR+%22software+developer%22%29+%E2%80%9Cmember+since%E2%80%9D&q=site%3Ameetup.com+%28%22software+engineer%22+OR+%22software+developer%22%29+%E2%80%9Cmember+since%E2%80%9D&sclient=psy-ab&uact=5&ved=0ahUKEwiP1puptYvpAhWPaM0KHXFrBL8Q4dUDCAw)
+- [SpeakerDeck site search](https://www.google.com/search?ei=BEioXruzO5m-tQbSjKngAQ&gs_lcp=CgZwc3ktYWIQDFAAWABg6FtoAHAAeACAAQCIAQCSAQCYAQCqAQdnd3Mtd2l6&oq=site%3Aspeakerdeck.com+%28%22software+engineer%22+OR+%22software+developer%22%29&q=site%3Aspeakerdeck.com+%28%22software+engineer%22+OR+%22software+developer%22%29&rlz=1C1GCEB_enUS870US870&sclient=psy-ab&ved=0ahUKEwi7xbentIvpAhUZX80KHVJGChwQ4dUDCAw)
+- [Speakers on Sched.com](https://www.google.com/search?ei=fRj8YbSWOv-1qtsPyeiCyA0&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsANKBAhBGABKBAhGGABQzAxYrEtgmE5oAXACeACAAVSIAegNkgECMzGYAQCgAQHIAQjAAQE&oq=site%3ASched.com+%28speakers+OR+speaker+OR+agenda+OR+bios%29&q=site%3ASched.com+%28speakers+OR+speaker+OR+agenda+OR+bios%29&rlz=1C5GCEM_enUS986US987&sclient=gws-wiz&uact=5&ved=0ahUKEwj0yN_ljuT1AhX_mmoFHUm0ANkQ4dUDCA4)
+- [Stackoverflow users](https://www.google.com/search?ei=P12gXpOxLYfPtQaVkYaIAg&gs_lcp=CgZwc3ktYWIQAzoFCAAQgwE6AggAOgQIABAKOgQIABADUMkMWKQaYIYmaAFwAHgAgAFpiAGzA5IBAzUuMZgBAKABAaABAqoBB2d3cy13aXo&oq=site%3Ahttps%3A%2F%2Fstackoverflow.com%2Fusers%2F*%2F*&q=site%3Ahttps%3A%2F%2Fstackoverflow.com%2Fusers%2F*%2F*&sclient=psy-ab&source=hp&uact=5&ved=0ahUKEwjTzPe2p_zoAhWHZ80KHZWIASEQ4dUDCAk)
+- [UI Designers](https://www.google.com/search?bih=578&biw=1280&ei=dkmoXsrpIMWstQa_qLiACw&gs_lcp=CgZwc3ktYWIQA1D_iwhY_4sIYMWOCGgAcAB4AIABqAKIAagCkgEDMi0xmAEAoAECoAEBqgEHZ3dzLXdpeg&hl=en&oq=%28intitle%3Aresume+OR+intitle%3Acv%29+%28%E2%80%9Clead+UI+designer%E2%80%9D+OR+%E2%80%9Csenior+UI+designer%E2%80%9D%29+-job+-jobs+-sample+-templates&q=%28intitle%3Aresume+OR+intitle%3Acv%29+%28%E2%80%9Clead+UI+designer%E2%80%9D+OR+%E2%80%9Csenior+UI+designer%E2%80%9D%29+-job+-jobs+-sample+-templates&sclient=psy-ab&uact=5&ved=0ahUKEwjK_NPXtYvpAhVFVs0KHT8UDrAQ4dUDCAw)
+
+## Search Strings
+
+- [Google Translate](https://translate.google.com/)
+- [RadiTube—A Search Engine for Radical Content on YouTube](https://tool.raditube.com/)
+- [Yandex.Translate](https://translate.yandex.com/)
+
+## Search Terms Expertise
+
+- [Exploring Google Hacking Techniques](https://securitytrails.com/blog/google-hacking-techniques)
+- [Google Advanced Image Search](https://www.google.com/advanced_image_search)
+- [Search Operators](https://support.google.com/websearch/answer/2466433?hl=en&rd=1)
+
+## Search Tools
+
+- [GitHub - adnane-X-tebbaa/Katana: A Python Tool For google Hacking](https://github.com/TebbaaX/Katana)
+- [GitHub - Sanix-Darker/falla: A search-engine-cli-scraper for more than 15 search engines, including Google. duckduckgo, Bing, Ask, etc...](https://github.com/Sanix-Darker/falla)
+- [Github.com/cybersafeblr/thedorkbox](https://github.com/cybersafeblr/thedorkbox)
+- [Github.com/googleinurl/SCANNER-INURLBR](https://github.com/googleinurl/SCANNER-INURLBR)
+- [Github.com/opsdisk/pagodo](https://github.com/opsdisk/pagodo)
+- [Github.com/oryon-osint/querytool](https://github.com/oryon-osint/querytool)
+- [Gsearch.one](https://www.gsearch.one/)
+- [Instant Cloud Search](https://getcommande.com/)
+- [Klug Suchen!](https://www.klug-suchen.de/)
+- [searchids.com](https://searchids.com/)
+
+## SEO Search Engines
+
+- [SEO Graphic Resources](https://cse.google.com/cse?cx=006290531980334157382%3A3x8i6ydquuc)
+- [SEO Resources Search Engine](https://cse.google.com/cse?cx=005797772976587943970%3Ai7q6z1kjm1w)
+- [Super SEO Search Engine](https://cse.google.com/cse?cx=005797772976587943970%3Addxth6fexqw)
+- [The Search Engine Finder](https://cse.google.com/cse?cx=013991603413798772546%3Acsa-hd4a4dk)
+
+## Similar Sites
+
+- [Find Similar Sites, Competitors and Related Sites](https://www.alexa.com/find-similar-sites)
+- [Rawranked.com](https://rawranked.com/)
+- [Similarsites.com](https://www.similarsites.com/)
+- [SimilarSiteSearch.com](https://www.similarsitesearch.com/)
+- [Sitelike.org](https://www.sitelike.org/)
+- [Suchsites.com](https://suchsites.com/)
+- [TopSimilarSites](https://www.topsimilarsites.com/)
+- [Xranks.com](https://xranks.com/)
+
+## Social
+
+- [@search • Instagram photos and videos](https://www.instagram.com/search/)
+- [4chansearch.org](https://4chansearch.org/)
+- [Discord search](https://disboard.org/de/search)
+- [Facebook graph search](https://mtg-bi.com/blog/facebook-graph-search-workaround)
+- [Facebook graph searches](https://researchclinic.net/graph.html)
+- [Facebook Search](https://www.social-searcher.com/facebook-search/)
+- [Facebook Search](https://www.intel-sw.com/blog/facebook-search-demo/)
+- [Facebook Search Tool](https://www.aware-online.com/osint-tools/facebook-search-tool/)
+- [Graph Search](https://www.facebook.com/graphsearcher)
+- [LinkedIn Search](https://freepeoplesearchtool.com/)
+- [Reddit Comment Search](https://reddup.co/)
+- [Social Network Profiles](https://www.ussearch.com/social-network-search)
+- [Social Search (6 SM Platforms)](https://www.social-searcher.com/google-social-search/?fb=on&gp=on&in=on&li=on&pi=on&q=person&tw=on)
+- [Social Searcher](https://www.social-searcher.com/)
+- [SocialCatfish Reverse Image Search](https://socialcatfish.com/reverse-image-search/)
+- [TikTok Search Site](https://www.osintcombine.com/tiktok-quick-search)
+- [Search 4chan](https://boards.4chan.org/search)
+- [SearchPOF.com](https://searchpof.com/)
+- [Social Profiles Finder](https://www.social-searcher.com/search-users/)
+- [Twitter geolocation dork](https://twitter.com/search?q=geocode%3A38.952451%2C-90.195011%2C1km&src=typd)
+- [#instagram - Twitter Search](https://twitter.com/search?q=%23instagram)
+- [Twitter Image Search Engine](https://cse.google.com/cse?cx=006205189065513216365%3Avltpvp4_gyo)
+
+## Specialized
+
+- [Ä1 - All In One Advanced Search](https://xn--1-zfa.com/)
+- [Carrot2 search results clustering engine](https://search.carrot2.org/#/search/web)
+- [Censys Search](https://search.censys.io/)
+- [Discovery | The National Archives](https://discovery.nationalarchives.gov.uk/)
+- [DorkSearch - Speed up your Dorking](https://dorksearch.com/)
+- [DuckDuckGo !Bang](https://duckduckgo.com/bang)
+- [Google Dataset Search](https://datasetsearch.research.google.com/)
+- [Google Patent Search](https://www.google.com/webhp?tbm=pts)
+- [Home - ZoomEye really mapping,global leader of cyberspace mapping](https://www.zoomeye.org/)
+- [IACA Dark Web Investigation Support–Provided by International Anti Crime Academy (IACA) The Netherlands](https://iaca-darkweb-tools.com/)
+- [Indeed - CSE](https://cse.google.com/cse?cx=012951739560700154499%3Awq3e6dpqvt4)
+- [Infinity Search - Home](https://infinitysearch.co/)
+- [LeakIX](https://leakix.net/)
+- [Lumix Shoppy Search Engine](https://lumix.live/)
+- [MAC Address Lookup](https://mac.lc/)
+- [Mamont. Largest FTP Search Engine](https://www.mmnt.ru/int/)
+- [OCCRP - Organized Crime Corruption Database](https://data.occrp.org/)
+- [Onionscan - Github](https://github.com/s-rah/onionscan)
+- [pastebin.com/7YaKZ3HD](https://pastebin.com/7YaKZ3HD)
+- [Public Buckets](https://osint.sh/buckets/)
+- [Search Engine Forums - SEO Tools, Communities, Blogs, Podcasts and Conferences](https://www.searchengineforums.com/)
+- [site:workers.dev goindex - Google Search](https://www.google.com/search?lr=lang_en&q=site%3Aworkers.dev+goindex)
+- [Stork Search](https://stork-search.net/)
+- [Technisette](https://technisette.com/)
+- [Textise - Text-Only and Accessibility Tools](https://www.textise.net/)
+- [Wayback Machine - Internet Archive](https://archive.org/web/web.php)
+
+## Specialty Search Engines
+
+- [Athlinks](https://www.athlinks.com/)
+- [carrot2](https://search.carrot2.org/)
+- [FindSounds](https://findsounds.com/)
+- [Harmari Search](https://www.harmari.com/login/?redirect_to=%2Fsearch%2Funified)
+- [Research Guides: Think Tank Search: Think Tank Search](https://guides.library.harvard.edu/hks/think_tank_search)
+- [Wiby](https://wiby.me/)
+
+## Start.me Pages
+
+- [Bruno Mortier- Search engines](https://start.me/p/ekl8eK/search-engines)
+- [Osintia Zoekslag- Domain & IP](https://start.me/p/ELXg5a/domainname-and-ip-search)
+- [Osintia Zoekslag- Search Tools](https://start.me/p/L1YnjG/search-tools)
+- [Search Eng Utopia](https://start.me/p/NxRQbG/search-eng-utopia)
+- [Sprp77 Search Engines](https://start.me/p/b5ynOQ/sprp77-search-engines)
+- [Search Social Media](https://start.me/p/RMKeQv/search-social-media)
+
+## Technology
+
+- [Bullmask - The Search Engine](https://www.bullmask.com/)
+- [Machine Learning](https://cse.google.com/cse?cx=016964911540212529382%3A9j83vmmllem)
+- [Tech, Non-Tech & Diversity Search Engine](https://cse.google.com/cse?cx=012020006043586000305%3Aw5dhsgzmkeg#gsc.tab=0%20https://cse.google.com/cse/publicurl?cx=015211855213760009025:zpqcxcycah8%20https://cse.google.com/cse/publicurl?cx=012236071480267108189:0y1g3vhxpoe%20https://cse.google.com/cse/publicurl?cx=008789176703646299637:mubfrybi2ja)
+- [Technical Search Engine](https://cse.google.com/cse?cx=000826244820084663955%3A6wz9grqlj6e)
+
+## Tools
+
+- [100 Alternative Search Engines | Search Engines List | Marco Diversi](https://marcodiversi.com/blog/alternative-search-engines/)
+- [AOL](https://www.aol.com/)
+- [Ask.com](https://www.ask.com/)
+- [Binsearch -- Usenet search engine](https://www.binsearch.info/)
+- [Dogpile](https://www.dogpile.com/)
+- [Exalead](https://www.exalead.com/search/)
+- [Gigablast](https://gigablast.com/)
+- [Mamonts Open FTP Search](https://www.mmnt.net/)
+- [Monstercrawler](https://monstercrawler.com/)
+- [Mozbot](https://www.mozbot.com/)
+- [OSCOBO](https://www.oscobo.com/%20)
+- [WebCrawler](https://www.webcrawler.com/)
+- [Yahoo](https://yahoo.start.me/?a=wsp_startme_00_00_ssg02)
+- [GitHub - Igglybuff/awesome-piracy: A curated list of awesome warez and piracy links](https://github.com/Igglybuff/awesome-piracy)
+- [index - FREEMEDIAHECKYEAH](https://libreddit.spike.codes/r/FREEMEDIAHECKYEAH/wiki)
+- [faq - piracy](https://libreddit.spike.codes/r/piracy/wiki/faq)
+- [guides - piracy](https://libreddit.spike.codes/r/piracy/wiki/guides)
+- [megathread/tools - piracy](https://libreddit.spike.codes/r/piracy/wiki/megathread/tools)
+- [megathread - Piracy](https://libreddit.spike.codes/r/Piracy/wiki/megathread)
+- [Free online HTML editor - onlinehtmleditor.dev](https://onlinehtmleditor.dev/)
+- [CSS Gradient—Generator, Maker, and Background](https://cssgradient.io/)
+- [Boxicons : Premium web friendly icons for free](https://boxicons.com/)
+- [Arc - The peer-to-peer CDN that pays you.](https://arc.io/)
+- [Just Delete Me | A directory of direct links to delete your account from web services.](https://justdeleteme.xyz/)
+- [https://raw.githubusercontent.com/nbats/FMHYedit/main/single-page](https://raw.githubusercontent.com/nbats/FMHYedit/main/single-page)
+- [Rentry.co - Markdown Pastebin](https://rentry.org/)
+- [Lexica](https://lexica.art/)
+- [GNOME Circle](https://circle.gnome.org/)
+- [CHAMPAGNE GUIDES](https://rentry.org/champagne_guides/)
+- [CHAMPAGNE PIRACY WIKI](https://rentry.org/champagne_wiki)
+- [Rentry.co - Markdown Pastebin](https://rentry.co/)
+- [Home - Mirror Upload - MultiUp.org](https://www.multiup.org/)
+- [Hide Referrer | link to other sites anonymously](https://anonymiz.com/)
+- [Burner Note](https://burnernote.com/)
+- [Yopass: Share Secrets Securely](https://yopass.se/)
+
+## Torrents
+
+- [Bt4g.org](https://bt4g.org/)
+- [btdig](https://btdig.com/)
+- [FileListing](https://filelisting.com/)
+- [Solid Torrents](https://solidtorrents.to/)
+- [Torrents-csv.ml](https://torrents-csv.ml/#/)
+
+## UNIFIED SEARCH
+
+- [Effect Group](https://effectgroup.io/)
+- [IOA](https://www.io-archive.org/)
+- [MetaDefender](https://metadefender.opswat.com/)
+- [Nexus Client](https://github.com/AccentuSoft/LinkScope_Client)
+- [OSINT Search Engine](https://cse.google.com/cse?cx=006290531980334157382%3Aqcaf4enph7i)
+- [osrframework](https://pypi.org/project/osrframework/)
+- [SpyTox](https://www.spytox.com/)
+
+## Username
+
+- [CheckUsernames - Social Media Username Search by KnowEm](https://checkusernames.com/)
+- [GitHub - soxoj/maigret: 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites](https://github.com/soxoj/maigret)
+- [IDCrawl | Social Media Profile Lookup](https://www.idcrawl.com/username)
+- [inflact | Instagram Profile Search](https://inflact.com/tools/instagram-search)
+- [Instant Username Search](https://instantusername.com/#)
+- [Kik Usernames | Find People on KiK](https://kikusernames.com/search)
+- [KnowEm Username Search: Social Media, Domains and Trademarks](https://knowem.com/)
+- [namecheckr | Social and Domain Name Availability Search For Brand Professionals](https://www.namecheckr.com/)
+- [Namechk | Username, Domain, and Trademark Search | Username Registration](https://namechk.com/)
+- [PeekYou](https://www.peekyou.com/username)
+- [SearchPOF.com - Search POF by Username](https://searchpof.com/)
+- [SocialFinder(NSFW) | Manual Profile Discovery](https://socialfinder.app/)
+- [Username Search | Social Media Profile Lookup | BeenVerified](https://www.beenverified.com/username-search)
+- [UserSearch | Search Dating Sites | Reverse User Lookup](https://usersearch.org/index.php)
+- [WhatsMyName Web](https://whatsmyname.app/)
+
+## Video
+
+- [Bing video search](https://www.bing.com/?nr=1&scope=video)
+- [Google Custom Search 250+ Video Sharing Sites](https://cse.google.com/cse?cx=001794496531944888666%3Actbnemd5u7s)
+- [Peteyvid.com](https://www.peteyvid.com/)
+- [Results](https://m.youtube.com/results?page=%7BstartPage%3F%7D&search_query=%25s)
+- [Webcam Custom Search Engine](https://cse.google.com/cse?cx=013991603413798772546%3Agjcdtyiytey)
+
+## YouTube
+
+- [Dideo - Search and watch videos without restriction](https://www.dideo.ir/)
+- [YouTube - Channel Crawler](https://channelcrawler.com/)
+- [YouTube - YouTube Dataviewer](https://citizenevidence.amnestyusa.org/)
+
+
+
+</details>
+
+- [binsta](https://binsta.dev/)
