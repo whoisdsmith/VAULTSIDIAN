@@ -1,0 +1,7 @@
+# GitHub - code-for-charity/ImprovedTube-for-YouTube: YouTube Extension [80+Lean🧰Features]📌[Longest-standing©️2012]📌[485 000+Users👨‍👩‍👧‍👧][Guide/Wiki:missing!] - ⚙️⋮[🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪][Player: Repeat Screenshot Rotate][Hide related video distraction][Always expand video Description][Playback speed][Video Quality bandwidth H.264 electricity][Player Size Full Window][Themes Customization][Statistics][Playlist Reverse]YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube Yo...
+
+cover: https://repository-images.githubusercontent.com/123563464/1876e780-e361-11ea-83b9-54d948550e3c
+created: November 23, 2022 6:57 PM (UTC)
+folder: BOOKMRKS-MTHRFCKR / PIRACY-MTHRFCKR / FMHY / Github
+tags: fmhy, github
+url: https://github.com/code-for-charity/youtube-extension

@@ -1,0 +1,8 @@
+# AIAW Podcast
+
+cover: https://www.buzzsprout.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQWFSYmdFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ccd631f4ca96dd5604d557b5a59b0a4e20315d13/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJMU1IZ3lOVEJlQmpzR1ZEb01aM0poZG1sMGVVa2lDMk5sYm5SbGNnWTdCbFE2QzJWNGRHVnVkRWtpRERJMU1IZ3lOVEFHT3daVU9neHhkV0ZzYVhSNWFWVTZEMk52Ykc5eWMzQmhZMlZKSWdselVrZENCanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--7c01cea9791a272b28ad9ad979e61898eb50a271/AIAW-PODCAST_youtube-profile-picture.jpg
+created: February 14, 2023 1:34 AM (UTC)
+description: The Artificial Intelligence After Work (AIAW) podcast is a weekly live streamed long format conversation aiming to demystify data innovation and AI, as well as their impact to future business and society by bringing the listeners close to the challenges that AI practitioners aim to solve today. The case-study, industry-by-industry, human-focused, and guest personal angle on the topic approach makes the podcast educational, emotional, engaging, and entertaining to all who are interested in learning more about AI, the future developments in the area, or simply getting exposed to variety of topics from practitioners and experts with first-hand industry experience and knowledge in the topic of the day. Hosts: Anders Arpteg & Henrik Göthberg. Program Manager: Goran Cvetanovski
+folder: AI Systems / AI | Audio | Audio
+tags: ai
+url: https://www.buzzsprout.com/1409674

@@ -1,0 +1,8 @@
+# Hybrid search sum of its parts? Berlin Buzzwords 2022
+
+cover: https://pretalx.com/bbuzz22/talk/YEHRTE/og-image
+created: October 6, 2022 5:32 AM (UTC)
+description: Over the decades, information retrieval has been dominated by classical methods such as BM25. These lexical models are simple and effective yet vulnerable to vocabulary mismatch. With the introduction of pre-trained language models such as BERT and its relatives, deep retrieval models have achieved superior performance with their strong ability to capture semantic relationships. The downside is that training these deep models is computationally expensive, and suitable datasets are not always available for fine-tuning toward the target domain.  While deep retrieval models work best on domains close to what they have been trained on, lexical models are comparatively robust across datasets and domains. This suggests that lexical and deep models can complement each other, retrieving different sets of relevant results. But how can these results effectively be combined? And can we learn something from language models to learn new indexing methods? This talk will delve into both these approaches and exemplify when they work well and not so well. We will take a closer look at different strategies to combine them to get the best of both, even in zero-shot cases where we don't have enough data to fine-tune the deep model.  The Search track is presented by OpenSource Connections
+folder: BOOKMRKS-MTHRFCKR / SEARCH PARTY MTHRFCKR! / More Custom Search Engines
+tags: Search, custom
+url: https://pretalx.com/bbuzz22/talk/YEHRTE

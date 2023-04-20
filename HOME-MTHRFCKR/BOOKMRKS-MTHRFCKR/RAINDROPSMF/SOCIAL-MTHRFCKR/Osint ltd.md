@@ -1,0 +1,7 @@
+# Osint.ltd
+
+created: February 24, 2022 1:17 PM (UTC)
+description: public government reports, budgets, hearings, telephone directories, press conferences, websites, and speeches,Media, print newspapers, magazines, radio, and television from across and between countries. Internet, online publications, blogs, discussion groups, citizen media (i.e. – cell phone videos, and user created content), YouTube, and other social media websites (i.e. – Facebook, Twitter, Instagram, etc.). This source also outpaces a variety of other sources due to its timeliness and ease of access. Public Government Data, public government reports, budgets, hearings, telephone directories, press conferences, websites, and speeches. Although this source comes from an official source they are publicly accessible and may be used openly and freely. Professional and Academic Publications, information acquired from journals, conferences, symposia, academic papers, dissertations, and theses. Commercial Data, commercial imagery, financial and industrial assessments, and databases,Grey literature, technical reports, preprints, patents, working papers, business documents, unpublished works, and newsletters.E-mail: support@osint.ltd
+folder: BOOKMRKS-MTHRFCKR / SOCIAL-MTHRFCKR / OSINT Blogs
+tags: OSINT, Social Media
+url: https://osint.ltd

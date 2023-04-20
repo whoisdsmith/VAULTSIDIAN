@@ -1,0 +1,6 @@
+# ВКонтакте RSS
+
+created: April 1, 2022 10:51 AM (UTC)
+folder: BOOKMRKS-MTHRFCKR / SEARCH PARTY MTHRFCKR! / VKONTAKTE
+tags: Search, vk
+url: http://vk-to-rss.appspot.com

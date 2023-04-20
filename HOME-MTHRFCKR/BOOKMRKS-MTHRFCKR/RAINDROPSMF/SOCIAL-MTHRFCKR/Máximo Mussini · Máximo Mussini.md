@@ -1,0 +1,8 @@
+# Máximo Mussini · Máximo Mussini
+
+cover: https://maximomussini.com/images/posts.jpg
+created: September 1, 2022 1:58 AM (UTC)
+description: Thoughts about development and product design.
+folder: BOOKMRKS-MTHRFCKR / SOCIAL-MTHRFCKR / Dev-Sites
+tags: Social Media, dev sites
+url: http://maximomussini.com

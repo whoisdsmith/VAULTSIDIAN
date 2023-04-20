@@ -1,0 +1,7 @@
+# windirstat.net
+
+cover: https://windirstat.net/images/wds_rich_preview.png
+created: November 26, 2022 4:29 AM (UTC)
+folder: BOOKMRKS-MTHRFCKR / PIRACY-MTHRFCKR / soda / OGs
+tags: ogs
+url: https://windirstat.net
