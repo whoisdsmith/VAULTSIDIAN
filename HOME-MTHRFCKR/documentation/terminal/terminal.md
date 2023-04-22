@@ -22,7 +22,7 @@
 		- [zsh](all-commands/zsh.md)
 	- [an-introduction-to-bash-scripting-www-developer-com](an-introduction-to-bash-scripting-www-developer-com.md)
 	- [bash-handbook](bash-handbook.md)
-	- [brew-list](brew-list.md)
+	- [brew-list](home-mthrfckr/Text%20Processing/brew-list.md)
 	- [cat-command-in-linux-15-commands-with-examples-phoenixnap-kb](cat-command-in-linux-15-commands-with-examples-phoenixnap-kb.md)
 	- **cmds**
 		- [app](cmds/app.md)
@@ -159,7 +159,7 @@
 	- [list-of-unix-commands-wikipedia](list-of-unix-commands-wikipedia.md)
 	- [modern-unix](modern-unix.md)
 	- [networking-processes](networking-processes.md)
-	- [npm-packages](npm-packages.md)
+	- [npm-packages](home-mthrfckr/npm-packages.md)
 	- [one-liners](one-liners.md)
 	- [pandoc-pandoc-user-s-guide](pandoc-pandoc-user-s-guide.md)
 	- [performance-management](performance-management.md)

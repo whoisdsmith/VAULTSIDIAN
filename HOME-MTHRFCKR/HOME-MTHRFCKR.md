@@ -9,7 +9,6 @@
 
 %% Begin Waypoint %%
 - **[home-mthrfckr](./home-mthrfckr.md)**
-	- [0-11-29-Data & Text Wrangling](./0-11-29-Data%20&%20Text%20Wrangling.md)
 	- **[ai-and-machine-learning](./ai-and-machine-learning/ai-and-machine-learning.md)**
 	- **[AlteredFuture](./AlteredFuture/AlteredFuture.md)**
 		- [10-59-7-AlteredFuture Art Prompts](./AlteredFuture/10-59-7-AlteredFuture%20Art%20Prompts.md)
@@ -42,22 +41,29 @@
 			- [AImarx](./AlteredFuture/AIMARX/AImarx.md)
 		- [AlteredFuture](./AlteredFuture/AlteredFuture.md)
 	- **[bookmrks-mthrfckr](./bookmrks-mthrfckr/bookmrks-mthrfckr.md)**
+	- [brews](./brews.md)
+	- [Copy Em Regex](./Copy%20Em%20Regex.md)
 	- **[documentation](./documentation/documentation.md)**
 	- [google programmable search](./google%20programmable%20search.md)
 	- [home-mthrfckr](./home-mthrfckr.md)
-	- **[mental health](./mental%20health/mental%20health.md)**
-		- [mental health](./mental%20health/mental%20health.md)
-		- [mental-health](./mental%20health/mental-health.md)
-		- [stutz](./mental%20health/stutz.md)
 	- **[notes](./notes/notes.md)**
+	- [npm-packages](./npm-packages.md)
 	- **[osint](./osint/osint.md)**
 	- [Please redirect your DNS](./Please%20redirect%20your%20DNS.md)
 	- **[research](./research/research.md)**
-	- **[richard](./richard/richard.md)**
-		- [richard-app](./richard/richard-app.md)
-		- [richard](./richard/richard.md)
-	- [text_mining_resources](./text_mining_resources.md)
-	- [TextUtiliyTopicsonGithub](./TextUtiliyTopicsonGithub.md)
+	- **[Text Processing](./Text%20Processing/Text%20Processing.md)**
+		- [Advanced Grep Topics](./Text%20Processing/Advanced%20Grep%20Topics.md)
+		- [Data & Text Wrangling](./Text%20Processing/Data%20&%20Text%20Wrangling.md)
+		- [fex simple and powerful field extraction](./Text%20Processing/fex%20simple%20and%20powerful%20field%20extraction.md)
+		- [Fun working with files using awk and sed](./Text%20Processing/Fun%20working%20with%20files%20using%20awk%20and%20sed.md)
+		- [My Favorite Command Line Tools for Searching & Editing Text](./Text%20Processing/My%20Favorite%20Command%20Line%20Tools%20for%20Searching%20&%20Editing%20Text.md)
+		- [Quickly Identify and Remove Illegal Characters in Your Large Text Files](./Text%20Processing/Quickly%20Identify%20and%20Remove%20Illegal%20Characters%20in%20Your%20Large%20Text%20Files.md)
+		- [Regular Expressions ](./Text%20Processing/Regular%20Expressions%20.md)
+		- [Structured text tools](./Text%20Processing/Structured%20text%20tools.md)
+		- [Text processing from the command line](./Text%20Processing/Text%20processing%20from%20the%20command%20line.md)
+		- [Text processing in the shell](./Text%20Processing/Text%20processing%20in%20the%20shell.md)
+		- [Text Processing](./Text%20Processing/Text%20Processing.md)
+		- [text_mining_resources](./Text%20Processing/text_mining_resources.md)
 	- **[urls](./urls/urls.md)**
 	- [Website Names](./Website%20Names.md)
 

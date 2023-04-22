@@ -81,3 +81,26 @@
 - **Text-to-speech Conversion:** The Process Of Converting Written Text Into Spoken Audio. This Can Be Useful For Tasks Like Accessibility And Language Learning.
 
 Overall, Text Wrangling Involves A Wide Range Of Techniques And Processes For Cleaning, Transforming, And Analyzing Text Data. The Specific Techniques And Processes Used Will Depend On The Particular Task At Hand And The Nature Of The Text Data Being Analyzed.
+
+
+# Text Utiliy Topics on Github
+
+#plain-text  
+#text-analysis 
+#text-cleaning  
+#text-classifier  
+#text-files 
+#text-formatting  
+#text-manipulation  
+#text-parser 
+#text-processing  
+#replace-text  
+#restructured-text  
+#text-file  
+#formatted-text  
+#textfiles  
+#text-parsing  
+#text-analyzer  
+#textformatter  
+#truncate-text  
+#text-utility 

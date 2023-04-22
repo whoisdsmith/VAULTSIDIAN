@@ -1,0 +1,140 @@
+# Fex: Simple and Powerful Field Extraction | Fex Commands
+
+---
+
+## Synopsis
+
+
+
+`**fex** *selector …*`
+
+
+
+## Description
+
+
+fex helps you split things by field. Common tasks you might do with awk or cut are much simpler in fex, and there are things in fex you can't do nearly as easily in awk or cut.
+
+## Selector Syntax
+
+The selector syntax looks like this:
+
+```
+  <delimiter><selection>...
+```
+
+The delimiter is a single character that is used to split the input string.
+
+The first delimiter is implied as space ' '. You can specify multiple fields with curly braces and numbers split by commas. Also valid in curly braces {} are number ranges. Number ranges are similar to python array slices, split by colon.
+
+The selection is one of the following and is used to choose fields split by the delimiter.
+
+a single number
+
+A single number will select that numbered field. Like awk, field start at 1.
+
+Example selecting third field:
+
+```
+  % echo "a b c d e" | fex '3'
+  a b c d
+```
+
+Example selecting the second field delimited by slash:
+
+```
+  % echo "/home/hello/world" | fex '/2'
+  hello
+```
+
+{N:M}
+
+This is a range selection. The syntax for ranges is, in curly braces, N:M, which chooses the fields in range N to M, inclusive.
+
+Example selecting first through fourth fields:
+
+```
+  % echo "a b c d e" | fex '{1:4}'
+  a b c d
+```
+
+{N,M,…}
+
+The syntax for multiple selections is numbers within curly braces.
+
+Example selecting first and fifth fields:
+
+```
+  % echo "a b c d e" | fex '{1,5}'
+  a e
+```
+
+{range,field,field,range,field}
+
+Combining the above, you can actually select ranges and individual fields using the {…} syntax by delimiting each selection by comma.
+
+Example selecting fields 1 to 3, and 5: {1:3,5}
+
+```
+  % echo "a b c d e" | fex '{1:3,5}'
+  a b c e
+```
+
+{?range,field,…}
+
+The {?…} notation turns on 'non greedy' field separation. The differences here can be shown best by example, first:
+
+```
+  % echo "1...2.3.4" | fex '.{1:3}'
+  1.2.3
+  % echo "1...2.3.4" | fex '.{?1:3}'
+  1..
+```
+
+In the first example, fex uses '.' as delimiter and ignores empty fields. In the  second example (non greedy), it does not ignore those empty fields.
+
+/regexp/
+
+The /regexp/ selection will choose only fields that match the given pattern.
+
+Example, pulling out words with 'addr:' in it from 'ifconfig' output:
+
+```
+  % ifconfig | fex ' /addr:[0-9]/'    
+  addr:127.0.0.1
+  addr:192.168.0.28
+```
+
+## Examples
+
+Show the MTU for a given interface
+
+The 'mtu' in ifconfig output looks like 'mtu:1500'. So have fex split by space, then grab fields matching /mtu:/, split by colon, and choose the last field.
+
+```
+  % ifconfig wlan0 | fex ' /mtu:/:-1'
+  1500
+```
+
+Parse apache logs
+
+Pull the IP address (first field by space) and the path requested (2nd field in "GET")
+
+```
+    % fex 1 '"2 2'  /b/logs/access
+    65.57.245.11 /
+    65.57.245.11 /icons/blank.gif
+    65.57.245.11 /icons/folder.gif
+```
+
+
+## See Also
+
+Project site: [http://www.semicomplete.com/projects/fex](http://www.semicomplete.com/projects/fex)
+
+Source Code: [https://github.com/jordansissel/fex](https://github.com/jordansissel/fex)
+
+Alternately, if you prefer email, feel free to file bugs by email.  Whatever works for you :)
+
+Patches, ideas, and other contributions by many, nice folks. See the CHANGELIST file for who provided what.
+

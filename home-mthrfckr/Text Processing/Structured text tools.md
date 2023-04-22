@@ -1,7 +1,6 @@
-# Structured text tools
+# Structured Text Tools
 
 The following is a list of text-based file formats and command line tools for manipulating each.
-
 
 ## Contents
 
@@ -24,22 +23,21 @@ The following is a list of text-based file formats and command line tools for ma
 * [License](#license)
 * [Disclosure](#disclosure)
 
-
 ## Awk-like
 
 Tools that work with lines of fields separated by delimiters but do not necessarily support [CSV field quoting](https://en.wikipedia.org/wiki/Comma-separated_values#Basic_rules).
 
 ### Awk
 
-Awk is a POSIX-standard command line tool and programming language.  If you use Linux, macOS, or a BSD, you almost certainly have it installed.  See below for Windows.
+Awk is a POSIX-standard command line tool and programming language. If you use Linux, macOS, or a BSD, you almost certainly have it installed. See below for Windows.
 
-* If you already know how to program, the nawk [man page](https://www.freebsd.org/cgi/man.cgi?query=nawk&sektion=1) is a great way to learn Awk quickly.  What you learn from it will apply to other implementations on different platforms.  Read it first if you feel overwhelmed by the sheer size of the [GNU Awk manual](https://www.gnu.org/software/gawk/manual/gawk.html).
-* [Awk.info archive](https://web.archive.org/web/20160505033644/http://awk.info/) — an extensive resource on Awk.
-* [AWK Vs NAWK Vs GAWK](https://www.thegeekstuff.com/2011/06/awk-nawk-gawk/) — a comparison of features present in different implementations.
+* If you already know how to program, the nawk [man page](https://www.freebsd.org/cgi/man.cgi?query=nawk&sektion=1) is a great way to learn Awk quickly. What you learn from it will apply to other implementations on different platforms. Read it first if you feel overwhelmed by the sheer size of the [GNU Awk manual](https://www.gnu.org/software/gawk/manual/gawk.html).
+* [Awk.info archive](https://web.archive.org/web/20160505033644/http://awk.info/)—an extensive resource on Awk.
+* [AWK Vs NAWK Vs GAWK](https://www.thegeekstuff.com/2011/06/awk-nawk-gawk/)—a comparison of features present in different implementations.
 * [busybox-w32](https://frippery.org/busybox/) includes a full implementation of POSIX Awk and other tools like `sed` in a single Windows executable.
 * [GNU Awk 5 binaries for Windows](https://sourceforge.net/projects/ezwinports/files/) by [EZWinPorts](https://www.gnu.org/software/emacs/manual/html_node/efaq-w32/EZWinPorts.html).
 
-### POSIX commands
+### POSIX Commands
 
 | Name | Description |
 |------|-------------|
@@ -51,7 +49,7 @@ Awk is a POSIX-standard command line tool and programming language.  If you use 
 | `sort` | Sort lines by key fields.  (Manual: `man 1 sort`, [GNU](https://linux.die.net/man/1/sort), [FreeBSD](https://www.freebsd.org/cgi/man.cgi?query=sort&sektion=1).) |
 | `uniq` | Find or remove repeated lines.  (Manual: `man 1 uniq`, [GNU](https://linux.die.net/man/1/uniq), [FreeBSD](https://www.freebsd.org/cgi/man.cgi?query=uniq&sektion=1).) |
 
-### Other tools
+### Other Tools
 
 | Name | Description |
 |------|-------------|
@@ -60,10 +58,9 @@ Awk is a POSIX-standard command line tool and programming language.  If you use 
 | [Hawk](https://github.com/gelisam/hawk) | Transform text from the command-line using Haskell expressions. |
 | [rq](https://github.com/dflemstr/rq) | See the [JSON section](#json). |
 
-
 ## CSV
 
-CSV, TSV, and other delimiter-separated value formats.  Tools belong on this list if they support [field quoting](https://en.wikipedia.org/wiki/Comma-separated_values#Basic_rules).
+CSV, TSV, and other delimiter-separated value formats. Tools belong on this list if they support [field quoting](https://en.wikipedia.org/wiki/Comma-separated_values#Basic_rules).
 
 | Name and link | Description |
 |---------------|-------------|
@@ -93,9 +90,9 @@ CSV, TSV, and other delimiter-separated value formats.  Tools belong on this lis
 | [VisiData](https://github.com/saulpw/visidata) | Explore interactively data in TSV, CSV, XLS, XLSX, HDF5, JSON, and [other formats](http://visidata.org/man/#loaders).  [Introduction](https://jsvine.github.io/intro-to-visidata/). |
 | [xsv](https://github.com/BurntSushi/xsv) | Index, slice, analyze, split, and join CSV files. |
 
-### SQL-based tools
+### SQL-based Tools
 
-See the [big comparison table](sql-based.md).  It covers
+See the [big comparison table](sql-based.md). It covers
 
 * AlaSQL CLI
 * csvq
@@ -110,7 +107,6 @@ See the [big comparison table](sql-based.md).  It covers
 * termsql
 * trdsql
 * textql
-
 
 ## JSON
 
@@ -157,7 +153,6 @@ See the [big comparison table](sql-based.md).  It covers
 | [validjson](http://github.com/martinlindhe/validjson) | Validate or pretty-print JSON. |
 | [VisiData](https://github.com/saulpw/visidata) | Explore data interactively data.  See the [DSV/Other tools](#other-tools) section. |
 
-
 ## XML, HTML
 
 | Name and link | Description |
@@ -183,10 +178,9 @@ See the [big comparison table](sql-based.md).  It covers
 | [xq](https://github.com/kislyuk/yq) | [jq](#json) wrapper for XML documents. |
 | [xsltproc](http://xmlsoft.org/XSLT/xsltproc2.html) | Transform XML documents using [XSLT](https://www.w3.org/TR/xslt) and [EXSLT](http://exslt.org). |
 
-### See also
+### See Also
 
-*  [Grep and Sed Equivalent for XML Command Line Processing](http://stackoverflow.com/questions/91791/grep-and-sed-equivalent-for-xml-command-line-processing) on StackOverflow.
-
+* [Grep and Sed Equivalent for XML Command Line Processing](http://stackoverflow.com/questions/91791/grep-and-sed-equivalent-for-xml-command-line-processing) on StackOverflow.
 
 ## YAML, TOML
 
@@ -204,12 +198,11 @@ With a format converter like Remarshal (below) you can use [JSON](#json) tools t
 | [shyaml](https://github.com/0k/shyaml) | Query YAML.  Can output null-terminated strings for use in shell scripts. |
 | [validtoml](http://github.com/martinlindhe/validtoml) | Validate TOML. |
 | [validyaml](http://github.com/martinlindhe/validyaml) | Validate or pretty-print YAML. |
-| [yaml-tools](https://github.com/thecodingmachine/yaml-tools) | A set of CLI tools to manipulate YAML files (merge, delete, etc...) with comment preservation, based on [ruamel.yaml](http://yaml.readthedocs.io/en/latest/). |
+| [yaml-tools](https://github.com/thecodingmachine/yaml-tools) | A set of CLI tools to manipulate YAML files (merge, delete, etc…) with comment preservation, based on [ruamel.yaml](http://yaml.readthedocs.io/en/latest/). |
 | [yq (kislyuk)](https://github.com/kislyuk/yq) | [jq](#json) wrapper for YAML. |
 | [yq (mikefarah)](https://github.com/mikefarah/yq) | Query, modify, and merge YAML.  Convert to and from JSON. |
 
-
-## Configuration files
+## Configuration Files
 
 ### /etc/hosts
 
@@ -230,25 +223,23 @@ With a format converter like Remarshal (below) you can use [JSON](#json) tools t
 | [IniFile](http://www.horstmuc.de/wbat32.htm#inifile) ([DOS version](http://www.horstmuc.de/div.htm#inifile)) | Windows (x86, x86-64), MS-DOS | Closed-source freeware | Retrieve properties and sections as batch file commands to set the corresponding variables.  Set properties.  Remove properties and sections.  Changes files in place. |
 | [initool](https://github.com/dbohdan/initool) | Linux, FreeBSD, Windows | MIT | Retrieve properties and sections as INI fragments.  Retrieve properties' values as plain text.  Set properties.  Check for existence of properties and sections.  Remove properties and sections.  Outputs the updated INI file. |
 
-### Multiple formats
+### Multiple Formats
 
 | Name and link | Description |
 |---------------|-------------|
 | [Augeas](http://augeas.net) | Query and modify [a number of file formats](http://augeas.net/stock_lenses.html).  Not all of the formats are equally well supported by Augeas and for some only a limited subset of all valid files can be parsed. |
 | [Elektra](http://libelektra.org) | Query and modify [configuration files](https://github.com/ElektraInitiative/libelektra/tree/master/src/plugins).  Shares Augeas' limitations when it comes to application-specific configuration files (it uses the same lenses), but has better support for generic formats such as JSON and INI. |
 
-
-## Log files
+## Log Files
 
 | Name and link | Description |
 |---------------|-------------|
 | [Squawk](https://github.com/samuel/squawk) | Query Apache and Nginx log files.  See the [SQL-based tool comparison](sql-based.md). |
 | [lnav](https://lnav.org) | Query and watch log files.  Has batch and interactive mode.  Supported formats include the Common Log Format, CUPS page_log, syslog, strace, and generic timestamped messages.  Can perform SQL queries. |
 
+## Templating for Structured Text
 
-## Templating for structured text
-
-Listed below are restricted programming language interpreters and templating tools that produce structured text output.  They are generally intended to remove repetition in configuration files.  They are distinct from unstructed templating tools like the `jinja2` CLI program, which should not be added to this table.
+Listed below are restricted programming language interpreters and templating tools that produce structured text output. They are generally intended to remove repetition in configuration files. They are distinct from unstructed templating tools like the `jinja2` CLI program, which should not be added to this table.
 
 | Name and link | Output format | Turing-complete? | Syntax | I/O | Description |
 |---------------|---------------|------------------|--------|-----|-------------|
@@ -259,8 +250,7 @@ Listed below are restricted programming language interpreters and templating too
 | [rjsone](https://github.com/wryun/rjsone) | JSON, YAML | No? | Extended JSON | None | A CLI tool for the [JSON-e](https://github.com/taskcluster/json-e) templating language. |
 | [ytt](https://get-ytt.io/) | YAML | No | YAML/Python hybrid | None? | A templating tool for YAML built upon the [Starlark](https://github.com/bazelbuild/starlark) configuration language. |
 
-
-## Bonus round: CLIs for single-file databases
+## Bonus Round: CLIs for Single-file Databases
 
 | Name and link | Description | File format |
 |---------------|-------------|-------------|
@@ -268,14 +258,6 @@ Listed below are restricted programming language interpreters and templating too
 | [Fsdb](https://www.isi.edu/~johnh/SOFTWARE/FSDB/perl-Fsdb-2.69_README.html) | A flat-file database for shell scripting. | Text-based, TSV with a header or "key: value" |
 | [GNU Recutils](http://www.gnu.org/software/recutils/) | "[A] set of tools and libraries to access human-editable, plain text databases called recfiles." | Text-based, roughly "key: value" |
 | [SDB](https://github.com/radare/sdb) | "[A] simple string key/value database based on djb's cdb disk storage and supports JSON and arrays introspection." | Binary |
-| [sqlite3(1)](https://www.sqlite.org/cli.html) | "[A] simple command-line utility [...] that allows the user to manually enter and execute SQL statements against an SQLite database." | Binary |
+| [sqlite3(1)](https://www.sqlite.org/cli.html) | "[A] simple command-line utility […] that allows the user to manually enter and execute SQL statements against an SQLite database." | Binary |
 
-
-## License
-
-The contents of this document is licensed under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).  By contributing you agree to release your contribution under this license.
-
-
-## Disclosure
-
-[csv2html](https://github.com/dbohdan/csv2html), [hosts](https://gitlab.com/dbohdan/hosts), [Sqawk](https://github.com/dbohdan/sqawk), [jsonwatch](https://github.com/dbohdan/jsonwatch), [Remarshal](https://github.com/dbohdan/remarshal) and [initool](https://github.com/dbohdan/initool) are developed by the curator of this document.
+---
