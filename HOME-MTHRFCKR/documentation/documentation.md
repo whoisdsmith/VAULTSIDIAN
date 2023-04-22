@@ -175,7 +175,7 @@
 		- [terraform-concepts](./terraform/terraform-concepts.md)
 		- [terraform-tutorials](./terraform/terraform-tutorials.md)
 		- [terraform](./terraform/terraform.md)
-	- **[text](./text/text.md)**
+	- **[text](home-mthrfckr/documentation/Text%20Processing/text.md)**
 	- **[toolbox](./toolbox/toolbox.md)**
 		- [readme](./toolbox/readme.md)
 		- [toolbox](./toolbox/toolbox.md)

@@ -81,6 +81,6 @@
 	- [urls](urls.md)
 	- [vim-static-caret](vim-static-caret.md)
 	- [wysiwyg](wysiwyg.md)
-	- [yaml](yaml.md)
+	- [yaml](snippets/snips/yaml.md)
 
 %% End Waypoint %%
