@@ -1,6 +1,6 @@
 # Awesome Scientific Writing
 
-# Awesome Scientific Writing ![Awesome](https://awesome.re/badge-flat.svg)
+---
 
 > Scientific writing can extend beyond LaTeX, made possible by formats, such as [Markdown](https://daringfireball.net/projects/markdown/) (and its many flavours), [reStructuredText](https://docutils.sourceforge.io/rst.html) and [Jupyter notebooks](https://jupyter.org/).
 
@@ -135,4 +135,4 @@ Contributions welcome! Read the [contribution guidelines](/awesome-scientific-wr
 
 ___
 
-# article
+# Article

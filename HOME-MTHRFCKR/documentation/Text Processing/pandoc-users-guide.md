@@ -1,4 +1,4 @@
-# Pandoc-pandoc-users-guide
+# Pandoc-users-guide
 
 `pandoc` \[*options*\] \[*input-file*\]…
 

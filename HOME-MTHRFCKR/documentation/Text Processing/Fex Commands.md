@@ -1,4 +1,4 @@
-# Fex: Simple and Powerful Field Extraction | Fex Commands
+# Fex Commands
 
 ---
 

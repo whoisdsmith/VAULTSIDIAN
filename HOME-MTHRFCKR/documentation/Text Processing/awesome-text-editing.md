@@ -1,7 +1,8 @@
+# Awesome-text-editing
 
 A curated collection of text editing libraries, services, and resources for the web.
 
-## Rich-text editors using contenteditable
+## Rich-text Editors Using Contenteditable
 
 * [Slate](https://github.com/ianstormtaylor/slate) \- Rich text editor built on top of React and Immutable
 * [TipTap](https://github.com/scrumpy/tiptap) \- Rich text editor for Vue.js
@@ -36,7 +37,7 @@ A curated collection of text editing libraries, services, and resources for the 
 * [Draft.js](http://facebook.github.io/draft-js/) \- a rich text editor framework for React
 * [MediumEditor](https://github.com/yabwe/medium-editor) \- A clone of medium.com inline editor toolbar. Uses contenteditable API to implement a rich text solution.
 
-## Code editors
+## Code Editors
 
 * [CodeJar](https://medv.io/codejar/) \- CodeJar is a micro code editor for the browser
 * [CodeMirror](https://codemirror.net/) \- CodeMirror is a versatile text editor implemented in JavaScript for the browser
@@ -44,12 +45,12 @@ A curated collection of text editing libraries, services, and resources for the 
 * [EditArea](http://www.cdolivet.com/editarea/editarea/exemples/exemple_full.html)
 * [Behave.js](http://jakiestfu.github.io/Behave.js/) \- lightweight library for adding IDE style behaviors to plain text areas
 
-## Markdown editors
+## Markdown Editors
 
 * [markdown-js](https://github.com/evilstreak/markdown-js) \- A Markdown parser for javascript
 * [pagedown](https://code.google.com/p/pagedown/wiki/PageDown) \- PageDown is the JavaScript Markdown previewer used on Stack Overflow and the rest of the Stack Exchange network
 
-## Heuristic for contenteditable rich-text editors
+## Heuristic for Contenteditable Rich-text Editors
 
 Editor should:
 

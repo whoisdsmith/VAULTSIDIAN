@@ -1,3 +1,4 @@
+# Awesome-txt
 
 ## Formats
 
@@ -100,7 +101,7 @@ more often and loudly in the acts of his life...
 
 ## Light Markup
 
-_Structured documents in text with formatting conventions_
+*Structured documents in text with formatting conventions*
 
 **Markdown** -- see [Awesome Markdown](https://github.com/mundimark/awesome-markdown)
 
@@ -124,7 +125,7 @@ _Structured documents in text with formatting conventions_
 
 **[txt2tags](http://txt2tags.org/)**
 
-#### More
+### More
 
 - [Compare Wiki Syntax @ WikiMatrix](http://www.wikimatrix.org/syntax.php)
 - [Markup & Markdown Madness!](https://markupmadness.github.io/)
@@ -132,7 +133,7 @@ _Structured documents in text with formatting conventions_
 
 ## Datafile Formats
 
-_Values, records, hierarchies (trees), types & more_
+*Values, records, hierarchies (trees), types & more*
 
 **CSV (Comma-Separated Values)** -- see [Awesome CSV](https://github.com/csvalues/awesome-csv)
 

@@ -54,7 +54,7 @@
 	- **[Text Processing](Text%20Processing.md)**
 		- [Advanced Grep Topics](Advanced%20Grep%20Topics.md)
 		- [Data & Text Wrangling](Data%20&%20Text%20Wrangling.md)
-		- [fex simple and powerful field extraction](fex%20simple%20and%20powerful%20field%20extraction.md)
+		- [Fex Commands](Fex%20Commands.md)
 		- [Fun working with files using awk and sed](Fun%20working%20with%20files%20using%20awk%20and%20sed.md)
 		- [My Favorite Command Line Tools for Searching & Editing Text](My%20Favorite%20Command%20Line%20Tools%20for%20Searching%20&%20Editing%20Text.md)
 		- [Quickly Identify and Remove Illegal Characters in Your Large Text Files](Quickly%20Identify%20and%20Remove%20Illegal%20Characters%20in%20Your%20Large%20Text%20Files.md)
