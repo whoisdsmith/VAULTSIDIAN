@@ -19,7 +19,6 @@
 
 ## Sort
 
-
 > sort lines of text files
 
 > s the name implies, this command is used to sort files. How about alphabetic sort and numeric sort? Possible. How about sorting a particular column? Possible. Prioritized multiple sorting order? Possible. Randomize? Unique? Just about any sorting need is catered by this powerful command
@@ -81,12 +80,13 @@ $ sort -t: -k3,3 -k1,1rn ip.txt
 1.2  : 123 : xyz
 ```
 
-### More sources
+### More Sources
+
 - [sort like a master](http://www.skorks.com/2010/05/sort-files-like-a-master-with-the-linux-sort-command-bash/)
 - [sort Q&A on unix stackexchange](https://unix.stackexchange.com/questions/tagged/sort?sort=votes&pageSize=15)
 - [sort on multiple columns using -k option](https://unix.stackexchange.com/questions/249452/unix-multiple-column-sort-issue)
 
-## uniq
+## Uniq
 
 >  report or omit repeated lines
 
@@ -139,8 +139,7 @@ Black
 Green
 ```
 
-
-## comm
+## Comm
 
 > compare two sorted files line by line
 
@@ -148,8 +147,8 @@ Without any options, it prints output in three columns - lines unique to file1, 
 
 ### Options
 
-- -1 suppress lines unique to file1
-    -2 suppress lines unique to file2
+- -1 suppress lines unique to file1  
+    -2 suppress lines unique to file2  
     -3 suppress lines common to both files
 
 ### Examples
@@ -206,13 +205,12 @@ Teal
 Yellow
 ```
 
-
-## cmp
+## Cmp
 
 > compare two files byte by byte
 
-Useful to compare binary files. If the two files are same, no output is displayed (exit status 0)
-If there is a difference, it prints the first difference - line number and byte location (exit status 1)
+Useful to compare binary files. If the two files are same, no output is displayed (exit status 0)  
+If there is a difference, it prints the first difference - line number and byte location (exit status 1)  
 Option -s allows to suppress the output, useful in scripts
 
 ```bash
@@ -222,13 +220,11 @@ $ cmp /bin/grep /bin/fgrep
 
 - [Examples](https://www.sanfoundry.com/5-cmp-command-usage-examples-linux/)
 
-
-
-## diff
+## Diff
 
 > compare files line by line
 
-Useful to compare old and new versions of text files
+Useful to compare old and new versions of text files  
 All the differences are printed, which might not be desirable if files are too long
 
 ### Options
@@ -253,10 +249,9 @@ All the differences are printed, which might not be desirable if files are too l
 - [diff Q&A on unix stackexchange](https://unix.stackexchange.com/questions/tagged/diff?sort=votes&pageSize=15)
 - [GUI diff and merge tools](http://askubuntu.com/questions/2946/what-are-some-good-gui-diff-and-merge-applications-available-for-ubuntu)
 
+## Tr
 
-## tr
-
-> translate or delete characters.
+> translate or delete characters.  
 > The tr command in UNIX is a command line utility for translating or deleting characters. It supports a range of transformations including uppercase to lowercase, squeezing repeating characters, deleting specific characters and basic find and replace. It can be used with UNIX pipes to support more complex translation.
 
 ### Options
@@ -264,19 +259,15 @@ All the differences are printed, which might not be desirable if files are too l
 - -d delete the specified characters
 - -c complement set of characters to be replaced
 
-
-### How to Use the tr Command
+### How to Use the Tr Command
 
 The syntax for the tr command is as follows:
 
-> tr OPTION... SET1 [SET2]
-
+> tr OPTION… SET1 [SET2]
 
 > tr accepts two sets of characters, usually with the same length, and replaces the characters of the first sets with the corresponding characters from the second set.
 
 > A SET is basically a string of characters, including the special backslash-escaped characters.
-
-
 
 ### Examples
 
@@ -316,34 +307,32 @@ some-url-that-I-have
 - [Examples tecmint](https://www.tecmint.com/tr-command-examples-in-linux/)
 - [8 Linux TR Command Examples](https://www.thegeekstuff.com/2012/12/linux-tr-command/)
 
-
-## sed
+## Sed
 
 >  stream editor for filtering and transforming text
 
 ### Options
 
-  -  -n suppress automatic printing of pattern space
-  -  -i edit files inplace (makes backup if SUFFIX supplied)
-  -  -r use extended regular expressions
-  -  -e add the script to the commands to be executed
-  -  -f add the contents of script-file to the commands to be executed
+  - -n suppress automatic printing of pattern space
+  - -i edit files inplace (makes backup if SUFFIX supplied)
+  - -r use extended regular expressions
+  - -e add the script to the commands to be executed
+  - -f add the contents of script-file to the commands to be executed
 
-### commands
+### Commands
 
     -   d Delete the pattern space
     -   p Print out the pattern space
     -   s search and replace
 
-
-### range
+### Range
 
 > By default, sed acts on all of input contents. This can be refined to specific line number or a range defined by line numbers, search pattern or mix of the two
 
 - n,m range between nth line to mth line, including n and m
 - i~j act on ith line and i+j, i+2j, i+3j, etc
    - 1~2 means 1st, 3rd, 5th, 7th, etc lines i.e odd numbered lines
-   -  5~3 means 5th, 8th, 11th, etc
+   - 5~3 means 5th, 8th, 11th, etc
 - n only nth line
 - $ only last line
 - /pattern/ lines matching pattern
@@ -354,7 +343,8 @@ some-url-that-I-have
 - /pattern1/,/pattern2/ line matching pattern1 to line matching pattern2
 - /pattern/I lines matching pattern, pattern is case insensitive
     
-### Examples for selective deletion(d)
+
+### Examples for Selective deletion(d)
 
 - sed '/cat/d' story.txt delete every line containing cat
 - sed '/cat/!d' story.txt delete every line NOT containing cat
@@ -363,7 +353,7 @@ some-url-that-I-have
 - sed '1,/test/d' dir_list.txt delete all lines from beginning of file to first occurrence of line containing test (the matched line is also deleted)
 - sed '/test/,$d' dir_list.txt delete all lines from line containing test to end of file
 
-### Examples for selective printing(p)
+### Examples for Selective printing(p)
 
 - sed -n '5p' story.txt print 5th line, -n option overrides default print behavior of sed
     - use sed '5q;d' story.txt on large files. Read more
@@ -376,7 +366,7 @@ some-url-that-I-have
 - man ls | sed -n '/^\s*-F/,/^$/p' extract information on command option from manual
     - /^\s*-F/ line starting with option '-F', white-space may be present at start of line
 
-### Examples for search and replace(s)
+### Examples for Search and replace(s)
 
 - sed -i 's/cat/dog/g' story.txt search and replace every occurrence of cat with dog in story.txt
 - sed -i.bkp 's/cat/dog/g' story.txt in addition to inplace file editing, create backup file story.txt.bkp, so that if a mistake happens, original file can be restored
@@ -394,9 +384,9 @@ some-url-that-I-have
 - sed -i -r "s|.*|$HOME/\0|" dir_list.txt add home directory and forward-slash at the start of every line
     - Since the value of '$HOME' itself contains forward-slash characters, we cannot use / as delimiter
     - Any character other than backslash or newline can be used as delimiter, for example | # ^ see this link for more info
-    -  \0 back-reference contains entire matched string
+    - \0 back-reference contains entire matched string
 
-### More sources:
+### More Sources:
 
 - [Sed basics](http://code.snipcademy.com/tutorials/shell-scripting/sed/introduction)
 - [Sed detailed tutorial](http://www.grymoire.com/Unix/Sed.html)
@@ -408,30 +398,27 @@ some-url-that-I-have
 - [sed Q&A on unix stackexchange](https://unix.stackexchange.com/questions/tagged/sed?sort=votes&pageSize=15)
 - [sed Q&A on stackoverflow](https://stackoverflow.com/questions/tagged/sed?sort=votes&pageSize=15)
 
-
-## awk
+## Awk
 
 > pattern scanning and text processing language
 
 > awk derives its name from authors Alfred Aho, Peter Weinberger and Brian Kernighan.
 
-### syntax
+### Syntax
 
-- awk 'BEGIN {initialize} condition1 {stmts} condition2 {stmts}... END {finish}'
+- awk 'BEGIN {initialize} condition1 {stmts} condition2 {stmts}… END {finish}'
     - BEGIN {initialize} used to initialize variables (could be user defined or awk variables or both), executed once - optional block
-    - condition1 {stmts} condition2 {stmts}... action performed for every line of input, condition is optional, more than one block {} can be used with/without condition
+    - condition1 {stmts} condition2 {stmts}… action performed for every line of input, condition is optional, more than one block {} can be used with/without condition
     - END {finish} perform action once at end of program - optional block
 - awk ' {print $1,$3} ' > Print only columns one and three using stdin
 
-
-
-## cut
+## Cut
 
 > remove sections from each line of files
 
 > For columns operations with well defined delimiters, cut command is handy
 
-#### Examples
+### Examples
 
 - ls -l | cut -d' ' -f1 first column of ls -l
     - -d option specifies delimiter character, in this case it is single space character (Default delimiter is TAB character)
@@ -440,12 +427,11 @@ some-url-that-I-have
 - cut -d':' -f1,7 /etc/passwd prints 1st and 7th column of /etc/passwd file with : character in between
 - cut -d':' --output-delimiter=' ' -f1,7 /etc/passwd use space as delimiter between 1st and 7th column while printing
 
-
-## paste
+## Paste
 
 > merge lines of files
 
-#### Examples
+### Examples
 
 - paste list1.txt list2.txt list3.txt > combined_list.txt combines the three files column-wise into single file, the entries separated by TAB character
 - paste -d':' list1.txt list2.txt list3.txt > combined_list.txt the entries are separated by : character instead of TAB
@@ -498,8 +484,7 @@ $ seq 10 | perl -pe 's/\n/ : / if(!eof)'
 1 : 2 : 3 : 4 : 5 : 6 : 7 : 8 : 9 : 10
 ```
 
-
-## column
+## Column
 
 > columnate lists
 
@@ -517,10 +502,9 @@ West   dhokla     khakhra       modak    shiro      vadapav
 East   handoguri  litti         momo     rosgulla   shondesh
 ```
 
-## pr
+## Pr
 
 > convert text files for printing
-
 
 ```bash
 $ pr sample.txt 
@@ -559,14 +543,14 @@ $ seq 15 | pr -5ts,
 
 - Use -a option to split across
 
-$ seq 5 | pr -2ats' : '
-1 : 2
-3 : 4
+$ seq 5 | pr -2ats' : '  
+1 : 2  
+3 : 4  
 5
 
-$ seq 15 | pr -5ats,
-1,2,3,4,5
-6,7,8,9,10
+$ seq 15 | pr -5ats,  
+1,2,3,4,5  
+6,7,8,9,10  
 11,12,13,14,15
 
 ```
@@ -621,8 +605,6 @@ $ pr -mts', ' <(seq 3) <(seq 4 6) <(seq 7 9)
 
 ```
 
-
-
 ### Further Reading
 
 - [awk basics](http://code.snipcademy.com/tutorials/shell-scripting/awk/introduction)
@@ -638,8 +620,6 @@ $ pr -mts', ' <(seq 3) <(seq 4 6) <(seq 7 9)
 
 ## Original Contents, Credits and Refrences
 
-- [Command line text processing -  Sundeep Agarwal learnbyexample ](https://learnbyexample.gitbooks.io/command-line-text-processing/content/)
-
+- [Command line text processing -  Sundeep Agarwal learnbyexample](https://learnbyexample.gitbooks.io/command-line-text-processing/content/)
 - [More contents for text manipulation](https://learnbyexample.github.io/)
-
-- [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) 
+- [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing)

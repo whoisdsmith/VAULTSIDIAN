@@ -1,4 +1,4 @@
-# List installed packages with YUM
+# List Installed Packages with YUM
 
 ![](https://electrictoolbox.com/wp-content/uploads/yum-list-installed-packages.jpg?ezimgfmt=ng%3Awebp%2Fngcb1%2Frs%3Adevice%2Frscb1-1)
 

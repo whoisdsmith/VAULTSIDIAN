@@ -1,4 +1,6 @@
-textutil Man Page - macOS - SS64.com 
+# Textutil-man-page-macos
+
+textutil Man Page - macOS - SS64.com
 
 Manipulate text files in various formats.
 
@@ -12,8 +14,8 @@ Syntax
 
        textutil -help \[_options_\] _file_ ...
 
-Key
-     -info         Display information about the specified files.
+Key  
+     -info Display information about the specified files.
 
      -convert _fmt_  Convert the files to format _fmt_ and write each one 
                    back to the file system.
@@ -111,7 +113,7 @@ Notes:
 The textutil command exits 0 on success, and 1 on failure.  
 Some options may require a connection to the window server.
 
-_“A lot of people are afraid to say what they want, that's why a lot of people don't get what they want” ~ Madonna_
+*“A lot of people are afraid to say what they want, that's why a lot of people don't get what they want” ~ Madonna*
 
 **Related macOS commands:**
 

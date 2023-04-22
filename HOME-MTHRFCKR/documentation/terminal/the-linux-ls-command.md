@@ -1,4 +1,4 @@
-# The Linux LS Command–How to List Files in a Directory + Option Flags
+# The-linux-ls-command
 
 Since the creation of Unix in the 1970s, a lot of operating systems have used it as their foundation. Many of these operating systems failed, while others succeeded.
 
@@ -75,6 +75,8 @@ Type the `ls -d */` command to list only directories:
 
 ![](https://www.freecodecamp.org/news/content/images/2020/08/Screenshot-2020-08-21-at-12.53.05-PM.png)
 
+### List Files with Subdirectories
+
 Type the `ls *` command to list the contents of the directory with it's subdirectories:
 
 ![](https://www.freecodecamp.org/news/content/images/2020/08/Screenshot-2020-08-21-at-1.07.54-PM.png)
@@ -115,6 +117,8 @@ Type the `ls -lh` command to list the files or directories in the same table for
 
 Note that sizes are listed in bytes (B), megabytes (MB), gigabytes (GB), or terabytes (TB) when the file or directory's size is larger than 1024 bytes.
 
+### List Files Including Hidden Files
+
 Type the `ls -a` command to list files or directories including hidden files or directories. In Linux, anything that begins with a `.` is considered a hidden file:
 
 ![](https://www.freecodecamp.org/news/content/images/2020/08/Screenshot-2020-08-21-at-11.12.26-AM.png)
@@ -124,6 +128,8 @@ Type the `ls -a` command to list files or directories including hidden files or 
 Type the `ls -l -a` or `ls -a -l` or `ls -la` or `ls -al` command to list files or directories in a table format with extra information including hidden files or directories:
 
 ![](https://www.freecodecamp.org/news/content/images/2020/08/Screenshot-2020-08-21-at-12.17.01-PM.png)
+
+### List Files and Sort by Date and Time
 
 Type the `ls -t` command to list files or directories and sort by last modified date in descending order (biggest to smallest).
 
@@ -156,3 +162,7 @@ Imagine you want to list a file in long format, including hidden files, and sort
 If you forget any command or are unsure about what to do, you can run `ls --help` or `man ls` which will display a manual with all possible options for the `ls` command:
 
 ![](https://www.freecodecamp.org/news/content/images/2020/09/Screenshot-2020-09-01-at-9.57.37-AM.png)
+
+Thanks for reading!
+
+Learn to code for free. freeCodeCamp's open source curriculum has helped more than 40,000 people get jobs as developers. [Get started](https://www.freecodecamp.org/learn/)

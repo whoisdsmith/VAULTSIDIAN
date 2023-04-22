@@ -1,12 +1,8 @@
-# zsh cheatsheet
-
-> ## Excerpt
-> The one-page guide to zsh: usage, examples, links, snippets, and more.
+# Zsh Cheatsheet
 
 ---
-# zsh _cheatsheet_
 
-### Expressions
+## Expressions
 
 Expression
 
@@ -62,13 +58,13 @@ Last modified today
 
 Last modified <4 days ago
 
-### Change default shell
+## Change Default Shell
 
 ```bash
 chsh -s `which zsh`
 ```
 
-### Process Substitution
+## Process Substitution
 
 Expression
 
@@ -80,16 +76,16 @@ Description
 
 `grep "needle" <(curl "https://haystack.io")`
 
-Replace argument with _named pipe/FIFO_ (read-only) with command output
+Replace argument with *named pipe/FIFO* (read-only) with command output
 
 `=(COMMAND)`
 
 `vim =(curl "https://haystack.io")`
 
-Replace argument with _file_ (writable) containing command output
+Replace argument with *file* (writable) containing command output
 
-### Also see
+## Also See
 
--   [Bash cheatsheet](https://devhints.io/zsh./bash)
+- [Bash cheatsheet](https://devhints.io/zsh./bash)
 
 Zsh is mostly compatible with Bash, so most everything in Bash’s cheatsheet also applies.

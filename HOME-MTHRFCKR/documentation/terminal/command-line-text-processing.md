@@ -1,5 +1,6 @@
+# Command-line-text-processing/restructure
 
-# Command-line-text-processing/restructure_text.md at master · learnbyexample/Command-line-text-processing
+---
 
 **Table of Contents**
 
@@ -23,10 +24,11 @@
   * fold
     * Examples
     * Further reading for fold
+
   
 
+## Paste
 
-## paste
     
     
     $ paste --version | head -n1
@@ -1025,4 +1027,3 @@
     
     
     
-
