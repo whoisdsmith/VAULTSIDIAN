@@ -1,4 +1,6 @@
-# The Linux LS Command–How to List Files in a Directory + Option Flags
+# The Linux LS Command
+
+---
 
 Since the creation of Unix in the 1970s, a lot of operating systems have used it as their foundation. Many of these operating systems failed, while others succeeded.
 

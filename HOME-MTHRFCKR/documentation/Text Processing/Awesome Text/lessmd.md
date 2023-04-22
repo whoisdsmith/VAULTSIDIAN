@@ -1,8 +1,8 @@
-# Lessmd
+# lessmd
 
 ---
 
-![asciicast](https://camo.githubusercontent.com/7fefaf6b325fd42743f7e30824aa01d936450e24144dd974021fc642e1e9ffff/68747470733a2f2f61736369696e656d612e6f72672f612f39303332332e706e67)](https://asciinema.org/a/90323)
+![asciicast](https://camo.githubusercontent.com/7fefaf6b325fd42743f7e30824aa01d936450e24144dd974021fc642e1e9ffff/68747470733a2f2f61736369696e656d612e6f72672f612f39303332332e706e67)
 
 [Lessmd](https://git.io/lessmd) is a terminal viewer/pager with markdown and piping support.
 
@@ -43,6 +43,7 @@ Lessmd looks for user settings inside of a home directory, the filename is `.les
 
 Example of the `.lessmd.js`:
 
+```
 module.exports \= {  
   colors : { /// markdown theming colors  
     text : ,  
@@ -67,27 +68,6 @@ module.exports \= {
   headerfn : function() { return 'header'; }, // custom header fn,  
   footerfn : function() { return 'footer'; } // custom footer fn  
 };
+```
 
-## ChangeLog
-
-**1.2.1**
-
-- Dependencies update
-
-**1.2.0**
-
-- Bug with long slices
-
-**1.1.0 - 2016-11-15**
-
-- Html options for marked (sanityze, smartypants)
-- `h,j,k,l` bindings
-- Smaller chunks colorization for view mode
-
-**1.0.1 - 2016-11-03**
-
-- Added original less keybindings
-
-## License
-
-MIT (c) Svetlana Linuxenko
+---

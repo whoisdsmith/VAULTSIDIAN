@@ -476,7 +476,7 @@ The awesome list is dedicated to the public domain. Use it as you please with no
 
 Send them along to the markdown-discuss mailing list. Thanks!
 
-[[textutil]]
+[[Textutil]]
 [[textutil Man Page - macOS]]
 [[brew(1) – The Missing Package Manager for macOS (or Linux)]]
 [[The Linux LS Command – How to List Files in a Directory + Option Flags]]

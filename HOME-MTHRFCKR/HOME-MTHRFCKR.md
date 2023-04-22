@@ -53,17 +53,17 @@
 	- **[research](./research/research.md)**
 	- **[Text Processing](Text%20Processing.md)**
 		- [Advanced Grep Topics](Advanced%20Grep%20Topics.md)
-		- [Data & Text Wrangling](Data%20&%20Text%20Wrangling.md)
+		- [Text Wrangling](Text%20Wrangling.md)
 		- [Fex Commands](Fex%20Commands.md)
 		- [Fun working with files using awk and sed](Fun%20working%20with%20files%20using%20awk%20and%20sed.md)
 		- [My Favorite Command Line Tools for Searching & Editing Text](My%20Favorite%20Command%20Line%20Tools%20for%20Searching%20&%20Editing%20Text.md)
 		- [Quickly Identify and Remove Illegal Characters in Your Large Text Files](Quickly%20Identify%20and%20Remove%20Illegal%20Characters%20in%20Your%20Large%20Text%20Files.md)
 		- [Regular Expressions ](Regular%20Expressions%20.md)
-		- [Structured text tools](Structured%20text%20tools.md)
+		- [Structured Text Tools](Structured%20Text%20Tools.md)
 		- [Text processing from the command line](Text%20processing%20from%20the%20command%20line.md)
 		- [Text processing in the shell](Text%20processing%20in%20the%20shell.md)
 		- [Text Processing](Text%20Processing.md)
-		- [text_mining_resources](text_mining_resources.md)
+		- [Text Analytics and NLP Resources](Text%20Analytics%20and%20NLP%20Resources.md)
 	- **[urls](./urls/urls.md)**
 	- [Website Names](./Website%20Names.md)
 

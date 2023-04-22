@@ -1,4 +1,6 @@
-# Awesome-Text-Pattern
+# Awesome Text Pattern
+
+---
 
 ## Contents
 

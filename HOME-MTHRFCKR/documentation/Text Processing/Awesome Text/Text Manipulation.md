@@ -1,5 +1,7 @@
 # Text Manipulation
 
+---
+
 - [sort]()
 - [uniq]()
 - [comm]()
@@ -25,24 +27,28 @@
 
 ### Options
 
-    -R random sort
-    -r reverse the sort order
-    -o redirect sorted result to specified filename, very useful to sort a file inplace
-    -n sort numerically
-    -V version sort, aware of numbers within text
-    -h sort human readable numbers like 4K, 3M, etc
-    -k sort via key
-    -u sort uniquely
-    -b ignore leading white-spaces of a line while sorting
-    -t use SEP instead of non-blank to blank transition
+```
+-R random sort
+-r reverse the sort order
+-o redirect sorted result to specified filename, very useful to sort a file inplace
+-n sort numerically
+-V version sort, aware of numbers within text
+-h sort human readable numbers like 4K, 3M, etc
+-k sort via key
+-u sort uniquely
+-b ignore leading white-spaces of a line while sorting
+-t use SEP instead of non-blank to blank transition
+```
 
 ### Examples
 
-    sort dir_list.txt display sorted file on standard output
-    sort -bn numbers.txt -o numbers.txt sort numbers.txt numerically (ignoring leading white-spaces) and overwrite the file with sorted output
-    sort -R crypto_keys.txt -o crypto_keys_random.txt sort randomly and write to new file
-        shuf crypto_keys.txt -o crypto_keys_random.txt can also be used
-    du -sh * | sort -h sort file/directory sizes in current directory in human readable format
+```
+sort dir_list.txt display sorted file on standard output
+sort -bn numbers.txt -o numbers.txt sort numbers.txt numerically (ignoring leading white-spaces) and overwrite the file with sorted output
+sort -R crypto_keys.txt -o crypto_keys_random.txt sort randomly and write to new file
+shuf crypto_keys.txt -o crypto_keys_random.txt can also be used
+du -sh * | sort -h sort file/directory sizes in current directory in human readable format
+```
 
 ```bash
 $ cat ip.txt 
@@ -100,13 +106,15 @@ This command is more specific to recognizing duplicates. Usually requires a sort
 
 ### Examples
 
-- sort test_list.txt | uniq outputs lines of test_list.txt in sorted order with duplicate lines removed
-    - uniq <(sort test_list.txt) same command using process substitution
-    - sort -u test_list.txt equivalent command
-- uniq -d sorted_list.txt print only duplicate lines
-- uniq -cd sorted_list.txt print only duplicate lines and prefix the line with number of times it is repeated
-- uniq -u sorted_list.txt print only unique lines, repeated lines are ignored
-- uniq Q&A on unix stackexchange
+```
+sort test_list.txt | uniq outputs lines of test_list.txt in sorted order with duplicate lines removed
+    uniq <(sort test_list.txt) same command using process substitution
+    sort -u test_list.txt equivalent command
+uniq -d sorted_list.txt print only duplicate lines
+uniq -cd sorted_list.txt print only duplicate lines and prefix the line with number of times it is repeated
+uniq -u sorted_list.txt print only unique lines, repeated lines are ignored
+uniq Q&A on unix stackexchange
+```
 
 ```bash
 $ echo -e 'Blue\nRed\nGreen\nBlue\nRed\nBlack\nRed' > colors.txt 
@@ -618,8 +626,5 @@ $ pr -mts', ' <(seq 3) <(seq 4 6) <(seq 7 9)
 - [awk Q&A on unix stackexchange](https://unix.stackexchange.com/questions/tagged/awk?sort=votes&pageSize=15)
 - [awk Q&A on stackoverflow](https://stackoverflow.com/questions/tagged/awk?sort=votes&pageSize=15)
 
-## Original Contents, Credits and Refrences
 
-- [Command line text processing -  Sundeep Agarwal learnbyexample](https://learnbyexample.gitbooks.io/command-line-text-processing/content/)
-- [More contents for text manipulation](https://learnbyexample.github.io/)
-- [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing)
+---

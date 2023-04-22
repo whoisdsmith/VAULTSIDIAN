@@ -1,13 +1,6 @@
-# Uncle Steve's Big List of Text Analytics and NLP Resources
+# Text Analytics and NLP Resources
 
-```
- ____ ____ ____ ____ _________ ____ ____ ____ ____ ____ ____ 
-||t |||e |||x |||t |||       |||m |||i |||n |||i |||n |||g ||
-||__|||__|||__|||__|||_______|||__|||__|||__|||__|||__|||__||
-|/__\|/__\|/__\|/__\|/_______\|/__\|/__\|/__\|/__\|/__\|/__\|
-```
-
-A curated list of resources for learning about natural language processing, text analytics, and unstructured data. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+---
 
 ## Table of Contents
 
@@ -744,7 +737,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 
 # Contribute
 
-Contributions are more than welcome! Please read the [contribution guidelines](../../bookmrks-mthrfckr/software-tools/contributing.md) first.
+Contributions are more than welcome! Please read the [contribution guidelines](home-mthrfckr/bookmrks-mthrfckr/software-tools/contributing.md) first.
 
 ## License
 

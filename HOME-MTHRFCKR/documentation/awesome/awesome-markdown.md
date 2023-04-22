@@ -310,7 +310,7 @@ The awesome list is dedicated to the public domain. Use it as you please with no
 
 Send them along to the markdown-discuss mailing list. Thanks!
 
-[[textutil]]
+[[Textutil]]
 [[Terminal/textutil Man Page - macOS.md]]
 [[brew(1) – The Missing Package Manager for macOS (or Linux)]]
 [[Terminal/The Linux LS Command – How to List Files in a Directory + Option Flags.md]]

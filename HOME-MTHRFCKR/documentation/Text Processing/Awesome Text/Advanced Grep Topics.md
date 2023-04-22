@@ -1,5 +1,7 @@
 # Advanced Grep Topics
 
+---
+
 **Advanced Grep Topics**  
 If you are new to grep, it is possible that the topics covered in this section will not make much sense to you. That's OK. The best way to learn grep is to use it in real life, not by reading example patterns. In many cases, the basic grep syntax covered previously in this chapter will be all that you need.  
 **Matching Nulls**  
