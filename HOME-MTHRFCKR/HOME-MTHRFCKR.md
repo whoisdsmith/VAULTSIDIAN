@@ -1,5 +1,5 @@
 
-# HOME[-](home-mthrfckr/Terminal/All-Commands/-.md)MTHRFCKR
+# HOME[-](home-mthrfckr/Terminal/Installed/-.md)MTHRFCKR
 
 ---
 

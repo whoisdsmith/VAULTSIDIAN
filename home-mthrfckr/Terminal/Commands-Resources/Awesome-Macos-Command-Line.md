@@ -1,18 +1,9 @@
-# awesome-macos-command-line - Use your macOS terminal shell to do awesome things.
+# Awesome-Macos-Command-Line
 
 ---
 
 ## ![Awesome macOS Command Line](https://git.herrbischoff.com/awesome-macos-command-line/plain/assets/logo.svg)
 
-> A curated list of shell commands and tools specific to macOS.
-> 
-> *“You don’t have to know everything. You simply need to know where to find it when necessary.” (John Brunner)*
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-If you want to contribute, you are highly encouraged to do so. Please read the [contribution guidelines](https://git.herrbischoff.com/awesome-macos-command-line/about/contributing.md).
-
-For more terminal shell goodness, please also see this list's sister list [Awesome Command Line Apps](https://git.herrbischoff.com/awesome-command-line-apps).
 
 ## [A Personal Note](https://git.herrbischoff.com/awesome-macos-command-line/about/#a-personal-note)
 
@@ -26,9 +17,6 @@ On top of everything, I'm currently out of a job, have little prospects, am very
 
 [https://github.com/herrbischoff](https://github.com/herrbischoff)
 
-## [Contributing](https://git.herrbischoff.com/awesome-macos-command-line/about/#contributing)
-
-You are very welcome to send me patches for changes and additions via email. If you are unfamiliar with the `git am` workflow, you can find an easy introduction to it here: [https://git-send-email.io](https://git-send-email.io/)
 
 ## [Foreword](https://git.herrbischoff.com/awesome-macos-command-line/about/#foreword)
 
@@ -38,114 +26,114 @@ It also explains what the numbers in the man pages refer to --- like `man(1)`.
 
 ## [Contents](https://git.herrbischoff.com/awesome-macos-command-line/about/#contents)
 
--   [Appearance](https://git.herrbischoff.com/awesome-macos-command-line/about/#appearance)
-    -   [Alert Dialog Style](https://git.herrbischoff.com/awesome-macos-command-line/about/#alert-dialog-style)
-    -   [Dark Mode](https://git.herrbischoff.com/awesome-macos-command-line/about/#dark-mode)
-    -   [Proxy Icon](https://git.herrbischoff.com/awesome-macos-command-line/about/#proxy-icon)
-    -   [Subpixel Anti-Aliasing](https://git.herrbischoff.com/awesome-macos-command-line/about/#subpixel-anti-aliasing-font-smoothing)
-    -   [Transparency](https://git.herrbischoff.com/awesome-macos-command-line/about/#transparency)
-    -   [Wallpaper](https://git.herrbischoff.com/awesome-macos-command-line/about/#wallpaper)
--   [Applications](https://git.herrbischoff.com/awesome-macos-command-line/about/#applications)
-    -   [App Store](https://git.herrbischoff.com/awesome-macos-command-line/about/#app-store)
-    -   [Apple Remote Desktop](https://git.herrbischoff.com/awesome-macos-command-line/about/#apple-remote-desktop)
-    -   [Contacts](https://git.herrbischoff.com/awesome-macos-command-line/about/#contacts)
-    -   [Google](https://git.herrbischoff.com/awesome-macos-command-line/about/#google)
-    -   [iTunes](https://git.herrbischoff.com/awesome-macos-command-line/about/#itunes)
-    -   [Mail](https://git.herrbischoff.com/awesome-macos-command-line/about/#mail)
-    -   [Safari](https://git.herrbischoff.com/awesome-macos-command-line/about/#safari)
-    -   [Sketch](https://git.herrbischoff.com/awesome-macos-command-line/about/#sketch)
-    -   [Skim](https://git.herrbischoff.com/awesome-macos-command-line/about/#skim)
-    -   [Terminal](https://git.herrbischoff.com/awesome-macos-command-line/about/#terminal)
-    -   [TextEdit](https://git.herrbischoff.com/awesome-macos-command-line/about/#textedit)
-    -   [Visual Studio Code](https://git.herrbischoff.com/awesome-macos-command-line/about/#visual-studio-code)
--   [Backup](https://git.herrbischoff.com/awesome-macos-command-line/about/#backup)
-    -   [Time Machine](https://git.herrbischoff.com/awesome-macos-command-line/about/#time-machine)
--   [Developer](https://git.herrbischoff.com/awesome-macos-command-line/about/#developer)
-    -   [Vim](https://git.herrbischoff.com/awesome-macos-command-line/about/#vim)
-    -   [Xcode](https://git.herrbischoff.com/awesome-macos-command-line/about/#xcode)
--   [Dock](https://git.herrbischoff.com/awesome-macos-command-line/about/#dock)
--   [Documents](https://git.herrbischoff.com/awesome-macos-command-line/about/#documents)
--   [Files, Disks and Volumes](https://git.herrbischoff.com/awesome-macos-command-line/about/#files-disks-and-volumes)
-    -   [APFS](https://git.herrbischoff.com/awesome-macos-command-line/about/#apfs)
-    -   [Disk Images](https://git.herrbischoff.com/awesome-macos-command-line/about/#disk-images)
--   [Finder](https://git.herrbischoff.com/awesome-macos-command-line/about/#finder)
-    -   [Desktop](https://git.herrbischoff.com/awesome-macos-command-line/about/#desktop)
-    -   [Files and Folders](https://git.herrbischoff.com/awesome-macos-command-line/about/#files-and-folders)
-    -   [Layout](https://git.herrbischoff.com/awesome-macos-command-line/about/#layout)
-    -   [Metadata Files](https://git.herrbischoff.com/awesome-macos-command-line/about/#metadata-files)
-    -   [Opening Things](https://git.herrbischoff.com/awesome-macos-command-line/about/#opening-things)
--   [Fonts](https://git.herrbischoff.com/awesome-macos-command-line/about/#fonts)
--   [Functions](https://git.herrbischoff.com/awesome-macos-command-line/about/#functions)
--   [Hardware](https://git.herrbischoff.com/awesome-macos-command-line/about/#hardware)
-    -   [Bluetooth](https://git.herrbischoff.com/awesome-macos-command-line/about/#bluetooth)
-    -   [Harddisks](https://git.herrbischoff.com/awesome-macos-command-line/about/#harddisks)
-    -   [Hardware Information](https://git.herrbischoff.com/awesome-macos-command-line/about/#hardware-information)
-    -   [Infrared Receiver](https://git.herrbischoff.com/awesome-macos-command-line/about/#infrared-receiver)
-    -   [Power Management](https://git.herrbischoff.com/awesome-macos-command-line/about/#power-management)
--   [Input Devices](https://git.herrbischoff.com/awesome-macos-command-line/about/#input-devices)
-    -   [Keyboard](https://git.herrbischoff.com/awesome-macos-command-line/about/#keyboard)
--   [Launchpad](https://git.herrbischoff.com/awesome-macos-command-line/about/#launchpad)
--   [Media](https://git.herrbischoff.com/awesome-macos-command-line/about/#media)
-    -   [Audio](https://git.herrbischoff.com/awesome-macos-command-line/about/#audio)
-    -   [Video](https://git.herrbischoff.com/awesome-macos-command-line/about/#video)
--   [Networking](https://git.herrbischoff.com/awesome-macos-command-line/about/#networking)
-    -   [Bonjour](https://git.herrbischoff.com/awesome-macos-command-line/about/#bonjour)
-    -   [DHCP](https://git.herrbischoff.com/awesome-macos-command-line/about/#dhcp)
-    -   [DNS](https://git.herrbischoff.com/awesome-macos-command-line/about/#dns)
-    -   [Hostname](https://git.herrbischoff.com/awesome-macos-command-line/about/#hostname)
-    -   [Network Preferences](https://git.herrbischoff.com/awesome-macos-command-line/about/#network-preferences)
-    -   [Networking Tools](https://git.herrbischoff.com/awesome-macos-command-line/about/#networking-tools)
-    -   [SSH](https://git.herrbischoff.com/awesome-macos-command-line/about/#ssh)
-    -   [TCP/IP](https://git.herrbischoff.com/awesome-macos-command-line/about/#tcpip)
-    -   [TFTP](https://git.herrbischoff.com/awesome-macos-command-line/about/#tftp)
-    -   [Wi-Fi](https://git.herrbischoff.com/awesome-macos-command-line/about/#wi-fi)
--   [Package Managers](https://git.herrbischoff.com/awesome-macos-command-line/about/#package-managers)
--   [Printing](https://git.herrbischoff.com/awesome-macos-command-line/about/#printing)
--   [Security](https://git.herrbischoff.com/awesome-macos-command-line/about/#security)
-    -   [Application Firewall](https://git.herrbischoff.com/awesome-macos-command-line/about/#application-firewall)
-    -   [Gatekeeper](https://git.herrbischoff.com/awesome-macos-command-line/about/#gatekeeper)
-    -   [Passwords](https://git.herrbischoff.com/awesome-macos-command-line/about/#passwords)
-    -   [Physical Access](https://git.herrbischoff.com/awesome-macos-command-line/about/#physical-access)
-    -   [Privacy Database](https://git.herrbischoff.com/awesome-macos-command-line/about/#privacy-database)
-    -   [Wiping Data](https://git.herrbischoff.com/awesome-macos-command-line/about/#wiping-data)
--   [Search](https://git.herrbischoff.com/awesome-macos-command-line/about/#search)
-    -   [Find](https://git.herrbischoff.com/awesome-macos-command-line/about/#find)
-    -   [Locate](https://git.herrbischoff.com/awesome-macos-command-line/about/#locate)
--   [System](https://git.herrbischoff.com/awesome-macos-command-line/about/#system)
-    -   [AirDrop](https://git.herrbischoff.com/awesome-macos-command-line/about/#airdrop)
-    -   [AppleScript](https://git.herrbischoff.com/awesome-macos-command-line/about/#applescript)
-    -   [Basics](https://git.herrbischoff.com/awesome-macos-command-line/about/#basics)
-    -   [Clipboard](https://git.herrbischoff.com/awesome-macos-command-line/about/#clipboard)
-    -   [Date and Time](https://git.herrbischoff.com/awesome-macos-command-line/about/#date-and-time)
-    -   [FileVault](https://git.herrbischoff.com/awesome-macos-command-line/about/#filevault)
-    -   [iCloud](https://git.herrbischoff.com/awesome-macos-command-line/about/#icloud)
-    -   [Information/Reports](https://git.herrbischoff.com/awesome-macos-command-line/about/#informationreports)
-    -   [Installation](https://git.herrbischoff.com/awesome-macos-command-line/about/#installation)
-    -   [Kernel Extensions](https://git.herrbischoff.com/awesome-macos-command-line/about/#kernel-extensions)
-    -   [LaunchAgents](https://git.herrbischoff.com/awesome-macos-command-line/about/#launchagents)
-    -   [LaunchServices](https://git.herrbischoff.com/awesome-macos-command-line/about/#launchservices)
-    -   [Login Window](https://git.herrbischoff.com/awesome-macos-command-line/about/#login-window)
-    -   [Memory Management](https://git.herrbischoff.com/awesome-macos-command-line/about/#memory-management)
-    -   [Notification Center](https://git.herrbischoff.com/awesome-macos-command-line/about/#notification-center)
-    -   [QuickLook](https://git.herrbischoff.com/awesome-macos-command-line/about/#quicklook)
-    -   [Remote Management](https://git.herrbischoff.com/awesome-macos-command-line/about/#remote-management)
-    -   [Root User](https://git.herrbischoff.com/awesome-macos-command-line/about/#root-user)
-    -   [Safe Mode Boot](https://git.herrbischoff.com/awesome-macos-command-line/about/#safe-mode-boot)
-    -   [Save Dialogs](https://git.herrbischoff.com/awesome-macos-command-line/about/#save-dialogs)
-    -   [Screenshots](https://git.herrbischoff.com/awesome-macos-command-line/about/#screenshots)
-    -   [Sidecar](https://git.herrbischoff.com/awesome-macos-command-line/about/#sidecar)
-    -   [Software Installation](https://git.herrbischoff.com/awesome-macos-command-line/about/#software-installation)
-    -   [Software Update](https://git.herrbischoff.com/awesome-macos-command-line/about/#software-update)
-    -   [Software Version](https://git.herrbischoff.com/awesome-macos-command-line/about/#software-version)
-    -   [Spell Checking](https://git.herrbischoff.com/awesome-macos-command-line/about/#spell-checking)
-    -   [Spotlight](https://git.herrbischoff.com/awesome-macos-command-line/about/#spotlight)
-    -   [System Integrity Protection](https://git.herrbischoff.com/awesome-macos-command-line/about/#system-integrity-protection)
--   [Terminal](https://git.herrbischoff.com/awesome-macos-command-line/about/#terminal)
-    -   [Alternative Terminals](https://git.herrbischoff.com/awesome-macos-command-line/about/#alternative-terminals)
-    -   [Shells](https://git.herrbischoff.com/awesome-macos-command-line/about/#shells)
-    -   [Terminal Fonts](https://git.herrbischoff.com/awesome-macos-command-line/about/#terminal-fonts)
--   [Glossary](https://git.herrbischoff.com/awesome-macos-command-line/about/#glossary)
-    -   [Mac OS X, OS X, and macOS Version Information](https://git.herrbischoff.com/awesome-macos-command-line/about/#mac-os-x-os-x-and-macos-version-information)
+- [Appearance](https://git.herrbischoff.com/awesome-macos-command-line/about/#appearance)
+    - [Alert Dialog Style](https://git.herrbischoff.com/awesome-macos-command-line/about/#alert-dialog-style)
+    - [Dark Mode](https://git.herrbischoff.com/awesome-macos-command-line/about/#dark-mode)
+    - [Proxy Icon](https://git.herrbischoff.com/awesome-macos-command-line/about/#proxy-icon)
+    - [Subpixel Anti-Aliasing](https://git.herrbischoff.com/awesome-macos-command-line/about/#subpixel-anti-aliasing-font-smoothing)
+    - [Transparency](https://git.herrbischoff.com/awesome-macos-command-line/about/#transparency)
+    - [Wallpaper](https://git.herrbischoff.com/awesome-macos-command-line/about/#wallpaper)
+- [Applications](https://git.herrbischoff.com/awesome-macos-command-line/about/#applications)
+    - [App Store](https://git.herrbischoff.com/awesome-macos-command-line/about/#app-store)
+    - [Apple Remote Desktop](https://git.herrbischoff.com/awesome-macos-command-line/about/#apple-remote-desktop)
+    - [Contacts](https://git.herrbischoff.com/awesome-macos-command-line/about/#contacts)
+    - [Google](https://git.herrbischoff.com/awesome-macos-command-line/about/#google)
+    - [iTunes](https://git.herrbischoff.com/awesome-macos-command-line/about/#itunes)
+    - [Mail](https://git.herrbischoff.com/awesome-macos-command-line/about/#mail)
+    - [Safari](https://git.herrbischoff.com/awesome-macos-command-line/about/#safari)
+    - [Sketch](https://git.herrbischoff.com/awesome-macos-command-line/about/#sketch)
+    - [Skim](https://git.herrbischoff.com/awesome-macos-command-line/about/#skim)
+    - [Terminal](https://git.herrbischoff.com/awesome-macos-command-line/about/#terminal)
+    - [TextEdit](https://git.herrbischoff.com/awesome-macos-command-line/about/#textedit)
+    - [Visual Studio Code](https://git.herrbischoff.com/awesome-macos-command-line/about/#visual-studio-code)
+- [Backup](https://git.herrbischoff.com/awesome-macos-command-line/about/#backup)
+    - [Time Machine](https://git.herrbischoff.com/awesome-macos-command-line/about/#time-machine)
+- [Developer](https://git.herrbischoff.com/awesome-macos-command-line/about/#developer)
+    - [Vim](https://git.herrbischoff.com/awesome-macos-command-line/about/#vim)
+    - [Xcode](https://git.herrbischoff.com/awesome-macos-command-line/about/#xcode)
+- [Dock](https://git.herrbischoff.com/awesome-macos-command-line/about/#dock)
+- [Documents](https://git.herrbischoff.com/awesome-macos-command-line/about/#documents)
+- [Files, Disks and Volumes](https://git.herrbischoff.com/awesome-macos-command-line/about/#files-disks-and-volumes)
+    - [APFS](https://git.herrbischoff.com/awesome-macos-command-line/about/#apfs)
+    - [Disk Images](https://git.herrbischoff.com/awesome-macos-command-line/about/#disk-images)
+- [Finder](https://git.herrbischoff.com/awesome-macos-command-line/about/#finder)
+    - [Desktop](https://git.herrbischoff.com/awesome-macos-command-line/about/#desktop)
+    - [Files and Folders](https://git.herrbischoff.com/awesome-macos-command-line/about/#files-and-folders)
+    - [Layout](https://git.herrbischoff.com/awesome-macos-command-line/about/#layout)
+    - [Metadata Files](https://git.herrbischoff.com/awesome-macos-command-line/about/#metadata-files)
+    - [Opening Things](https://git.herrbischoff.com/awesome-macos-command-line/about/#opening-things)
+- [Fonts](https://git.herrbischoff.com/awesome-macos-command-line/about/#fonts)
+- [Functions](https://git.herrbischoff.com/awesome-macos-command-line/about/#functions)
+- [Hardware](https://git.herrbischoff.com/awesome-macos-command-line/about/#hardware)
+    - [Bluetooth](https://git.herrbischoff.com/awesome-macos-command-line/about/#bluetooth)
+    - [Harddisks](https://git.herrbischoff.com/awesome-macos-command-line/about/#harddisks)
+    - [Hardware Information](https://git.herrbischoff.com/awesome-macos-command-line/about/#hardware-information)
+    - [Infrared Receiver](https://git.herrbischoff.com/awesome-macos-command-line/about/#infrared-receiver)
+    - [Power Management](https://git.herrbischoff.com/awesome-macos-command-line/about/#power-management)
+- [Input Devices](https://git.herrbischoff.com/awesome-macos-command-line/about/#input-devices)
+    - [Keyboard](https://git.herrbischoff.com/awesome-macos-command-line/about/#keyboard)
+- [Launchpad](https://git.herrbischoff.com/awesome-macos-command-line/about/#launchpad)
+- [Media](https://git.herrbischoff.com/awesome-macos-command-line/about/#media)
+    - [Audio](https://git.herrbischoff.com/awesome-macos-command-line/about/#audio)
+    - [Video](https://git.herrbischoff.com/awesome-macos-command-line/about/#video)
+- [Networking](https://git.herrbischoff.com/awesome-macos-command-line/about/#networking)
+    - [Bonjour](https://git.herrbischoff.com/awesome-macos-command-line/about/#bonjour)
+    - [DHCP](https://git.herrbischoff.com/awesome-macos-command-line/about/#dhcp)
+    - [DNS](https://git.herrbischoff.com/awesome-macos-command-line/about/#dns)
+    - [Hostname](https://git.herrbischoff.com/awesome-macos-command-line/about/#hostname)
+    - [Network Preferences](https://git.herrbischoff.com/awesome-macos-command-line/about/#network-preferences)
+    - [Networking Tools](https://git.herrbischoff.com/awesome-macos-command-line/about/#networking-tools)
+    - [SSH](https://git.herrbischoff.com/awesome-macos-command-line/about/#ssh)
+    - [TCP/IP](https://git.herrbischoff.com/awesome-macos-command-line/about/#tcpip)
+    - [TFTP](https://git.herrbischoff.com/awesome-macos-command-line/about/#tftp)
+    - [Wi-Fi](https://git.herrbischoff.com/awesome-macos-command-line/about/#wi-fi)
+- [Package Managers](https://git.herrbischoff.com/awesome-macos-command-line/about/#package-managers)
+- [Printing](https://git.herrbischoff.com/awesome-macos-command-line/about/#printing)
+- [Security](https://git.herrbischoff.com/awesome-macos-command-line/about/#security)
+    - [Application Firewall](https://git.herrbischoff.com/awesome-macos-command-line/about/#application-firewall)
+    - [Gatekeeper](https://git.herrbischoff.com/awesome-macos-command-line/about/#gatekeeper)
+    - [Passwords](https://git.herrbischoff.com/awesome-macos-command-line/about/#passwords)
+    - [Physical Access](https://git.herrbischoff.com/awesome-macos-command-line/about/#physical-access)
+    - [Privacy Database](https://git.herrbischoff.com/awesome-macos-command-line/about/#privacy-database)
+    - [Wiping Data](https://git.herrbischoff.com/awesome-macos-command-line/about/#wiping-data)
+- [Search](https://git.herrbischoff.com/awesome-macos-command-line/about/#search)
+    - [Find](https://git.herrbischoff.com/awesome-macos-command-line/about/#find)
+    - [Locate](https://git.herrbischoff.com/awesome-macos-command-line/about/#locate)
+- [System](https://git.herrbischoff.com/awesome-macos-command-line/about/#system)
+    - [AirDrop](https://git.herrbischoff.com/awesome-macos-command-line/about/#airdrop)
+    - [AppleScript](https://git.herrbischoff.com/awesome-macos-command-line/about/#applescript)
+    - [Basics](https://git.herrbischoff.com/awesome-macos-command-line/about/#basics)
+    - [Clipboard](https://git.herrbischoff.com/awesome-macos-command-line/about/#clipboard)
+    - [Date and Time](https://git.herrbischoff.com/awesome-macos-command-line/about/#date-and-time)
+    - [FileVault](https://git.herrbischoff.com/awesome-macos-command-line/about/#filevault)
+    - [iCloud](https://git.herrbischoff.com/awesome-macos-command-line/about/#icloud)
+    - [Information/Reports](https://git.herrbischoff.com/awesome-macos-command-line/about/#informationreports)
+    - [Installation](https://git.herrbischoff.com/awesome-macos-command-line/about/#installation)
+    - [Kernel Extensions](https://git.herrbischoff.com/awesome-macos-command-line/about/#kernel-extensions)
+    - [LaunchAgents](https://git.herrbischoff.com/awesome-macos-command-line/about/#launchagents)
+    - [LaunchServices](https://git.herrbischoff.com/awesome-macos-command-line/about/#launchservices)
+    - [Login Window](https://git.herrbischoff.com/awesome-macos-command-line/about/#login-window)
+    - [Memory Management](https://git.herrbischoff.com/awesome-macos-command-line/about/#memory-management)
+    - [Notification Center](https://git.herrbischoff.com/awesome-macos-command-line/about/#notification-center)
+    - [QuickLook](https://git.herrbischoff.com/awesome-macos-command-line/about/#quicklook)
+    - [Remote Management](https://git.herrbischoff.com/awesome-macos-command-line/about/#remote-management)
+    - [Root User](https://git.herrbischoff.com/awesome-macos-command-line/about/#root-user)
+    - [Safe Mode Boot](https://git.herrbischoff.com/awesome-macos-command-line/about/#safe-mode-boot)
+    - [Save Dialogs](https://git.herrbischoff.com/awesome-macos-command-line/about/#save-dialogs)
+    - [Screenshots](https://git.herrbischoff.com/awesome-macos-command-line/about/#screenshots)
+    - [Sidecar](https://git.herrbischoff.com/awesome-macos-command-line/about/#sidecar)
+    - [Software Installation](https://git.herrbischoff.com/awesome-macos-command-line/about/#software-installation)
+    - [Software Update](https://git.herrbischoff.com/awesome-macos-command-line/about/#software-update)
+    - [Software Version](https://git.herrbischoff.com/awesome-macos-command-line/about/#software-version)
+    - [Spell Checking](https://git.herrbischoff.com/awesome-macos-command-line/about/#spell-checking)
+    - [Spotlight](https://git.herrbischoff.com/awesome-macos-command-line/about/#spotlight)
+    - [System Integrity Protection](https://git.herrbischoff.com/awesome-macos-command-line/about/#system-integrity-protection)
+- [Terminal](https://git.herrbischoff.com/awesome-macos-command-line/about/#terminal)
+    - [Alternative Terminals](https://git.herrbischoff.com/awesome-macos-command-line/about/#alternative-terminals)
+    - [Shells](https://git.herrbischoff.com/awesome-macos-command-line/about/#shells)
+    - [Terminal Fonts](https://git.herrbischoff.com/awesome-macos-command-line/about/#terminal-fonts)
+- [Glossary](https://git.herrbischoff.com/awesome-macos-command-line/about/#glossary)
+    - [Mac OS X, OS X, and macOS Version Information](https://git.herrbischoff.com/awesome-macos-command-line/about/#mac-os-x-os-x-and-macos-version-information)
 
 ## [Appearance](https://git.herrbischoff.com/awesome-macos-command-line/about/#appearance)
 
@@ -735,7 +723,7 @@ xcrun simctl delete unavailable
 
 ## [Dock](https://git.herrbischoff.com/awesome-macos-command-line/about/#dock)
 
-#### [Add a Stack with Recent Applications](https://git.herrbischoff.com/awesome-macos-command-line/about/#add-a-stack-with-recent-applications)
+### [Add a Stack with Recent Applications](https://git.herrbischoff.com/awesome-macos-command-line/about/#add-a-stack-with-recent-applications)
 
 Obsolete since macOS 10.14 (Mojave). See [Show Recent Apps](https://git.herrbischoff.com/awesome-macos-command-line/about/#show-recent-apps).
 
@@ -745,7 +733,7 @@ killall Dock
 
 ```
 
-#### [Add a Nameless Stack Folder and Small Spacer](https://git.herrbischoff.com/awesome-macos-command-line/about/#add-a-nameless-stack-folder-and-small-spacer)
+### [Add a Nameless Stack Folder and Small Spacer](https://git.herrbischoff.com/awesome-macos-command-line/about/#add-a-nameless-stack-folder-and-small-spacer)
 
 ```
 defaults write com.apple.dock persistent-others -array-add '{ "tile-data" = {}; "tile-type"="small-spacer-tile"; }' && \
@@ -753,7 +741,7 @@ killall Dock
 
 ```
 
-#### [Add a Space](https://git.herrbischoff.com/awesome-macos-command-line/about/#add-a-space)
+### [Add a Space](https://git.herrbischoff.com/awesome-macos-command-line/about/#add-a-space)
 
 ```
 defaults write com.apple.dock persistent-apps -array-add '{"tile-type"="spacer-tile";}' && \
@@ -761,7 +749,7 @@ killall Dock
 
 ```
 
-#### [Add a Small Space](https://git.herrbischoff.com/awesome-macos-command-line/about/#add-a-small-space)
+### [Add a Small Space](https://git.herrbischoff.com/awesome-macos-command-line/about/#add-a-small-space)
 
 ```
 defaults write com.apple.dock persistent-apps -array-add '{"tile-type"="small-spacer-tile";}' && \
@@ -769,7 +757,7 @@ killall Dock
 
 ```
 
-#### [Auto Rearrange Spaces Based on Most Recent Use](https://git.herrbischoff.com/awesome-macos-command-line/about/#auto-rearrange-spaces-based-on-most-recent-use)
+### [Auto Rearrange Spaces Based on Most Recent Use](https://git.herrbischoff.com/awesome-macos-command-line/about/#auto-rearrange-spaces-based-on-most-recent-use)
 
 ```
 # Enable (Default)
@@ -782,7 +770,7 @@ killall Dock
 
 ```
 
-#### [Automatically Hide](https://git.herrbischoff.com/awesome-macos-command-line/about/#automatically-hide)
+### [Automatically Hide](https://git.herrbischoff.com/awesome-macos-command-line/about/#automatically-hide)
 
 ```
 # Enable
@@ -795,7 +783,7 @@ killall Dock
 
 ```
 
-#### [Icon Bounce](https://git.herrbischoff.com/awesome-macos-command-line/about/#icon-bounce)
+### [Icon Bounce](https://git.herrbischoff.com/awesome-macos-command-line/about/#icon-bounce)
 
 Global setting whether Dock icons should bounce when the respective application demands your attention.
 
@@ -810,7 +798,7 @@ killall Dock
 
 ```
 
-#### [Lock the Dock Size](https://git.herrbischoff.com/awesome-macos-command-line/about/#lock-the-dock-size)
+### [Lock the Dock Size](https://git.herrbischoff.com/awesome-macos-command-line/about/#lock-the-dock-size)
 
 ```
 # Enable
@@ -823,7 +811,7 @@ killall Dock
 
 ```
 
-#### [Reset Dock](https://git.herrbischoff.com/awesome-macos-command-line/about/#reset-dock)
+### [Reset Dock](https://git.herrbischoff.com/awesome-macos-command-line/about/#reset-dock)
 
 ```
 defaults delete com.apple.dock && \
@@ -831,7 +819,7 @@ killall Dock
 
 ```
 
-#### [Resize](https://git.herrbischoff.com/awesome-macos-command-line/about/#resize)
+### [Resize](https://git.herrbischoff.com/awesome-macos-command-line/about/#resize)
 
 Fully resize your Dock's body. To resize change the `0` value as an integer.
 
@@ -841,7 +829,7 @@ killall Dock
 
 ```
 
-#### [Scroll Gestures](https://git.herrbischoff.com/awesome-macos-command-line/about/#scroll-gestures)
+### [Scroll Gestures](https://git.herrbischoff.com/awesome-macos-command-line/about/#scroll-gestures)
 
 Use your touchpad or mouse scroll wheel to interact with Dock items. Allows you to use an upward scrolling gesture to open stacks. Using the same gesture on applications that are running invokes Exposé/Mission Control.
 
@@ -856,7 +844,7 @@ killall Dock
 
 ```
 
-#### [Set Auto Show/Hide Delay](https://git.herrbischoff.com/awesome-macos-command-line/about/#set-auto-showhide-delay)
+### [Set Auto Show/Hide Delay](https://git.herrbischoff.com/awesome-macos-command-line/about/#set-auto-showhide-delay)
 
 The float number defines the show/hide delay in ms.
 
@@ -873,7 +861,7 @@ killall Dock
 
 ```
 
-#### [Show Hidden App Icons](https://git.herrbischoff.com/awesome-macos-command-line/about/#show-hidden-app-icons)
+### [Show Hidden App Icons](https://git.herrbischoff.com/awesome-macos-command-line/about/#show-hidden-app-icons)
 
 ```
 # Enable
@@ -886,7 +874,7 @@ killall Dock
 
 ```
 
-#### [Show Only Active Applications](https://git.herrbischoff.com/awesome-macos-command-line/about/#show-only-active-applications)
+### [Show Only Active Applications](https://git.herrbischoff.com/awesome-macos-command-line/about/#show-only-active-applications)
 
 ```
 # Enable
@@ -899,7 +887,7 @@ killall Dock
 
 ```
 
-#### [Show Recent Apps](https://git.herrbischoff.com/awesome-macos-command-line/about/#show-recent-apps)
+### [Show Recent Apps](https://git.herrbischoff.com/awesome-macos-command-line/about/#show-recent-apps)
 
 Setting present since macOS 10.14 (Mojave).
 
@@ -914,7 +902,7 @@ killall Dock
 
 ```
 
-#### [Single App Mode](https://git.herrbischoff.com/awesome-macos-command-line/about/#single-app-mode)
+### [Single App Mode](https://git.herrbischoff.com/awesome-macos-command-line/about/#single-app-mode)
 
 When clicking an application icon in the Dock, the respective windows will come to the front, but all other application windows will be hidden.
 
@@ -931,7 +919,7 @@ killall Dock
 
 ## [Documents](https://git.herrbischoff.com/awesome-macos-command-line/about/#documents)
 
-#### [Convert File to HTML](https://git.herrbischoff.com/awesome-macos-command-line/about/#convert-file-to-html)
+### [Convert File to HTML](https://git.herrbischoff.com/awesome-macos-command-line/about/#convert-file-to-html)
 
 Supported formats are plain text, rich text (rtf) and Microsoft Word (doc/docx).
 
@@ -942,15 +930,15 @@ textutil -convert html file.ext
 
 ## [Files, Disks and Volumes](https://git.herrbischoff.com/awesome-macos-command-line/about/#files-disks-and-volumes)
 
-#### [Create an Empty File](https://git.herrbischoff.com/awesome-macos-command-line/about/#create-an-empty-file)
+### [Create an Empty File](https://git.herrbischoff.com/awesome-macos-command-line/about/#create-an-empty-file)
 
 Creates an empty 10 gigabyte test file.
 
-#### [Disable Sudden Motion Sensor](https://git.herrbischoff.com/awesome-macos-command-line/about/#disable-sudden-motion-sensor)
+### [Disable Sudden Motion Sensor](https://git.herrbischoff.com/awesome-macos-command-line/about/#disable-sudden-motion-sensor)
 
 Leaving this turned on is useless when you're using SSDs.
 
-#### [Eject All Mountable Volumes](https://git.herrbischoff.com/awesome-macos-command-line/about/#eject-all-mountable-volumes)
+### [Eject All Mountable Volumes](https://git.herrbischoff.com/awesome-macos-command-line/about/#eject-all-mountable-volumes)
 
 The only reliable way to do this is by sending an AppleScript command to Finder.
 
@@ -959,7 +947,7 @@ osascript -e 'tell application "Finder" to eject (every disk whose ejectable is 
 
 ```
 
-#### [Repair File Permissions](https://git.herrbischoff.com/awesome-macos-command-line/about/#repair-file-permissions)
+### [Repair File Permissions](https://git.herrbischoff.com/awesome-macos-command-line/about/#repair-file-permissions)
 
 You don't have to use the Disk Utility GUI for this.
 
@@ -970,7 +958,7 @@ sudo diskutil repairPermissions /
 
 > Beginning with OS X 10.11 (El Capitan), system file permissions are automatically protected. It's no longer necessary to verify or repair permissions with Disk Utility. ([Source](https://support.apple.com/en-us/HT201560))
 
-#### [Set Boot Volume](https://git.herrbischoff.com/awesome-macos-command-line/about/#set-boot-volume)
+### [Set Boot Volume](https://git.herrbischoff.com/awesome-macos-command-line/about/#set-boot-volume)
 
 ```
 # Up to OS X 10.10 (Yosemite)
@@ -981,45 +969,46 @@ sudo systemsetup -setstartupdisk /System/Library/CoreServices
 
 ```
 
-#### [Show All Attached Disks and Partitions](https://git.herrbischoff.com/awesome-macos-command-line/about/#show-all-attached-disks-and-partitions)
+### [Show All Attached Disks and Partitions](https://git.herrbischoff.com/awesome-macos-command-line/about/#show-all-attached-disks-and-partitions)
 
-#### [View File System Usage](https://git.herrbischoff.com/awesome-macos-command-line/about/#view-file-system-usage)
+### [View File System Usage](https://git.herrbischoff.com/awesome-macos-command-line/about/#view-file-system-usage)
 
 A continuous stream of file system access info.
 
-### [APFS](https://git.herrbischoff.com/awesome-macos-command-line/about/#apfs)
+## [APFS](https://git.herrbischoff.com/awesome-macos-command-line/about/#apfs)
 
 Present since macOS 10.13 (High Sierra). There is no central utility and usage is inconsistent as most functionality is rolled into `tmutil`.
 
-#### [Convert Volume from HFS+ to APFS](https://git.herrbischoff.com/awesome-macos-command-line/about/#convert-volume-from-hfs-to-apfs)
+### [Convert Volume from HFS+ to APFS](https://git.herrbischoff.com/awesome-macos-command-line/about/#convert-volume-from-hfs-to-apfs)
 
 ```
 /System/Library/Filesystems/apfs.fs/Contents/Resources/hfs_convert /path/to/file/system
 
 ```
 
-#### [Create New APFS Filesystem](https://git.herrbischoff.com/awesome-macos-command-line/about/#create-new-apfs-filesystem)
+### [Create New APFS Filesystem](https://git.herrbischoff.com/awesome-macos-command-line/about/#create-new-apfs-filesystem)
 
 ```
 /System/Library/Filesystems/apfs.fs/Contents/Resources/newfs_apfs /path/to/device
 
 ```
 
-#### [Create Snapshot](https://git.herrbischoff.com/awesome-macos-command-line/about/#create-snapshot)
+### [Create Snapshot](https://git.herrbischoff.com/awesome-macos-command-line/about/#create-snapshot)
 
-#### [Delete Snapshot](https://git.herrbischoff.com/awesome-macos-command-line/about/#delete-snapshot)
+### [Delete Snapshot](https://git.herrbischoff.com/awesome-macos-command-line/about/#delete-snapshot)
 
 ```
 tmutil deletelocalsnapshots com.apple.TimeMachine.2018-01-26-044042
 ````
 
-#### List Snapshots
+### List Snapshots
+
 ```sh
 tmutil listlocalsnapshots /
 
 ```
 
-#### [Mount Snapshot](https://git.herrbischoff.com/awesome-macos-command-line/about/#mount-snapshot)
+### [Mount Snapshot](https://git.herrbischoff.com/awesome-macos-command-line/about/#mount-snapshot)
 
 Snapshots are read-only.
 
@@ -1029,9 +1018,9 @@ mkdir ~/mnt
 
 ```
 
-### [Disk Images](https://git.herrbischoff.com/awesome-macos-command-line/about/#disk-images)
+## [Disk Images](https://git.herrbischoff.com/awesome-macos-command-line/about/#disk-images)
 
-#### [Create Disk Image From Folder Contents](https://git.herrbischoff.com/awesome-macos-command-line/about/#create-disk-image-from-folder-contents)
+### [Create Disk Image From Folder Contents](https://git.herrbischoff.com/awesome-macos-command-line/about/#create-disk-image-from-folder-contents)
 
 ```
 hdiutil create -volname "Volume Name" -srcfolder /path/to/folder -ov diskimage.dmg
@@ -1052,7 +1041,7 @@ echo -n YourPassword | hdiutil create -encryption -stdinpass -volname "Volume Na
 
 ```
 
-#### [Burn Disk Images to DVD](https://git.herrbischoff.com/awesome-macos-command-line/about/#burn-disk-images-to-dvd)
+### [Burn Disk Images to DVD](https://git.herrbischoff.com/awesome-macos-command-line/about/#burn-disk-images-to-dvd)
 
 This command applies to .iso, .img and .dmg images.
 
@@ -1061,7 +1050,7 @@ hdiutil burn /path/to/image_file
 
 ```
 
-#### [Create Temporary High-Performance Disk](https://git.herrbischoff.com/awesome-macos-command-line/about/#create-temporary-high-performance-disk)
+### [Create Temporary High-Performance Disk](https://git.herrbischoff.com/awesome-macos-command-line/about/#create-temporary-high-performance-disk)
 
 The disk is backed by physical RAM and will be several times faster than an SSD. The contents of the disk cannot be recovered after it has been ejected. The example below is for a 500 MiB RAM disk, adjust as needed.
 
@@ -1076,7 +1065,7 @@ diskutil erasevolume HFS+ "RAM Disk" `hdiutil attach -nomount ram://$DISKSIZE`
 
 ```
 
-#### [Disable Disk Image Verification](https://git.herrbischoff.com/awesome-macos-command-line/about/#disable-disk-image-verification)
+### [Disable Disk Image Verification](https://git.herrbischoff.com/awesome-macos-command-line/about/#disable-disk-image-verification)
 
 ```
 defaults write com.apple.frameworks.diskimages skip-verify -bool true && \
@@ -1085,28 +1074,28 @@ defaults write com.apple.frameworks.diskimages skip-verify-remote -bool true
 
 ```
 
-#### [Make Volume OS X Bootable](https://git.herrbischoff.com/awesome-macos-command-line/about/#make-volume-os-x-bootable)
+### [Make Volume OS X Bootable](https://git.herrbischoff.com/awesome-macos-command-line/about/#make-volume-os-x-bootable)
 
 ```
 bless --folder "/path/to/mounted/volume/System/Library/CoreServices" --bootinfo --bootefi
 
 ```
 
-#### [Mount Disk Image](https://git.herrbischoff.com/awesome-macos-command-line/about/#mount-disk-image)
+### [Mount Disk Image](https://git.herrbischoff.com/awesome-macos-command-line/about/#mount-disk-image)
 
 ```
 hdiutil attach /path/to/diskimage.dmg
 
 ```
 
-#### [Unmount Disk Image](https://git.herrbischoff.com/awesome-macos-command-line/about/#unmount-disk-image)
+### [Unmount Disk Image](https://git.herrbischoff.com/awesome-macos-command-line/about/#unmount-disk-image)
 
 ```
 hdiutil detach /dev/disk2s1
 
 ```
 
-#### [Write Disk Image to Volume](https://git.herrbischoff.com/awesome-macos-command-line/about/#write-disk-image-to-volume)
+### [Write Disk Image to Volume](https://git.herrbischoff.com/awesome-macos-command-line/about/#write-disk-image-to-volume)
 
 Like the Disk Utility "Restore" function.
 
@@ -1424,7 +1413,7 @@ open -a "Google Chrome" https://herrbischoff.com
 
 ## [Fonts](https://git.herrbischoff.com/awesome-macos-command-line/about/#fonts)
 
-#### [Clear Font Cache for Current User](https://git.herrbischoff.com/awesome-macos-command-line/about/#clear-font-cache-for-current-user)
+### [Clear Font Cache for Current User](https://git.herrbischoff.com/awesome-macos-command-line/about/#clear-font-cache-for-current-user)
 
 To clear font caches for all users, put `sudo` in front of these commands.
 
@@ -1435,7 +1424,7 @@ atsutil server -ping
 
 ```
 
-#### [Get SF Mono Fonts](https://git.herrbischoff.com/awesome-macos-command-line/about/#get-sf-mono-fonts)
+### [Get SF Mono Fonts](https://git.herrbischoff.com/awesome-macos-command-line/about/#get-sf-mono-fonts)
 
 Starting in macOS 10.15 (Catalina), the Utilities apps (including Terminal.app) are now found in the `/System` folder.
 
@@ -1675,7 +1664,7 @@ defaults write -g KeyRepeat -int 0.02
 
 ## [Launchpad](https://git.herrbischoff.com/awesome-macos-command-line/about/#launchpad)
 
-#### [Reset Launchpad Layout](https://git.herrbischoff.com/awesome-macos-command-line/about/#reset-launchpad-layout)
+### [Reset Launchpad Layout](https://git.herrbischoff.com/awesome-macos-command-line/about/#reset-launchpad-layout)
 
 You need to restart `Dock` because Launchpad is tied to it.
 
@@ -1690,16 +1679,16 @@ killall Dock
 
 ```
 
-### [Audio](https://git.herrbischoff.com/awesome-macos-command-line/about/#audio)
+## [Audio](https://git.herrbischoff.com/awesome-macos-command-line/about/#audio)
 
-#### [Convert Audio File to iPhone Ringtone](https://git.herrbischoff.com/awesome-macos-command-line/about/#convert-audio-file-to-iphone-ringtone)
+### [Convert Audio File to iPhone Ringtone](https://git.herrbischoff.com/awesome-macos-command-line/about/#convert-audio-file-to-iphone-ringtone)
 
 ```
 afconvert input.mp3 ringtone.m4r -f m4af
 
 ```
 
-#### [Create Audiobook From Text](https://git.herrbischoff.com/awesome-macos-command-line/about/#create-audiobook-from-text)
+### [Create Audiobook From Text](https://git.herrbischoff.com/awesome-macos-command-line/about/#create-audiobook-from-text)
 
 Uses "Alex" voice, a plain UTF-8 encoded text file for input and AAC output.
 
@@ -1708,39 +1697,39 @@ say -v Alex -f file.txt -o "output.m4a"
 
 ```
 
-#### [Disable Sound Effects on Boot](https://git.herrbischoff.com/awesome-macos-command-line/about/#disable-sound-effects-on-boot)
+### [Disable Sound Effects on Boot](https://git.herrbischoff.com/awesome-macos-command-line/about/#disable-sound-effects-on-boot)
 
 ```
 sudo nvram SystemAudioVolume=" "
 
 ```
 
-#### [Mute Audio Output](https://git.herrbischoff.com/awesome-macos-command-line/about/#mute-audio-output)
+### [Mute Audio Output](https://git.herrbischoff.com/awesome-macos-command-line/about/#mute-audio-output)
 
 ```
 osascript -e 'set volume output muted true'
 
 ```
 
-#### [Set Audio Volume](https://git.herrbischoff.com/awesome-macos-command-line/about/#set-audio-volume)
+### [Set Audio Volume](https://git.herrbischoff.com/awesome-macos-command-line/about/#set-audio-volume)
 
 ```
 osascript -e 'set volume 4'
 
 ```
 
-#### [Play Audio File](https://git.herrbischoff.com/awesome-macos-command-line/about/#play-audio-file)
+### [Play Audio File](https://git.herrbischoff.com/awesome-macos-command-line/about/#play-audio-file)
 
 You can play all audio formats that are natively supported by QuickTime.
 
-#### [Speak Text with System Default Voice](https://git.herrbischoff.com/awesome-macos-command-line/about/#speak-text-with-system-default-voice)
+### [Speak Text with System Default Voice](https://git.herrbischoff.com/awesome-macos-command-line/about/#speak-text-with-system-default-voice)
 
 ```
 say 'All your base are belong to us!'
 
 ```
 
-#### [Startup Chime](https://git.herrbischoff.com/awesome-macos-command-line/about/#startup-chime)
+### [Startup Chime](https://git.herrbischoff.com/awesome-macos-command-line/about/#startup-chime)
 
 Older Macs:
 
@@ -1764,9 +1753,9 @@ sudo nvram StartupMute=%01
 
 ```
 
-### [Video](https://git.herrbischoff.com/awesome-macos-command-line/about/#video)
+## [Video](https://git.herrbischoff.com/awesome-macos-command-line/about/#video)
 
-#### [Auto-Play Videos in QuickTime Player](https://git.herrbischoff.com/awesome-macos-command-line/about/#auto-play-videos-in-quicktime-player)
+### [Auto-Play Videos in QuickTime Player](https://git.herrbischoff.com/awesome-macos-command-line/about/#auto-play-videos-in-quicktime-player)
 
 ```
 defaults write com.apple.QuickTimePlayerX MGPlayMovieOnOpen 1
@@ -1859,9 +1848,9 @@ traceroute herrbischoff.com
 #### [Permanently Add Private Key Passphrase to SSH Agent](https://git.herrbischoff.com/awesome-macos-command-line/about/#permanently-add-private-key-passphrase-to-ssh-agent)
 
 > Prior to macOS 10.12 (Sierra), ssh would present a dialog asking for your passphrase and would offer the option to store it into the keychain. This UI was deprecated some time ago and has been removed.
-> 
+>
 > Instead, a new UseKeychain option was introduced in macOS 10.12 (Sierra) allowing users to specify whether they would like for the passphrase to be stored in the keychain. This option was enabled by default on macOS 10.12 (Sierra), which caused all passphrases to be stored in the keychain.
-> 
+>
 > This was not the intended default behavior, so this has been changed in macOS 10.12.2. ([Source](https://developer.apple.com/library/archive/technotes/tn2449/_index.html))
 
 ```
@@ -1981,9 +1970,9 @@ networksetup -setairportpower en0 on
 
 ## [Package Managers](https://git.herrbischoff.com/awesome-macos-command-line/about/#package-managers)
 
--   [Fink](http://www.finkproject.org/) - The full world of Unix Open Source software for Darwin. A little outdated.
--   [Homebrew](https://brew.sh/) - The missing package manager for OS X. The most popular choice.
--   [MacPorts](https://www.macports.org/) - Compile, install and upgrade either command-line, X11 or Aqua based open-source software.
+- [Fink](http://www.finkproject.org/) - The full world of Unix Open Source software for Darwin. A little outdated.
+- [Homebrew](https://brew.sh/) - The missing package manager for OS X. The most popular choice.
+- [MacPorts](https://www.macports.org/) - Compile, install and upgrade either command-line, X11 or Aqua based open-source software.
 
 ### [Homebrew](https://git.herrbischoff.com/awesome-macos-command-line/about/#homebrew)
 
@@ -1996,9 +1985,9 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 
 ## [Printing](https://git.herrbischoff.com/awesome-macos-command-line/about/#printing)
 
-#### [Clear Print Queue](https://git.herrbischoff.com/awesome-macos-command-line/about/#clear-print-queue)
+### [Clear Print Queue](https://git.herrbischoff.com/awesome-macos-command-line/about/#clear-print-queue)
 
-#### [Expand Print Panel by Default](https://git.herrbischoff.com/awesome-macos-command-line/about/#expand-print-panel-by-default)
+### [Expand Print Panel by Default](https://git.herrbischoff.com/awesome-macos-command-line/about/#expand-print-panel-by-default)
 
 ```
 defaults write -g PMPrintingExpandedStateForPrint -bool true && \
@@ -2006,7 +1995,7 @@ defaults write -g PMPrintingExpandedStateForPrint2 -bool true
 
 ```
 
-#### [Quit Printer App After Print Jobs Complete](https://git.herrbischoff.com/awesome-macos-command-line/about/#quit-printer-app-after-print-jobs-complete)
+### [Quit Printer App After Print Jobs Complete](https://git.herrbischoff.com/awesome-macos-command-line/about/#quit-printer-app-after-print-jobs-complete)
 
 ```
 defaults write com.apple.print.PrintingPrefs "Quit When Finished" -bool true
@@ -2351,9 +2340,9 @@ sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstall
 
 ```
 
--   For confirmation before erasing the drive, remove `–-nointeraction` from the command.
--   The optional `–-downloadassets` flag is new in macOS 10.14 (Mojave). It downloads assets which may be required during installation, like updates.
--   The `–-applicationpath` flag is deprecated since macOS 10.14 (Mojave) and will throw an error if used.
+- For confirmation before erasing the drive, remove `–-nointeraction` from the command.
+- The optional `–-downloadassets` flag is new in macOS 10.14 (Mojave). It downloads assets which may be required during installation, like updates.
+- The `–-applicationpath` flag is deprecated since macOS 10.14 (Mojave) and will throw an error if used.
 
 #### [Download Older OS Versions](https://git.herrbischoff.com/awesome-macos-command-line/about/#download-older-os-versions)
 
@@ -2971,9 +2960,9 @@ Rings the terminal bell (if enabled) and puts a badge on it.
 
 ### [Alternative Terminals](https://git.herrbischoff.com/awesome-macos-command-line/about/#alternative-terminals)
 
--   [Alacritty](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator.
--   [iTerm2](https://iterm2.com/) - A better Terminal.app.
--   [kitty](https://sw.kovidgoyal.net/kitty/) - Modern, GPU-accelerated terminal emulator.
+- [Alacritty](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator.
+- [iTerm2](https://iterm2.com/) - A better Terminal.app.
+- [kitty](https://sw.kovidgoyal.net/kitty/) - Modern, GPU-accelerated terminal emulator.
 
 ### [Shells](https://git.herrbischoff.com/awesome-macos-command-line/about/#shells)
 
@@ -2988,8 +2977,8 @@ chsh -s $(brew --prefix)/bin/bash
 
 ```
 
--   [Homepage](https://www.gnu.org/software/bash/) - The default shell for OS X and most other Unix-based operating systems.
--   [Bash-it](https://github.com/Bash-it/bash-it) - Community Bash framework, like Oh My Zsh for Bash.
+- [Homepage](https://www.gnu.org/software/bash/) - The default shell for OS X and most other Unix-based operating systems.
+- [Bash-it](https://github.com/Bash-it/bash-it) - Community Bash framework, like Oh My Zsh for Bash.
 
 #### [fish](https://git.herrbischoff.com/awesome-macos-command-line/about/#fish)
 
@@ -3002,9 +2991,9 @@ chsh -s $(brew --prefix)/bin/fish
 
 ```
 
--   [Homepage](http://fishshell.com/) - A smart and user-friendly command line shell for OS X, Linux, and the rest of the family.
--   [The Fishshell Framework](https://github.com/oh-my-fish/oh-my-fish) - Provides core infrastructure to allow you to install packages which extend or modify the look of your shell.
--   [Installation & Configuration Tutorial](https://github.com/ellerbrock/fish-shell-setup-osx) - How to Setup Fish Shell with Fisherman, Powerline Fonts, iTerm2 and Budspencer Theme on OS X.
+- [Homepage](http://fishshell.com/) - A smart and user-friendly command line shell for OS X, Linux, and the rest of the family.
+- [The Fishshell Framework](https://github.com/oh-my-fish/oh-my-fish) - Provides core infrastructure to allow you to install packages which extend or modify the look of your shell.
+- [Installation & Configuration Tutorial](https://github.com/ellerbrock/fish-shell-setup-osx) - How to Setup Fish Shell with Fisherman, Powerline Fonts, iTerm2 and Budspencer Theme on OS X.
 
 #### [Zsh](https://git.herrbischoff.com/awesome-macos-command-line/about/#zsh)
 
@@ -3017,24 +3006,24 @@ chsh -s $(brew --prefix)/bin/zsh
 
 ```
 
--   [Homepage](http://www.zsh.org/) - Zsh is a shell designed for interactive use, although it is also a powerful scripting language.
--   [Oh My Zsh](http://ohmyz.sh/) - An open source, community-driven framework for managing your Zsh configuration.
--   [Prezto](https://github.com/sorin-ionescu/prezto) - A speedy Zsh framework. Enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes.
--   [zgen](https://github.com/tarjoilija/zgen) - Another open source framework for managing your zsh configuration. Zgen will load oh-my-zsh compatible plugins and themes and has the advantage of both being faster and automatically cloning any plugins used in your configuration for you.
+- [Homepage](http://www.zsh.org/) - Zsh is a shell designed for interactive use, although it is also a powerful scripting language.
+- [Oh My Zsh](http://ohmyz.sh/) - An open source, community-driven framework for managing your Zsh configuration.
+- [Prezto](https://github.com/sorin-ionescu/prezto) - A speedy Zsh framework. Enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes.
+- [zgen](https://github.com/tarjoilija/zgen) - Another open source framework for managing your zsh configuration. Zgen will load oh-my-zsh compatible plugins and themes and has the advantage of both being faster and automatically cloning any plugins used in your configuration for you.
 
 ### [Terminal Fonts](https://git.herrbischoff.com/awesome-macos-command-line/about/#terminal-fonts)
 
--   [Anonymous Pro](http://www.marksimonson.com/fonts/view/anonymous-pro) - A family of four fixed-width fonts designed with coding in mind.
--   [Codeface](https://github.com/chrissimpkins/codeface) - A gallery and repository of monospaced fonts for developers.
--   [DejaVu Sans Mono](https://dejavu-fonts.github.io/) - A font family based on the Vera Fonts.
--   [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans) - Designed with functionality in mind, and with some wibbly-wobbly handwriting-like fuzziness that makes it unassumingly cool.
--   [Hack](http://sourcefoundry.org/hack/) - Hack is hand groomed and optically balanced to be your go-to code face.
--   [Inconsolata](http://levien.com/type/myfonts/inconsolata.html) - A monospace font, designed for code listings and the like.
--   [Input](http://input.fontbureau.com/) - A flexible system of fonts designed specifically for code.
--   [Meslo](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font.
--   [Operator Mono](https://www.typography.com/fonts/operator/overview/) - A surprisingly usable alternative take on a monospace font (commercial).
--   [Powerline Fonts](https://github.com/powerline/fonts) - Repo of patched fonts for the Powerline plugin.
--   [Source Code Pro](https://adobe-fonts.github.io/source-code-pro/) - A monospaced font family for user interfaces and coding environments.
+- [Anonymous Pro](http://www.marksimonson.com/fonts/view/anonymous-pro) - A family of four fixed-width fonts designed with coding in mind.
+- [Codeface](https://github.com/chrissimpkins/codeface) - A gallery and repository of monospaced fonts for developers.
+- [DejaVu Sans Mono](https://dejavu-fonts.github.io/) - A font family based on the Vera Fonts.
+- [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans) - Designed with functionality in mind, and with some wibbly-wobbly handwriting-like fuzziness that makes it unassumingly cool.
+- [Hack](http://sourcefoundry.org/hack/) - Hack is hand groomed and optically balanced to be your go-to code face.
+- [Inconsolata](http://levien.com/type/myfonts/inconsolata.html) - A monospace font, designed for code listings and the like.
+- [Input](http://input.fontbureau.com/) - A flexible system of fonts designed specifically for code.
+- [Meslo](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font.
+- [Operator Mono](https://www.typography.com/fonts/operator/overview/) - A surprisingly usable alternative take on a monospace font (commercial).
+- [Powerline Fonts](https://github.com/powerline/fonts) - Repo of patched fonts for the Powerline plugin.
+- [Source Code Pro](https://adobe-fonts.github.io/source-code-pro/) - A monospaced font family for user interfaces and coding environments.
 
 ## [Glossary](https://git.herrbischoff.com/awesome-macos-command-line/about/#glossary)
 
