@@ -1,0 +1,3 @@
+# Diacritics in Writing
+
+Diacritics are small marks or symbols added to letters in some alphabets or writing systems to modify their pronunciation, meaning, or grammatical function. These marks can be placed above, below, or beside a letter to indicate changes in sound or stress, such as accents, umlauts, tildes, cedillas, or dots. Diacritics can also indicate vowel length, tone, or nasalization, and they are often used in languages such as French, Spanish, German, Portuguese, and Arabic, among others. In addition, diacritics may be used in transliteration or transcription systems to represent sounds or characters from other scripts, such as Romanized Japanese or Cyrillic script.

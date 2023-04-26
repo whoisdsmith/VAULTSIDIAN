@@ -4,8 +4,8 @@
 
 %% Begin Waypoint %%
 
-- **[champagne-piracy-wiki](../../../..//home-mthrfckr/bookmrks-mthrfckr/champagne-piracy-wiki/champagne-piracy-wiki.md)**
-  - [champagne-piracy-wiki](../../../..//home-mthrfckr/bookmrks-mthrfckr/champagne-piracy-wiki/champagne-piracy-wiki.md)
+- **[champagne-piracy-wiki](../../../..//home-mthrfckr/Bookmrks-Mthrfckr/Champagne-Piracy-Wiki/Champagne-Piracy-Wiki.md)**
+  - [champagne-piracy-wiki](../../../..//home-mthrfckr/Bookmrks-Mthrfckr/Champagne-Piracy-Wiki/Champagne-Piracy-Wiki.md)
 
 %% End Waypoint %%
 

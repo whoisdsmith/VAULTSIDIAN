@@ -15,7 +15,7 @@ HTTP messages are composed of textual information encoded in ASCII, and span ove
 
 Web developers, or webmasters, rarely craft these textual HTTP messages themselves: software, a Web browser, proxy, or Web server, perform this action. They provide HTTP messages through config files (for proxies or servers), APIs (for browsers), or other interfaces.
 
-![From a user-, script-, or server- generated event, an HTTP/1.x msg is generated, and if HTTP/2 is in use, it is binary framed into an HTTP/2 stream, then sent.](httpmsg2.png)
+![From a user-, script-, or server- generated event, an HTTP/1.x msg is generated, and if HTTP/2 is in use, it is binary framed into an HTTP/2 stream, then sent.](Httpmsg2.png)
 
 The HTTP/2 binary framing mechanism has been designed to not require any alteration of the APIs or config files applied: it is broadly transparent to the user.
 
@@ -28,7 +28,7 @@ HTTP requests, and responses, share similar structure and are composed of:
 
 The start-line and HTTP headers of the HTTP message are collectively known as the _head_ of the requests, whereas its payload is known as the _body_.
 
-![Requests and responses share a common structure in HTTP](httpmsgstructure2.png)
+![Requests and responses share a common structure in HTTP](Httpmsgstructure2.png)
 
 ## HTTP Requests
 
@@ -63,7 +63,7 @@ Many different headers can appear in requests. They can be divided in several gr
 - {{glossary("Request header", "Request headers")}}, like {{HTTPHeader("User-Agent")}} or {{HTTPHeader("Accept")}}, modify the request by specifying it further (like {{HTTPHeader("Accept-Language")}}), by giving context (like {{HTTPHeader("Referer")}}), or by conditionally restricting it (like {{HTTPHeader("If-None")}}).
 - {{glossary("Representation header", "Representation headers")}} like {{HTTPHeader("Content-Type")}} that describe the original format of the message data and any encoding applied (only present if the message has a body).
 
-![Example of headers in an HTTP request](http_request_headers3.png)
+![Example of headers in an HTTP request](Http_Request_Headers3.png)
 
 ### Body
 
@@ -96,7 +96,7 @@ Many different headers can appear in responses. These can be divided into severa
 - {{glossary("Response header", "Response headers")}}, like {{HTTPHeader("Vary")}} and {{HTTPHeader("Accept-Ranges")}}, give additional information about the server which doesn't fit in the status line.
 - {{glossary("Representation header", "Representation headers")}} like {{HTTPHeader("Content-Type")}} that describe the original format of the message data and any encoding applied (only present if the message has a body).
 
-![Example of headers in an HTTP response](http_response_headers3.png)
+![Example of headers in an HTTP response](Http_Response_Headers3.png)
 
 ### Body
 
@@ -118,7 +118,7 @@ HTTP/1.x messages have a few drawbacks for performance:
 
 HTTP/2 introduces an extra step: it divides HTTP/1.x messages into frames which are embedded in a stream. Data and header frames are separated, which allows header compression. Several streams can be combined together, a process called _multiplexing_, allowing more efficient use of underlying TCP connections.
 
-![HTTP/2 modify the HTTP message to divide them in frames (part of a single stream), allowing for more optimization.](binary_framing2.png)
+![HTTP/2 modify the HTTP message to divide them in frames (part of a single stream), allowing for more optimization.](Binary_Framing2.png)
 
 HTTP frames are now transparent to Web developers. This is an additional step in HTTP/2, between HTTP/1.1 messages and the underlying transport protocol. No changes are needed in the APIs used by Web developers to utilize HTTP frames; when available in both the browser and the server, HTTP/2 is switched on and used.
 

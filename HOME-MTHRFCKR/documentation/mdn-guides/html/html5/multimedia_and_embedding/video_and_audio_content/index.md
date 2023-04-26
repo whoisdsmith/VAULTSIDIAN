@@ -81,7 +81,7 @@ The features of note are:
 
 The embedded video will look something like this:
 
-![A simple video player showing a video of a small white rabbit](simple-video.png)
+![A simple video player showing a video of a small white rabbit](Simple-Video.png)
 
 You can [try the example live](https://mdn.github.io/learning-area/html/multimedia-and-embedding/video-and-audio-content/simple-video.html) here (see also the [source code](https://github.com/mdn/learning-area/blob/main/html/multimedia-and-embedding/video-and-audio-content/simple-video.html).)
 
@@ -95,7 +95,7 @@ First, let's go through the terminology quickly. Formats like MP3, MP4 and WebM 
 
 A WebM file containing a movie which has a main video track and one alternate angle track, plus audio for both English and Spanish, in addition to audio for an English commentary track can be conceptualized as shown in the diagram below. Also included are text tracks containing closed captions for the feature film, Spanish subtitles for the film, and English captions for the commentary.
 
-[![Diagram conceptualizing the contents of a media file at the track level.](containersandtracks.png)](containersandtracks.png)
+[![Diagram conceptualizing the contents of a media file at the track level.](Containersandtracks.png)](containersandtracks.png)
 
 The audio and video tracks within the container hold data in the appropriate format for the codec used to encode that media. Different formats are used for audio tracks versus video tracks. Each audio track is encoded using an [audio codec](/en-US/docs/Web/Media/Formats/Audio_codecs), while video tracks are encoded using (as you probably have guessed) [a video codec](/en-US/docs/Web/Media/Formats/Video_codecs). As we talked about before, different browsers support different video and audio formats, and different container formats (like MP3, MP4, and WebM, which in turn can contain different types of video and audio).
 
@@ -169,7 +169,7 @@ There are a number of other features you can include when displaying an HTML vid
 
 The resulting UI looks something like this:
 
-![A video player showing a poster image before it plays. The poster image says HTML video example, OMG hell yeah!](poster_screenshot_updated.png)
+![A video player showing a poster image before it plays. The poster image says HTML video example, OMG hell yeah!](Poster_Screenshot_Updated.png)
 
 Features include:
 
@@ -210,7 +210,7 @@ The {{htmlelement("audio")}} element works just like the {{htmlelement("video")}
 
 This produces something like the following in a browser:
 
-![A simple audio player with a play button, timer, volume control, and progress bar](audio-player.png)
+![A simple audio player with a play button, timer, volume control, and progress bar](Audio-Player.png)
 
 > **Note:** You can [run the audio demo live](https://mdn.github.io/learning-area/html/multimedia-and-embedding/video-and-audio-content/multiple-audio-formats.html) on GitHub (also see the [audio player source code](https://github.com/mdn/learning-area/blob/main/html/multimedia-and-embedding/video-and-audio-content/multiple-audio-formats.html).)
 

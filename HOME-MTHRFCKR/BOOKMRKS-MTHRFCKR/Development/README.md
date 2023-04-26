@@ -8,16 +8,16 @@
 
 ***
 
-[Design](design.md)
+[Design](Design.md)
 
-[DevOps](devops.md)
+[DevOps](Devops.md)
 
-[Git](git.md)
+[Git](home-mthrfckr/Bookmrks-Mthrfckr/Development/Git.md)
 
-[Programming](programming.md)
+[Programming](Programming.md)
 
-[Resources](resources.md)
+[Resources](Resources.md)
 
-[WebDev](webdev.md)
+[WebDev](Webdev.md)
 
 ***

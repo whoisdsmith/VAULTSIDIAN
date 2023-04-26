@@ -3,7 +3,7 @@
 ---
 
 %% Begin Waypoint %%
-- **[lists](../../../..//home-mthrfckr/bookmrks-mthrfckr/lists/lists.md)**
-	- [lists](../../../..//home-mthrfckr/bookmrks-mthrfckr/lists/lists.md)
+- **[lists](../../../..//home-mthrfckr/Bookmrks-Mthrfckr/Lists/Lists.md)**
+	- [lists](../../../..//home-mthrfckr/Bookmrks-Mthrfckr/Lists/Lists.md)
 
 %% End Waypoint %%

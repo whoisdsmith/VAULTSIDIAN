@@ -1,4 +1,4 @@
-# File Not Found– [[ifttt.md]]
+# File Not Found– [[Ifttt.md]]
 
 ---
 
@@ -9,7 +9,7 @@ The ubiquitous **File not found** image, explained:
 
 ![no_image_card.png](https://help.ifttt.com/hc/article_attachments/360041394694/no_image_card.png)
 
-This image will appear when [[ifttt.md]] is set up to post an image or a file, but we don't get the data as expected.
+This image will appear when [[Ifttt.md]] is set up to post an image or a file, but we don't get the data as expected.
 
 Here's an example to illustrate further. The Applet below is configured to [post a tweet with an image](https://ifttt.com/twitter/actions/post_new_tweet_with_image) each time you [add a Tumblr post](https://ifttt.com/tumblr/triggers/new_any_post). If this Applet is triggered by a Tumblr post _without_ an image, the **File not found** image will be used. 
 

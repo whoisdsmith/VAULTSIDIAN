@@ -3,12 +3,12 @@
 --- 
 
 %% Begin Waypoint %%
-- **[webhooks](../../../..//home-mthrfckr/documentation/webhooks/webhooks.md)**
-	- [discord](discord.md)
-	- [the-plain-english-guide-to-webhooks](the-plain-english-guide-to-webhooks.md)
-	- [webhooks-01](webhooks-01.md)
-	- [webhooks-explained](webhooks-explained.md)
-	- [webhooks](../../../..//home-mthrfckr/documentation/webhooks/webhooks.md)
+- **[webhooks](../../../..//home-mthrfckr/Documentation/Webhooks/Webhooks.md)**
+	- [discord](Discord.md)
+	- [the-plain-english-guide-to-webhooks](The-Plain-English-Guide-To-Webhooks.md)
+	- [webhooks-01](Webhooks-01.md)
+	- [webhooks-explained](Webhooks-Explained.md)
+	- [webhooks](../../../..//home-mthrfckr/Documentation/Webhooks/Webhooks.md)
 
 %% End Waypoint %%
 

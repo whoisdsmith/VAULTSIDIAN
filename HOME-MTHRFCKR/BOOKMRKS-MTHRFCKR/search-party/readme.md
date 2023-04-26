@@ -2,17 +2,17 @@
 
 ***
 
-[Custom-Search-Engines](custom-search-engines.md)
+[Custom-Search-Engines](Custom-Search-Engines.md)
 
-[Files](files.md)
+[Files](home-mthrfckr/Bookmrks-Mthrfckr/Search-Party/Files.md)
 
-[General](general%201.md)
+[General](General%201.md)
 
-[People Search Tools](people-search-tools.md)
+[People Search Tools](People-Search-Tools.md)
 
 [Technology](../../bookmrks-mthrfckr/search-engines/Technology.md)
 
-[Data and Statistics](data-and-statistics.md)
+[Data and Statistics](Data-And-Statistics.md)
 
 ***
 

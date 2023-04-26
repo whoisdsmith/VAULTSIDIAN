@@ -8,7 +8,7 @@ Anyone with the link (sign-up is not required) will be able to view your wall bu
 ![](using/public-page/page.jpg)
 
 :::note
-[Read this article](collaboration.md) if you want to give an edit access to your collection.
+[Read this article](Collaboration.md) if you want to give an edit access to your collection.
 :::
 
 ## Enable Public Page
@@ -23,7 +23,7 @@ Anyone with the link (sign-up is not required) will be able to view your wall bu
 <p><img src={require('./bylink.png').default} style={{maxHeight:496}} /></p>
 
 :::note
-If you need to embed bookmarks to your website or blog read [this article](embed.md)
+If you need to embed bookmarks to your website or blog read [this article](Embed.md)
 :::
 
 ## Customize

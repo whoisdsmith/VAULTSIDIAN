@@ -102,7 +102,7 @@ Here is a simple example of using the `<content>` element. It is an HTML file wi
 
 If you display this in a web browser it should look like the following.
 
-![content example](content-example.png)
+![content example](Content-Example.png)
 
 ## Specifications
 

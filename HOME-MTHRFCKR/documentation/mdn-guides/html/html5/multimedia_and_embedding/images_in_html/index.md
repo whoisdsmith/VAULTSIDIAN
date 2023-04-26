@@ -92,7 +92,7 @@ But this is not recommended. You should host your own images, which in simple se
 
 Our above code would give us the following result:
 
-![A basic image of a dinosaur, embedded in a browser, with "Images in HTML" written above it](basic-image.png)
+![A basic image of a dinosaur, embedded in a browser, with "Images in HTML" written above it](Basic-Image.png)
 
 > **Note:** Elements like {{htmlelement("img")}} and {{htmlelement("video")}} are sometimes referred to as **replaced elements**. This is because the element's content and size are defined by an external resource (like an image or video file), not by the contents of the element itself. You can read more about them at [Replaced elements](/en-US/docs/Web/CSS/Replaced_element).
 
@@ -111,7 +111,7 @@ The next attribute we'll look at is `alt`. Its value is supposed to be a textual
 
 The easiest way to test your `alt` text is to purposely misspell your filename. If for example our image name was spelled `dinosooooor.jpg`, the browser wouldn't display the image, and would display the alt text instead:
 
-![The Images in HTML title, but this time the dinosaur image is not displayed, and alt text is in its place.](alt-text.png)
+![The Images in HTML title, but this time the dinosaur image is not displayed, and alt text is in its place.](Alt-Text.png)
 
 So, why would you ever see or need alt text? It can come in handy for a number of reasons:
 
@@ -147,7 +147,7 @@ You can use the `width` and `height` attributes to specify the width and height 
 
 This doesn't result in much difference to the display, under normal circumstances. But if the image isn't being displayed, for example, the user has just navigated to the page, and the image hasn't yet loaded, you'll notice the browser is leaving a space for the image to appear in:
 
-![The Images in HTML title, with dinosaur alt text, displayed inside a large box that results from width and height settings](alt-text-with-width-height.png)
+![The Images in HTML title, with dinosaur alt text, displayed inside a large box that results from width and height settings](Alt-Text-With-Width-Height.png)
 
 This is a good thing to do, resulting in the page loading quicker and more smoothly.
 
@@ -171,7 +171,7 @@ As [with links](/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks#
 
 This gives us a tooltip on mouse hover, just like link titles:
 
-![The dinosaur image, with a tooltip title on top of it that reads A T-Rex on display at the Manchester University Museum ](image-with-title.png)
+![The dinosaur image, with a tooltip title on top of it that reads A T-Rex on display at the Manchester University Museum ](Image-With-Title.png)
 
 However, this is not recommended — `title` has a number of accessibility problems, mainly based around the fact that screen reader support is very unpredictable and most browsers won't show it unless you are hovering with a mouse (so e.g. no access to keyboard users). If you are interested in more information about this, read [The Trials and Tribulations of the Title Attribute](https://www.24a11y.com/2017/the-trials-and-tribulations-of-the-title-attribute/) by Scott O'Hara.
 

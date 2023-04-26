@@ -2,13 +2,13 @@
 
 ---
 
-- [../Search/General.md](general.md)
-- [../../osint/osint-bookmarks/osint.md](../../osint/osint-bookmarks/osint.md)
-- [../osint-and-hacking/../osint-and-hacking/../osint-and-hacking/../osint-and-hacking/../osint-and-hacking/../osint-and-hacking/../osint-and-hacking/../osint-and-hacking/../osint-and-hacking/../osint-and-hacking/osint-search-engines.md.md.md.md.md.md.md.md.md.md](osint-search-engines)
+- [../Search/General.md](General.md)
+- [../../Osint/Osint-Bookmarks/Osint.md](../../osint/osint-bookmarks/osint.md)
+- [../osint-and-hacking/../osint-and-hacking/../osint-and-hacking/../osint-and-hacking/../osint-and-hacking/../osint-and-hacking/../osint-and-hacking/../osint-and-hacking/../osint-and-hacking/../osint-and-hacking/../Osint-And-Hacking/Osint-Search-Engines.md.md.md.md.md.md.md.md.md.md.md](osint-search-engines)
 - [SEARCH PARTY MTHRFCKR](SEARCH PARTY MTHRFCKR)
 - [tools](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/awesome-piracy/tools.md)
-- [../Software-Tools/readme/../Software-Tools/readme/../software-tools/readme/../software-tools/readme/../software-tools/readme/../software-tools/readme/../software-tools/readme/../software-tools/readme/../software-tools/readme/../software-tools/readme/tools-box.md.md.md.md.md.md.md.md.md.md](tools-box)
-- [webdev](../awesome-piracy/weboasis/webdev.md)
+- [../Software-Tools/readme/../Software-Tools/readme/../software-tools/readme/../software-tools/readme/../software-tools/readme/../software-tools/readme/../software-tools/readme/../software-tools/readme/../software-tools/readme/../software-tools/readme/../Software-Tools/Readme/Tools-Box.md.md.md.md.md.md.md.md.md.md.md](tools-box)
+- [webdev](../Awesome-Piracy/Weboasis/Webdev.md)
 
 ---
 

@@ -1,4 +1,4 @@
-# [[index]] - anagora.org
+# [[../../../Documentation/Mdn-Guides/Seo/Index.md]] - anagora.org
 
 created: December 20, 2021 11:51 AM (UTC)
 description: The Agora is a crowdsourced distributed knowledge graph: anagora.org.

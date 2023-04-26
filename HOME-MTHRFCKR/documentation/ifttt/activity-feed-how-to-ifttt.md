@@ -30,7 +30,7 @@ ___
 
 ## About the Activity feed
 
-The Activity feed gives you a log of your Applet runs. If you're wondering why an Applet isn't working properly, this may be the first place you look. It can be viewed [on web](https://ifttt.com/activity) or in the [[ifttt.md]] apps.
+The Activity feed gives you a log of your Applet runs. If you're wondering why an Applet isn't working properly, this may be the first place you look. It can be viewed [on web](https://ifttt.com/activity) or in the [[Ifttt.md]] apps.
 
 You can visit your Activity feed to find useful information about your Applets and services:
 
@@ -95,7 +95,7 @@ Users and services can publish Applets for others to use from within the [IFTTT 
 
 ### Service connected
 
-This item confirms that you’ve linked a new app or device to your [[ifttt.md]] account.
+This item confirms that you’ve linked a new app or device to your [[Ifttt.md]] account.
 
 ### Service disconnected
 
@@ -107,7 +107,7 @@ Sometimes you may want to link a different service account, or update a password
 
 ### Service is offline
 
-Uh oh! This usually means one of your apps or devices is no longer properly linked with [[ifttt.md]]. Expand this item and we’ll help you reconnect via the service’s settings page, so you can get up and running again. If you don’t reconnect, we may give you a reminder a few days later — eventually, if you don’t reconnect, we’ll automatically disable the service and associated Applets, so we’ll try and give you enough time to fix it before we do that.
+Uh oh! This usually means one of your apps or devices is no longer properly linked with [[Ifttt.md]]. Expand this item and we’ll help you reconnect via the service’s settings page, so you can get up and running again. If you don’t reconnect, we may give you a reminder a few days later — eventually, if you don’t reconnect, we’ll automatically disable the service and associated Applets, so we’ll try and give you enough time to fix it before we do that.
 
 ### Service is online
 
@@ -115,9 +115,9 @@ If we’ve seen your service was recently offline but has made a triumphant retu
 
 ### Usage limit exceeded
 
-Some of the apps and devices we work with have [usage limits](https://help.ifttt.com/hc/en-us/articles/360001448453) on how much they can handle via [[ifttt.md]]. We try and make these as transparent as possible, and let you know when you’re approaching a limit and when you’ve hit it. When you hit it and we can’t run an Applet, you’ll see this item in your feed.
+Some of the apps and devices we work with have [usage limits](https://help.ifttt.com/hc/en-us/articles/360001448453) on how much they can handle via [[Ifttt.md]]. We try and make these as transparent as possible, and let you know when you’re approaching a limit and when you’ve hit it. When you hit it and we can’t run an Applet, you’ll see this item in your feed.
 
 
 ---
 
-#[[ifttt.md]] 
+#[[Ifttt.md]] 

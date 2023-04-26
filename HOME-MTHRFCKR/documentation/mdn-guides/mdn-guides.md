@@ -8,1243 +8,1243 @@
   - **guide**
     - **ajax**
       - **community**
-        - [index](guide/ajax/community/index.md)
+        - [index](Guide/Ajax/Community/Index.md)
       - **getting_started**
-        - [index](guide/ajax/getting_started/index.md)
-      - [index](guide/ajax/index.md)
+        - [index](Guide/Ajax/Getting_Started/Index.md)
+      - [index](Guide/Ajax/Index.md)
       - **wai_aria_live_regions_api_support**
-        - [index](guide/ajax/wai_aria_live_regions_api_support/index.md)
+        - [index](Guide/Ajax/Wai_Aria_Live_Regions_Api_Support/Index.md)
     - **api**
-      - [index](guide/api/index.md)
+      - [index](Guide/Api/Index.md)
     - **audio_and_video_delivery**
       - **adding_captions_and_subtitles_to_html5_video**
-        - [index](guide/audio_and_video_delivery/adding_captions_and_subtitles_to_html5_video/index.md)
+        - [index](Guide/Audio_And_Video_Delivery/Adding_Captions_And_Subtitles_To_Html5_Video/Index.md)
       - **buffering_seeking_time_ranges**
-        - [index](guide/audio_and_video_delivery/buffering_seeking_time_ranges/index.md)
+        - [index](Guide/Audio_And_Video_Delivery/Buffering_Seeking_Time_Ranges/Index.md)
       - **cross_browser_video_player**
-        - [index](guide/audio_and_video_delivery/cross_browser_video_player/index.md)
+        - [index](Guide/Audio_And_Video_Delivery/Cross_Browser_Video_Player/Index.md)
       - **cross-browser_audio_basics**
-        - [index](guide/audio_and_video_delivery/cross-browser_audio_basics/index.md)
-      - [index](guide/audio_and_video_delivery/index.md)
+        - [index](Guide/Audio_And_Video_Delivery/Cross-Browser_Audio_Basics/Index.md)
+      - [index](Guide/Audio_And_Video_Delivery/Index.md)
       - **live_streaming_web_audio_and_video**
-        - [index](guide/audio_and_video_delivery/live_streaming_web_audio_and_video/index.md)
+        - [index](Guide/Audio_And_Video_Delivery/Live_Streaming_Web_Audio_And_Video/Index.md)
       - **setting_up_adaptive_streaming_media_sources**
-        - [index](guide/audio_and_video_delivery/setting_up_adaptive_streaming_media_sources/index.md)
+        - [index](Guide/Audio_And_Video_Delivery/Setting_Up_Adaptive_Streaming_Media_Sources/Index.md)
       - **video_player_styling_basics**
-        - [index](guide/audio_and_video_delivery/video_player_styling_basics/index.md)
+        - [index](Guide/Audio_And_Video_Delivery/Video_Player_Styling_Basics/Index.md)
       - **web_audio_api_cross_browser**
-        - [index](guide/audio_and_video_delivery/web_audio_api_cross_browser/index.md)
+        - [index](Guide/Audio_And_Video_Delivery/Web_Audio_Api_Cross_Browser/Index.md)
       - **webaudio_playbackrate_explained**
-        - [index](guide/audio_and_video_delivery/webaudio_playbackrate_explained/index.md)
+        - [index](Guide/Audio_And_Video_Delivery/Webaudio_Playbackrate_Explained/Index.md)
     - **audio_and_video_manipulation**
-      - [index](guide/audio_and_video_manipulation/index.md)
+      - [index](Guide/Audio_And_Video_Manipulation/Index.md)
     - **css**
       - **block_formatting_context**
-        - [index](guide/css/block_formatting_context/index.md)
+        - [index](Guide/Css/Block_Formatting_Context/Index.md)
       - **css_layout**
-        - [index](guide/css/css_layout/index.md)
+        - [index](Guide/Css/Css_Layout/Index.md)
       - **getting_started**
         - **challenge_solutions**
-          - [index](guide/css/getting_started/challenge_solutions/index.md)
+          - [index](Guide/Css/Getting_Started/Challenge_Solutions/Index.md)
     - **graphics**
-      - [index](guide/graphics/index.md)
+      - [index](Guide/Graphics/Index.md)
     - **houdini**
-      - [index](guide/houdini/index.md)
+      - [index](Guide/Houdini/Index.md)
     - **html**
       - **constraint_validation**
-        - [index](guide/html/constraint_validation/index.md)
+        - [index](Guide/Html/Constraint_Validation/Index.md)
       - **content_categories**
-        - [index](guide/html/content_categories/index.md)
+        - [index](Guide/Html/Content_Categories/Index.md)
       - **xhtml**
-        - [index](guide/html/xhtml/index.md)
-    - [index](guide/index.md)
+        - [index](Guide/Html/Xhtml/Index.md)
+    - [index](Guide/Index.md)
     - **introduction_to_web_development**
-      - [index](guide/introduction_to_web_development/index.md)
+      - [index](Guide/Introduction_To_Web_Development/Index.md)
     - **mobile**
       - **a_hybrid_approach**
-        - [index](guide/mobile/a_hybrid_approach/index.md)
-      - [index](guide/mobile/index.md)
+        - [index](Guide/Mobile/A_Hybrid_Approach/Index.md)
+      - [index](Guide/Mobile/Index.md)
       - **mobile-friendliness**
-        - [index](guide/mobile/mobile-friendliness/index.md)
+        - [index](Guide/Mobile/Mobile-Friendliness/Index.md)
     - **parsing_and_serializing_xml**
-      - [index](guide/parsing_and_serializing_xml/index.md)
+      - [index](Guide/Parsing_And_Serializing_Xml/Index.md)
     - **performance**
-      - [index](guide/performance/index.md)
+      - [index](Guide/Performance/Index.md)
     - **printing**
-      - [index](guide/printing/index.md)
+      - [index](Guide/Printing/Index.md)
     - **svg-in-opentype**
-      - [index](guide/svg-in-opentype/index.md)
+      - [index](Guide/Svg-In-Opentype/Index.md)
     - **user_input_methods**
-      - [index](guide/user_input_methods/index.md)
+      - [index](Guide/User_Input_Methods/Index.md)
     - **woff**
-      - [index](guide/woff/index.md)
+      - [index](Guide/Woff/Index.md)
     - **writing_forward-compatible_websites**
-      - [index](guide/writing_forward-compatible_websites/index.md)
+      - [index](Guide/Writing_Forward-Compatible_Websites/Index.md)
   - **html**
     - **attributes**
       - **accept**
-        - [index](html/attributes/accept/index.md)
+        - [index](Html/Attributes/Accept/Index.md)
       - **autocomplete**
-        - [index](html/attributes/autocomplete/index.md)
+        - [index](Html/Attributes/Autocomplete/Index.md)
       - **capture**
-        - [index](html/attributes/capture/index.md)
+        - [index](Html/Attributes/Capture/Index.md)
       - **crossorigin**
-        - [index](html/attributes/crossorigin/index.md)
+        - [index](Html/Attributes/Crossorigin/Index.md)
       - **disabled**
-        - [index](html/attributes/disabled/index.md)
+        - [index](Html/Attributes/Disabled/Index.md)
       - **elementtiming**
-        - [index](html/attributes/elementtiming/index.md)
+        - [index](Html/Attributes/Elementtiming/Index.md)
       - **for**
-        - [index](html/attributes/for/index.md)
-      - [index](html/attributes/index.md)
+        - [index](Html/Attributes/For/Index.md)
+      - [index](Html/Attributes/Index.md)
       - **max**
-        - [index](html/attributes/max/index.md)
+        - [index](Html/Attributes/Max/Index.md)
       - **maxlength**
-        - [index](html/attributes/maxlength/index.md)
+        - [index](Html/Attributes/Maxlength/Index.md)
       - **min**
-        - [index](html/attributes/min/index.md)
+        - [index](Html/Attributes/Min/Index.md)
       - **minlength**
-        - [index](html/attributes/minlength/index.md)
+        - [index](Html/Attributes/Minlength/Index.md)
       - **multiple**
-        - [index](html/attributes/multiple/index.md)
+        - [index](Html/Attributes/Multiple/Index.md)
       - **pattern**
-        - [index](html/attributes/pattern/index.md)
+        - [index](Html/Attributes/Pattern/Index.md)
       - **readonly**
-        - [index](html/attributes/readonly/index.md)
+        - [index](Html/Attributes/Readonly/Index.md)
       - **rel**
-        - [index](html/attributes/rel/index.md)
+        - [index](Html/Attributes/Rel/Index.md)
       - **required**
-        - [index](html/attributes/required/index.md)
+        - [index](Html/Attributes/Required/Index.md)
       - **size**
-        - [index](html/attributes/size/index.md)
+        - [index](Html/Attributes/Size/Index.md)
       - **step**
-        - [index](html/attributes/step/index.md)
+        - [index](Html/Attributes/Step/Index.md)
     - **block-level_elements**
-      - [index](html/block-level_elements/index.md)
+      - [index](Html/Block-Level_Elements/Index.md)
     - **cors_enabled_image**
-      - [index](html/cors_enabled_image/index.md)
+      - [index](Html/Cors_Enabled_Image/Index.md)
     - **date_and_time_formats**
-      - [index](html/date_and_time_formats/index.md)
+      - [index](Html/Date_And_Time_Formats/Index.md)
     - **element**
       - **a**
-        - [index](html/element/a/index.md)
+        - [index](Html/Element/A/Index.md)
       - **abbr**
-        - [index](html/element/abbr/index.md)
+        - [index](Html/Element/Abbr/Index.md)
       - **acronym**
-        - [index](html/element/acronym/index.md)
+        - [index](Html/Element/Acronym/Index.md)
       - **address**
-        - [index](html/element/address/index.md)
+        - [index](Html/Element/Address/Index.md)
       - **applet**
-        - [index](html/element/applet/index.md)
+        - [index](Html/Element/Applet/Index.md)
       - **area**
-        - [index](html/element/area/index.md)
+        - [index](Html/Element/Area/Index.md)
       - **article**
-        - [index](html/element/article/index.md)
+        - [index](Html/Element/Article/Index.md)
       - **aside**
-        - [index](html/element/aside/index.md)
+        - [index](Html/Element/Aside/Index.md)
       - **audio**
-        - [index](html/element/audio/index.md)
+        - [index](Html/Element/Audio/Index.md)
       - **b**
-        - [index](html/element/b/index.md)
+        - [index](Html/Element/B/Index.md)
       - **base**
-        - [index](html/element/base/index.md)
+        - [index](Html/Element/Base/Index.md)
       - **bdi**
-        - [index](html/element/bdi/index.md)
+        - [index](Html/Element/Bdi/Index.md)
       - **bdo**
-        - [index](html/element/bdo/index.md)
+        - [index](Html/Element/Bdo/Index.md)
       - **bgsound**
-        - [index](html/element/bgsound/index.md)
+        - [index](Html/Element/Bgsound/Index.md)
       - **big**
-        - [index](html/element/big/index.md)
+        - [index](Html/Element/Big/Index.md)
       - **blink**
-        - [index](html/element/blink/index.md)
+        - [index](Html/Element/Blink/Index.md)
       - **blockquote**
-        - [index](html/element/blockquote/index.md)
+        - [index](Html/Element/Blockquote/Index.md)
       - **body**
-        - [index](html/element/body/index.md)
+        - [index](Html/Element/Body/Index.md)
       - **br**
-        - [index](html/element/br/index.md)
+        - [index](Html/Element/Br/Index.md)
       - **button**
-        - [index](html/element/button/index.md)
+        - [index](Html/Element/Button/Index.md)
       - **canvas**
-        - [index](html/element/canvas/index.md)
+        - [index](Html/Element/Canvas/Index.md)
       - **caption**
-        - [index](html/element/caption/index.md)
+        - [index](Html/Element/Caption/Index.md)
       - **center**
-        - [index](html/element/center/index.md)
+        - [index](Html/Element/Center/Index.md)
       - **cite**
-        - [index](html/element/cite/index.md)
+        - [index](Html/Element/Cite/Index.md)
       - **code**
-        - [index](html/element/code/index.md)
+        - [index](Html/Element/Code/Index.md)
       - **col**
-        - [index](html/element/col/index.md)
+        - [index](Html/Element/Col/Index.md)
       - **colgroup**
-        - [index](html/element/colgroup/index.md)
+        - [index](Html/Element/Colgroup/Index.md)
       - **content**
-        - [index](html/element/content/index.md)
+        - [index](Html/Element/Content/Index.md)
       - **data**
-        - [index](html/element/data/index.md)
+        - [index](Html/Element/Data/Index.md)
       - **datalist**
-        - [index](html/element/datalist/index.md)
+        - [index](Html/Element/Datalist/Index.md)
       - **dd**
-        - [index](html/element/dd/index.md)
+        - [index](Html/Element/Dd/Index.md)
       - **del**
-        - [index](html/element/del/index.md)
+        - [index](Html/Element/Del/Index.md)
       - **details**
-        - [index](html/element/details/index.md)
+        - [index](Html/Element/Details/Index.md)
       - **dfn**
-        - [index](html/element/dfn/index.md)
+        - [index](Html/Element/Dfn/Index.md)
       - **dialog**
-        - [index](html/element/dialog/index.md)
+        - [index](Html/Element/Dialog/Index.md)
       - **dir**
-        - [index](html/element/dir/index.md)
+        - [index](Html/Element/Dir/Index.md)
       - **div**
-        - [index](html/element/div/index.md)
+        - [index](Html/Element/Div/Index.md)
       - **dl**
-        - [index](html/element/dl/index.md)
+        - [index](Html/Element/Dl/Index.md)
       - **dt**
-        - [index](html/element/dt/index.md)
+        - [index](Html/Element/Dt/Index.md)
       - **em**
-        - [index](html/element/em/index.md)
+        - [index](Html/Element/Em/Index.md)
       - **embed**
-        - [index](html/element/embed/index.md)
+        - [index](Html/Element/Embed/Index.md)
       - **fieldset**
-        - [index](html/element/fieldset/index.md)
+        - [index](Html/Element/Fieldset/Index.md)
       - **figcaption**
-        - [index](html/element/figcaption/index.md)
+        - [index](Html/Element/Figcaption/Index.md)
       - **figure**
-        - [index](html/element/figure/index.md)
+        - [index](Html/Element/Figure/Index.md)
       - **font**
-        - [index](html/element/font/index.md)
+        - [index](Html/Element/Font/Index.md)
       - **footer**
-        - [index](html/element/footer/index.md)
+        - [index](Html/Element/Footer/Index.md)
       - **form**
-        - [index](html/element/form/index.md)
+        - [index](Html/Element/Form/Index.md)
       - **frame**
-        - [index](html/element/frame/index.md)
+        - [index](Html/Element/Frame/Index.md)
       - **frameset**
-        - [index](html/element/frameset/index.md)
+        - [index](Html/Element/Frameset/Index.md)
       - **head**
-        - [index](html/element/head/index.md)
+        - [index](Html/Element/Head/Index.md)
       - **header**
-        - [index](html/element/header/index.md)
+        - [index](Html/Element/Header/Index.md)
       - **heading_elements**
-        - [index](html/element/heading_elements/index.md)
+        - [index](Html/Element/Heading_Elements/Index.md)
       - **hgroup**
-        - [index](html/element/hgroup/index.md)
+        - [index](Html/Element/Hgroup/Index.md)
       - **hr**
-        - [index](html/element/hr/index.md)
+        - [index](Html/Element/Hr/Index.md)
       - **html**
-        - [index](html/element/html/index.md)
+        - [index](Html/Element/Html/Index.md)
         - **manifest**
-          - [index](html/element/html/manifest/index.md)
+          - [index](Html/Element/Html/Manifest/Index.md)
       - **i**
-        - [index](html/element/i/index.md)
+        - [index](Html/Element/I/Index.md)
       - **iframe**
-        - [index](html/element/iframe/index.md)
+        - [index](Html/Element/Iframe/Index.md)
       - **image**
-        - [index](html/element/image/index.md)
+        - [index](Html/Element/Image/Index.md)
       - **img**
-        - [index](html/element/img/index.md)
-      - [index](html/element/index.md)
+        - [index](Html/Element/Img/Index.md)
+      - [index](Html/Element/Index.md)
       - **input**
         - **button**
-          - [index](html/element/input/button/index.md)
+          - [index](Html/Element/Input/Button/Index.md)
         - **checkbox**
-          - [index](html/element/input/checkbox/index.md)
+          - [index](Html/Element/Input/Checkbox/Index.md)
         - **color**
-          - [index](html/element/input/color/index.md)
+          - [index](Html/Element/Input/Color/Index.md)
         - **date**
-          - [index](html/element/input/date/index.md)
+          - [index](Html/Element/Input/Date/Index.md)
         - **datetime-local**
-          - [index](html/element/input/datetime-local/index.md)
+          - [index](Html/Element/Input/Datetime-Local/Index.md)
         - **email**
-          - [index](html/element/input/email/index.md)
+          - [index](Html/Element/Input/Email/Index.md)
         - **file**
-          - [index](html/element/input/file/index.md)
+          - [index](Html/Element/Input/File/Index.md)
         - **hidden**
-          - [index](html/element/input/hidden/index.md)
+          - [index](Html/Element/Input/Hidden/Index.md)
         - **image**
-          - [index](html/element/input/image/index.md)
-        - [index](html/element/input/index.md)
+          - [index](Html/Element/Input/Image/Index.md)
+        - [index](Html/Element/Input/Index.md)
         - **month**
-          - [index](html/element/input/month/index.md)
+          - [index](Html/Element/Input/Month/Index.md)
         - **number**
-          - [index](html/element/input/number/index.md)
+          - [index](Html/Element/Input/Number/Index.md)
         - **password**
-          - [index](html/element/input/password/index.md)
+          - [index](Html/Element/Input/Password/Index.md)
         - **radio**
-          - [index](html/element/input/radio/index.md)
+          - [index](Html/Element/Input/Radio/Index.md)
         - **range**
-          - [index](html/element/input/range/index.md)
+          - [index](Html/Element/Input/Range/Index.md)
         - **reset**
-          - [index](html/element/input/reset/index.md)
+          - [index](Html/Element/Input/Reset/Index.md)
         - **search**
-          - [index](html/element/input/search/index.md)
+          - [index](Html/Element/Input/Search/Index.md)
         - **submit**
-          - [index](html/element/input/submit/index.md)
+          - [index](Html/Element/Input/Submit/Index.md)
         - **tel**
-          - [index](html/element/input/tel/index.md)
+          - [index](Html/Element/Input/Tel/Index.md)
         - **text**
-          - [index](html/element/input/text/index.md)
+          - [index](Html/Element/Input/Text/Index.md)
         - **time**
-          - [index](html/element/input/time/index.md)
+          - [index](Html/Element/Input/Time/Index.md)
         - **url**
-          - [index](html/element/input/url/index.md)
+          - [index](Html/Element/Input/Url/Index.md)
         - **week**
-          - [index](html/element/input/week/index.md)
+          - [index](Html/Element/Input/Week/Index.md)
       - **ins**
-        - [index](html/element/ins/index.md)
+        - [index](Html/Element/Ins/Index.md)
       - **kbd**
-        - [index](html/element/kbd/index.md)
+        - [index](Html/Element/Kbd/Index.md)
       - **keygen**
-        - [index](html/element/keygen/index.md)
+        - [index](Html/Element/Keygen/Index.md)
       - **label**
-        - [index](html/element/label/index.md)
+        - [index](Html/Element/Label/Index.md)
       - **legend**
-        - [index](html/element/legend/index.md)
+        - [index](Html/Element/Legend/Index.md)
       - **li**
-        - [index](html/element/li/index.md)
+        - [index](Html/Element/Li/Index.md)
       - **link**
-        - [index](html/element/link/index.md)
+        - [index](Html/Element/Link/Index.md)
       - **main**
-        - [index](html/element/main/index.md)
+        - [index](Html/Element/Main/Index.md)
       - **map**
-        - [index](html/element/map/index.md)
+        - [index](Html/Element/Map/Index.md)
       - **mark**
-        - [index](html/element/mark/index.md)
+        - [index](Html/Element/Mark/Index.md)
       - **marquee**
-        - [index](html/element/marquee/index.md)
+        - [index](Html/Element/Marquee/Index.md)
       - **menu**
-        - [index](html/element/menu/index.md)
+        - [index](Html/Element/Menu/Index.md)
       - **menuitem**
-        - [index](html/element/menuitem/index.md)
+        - [index](Html/Element/Menuitem/Index.md)
       - **meta**
-        - [index](html/element/meta/index.md)
+        - [index](Html/Element/Meta/Index.md)
         - **name**
-          - [index](html/element/meta/name/index.md)
+          - [index](Html/Element/Meta/Name/Index.md)
           - **theme-color**
-            - [index](html/element/meta/name/theme-color/index.md)
+            - [index](Html/Element/Meta/Name/Theme-Color/Index.md)
       - **meter**
-        - [index](html/element/meter/index.md)
+        - [index](Html/Element/Meter/Index.md)
       - **nav**
-        - [index](html/element/nav/index.md)
+        - [index](Html/Element/Nav/Index.md)
       - **nobr**
-        - [index](html/element/nobr/index.md)
+        - [index](Html/Element/Nobr/Index.md)
       - **noembed**
-        - [index](html/element/noembed/index.md)
+        - [index](Html/Element/Noembed/Index.md)
       - **noframes**
-        - [index](html/element/noframes/index.md)
+        - [index](Html/Element/Noframes/Index.md)
       - **noscript**
-        - [index](html/element/noscript/index.md)
+        - [index](Html/Element/Noscript/Index.md)
       - **object**
-        - [index](html/element/object/index.md)
+        - [index](Html/Element/Object/Index.md)
       - **ol**
-        - [index](html/element/ol/index.md)
+        - [index](Html/Element/Ol/Index.md)
       - **optgroup**
-        - [index](html/element/optgroup/index.md)
+        - [index](Html/Element/Optgroup/Index.md)
       - **option**
-        - [index](html/element/option/index.md)
+        - [index](Html/Element/Option/Index.md)
       - **output**
-        - [index](html/element/output/index.md)
+        - [index](Html/Element/Output/Index.md)
       - **p**
-        - [index](html/element/p/index.md)
+        - [index](Html/Element/P/Index.md)
       - **param**
-        - [index](html/element/param/index.md)
+        - [index](Html/Element/Param/Index.md)
       - **picture**
-        - [index](html/element/picture/index.md)
+        - [index](Html/Element/Picture/Index.md)
       - **plaintext**
-        - [index](html/element/plaintext/index.md)
+        - [index](Html/Element/Plaintext/Index.md)
       - **portal**
-        - [index](html/element/portal/index.md)
+        - [index](Html/Element/Portal/Index.md)
       - **pre**
-        - [index](html/element/pre/index.md)
+        - [index](Html/Element/Pre/Index.md)
       - **progress**
-        - [index](html/element/progress/index.md)
+        - [index](Html/Element/Progress/Index.md)
       - **q**
-        - [index](html/element/q/index.md)
+        - [index](Html/Element/Q/Index.md)
       - **rb**
-        - [index](html/element/rb/index.md)
+        - [index](Html/Element/Rb/Index.md)
       - **rp**
-        - [index](html/element/rp/index.md)
+        - [index](Html/Element/Rp/Index.md)
       - **rt**
-        - [index](html/element/rt/index.md)
+        - [index](Html/Element/Rt/Index.md)
       - **rtc**
-        - [index](html/element/rtc/index.md)
+        - [index](Html/Element/Rtc/Index.md)
       - **ruby**
-        - [index](html/element/ruby/index.md)
+        - [index](Html/Element/Ruby/Index.md)
       - **s**
-        - [index](html/element/s/index.md)
+        - [index](Html/Element/S/Index.md)
       - **samp**
-        - [index](html/element/samp/index.md)
+        - [index](Html/Element/Samp/Index.md)
       - **script**
-        - [index](html/element/script/index.md)
+        - [index](Html/Element/Script/Index.md)
       - **section**
-        - [index](html/element/section/index.md)
+        - [index](Html/Element/Section/Index.md)
       - **select**
-        - [index](html/element/select/index.md)
+        - [index](Html/Element/Select/Index.md)
       - **shadow**
-        - [index](html/element/shadow/index.md)
+        - [index](Html/Element/Shadow/Index.md)
       - **slot**
-        - [index](html/element/slot/index.md)
+        - [index](Html/Element/Slot/Index.md)
       - **small**
-        - [index](html/element/small/index.md)
+        - [index](Html/Element/Small/Index.md)
       - **source**
-        - [index](html/element/source/index.md)
+        - [index](Html/Element/Source/Index.md)
       - **spacer**
-        - [index](html/element/spacer/index.md)
+        - [index](Html/Element/Spacer/Index.md)
       - **span**
-        - [index](html/element/span/index.md)
+        - [index](Html/Element/Span/Index.md)
       - **strike**
-        - [index](html/element/strike/index.md)
+        - [index](Html/Element/Strike/Index.md)
       - **strong**
-        - [index](html/element/strong/index.md)
+        - [index](Html/Element/Strong/Index.md)
       - **style**
-        - [index](html/element/style/index.md)
+        - [index](Html/Element/Style/Index.md)
       - **sub**
-        - [index](html/element/sub/index.md)
+        - [index](Html/Element/Sub/Index.md)
       - **summary**
-        - [index](html/element/summary/index.md)
+        - [index](Html/Element/Summary/Index.md)
       - **sup**
-        - [index](html/element/sup/index.md)
+        - [index](Html/Element/Sup/Index.md)
       - **table**
-        - [index](html/element/table/index.md)
+        - [index](Html/Element/Table/Index.md)
       - **tbody**
-        - [index](html/element/tbody/index.md)
+        - [index](Html/Element/Tbody/Index.md)
       - **td**
-        - [index](html/element/td/index.md)
+        - [index](Html/Element/Td/Index.md)
       - **template**
-        - [index](html/element/template/index.md)
+        - [index](Html/Element/Template/Index.md)
       - **textarea**
-        - [index](html/element/textarea/index.md)
+        - [index](Html/Element/Textarea/Index.md)
       - **tfoot**
-        - [index](html/element/tfoot/index.md)
+        - [index](Html/Element/Tfoot/Index.md)
       - **th**
-        - [index](html/element/th/index.md)
+        - [index](Html/Element/Th/Index.md)
       - **thead**
-        - [index](html/element/thead/index.md)
+        - [index](Html/Element/Thead/Index.md)
       - **time**
-        - [index](html/element/time/index.md)
+        - [index](Html/Element/Time/Index.md)
       - **title**
-        - [index](html/element/title/index.md)
+        - [index](Html/Element/Title/Index.md)
       - **tr**
-        - [index](html/element/tr/index.md)
+        - [index](Html/Element/Tr/Index.md)
       - **track**
-        - [index](html/element/track/index.md)
+        - [index](Html/Element/Track/Index.md)
       - **tt**
-        - [index](html/element/tt/index.md)
+        - [index](Html/Element/Tt/Index.md)
       - **u**
-        - [index](html/element/u/index.md)
+        - [index](Html/Element/U/Index.md)
       - **ul**
-        - [index](html/element/ul/index.md)
+        - [index](Html/Element/Ul/Index.md)
       - **var**
-        - [index](html/element/var/index.md)
+        - [index](Html/Element/Var/Index.md)
       - **video**
-        - [index](html/element/video/index.md)
+        - [index](Html/Element/Video/Index.md)
       - **wbr**
-        - [index](html/element/wbr/index.md)
+        - [index](Html/Element/Wbr/Index.md)
       - **xmp**
-        - [index](html/element/xmp/index.md)
+        - [index](Html/Element/Xmp/Index.md)
     - **global_attributes**
       - **accesskey**
-        - [index](html/global_attributes/accesskey/index.md)
+        - [index](Html/Global_Attributes/Accesskey/Index.md)
       - **autocapitalize**
-        - [index](html/global_attributes/autocapitalize/index.md)
+        - [index](Html/Global_Attributes/Autocapitalize/Index.md)
       - **autofocus**
-        - [index](html/global_attributes/autofocus/index.md)
+        - [index](Html/Global_Attributes/Autofocus/Index.md)
       - **class**
-        - [index](html/global_attributes/class/index.md)
+        - [index](Html/Global_Attributes/Class/Index.md)
       - **contenteditable**
-        - [index](html/global_attributes/contenteditable/index.md)
+        - [index](Html/Global_Attributes/Contenteditable/Index.md)
       - **contextmenu**
-        - [index](html/global_attributes/contextmenu/index.md)
+        - [index](Html/Global_Attributes/Contextmenu/Index.md)
       - **data-_star_**
-        - [index](html/global_attributes/data-_star_/index.md)
+        - [index](Html/Global_Attributes/Data-_Star_/Index.md)
       - **dir**
-        - [index](html/global_attributes/dir/index.md)
+        - [index](Html/Global_Attributes/Dir/Index.md)
       - **draggable**
-        - [index](html/global_attributes/draggable/index.md)
+        - [index](Html/Global_Attributes/Draggable/Index.md)
       - **enterkeyhint**
-        - [index](html/global_attributes/enterkeyhint/index.md)
+        - [index](Html/Global_Attributes/Enterkeyhint/Index.md)
       - **exportparts**
-        - [index](html/global_attributes/exportparts/index.md)
+        - [index](Html/Global_Attributes/Exportparts/Index.md)
       - **hidden**
-        - [index](html/global_attributes/hidden/index.md)
+        - [index](Html/Global_Attributes/Hidden/Index.md)
       - **id**
-        - [index](html/global_attributes/id/index.md)
-      - [index](html/global_attributes/index.md)
+        - [index](Html/Global_Attributes/Id/Index.md)
+      - [index](Html/Global_Attributes/Index.md)
       - **inert**
-        - [index](html/global_attributes/inert/index.md)
+        - [index](Html/Global_Attributes/Inert/Index.md)
       - **inputmode**
-        - [index](html/global_attributes/inputmode/index.md)
+        - [index](Html/Global_Attributes/Inputmode/Index.md)
       - **is**
-        - [index](html/global_attributes/is/index.md)
+        - [index](Html/Global_Attributes/Is/Index.md)
       - **itemid**
-        - [index](html/global_attributes/itemid/index.md)
+        - [index](Html/Global_Attributes/Itemid/Index.md)
       - **itemprop**
-        - [index](html/global_attributes/itemprop/index.md)
+        - [index](Html/Global_Attributes/Itemprop/Index.md)
       - **itemref**
-        - [index](html/global_attributes/itemref/index.md)
+        - [index](Html/Global_Attributes/Itemref/Index.md)
       - **itemscope**
-        - [index](html/global_attributes/itemscope/index.md)
+        - [index](Html/Global_Attributes/Itemscope/Index.md)
       - **itemtype**
-        - [index](html/global_attributes/itemtype/index.md)
+        - [index](Html/Global_Attributes/Itemtype/Index.md)
       - **lang**
-        - [index](html/global_attributes/lang/index.md)
+        - [index](Html/Global_Attributes/Lang/Index.md)
       - **nonce**
-        - [index](html/global_attributes/nonce/index.md)
+        - [index](Html/Global_Attributes/Nonce/Index.md)
       - **part**
-        - [index](html/global_attributes/part/index.md)
+        - [index](Html/Global_Attributes/Part/Index.md)
       - **slot**
-        - [index](html/global_attributes/slot/index.md)
+        - [index](Html/Global_Attributes/Slot/Index.md)
       - **spellcheck**
-        - [index](html/global_attributes/spellcheck/index.md)
+        - [index](Html/Global_Attributes/Spellcheck/Index.md)
       - **style**
-        - [index](html/global_attributes/style/index.md)
+        - [index](Html/Global_Attributes/Style/Index.md)
       - **tabindex**
-        - [index](html/global_attributes/tabindex/index.md)
+        - [index](Html/Global_Attributes/Tabindex/Index.md)
       - **title**
-        - [index](html/global_attributes/title/index.md)
+        - [index](Html/Global_Attributes/Title/Index.md)
       - **translate**
-        - [index](html/global_attributes/translate/index.md)
+        - [index](Html/Global_Attributes/Translate/Index.md)
       - **x-ms-acceleratorkey**
-        - [index](html/global_attributes/x-ms-acceleratorkey/index.md)
+        - [index](Html/Global_Attributes/X-Ms-Acceleratorkey/Index.md)
       - **x-ms-format-detection**
-        - [index](html/global_attributes/x-ms-format-detection/index.md)
+        - [index](Html/Global_Attributes/X-Ms-Format-Detection/Index.md)
     - **html5**
       - **cheatsheet**
-        - [index](html/html5/cheatsheet/index.md)
+        - [index](Html/Html5/Cheatsheet/Index.md)
       - **howto**
         - **add_a_hit_map_on_top_of_an_image**
-          - [index](html/html5/howto/add_a_hit_map_on_top_of_an_image/index.md)
+          - [index](Html/Html5/Howto/Add_A_Hit_Map_On_Top_Of_An_Image/Index.md)
         - **author_fast-loading_html_pages**
-          - [index](html/html5/howto/author_fast-loading_html_pages/index.md)
+          - [index](Html/Html5/Howto/Author_Fast-Loading_Html_Pages/Index.md)
         - **define_terms_with_html**
-          - [index](html/html5/howto/define_terms_with_html/index.md)
-        - [index](html/html5/howto/index.md)
+          - [index](Html/Html5/Howto/Define_Terms_With_Html/Index.md)
+        - [index](Html/Html5/Howto/Index.md)
         - **use_data_attributes**
-          - [index](html/html5/howto/use_data_attributes/index.md)
+          - [index](Html/Html5/Howto/Use_Data_Attributes/Index.md)
         - **use_javascript_within_a_webpage**
-          - [index](html/html5/howto/use_javascript_within_a_webpage/index.md)
-      - [html2index](html/html5/html2index.md)
-      - [htmlindex](html/html5/htmlindex.md)
-      - [index 1](html/html5/index%201.md)
-      - [index](html/html5/index.md)
+          - [index](Html/Html5/Howto/Use_Javascript_Within_A_Webpage/Index.md)
+      - [html2index](Html/Html5/Html2Index.md)
+      - [htmlindex](Html/Html5/Htmlindex.md)
+      - [index 1](Html/Html5/Index%201.md)
+      - [index](Html/Html5/Index.md)
       - **introduction_to_html**
         - **advanced_text_formatting**
-          - [index](html/html5/introduction_to_html/advanced_text_formatting/index.md)
+          - [index](Html/Html5/Introduction_To_Html/Advanced_Text_Formatting/Index.md)
         - **creating_hyperlinks**
-          - [index](html/html5/introduction_to_html/creating_hyperlinks/index.md)
+          - [index](Html/Html5/Introduction_To_Html/Creating_Hyperlinks/Index.md)
         - **debugging_html**
-          - [index](html/html5/introduction_to_html/debugging_html/index.md)
+          - [index](Html/Html5/Introduction_To_Html/Debugging_Html/Index.md)
         - **document_and_website_structure**
-          - [index](html/html5/introduction_to_html/document_and_website_structure/index.md)
+          - [index](Html/Html5/Introduction_To_Html/Document_And_Website_Structure/Index.md)
         - **getting_started**
-          - [index](html/html5/introduction_to_html/getting_started/index.md)
+          - [index](Html/Html5/Introduction_To_Html/Getting_Started/Index.md)
         - **html_text_fundamentals**
-          - [index](html/html5/introduction_to_html/html_text_fundamentals/index.md)
-        - [index](html/html5/introduction_to_html/index.md)
+          - [index](Html/Html5/Introduction_To_Html/Html_Text_Fundamentals/Index.md)
+        - [index](Html/Html5/Introduction_To_Html/Index.md)
         - **marking_up_a_letter**
-          - [index](html/html5/introduction_to_html/marking_up_a_letter/index.md)
+          - [index](Html/Html5/Introduction_To_Html/Marking_Up_A_Letter/Index.md)
         - **structuring_a_page_of_content**
-          - [index](html/html5/introduction_to_html/structuring_a_page_of_content/index.md)
+          - [index](Html/Html5/Introduction_To_Html/Structuring_A_Page_Of_Content/Index.md)
         - **test_your_skills_colon__advanced_html_text**
-          - [index](html/html5/introduction_to_html/test_your_skills_colon__advanced_html_text/index.md)
+          - [index](Html/Html5/Introduction_To_Html/Test_Your_Skills_Colon__Advanced_Html_Text/Index.md)
         - **test_your_skills_colon__html_text_basics**
-          - [index](html/html5/introduction_to_html/test_your_skills_colon__html_text_basics/index.md)
+          - [index](Html/Html5/Introduction_To_Html/Test_Your_Skills_Colon__Html_Text_Basics/Index.md)
         - **test_your_skills_colon__links**
-          - [index](html/html5/introduction_to_html/test_your_skills_colon__links/index.md)
+          - [index](Html/Html5/Introduction_To_Html/Test_Your_Skills_Colon__Links/Index.md)
         - **the_head_metadata_in_html**
-          - [index](html/html5/introduction_to_html/the_head_metadata_in_html/index.md)
+          - [index](Html/Html5/Introduction_To_Html/The_Head_Metadata_In_Html/Index.md)
       - **multimedia_and_embedding**
         - **adding_vector_graphics_to_the_web**
-          - [index](html/html5/multimedia_and_embedding/adding_vector_graphics_to_the_web/index.md)
+          - [index](Html/Html5/Multimedia_And_Embedding/Adding_Vector_Graphics_To_The_Web/Index.md)
         - **images_in_html**
-          - [index](html/html5/multimedia_and_embedding/images_in_html/index.md)
+          - [index](Html/Html5/Multimedia_And_Embedding/Images_In_Html/Index.md)
           - **test_your_skills_colon__html_images**
-            - [index](html/html5/multimedia_and_embedding/images_in_html/test_your_skills_colon__html_images/index.md)
-        - [index](html/html5/multimedia_and_embedding/index.md)
+            - [index](Html/Html5/Multimedia_And_Embedding/Images_In_Html/Test_Your_Skills_Colon__Html_Images/Index.md)
+        - [index](Html/Html5/Multimedia_And_Embedding/Index.md)
         - **mozilla_splash_page**
-          - [index](html/html5/multimedia_and_embedding/mozilla_splash_page/index.md)
+          - [index](Html/Html5/Multimedia_And_Embedding/Mozilla_Splash_Page/Index.md)
         - **other_embedding_technologies**
-          - [index](html/html5/multimedia_and_embedding/other_embedding_technologies/index.md)
+          - [index](Html/Html5/Multimedia_And_Embedding/Other_Embedding_Technologies/Index.md)
         - **responsive_images**
-          - [index](html/html5/multimedia_and_embedding/responsive_images/index.md)
+          - [index](Html/Html5/Multimedia_And_Embedding/Responsive_Images/Index.md)
         - **video_and_audio_content**
-          - [index](html/html5/multimedia_and_embedding/video_and_audio_content/index.md)
+          - [index](Html/Html5/Multimedia_And_Embedding/Video_And_Audio_Content/Index.md)
           - **test_your_skills_colon__multimedia_and_embedding**
-            - [index](html/html5/multimedia_and_embedding/video_and_audio_content/test_your_skills_colon__multimedia_and_embedding/index.md)
+            - [index](Html/Html5/Multimedia_And_Embedding/Video_And_Audio_Content/Test_Your_Skills_Colon__Multimedia_And_Embedding/Index.md)
       - **tables**
         - **advanced**
-          - [index](html/html5/tables/advanced/index.md)
+          - [index](Html/Html5/Tables/Advanced/Index.md)
         - **basics**
-          - [index](html/html5/tables/basics/index.md)
-        - [index](html/html5/tables/index.md)
+          - [index](Html/Html5/Tables/Basics/Index.md)
+        - [index](Html/Html5/Tables/Index.md)
         - **structuring_planet_data**
-          - [index](html/html5/tables/structuring_planet_data/index.md)
+          - [index](Html/Html5/Tables/Structuring_Planet_Data/Index.md)
     - **inline_elements**
-      - [index](html/inline_elements/index.md)
+      - [index](Html/Inline_Elements/Index.md)
     - **link_types**
       - **dns-prefetch**
-        - [index](html/link_types/dns-prefetch/index.md)
-      - [index](html/link_types/index.md)
+        - [index](Html/Link_Types/Dns-Prefetch/Index.md)
+      - [index](Html/Link_Types/Index.md)
       - **manifest**
-        - [index](html/link_types/manifest/index.md)
+        - [index](Html/Link_Types/Manifest/Index.md)
       - **me**
-        - [index](html/link_types/me/index.md)
+        - [index](Html/Link_Types/Me/Index.md)
       - **modulepreload**
-        - [index](html/link_types/modulepreload/index.md)
+        - [index](Html/Link_Types/Modulepreload/Index.md)
       - **noopener**
-        - [index](html/link_types/noopener/index.md)
+        - [index](Html/Link_Types/Noopener/Index.md)
       - **noreferrer**
-        - [index](html/link_types/noreferrer/index.md)
+        - [index](Html/Link_Types/Noreferrer/Index.md)
       - **preconnect**
-        - [index](html/link_types/preconnect/index.md)
+        - [index](Html/Link_Types/Preconnect/Index.md)
       - **prefetch**
-        - [index](html/link_types/prefetch/index.md)
+        - [index](Html/Link_Types/Prefetch/Index.md)
       - **preload**
-        - [index](html/link_types/preload/index.md)
+        - [index](Html/Link_Types/Preload/Index.md)
       - **prerender**
-        - [index](html/link_types/prerender/index.md)
+        - [index](Html/Link_Types/Prerender/Index.md)
     - **microdata**
-      - [index](html/microdata/index.md)
+      - [index](Html/Microdata/Index.md)
     - **microformats**
-      - [index](html/microformats/index.md)
+      - [index](Html/Microformats/Index.md)
     - **quirks_mode_and_standards_mode**
-      - [index](html/quirks_mode_and_standards_mode/index.md)
+      - [index](Html/Quirks_Mode_And_Standards_Mode/Index.md)
     - **reference**
-      - [index](html/reference/index.md)
+      - [index](Html/Reference/Index.md)
     - **viewport_meta_tag**
-      - [index](html/viewport_meta_tag/index.md)
+      - [index](Html/Viewport_Meta_Tag/Index.md)
   - **http**
     - **authentication**
-      - [index](http/authentication/index.md)
+      - [index](Http/Authentication/Index.md)
     - **basics_of_http**
       - **choosing_between_www_and_non-www_urls**
-        - [index](http/basics_of_http/choosing_between_www_and_non-www_urls/index.md)
+        - [index](Http/Basics_Of_Http/Choosing_Between_Www_And_Non-Www_Urls/Index.md)
       - **data_urls**
-        - [index](http/basics_of_http/data_urls/index.md)
+        - [index](Http/Basics_Of_Http/Data_Urls/Index.md)
       - **evolution_of_http**
-        - [index](http/basics_of_http/evolution_of_http/index.md)
+        - [index](Http/Basics_Of_Http/Evolution_Of_Http/Index.md)
       - **identifying_resources_on_the_web**
-        - [index](http/basics_of_http/identifying_resources_on_the_web/index.md)
-      - [index](http/basics_of_http/index.md)
+        - [index](Http/Basics_Of_Http/Identifying_Resources_On_The_Web/Index.md)
+      - [index](Http/Basics_Of_Http/Index.md)
       - **mime_types**
         - **common_types**
-          - [index](http/basics_of_http/mime_types/common_types/index.md)
-        - [index](http/basics_of_http/mime_types/index.md)
+          - [index](Http/Basics_Of_Http/Mime_Types/Common_Types/Index.md)
+        - [index](Http/Basics_Of_Http/Mime_Types/Index.md)
       - **resource_urls**
-        - [index](http/basics_of_http/resource_urls/index.md)
+        - [index](Http/Basics_Of_Http/Resource_Urls/Index.md)
     - **browser_detection_using_the_user_agent**
-      - [index](http/browser_detection_using_the_user_agent/index.md)
+      - [index](Http/Browser_Detection_Using_The_User_Agent/Index.md)
     - **caching**
-      - [index](http/caching/index.md)
+      - [index](Http/Caching/Index.md)
     - **client_hints**
-      - [index](http/client_hints/index.md)
+      - [index](Http/Client_Hints/Index.md)
     - **compression**
-      - [index](http/compression/index.md)
+      - [index](Http/Compression/Index.md)
     - **conditional_requests**
-      - [index](http/conditional_requests/index.md)
+      - [index](Http/Conditional_Requests/Index.md)
     - **configuring_servers_for_ogg_media**
-      - [index](http/configuring_servers_for_ogg_media/index.md)
+      - [index](Http/Configuring_Servers_For_Ogg_Media/Index.md)
     - **connection_management_in_http_1.x**
-      - [index](http/connection_management_in_http_1.x/index.md)
+      - [index](Http/Connection_Management_In_Http_1.x/Index.md)
     - **content_negotiation**
-      - [index](http/content_negotiation/index.md)
+      - [index](Http/Content_Negotiation/Index.md)
       - **list_of_default_accept_values**
-        - [index](http/content_negotiation/list_of_default_accept_values/index.md)
+        - [index](Http/Content_Negotiation/List_Of_Default_Accept_Values/Index.md)
     - **cookies**
-      - [index](http/cookies/index.md)
+      - [index](Http/Cookies/Index.md)
     - **cors**
       - **errors**
         - **corsalloworiginnotmatchingorigin**
-          - [index](http/cors/errors/corsalloworiginnotmatchingorigin/index.md)
+          - [index](Http/Cors/Errors/Corsalloworiginnotmatchingorigin/Index.md)
         - **corsdidnotsucceed**
-          - [index](http/cors/errors/corsdidnotsucceed/index.md)
+          - [index](Http/Cors/Errors/Corsdidnotsucceed/Index.md)
         - **corsdisabled**
-          - [index](http/cors/errors/corsdisabled/index.md)
+          - [index](Http/Cors/Errors/Corsdisabled/Index.md)
         - **corsexternalredirectnotallowed**
-          - [index](http/cors/errors/corsexternalredirectnotallowed/index.md)
+          - [index](Http/Cors/Errors/Corsexternalredirectnotallowed/Index.md)
         - **corsinvalidallowheader**
-          - [index](http/cors/errors/corsinvalidallowheader/index.md)
+          - [index](Http/Cors/Errors/Corsinvalidallowheader/Index.md)
         - **corsinvalidallowmethod**
-          - [index](http/cors/errors/corsinvalidallowmethod/index.md)
+          - [index](Http/Cors/Errors/Corsinvalidallowmethod/Index.md)
         - **corsmethodnotfound**
-          - [index](http/cors/errors/corsmethodnotfound/index.md)
+          - [index](Http/Cors/Errors/Corsmethodnotfound/Index.md)
         - **corsmissingallowcredentials**
-          - [index](http/cors/errors/corsmissingallowcredentials/index.md)
+          - [index](Http/Cors/Errors/Corsmissingallowcredentials/Index.md)
         - **corsmissingallowheaderfrompreflight**
-          - [index](http/cors/errors/corsmissingallowheaderfrompreflight/index.md)
+          - [index](Http/Cors/Errors/Corsmissingallowheaderfrompreflight/Index.md)
         - **corsmissingalloworigin**
-          - [index](http/cors/errors/corsmissingalloworigin/index.md)
+          - [index](Http/Cors/Errors/Corsmissingalloworigin/Index.md)
         - **corsmultiplealloworiginnotallowed**
-          - [index](http/cors/errors/corsmultiplealloworiginnotallowed/index.md)
+          - [index](Http/Cors/Errors/Corsmultiplealloworiginnotallowed/Index.md)
         - **corsnotsupportingcredentials**
-          - [index](http/cors/errors/corsnotsupportingcredentials/index.md)
+          - [index](Http/Cors/Errors/Corsnotsupportingcredentials/Index.md)
         - **corsoriginheadernotadded**
-          - [index](http/cors/errors/corsoriginheadernotadded/index.md)
+          - [index](Http/Cors/Errors/Corsoriginheadernotadded/Index.md)
         - **corspreflightdidnotsucceed**
-          - [index](http/cors/errors/corspreflightdidnotsucceed/index.md)
+          - [index](Http/Cors/Errors/Corspreflightdidnotsucceed/Index.md)
         - **corsrequestnothttp**
-          - [index](http/cors/errors/corsrequestnothttp/index.md)
-        - [index](http/cors/errors/index.md)
-      - [index](http/cors/index.md)
+          - [index](Http/Cors/Errors/Corsrequestnothttp/Index.md)
+        - [index](Http/Cors/Errors/Index.md)
+      - [index](Http/Cors/Index.md)
     - **cross-origin_resource_policy_(corp)**
-      - [index](http/cross-origin_resource_policy_(corp)/index.md)
+      - [index](Http/Cross-Origin_Resource_Policy_(Corp)/Index.md)
     - **csp**
       - **errors**
         - **cspviolation**
-          - [index](http/csp/errors/cspviolation/index.md)
-        - [index](http/csp/errors/index.md)
-      - [index](http/csp/index.md)
+          - [index](Http/Csp/Errors/Cspviolation/Index.md)
+        - [index](Http/Csp/Errors/Index.md)
+      - [index](Http/Csp/Index.md)
     - **feature_policy**
-      - [index](http/feature_policy/index.md)
+      - [index](Http/Feature_Policy/Index.md)
       - **using_feature_policy**
-        - [index](http/feature_policy/using_feature_policy/index.md)
+        - [index](Http/Feature_Policy/Using_Feature_Policy/Index.md)
     - **headers**
       - **accept**
-        - [index](http/headers/accept/index.md)
+        - [index](Http/Headers/Accept/Index.md)
       - **accept-ch**
-        - [index](http/headers/accept-ch/index.md)
+        - [index](Http/Headers/Accept-Ch/Index.md)
       - **accept-ch-lifetime**
-        - [index](http/headers/accept-ch-lifetime/index.md)
+        - [index](Http/Headers/Accept-Ch-Lifetime/Index.md)
       - **accept-charset**
-        - [index](http/headers/accept-charset/index.md)
+        - [index](Http/Headers/Accept-Charset/Index.md)
       - **accept-encoding**
-        - [index](http/headers/accept-encoding/index.md)
+        - [index](Http/Headers/Accept-Encoding/Index.md)
       - **accept-language**
-        - [index](http/headers/accept-language/index.md)
+        - [index](Http/Headers/Accept-Language/Index.md)
       - **accept-patch**
-        - [index](http/headers/accept-patch/index.md)
+        - [index](Http/Headers/Accept-Patch/Index.md)
       - **accept-post**
-        - [index](http/headers/accept-post/index.md)
+        - [index](Http/Headers/Accept-Post/Index.md)
       - **accept-ranges**
-        - [index](http/headers/accept-ranges/index.md)
+        - [index](Http/Headers/Accept-Ranges/Index.md)
       - **access-control-allow-credentials**
-        - [index](http/headers/access-control-allow-credentials/index.md)
+        - [index](Http/Headers/Access-Control-Allow-Credentials/Index.md)
       - **access-control-allow-headers**
-        - [index](http/headers/access-control-allow-headers/index.md)
+        - [index](Http/Headers/Access-Control-Allow-Headers/Index.md)
       - **access-control-allow-methods**
-        - [index](http/headers/access-control-allow-methods/index.md)
+        - [index](Http/Headers/Access-Control-Allow-Methods/Index.md)
       - **access-control-allow-origin**
-        - [index](http/headers/access-control-allow-origin/index.md)
+        - [index](Http/Headers/Access-Control-Allow-Origin/Index.md)
       - **access-control-expose-headers**
-        - [index](http/headers/access-control-expose-headers/index.md)
+        - [index](Http/Headers/Access-Control-Expose-Headers/Index.md)
       - **access-control-max-age**
-        - [index](http/headers/access-control-max-age/index.md)
+        - [index](Http/Headers/Access-Control-Max-Age/Index.md)
       - **access-control-request-headers**
-        - [index](http/headers/access-control-request-headers/index.md)
+        - [index](Http/Headers/Access-Control-Request-Headers/Index.md)
       - **access-control-request-method**
-        - [index](http/headers/access-control-request-method/index.md)
+        - [index](Http/Headers/Access-Control-Request-Method/Index.md)
       - **age**
-        - [index](http/headers/age/index.md)
+        - [index](Http/Headers/Age/Index.md)
       - **allow**
-        - [index](http/headers/allow/index.md)
+        - [index](Http/Headers/Allow/Index.md)
       - **alt-svc**
-        - [index](http/headers/alt-svc/index.md)
+        - [index](Http/Headers/Alt-Svc/Index.md)
       - **authorization**
-        - [index](http/headers/authorization/index.md)
+        - [index](Http/Headers/Authorization/Index.md)
       - **cache-control**
-        - [index](http/headers/cache-control/index.md)
+        - [index](Http/Headers/Cache-Control/Index.md)
       - **clear-site-data**
-        - [index](http/headers/clear-site-data/index.md)
+        - [index](Http/Headers/Clear-Site-Data/Index.md)
       - **connection**
-        - [index](http/headers/connection/index.md)
+        - [index](Http/Headers/Connection/Index.md)
       - **content-disposition**
-        - [index](http/headers/content-disposition/index.md)
+        - [index](Http/Headers/Content-Disposition/Index.md)
       - **content-dpr**
-        - [index](http/headers/content-dpr/index.md)
+        - [index](Http/Headers/Content-Dpr/Index.md)
       - **content-encoding**
-        - [index](http/headers/content-encoding/index.md)
+        - [index](Http/Headers/Content-Encoding/Index.md)
       - **content-language**
-        - [index](http/headers/content-language/index.md)
+        - [index](Http/Headers/Content-Language/Index.md)
       - **content-length**
-        - [index](http/headers/content-length/index.md)
+        - [index](Http/Headers/Content-Length/Index.md)
       - **content-location**
-        - [index](http/headers/content-location/index.md)
+        - [index](Http/Headers/Content-Location/Index.md)
       - **content-range**
-        - [index](http/headers/content-range/index.md)
+        - [index](Http/Headers/Content-Range/Index.md)
       - **content-security-policy**
         - **base-uri**
-          - [index](http/headers/content-security-policy/base-uri/index.md)
+          - [index](Http/Headers/Content-Security-Policy/Base-Uri/Index.md)
         - **block-all-mixed-content**
-          - [index](http/headers/content-security-policy/block-all-mixed-content/index.md)
+          - [index](Http/Headers/Content-Security-Policy/Block-All-Mixed-Content/Index.md)
         - **child-src**
-          - [index](http/headers/content-security-policy/child-src/index.md)
+          - [index](Http/Headers/Content-Security-Policy/Child-Src/Index.md)
         - **connect-src**
-          - [index](http/headers/content-security-policy/connect-src/index.md)
+          - [index](Http/Headers/Content-Security-Policy/Connect-Src/Index.md)
         - **default-src**
-          - [index](http/headers/content-security-policy/default-src/index.md)
+          - [index](Http/Headers/Content-Security-Policy/Default-Src/Index.md)
         - **font-src**
-          - [index](http/headers/content-security-policy/font-src/index.md)
+          - [index](Http/Headers/Content-Security-Policy/Font-Src/Index.md)
         - **form-action**
-          - [index](http/headers/content-security-policy/form-action/index.md)
+          - [index](Http/Headers/Content-Security-Policy/Form-Action/Index.md)
         - **frame-ancestors**
-          - [index](http/headers/content-security-policy/frame-ancestors/index.md)
+          - [index](Http/Headers/Content-Security-Policy/Frame-Ancestors/Index.md)
         - **frame-src**
-          - [index](http/headers/content-security-policy/frame-src/index.md)
+          - [index](Http/Headers/Content-Security-Policy/Frame-Src/Index.md)
         - **img-src**
-          - [index](http/headers/content-security-policy/img-src/index.md)
-        - [index](http/headers/content-security-policy/index.md)
+          - [index](Http/Headers/Content-Security-Policy/Img-Src/Index.md)
+        - [index](Http/Headers/Content-Security-Policy/Index.md)
         - **manifest-src**
-          - [index](http/headers/content-security-policy/manifest-src/index.md)
+          - [index](Http/Headers/Content-Security-Policy/Manifest-Src/Index.md)
         - **media-src**
-          - [index](http/headers/content-security-policy/media-src/index.md)
+          - [index](Http/Headers/Content-Security-Policy/Media-Src/Index.md)
         - **object-src**
-          - [index](http/headers/content-security-policy/object-src/index.md)
+          - [index](Http/Headers/Content-Security-Policy/Object-Src/Index.md)
         - **plugin-types**
-          - [index](http/headers/content-security-policy/plugin-types/index.md)
+          - [index](Http/Headers/Content-Security-Policy/Plugin-Types/Index.md)
         - **prefetch-src**
-          - [index](http/headers/content-security-policy/prefetch-src/index.md)
+          - [index](Http/Headers/Content-Security-Policy/Prefetch-Src/Index.md)
         - **referrer**
-          - [index](http/headers/content-security-policy/referrer/index.md)
+          - [index](Http/Headers/Content-Security-Policy/Referrer/Index.md)
         - **report-to**
-          - [index](http/headers/content-security-policy/report-to/index.md)
+          - [index](Http/Headers/Content-Security-Policy/Report-To/Index.md)
         - **report-uri**
-          - [index](http/headers/content-security-policy/report-uri/index.md)
+          - [index](Http/Headers/Content-Security-Policy/Report-Uri/Index.md)
         - **require-sri-for**
-          - [index](http/headers/content-security-policy/require-sri-for/index.md)
+          - [index](Http/Headers/Content-Security-Policy/Require-Sri-For/Index.md)
         - **require-trusted-types-for**
-          - [index](http/headers/content-security-policy/require-trusted-types-for/index.md)
+          - [index](Http/Headers/Content-Security-Policy/Require-Trusted-Types-For/Index.md)
         - **sandbox**
-          - [index](http/headers/content-security-policy/sandbox/index.md)
+          - [index](Http/Headers/Content-Security-Policy/Sandbox/Index.md)
         - **script-src**
-          - [index](http/headers/content-security-policy/script-src/index.md)
+          - [index](Http/Headers/Content-Security-Policy/Script-Src/Index.md)
         - **script-src-attr**
-          - [index](http/headers/content-security-policy/script-src-attr/index.md)
+          - [index](Http/Headers/Content-Security-Policy/Script-Src-Attr/Index.md)
         - **script-src-elem**
-          - [index](http/headers/content-security-policy/script-src-elem/index.md)
+          - [index](Http/Headers/Content-Security-Policy/Script-Src-Elem/Index.md)
         - **sources**
-          - [index](http/headers/content-security-policy/sources/index.md)
+          - [index](Http/Headers/Content-Security-Policy/Sources/Index.md)
         - **style-src**
-          - [index](http/headers/content-security-policy/style-src/index.md)
+          - [index](Http/Headers/Content-Security-Policy/Style-Src/Index.md)
         - **style-src-attr**
-          - [index](http/headers/content-security-policy/style-src-attr/index.md)
+          - [index](Http/Headers/Content-Security-Policy/Style-Src-Attr/Index.md)
         - **style-src-elem**
-          - [index](http/headers/content-security-policy/style-src-elem/index.md)
+          - [index](Http/Headers/Content-Security-Policy/Style-Src-Elem/Index.md)
         - **trusted-types**
-          - [index](http/headers/content-security-policy/trusted-types/index.md)
+          - [index](Http/Headers/Content-Security-Policy/Trusted-Types/Index.md)
         - **upgrade-insecure-requests**
-          - [index](http/headers/content-security-policy/upgrade-insecure-requests/index.md)
+          - [index](Http/Headers/Content-Security-Policy/Upgrade-Insecure-Requests/Index.md)
         - **worker-src**
-          - [index](http/headers/content-security-policy/worker-src/index.md)
+          - [index](Http/Headers/Content-Security-Policy/Worker-Src/Index.md)
       - **content-security-policy-report-only**
-        - [index](http/headers/content-security-policy-report-only/index.md)
+        - [index](Http/Headers/Content-Security-Policy-Report-Only/Index.md)
       - **content-type**
-        - [index](http/headers/content-type/index.md)
+        - [index](Http/Headers/Content-Type/Index.md)
       - **cookie**
-        - [index](http/headers/cookie/index.md)
+        - [index](Http/Headers/Cookie/Index.md)
       - **cross-origin-embedder-policy**
-        - [index](http/headers/cross-origin-embedder-policy/index.md)
+        - [index](Http/Headers/Cross-Origin-Embedder-Policy/Index.md)
       - **cross-origin-opener-policy**
-        - [index](http/headers/cross-origin-opener-policy/index.md)
+        - [index](Http/Headers/Cross-Origin-Opener-Policy/Index.md)
       - **cross-origin-resource-policy**
-        - [index](http/headers/cross-origin-resource-policy/index.md)
+        - [index](Http/Headers/Cross-Origin-Resource-Policy/Index.md)
       - **date**
-        - [index](http/headers/date/index.md)
+        - [index](Http/Headers/Date/Index.md)
       - **device-memory**
-        - [index](http/headers/device-memory/index.md)
+        - [index](Http/Headers/Device-Memory/Index.md)
       - **digest**
-        - [index](http/headers/digest/index.md)
+        - [index](Http/Headers/Digest/Index.md)
       - **dnt**
-        - [index](http/headers/dnt/index.md)
+        - [index](Http/Headers/Dnt/Index.md)
       - **downlink**
-        - [index](http/headers/downlink/index.md)
+        - [index](Http/Headers/Downlink/Index.md)
       - **dpr**
-        - [index](http/headers/dpr/index.md)
+        - [index](Http/Headers/Dpr/Index.md)
       - **early-data**
-        - [index](http/headers/early-data/index.md)
+        - [index](Http/Headers/Early-Data/Index.md)
       - **ect**
-        - [index](http/headers/ect/index.md)
+        - [index](Http/Headers/Ect/Index.md)
       - **etag**
-        - [index](http/headers/etag/index.md)
+        - [index](Http/Headers/Etag/Index.md)
       - **expect**
-        - [index](http/headers/expect/index.md)
+        - [index](Http/Headers/Expect/Index.md)
       - **expect-ct**
-        - [index](http/headers/expect-ct/index.md)
+        - [index](Http/Headers/Expect-Ct/Index.md)
       - **expires**
-        - [index](http/headers/expires/index.md)
+        - [index](Http/Headers/Expires/Index.md)
       - **feature-policy**
         - **accelerometer**
-          - [index](http/headers/feature-policy/accelerometer/index.md)
+          - [index](Http/Headers/Feature-Policy/Accelerometer/Index.md)
         - **ambient-light-sensor**
-          - [index](http/headers/feature-policy/ambient-light-sensor/index.md)
+          - [index](Http/Headers/Feature-Policy/Ambient-Light-Sensor/Index.md)
         - **autoplay**
-          - [index](http/headers/feature-policy/autoplay/index.md)
+          - [index](Http/Headers/Feature-Policy/Autoplay/Index.md)
         - **battery**
-          - [index](http/headers/feature-policy/battery/index.md)
+          - [index](Http/Headers/Feature-Policy/Battery/Index.md)
         - **camera**
-          - [index](http/headers/feature-policy/camera/index.md)
+          - [index](Http/Headers/Feature-Policy/Camera/Index.md)
         - **display-capture**
-          - [index](http/headers/feature-policy/display-capture/index.md)
+          - [index](Http/Headers/Feature-Policy/Display-Capture/Index.md)
         - **document-domain**
-          - [index](http/headers/feature-policy/document-domain/index.md)
+          - [index](Http/Headers/Feature-Policy/Document-Domain/Index.md)
         - **encrypted-media**
-          - [index](http/headers/feature-policy/encrypted-media/index.md)
+          - [index](Http/Headers/Feature-Policy/Encrypted-Media/Index.md)
         - **fullscreen**
-          - [index](http/headers/feature-policy/fullscreen/index.md)
+          - [index](Http/Headers/Feature-Policy/Fullscreen/Index.md)
         - **gamepad**
-          - [index](http/headers/feature-policy/gamepad/index.md)
+          - [index](Http/Headers/Feature-Policy/Gamepad/Index.md)
         - **geolocation**
-          - [index](http/headers/feature-policy/geolocation/index.md)
+          - [index](Http/Headers/Feature-Policy/Geolocation/Index.md)
         - **gyroscope**
-          - [index](http/headers/feature-policy/gyroscope/index.md)
-        - [index](http/headers/feature-policy/index.md)
+          - [index](Http/Headers/Feature-Policy/Gyroscope/Index.md)
+        - [index](Http/Headers/Feature-Policy/Index.md)
         - **layout-animations**
-          - [index](http/headers/feature-policy/layout-animations/index.md)
+          - [index](Http/Headers/Feature-Policy/Layout-Animations/Index.md)
         - **legacy-image-formats**
-          - [index](http/headers/feature-policy/legacy-image-formats/index.md)
+          - [index](Http/Headers/Feature-Policy/Legacy-Image-Formats/Index.md)
         - **magnetometer**
-          - [index](http/headers/feature-policy/magnetometer/index.md)
+          - [index](Http/Headers/Feature-Policy/Magnetometer/Index.md)
         - **microphone**
-          - [index](http/headers/feature-policy/microphone/index.md)
+          - [index](Http/Headers/Feature-Policy/Microphone/Index.md)
         - **midi**
-          - [index](http/headers/feature-policy/midi/index.md)
+          - [index](Http/Headers/Feature-Policy/Midi/Index.md)
         - **oversized-images**
-          - [index](http/headers/feature-policy/oversized-images/index.md)
+          - [index](Http/Headers/Feature-Policy/Oversized-Images/Index.md)
         - **payment**
-          - [index](http/headers/feature-policy/payment/index.md)
+          - [index](Http/Headers/Feature-Policy/Payment/Index.md)
         - **picture-in-picture**
-          - [index](http/headers/feature-policy/picture-in-picture/index.md)
+          - [index](Http/Headers/Feature-Policy/Picture-In-Picture/Index.md)
         - **publickey-credentials-get**
-          - [index](http/headers/feature-policy/publickey-credentials-get/index.md)
+          - [index](Http/Headers/Feature-Policy/Publickey-Credentials-Get/Index.md)
         - **screen-wake-lock**
-          - [index](http/headers/feature-policy/screen-wake-lock/index.md)
+          - [index](Http/Headers/Feature-Policy/Screen-Wake-Lock/Index.md)
         - **speaker-selection**
-          - [index](http/headers/feature-policy/speaker-selection/index.md)
+          - [index](Http/Headers/Feature-Policy/Speaker-Selection/Index.md)
         - **sync-xhr**
-          - [index](http/headers/feature-policy/sync-xhr/index.md)
+          - [index](Http/Headers/Feature-Policy/Sync-Xhr/Index.md)
         - **unoptimized-images**
-          - [index](http/headers/feature-policy/unoptimized-images/index.md)
+          - [index](Http/Headers/Feature-Policy/Unoptimized-Images/Index.md)
         - **unsized-media**
-          - [index](http/headers/feature-policy/unsized-media/index.md)
+          - [index](Http/Headers/Feature-Policy/Unsized-Media/Index.md)
         - **usb**
-          - [index](http/headers/feature-policy/usb/index.md)
+          - [index](Http/Headers/Feature-Policy/Usb/Index.md)
         - **web-share**
-          - [index](http/headers/feature-policy/web-share/index.md)
+          - [index](Http/Headers/Feature-Policy/Web-Share/Index.md)
         - **xr-spatial-tracking**
-          - [index](http/headers/feature-policy/xr-spatial-tracking/index.md)
+          - [index](Http/Headers/Feature-Policy/Xr-Spatial-Tracking/Index.md)
       - **forwarded**
-        - [index](http/headers/forwarded/index.md)
+        - [index](Http/Headers/Forwarded/Index.md)
       - **from**
-        - [index](http/headers/from/index.md)
+        - [index](Http/Headers/From/Index.md)
       - **host**
-        - [index](http/headers/host/index.md)
+        - [index](Http/Headers/Host/Index.md)
       - **if-match**
-        - [index](http/headers/if-match/index.md)
+        - [index](Http/Headers/If-Match/Index.md)
       - **if-modified-since**
-        - [index](http/headers/if-modified-since/index.md)
+        - [index](Http/Headers/If-Modified-Since/Index.md)
       - **if-none-match**
-        - [index](http/headers/if-none-match/index.md)
+        - [index](Http/Headers/If-None-Match/Index.md)
       - **if-range**
-        - [index](http/headers/if-range/index.md)
+        - [index](Http/Headers/If-Range/Index.md)
       - **if-unmodified-since**
-        - [index](http/headers/if-unmodified-since/index.md)
-      - [index](http/headers/index.md)
+        - [index](Http/Headers/If-Unmodified-Since/Index.md)
+      - [index](Http/Headers/Index.md)
       - **keep-alive**
-        - [index](http/headers/keep-alive/index.md)
+        - [index](Http/Headers/Keep-Alive/Index.md)
       - **large-allocation**
-        - [index](http/headers/large-allocation/index.md)
+        - [index](Http/Headers/Large-Allocation/Index.md)
       - **last-modified**
-        - [index](http/headers/last-modified/index.md)
+        - [index](Http/Headers/Last-Modified/Index.md)
       - **link**
-        - [index](http/headers/link/index.md)
+        - [index](Http/Headers/Link/Index.md)
       - **location**
-        - [index](http/headers/location/index.md)
+        - [index](Http/Headers/Location/Index.md)
       - **max-forwards**
-        - [index](http/headers/max-forwards/index.md)
+        - [index](Http/Headers/Max-Forwards/Index.md)
       - **nel**
-        - [index](http/headers/nel/index.md)
+        - [index](Http/Headers/Nel/Index.md)
       - **origin**
-        - [index](http/headers/origin/index.md)
+        - [index](Http/Headers/Origin/Index.md)
       - **pragma**
-        - [index](http/headers/pragma/index.md)
+        - [index](Http/Headers/Pragma/Index.md)
       - **proxy-authenticate**
-        - [index](http/headers/proxy-authenticate/index.md)
+        - [index](Http/Headers/Proxy-Authenticate/Index.md)
       - **proxy-authorization**
-        - [index](http/headers/proxy-authorization/index.md)
+        - [index](Http/Headers/Proxy-Authorization/Index.md)
       - **range**
-        - [index](http/headers/range/index.md)
+        - [index](Http/Headers/Range/Index.md)
       - **referer**
-        - [index](http/headers/referer/index.md)
+        - [index](Http/Headers/Referer/Index.md)
       - **referrer-policy**
-        - [index](http/headers/referrer-policy/index.md)
+        - [index](Http/Headers/Referrer-Policy/Index.md)
       - **retry-after**
-        - [index](http/headers/retry-after/index.md)
+        - [index](Http/Headers/Retry-After/Index.md)
       - **rtt**
-        - [index](http/headers/rtt/index.md)
+        - [index](Http/Headers/Rtt/Index.md)
       - **save-data**
-        - [index](http/headers/save-data/index.md)
+        - [index](Http/Headers/Save-Data/Index.md)
       - **sec-ch-prefers-reduced-motion**
-        - [index](http/headers/sec-ch-prefers-reduced-motion/index.md)
+        - [index](Http/Headers/Sec-Ch-Prefers-Reduced-Motion/Index.md)
       - **sec-ch-ua**
-        - [index](http/headers/sec-ch-ua/index.md)
+        - [index](Http/Headers/Sec-Ch-Ua/Index.md)
       - **sec-ch-ua-arch**
-        - [index](http/headers/sec-ch-ua-arch/index.md)
+        - [index](Http/Headers/Sec-Ch-Ua-Arch/Index.md)
       - **sec-ch-ua-bitness**
-        - [index](http/headers/sec-ch-ua-bitness/index.md)
+        - [index](Http/Headers/Sec-Ch-Ua-Bitness/Index.md)
       - **sec-ch-ua-full-version**
-        - [index](http/headers/sec-ch-ua-full-version/index.md)
+        - [index](Http/Headers/Sec-Ch-Ua-Full-Version/Index.md)
       - **sec-ch-ua-full-version-list**
-        - [index](http/headers/sec-ch-ua-full-version-list/index.md)
+        - [index](Http/Headers/Sec-Ch-Ua-Full-Version-List/Index.md)
       - **sec-ch-ua-mobile**
-        - [index](http/headers/sec-ch-ua-mobile/index.md)
+        - [index](Http/Headers/Sec-Ch-Ua-Mobile/Index.md)
       - **sec-ch-ua-model**
-        - [index](http/headers/sec-ch-ua-model/index.md)
+        - [index](Http/Headers/Sec-Ch-Ua-Model/Index.md)
       - **sec-ch-ua-platform**
-        - [index](http/headers/sec-ch-ua-platform/index.md)
+        - [index](Http/Headers/Sec-Ch-Ua-Platform/Index.md)
       - **sec-ch-ua-platform-version**
-        - [index](http/headers/sec-ch-ua-platform-version/index.md)
+        - [index](Http/Headers/Sec-Ch-Ua-Platform-Version/Index.md)
       - **sec-fetch-dest**
-        - [index](http/headers/sec-fetch-dest/index.md)
+        - [index](Http/Headers/Sec-Fetch-Dest/Index.md)
       - **sec-fetch-mode**
-        - [index](http/headers/sec-fetch-mode/index.md)
+        - [index](Http/Headers/Sec-Fetch-Mode/Index.md)
       - **sec-fetch-site**
-        - [index](http/headers/sec-fetch-site/index.md)
+        - [index](Http/Headers/Sec-Fetch-Site/Index.md)
       - **sec-fetch-user**
-        - [index](http/headers/sec-fetch-user/index.md)
+        - [index](Http/Headers/Sec-Fetch-User/Index.md)
       - **sec-gpc**
-        - [index](http/headers/sec-gpc/index.md)
+        - [index](Http/Headers/Sec-Gpc/Index.md)
       - **sec-websocket-accept**
-        - [index](http/headers/sec-websocket-accept/index.md)
+        - [index](Http/Headers/Sec-Websocket-Accept/Index.md)
       - **server**
-        - [index](http/headers/server/index.md)
+        - [index](Http/Headers/Server/Index.md)
       - **server-timing**
-        - [index](http/headers/server-timing/index.md)
+        - [index](Http/Headers/Server-Timing/Index.md)
       - **service-worker-navigation-preload**
-        - [index](http/headers/service-worker-navigation-preload/index.md)
+        - [index](Http/Headers/Service-Worker-Navigation-Preload/Index.md)
       - **set-cookie**
-        - [index](http/headers/set-cookie/index.md)
+        - [index](Http/Headers/Set-Cookie/Index.md)
         - **samesite**
-          - [index](http/headers/set-cookie/samesite/index.md)
+          - [index](Http/Headers/Set-Cookie/Samesite/Index.md)
       - **sourcemap**
-        - [index](http/headers/sourcemap/index.md)
+        - [index](Http/Headers/Sourcemap/Index.md)
       - **strict-transport-security**
-        - [index](http/headers/strict-transport-security/index.md)
+        - [index](Http/Headers/Strict-Transport-Security/Index.md)
       - **te**
-        - [index](http/headers/te/index.md)
+        - [index](Http/Headers/Te/Index.md)
       - **timing-allow-origin**
-        - [index](http/headers/timing-allow-origin/index.md)
+        - [index](Http/Headers/Timing-Allow-Origin/Index.md)
       - **tk**
-        - [index](http/headers/tk/index.md)
+        - [index](Http/Headers/Tk/Index.md)
       - **trailer**
-        - [index](http/headers/trailer/index.md)
+        - [index](Http/Headers/Trailer/Index.md)
       - **transfer-encoding**
-        - [index](http/headers/transfer-encoding/index.md)
+        - [index](Http/Headers/Transfer-Encoding/Index.md)
       - **upgrade**
-        - [index](http/headers/upgrade/index.md)
+        - [index](Http/Headers/Upgrade/Index.md)
       - **upgrade-insecure-requests**
-        - [index](http/headers/upgrade-insecure-requests/index.md)
+        - [index](Http/Headers/Upgrade-Insecure-Requests/Index.md)
       - **user-agent**
         - **firefox**
-          - [index](http/headers/user-agent/firefox/index.md)
-        - [index](http/headers/user-agent/index.md)
+          - [index](Http/Headers/User-Agent/Firefox/Index.md)
+        - [index](Http/Headers/User-Agent/Index.md)
       - **vary**
-        - [index](http/headers/vary/index.md)
+        - [index](Http/Headers/Vary/Index.md)
       - **via**
-        - [index](http/headers/via/index.md)
+        - [index](Http/Headers/Via/Index.md)
       - **viewport-width**
-        - [index](http/headers/viewport-width/index.md)
+        - [index](Http/Headers/Viewport-Width/Index.md)
       - **want-digest**
-        - [index](http/headers/want-digest/index.md)
+        - [index](Http/Headers/Want-Digest/Index.md)
       - **warning**
-        - [index](http/headers/warning/index.md)
+        - [index](Http/Headers/Warning/Index.md)
       - **width**
-        - [index](http/headers/width/index.md)
+        - [index](Http/Headers/Width/Index.md)
       - **www-authenticate**
-        - [index](http/headers/www-authenticate/index.md)
+        - [index](Http/Headers/Www-Authenticate/Index.md)
       - **x-content-type-options**
-        - [index](http/headers/x-content-type-options/index.md)
+        - [index](Http/Headers/X-Content-Type-Options/Index.md)
       - **x-dns-prefetch-control**
-        - [index](http/headers/x-dns-prefetch-control/index.md)
+        - [index](Http/Headers/X-Dns-Prefetch-Control/Index.md)
       - **x-forwarded-for**
-        - [index](http/headers/x-forwarded-for/index.md)
+        - [index](Http/Headers/X-Forwarded-For/Index.md)
       - **x-forwarded-host**
-        - [index](http/headers/x-forwarded-host/index.md)
+        - [index](Http/Headers/X-Forwarded-Host/Index.md)
       - **x-forwarded-proto**
-        - [index](http/headers/x-forwarded-proto/index.md)
+        - [index](Http/Headers/X-Forwarded-Proto/Index.md)
       - **x-frame-options**
-        - [index](http/headers/x-frame-options/index.md)
+        - [index](Http/Headers/X-Frame-Options/Index.md)
       - **x-xss-protection**
-        - [index](http/headers/x-xss-protection/index.md)
+        - [index](Http/Headers/X-Xss-Protection/Index.md)
     - **http_2**
-      - [index](http/http_2/index.md)
+      - [index](Http/Http_2/Index.md)
     - **http_3**
-      - [index](http/http_3/index.md)
+      - [index](Http/Http_3/Index.md)
     - **http_header**
-      - [index](http/http_header/index.md)
-    - [httpindex](http/httpindex.md)
+      - [index](Http/Http_Header/Index.md)
+    - [httpindex](Http/Httpindex.md)
     - **https**
-      - [index](http/https/index.md)
+      - [index](Http/Https/Index.md)
     - **https_rr**
-      - [index](http/https_rr/index.md)
-    - [index](http/index.md)
+      - [index](Http/Https_Rr/Index.md)
+    - [index](Http/Index.md)
     - **link_prefetching_faq**
-      - [index](http/link_prefetching_faq/index.md)
+      - [index](Http/Link_Prefetching_Faq/Index.md)
     - **messages**
-      - [index](http/messages/index.md)
+      - [index](Http/Messages/Index.md)
     - **methods**
       - **connect**
-        - [index](http/methods/connect/index.md)
+        - [index](Http/Methods/Connect/Index.md)
       - **delete**
-        - [index](http/methods/delete/index.md)
+        - [index](Http/Methods/Delete/Index.md)
       - **get**
-        - [index](http/methods/get/index.md)
+        - [index](Http/Methods/Get/Index.md)
       - **head**
-        - [index](http/methods/head/index.md)
-      - [index](http/methods/index.md)
+        - [index](Http/Methods/Head/Index.md)
+      - [index](Http/Methods/Index.md)
       - **options**
-        - [index](http/methods/options/index.md)
+        - [index](Http/Methods/Options/Index.md)
       - **patch**
-        - [index](http/methods/patch/index.md)
+        - [index](Http/Methods/Patch/Index.md)
       - **post**
-        - [index](http/methods/post/index.md)
+        - [index](Http/Methods/Post/Index.md)
       - **put**
-        - [index](http/methods/put/index.md)
+        - [index](Http/Methods/Put/Index.md)
       - **trace**
-        - [index](http/methods/trace/index.md)
+        - [index](Http/Methods/Trace/Index.md)
     - **network_error_logging**
-      - [index](http/network_error_logging/index.md)
+      - [index](Http/Network_Error_Logging/Index.md)
     - **overview**
-      - [index](http/overview/index.md)
+      - [index](Http/Overview/Index.md)
     - **protocol_upgrade_mechanism**
-      - [index](http/protocol_upgrade_mechanism/index.md)
+      - [index](Http/Protocol_Upgrade_Mechanism/Index.md)
     - **proxy_servers_and_tunneling**
-      - [index](http/proxy_servers_and_tunneling/index.md)
+      - [index](Http/Proxy_Servers_And_Tunneling/Index.md)
       - **proxy_auto-configuration_pac_file**
-        - [index](http/proxy_servers_and_tunneling/proxy_auto-configuration_pac_file/index.md)
+        - [index](Http/Proxy_Servers_And_Tunneling/Proxy_Auto-Configuration_Pac_File/Index.md)
     - **range_requests**
-      - [index](http/range_requests/index.md)
+      - [index](Http/Range_Requests/Index.md)
     - **redirections**
-      - [index](http/redirections/index.md)
+      - [index](Http/Redirections/Index.md)
     - **resources_and_specifications**
-      - [index](http/resources_and_specifications/index.md)
+      - [index](Http/Resources_And_Specifications/Index.md)
     - **resources_and_uris**
-      - [index](http/resources_and_uris/index.md)
+      - [index](Http/Resources_And_Uris/Index.md)
     - **session**
-      - [index](http/session/index.md)
+      - [index](Http/Session/Index.md)
     - **status**
       - **100**
-        - [index](http/status/100/index.md)
+        - [index](Http/Status/100/Index.md)
       - **101**
-        - [index](http/status/101/index.md)
+        - [index](Http/Status/101/Index.md)
       - **103**
-        - [index](http/status/103/index.md)
+        - [index](Http/Status/103/Index.md)
       - **200**
-        - [index](http/status/200/index.md)
+        - [index](Http/Status/200/Index.md)
       - **201**
-        - [index](http/status/201/index.md)
+        - [index](Http/Status/201/Index.md)
       - **202**
-        - [index](http/status/202/index.md)
+        - [index](Http/Status/202/Index.md)
       - **203**
-        - [index](http/status/203/index.md)
+        - [index](Http/Status/203/Index.md)
       - **204**
-        - [index](http/status/204/index.md)
+        - [index](Http/Status/204/Index.md)
       - **205**
-        - [index](http/status/205/index.md)
+        - [index](Http/Status/205/Index.md)
       - **206**
-        - [index](http/status/206/index.md)
+        - [index](Http/Status/206/Index.md)
       - **300**
-        - [index](http/status/300/index.md)
+        - [index](Http/Status/300/Index.md)
       - **301**
-        - [index](http/status/301/index.md)
+        - [index](Http/Status/301/Index.md)
       - **302**
-        - [index](http/status/302/index.md)
+        - [index](Http/Status/302/Index.md)
       - **303**
-        - [index](http/status/303/index.md)
+        - [index](Http/Status/303/Index.md)
       - **304**
-        - [index](http/status/304/index.md)
+        - [index](Http/Status/304/Index.md)
       - **307**
-        - [index](http/status/307/index.md)
+        - [index](Http/Status/307/Index.md)
       - **308**
-        - [index](http/status/308/index.md)
+        - [index](Http/Status/308/Index.md)
       - **400**
-        - [index](http/status/400/index.md)
+        - [index](Http/Status/400/Index.md)
       - **401**
-        - [index](http/status/401/index.md)
+        - [index](Http/Status/401/Index.md)
       - **402**
-        - [index](http/status/402/index.md)
+        - [index](Http/Status/402/Index.md)
       - **403**
-        - [index](http/status/403/index.md)
+        - [index](Http/Status/403/Index.md)
       - **404**
-        - [index](http/status/404/index.md)
+        - [index](Http/Status/404/Index.md)
       - **405**
-        - [index](http/status/405/index.md)
+        - [index](Http/Status/405/Index.md)
       - **406**
-        - [index](http/status/406/index.md)
+        - [index](Http/Status/406/Index.md)
       - **407**
-        - [index](http/status/407/index.md)
+        - [index](Http/Status/407/Index.md)
       - **408**
-        - [index](http/status/408/index.md)
+        - [index](Http/Status/408/Index.md)
       - **409**
-        - [index](http/status/409/index.md)
+        - [index](Http/Status/409/Index.md)
       - **410**
-        - [index](http/status/410/index.md)
+        - [index](Http/Status/410/Index.md)
       - **411**
-        - [index](http/status/411/index.md)
+        - [index](Http/Status/411/Index.md)
       - **412**
-        - [index](http/status/412/index.md)
+        - [index](Http/Status/412/Index.md)
       - **413**
-        - [index](http/status/413/index.md)
+        - [index](Http/Status/413/Index.md)
       - **414**
-        - [index](http/status/414/index.md)
+        - [index](Http/Status/414/Index.md)
       - **415**
-        - [index](http/status/415/index.md)
+        - [index](Http/Status/415/Index.md)
       - **416**
-        - [index](http/status/416/index.md)
+        - [index](Http/Status/416/Index.md)
       - **417**
-        - [index](http/status/417/index.md)
+        - [index](Http/Status/417/Index.md)
       - **418**
-        - [index](http/status/418/index.md)
+        - [index](Http/Status/418/Index.md)
       - **422**
-        - [index](http/status/422/index.md)
+        - [index](Http/Status/422/Index.md)
       - **425**
-        - [index](http/status/425/index.md)
+        - [index](Http/Status/425/Index.md)
       - **426**
-        - [index](http/status/426/index.md)
+        - [index](Http/Status/426/Index.md)
       - **428**
-        - [index](http/status/428/index.md)
+        - [index](Http/Status/428/Index.md)
       - **429**
-        - [index](http/status/429/index.md)
+        - [index](Http/Status/429/Index.md)
       - **431**
-        - [index](http/status/431/index.md)
+        - [index](Http/Status/431/Index.md)
       - **451**
-        - [index](http/status/451/index.md)
+        - [index](Http/Status/451/Index.md)
       - **500**
-        - [index](http/status/500/index.md)
+        - [index](Http/Status/500/Index.md)
       - **501**
-        - [index](http/status/501/index.md)
+        - [index](Http/Status/501/Index.md)
       - **502**
-        - [index](http/status/502/index.md)
+        - [index](Http/Status/502/Index.md)
       - **503**
-        - [index](http/status/503/index.md)
+        - [index](Http/Status/503/Index.md)
       - **504**
-        - [index](http/status/504/index.md)
+        - [index](Http/Status/504/Index.md)
       - **505**
-        - [index](http/status/505/index.md)
+        - [index](Http/Status/505/Index.md)
       - **506**
-        - [index](http/status/506/index.md)
+        - [index](Http/Status/506/Index.md)
       - **507**
-        - [index](http/status/507/index.md)
+        - [index](Http/Status/507/Index.md)
       - **508**
-        - [index](http/status/508/index.md)
+        - [index](Http/Status/508/Index.md)
       - **510**
-        - [index](http/status/510/index.md)
+        - [index](Http/Status/510/Index.md)
       - **511**
-        - [index](http/status/511/index.md)
-      - [index](http/status/index.md)
+        - [index](Http/Status/511/Index.md)
+      - [index](Http/Status/Index.md)
   - **hyperlink**
-    - [index](hyperlink/index.md)
+    - [index](Hyperlink/Index.md)
   - **hypertext**
-    - [index](hypertext/index.md)
+    - [index](Hypertext/Index.md)
   - [mdn-guides](../../../..//HOME-MTHRFCKR/DEV-DOCS/mdn-guides/mdn-guides.md)
   - **robots.txt**
-    - [index](robots.txt/index.md)
+    - [index](Robots.txt/Index.md)
   - **seo**
-    - [index](seo/index.md)
+    - [index](Seo/Index.md)
   - **uri**
-    - [index](uri/index.md)
+    - [index](Uri/Index.md)
   - **url**
-    - [index](url/index.md)
+    - [index](Url/Index.md)
 
 %% End Waypoint %%

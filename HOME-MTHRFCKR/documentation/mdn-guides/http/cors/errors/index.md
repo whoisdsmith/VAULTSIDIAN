@@ -26,7 +26,7 @@ To understand the underlying issue with the CORS configuration, you need to find
 1. Navigate to the web site or web app in question and open the [Developer Tools](https://firefox-source-docs.mozilla.org/devtools-user/index.html).
 2. Now try to reproduce the failing transaction and check the [console](https://firefox-source-docs.mozilla.org/devtools-user/web_console/index.html) if you are seeing a CORS violation error message. It will probably look like this:
 
-![Firefox console showing CORS error](cors-error2.png)
+![Firefox console showing CORS error](Cors-Error2.png)
 
 The text of the error message will be something similar to the following:
 

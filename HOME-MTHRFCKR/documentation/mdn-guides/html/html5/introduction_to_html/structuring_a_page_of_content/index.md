@@ -86,7 +86,7 @@ You should also:
 
 The following screenshot shows an example of what the homepage might look like after being marked up.
 
-![The finished example for the assessment; a simple webpage about birdwatching, including a heading of "Birdwatching", bird photos, and a welcome message](example-page.png)
+![The finished example for the assessment; a simple webpage about birdwatching, including a heading of "Birdwatching", bird photos, and a welcome message](Example-Page.png)
 
 ## Assessment or further help
 

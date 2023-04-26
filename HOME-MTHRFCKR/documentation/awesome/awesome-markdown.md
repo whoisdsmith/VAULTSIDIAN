@@ -310,7 +310,7 @@ The awesome list is dedicated to the public domain. Use it as you please with no
 
 Send them along to the markdown-discuss mailing list. Thanks!
 
-[[Textutil]]
+[[../Text%20Processing/Awesome%20Text/Textutil.md]]
 [[Terminal/textutil Man Page - macOS.md]]
 [[brew(1) – The Missing Package Manager for macOS (or Linux)]]
 [[Terminal/The Linux LS Command – How to List Files in a Directory + Option Flags.md]]
@@ -359,6 +359,6 @@ Send them along to the markdown-discuss mailing list. Thanks!
 [[Notes and Links/Abstract.md]]
 [[Notes and Links/A Context-based Information Refinding System.md]]
 [[Day Planners/Day Planner-20220119.md]]
-[[awesome.md]]
+[[Awesome.md]]
 [[../../../..//HOME-MTHRFCKR/DEV-DOCS/awesome/awesome-markdown.md]]
 [[Awesome lists about all kinds of interesting topics](../../BOOKMRKS-MTHRFCKR/Awesome/Awesome%20lists%20about%20all%20kinds%20of%20interesting%20topics.md)

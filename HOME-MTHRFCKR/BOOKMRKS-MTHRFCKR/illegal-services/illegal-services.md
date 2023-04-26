@@ -1,22 +1,29 @@
-# Illegal-Services
+# Illegal Services
+
+- [Illegal Services - Website](https://illegal-services.github.io/Illegal_Services/)
+- [Illegal Services - GitHub](https://github.com/Illegal-Services/Illegal_Services)
+- [Illegal Services - Telegram Forum](https://t.me/illegal_services_forum)
+- [Illegal Services - Telegram Updates](https://t.me/illegal_services)
+- [Illegal Services Bookmarks](https://illegal-services.github.io/Illegal_Services/Bookmarks%20Toolbar/Illegal%20Services/index.html)
+
+**Web Extensions**
+
+- [Illegal Services Bookmarks](https://chrome.google.com/webstore/detail/illegal-services-bookmark/dkddkjnnbeohinbbcfdklcehcmgpdofi)
+- [Illegal Services Bookmarks](https://addons.mozilla.org/firefox/addon/illegal-services/)
+- [Illegal Services Bookmarks](https://addons.opera.com/extensions/details/illegal-services-bookmarks/)
 
 ---
 
-%% Begin Waypoint %%
-- **[illegal-services](../../../..//home-mthrfckr/bookmrks-mthrfckr/illegal-services/illegal-services.md)**
-	- [Cracked Windows appsgames](Cracked%20Windows%20appsgames.md)
-	- [Direct Download Link (DDL)](Direct%20Download%20Link%20(DDL).md)
-	- [Downloaders](Downloaders.md)
-	- [Doxing](Doxing.md)
-	- [illegal--services](illegal--services.md)
-	- [illegal-services](../../../..//home-mthrfckr/bookmrks-mthrfckr/illegal-services/illegal-services.md)
-	- [Internet Protocol Television (IPTV)](Internet%20Protocol%20Television%20(IPTV).md)
-	- [Modded Android appsgames](Modded%20Android%20appsgames.md)
-	- [More Features](More%20Features.md)
-	- [Portable Apps](Portable%20Apps.md)
-	- [Streaming](Streaming.md)
-	- [Torrenting](Torrenting.md)
-	- [Useful Websites](Useful%20Websites.md)
+- [Internet Protocol Television (IPTV)](Internet%20Protocol%20Television%20(Iptv).md)
+- [Direct Download Link (DDL)](Direct%20Download%20Link%20(Ddl).md)
+- [Streaming](Streaming.md)
+- [Torrenting](Torrenting.md)
+- [Cracked Windows appsgames](Cracked%20Windows%20Appsgames.md)
+- [Modded Android appsgames](Modded%20Android%20Appsgames.md)
+- [Downloaders](Downloaders.md)
+- [Useful Websites](Useful%20Websites.md)
+- [Doxing](Doxing.md)
+- [Portable Apps](Portable%20Apps.md)
+- [More Features](More%20Features.md)
 
-%% End Waypoint %%
-
+---

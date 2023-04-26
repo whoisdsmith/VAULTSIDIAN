@@ -44,13 +44,13 @@ This article gets you started with HTML tables, covering the very basics such as
 
 A table is a structured set of data made up of rows and columns (**tabular data**). A table allows you to quickly and easily look up values that indicate some kind of connection between different types of data, for example a person and their age, or a day of the week, or the timetable for a local swimming pool.
 
-![A sample table showing names and ages of some people - Chris 38, Dennis 45, Sarah 29, Karen 47.](numbers-table.png)
+![A sample table showing names and ages of some people - Chris 38, Dennis 45, Sarah 29, Karen 47.](Numbers-Table.png)
 
-![A swimming timetable showing a sample data table](swimming-timetable.png)
+![A swimming timetable showing a sample data table](Swimming-Timetable.png)
 
 Tables are very commonly used in human society, and have been for a long time, as evidenced by this US Census document from 1800:
 
-![A very old parchment document; the data is not easily readable, but it clearly shows a data table being used.](1800-census.jpg)
+![A very old parchment document; the data is not easily readable, but it clearly shows a data table being used.](1800-Census.jpg)
 
 It is therefore no wonder that the creators of HTML provided a means by which to structure and present tabular data on the web.
 

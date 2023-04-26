@@ -48,7 +48,7 @@ Writing HTML is fine, but what if something goes wrong, and you can't work out w
 
 When writing code of some kind, everything is usually fine, until that dreaded moment when an error occurs — you've done something wrong, so your code doesn't work — either not at all, or not quite how you wanted it to. For example, the following shows an error reported when trying to {{glossary("compile")}} a simple program written in the [Rust](https://www.rust-lang.org/) language.
 
-![A console window showing the result of trying to compile a rust program with a missing quote around a string in a print statement. The error message reported is error: unterminated double quote string.](error-message.png)Here, the error message is relatively easy to understand — "unterminated double quote string". If you look at the listing, you can probably see how `println!(Hello, world!");` might logically be missing a double quote. However, error messages can quickly get more complicated and less easy to interpret as programs get bigger, and even simple cases can look a little intimidating to someone who doesn't know anything about Rust.
+![A console window showing the result of trying to compile a rust program with a missing quote around a string in a print statement. The error message reported is error: unterminated double quote string.](Error-Message.png)Here, the error message is relatively easy to understand — "unterminated double quote string". If you look at the listing, you can probably see how `println!(Hello, world!");` might logically be missing a double quote. However, error messages can quickly get more complicated and less easy to interpret as programs get bigger, and even simple cases can look a little intimidating to someone who doesn't know anything about Rust.
 
 Debugging doesn't have to be scary though — the key to being comfortable with writing and debugging any programming language or code is familiarity with both the language and the tools.
 
@@ -72,7 +72,7 @@ HTML itself doesn't suffer from syntax errors because browsers parse it permissi
 It's time to study the permissive nature of HTML code.
 
 1. First, download our [debug-example demo](https://github.com/mdn/learning-area/blob/main/html/introduction-to-html/debugging-html/debug-example.html) and save it locally. This demo is deliberately written with some built-in errors for us to explore (the HTML markup is said to be **badly-formed**, as opposed to **well-formed**).
-2. Next, open it in a browser. You will see something like this:![A simple HTML document with a title of HTML debugging examples, and some information about common HTML errors, such as unclosed elements, badly nested elements, and unclosed attributes. ](badly-formed-html.png)
+2. Next, open it in a browser. You will see something like this:![A simple HTML document with a title of HTML debugging examples, and some information about common HTML errors, such as unclosed elements, badly nested elements, and unclosed attributes. ](Badly-Formed-Html.png)
 3. This immediately doesn't look great; let's look at the source code to see if we can work out why (only the body contents are shown):
 
    ```html
@@ -102,7 +102,7 @@ It's time to study the permissive nature of HTML code.
    - The {{htmlattrxref("href","a")}} attribute value is missing a closing double quote. This seems to have caused the biggest problem — the link has not rendered at all.
 
 5. Now let's look at the markup the browser has rendered, as opposed to the markup in the source code. To do this, we can use the browser developer tools. If you are not familiar with how to use your browser's developer tools, take a few minutes to review [Discover browser developer tools](/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools).
-6. In the DOM inspector, you can see what the rendered markup looks like: ![The HTML inspector in Firefox, with our example's paragraph highlighted, showing the text "What causes errors in HTML?" Here you can see that the paragraph element has been closed by the browser.](html-inspector.png)
+6. In the DOM inspector, you can see what the rendered markup looks like: ![The HTML inspector in Firefox, with our example's paragraph highlighted, showing the text "What causes errors in HTML?" Here you can see that the paragraph element has been closed by the browser.](Html-Inspector.png)
 7. Using the DOM inspector, let's explore our code in detail to see how the browser has tried to fix our HTML errors (we did the review in Firefox; other modern browsers _should_ give the same result):
 
    - The paragraphs and list items have been given closing tags.
@@ -133,7 +133,7 @@ So you can see from the above example that you really want to make sure your HTM
 
 The best strategy is to start by running your HTML page through the [Markup Validation Service](https://validator.w3.org/) — created and maintained by the W3C, the organization that looks after the specifications that define HTML, CSS, and other web technologies. This webpage takes an HTML document as an input, goes through it, and gives you a report to tell you what is wrong with your HTML.
 
-![The HTML validator homepage](validator.png)
+![The HTML validator homepage](Validator.png)
 
 To specify the HTML to validate, you can provide a web address, upload an HTML file, or directly input some HTML code.
 
@@ -148,7 +148,7 @@ Let's try this with our [sample document](https://github.com/mdn/learning-area/b
 
 This should give you a list of errors and other information.
 
-![A list of HTML validation results from the W3C markup validation service](validation-results.png)
+![A list of HTML validation results from the W3C markup validation service](Validation-Results.png)
 
 #### Interpreting the error messages
 
@@ -172,7 +172,7 @@ If you can't work out what every error message means, don't worry about it — a
 
 You will know when all your errors are fixed when you see the following banner in your output:
 
-![Banner that reads "The document validates according to the specified schema(s) and to additional constraints checked by the validator."](valid-html-banner.png)
+![Banner that reads "The document validates according to the specified schema(s) and to additional constraints checked by the validator."](Valid-Html-Banner.png)
 
 ## Summary
 

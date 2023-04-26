@@ -4,18 +4,18 @@
 
 ***
 
-[Acronyms and Abbreviations](acronyms-and-abbreviations.md)
+[Acronyms and Abbreviations](Acronyms-And-Abbreviations.md)
 
-[Apps](apps.md)
+[Apps](Apps.md)
 
-[Communities](../content/communities.md)
+[Communities](../Content/Communities.md)
 
-[Glossaries and Dictionaries](glossaries-and-dictionaries.md)
+[Glossaries and Dictionaries](Glossaries-And-Dictionaries.md)
 
-[Memex](memex.md)
+[Memex](Memex.md)
 
-[Notetaking](notetaking.md)
+[Notetaking](Notetaking.md)
 
-[Obsidian](obsidian.md)
+[Obsidian](Obsidian.md)
 
 ***

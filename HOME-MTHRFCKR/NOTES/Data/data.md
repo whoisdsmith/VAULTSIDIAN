@@ -3,11 +3,11 @@
 ---
 
 %% Begin Waypoint %%
-- **[data](../../../..//home-mthrfckr/notes/data/data.md)**
-	- [data](../../../..//home-mthrfckr/notes/data/data.md)
-	- [databases](databases.md)
-	- [databreach](databreach.md)
-	- [datasets](datasets.md)
+- **[data](../../../..//home-mthrfckr/Notes/Data/Data.md)**
+	- [data](../../../..//home-mthrfckr/Notes/Data/Data.md)
+	- [databases](Databases.md)
+	- [databreach](Databreach.md)
+	- [Datasets](Datasets.md)
 
 %% End Waypoint %%
 

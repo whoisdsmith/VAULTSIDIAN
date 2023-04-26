@@ -3,11 +3,11 @@
 ---
 
 %% Begin Waypoint %%
-- **[basics](../../../..//home-mthrfckr/documentation/basics/basics.md)**
-	- [basics](../../../..//home-mthrfckr/documentation/basics/basics.md)
-	- [caching-servers](caching-servers.md)
-	- [firewalls](firewalls.md)
-	- [proxy-servers](proxy-servers.md)
+- **[basics](../../../..//home-mthrfckr/Documentation/Basics/Basics.md)**
+	- [basics](../../../..//home-mthrfckr/Documentation/Basics/Basics.md)
+	- [caching-servers](Caching-Servers.md)
+	- [firewalls](Firewalls.md)
+	- [proxy-servers](Proxy-Servers.md)
 
 %% End Waypoint %%
 

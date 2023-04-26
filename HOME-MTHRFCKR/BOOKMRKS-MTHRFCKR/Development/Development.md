@@ -4,16 +4,16 @@
 
 %% Begin Waypoint %%
 
-- **[Development](../../../..//home-mthrfckr/bookmrks-mthrfckr/development/development.md)**
-  - [awesome-design-tools](awesome-design-tools.md)
-  - [design](design.md)
-  - [Development](../../../..//home-mthrfckr/bookmrks-mthrfckr/development/development.md)
-  - [devops](devops.md)
-  - [git](git.md)
-  - [programming](programming.md)
+- **[Development](../../../..//home-mthrfckr/Bookmrks-Mthrfckr/Development/Development.md)**
+  - [awesome-design-tools](Awesome-Design-Tools.md)
+  - [Design](Design.md)
+  - [Development](../../../..//home-mthrfckr/Bookmrks-Mthrfckr/Development/Development.md)
+  - [devops](Devops.md)
+  - [git](home-mthrfckr/Bookmrks-Mthrfckr/Development/Git.md)
+  - [Programming](Programming.md)
   - [README](../../../readme.md)
-  - [resources](resources.md)
-  - [ui-graphics](ui-graphics.md)
-  - [webdev](webdev.md)
+  - [Resources](Resources.md)
+  - [ui-graphics](Ui-Graphics.md)
+  - [webdev](Webdev.md)
 
 %% End Waypoint %%

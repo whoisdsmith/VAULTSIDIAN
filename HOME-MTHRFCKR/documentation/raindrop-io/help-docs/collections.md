@@ -30,7 +30,7 @@ You will notice a special "user" icon next to the name of a collection:
 
 ![](using/collections/shared.png)
 
-Learn more about sharing and collaboration [h[here](collaboration.md)
+Learn more about sharing and collaboration [h[here](Collaboration.md)
 </details>
 
 <!------------------------------>
@@ -45,7 +45,7 @@ You will notice a special "globe" icon next to the name of a collection:
 
 ![](using/collections/public.png)
 
-Learn more about public collections [h[here](public-page.md)
+Learn more about public collections [h[here](Public-Page.md)
 </details>
 
 <!------------------------------>

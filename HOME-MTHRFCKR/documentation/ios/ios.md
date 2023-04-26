@@ -3,19 +3,19 @@
 ---
 
 %% Begin Waypoint %%
-- **[ios](../../../..//home-mthrfckr/documentation/ios/ios.md)**
-	- [collaborative-list-of-open-source-ios-apps](collaborative-list-of-open-source-ios-apps.md)
-	- [ios-adblocking](ios-adblocking.md)
-	- [ios-apps](ios-apps.md)
-	- [ios-audio](ios-audio.md)
-	- [ios-jailbreaking](ios-jailbreaking.md)
-	- [ios-privacy](ios-privacy.md)
-	- [ios-reading](ios-reading.md)
-	- [ios-streaming](ios-streaming.md)
-	- [ios-table-of-contents](ios-table-of-contents.md)
-	- [ios-tools](ios-tools.md)
-	- [ios-torrenting](ios-torrenting.md)
-	- [ios](../../../..//home-mthrfckr/documentation/ios/ios.md)
+- **[ios](../../../..//home-mthrfckr/Documentation/Ios/Ios.md)**
+	- [collaborative-list-of-open-source-ios-apps](Collaborative-List-Of-Open-Source-Ios-Apps.md)
+	- [ios-adblocking](Ios-Adblocking.md)
+	- [ios-apps](Ios-Apps.md)
+	- [ios-audio](Ios-Audio.md)
+	- [ios-jailbreaking](Ios-Jailbreaking.md)
+	- [ios-privacy](Ios-Privacy.md)
+	- [ios-reading](Ios-Reading.md)
+	- [ios-streaming](Ios-Streaming.md)
+	- [ios-table-of-contents](Ios-Table-Of-Contents.md)
+	- [ios-tools](Ios-Tools.md)
+	- [ios-torrenting](Ios-Torrenting.md)
+	- [ios](../../../..//home-mthrfckr/Documentation/Ios/Ios.md)
 
 %% End Waypoint %%
 

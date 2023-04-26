@@ -4,40 +4,40 @@
 
 ***
 
-[Academic](academic.md)
+[Academic](Academic.md)
 
-[Academic and Grey Literature Research Tools](academic-and-grey-literature-research-tools.md)
+[Academic and Grey Literature Research Tools](Academic-And-Grey-Literature-Research-Tools.md)
 
-[Adderall](adderall.md)
+[Adderall](Adderall.md)
 
-[Ancestry Research](ancestry-research.md)
+[Ancestry Research](Ancestry-Research.md)
 
-[Annotation and Highlighting](annotation-and-highlighting.md)
+[Annotation and Highlighting](Annotation-And-Highlighting.md)
 
-[Audio Books](audio-books.md)
+[Audio Books](Audio-Books.md)
 
-[DocArticles](docarticles.md)
+[DocArticles](Docarticles.md)
 
-[Document Checking](document-checking.md)
+[Document Checking](Document-Checking.md)
 
-[Ebooks](ebooks.md)
+[Ebooks](Ebooks.md)
 
-[EDU](edu.md)
+[EDU](Edu.md)
 
-[GrammerSpellingEtc](grammerspellingetc.md)
+[GrammerSpellingEtc](Grammerspellingetc.md)
 
-[Learning](learning.md)
+[Learning](Learning.md)
 
-[Newspaper Sites](newspaper-sites.md)
+[Newspaper Sites](Newspaper-Sites.md)
 
-[Papers and Journals](papers-and-journals.md)
+[Papers and Journals](Papers-And-Journals.md)
 
-[PDF Management](pdf-management.md)
+[PDF Management](Pdf-Management.md)
 
-[PDF Sites](pdf-sites.md)
+[PDF Sites](Pdf-Sites.md)
 
-[Publications](publications.md)
+[Publications](Publications.md)
 
-[Reference Tools](reference-tools.md)
+[Reference Tools](Reference-Tools.md)
 
 ***

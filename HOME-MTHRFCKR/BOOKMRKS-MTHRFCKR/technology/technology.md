@@ -3,11 +3,11 @@
 ---
 
 %% Begin Waypoint %%
-- **[technology](../../../..//home-mthrfckr/bookmrks-mthrfckr/technology/technology.md)**
-	- [mobile](mobile.md)
-	- [pc](pc.md)
+- **[technology](../../../..//home-mthrfckr/Bookmrks-Mthrfckr/Technology/Technology.md)**
+	- [mobile](Mobile.md)
+	- [pc](Pc.md)
 	- [readme](../../../readme.md)
-	- [technology](../../../..//home-mthrfckr/bookmrks-mthrfckr/technology/technology.md)
+	- [technology](../../../..//home-mthrfckr/Bookmrks-Mthrfckr/Technology/Technology.md)
 
 %% End Waypoint %%
 

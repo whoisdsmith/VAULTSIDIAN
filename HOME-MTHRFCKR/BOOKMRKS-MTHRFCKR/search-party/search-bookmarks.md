@@ -2,7 +2,7 @@
 
 ---
 
-## [[academic.md]]
+## [[Academic.md]]
 
 ## [[alternative--search--engines.md]]
 
@@ -12,32 +12,32 @@
 
 ## [[Code & Dev & Tech](Code%20&%20Dev%20&%20Tech.md)
 
-## [[cryptocurrency.md]]
+## [[Cryptocurrency.md]]
 
-## [[cse.md]]
+## [[Cse.md]]
 
-## [[darkweb.md]]
+## [[Darkweb.md]]
 
-## [[databreach.md]]
+## [[Databreach.md]]
 
-## [[developer-search-resources.md]]
+## [[Developer-Search-Resources.md]]
 
 ## [[Direct Download]]
 
-## [[../../research/documents/documents.md]]
+## [[../../Research/Documents/Documents.md]]
 
-## [[general.md]]
+## [[General.md]]
 
-## [[Google Custom Search](Google%20Custom%20Search.md)
+## [[Google Custom Search](../Raindropsmf/Searchparty-Mthrfckr/Google%20Custom%20Search.md)
 
-[[google-custom-search.md]]d]]
-[[infomation.md]]d]]
+[[Google-Custom-Search.md]]d]]
+[[Infomation.md]]d]]
 
 ## [[IP Address](IP%20Address.md)
 
-[[maps.md]]d]]
-[[meta.md]]d]]
-[[name.md]]d]]
+[[Maps.md]]d]]
+[[Meta.md]]d]]
+[[Name.md]]d]]
 
 ## [[Online Marketplace](Online%20Marketplace.md)
 
@@ -45,33 +45,33 @@
 
 ## [[Open Directory](Open%20Directory.md)
 
-[[os-software.md]]d]]
+[[Os-Software.md]]d]]
 
 ## [[OSINT Hacking](OSINT%20Hacking.md)
 
-[[pastebin.md]]d]]
-[[people.md]]d]]
+[[Pastebin.md]]d]]
+[[People.md]]d]]
 
 ## [[Phone Number](Phone%20Number.md)
 
-[[publications.md]]d]]
+[[Publications.md]]d]]
 
 ## [[Search Terms Expertise](Search%20Terms%20Expertise.md)
 
 ## [[Search_Blog]]
 
-[[search_image.md]]d]]
-[[search_misc.md]]d]]
-[[search_tools.md]]d]]
-[[search_torrents.md]]d]]
-[[search_video.md]]d]]
-[[search-tools-fmhy.md]]ols-[[search-tools.md]]earc[[searches.md]]md]]
+[[Search_Image.md]]d]]
+[[Search_Misc.md]]d]]
+[[Search_Tools.md]]d]]
+[[Search_Torrents.md]]d]]
+[[Search_Video.md]]d]]
+[[Search-Tools-Fmhy.md]]ols-[[Search-Tools.md]]earc[[Searches.md]]md]]
 
 ## [[../search/searches.md]]
 
-## [[Similiar Sites](Similiar%20[[specialized.md]]ial [[subdomain.md]]sear[[technology.md]]]]
+## [[Similiar Sites](Similiar%20[[Specialized.md]]ial [[Subdomain.md]]sear[[Technology.md]]]]
 
-# [[telegram.md]]ubdo[[words-vocabulary.md]]h/te[[youtube.md]]## [[../search/telegram.md]]
+# [[Telegram.md]]ubdo[[Words-Vocabulary.md]]h/te[[Youtube.md]]## [[../search/telegram.md]]
 
 ## [[../search/words-vocabulary.md]]
 

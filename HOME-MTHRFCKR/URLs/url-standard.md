@@ -92,12 +92,12 @@ As the editors learn more about the subject matter the goals might increase in s
 
 ## 1. Infrastructure[](https://url.spec.whatwg.org//#infrastructure)
 
-This specification depends on the Infra Standard. [[../ai-and-machine-learning/ai-notes/infra.md]](https://url.spec.whatwg.org//#biblio-infra)
+This specification depends on the Infra Standard. [[../A!-And-Machine-Learning/Ai-Notes/Infra.md]](https://url.spec.whatwg.org//#biblio-infra)
 
 Some terms used in this specification are defined in the following standards and specifications:
 
 - DOM Standard [[DOM]](https://url.spec.whatwg.org//#biblio-dom)
-- Encoding Standard [[../bookmrks-mthrfckr/software-tools/encoding.md]](https://url.spec.whatwg.org//#biblio-encoding)
+- Encoding Standard [[../Bookmrks-Mthrfckr/Software-Tools/Encoding.md]](https://url.spec.whatwg.org//#biblio-encoding)
 - File API [[FILEAPI]](https://url.spec.whatwg.org//#biblio-fileapi)
 - HTML Standard [[../../snippets/html.md]](https://url.spec.whatwg.org//#biblio-html)
 - Media Source Extensions [[MEDIA-SOURCE]](https://url.spec.whatwg.org//#biblio-media-source)

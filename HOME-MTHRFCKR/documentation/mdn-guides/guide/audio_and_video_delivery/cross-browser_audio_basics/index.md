@@ -497,7 +497,7 @@ window.onload = () => {
 
 You should end up with something like this:
 
-![A basic audio player with play/pause button and seek bar](simpleplayer.png)
+![A basic audio player with play/pause button and seek bar](Simpleplayer.png)
 
 ### Seeking using the seek bar
 

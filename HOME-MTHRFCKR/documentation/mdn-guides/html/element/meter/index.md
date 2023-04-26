@@ -113,7 +113,7 @@ This element includes the [global attributes](/en-US/docs/Web/HTML/Global_attrib
 
 On Google Chrome, the resulting meter looks like this:
 
-![current look of \<meter> in Google Chrome](screen_shot_2020-10-12_at_10.10.53_pm.png)
+![current look of \<meter> in Google Chrome](Screen_Shot_2020-10-12_At_10.10.53_Pm.png)
 
 ### High and Low range example
 
@@ -133,7 +133,7 @@ Note that in this example the {{htmlattrxref("min", "meter")}} attribute is omit
 
 On Google Chrome, the resulting meter looks like this:
 
-![red meter in Google Chrome](screen_shot_2020-10-12_at_10.11.52_pm.png)
+![red meter in Google Chrome](Screen_Shot_2020-10-12_At_10.11.52_Pm.png)
 
 ## Specifications
 

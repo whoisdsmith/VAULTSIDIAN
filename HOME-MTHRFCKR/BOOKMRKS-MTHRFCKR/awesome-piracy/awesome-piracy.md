@@ -4,7 +4,7 @@
 
 
 %% Begin Waypoint %%
-- **[awesome-piracy](../../../..//home-mthrfckr/bookmrks-mthrfckr/awesome-piracy/awesome-piracy.md)**
+- **[awesome-piracy](../../../..//home-mthrfckr/Bookmrks-Mthrfckr/Awesome-Piracy/Awesome-Piracy.md)**
 	- **[awesome--piracy](awesome--piracy/awesome--piracy.md)**
 		- [Academic Papers and Material](awesome--piracy/Academic%20Papers%20and%20Material.md)
 		- [Antivirus](awesome--piracy/Antivirus.md)
@@ -53,25 +53,25 @@
 		- [Usenet](awesome--piracy/Usenet.md)
 		- [Userscripts](awesome--piracy/Userscripts.md)
 		- [VPNs](awesome--piracy/VPNs.md)
-	- [awesome-piracy](../../../..//home-mthrfckr/bookmrks-mthrfckr/awesome-piracy/awesome-piracy.md)
-	- **[champagne-guides](champagne-guides/champagne-guides.md)**
-	- **[esoteria-avenue](esoteria-avenue/esoteria-avenue.md)**
-	- **[piracy-misc](piracy-misc/piracy-misc.md)**
-	- **[weboasis](weboasis/weboasis.md)**
-		- [adminfinds-1](weboasis/adminfinds-1.md)
-		- [adminfinds-2](weboasis/adminfinds-2.md)
-		- [adminfinds-3](weboasis/adminfinds-3.md)
-		- [adminfinds-4](weboasis/adminfinds-4.md)
-		- [adminfinds-5](weboasis/adminfinds-5.md)
-		- [adminfinds](weboasis/adminfinds.md)
-		- [consuming-the-world-via-rss-ii](weboasis/consuming-the-world-via-rss-ii.md)
-		- [consuming-the-world-via-rss](weboasis/consuming-the-world-via-rss.md)
-		- [cyberpunk-links](weboasis/cyberpunk-links.md)
-		- [host-domains](weboasis/host-domains.md)
-		- [interesting-links](weboasis/interesting-links.md)
-		- [webby](weboasis/webby.md)
-		- [webdev](weboasis/webdev.md)
-		- [weboasis](weboasis/weboasis.md)
+	- [awesome-piracy](../../../..//home-mthrfckr/Bookmrks-Mthrfckr/Awesome-Piracy/Awesome-Piracy.md)
+	- **[champagne-guides](Champagne-Guides/Champagne-Guides.md)**
+	- **[esoteria-avenue](Esoteria-Avenue/Esoteria-Avenue.md)**
+	- **[piracy-misc](Piracy-Misc/Piracy-Misc.md)**
+	- **[weboasis](Weboasis/Weboasis.md)**
+		- [adminfinds-1](Weboasis/Adminfinds-1.md)
+		- [adminfinds-2](Weboasis/Adminfinds-2.md)
+		- [adminfinds-3](Weboasis/Adminfinds-3.md)
+		- [adminfinds-4](Weboasis/Adminfinds-4.md)
+		- [adminfinds-5](Weboasis/Adminfinds-5.md)
+		- [adminfinds](Weboasis/Adminfinds.md)
+		- [consuming-the-world-via-rss-ii](Weboasis/Consuming-The-World-Via-Rss-Ii.md)
+		- [consuming-the-world-via-rss](Weboasis/Consuming-The-World-Via-Rss.md)
+		- [cyberpunk-links](Weboasis/Cyberpunk-Links.md)
+		- [host-domains](Weboasis/Host-Domains.md)
+		- [interesting-links](Weboasis/Interesting-Links.md)
+		- [webby](Weboasis/Webby.md)
+		- [webdev](Weboasis/Webdev.md)
+		- [weboasis](Weboasis/Weboasis.md)
 
 %% End Waypoint %%
 

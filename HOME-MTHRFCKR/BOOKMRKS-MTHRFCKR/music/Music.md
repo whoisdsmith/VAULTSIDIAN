@@ -4,9 +4,9 @@
 
 %% Begin Waypoint %%
 
-- **[music](../../../..//home-mthrfckr/bookmrks-mthrfckr/music/music.md)**
-  - [music-dl](music-dl.md)
-  - [music](../../../..//home-mthrfckr/bookmrks-mthrfckr/music/music.md)
-  - [pro-audio](pro-audio.md)
+- **[music](../../../..//home-mthrfckr/Bookmrks-Mthrfckr/Music/Music.md)**
+  - [music-dl](Music-Dl.md)
+  - [music](../../../..//home-mthrfckr/Bookmrks-Mthrfckr/Music/Music.md)
+  - [pro-audio](Pro-Audio.md)
 
 %% End Waypoint %%

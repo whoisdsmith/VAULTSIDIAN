@@ -3,7 +3,7 @@
 ---
 
 %% Begin Waypoint %%
-- **[raindrops](../../../..//home-mthrfckr/bookmrks-mthrfckr/raindrops/raindrops.md)**
+- **[raindrops](../../../..//home-mthrfckr/Bookmrks-Mthrfckr/Raindrops/Raindrops.md)**
 	- **[BOOKMRKS--MTHRFCKR](BOOKMRKS--MTHRFCKR/BOOKMRKS--MTHRFCKR.md)**
 		- [BOOKMRKS--MTHRFCKR](BOOKMRKS--MTHRFCKR/BOOKMRKS--MTHRFCKR.md)
 		- [BOOKMRKS-MTHRFCKR](BOOKMRKS--MTHRFCKR/BOOKMRKS-MTHRFCKR.md)
@@ -227,8 +227,8 @@
 			- [WEBDEV--MTHRFCKR](BOOKMRKS--MTHRFCKR/WEBDEV--MTHRFCKR/WEBDEV--MTHRFCKR.md)
 			- [WEBDEV-MTHRFCKR](BOOKMRKS--MTHRFCKR/WEBDEV--MTHRFCKR/WEBDEV-MTHRFCKR.md)
 			- [WEBSITE](BOOKMRKS--MTHRFCKR/WEBDEV--MTHRFCKR/WEBSITE.md)
-	- [MTHRFCKR-API](MTHRFCKR-API.md)
-	- [raindrops](../../../..//home-mthrfckr/bookmrks-mthrfckr/raindrops/raindrops.md)
+	- [MTHRFCKR-API](Mthrfckr-Api.md)
+	- [raindrops](../../../..//home-mthrfckr/Bookmrks-Mthrfckr/Raindrops/Raindrops.md)
 
 %% End Waypoint %%
 

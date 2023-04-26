@@ -59,7 +59,7 @@ Almost any web content can be converted to a link so that when clicked or otherw
 
 For example, the BBC homepage contains many links that point not only to multiple news stories, but also different areas of the site (navigation functionality), login/registration pages (user tools), and more.
 
-![front page of bbc.co.uk, showing many news items, and navigation menu functionality](updated-bbc-website.png)
+![front page of bbc.co.uk, showing many news items, and navigation menu functionality](Updated-Bbc-Website.png)
 
 ## Anatomy of a link
 
@@ -127,7 +127,7 @@ A URL, or Uniform Resource Locator is a string of text that defines where someth
 
 URLs use paths to find files. Paths specify where the file you're interested in is located in the filesystem. Let's look at an example of a directory structure, see the [creating-hyperlinks](https://github.com/mdn/learning-area/tree/main/html/introduction-to-html/creating-hyperlinks) directory.
 
-![A simple directory structure. The parent directory is called creating-hyperlinks and contains two files called index.html and contacts.html, and two directories called projects and pdfs, which contain an index.html and a project-brief.pdf file, respectively](simple-directory.png)
+![A simple directory structure. The parent directory is called creating-hyperlinks and contains two files called index.html and contacts.html, and two directories called projects and pdfs, which contain an index.html and a project-brief.pdf file, respectively](Simple-Directory.png)
 
 The **root** of this directory structure is called `creating-hyperlinks`. When working locally with a website, you'll have one directory that contains the entire site. Inside the **root**, we have an `index.html` file and a `contacts.html`. In a real website, `index.html` would be our home page or landing page (a web page that serves as the entry point for a website or a particular section of a website.).
 
@@ -307,7 +307,7 @@ You should:
 
 The finished example should look similar to the following page:
 
-![An example of a simple HTML navigation menu, with home, pictures, projects, and social menu items](navigation-example.png)
+![An example of a simple HTML navigation menu, with home, pictures, projects, and social menu items](Navigation-Example.png)
 
 > **Note:** If you get stuck, or aren't sure if you have got it right, you can check the [navigation-menu-marked-up](https://github.com/mdn/learning-area/tree/main/html/introduction-to-html/navigation-menu-marked-up) directory to see the correct answer.
 

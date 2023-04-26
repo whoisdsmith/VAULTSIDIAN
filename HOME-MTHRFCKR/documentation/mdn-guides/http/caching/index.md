@@ -77,7 +77,7 @@ That means if a managed cache intentionally ignores a `no-store` directive, ther
 
 Note that some CDNs provide their own headers that are effective only for that CDN (for example, `Surrogate-Control`). Currently, work is underway to define a [`CDN-Cache-Control`](https://httpwg.org/specs/rfc9213.html) header to standardize those.
 
-![Type of Cache](type-of-cache.png)
+![Type of Cache](Type-Of-Cache.png)
 
 ## Heuristic caching
 
@@ -162,7 +162,7 @@ If both `Expires` and `Cache-Control: max-age` are available, `max-age` is defin
 
 The way that responses are distinguished from one another is essentially based on their URLs:
 
-![keyed with url](keyed-with-url.png)
+![keyed with url](Keyed-With-Url.png)
 
 But the contents of responses are not always the same, even if they have the same URL. Especially when content negotiation is performed, the response from the server can depend on the values of the `Accept`, `Accept-Language`, and `Accept-Encoding` request headers.
 
@@ -174,7 +174,7 @@ Vary: Accept-Language
 
 That causes the cache to be keyed based on a composite of the response URL and the `Accept-Language` request header — rather than being based just on the response URL.
 
-![keyed with url and language](keyed-with-url-and-language.png)
+![keyed with url and language](Keyed-With-Url-And-Language.png)
 
 Also, if you are providing content optimization (for example, for responsive design) based on the user agent, you may be tempted to include "`User-Agent`" in the value of the `Vary` header. However, the `User-Agent` request header generally has a very large number of variations, which drastically reduces the chance that the cache will be reused. So if possible, instead consider a way to vary behavior based on feature detection rather than based on the `User-Agent` request header.
 
@@ -476,7 +476,7 @@ Request collapse occurs when requests are arriving at the same time, so even if 
 
 If the response is personalized to a particular user and you do not want it to be shared in collapse, you should add the `private` directive:
 
-![Request Collapse](request-collapse.png)
+![Request Collapse](Request-Collapse.png)
 
 ## Common caching patterns
 

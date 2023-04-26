@@ -82,7 +82,7 @@ We've already seen the {{htmlelement("title")}} element in action — this can b
 
 2. Now open the file in your browser. You should see something like this:
 
-   ![A simple web page with the title set to \<title> element, and the \<h1> set to \<h1> element.](title-example.png)
+   ![A simple web page with the title set to \<title> element, and the \<h1> set to \<h1> element.](Title-Example.png)
 
    It should now be completely obvious where the `<h1>` content appears and where the `<title>` content appears!
 
@@ -90,7 +90,7 @@ We've already seen the {{htmlelement("title")}} element in action — this can b
 
 The `<title>` element contents are also used in other ways. For example, if you try bookmarking the page (_Bookmarks > Bookmark This Page_ or the star icon in the URL bar in Firefox), you will see the `<title>` contents filled in as the suggested bookmark name.
 
-![A webpage being bookmarked in Firefox; the bookmark name has been automatically filled in with the contents of the \<title> element ](bookmark-example.png)
+![A webpage being bookmarked in Firefox; the bookmark name has been automatically filled in with the contents of the \<title> element ](Bookmark-Example.png)
 
 The `<title>` contents are also used in search results, as you'll see below.
 
@@ -108,9 +108,9 @@ In the example we saw above, this line was included:
 
 This element specifies the document's character encoding — the character set that the document is permitted to use. `utf-8` is a universal character set that includes pretty much any character from any human language. This means that your web page will be able to handle displaying any language; it's therefore a good idea to set this on every web page you create! For example, your page could handle English and Japanese just fine:
 
-![a web page containing English and Japanese characters, with the character encoding set to universal, or utf-8. Both languages display fine,](correct-encoding.png)If you set your character encoding to `ISO-8859-1`, for example (the character set for the Latin alphabet), your page rendering may appear all messed up:
+![a web page containing English and Japanese characters, with the character encoding set to universal, or utf-8. Both languages display fine,](Correct-Encoding.png)If you set your character encoding to `ISO-8859-1`, for example (the character set for the Latin alphabet), your page rendering may appear all messed up:
 
-![a web page containing English and Japanese characters, with the character encoding set to latin. The Japanese characters don't display correctly](bad-encoding.png)
+![a web page containing English and Japanese characters, with the character encoding set to latin. The Japanese characters don't display correctly](Bad-Encoding.png)
 
 > **Note:** Some browsers (like Chrome) automatically fix incorrect encodings, so depending on what browser you use, you may not see this problem. You should still set an encoding of `utf-8` on your page anyway to avoid any potential problems in other browsers.
 
@@ -163,7 +163,7 @@ The description is also used on search engine result pages. Let's go through an 
 
 4. Now search for "MDN Web Docs" in your favorite search engine (We used Google.) You'll notice the description `<meta>` and `<title>` element content used in the search result — definitely worth having!
 
-   ![A Yahoo search result for "Mozilla Developer Network"](mdn-search-result.png)
+   ![A Yahoo search result for "Mozilla Developer Network"](Mdn-Search-Result.png)
 
 > **Note:** In Google, you will see some relevant subpages of MDN Web Docs listed below the main homepage link — these are called sitelinks, and are configurable in [Google's webmaster tools](https://search.google.com/search-console/about?hl=en) — a way to make your site's search results better in the Google search engine.
 
@@ -189,7 +189,7 @@ and HTML Apps." />
 
 One effect of this is that when you link to MDN Web Docs on Facebook, the link appears along with an image and description: a richer experience for users.
 
-![Open graph protocol data from the MDN homepage as displayed on facebook, showing an image, title, and description.](facebook-output.png)
+![Open graph protocol data from the MDN homepage as displayed on facebook, showing an image, title, and description.](Facebook-Output.png)
 
 Twitter also has its own similar proprietary metadata called [Twitter Cards](https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/abouts-cards), which has a similar effect when the site's URL is displayed on twitter.com. For example:
 
@@ -214,7 +214,7 @@ A favicon can be added to your page by:
 
 Here is an example of a favicon in a bookmarks panel:
 
-![The Firefox bookmarks panel, showing a bookmarked example with a favicon displayed next to it.](bookmark-favicon.png)
+![The Firefox bookmarks panel, showing a bookmarked example with a favicon displayed next to it.](Bookmark-Favicon.png)
 
 There are lots of other icon types to consider these days as well. For example, you'll find this in the source code of the MDN Web Docs homepage:
 
@@ -276,7 +276,7 @@ Just about all websites you'll use in the modern day will employ {{glossary("CSS
 
 If done correctly, when you save your HTML and refresh your browser you should be able to see that things have changed:
 
-![Example showing a page with CSS and JavaScript applied to it. The CSS has made the page go green, whereas the JavaScript has added a dynamic list to the page.](js-and-css.png)
+![Example showing a page with CSS and JavaScript applied to it. The CSS has made the page go green, whereas the JavaScript has added a dynamic list to the page.](Js-And-Css.png)
 
 - The JavaScript has added an empty list to the page. Now when you click anywhere outside the list, a dialog box will pop up asking you to enter some text for a new list item. When you press the OK button, a new list item will be added to the list containing the text. When you click on an existing list item, a dialog box will pop up allowing you to change the item's text.
 - The CSS has caused the background to go green, and the text to become bigger. It has also styled some of the content that the JavaScript has added to the page (the red bar with the black border is the styling the CSS has added to the JS-generated list.)

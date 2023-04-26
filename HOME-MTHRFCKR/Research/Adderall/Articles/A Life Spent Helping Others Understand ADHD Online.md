@@ -29,7 +29,7 @@ She began researching A.D.H.D. but had trouble organizing all the information sh
 
 In the beginning she found information for her videos on Google searches, but realized that there was a lot of misinformation about A.D.H.D. on the internet. “After I made it public, I thought, ‘I’m a college dropout. I don’t have a degree in this. I should not be educating people,’” she said.
 
-Rachelle LeDuc-Cairns, a registered nurse in Canada, offered to teach her how to analyze research studies for their validity. Then Patrick LaCount, a postdoctoral fellow at the Center for Child Health, Behavior and Development at Seattle Children’s [[../../research.md]] Institute, began to meet with her weekly to review and discuss research studies. Today, she calls upon experts to help her on each subject, though her videos are not reviewed by a professional on a weekly basis.
+Rachelle LeDuc-Cairns, a registered nurse in Canada, offered to teach her how to analyze research studies for their validity. Then Patrick LaCount, a postdoctoral fellow at the Center for Child Health, Behavior and Development at Seattle Children’s [[../../Research.md]] Institute, began to meet with her weekly to review and discuss research studies. Today, she calls upon experts to help her on each subject, though her videos are not reviewed by a professional on a weekly basis.
 
 “She has done a fine job popularizing the scientific findings in A.D.H.D. and bringing more attention to the condition, destigmatizing it and even motivating others with the condition and their families to obtain further information about it,” said [Russell Barkley](http://russellbarkley.org/), a clinical professor of psychiatry at the Virginia Commonwealth University Medical Center.
 

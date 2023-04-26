@@ -22,7 +22,7 @@ The **`theme-color`** value for the {{htmlattrxref("name", "meta")}} attribute o
 
 The following image shows the effect that the {{htmlelement("meta")}} element above will have on a document displayed in Chrome running on an Android mobile device.
 
-![Image showing the effect of using theme-color](theme-color.png)
+![Image showing the effect of using theme-color](Theme-Color.png)
 
 _Image credit: from [Icons & Browser Colors](https://web.dev/icons-and-browser-colors/), created and shared by Google and used according to terms described in the [Creative Commons 4.0 Attribution License](https://creativecommons.org/licenses/by/4.0/)._
 

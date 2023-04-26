@@ -4,10 +4,10 @@
 
 %% Begin Waypoint %%
 
-- **[Content](../../../..//home-mthrfckr/bookmrks-mthrfckr/content/content.md)**
-  - [communities](communities.md)
-  - [content-blogs-rss-and-feeds](content-blogs-rss-and-feeds.md)
-  - [Content](../../../..//home-mthrfckr/bookmrks-mthrfckr/content/content.md)
-  - [social-media](social-media.md)
+- **[Content](../../../..//home-mthrfckr/Bookmrks-Mthrfckr/Content/Content.md)**
+  - [communities](Communities.md)
+  - [content-blogs-rss-and-feeds](Content-Blogs-Rss-And-Feeds.md)
+  - [Content](../../../..//home-mthrfckr/Bookmrks-Mthrfckr/Content/Content.md)
+  - [social-media](Social-Media.md)
 
 %% End Waypoint %%

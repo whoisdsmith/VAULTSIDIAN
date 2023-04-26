@@ -4,11 +4,11 @@
 
 ***
 
-[Data Integration and Visualisers](data-integration-and-visualisers.md)
+[Data Integration and Visualisers](Data-Integration-And-Visualisers.md)
 
-[Financial](financial.md)
+[Financial](Financial.md)
 
-[Journal](journal.md)
+[Journal](Journal.md)
 
 [Lifeline Development](../../Lifeline%20Development.md)
 

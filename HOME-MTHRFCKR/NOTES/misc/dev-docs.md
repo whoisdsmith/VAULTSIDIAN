@@ -3,7 +3,7 @@
 ---
 
 %% Begin Waypoint %%
-- **[dev-docs](../../../..//home-mthrfckr/notes/misc/dev-docs.md)**
+- **[dev-docs](../../../..//home-mthrfckr/Notes/Misc/Dev-Docs.md)**
 	- **actions**
 		- [github-actions-concepts](./actions/github-actions-concepts.md)
 		- [github-actions-tutorial](./actions/github-actions-tutorial.md)
@@ -48,7 +48,7 @@
 		- [webauthn](./api-tools/webauthn.md)
 	- **[applescript](./applescript/applescript.md)**
 	- **[automation](./automation/automation.md)**
-	- [autotextexpander](autotextexpander.md)
+	- [autotextexpander](Autotextexpander.md)
 	- **[awesome](./awesome/awesome.md)**
 	- **aws**
 		- [basics](./aws/basics.md)
@@ -56,15 +56,15 @@
 		- [caching-servers](./basics/caching-servers.md)
 		- [firewalls](./basics/firewalls.md)
 		- [proxy-servers](./basics/proxy-servers.md)
-	- [blog-post-workflow](blog-post-workflow.md)
-	- [bookmarklets-guide](bookmarklets-guide.md)
+	- [blog-post-workflow](Blog-Post-Workflow.md)
+	- [bookmarklets-guide](Bookmarklets-Guide.md)
 	- **[cheatsheets](./cheatsheets/cheatsheets.md)**
 	- **chef**
 		- [chef-commands](./chef/chef-commands.md)
 		- [chef-concepts](./chef/chef-concepts.md)
 		- [readme](./chef/readme.md)
-	- [chrome-flags](chrome-flags.md)
-	- [chromeurls](chromeurls.md)
+	- [chrome-flags](Chrome-Flags.md)
+	- [chromeurls](Chromeurls.md)
 	- **[cloud](./cloud/cloud.md)**
 		- [cloud-ai](./cloud/cloud-ai.md)
 		- [cloud-dev](./cloud/cloud-dev.md)
@@ -75,17 +75,17 @@
 		- [cloud](./cloud/cloud.md)
 		- [google-cloud-platform-a-cheat-sheet-techrepublic](./cloud/google-cloud-platform-a-cheat-sheet-techrepublic.md)
 		- [your-complete-guide-to-free-google-services](./cloud/your-complete-guide-to-free-google-services.md)
-	- [code-design-schools](code-design-schools.md)
-	- [code-editors](code-editors.md)
-	- [code-runner](code-runner.md)
-	- [code-search-engines](code-search-engines.md)
-	- [code-search](code-search.md)
-	- [code-signing](code-signing.md)
-	- [code-time](code-time.md)
-	- [coderoad](coderoad.md)
-	- [coding-challenge-platforms](coding-challenge-platforms.md)
-	- [config](config.md)
-	- [create-my-awesome](create-my-awesome.md)
+	- [code-design-schools](Code-Design-Schools.md)
+	- [code-editors](Code-Editors.md)
+	- [code-runner](Code-Runner.md)
+	- [code-search-engines](Code-Search-Engines.md)
+	- [code-search](Code-Search.md)
+	- [code-signing](Code-Signing.md)
+	- [code-time](Code-Time.md)
+	- [coderoad](Coderoad.md)
+	- [coding-challenge-platforms](Coding-Challenge-Platforms.md)
+	- [config](home-mthrfckr/Notes/Misc/Config.md)
+	- [create-my-awesome](Create-My-Awesome.md)
 	- **[dashy](./dashy/dashy.md)**
 		- **dashy-configs**
 			- [readme](./dashy/dashy-configs/readme.md)
@@ -107,7 +107,7 @@
 		- [linux-commands](./dev-articles/linux-commands.md)
 		- [thecompleteguidetoregularexpressionsregex](./dev-articles/thecompleteguidetoregularexpressionsregex.md)
 		- [top-10-architecture-characteristics-non-functional-requirements-with-cheatsheet-by-love-sharma-jun-2022-dev-genius](./dev-articles/top-10-architecture-characteristics-non-functional-requirements-with-cheatsheet-by-love-sharma-jun-2022-dev-genius.md)
-	- [dev-docs](../../../..//home-mthrfckr/notes/misc/dev-docs.md)
+	- [dev-docs](../../../..//home-mthrfckr/Notes/Misc/Dev-Docs.md)
 	- [developer-relations](./developer-relations.md)
 	- [development-environments](./development-environments.md)
 	- [development](./development.md)

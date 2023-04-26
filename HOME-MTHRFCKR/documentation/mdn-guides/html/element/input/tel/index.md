@@ -163,7 +163,7 @@ One of the main advantages of `<input type="tel">` is that it causes mobile brow
 
 | Firefox for Android                                    | WebKit iOS (Safari/Chrome/Firefox)                           |
 | ------------------------------------------------------ | ------------------------------------------------------------ |
-| ![Firefox for Android screen shot](fx-android-tel.png) | ![Firefox for iOS screenshot](iphone-tel-keyboard-50pct.png) |
+| ![Firefox for Android screen shot](Fx-Android-Tel.png) | ![Firefox for iOS screenshot](Iphone-Tel-Keyboard-50Pct.png) |
 
 ### A simple tel input
 
@@ -258,7 +258,7 @@ With the {{HTMLElement("datalist")}} element and its {{HTMLElement("option")}}s 
 
 Here's a screenshot of what that might look like:
 
-![An input box has focus with a blue focus ring. The input has a drop-down menu showing four phone numbers the user can select.](phone-number-with-options.png)
+![An input box has focus with a blue focus ring. The input has a drop-down menu showing four phone numbers the user can select.](Phone-Number-With-Options.png)
 
 ## Validation
 

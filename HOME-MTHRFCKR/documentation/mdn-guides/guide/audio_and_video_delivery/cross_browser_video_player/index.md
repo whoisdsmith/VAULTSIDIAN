@@ -14,7 +14,7 @@ This article describes a simple HTML video player that uses the Media and Fullsc
 
 Our example video player displays a clip from an open source movie called [Tears of Steel](https://mango.blender.org/about/), and includes typical video controls.
 
-![a shot of a video player, with several control buttons such as play, pause and stop. The video is showing a group of men fighting a group of robots.](video-player-example.png)
+![a shot of a video player, with several control buttons such as play, pause and stop. The video is showing a group of men fighting a group of robots.](Video-Player-Example.png)
 
 > **Note:** You can see the [example running live](https://iandevlin.github.io/mdn/video-player/), or check out the [source code on GitHub](https://github.com/iandevlin/iandevlin.github.io/tree/master/mdn/video-player).
 

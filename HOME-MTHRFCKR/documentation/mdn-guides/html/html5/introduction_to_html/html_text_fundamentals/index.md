@@ -43,7 +43,7 @@ One of HTML's main jobs is to give text structure so that a browser can display 
 
 Most structured text consists of headings and paragraphs, whether you are reading a story, a newspaper, a college textbook, a magazine, etc.
 
-![An example of a newspaper front cover, showing use of a top level heading, subheadings and paragraphs.](newspaper_small.jpg)
+![An example of a newspaper front cover, showing use of a top level heading, subheadings and paragraphs.](Newspaper_Small.jpg)
 
 Structured content makes the reading experience easier and more enjoyable.
 
@@ -100,7 +100,7 @@ To answer this question, let's take a look at [text-start.html](https://github.c
 
 However, when you open the document in your browser, you'll see that the text appears as a big chunk!
 
-![A webpage that shows a wall of unformatted text, because there are no elements on the page to structure it.](screen_shot_2017-03-29_at_09.20.35.png)
+![A webpage that shows a wall of unformatted text, because there are no elements on the page to structure it.](Screen_Shot_2017-03-29_At_09.20.35.png)
 
 This is because there are no elements to give the content structure, so the browser does not know what is a heading and what is a paragraph. Furthermore:
 

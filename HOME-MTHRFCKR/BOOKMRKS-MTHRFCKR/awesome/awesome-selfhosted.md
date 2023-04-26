@@ -117,7 +117,7 @@ See [Contributing](.github/CONTRIBUTING.md).
 
 ### Analytics
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 **Please visit [Awesome Analytics](https://github.com/0xnr/awesome-analytics)**
 
@@ -126,7 +126,7 @@ _Related: [Personal Dashboards](#personal-dashboards)_
 
 ### Archiving and Digital Preservation (DP)
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 _Related: [Content Management Systems (CMS)](#content-management-systems-cms)_
 
@@ -141,7 +141,7 @@ _Related: [Content Management Systems (CMS)](#content-management-systems-cms)_
 
 ### Automation
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 _Related: [Internet of Things (IoT)](#internet-of-things-iot)_
 
@@ -192,7 +192,7 @@ _Related: [Internet of Things (IoT)](#internet-of-things-iot)_
 
 ### Blogging Platforms
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 _Related: [Static Site Generators](#static-site-generators), [Content Management Systems (CMS)](#content-management-systems-cms)_
 
@@ -220,7 +220,7 @@ _See also: [WeblogMatrix](https://www.weblogmatrix.org/)_
 
 ### Booking and Scheduling
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 _Related: [Polls and Events](#polls-and-events)_
 
@@ -231,7 +231,7 @@ _Related: [Polls and Events](#polls-and-events)_
 
 ### Bookmarks and Link Sharing
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 - [dyu bookmarks](https://github.com/dyu/bookmarks) - Single-threaded/process bookmark app powered by leveldb and uWebSockets. Supports importing from Delicious and Chrome. ([Demo](https://dyuproject.com/bookmarks/)) `Apache-2.0` `Java`
 - [Espial](https://github.com/jonschoning/espial) - An open-source, web-based bookmarking server. `AGPL-3.0` `Haskell`
@@ -254,7 +254,7 @@ _Related: [Polls and Events](#polls-and-events)_
 
 ### Calendar & Contacts
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 _Related: [Groupware](#groupware)_
 
@@ -263,7 +263,7 @@ _See also: [Comparison of CalDAV and CardDAV implementations - Wikipedia](https:
 
 ### Calendar & Contacts - CalDAV or CardDAV Servers
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 - [Baïkal](https://sabre.io/baikal/) - Lightweight CalDAV and CardDAV server based on sabre/dav. ([Source Code](https://github.com/sabre-io/Baikal)) `GPL-3.0` `PHP`
 - [calypso](https://keithp.com/calypso/) - Python-based CalDAV and CardDAV server, forked from Radicale. ([Source Code](https://keithp.com/git/calypso.git)) `GPL-3.0` `Python`
@@ -278,7 +278,7 @@ _See also: [Comparison of CalDAV and CardDAV implementations - Wikipedia](https:
 
 ### Calendar & Contacts - CalDAV or CardDAV Web-based Clients
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 - [AgenDAV](https://agendav.org/) - Multilanguage CalDAV web client with a rich AJAX interface and shared calendars support. ([Source Code](https://github.com/agendav/agendav)) `GPL-3.0` `PHP`
 - [EteSync Web](https://www.etesync.com/faq/#web-client) - EteSync's official Web-based client (i.e., their Web app). ([Demo](https://client.etesync.com/), [Source Code](https://github.com/etesync/etesync-web)) `AGPL-3.0` `Javascript`
@@ -286,12 +286,12 @@ _See also: [Comparison of CalDAV and CardDAV implementations - Wikipedia](https:
 
 ### Communication
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 
 ### Communication - Custom Communication Systems
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 - [BluetoothCommunicatorExample](https://github.com/niedev/BluetoothCommunicatorExample) - Bluetooth LE chat app to communicate between android devices with P2P architecture. ([Clients](https://github.com/niedev/RTranslator)) `Apache-2.0` `Java`
 - [Centrifugo](https://github.com/centrifugal/centrifugo) - Language-agnostic real-time messaging (Websocket or SockJS) server. ([Demo](https://github.com/centrifugal/centrifugo#demo)) `MIT` `Go`
@@ -346,12 +346,12 @@ _See also: [Comparison of CalDAV and CardDAV implementations - Wikipedia](https:
 
 ### Communication - Email
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 
 ### Communication - Email - Complete Solutions
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 Simple deployment of a mail server, e.g. for inexperienced or impatient admins.
 
@@ -376,7 +376,7 @@ Simple deployment of a mail server, e.g. for inexperienced or impatient admins.
 
 ### Communication - Email - Mail Delivery Agents
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 MDAs - IMAP/POP3 software
 
@@ -388,7 +388,7 @@ MDAs - IMAP/POP3 software
 
 ### Communication - Email - Mail Transfer Agents
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 MTAs / SMTP servers
 
@@ -408,7 +408,7 @@ MTAs / SMTP servers
 
 ### Communication - Email - Mailing Lists and Newsletters
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 Mailing lists servers and mass mailing software - one message to many recipients.
 
@@ -428,7 +428,7 @@ Mailing lists servers and mass mailing software - one message to many recipients
 
 ### Communication - Email - Webmail Clients
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 - [Afterlogic WebMail Lite](https://afterlogic.org/webmail-lite) - Fast and easy-to-use webmail front-end for your existing IMAP mail server, Plesk or cPanel. ([Demo](https://lite.afterlogic.com/), [Source Code](https://github.com/afterlogic/webmail-lite)) `AGPL-3.0` `PHP`
 - [Cypht](https://cypht.org) - Feed reader for your email accounts. ([Source Code](https://github.com/jasonmunro/cypht)) `LGPL-2.1` `PHP`
@@ -443,7 +443,7 @@ Mailing lists servers and mass mailing software - one message to many recipients
 
 ### Communication - IRC
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) communication software
 
@@ -465,7 +465,7 @@ Mailing lists servers and mass mailing software - one message to many recipients
 
 ### Communication - SIP
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 [SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol)/[IPBX](https://en.wikipedia.org/wiki/IP_PBX) telephony software
 
@@ -487,7 +487,7 @@ Mailing lists servers and mass mailing software - one message to many recipients
 
 ### Communication - Social Networks and Forums
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 - [Abilian SBE](https://github.com/abilian/abilian-sbe) - Open Source Collaboration and Social Networking framework and platform. `LGPL-2.1` `Python`
 - [Anahita](https://www.getanahita.com/) - Open Source Social Networking Framework and Platform. ([Source Code](https://github.com/anahitasocial)) `GPL-3.0` `PHP`
@@ -551,14 +551,14 @@ Mailing lists servers and mass mailing software - one message to many recipients
 
 ### Communication - XMPP
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 [Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP) software
 
 
 ### Communication - XMPP - Servers
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 - [ejabberd](https://www.ejabberd.im/) - XMPP instant messaging server. ([Source Code](https://github.com/processone/ejabberd)) `GPL-2.0` `Erlang`
 - [jackal](https://github.com/ortuman/jackal) - XMPP server with focus on stability, simple configuration and low resource consumption. `Apache-2.0` `Go`
@@ -573,7 +573,7 @@ Mailing lists servers and mass mailing software - one message to many recipients
 
 ### Communication - XMPP - Web Clients
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 - [Candy](https://candy-chat.github.io/candy/) - Multi user XMPP client written in Javascript. ([Source Code](https://github.com/candy-chat/candy)) `MIT` `Javascript`
 - [Converse.js](https://conversejs.org/) - Free and open-source XMPP chat client in your browser. ([Source Code](https://github.com/conversejs/converse.js)) `MPL-2.0` `Javascript`
@@ -584,7 +584,7 @@ Mailing lists servers and mass mailing software - one message to many recipients
 
 ### Community-Supported Agriculture (CSA)
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 Management and administration tools for community supported agriculture and food cooperatives
 
@@ -603,7 +603,7 @@ _Related: [E-commerce](#e-commerce)_
 
 ### Conference Management
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 - [BigBlueButton](https://bigbluebutton.org/) - Supports real-time sharing of audio, video, slides (with whiteboard controls), chat, and the screen. Instructors can engage remote students with polling, emojis, and breakout rooms. ([Demo](https://demo.bigbluebutton.org/gl), [Source Code](https://github.com/bigbluebutton/bigbluebutton)) `LGPL-3.0` `Java`
 - [Conference Organizing Distribution (COD)](http://usecod.com/) - Create conference and event websites built on top of Drupal. ([Source Code](https://git.drupalcode.org/project/cod)) `GPL-1.0` `PHP`
@@ -617,7 +617,7 @@ _Related: [E-commerce](#e-commerce)_
 
 ### Content Management Systems (CMS)
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 CMS are a practical way to setup a website with many features. CMS often come with third party plugins, themes and functionality that is easy to add and customize to your needs.
 
@@ -673,7 +673,7 @@ _Related: [Blogging Platforms](#blogging-platforms), [Static Site Generators](#s
 
 ### DNS
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 _See also: [awesome-sysadmin/DNS](https://github.com/awesome-foss/awesome-sysadmin#dns)_
 
@@ -686,7 +686,7 @@ _See also: [awesome-sysadmin/DNS](https://github.com/awesome-foss/awesome-sysadm
 
 ### Document Management
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 - [DOCAT](https://github.com/randombenj/docat) - Host your docs. Simple. Versioned. Fancy. `MIT` `Python/Docker`
 - [Docspell](https://docspell.org) - Auto-tagging document organizer and archive. ([Source Code](https://github.com/eikek/docspell)) `GPL-3.0` `Scala/Java`
@@ -701,7 +701,7 @@ _See also: [awesome-sysadmin/DNS](https://github.com/awesome-foss/awesome-sysadm
 
 ### Document Management - E-books
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 - [BicBucStriim](https://projekte.textmulch.de/bicbucstriim/) - Provides web-based access to your Calibre Library's e-book collection. ([Source Code](https://github.com/rvolz/BicBucStriim)) `MIT` `PHP`
 - [Calibre Web](https://github.com/janeczku/calibre-web) - Web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database. `GPL-3.0` `Python`
@@ -717,7 +717,7 @@ _See also: [awesome-sysadmin/DNS](https://github.com/awesome-foss/awesome-sysadm
 
 ### Document Management - Institutional Repository and Digital Library Software
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 - [DSpace](https://duraspace.org/dspace/) - Turnkey repository application providing durable access to digital resources. ([Source Code](https://github.com/DSpace/DSpace)) `BSD-3-Clause` `Java`
 - [EPrints](https://www.eprints.org/) - Digital document management system with a flexible metadata and workflow model primarily aimed at academic institutions. ([Demo](http://tryme.demo.eprints-hosting.org/), [Source Code](https://github.com/eprints/eprints)) `GPL-3.0` `Perl`
@@ -728,7 +728,7 @@ _See also: [awesome-sysadmin/DNS](https://github.com/awesome-foss/awesome-sysadm
 
 ### Document Management - Integrated Library Systems (ILS)
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 _Related: [Content Management Systems (CMS)](#content-management-systems-cms), [Archiving and Digital Preservation (DP)](#archiving-and-digital-preservation-dp)_
 
@@ -739,7 +739,7 @@ _Related: [Content Management Systems (CMS)](#content-management-systems-cms), [
 
 ### E-commerce
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 _Related: [Community-Supported Agriculture (CSA)](#community-supported-agriculture-csa)_
 
@@ -770,14 +770,14 @@ _Related: [Community-Supported Agriculture (CSA)](#community-supported-agricultu
 
 ### Federated Identity & Authentication
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 **Please visit [awesome-sysadmin/Identity Management](https://github.com/awesome-foss/awesome-sysadmin#identity-management)**
 
 
 ### Feed Readers
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 A [news aggregator](https://en.wikipedia.org/wiki/News_aggregator), also termed a feed aggregator, feed reader, news reader, [RSS](https://en.wikipedia.org/wiki/RSS) reader or simply an aggregator, is client software or a web application that aggregates syndicated web content such as online newspapers, blogs/vlogs, podcasts, and other updates in one location for easy viewing. This also section includes RSS/Atom automation tools.
 
@@ -818,7 +818,7 @@ A [news aggregator](https://en.wikipedia.org/wiki/News_aggregator), also termed 
 
 ### File Transfer & Synchronization
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 _Related: [Groupware](#groupware)_
 
@@ -840,14 +840,14 @@ _Related: [Groupware](#groupware)_
 
 ### File Transfer - Distributed Filesystems
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 **Please visit [awesome-sysadmin/Distributed Filesystems](https://github.com/awesome-foss/awesome-sysadmin#distributed-filesystems)**
 
 
 ### File Transfer - Object Storage & File Servers
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 - [Minio](https://minio.io/) - Minio is an open source object storage server compatible with Amazon S3 APIs. ([Source Code](https://github.com/minio/minio)) `Apache-2.0` `Go`
 - [SeaweedFS](https://github.com/chrislusf/seaweedfs) - SeaweedFS is an open source distributed file system supporting WebDAV, S3 API, FUSE mount, HDFS, etc, optimized for lots of small files, and easy to add capacity. `Apache-2.0` `Go`
@@ -857,7 +857,7 @@ _Related: [Groupware](#groupware)_
 
 ### File Transfer - Peer-to-peer Filesharing
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 - [bittorrent-tracker](https://webtorrent.io/) - Simple, robust, BitTorrent tracker (client and server) implementation. ([Source Code](https://github.com/webtorrent/bittorrent-tracker)) `MIT` `Nodejs`
 - [cloud-torrent](https://github.com/jpillora/cloud-torrent) - Torrent Web Client with HTTP retrievable or streamable downloaded files. `AGPL-3.0` `Go`
@@ -878,7 +878,7 @@ _Related: [Groupware](#groupware)_
 
 ### File Transfer - Single-click & Drag-n-drop Upload
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 - [ass](https://github.com/tycrek/ass) - The superior self-hosted ShareX server. For use with clients such as ShareX (Windows), Flameshot (Linux), & MagicCap (Linux, macOS). `ISC` `Nodejs`
 - [BoZoN](https://github.com/broncowdd/BoZoN) - Minimalist Drag and drop file sharing app. `AGPL-3.0` `PHP`
@@ -919,7 +919,7 @@ _Related: [Groupware](#groupware)_
 
 ### File Transfer - Web-based File Managers
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 - [Apaxy](https://oupala.github.io/apaxy/) - Theme built to enhance the experience of browsing web directories, using the mod_autoindex Apache module and some CSS to override the default style of a directory listing. ([Source Code](https://github.com/oupala/apaxy)) `GPL-3.0` `HTML`
 - [DirectoryLister](https://www.directorylister.com/) - Simple PHP based directory lister that lists a directory and all its sub-directories and allows you to navigate there within. ([Source Code](https://github.com/DirectoryLister/DirectoryLister)) `MIT` `PHP`
@@ -940,7 +940,7 @@ _Related: [Groupware](#groupware)_
 
 ### Games
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 Games, game servers and control panels.
 
@@ -968,7 +968,7 @@ Games, game servers and control panels.
 
 ### Gateways and Terminal Sharing
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 - [asciinema](https://github.com/asciinema/asciinema-server) - Web app for hosting asciicasts. ([Demo](https://asciinema.org/)) `Apache-2.0` `Elixir/Docker`
 - [GateOne](http://liftoffsoftware.com/Products/GateOne) - Gate One is an HTML5 web-based terminal emulator and SSH client. ([Source Code](https://github.com/liftoff/GateOne)) `AGPL-3.0` `Python`
@@ -984,7 +984,7 @@ Games, game servers and control panels.
 
 ### Genealogy
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 - [Genea.app](https://genea.app/) - Genea is a privacy by design and open source tool anyone can use to author or edit their family tree. Data is stored in the GEDCOM format and all processing is done in the browser. ([Source Code](https://github.com/genea-app/genea-app)) `MIT` `Javascript`
 - [GeneWeb](https://geneweb.tuxfamily.org/wiki/GeneWeb) - GeneWeb is an open source genealogy software written in OCaml. It comes with a Web interface and can be used off-line or as a Web service. ([Demo](https://demo.geneweb.tuxfamily.org/gw7/), [Source Code](https://github.com/geneweb/geneweb)) `GPL-2.0` `OCaml`
@@ -993,7 +993,7 @@ Games, game servers and control panels.
 
 ### Groupware
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 - [BlueMind](https://www.bluemind.net/en/) - Groupware with email, calendar, addressbooks, exchange active sync, exchange MAPI protocol support. ([Source Code](https://forge.bluemind.net/stash/projects/BM/repos/bluemind-public/browse)) `AGPL-3.0` `Java`
 - [Citadel](https://www.citadel.org/doku.php) - Groupware including email, calendar/scheduling, address books, forums, mailing lists, IM, wiki and blog engines, RSS aggregation and more. ([Source Code](https://www.citadel.org/source.html)) `GPL-3.0` `C`
@@ -1016,7 +1016,7 @@ Games, game servers and control panels.
 
 ### Human Resources Management (HRM)
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 - [admidio](https://www.admidio.org/) - Admidio is a free open source user management system for websites of organizations and groups. The system has a flexible role model so that it’s possible to reflect the structure and permissions of your organization. ([Demo](https://www.admidio.org/demo/), [Source Code](https://github.com/Admidio/admidio)) `GPL-2.0` `PHP`
 - [IceHrm](https://icehrm.com/) - IceHrm employee management system allows companies to centralize confidential employee information. ([Demo](https://icehrm.com/demo.php), [Source Code](https://github.com/gamonoid/icehrm)) `Apache-2.0` `PHP`
@@ -1027,7 +1027,7 @@ Games, game servers and control panels.
 
 ### Internet of Things (IoT)
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 - [DeviceHive](https://www.devicehive.com/) - Open Source IoT Platform with a wide range of integration options. ([Demo](https://playground.devicehive.com/), [Source Code](https://github.com/devicehive/devicehive-java-server)) `Apache-2.0` `Java`
 - [Domoticz](https://www.domoticz.com/) - Home Automation System that lets you monitor and configure various devices like: Lights, Switches, various sensors/meters like Temperature, Rain, Wind, UV, Electra, Gas, Water and much more. ([Source Code](https://github.com/domoticz/domoticz), [Clients](https://github.com/domoticz/domoticz-android)) `GPL-3.0` `C/C++`
@@ -1044,7 +1044,7 @@ Games, game servers and control panels.
 
 ### Knowledge Management Tools
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 - [Mindmaps](https://github.com/drichard/mindmaps) - Open source, offline capable, mind mapping application. ([Demo](https://www.mindmaps.app)) `AGPL-3.0` `HTML5`
 - [My Mind](https://github.com/ondras/my-mind) - Web application for creating and managing mind maps. ([Demo](https://my-mind.github.io/?url=examples%2Ffeatures.mymind)) `MIT` `Javascript`
@@ -1053,7 +1053,7 @@ Games, game servers and control panels.
 
 ### Learning and Courses
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 - [Canvas LMS](https://www.canvaslms.com/) - Canvas is the trusted, open-source learning management system (LMS) that is revolutionizing the way we educate. ([Demo](https://canvas.instructure.com/register), [Source Code](https://github.com/instructure/canvas-lms)) `AGPL-3.0` `Ruby`
 - [Chamilo LMS](https://chamilo.org/) - Chamilo LMS allows you to create a virtual campus for the provision of online or semi-online training. ([Source Code](https://github.com/chamilo/chamilo-lms)) `GPL-3.0` `PHP`
@@ -1071,7 +1071,7 @@ Games, game servers and control panels.
 
 ### Maps and Global Positioning System (GPS)
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 _See also: [awesome-gis](https://github.com/sshuair/awesome-gis)_
 
@@ -1095,7 +1095,7 @@ _See also: [awesome-gis](https://github.com/sshuair/awesome-gis)_
 
 ### Media Streaming
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 **Please visit [Media streaming - Audio Streaming](#media-streaming---audio-streaming), [Media streaming - Multimedia Streaming](#media-streaming---mutimedia-streaming), [Media streaming - Video Streaming](#media-streaming---video-streaming)**
 
@@ -1104,7 +1104,7 @@ _See also: [List of streaming media systems - Wikipedia](https://en.wikipedia.or
 
 ### Media Streaming - Audio Streaming
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 - [Airsonic Advanced](https://github.com/airsonic-advanced/airsonic-advanced/) - Open-source web-based media streamer and jukebox based on Airsonic, with several key performance and feature enhancements. `GPL-3.0` `Java`
 - [Ampache](https://ampache.org/) - Web based audio/video streaming application. ([Demo](https://play.dogmazic.net/), [Source Code](https://github.com/ampache/ampache)) `AGPL-3.0` `PHP`
@@ -1142,7 +1142,7 @@ _See also: [List of streaming media systems - Wikipedia](https://en.wikipedia.or
 
 ### Media Streaming - Multimedia Streaming
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 - [Gerbera](https://gerbera.io/) - Gerbera is an UPnP Media Server. It allows you to stream your digital media throughout your home network and listen to/watch it on a variety of UPnP compatible devices. ([Source Code](https://github.com/gerbera/gerbera)) `GPL-2.0` `C++`
 - [homehost](https://github.com/ridhwaans/homehost) `⚠` - Self-hosted React + Redux app that streams your media collection (music, movies, books, podcasts, comics etc). `MIT` `Nodejs`
@@ -1162,7 +1162,7 @@ _See also: [List of streaming media systems - Wikipedia](https://en.wikipedia.or
 
 ### Media Streaming - Video Streaming
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 - [Bluecherry](https://www.bluecherrydvr.com/) - Closed-circuit television (CCTV) software application which supports IP and Analog cameras. ([Source Code](https://github.com/bluecherrydvr/bluecherry-apps)) `GPL-2.0` `PHP`
 - [CyTube](https://github.com/calzoneman/sync) - CyTube is a web application providing media synchronization, chat, and more for an arbitrary number of channels. ([Demo](https://cytu.be)) `MIT` `Nodejs`
@@ -1191,7 +1191,7 @@ _See also: [List of streaming media systems - Wikipedia](https://en.wikipedia.or
 
 ### Miscellaneous
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 - [2FAuth](https://github.com/Bubka/2FAuth) - A web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes. ([Demo](https://demo.2fauth.app/)) `AGPL-3.0` `PHP`
 - [411](https://github.com/etsy/411) - Alert Management Web Application. `MIT` `PHP`
@@ -1243,7 +1243,7 @@ _See also: [List of streaming media systems - Wikipedia](https://en.wikipedia.or
 
 ### Money, Budgeting & Management
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 _See also: [awesome-sysadmin/IT Asset Management](https://github.com/awesome-foss/awesome-sysadmin#it-asset-management)_
 
@@ -1281,14 +1281,14 @@ _See also: [awesome-sysadmin/IT Asset Management](https://github.com/awesome-fos
 
 ### Monitoring
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 **Please visit [awesome-sysadmin/Monitoring](https://github.com/awesome-foss/awesome-sysadmin#monitoring), [awesome-sysadmin/Metric and Metric Collection](https://github.com/awesome-foss/awesome-sysadmin#metric--metric-collection)**
 
 
 ### Note-taking & Editors
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 _Related: [Wikis](#wikis)_
 
@@ -1323,7 +1323,7 @@ _Related: [Wikis](#wikis)_
 
 ### Office Suites
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 - [Collabora Online Development Edition](https://www.collaboraoffice.com/code) - Collabora Online Development Edition (CODE) is a powerful LibreOffice-based online office that supports all major document, spreadsheet and presentation file formats, which you can integrate in your own infrastructure. ([Source Code](https://cgit.freedesktop.org/libreoffice/online/)) `MPL-2.0` `C++`
 - [CryptPad](https://cryptpad.fr/) - CryptPad is the zero knowledge realtime collaborative editor (rich-text, files, source-code, ...). ([Source Code](https://github.com/xwiki-labs/cryptpad)) `AGPL-3.0` `Nodejs`
@@ -1338,7 +1338,7 @@ _Related: [Wikis](#wikis)_
 
 ### Password Managers
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 - [Bitwarden](https://bitwarden.com/) `⚠` - Password manager with webapp, browser extension, and mobile app. ([Source Code](https://github.com/bitwarden/server)) `AGPL-3.0` `C#`
 - [keeweb](https://keeweb.info/) - This webapp is a browser and desktop password manager compatible with KeePass databases. ([Source Code](https://github.com/keeweb/keeweb)) `MIT` `HTML5`
@@ -1357,7 +1357,7 @@ _Related: [Wikis](#wikis)_
 
 ### Pastebins
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 - [0bin](https://github.com/Tygs/0bin) - Client side encrypted pastebin. ([Demo](https://0bin.net/)) `WTFPL` `Python`
 - [bepasty](https://bepasty-server.readthedocs.io/en/latest/) - A pastebin for all kinds of files. ([Source Code](https://github.com/bepasty/bepasty-server)) `BSD-2-Clause` `Python`
@@ -1397,7 +1397,7 @@ _Related: [Wikis](#wikis)_
 
 ### Personal Dashboards
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 _Related: [Monitoring](#monitoring)_
 
@@ -1423,7 +1423,7 @@ _Related: [Monitoring](#monitoring)_
 
 ### Photo and Video Galleries
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 - [Chevereto Free](https://chevereto.com/free) - Powerful and fast image hosting script that allows you to create your very own full featured image hosting website in just minutes. ([Source Code](https://github.com/Chevereto/Chevereto-Free)) `AGPL-3.0` `PHP`
 - [Coppermine](https://coppermine-gallery.net/) - Multilingual photo gallery that integrates with various bulletin boards. Includes upload approval and password protected albums. ([Demo](https://coppermine-gallery.net/demo/cpg15x/), [Source Code](https://github.com/coppermine-gallery/cpg1.6.x)) `GPL-3.0` `PHP`
@@ -1453,7 +1453,7 @@ _Related: [Monitoring](#monitoring)_
 
 ### Polls and Events
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 _Related: [Booking and Scheduling](#booking-and-scheduling)_
 
@@ -1478,7 +1478,7 @@ _Related: [Booking and Scheduling](#booking-and-scheduling)_
 
 ### Proxy
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 - [imgproxy](https://imgproxy.net/) - Fast and secure standalone server for resizing and converting remote images. It works great when you need to resize multiple images on the fly without preparing a ton of cached resized images or re-doing it every time the design changes. ([Source Code](https://github.com/imgproxy/imgproxy)) `MIT` `Go/Docker`
 - [inlets](https://inlets.dev/) - Expose your local endpoints to the Internet - with a Kubernetes integration, Docker image and CLI available. `MIT` `Go/Docker`
@@ -1502,7 +1502,7 @@ _Related: [Booking and Scheduling](#booking-and-scheduling)_
 
 ### Read-it-later Lists
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 - [Readflow](https://readflow.app) - Lightweight news reader with modern interface and features: full-text search, automatic categorization, archiving, offline support, notifications... ([Source Code](https://github.com/ncarlier/readflow)) `MIT` `Go`
 - [Wallabag](https://www.wallabag.org) - Wallabag, formerly Poche, is a web application allowing you to save articles to read them later with improved readability. ([Demo](https://app.wallabag.it/register/), [Source Code](https://github.com/wallabag/wallabag)) `MIT` `PHP`
@@ -1510,7 +1510,7 @@ _Related: [Booking and Scheduling](#booking-and-scheduling)_
 
 ### Recipe Management
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 - [kcal](https://github.com/kcal-app/kcal) - Track nutritional information about foods and recipes, set goals, and record a food journal to help along the way. Kcal is a personal system that focuses on direct control of inputs and a minimal, easy to use recipe presentation for preparing meals. ([Demo](http://demo.kcal.cooking/login)) `MPL-2.0` `PHP`
 - [Mealie](https://hay-kot.github.io/mealie/) - Material design inspired recipe manager with category and tag management, shopping-lists, meal-planner, and site customizations. Mealie is focused on simple user interactions to keep the whole family using the app. ([Source Code](https://github.com/hay-kot/mealie)) `MIT` `Python`
@@ -1521,7 +1521,7 @@ _Related: [Booking and Scheduling](#booking-and-scheduling)_
 
 ### Resource Planning
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 - [farmOS](https://farmos.org/) - Web-based farm record keeping application. ([Source Code](https://github.com/farmOS/farmOS)) `GPL-2.0` `PHP`
 - [grocy](https://grocy.info/) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home. ([Demo](https://en.demo.grocy.info/), [Source Code](https://github.com/grocy/grocy)) `MIT` `PHP`
@@ -1530,7 +1530,7 @@ _Related: [Booking and Scheduling](#booking-and-scheduling)_
 
 ### Resource Planning - Enterprise Resource Planning
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 - [Dolibarr](https://www.dolibarr.org/) - Dolibarr ERP CRM is a modern software package to manage your company or foundation activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). ([Demo](https://www.dolibarr.org/onlinedemo.php), [Source Code](https://github.com/Dolibarr/dolibarr)) `GPL-3.0-or-later` `PHP`
 - [ERPNext](https://erpnext.com) - Free open source ERP system. ([Source Code](https://github.com/frappe/erpnext)) `GPL-3.0` `Python`
@@ -1542,7 +1542,7 @@ _Related: [Booking and Scheduling](#booking-and-scheduling)_
 
 ### Search Engines
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 - [Ambar](https://ambar.cloud) - Document Search Engine (OCR, Store & Search). ([Demo](https://app.ambar.cloud/), [Source Code](https://github.com/RD17/ambar)) `MIT` `Nodejs/Python`
 - [Gigablast](https://www.gigablast.com/) - open source search engine. ([Source Code](https://github.com/gigablast/open-source-search-engine)) `Apache-2.0` `C++`
@@ -1557,7 +1557,7 @@ _Related: [Booking and Scheduling](#booking-and-scheduling)_
 
 ### Self-hosting Solutions
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 - [Ansible-NAS](https://github.com/DaveStephens/ansible-nas) - Build a full-featured home server with this playbook and an Ubuntu box. `MIT` `YAML/Docker`
 - [Bitsii Bridge](https://gitlab.com/bitsii/Bitsii/-/wikis/home) `⚠` - Easy to install self-hosting platform for Windows, MacOS, and Linux. Depends on a dynamic DNS provider and Let's Encrypt. ([Source Code](https://gitlab.com/edgii/BBridge)) `MPL-2.0` `Java/Other`
@@ -1582,12 +1582,12 @@ _Related: [Booking and Scheduling](#booking-and-scheduling)_
 
 ### Software Development
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 
 ### Software Development - API Management
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 - [DreamFactory](https://www.dreamfactory.com/) - Turns any SQL/NoSQL/Structured data into Restful API. ([Source Code](https://github.com/dreamfactorysoftware/dreamfactory)) `Apache-2.0` `PHP`
 - [form.io](https://form.io) - A REST API building platform that utilizes a drag & drop form builder, and is application framework agnostic. Contains open source and enterprise version. ([Demo](https://portal.form.io), [Source Code](https://github.com/formio)) `MIT` `Nodejs`
@@ -1604,21 +1604,21 @@ _Related: [Booking and Scheduling](#booking-and-scheduling)_
 
 ### Software Development - Bug Trackers
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 **Please visit [Ticketing](#ticketing)**
 
 
 ### Software Development - Continuous Integration & Deployment
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 **Please visit [awesome-sysadmin/Continuous Integration & Continuous Deployment](https://github.com/awesome-foss/awesome-sysadmin#continuous-integration--continuous-deployment)**
 
 
 ### Software Development - Documentation Generators
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 _Related: [Static site generators](#static-site-generators)_
 
@@ -1630,7 +1630,7 @@ _Related: [Static site generators](#static-site-generators)_
 
 ### Software Development - FaaS & Serverless
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 [Serverless computing - Wikipedia](https://en.wikipedia.org/wiki/Serverless_computing)
 
@@ -1644,7 +1644,7 @@ _Related: [Static site generators](#static-site-generators)_
 
 ### Software Development - IDE & Tools
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 - [Appsmith](https://www.appsmith.com/) - Cloud or self-hosted open-source platform to build admin panels, CRUD apps and workflows. Build everything you need, 10x faster. ([Source Code](https://github.com/appsmithorg/appsmith)) `Apache-2.0` `Java/Docker`
 - [Atheos](https://www.atheos.io) - Web-based IDE framework with a small footprint and minimal requirements, continued from Codiad. ([Source Code](https://github.com/Atheos/Atheos)) `MIT` `PHP`
@@ -1672,7 +1672,7 @@ _Related: [Static site generators](#static-site-generators)_
 
 ### Software Development - Localization
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 - [Accent](https://www.accent.reviews/) - Open-source, self-hosted, developer-oriented translation tool. ([Source Code](https://github.com/mirego/accent)) `BSD-3-Clause` `Elixir`
 - [Localizer](https://localizer.dev) - Free self-hosted open-source crowd-translating service for your product. ([Demo](https://localize.todorant.com), [Source Code](https://github.com/backmeupplz/localizer-backend)) `MIT` `Nodejs/Docker`
@@ -1684,7 +1684,7 @@ _Related: [Static site generators](#static-site-generators)_
 
 ### Software Development - Project Management
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 _Related: [Ticketing](#ticketing), [Task management & To-do lists](#task-management--to-do-lists)_
 
@@ -1728,7 +1728,7 @@ _See also: [awesome-sysadmin/Code Review](https://github.com/awesome-foss/awesom
 
 ### Software Development - UX Testing
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 - [DeepfakeHTTP](https://github.com/xnbox/DeepfakeHTTP) - A web server that uses HTTP dumps as a source for responses. `MIT` `Java`
 - [Selenoid](https://aerokube.com/selenoid/latest/) - Lightweight Selenium hub implementation launching browsers within Docker containers. ([Source Code](https://github.com/aerokube/selenoid)) `Apache-2.0` `Go`
@@ -1737,14 +1737,14 @@ _See also: [awesome-sysadmin/Code Review](https://github.com/awesome-foss/awesom
 
 ### Static Site Generators
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 **Please visit [staticsitegenerators.net](https://staticsitegenerators.net), [staticgen.com](https://www.staticgen.com)**
 
 
 ### Task Management & To-do Lists
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 _Related: [Software Development - Project Management](#software-development---project-management), [Ticketing](#ticketing)_
 
@@ -1772,7 +1772,7 @@ _Related: [Software Development - Project Management](#software-development---pr
 
 ### Ticketing
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 _Related: [Task management & To-do lists](#task-management--to-do-lists), [Software Development - Project Management](#software-development---project-management)_
 
@@ -1798,7 +1798,7 @@ _Related: [Task management & To-do lists](#task-management--to-do-lists), [Softw
 
 ### URL Shorteners
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 Before hosting one, please see [shortcomings](https://en.wikipedia.org/wiki/URL_shortening#Shortcomings) of URL shorteners.
 
@@ -1823,21 +1823,21 @@ Before hosting one, please see [shortcomings](https://en.wikipedia.org/wiki/URL_
 
 ### VPN
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 **Please visit [awesome-sysadmin/VPN](https://github.com/awesome-foss/awesome-sysadmin#vpn)**
 
 
 ### Web Servers
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 **Please visit [awesome-sysadmin/Web](https://github.com/awesome-foss/awesome-sysadmin#web)**
 
 
 ### Wikis
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 _Related: [Software Development - Documentation Generators](#software-development---documentation-generators)_
 
@@ -1875,7 +1875,7 @@ _See also: [Wikimatrix](https://www.wikimatrix.org/), [Wiki Engines - WikiIndex]
 
 ## List of Licenses
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 - `⚠ ` - Depends on a proprietary service outside the user's control
 - `0BSD` - [BSD Zero-Clause Licence](https://opensource.org/licenses/0BSD)
@@ -1937,7 +1937,7 @@ _See also: [Wikimatrix](https://www.wikimatrix.org/), [Wiki Engines - WikiIndex]
 
 ## External Links
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](../Raindropsmf/Piracy-Mthrfckr/#.md)**
 
 - [Awesome Big Data](https://github.com/0xnr/awesome-bigdata) - Curated list of awesome big data frameworks, resources and other awesomeness.
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - List of high quality, topic-centric public data sources.
@@ -1957,7 +1957,7 @@ Contributing guidelines can be found in [.github/CONTRIBUTING.md](.github/CONTRI
 
 ## Authors
 
-The list of authors can be found in [AUTHORS.md](AUTHORS.md).
+The list of authors can be found in [AUTHORS.md](../../A!-And-Machine-Learning/Ai-Music/Awesome-Deep-Learning-Music/Authors.md).
 
 ## License
 

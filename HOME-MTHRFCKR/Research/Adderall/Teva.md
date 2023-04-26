@@ -1,6 +1,6 @@
 # DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE Tablet
 
-* [BOXED WARNING](#) [(What is this?)](# "A boxed warning is the strongest warning that the FDA requires, and signifies that medical studies indicate that the drug carries a significant risk of serious or even life-threatening adverse effects.")
+* [BOXED WARNING](../../Bookmrks-Mthrfckr/Raindropsmf/Piracy-Mthrfckr/#.md) [(What is this?)](../../Bookmrks-Mthrfckr/Raindropsmf/Piracy-Mthrfckr/#.md "A boxed warning is the strongest warning that the FDA requires, and signifies that medical studies indicate that the drug carries a significant risk of serious or even life-threatening adverse effects.")
 
     
 
@@ -12,7 +12,7 @@
 
     
 
-* [DESCRIPTION](#)
+* [DESCRIPTION](../../Bookmrks-Mthrfckr/Raindropsmf/Piracy-Mthrfckr/#.md)
 
     
 
@@ -32,7 +32,7 @@
 
     
 
-* [CLINICAL PHARMACOLOGY](#)
+* [CLINICAL PHARMACOLOGY](../../Bookmrks-Mthrfckr/Raindropsmf/Piracy-Mthrfckr/#.md)
 
     
 
@@ -60,7 +60,7 @@
     With normal urine pHs approximately half of an administered dose of amphetamine is recoverable in urine as derivatives of alpha-hydroxy-amphetamine and approximately another 30% to 40% of the dose is recoverable in urine as amphetamine itself. Since amphetamine has a pKa of 9.9, urinary recovery of amphetamine is highly dependent on pH and urine flow rates. Alkaline urine pHs result in less ionization and reduced renal elimination, and acidic pHs and high flow rates result in increased renal elimination with clearances greater than glomerular filtration rates, indicating the involvement of active secretion. Urinary recovery of amphetamine has been reported to range from 1% to 75%, depending on urinary pH, with the remaining fraction of the dose hepatically metabolized. Consequently, both hepatic and renal dysfunction have the potential to inhibit the elimination of amphetamine and result in prolonged exposures. In addition, drugs that affect urinary pH are known to alter the elimination of amphetamine, and any decrease in amphetamine’s metabolism that might occur due to drug interactions or genetic polymorphisms is more likely to be clinically significant when renal elimination is decreased \[see [PRECAUTIONS](#LINK_31990879-eec3-47f6-9f48-6c7a1cf14330)\].
     
 
-* [INDICATIONS AND USAGE](#)
+* [INDICATIONS AND USAGE](../../Bookmrks-Mthrfckr/Raindropsmf/Piracy-Mthrfckr/#.md)
 
     
 
@@ -92,7 +92,7 @@
     The effectiveness of dextroamphetamine saccharate, amphetamine aspartate, dextroamphetamine sulfate and amphetamine sulfate tablets (Mixed salts of a single entity amphetamine product) for long-term use has not been systematically evaluated in controlled trials. Therefore, the physician who elects to use dextroamphetamine saccharate, amphetamine aspartate, dextroamphetamine sulfate and amphetamine sulfate tablets (Mixed salts of a single entity amphetamine product) for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient.
     
 
-* [CONTRAINDICATIONS](#)
+* [CONTRAINDICATIONS](../../Bookmrks-Mthrfckr/Raindropsmf/Piracy-Mthrfckr/#.md)
 
     
 
@@ -120,7 +120,7 @@
 
     
 
-* [WARNINGS](#)
+* [WARNINGS](../../Bookmrks-Mthrfckr/Raindropsmf/Piracy-Mthrfckr/#.md)
 
     
 
@@ -218,7 +218,7 @@
     Difficulties with accommodation and blurring of vision have been reported with stimulant treatment.
     
 
-* [PRECAUTIONS](#)
+* [PRECAUTIONS](../../Bookmrks-Mthrfckr/Raindropsmf/Piracy-Mthrfckr/#.md)
 
     
 
@@ -437,7 +437,7 @@
     Dextroamphetamine saccharate, amphetamine aspartate, dextroamphetamine sulfate and amphetamine sulfate tablets have not been studied in the geriatric population.
     
 
-* [ADVERSE REACTIONS](#)
+* [ADVERSE REACTIONS](../../Bookmrks-Mthrfckr/Raindropsmf/Piracy-Mthrfckr/#.md)
 
     
 
@@ -485,7 +485,7 @@
     To report SUSPECTED ADVERSE REACTIONS, contact Teva at 1-888-838-2872 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
     
 
-* [DRUG ABUSE AND DEPENDENCE](#)
+* [DRUG ABUSE AND DEPENDENCE](../../Bookmrks-Mthrfckr/Raindropsmf/Piracy-Mthrfckr/#.md)
 
     
 
@@ -497,7 +497,7 @@
 
     
 
-* [OVERDOSAGE](#)
+* [OVERDOSAGE](../../Bookmrks-Mthrfckr/Raindropsmf/Piracy-Mthrfckr/#.md)
 
     
 
@@ -511,7 +511,7 @@
     Consult with a Certified Poison Control Center for up to date guidance and advice.
     
 
-* [DOSAGE AND ADMINISTRATION](#)
+* [DOSAGE AND ADMINISTRATION](../../Bookmrks-Mthrfckr/Raindropsmf/Piracy-Mthrfckr/#.md)
 
     
 
@@ -537,7 +537,7 @@
     Narcolepsy seldom occurs in children under 12 years of age; however, when it does, dextroamphetamine sulfate may be used. The suggested initial dose for patients aged 6 to 12 is 5 mg daily; daily dose may be raised in increments of 5 mg at weekly intervals until optimal response is obtained. In patients 12 years of age and older, start with 10 mg daily; daily dosage may be raised in increments of 10 mg at weekly intervals until optimal response is obtained. If bothersome adverse reactions appear (e.g., insomnia or anorexia), dosage should be reduced. Give first dose on awakening; additional doses (1 or 2) at intervals of 4 to 6 hours.
     
 
-* [HOW SUPPLIED](#)
+* [HOW SUPPLIED](../../Bookmrks-Mthrfckr/Raindropsmf/Piracy-Mthrfckr/#.md)
 
     
 
@@ -603,7 +603,7 @@
 
     
 
-* [MEDICATION GUIDE](#)
+* [MEDICATION GUIDE](../../Bookmrks-Mthrfckr/Raindropsmf/Piracy-Mthrfckr/#.md)
 
     
 
@@ -829,7 +829,7 @@
 
     
 
-* [Package/Label Display Panel](#)
+* [Package/Label Display Panel](../../Bookmrks-Mthrfckr/Raindropsmf/Piracy-Mthrfckr/#.md)
 
     
 
@@ -866,7 +866,7 @@
 
     
 
-* [Package/Label Display Panel](#)
+* [Package/Label Display Panel](../../Bookmrks-Mthrfckr/Raindropsmf/Piracy-Mthrfckr/#.md)
 
     
 
@@ -903,7 +903,7 @@
 
     
 
-* [Package/Label Display Panel](#)
+* [Package/Label Display Panel](../../Bookmrks-Mthrfckr/Raindropsmf/Piracy-Mthrfckr/#.md)
 
     
 
@@ -940,7 +940,7 @@
 
     
 
-* [Package/Label Display Panel](#)
+* [Package/Label Display Panel](../../Bookmrks-Mthrfckr/Raindropsmf/Piracy-Mthrfckr/#.md)
 
     
 
@@ -977,7 +977,7 @@
 
     
 
-* [Package/Label Display Panel](#)
+* [Package/Label Display Panel](../../Bookmrks-Mthrfckr/Raindropsmf/Piracy-Mthrfckr/#.md)
 
     
 
@@ -1014,7 +1014,7 @@
 
     
 
-* [Package/Label Display Panel](#)
+* [Package/Label Display Panel](../../Bookmrks-Mthrfckr/Raindropsmf/Piracy-Mthrfckr/#.md)
 
     
 
@@ -1051,7 +1051,7 @@
 
     
 
-* [Package/Label Display Panel](#)
+* [Package/Label Display Panel](../../Bookmrks-Mthrfckr/Raindropsmf/Piracy-Mthrfckr/#.md)
 
     
 

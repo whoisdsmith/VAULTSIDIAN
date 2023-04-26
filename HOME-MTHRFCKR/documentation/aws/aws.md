@@ -3,9 +3,9 @@
 ---
 
 %% Begin Waypoint %%
-- **[aws](../../../..//home-mthrfckr/documentation/aws/aws.md)**
-	- [aws](../../../..//home-mthrfckr/documentation/aws/aws.md)
-	- [basics](basics.md)
+- **[aws](../../../..//home-mthrfckr/Documentation/Aws/Aws.md)**
+	- [aws](../../../..//home-mthrfckr/Documentation/Aws/Aws.md)
+	- [basics](Basics.md)
 
 %% End Waypoint %%
 

@@ -31,11 +31,11 @@ In browsers that don't support `month` inputs, the control degrades gracefully t
 For those of you using a browser that doesn't support `month`, the screenshot below shows what it looks like in Chrome and Opera.
 Clicking the down arrow on the right-hand side brings up a date picker that lets you select the month and year.
 
-![Month control on Chrome browser](month-control-chrome.png)
+![Month control on Chrome browser](Month-Control-Chrome.png)
 
 The Microsoft Edge `month` control looks like this:
 
-![Month control on Edge browser](month-control-edge.png)
+![Month control on Edge browser](Month-Control-Edge.png)
 
 <table class="properties">
   <tbody>
@@ -250,7 +250,7 @@ Try playing with the example now:
 
 Here's a screenshot for those of you who aren't using a supporting browser:
 
-![Month required prompt on Chrome browser](month-required.png)
+![Month required prompt on Chrome browser](Month-Required.png)
 
 Here's the CSS used in the above example.
 Here we make use of the {{cssxref(":valid")}} and {{cssxref(":invalid")}} CSS properties to style the input based on whether the current value is valid.
@@ -293,7 +293,7 @@ input:valid + span::after {
 As mentioned above, the major problem with using date inputs at the time of writing is that many major browsers don't yet implement them all; only Chrome/Opera and Edge support it on desktop, and most modern browsers on mobile.
 As an example, the `month` picker on Chrome for Android looks like this:
 
-![Month picker on Chrome for Android](month-android.png)
+![Month picker on Chrome for Android](Month-Android.png)
 
 Non-supporting browsers gracefully degrade to a text input, but this creates problems both in terms of consistency of user interface (the presented control will be different), and data handling.
 

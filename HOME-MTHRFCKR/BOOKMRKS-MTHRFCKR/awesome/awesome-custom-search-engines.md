@@ -6,7 +6,7 @@ _Note: For security purposes, only https URLs will be included in this repo._
 
 ## Configuration
 
-Read the guide for [Firefox](firefox.md) or the guide for [Chrome](chrome.md).
+Read the guide for [Firefox](Firefox.md) or the guide for [Chrome](Chrome.md).
 
 _Note: The %s in the strings should be removed for Firefox._
 

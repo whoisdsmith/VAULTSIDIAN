@@ -30,25 +30,25 @@ The control's user interface varies from browser to browser; see [Browser compat
 
 In Chrome/Opera the `time` control is simple, with slots to enter hours and minutes in 12 or 24-hour format depending on operating system locale, and up and down arrows to increment and decrement the currently selected component. In some versions, an "X" button is provided to clear the control's value.
 
-![12-hour Chrome time input](chrome_time.png) 12-hour
+![12-hour Chrome time input](Chrome_Time.png) 12-hour
 
-![24-hour Chrome time input](chrome-time.png) 24-hour
+![24-hour Chrome time input](Chrome-Time.png) 24-hour
 
 ### Firefox
 
 Firefox's `time` control is very similar to Chrome's, except that it doesn't have the up and down arrows. It also uses a 12- or 24-hour format for inputting times, based on system locale. An "X" button is provided to clear the control's value.
 
-![12-hour Firefox time input](firefox-time.png) 12-hour
+![12-hour Firefox time input](Firefox-Time.png) 12-hour
 
-![24-hour Firefox time input](firefox-time-24.png) 24-hour
+![24-hour Firefox time input](Firefox-Time-24.png) 24-hour
 
 ### Edge
 
 The Edge `time` control is somewhat more elaborate, opening up an hour and minute picker with sliding reels. It, like Chrome, uses a 12- or 24-hour format for inputting times, based on system locale:
 
-![12-hour Edge time input](edge_time.png) 12-hour
+![12-hour Edge time input](Edge_Time.png) 12-hour
 
-![24-hour Edge time input](edge-time.png) 24-hour
+![24-hour Edge time input](Edge-Time.png) 24-hour
 
 <table class="properties">
   <tbody>
@@ -342,7 +342,7 @@ If you try to submit the form with an incomplete time (or with a time outside th
 
 As mentioned, older versions of Safari and a few other, less common, browsers don't support time inputs natively. In general, otherwise, support is good — especially on mobile platforms, which tend to have very nice user interfaces for specifying a time value. For example, the `time` picker on Chrome for Android looks like this:
 
-![Phone screen showing modal dialog with 10:21 as a header. The 10 is fully opaque. The 21 is not. The main area has a circle with the numbers 1 - 12 in a ring, and the number 13 -24 on an inner ring. The number 10 is highlighted with a blue circle. The buttons at the bottom are clear, cancel, and set.](chrome-android-time.png)
+![Phone screen showing modal dialog with 10:21 as a header. The 10 is fully opaque. The 21 is not. The main area has a circle with the numbers 1 - 12 in a ring, and the number 13 -24 on an inner ring. The number 10 is highlighted with a blue circle. The buttons at the bottom are clear, cancel, and set.](Chrome-Android-Time.png)
 
 Browsers that don't support time inputs gracefully degrade to a text input, but this creates problems both in terms of consistency of user interface (the presented control will be different), and data handling.
 

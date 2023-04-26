@@ -3,18 +3,18 @@
 ---
 
 %% Begin Waypoint %%
-- **[data](../../../..//home-mthrfckr/documentation/data/data.md)**
-	- [combining-rows-from-multiple-data-frames](combining-rows-from-multiple-data-frames.md)
+- **[data](../../../..//home-mthrfckr/Documentation/Data/Data.md)**
+	- [combining-rows-from-multiple-data-frames](Combining-Rows-From-Multiple-Data-Frames.md)
 	- **data-streaming**
-		- [readme](data-streaming/readme.md)
-	- [data](../../../..//home-mthrfckr/documentation/data/data.md)
+		- [readme](Data-Streaming/Readme.md)
+	- [data](../../../..//home-mthrfckr/Documentation/Data/Data.md)
 	- **database**
-		- [readme](database/readme.md)
+		- [readme](Database/Readme.md)
 	- **datadog**
-		- [readme](datadog/readme.md)
-	- [datetime-data-wrangling-operations](datetime-data-wrangling-operations.md)
-	- [introduction-to-join](introduction-to-join.md)
-	- [text-data-wrangling](text-data-wrangling.md)
+		- [readme](Datadog/Readme.md)
+	- [datetime-data-wrangling-operations](Datetime-Data-Wrangling-Operations.md)
+	- [introduction-to-join](Introduction-To-Join.md)
+	- [text-data-wrangling](Text-Data-Wrangling.md)
 
 %% End Waypoint %%
 

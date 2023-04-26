@@ -104,7 +104,7 @@ Here is a simple example of using the `<shadow>` element. It is an HTML file wit
 
 If you display this in a web browser it should look like the following.
 
-![shadow example](shadow-example.png)
+![shadow example](Shadow-Example.png)
 
 ## Specifications
 

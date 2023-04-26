@@ -24,4 +24,4 @@
 - [AI  Video](AI%20%20Video.md)
 - [AI  Web](AI%20%20Web.md)
 - [AI  Writing](AI%20%20Writing.md)
-- [AI Unsorted](AI%20Unsorted.md)
+- [AI Unsorted](Ai%20Unsorted.md)

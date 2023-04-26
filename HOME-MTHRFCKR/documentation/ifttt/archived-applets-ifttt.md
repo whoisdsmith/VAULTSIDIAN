@@ -1,10 +1,10 @@
-# Archived Applets - [[ifttt.md]]
+# Archived Applets - [[Ifttt.md]]
 
 ---
 
 
 
-Archived Applets can be accessed by anyone on [[ifttt.md]] who has enabled them, but not by anyone else. You can’t change their triggers or actions.
+Archived Applets can be accessed by anyone on [[Ifttt.md]] who has enabled them, but not by anyone else. You can’t change their triggers or actions.
 
 -   [
     

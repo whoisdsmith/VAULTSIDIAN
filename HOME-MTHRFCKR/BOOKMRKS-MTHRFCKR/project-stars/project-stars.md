@@ -6,7 +6,7 @@
 
 [3D](3D.md)
 
-[Artificial-intelligence](Artificial-intelligence.md)
+[Artificial-intelligence](Artificial-Intelligence.md)
 
 [Ajax](Ajax.md)
 
@@ -20,11 +20,11 @@
 
 [Ansible](Ansible.md)
 
-[API](API.md)
+[API](Api.md)
 
 [Arduino](Arduino.md)
 
-[Artificial-intelligence](Artificial-intelligence.md)
+[Artificial-intelligence](Artificial-Intelligence.md)
 
 [Atom](Atom.md)
 
@@ -52,7 +52,7 @@
 
 [C](C.md)
 
-[Artificial-intelligence](Artificial-intelligence.md)
+[Artificial-intelligence](Artificial-Intelligence.md)
 
 [Website](Website.md)
 
@@ -72,11 +72,11 @@
 
 [Compiler](Compiler.md)
 
-[Computer-vision](Computer-vision.md)
+[Computer-vision](Computer-Vision.md)
 
-[Config](Config.md)
+[Config](home-mthrfckr/Bookmrks-Mthrfckr/Project-Stars/Config.md)
 
-[Continuous-integration](Continuous-integration.md)
+[Continuous-integration](Continuous-Integration.md)
 
 [Cpp](Cpp.md)
 
@@ -104,7 +104,7 @@
 
 [Data](Data.md)
 
-[Artificial-intelligence](Artificial-intelligence.md)
+[Artificial-intelligence](Artificial-Intelligence.md)
 
 [Deployment](Deployment.md)
 
@@ -162,13 +162,13 @@
 
 [Frontend](Frontend.md)
 
-[Game-development](Game-development.md)
+[Game-development](Game-Development.md)
 
-[Game-development](Game-development.md)
+[Game-development](Game-Development.md)
 
-[Game-development](Game-development.md)
+[Game-development](Game-Development.md)
 
-[Game-development](Game-development.md)
+[Game-development](Game-Development.md)
 
 [Github](Github.md)
 
@@ -184,7 +184,7 @@
 
 [Go](Go.md)
 
-[Good-first-issue](Good-first-issue.md)
+[Good-first-issue](Good-First-Issue.md)
 
 [Google](Google.md)
 
@@ -200,7 +200,7 @@
 
 [Haskell](Haskell.md)
 
-[Home-assistant](Home-assistant.md)
+[Home-assistant](Home-Assistant.md)
 
 [Terminal](Terminal.md)
 
@@ -210,9 +210,9 @@
 
 [Website](Website.md)
 
-[Icon-font](Icon-font.md)
+[Icon-font](Icon-Font.md)
 
-[Image-processing](Image-processing.md)
+[Image-processing](Image-Processing.md)
 
 [Ios](Ios.md)
 
@@ -236,7 +236,7 @@
 
 [Julia](Julia.md)
 
-[Jupyter-notebook](Jupyter-notebook.md)
+[Jupyter-notebook](Jupyter-Notebook.md)
 
 [Koa](Koa.md)
 
@@ -254,7 +254,7 @@
 
 [Library](Library.md)
 
-[Operating-system](Operating-system.md)
+[Operating-system](Operating-System.md)
 
 [Localization](Localization.md)
 
@@ -262,7 +262,7 @@
 
 [Mac](Mac.md)
 
-[Artificial-intelligence](Artificial-intelligence.md)
+[Artificial-intelligence](Artificial-Intelligence.md)
 
 [Mac](Mac.md)
 
@@ -270,7 +270,7 @@
 
 [Mastodon](Mastodon.md)
 
-[Material-design](Material-design.md)
+[Material-design](Material-Design.md)
 
 [Mobile](Mobile.md)
 
@@ -280,17 +280,17 @@
 
 [Website](Website.md)
 
-[Music](Music.md)
+[Music](home-mthrfckr/Bookmrks-Mthrfckr/Project-Stars/Music.md)
 
 [Database](Database.md)
 
 [Neovim](Neovim.md)
 
-[Artificial-intelligence](Artificial-intelligence.md)
+[Artificial-intelligence](Artificial-Intelligence.md)
 
 [Nextjs](Nextjs.md)
 
-[Artificial-intelligence](Artificial-intelligence.md)
+[Artificial-intelligence](Artificial-Intelligence.md)
 
 [Node](Node.md)
 
@@ -302,23 +302,23 @@
 
 [Numpy](Numpy.md)
 
-[Objective-c](Objective-c.md)
+[Objective-c](Objective-C.md)
 
 [Opencv](Opencv.md)
 
-[Open-data](Open-data.md)
+[Open-data](Open-Data.md)
 
 [Opengl](Opengl.md)
 
-[Open-source](Open-source.md)
+[Open-source](Open-Source.md)
 
-[Operating-system](Operating-system.md)
+[Operating-system](Operating-System.md)
 
 [Osint](Osint.md)
 
 [Others](Others.md)
 
-[P2p](P2p.md)
+[P2p](P2P.md)
 
 [Terminal](Terminal.md)
 
@@ -328,7 +328,7 @@
 
 [Php](Php.md)
 
-[Pixel-art](Pixel-art.md)
+[Pixel-art](Pixel-Art.md)
 
 [Database](Database.md)
 
@@ -336,7 +336,7 @@
 
 [Programming](Programming.md)
 
-[Project-management](Project-management.md)
+[Project-management](Project-Management.md)
 
 [Website](Website.md)
 
@@ -354,7 +354,7 @@
 
 [Rails](Rails.md)
 
-[Raspberry-pi](Raspberry-pi.md)
+[Raspberry-pi](Raspberry-Pi.md)
 
 [React](React.md)
 
@@ -380,7 +380,7 @@
 
 [Scala](Scala.md)
 
-[Scikit-learn](Scikit-learn.md)
+[Scikit-learn](Scikit-Learn.md)
 
 [Osint](Osint.md)
 
@@ -396,7 +396,7 @@
 
 [Vim](Vim.md)
 
-[Spring-boot](Spring-boot.md)
+[Spring-boot](Spring-Boot.md)
 
 [Database](Database.md)
 
@@ -414,7 +414,7 @@
 
 [Telegram](Telegram.md)
 
-[Artificial-intelligence](Artificial-intelligence.md)
+[Artificial-intelligence](Artificial-Intelligence.md)
 
 [Terminal](Terminal.md)
 
@@ -428,15 +428,15 @@
 
 [Typescript](Typescript.md)
 
-[Operating-system](Operating-system.md)
+[Operating-system](Operating-System.md)
 
-[Game-development](Game-development.md)
+[Game-development](Game-Development.md)
 
 [Vim](Vim.md)
 
-[Virtual-reality](Virtual-reality.md)
+[Virtual-reality](Virtual-Reality.md)
 
-[Visual-studio-code](Visual-studio-code.md)
+[Visual-studio-code](Visual-Studio-Code.md)
 
 [Vue](Vue.md)
 
@@ -451,10 +451,10 @@
 
 [Website](Website.md)
 
-[Operating-system](Operating-system.md)
+[Operating-system](Operating-System.md)
 
 [Website](Website.md)
 
 [Xcode](Xcode.md)
 
-[XML](XML.md)
+[XML](Xml.md)

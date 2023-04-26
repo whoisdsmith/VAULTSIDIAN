@@ -243,7 +243,7 @@ First highlight the items you want to open by hovering over the items until the 
 
 Highlight as many items as you like, then click `Open` in the menu bar at the top.
 
-[Check this article](open-multiple-links.md) if you have any troubles with this feature.
+[Check this article](Open-Multiple-Links.md) if you have any troubles with this feature.
 
 </details>
 

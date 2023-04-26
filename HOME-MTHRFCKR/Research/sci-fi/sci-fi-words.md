@@ -9,7 +9,7 @@ Imaginary Creature From Outer Space.
 [[Alternate Universe]]  
 A World Other Than Our Own. Similar To Parallel Universe.
 
-[[../../bookmrks-mthrfckr/project-stars/Android.md]]  
+[[../../Bookmrks-Mthrfckr/Project-Stars/Android.md]]  
 A Human-Looking Robot
 
 [[Asteroid]]  
@@ -42,7 +42,7 @@ Study Of Extremely Low Temperatures
 [[Cybernetics]]  
 Study Of Communication In Organisms, Organic Processes, And Mechanical Or Electronic Systems…When Accompanied With Implants, The Concept Of Bionics Is Created.
 
-[[../../ai-and-machine-learning/ai-notes/stub-notes/cyborgs.md]]  
+[[../../A!-And-Machine-Learning/Ai-Notes/Stub-Notes/Cyborgs.md]]  
 A Fictional Being That Is Part-Human, Part-Robot
 
 [[Cyberpunk]]  
@@ -136,7 +136,7 @@ Modifying A Planet, Moon, Or Other Body So Its Atmosphere, Temperature, Or Ecolo
 [[Time Paradox]]  
 An Impossible Situation Created By Traveling Back Through Time, For Example, When A Man Travels Back And Kills His Father, So That He Himself Could Never Exist
 
-[[Time Travel]]  
+[[Time Travel](../../Bookmrks-Mthrfckr/Raindropsmf/Browsr-Mthrfckr/Time%20Travel.md)  
 Moving Backward Or Forward In Time
 
 [[Time Warp]]  

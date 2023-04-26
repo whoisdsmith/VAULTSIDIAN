@@ -7,7 +7,7 @@ External applications could obtain a user authorized API token via the OAuth2 pr
 This procedure is comprised of several steps, which will be described below.
 
 - If you just want to test your application, or do not plan to access any data except yours account you don't need to make all of those steps.
-- Just go to [App Management Console](https://app.raindrop.io/settings/integrations) and open your application settings. Copy **Test token** and use it as described in [**Make authorized calls**](calls.md)**.**
+- Just go to [App Management Console](https://app.raindrop.io/settings/integrations) and open your application settings. Copy **Test token** and use it as described in [**Make authorized calls**](Calls.md)**.**
 
 <https://raindrop.io/oauth/authorizeStep>
 
@@ -186,7 +186,7 @@ External applications could obtain a user authorized API token via the OAuth2 pr
 This procedure is comprised of several steps, which will be described below.
 
 - If you just want to test your application, or do not plan to access any data except yours account you don't need to make all of those steps.
-- Just go to [App Management Console](https://app.raindrop.io/settings/integrations) and open your application settings. Copy **Test token** and use it as described in [**Make authorized calls**](calls.md)**.**
+- Just go to [App Management Console](https://app.raindrop.io/settings/integrations) and open your application settings. Copy **Test token** and use it as described in [**Make authorized calls**](Calls.md)**.**
 
 The authorization request
 

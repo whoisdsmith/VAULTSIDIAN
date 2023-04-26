@@ -10,7 +10,7 @@
 
 **[[AUDIO PLUGINS]]**
 
-**[[AUDIO TOOLS]]**
+**[[AUDIO TOOLS](../../Raindropsmf/Media-Mthrfckr/Audio%20Tools.md)**
 
 **[[AUDIO TORRENTS]]**
 
@@ -32,7 +32,7 @@
 
 ##### [[INDEX (Rentry)](../FREE[[HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/awesome-piracy/piracy/misc]]AH/FMHY%[[../miscguide.md]]X%20(Rentry).md)
 
-##### [[m[[../misc.md]]#### [[p[[miscguide.md]]md]]
+##### [[m[[../misc.md]]#### [[p[[Miscguide.md]]md]]
 
 ##### [[Resources/Piracy/README]]
 
@@ -75,7 +75,7 @@
 
 **[[NEW LIST]]**
 
-**[[MILAN'S ULTIMATE RESOURCE LIST 🗂🚀]]**
+**[[MILAN'S ULTIMATE RESOURCE LIST 🗂🚀](../../Raindropsmf/Productivity-Mthrfckr/Milan's%20Ultimate%20Resource%20List%20%F0%9F%97%82%F0%9F%9A%80.md)**
 
 **[[NEW SITE TEST]]**
 
@@ -97,7 +97,7 @@
 
 ## MEDIA
 
-[[android-emulators.md]]eckyeah/fmhyedit/fmhy/videopiracyguide.md]]**
+[[Android-Emulators.md]]eckyeah/fmhyedit/fmhy/videopiracyguide.md]]**
 
 **[[Resources/Piracy/VIDEO]]**
 
@@ -109,7 +109,7 @@
 
 **[[../../[[HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/awesome-piracy/piracy/awes[[HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/awesome-piracy/awesome-reddit]]arty/Android-Emulators.md]]**
 
-## MI[[android-emulators.md]]eckyeah/fmhyedit/fmhy/readingpir[[../../freemediaheckyeah/fmhyedit/fmhy/readingpiracyguide.md]]R/awesome-piracy/p[[../entertainment-tools.md]]
+## MI[[Android-Emulators.md]]eckyeah/fmhyedit/fmhy/readingpir[[../../freemediaheckyeah/fmhyedit/fmhy/readingpiracyguide.md]]R/awesome-piracy/p[[../entertainment-tools.md]]
 
 ---
 

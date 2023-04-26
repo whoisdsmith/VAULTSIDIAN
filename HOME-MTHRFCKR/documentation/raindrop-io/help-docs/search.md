@@ -125,7 +125,7 @@ Only available in [Pro plan](premium-features.md)
 
 </summary>
 
-Check [this article](false-broken-links.md) if you have any problems with broken links checker.
+Check [this article](False-Broken-Links.md) if you have any problems with broken links checker.
 
 </details>
 

@@ -106,9 +106,9 @@ Inside the {{htmlelement("div")}} with the class of `red-panda`, we want to inse
 
 The following screenshots show what the splash page should look like after being correctly marked up, on a wide and narrow screen display.
 
-![A wide shot of our example splash page](wide-shot.png)
+![A wide shot of our example splash page](Wide-Shot.png)
 
-![A narrow shot of our example splash page](narrow-shot.png)
+![A narrow shot of our example splash page](Narrow-Shot.png)
 
 ## Assessment or further help
 

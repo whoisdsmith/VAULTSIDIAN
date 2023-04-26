@@ -3,11 +3,11 @@
 ---
 
 %% Begin Waypoint %%
-- **[docker](../../../..//home-mthrfckr/documentation/docker/docker.md)**
-	- [docker-commands](docker-commands.md)
-	- [docker-concepts](docker-concepts.md)
-	- [docker-notes](docker-notes.md)
-	- [docker](../../../..//home-mthrfckr/documentation/docker/docker.md)
+- **[docker](../../../..//home-mthrfckr/Documentation/Docker/Docker.md)**
+	- [docker-commands](Docker-Commands.md)
+	- [docker-concepts](Docker-Concepts.md)
+	- [docker-notes](Docker-Notes.md)
+	- [docker](../../../..//home-mthrfckr/Documentation/Docker/Docker.md)
 	- [readme](../../../readme.md)
 
 %% End Waypoint %%

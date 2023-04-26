@@ -36,7 +36,7 @@ A useful guide to scientific words for the Science Fiction enthusiast. It first 
 
 **[[Atmosphere]].** The gaseous layer above the surface of a celestial body. Earth’s atmosphere ceases to show significant resistance above about 500 miles. There is no sudden stop. The thinness gradually increases until no atoms are detectable in any reasonable sample. The pressure exerted by these miles of air at sea level is about 14.7 lbs. per sq. inch.
 
-**[[../../bookmrks-mthrfckr/project-stars/Atom.md]].** The smallest unit of matter that will take part in chemical reactions. Consists of a positively charged nucleus composed of protons and neutrons, and a variable number of orbital rings of electrons. It is the number of these electrons that determines the chemical properties of the atom.
+**[[../../Bookmrks-Mthrfckr/Project-Stars/Atom.md]].** The smallest unit of matter that will take part in chemical reactions. Consists of a positively charged nucleus composed of protons and neutrons, and a variable number of orbital rings of electrons. It is the number of these electrons that determines the chemical properties of the atom.
 
 **[[Atomic bomb]].** An arrangement whereby a maximum number of nuclear fissions occur in minimum time by the very rapid collision of two subcritical masses of fissile material, the first fission setting off a chain reaction that is complete in a period of time of the order of one hundred thousandth of a second.
 
@@ -176,7 +176,7 @@ A useful guide to scientific words for the Science Fiction enthusiast. It first 
 
 **[[Electromagnetic waves]].** Waves that do not require a medium for their passage, and which travel at the speed of light (which is one form of electromagnetic wave; other forms are infrared, ultraviolet, x-rays, wireless waves, gamma rays, etc.).
 
-**[[../../bookmrks-mthrfckr/project-stars/Electron.md]].** A subatomic particle of negative charge, with a mass of 9.107X10-28 and a charge of 4.803X10-10 electrostatic units. Electrons form spheres of negative charge surrounding the positively charged atomic nucleus.
+**[[../../Bookmrks-Mthrfckr/Project-Stars/Electron.md]].** A subatomic particle of negative charge, with a mass of 9.107X10-28 and a charge of 4.803X10-10 electrostatic units. Electrons form spheres of negative charge surrounding the positively charged atomic nucleus.
 
 **[[Electron microscope]].** Device for the high magnification of a very thin object in vacuo by means of a beam of electrons in place of visible light.
 
@@ -458,7 +458,7 @@ A useful guide to scientific words for the Science Fiction enthusiast. It first 
 
 **[[Stationary state]].** A quantal condition where only certain energy levels are permissible. Change from one stationary state to another is accompanied by emission or absorption of energy.
 
-**[[../../bookmrks-mthrfckr/project-stars/Data.md]].** A system for obtaining theoretical inferences from examination of numerical experimental data.
+**[[../../Bookmrks-Mthrfckr/Project-Stars/Data.md]].** A system for obtaining theoretical inferences from examination of numerical experimental data.
 
 **[[Stefan’s Law]].** This states that the heat radiation energy emitted in unit time from a black body of unit area is proportional to the fourth power of its absolute temperature.
 
@@ -530,7 +530,7 @@ A useful guide to scientific words for the Science Fiction enthusiast. It first 
 
 **[[Uncertainty principle]].** This states that both the position and momentum of a particle cannot be accurately determined at the same time, due to the fundamental waviform character of matter.
 
-**[[Universe]].** Everything that exists.
+**[[../../Bookmrks-Mthrfckr/Raindropsmf/Webdev-Mthrfckr/Universe.md]].** Everything that exists.
 
 **[[Vacuum]].** A theoretical state in which space contains no matter. A perfect vacuum is impossible to attain because the surrounding matter must exert a vapour pressure.
 
@@ -538,9 +538,9 @@ A useful guide to scientific words for the Science Fiction enthusiast. It first 
 
 **[[Variable stars]].** Stars which undergo changes in luminosity.
 
-**[[Vector]].** A physical phenomenon that cannot be defined exactly unless a direction is included in the definition.
+**[[../../Bookmrks-Mthrfckr/Raindropsmf/Desgn-Mthrfckr/Vector.md]].** A physical phenomenon that cannot be defined exactly unless a direction is included in the definition.
 
-**[[Velocity]].** Speed in a stated direction.
+**[[../../Bookmrks-Mthrfckr/Raindropsmf/Piracy-Mthrfckr/Velocity.md]].** Speed in a stated direction.
 
 **[[Viscosity]].** Internal friction in a fluid restricting motion within itself.
 
@@ -556,7 +556,7 @@ A useful guide to scientific words for the Science Fiction enthusiast. It first 
 
 **[[Wave number]].** Reciprocal of wavelength, being the number of waves in unit distance.
 
-**[[../../osint/osint-bookmarks/work.md]].** Phenomenon whereby a force acts on a body in such a way that motion results. If a force F acts on a body and its point of application moves a distance s in a direction making an angle *theta* with the direction of F, then the force is said to do an amount of work F_cos theta_ on the body.
+**[[../../Osint/Osint-Bookmarks/Work.md]].** Phenomenon whereby a force acts on a body in such a way that motion results. If a force F acts on a body and its point of application moves a distance s in a direction making an angle *theta* with the direction of F, then the force is said to do an amount of work F_cos theta_ on the body.
 
 **[[X-rays]].** Electromagnetic waves of length from 5X10-7 to 6X10-10 cm, produced when matter is bombarded by cathode rays.
 

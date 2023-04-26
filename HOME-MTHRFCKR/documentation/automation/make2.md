@@ -4,51 +4,51 @@
 
 ---
 
-## [[Make API Documentation](make/make%20api%20documentation.md)
+## [[Make API Documentation](Make/Make%20Api%20Documentation.md)
 
-## [[Types of modules](make/types%20of%20modules.md)
+## [[Types of modules](Make/Types%20Of%20Modules.md)
 
-## [[make/xml.md]]
+## [[Make/Xml.md]]
 
-## [[.[[ifttt/glossary.md]]tation/Make/make-rss.md]]
+## [[.[[Ifttt/Glossary.md]]tation/Make/make-rss.md]]
 
-## [[make/json.md]]
+## [[Make/Json.md]]
 
-## [[make/http.md]]
+## [[Make/Http.md]]
 
 ## [[Folders/Documentation/Make/Tools]]
 
-## [[make/email.md]]
+## [[Make/Email.md]]
 
 ## [[Folders/Documentation/Make/Image]]
 
-## [[make/router.md]]
+## [[Make/Router.md]]
 
-## [[make/iterator.md]]
+## [[Make/Iterator.md]]
 
-## [[make/make-webhooks.md]]
+## [[Make/Make-Webhooks.md]]
 
-## [[ifttt/glossary.md]]
+## [[Ifttt/Glossary.md]]
 
-## [[make/converger.md]]
+## [[Make/Converger.md]]
 
-## [[make/wordpress.md]]
+## [[Make/Wordpress.md]]
 
-## [[make/aggregator.md]]
+## [[Make/Aggregator.md]]
 
-## [[Data store](make/data%20store.md)
+## [[Data store](Make/Data%20Store.md)
 
-## [[Text Parser](make/text%20parser.md)
+## [[Text Parser](Make/Text%20Parser.md)
 
-## [[Flow control](make/flow%20control.md)
+## [[Flow control](Make/Flow%20Control.md)
 
-## [[Data structures](make/data%20structures.md)
+## [[Data structures](Make/Data%20Structures.md)
 
-## [[Types of modules](make/types%20of%20modules.md)
+## [[Types of modules](Make/Types%20Of%20Modules.md)
 
-## [[Replacing Legacy Modules with New Modules](make/replacing%20legacy%20modules%20with%20new%20modules.md)
+## [[Replacing Legacy Modules with New Modules](Make/Replacing%20Legacy%20Modules%20With%20New%20Modules.md)
 
-## [[How to get Text Parser to produce an output value](make/how%20to%20get%20text%20parser%20to%20produce%20an%20output%20value.md)
+## [[How to get Text Parser to produce an output value](Make/How%20To%20Get%20Text%20Parser%20To%20Produce%20An%20Output%20Value.md)
 
 ## [[Replacing Google Sheets legacy Modules with New Modules]]
 

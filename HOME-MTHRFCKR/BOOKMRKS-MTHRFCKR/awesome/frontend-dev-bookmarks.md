@@ -3,25 +3,25 @@
 ---
 
 %% Begin Waypoint %%
-- **[frontend-dev-bookmarks](../../../..//home-mthrfckr/bookmrks-mthrfckr/awesome/frontend-dev-bookmarks.md)**
+- **[frontend-dev-bookmarks](../../../..//home-mthrfckr/Bookmrks-Mthrfckr/Awesome/Frontend-Dev-Bookmarks.md)**
 	- **animation**
 	- **appearance**
 	- **architecture**
-	- [automated-testing](automated-testing.md)
-	- [build-tools](build-tools.md)
-	- [code-editors](code-editors.md)
+	- [automated-testing](Automated-Testing.md)
+	- [build-tools](Build-Tools.md)
+	- [code-editors](Code-Editors.md)
 	- **compatibility**
-	- [css-tools](css-tools.md)
-	- [documentation](documentation.md)
+	- [css-tools](Css-Tools.md)
+	- [Documentation](Documentation.md)
 	- **ecosystem**
-	- [fonts-for-programmers](fonts-for-programmers.md)
-	- [frontend-dev-bookmarks](../../../..//home-mthrfckr/bookmrks-mthrfckr/awesome/frontend-dev-bookmarks.md)
-	- [getting-started](getting-started.md)
-	- [html-tools](html-tools.md)
-	- [image-post-processing](image-post-processing.md)
-	- [javascript-tools](javascript-tools.md)
+	- [fonts-for-programmers](Fonts-For-Programmers.md)
+	- [frontend-dev-bookmarks](../../../..//home-mthrfckr/Bookmrks-Mthrfckr/Awesome/Frontend-Dev-Bookmarks.md)
+	- [getting-started](Getting-Started.md)
+	- [html-tools](Html-Tools.md)
+	- [image-post-processing](Image-Post-Processing.md)
+	- [javascript-tools](Javascript-Tools.md)
 	- **languages-protocols-browser-apis**
-	- [package-management](package-management.md)
+	- [package-management](Package-Management.md)
 	- [sourcemaps](./sourcemaps.md)
 	- [tutorials](./tutorials.md)
 	- **user-interface-components**
@@ -29,4 +29,4 @@
 	- **workflow**
 
 %% End Waypoint %%
-[automated-testing](automated-testing.md)
+[automated-testing](Automated-Testing.md)

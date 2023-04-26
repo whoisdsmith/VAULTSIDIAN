@@ -63,7 +63,7 @@ If we wanted the text to stand by itself, we could specify that it is a paragrap
 
 Let's further explore our paragraph element from the previous section:
 
-![A sample code snippet demonstrating the structure of an html element.<p> My cat is very grumpy </p>.](grumpy-cat-small.png)
+![A sample code snippet demonstrating the structure of an html element.<p> My cat is very grumpy </p>.](Grumpy-Cat-Small.png)
 
 The anatomy of our element is:
 
@@ -265,7 +265,7 @@ This would output the following:
 
 Elements can also have attributes. Attributes look like this:
 
-![paragraph tag with 'class="editor-note"' attribute emphasized](grumpy-cat-attribute-small.png)
+![paragraph tag with 'class="editor-note"' attribute emphasized](Grumpy-Cat-Attribute-Small.png)
 
 Attributes contain extra information about the element that won't appear in the content. In this example, the **`class`** attribute is an identifying name used to target the element with style information.
 
@@ -542,7 +542,7 @@ If you want to experiment with writing some HTML on your local computer, you can
 
 You can now open this file in a web browser to see what the rendered code looks like. Edit the code and refresh the browser to see what the result is. Initially the page looks like this:
 
-![A simple HTML page that says This is my page](template-screenshot.png)In this exercise, you can edit the code locally on your computer, as described previously, or you can edit it in the sample window below (the editable sample window represents just the contents of the {{htmlelement("body")}} element, in this case). Sharpen your skills by implementing the following tasks:
+![A simple HTML page that says This is my page](Template-Screenshot.png)In this exercise, you can edit the code locally on your computer, as described previously, or you can edit it in the sample window below (the editable sample window represents just the contents of the {{htmlelement("body")}} element, in this case). Sharpen your skills by implementing the following tasks:
 
 - Just below the opening tag of the {{htmlelement("body")}} element, add a main title for the document. This should be wrapped inside an `<h1>` opening tag and `</h1>` closing tag.
 - Edit the paragraph content to include text about a topic that you find interesting.

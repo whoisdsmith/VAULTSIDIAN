@@ -4,8 +4,8 @@
 
 %% Begin Waypoint %%
 
-- **[champagne-guides](../../../../..//home-mthrfckr/bookmrks-mthrfckr/awesome-piracy/champagne-guides/champagne-guides.md)**
-  - [champagne-guides](../../../../..//home-mthrfckr/bookmrks-mthrfckr/awesome-piracy/champagne-guides/champagne-guides.md)
+- **[champagne-guides](../../../../..//home-mthrfckr/Bookmrks-Mthrfckr/Awesome-Piracy/Champagne-Guides/Champagne-Guides.md)**
+  - [champagne-guides](../../../../..//home-mthrfckr/Bookmrks-Mthrfckr/Awesome-Piracy/Champagne-Guides/Champagne-Guides.md)
 
 %% End Waypoint %%
 
