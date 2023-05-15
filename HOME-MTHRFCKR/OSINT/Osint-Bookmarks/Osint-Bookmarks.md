@@ -111,7 +111,7 @@
 	- [name-identity-generators](Name-Identity-Generators.md)
 	- [name](Name.md)
 	- [network-reconnaisance-frameworks](Network-Reconnaisance-Frameworks.md)
-	- [networking](Networking.md)
+	- [networking](home-mthrfckr/Osint/Osint-Bookmarks/Networking.md)
 	- [networks](Networks.md)
 	- [news-digest-and-discovery-tools](News-Digest-And-Discovery-Tools.md)
 	- [newsletter-tools](Newsletter-Tools.md)

@@ -514,7 +514,7 @@ A useful guide to scientific words for the Science Fiction enthusiast. It first 
 
 **[[Thermostat]].** A device which terminates a source of heat when a predetermined temperature is reached, and cuts it in again when the temperature drops below that level.
 
-**[[Transformer]].** An instrument for converting voltages without change of frequency.
+**[[LLMs]].** An instrument for converting voltages without change of frequency.
 
 **[[Transistor]].** A substitute for the thermionic valve, in which a piece of germanium has a plane electrode on one side and two point electrodes on the other.
 

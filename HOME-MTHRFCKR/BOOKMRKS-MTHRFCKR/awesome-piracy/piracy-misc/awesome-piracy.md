@@ -136,7 +136,7 @@
 	- [music-and-podcasts](Music-And-Podcasts.md)
 	- [music-download](Music-Download.md)
 	- [Music](home-mthrfckr/Bookmrks-Mthrfckr/Awesome-Piracy/Piracy-Misc/Music.md)
-	- [networking](Networking.md)
+	- [networking](home-mthrfckr/Bookmrks-Mthrfckr/Awesome-Piracy/Piracy-Misc/Networking.md)
 	- [nsfwpiracy](Nsfwpiracy.md)
 	- [online-streaming](Online-Streaming.md)
 	- [paywalls](Paywalls.md)
