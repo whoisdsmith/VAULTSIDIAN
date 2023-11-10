@@ -1,8 +1,0 @@
-# Copied 2.0 – MacStories
-
-cover: https://56243e3f6f46fe44a301-deabeb5f3878e3553d0b065ea974f9bf.ssl.cf1.rackcdn.com/256px.png
-created: September 26, 2016 12:02 PM (UTC)
-description: starred items / via Inoreader perso https://www.macstories.net/news/copied-2-0/ September 16, 2016 at 10:32PM There's a great update to Copied, my favorite clipboard manager for iOS, released on the App Store today. I've been using Copied since version 1.0 and it's a good example of an iCloud-based app that has always worked reliably (same with Ulysses). I use Copied to store bits of text and images and keep them synced across devices. Just this past week, I stored several shortcode templates in Copied for the special formatting of my iOS 10 review. I love the app. I haven't had time to properly test the new version yet, but based on a few minutes of playing around with it, I think it has some terrific enhancements. The widget has been redesigned for iOS 10 and it can show more clippings at once. You can now create text formatters (with templates or JavaScript) to reformat text in specific ways before pasting it. There are rules to save clippings into lists based on text matches. There's a built-in Safari View Controller browser and both extensions (action and custom keyboard) have been rewritten with text formatter integration. There's a lot to try in the latest Copied, and I'm already considering some text formatter scripts for my Markdown workflows. Copied 2.0 is a free update on the App Store. → Source: itunes.apple.com
-folder: BOOKMRKS-MTHRFCKR / BROWSR-MTHRFCKR / Browser / Bookmarks / Pinboard
-tags: pinboard
-url: https://www.macstories.net/news/copied-2-0
