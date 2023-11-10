@@ -1,0 +1,155 @@
+/*
+
+This CSS file will be included with your plugin, and
+available in the app when your plugin is enabled.
+
+If your plugin does not need CSS, delete this file.
+
+*/
+
+/* Vertical scrolling of the export preview table. */
+.meta-data-view .nav-files-container{ overflow-x: auto }
+
+.meta-data-view .nav-file-title, .meta-data-view .nav-folder-title{
+    margin-bottom: var(--size-2-1);
+    display: flex;
+    border-radius: var(--radius-s);
+    cursor: var(--cursor);
+    color: var(--nav-item-color);
+    font-size: var(--nav-item-size);
+    font-weight: var(--nav-item-weight);
+    line-height: var(--line-height-tight);
+}
+
+
+.meta-data-view .nav-folder-collapse-indicator { width: 16px; flex-shrink: 0; }
+
+.meta-data-view .collapse-icon { display: flex; align-items: center; }
+
+.meta-data-view .nav-folder-title-content {
+    display: inline-block;
+    overflow-wrap: anywhere;
+    overflow: hidden;
+    white-space: var(--nav-item-white-space);
+    text-overflow: ellipsis;
+}
+
+
+.meta-data-view .nav-file.has-focus > .nav-file-title {
+    border-radius: var(--radius-s);
+    box-shadow: 0 0 0 2px var(--background-modifier-border-focus);
+}
+
+.meta-data-view .nav-file { border-radius: var(--radius-s); }
+
+/* Horizontal scrolling */
+.meta-data-view-table-container{overflow-x: auto;}
+.data-view-meta-key { overflow: hidden; text-overflow: ellipsis; max-height: 32px; white-space: nowrap }
+.data-view-meta-key.undefined {background: var(--color-base-05)}
+tr:hover .data-view-meta-key.undefined {background: var(--text-selection); opacity: 0.1}
+.data-view-meta-key.boolean {text-align: center;}
+.data-view-meta-key input {vertical-align: middle;}
+
+.meta-data-view .table-sub-header{ background: var(--color-base-10) }
+.meta-data-view .table-sub-header .nav-folder-title { padding: 0; line-height: 24px; padding-top: 5px; margin: 0}
+
+.meta-data-view tr.draft{opacity: 0.6;}
+
+.meta-data-view .top-right-button-container{ float: right; }
+.meta-data-view .top-right-button-container button{ vertical-align: top; margin-left: 10px; }
+.meta-data-view .top-right-button-container button.with-icon svg{ margin-left: 7px; }
+
+.meta-data-view .log{
+    font-family: monospace; margin-top: 20px; margin-bottom: 20px;
+    white-space: pre-wrap;
+    user-select: text;
+    line-height: 1.5em;
+}
+.meta-data-view .clear-log-button{ float: right; }
+
+.meta-data-view .export-stats{ display: none; padding-left: 20px; }
+.meta-data-view .clickable-link {display: block}
+.meta-data-view .pull-in{ padding-left: 20px; }
+.meta-data-view .error{ color: var(--color-red) }
+.meta-data-view .export-stats.export-stats-open{ display: block; color: var(--color-base-100) }
+.meta-data-view .clickable {cursor: pointer}
+.meta-data-view .clickable:hover {color: var(--color-base-70)}
+.meta-data-view .closed{ height: 0; overflow: hidden;}
+.meta-data-view .table-view-table .metadata{ display: flex; color: #999; padding-left: 10px; }
+.meta-data-view .table-view-table .metadata .metadata-draft{ color: var(--color-orange); }
+.meta-data-view .table-view-table .metadata .metadata-published{ color: var(--color-green); }
+.meta-data-view .meta-data-table-file-row:hover td { background: #0005 }
+.meta-data-view .meta-data-table-file-row td { min-height: 30px; }
+.meta-data-view .meta-data-table-file-row td.reveal-link { width: 32px; padding-left: 5px; background-color: transparent; }
+.meta-data-view .meta-data-table-file-row .reveal-link svg{ visibility: hidden; cursor: pointer;}
+.meta-data-view .meta-data-table-file-row:hover .reveal-link svg{ visibility: visible;}
+.meta-data-view .number { display: block; width: 100%; text-align: right; }
+
+.meta-data-view .warn {background-color: #92901422; }
+
+.meta-data-view .debug-column {text-align: center; width: 65px }
+
+.meta-data-view .table-header-buttons { visibility: hidden; display: inline-block; margin-left: 10px; }
+.meta-data-view .meta-data-view-table-container h2:hover .table-header-buttons { visibility: visible; }
+.meta-data-view .meta-data-view-table-container h2:hover .table-header-link { visibility: visible; }
+.meta-data-view .table-header-link {  padding: 10px }
+
+.meta-data-view h4 select {
+    font-size: 20px;
+    -webkit-appearance: auto;
+    appearance: auto;
+}
+
+.meta-data-view button[disabled]{ opacity: 0.6; }
+
+.meta-data-header-selector-input { width: 100% }
+.meta-data-header-selector-scroller > span { display: inline-block; padding: 4px; color: var(--color-base-50); cursor: pointer; }
+.meta-data-header-selector-scroller > span:hover { color: var(--color-base-60); }
+.meta-data-header-selector-scroller > span.active { color: var(--color-base-70) }
+
+/* .meta-data-view .path-folder{ padding-left: 20px; display: block; } */
+
+.export-plugin-icon{ display: inline-block; margin-right: 4px; }
+
+.meta-data-view .status-icon.green,
+.export-plugin-icon.green{ color: var(--color-green) }
+
+.meta-data-view .status-icon.orange,
+.export-plugin-icon.orange{ color: var(--color-orange) }
+
+.meta-data-view .status-icon.lime
+.export-plugin-icon.lime{ color: lime }
+
+.meta-data-view .status-icon.grey,
+.export-plugin-icon.grey{ color: grey }
+
+.rotate-180 { transform: rotateX(180deg); }
+.spin { animation: rotation 2s infinite linear; }
+@keyframes rotation {
+    from { transform: rotate(0deg);}
+    to { transform: rotate(359deg);}
+  }
+
+.bulk-export-settings .bulk-export-settings-header{ margin-top: 20px; margin-bottom: 15px; border-bottom: 1px solid var(--color-base-50)}
+
+
+.bulk-export-settings button.tab-header {
+    background: transparent; margin-right: 10px;
+    border-bottom-left-radius: 0; border-bottom-right-radius: 0;
+}
+.bulk-export-settings button.tab-header.active {background: var(--interactive-accent); color: var(--text-on-accent)}
+
+.bulk-export-confirm .footer{ text-align: right; padding-top: 20px; }
+.bulk-export-confirm button.yes { float: right }
+.bulk-export-confirm button.danger,
+.bulk-export-settings button.danger { background-color: var(--color-red); color: var(--text-on-accent);}
+
+
+.bulk-export-stat-modal .link{ line-height: 24px; margin-bottom: 10px; }
+.bulk-export-stat-modal .link span, .bulk-export-stat-modal .link a{ display: inline; margin-right: 5px;}
+.bulk-export-stat-modal .link .title{ font-weight: bold;}
+.bulk-export-stat-modal .link .url{ color: var(--color-base-50);}
+.bulk-export-stat-modal .link .replaced{ color: var(--color-base-70);}
+.bulk-export-stat-modal .link.error { color: var(--color-red);}
+.bulk-export-stat-modal .link.success { color: var(--color-green);}
+.bulk-export-stat-modal .link svg { display: inline-block; margin-right: 5px; vertical-align: middle;}

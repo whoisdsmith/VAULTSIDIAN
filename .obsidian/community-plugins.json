@@ -25,5 +25,8 @@
   "obsidian-plugin-prettier",
   "theme-picker",
   "obsidian-regex-pipeline",
-  "links"
+  "links",
+  "bulk-exporter",
+  "swiss-army-knife",
+  "markdown-blogger"
 ]
