@@ -92,17 +92,17 @@
 
 [Dart](Dart.md)
 
-[Data](Data.md)
+[Data](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/project-stars/Data.md)
 
-[Data](Data.md)
+[Data](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/project-stars/Data.md)
 
 [Database](Database.md)
 
-[Data](Data.md)
+[Data](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/project-stars/Data.md)
 
-[Data](Data.md)
+[Data](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/project-stars/Data.md)
 
-[Data](Data.md)
+[Data](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/project-stars/Data.md)
 
 [Artificial-intelligence](Artificial-Intelligence.md)
 
@@ -402,7 +402,7 @@
 
 [Database](Database.md)
 
-[Data](Data.md)
+[Data](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/project-stars/Data.md)
 
 [Svelte](Svelte.md)
 

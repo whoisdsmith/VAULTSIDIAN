@@ -10,7 +10,7 @@
 	- [data-structures](Data-Structures.md)
 	- [email](Email.md)
 	- [flow-control](Flow-Control.md)
-	- [glossary](Glossary.md)
+	- [glossary](HOME-MTHRFCKR/documentation/make/glossary.md)
 	- [how-to-get-text-parser-to-produce-an-output-value](How-To-Get-Text-Parser-To-Produce-An-Output-Value.md)
 	- [http](Http.md)
 	- [Image](Image.md)
