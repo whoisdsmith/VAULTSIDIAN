@@ -133,24 +133,19 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "homepage:Open homepage": false,
-      "webpage-html-export:Export Vault to HTML": false,
-      "open-vscode:VSCode": false,
-      "obsidian-regex-pipeline:Regex Rulesets": false,
-      "bulk-exporter:Bulk Exporter Preview": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "b3ffadf276e8aeb1",
   "lastOpenFiles": [
+    "HOME-MTHRFCKR/Please redirect your DNS.md",
+    "README.md",
     "HOME-MTHRFCKR/HOME-MTHRFCKR.md",
     "HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/AIMARX/AI Unsorted.md",
-    "HOME-MTHRFCKR/AlteredFuture/Website Names.md",
-    "HOME-MTHRFCKR/AlteredFuture/AlteredFuture.md",
-    "HOME-MTHRFCKR/AlteredFuture/11-5-1-Interactive Ripple Effect..md",
-    "HOME-MTHRFCKR/AlteredFuture/10-59-7-AlteredFuture Art Prompts.md",
-    "README.md",
+    "HOME-MTHRFCKR/A!-And-Machine-Learning/AlteredFuture/Website Names.md",
+    "HOME-MTHRFCKR/A!-And-Machine-Learning/AlteredFuture/AlteredFuture.md",
+    "HOME-MTHRFCKR/A!-And-Machine-Learning/AlteredFuture/11-5-1-Interactive Ripple Effect..md",
+    "HOME-MTHRFCKR/A!-And-Machine-Learning/AlteredFuture/10-59-7-AlteredFuture Art Prompts.md",
     "Obsidian/Obsidian Broken Links Plug-in.md",
     "Obsidian/links.md",
     "Obsidian/obsidian.md",
@@ -169,7 +164,6 @@
     "HOME-MTHRFCKR/NOTES/Publii.md",
     "HOME-MTHRFCKR/Data/Databreach.md",
     "HOME-MTHRFCKR/Data/Databases.md",
-    "HOME-MTHRFCKR/Data/data.md",
-    "HOME-MTHRFCKR/NOTES/daily-notes/daily-notes.md"
+    "HOME-MTHRFCKR/Data/data.md"
   ]
 }
