@@ -1,7 +1,0 @@
-# OSINT & SOCMINT Tooling
-
-created: March 31, 2022 9:20 PM (UTC)
-description: Rather than having multiple different Chrome Extensions i decided to roll all the existing ones in to a single extension with the intention to build upon this by adding more features and better support. You will notice this already with the additional support for Instagram, Twitter and Tik Tok. You will need an account on each of the following depending which tools you are wanting to use. When using any single tool within the extension please make sure you have that website open and a logged in session on the active tab within the chrome web browser. Facebook Instagram Twitter Tik Tok LinkedIn Version 1.0 Published Sep 29, 2019 Download osint-socmint-tooling-ob.zip MD5 Integrity Verifier 4f7050f412f77bde230559e15ac7f513 Important I do obfuscate my source code within the chrome extensions i develop. Because of this some anti virus software and/or windows defender may alert them to being a possible trojan. Disclaimer Always be careful when downloading any Chrome Extension. When downloading, installing and using this Chrome Extension you do so at your own risk. More Extensions Facebook Friends List Generator OSINT & SOCMINT Tooling Facebook Entity Id Parser LinkedIn Email Reverse Lookup Facebook Profile Id Grabber Facebook Email Reverse Lookup
-folder: BOOKMRKS-MTHRFCKR / SEARCH PARTY MTHRFCKR! / Social Media Search
-tags: Search, Social Media
-url: https://osint.support/chrome-extensions/2019/09/29/osint-socmint-tooling.html

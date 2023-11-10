@@ -1,6 +1,0 @@
-# mulholland-drive.net/studies/theories.htm
-
-created: November 26, 2022 4:29 AM (UTC)
-folder: BOOKMRKS-MTHRFCKR / PIRACY-MTHRFCKR / soda / OGs
-tags: ogs
-url: https://www.mulholland-drive.net/studies/theories.htm

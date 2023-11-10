@@ -1,7 +1,0 @@
-# Facebook Friends List Generator
-
-created: March 31, 2022 9:20 PM (UTC)
-description: As part of your OSINT investigation you may want to view a persons friend list but unable to do so because of the users privacy settings. One method would be to look at who likes and comments on the users timeline as this can often give us insights to who their friends are but this at times can be a repetitive and drawn out process, which is were the Facebook Friends List Generatorchrome extension comes in. Version 1.0 Published Oct 20, 2019 Download facebook-friends-list-generator-ob.zip MD5 Integrity Verifier 6fc0eda71df9c2092f495a7ffa2281c9 Important I do obfuscate my source code within the chrome extensions i develop. Because of this some anti virus software and/or windows defender may alert them to being a possible trojan. Disclaimer Always be careful when downloading any Chrome Extension. When downloading, installing and using this Chrome Extension you do so at your own risk. More Extensions Facebook Friends List Generator OSINT & SOCMINT Tooling Facebook Entity Id Parser LinkedIn Email Reverse Lookup Facebook Profile Id Grabber Facebook Email Reverse Lookup
-folder: BOOKMRKS-MTHRFCKR / SEARCH PARTY MTHRFCKR! / Facebook Search
-tags: Facebook, Search
-url: https://osint.support/chrome-extensions/2019/10/20/facebook-friends-list-generator.html

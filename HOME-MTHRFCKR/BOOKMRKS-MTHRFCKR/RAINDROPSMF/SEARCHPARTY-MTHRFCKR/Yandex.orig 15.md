@@ -1,6 +1,0 @@
-# Yandex
-
-created: November 10, 2022 5:02 PM (UTC)
-folder: BOOKMRKS-MTHRFCKR / SEARCH PARTY MTHRFCKR! / More Custom Search Engines
-tags: Search
-url: https://yandex.com.ge/showcaptcha?cc=1&mt=52D9C2D7F7B62B333B0276A5477D120A26EC7FAE773A7AE4A32FEEEC8A0A042B&retpath=aHR0cHM6Ly95YW5kZXguY29tLmdlLz8%2C_2320ceeb5797e9c0fecc0872295b5fed&s=849a63b8831c344d52409624e5dfb95d&t=2%2F1668003448%2Fe1eecfaf314fee6c52ca69db7da63399&u=245224db-9bbfd85a-c760bbb5-63ed3580

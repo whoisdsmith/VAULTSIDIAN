@@ -1,7 +1,0 @@
-# A prompt for achieving more succinct answers
-
-created: December 27, 2022 9:41 PM (UTC)
-description: A prompt for achieving more succinct answers via /r/ChatGPT https://ift.tt/DidPLm3 "Answer this question as briefly and succinctly as possible, avoiding any unnecessary words or repetition."I use this one all the time and it's a great way to get a very fast high-level overview of a topic without having to read a detailed explanation. You can then dig into any topics you want to know more about in more depth. It also removes any of the "small talk / filler" like "let me know if you have other questions." Here are some examples.https://preview.redd.it/viavi10tdi8a1.png?width=1152&format=png&auto=webp&v=enabled&s=96058e32edc1449a2ca2e44f88caf17195c74dea​https://preview.redd.it/dwl671iwdi8a1.png?width=1160&format=png&auto=webp&v=enabled&s=c9864c4fc853f10f52f50031526cc8b911e7795cHere is an example of starting with one question and then asking a series of clarifying questions to dig more into sub-topics of interest to me:https://ift.tt/9aUkRMJ
-folder: BOOKMRKS-MTHRFCKR / SOCIAL-MTHRFCKR / Reddit
-tags: reddit
-url: https://www.reddit.com/r/ChatGPT/comments/zwr2i6/a_prompt_for_achieving_more_succinct_answers/?utm_source=ifttt
