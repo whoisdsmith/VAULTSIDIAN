@@ -10,5 +10,20 @@
   "buttons",
   "cmdr",
   "obsidian-banners",
-  "obsidian-plugin-toc"
+  "obsidian-plugin-toc",
+  "settings-search",
+  "obsidian-icons-plugin",
+  "obsidian-icon-folder",
+  "obsidian-text-format",
+  "file-explorer-note-count",
+  "obsidian-plugin-update-tracker",
+  "obsidian-sort-and-permute-lines",
+  "waypoint",
+  "webpage-html-export",
+  "obsidian-regex-replace",
+  "open-vscode",
+  "obsidian-plugin-prettier",
+  "theme-picker",
+  "obsidian-regex-pipeline",
+  "links"
 ]

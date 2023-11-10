@@ -1,0 +1,24 @@
+{
+  "linkReplacements": [],
+  "titleSeparator": " • ",
+  "showPerformanceNotification": false,
+  "removeLinksFromHeadingsInternalWikilinkWithoutTextReplacement": "Destination",
+  "removeLinksFromHeadingsInternalWikilinkWithoutTextAction": "ReplaceWithDestination",
+  "ffReplaceLink": false,
+  "ffMultipleLinkConversion": false,
+  "contexMenu": {
+    "editLinkText": true,
+    "setLinkText": true,
+    "editLinkDestination": true,
+    "copyLinkDestination": true,
+    "unlink": true,
+    "convertToWikilink": true,
+    "convertToAutolink": true,
+    "convertToMakrdownLink": true,
+    "replaceLink": true,
+    "embedUnembedLink": true,
+    "deleteLink": true,
+    "createLink": true,
+    "createLinkFromClipboard": true
+  }
+}
