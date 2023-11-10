@@ -1,3 +1,0 @@
-# Awesome Stars
-
----
