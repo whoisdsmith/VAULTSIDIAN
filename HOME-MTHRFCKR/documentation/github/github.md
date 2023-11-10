@@ -27,7 +27,7 @@
   - [github-pull-request-monitor](Github-Pull-Request-Monitor.md)
   - [github-pull-requests-and-issues](Github-Pull-Requests-And-Issues.md)
   - [github-related-tools​](Github-Related-Tools%E2%80%8B.md)
-  - [Github-Repositories](Github-Repositories.md)
+  - [github-repositories](HOME-MTHRFCKR/documentation/github/github-repositories.md)
   - [github-tools](Github-Tools.md)
   - [github](../../../..//HOME-MTHRFCKR/DEV-DOCS/github/github.md)
   - [gitlab-workflow](Gitlab-Workflow.md)

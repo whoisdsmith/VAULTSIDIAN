@@ -14,7 +14,7 @@
 
 [Analytics](Analytics.md)
 
-[Android](Android.md)
+[Android](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/project-stars/Android.md)
 
 [Angular](Angular.md)
 
@@ -28,7 +28,7 @@
 
 [Atom](Atom.md)
 
-[Automation](Automation.md)
+[Automation](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/project-stars/Automation.md)
 
 [Awesome](Awesome.md)
 
@@ -62,13 +62,13 @@
 
 [Clojure](Clojure.md)
 
-[Code](Code.md)
+[Code](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/project-stars/Code.md)
 
-[Code](Code.md)
+[Code](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/project-stars/Code.md)
 
-[Code](Code.md)
+[Code](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/project-stars/Code.md)
 
-[Code](Code.md)
+[Code](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/project-stars/Code.md)
 
 [Compiler](Compiler.md)
 
@@ -96,7 +96,7 @@
 
 [Data](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/project-stars/Data.md)
 
-[Database](Database.md)
+[Database](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/project-stars/Database.md)
 
 [Data](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/project-stars/Data.md)
 
@@ -108,7 +108,7 @@
 
 [Deployment](Deployment.md)
 
-[Design](Design.md)
+[Design](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/project-stars/Design.md)
 
 [Devops](Devops.md)
 
@@ -170,13 +170,13 @@
 
 [Game-development](Game-Development.md)
 
-[Github](Github.md)
+[Github](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/project-stars/Github.md)
 
-[Github](Github.md)
+[Github](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/project-stars/Github.md)
 
-[Github](Github.md)
+[Github](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/project-stars/Github.md)
 
-[Github](Github.md)
+[Github](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/project-stars/Github.md)
 
 [Go](Go.md)
 
@@ -190,7 +190,7 @@
 
 [Google](Google.md)
 
-[Database](Database.md)
+[Database](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/project-stars/Database.md)
 
 [Hackathon](Hackathon.md)
 
@@ -214,7 +214,7 @@
 
 [Image-processing](Image-Processing.md)
 
-[Ios](Ios.md)
+[Ios](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/project-stars/Ios.md)
 
 [Iot](Iot.md)
 
@@ -274,15 +274,15 @@
 
 [Mobile](Mobile.md)
 
-[Database](Database.md)
+[Database](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/project-stars/Database.md)
 
-[Database](Database.md)
+[Database](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/project-stars/Database.md)
 
 [Website](Website.md)
 
 [Music](home-mthrfckr/Bookmrks-Mthrfckr/Project-Stars/Music.md)
 
-[Database](Database.md)
+[Database](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/project-stars/Database.md)
 
 [Neovim](Neovim.md)
 
@@ -296,7 +296,7 @@
 
 [Node](Node.md)
 
-[Database](Database.md)
+[Database](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/project-stars/Database.md)
 
 [Terminal](Terminal.md)
 
@@ -330,7 +330,7 @@
 
 [Pixel-art](Pixel-Art.md)
 
-[Database](Database.md)
+[Database](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/project-stars/Database.md)
 
 [Terminal](Terminal.md)
 
@@ -398,9 +398,9 @@
 
 [Spring-boot](Spring-Boot.md)
 
-[Database](Database.md)
+[Database](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/project-stars/Database.md)
 
-[Database](Database.md)
+[Database](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/project-stars/Database.md)
 
 [Data](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/project-stars/Data.md)
 
@@ -424,7 +424,7 @@
 
 [Testing](Testing.md)
 
-[Twitter](Twitter.md)
+[Twitter](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/project-stars/Twitter.md)
 
 [Typescript](Typescript.md)
 

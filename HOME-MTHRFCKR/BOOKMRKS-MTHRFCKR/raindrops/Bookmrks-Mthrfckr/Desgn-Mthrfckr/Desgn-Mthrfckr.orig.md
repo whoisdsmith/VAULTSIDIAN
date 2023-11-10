@@ -30,7 +30,7 @@
 
 - [SVG](Svg.md)
 
-- [Templates](Templates.md)
+- [Templates](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/raindrops/Bookmrks-Mthrfckr/Desgn-Mthrfckr/Templates.md)
 
 - [VECTORS](Vectors.md)
 

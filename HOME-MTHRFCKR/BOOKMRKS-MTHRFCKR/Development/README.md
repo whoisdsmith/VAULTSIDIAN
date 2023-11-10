@@ -8,7 +8,7 @@
 
 ***
 
-[Design](Design.md)
+[design](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/Development/design.md)
 
 [DevOps](Devops.md)
 
@@ -16,7 +16,7 @@
 
 [Programming](Programming.md)
 
-[Resources](Resources.md)
+[resources](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/Development/resources.md)
 
 [WebDev](Webdev.md)
 

@@ -5,7 +5,7 @@
 - [Academic Papers and Material](Academic%20Papers%20And%20Material.md)
 - [Antivirus](Antivirus.md)
 - [Audiobooks](Audiobooks.md)
-- [Automation](Automation.md)
+- [Automation](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/awesome-piracy/Awesome-Piracy/Automation.md)
 - [Browser Extensions](Browser%20Extensions.md)
 - [Cloud Storage](Cloud%20Storage.md)
 - [Comicbooks](Comicbooks.md)

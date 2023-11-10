@@ -26,7 +26,7 @@
 
 ## [[../../Research/Documents/Documents.md]]
 
-## [[General.md]]
+## [[HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/search-party/general]]
 
 ## [[Google Custom Search](../Raindropsmf/Searchparty-Mthrfckr/Google%20Custom%20Search.md)
 

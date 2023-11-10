@@ -18,7 +18,7 @@
 
 - [SODA](Soda.md)
 
-- [Stable-Diffusion](Stable-Diffusion.md)
+- [Stable-Diffusion](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/raindrops/Bookmrks-Mthrfckr/Mthrfckr/Stable-Diffusion.md)
 
 - [USEFUL-STUFF](Useful-Stuff.md)
 

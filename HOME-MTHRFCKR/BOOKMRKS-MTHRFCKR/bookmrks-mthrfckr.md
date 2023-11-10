@@ -74,7 +74,7 @@
 	- **[cata-list](Cata-List/Cata-List.md)**
 	- **[champagne-piracy-wiki](Champagne-Piracy-Wiki/Champagne-Piracy-Wiki.md)**
 	- **[coding](Coding/Coding.md)**
-	- **[Content](Content/Content.md)**
+	- **[Content](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/Content/Content.md)**
 	- **[dev-stax](dev-stax/dev-stax.md)**
 		- [dev-stax](dev-stax/dev-stax.md)
 		- **[readme](Dev-Stax/Readme/Readme.md)**
@@ -111,7 +111,7 @@
 			- [website-audit](Dev-Stax/Readme/Website-Audit.md)
 		- [readme](Dev-Stax/Readme.md)
 		- [summary](Dev-Stax/Summary.md)
-	- **[Development](Development/Development.md)**
+	- **[Development](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/Development/Development.md)**
 	- **[freemediaheckyeah](Freemediaheckyeah/Freemediaheckyeah.md)**
 	- **[freesources](freesources/freesources.md)**
 		- [freesources](freesources/freesources.md)

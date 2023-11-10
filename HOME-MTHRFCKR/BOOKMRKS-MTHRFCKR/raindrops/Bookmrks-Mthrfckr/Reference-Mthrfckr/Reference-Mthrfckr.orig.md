@@ -16,7 +16,7 @@
 
 - [EBOOKS](Ebooks.md)
 
-- [Edu](Edu.md)
+- [Edu](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/raindrops/Bookmrks-Mthrfckr/Reference-Mthrfckr/Edu.md)
 
 - [GLOSSARIES-AND-DICTIONARIES](Glossaries-And-Dictionaries.md)
 

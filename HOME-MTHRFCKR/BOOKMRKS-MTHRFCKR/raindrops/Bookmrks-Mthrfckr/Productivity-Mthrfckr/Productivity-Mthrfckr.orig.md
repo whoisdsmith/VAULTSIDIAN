@@ -2,7 +2,7 @@
 
 ---
 
-- [Apps](Apps.md)
+- [Apps](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/raindrops/Bookmrks-Mthrfckr/Productivity-Mthrfckr/Apps.md)
 
 - [CHARTS](Charts.md)
 
@@ -16,7 +16,7 @@
 
 - [DATA-SCRAPERS](Data-Scrapers.md)
 
-- [Database](Database.md)
+- [Database](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/raindrops/Bookmrks-Mthrfckr/Productivity-Mthrfckr/Database.md)
 
 - [DAY-ONE](Day-One.md)
 
@@ -44,7 +44,7 @@
 
 - [TIMELINES](Timelines.md)
 
-- [Spreadsheets](Spreadsheets.md)
+- [Spreadsheets](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/raindrops/Bookmrks-Mthrfckr/Productivity-Mthrfckr/Spreadsheets.md)
 
 - [RESUME-CV](Resume-Cv.md)
 

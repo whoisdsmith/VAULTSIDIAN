@@ -48,10 +48,10 @@ Ability of a product to work with different input/output devices and rendering s
 Important developers, companies, organizations and news sources.
 
 + **[Co[Communities Around Projects](Communities-Around-Projects.md) Successful open source projects attract many developers who produce plugins, libraries, tutorials and other resources. This section collects such resources.
-+ **[Ne[News](News.md) Websites & newsletters which provide daily and weekly news related to frontend web development.
++ **[Ne[news](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/Awesome/news.md) Websites & newsletters which provide daily and weekly news related to frontend web development.
 + **[No[Notable Community Members](Notable-Community-Members.md) Important engineers, evangelists, architects and other celebrities.
 + **[Or[Organizations](Organizations.md) Commercial companies and nonprofit organizations around web development.
-+ **[Po[Podcasts](Podcasts.md) A podcast is a form of digital media that consists of an episodic series of audio, video, digital radio, PDF, or ePub files subscribed to and downloaded automatically through web syndication or streamed online to a computer or mobile device.
++ **[Po[podcasts](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/Awesome/podcasts.md) A podcast is a form of digital media that consists of an episodic series of audio, video, digital radio, PDF, or ePub files subscribed to and downloaded automatically through web syndication or streamed online to a computer or mobile device.
 
 ## Languages, Protocols, Browser APIs
 
@@ -76,7 +76,7 @@ Programming/mark-up languages and web related standards.
 Drop-in UI components for web sites and applications.
 
 + **[Bu[Buttons](Buttons.md) The term button refers to any graphical control element that provides the user a simple way to trigger an event, like searching for a query at a search engine, or to interact with dialog boxes, like confirming an action.
-+ **[Co[Code](Code.md) Code viewers and editors designed for embedding inside a website.
++ **[Co[code](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/Awesome/code.md) Code viewers and editors designed for embedding inside a website.
 + **[Fo[Forms](../Freesources/Readme/Forms.md) A HTML form on a web page allows a user to enter data that is sent to a server for processing. Web users fill out the forms using checkboxes, radio buttons, or text fields.
 + **[Ga[Galeries & Image Sliders](Galeries-And-Image-Sliders.md) A sophisticated way to present a collection of images on your website.
 + **[Gr[Grid](Grid.md) CSS Grid Layout Systems.

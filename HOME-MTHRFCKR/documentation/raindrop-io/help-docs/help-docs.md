@@ -9,7 +9,7 @@
   - [account-basics](Account-Basics.md)
   - [account-settings](Account-Settings.md)
   - [api](home-mthrfckr/dev-docs/raindrop-io/help-docs/api.md)
-  - [Automation](Automation.md)
+  - [automation](HOME-MTHRFCKR/documentation/raindrop-io/help-docs/automation.md)
   - [backups](HOME-MTHRFCKR/DEV-DOCS/raindrop-io/help-docs/backups.md)
   - [bookmarks](Bookmarks.md)
   - [browser-extension](Browser-Extension.md)

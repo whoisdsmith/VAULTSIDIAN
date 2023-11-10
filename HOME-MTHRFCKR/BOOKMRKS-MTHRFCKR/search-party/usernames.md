@@ -2,7 +2,7 @@
 
 ---
 
-- [../Search/General.md](General.md)
+- [../Search/General.md](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/search-party/general.md)
 - [../../Osint/Osint-Bookmarks/Osint.md](../../osint/osint-bookmarks/osint.md)
 - [../osint-and-hacking/../osint-and-hacking/../osint-and-hacking/../osint-and-hacking/../osint-and-hacking/../osint-and-hacking/../osint-and-hacking/../osint-and-hacking/../osint-and-hacking/../osint-and-hacking/../Osint-And-Hacking/Osint-Search-Engines.md.md.md.md.md.md.md.md.md.md.md](osint-search-engines)
 - [SEARCH PARTY MTHRFCKR](SEARCH PARTY MTHRFCKR)

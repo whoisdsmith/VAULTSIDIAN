@@ -4,14 +4,14 @@
 
 %% Begin Waypoint %%
 - **[freemediaheckyeah](../../../..//home-mthrfckr/Bookmrks-Mthrfckr/Freemediaheckyeah/Freemediaheckyeah.md)**
-	- [Audio](Audio.md)
+	- [AUDIO](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/FREEMEDIAHECKYEAH/AUDIO.md)
 	- [best-dns-servers](Best-Dns-Servers.md)
 	- [browser-network](Browser-Network.md)
 	- [computers](Computers.md)
 	- [datahoarder](Datahoarder.md)
 	- [Dev](Dev.md)
 	- [download](Download.md)
-	- [Edu](Edu.md)
+	- [EDU](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/FREEMEDIAHECKYEAH/EDU.md)
 	- **[fmhy-collections](Fmhy-Collections/Fmhy-Collections.md)**
 		- [course-collections](Fmhy-Collections/Course-Collections.md)
 		- [fmhy-collections](Fmhy-Collections/Fmhy-Collections.md)
@@ -56,7 +56,7 @@
 		- [sitehunt](To-Do/Sitehunt.md)
 		- [test-sites](To-Do/Test-Sites.md)
 		- [to-do](To-Do/To-Do.md)
-	- [Tools](Tools.md)
-	- [Video](Video.md)
+	- [TOOLS](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/FREEMEDIAHECKYEAH/TOOLS.md)
+	- [VIDEO](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/FREEMEDIAHECKYEAH/VIDEO.md)
 
 %% End Waypoint %%

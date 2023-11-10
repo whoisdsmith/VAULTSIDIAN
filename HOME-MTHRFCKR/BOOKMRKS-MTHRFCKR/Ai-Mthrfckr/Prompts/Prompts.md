@@ -2,7 +2,7 @@
 tags: MOCs
 ---
 
-# MOC: obsidian-scrapers
+# MOC: Prompts
 
 ---
 

@@ -4,7 +4,7 @@
 
 - [ADDERALL](Adderall.md)
 
-- [Blogs](Blogs.md)
+- [Blogs](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/raindrops/Bookmrks-Mthrfckr/Social-Mthrfckr/Blogs.md)
 
 - [CREATE-BLOG](Create-Blog.md)
 
@@ -28,7 +28,7 @@
 
 - [PEOPLE-TO-FOLLOW](People-To-Follow.md)
 
-- [Podcasts](Podcasts.md)
+- [Podcasts](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/raindrops/Bookmrks-Mthrfckr/Social-Mthrfckr/Podcasts.md)
 
 - [REDDIT](Reddit.md)
 
@@ -38,6 +38,6 @@
 
 - [TELEGRAM](Telegram.md)
 
-- [Twitter](Twitter.md)
+- [Twitter](HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/raindrops/Bookmrks-Mthrfckr/Social-Mthrfckr/Twitter.md)
 
 ---
