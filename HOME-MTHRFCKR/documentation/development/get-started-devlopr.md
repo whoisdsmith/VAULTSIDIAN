@@ -1,4 +1,6 @@
-## Getting Started - How to use “devlopr-jekyll” theme
+# Get-started-devlopr
+
+## Getting Started - How to Use “devlopr-jekyll” Theme
 
 ## What’s Jekyll ?
 
@@ -8,7 +10,7 @@ If you aren’t familiar with Jekyll yet, you should know that it is a static si
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cXBEfpn0qrg?rel=0&amp;controls=0&amp;showinfo=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-### Steps to create your blog using devlopr-jekyll and Host using Github Pages :
+### Steps to Create Your Blog Using Devlopr-jekyll and Host Using Github Pages
 
 > **Step 1.** Fork the repo - [click here](https://github.com/sujaykundu777/devlopr-jekyll/fork)
 
@@ -45,7 +47,7 @@ If you aren’t familiar with Jekyll yet, you should know that it is a static si
 
 > **Step 5** - Install the development requirements:
 
-### Set up local development environment
+### Set up Local Development Environment
 
 1.  [Git](https://git-scm.com/)
 2.  [Ruby](https://www.ruby-lang.org/) and [Bundler](https://bundler.io/)
@@ -107,7 +109,7 @@ Visit [http://localhost:4000](http://localhost:4000/) for development server
 
 Start populating your blog by adding your .md files in \_posts. devlopr-jekyll already has a few examples.
 
-#### YAML Post Example:
+#### YAML Post Example
 
 ```
 ---
@@ -125,7 +127,7 @@ Hi ! This is sample post.
 
 ```
 
-#### YAML Page Example:
+#### YAML Page Example
 
 ```
 ---
@@ -137,11 +139,11 @@ permalink: /sample-page/
 Hi ! This is sample page.
 ```
 
-#### Editing stylesheet
+#### Editing Stylesheet
 
 You’ll only work with a single file to edit/add theme style: assets/css/main.scss.
 
-### Deploy your Changes
+### Deploy Your Changes
 
 Once happy with your blog changes. Push your changes to master branch.
 

@@ -5,9 +5,10 @@ source: https://blog.exploratory.io/5-most-common-date-time-data-wrangling-opera
 author: Kan Nishida
 ---
 
-# 5 Most Common Date/Time Data Wrangling Operations with Exploratory | by Kan Nishida | learn data science
+# 5 Most Common Date/Time Data Wrangling Operations with Exploratory | by Kan Nishida | Learn Data Science
 
 ---
+
 Does your data include Date and Time?
 
 That’s great! You can analyze your data from many different perspectives.
@@ -189,7 +190,7 @@ This wday function also returns the values as ‘Ordered Factor’. This means, 
 
 ![](https://miro.medium.com/max/1400/0*B6BMxneQkQnUCL3X.png)
 
-## 3. Filter based on Date and Time
+## 3. Filter Based on Date and Time
 
 Sometimes we want to filter the data based on date and time information.
 
@@ -233,7 +234,7 @@ Year to Date
 
 Year to Date returns the data starting from January of the current year (January) to today.
 
-## 4. Calculate the length between two date and times
+## 4. Calculate the Length between Two Date and times
 
 Let’s say we want to calculate how long each TV commercial was running for.
 
@@ -291,7 +292,7 @@ Instead, you can simply use one of the chart types to get the same result by swi
 
 ![](https://miro.medium.com/max/1400/1*NpOd-m9xn8A8CNUGIQKbmw.png)
 
-## Try it for yourself!
+## Try it for Yourself
 
 If you don’t have Exploratory Desktop yet, you can sign up from [here](https://exploratory.io/?utm_campaign=datetime_wrangling&utm_medium=blog&utm_source=medium) for 30 days free trial!
 

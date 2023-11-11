@@ -1,12 +1,17 @@
-### devlopr-jekyll - A Beautiful Jekyll Theme Built for Developers
+# Devlopr
+
+## Devlopr-jekyll - A Beautiful Jekyll Theme Built for Developers
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-[![Gem Version](https://badge.fury.io/rb/devlopr.svg)](https://badge.fury.io/rb/devlopr)![workflow-badge](https://github.com/sujaykundu777/devlopr-jekyll/workflows/deploy/badge.svg)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4232ac2b-63e0-4c78-92e0-e95aad5ab8c3/deploy-status)](https://app.netlify.com/sites/devlopr/deploys)
-![](https://ruby-gem-downloads-badge.herokuapp.com/devlopr?type=total&color=brightgreen&style=plastic)
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+[![Gem Version](https://badge.fury.io/rb/devlopr.svg)](https://badge.fury.io/rb/devlopr)![workflow-badge](https://github.com/sujaykundu777/devlopr-jekyll/workflows/deploy/badge.svg)  
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4232ac2b-63e0-4c78-92e0-e95aad5ab8c3/deploy-status)](https://app.netlify.com/sites/devlopr/deploys)  
+![](https://ruby-gem-downloads-badge.herokuapp.com/devlopr?type=total&color=brightgreen&style=plastic)  
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)  
 [![Bakers](https://opencollective.com/devlopr-jekyll/tiers/badge.svg)](https://opencollective.com/devlopr-jekyll/)
 
 You can use Devlopr as a starter for building your own Site. we purposely keep the styling minimal and bare to make it easier to add your own flare and markup. (Under Active Development) !
@@ -17,24 +22,24 @@ Highly Customizable and No Hosting or Maintainence Cost is required !
 
 devlopr uses Markdown Files to generate data like Blog Posts, Gallery, Shop Products etc. No external database is required.
 
-### Launch your Static Site using Devlopr in minutes :rocket
+## Launch Your Static Site Using Devlopr in Minutes :rocket
 
 To get started follow this [Tutorial](https://devlopr.netlify.app/get-started)
 
 or if you want to try fast :
 
-### Follow this steps in browser (takes 5-10 mins)
+## Follow This Steps in Browser (takes 5-10 mins)
 
 1. Fork this Repo with your name as  your_username.github.io
 2. Visit your Fork repo at <https://github.com/your_username/your_username.github.io>
 3. Press "." in keyboard (this will open up vs-code editor in browser) of the repo.
-4. Customize config.yml file according to your needs (eg. change your Name, Email... etc.)
+4. Customize config.yml file according to your needs (eg. change your Name, Email… etc.)
 5. Commit your changes, and push
 6. Wait for CI/CD to build your website. Visit Github Actions to see the build process.
 7. Once Ready, Your website will be ready at <https://your_username.github.io> :sparkles:
 8. Happy Hacking your new site ! For Local changes you can clone locally.
 
-### Local Development Steps
+## Local Development Steps
 
 To work locally, follow this commands. You might need ruby and git installed.
 
@@ -59,7 +64,7 @@ bundle exec jekyll serve
 
 Start the server locally at <http://127.0.0.1:4000/> or <http://localhost:4000/>
 
-### Security
+## Security
 
 We use codeQL and dependabot alerts for vulnerabality analysis & fixes.
 
@@ -67,13 +72,13 @@ We use codeQL and dependabot alerts for vulnerabality analysis & fixes.
 bundle audit
 ```
 
-### Deploy your devlopr-jekyll blog - One Click Deploy
+## Deploy Your Devlopr-jekyll Blog - One Click Deploy
 
-[![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/new/project?template=https://github.com/sujaykundu777/devlopr-jekyll)
-[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sujaykundu777/devlopr-jekyll)
+[![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/new/project?template=https://github.com/sujaykundu777/devlopr-jekyll)  
+[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sujaykundu777/devlopr-jekyll)  
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sujaykundu777/devlopr-jekyll)
 
-### Github Actions
+## Github Actions
 
 This Project has actions to auto deploy jekyll to github pages and firebase. The deployment target can be set by editing the `DEPLOY_STRATEGY` file. Valid values are:
 
@@ -83,7 +88,7 @@ This Project has actions to auto deploy jekyll to github pages and firebase. The
   - `FIREBASE_TOKEN`: your firebase token. you can get this by running `firebase login:ci` with the firebase cli.
   - `FIREBASE_PROJECT_ID`: the project id of the project you just created
 
-### Demo (Hosted Apps)
+## Demo (Hosted Apps)
 
 - Github Pages Demo - [here](https://sanketkundu.github.io/)
 - Firebase Demo - [here](https://devlopr.web.app)
@@ -92,7 +97,7 @@ This Project has actions to auto deploy jekyll to github pages and firebase. The
 - Heroku Demo - [here](https://devlopr-jekyll.herokuapp.com)
 - AWS Amplify Demo - [here](https://master.d3t30wwddt6jju.amplifyapp.com/)
 
-#### Features
+### Features
 
 - Local CMS Admin Support using [Jekyll Admin](https://jekyll.github.io/jekyll-admin/)
 - Headless CMS Admin Support using [Netlify CMS](https://sujaykundu.com/blog/how-to-setup-netlify-cms-with-github-pages-hosted-jekyll-blog/)
@@ -108,7 +113,7 @@ This Project has actions to auto deploy jekyll to github pages and firebase. The
 - Hosting Support for [Github Pages](https://pages.github.com), [Netlify](https://netlify.com), [Vercel](https://vercel.com), [Heroku](https://heroku.com), [AWS Amplify](aws.amplify.com), [Firebase](https://firebase.com)
 - CI/CD Support using [Travis CI](https://sujaykundu.com/blog/deploy-jekyll-blog-using-github-pages-and-travis-ci/)
 
-#### Jekyll Admin
+### Jekyll Admin
 
 You can easily manage the site locally using the Jekyll admin : [http://localhost:4000/admin](http://localhost:4000/admin)
 
@@ -116,7 +121,7 @@ You can easily manage the site locally using the Jekyll admin : [http://localhos
 
 You can check out for all changelogs [here](https://devlopr.olvy.co/)
 
-## Pull the latest changes
+# Pull the Latest Changes
 
 ```s
 git remote -v
@@ -127,7 +132,7 @@ git merge upstream/master
 git push
 ```
 
-## Using Docker
+# Using Docker
 
 Building the Image :
 
@@ -137,9 +142,9 @@ Running the container :
 
 `docker run -d -p 4000:4000 -it --volume="$PWD:/srv/jekyll" --name "my_blog" my-devlopr-jekyll-blog:latest jekyll serve --watch`
 
-## Using Docker Compose
+# Using Docker Compose
 
-### Development
+## Development
 
 You can run the app in development mode : (your changes will be reflected --watch moded)
 
@@ -147,7 +152,7 @@ Serve the site at <http://localhost:4000> :
 
 `docker-compose -f docker-compose-dev.yml up --build --remove-orphans`
 
-### Production
+## Production
 
 You can run the app in production mode : (your changes will be reflected --watch moded)
 
@@ -155,15 +160,16 @@ Serve the site at <http://localhost:4000> :
 
 `docker-compose -f docker-compose-prod.yml up --build --remove-orphans`
 
-Stop the app :
-`docker-compose -f docker-compose-prod.yml down`
+Stop the app :  
+`docker-compose -f docker-compose-prod.yml down`  
 Once everything is good and ready to go live -
 
 `docker-compose -f docker-compose-prod.yml up --build --detach`
 
-## Contributors
+# Contributors
 
 This project exists thanks to all the people who contribute.
+
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
@@ -193,18 +199,18 @@ Contributions are more than just welcome. Fork this repo and create a new branch
 
 - 1.Fork it [http://github.com/sujaykundu777/devlopr-jekyll/fork](http://github.com/sujaykundu777/devlopr-jekyll/fork )
 
-- 2.Create your feature branch
+- 2.Create your feature branch  
 `git checkout -b my-new-feature`
 
-- 3.Commit your changes
+- 3.Commit your changes  
 `git commit -am 'Add some feature'`
 
-- 4.Push to the branch
+- 4.Push to the branch  
 `git push origin my-new-feature`
 
 - 5.Create new Pull Request
 
-## Support this Project
+# Support This Project
 
 Back this project by Donating to our [Open Collective](https://opencollective.com/devlopr-jekyll/donate) or if you like my work[Buymeacoffee](https://buymeacoffee.com/sujaykundu).
 
@@ -214,10 +220,10 @@ Thanks to all our Backers ! [Become a Backer](https://opencollective.com/devlopr
 
 <a href="https://opencollective.com/devlopr-jekyll#backers" target="_blank"><img src="https://opencollective.com/devlopr-jekyll/tiers/backer.svg?avatarHeight=36" /></a>
 
-### For Help
+## For Help
 
 You can contact me, if you need any help via [Email](mailto:sujaykundu777@gmail.com). If you like the project. Don't forget to :star: !
 
-## Licence
+# Licence
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT). You can do anything you want, including projects for your clients, as long as you mention an attribution back (credit links in footer). See the [Licence](https://github.com/sujaykundu777/devlopr-jekyll/blob/master/LICENSE) file

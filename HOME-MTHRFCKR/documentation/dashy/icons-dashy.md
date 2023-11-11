@@ -8,6 +8,7 @@ author:
 # Icons | Dashy
 
 ---
+
 Both sections and items can have an icon, which is specified using the `icon` attribute. Using icons improves the aesthetics of your UI and makes the app more intuitive to use. Dashy supports multiple different icon providers, usage instructions for which are explained here.
 
 -   [Auto-Fetched Favicons](https://dashy.to/docs/#favicons)

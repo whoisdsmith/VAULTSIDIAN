@@ -15,21 +15,37 @@ Also don't forget to give this repository a star ⭐ if you like it to keep up w
 Not all of these resources are free. **Paid**: you have to pay for the product or for a subscription. **Freemium**: the resource is partly free, partly paid
 
 * [Interactive Coding Courses](#interactive-coding-courses)
+
 * [Coding Challenges](#coding-challenges)
+
 * [Coding Project Inspiration](#coding-project-inspiration)
+
 * [Coding - What To Learn Next](#coding---what-to-learn-next)
+
 * [Blog Platforms](#blog-platforms)
+
 * [Video Course Platforms](#video-course-platforms)
+
 * [Helpful GitHub Repositories](#helpful-github-repositories)
+
 * [UI / UX](#ui--ux)
+
 * [System Administration & Networks](#system-administration--networks)
+
 * [DevOps](#devops)
+
 * [NoCode & Serverless](#nocode--serverless)
+
 * [Security & Hacking](#security--hacking)
+
 * [APIs](#apis)
+
 * [Studying](#studying)
+
 * [Technical Writing](#technical-writing)
+
 * [Career](#career)
+
 * [Cool Discord Communities](#cool-discord-communities)
 
 ## Interactive Coding Courses

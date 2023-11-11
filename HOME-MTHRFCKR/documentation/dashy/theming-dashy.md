@@ -8,6 +8,7 @@ author:
 # Theming | Dashy
 
 ---
+
 By default Dashy comes with 25+ built-in themes, which can be applied from the dropwodwn menu in the UI.
 
 ![Built-in Themes](https://i.ibb.co/GV3wRss/Dashy-Themes.png)
@@ -18,7 +19,7 @@ You can customize Dashy by writing your own CSS, which can be loaded either as a
 
 The following content requires that you have a basic understanding of CSS. If you're just beginning, you may find [this article](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps) helpful.
 
-### How Theme-Switching Works[#](https://dashy.to/docs/#how-theme-switching-works "Direct link to heading")
+## How Theme-Switching Works[#](https://dashy.to/docs/#how-theme-switching-works "Direct link to heading")
 
 The theme switching is done by simply changing the `data-theme` attribute on the root DOM element, which can then be targeted by CSS. First off, in order for the theme to show up in the theme switcher, it needs to be added to the config file, under `appConfig.cssThemes`, either as a string, or an array of strings for multiple themes. For example:
 
@@ -36,7 +37,7 @@ Finally, from the UI use the theme dropdown menu to select your new theme, and y
 
 You can also set `appConfig.theme` to pre-select a default theme, which will be applied immediately after deployment.
 
-### Modifying Theme Colors[#](https://dashy.to/docs/#modifying-theme-colors "Direct link to heading")
+## Modifying Theme Colors[#](https://dashy.to/docs/#modifying-theme-colors "Direct link to heading")
 
 Themes can be modified either through the UI, using the color picker menu (to the right of the theme dropdown), or directly in the config file, under `appConfig.customColors`. Here you can specify the value for any of the [available CSS variables](https://dashy.to/docs/#css-variables).
 
@@ -52,17 +53,17 @@ If these values are specified in your `conf.yml` file, then it will look somethi
 appConfig:  customColors:    oblivion:      primary: '#75efff'      background: '#2a3647'    dracula:      primary: '#8be9fd'
 ```
 
-### Adding your own Theme[#](https://dashy.to/docs/#adding-your-own-theme "Direct link to heading")
+## Adding Your Own Theme[#](https://dashy.to/docs/#adding-your-own-theme "Direct link to heading")
 
 User-defined styles and custom themes should be defined in `./src/styles/user-defined-themes.scss`. If you're using Docker, you can pass your own stylesheet in using the `--volume` flag. E.g. `v ./my-themes.scss:/app/src/styles/user-defined-themes.scss`. Don't forget to pass your theme name into `appConfig.cssThemes` so that it shows up on the theme-switcher dropdown.
 
-### Setting Custom CSS in the UI[#](https://dashy.to/docs/#setting-custom-css-in-the-ui "Direct link to heading")
+## Setting Custom CSS in the UI[#](https://dashy.to/docs/#setting-custom-css-in-the-ui "Direct link to heading")
 
 Custom CSS can be developed, tested and applied directly through the UI. Although you will need to make note of your changes to apply them across instances.
 
 This can be done from the Config menu (spanner icon in the top-right), under the Custom Styles tab. This is then associated with `appConfig.customCss` in local storage. Styles can also be directly applied to this attribute in the config file, but this may get messy very quickly if you have a lot of CSS.
 
-### Page-Specific Styles[#](https://dashy.to/docs/#page-specific-styles "Direct link to heading")
+## Page-Specific Styles[#](https://dashy.to/docs/#page-specific-styles "Direct link to heading")
 
 If you've got multiple pages within your dashboard, you can choose to target certain styles to specific pages. The top-most element within `<body>` will have a class name specific to the current sub-page. This is usually the page's name, all lowercase, with dashes instead of spaces, but you can easily check this yourself within the dev tools.
 
@@ -72,7 +73,7 @@ For example, if the pages name was "CFT Toolbox", and you wanted to target `.ite
 .cft-toolbox .item { border: 4px solid yellow; }
 ```
 
-### Loading External Stylesheets[#](https://dashy.to/docs/#loading-external-stylesheets "Direct link to heading")
+## Loading External Stylesheets[#](https://dashy.to/docs/#loading-external-stylesheets "Direct link to heading")
 
 The URI of a stylesheet, either local or hosted on a remote CDN can be passed into the config file. The attribute `appConfig.externalStyleSheet` accepts either a string, or an array of strings. You can also pass custom font stylesheets here, they must be in a CSS format (for example, `https://fonts.googleapis.com/css2?family=Cutive+Mono`). This is handled in [`ThemeHelper.js`](https://github.com/Lissy93/dashy/blob/master/src/utils/ThemeHelper.js).
 
@@ -86,7 +87,7 @@ appConfig:  externalStyleSheet: 'https://example.com/my-stylesheet.css'
 appConfig:  externalStyleSheet: ['/themes/my-theme-1.css', '/themes/my-theme-2.css']
 ```
 
-### Hard-Coding Section or Item Colors[#](https://dashy.to/docs/#hard-coding-section-or-item-colors "Direct link to heading")
+## Hard-Coding Section or Item Colors[#](https://dashy.to/docs/#hard-coding-section-or-item-colors "Direct link to heading")
 
 Some UI components have a color option, that can be set in the config file, to force the color of a given item or section no matter what theme is selected. These colors should be expressed as hex codes (e.g. `#fff`) or HTML colors (e.g. `red`). The following attributes are supported:
 
@@ -94,7 +95,7 @@ Some UI components have a color option, that can be set in the config file, to f
 -   `item.color` - Font and icon color for a given item
 -   `item.backgroundColor` - Background color for a given icon
 
-### Typography[#](https://dashy.to/docs/#typography "Direct link to heading")
+## Typography[#](https://dashy.to/docs/#typography "Direct link to heading")
 
 Essential fonts bundled within the app are located within `./src/assets/fonts/`. All optional fonts that are used by themes are stored in `./public/fonts/`, if you want to add your own font, this is where you should put it. As with assets, if you're using Docker then using a volume to link a directory on your host system with this path within the container will make management much easier.
 
@@ -102,7 +103,7 @@ Fonts which are not being used by the current theme are **not** fetched on page 
 
 Full credit to the typographers behind each of the included fonts. Specifically: Matt McInerney, Christian Robertson, Haley Fiege, Peter Hull, Cyreal and the legendary Vernon Adams
 
-### CSS Variables[#](https://dashy.to/docs/#css-variables "Direct link to heading")
+## CSS Variables[#](https://dashy.to/docs/#css-variables "Direct link to heading")
 
 All colors as well as other variable values (such as borders, border-radius, shadows) are specified as CSS variables. This makes theming the application easy, as you only need to change a given color or value in one place. You can find all variables in [`color-palette.scss`](https://github.com/Lissy93/dashy/blob/master/src/styles/color-palette.scss) and the themes which make use of these color variables are specified in [`color-themes.scss`](https://github.com/Lissy93/dashy/blob/master/src/styles/color-themes.scss)
 
@@ -110,7 +111,7 @@ CSS variables are simple to use. You define them like: `--background: #fff;` and
 
 You can determine the variable used by any given element, and visualize changes using the browser developer tools (Usually opened with `F12`, or Options --> More --> Developer Tools). Under the elements tab, click the Element Selector icon (usually top-left corner), you will then be able to select any DOM element on the page by hovering and clicking it. In the CSS panel you will see all styles assigned to that given element, including CSS variables. Click a variable to see it's parent value, and for color attributes, click the color square to modify the color. For more information, see this [getting started guide](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools), and these articles on [selecting elements](https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Select_an_element) and [inspecting and modifying colors](https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Inspect_and_select_colors).
 
-#### Top-Level Variables[#](https://dashy.to/docs/#top-level-variables "Direct link to heading")
+### Top-Level Variables[#](https://dashy.to/docs/#top-level-variables "Direct link to heading")
 
 These are all that are required to create a theme. All other variables inherit their values from these variables, and can optionally be overridden.
 
@@ -120,7 +121,7 @@ These are all that are required to create a theme. All other variables inherit t
 -   `--curve-factor` - The border radius used globally throughout the application. Specified in `px`, defaults to `5px`
 -   `--dimming-factor` - Inactive elements have slight transparency. This can be between `0` (invisible) and `1` (normal), defaults to `0.7`
 
-#### Targeted Color Variables[#](https://dashy.to/docs/#targeted-color-variables "Direct link to heading")
+### Targeted Color Variables[#](https://dashy.to/docs/#targeted-color-variables "Direct link to heading")
 
 You can target specific elements on the UI with these variables. All are optional, since by default, they inherit their values from above
 
@@ -164,7 +165,7 @@ You can target specific elements on the UI with these variables. All are optiona
 -   `--context-menu-background` - Background color of right-click context menu. Defaults to `--background`
 -   `--context-menu-secondary-color` - Border and outline color for context menu. Defaults to `--background-darker`
 
-#### Non-Color Variables[#](https://dashy.to/docs/#non-color-variables "Direct link to heading")
+### Non-Color Variables[#](https://dashy.to/docs/#non-color-variables "Direct link to heading")
 
 -   `--outline-color` - Used to outline focused or selected elements
 -   `--curve-factor-navbar` - The border radius of the navbar. Usually this is greater than `--curve-factor`
@@ -177,7 +178,7 @@ You can target specific elements on the UI with these variables. All are optiona
 -   `--item-group-shadow` - The shadow for an item group/ section. Defaults to `--item-shadow`
 -   `--settings-container-shadow` - A shadow property for the settings container. E.g. `none`
 
-#### Action Colors[#](https://dashy.to/docs/#action-colors "Direct link to heading")
+### Action Colors[#](https://dashy.to/docs/#action-colors "Direct link to heading")
 
 These colors represent intent, and so are not often changed, but you can do so if you wish
 

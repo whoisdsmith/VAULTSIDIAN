@@ -8,7 +8,8 @@ author:
 # App Management | Dashy
 
 ---
-_The following article is a primer on managing self-hosted apps. It covers everything from keeping the Dashy (or any other app) up-to-date, secure, backed up, to other topics like auto-starting, monitoring, log management, web server configuration and using custom domains._
+
+*The following article is a primer on managing self-hosted apps. It covers everything from keeping the Dashy (or any other app) up-to-date, secure, backed up, to other topics like auto-starting, monitoring, log management, web server configuration and using custom domains.*
 
 ## Contents[#](https://dashy.to/docs/#contents "Direct link to heading")
 
@@ -77,19 +78,19 @@ ___
 
 ## Logs and Performance[#](https://dashy.to/docs/#logs-and-performance "Direct link to heading")
 
-#### Container Logs[#](https://dashy.to/docs/#container-logs "Direct link to heading")
+### Container Logs[#](https://dashy.to/docs/#container-logs "Direct link to heading")
 
 You can view logs for a given Docker container with `docker logs [container-id]`, add the `--follow` flag to stream the logs. For more info, see the [Logging Documentation](https://docs.docker.com/config/containers/logging/). There's also [Dozzle](https://dozzle.dev/), a useful tool, that provides a web interface where you can stream and query logs from all your running containers from a single web app.
 
-#### Container Performance[#](https://dashy.to/docs/#container-performance "Direct link to heading")
+### Container Performance[#](https://dashy.to/docs/#container-performance "Direct link to heading")
 
 You can check the resource usage for your running Docker containers with `docker stats` or `docker stats [container-id]`. For more info, see the [Stats Documentation](https://docs.docker.com/engine/reference/commandline/stats/). There's also [cAdvisor](https://github.com/google/cadvisor), a useful web app for viewing and analyzing resource usage and performance of all your running containers.
 
-#### Management Apps[#](https://dashy.to/docs/#management-apps "Direct link to heading")
+### Management Apps[#](https://dashy.to/docs/#management-apps "Direct link to heading")
 
 You can also view logs, resource usage and other info as well as manage your entire Docker workflow in third-party Docker management apps. For example [Portainer](https://github.com/portainer/portainer) an all-in-one open source management web UI for Docker and Kubernetes, or [LazyDocker](https://github.com/jesseduffield/lazydocker) a terminal UI for Docker container management and monitoring.
 
-#### Advanced Logging and Monitoring[#](https://dashy.to/docs/#advanced-logging-and-monitoring "Direct link to heading")
+### Advanced Logging and Monitoring[#](https://dashy.to/docs/#advanced-logging-and-monitoring "Direct link to heading")
 
 Docker supports using [Prometheus](https://prometheus.io/) to collect logs, which can then be visualized using a platform like [Grafana](https://grafana.com/). For more info, see [this guide](https://docs.docker.com/config/daemon/prometheus/). If you need to route your logs to a remote syslog, then consider using [logspout](https://github.com/gliderlabs/logspout). For enterprise-grade instances, there are managed services, that make monitoring container logs and metrics very easy, such as [Sematext](https://sematext.com/blog/docker-container-monitoring-with-sematext/) with [Logagent](https://github.com/sematext/logagent-js).
 
@@ -285,7 +286,7 @@ If you see a CORS error in your console, this can be easily fixed by setting the
 -   [HAProxy](https://dashy.to/docs/#haproxy)
 -   [Apache](https://dashy.to/docs/#apache)
 
-_The following section briefly outlines how you can set headers for common web proxies/ servers. More info can be found in the documentation for the proxy that you are using, or in the [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)._
+*The following section briefly outlines how you can set headers for common web proxies/ servers. More info can be found in the documentation for the proxy that you are using, or in the [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS).*
 
 These examples are using:
 
@@ -400,7 +401,7 @@ SSH (or [Secure Shell](https://en.wikipedia.org/wiki/Secure_Shell)) is a secure 
 
 Directly SSH'ing into your home, would require you to open a port (usually 22), which would be terrible for security, and is not recommended. However a reverse SSH connection is initiated from inside your network. Once the connection is established, the port is redirected, allowing you to use the established connection to SSH into your home network.
 
-The issue you've probably spotted, is that most public, corporate, and institutional networks will block SSH connections. To overcome this, you'd have to establish a server outside of your homelab that your homelab's device could SSH into to establish the reverse SSH connection. You can then connect to that remote server (the _mothership_), which in turn connects to your home network.
+The issue you've probably spotted, is that most public, corporate, and institutional networks will block SSH connections. To overcome this, you'd have to establish a server outside of your homelab that your homelab's device could SSH into to establish the reverse SSH connection. You can then connect to that remote server (the *mothership*), which in turn connects to your home network.
 
 Now all of this is starting to sound like quite a lot of work, but this is where services like [remot3.it](https://remote.it/) come in. They maintain the intermediary mothership server, and create the tunnel service for you. It's free for personal use, secure and easy. There are several similar services, such as [RemoteIoT](https://remoteiot.com/), or you could create your own on a cloud VPS (see [this tutorial](https://gist.github.com/nileshtrivedi/4c615e8d3c1bf053b0d31176b9e69e42) for more info on that).
 
@@ -545,7 +546,7 @@ Here's an example using docker-compose, removing privileges that are not require
 version: "3.8"services:  dashy:    image: lissy93/dashy    ports: [ 4000:80 ]    cap_drop:    - ALL    cap_add:    - CHOWN    - SETGID    - SETUID    - DAC_OVERRIDE    - NET_BIND_SERVICE
 ```
 
-### Prevent new Privilages being Added[#](https://dashy.to/docs/#prevent-new-privilages-being-added "Direct link to heading")
+### Prevent New Privilages Being Added[#](https://dashy.to/docs/#prevent-new-privilages-being-added "Direct link to heading")
 
 To prevent processes inside the container from getting additional privileges, pass in the `--security-opt=no-new-privileges:true` option to the Docker run command (see [docs](https://docs.docker.com/engine/reference/run/#security-configuration)).
 
@@ -617,7 +618,7 @@ ___
 
 ## Web Server Configuration[#](https://dashy.to/docs/#web-server-configuration "Direct link to heading")
 
-_The following section only applies if you are not using Docker, and would like to use your own web server_
+*The following section only applies if you are not using Docker, and would like to use your own web server*
 
 Dashy ships with a pre-configured Node.js server, in [`server.js`](https://github.com/Lissy93/dashy/blob/master/server.js) which serves up the contents of the `./dist` directory on a given port. You can start the server by running `node server`. Note that the app must have been build (run `yarn build`), and you need [Node.js](https://nodejs.org/) installed.
 
@@ -717,7 +718,7 @@ The first step is to fork the project on GitHub, and clone it to your local syst
 
 ___
 
-## Building your Own Container[#](https://dashy.to/docs/#building-your-own-container "Direct link to heading")
+## Building Your Own Container[#](https://dashy.to/docs/#building-your-own-container "Direct link to heading")
 
 Similar to above, you'll first need to fork and clone Dashy to your local system, and then install dependencies.
 

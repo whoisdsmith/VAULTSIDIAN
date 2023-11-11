@@ -5,9 +5,10 @@ source: https://blog.exploratory.io/7-most-common-text-data-wrangling-operations
 author: Kan Nishida
 ---
 
-# 8 Most Common Text Data Wrangling Tasks Done Quickly in Exploratory | by Kan Nishida | learn data science
+# 8 Most Common Text Data Wrangling Tasks Done Quickly in Exploratory | by Kan Nishida | Learn Data Science
 
 ---
+
 In this post, I’m going to walk you through how you can address the following common text data wrangling challenges in Exploratory.
 
 -   Extract only numeric values from text
@@ -31,7 +32,7 @@ Here is how it looks once the data is imported.
 
 ![](https://miro.medium.com/max/1400/0*IF8rxQ0T5cueNXTo.png)
 
-## 1. Extract only numeric values from text
+## 1. Extract only Numeric Values from Text
 
 First, take a look at ‘Valuation ($B)’ column, which is registered as character type.
 
@@ -51,7 +52,7 @@ This will create a ‘mutate’ dialog with the following expression.
 
 Once you click ‘Run’ button, ‘Valuation ($B)’ column is now converted to numeric data type and it now shows a histogram with numeric statistics.
 
-## 2. Remove escaping characters and extra spaces
+## 2. Remove Escaping Characters and Extra Spaces
 
 When we go to Table view and look at ‘Select Investors’ column we can see some escaping letters like ‘’ (new line), ‘’ (tab) in the data.
 
@@ -69,7 +70,7 @@ Once you click ‘Run’ button, you will see that the escaping characters are g
 
 One cool thing about this function is that, not only it removes the escaping characters but also it removes extra spaces when there are two or three spaces between two words.
 
-## 3. Find some characters or patterns from text
+## 3. Find Some Characters or Patterns from Text
 
 In ‘Select Investors’ column, we can see ‘Andreessen Horowitz’.
 
@@ -101,7 +102,7 @@ We can go to Summary view to see that it has invested in 14 Unicorn startups, wh
 
 ![](https://miro.medium.com/max/1400/0*iRBXZlvcl9kAbSBS.png)
 
-## 4. Replace some characters or patterns with something else
+## 4. Replace Some Characters or Patterns with Something Else
 
 By the way, the ‘Andreessen Horowitz’ is a venture capital firm that was started by two legedaries in Silicon Valley who created a few tech comapanies including Netscape, LoudCloud.
 
@@ -125,7 +126,7 @@ Once you click ‘Run’ button you will see all the “Andreessen Horowitz” e
 
 ![](https://miro.medium.com/max/1400/0*F1bQUOLOASmdSsDi.png)
 
-## 5. Replace the whole value with something else
+## 5. Replace the Whole Value with Something Else
 
 Here is a chart that shows the number of Unicorns by country.
 
@@ -152,7 +153,7 @@ Once you click ‘Run’ button, we can see them being updated in the chart.
 
 ![](https://miro.medium.com/max/1400/0*aiE48bdlbXdTuG6_.png)
 
-## 6. Split a list of values to multiple rows
+## 6. Split a List of Values to Multiple Rows
 
 Look at ‘Select Investors’ column. We can see that multiple investors are listed for each row and they are separated by comma.
 
@@ -238,7 +239,7 @@ Once you click on ‘Run’ button, you will see the two columns are now concate
 
 ![](https://miro.medium.com/max/1400/0*2vbHQh04OGknPbrK.png)
 
-## Convert from Character to POSIXct (Date and Time) with ‘ymd_hm’ function.
+## Convert from Character to POSIXct (Date and Time) with ‘ymd_hm’ Function
 
 You will notice though that the column is now the Character data type.
 
@@ -262,6 +263,6 @@ For example, by using Heatmap chart we can visualize which hour of day and day o
 
 ![](https://miro.medium.com/max/1400/1*_JkpXaz-j4SFkpCljM2jJw.png)
 
-## Try Exploratory for Free!
+## Try Exploratory for Free
 
 If you want to try this out quickly, sign up for [Exploratory Desktop](https://exploratory.io/?utm_campaign=text_wranging_8tasks&utm_medium=blog&utm_source=medium) and download the app today! It comes with 30 days free trial!

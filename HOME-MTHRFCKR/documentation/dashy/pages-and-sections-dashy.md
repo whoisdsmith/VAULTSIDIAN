@@ -8,6 +8,7 @@ author:
 # Pages and Sections | Dashy
 
 ---
+
 ## Multi-Page Support[#](https://dashy.to/docs/#multi-page-support "Direct link to heading")
 
 You can have additional pages within your dashboard, with each having it's own config file. The config files for sub-pages can either be stored locally, or hosted separately. A link to each additional page will be displayed in the navigation bar.
@@ -58,7 +59,7 @@ A normal section will contain zero or more items, for example:
 - name: Coding  icon: far fa-code  items:  - title: GitHub    url: https://github.com/  - title: StackOverflow    url: http://stackoverflow.com/
 ```
 
-But items can also be grouped together, referred to as sub-items. This is useful for a group of less frequently used items, which you don't want to take up too much space, or for action buttons (_coming soon_).
+But items can also be grouped together, referred to as sub-items. This is useful for a group of less frequently used items, which you don't want to take up too much space, or for action buttons (*coming soon*).
 
 Item groups may also have an optional title.
 

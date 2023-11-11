@@ -8,6 +8,7 @@ author:
 # Alternate Views & Opening Methods | Dashy
 
 ---
+
 ## Views[#](https://dashy.to/docs/#views "Direct link to heading")
 
 Dashy has three different views:

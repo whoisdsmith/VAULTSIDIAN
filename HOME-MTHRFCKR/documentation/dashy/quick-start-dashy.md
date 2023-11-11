@@ -8,6 +8,7 @@ author:
 # Quick Start | Dashy
 
 ---
+
 Welcome to Dashy! So glad you're here 😊 In a couple of minutes, you'll have your new dashboard up and running 🚀
 
 **TDLR;** Run `docker run -p 8080:80 lissy93/dashy`, then open `http://localhost:8080`

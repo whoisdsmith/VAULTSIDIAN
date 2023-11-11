@@ -8,9 +8,10 @@ author:
 # Deployment | Dashy
 
 ---
+
 Welcome to Dashy, so glad you're here :) Deployment is super easy, and there are several methods available depending on what type of system you're using. If you're self-hosting, then deploying with Docker (or similar container engine) is the recommended approach.
 
-#### Quick Start[#](https://dashy.to/docs/#quick-start "Direct link to heading")
+## Quick Start[#](https://dashy.to/docs/#quick-start "Direct link to heading")
 
 If you want to skip the fuss, and [get straight down to it](https://dashy.to/docs/quick-start), then you can spin up a new instance of Dashy by running:
 
@@ -22,7 +23,7 @@ See [Management Docs](https://dashy.to/docs/management) for info about securing,
 
 Once you've got Dashy up and running, you'll want to configure it with your own content, for this you can reference the [configuring docs](https://dashy.to/docs/configuring).
 
-## Deployment Methods[#](https://dashy.to/docs/#deployment-methods "Direct link to heading")
+# Deployment Methods[#](https://dashy.to/docs/#deployment-methods "Direct link to heading")
 
 -   [Deploy with Docker](https://dashy.to/docs/#deploy-with-docker)
 -   [Using Docker Compose](https://dashy.to/docs/#using-docker-compose)
@@ -37,7 +38,7 @@ Once you've got Dashy up and running, you'll want to configure it with your own 
 
 ___
 
-## Deploy with Docker[#](https://dashy.to/docs/#deploy-with-docker "Direct link to heading")
+# Deploy with Docker[#](https://dashy.to/docs/#deploy-with-docker "Direct link to heading")
 
 **Container Info**: [![Docker Supported Architecture](https://img.shields.io/badge/Architectures-amd64%20%7C%20arm32v7%20%7C%20arm64v8-6ba6e5)![Docker Base Image](https://img.shields.io/badge/Base_Image-Alpine_3.14-6ba6e5)![Docker Hosted on](https://img.shields.io/badge/Hosted_on-DockerHub-6ba6e5)](https://hub.docker.com/r/lissy93/dashy)  
 **Status**: [![Docker Build Status](https://img.shields.io/docker/cloud/build/lissy93/dashy?label=Docker%20Build)![Docker Pulls](https://img.shields.io/docker/pulls/lissy93/dashy?color=ecb2f7)![Docker Stars](https://img.shields.io/docker/stars/lissy93/dashy?color=f7f754&label=Docker%20Stars)![Docker Image Size](https://img.shields.io/docker/image-size/lissy93/dashy/latest?color=1eea76)![Docker Cloud Build](https://img.shields.io/docker/cloud/automated/lissy93/dashy?color=f4a966&label=Docker%20Build)](https://hub.docker.com/r/lissy93/dashy)
@@ -67,7 +68,7 @@ The image defaults to `:latest`, but you can instead specify a specific version,
 
 ___
 
-## Using Docker Compose[#](https://dashy.to/docs/#using-docker-compose "Direct link to heading")
+# Using Docker Compose[#](https://dashy.to/docs/#using-docker-compose "Direct link to heading")
 
 Using Docker Compose can be useful for saving your specific config in files, without having to type out a long run command each time. Save compose config as a YAML file, and then run `docker compose up -d` (optionally use the `-f` flag to specify file location, if it isn't located at `./docker-compose.yml`), `-d` is detached mode (not running in the foreground of your terminal). Compose is also useful if you are using clusters, as the format is very similar to stack files, used with Docker Swarm.
 
@@ -83,21 +84,21 @@ If you are building from source, and would like to use one of the [other Dockerf
 
 ___
 
-## Unraid[#](https://dashy.to/docs/#unraid "Direct link to heading")
+# Unraid[#](https://dashy.to/docs/#unraid "Direct link to heading")
 
 // TODO
 
 ___
 
-## Synology NAS[#](https://dashy.to/docs/#synology-nas "Direct link to heading")
+# Synology NAS[#](https://dashy.to/docs/#synology-nas "Direct link to heading")
 
 Installing dashy is really simply and fast:
 
 1.  Install Docker via Synology `Package Center`.
 2.  Go to `File Station` and open the `docker` folder. Inside the docker folder, create one new folder and name it `dashy`.
-    
+
     > Note: Be careful to enter only lowercase, not uppercase letters.
-    
+
 3.  Go to Control Panel / Task Scheduler / Create / Scheduled Task / User-defined script.
 4.  Once you click on `User-defined` script a new window will open.
 5.  Follow the instructions below:
@@ -109,9 +110,9 @@ Installing dashy is really simply and fast:
 docker run -d \  -p 4000:80 \  -v /volume1/docker/dashy/my-local-conf.yml:/app/public/conf.yml \  --name dashy \  --restart=always \  lissy93/dashy:latest
 ```
 
-## dashy should be up within 1-2min after you've started the install task procedure[#](https://dashy.to/docs/#dashy-should-be-up-within-1-2min-after-youve-started-the-install-task-procedure "Direct link to heading")
+# Dashy Should Be up within 1-2min after You've Started the Install Task procedure[#](https://dashy.to/docs/#dashy-should-be-up-within-1-2min-after-youve-started-the-install-task-procedure "Direct link to heading")
 
-## Build from Source[#](https://dashy.to/docs/#build-from-source "Direct link to heading")
+# Build from Source[#](https://dashy.to/docs/#build-from-source "Direct link to heading")
 
 If you do not want to use Docker, you can run Dashy directly on your host system. For this, you will need both [git](https://git-scm.com/downloads) and the latest or LTS version of [Node.js](https://nodejs.org/) installed, and optionally [yarn](https://yarnpkg.com/)
 
@@ -123,7 +124,7 @@ If you do not want to use Docker, you can run Dashy directly on your host system
 
 ___
 
-### Deploy to cloud service[#](https://dashy.to/docs/#deploy-to-cloud-service "Direct link to heading")
+# Deploy to Cloud service[#](https://dashy.to/docs/#deploy-to-cloud-service "Direct link to heading")
 
 If you don't have a home server, then fear not - Dashy can be deployed to pretty much any cloud provider. The above Docker and NPM guides will work exactly the same on a VPS, but I've also setup some 1-Click deploy links for 10+ of the most common cloud providers, to make things easier. Note that if your instance is exposed to the internet, it will be your responsibility to adequately secure it.
 
@@ -131,7 +132,7 @@ Some hosting providers required a bit of extra configuration, which was why I've
 
 **Note** If you use a static hosting provider, then status checks, writing new config changes to disk from the UI, and triggering a rebuild through the UI will not be availible. This is because these features need endpoints provided by Dashy's local Node server. Everything else should work just the same though.
 
-#### Netlify[#](https://dashy.to/docs/#netlify "Direct link to heading")
+## Netlify[#](https://dashy.to/docs/#netlify "Direct link to heading")
 
 [![Deploy to Netlify](https://i.ibb.co/GtKMysT/deploy-netlify-button.png)](https://app.netlify.com/start/deploy?repository=https://github.com/lissy93/dashy)
 
@@ -143,7 +144,7 @@ To deploy Dashy to Netlify, use the following link
 https://app.netlify.com/start/deploy?repository=https://github.com/lissy93/dashy
 ```
 
-#### Heroku[#](https://dashy.to/docs/#heroku "Direct link to heading")
+## Heroku[#](https://dashy.to/docs/#heroku "Direct link to heading")
 
 [![Deploy to Heroku](https://i.ibb.co/GdMFzBP/deploy-heroku-button.png)](https://heroku.com/deploy?template=https://github.com/Lissy93/dashy)
 
@@ -155,7 +156,7 @@ To deploy Dashy to Heroku, use the following link
 https://heroku.com/deploy?template=https://github.com/Lissy93/dashy
 ```
 
-#### Cloudflare Workers[#](https://dashy.to/docs/#cloudflare-workers "Direct link to heading")
+## Cloudflare Workers[#](https://dashy.to/docs/#cloudflare-workers "Direct link to heading")
 
 [![Deploy to Cloudflare Workers](https://i.ibb.co/jf9xVdm/deploy-cloudflare-button.png)](https://deploy.workers.cloudflare.com/?url=https://github.com/lissy93/dashy/tree/deploy_cloudflare)
 
@@ -167,7 +168,7 @@ To deploy Dashy to Cloudflare, use the following link
 https://deploy.workers.cloudflare.com/?url=https://github.com/lissy93/dashy/tree/deploy_cloudflare
 ```
 
-#### Vercel[#](https://dashy.to/docs/#vercel "Direct link to heading")
+## Vercel[#](https://dashy.to/docs/#vercel "Direct link to heading")
 
 [![Deploy with Vercel](https://i.ibb.co/mJF3R7m/deploy-vercel-button.png)](https://vercel.com/new/project?template=https://github.com/lissy93/dashy)
 
@@ -179,7 +180,7 @@ To deploy Dashy to Vercel, use the following link
 https://vercel.com/new/project?template=https://github.com/lissy93/dashy
 ```
 
-#### DigitalOcean[#](https://dashy.to/docs/#digitalocean "Direct link to heading")
+## DigitalOcean[#](https://dashy.to/docs/#digitalocean "Direct link to heading")
 
 [![Deploy to DO](https://i.ibb.co/PFt0PkB/deploy-digital-ocean-button.png)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/lissy93/dashy/tree/deploy_digital-ocean&refcode=3838338e7f79)
 
@@ -189,7 +190,7 @@ https://vercel.com/new/project?template=https://github.com/lissy93/dashy
 https://cloud.digitalocean.com/apps/new?repo=https://github.com/lissy93/dashy/tree/deploy_digital-ocean
 ```
 
-#### Google Cloud Platform[#](https://dashy.to/docs/#google-cloud-platform "Direct link to heading")
+## Google Cloud Platform[#](https://dashy.to/docs/#google-cloud-platform "Direct link to heading")
 
 [![Run on Google Cloud](https://i.ibb.co/LkvHttd/deploy-google-cloud-button.png)](https://deploy.cloud.run/?git_repo=https://github.com/lissy93/dashy.git)
 
@@ -201,7 +202,7 @@ To deploy Dashy to GCP, use the following link
 https://deploy.cloud.run/?git_repo=https://github.com/lissy93/dashy.git
 ```
 
-#### Platform.sh[#](https://dashy.to/docs/#platformsh "Direct link to heading")
+## Platform.sh[#](https://dashy.to/docs/#platformsh "Direct link to heading")
 
 [![Deploy to Platform.sh](https://i.ibb.co/nPnJgJP/deploy-platform-sh-button.png)](https://console.platform.sh/projects/create-project/?template=https://github.com/lissy93/dashy&utm_campaign=deploy_on_platform?utm_medium=button&utm_source=affiliate_links&utm_content=https://github.com/lissy93/dashy)
 
@@ -213,7 +214,7 @@ To deploy Dashy to Platform.sh, use the following link
 https://console.platform.sh/projects/create-project/?template=https://github.com/lissy93/dashy
 ```
 
-#### Render[#](https://dashy.to/docs/#render "Direct link to heading")
+## Render[#](https://dashy.to/docs/#render "Direct link to heading")
 
 [![Deploy to Render](https://i.ibb.co/QXNCbxT/deploy-render-button.png)](https://render.com/deploy?repo=https://github.com/lissy93/dashy/tree/deploy_render)
 
@@ -225,7 +226,7 @@ To deploy Dashy to Render, use the following link
 https://render.com/deploy?repo=https://github.com/lissy93/dashy/tree/deploy_render
 ```
 
-#### Scalingo[#](https://dashy.to/docs/#scalingo "Direct link to heading")
+## Scalingo[#](https://dashy.to/docs/#scalingo "Direct link to heading")
 
 [![Deploy on Scalingo](https://i.ibb.co/nj0KxyH/deploy-scalingo-button.png)](https://my.scalingo.com/deploy?source=https://github.com/lissy93/dashy#master)
 
@@ -237,7 +238,7 @@ To deploy Dashy to Scalingo, use the following link
 https://my.scalingo.com/deploy?source=https://github.com/lissy93/dashy#master
 ```
 
-#### Play-with-Docker[#](https://dashy.to/docs/#play-with-docker "Direct link to heading")
+## Play-with-Docker[#](https://dashy.to/docs/#play-with-docker "Direct link to heading")
 
 [![Try in PWD](https://i.ibb.co/SfbH7Zy/deploy-pwd-button.png)](https://labs.play-with-docker.com/?stack=https://raw.githubusercontent.com/Lissy93/dashy/master/docker-compose.yml)
 
@@ -249,7 +250,7 @@ To run Dashy in PWD, use the following URL:
 https://labs.play-with-docker.com/?stack=https://raw.githubusercontent.com/Lissy93/dashy/master/docker-compose.yml
 ```
 
-#### Surge.sh[#](https://dashy.to/docs/#surgesh "Direct link to heading")
+## Surge.sh[#](https://dashy.to/docs/#surgesh "Direct link to heading")
 
 ![Follow instructions below](https://i.ibb.co/XkcKzKz/deploy-surge-button.png)
 
@@ -263,7 +264,7 @@ yarn add -g surgeyarn buildsurge ./dist
 
 ___
 
-## Hosting with CDN[#](https://dashy.to/docs/#hosting-with-cdn "Direct link to heading")
+# Hosting with CDN[#](https://dashy.to/docs/#hosting-with-cdn "Direct link to heading")
 
 Once Dashy has been built, it is effectivley just a static web app. This means that it can be served up with pretty much any static host, CDN or web server. To host Dashy through a CDN, the steps are very similar to building from source: clone the project, cd into it, install dependencies, write your config file and build the app. Once build is complete you will have a `./dist` directory within Dashy's root, and this is the build application which is ready to be served up.
 
@@ -271,27 +272,27 @@ However without Dashy's node server, there are a couple of features that will be
 
 ___
 
-## Requirements[#](https://dashy.to/docs/#requirements "Direct link to heading")
+# Requirements[#](https://dashy.to/docs/#requirements "Direct link to heading")
 
-### System Requirements[#](https://dashy.to/docs/#system-requirements "Direct link to heading")
+# System Requirements[#](https://dashy.to/docs/#system-requirements "Direct link to heading")
 
 Dashy works well on a Raspberry Pi (tested on Pi 3 and later), but should also run well on any system.
 
-### Docker[#](https://dashy.to/docs/#docker "Direct link to heading")
+# Docker[#](https://dashy.to/docs/#docker "Direct link to heading")
 
 Initial app build causes a spike in resource usage, but once the built app is running it is fairly steady. For this reason, Dashy works best with a minimum of 1GB of memory, and 1GB of disk space.
 
-### Bare Metal[#](https://dashy.to/docs/#bare-metal "Direct link to heading")
+# Bare Metal[#](https://dashy.to/docs/#bare-metal "Direct link to heading")
 
 Minimum 526mb mem, 2GB disk space,
 
-### CDN / Cloud Deploy[#](https://dashy.to/docs/#cdn--cloud-deploy "Direct link to heading")
+# CDN / Cloud Deploy[#](https://dashy.to/docs/#cdn--cloud-deploy "Direct link to heading")
 
 No specific requirements. The built application alone (without the Node server) is very light-weight, and can be handled smoothly by pretty much any CDN or cloud deployment service (see [this list](https://dashy.to/docs/deployment#deploy-to-cloud-service) or natively supported cloud providers).
 
 If you're using your own icons, or other assets, additional disk space will be required for those resources.
 
-### Browser Support[#](https://dashy.to/docs/#browser-support "Direct link to heading")
+# Browser Support[#](https://dashy.to/docs/#browser-support "Direct link to heading")
 
 JavaScript is required to run Dashy.
 

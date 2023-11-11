@@ -8,6 +8,7 @@ author: Kan Nishida Updated  9/22/2019 1:45:36 PM EDT983 0  6
 # Combining Rows from Multiple Data Frames with Merge (Bind Rows) Step
 
 ---
+
 Do you want to subscribe to the notification email?
 
 Once subscribed, notification emails will be sent to your registered email address when the insight is republished or refreshed by the scheduling.

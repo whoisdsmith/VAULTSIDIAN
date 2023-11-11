@@ -102,4 +102,4 @@ If you’ve been writing code for a long time, please comment below with some er
 
 ___
 
-# article Errors
+# Article Errors

@@ -8,6 +8,7 @@ author: Love Sharma
 # Top 10 Architecture Characteristics / Non-Functional Requirements with Cheatsheet | by Love Sharma | Jun, 2022 | Dev Genius
 
 ---
+
 Imagine you are buying a car. What essential features do you need in it? A vehicle should deliver a person from point A to point B. But what we also check in it is Safety, Comfort, Maintainability, Ease of repair or Better mileage. You may also look for an electric version or better speed. Why? To limit the surprises which may occur in delivering the primary function, i.e., take a person from Point A to Point B.
 
 Similarly, just like a car, motorcycle, or House, the software has its non-functional requirements called “Architectural Characteristics”. Be it a website, a mobile or a desktop app; it should have a set of quality attributes to meet end-user needs.
@@ -25,7 +26,7 @@ HD: [https://imgur.com/a/HzPp8s0](https://imgur.com/a/HzPp8s0)
 These top 10 Architectural Characteristics covers most of the aspect of a large-scale project. You don’t need to accommodate all in your project; pick the most essential and knock it out. This article is not providing the solution to these NFRs but instead makes you aware of which areas you need to consider when designing a system.  
 Let’s understand each one of them:
 
-## Scalability:
+## Scalability
 
 The ability for the system to perform and operate as the number of users or requests increases. Scalability is achievable with Horizontal or vertical scaling of the machine or simply attaching AutoScalingGroup.
 
@@ -95,7 +96,7 @@ Observability is the ability to collect data about program execution, internal s
 
 ## Security
 
-Degree the software protects information and data so that people or other products or systems have the degree of data access appropriate to their types and levels of authorisation. This family of characteristics includes _confidentiality_ (data is accessible only to those authorised to have access), _integrity_ (the software prevents unauthorised access to or modification of software or information), _nonrepudiation_ (can actions or events be proven to have taken place), _accountability_ (can user actions of a user be traced), and _authenticity_ (verifying the identity of a user).
+Degree the software protects information and data so that people or other products or systems have the degree of data access appropriate to their types and levels of authorisation. This family of characteristics includes *confidentiality* (data is accessible only to those authorised to have access), *integrity* (the software prevents unauthorised access to or modification of software or information), *nonrepudiation* (can actions or events be proven to have taken place), *accountability* (can user actions of a user be traced), and *authenticity* (verifying the identity of a user).
 
 **Auditability**: Audit trails track system activity so that when a security breach occurs, the mechanism and extent of the breach can be determined. Storing audit trails remotely, where they can only be appended, can keep intruders from covering their tracks.
 

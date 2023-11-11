@@ -8,6 +8,7 @@ author:
 # Indeed Resume
 
 ---
+
 # Dustin Smith
 
 Homer, MI 49245
@@ -148,6 +149,7 @@ ___
 ## Skills
 
 ### Computers & Networking
+
 	Desktop
 		Hardware
 			Audio Cards
@@ -207,8 +209,8 @@ ___
 	Microsoft Excel
 	iOS - 10+ years
 
-
 ### Fabrication
+
 	Brakepress
 		AMADA 
 	CNC Laser
@@ -222,27 +224,19 @@ ___
 		AutoCAD - 5 Years
 		SolidWorks - 5 years
 
-### Factory 
+### Factory
+
 	Assembly - 10+ years
 	Assembly line - 10+ years
 
-
 ### Audio Production
 
+### Solar
 
-### Solar 
-
-
-
-
-
-
-Electrical Experience
+Electrical Experience  
 Low Voltage
 
 Maintenance - 10+ years
-
-
 
 Equipment Repair - 5 years
 
@@ -256,11 +250,7 @@ Mechanic Experience - 10+ years
 
 Forklift - 10+ years
 
-
-
 Press brake machine
-
-
 
 Front loader truck
 
@@ -276,13 +266,8 @@ Plasma cutting
 
 Mechanical knowledge
 
-
-
-
-Web design - 1 year
+Web design - 1 year  
 Software troubleshooting
-
-
 
 Quality inspection
 
@@ -296,24 +281,17 @@ Micrometer
 
 Calipers
 
-
-
 Manufacturing
 
 Farm machinery
 
-
-
 Analysis skills
-
-
 
 ## Certifications / Licenses
 
 ___
 
-**Certified Forklift Operator**
+**Certified Forklift Operator**  
 **Drivers License**
 
 ---
-

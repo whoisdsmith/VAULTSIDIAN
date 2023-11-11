@@ -3,6 +3,7 @@
 ---
 
 %% Begin Waypoint %%
+
 - **[data](../../../..//home-mthrfckr/Documentation/Data/Data.md)**
 	- [combining-rows-from-multiple-data-frames](Combining-Rows-From-Multiple-Data-Frames.md)
 	- **data-streaming**
@@ -17,4 +18,3 @@
 	- [text-data-wrangling](Text-Data-Wrangling.md)
 
 %% End Waypoint %%
-

@@ -8,6 +8,7 @@ author:
 # Keyboard Shortcuts | Dashy
 
 ---
+
 ## Searching[#](https://dashy.to/docs/#searching "Direct link to heading")
 
 One of the primary purposes of Dashy is to allow you to quickly find and launch a given app. To make this as quick as possible, there is no need to touch the mouse, or press a certain key to begin searching - just start typing. Results will be filtered in real-time. No need to worry about case, special characters or small typos, these are taken care of, and your results should appear.
