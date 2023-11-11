@@ -16,7 +16,7 @@ A code block may also be initiated by typing 3 back ticks and tap the Spacebar.
 
 ## Markdown Information
 
-[Markdown](http://daringfireball.net/projects/markdown/), created by John Gruber of Daring Fireball, is the technology we chose to use to allow rich text within Day One journal entries. Markdown allows _italic_ and **bold**, along with several other simple formatting options that can be written using plain text and display properly in Read views. Markdown syntax is available in Day One and is toggled **On** by default.
+[Markdown](http://daringfireball.net/projects/markdown/), created by John Gruber of Daring Fireball, is the technology we chose to use to allow rich text within Day One journal entries. Markdown allows *italic* and **bold**, along with several other simple formatting options that can be written using plain text and display properly in Read views. Markdown syntax is available in Day One and is toggled **On** by default.
 
 Day One for Android does not have a Markdown toolbar, but the Markdown syntax featured on this page can be manually typed out to format text.
 
@@ -106,10 +106,12 @@ Day One takes a similar approach to Markdown as GitHub. See [GitHub Flavored Mar
     ### Tables
     
     
+
     One | Two | Three  
     --- | --- | ---  
     Blue | White | Gray  
     Green | Yellow | Red
+
     
     Note that because the first line of journal entries has special properties associated with Day One’s auto-bolding feature, tables must start on the second or subsequent line of a journal entry.
     
@@ -140,4 +142,4 @@ Day One takes a similar approach to Markdown as GitHub. See [GitHub Flavored Mar
 
 ___
 
-# article #DayOne
+# Article #DayOne

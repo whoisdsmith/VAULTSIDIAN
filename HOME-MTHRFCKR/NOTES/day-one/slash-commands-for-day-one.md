@@ -42,6 +42,7 @@ There are not suggestions when you start typing slash commands on iOS yet, but t
 
 ##
 
+
 ___
 
-# article #DayOne
+# Article #DayOne

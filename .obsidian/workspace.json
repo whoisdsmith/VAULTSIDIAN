@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0982cc944d8506fc",
+        "id": "62dd1b8d15cc212d",
         "type": "tabs",
         "children": [
           {
-            "id": "081758aacd55eb35",
+            "id": "f8fc2a77c530a745",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME-MTHRFCKR/A!-And-Machine-Learning/Ai-Image-Generation/Clip-As-A-Service.md",
+                "file": "HOME-MTHRFCKR/A!-And-Machine-Learning/Ai-Notes/Ai-Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME-MTHRFCKR/A!-And-Machine-Learning/Ai-Image-Generation/Clip-As-A-Service.md",
+                "file": "HOME-MTHRFCKR/A!-And-Machine-Learning/Ai-Notes/Ai-Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOME-MTHRFCKR/A!-And-Machine-Learning/Ai-Image-Generation/Clip-As-A-Service.md",
+                "file": "HOME-MTHRFCKR/A!-And-Machine-Learning/Ai-Notes/Ai-Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME-MTHRFCKR/A!-And-Machine-Learning/Ai-Image-Generation/Clip-As-A-Service.md"
+                "file": "HOME-MTHRFCKR/A!-And-Machine-Learning/Ai-Notes/Ai-Notes.md"
               }
             }
           }
@@ -144,6 +144,7 @@
   },
   "active": "4cac731b001463d4",
   "lastOpenFiles": [
+    "README.md",
     "HOME-MTHRFCKR/A!-And-Machine-Learning/Generative Tools.md",
     "HOME-MTHRFCKR/A!-And-Machine-Learning/Chatbot-Injections-Exploits.md",
     "HOME-MTHRFCKR/A!-And-Machine-Learning/Awesome-Prompt-Engineering.md",
@@ -172,7 +173,6 @@
     "HOME-MTHRFCKR/URLs/url-dedoupe-tools.md",
     "HOME-MTHRFCKR/URLs/url-standard.md",
     "HOME-MTHRFCKR/Markdown Books/HTML and CSS.md",
-    "HOME-MTHRFCKR/URLs/URLs.md",
     "Attachments/link-previews/2022-11-14-cakeresume-dustin_smith__cakeresume.png"
   ]
 }

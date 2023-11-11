@@ -1,6 +1,6 @@
 # 38 Coding Terms | Computer Programming Vocabulary & Beginners Glossary
 
-## Coding terminology
+## Coding Terminology
 
 Here are some popular coding terms to become familiar with.
 
@@ -16,23 +16,23 @@ An [argument](https://www.idtech.com/blog/what-is-an-argument-in-programming) is
 
 Arrays are containers that hold variables; they're used to group together similar variables. You can think of arrays like shelves at a pet store. The array would be the shelf, and the animals in cages are the variables inside.
 
-### Arithmetic operators
+### Arithmetic Operators
 
 Arithmetic operators are essential in almost every application, especially in games. If a game character earns experience, it needs to be added to the total earned. If an arrow hits an enemy, the damage the enemy takes needs to be calculated.
 
-### Assignment operators
+### Assignment Operators
 
 Assignment operators (+=, -=, *=, /=) are operators that combine variable assignments (=) with arithmetic operators. They serve as a shortcut when coders have to perform an operation that changes the value of a variable. If a rock falls on a game player's head, health needs to be subtracted from their total, and so on.
 
-### Augmented reality
+### Augmented Reality
 
-Augmented reality (AR) is an interactive experience where digital objects are placed in a real-world environment in real time. While _virtual_ reality creates a completely artificial environment, augmented reality uses the existing real-world environment and overlays new information on top of it. _Pokémon Go_ is a popular example, blending the real world captured through your phone’s camera with virtual characters overlaid on top.
+Augmented reality (AR) is an interactive experience where digital objects are placed in a real-world environment in real time. While *virtual* reality creates a completely artificial environment, augmented reality uses the existing real-world environment and overlays new information on top of it. *Pokémon Go* is a popular example, blending the real world captured through your phone’s camera with virtual characters overlaid on top.
 
 ### Autonomous
 
 Autonomous robot, self-driving car, and delivery bot are all terms used to describe robots that navigate their environments using sensors with little to no human interaction.
 
-### Binary numbers
+### Binary Numbers
 
 A binary number is a computer's way to represent information. Computers process millions of 1's and 0's a minute using different rules to interpret them as numbers, letters, operators, and everything else put into a computer.
 
@@ -44,7 +44,7 @@ The individual 1's and 0's you see in binary are called bits.
 
 C++ is a low-level yet versatile programming language. Kids who master this language will be able to solve complex problems and understand how programs work.
 
-**_Related: _**_[Online C++ tutoring for kids and teens](https://www.idtech.com/courses/tutoring-c)_
+**_Related: _***[Online C++ tutoring for kids and teens](https://www.idtech.com/courses/tutoring-c)*
 
 ### Camel case
 
@@ -54,25 +54,25 @@ Variables should be named using camel case, meaning the first word of the name i
 
 Coding is how people create instructions for computers to follow. Just like people speak different languages, so do programs. For instance, Roblox uses the [coding language Lua](https://www.idtech.com/blog/lua-coding-for-kids) while Minecraft was built with Java.
 
-### Coding languages
+### Coding Languages
 
 Computers use coding languages to understand what people want them to do. Just like how people communicate with each other in English or Japanese, people communicate with computers in languages like C++ or Java. Some of the [best coding languages for kids](https://www.idtech.com/blog/choose-best-programming-language-your-child) include JavaScript, Scratch, and Python.
 
-### Computer program
+### Computer Program
 
 A computer program is a group of instructions given to a computer to be processed. These instructions are typically used to solve a problem, or make long problems for humans shorter and easier.
 
 Learn more: [What is computer programming](https://www.idtech.com/blog/what-is-computer-programming-for-kids)?
 
-### Conditional statements
+### Conditional Statements
 
 Conditional statements evaluate to true or false. Use them to print information or move programs forward in different situations.
 
-### Else statements
+### Else Statements
 
 Else statements are used to do something else when the condition in the if statement isn't true.
 
-### For loops
+### For Loops
 
 For loops allow you to run a block of code repeatedly, just like while loops. However, for loops run a block of code a set number of times. (Remember, while loops run an unknown or unspecified amount of times; more on that below.)
 
@@ -80,7 +80,7 @@ For loops allow you to run a block of code repeatedly, just like while loops. Ho
 
 A function is a block of code that can be referenced by name to run the code it contains.
 
-### If statements
+### If Statements
 
 An if statement runs a block of code based on whether or not a condition is true.
 
@@ -112,11 +112,11 @@ Linux is an open-source operating system designed to run on multiple types of de
 
 Loops check a condition and then run a code block. The loop will continue to check and run until a specified condition is reached.
 
-### Main function
+### Main Function
 
 The main function is part of C++ and is called when the program starts.
 
-### Machine learning
+### Machine Learning
 
 Machine learning is getting a computer to act without explicitly being programmed to do so. It's an application of artificial intelligence where we give machines access to data and let them use that data to learn for themselves. Learn more about [machine learning for kids](https://www.idtech.com/blog/intro-to-machine-learning-kids-teens).
 
@@ -124,7 +124,7 @@ Machine learning is getting a computer to act without explicitly being programme
 
 The [micro:bit](https://microbit.org/guide/) is a small programmable computer more formally known as a microcontroller development board.
 
-### Neural networks
+### Neural Networks
 
 Machine learning is all about training an algorithm. In order to train an algorithm, neural networks are needed, which are sets of algorithms that are inspired by biological neural networks. A neural network is the "brain" of the program.
 
@@ -166,14 +166,14 @@ Training is the process of feeding huge amounts of data into an algorithm so the
 
 A variable is a container that holds a single number, word, or other information that you can use throughout a program. A variable is like a chest you can fill with different values. You name the chests so you can find them later. Variables have three parts: type, name, and value.
 
-### Variable types
+### Variable Types
 
 Once a variable is declared, a variable type is specified. Basic variable types include: string (words and phrases), char (short for “character;” a single letter or symbol you can type), int (short for “integer;” for whole numbers), double or float (for decimal numbers), and bool (short for “boolean;” for true or false values).
 
-### While loops
+### While Loops
 
 While loops are set up just like if statements. They check for a condition and run the code in them until the condition is no longer true. A while loop will run forever (until the condition is false).
 
 ___
 
-# article #programming
+# Article #programming

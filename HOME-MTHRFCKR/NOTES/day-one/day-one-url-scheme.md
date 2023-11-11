@@ -1,4 +1,4 @@
-# Day One URL scheme
+# Day One URL Scheme
 
 Day One iOS and Mac apps support URLs to send data into the apps from external sources.
 
@@ -20,11 +20,11 @@ Create Entry with Clipboard Image: [dayone://post?entry=Hello Self&imageClipboar
 **Entry Edit:**  
 Edit Entry: [dayone://edit?entryId=[UUID]](dayone://edit?entryId=%5BUUID%5D) (Don't include brackets.)
 
-### On this Day
+## On This Day
 
 On This Day = dayone://thisday
 
-### Siri Shortcuts
+## Siri Shortcuts
 
 Settings > Siri Shortcuts = dayone://siri
 
@@ -32,4 +32,4 @@ See Also: [Day One Tools](http://intercom.help/dayone/day-one-2-0/day-one-tools)
 
 ___
 
-# article #DayOne
+# Article #DayOne

@@ -161,4 +161,4 @@ Use this to install the CLI tool (You only ever need to do this once, even for f
 
 ___
 
-# article #DayOne
+# Article #DayOne

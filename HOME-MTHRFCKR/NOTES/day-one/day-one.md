@@ -3,6 +3,7 @@
 ---
 
 %% Begin Waypoint %%
+
 - **[day-one](../../../..//home-mthrfckr/Notes/Day-One/Day-One.md)**
 	- [command-line-interface](Command-Line-Interface.md)
 	- [day-one-+-shortcuts](Day-One-+-Shortcuts.md)

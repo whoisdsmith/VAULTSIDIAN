@@ -1,4 +1,4 @@
-# Linking journal entries
+# Linking Journal Entries
 
 Entries can be linked using the URL scheme in Day One. Copying a link from one entry and pasting in another is a great way to navigate to other entries quickly.
 
@@ -6,11 +6,11 @@ Entries can be linked using the URL scheme in Day One. Copying a link from one e
 
   1. Tap the More (•••) button at the top right of an entry, then Entry Info. Or the Map at the bottom of an entry to access the [Entry Info/Metadata view](https://help.dayoneapp.com/en/articles/882775-entry-info-metadata-in-day-one-for-ios).
 
-  2. Tap _Entry ID_.
+  2. Tap *Entry ID*.
 
-  3. In the sheet that appears, you can choose from three options: _Copy Entry URL_, _Copy Markdown Link_, and _Copy Entry ID_. **Tap _Copy Markdown Link_. (For including a link in an entry, this is the best option.)**
+  3. In the sheet that appears, you can choose from three options: *Copy Entry URL*, *Copy Markdown Link*, and *Copy Entry ID*. **Tap *Copy Markdown Link*. (For including a link in an entry, this is the best option.)**
 
-  4. Open another entry and tap where you would like to place the cursor. Paste the link in this entry by long-pressing (press and hold a finger on the spot where you want to add your link), then tap _Paste_.
+  4. Open another entry and tap where you would like to place the cursor. Paste the link in this entry by long-pressing (press and hold a finger on the spot where you want to add your link), then tap *Paste*.
 
   5. Dismiss the keyboard by tapping the down arrow at the top left of the keyboard or swipe down on the keyboard.
 
@@ -36,15 +36,16 @@ Entries can be linked using the URL scheme in Day One. Copying a link from one e
 
 ###
 
+
 ## Android
 
   1. Tap the More (•••) button at the top right of an entry, then Metadata. [Entry Info/Metadata view](https://help.dayoneapp.com/en/articles/882775-entry-info-metadata-in-day-one-for-ios).
 
-  2. Tap _Entry ID_.
+  2. Tap *Entry ID*.
 
-  3. In the sheet that appears, you can choose from three options: _Copy Entry URL_, _Copy Markdown Link_, and _Copy Entry ID_. **Tap _Copy Markdown Link_. (For including a link in an entry, this is the best option.)**
+  3. In the sheet that appears, you can choose from three options: *Copy Entry URL*, *Copy Markdown Link*, and *Copy Entry ID*. **Tap *Copy Markdown Link*. (For including a link in an entry, this is the best option.)**
 
-  4. Open another entry and tap the Pencil icon to edit. Paste the link in this entry by long-pressing (press and hold a finger on the spot where you want to add your link), then tap _Paste_.
+  4. Open another entry and tap the Pencil icon to edit. Paste the link in this entry by long-pressing (press and hold a finger on the spot where you want to add your link), then tap *Paste*.
 
   5. Tap the Checkmark icon to save.
 
@@ -54,4 +55,4 @@ Entries can be linked using the URL scheme in Day One. Copying a link from one e
 
 ___
 
-# article #DayOne
+# Article #DayOne

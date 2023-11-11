@@ -1,4 +1,4 @@
-# Embed video links in Day One
+# Embed Video Links in Day One
 
 Day One supports embedding links for videos from YouTube and Vimeo. Simply copy the URL/link from Vimeo or YouTube and paste in a Day One entry. You can also use the share extension from Vimeo/YouTube to Day One.
 
@@ -10,4 +10,4 @@ In Read mode, you can play the videos within Day One.
 
 ___
 
-# article #DayOne
+# Article #DayOne

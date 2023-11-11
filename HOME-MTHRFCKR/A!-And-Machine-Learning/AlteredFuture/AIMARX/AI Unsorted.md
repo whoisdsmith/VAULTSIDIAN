@@ -898,6 +898,4 @@
 - [Your Personal AI Copywriter | Botowski](http://www.botowski.com/)
 - [Your photos—simply RADIANT - Radiant Imaging Labs](https://radiantimaginglabs.com/)
 
-
-
 </details>

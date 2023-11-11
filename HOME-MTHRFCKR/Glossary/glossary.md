@@ -3,6 +3,7 @@
 ---
 
 %% Begin Waypoint %%
+
 - **[glossary](HOME-MTHRFCKR/Glossary/glossary.md)**
 	- [code-glossary](HOME-MTHRFCKR/Glossary/Code-Glossary.md)
 	- [code-vocab](HOME-MTHRFCKR/Glossary/code-vocab.md)
@@ -10,4 +11,3 @@
 	- [glossary](HOME-MTHRFCKR/Glossary/glossary.md)
 
 %% End Waypoint %%
-

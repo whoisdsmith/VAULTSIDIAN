@@ -18,4 +18,4 @@ Some users have created Shortcuts combining other apps to add data to their jour
 
 ___
 
-# article #DayOne
+# Article #DayOne
