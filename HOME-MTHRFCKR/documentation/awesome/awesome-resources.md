@@ -1,8 +1,10 @@
+# Awesome-resources
+
 - Sponsor
 
-### Sponsor shahednasser/awesome-resources
+## Sponsor shahednasser/awesome-resources
 
-##### External links
+### External Links
 
     [buymeacoffee.com/shahednasser](https://www.buymeacoffee.com/shahednasser)
 
@@ -12,7 +14,7 @@
 
 - Watch 2
 
-### Notifications
+## Notifications
 
 😎 List of helpful resources added by the community for the community!
 
@@ -22,7 +24,7 @@
 
 Watch
 
-### Notifications
+## Notifications
 
 - [Code](https://github.com/shahednasser/awesome-resources)
 - [Issues 3](https://github.com/shahednasser/awesome-resources/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)

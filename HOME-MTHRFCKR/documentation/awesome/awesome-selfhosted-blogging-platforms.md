@@ -1,10 +1,12 @@
-### Blogging Platforms
+# Awesome-selfhosted-blogging-platforms
+
+## Blogging Platforms
 
 **[`^ back to top ^`](https://github.com/awesome-selfhosted/awesome-selfhosted#blogging-platforms#)**
 
-_Related: [Static Site Generators](https://github.com/awesome-selfhosted/awesome-selfhosted#blogging-platforms#static-site-generators), [Content Management Systems (CMS)](https://github.com/awesome-selfhosted/awesome-selfhosted#blogging-platforms#content-management-systems-cms)_
+*Related: [Static Site Generators](https://github.com/awesome-selfhosted/awesome-selfhosted#blogging-platforms#static-site-generators), [Content Management Systems (CMS)](https://github.com/awesome-selfhosted/awesome-selfhosted#blogging-platforms#content-management-systems-cms)*
 
-_See also: [WeblogMatrix](https://www.weblogmatrix.org/)_
+*See also: [WeblogMatrix](https://www.weblogmatrix.org/)*
 
 - [Antville](https://antville.org) - Free, open source project aimed at the development of a high performance, feature rich weblog hosting software. ([Source Code](https://github.com/antville/antville)) `Apache-2.0` `Javascript`
 - [Blog](https://github.com/m1k1o/blog) - Facebook-styled blog. Free, extremely lightweight, single-user and easy to install. ([Demo](https://blog.m1k1o.net/)) `GPL-3.0` `PHP`

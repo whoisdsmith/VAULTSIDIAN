@@ -1,3 +1,5 @@
+# Creative-coding
+
 ## Awesome Creative Coding [![Awesome](https://camo.githubusercontent.com/abb97269de2982c379cbc128bba93ba724d8822bfbe082737772bd4feb59cb54/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)](https://github.com/sindresorhus/awesome)
 
 ## [![](https://camo.githubusercontent.com/f7b524231f8ea61f1e623df1941fd01b7f070ac234a95f24ffbff5c9f667ca80/68747470733a2f2f63646e2e7261776769742e636f6d2f7465726b656c672f617765736f6d652d63726561746976652d636f64696e672f6d61737465722f636f7665722e706e67)](https://github.com/terkelg/awesome-creative-coding)
@@ -6,7 +8,7 @@
 
 Creative coding is a different discipline than programming systems. The goal is to create something expressive instead of something functional. **Interaction design**, **information visualization** and **generative art** are all different types of creative coding – which has become a household term describing **artworks articulated as code**.
 
-_Please read the [contribution guidelines](https://github.com/p4rk0ur/awesome-creative-coding/blob/master/contributing.md) before contributing._
+*Please read the [contribution guidelines](https://github.com/p4rk0ur/awesome-creative-coding/blob/master/contributing.md) before contributing.*
 
 ___
 
@@ -207,7 +209,7 @@ ___
 - [VirtualMapper](https://github.com/baku89/VirtualMapper) - Realtime preview tool for projection mapping.
 - [Millumin](https://www.millumin.com/v3/index.php) \[Mac\] - A software to create and perform interactive audiovisual shows.
 - [Smode](https://smode.fr/) \[Win\] - A real-time 2D/3D creation, compositing and video-mapping engine.
-- [Veejay](http://veejayhq.net/) \[Linux\] - A live performance tool featuring simple non-linear editing and mixing from multiple sources (files, devices, streams...)
+- [Veejay](http://veejayhq.net/) \[Linux\] - A live performance tool featuring simple non-linear editing and mixing from multiple sources (files, devices, streams…)
 
 ### Online
 
@@ -469,7 +471,7 @@ ___
 - [Linear Interpolation](https://mattdesl.svbtle.com/linear-interpolation) - Introduction to linear interpolation (also known as mix/lerp).
 - [Practical use of Vector Math in Games](https://www.gamedev.net/articles/programming/math-and-physics/practical-use-of-vector-math-in-games-r2968/) - In-depth article on vectors for game math.
 
-## Machine learning • Computer Vision • Ai
+## Machine Learning • Computer Vision • Ai
 
 - [ml4a](http://ml4a.github.io/) - Machine learning for artists.
 - [Keras.js](https://transcranial.github.io/keras-js/) - Run Keras models (tensorflow backend) in the browser, with GPU support.
@@ -512,7 +514,7 @@ ___
 
 ## Events
 
-- [OFFF Festival](http://offf.barcelona/) - Digital design festival (_Online Flash Film Festival_).
+- [OFFF Festival](http://offf.barcelona/) - Digital design festival (*Online Flash Film Festival*).
 - [Gray Area Festival](http://grayareafestival.io/) - Creative coding, art and technology festival.
 - [Signal Festival](http://www.signalfestival.com/) - Showcase of light art and emerging technologies in Prague, the Czech Republic.
 - [Eyeo Festival](http://eyeofestival.com/) - Bring together creative coders, data designers and creators working at the intersection of data, art and technology.

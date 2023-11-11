@@ -1,3 +1,5 @@
+# Awesome-stock-resources
+
 ## Awesome Stock Resources [![Awesome](https://camo.githubusercontent.com/abb97269de2982c379cbc128bba93ba724d8822bfbe082737772bd4feb59cb54/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)](https://github.com/sindresorhus/awesome) [![Build Status](https://camo.githubusercontent.com/882bb2c7c3ac9c990e16e1f201859156a46143381d2602337b7fe2713ba5f9fc/68747470733a2f2f6170692e7472617669732d63692e6f72672f6e65757472616c746f6e652f617765736f6d652d73746f636b2d7265736f75726365732e7376673f6272616e63683d6d6173746572)](https://travis-ci.org/neutraltone/awesome-stock-resources) [![Support](https://camo.githubusercontent.com/2bfa6102e99ff9a137185897b0a566aa0977a4790348c462e6951829e787af8f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f6e6174652d50617950616c2d677265656e2e737667)](https://www.paypal.me/tonyphipps)
 
 [![Introductory images](https://github.com/neutraltone/awesome-stock-resources/raw/master/img/splash.jpg)](https://github.com/neutraltone/awesome-stock-resources/blob/master/img/splash.jpg)
@@ -84,7 +86,7 @@ All the resources below have specifically specified that their content is [©️
 
 ### Custom License / Usage
 
-These following photography resources are those who have declared their own usage and restriction terms. These can be found by clicking the _(license)_ link next to the resource.
+These following photography resources are those who have declared their own usage and restriction terms. These can be found by clicking the *(license)* link next to the resource.
 
 - [Bara Art](http://www.bara-art.com/) - [©️](http://www.bara-art.com/about/) The world always needs high quality photography! Here they are for you, so make something awesome out of them.
 - [Compfight.com](http://compfight.com/) - [©️](https://www.flickr.com/creativecommons/) An image search engine tailored to efficiently locate images for blogs, comps, inspiration, and research.
@@ -118,7 +120,7 @@ A collection of links to public domain photography resources.
 - [Project Apollo Archive](https://www.flickr.com/people/projectapolloarchive/?rb=1) - [©️](https://creativecommons.org/publicdomain/mark/1.0/) High-resolution Apollo imagery scanned by NASA's Johnson Space Center.
 - [Public Domain Archive](http://publicdomainarchive.com/) - [©️](https://creativecommons.org/publicdomain/zero/1.0/) New stock photos every single week.
 
-### Attribution Required licenses
+### Attribution Required Licenses
 
 The photographs on the following resources require Attribution unless otherwise stated on the website itself. These use a mixture of license, all of which have been linked to next to them.
 
