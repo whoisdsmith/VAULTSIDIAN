@@ -2,7 +2,7 @@
 tags: MOCs
 ---
 
-# MOC: grafana
+# MOC: Grafana
 
 ---
 

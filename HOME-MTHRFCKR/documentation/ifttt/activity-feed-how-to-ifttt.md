@@ -1,4 +1,4 @@
-# Activity Feed - How-To 
+# Activity Feed - How-To
 
 ---
 
@@ -28,7 +28,7 @@
 
 ___
 
-## About the Activity feed
+## About the Activity Feed
 
 The Activity feed gives you a log of your Applet runs. If you're wondering why an Applet isn't working properly, this may be the first place you look. It can be viewed [on web](https://ifttt.com/activity) or in the [[Ifttt.md]] apps.
 
@@ -45,39 +45,39 @@ Here's a rundown to help you understand what you’re seeing, and why.
 
 ![Get_a_morning_reminder_about_your_first_meeting_daily_-_IFTTT_-_15_December_2021__1_.gif](https://help.ifttt.com/hc/article_attachments/4412965476763/Get_a_morning_reminder_about_your_first_meeting_daily_-_IFTTT_-_15_December_2021__1_.gif)
 
-## Applet errors
+## Applet Errors
 
-### Applet ran
+### Applet Ran
 
 Your Applet ran as expected! If you expand this item, you’ll see more details about what exactly IFTTT was up to on your behalf. **Note**: If your Applet has multiple actions, you’ll see this item even if only one of those actions successfully ran.
 
-### Applet updated
+### Applet Updated
 
 You successfully changed the configuration on one of your Applets, such as the hashtag to track for a Twitter Applet or the day of the week for an Email Digest Applet.
 
-### Applet created
+### Applet Created
 
 You made an Applet via [ifttt.com/create](https://ifttt.com/create) or the mobile app. Note: this only shows up when you build your own Applet, not when you turn just on an Applet.
 
-### Applet turned on
+### Applet Turned on
 
 When you turn on an Applet, we’ll put this confirmation in your activity feed.
 
-### Applet turned off
+### Applet Turned off
 
 If you turned off one of your Applets, you’ll see this item. If you see it but don’t recall turning off the Applet, expand the item to get a link to some troubleshooting tips.
 
-### Applet skipped
+### Applet Skipped
 
 This means the trigger ran, but the actions were skipped. It’s not necessarily bad news — if your Applet has filter code, it may skip because the conditionals in the code outlined weren’t met, e.g. [This Applet](https://ifttt.com/applets/xrdyz95v-get-a-notification-if-there-s-breaking-news-about-the-bay-area) will show up in your feed as “Applet skipped” when the trigger fires on breaking news but the code determines that the news isn’t related to the Bay Area.
 
-#### Applets could also skip if:
+#### Applets Could also Skip if
 
 -   We tried to run the action five times and weren’t able to make it happen
 -   The time between the trigger and the action attempt times out
 -   The action service is paused — this also only happens with Applets that use the Button, Note, or Camera widget services (you can see which services are paused by visiting [status.ifttt.com](https://status.ifttt.com/))
 
-### Applet failed
+### Applet Failed
 
 This can happen for a few reasons. Let’s break it down:
 
@@ -87,36 +87,35 @@ This can happen for a few reasons. Let’s break it down:
 -   Our call to the trigger or action service took too long or failed, usually indicating some (temporary!) API issues on that app or device’s end
 -   An unexpected error could sometimes pop up (we can’t prevent 100% of these, but know that we see them and do our best to investigate them)
 
-### Applet published
+### Applet Published
 
 Users and services can publish Applets for others to use from within the [IFTTT Platform](https://platform.ifttt.com/?utm_medium=Help&utm_source=Applets&utm_campaign=Troubleshooting_Applets&utm_term=&utm_content=). When you do, you’ll see this item in your feed.
 
-## Service errors
+## Service Errors
 
-### Service connected
+### Service Connected
 
 This item confirms that you’ve linked a new app or device to your [[Ifttt.md]] account.
 
-### Service disconnected
+### Service Disconnected
 
 When you disconnect from a service, we’ll put this confirmation in your activity feed.
 
-### Service edited
+### Service Edited
 
 Sometimes you may want to link a different service account, or update a password and reconnect. In that case, you’ll see this item letting you know those updates went through.
 
-### Service is offline
+### Service is Offline
 
 Uh oh! This usually means one of your apps or devices is no longer properly linked with [[Ifttt.md]]. Expand this item and we’ll help you reconnect via the service’s settings page, so you can get up and running again. If you don’t reconnect, we may give you a reminder a few days later — eventually, if you don’t reconnect, we’ll automatically disable the service and associated Applets, so we’ll try and give you enough time to fix it before we do that.
 
-### Service is online
+### Service is Online
 
 If we’ve seen your service was recently offline but has made a triumphant return to online status, we’ll give you the good news in your activity feed via this item.
 
-### Usage limit exceeded
+### Usage Limit Exceeded
 
 Some of the apps and devices we work with have [usage limits](https://help.ifttt.com/hc/en-us/articles/360001448453) on how much they can handle via [[Ifttt.md]]. We try and make these as transparent as possible, and let you know when you’re approaching a limit and when you’ve hit it. When you hit it and we can’t run an Applet, you’ll see this item in your feed.
-
 
 ---
 

@@ -14,7 +14,7 @@ If you have not heard about [IFTTT](https://ifttt.com/), then this guide is for 
 
 The best thing about IFTTT? You don't have to be a technological whizkid to use the automation. Most of the magic is already baked for you. Read on to discover all of its secrets.
 
-##  1. Start with IFTTT
+## 1. Start with IFTTT
 
 ### 1.1 What is IFTTT Anyway?
 
@@ -48,7 +48,7 @@ Here are some photography-related hacks you can set up with IFTTT in about 5 min
 
 #### Applet #2 – [Save an Instagram Photo with a Specific Hashtag to Dropbox](https://ifttt.com/applets/68014p-use-a-hashtag-in-a-photo-caption-to-save-it-to-dropbox)
 
-**The example:** Your photography is evolving, you're getting a lot of fans and even more likes on your photos, but you will still need the inspiration to keep going. Using this recipe, you will be able to go about your day and use Instagram like you usually do, but with an additional benefit. Whenever you add a new picture to Instagram _with a specific hashtag_, it will automatically be uploaded to your Dropbox.
+**The example:** Your photography is evolving, you're getting a lot of fans and even more likes on your photos, but you will still need the inspiration to keep going. Using this recipe, you will be able to go about your day and use Instagram like you usually do, but with an additional benefit. Whenever you add a new picture to Instagram *with a specific hashtag*, it will automatically be uploaded to your Dropbox.
 
 These are only two of the thousands of practical Applets that you can create using IFTTT. The brilliant thing about IFTTT is that it has something for everybody. As of this writing, there are tons of different services that you can use for creating Applets and the list is always increasing.
 
@@ -56,7 +56,7 @@ Furthermore, the team has already written a couple of articles expanding upon wh
 
 **Let's go over the basics of how IFTTT works, then dive into examples.**
 
-##  2\. How to Supercharge Your Time with IFTTT
+## 2\. How to Supercharge Your Time with IFTTT
 
 You are connected to your apps and devices. But, how many of those interact with each other? IFTTT is the free bridge that makes each app, service, or device talk to each other and [chunk different tasks for better productivity](https://www.makeuseof.com/tag/8-geeky-tasks-can-chunk-together-boosting-productivity/).
 
@@ -74,7 +74,7 @@ Applets are what make IFTTT worth your time. Basically, they are the combination
 
 Confused? Don't be, it will all make sense. Just know that Applets are formulas you set up deciding which triggers will prompt which actions.
 
-### 2.3 How Do I Create an Applet-- A Quickstart Guide.
+### 2.3 How Do I Create an Applet-- A Quickstart Guide
 
 Glad you asked! Making Applets is a snap with IFTTT.
 
@@ -122,7 +122,7 @@ As you scroll below, we'll continue to show you how to use IFTTT to your maximum
 
 Let's get started!
 
-##  3\. The Cookbook: Which Applets Are Best?
+## 3\. The Cookbook: Which Applets Are Best?
 
 IFTTT is six years old as a service. Applets were called "recipes" earlier. But, the value of these tiny programs has only got better with time as more apps and services work with it than ever before. Think smart homes, Alexa, Google Assistant, and fitness trackers now to realize the countless possibilities.
 
@@ -532,7 +532,7 @@ These IFTTT applets will help you stay on top of the information that matters to
 
 **What it's good for:** Keep up with all the latest news, regardless of what kind of news you enjoy. Just use this Applet and you're all set!
 
-##  4\. Get the Mobile App
+## 4\. Get the Mobile App
 
 To make sure you can add and edit your Applets on-the-go, get the IFTTT mobile app for Android or iOS. Along with controlling your existing Applets from anywhere, anytime, you can also add or create those specific to your needs. Here are just a couple of examples.
 
@@ -552,7 +552,7 @@ To make sure you can add and edit your Applets on-the-go, get the IFTTT mobile a
 
 For doing more with mobile, check out how to [use IFTTT to automate your Android phone](https://www.makeuseof.com/tag/ifttt-applets-automate-android/), and [how to use IFTTT to automate your smart home](https://www.makeuseof.com/ifttt-automations-smart-plug-bulb/).
 
-##  5\. Disable Your Account or Applets
+## 5\. Disable Your Account or Applets
 
 ### 5.1 Disabling Your IFTTT Account
 
@@ -572,7 +572,7 @@ If you prefer to remove the Applet completely, for example, maybe you deleted th
 
 You will be asked to confirm the deletion, so click **OK** if you are sure. You may be asked for feedback after the deletion that you can complete or click **No thanks**.
 
-##  What Do You Use IFTTT For?
+## What Do You Use IFTTT For?
 
 IFTTT is an amazing tool that you can use for a [large number of practical and even fun uses](https://www.makeuseof.com/tag/ifttt-tricks-deals-online/). Getting started with IFTTT is extremely simple, yet enjoyable at the same time.
 
@@ -598,12 +598,11 @@ With her BS in Information Technology, Sandy worked for many years in the IT ind
 
 [More From Sandy Writtenhouse](/author/sandy/)
 
-#### MUO Newsletter
+### MUO Newsletter
 
 Enjoyed this article? Stay informed by joining our newsletter.
 
 [sign up now](/subscribe/)
-
 
 ___
 

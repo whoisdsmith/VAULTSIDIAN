@@ -1,10 +1,9 @@
+# Loki-grafana-promtheus-setup
 
-
-### How to Setup Loki Grafana and Prometheus 
+## How to Setup Loki Grafana and Prometheus
 
 - Install helm 
 - [Install helm link ](https://helm.sh/docs/intro/install/)
-
 
 - Install Prometheus Operator
 
@@ -38,6 +37,7 @@ helm install loki/loki --name loki --namespace monitoring
                --namespace monitoring \
                --set loki.persistence.enabled=true
 ```
+
 - Loki stack 
 
 ```$ helm upgrade --install loki loki/loki-stack --namespace monitoring
@@ -48,12 +48,13 @@ $ helm upgrade --install loki loki/loki-stack \
                --namespace monitoring \
                --set loki.persistence.enabled=true
 ```
+
  - Get logs in grafana
 
  - Install Fluentd
     - add s3 services to push logs to s3 
 
-### Logging - Fluentd
+## Logging - Fluentd
 
 - [Fluentd Docs](https://docs.fluentd.org/)
 
@@ -63,6 +64,6 @@ $ helm upgrade --install loki loki/loki-stack \
 2. match directives determine the output destinations.
 3. filter directives determine the event processing pipelines.
 4. system directives set system wide configuration.
-5. label directives group the output and filter for internal
+5. label directives group the output and filter for internal  
 routing
 6. @include directives include other files.

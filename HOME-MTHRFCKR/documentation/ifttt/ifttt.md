@@ -3,6 +3,7 @@
 ---
 
 %% Begin Waypoint %%
+
 - **[ifttt](../../../..//home-mthrfckr/Documentation/Ifttt/Ifttt.md)**
 	- [activity-feed-how-to-ifttt](Activity-Feed-How-To-Ifttt.md)
 	- [activity-ifttt](Activity-Ifttt.md)
@@ -34,4 +35,3 @@
 	- [usage-limit-ifttt](Usage-Limit-Ifttt.md)
 
 %% End Waypoint %%
-

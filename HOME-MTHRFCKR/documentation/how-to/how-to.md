@@ -2,7 +2,7 @@
 tags: MOCs
 ---
 
-# MOC: how-to
+# MOC: How-to
 
 ---
 

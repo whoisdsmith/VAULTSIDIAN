@@ -1,9 +1,11 @@
+# Example-services-ifttt
+
 There are two types of example services:
 
 1.  The [Hello World examples](https://ifttt.com/docs/example_services#hello-world-examples) are very simple versions of an IFTTT service in a couple different programming languages, designed to explain how a service can work.
 2.  The [service templates](https://ifttt.com/docs/example_services#service-templates) are frameworks based on services in popular categories on IFTTT. These can be cloned into your organization to give you a head start, though they don't have any example code behind them.
 
-## Hello World examples
+## Hello World Examples
 
 Let's get started by creating a "Hello World" service that runs on your local machine and communicates with IFTTT. These represent the simplest implementation of a service.
 
@@ -17,11 +19,11 @@ First, if you don't see a Hello World service in your account, simply click [her
 
 In this tutorial, we’ll answer your questions and help get your service up and running on the IFTTT Platform quickly by creating a simple service. We'll verify that the service is working by using the IFTTT endpoint tests. If you'd prefer, feel free to skim over this section or dive right into the [Service API Reference](https://ifttt.com/docs/api_reference)!
 
-_Note: Deleting the Hello World service is not recommended unless you have another service under your organization. Click [here](https://platform.ifttt.com/services/create_default) to recreate the Hello World service if you're having issues accessing the IFTTT Platform._
+*Note: Deleting the Hello World service is not recommended unless you have another service under your organization. Click [here](https://platform.ifttt.com/services/create_default) to recreate the Hello World service if you're having issues accessing the IFTTT Platform.*
 
-### Getting started with Ruby on Rails
+### Getting Started with Ruby on Rails
 
-#### Hello World: Ruby on Rails using Docker
+#### Hello World: Ruby on Rails Using Docker
 
 ##### Run `hello_world.rb` via Docker
 
@@ -35,9 +37,9 @@ Surf to http://localhost:3000/ to see it running. You should see a "Hello, World
 
 Now you're ready to [expose your local server via ngrok](https://ifttt.com/docs/example_services#expose-your-local-server-via-ngrok).
 
-#### Hello World: Ruby on Rails using your local Ruby and Rails
+#### Hello World: Ruby on Rails Using Your Local Ruby and Rails
 
-##### Check your Ruby version
+##### Check Your Ruby Version
 
 In order to run the Rails app you'll need version 2.2.2 or greater of the [Ruby](https://www.ruby-lang.org/en/) programming language installed. You can see which version of Ruby you have installed by running:
 
@@ -49,13 +51,13 @@ If you run into any issues with your local version of Ruby, we recommend [using 
 
 Then, copy the following to a file named `hello_world.rb` in your home directory:
 
-##### Add your service key to your Rails app
+##### Add Your Service Key to Your Rails App
 
 Your service key is a secret key that is shared between your app and IFTTT. You'll need to copy and paste this key into your Rails app so IFTTT can correctly identify your service.
 
 To get your key, visit [the API page for your service](https://ift.tt/your-service-key) and copy the service key. Then, open your local Rails app and set `IFTTT_SERVICE_KEY` to that value ([line #1 in the gist above](https://ifttt.com/docs/example_services#file-ifttt_hello_world-rb-L1)).
 
-##### Run the Rails app
+##### Run the Rails App
 
 You'll need to open your Terminal and install the bundler Ruby gem:
 
@@ -73,7 +75,7 @@ Now, you can view the Rails app running at [http://0.0.0.0:3000/](http://0.0.0.0
 
 Now you're ready to [expose your local server via ngrok](https://ifttt.com/docs/example_services#expose-your-local-server-via-ngrok).
 
-#### Expose your local server via ngrok
+#### Expose Your Local Server via Ngrok
 
 Now that the application is running on your local machine, you'll need a way to forward IFTTT's request to your local development environment. We recommend [ngrok](https://ngrok.com/) for this because it's easy to install and free for our simple use case.
 
@@ -91,9 +93,9 @@ Visit the forwarding URL in your browser and you should see that "Hello, World!"
 
 You can now skip to the [Give IFTTT your API URL](https://ifttt.com/docs/example_services#give-ifttt-your-api-url) section below.
 
-### Getting started with Node.js
+### Getting Started with Node.js
 
-#### Hello World: Node.js using Glitch
+#### Hello World: Node.js Using Glitch
 
 Visit the [Hello World app](https://glitch.com/~ifttt-hello-world-service) on Glitch and click the “Remix To Edit” button. That will clone it and you’ll get your own version that you can later tweak and build upon.
 
@@ -101,7 +103,7 @@ After remixing the project you’ll notice a few files in your new Hello World p
 
 Now, before we run all the tests for your service, let’s add the service key into your API.
 
-#### Add your service key to your app
+#### Add Your Service Key to Your App
 
 Your service key is a secret key that is shared between your app and IFTTT. You’ll need to use this key in your Node API so IFTTT can correctly identify your service.
 
@@ -113,24 +115,23 @@ Now inside of the .env file that you saw earlier, you’ll see a key called `IFT
 IFTTT_KEY="rG4_x0f26jSfY…"
 ```
 
-#### Give IFTTT your API URL
+#### Give IFTTT Your API URL
 
 1.  If you used ngrok and already have a forwarding URL, you may skip to step 2. Otherwise, copy the URL by clicking the “Show” drop-down and then the "In A New Window" button.
     
 2.  Visit your new service’s API page [here](https://platform.ifttt.com/mkt/api), and input that URL into the IFTTT API URL field.
-    
 
-#### Run the endpoint tests
+#### Run the Endpoint Tests
 
 Visit the endpoint tests [here](https://platform.ifttt.com/mkt/%2Fapi%2Fendpoint_tests), and click the Begin Test button. You should see that all the endpoint tests pass. Now go take a look at your Terminal or Glitch console to see the requests/responses from the endpoint test. Learn more about the endpoint tests [here](https://ifttt.com/docs/testing).
 
-#### Build your own service
+#### Build Your Own Service
 
 Try experimenting by adding new actions and triggers until you get the hang of things. Afterwards you can re-run the endpoint tests to see what happens. Then, check out the [service API documentation](https://ifttt.com/docs/api_reference) to start building your own service (or take a look at the [service templates](https://ifttt.com/docs/example_services#service-templates) below)!
 
-### Getting started with Python and FastAPI
+### Getting Started with Python and FastAPI
 
-#### Hello World: setting up the environment
+#### Hello World: Setting up the Environment
 
 Make sure you are running Python3.6+ in your development environment. Run the following command to [install FastAPI](https://fastapi.tiangolo.com/) and its dependencies:
 
@@ -140,13 +141,13 @@ pip install fastapi
 
 Create a new hello\_world.py file and copy the following to it.
 
-##### Add your service key to your FastAPI app
+##### Add Your Service Key to Your FastAPI App
 
 Your service key is a secret key that is shared between your app and IFTTT. You'll need to copy and paste this key into your FastAPI app so IFTTT can correctly identify your service.
 
 To get your key, visit [the API page for your service](https://ift.tt/your-service-key) and copy the service key. Then, open your local Python app and set `IFTTT_SERVICE_KEY` to that value ([line #17 in the gist above](https://ifttt.com/docs/example_services#file-ifttt_hello_world-py-L17)).
 
-#### Run the app locally
+#### Run the App Locally
 
 To start the app run this command from your working directory:
 
@@ -156,11 +157,11 @@ uvicorn hello_world:app
 
 Now you're ready to [expose your local server via ngrok](https://ifttt.com/docs/example_services#expose-your-local-server-via-ngrok) on port 8000.
 
-#### Add the API URL to your service
+#### Add the API URL to Your Service
 
 Visit your new service’s API page [here](https://platform.ifttt.com/mkt/api), and input the ngrok URL into the IFTTT API URL field.
 
-#### Test the service
+#### Test the Service
 
 Visit the endpoint tests [here](https://platform.ifttt.com/mkt/%2Fapi%2Fendpoint_tests), and click the Begin Test button. You should see that all the endpoint tests pass. Now go take a look at your Terminal to see the requests/responses from the endpoint test. Learn more about the endpoint tests [here](https://ifttt.com/docs/testing).
 
@@ -184,7 +185,7 @@ A service that interacts with bank account deposits, withdrawals, purchases, cur
 
 ___
 
-### Bookmarking app
+### Bookmarking App
 
 A service based on an app where users can manage their bookmarks.
 
@@ -192,7 +193,7 @@ A service based on an app where users can manage their bookmarks.
 
 ___
 
-### News site
+### News Site
 
 A service based on news publications where users can be alerted about breaking news or specific topics.
 
@@ -200,7 +201,7 @@ A service based on news publications where users can be alerted about breaking n
 
 ___
 
-### Power management
+### Power Management
 
 A service based on electricity usage where users can be alerted about energy prices and their own consumption.
 
@@ -208,7 +209,7 @@ A service based on electricity usage where users can be alerted about energy pri
 
 ___
 
-### To do list app
+### To Do List App
 
 A service based on an app where users can manage tasks.
 
@@ -216,13 +217,13 @@ A service based on an app where users can manage tasks.
 
 ___
 
-#### _More coming soon_
+#### *More Coming soon*
 
 Do you have a suggestion for another example service that would be helpful? [Let us know](mailto:platform-support+example-service-request@ifttt.com?subject=I%20would%20like%20to%20request%20the%20following%20service%20template%3A)!
 
 ___
 
-#### Next steps:
+#### Next Steps
 
 -   Explore the [Service API](https://ifttt.com/docs/api_reference).
 -   Learn about [testing your service](https://ifttt.com/docs/testing).

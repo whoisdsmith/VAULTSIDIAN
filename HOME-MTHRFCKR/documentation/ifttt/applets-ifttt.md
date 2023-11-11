@@ -1,8 +1,10 @@
+# Applets-ifttt
+
 ## Creating Applets
 
 The Applet creation tool is designed to help you build valuable Applets and publish them for the world to use. Your Applets can have multiple actions and [custom filter code](https://ifttt.com/docs/applets#using-filter-code) to go beyond the basic “if this, then that” paradigm. If there are terms below that you don't understand, check out the [glossary](https://ifttt.com/docs/glossary).
 
-#### Some tips on using the tool
+### Some Tips on Using the Tool
 
 -   **Applet title:** Be specific. This is your chance to tell the user what they should expect this Applet to do for them — approach it like you would writing an instruction manual, instead of a catchy headline. Keep it short and to the point.
     
@@ -19,9 +21,8 @@ The Applet creation tool is designed to help you build valuable Applets and publ
 -   **Action(s):** You can select one or more actions to run when the trigger event occurs. Add additional actions by clicking the “Add action” button. Keep in mind that users must have activated all services used in the Applet in order to turn it on.
     
 -   **Action fields:** Like trigger fields, data can be pre filled and hidden in an action field or can be filled out by the user. In the case of action fields, it is important to hide any fields that don’t need to be filled out by the user. For example, if your Applet is “Tweet your Instagram photos”, you would place the Instagram “SourceURL” ingredient in the Twitter “Image URL” action field and then hide it as this is the only appropriate ingredient to have in that field. You might ask the user to fill out other types of action fields themselves such as their location, their email address, or a name of a photo album private to them. Note that action fields marked to be “chosen by the user” can include prefilled text or numbers, but cannot include prefilled ingredients.
-    
 
-## Using filter code
+## Using Filter Code
 
 When you build an Applet with the creation tool, you can use the **filter code** feature to add extra flexibility and power by writing your own JavaScript that runs whenever the Applet does. Your code has access to the data returned by the trigger, as well as metadata like the current time in the user's time zone, and it can use that information to override action field values or skip actions.
 
@@ -32,7 +33,6 @@ There are some fields that are always available:
 -   `Meta.currentUserTime`: The current time when your code is evaluated, in the user's timezone. This returns a [Moment.js](https://momentjs.com/) object.
     
 -   `Meta.triggerTime`: The time that the trigger event happened, in the user's timezone. This should be close to `currentUserTime`, but could vary depending on the polling period of the Applet's trigger. This returns a [Moment.js](https://momentjs.com/) object.
-    
 
 There are additional fields available depending on the specific trigger and actions that your Applet uses. For example, if your Applet uses the Weather Underground service's "Sunrise" trigger, your code can use `Weather.sunRises` to get the trigger's ingredients. If it uses the LIFX service's "Toggle lights on/off" action, your code can use `Lifx.toggle` to override that action's fields or skip it instead of running it.
 
@@ -43,7 +43,6 @@ Each action's object has the following methods:
 -   `skip()`: This lets you skip an action instead of running it. You can optionally provide a message that will be shown in the user's event feed to explain why the Applet decided not to run the action.
     
 -   `set[FieldName]()`: For each hidden field of the action, you can use a correspondingly-named setter method to override its value. If you do, the value you provide will be used verbatim, skipping the templating step that normally happens with hidden fields. If you want to use ingredient values, you can do so by just using string concatenation or [JavaScript template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals):
-    
 
 ```
 Twitter.postNewTweet.setTweet(
@@ -53,27 +52,25 @@ Twitter.postNewTweet.setTweet(
 
 When you override the value of a dropdown field, the argument you pass in should be the option's `value`, not its `label`. The filter code editor has autocomplete support for dropdown field setters to make this easier.
 
-#### Technical details
+### Technical Details
 
 -   When you write filter code, you're technically writing [TypeScript](https://www.typescriptlang.org/), not JavaScript. This helps prevent runtime problems with your code by catching simple mistakes as early as possible. You should generally be able to just write normal JavaScript, but the TypeScript documentation may be helpful if you run into issues with more advanced use cases.
     
 -   Filter code is run in an isolated environment with a short timeout. There are no methods available that do any I/O (blocking or otherwise), so your code should execute quickly.
-    
 
-#### Testing and publishing your Applets
+### Testing and Publishing Your Applets
 
 -   When your Applet has been all filled out, click the "Preview" button to create a private version of the Applet.
     
 -   Visit your service page to try out the Applet to make sure that it is working as expected. Private Applets can be modified based on your testing.
-    
 
 ## Applets Cookbook
 
 In this section we provide a series of examples of Applets that take advantage of the Filter Code. It is important to note that JavaScript (Typescript) is a full-fledged programming language - if you need help you might consider participating in the Maker community on [Hackster.io](https://www.hackster.io/ifttt) or learning [JavaScript](https://www.codecademy.com/learn/javascript).
 
-### Example: Random light colors
+### Example: Random light Colors
 
-#### Applet description
+#### Applet Description
 
 -   Random light colors
 -   Change your LIFX colors to a random color
@@ -82,7 +79,7 @@ In this section we provide a series of examples of Applets that take advantage o
 
 -   Button Widget: Button Press
 
-#### Filter code
+#### Filter Code
 
 ```
 var colors = ["#FF8400", "#FF0000", "#15FF00", "#FF00D4","#00D4FF","#003CFF"]
@@ -94,9 +91,9 @@ Lifx.color.setAdvancedOptions('color: ' + colors[index] + '; brightness: 1; dura
 
 -   Lifx: change color of lights
 
-### Example: Adjust your lights as it gets darker outside
+### Example: Adjust Your Lights as it Gets Darker outside
 
-#### Applet description
+#### Applet Description
 
 -   Adjust your lights as it gets darker outside
 -   Change your LIFX light bulbs to reflect the color outside and have a more natural color as it gets darker outside
@@ -105,7 +102,7 @@ Lifx.color.setAdvancedOptions('color: ' + colors[index] + '; brightness: 1; dura
 
 -   Date & Time: Every hour
 
-#### Filter code
+#### Filter Code
 
 ```
 var hour     = Meta.currentTime.hour()
@@ -135,9 +132,9 @@ if (hour < 17) {
 
 -   Lifx: change color of lights
 
-### Example: Flight deals from or to San Francisco
+### Example: Flight Deals from or to San Francisco
 
-#### Applet description
+#### Applet Description
 
 -   Flight deals: San Francisco
 -   Get a daily email with flight tickets on sale below $400.00.
@@ -149,7 +146,7 @@ if (hour < 17) {
 
 ![Template for creating an IFTTT Applet](https://web-assets.ifttt.com/packs/media/docs/cookbook-1-ab66fc87.png "Template for creating an IFTTT Applet")
 
-#### Filter code
+#### Filter Code
 
 ```
 var txt = Ingredients.Text || ""
@@ -164,9 +161,9 @@ if (price > 400) {
 
 -   Lifx: change color of lights
 
-### Example: Daily motivational quote
+### Example: Daily Motivational Quote
 
-#### Applet description
+#### Applet Description
 
 -   Daily quote
 -   Receive a daily motivational quote on your phone and a weekly digest with all the quotes.
@@ -175,7 +172,7 @@ if (price > 400) {
 
 -   Date & Time: Everyday at a time chosen by the user
 
-#### Filter code
+#### Filter Code
 
 ```
 // quotes by brainyquote.com
@@ -195,9 +192,9 @@ EmailDigest.sendWeeklyEmail.setMessage(msg)
 -   Notifications: Send notification
 -   Email Digest: Add to weekly email digest
 
-### Example: Random Motivational quote button
+### Example: Random Motivational Quote Button
 
-#### Applet description
+#### Applet Description
 
 -   Random motivational quote button
 -   Receive a random quote every time you a press a button. Quotes from brainyquote.com
@@ -206,7 +203,7 @@ EmailDigest.sendWeeklyEmail.setMessage(msg)
 
 -   Button Widget: button press
 
-#### Filter code
+#### Filter Code
 
 ```
 // Quotes by brainyquote.com
@@ -228,13 +225,13 @@ ___
 
 Sometimes Applets run into issues or don't run as expected. Here are some tips for troubleshooting Applet issues that your users (or you!) may run into.
 
-### Asking users for further information
+### Asking Users for Further Information
 
 Asking your users the following questions will help you further investigate the issue they are running into.
 
-##### 1) What's your Applet version ID?
+#### 1) What's Your Applet Version ID?
 
-The _Applet version ID_ is an ID that specifies a user's version of an Applet. For example, [this Applet](https://ifttt.com/applets/YfkYtQB2-get-a-notification-when-the-international-space-station-passes-over-your-house)'s ID is `YfkYtQB2` but a user's specific _version_ of that Applet can be identified by an ID such as `78911786`.
+The *Applet version ID* is an ID that specifies a user's version of an Applet. For example, [this Applet](https://ifttt.com/applets/YfkYtQB2-get-a-notification-when-the-international-space-station-passes-over-your-house)'s ID is `YfkYtQB2` but a user's specific *version* of that Applet can be identified by an ID such as `78911786`.
 
 This ID can be found on Applet's page when a specific user views it:
 
@@ -242,23 +239,23 @@ This ID can be found on Applet's page when a specific user views it:
 
 Once a user share's their Applet version ID with you, look up any relevant requests on [your service's Request Search page](https://ifttt.com/services/hello_world_086b07cf29/request_search) to find more information.
 
-##### 2) Do you see any specific error messages?
+#### 2) Do You See Any Specific Error Messages?
 
 Here's where they can look:
 
 -   [Their IFTTT-wide account activity](https://ifttt.com/activity): ifttt.com/activity
--   A specific _Applet's_ activity: ifttt.com/activity/applet/**\[Applet-ID-here\]**
--   A specific _service's_ activity: ifttt.com/activity/service/**hello\_world\_086b07cf29**
+-   A specific *Applet's* activity: ifttt.com/activity/applet/**\[Applet-ID-here\]**
+-   A specific *service's* activity: ifttt.com/activity/service/**hello\_world\_086b07cf29**
 
-##### 3) Did anything change recently about your Applet or the services involved?
+#### 3) Did Anything Change Recently about Your Applet or the Services Involved?
 
 This will be helpful in scenarios where a user's password changed, for example, or in scenarios where a user recently changed something about the specific Applet or the trigger/action services.
 
-##### 4) What was the expected behavior of your Applet?
+#### 4) What Was the Expected Behavior of Your Applet?
 
 If they are concerned about the speed of their Applets, look into the [Realtime API](https://ifttt.com/docs/api_reference#realtime-api) if your service has triggers, and [your service's performance page](https://ifttt.com/services/hello_world_086b07cf29/performance) for further tips.
 
-### Tools available to help troubleshoot
+### Tools Available to Help Troubleshoot
 
 Once you have a user's report of an Applet issue, here are some tools to help you investigate:
 
@@ -267,7 +264,7 @@ Once you have a user's report of an Applet issue, here are some tools to help yo
 -   Your server logs. With a request ID, you should be able to line up that request in your logs to see what might have gone wrong.
 -   [The IFTTT.com _Applet Troubleshooting_ section](https://help.ifttt.com/hc/sections/115002772947-Troubleshooting-applets): our user support team has gathered great tips for users troubleshooting their Applets which could help you investigate as well.
 
-### Understanding IFTTT error codes
+### Understanding IFTTT Error Codes
 
 Here is an explanation of the error codes that you might see on your [Service Health](https://ifttt.com/services/hello_world_086b07cf29/health) and [Request Search](https://ifttt.com/services/hello_world_086b07cf29/request_search) pages:
 
@@ -292,4 +289,5 @@ Different types of requests can have individual thresholds for how long IFTTT wa
 ---
 
 #ifttt 
+
 ___

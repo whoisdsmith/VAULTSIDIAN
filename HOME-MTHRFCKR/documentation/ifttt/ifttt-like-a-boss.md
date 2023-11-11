@@ -1,4 +1,4 @@
-# IFTTT like a boss
+# IFTTT like a Boss
 
 Now i don’t know about you but when i’m choosing a smart device these days if it‘s not’ HomeKit compatible then it needs to have the [IFTTT](http://ifttt.com) badge on the box otherwise there’s no chance it will be coming home with me.
 
@@ -18,11 +18,11 @@ First you’re going to need to cough up some cash and subscribe to the [IFTTT P
 
 This gets you unlimited multi-step applets as apposed to the free version which is now limited to 3 applets and the classic single step.
 
-# Create your applet
+# Create Your Applet
 
 So let’s take my example and set up a button that opens my garage with some conditions that need to be met.
 
-> Upon writing this tutorial it turns out [TP-Link](https://ifttt.com/tplink_router) have **discontinued** support of IFTTT which is the only reason i bought their Mesh Router >:( so that will be going back to the shop.
+> Upon writing this tutorial it turns out [TP-Link](https://ifttt.com/tplink_router) have **discontinued** support of IFTTT which is the only reason i bought their Mesh Router > :( so that will be going back to the shop.
 
 Inlight of this we’ll change our applet to be **time** dependent.
 
@@ -42,12 +42,11 @@ Adding a filter is a little more complex as you’ll need to write a little [Jav
 
 So I only want my button to work around the time I get home from work so we need to tell our applet to skip the action at all other times.
 
-i.e if the current hour is earlier than 4pm (<16) or 6pm or later (> =18) then skip the proceeding action _which in my case is the particle call_.
+i.e if the current hour is earlier than 4pm (<16) or 6pm or later (> =18) then skip the proceeding action *which in my case is the particle call*.
 
 Now we can publish our applet and when the time hits 4pm-6pm our button will work and any other time it won’t!
 
 Happy creating (:
-
 
 ___
 

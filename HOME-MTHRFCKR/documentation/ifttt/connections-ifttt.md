@@ -1,20 +1,22 @@
-## What are connections?
+# Connections-ifttt
+
+## What Are Connections?
 
 Connections allow you to power entire integrations between your service and another with one single connection. A user connects once using the connect button, and you can power multiple queries, triggers, and actions.
 
-## Connections vs Applets
+## Connections Vs Applets
 
 Applets are 1:1. There's one trigger that happens on your service that maps to certain actions on another service. Also, Applets need to be configured on IFTTT and aren't compatible with queries.
 
 Connections, on the other hand, are there to achieve multiple functions with a single integration. Connections allow you to set up queries, triggers, and actions for your users [via the Connect API](https://ifttt.com/docs/connect_api) without the user having to enable anything on IFTTT. Just connect, authenticate, and you're ready to go.
 
-## Creating connections
+## Creating Connections
 
-### Connection creation tool
+### Connection Creation Tool
 
 The [connection creation tool](https://platform.ifttt.com/mkt/connections%2Fnew) is designed for you to be able to build powerful integrations with any service on IFTTT. Connections created on the platform should be used in tandem with the [Connect API](https://ifttt.com/docs/connect_api), the [iOS SDK](https://github.com/IFTTT/ConnectSDK-iOS), and the [Android SDK](https://github.com/IFTTT/ConnectSDK-Android).
 
-#### How to use the tool
+#### How to Use the Tool
 
 1.  Start by searching for and selecting the service you are looking to connect with
 2.  Then add a [feature](https://ifttt.com/docs/glossary#feature) and configure the triggers, queries, and actions you're going to use.
@@ -23,11 +25,11 @@ The [connection creation tool](https://platform.ifttt.com/mkt/connections%2Fnew)
 5.  You'll now have access to Connect API endpoints for the selected queries, triggers, and actions.
 6.  Leverage the [Connect API](https://ifttt.com/docs/connect_api) along with the [iOS SDK](https://github.com/IFTTT/ConnectSDK-iOS) and [Android SDK](https://github.com/IFTTT/ConnectSDK-Android) to programmatically execute queries, subscribe to triggers, and run actions for your users.
 
-#### Tips on configuration
+#### Tips on Configuration
 
 Connection query fields, trigger fields, and action fields can either be set by you as the developer or shown to the user to set themselves. How a connection is configured is dependent on the experience you're looking to create. See below for an example of how to use different configuration settings for different experiences.
 
-#### Example: Control the color of your Hue lightbulbs
+#### Example: Control the Color of Your Hue Lightbulbs
 
 Service: Philips Hue Action: Change color
 
@@ -64,13 +66,13 @@ To change the color of the lights dynamically, be sure to include the following 
 }
 ```
 
-### Runtime script
+### Runtime Script
 
-#### What is a runtime script
+#### What is a Runtime Script
 
 A runtime script is JavaScript code that runs when IFTTT detects a new trigger event. Normally a connection requires you to run a backend server that receives trigger [[Webhooks|[[Webhoo]]ks|[[webhoo]]ks]] from IFTTT and runs queries and actions by making Connect API requests to IFTTT. However, if your case is simple enough you can avoid running your own connection backend by implementing your connection logic in a runtime script. Your runtime script will be executed by IFTTT when a new trigger event occurs. In the script you can examine the trigger event and run connection queries and actions.
 
-#### How to write a runtime script
+#### How to Write a Runtime Script
 
 A runtime script can be added on the connection edit page. Think of a runtime script as a trigger event handler. To understand how to write one let's go over an example.
 
@@ -122,7 +124,7 @@ The following constants are available to you in a runtime script:
 | --- | --- | --- | --- |
 | `Meta.currentUserTime` | `moment.js` object | Current time in user's timezone |  |
 | `Trigger.id` | string | Trigger id | `"youtube.new_liked_video"` |
-| `Trigger.ingredients` | object | Event details | `{ title: "Hello World!", url: "https://..." }` |
+| `Trigger.ingredients` | object | Event details | `{ title: "Hello World!", url: "https://…" }` |
 | `Connection.serviceUserId` | string | User id as given to IFTTT by your service | `"UCr9jxQ3llSDks"` |
 | `Connection.currentFeatureName` | string | The name of the current feature | `"yp6zrl2tpd"` |
 | `Connection.userFeatureId` | string | The id of the current user feature | `"f98de900-fe18-4fd2-b42b-422761d030a9"` |
@@ -165,7 +167,7 @@ Both of these functions return a [Promise](https://developer.mozilla.org/en-US/d
 
 #### Examples
 
-##### Run an action
+##### Run an Action
 
 ```
 runAction("sms.send_me_text")
@@ -174,7 +176,7 @@ runAction("sms.send_me_text")
 
 This will execute the action with default fields (set by the user when they enable the connection).
 
-##### Run a query
+##### Run a Query
 
 ```
 performQuery("youtube.get_videos_from_search")
@@ -183,7 +185,7 @@ performQuery("youtube.get_videos_from_search")
 
 This will execute the query with default fields (set by the user when they enable the connection).
 
-##### Limit query results
+##### Limit Query Results
 
 ```
 performQuery("youtube.get_videos_from_search", { limit: 3 });
@@ -191,7 +193,7 @@ performQuery("youtube.get_videos_from_search", { limit: 3 });
 
 This query will return 3 items.
 
-##### Override default fields
+##### Override Default Fields
 
 ```
 runAction("sms.send_me_text", { fields: { message: "overriden" } });
@@ -199,7 +201,7 @@ runAction("sms.send_me_text", { fields: { message: "overriden" } });
 
 In this example we are overriding the `message` field. The same approach can be used when running queries.
 
-##### Access connection options
+##### Access Connection Options
 
 ```
 Connection.configuration.foo;
@@ -207,7 +209,7 @@ Connection.configuration.foo;
 
 This is how you access a field `foo` defined on the connection level.
 
-##### Using feature context
+##### Using Feature Context
 
 ```
 Connection.currentFeatureName;
@@ -221,29 +223,28 @@ runAction("sms.send_me_text", { user_feature_id: Connection.userFeatureId } });
 
 This will run the action in the context of the current feature. This is useful when a connection has the same action in multiple features.
 
-#### Execution environment
+#### Execution Environment
 
 Runtime: Node.js 12.
 
 Time limit: 10 seconds (your runtime script will be terminated if it exceeds this limit).
 
-### Testing and publishing your connections
+### Testing and Publishing Your Connections
 
 -   To see the Connect API logs for a given connection, click the "API logs" tab and reference set of [status codes](https://ifttt.com/docs/connect_api#http-status-codes).
     
 -   Connections can be tested fully with the [iOS and Android SDKs](https://ifttt.com/docs/connect_api#ios-and-android-sdks).
     
 -   Publishing connections is only available for approved paid organizations. To learn more, [contact sales](mailto:sales@ifttt.com).
-    
 
 ___
 
-#### Next steps:
+#### Next Steps
 
 -   Explore the [Connect API](https://ifttt.com/docs/connect_api).
 -   Create your first connection with our [Connect Quick Start Guide](https://ifttt.com/docs/getting_started_connect).
 -   Explore the [Service API](https://ifttt.com/docs/api_reference) to build [triggers](https://ifttt.com/docs/glossary#trigger), [queries](https://ifttt.com/docs/glossary#query), and [actions](https://ifttt.com/docs/glossary#action) that other services can interact with.
 
-
 ---
+
 #ifttt 

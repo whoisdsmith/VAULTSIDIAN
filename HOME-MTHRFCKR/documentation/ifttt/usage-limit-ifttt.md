@@ -2,7 +2,6 @@
 
 ---
 
-
 Some services have limits for how often you can use them with IFTTT. If you check your [activity feed](https://ifttt.com/activity) and see an error message that reads "usage limit exceeded," then you have hit one of these limits. Some examples of these services are Twitter, Blogger, and the SMS service.
 
 We try to make this as transparent as possible, and let you know when you’re approaching a limit and when you’ve hit it. If you hit a daily limit, your Applet will start working again the following day.

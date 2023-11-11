@@ -2,7 +2,7 @@
 tags: MOCs
 ---
 
-# MOC: infrastructure-provisioning
+# MOC: Infrastructure-provisioning
 
 ---
 

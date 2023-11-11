@@ -1,4 +1,4 @@
-# Guide to tricking IFTTT into supporting multiple conditions and storing variables: IF this AND/OR that happened in the past, and now this happens, then do X. (Using spreadsheets and Filter code) : r/ifttt
+# Guide to Tricking IFTTT into Supporting Multiple Conditions and Storing Variables: IF This AND/OR that Happened in the Past, and now This Happens, then Do X. (Using Spreadsheets and Filter code) : r/ifttt
 
 ![r/ifttt - Guide to tricking IFTTT into supporting multiple conditions and storing variables: IF this AND/OR that happened in the past, and now this happens, then do X. \(Using spreadsheets and Filter code\)](https://external-preview.redd.it/4JU3UogVXRczrXg9LrKTWkZfwKE5FKYqrpibUzCFv-8.jpg?width=640&crop=smart&auto=webp&s=edef87a7fdbb5f01ffd0f79257df69bf355f2b94)
 
@@ -73,54 +73,51 @@ Expand and enjoy! Here's my masterpiece:
 
 [ ![r/ifttt - Guide to tricking IFTTT into supporting multiple conditions and storing variables: IF this AND/OR that happened in the past, and now this happens, then do X. \(Using spreadsheets and Filter code\)](https://preview.redd.it/fsu0fxgg2u841.png?width=1618&format=png&auto=webp&s=d6b327c8b43fb554a506250cb9476a75d325575c) ](https://preview.redd.it/fsu0fxgg2u841.png?width=1618&format=png&auto=webp&s=d6b327c8b43fb554a506250cb9476a75d325575c)
 
-
 ___
-
 
 ## Comments
 
-### This is cool.
+### This is Cool
 
 I remember this link from the past. Just adding here for info.
 
-
 https://medium.com/@pebneter/when-if-is-not-enough-55b6e57d8742
 
-The other thing I heard about recently was Home Assistant for raspberry pi. ⏤ by *tresswa* (↑ 3/ ↓ 0)
-├─ I just read some of the explanation of what Apilio is, and it seems like its exactly the same idea as  what i just did.  Seems way easier too, but Google Sheets is free.... 
+The other thing I heard about recently was Home Assistant for raspberry pi. ⏤ by *tresswa* (↑ 3/ ↓ 0)  
+├─ I just read some of the explanation of what Apilio is, and it seems like its exactly the same idea as  what i just did.  Seems way easier too, but Google Sheets is free…. 
 
-If i ever expand my smart home i will give it a go because my masterpiece sheet  takes like 20 applets just to toggle the lights and change color temps. I'm afraid of the monster i will create. ⏤ by *tom_0334* (↑ 3/ ↓ 0)
-├── I like your method though. I haven’t tinkered with this level of stuff, but I’m going to follow your guide. ⏤ by *tresswa* (↑ 1/ ↓ 0)
-├── What smart lights do you use? ⏤ by *tresswa* (↑ 1/ ↓ 0)
-├─── I use Yeelight, mostly because i liked their led strip ⏤ by *tom_0334* (↑ 2/ ↓ 0)
-├── “But google sheets is free. “ and thus is why I love this solution. ⏤ by *pickled_ricks* (↑ 1/ ↓ 0)
+If i ever expand my smart home i will give it a go because my masterpiece sheet  takes like 20 applets just to toggle the lights and change color temps. I'm afraid of the monster i will create. ⏤ by *tom_0334* (↑ 3/ ↓ 0)  
+├── I like your method though. I haven’t tinkered with this level of stuff, but I’m going to follow your guide. ⏤ by *tresswa* (↑ 1/ ↓ 0)  
+├── What smart lights do you use? ⏤ by *tresswa* (↑ 1/ ↓ 0)  
+├─── I use Yeelight, mostly because i liked their led strip ⏤ by *tom_0334* (↑ 2/ ↓ 0)  
+├── “But google sheets is free. “ and thus is why I love this solution. ⏤ by *pickled_ricks* (↑ 1/ ↓ 0)  
 ├── Also try Macrodroid, it is like a local non-cloud version of apilio.
 
 Uses webhooks to set variables from IFTTT and super easy to learn.
 
-I use routine + IFTTT + macrodroid for complex automation rules. ⏤ by *mikesrd2019* (↑ 1/ ↓ 0)
-├── You're ready to level up. Get yourself a pi, and start around with screwing nodered, docker, and huginn. ⏤ by *jabies* (↑ 1/ ↓ 0)
+I use routine + IFTTT + macrodroid for complex automation rules. ⏤ by *mikesrd2019* (↑ 1/ ↓ 0)  
+├── You're ready to level up. Get yourself a pi, and start around with screwing nodered, docker, and huginn. ⏤ by *jabies* (↑ 1/ ↓ 0)  
 └────
 
+#### This Seems like a Neat Workaround. I'll Have to Give it a Try. ⏤ by *ElSabioUno* (↑ 2/ ↓ 0)
 
-#### This seems like a neat workaround. I'll have to give it a try. ⏤ by *ElSabioUno* (↑ 2/ ↓ 0)
+#### That's Clever, Saved that Post! ⏤ by *m-p-3* (↑ 2/ ↓ 0)
 
-#### That's clever, saved that post! ⏤ by *m-p-3* (↑ 2/ ↓ 0)
+##### Very Helpful. Thanks! ⏤ by *burkybang* (↑ 1/ ↓ 0)
 
-##### Very helpful. Thanks! ⏤ by *burkybang* (↑ 1/ ↓ 0)
+##### This is Genius and I Am so Impressed. ⏤ by *pickled_ricks* (↑ 1/ ↓ 0)
 
-##### This is genius and I am so impressed. ⏤ by *pickled_ricks* (↑ 1/ ↓ 0)
+##### Looks Good! I Asked a Question Earlier Today that This Can Solve. Will Try This next Week. ⏤ by *marshallandy83* (↑ 1/ ↓ 0)
 
-##### Looks good! I asked a question earlier today that this can solve. Will try this next week. ⏤ by *marshallandy83* (↑ 1/ ↓ 0)
+##### Very Helpful. It's a Good Workaround but IFTTT Should Be Able to Do This from within the App by Now. Without a Smart Person, Our Smart Homes Are Nothing More than Remote Switches and Sensors to Turn Lights on and off Etc. A True Smart Home, Would Be More Integrated and Apply Some Logic to Requests. Hopefully, the New Alliance Will Be Working on Making Things Smarter and Easier to Setup and Manage in the near Future. ⏤ by *dnateo* (↑ 1/ ↓ 0)
 
-##### Very helpful. It's a good workaround but IFTTT should be able to do this from within the app by now. Without a smart person, our smart homes are nothing more than remote switches and sensors to turn lights on and off etc. A true smart home, would be more integrated and apply some logic to requests. Hopefully, the new alliance will be working on making things smarter and easier to setup and manage in the near future. ⏤ by *dnateo* (↑ 1/ ↓ 0)
+##### This is Exactly what I Need. Thank You! ⏤ by *fc518* (↑ 1/ ↓ 0)
 
-##### This is exactly what I need. Thank you! ⏤ by *fc518* (↑ 1/ ↓ 0)
-##### Thanks for your solution ! 
+##### Thanks for Your Solution
 
 &amp;#x200B;
 
-It works great but sadly there is a little delay so this can't apply to everything...
+It works great but sadly there is a little delay so this can't apply to everything…
 
 After some research i found Integromat and well, it looks amazing ! I'm only starting with it but it seems very powerful and the free tier is generous. It's originally a Zapier like but it has ifttt webhook integration as a huge bonus. And best of all it have a great interface. The only downside i can see is that it must be a little complicated for some users.
 
@@ -128,7 +125,7 @@ After some research i found Integromat and well, it looks amazing ! I'm only sta
 
 Just check it out :  [https://www.integromat.com/](https://www.integromat.com/) ⏤ by *Khelddit* (↑ 1/ ↓ 0)
 
-#### Hello thanks for this guide, very helpful !
+#### Hello Thanks for This Guide, Very Helpful
 
 Just a tip that seems to work from my manual tests :
 
@@ -140,12 +137,12 @@ This way you can avoid your filter in step 4
 
 EDIT: Finally doing so is spaming applets fails in IFTTT so this is probably not a good idea ⏤ by *Khelddit* (↑ 1/ ↓ 0)
 
-#### Thanks for explaining the filter code. I wanted a notification to let me know once my wife is on the way back from work (when she is about ten min eta to my workplace) to fetch me from my workplace. But I want the notification only in the evening as she passes by the road on the way to work too. 
+#### Thanks for Explaining the Filter Code. I Wanted a Notification to Let Me Know once My Wife is on the way back from Work (when She is about Ten Min Eta to My workplace) to Fetch Me from My Workplace. But I want the Notification only in the Evening as She Passes by the Road on the way to Work Too
 
-#### Unfortunately the google sheet triggers can be quite unreliable. Sometimes, within a min it can give me a notifcation, sometimes up to 15 min, no notification. ⏤ by *sliko45* (↑ 1/ ↓ 0)
+#### Unfortunately the Google Sheet Triggers Can Be Quite Unreliable. Sometimes, within a Min it Can Give Me a Notifcation, Sometimes up to 15 Min, no Notification. ⏤ by *sliko45* (↑ 1/ ↓ 0)
 
-#### Slow clap. ⏤ by *givemethatflute* (↑ -1/ ↓ 0)
+#### Slow Clap. ⏤ by *givemethatflute* (↑ -1/ ↓ 0)
 
-#### This is so good! I've made one to turn on my phone charger if I'm home and the battery is low, and turn it off again when the battery hits 80% (to reduce battery cycling). ⏤ by *Dan4096* (↑ 1/ ↓ 0
+#### This is so Good! I've Made One to Turn on My Phone Charger if I'm home and the Battery is Low, and Turn it off Again when the Battery Hits 80% (to Reduce Battery cycling). ⏤ by *Dan4096* (↑ 1/ ↓ 0
 
 #article #ifttt 

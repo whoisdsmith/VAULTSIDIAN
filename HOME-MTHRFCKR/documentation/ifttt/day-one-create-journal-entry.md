@@ -6,11 +6,11 @@ This Action will create a new Journal entry in the Journal you specify.
 
 .unified-header, .service-header { background-color: #44C0FF; }
 
-### About this action
+## About This Action
 
 Triggers, queries, and actions are the building blocks of Applets. Triggers tell an Applet to start, queries ask a question, and actions are its end result.
 
-#### Developer info
+### Developer Info
 
 Description
 
@@ -28,9 +28,9 @@ Runtime method
 
 runAction("day\_one.create\_journal\_entry", {})
 
-### Action fields
+## Action Fields
 
-#### Journal ID Dropdown list
+### Journal ID Dropdown List
 
 Label
 
@@ -52,7 +52,7 @@ Can have default value
 
 false
 
-#### Body Text input > Long text
+### Body Text Input > Long Text
 
 Label
 
@@ -78,7 +78,7 @@ Filter code method
 
 DayOne.createJournalEntry.setBody(string: body)
 
-#### Tags Text input > Tags
+### Tags Text Input > Tags
 
 Label
 
@@ -104,7 +104,7 @@ Filter code method
 
 DayOne.createJournalEntry.setTags(string: tags)
 
-#### Latitude Text input > Short text
+### Latitude Text Input > Short Text
 
 Label
 
@@ -130,7 +130,7 @@ Filter code method
 
 DayOne.createJournalEntry.setLatitude(string: latitude)
 
-#### Longitude Text input > Short text
+### Longitude Text Input > Short Text
 
 Label
 
@@ -156,7 +156,7 @@ Filter code method
 
 DayOne.createJournalEntry.setLongitude(string: longitude)
 
-#### Placename Text input > Short text
+### Placename Text Input > Short Text
 
 Label
 
@@ -182,7 +182,7 @@ Filter code method
 
 DayOne.createJournalEntry.setPlacename(string: placename)
 
-#### Image Text input > Photo
+### Image Text Input > Photo
 
 Label
 

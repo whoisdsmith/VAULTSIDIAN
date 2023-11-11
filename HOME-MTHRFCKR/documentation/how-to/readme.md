@@ -1,6 +1,6 @@
-# This page will explain how to setup what you need to setup.
+# This Page Will Explain how to Setup what You Need to Setup
 
-## How to setup local kuberenetes cluster?
+## How to Setup Local Kuberenetes Cluster?
 
 1. Install Docker
 2. [Install Virtualbox](install_virtualbox.md)
@@ -8,17 +8,15 @@
 4. Install kubectl
 5. [Install helm](Instal-Helm.md)
 
+## How to Setup Basic Monitoring in Cloud?
 
-## How to setup basic monitoring in cloud?
+## How to Setup Your Personal Cloud?
 
-## How to Setup your personal cloud?
+## How to Access AWS EC2?
 
-## How to access AWS EC2?
+## How to Setup Ssh and Clone Github Repository through Ssh?
 
-
-## How to setup ssh and clone github repository through ssh?
-
-1. Create ssh - key
+1. Create ssh - key  
 ``` ssh-keygen -t rsa ```
 2. copy the generated RSA content to ssh settings in github dashboard.
 3. eval `ssh-agent`

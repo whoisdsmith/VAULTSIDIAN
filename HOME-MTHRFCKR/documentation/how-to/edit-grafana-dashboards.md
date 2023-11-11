@@ -1,1 +1,1 @@
-# How to edit Grafana Dashboards
+# How to Edit Grafana Dashboards

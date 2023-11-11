@@ -2,7 +2,6 @@
 
 ---
 
-
 -   [How can I use a query?](https://help.ifttt.com/hc/en-us/articles/360053502173-What-is-a-query-#HowcanIuseaquery?)
 -   [Do I need to use filter code to use a query?](https://help.ifttt.com/hc/en-us/articles/360053502173-What-is-a-query-#DoIneedtousefiltercodetouseaquery?)
 
@@ -10,7 +9,7 @@ A query is a way to request additional data that your Applet's [trigger](https:/
 
 Some examples of queries are [Google Calendar - List Events For a Date](https://ifttt.com/google_calendar/queries/list_events_for_date) and [Facebook - List Album Photos](https://ifttt.com/facebook/queries/list_album_photos).
 
-## How can I use a query?
+## How Can I Use a Query?
 
 Queries can be used alongside triggers to build more powerful Applets. The data from the two can be used in your actions, or can combine with filter code to create all kinds of automations.
 
@@ -18,7 +17,7 @@ To add a query to your Applet, you'll first need to add a trigger, after which y
 
 ![How_to_add_a_query_to_an_Applet.gif](https://help.ifttt.com/hc/article_attachments/4412837810075/How_to_add_a_query_to_an_Applet.gif)
 
-Queries, along with filter code, unlock Applets to go beyond **if this** to **if this _and_ this**.
+Queries, along with filter code, unlock Applets to go beyond **if this** to **if this *and* this**.
 
 For example, [the below Applet](https://ifttt.com/applets/VDdNBmiE-get-a-notification-when-the-iss-passes-over-your-house-but-only-if-it-is-clear-skies-and-after-dark) uses a query and some filter code to notify you when the ISS passes overhead, but only if it's nighttime: 
 
@@ -29,7 +28,7 @@ For example, [the below Applet](https://ifttt.com/applets/VDdNBmiE-get-a-notific
 
 <iframe src="//www.youtube-nocookie.com/embed/wSWCouDyMhY" width="560" height="315" frameborder="0" allowfullscreen=""></iframe>
 
-## Do I need to use filter code to use a query?
+## Do I Need to Use Filter Code to Use a Query?
 
 Filter code is not required to use queries.
 
@@ -38,6 +37,5 @@ For example, the following Applet uses a Google Calendar query to send an email 
 -   Trigger: [Date & Time - Every day at](https://ifttt.com/date_and_time/triggers/every_day_at)
 -   Query: [Google Calendar - List Events For a Date](https://ifttt.com/google_calendar/queries/list_events_for_date)
 -   Action: [Email - Send me an email](https://ifttt.com/email/actions/send_me_email) 
-
 
 #ifttt 
