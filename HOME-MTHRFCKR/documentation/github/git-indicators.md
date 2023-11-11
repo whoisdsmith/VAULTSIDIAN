@@ -1,3 +1,5 @@
+# Git-indicators
+
 ## [Git Indicators](https://marketplace.visualstudio.com/items?itemName=lamartire.git-indicators)
 
 > Atom-like git indicators on active panel

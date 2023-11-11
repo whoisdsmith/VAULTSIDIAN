@@ -2,7 +2,7 @@
 tags: MOCs
 ---
 
-# MOC: gcp
+# MOC: Gcp
 
 ---
 

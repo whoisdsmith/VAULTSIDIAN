@@ -2,7 +2,7 @@
 tags: MOCs
 ---
 
-# MOC: fluentd
+# MOC: Fluentd
 
 ---
 

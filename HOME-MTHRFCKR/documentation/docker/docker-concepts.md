@@ -1,18 +1,12 @@
 # Docker
 
-
-## Important Resources must read before docker tutorial:
-
+## Important Resources Must Read before Docker Tutorial
 
 [A beginner friendly introduction to containers VMs and docker](https://medium.com/free-code-camp/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b)
 
 [Docker Tutorial with python](https://medium.com/hackernoon/docker-tutorial-getting-started-with-python-redis-and-nginx-81a9d740d091)
 
-
 ************************************
-
-
-
 
 - Why DOCKER?
 
@@ -47,12 +41,10 @@
 
     - Volumes are the “data” part of a container, initialized when a container is created. Volumes allow you to persist and share a container’s data. Data volumes are separate from the default Union File System and exist as normal directories and files on the host filesystem. So, even if you destroy, update, or rebuild your container, the data volumes will remain untouched. When you want to update a volume, you make changes to it directly. (As an added bonus, data volumes can be shared and reused among multiple containers, which is pretty neat.)
 
-
-
 - Microservice Architecture : 
 
     - The idea behind microservice is some application is easier to build and maintain where broken down to smaller parts.
-    - Each component is developed separately and done....
+    - Each component is developed separately and done….
 
     - Example : Online Shopping Service : 
 		- Account Service
@@ -63,14 +55,14 @@
 - Advantages of microservice architecture : 
 
 	- Building and maintenance is easy as broken down to smaller parts.
-	- If we need some new features or update in a module,
+	- If we need some new features or update in a module,  
 		 it is easier because dependencies will be less compared to the application as a whole.
 	- If any component go down, application will be largely unaffected.
 
 - What is the problem to adopting microservices :
 
-    - Before DOCKER : For microservice architecture we have a host machine and there are several virtual machines 
-				each virtual machine is for a microservice. So problem is that lots of resource waste.
+    - Before DOCKER : For microservice architecture we have a host machine and there are several virtual machines  
+				each virtual machine is for a microservice. So problem is that lots of resource waste.  
 				As we use more and more VMs for bigger application lots of disc space, RAM are unused.
 
 - How Docker solve this problem :
@@ -97,9 +89,9 @@
     - environment variables
     - configuration files
     
+
     ![docker image](https://github.com/Tikam02/DevOps-Guide/blob/master/img/container-layers.jpg)
 
-		
 - What is a container?
 
 	- A container is a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another.
@@ -114,9 +106,8 @@
 
     - Docker container is the actual running piece created from a docker image. The only difference between a docker image and a docker container is a top writable layer. When you create a new container, you add a new, thin, writable layer on top of the underlying stack. This layer is often called the “container layer”. All changes made to the running container — such as writing new files, modifying existing files, and deleting files — are written to this thin writable container layer. But once you delete the container, this top layer will be deleted as well. So it’s not persistent. The best thing with docker is that you can create a docker image using the current docker container with a commit. Hence, enabling us to capture system information and make it immutable so its reproducible anywhere. This solves many of the server related problems we encounter these days.
     
+
     ![Docker container](https://github.com/Tikam02/DevOps-Guide/blob/master/img/docker-image.png)  
-    
-  
 
 - Containers Vs VM
 
@@ -124,6 +115,7 @@
   
     - The Docker container platform is always running on top of the host operating system. Containers are containing the binaries, libraries, and the application itself. Containers do not contain a guest operating system which ensures that containers are lightweight.
   
+
     -In contrast virtual machines are running on a hypervisor (responsible for running virtual machines) and include it’s own guest operating system. This increased the size of the virtual machines significantly, makes setting up virtual machines more complex and requires more resources to run each virtual machine.
 
     ![container vs VM](https://github.com/Tikam02/DevOps-Guide/blob/master/img/dockervsvm.png)
@@ -148,12 +140,12 @@
 
     - We first write a Dockerfile which is like the definition of the image. Using the Dockerfile we create a docker image. We then push this image to Docker Hub and provide a unique tag that can be used to identify our image. Using this tag and image name, we can pull the docker image and deploy on another computer as a docker container.
 
-
 *******************************
 
 ## Working of Containers Deep-Dive
 
 * The term “container” is really just an abstract concept to describe how a few different features work together to visualize a “container”. Let’s run through them real quick:
+
 - 1) Namespaces
 
     - Namespaces provide containers with their own view of the underlying Linux system, limiting what the container can see and access. When you run a container, Docker creates namespaces that the specific container will use.
@@ -183,7 +175,3 @@
       - Layered systems offer two main benefits:
           - 1. Duplication-free: layers help avoid duplicating a complete set of files every time you use an image to create and run a new container, making instantiation of docker containers very fast and cheap.
           - 2. Layer segregation: Making a change is much faster — when you change an image, Docker only propagates the updates to the layer that was changed.
-    
-    
-
-    

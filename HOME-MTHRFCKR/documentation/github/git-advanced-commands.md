@@ -1,6 +1,6 @@
 # Git Advanced Commands
 
-### Branching & Rebasing & squashing
+## Branching & Rebasing & Squashing
 
 | Command | Description |
 | ------- | ----------- |
@@ -12,7 +12,7 @@
 | `git cherry-pick [commit hash]` | Apply the changes from any branche's commit to the target branch. |
 | `git config branch.[branch name].rebase true` | Set a specific branch to always use the `rebase` strategy. |
 
-### Fixing mistakes & destructive
+## Fixing Mistakes & Destructive
 
 | Command | Description |
 | ------- | ----------- |

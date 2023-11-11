@@ -2,9 +2,9 @@
 
 A collection of cool hidden and not so hidden features of Git and GitHub. This cheat sheet was inspired by [Zach Holman](https://github.com/holman)'s [Git and GitHub Secrets](http://confreaks.tv/videos/aloharuby2012-git-and-github-secrets) talk at Aloha Ruby Conference 2012 ([slides](https://speakerdeck.com/holman/git-and-github-secrets)) and his [More Git and GitHub Secrets](https://vimeo.com/72955426) talk at WDCNZ 2013 ([slides](https://speakerdeck.com/holman/more-git-and-github-secrets)).
 
-_Shortlink: [`http://git.io/sheet`](http://git.io/sheet)_
+*Shortlink: [`http://git.io/sheet`](http://git.io/sheet)*
 
-_Read this in other languages: [English](../../Snippets/markdown-snippets/README.md), [한국어](README.ko.md), [日本語](README.ja.md), [简体中文](README.zh-cn.md), [正體中文](README.zh-tw.md)._
+*Read this in other languages: [English](../../Snippets/markdown-snippets/README.md), [한국어](README.ko.md), [日本語](README.ja.md), [简体中文](README.zh-cn.md), [正體中文](README.zh-tw.md).*
 
 ## Table of Contents
 
@@ -99,7 +99,7 @@ Here is a Go source file before adding `?ts=4`:
 
 ![Before, tab space example](http://i.imgur.com/GIT1Fr0.png)
 
-...and this is after adding `?ts=4`:
+…and this is after adding `?ts=4`:
 
 ![After, tab space example](http://i.imgur.com/70FL4H9.png)
 
@@ -125,13 +125,13 @@ git clone https://github.com/tiimgreen/github-cheat-sheet
 
 ### Branch
 
-#### Compare all Branches to Another Branch
+#### Compare All Branches to Another Branch
 
 If you go to the repo's [Branches](https://github.com/tiimgreen/github-cheat-sheet/branches) page, next to the Commits button:
 
     https://github.com/{user}/{repo}/branches
 
-... you would see a list of all branches which are not merged into the main branch.
+… you would see a list of all branches which are not merged into the main branch.
 
 From here you can access the compare page or delete a branch with a click of a button.
 
@@ -143,7 +143,7 @@ To use GitHub to compare branches, change the URL to look like this:
 
     https://github.com/{user}/{repo}/compare/{range}
 
-where `{range} = master...4-1-stable`
+where `{range} = master…4-1-stable`
 
 For example:
 
@@ -156,7 +156,7 @@ For example:
     https://github.com/rails/rails/compare/master@{1.day.ago}...master
     https://github.com/rails/rails/compare/master@{2014-10-04}...master
 
-_Here, dates are in the format `YYYY-MM-DD`_
+*Here, dates are in the format `YYYY-MM-DD`*
 
 ![Another compare example](http://i.imgur.com/5dtzESz.png)
 
@@ -185,7 +185,7 @@ For example:
 
 ![Gist](http://i.imgur.com/VkKI1LC.png?1)
 
-Add `.pibb` to the end of any Gist URL ([like this](https://gist.github.com/tiimgreen/10545817.pibb)) in order to get the _HTML-only_ version suitable for embedding in any other site.
+Add `.pibb` to the end of any Gist URL ([like this](https://gist.github.com/tiimgreen/10545817.pibb)) in order to get the *HTML-only* version suitable for embedding in any other site.
 
 Gists can be treated as a repository so they can be cloned like any other:
 
@@ -204,7 +204,7 @@ Username for 'https://gist.github.com':
 Password for 'https://tiimgreen@gist.github.com':
 ```
 
-However, Gists do not support directories. All files need to be added to the repository root.
+However, Gists do not support directories. All files need to be added to the repository root.  
 [_Read more about creating Gists._](https://help.github.com/articles/creating-gists/)
 
 ### Git.io
@@ -311,7 +311,7 @@ Additionally, this also works for pull requests:
 
 `is:pr -label:activerecord`
 
-Github has tabs for displaying open or closed issues and pull requests but you
+Github has tabs for displaying open or closed issues and pull requests but you  
 can also see merged pull requests.  Just put the following in the filter:
 
 `is:merged`
@@ -354,7 +354,7 @@ GitHub uses [Linguist](https://github.com/github/linguist) to perform language d
 
 Emojis can be added to Pull Requests, Issues, commit messages, repository descriptions, etc. using `:name_of_emoji:`.
 
-The full list of supported Emojis on GitHub can be found at [emoji-cheat-sheet.com](http://www.emoji-cheat-sheet.com/) or [scotch-io/All-Github-Emoji-Icons](https://github.com/scotch-io/All-Github-Emoji-Icons).
+The full list of supported Emojis on GitHub can be found at [emoji-cheat-sheet.com](http://www.emoji-cheat-sheet.com/) or [scotch-io/All-Github-Emoji-Icons](https://github.com/scotch-io/All-Github-Emoji-Icons).  
 A handy emoji search engine can be found at [emoji.muan.co](http://emoji.muan.co/).
 
 The top 5 used Emojis on GitHub are:
@@ -401,7 +401,7 @@ When on a comment thread and you want to quote something someone previously said
 
 ### Pasting Clipboard Image to Comments
 
-_(Works on Chrome browsers only)_
+*(Works on Chrome browsers only)*
 
 After taking a screenshot and adding it to the clipboard (mac: `cmd-ctrl-shift-4`), you can simply paste (`cmd-v / ctrl-v`) the image into the comment section and it will be auto-uploaded to github.
 
@@ -490,7 +490,7 @@ The Jemoji and jekyll-mentions plugins enable [emoji](#emojis) and [@mentions](h
 
 [_Read more about repository metadata and plugin support for GitHub Pages._](https://github.com/blog/1797-repository-metadata-and-plugin-support-for-github-pages)
 
-### Viewing YAML Metadata in your Documents
+### Viewing YAML Metadata in Your Documents
 
 Many blogging websites, like [Jekyll](http://jekyllrb.com/) with [GitHub Pages](https://pages.github.com), depend on some YAML-formatted metadata at the beginning of your post. GitHub will render this metadata as a horizontal table, for easier reading
 
@@ -528,7 +528,7 @@ You can revert it by clicking the **Revert** button on the right side of a commi
 
 #### Rendered Prose Diffs
 
-Commits and pull requests, including rendered documents supported by GitHub (e.g., Markdown), feature _source_ and _rendered_ views.
+Commits and pull requests, including rendered documents supported by GitHub (e.g., Markdown), feature *source* and *rendered* views.
 
 ![Source / Rendered view](https://github-images.s3.amazonaws.com/help/repository/rendered_prose_diff.png)
 
@@ -548,7 +548,7 @@ Any time you view a commit or pull request on GitHub that includes geodata, GitH
 
 #### Expanding Context in Diffs
 
-Using the _unfold_ button in the gutter of a diff, you can reveal additional lines of context with a click. You can keep clicking _unfold_ until you've revealed the whole file, and the feature is available anywhere GitHub renders diffs.
+Using the *unfold* button in the gutter of a diff, you can reveal additional lines of context with a click. You can keep clicking *unfold* until you've revealed the whole file, and the feature is available anywhere GitHub renders diffs.
 
 ![Expanding Context in Diffs](https://f.cloud.github.com/assets/22635/1610539/863c1f64-5584-11e3-82bf-151b406a272f.gif)
 
@@ -556,7 +556,7 @@ Using the _unfold_ button in the gutter of a diff, you can reveal additional lin
 
 #### Diff or Patch of Pull Request
 
-You can get the diff of a Pull Request by adding a `.diff` or `.patch`
+You can get the diff of a Pull Request by adding a `.diff` or `.patch`  
 extension to the end of the URL. For example:
 
     https://github.com/tiimgreen/github-cheat-sheet/pull/15
@@ -582,7 +582,7 @@ The `.diff` extension would give you this in plain text:
 
     (...)
 
-#### Rendering and diffing images
+#### Rendering and Diffing Images
 
 GitHub can display several common image formats, including PNG, JPG, GIF, and PSD. In addition, there are several ways to compare differences between versions of those image formats.
 
@@ -604,7 +604,7 @@ hub clone tiimgreen/toc
 
 ### Contribution Guidelines
 
-GitHub supports adding 3 different files which help users contribute to your project.
+GitHub supports adding 3 different files which help users contribute to your project.  
 These files can either be placed in the root of your repository or a `.github` directory under the root.
 
 #### CONTRIBUTING File
@@ -615,7 +615,7 @@ Adding a `CONTRIBUTING` or `CONTRIBUTING.md` file to either the root of your rep
 
 [_Read more about contributing guidelines._](https://github.com/blog/1184-contributing-guidelines)
 
-#### ISSUE_TEMPLATE file
+#### ISSUE_TEMPLATE File
 
 You can define a template for all new issues opened in your project. The content of this file will pre-populate the new issue box when users create new issues. Add an `ISSUE_TEMPLATE` or `ISSUE_TEMPLATE.md` file to either the root of your repository or a `.github` directory.
 
@@ -625,7 +625,7 @@ You can define a template for all new issues opened in your project. The content
 
 ![GitHub Issue template](https://cloud.githubusercontent.com/assets/25792/13120859/733479fe-d564-11e5-8a1f-a03f95072f7a.png)
 
-#### PULL_REQUEST_TEMPLATE file
+#### PULL_REQUEST_TEMPLATE File
 
 You can define a template for all new pull requests opened in your project. The content of this file will pre-populate the text area when users create pull requests. Add a `PULL_REQUEST_TEMPLATE` or `PULL_REQUEST_TEMPLATE.md` file to either the root of your repository or a `.github` directory.
 
@@ -671,7 +671,7 @@ If you are a student you will be eligible for the GitHub Student Developer Pack.
 | Git and GitHub Secrets                          | <https://www.youtube.com/watch?v=Foz9yvMkvlA> |
 | More Git and GitHub Secrets                     | <https://www.youtube.com/watch?v=p50xsL-iVgU> |
 
-### SSH keys
+### SSH Keys
 
 You can get a list of public ssh keys in plain text format by visiting:
 
@@ -868,7 +868,7 @@ produces:
 
 Credit to [Palesz](http://stackoverflow.com/users/88355/palesz)
 
-_This can be aliased using the instructions found [here](https://github.com/tiimgreen/github-cheat-sheet#aliases)._
+*This can be aliased using the instructions found [here](https://github.com/tiimgreen/github-cheat-sheet#aliases).*
 
 [_Read more about the Git `log` command._](http://git-scm.com/docs/git-log)
 
@@ -888,7 +888,7 @@ git show :/typo
 
 ![git show :/query](http://i.imgur.com/icaGiNt.png)
 
-_Press `q` to quit._
+*Press `q` to quit.*
 
 ### Git Grep
 
@@ -900,11 +900,11 @@ Running:
 git grep aliases
 ```
 
-will show all the files containing the string _aliases_.
+will show all the files containing the string *aliases*.
 
 ![git grep aliases](http://i.imgur.com/DL2zpQ9.png)
 
-_Press `q` to quit._
+*Press `q` to quit.*
 
 You can also use multiple flags for more advanced search. For example:
 
@@ -948,7 +948,7 @@ git commit --fixup=abcde
 git rebase abcde^ --autosquash -i
 ```
 
-[_Read more about the Git `commit` command._](http://git-scm.com/docs/git-commit)
+[_Read more about the Git `commit` command._](http://git-scm.com/docs/git-commit)  
 [_Read more about the Git `rebase` command._](http://git-scm.com/docs/git-rebase)
 
 ### Web Server for Browsing Local Repositories
@@ -984,7 +984,7 @@ To add an alias, either navigate to `~/.gitconfig` and fill it out in the follow
       branches = branch -a
       remotes = remote -v
 
-...or type in the command-line:
+…or type in the command-line:
 
 ```bash
 git config --global alias.new_alias git_function
@@ -1016,7 +1016,7 @@ Some useful aliases include:
 | `git remotes`  | `git remote -v`                                                                                                                              | `git config --global alias.remotes 'remote -v'`                                                                                                                         |
 | `git lg`       | `git log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --` | `git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --"` |
 
-_Some Aliases are taken from [@mathiasbynens](https://github.com/mathiasbynens) dotfiles: <https://github.com/mathiasbynens/dotfiles/blob/master/.gitconfig>_
+*Some Aliases are taken from [@mathiasbynens](https://github.com/mathiasbynens) dotfiles: <https://github.com/mathiasbynens/dotfiles/blob/master/.gitconfig>*
 
 #### Auto-Correct
 

@@ -1,6 +1,11 @@
+# Readme
+
 ## Docker Tutorial
+
 **********
-### Table of Contents:
+
+### Table of Contents
+
 1. [Basic Concept of Images and Containers](https://github.com/Tikam02/DevOps-Guide/blob/master/Container-orchestration/Docker/docker-concepts.md)
 2. [Docker Setup](#2-setting-up-docker)
 3. [Developing Fullstack WebApp With Node-js](#3-flask-web-app)
@@ -8,10 +13,9 @@
 5. [Running Docker Image](#5-runnig-up-the-docker-image)
 6. [Push to Docker-hub](#6-pushing-image-to-dockerhub)
 
-
 *****************
 
-## 1. Basic concepts of docker - Containers and Images 
+## 1. Basic Concepts of Docker - Containers and Images
 
 - Detailed Docker concepts and notes from here - [Docker Concepts](https://github.com/Tikam02/DevOps-Guide/blob/master/Container-orchestration/Docker/docker-concepts.md)
 
@@ -23,14 +27,11 @@
 
 	- Basic Design:
 
-		Hardware --> Operating System --> Container Engine --> Bins/Libs --> App1
-														   --> Bins/Libs --> App2
+		Hardware --> Operating System --> Container Engine --> Bins/Libs --> App1  
+														   --> Bins/Libs --> App2  
 														   --> Bins/Libs --> App3
 
-
-
 ## 2. Setting up Docker
-
 
 - Installation on ubuntu:
 
@@ -46,17 +47,13 @@ sudo apt-get install docker.io
 
  ``` $ docker version ```
 
-
 - Docker container lifecycle:
-  - Processes: pull and image from Docker hub into a system where docker engine is installed.
-			whatever we downloaded from Docker hub is an image of a container.
-			Run the image. (The moment we run the image it becomes container)
+  - Processes: pull and image from Docker hub into a system where docker engine is installed.  
+			whatever we downloaded from Docker hub is an image of a container.  
+			Run the image. (The moment we run the image it becomes container)  
 			Can run,stop,delete 
-      
 
-  
 ## 3. Node Web App
-
 
   - Let's not waste our precious time building node.js web app just see the node app folder and run into your local system:
 
@@ -70,8 +67,6 @@ sudo apt-get install docker.io
 
   - Go to http://localhost:8080
 
-  
-  
 ## 4. Writing Dockerfile
 
 - Your Dockerfile specifies what will be included in your application container when it is executed. Using a Dockerfile allows you to define your container environment and avoid discrepancies with dependencies or runtime versions.
@@ -83,6 +78,7 @@ sudo apt-get install docker.io
 ``` nano dockerfile ```
 
 			or 
+
 ``` touch dockerfile```
 
 - Docker images are created using a succession of layered images that build on one another. Our first step will be to add the base image for our application that will form the starting point of the application build.
@@ -92,6 +88,7 @@ sudo apt-get install docker.io
 - Add the following FROM instruction to set the application’s base image:
 
 ``` FROM node:10-alpine```
+
 - This image includes Node.js and npm. Each Dockerfile must begin with a FROM instruction.
 
 - By default, the Docker Node image includes a non-root node user that you can use to avoid running your application container as root. It is a recommended security practice to avoid running containers as root and to restrict capabilities within the container to only those required to run its processes. We will therefore use the node user’s home directory as the working directory for our application and set them as our user inside the container. For more information about best practices when working with the Docker Node image, see this best practices guide.
@@ -105,6 +102,7 @@ sudo apt-get install docker.io
 - Next, set the working directory of the application to /home/node/app:
 
 ``` WORKDIR /home/node/app ```
+
 - If a WORKDIR isn’t set, Docker will create one by default, so it’s a good idea to set it explicitly.
 
 - Next, copy the package.json and package-lock.json (for npm 5+) files:
@@ -120,6 +118,7 @@ sudo apt-get install docker.io
 - After copying the project dependencies and switching our user, we can run npm install:
 
 ``` RUN npm install```
+
 - Next, copy your application code with the appropriate permissions to the application directory on the container:
 
 ``` COPY --chown=node:node . . ```
@@ -158,10 +157,8 @@ sudo apt-get install docker.io
 
 		CMD [ "node", "app.js" ]
 	```
-  
 
-
-## 5. Running Up the docker image
+## 5. Running Up the Docker Image
 
   - You are now ready to build the application image using the docker build command. Using the -t flag with docker build will allow you to tag the image with a memorable name. Because we are going to push the image to Docker Hub, let’s include our Docker Hub username in the tag. We will tag the image as nodejs-image-demo, but feel free to replace this with a name of your own choosing. Remember to also replace your_dockerhub_username with your own Docker Hub username:
 
@@ -175,8 +172,8 @@ sudo apt-get install docker.io
 
  - It is now possible to create a container with this image using docker run. We will include three flags with this command:
 
-    -p: This publishes the port on the container and maps it to a port on our host. We will use port 80 on the host, but you should feel free to modify this as necessary if you have another process running on that port. For more information about how this works, see this discussion in the Docker docs on port binding.
-    -d: This runs the container in the background.
+    -p: This publishes the port on the container and maps it to a port on our host. We will use port 80 on the host, but you should feel free to modify this as necessary if you have another process running on that port. For more information about how this works, see this discussion in the Docker docs on port binding.  
+    -d: This runs the container in the background.  
     --name: This allows us to give the container a memorable name.
 
 - Run the following command to build the container:
@@ -187,14 +184,8 @@ sudo apt-get install docker.io
 
    ``` $ docker ps ```
 
-
- 
-
 - With your container running, you can now visit your application by navigating your browser to http://your_server_ip. You will see your application landing page once again:
 
-
-
-  
 ## 6 Pushing Image To Dockerhub
 
 - By pushing your application image to a registry like Docker Hub, you make it available for subsequent use as you build and scale your containers. We will demonstrate how this works by pushing the application image to a repository and then using the image to recreate our container.
@@ -242,6 +233,3 @@ sudo apt-get install docker.io
 - Now run the pulled image from your dockerhub repo:
 
 ``` $ docker run --name nodejs-image-demo -p 80:8080 -d your_dockerhub_username/nodejs-image-demo ```
-
-
-

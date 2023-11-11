@@ -8,6 +8,7 @@ author:
 # Take Your Github Repository To The Next Level - DEV Community
 
 ---
+
 I’ve been using Github for a very long time now, and along the way I’ve been gathering a step-by-step guide on creating the perfect Github repository. If you haven’t guessed already, this article is an enhanced version of that guide.
 
 So without further ado, let’s get started!
@@ -71,7 +72,7 @@ Here are 12 helpful suggestions on how to come up with a winning name for your p
 
 [![Cover](https://res.cloudinary.com/practicaldev/image/fetch/s--0Yeqx3x5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6i0zgv6zcb1zcwnqfvze.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0Yeqx3x5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6i0zgv6zcb1zcwnqfvze.png)
 
-There’s no doubt that projects with eye-catching images _usually_ perform better than those without these elements.
+There’s no doubt that projects with eye-catching images *usually* perform better than those without these elements.
 
 Users are more likely to support a project that has an attention-grabbing cover image, because it creates a sense of professionalism and creativity.
 
@@ -146,7 +147,7 @@ And there’s a wide variety of free tools that you can use to create said video
 
 > 👇 **Share with us your Github repository in the comments and I’ll add it here!**
 
-## [](https://dev.to/eludadev/take-your-github-repository-to-the-next-level-17ge?signin=true#step-6-create-a-detailed-installation-guide-whitecheckmark-optional)Step 6. Create A Detailed Installation Guide ✅ _(optional)_
+## [](https://dev.to/eludadev/take-your-github-repository-to-the-next-level-17ge?signin=true#step-6-create-a-detailed-installation-guide-whitecheckmark-optional)Step 6. Create A Detailed Installation Guide ✅ *(optional)*
 
 [![Installation](https://res.cloudinary.com/practicaldev/image/fetch/s--Ik-NZbU6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/35vo9t0amck2rlcvevfz.gif)](https://res.cloudinary.com/practicaldev/image/fetch/s--Ik-NZbU6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/35vo9t0amck2rlcvevfz.gif)
 
@@ -184,8 +185,9 @@ This section, also called the **“FAQ”** (frequently asked questions), should
 
 | Repository | FAQ |
 | --- | --- |
-| [choojs/choo](https://github.com/choojs/choo#readme) | Why is it called Choo?  
-Is it called Choo, Choo.js or...?  
+| [choojs/choo](https://github.com/choojs/choo#readme) | Why is it called Choo?    
+
+Is it called Choo, Choo.js or…?  
 Does Choo use a virtual-dom? |
 
 ## [](https://dev.to/eludadev/take-your-github-repository-to-the-next-level-17ge?signin=true#step-9-build-a-supportive-community-hugs)Step 9. Build A Supportive Community 🤗
@@ -200,7 +202,7 @@ Here are 3 general steps towards building a great community for your project:
 
 Add a “Let’s Connect!” section to your README, where you reveal several links to the platforms where your community resides: [Discord](https://discord.com/), [Gitter](https://gitter.im/), [Slack](https://slack.com/), or even simply an email address!
 
-### [](https://dev.to/eludadev/take-your-github-repository-to-the-next-level-17ge?signin=true#step-92-discussions-optional)Step 9.2 - Discussions _(optional)_
+### [](https://dev.to/eludadev/take-your-github-repository-to-the-next-level-17ge?signin=true#step-92-discussions-optional)Step 9.2 - Discussions *(optional)*
 
 You can use GitHub Discussions in a repository as a place for your community to have conversations, ask questions, and post answers without scoping work in an issue.
 
@@ -212,7 +214,7 @@ You can use GitHub Discussions in a repository as a place for your community to 
 
 Adopt a code of conduct to define community standards, signal a welcoming and inclusive project, and outline procedures for handling abuse.
 
-A _code of conduct_ defines standards for how to engage in a community. It signals an inclusive environment that respects all contributions.
+A *code of conduct* defines standards for how to engage in a community. It signals an inclusive environment that respects all contributions.
 
 You should have a `CODE_OF_CONDUCT.md` file in your repo that explains all the details that need to be known.
 
@@ -279,32 +281,32 @@ What features are you going to add in the next version? When do you plan to rele
 Github has a [releases feature](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases) that lets you show a history of your project’s versions. In every release, you should [write a changelog](https://keepachangelog.com/en/1.0.0/) that describes what’s new and what was removed from that version.
 
 > ### [](https://dev.to/eludadev/take-your-github-repository-to-the-next-level-17ge?signin=true#how-do-i-make-a-good-changelog)How do I make a good changelog?
->
+> 
 > #### [](https://dev.to/eludadev/take-your-github-repository-to-the-next-level-17ge?signin=true#guiding-principles)Guiding Principles
->
-> - Changelogs are _for humans_, not machines.
+> 
+> - Changelogs are *for humans*, not machines.
 > - There should be an entry for every single version.
 > - The same types of changes should be grouped.
 > - Versions and sections should be linkable.
 > - The latest version comes first.
 > - The release date of each version is displayed.
 > - Mention whether you follow [Semantic Versioning](https://semver.org/).
->
+> 
 > #### [](https://dev.to/eludadev/take-your-github-repository-to-the-next-level-17ge?signin=true#types-of-changes)Types of changes
->
+> 
 > - `Added` for new features.
->
+> 
 > - `Changed` for changes in existing functionality.
->
+> 
 > - `Deprecated` for soon-to-be removed features.
->
+> 
 > - `Removed` for now removed features.
->
+> 
 > - `Fixed` for any bug fixes.
->
+> 
 > - `Security` in case of vulnerabilities.
->
->
+> 
+> 
 > — [keepachangelog.com](https://keepachangelog.com/en/1.0.0/)
 
 ### [](https://dev.to/eludadev/take-your-github-repository-to-the-next-level-17ge?signin=true#examples)Examples
@@ -329,7 +331,7 @@ Until you add an image, repository links expand to show basic information about 
 
 [![Pages](https://res.cloudinary.com/practicaldev/image/fetch/s--LWbyimiv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/haarun5emxaavzv3hjd6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LWbyimiv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/haarun5emxaavzv3hjd6.png)
 
-After doing all of the above tasks, there’s really only one step left that can _really_ take your repository to the next level: **launching a website!**
+After doing all of the above tasks, there’s really only one step left that can *really* take your repository to the next level: **launching a website!**
 
 You can use [Github Pages](https://pages.github.com/) to freely host a website straight from your repository. Creating a custom webpage for your project allows you to be more creative, and dramatically increases your chances to be discovered by search engines.
 
@@ -355,12 +357,12 @@ Those were 15 steps towards creating a killer Github repository. They’re not r
 ](<https://dev.to/eludadev>)
 
 > ![unknown tweet media content](https://res.cloudinary.com/practicaldev/image/fetch/s--HWrEmTbZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/FTD028VWUAMfpod.jpg)
->
+> 
 > Aloha, web developers! 👋  
 > If you struggle with memorizing the whopping amount of selectors out there, know that you'r not alone.
->
+> 
 > I have a cure for this problem. It's literally free. Print it. Make it your desktop background. Or even print it on a t-shirt. It's yours forever.
->
+> 
 > 18:14 PM - 18 May 2022
->
+> 
 > [![Twitter reply action](https://res.cloudinary.com/practicaldev/image/fetch/s--fFnoeFxk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev.to/assets/twitter-reply-action-238fe0a37991706a6880ed13941c3efd6b371e4aefe288fe8e0db85250708bc4.svg)](https://twitter.com/intent/tweet?in_reply_to=1526989502199234567)[![Twitter retweet action](https://res.cloudinary.com/practicaldev/image/fetch/s--k6dcrOn8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev.to/assets/twitter-retweet-action-632c83532a4e7de573c5c08dbb090ee18b348b13e2793175fea914827bc42046.svg) ](https://twitter.com/intent/retweet?tweet_id=1526989502199234567)[![Twitter like action](https://res.cloudinary.com/practicaldev/image/fetch/s--SRQc9lOp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev.to/assets/twitter-like-action-1ea89f4b87c7d37465b0eb78d51fcb7fe6c03a089805d7ea014ba71365be5171.svg)](https://twitter.com/intent/like?tweet_id=1526989502199234567)

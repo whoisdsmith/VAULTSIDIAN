@@ -1,5 +1,6 @@
+# Docker-commands
 
-### Docker Build & Run  ![Docker](https://img.shields.io/badge/Docker-Build-blue?style=for-the-badge)
+## Docker Build & Run ![Docker](https://img.shields.io/badge/Docker-Build-blue?style=for-the-badge)
 
 - Create image using this directory’s Dockerfile
 
@@ -83,7 +84,7 @@
 
 *********************************************
 
-### Docker Compose  ![Docker](https://img.shields.io/badge/Docker-Compose-blue?style=for-the-badge)
+## Docker Compose ![Docker](https://img.shields.io/badge/Docker-Compose-blue?style=for-the-badge)
 
 - Build Docker Images using Docker Compose file
 
@@ -117,10 +118,9 @@
 
 ``` docker-compose logs ```
 
-
 ******************************************************
 
-### Docker Swarm  ![Docker](https://img.shields.io/badge/Docker-Swarm-blue?style=for-the-badge)
+## Docker Swarm ![Docker](https://img.shields.io/badge/Docker-Swarm-blue?style=for-the-badge)
 
 - Initialize
 
@@ -156,12 +156,12 @@
 
 - Docker Swarm Service list
 
-``` docker service ls ```
+``` docker service ls ```  
 ``` alias dsls='docker service ls' ```
 
 - List the tasks of one or more services
 
-``` docker service ps <service_name>  ```
+``` docker service ps <service_name>  ```  
 ``` alias dsp='docker service ps' ```
 
 - Docker Swarm Service logs
@@ -188,42 +188,41 @@
 
 ``` docker config create <CONFIG_NAME> <CONFIG_FILE_PATH> ```
 
-
-
-
-### To delete all containers including its volumes use,
+## To Delete All Containers including Its Volumes Use
 
 ```docker rm -vf $(docker ps -a -q)```
 
-###  To delete all the images,
+## To Delete All the Images
 
 ```docker rmi -f $(docker images -a -q)```
 
 > Remember, you should remove all the containers before removing all the images from which those containers were created.
 
-### In case you are working on Windows (Powershell),
+## In case You Are Working on Windows (Powershell)
 
 ```bash
 $images = docker images -a -q
 foreach ($image in $images) { docker image rm $image -f }
 ```
-### To delete all images
+
+## To Delete All Images
 
 ```docker rmi $(docker images -a)```
 
-### To delete containers which are in exited state
+## To Delete Containers Which Are in Exited State
 
 ```docker rm $(docker ps -a -f status=exited -q)```
 
-### To delete containers which are in created state
+## To Delete Containers Which Are in Created State
 
 ```docker rm $(docker ps -a -f status=created -q)```
 
 > NOTE: Remove all the containers then remove the images 
 
+## Docker Run Bash Shell of Image
 
-### Docker run bash shell of image
 ```docker run -it --entrypoint bash <image-name>```
 
-### List all docker commands
+## List All Docker Commands
+
 ``` docker --help ```

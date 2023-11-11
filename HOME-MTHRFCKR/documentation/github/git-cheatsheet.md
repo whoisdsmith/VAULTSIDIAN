@@ -1,3 +1,5 @@
+# Git-cheatsheet
+
 ![Cover image for GIT CHEATSHEET](https://res.cloudinary.com/practicaldev/image/fetch/s--koMw51J7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sfoahn4fqdfslzx84n2j.jpg)
 
 [![Danish Saleem](https://res.cloudinary.com/practicaldev/image/fetch/s--zz42Ir94--/c_fill,f_auto,fl_progressive,h_50,q_auto,w_50/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/737886/dccf72d2-2109-4ecf-ac48-3ca61496004f.jpg)](https://dev.to/mrdanishsaleem)
@@ -236,7 +238,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 * * *
 
-## [](https://dev.to/mrdanishsaleem/git-cheatsheet-4kpn#lets-connect)Let's connect
+## [](https://dev.to/mrdanishsaleem/git-cheatsheet-4kpn#lets-connect)Let's Connect
 
 You can follow me on [Twitter](https://twitter.com/MrDanishSaleem), [LinkedIn](https://www.linkedin.com/in/mrdanishsaleem/) & [GitHub](https://github.com/mrdanishsaleem/)
 

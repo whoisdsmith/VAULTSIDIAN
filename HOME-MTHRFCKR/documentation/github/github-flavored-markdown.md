@@ -1,6 +1,8 @@
+# Github-flavored-markdown
+
 ## GitHub Flavored Markdown
 
-_CommonMark with GitHub Extensions_
+*CommonMark with GitHub Extensions*
 
 **GitHub Flavored Markdown (GFM)**
 
