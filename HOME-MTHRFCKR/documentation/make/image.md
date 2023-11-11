@@ -1,14 +1,16 @@
+# Image
+
 -   [Make Help Center](https://www.make.com/en/help/index-en.html)
 -   [Tools](https://www.make.com/en/help/tools.html)
 -   Image
 
-## Getting started with Image
+## Getting Started with Image
 
 Image by Make lets you get information about a specific image (dimensions, type, and etc.), and directly change the size of the image.
 
-## Possible problems
+## Possible Problems
 
-### Action terminated with an error
+### Action Terminated with an Error
 
 There are three cases when an action can terminate with an error:
 

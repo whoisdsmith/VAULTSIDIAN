@@ -1,4 +1,4 @@
-# code-spans
+# Code-spans
 
 {{($page.frontmatter.start = 338) ? null : null}}
 

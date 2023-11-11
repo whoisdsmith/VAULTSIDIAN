@@ -1,4 +1,4 @@
-# atx-headings
+# Atx-headings
 
 {{($page.frontmatter.start = 32) ? null : null}}
 

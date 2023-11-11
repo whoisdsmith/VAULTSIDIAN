@@ -1,13 +1,15 @@
+# Readme
+
 ## Kubernetes Deployment Tutorial
+
 *************
 
-### Kubernetes Deplyoment Tutorials:
+### Kubernetes Deplyoment Tutorials
 
 - [The First Introduction to Kubernetes](https://medium.com/faun/the-first-introduction-to-kubernetes-62d26f99caff)
 - [A Gentle Introduction to Kubernetes](https://medium.com/faun/a-gentle-introduction-to-kubernetes-4961e443ba26) 
   - learn how to deploy Kubernetes services and Ambassador API gateway
   - [Github Workshop Repo](https://github.com/eon01/kubernetes-workshop?ref=hackr.io)
-
 
 - [Learning Path Kubernetes](https://developer.ibm.com/series/kubernetes-learning-path/)
   - If you're new to Kubernetes and container orchestration and want to begin learning about it, this learning path covers everything from basic prerequisites to more advanced skills needed for containerization.
@@ -41,7 +43,7 @@
         - [How to Setup a Nginix Ingress with Cert-Manager on DigitalOcean Kubernetes](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-nginx-ingress-with-cert-manager-on-digitalocean-kubernetes)
         - [How to Inspect Kubernetes Networking](https://www.digitalocean.com/community/tutorials/how-to-inspect-kubernetes-networking)
 
-### References:
+### References
 
 [Megalix Blog](https://www.magalix.com/blog/the-best-kubernetes-tutorials)
 

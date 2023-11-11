@@ -1,15 +1,16 @@
+# Xml
+
 -   [Make Help Center](https://www.make.com/en/help/index-en.html)
 -   [Tools](https://www.make.com/en/help/tools.html)
 -   XML
 
-## Getting started with XML
+## Getting Started with XML
 
 The **XML** app enables you to:
 
 -   parse an XML formatted text via the **XML > Parse XML**module and convert it to a bundle to make the data available to other modules
     
 -   convert a bundle to an XML formatted text via the **XML > Create XML** module
-    
 
 ## Parsing XML
 
@@ -34,9 +35,8 @@ A typical use case is to download an XML file from a URL and parse its content. 
 5.  Add **XML > Parse XML** module, connect it after the **HTTP > Get a file** module and configure it as follows:
     
     <table><tbody><tr><td><p><span><strong>Data structure</strong></span></p></td><td><div id="UUID-af87d31a-22de-99f6-1e0b-998efaeebd0d_procedure-idm45601673608208328314600592"><ol type="1"><li><p>Click on <span><strong>Add</strong></span>.</p></li><li><p>Click on <span><strong>Generator</strong></span></p></li><li><p>In your web browser, open a new tab/window.</p></li><li><p>Put the URL you used in the third step in the address bar and fetch the XML file.</p></li><li><p>Select all the XML text and copy it into the clipboard.</p></li><li><p>Close the tab/window and get back to your <span>scenario</span></p></li><li><p>Paste the copied XML text into the&nbsp;<span><strong>Sample data</strong></span>&nbsp;field.</p></li><li><p>Click on <span><strong>Save</strong></span>.</p></li><li><p>Verify that the Data structure has been successfully generated.</p></li><li><p>Click on <span><strong>Save</strong></span> to save the Data structure.</p></li></ol></div><div dir="ltr"><h3>Note</h3><p>You may skip the steps 2-9 to supply an empty data structure. This way the output of the module will not be available in the mapping panel until the module has been executed at least once to process an XML input.</p></div></td></tr><tr><td><p><span><strong>XML</strong></span></p></td><td><p>Map the <code>Data</code> item from the output of the&nbsp;<span><strong>HTTP &gt; Get a file</strong></span>&nbsp;into the field. Use the <code>toString()</code> function to convert its value from&nbsp;Buffer (binary data)&nbsp;type to&nbsp;Text&nbsp;type.</p><p>You may copy and paste the formula's code into the field: <code>{{toString(1.data)}}</code></p></td></tr></tbody></table>
-    
 
-### Parsing XML attributes
+### Parsing XML Attributes
 
 By default, the  **XML > Parse XML** module will put attributes in a special collection `_attributes` as a child of the node, that has these attributes. If the node is a text node and it has attributes, then two special properties will be added: `_attributes` for attributes and `_value` for the text content of the node.
 
@@ -81,9 +81,8 @@ A typical use case is to transform data from a Google spreadsheet into XML. Here
 9.  Click on the **OK** to close the **Array Aggregator** module's setup.
     
 10.  Run the scenario. If everything goes well, the **XML** module should output the correct XML file. Open the setup of the **Google Sheets** module and increase the **Maximum number of returned rows** number to be larger than the number of rows in your spreadsheet to process all the data. The resulting XML can be then saved to Dropbox, sent as an attachment via email, uploaded via FTP to a server, etc.
-    
 
-### Adding XML attributes
+### Adding XML Attributes
 
 If you want to add attributes to a complex node (a node, that will contain other nodes), you have to add a collection with the name `_attributes` for this node in your custom Data structure, and this collection will be mapped to node attributes
 
@@ -116,6 +115,6 @@ If you want to add attributes to a text node (example: `<node attr="1">abc</node
 
 ## Troubleshooting
 
-### Cannot map data from the **Parse XML** module
+### Cannot Map Data from the **Parse XML** Module
 
 Make sure the Data structure is defined correctly. Alternatively you may use an empty data structure and execute the module at least once to process an XML input.

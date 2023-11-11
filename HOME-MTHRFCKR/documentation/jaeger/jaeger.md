@@ -2,7 +2,7 @@
 tags: MOCs
 ---
 
-# MOC: jaeger
+# MOC: Jaeger
 
 ---
 

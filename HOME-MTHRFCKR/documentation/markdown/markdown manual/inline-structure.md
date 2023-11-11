@@ -1,4 +1,4 @@
-# inline-structure
+# Inline-structure
 
 ## Inline Structure
 
@@ -40,13 +40,13 @@ The [delimiter stack](https://github.github.com/gfm/#delimiter-stack) is a dou
 
 * whether the delimiter is a potential opener, a potential closer, or both (which depends on what sort of characters precede and follow the delimiters).
 
-When we hit a `]` character, we call the _look for link or image_ procedure (see below).  
-When we hit the end of the input, we call the _process emphasis_ procedure (see below), with `stack_bottom`\= NULL.  
+When we hit a `]` character, we call the *look for link or image* procedure (see below).  
+When we hit the end of the input, we call the *process emphasis* procedure (see below), with `stack_bottom`\= NULL.  
 _look for link or image_Starting at the top of the delimiter stack, we look backwards through the stack for an opening `[` or `![`delimiter.  
 
 * If we don’t find one, we return a literal text node `]`.
 
-* If we do find one, but it’s not _active_, we remove the inactive delimiter from the stack, and return a literal text node `]`.
+* If we do find one, but it’s not *active*, we remove the inactive delimiter from the stack, and return a literal text node `]`.
 
 * If we find one and it’s active, then we parse ahead to see if we have an inline link/image, reference link/image, compact reference link/image, or shortcut reference link/image.  
 
@@ -56,11 +56,11 @@ _look for link or image_Starting at the top of the delimiter stack, we look back
 
     * We return a link or image node whose children are the inlines after the text node pointed to by the opening delimiter.
 
-    * We run _process emphasis_ on these inlines, with the `[` opener as `stack_bottom`.
+    * We run *process emphasis* on these inlines, with the `[` opener as `stack_bottom`.
 
     * We remove the opening delimiter.
 
-    * If we have a link (and not an image), we also set all `[` delimiters before the opening delimiter to _inactive_. (This will prevent us from getting links within links.)
+    * If we have a link (and not an image), we also set all `[` delimiters before the opening delimiter to *inactive*. (This will prevent us from getting links within links.)
 
 _process emphasis_Parameter `stack_bottom` sets a lower bound to how far we descend in the [delimiter stack](https://github.github.com/gfm/#delimiter-stack). If it is NULL, we can go all the way to the bottom. Otherwise, we stop before visiting `stack_bottom`.  
 Let `current_position` point to the element on the [delimiter stack](https://github.github.com/gfm/#delimiter-stack) just above `stack_bottom` (or the first element if `stack_bottom` is NULL).  

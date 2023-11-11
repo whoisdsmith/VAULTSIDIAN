@@ -1,4 +1,4 @@
-# RSS 
+# RSS
 
 The RSS modules enable you to monitor and import items from an RSS feed/Atom export of any website.
 
@@ -7,7 +7,6 @@ The RSS modules enable you to monitor and import items from an RSS feed/Atom exp
 Prerequisites
 
 -   A URL of the RSS feed/Atom export
-    
 
 In order to use RSS with Make, it is necessary to retrieve a feed URL. Please refer to the [How to retrieve the website's feed URL](https://www.make.com/en/help/apps/lifestyle/rss.html#how-to-retrieve-the-website-s-feed-url "How to Retrieve the Website's Feed URL") article.
 
@@ -33,7 +32,7 @@ You can also find the RSS feed URL manually in the website's source code:
 
 3\. Press Ctrl+F (Windows) or Command+F (Mac) on your keyboard to search the page source code.
 
-4\. Search for "_rss_", "_feed_", or "_atom_" to find the RSS feed URL.
+4\. Search for "*rss*", "*feed*", or "*atom*" to find the RSS feed URL.
 
 5\. Copy the URL.
 
@@ -62,7 +61,6 @@ There are several situations when a trigger execution can terminate with an erro
 -   The URL you have entered does not exist or does not contain a valid RSS feed/Atom export. If this happens, the scenario will be stopped, and you will need to enter the correct address.
     
 -   The RSS/Atom file size exceeds the allowed limit. If this happens, the import will be stopped. For more information, please refer to the [Working with files](https://www.make.com/en/help/mapping/working-with-files.html "Working with files") section.
-    
 
 ### Trigger Did Not Process RSS Feed Items
 

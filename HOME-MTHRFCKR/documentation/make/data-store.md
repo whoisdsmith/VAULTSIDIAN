@@ -1,3 +1,5 @@
+# Data-store
+
 -   [Make Help Center](https://www.make.com/en/help/index-en.html)
 -   [Tools](https://www.make.com/en/help/tools.html)
 -   Data store
@@ -8,37 +10,35 @@ The data store app's modules allow you to add, replace, update, retrieve, delete
 
 You can view and manage your data stores and the data they contain in the data stores section of Make.
 
-### Note
+## Note
 
 The various examples of use can be found [here](https://www.make.com/en/integrations/datastore).
 
-## Getting started with data stores
+# Getting Started with Data Stores
 
 Prerequisites
 
 -   A data store created
-    
 
 In order to use the data store modules, it is necessary to create a data store in your Make account.
 
-### Caution
+## Caution
 
 The module dialog fields that are displayed in bold (in the Make scenario, not in this documentation article) are mandatory!
 
-## Creating a data store in Make
+# Creating a Data Store in Make
 
-1.  Click _Data stores_ in the left menu.
+1.  Click *Data stores* in the left menu.
     
-2.  Click _Add data store_.
+2.  Click *Add data store*.
     
 3.  Enter settings for the new data store.
-    
 
 <table><tbody><tr><td><p><span><strong>Data store name</strong></span></p></td><td><p>Enter the name for the data store. E.g. <span><em>Contacts</em></span></p></td></tr><tr><td><p><span><strong>Data Structure</strong></span></p></td><td><p>A data structure, is a list of the columns for a table, that indicates the column name and data type.</p><p>You have three options:</p><div><ul><li><p><span><strong>Select the data structure that has been already created</strong></span></p></li><li><p><span><strong>Leave the field empty</strong></span></p><p>If you don't select a data structure, the database will only contain the primary key. Such a database type is useful if you only want to save keys and are only interested in knowing whether or not a specific key exists in the database.</p></li><li><p><span><strong>Add a new data structure</strong></span></p><p>Click the <span><em>Add</em></span> button to create a new data structure.</p></li></ul></div><p>Please see the <a href="https://www.make.com/en/help/tools/data-store.html#setting-up-the-data-structure" title="Setting up the data structure">Setting Up the Data Structure</a> section of this article.</p></td></tr><tr><td><p><span><strong>Data storage size in MB</strong></span></p></td><td><p>Allocate the size for the data store from your total <span><em>Internal data</em></span> storage.</p><div dir="ltr"><h3>Note</h3><p>The reserved amount can be changed at any time later on.</p></div><p>The total internal data storage capacity depends on the <a href="http://www.make.com/en/pricing" target="_blank" rel="noopener">plan you have purchased</a>.</p></td></tr></tbody></table>
 
-## Setting up the data structure
+# Setting up the Data Structure
 
-To set up the data structure, open the _Add data structure_ dialog.
+To set up the data structure, open the *Add data structure* dialog.
 
 You can access this dialog by clicking the Add button when creating or editing the data store:
 
@@ -58,13 +58,13 @@ You can access this dialog by clicking the Add button when creating or editing t
 
  }</pre><p>creates three columns (<span><em>name</em></span>, <span><em>age</em></span>, <span><em>phone number</em></span>) with phone number as a collection of <span><em>mobile</em></span> and <span><em>landline</em></span>.</p></li></ul></div><p>The empty columns in the data store view:</p><p>You can then add values to the data store manually or using the <span>Make</span> <span><em>data store</em></span> modules.</p></td></tr><tr><td><p><span><strong>Strict</strong></span></p></td><td><p>If enabled, the data structure will be compared to the structure of the payload and if the payload contains extra items not specified in the data structure, the payload will be rejected.</p></td></tr></tbody></table>
 
-## Actions
+# Actions
 
 Adds or replaces a record in the data store.
 
-### Warning
+## Warning
 
-The module throws an error when you try to add the record which is already in the data store under the same name and the _Overwrite an existing record_ option is disabled.
+The module throws an error when you try to add the record which is already in the data store under the same name and the *Overwrite an existing record* option is disabled.
 
 <table><tbody><tr><td><p><span><strong>Data store</strong></span></p></td><td><p>Select or <a href="https://www.make.com/en/help/tools/data-store.html#creating-a-data-store-in-make" title="Creating a data store in Make">add the data store</a> where you want to create a record.</p></td></tr><tr><td><p><span><strong>Key</strong></span></p></td><td><p>Enter the unique key. The key can be used later to retrieve the record. If you leave this field blank, the key will be generated.</p></td></tr><tr><td><p><span><strong>Overwrite an existing record</strong></span></p></td><td><p>Enable this option to overwrite the record. The record you want to overwrite must be specified in the <span><em>Key</em></span> field above.</p></td></tr><tr><td><p><span><strong>Record</strong></span></p></td><td><p>Enter the desired values to the record's fields.</p><div dir="ltr"><h3>Caution</h3><p>The maximum size of the record in data store is 15 MB!</p></div></td></tr></tbody></table>
 
@@ -96,31 +96,31 @@ Returns the number of records in the selected data store.
 
 <table><tbody><tr><td><p><span><strong>Data store</strong></span></p></td><td><p>Select the data store whose records you want to count.</p></td></tr></tbody></table>
 
-## Managing records in data stores
+# Managing Records in Data Stores
 
 Make allows you to view, update, and delete the records in your data store.
 
-To manage records in your data store, click _Data stores_ in the left menu, then click _Browse_ next to your data store.
+To manage records in your data store, click *Data stores* in the left menu, then click *Browse* next to your data store.
 
 This shows the editing interface for data store records.
 
-Click _Add_ to add new records to the data store. You can add multiple records by clicking _Add multiple times_. Newly inserted records are highlighted in green.
+Click *Add* to add new records to the data store. You can add multiple records by clicking *Add multiple times*. Newly inserted records are highlighted in green.
 
 Click an existing field to change it. Changed records are highlighted in yellow.
 
-Click _Save_ to save all your changes to the data store. Click _Discard changes_ to throw away any changes you have made, including added records and edited records.
+Click *Save* to save all your changes to the data store. Click *Discard changes* to throw away any changes you have made, including added records and edited records.
 
-### Note
+## Note
 
-You cannot use _Discard changes_ to get back records that you have deleted.
+You cannot use *Discard changes* to get back records that you have deleted.
 
-To delete records from your data store, first select the records you want to delete by selecting the check boxes next to the records. Then, click the _Delete_ icon.
+To delete records from your data store, first select the records you want to delete by selecting the check boxes next to the records. Then, click the *Delete* icon.
 
-### Note
+## Note
 
 You cannot roll back deleted records.
 
-## Troubleshooting
+# Troubleshooting
 
 At the current moment of writing this, there is no tool which can automate this, making it difficult to obtain lost data. However, the long method of recovering data in your data store is to go through all execution logs of scenarios where items were inserted to the data store, then get data manually and insert them again.
 
@@ -131,10 +131,9 @@ Please edit any of your existing data stores to free up space. 
 1.  Click **Edit**.
     
 2.  Reduce the data storage size.
-    
 
 You can now add a new data store.
 
-### Caution
+## Caution
 
 Make sure that while creating a new data store you do not assign all of your space to only one record unless you need it.

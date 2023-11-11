@@ -1,23 +1,24 @@
 # Kubernetes Concepts
 
 ***************************
-## Table Of Contents: 
+
+## Table Of Contents
+
   - [Introduction](#introdution)
   - [Kubernetes Objects](#kubernetes-objects)
   - [Kubernetes Architecture](#kubernetes-architecture)
   - [Tutorial Resources](#tutorial-resources)
   - [References](#reference)
 
-
 *****************
 
 ## Introdution
+
  - What is Kubernetes?
 
     - Kubernetes, at its basic level, is a system for running and coordinating containerized applications across a cluster of machines. It is a platform designed to completely manage the life cycle of containerized applications and services using methods that provide predictability, scalability, and high availability.
 
     - As a Kubernetes user, you can define how your applications should run and the ways they should be able to interact with other applications or the outside world. You can scale your services up or down, perform graceful rolling updates, and switch traffic between different versions of your applications to test features or rollback problematic deployments. Kubernetes provides interfaces and composable platform primitives that allow you to define and manage your applications with high degrees of flexibility, power, and reliability.
-
 
 ## Kubernetes Objects
 
@@ -53,7 +54,6 @@
     - ## Persistent Volume Claim
 
         - Presistent Volume Claim is the abstruction of the Persistent Volume. Persistent Volume is physical resources of inflastructure. Kubernetes want to hide the detail from developers. Using Persistent Volume Claim, you can hide the physical declaration defined by Persistent Volume or Storage Class. Pod can mount the Volume using Persistent Volume Claim object.
-
 
     - ## Difference Between Daemonset and deployment 
         - Kubernetes deployments manage stateless services running on your cluster (as opposed to for example StatefulSets which do manage stateful services). Their purpose is to keep a set of identical pods running and upgrade them in a controlled way. For example, you define how many replicas(pods) you want to run of your app in deployment definition and kubernetes will make that many replicas of your application spread over nodes. If you say 5 replica's over 3 node then some nodes have more than one replica of your app running.
@@ -106,8 +106,6 @@
 
     - ## Readiness and Liveness
 
-
-
     - ## kubernetes size 
 
       - The kibibyte was designed to replace the kilobyte in those computer science contexts in which the term kilobyte is used to mean 1024 bytes. The interpretation of kilobyte to denote 1024 bytes, conflicting with the SI definition of the prefix kilo (1000), used to be common.
@@ -122,10 +120,7 @@
       - 10^3 is power of ten. the result is 1000, or 1G
       - 2^10 is power of two. the result is 1024, or 1Gi
 
-
-
  ![alt text](https://github.com/Tikam02/DevOps-Guide/blob/master/img/kuber-objects.jpeg)
-
 
 - [Kubernetes Essentials: The basic components, pods, services, and more](https://www.padok.fr/en/blog/kubernetes-essentials-components-pods-services)
 -  [Kubernetes 101: Pods, Nodes, Containers, and Clusters](https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16)
@@ -145,7 +140,6 @@
  - As mentioned above, the applications and services themselves are run on the cluster within containers. The underlying components make sure that the desired state of the applications matches the actual state of the cluster. Users interact with the cluster by communicating with the main API server either directly or with clients and libraries. To start up an application or service, a declarative plan is submitted in JSON or YAML defining what to create and how it should be managed. The master server then takes the plan and figures out how to run it on the infrastructure by examining the requirements and the current state of the system. This group of user-defined applications running according to a specified plan represents Kubernetes’ final layer.
 
 ![architecture](https://github.com/Tikam02/DevOps-Guide/blob/master/img/architecture-kuber.jpeg)
-
 
 ****************************
 
@@ -176,10 +170,6 @@
         - [How to Back up and restore a Kubernetes Cluster on DigitalOcean using Heptio Ark](https://www.digitalocean.com/community/tutorials/how-to-back-up-and-restore-a-kubernetes-cluster-on-digitalocean-using-heptio-ark)
         - [How to Setup a Nginix Ingress with Cert-Manager on DigitalOcean Kubernetes](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-nginx-ingress-with-cert-manager-on-digitalocean-kubernetes)
         - [How to Inspect Kubernetes Networking](https://www.digitalocean.com/community/tutorials/how-to-inspect-kubernetes-networking)
-
-
-
-
 
 ************ 
 

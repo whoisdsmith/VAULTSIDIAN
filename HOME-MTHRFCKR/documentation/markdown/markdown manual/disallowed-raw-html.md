@@ -1,4 +1,4 @@
-# disallowed-raw-html
+# Disallowed-raw-html
 
 ## Disallowed Raw HTML (extension)
 

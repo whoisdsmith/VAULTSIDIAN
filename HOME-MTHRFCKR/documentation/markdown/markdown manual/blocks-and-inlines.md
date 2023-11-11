@@ -1,4 +1,4 @@
-# blocks-and-inlines
+# Blocks-and-inlines
 
 ## Blocks and Inlines
 

@@ -1,4 +1,4 @@
-# setext-headings
+# Setext-headings
 
 ## Setext Headings
 

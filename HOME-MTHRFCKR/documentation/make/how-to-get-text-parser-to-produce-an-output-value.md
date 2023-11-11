@@ -1,3 +1,5 @@
+# How-to-get-text-parser-to-produce-an-output-value
+
 -   [Make Help Center](https://www.make.com/en/help/index-en.html)
 -   [Modules](https://www.make.com/en/help/modules.html)
 -   How to get Text Parser to produce an output value

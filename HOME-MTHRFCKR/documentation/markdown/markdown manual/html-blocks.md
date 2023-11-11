@@ -1,4 +1,4 @@
-# html-blocks
+# Html-blocks
 
 {{($page.frontmatter.start = 118) ? null : null}}
 
@@ -69,7 +69,7 @@ In type 6 blocks, the initial tag need not be on a line by itself:
 Everything until the next blank line or end of document gets included in the HTML block. So, in the following example, what looks like a Markdown code block is actually part of the HTML block, which continues until a blank line or the end of the document is reached:  
 <Example :index="$page.frontmatter.start++"/>
 
-To start an [HTML block](https://github.github.com/gfm/#html-block) with a tag that is _not_ in the list of block-level tags in (6), you must put the tag by itself on the first line (and it must be complete):  
+To start an [HTML block](https://github.github.com/gfm/#html-block) with a tag that is *not* in the list of block-level tags in (6), you must put the tag by itself on the first line (and it must be complete):  
 <Example :index="$page.frontmatter.start++"/>
 
 In type 7 blocks, the [tag name](https://github.github.com/gfm/#tag-name) can be anything:  
@@ -85,7 +85,7 @@ These rules are designed to allow us to work with tags that can function as eith
 In this case, we get a raw HTML block that just includes the `<del>` tag (because it ends with the following blank line). So the contents get interpreted as CommonMark:  
 <Example :index="$page.frontmatter.start++"/>
 
-Finally, in this case, the `<del>` tags are interpreted as [raw HTML](https://github.github.com/gfm/#raw-html) _inside_ the CommonMark paragraph. (Because the tag is not on a line by itself, we get inline HTML rather than an [HTML block](https://github.github.com/gfm/#html-block).)  
+Finally, in this case, the `<del>` tags are interpreted as [raw HTML](https://github.github.com/gfm/#raw-html) *inside* the CommonMark paragraph. (Because the tag is not on a line by itself, we get inline HTML rather than an [HTML block](https://github.github.com/gfm/#html-block).)  
 <Example :index="$page.frontmatter.start++"/>
 
 HTML tags designed to contain literal content (`script`, `style`, `pre`), comments, processing instructions, and declarations are treated somewhat differently. Instead of ending at the first blank line, these blocks end at the first line containing a corresponding end tag. As a result, these blocks can contain blank lines:  
@@ -141,7 +141,7 @@ HTML blocks of type 7 cannot interrupt a paragraph:
 
 This rule differs from John Gruber’s original Markdown syntax specification, which says:  
 
-> The only restrictions are that block-level HTML elements — e.g. `<div>`, `<table>`, `<pre>`, `<p>`, etc. — must be separated from surrounding content by blank lines, and the start and end tags of the block should not be indented with tabs or spaces.
+> The only restrictions are that block-level HTML elements — e.g. `<div> `, `<table> `, `<pre> `, `<p> `, etc. — must be separated from surrounding content by blank lines, and the start and end tags of the block should not be indented with tabs or spaces.
 
 In some ways Gruber’s rule is more restrictive than the one given here:  
 
@@ -159,10 +159,10 @@ Compare:
 <Example :index="$page.frontmatter.start++"/>
 
 Some Markdown implementations have adopted a convention of interpreting content inside tags as text if the open tag has the attribute `markdown=1`. The rule given above seems a simpler and more elegant way of achieving the same expressive power, which is also much simpler to parse.  
-The main potential drawback is that one can no longer paste HTML blocks into Markdown documents with 100% reliability. However, _in most cases_ this will work fine, because the blank lines in HTML are usually followed by HTML block tags. For example:  
+The main potential drawback is that one can no longer paste HTML blocks into Markdown documents with 100% reliability. However, *in most cases* this will work fine, because the blank lines in HTML are usually followed by HTML block tags. For example:  
 <Example :index="$page.frontmatter.start++"/>
 
-There are problems, however, if the inner tags are indented _and_ separated by spaces, as then they will be interpreted as an indented code block:  
+There are problems, however, if the inner tags are indented *and* separated by spaces, as then they will be interpreted as an indented code block:  
 <Example :index="$page.frontmatter.start++"/>
 
-Fortunately, blank lines are usually not necessary and can be deleted. The exception is inside `<pre>` tags, but as described [above](https://github.github.com/gfm/#html-blocks) HTML blocks, raw HTML blocks starting with `<pre>` _can_ contain blank lines.  
+Fortunately, blank lines are usually not necessary and can be deleted. The exception is inside `<pre>` tags, but as described [above](https://github.github.com/gfm/#html-blocks) HTML blocks, raw HTML blocks starting with `<pre>` *can* contain blank lines.  

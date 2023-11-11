@@ -16,15 +16,13 @@
   - Web UI
   - Container Resources Monitoring
 
-
 *********************
 
 ![alt text](https://github.com/Tikam02/DevOps-Guide/blob/master/img/etcd-master.png)
 
-
 **************************
 
-## Q) What is Master components?
+## Q) What is Master Components?
 
 - Master components provide the cluster’s control plane. Master components make global decisions about the cluster (for example, scheduling), and they detect and respond to cluster events (for example, starting up a new pod when a deployment’s replicas field is unsatisfied).
 
@@ -32,7 +30,7 @@
 
 - The Kubernetes master runs the Scheduler, Controller Manager, API Server and etcd components and is responsible for managing the Kubernetes cluster. Essentially, it’s the brain of the cluster! Now, let’s dive into each master component.
 
-## kube-apiserver
+## Kube-apiserver
 
 - The API server is a component of the Kubernetes control plane that exposes the Kubernetes API. The API server is the front end for the Kubernetes control plane.
 
@@ -46,7 +44,7 @@
 
 - The API Server also implements a watch mechanism (similar to etcd) for clients to watch for changes. This allows components such as the Scheduler and Controller Manager to interact with the API Server in a loosely coupled manner.
 
-## etcd
+## Etcd
 
 - Consistent and highly-available key value store used as Kubernetes’ backing store for all cluster data.
 
@@ -70,7 +68,6 @@
 
 - Etcd also implements a watch feature, which provides an event-based interface for asynchronously monitoring changes to keys. Once a key is changed, its “watchers” get notified. This is a crucial feature in the context of Kubernetes, as the API Server component heavily relies on this to get notified and call the appropriate business logic components to move the current state towards the desired state.
 
-
 - etcd is a reliable system for cluster-wide coordination and state management. It is built on top of Raft.
 
 - Raft gives etcd a total ordering of events across a system of distributed etcd nodes. This has many advantages and disadvantages:
@@ -88,10 +85,7 @@
     - for safety reasons, it requires a majority of the cluster to commit writes - usually to disk - before replying to a client
     - requires more network chatter than a single master system
 
-
-
-
-## kube-controller-manager
+## Kube-controller-manager
 
 - Component on the master that runs controllers .
 
@@ -110,8 +104,7 @@
 
 - Besides, the Controller Manager performs lifecycle functions such as namespace creation and lifecycle, event garbage collection, terminated-pod garbage collection, cascading-deletion garbage collection, node garbage collection, etc.
 
-
-## kube-scheduler
+## Kube-scheduler
 
 - Component on the master that watches newly created pods that have no node assigned, and selects a node for them to run on.
 
@@ -123,12 +116,11 @@
 
 ******************************
 
-
 # Node Components
 
 - Node components run on every node, maintaining running pods and providing the Kubernetes runtime environment.
 
-## kubelet
+## Kubelet
 
 - An agent that runs on each node in the cluster. It makes sure that containers are running in a pod.
 
@@ -143,9 +135,7 @@
     - Reports the status of the pod back to the rest of the system, by creating a mirror pod if necessary.
     - Reports the status of the node back to the rest of the system.
 
-
-
-## kube-proxy
+## Kube-proxy
 
 - kube-proxy is a network proxy that runs on each node in your cluster, implementing part of the Kubernetes Service concept.
 
@@ -157,20 +147,9 @@
 
 - The container runtime is the software that is responsible for running containers
 
-
-
-
-
-
-
-
-
-
-
-
 **********************
 
-# References:
+# References
 
 [Kubernetes Master Components: Etcd, API Server, Controller Manager, and Scheduler](https://medium.com/jorgeacetozi/kubernetes-master-components-etcd-api-server-controller-manager-and-scheduler-3a0179fc8186)
 

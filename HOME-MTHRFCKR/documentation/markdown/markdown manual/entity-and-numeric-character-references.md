@@ -1,4 +1,4 @@
-# entity-and-numeric-character-references
+# Entity-and-numeric-character-references
 
 {{($page.frontmatter.start = 321) ? null : null}}
 

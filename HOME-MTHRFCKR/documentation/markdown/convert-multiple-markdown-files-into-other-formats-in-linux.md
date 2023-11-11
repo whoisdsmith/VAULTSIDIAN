@@ -109,8 +109,6 @@ You’ll be asked to choose a folder containing the files. This is so an output 
 
 By waiting to convert your Markdown files, you can concentrate more on writing. Conversion to HTML can come when you’re ready–and you have two ways to get that done.
 
-  
-
 ![](https://secure.gravatar.com/avatar/9a8f0a6b5adf63b59f0e17fae44f5987?s=90&d=mm&r=g)
 
 Bill has worked in the computer field as a technician, programmer, and UNIX system administrator. He is currently a continually caffeinated programmer/analyst who spends some spare time building e-books for a few writer friends, restoring old texts, and a little writing. When he's away from the computer, he'll most likely be reading or watching old, classic movies.

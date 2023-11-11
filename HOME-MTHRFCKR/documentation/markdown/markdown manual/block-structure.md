@@ -1,4 +1,4 @@
-# block-structure
+# Block-structure
 
 ## Block Structure
 

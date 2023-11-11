@@ -1,7 +1,9 @@
+# Glossary
+
 -   [Make Help Center](https://www.make.com/en/help/index-en.html)
 -   Glossary
 
-### Glossary
+## Glossary
 
 [Action module](https://www.make.com/en/help/glossary.html#UUID-093a9d1a-680a-bd1d-3485-13e79d573196_N61dc352831149)
 
@@ -14,13 +16,10 @@ There are two ways you can use scenarios in Make depending on how you want your 
 -   Active scenarios run according to a defined schedule or webhook.
     
     -   For example: to watch a spreadsheet or webhook.
-        
-    
+
 -   Inactive scenarios execute manually whenever you wish to run them.
     
     -   For example: limited, one-time results such as retrieving data for a specific time.
-        
-    
 
 You can change between active and inactive whenever you like on the Scenarios tab.
 
@@ -35,7 +34,6 @@ An aggregator is a type of module that allows you to merge multiple bundles into
 -   [Table aggregator](https://www.make.com/en/help/glossary.html#UUID-093a9d1a-680a-bd1d-3485-13e79d573196_N6202561e8e63a "Table Aggregator")
     
 -   [Text aggregator](https://www.make.com/en/help/glossary.html#UUID-093a9d1a-680a-bd1d-3485-13e79d573196_N62025882695d1 "Text aggregator")
-    
 
 See Also [Aggregator article](https://www.make.com/en/help/modules/aggregator.html "Aggregator").
 
@@ -57,7 +55,7 @@ See Also [Aggregator article](https://www.make.com/en/help/modules/aggregator.ht
 
 The Auto commit option defines how Make process data transactions. Enabling Auto commit switches all operations to the [commit phase](https://www.make.com/en/help/glossary.html#UUID-093a9d1a-680a-bd1d-3485-13e79d573196_N6202414d111d1 "Commit phase"). In the case of an error, data commits immediately and you cannot restore any lost data.
 
-### Note
+## Note
 
 If you disable Auto commit, no commit occurs until operations are executed for all modules. Only modules with the "ACID" tag support transactionality.
 
@@ -67,7 +65,7 @@ See Also [Scenario execution, cycles, and phases article](https://www.make.com/e
 
 Make lets you import and export scenarios via a blueprint, a file in JSON format. Your blueprint contains all of your modules and settings except for connections. When importing from a blueprint, you must add your connections.
 
-### Note
+## Note
 
 Blueprints are not compatible between Integromat and Make.
 
@@ -75,7 +73,7 @@ Blueprints are not compatible between Integromat and Make.
 
 Using a break directive lets you resolve errors manually and helps when you want more human oversight of errors. When an error occurs, the break directive stops execution of subsequent modules and stores the error in the queue of incomplete executions. Then, the break directive creates a separate record for each bundle that causes the error (available under the Incomplete executions tab > Details). Here, you can manually resolve the error and process all unprocessed bundles. The scenario execution history shows the status as Warning.
 
-### Note
+## Note
 
 You must enable storing of incomplete executions under Scenario settings.
 
@@ -87,7 +85,7 @@ A bundle is a chunk of data and the basic unit for use with modules. A bundle co
 
 When you need a quick duplicate of a module (for example when using data store modules on each branch of a router), use the clone module command to make an exact duplicate of your module. It appears instantly and has the same settings and variables as the original module. You can then drag it to wherever you need it and customize the settings. Changes in the original do not affect the clone and vice versa.
 
-### Note
+## Note
 
 You cannot clone the trigger module of your scenario.
 
@@ -104,7 +102,6 @@ Use the commit error handling directive when you want to stop the execution of t
 -   does not process the subsequent modules
     
 -   ignores all unprocessed bundles
-    
 
 The scenario execution history displays the status as Success.
 
@@ -163,7 +160,6 @@ The diagram is a visual representation of your scenario and appears exactly the 
 -   the amount of operations and data consumed.
     
 -   the controls to manage the scenario.
-    
 
 [Directive (error handling)](https://www.make.com/en/help/glossary.html#UUID-093a9d1a-680a-bd1d-3485-13e79d573196_N6202444678d85)
 
@@ -180,7 +176,6 @@ A directive allows you to control how Make handles errors. There are six error h
 -   [Break](https://www.make.com/en/help/glossary.html#UUID-093a9d1a-680a-bd1d-3485-13e79d573196_N6202371c30dde "Break error handling directive")
     
 -   [Retry](https://www.make.com/en/help/glossary.html#UUID-093a9d1a-680a-bd1d-3485-13e79d573196_N62024faed94be "Retry")
-    
 
 [Explain flow](https://www.make.com/en/help/glossary.html#UUID-093a9d1a-680a-bd1d-3485-13e79d573196_N62014ab633453)
 
@@ -203,7 +198,6 @@ A filter helps you select bundles that fit specific criteria. You can add a filt
 -   Boolean filters
     
 -   Array filters
-    
 
 See Also [Filtering article](https://www.make.com/en/help/scenarios/filtering.html "Filtering").
 
@@ -232,7 +226,6 @@ Make maintains a history of your scenario and records:
 -   Size of transferred data
     
 -   Link to detailed information, where you can inspect all data in that particular execution received and how the data was processed
-    
 
 You can view this information by clicking on history in Scenario detail or in the Diagram. Viewing from the diagram allows you to see currently running executions and stop them if necessary.
 
@@ -317,11 +310,10 @@ More examples that count as operations:
 -   Aggregate a row of data into an array or text
     
 -   Iterate a row of data
-    
 
 Depending on the complexity of the process you’re automating, your scenario can perform anywhere from two operations to thousands of operations in a single run.
 
-### Note
+## Note
 
 There is a limit for the number of operations according to your subscription.
 
@@ -336,7 +328,6 @@ Operation is the second phase of scenario execution. During the operation phase 
 -   The reading operation obtains the data needed by the modules in your scenario.
     
 -   The writing operation sends data to a given service for further processing.
-    
 
 [Repeater](https://www.make.com/en/help/glossary.html#UUID-093a9d1a-680a-bd1d-3485-13e79d573196_N62024ef2e9148)
 
@@ -358,9 +349,9 @@ See Also [Retry workaround article](https://www.make.com/en/help/errors/retry.ht
 
 Use the Rollback directive when you want to mark the error and return modules to how they were before the scenario ran. The Rollback Directive stops the scenario execution immediately. Then a rollback phase starts on all modules to revert each module back to its initial state. The Rollback directive marks the scenario execution status as Error.
 
-### Note
+## Note
 
-This is the default behavior if there is no error handler route and the _Allow Storing Incomplete Executions_ setting under Scenario settings is not checked.
+This is the default behavior if there is no error handler route and the *Allow Storing Incomplete Executions* setting under Scenario settings is not checked.
 
 See Also [Directives for error handling article](https://www.make.com/en/help/errors/directives-for-error-handling.html "Directives for error handling").
 
@@ -368,7 +359,7 @@ See Also [Directives for error handling article](https://www.make.com/en/help/er
 
 Rollback is a phase that occurs when there is an error during the operation or commit phase on any module. The scenario execution stops the operation or commit phase and starts the rollback phase, reversing all changes in data.
 
-### Note
+## Note
 
 Some modules do not support rollback and operations performed by these modules are irreversible.
 
@@ -447,7 +438,6 @@ The text parser tool allows you to add these modules:
 -   HTML to Text -allows you to convert HTML to plain text.
     
 -   Get elements from text - retrieves desired elements from text.
-    
 
 [Transaction processing](https://www.make.com/en/help/glossary.html#UUID-093a9d1a-680a-bd1d-3485-13e79d573196_N62027c9dac072)
 
@@ -462,10 +452,8 @@ Make uses transactional processing to describe the scenario execution cycle. A t
     1.  Commit - verifies all changes across modules and services and makes them permanent.
         
     2.  Rollback - when changes cannot be verified, the scenario ‘rolls back’ all changes, returning all data, modules, and services to their original states. The rollback phase protects data integrity in the event of an error.
-        
-    
+
 4.  Finalization - closes all open connections (e.g. FTP connections, database connections, etc.) and completes the scenario.
-    
 
 See Also [Scenarion execution, cycles, and phases](https://www.make.com/en/help/scenarios/scenario-execution,-cycles-and-phases.html "Scenario execution, cycles, and phases").
 
@@ -478,7 +466,6 @@ There are two types of triggers:
 1.  Polling -  routinely monitors a connected app/service ![Trigger_-_clock_icon.png](https://www.make.com/en/help/image/1621f61c8179af.png)
     
 2.  Instant - also called webhooks that immediately execute the scenario ![Trigger_-_lightning_icon.png](https://www.make.com/en/help/image/1621f61c81ca73.png)
-    
 
 [Webhook](https://www.make.com/en/help/glossary.html#UUID-093a9d1a-680a-bd1d-3485-13e79d573196_N62027da527ff5)
 

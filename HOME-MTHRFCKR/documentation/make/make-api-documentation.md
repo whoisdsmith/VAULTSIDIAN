@@ -1,6 +1,6 @@
-# Make API documentation
+# Make API Documentation
 
-### Fundamentals
+## Fundamentals
 
 The Make REST API allows using HTTP requests to access Make data and control the Make platform without opening its graphical interface. This allows you to embed Make features into your software, add features on top of the platform, and automate your tasks that you perform in Make. To use the Make API, you need an Make account. Once logged in, you can [generate an authentication token](https://www.make.com/en/api-documentation/authentication-token#authentication-token) and [start making calls to the API](https://www.make.com/en/api-documentation/getting-started#getting-started).
 
@@ -24,7 +24,7 @@ The following API resources are fully functional, but are not covered in this do
 -   Organizations
 -   Teams
 
-#### Make API structure
+### Make API Structure
 
 The root URL of the Make API consists of three parts and looks as follows:  
 `{environment_url}/api/v2/{api_endpoint}`
@@ -40,13 +40,14 @@ The version of the API preceded by `/api/`
 **Endpoint** **(with or without parameters)**  
 Each endpoint represents a resource that you can work with. Endpoints contain required and/or optional parameters. The resources are described in detail in [Make resources](https://www.make.com/en/api-documentation/api-resources#api-resources).
 
-#### HTTP methods
+### HTTP Methods
 
 Make API uses standard HTTP methods to interact with endpoints. The following table lists the available HTTP methods and shows examples of endpoints these methods can be used with.
 
 | **HTTP method** | **Description** |
 | --- | --- |
 | 
+
 ```
 GET
 ```
@@ -55,9 +56,9 @@ GET
 
 Retrieves a resource representation without modifying it.
 
-_Example:_  
+*Example:*  
 [`/scenarios`](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-get)  
-_returns all available Make scenarios_ |
+*returns all available Make scenarios* |  
 | 
 
 ```
@@ -68,9 +69,9 @@ POST
 
 Creates a resource.
 
-_Example:_  
+*Example:*  
 [`/scenarios`](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-post)  
-_creates a scenario_ |
+*creates a scenario* |  
 | 
 
 ```
@@ -81,9 +82,9 @@ PUT
 
 Updates a resource. If the resource does not exist yet, this method creates it.
 
-_Example:_  
+*Example:*  
 [`/scenarios/{scenarioId}/data`](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-scenarioId-data-put)  
-_sets module data for a scenario with a given ID_ |
+*sets module data for a scenario with a given ID* |  
 | 
 
 ```
@@ -94,9 +95,9 @@ PATCH
 
 Makes a partial update on a resource. Does not replace the entire resource.
 
-_Example:_  
+*Example:*  
 [`/scenarios/{scenarioId}`](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-scenarioId-patch)  
-_updates properties (for example, scheduling or blueprint) of the scenario with a given ID_ |
+*updates properties (for example, scheduling or blueprint) of the scenario with a given ID* |  
 | 
 
 ```
@@ -107,16 +108,16 @@ DELETE
 
 Removes a resource.
 
-_Example:_  
+*Example:*  
 [`/scenarios/{scenarioId}`](https://www.make.com/en/api-documentation/users-password-reset-post#scenarios-scenarioId-delete)  
-_deletes the scenario with a given ID_ |
+*deletes the scenario with a given ID* |
 
-### Getting started
+## Getting Started
 
 This start guide will take you through making your first request to the Make API.
 
-_Example:_  
-_Let's imagine that you would like to list all data stores available in your team. Your team ID is 35. Returned data should be ordered in descending order._
+*Example:*  
+*Let's imagine that you would like to list all data stores available in your team. Your team ID is 35. Returned data should be ordered in descending order.*
 
 To make your first API call, you need to perform the following actions:
 
@@ -128,16 +129,21 @@ How to:
 2.  **Choose the** [endpoint](https://www.make.com/en/api-documentation/users-password-reset-post#api-resources) **that corresponds to the resource you want to interact with.** For this example, you need the `/data-stores` endpoint. The endpoint requires the **teamId** query parameter. Place the parameter after the question mark in the endpoint URL. To filter results, you also need the [parameter for ordering data](https://www.make.com/en/api-documentation/users-password-reset-post#pagination-sorting-filtering)—**pg\[sortDir\]**:  
     `{environment_url}/api/v2/data-stores?teamId={teamId}&pg%5BsortDir%5D=asc`
     
+
     The environment URL refers to the Make platform you interact with.
+
     
 3.  **Prepare the full request and send it.** In this case, use cURL to making the request. You want to retrieve data without modifying it—use the **GET** method. Let’s put elements from the previous steps together.
     
+
     The following request example contains a sample authentication token. Don't use it in your requests. [Generate your own token](https://www.make.com/en/api-documentation/users-password-reset-post#authentication-token).
+
     
+
     Always include a request body in POST, PUT, or PATCH requests.
+
     
 4.  **Evaluate the response.** The API returns `200 OK` and a list of all data stores for the specified team. If your request failed, you receive an error code. Refer to [Troubleshooting and error handling](https://www.make.com/en/api-documentation/users-password-reset-post#troubleshooting) to troubleshoot the issue.
-    
 
 Request
 
@@ -179,27 +185,27 @@ Response
 }
 ```
 
-### Resources
+## Resources
 
 API resources are grouped into sections corresponding with Make features and components.
 
 Each endpoint resource contains the following details:
 
-#### Methods and endpoints
+### Methods and Endpoints
 
 [Methods](https://www.make.com/en/api-documentation/fundamentals#fundamentals) define the allowed interaction and endpoints define how to access the resource — what URI should be used to interact with a resource.  
-_Example:_ `GET /data-stores`
+*Example:* `GET /data-stores`
 
-#### Required scopes
+### Required Scopes
 
 Defines what resources you are allowed to interact with based on scopes you selected when generating your [API access token](https://www.make.com/en/api-documentation/authentication-token#authentication-token).  
-_Example:_ `datastores:write`
+*Example:* `datastores:write`
 
-#### Resource description
+### Resource Description
 
 Describes the expected outcome when using an endpoint, and what Make features the resource relates to.
 
-#### Parameters
+### Parameters
 
 These are options you can include with a request to modify the response. Each parameter specifies whether it is required or not. Parameters are divided into two main groups:
 
@@ -209,8 +215,9 @@ These are options you can include with a request to modify the response. Each pa
     
 -   **Request body** — for some endpoints (mainly connected with the POST, PUT, or PATCH HTTP methods), you can also see the Request body section in the endpoint details. This section contains the description of the payload properties that are needed to modify the resource.
     
+
     Example:
-    
+
     ```
     {
       "name": "Customers",
@@ -219,13 +226,12 @@ These are options you can include with a request to modify the response. Each pa
       "maxSizeMB": 1
     }
     ```
-    
 
-#### Request examples
+### Request Examples
 
 These are request samples that show how to make a request to the endpoint. They consist of the request URL and authentication token (if needed) and other elements required to make a request in the selected language. Example of request for creating a data store:
 
-#### Response examples
+### Response Examples
 
 These are response samples you would receive when calling the request in real life. The outcome strictly depends on the request sample. The response schema contains all possible elements available in the response. Each response has its [status code](https://www.make.com/en/api-documentation/http-status-codes#http-status-codes). Example of created data store:
 
@@ -254,9 +260,9 @@ Response
 }
 ```
 
-#### Create scenario folder
+### Create Scenario Folder
 
-##### POST/scenarios-foldersscenarios:write
+#### POST/scenarios-foldersscenarios:write
 
 Creates a new scenario folder with data passed in the request body. As the response, it returns all details of the created scenario folder.
 
@@ -278,7 +284,7 @@ The unique ID of the team in which the scenario folder will be created.
 
 Example: 123
 
-###### Example
+##### Example
 
 Request
 
@@ -340,17 +346,17 @@ Response
 
 ___
 
-### Public
+## Public
 
 The following endpoints focus on the public (approved) templates that are available to every user regardless of the organization and team.
 
-### Public
+## Public
 
 The following endpoints focus on the public (approved) templates that are available to every user regardless of the organization and team.
 
-#### List public (approved) templates
+### List Public (approved) Templates
 
-##### GET/templates/publictemplates:read
+#### GET/templates/publictemplates:read
 
 Retrieves a collection of all public (approved) templates that are available for anyone. Returned templates are sorted by usage in descending order.
 
@@ -420,7 +426,7 @@ Default: 100
 
 Maximum: 10000
 
-###### Example
+##### Example
 
 Request
 
@@ -546,9 +552,9 @@ Response
 
 ___
 
-#### List public (approved) templates
+### List Public (approved) Templates
 
-##### GET/templates/publictemplates:read
+#### GET/templates/publictemplates:read
 
 Retrieves a collection of all public (approved) templates that are available for anyone. Returned templates are sorted by usage in descending order.
 
@@ -618,7 +624,7 @@ Default: 100
 
 Maximum: 10000
 
-###### Example
+##### Example
 
 Request
 
@@ -744,9 +750,9 @@ Response
 
 ___
 
-#### Get public (approved) template details
+### Get Public (approved) Template Details
 
-##### GET/templates/public/{templateUrl}templates:read
+#### GET/templates/public/{templateUrl}templates:read
 
 Retrieves details of a public (approved) template with a given `publicUrl`.
 
@@ -776,7 +782,7 @@ Example: 18
 
 Specifies the group of values to return. For example, you may want to retrieve only information about the apps used in the template.
 
-###### Example
+##### Example
 
 Request
 
@@ -858,9 +864,9 @@ Response
 
 ___
 
-#### Get public (approved) template details
+### Get Public (approved) Template Details
 
-##### GET/templates/public/{templateUrl}templates:read
+#### GET/templates/public/{templateUrl}templates:read
 
 Retrieves details of a public (approved) template with a given `publicUrl`.
 
@@ -890,7 +896,7 @@ Example: 18
 
 Specifies the group of values to return. For example, you may want to retrieve only information about the apps used in the template.
 
-###### Example
+##### Example
 
 Request
 
@@ -972,9 +978,9 @@ Response
 
 ___
 
-#### Get public (approved) template blueprint
+### Get Public (approved) Template Blueprint
 
-##### GET/templates/public/{templateUrl}/blueprinttemplates:read
+#### GET/templates/public/{templateUrl}/blueprinttemplates:read
 
 Retrieves a blueprint of a public (approved) template with a given `publicUrl`.
 
@@ -998,7 +1004,7 @@ The unique ID of the public version of the approved template. It can be retrieve
 
 Example: 18
 
-###### Example
+##### Example
 
 Request
 
@@ -1425,13 +1431,13 @@ Response
 
 ___
 
-### Users
+## Users
 
 The following main user endpoints allow you to get a list of existing users and manage their basic details such as password change.
 
-#### List users
+### List Users
 
-##### GET/usersuser:read
+#### GET/usersuser:read
 
 Retrieves a collection of all users for a team or an organization with a given ID. Returned users are sorted by name in ascending order.
 
@@ -1493,7 +1499,7 @@ Default: 10
 
 Maximum: 10000
 
-###### Example
+##### Example
 
 Request
 
@@ -1733,9 +1739,9 @@ Response
 
 ___
 
-#### Update user password
+### Update User Password
 
-##### PUT/users/{userId}/attributes/passworduser:write
+#### PUT/users/{userId}/attributes/passworduser:write
 
 Updates a password for a user with a given ID by passing new data in the request body. It replaces the entire resource with the new values. In the response, it returns the confirmation if the password was changed. This endpoint corresponds to changing a password in the user profile when the user is logged in to the Make interface.
 
@@ -1775,7 +1781,7 @@ The new user password for confirmation. This password must be the same as the pa
 
 Example: 123456Ab-
 
-###### Example
+##### Example
 
 Request
 
@@ -1822,9 +1828,9 @@ Response
 
 ___
 
-#### Send password reset demand
+### Send Password Reset Demand
 
-##### POST/users/password-reset-demand
+#### POST/users/password-reset-demand
 
 Sends password reset demand for a user with an email passed in the request body. This endpoint corresponds to the **Lost password** function on the login page in the Make interface. In the response, it returns the confirmation if the demand was sent successfully.
 
@@ -1838,7 +1844,7 @@ The email of the user for who the password should be reset.
 
 Example: ee@eee.com
 
-###### Example
+##### Example
 
 Request
 
@@ -1884,9 +1890,9 @@ Response
 
 ___
 
-#### Set session for resetting lost password
+### Set Session for Resetting Lost Password
 
-##### GET/users/password-reset
+#### GET/users/password-reset
 
 Checks a hash and sets a session for the [Reset lost password](https://www.make.com/en/api-documentation/users-password-reset-post#users-password-reset-post) endpoint. This endpoint corresponds to clicking the **Reset password** link in the **Password reset** email.
 
@@ -1900,7 +1906,7 @@ The unique hash of the password reset session.
 
 Example: fab680b60044adb766128e713e44e15b
 
-###### Example
+##### Example
 
 Request
 
@@ -1945,9 +1951,9 @@ Response
 
 ___
 
-#### Reset lost password
+### Reset Lost Password
 
-##### POST/users/password-reset
+#### POST/users/password-reset
 
 Updates a password for a user based on the session created when calling the [Prepare session for password reset](https://www.make.com/en/api-documentation/users-password-reset-get#users-password-reset-get) endpoint. This endpoint corresponds to setting a new password on the **Lost password** page in the Make interface.
 
@@ -1969,7 +1975,7 @@ This password must be the same as the password in the `newPassword1` property.
 
 Example: Aa123456.
 
-###### Example
+##### Example
 
 Request
 
@@ -2015,9 +2021,9 @@ Response
 
 ___
 
-#### Reset lost password
+### Reset Lost Password
 
-##### POST/users/password-reset
+#### POST/users/password-reset
 
 Updates a password for a user based on the session created when calling the [Prepare session for password reset](https://www.make.com/en/api-documentation/users-password-reset-get#users-password-reset-get) endpoint. This endpoint corresponds to setting a new password on the **Lost password** page in the Make interface.
 
@@ -2039,7 +2045,7 @@ This password must be the same as the password in the `newPassword1` property.
 
 Example: Aa123456.
 
-###### Example
+##### Example
 
 Request
 

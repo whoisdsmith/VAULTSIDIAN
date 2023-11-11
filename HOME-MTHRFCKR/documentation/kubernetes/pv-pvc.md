@@ -1,4 +1,4 @@
-# Persistent Volume 
+# Persistent Volume
 
 > Phase
 
@@ -8,7 +8,6 @@
     - Bound -- the volume is bound to a claim
     - Released -- the claim has been deleted, but the resource is not yet reclaimed by the cluster
     - Failed -- the volume has failed its automatic reclamation
-
 
 - Persistent Volume ON NFS
 
@@ -54,8 +53,7 @@ spec:
 
 - Depending on storage type, spec attributes differ  
 
-
-##### Persistent Volume claim
+## Persistent Volume Claim
 
 - Application has to claim the Persistent volume
 
@@ -75,7 +73,7 @@ spec:
 ``` 
 
 - Use that PVC in Pods configuration
-  
+
 ```yaml
 apiVersion: v1
 kind: Pod
@@ -94,7 +92,7 @@ spec:
         claimName: pvc-name
 ```
 
-### Refrences
+# Refrences
 
 - [ Kubernetes Volume Basics: emptyDir and PersistentVolume ](https://www.alibabacloud.com/blog/kubernetes-volume-basics-emptydir-and-persistentvolume_594834)
 

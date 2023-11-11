@@ -1,4 +1,4 @@
-# autolinks-extension
+# Autolinks-extension
 
 {{($page.frontmatter.start = 621) ? null : null}}
 

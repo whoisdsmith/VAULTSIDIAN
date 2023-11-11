@@ -1,4 +1,4 @@
-# textual-content
+# Textual-content
 
 {{($page.frontmatter.start = 671) ? null : null}}
 

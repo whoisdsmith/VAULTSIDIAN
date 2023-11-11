@@ -22,7 +22,7 @@ In CommonMark, a list can interrupt a paragraph. That is, no blank line is neede
     The number of windows in my house is
     14.  The number of doors is 6.
 
-Oddly, though, `Markdown.pl` _does_ allow a blockquote to interrupt a paragraph, even though the same considerations might apply.  
+Oddly, though, `Markdown.pl` *does* allow a blockquote to interrupt a paragraph, even though the same considerations might apply.  
 In CommonMark, we do allow lists to interrupt paragraphs, for two reasons. First, it is natural and not uncommon for people to start lists without blank lines:  
 
     I need to buy

@@ -115,11 +115,11 @@ Here's a link to \[GitLab\]\[dupe ref\]
 Mdformat by default will not change word wrapping. The rationale for this is to encourage and support [Semantic Line Breaks](https://sembr.org/), a technique described by Brian Kernighan in the early 1970s, yet still as relevant as ever today:
 
 > **Hints for Preparing Documents**
->
+> 
 > Most documents go through several versions (always more than you expected) before they are finally finished. Accordingly, you should do whatever possible to make the job of changing them easy.
->
+> 
 > First, when you do the purely mechanical operations of typing, type so subsequent editing will be easy. Start each sentence on a new line. Make lines short, and break lines at natural places, such as after commas and semicolons, rather than randomly. Since most people change documents by rewriting phrases and adding, deleting and rearranging sentences, these precautions simplify any editing you have to do later.
->
+> 
 > *—Brian W. Kernighan. “UNIX for Beginners”. 1974*
 
 Mdformat allows removing word wrap or setting a target wrap width via configuration.
@@ -141,7 +141,6 @@ Mdformat applies consistent whitespace across the board:
 - Always separate blocks with a single empty line (an exception being tight lists where the separator is a single newline character)
     
 - Always end the document in a single newline character (an exception being an empty document)
-    
 
 ## Hard Line breaks[¶](https://mdformat.readthedocs.io/en/stable/users/style.html#hard-line-breaks "Permalink to this headline")
 

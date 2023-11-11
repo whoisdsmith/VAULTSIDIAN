@@ -1,4 +1,4 @@
-# emphasis-and-strong-emphasis
+# Emphasis-and-strong-emphasis
 
 {{($page.frontmatter.start = 360) ? null : null}}
 
@@ -6,7 +6,7 @@
 
 John Gruber’s original [Markdown syntax description](http://daringfireball.net/projects/markdown/syntax#em) says:  
 
-> Markdown treats asterisks (`*`) and underscores (`_`) as indicators of emphasis. Text wrapped with one `*` or `_` will be wrapped with an HTML `<em>` tag; double `*`’s or `_`’s will be wrapped with an HTML `<strong>` tag.
+> Markdown treats asterisks (`*`) and underscores (`_`) as indicators of emphasis. Text wrapped with one `*` or `_` will be wrapped with an HTML `<em> ` tag; double `*`’s or `_`’s will be wrapped with an HTML `<strong> ` tag.
 
 This is enough for most users, but these rules leave much undecided, especially when it comes to nested emphasis. The original `Markdown.pl` test suite makes it clear that triple `***` and `___` delimiters can be used for strong emphasis, and most implementations have also allowed the following patterns:  
 
@@ -74,8 +74,8 @@ The following rules define emphasis and strong emphasis:
 
 Where rules 1–12 above are compatible with multiple parsings, the following principles resolve ambiguity:  
 
-13. The number of nestings should be minimized. Thus, for example, an interpretation `<strong>...</strong>` is always preferred to `<em><em>...</em></em>`.
-14. An interpretation `<em><strong>...</strong></em>` is always preferred to `<strong><em>...</em></strong>`.
+13. The number of nestings should be minimized. Thus, for example, an interpretation `<strong>…</strong>` is always preferred to `<em><em>…</em></em>`.
+14. An interpretation `<em><strong>…</strong></em>` is always preferred to `<strong><em>…</em></strong>`.
 15. When two potential emphasis or strong emphasis spans overlap, so that the second begins before the first ends and ends after the first ends, the first takes precedence. Thus, for example, `*foo _bar* baz_` is parsed as `<em>foo _bar</em> baz_` rather than `*foo <em>bar* baz</em>`.
 16. When there are two potential emphasis or strong emphasis spans with the same closing delimiter, the shorter one (the one that opens later) takes precedence. Thus, for example, `**foo **bar baz**` is parsed as `**foo <strong>bar baz</strong>` rather than `<strong>foo **bar baz</strong>`.
 17. Inline code spans, links, images, and HTML tags group more tightly than emphasis. So, when there is a choice between an interpretation that contains one of these elements and one that does not, the former always wins. Thus, for example, `*[foo*](bar)` is parsed as `*<a href="bar">foo*</a>` rather than as `<em>[foo</em>](bar)`.

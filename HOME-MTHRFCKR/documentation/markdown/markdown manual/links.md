@@ -27,10 +27,10 @@ A [link title](https://github.github.com/gfm/#link-title) consists of either
 
 * a sequence of zero or more characters between straight single-quote characters (`'`), including a `'`character only if it is backslash-escaped, or
 
-* a sequence of zero or more characters between matching parentheses (`(...)`), including a `(` or `)` character only if it is backslash-escaped.
+* a sequence of zero or more characters between matching parentheses (`(…)`), including a `(` or `)` character only if it is backslash-escaped.
 
 Although [link titles](https://github.github.com/gfm/#link-title) may span multiple lines, they may not contain a [blank line](https://github.github.com/gfm/#blank-line).  
-An [inline link](https://github.github.com/gfm/#inline-link) consists of a [link text](https://github.github.com/gfm/#link-text) followed immediately by a left parenthesis `(`, optional [whitespace](https://github.github.com/gfm/#whitespace), an optional [link destination](https://github.github.com/gfm/#link-destination), an optional [link title](https://github.github.com/gfm/#link-title) separated from the link destination by [whitespace](https://github.github.com/gfm/#whitespace), optional [whitespace](https://github.github.com/gfm/#whitespace), and a right parenthesis `)`. The link’s text consists of the inlines contained in the [link text](https://github.github.com/gfm/#link-text)(excluding the enclosing square brackets). The link’s URI consists of the link destination, excluding enclosing `<...>` if present, with backslash-escapes in effect as described above. The link’s title consists of the link title, excluding its enclosing delimiters, with backslash-escapes in effect as described above.  
+An [inline link](https://github.github.com/gfm/#inline-link) consists of a [link text](https://github.github.com/gfm/#link-text) followed immediately by a left parenthesis `(`, optional [whitespace](https://github.github.com/gfm/#whitespace), an optional [link destination](https://github.github.com/gfm/#link-destination), an optional [link title](https://github.github.com/gfm/#link-title) separated from the link destination by [whitespace](https://github.github.com/gfm/#whitespace), optional [whitespace](https://github.github.com/gfm/#whitespace), and a right parenthesis `)`. The link’s text consists of the inlines contained in the [link text](https://github.github.com/gfm/#link-text)(excluding the enclosing square brackets). The link’s URI consists of the link destination, excluding enclosing `<…>` if present, with backslash-escapes in effect as described above. The link’s title consists of the link title, excluding its enclosing delimiters, with backslash-escapes in effect as described above.  
 Here is a simple inline link:  
 <Example :index="$page.frontmatter.start++"/>
 
@@ -67,7 +67,7 @@ Parentheses inside the link destination may be escaped:
 Any number of parentheses are allowed without escaping, as long as they are balanced:  
 <Example :index="$page.frontmatter.start++"/>
 
-However, if you have unbalanced parentheses, you need to escape or use the `<...>` form:  
+However, if you have unbalanced parentheses, you need to escape or use the `<…>` form:  
 <Example :index="$page.frontmatter.start++"/>
 
 <Example :index="$page.frontmatter.start++"/>
@@ -135,7 +135,7 @@ These cases illustrate the precedence of link text grouping over emphasis groupi
 
 <Example :index="$page.frontmatter.start++"/>
 
-Note that brackets that _aren’t_ part of links do not take precedence:  
+Note that brackets that *aren’t* part of links do not take precedence:  
 <Example :index="$page.frontmatter.start++"/>
 
 These cases illustrate the precedence of HTML tags, code spans, and autolinks over link grouping:  
@@ -148,7 +148,7 @@ These cases illustrate the precedence of HTML tags, code spans, and autolinks ov
 There are three kinds of [reference link](https://github.github.com/gfm/#reference-link)s: [full](https://github.github.com/gfm/#full-reference-link), [collapsed](https://github.github.com/gfm/#collapsed-reference-link), and [shortcut](https://github.github.com/gfm/#shortcut-reference-link).  
 A [full reference link](https://github.github.com/gfm/#full-reference-link) consists of a [link text](https://github.github.com/gfm/#link-text) immediately followed by a [link label](https://github.github.com/gfm/#link-label) that [matches](https://github.github.com/gfm/#matches) a [link reference definition](https://github.github.com/gfm/#link-reference-definition) elsewhere in the document.  
 A [link label](https://github.github.com/gfm/#link-label) begins with a left bracket (`[`) and ends with the first right bracket (`]`) that is not backslash-escaped. Between these brackets there must be at least one [non-whitespace character](https://github.github.com/gfm/#non-whitespace-character). Unescaped square bracket characters are not allowed inside the opening and closing square brackets of [link labels](https://github.github.com/gfm/#link-label). A link label can have at most 999 characters inside the square brackets.  
-One label [matches](https://github.github.com/gfm/#matches) another just in case their normalized forms are equal. To normalize a label, strip off the opening and closing brackets, perform the _Unicode case fold_, strip leading and trailing [whitespace](https://github.github.com/gfm/#whitespace) and collapse consecutive internal [whitespace](https://github.github.com/gfm/#whitespace) to a single space. If there are multiple matching reference link definitions, the one that comes first in the document is used. (It is desirable in such cases to emit a warning.)  
+One label [matches](https://github.github.com/gfm/#matches) another just in case their normalized forms are equal. To normalize a label, strip off the opening and closing brackets, perform the *Unicode case fold*, strip leading and trailing [whitespace](https://github.github.com/gfm/#whitespace) and collapse consecutive internal [whitespace](https://github.github.com/gfm/#whitespace) to a single space. If there are multiple matching reference link definitions, the one that comes first in the document is used. (It is desirable in such cases to emit a warning.)  
 The contents of the first link label are parsed as inlines, which are used as the link’s text. The link’s URI and title are provided by the matching [link reference definition](https://github.github.com/gfm/#link-reference-definition).  
 Here is a simple example:  
 <Example :index="$page.frontmatter.start++"/>

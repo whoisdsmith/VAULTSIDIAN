@@ -1,22 +1,24 @@
+# Tools
+
 -   [Make Help Center](https://www.make.com/en/help/index-en.html)
 -   [Tools](https://www.make.com/en/help/tools.html)
 -   Tools
 
-## Getting started with Tools
+## Getting Started with Tools
 
 Our Tools section includes several useful modules that can enhance your scenario.
 
 ## Triggers
 
-### Basic trigger
+### Basic Trigger
 
 Allows you to create a custom trigger and define its input bundles.
 
 <table><colgroup><col><col></colgroup><tbody><tr><td><p><span><strong>Bundle</strong></span></p></td><td><p>Create custom bundles by adding array items.</p><p>The array consists of the <span><em>name-value</em></span> pairs.</p></td></tr></tbody></table>
 
-You can use it, for example, for contacts or any other list that is scheduled to be sent to a specified email address (_Email_ > _Send an Email,_ _Gmail_ > _Send an Email_ modules), or as a simple reminder to be triggered whenever you want.
+You can use it, for example, for contacts or any other list that is scheduled to be sent to a specified email address (*Email* > *Send an Email,* *Gmail* > *Send an Email* modules), or as a simple reminder to be triggered whenever you want.
 
-## Increment function
+## Increment Function
 
 Returns a value incremented by 1 after each module's operation. It is possible to configure the module to reset the value:
 
@@ -25,7 +27,6 @@ Returns a value incremented by 1 after each module's operation. It is possible t
 -   After one scenario run
     
 -   Never
-    
 
 **Example**
 
@@ -35,11 +36,11 @@ The following scenario sends an email to the first recipient after every **odd**
 
 Configure the module to never reset the value:
 
-There are two conditions used after the _router_ module:
+There are two conditions used after the *router* module:
 
 1\. Odd – set the condition using the **modulus** math function that equals `1`:
 
-Do not forget to change the _Equal to_ operator from the default _Text operator_ to the **Numeric operator**!
+Do not forget to change the *Equal to* operator from the default *Text operator* to the **Numeric operator**!
 
 2\. Even – set the condition using the modulus math function that equals `0`:
 
@@ -56,7 +57,6 @@ If you wish to pause the flow for longer periods of time, we suggest splitting y
 1.  The first scenario would contain the part before the pause
     
 2.  The second scenario would contain the part after it
-    
 
 The **first scenario** would end up storing all the necessary information in a [Data store](https://www.make.com/en/help/tools/data-store.html "Data store") together with the current timestamp. The **second scenario** would periodically check the Data store for records with a timestamp older than the intended delay, retrieve the records, finalize the processing of the data, and remove the records from the Data store.
 
@@ -70,12 +70,11 @@ Creates a variable that can be mapped by other modules in the route or by the [G
 
 Creates multiple variables that can be mapped by other modules in the route or by the [Get Multiple Variables](https://www.make.com/en/help/tools/tools.html#get-multiple-variables "Get Multiple Variables") module for every route in the scenario **within a single operation**.
 
-The main benefits of the _Set multiple variables_ module are:
+The main benefits of the *Set multiple variables* module are:
 
--   one _Set multiple variables_ module can replace a whole series of [Set variable](https://www.make.com/en/help/tools/tools.html#set-variable "Set Variable") modules
+-   one *Set multiple variables* module can replace a whole series of [Set variable](https://www.make.com/en/help/tools/tools.html#set-variable "Set Variable") modules
     
--   one _Set multiple variables_ module consumes just a single operation
-    
+-   one *Set multiple variables* module consumes just a single operation
 
 <table><colgroup><col><col></colgroup><tbody><tr><td><p><span><strong>Variables</strong></span></p></td><td><p>Add multiple variables you want to set.</p><div><table><colgroup><col><col></colgroup><tbody><tr><td><p><span><strong>Variable name</strong></span></p></td><td><p>Enter the variable name. This name will be displayed when mapping the variable in other modules.</p></td></tr><tr><td><p><span><strong>Variable value</strong></span></p></td><td><p>Enter the value of the variable.</p></td></tr></tbody></table></div></td></tr><tr><td><p><span><strong>Variable lifetime</strong></span></p></td><td><p>One cycle</p><p>The variable is valid only for one cycle. Useful when multiple webhooks in one <span>scenario</span> run are received (more webhooks = more cycles).</p><p>One execution</p><p>The variable is valid for one execution. One execution can contain more cycles.</p></td></tr></tbody></table>
 
@@ -84,7 +83,6 @@ Possible uses of the **Set/Get (multiple) variable(s)** modules:
 -   To store a calculated value for later use, even in a different route. Especially in cases when the value is used in multiple modules and the formula to calculate the value is overly complex.
     
 -   To debug a formula. If a formula used in a module does not seemingly provide a correct result, copy the formula and paste it into a **Set Variable** module that you insert before the relevant module. Disconnect the module(s) after the **Set Variable** module and execute the scenario. Verify the **Set Variable** module's output, adjust/simplify the formula, execute the scenario again, and continue to do so until the issue has been resolved.
-    
 
 ## Get Variable
 
@@ -96,12 +94,11 @@ Note that this module can read a variable that was set **anywhere in the scenari
 
 Retrieves values that were previously created by the [Set Multiple Variables](https://www.make.com/en/help/tools/tools.html#set-multiple-variables "Set Multiple Variables") module **within a single operation**.
 
-The main benefits of the _Set multiple variables_ module are:
+The main benefits of the *Set multiple variables* module are:
 
--   one _Get multiple variables_ module can replace a whole series of [Get variable](https://www.make.com/en/help/tools/tools.html#get-variable "Get Variable") modules
+-   one *Get multiple variables* module can replace a whole series of [Get variable](https://www.make.com/en/help/tools/tools.html#get-variable "Get Variable") modules
     
--   one _Get multiple variables_ module consumes just a single operation
-    
+-   one *Get multiple variables* module consumes just a single operation
 
 <table><colgroup><col><col></colgroup><tbody><tr><td><p><span><strong>Variables</strong></span></p></td><td><p>Add multiple variables you want to get.</p><div><table><colgroup><col><col></colgroup><tbody><tr><td><p><span><strong>Variable name</strong></span></p></td><td><p>Map the variable name of the variable you want to get.</p></td></tr></tbody></table></div></td></tr></tbody></table>
 
@@ -110,7 +107,6 @@ Possible uses of the **Set/Get (multiple) variable(s)** modules:
 -   To store a calculated value for later use, even in a different route. Especially in cases when the value is used in multiple modules and the formula to calculate the value is overly complex.
     
 -   To debug a formula. If a formula used in a module does not seemingly provide a correct result, copy the formula and paste it into a **Set Variable** module that you insert before the relevant module. Disconnect the module(s) after the **Set Variable** module and execute the scenario. Verify the **Set Variable** module's output, adjust/simplify the formula, execute the scenario again, and continue to do so until the issue has been resolved.
-    
 
 ## Aggregators
 
@@ -130,11 +126,11 @@ You can use the text aggregator tool to insert more values (e.g. customer names 
 
 ### Numeric Aggregator
 
-This module allows you to retrieve numerical values, then apply one of the selected functions (SUM, AVG, COUNT, MAX,...), and return the result in one bundle.
+This module allows you to retrieve numerical values, then apply one of the selected functions (SUM, AVG, COUNT, MAX,…), and return the result in one bundle.
 
 **Example**
 
-The module sums up values under the _number_ parameter.
+The module sums up values under the *number* parameter.
 
 ## Transformers
 

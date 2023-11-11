@@ -2,7 +2,7 @@
 tags: MOCs
 ---
 
-# MOC: kubernetes
+# MOC: Kubernetes
 
 ---
 

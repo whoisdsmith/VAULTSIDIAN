@@ -1,4 +1,4 @@
-# thematic-breaks
+# Thematic-breaks
 
 {{($page.frontmatter.start = 13) ? null : null}}
 

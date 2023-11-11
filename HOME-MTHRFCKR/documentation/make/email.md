@@ -1,3 +1,5 @@
+# Email
+
 -   [Make Help Center](https://www.make.com/en/help/index-en.html)
 -   [Tools](https://www.make.com/en/help/tools.html)
 -   Email
@@ -7,7 +9,6 @@ The Email app allows you to download emails via IMAP, send emails via SMTP, crea
 ## Prerequisites
 
 -   An email account
-    
 
 ### Caution
 
@@ -20,20 +21,18 @@ You can connect your Email account toMake using the following methods:
 -   [Connecting using a Gmail account](https://www.make.com/en/help/tools/email.html#connecting-using-a-gmail-account "Connecting using a Gmail account")
     
 -   [Connecting other email using IMAP](https://www.make.com/en/help/tools/email.html#connecting-other-email-using-imap "Connecting other email using IMAP")
-    
 
-### Connecting using a Gmail account
+### Connecting Using a Gmail account
 
 1.  Go to Make and open the **Email** module's **Create a connection** dialogue and select the Connection type as Google.
     
 2.  In the **Connection name** field, enter a name for the connection and click **Save**.
     
 3.  Confirm the access by clicking **Allow**.
-    
 
 The connection has been established.
 
-### Connecting other email using IMAP
+### Connecting other Email Using IMAP
 
 1.  Go to Make and open the **Email** module's **Create a connection** dialogue and select **Connection type as Others (IMAP)**.
     
@@ -62,7 +61,6 @@ The connection has been established.
         6.  **Password:** Enter your password.
             
 4.  Click **Continue**.
-    
 
 The connection has been established.
 
@@ -76,7 +74,7 @@ Triggers when a new email is received for processing according to specified crit
 
 ## Actions
 
-### Copy an email
+### Copy an Email
 
 Copies an email or a draft into a selected folder.
 
@@ -124,7 +122,7 @@ Sends a new email.
 
 <table><colgroup><col><col></colgroup><tbody><tr><td><p><span><strong>Connection</strong></span></p></td><td><p><a href="https://www.make.com/en/help/tools/email.html#connecting-email-to-make-935249" title="Connecting Email to Make">Establish a connection to your Email account</a>.</p></td></tr><tr><td><p><span><strong>Save Message after Sending</strong></span></p></td><td><p>Select whether you want to save the email in your mail box after sending it.</p></td></tr><tr><td><p><span><strong>To</strong></span></p></td><td><p>Enter the email address to whom you want to send the email.</p></td></tr><tr><td><p><span><strong>Subject</strong></span></p></td><td><p>Enter the subject line of the email.</p></td></tr><tr><td><p><span><strong>Content Type</strong></span></p></td><td><p>Select the content type for the email:</p><div><ul><li><p><span><em>HTML</em></span></p></li><li><p><span><em>Plain Text</em></span></p></li></ul></div></td></tr><tr><td><p><span><strong>Content</strong></span></p></td><td><p>Enter the email content in HTML format using HTML tags or in the plain text as selected in the <span><em>Content Type</em></span> field.</p></td></tr><tr><td><p><span><strong>Attachments</strong></span></p></td><td><p>Add an attachment:</p><p><span><strong>File name</strong></span></p><p>Enter the file name. For example, sample.doc.</p><p><span><strong>Data</strong></span></p><p>Enter the path to the folder to upload the attachment.</p><p><span><strong>Content-ID</strong></span></p><p>Enter the content ID to insert the attachment (image) in the content.</p></td></tr><tr><td><p><span><strong>Copy Recipient</strong></span></p></td><td><p>Enter the email address to whom you want to send a copy of this email.</p></td></tr><tr><td><p><span><strong>Blind Copy Recipient</strong></span></p></td><td><p>Enter the email address to whom you want to send a copy of this email without having their email addresses appear in the email.</p></td></tr><tr><td><p><span><strong>From</strong></span></p></td><td><p>Enter the email address (and name, if needed) that appears in the <span><em>From</em></span> field in the email. Use the correct syntax: <code>name@email.com</code> or <code>"Name" name@email.com</code></p></td></tr><tr><td><p><span><strong>Sender</strong></span></p></td><td><p>Enter the email address that appears in the <span><em>Sender</em></span> field in the email.</p><p>1. Open the <span><em>Send an email</em></span> action advanced settings using the checkbox</p><div id="UUID-46e0cf8d-30ce-2858-9298-099258a18ddf_mediaobject-idm4579545536704032900424400913"><p><img src="https://www.make.com/en/help/image/1621f615db9303.png" alt="Show_advanced_settings.png"></p></div><p>2. Enter the required sender name or email</p><p>Use the correct syntax as shown in the hint on the screenshot below. <code>name@email.com</code> or <code>"Name" name@email.com</code></p><div id="UUID-46e0cf8d-30ce-2858-9298-099258a18ddf_mediaobject-idm4581976602998432915836011514"><p><img src="https://www.make.com/en/help/image/1621f615dbcebb.png" alt="emailSendEmail.png"></p></div></td></tr><tr><td><p><span><strong>Reply-To</strong></span></p></td><td><p>Enter the details of the email for which you are sending this email as a reply.</p></td></tr><tr><td><p><span><strong>In-Reply-To</strong></span></p></td><td><p>Enter the details of the email for which you are drafting this email in reply to.</p></td></tr><tr><td><p><span><strong>References</strong></span></p></td><td><p>Enter the details of any reference you want to add to the email.</p></td></tr><tr><td><p><span><strong>Priority</strong></span></p></td><td><p>Select the priority of the email:</p><div><ul><li><p><span><em>High</em></span></p></li><li><p><span><em>Low</em></span></p></li><li><p><span><em>Normal</em></span></p></li></ul></div></td></tr><tr><td><p><span><strong>Headers</strong></span></p></td><td><p>Add the headers:</p><p><span><strong>Key</strong></span></p><p>Add the key. For example, Sender, Date, To, and so on.</p><p><span><strong>Value</strong></span></p><p>Enter the value for the key.</p></td></tr></tbody></table>
 
-### The Unique Email ID in IMAP protocol
+### The Unique Email ID in IMAP Protocol
 
 The Unique Email ID known as 'Email ID (UID)' is the email's identifier. The Email ID is specific for each of the email's folders.
 

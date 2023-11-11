@@ -1,4 +1,4 @@
-# tables-extension
+# Tables-extension
 
 {{($page.frontmatter.start = 198) ? null : null}}
 

@@ -1,4 +1,4 @@
-# raw-html
+# Raw-html
 
 {{($page.frontmatter.start = 632) ? null : null}}
 
@@ -26,7 +26,7 @@ An [open tag](https://github.github.com/gfm/#open-tag) consists of a `<` cha
 
 A [closing tag](https://github.github.com/gfm/#closing-tag) consists of the string `</`, a [tag name](https://github.github.com/gfm/#tag-name), optional [whitespace](https://github.github.com/gfm/#whitespace), and the character `>`.  
 
-An [HTML comment](https://github.github.com/gfm/#html-comment) consists of `<!--` + _text_ + `-->`, where _text_ does not start with `>` or `->`, does not end with `-`, and does not contain `--`. (See the [HTML5 spec](http://www.w3.org/TR/html5/syntax.html#comments).)  
+An [HTML comment](https://github.github.com/gfm/#html-comment) consists of `<!--` + *text* + `-->`, where *text* does not start with `>` or `->`, does not end with `-`, and does not contain `--`. (See the [HTML5 spec](http://www.w3.org/TR/html5/syntax.html#comments).)  
 
 A [processing instruction](https://github.github.com/gfm/#processing-instruction) consists of the string `<?`, a string of characters not including the string `?>`, and the string `?>`.  
 
