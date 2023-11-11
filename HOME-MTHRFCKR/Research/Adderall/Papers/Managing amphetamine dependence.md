@@ -1,4 +1,4 @@
-# Managing amphetamine dependence
+# Managing Amphetamine Dependence
 
 Advances in Psychiatric Treatment (2000), vol. 6, pp. 33-40 Managing amphetamine dependence Malcolm Bruce
 

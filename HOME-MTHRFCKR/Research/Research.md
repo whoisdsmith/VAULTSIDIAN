@@ -3,6 +3,7 @@
 ---
 
 %% Begin Waypoint %%
+
 - **[research](../../..//home-mthrfckr/Research/Research.md)**
 	- [a-context-based-information-refinding-system](A-Context-Based-Information-Refinding-System.md)
 	- [academic](Academic.md)

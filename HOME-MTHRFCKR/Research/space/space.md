@@ -3,6 +3,7 @@
 ---
 
 %% Begin Waypoint %%
+
 - **[space](../../../..//home-mthrfckr/Research/Space/Space.md)**
 	- [50-space-terms-for-understanding-the-universe](50-Space-Terms-For-Understanding-The-Universe.md)
 	- [aos-blog](Aos-Blog.md)

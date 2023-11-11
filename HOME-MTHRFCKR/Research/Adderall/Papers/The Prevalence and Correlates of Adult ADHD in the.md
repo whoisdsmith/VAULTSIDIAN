@@ -95,7 +95,7 @@ Education (years) 0-11
 
 13-15 35.8 3.9 5.0 0.9 1.6 0.8-3.2
 
->16 15.8 5.0 2.9 0.8 1.0
+> 16 15.8 5.0 2.9 0.8 1.0
 
 Marital status Married or cohabitating  
 45.0  

@@ -1,4 +1,4 @@
-# An extrapyramidal choreiform syndrome caused by am
+# An Extrapyramidal Choreiform Syndrome Caused by Am
 
 Downloaded from http://jnnp.bmj.com/ on June 23, 2015 - Published by group.bmj.com Journal of Neurology, Neurosurgery, and Psychiatry, 1981,44, 728-730 Short report An extrapyramidal choreiform syndrome caused by amphetamine addiction H LUNDH AND K TUNVING From the Departments of Neurology and Psychiatric Research, University of Lund, Sweden summar y Four cases are described to demonstrate the extrapyramidal clinical syndrome sometimes appearing in chronic amphetamine users. The symptoms are dominated by choreiform or athetoid movements, ataxia and disturbances of gait. The syndrome develops during amphetamine abuse and may be observed also during abstinence. The symptoms usually disappear within a week when the drug is discontinued, but may remain for years.
 

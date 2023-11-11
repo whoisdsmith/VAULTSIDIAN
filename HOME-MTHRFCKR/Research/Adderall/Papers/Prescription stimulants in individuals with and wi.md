@@ -1,4 +1,4 @@
-# Prescription stimulants in individuals with and wi
+# Prescription Stimulants in Individuals with and Wi
 
 Brain and Behavior Prescription stimulants in individuals with and without attention deficit hyperactivity disorder: misuse, cognitive impact, and adverse effects Shaheen E. Lakhan & Annette Kirchgessner Global Neuroscience Initiative Foundation, Los Angeles, California
 

@@ -1,4 +1,4 @@
-# The ugly side of amphetamines shortand long-ter
+# The Ugly Side of Amphetamines Shortand Long-ter
 
 Biol. Chem., Vol. 392, pp. 103-115, January/February 2011 • Copyright © by Walter de Gruyter • Berlin • New York. DOI 10.1515/BC.2011.016 Review The ugly side of amphetamines: shortand long-term toxicity of 3,4-methylenedioxymethamphetamine (MDMA, 'Ecstasy'), methamphetamine and D-amphetamine
 

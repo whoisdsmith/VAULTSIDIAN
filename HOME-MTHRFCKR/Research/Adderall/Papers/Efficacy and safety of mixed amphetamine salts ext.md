@@ -1,4 +1,4 @@
-# Efficacy and safety of mixed amphetamine salts ext
+# Efficacy and Safety of Mixed Amphetamine Salts Ext
 
 Clinical Therapeutics/Volume 28, Number 2, 2006 Efficacy and Safety of Mixed Amphetamine Salts Extended Release (Adderall XR) in the Management of AttentionDeficit/Hyperactivity Disorder in Adolescent Patients: A 4-Week, Randomized, Double-Blind, Placebo-Controlled, Parallel-Group Study ThomasJ. Spencer, MD 1 ; Timothy E. Wilens, MD 1 ; Joseph Biederman, MD 1 ; Richard H. Weisler, MD 2 ; Stephanie C. Read, MS 3 ; and Raymond Pratt, MD 3 1 Clinical and Research Program in Pediatric Psychopharmacology, Massachusetts General Hospital, and Harvard Medical School, Boston, Massachusetts; 2 University of North Carolina at Chapel Hill, Chapel Hill, and Duke University Medical Center, Durham, North Carolina; and 3 Shire Pharmaceuticals Inc., Wayne, Pennsylvania
 

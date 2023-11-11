@@ -3,6 +3,7 @@
 ---
 
 %% Begin Waypoint %%
+
 - **[sci-fi](../../../..//home-mthrfckr/Research/Sci-Fi/Sci-Fi.md)**
 	- [660-science-fiction-writing-prompts-that-will-get-you-writing-at-warp-speed](660-Science-Fiction-Writing-Prompts-That-Will-Get-You-Writing-At-Warp-Speed.md)
 	- [a-complete-glossary-of-terms-for-science-fiction-writers](A-Complete-Glossary-Of-Terms-For-Science-Fiction-Writers.md)

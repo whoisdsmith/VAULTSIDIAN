@@ -1,4 +1,4 @@
-# Amphetamines induce apoptosis and regulation of bc
+# Amphetamines Induce Apoptosis and Regulation of Bc
 
 Amphetamines induce apoptosis and regulation of bcl-x splice variants in neocortical neurons G. STUMM,*’ 1 T. SCHLEGEL,* T. SCHAFER, + C. WURZ, : H. D. MENNEL,* T.-C. KRIEG, 1 AND H. VEDDER ♦ Department of Neuropathology, ^Institute of Forensic Medicine and ^Department of Psychiatry, Philipps-University, Marburg, Germany
 

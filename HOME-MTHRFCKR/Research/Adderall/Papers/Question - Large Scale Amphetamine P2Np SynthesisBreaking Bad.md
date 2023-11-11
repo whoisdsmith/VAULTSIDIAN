@@ -5,17 +5,15 @@ source: http://6tn2ejdphoveywwt6pc2sbaez62bytq4vr4xd2f2b6mrffhzakrcvbid.onion/th
 author: 
 ---
 
-# Question - Large scale Amphetamine P2NP Synthesis? | Breaking Bad
+# Question - Large Scale Amphetamine P2NP Synthesis? | Breaking Bad
 
 > ## Excerpt
-> Is there a large scale method WITHOUT NaBH4 reduction or P2P or MDP2P. I tried 100g P2NP with Al/Hg it was too violent and went out of control ... Got aluminium sludge+ whatever else there was on my arms working table etc. ... made a big mess.
+> Is there a large scale method WITHOUT NaBH4 reduction or P2P or MDP2P. I tried 100g P2NP with Al/Hg it was too violent and went out of control … Got aluminium sludge+ whatever else there was on my arms working table etc…. made a big mess.
 
+## [panchaspsycho]
 
-#### [panchaspsycho]
+Is there a large scale method WITHOUT NaBH4 reduction or P2P or MDP2P. I tried 100g P2NP with Al/Hg it was too violent and went out of control … Got aluminium sludge+ whatever else there was on my arms working table etc…. made a big mess.
 
-Is there a large scale method WITHOUT NaBH4 reduction or P2P or MDP2P. I tried 100g P2NP with Al/Hg it was too violent and went out of control ... Got aluminium sludge+ whatever else there was on my arms working table etc. ... made a big mess.
-
-
-#### [metux]
+## [metux]
 
 Hydrogenation,under pressure,but you can kill you self,if you doint no how to handle reaction vessel.

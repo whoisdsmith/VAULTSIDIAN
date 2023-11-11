@@ -1,4 +1,4 @@
-# Further evidence that amphetamines produce long-la
+# Further Evidence that Amphetamines Produce Long-la
 
 Brain Research, 303 (1984) 359-364 Elsevier BRE 10112  
 359

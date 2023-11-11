@@ -1,4 +1,4 @@
-# Enhancement stimulants perceived motivational and
+# Enhancement Stimulants Perceived Motivational and
 
 toomferg to NEUROSCIENCE  
 ORIGINAL RESEARCH ARTICLE published: 31 October 2013 doi: 10.3389/fnins.2013.00198

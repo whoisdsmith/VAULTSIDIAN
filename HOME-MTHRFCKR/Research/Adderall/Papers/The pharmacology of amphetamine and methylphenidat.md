@@ -1,4 +1,4 @@
-# The pharmacology of amphetamine and methylphenidat
+# The Pharmacology of Amphetamine and Methylphenidat
 
 Accepted Manuscript
 

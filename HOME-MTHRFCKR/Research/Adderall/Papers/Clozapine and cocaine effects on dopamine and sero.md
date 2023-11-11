@@ -1,4 +1,4 @@
-# Clozapine and cocaine effects on dopamine and sero
+# Clozapine and Cocaine Effects on Dopamine and Sero
 
 Available online at www.sciencedirect.com
 

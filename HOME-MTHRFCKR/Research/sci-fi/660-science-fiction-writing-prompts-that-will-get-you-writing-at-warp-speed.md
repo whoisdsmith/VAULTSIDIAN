@@ -3,37 +3,69 @@
 Science Fiction has been [recently referred to](https://www.wired.com/2008/01/st-thompson-26/) as the last great literature of ideas. It contains imaginative concepts such as parallel universes, fictional worlds full of advanced technology, time travel, extraterrestrial life, and even sociocultural commentary. Below are 660 prompts to help you get started on your next Science Fiction writing project. Please feel free to use any of these prompts. **You don't have to credit us, but it would be much appreciated if you do!** A simple link to ServiceScape is the best way to do that.
 
 * Aliens
+
 * Alternate History
+
 * Alternate/Parallel Universe
+
 * Apocalyptic/Post-Apocalyptic
+
 * Biopunk
+
 * Children's Story
+
 * Colonization
+
 * Comedy
+
 * Cyberpunk
+
 * Dying Earth
+
 * Dystopia
+
 * Galactic Empire
+
 * Generation Ship
+
 * Hard Science Fiction
+
 * Immortality
+
 * Lost Worlds
+
 * Military
+
 * Mind Transfer
+
 * Mundane Science Fiction
+
 * Mythic
+
 * Nanopunk
+
 * Robots/A.I.
+
 * Science Fantasy
+
 * Science Horror
+
 * Slipstream
+
 * Soft Science Fiction
+
 * Space Exploration
+
 * Space Opera
+
 * SpyFi
+
 * Steampunk
+
 * Time Travel
+
 * Utopia
+
 * Young Adult
 
 ## Aliens
@@ -1062,9 +1094,13 @@ Themes and stories within this subgenre will appeal to an adolescent or young ad
 Well, that's it! We hope that you find these writing prompts useful. A special thanks to [Catherine Gilson Highton](https://www.behance.net/catherinea2) for her great illustrations. Also, we would like to thank all of the writers who have contributed to this post. We couldn't have done it without you!
 
 * [GrammarMaven](writers/grammarmaven)
+
 * [Jesse Tate](mailto:jesse.tate@icloud.com)
+
 * [Lauren Meikle](https://www.lkmcreative.com)
+
 * [ScienceEditor](writers/scienceeditor)
+
 * [ShannonSays](writers/shannonsays)
 
 ___

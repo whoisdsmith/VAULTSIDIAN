@@ -1,4 +1,4 @@
-# Prescribing amphetamine to amphetamine users as a
+# Prescribing Amphetamine to Amphetamine Users as a
 
 ELSEVIER  
 International Journal of Drug Policy 9 (1998) 339-344  

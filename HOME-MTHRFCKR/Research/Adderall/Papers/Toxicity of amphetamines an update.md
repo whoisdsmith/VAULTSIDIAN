@@ -1,4 +1,4 @@
-# Toxicity of amphetamines an update
+# Toxicity of Amphetamines an Update
 
 Arch Toxicol (2012) 86:1167-1231 DOI 10.1007/s00204-012-0815-5 REVIEW ARTICLE Toxicity of amphetamines: an update Marcia Carvalho • Helena Carmo • Vera Marisa Costa • Joao Paulo Capela • Helena Pontes • Fernando Remiao • Felix Carvalho • Maria de Lourdes Bastos Received: 24 January 2012/Accepted: 2 February 2012/Published online: 6 March 2012 © Springer-Verlag 2012
 

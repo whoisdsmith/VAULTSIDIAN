@@ -1,4 +1,4 @@
-# Treatment for amphetamine withdrawal
+# Treatment for Amphetamine Withdrawal
 
 Treatment for amphetamine withdrawal (Review) Shoptaw SJ, Kao U, Heinzerling K, Ling W THE COCHRANE COLLABORATION® This is a reprint of a Cochrane review, prepared and maintained by The Cochrane Collaboration and published in The Cochrane Library 2009, Issue 2 http://www.thecochranelibrary.com Treatment for amphetamine withdrawal (Review) Copyright© 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
 
@@ -630,7 +630,7 @@ Favours treatment Favours control
 APPENDICES Appendix I. MEDLINE search strategy 1. randomized controlled trial.pt . 2. controlled trial.pt . 3. randomized controlled trials/ 4. controlled clinical trials/ 5. random$.ti,ab. 6. Double-blind method/ or Random allocation/ 7. single blind method/ 8. ((singl$ or doubl$ or trebl$ or tripl$) adj (blindS or mask$).mp.[mp=title, abstract, registry number word, mesh subject heading] 9. clinical trial.pt . 10. clinical trials/ 11. (clinical adj trial$).ti,ab. 12. placebos/ 13. placebo$,ti,ab. 14. research design/ 15. exp evaluation studies/ 16. follow-up studies/ 17. follow up.ti,ab. 18. prospective studies/ 19. (controls or prospectiv$ or volunteer$).ti,ab. 20. or/1-19 21. amphetamine/ or dextroamphetamine/ or methamphetamine/ 22. (amphetamine or methamphetamine or dextroamphetamine).ti,ab. 23. 21 or 22 Treatment for amphetamine withdrawal (Review) Copyright© 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.  
 24
 
-■—
+■—  
 24. exp substance-related disorders/dt,px,rh,th [Drug Therapy, Psychology, Rehabilitation, Therapy] 25. 20 and 23 and 24 26. limit 25 to human Appendix 2. CINAHL search strategy 1. amphetamines/ 2. amphetamine/ 3. dextroamphetamine/ 4. methamphetamine/ 5. or/1-2 6. dependence/ 7. abuse/ 8. psychosis 9. withdrawal 10. or/6-9 11. 5 and 10 Appendix 3. PsycINFO search strategy 1. exp Clinical Trials/ 2. exp Drug Therapy/ 3. exp Longitudinal Studies/ 4. prospective studies/ 5. controlled study.mp. 6. exp Followup Studies/ 7. random$ trial$.mp. 8. controlled trial$.mp. 9. randomized controlled trial.mp. 10. 1 or 2 or 3 or 4 or 5 or 6 or 7 or 8 or 9 11. exp AMPHETAMINE/ 12. exp METHAMPHETAMINE/ 13. exp Dextroamphetamine/ 14. 11 or 12 or 13 15. exp Drug Abuse/ 16. exp Drug Dependency/ 17. 15 or 16 18. exp Drug Withdrawal/ 19. exp PSYCHOSIS/ 20. 17 or 18 or 19 21. 14 and 20 22. 10 and 21 23. limit 22 to human (135) Treatment for amphetamine withdrawal (Review) Copyright© 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.  
 25
 

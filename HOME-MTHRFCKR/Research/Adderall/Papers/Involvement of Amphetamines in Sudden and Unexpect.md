@@ -37,7 +37,7 @@ Case Year Sex/Age Cause of Death/Autopsy Findings Toxicology* Duration of Drug U
 Al: Hemorrhage and presence of amphetamines 1 2003 M/56 Subarachnoid hemorrhage  
 MA 0.2
 
->5 years  
+> 5 years  
 i.v.  
 Plasma (antemortem
 
@@ -46,7 +46,7 @@ Ruptured internal carotid artery hospital sample)
 aneurysm (no autopsy due to objection) 2 2003 M/44 Methamphetamine toxicity  
 Amphetamine 0.5
 
->10 years  
+> 10 years  
 p.o.  
 Blood cavity
 
@@ -81,49 +81,49 @@ arteriovenous malformation Nephrotic syndrome A2: Toxicity associated with amphe
 7 2001 M/37 Ischemic heart disease Left ventricular hypertrophy Cardiomegaly (545 g) Coronary artery disease (90-95% lumen) Scarring of ventricular myocardium Atheromatous streaks on carotid arteries Hepatitis C  
 MA 0.8 Amphetamine 0.1 Fluoxetine 0.2
 
->20 years  
+> 20 years  
 i.v.  
 Femoral blood
 
 8 2001 M/23 Combined drug toxicity Coronary artery disease (95% LAD) Acute thrombosis Cardiomegaly (458 g) Congested lungs  
 MA 0.14 MDMA 0.05
 
->5 years  
+> 5 years  
 p.o.  
 Femoral blood
 
 9 2001 F/21 MDMA toxicity Probable cardiac arrhythmia (reported by pathologist at autopsy) Mild myocardial fibrosis Congested lungs  
 MDMA 0.5
 
->5 years  
+> 5 years  
 p.o.  
 Femoral blood
 
 10 2001 M/25 Combined drug toxicity Contraction band necrosis Cardiomegaly (390 g) Mild brain edema Liver congestion Pulmonary edema Enlarged spleen (480 g)  
 MA 0.3 MDMA 1.3 Pseudoephedrine 0.2
 
->2 years  
+> 2 years  
 p.o.  
 Femoral blood
 
 11 2002 M/44 Toxicity to amphetamines Coronary artery disease (80% LAD, 60-70% RCA) Pulmonary edema Hepatitis C  
 MA 0.5
 
->5 years  
+> 5 years  
 i.v.  
 Femoral blood
 
 12 2003 M/30 Combined effects of drugs Coronary artery disease (80% LAD, 50% RPP, minor LCV) Cardiomegaly (620 g) History of cardiac dysrhythmia  
 MA 0.1 MDMA 0.1 Ethanol 0.05
 
->3 years  
+> 3 years  
 p.o.  
 Femoral blood
 
 13 2004 F/47 Myocardial ischemia and fibrosis Cardiomegaly (470 g) Contraction band change Pulmonary edema  
 Amphetamine 0.2 THC 6
 
->20 years  
+> 20 years  
 p.o.  
 Femoral blood
 
@@ -139,35 +139,35 @@ Unknown Femoral blood
 15 2004 M/40 Coronary artery disease (50-95% LAD, 20% RCA and LCV) Cardiomegaly (575 g)  
 MA 0.4
 
->3 years  
+> 3 years  
 p.o.  
 Femoral blood
 
 16 2004 M/24 Toxicity to amphetamines Cardiomegaly (440 g) Meningeal congestion and edema Pulmonary edema  
 MA 0.1 MDMA 2.6 MDA 0.1 Moclobemide 0.7
 
->5 years  
+> 5 years  
 p.o.  
 Femoral blood
 
 17 2004 F/40 Toxicity to amphetamines Pneumonia Enlarged spleen (470 g) Pulmonary edema  
 Amphetamine 0.06 MA 0.6
 
->5 years  
+> 5 years  
 i.v.  
 Femoral blood
 
 18 2004 M/21 MA Toxicity Brain edema (1540 g) Vascular congestion Inflammatory infiltrates within myocardium Pulmonary edema  
 MA 6.8 Amphetamine 0.6
 
->2 years  
+> 2 years  
 p.o.  
 Femoral blood
 
 19 2005 M/49 MA toxicity Ischemic heart disease Coronary artery disease (75% LAD, 75% RCA, 50% LCV) Cardiomegaly (530 g) Pulmonary edema Hepatitis C  
 MA 60 Amphetamine 0.02
 
->13 years  
+> 13 years  
 i.v.  
 Femoral blood
 
@@ -184,7 +184,7 @@ Unknown Femoral blood
 22 2005 F/42 Cardiomyopathy Pulmonary edema Hepatitis C  
 MA 0.04 Diazepam 0.4 THC 4
 
->5 years  
+> 5 years  
 i.v.  
 Femoral blood
 
@@ -206,7 +206,7 @@ MA 0.44 THC 6
 A3: Amphetamines plus serotonin syndrome 26 2002 M/31 Mixed drug toxicity Focal contraction band necrosis Brain edema Cardiomegaly (315 g) Serotonin syndrome Edematous, hemorrhagic lungs Hepatitis C  
 Amphetamine 0.06 MDMA 1.7 MDA 0.1 Moclobemide 0.3 THC 6
 
->15 years  
+> 15 years  
 p.o.  
 Femoral blood
 
@@ -249,7 +249,7 @@ M/30
 Toxicity to amphetamines Hepatitis C  
 Amphetamine 0.2 MA 0.2
 
->5 years  
+> 5 years  
 i.v.  
 Femoral blood
 
@@ -258,7 +258,7 @@ M/32
 Toxicity to amphetamines (Decomposition)  
 MDMA 93 MDA 1 MA 0.4 Amphetamine 0.1
 
->14 years  
+> 14 years  
 p.o., i.v.  
 Blood cavity
 

@@ -12,17 +12,17 @@ To Daniella Urbach-Ross: I cannot say enough how fortunate I am to have met you 
 
 also for your kind words and encouragement as I finished up. I hope I continue to make you proud. Most importantly, to my advisor Dr. George C. Wagner: Thank you for believing in me and supporting me throughout my graduate career. You have been an extraordinary role model and your knowledge, guidance, integrity and patience have helped mature me into a true scientist. You have been the best teacher, both in the classroom and behind the bench, that I have ever had and I am forever in debt to you for all the things you have taught me over the years. I look forward to continued shared laughter, friendship and collaborations. I hope I have made you proud and continue to do so in the future. vii
 
-Table of Contents Abstract of the Dissertation……………………………………………………………ii Acknowledgments.........................................................................................................iv List of Figures................................................................................................................x Introduction....................................................................................................................1 Part I: Biomarkers and Models of Parkinson’s disease..................................................3 Parkinson’s disease.............................................................................................3 Amphetamine model of Parkinson’s disease....................................................12 - Experiment 1: Acute effects of amphetamine.....................................15 - Experiment 2: Long-term effects of amphetamine.............................22 - Experiment 3: Effects of amphetamine in C57 mouse strain..............29 - Experiment 4: Liver malondialdehyde................................................34 - Experiment 5: Brain malondialdehyde................................................38 Discussion: Experiments 1 – 5..........................................................................42 Antioxidant defenses.........................................................................................44 - Experiment 6: Ascorbic acid...............................................................49 - Experiment 7: Trolox...........................................................................60 - Experiment 8: Ibuprofen......................................................................68 - Experiment 9: EGCG and Caffeine......................................................76 Discussion: Experiments 6 – 9...........................................................................92 Part II. The Behavioral Characterization and Amphetamine Toxicity in Genetic Knockouts as Potential Models of Parkinson’s disease..................................................95 viii
+Table of Contents Abstract of the Dissertation……………………………………………………………ii Acknowledgments……………………………………………………………………………………………iv List of Figures………………………………………………………………………………………………….x Introduction……………………………………………………………………………………………………..1 Part I: Biomarkers and Models of Parkinson’s disease…………………………………………..3 Parkinson’s disease…………………………………………………………………………………3 Amphetamine model of Parkinson’s disease…………………………………………….12 - Experiment 1: Acute effects of amphetamine……………………………….15 - Experiment 2: Long-term effects of amphetamine………………………..22 - Experiment 3: Effects of amphetamine in C57 mouse strain…………..29 - Experiment 4: Liver malondialdehyde…………………………………………34 - Experiment 5: Brain malondialdehyde…………………………………………38 Discussion: Experiments 1 – 5………………………………………………………………..42 Antioxidant defenses……………………………………………………………………………..44 - Experiment 6: Ascorbic acid………………………………………………………49 - Experiment 7: Trolox…………………………………………………………………60 - Experiment 8: Ibuprofen…………………………………………………………….68 - Experiment 9: EGCG and Caffeine………………………………………………76 Discussion: Experiments 6 – 9…………………………………………………………………92 Part II. The Behavioral Characterization and Amphetamine Toxicity in Genetic Knockouts as Potential Models of Parkinson’s disease…………………………………………..95 viii
 
-Glutathione and Parkinson’s disease...................................................................95 - Experiment 10: GSTM1 knockout mice...............................................98 Discussion: Experiment 10................................................................................115 p21-activated kinases.........................................................................................117 - Experiment 11: Wildtypes and PAK5/PAK6 double knockouts........136 - Experiment 12: Wildtypes, single and double knockouts...................191 Discussion: Experiments 11 and 12...................................................................243 Conclusions and Future Directions................................................................................249 References......................................................................................................................252 Curriculum Vitae............................................................................................................266 ix
+Glutathione and Parkinson’s disease………………………………………………………….95 - Experiment 10: GSTM1 knockout mice………………………………………..98 Discussion: Experiment 10……………………………………………………………………..115 p21-activated kinases……………………………………………………………………………..117 - Experiment 11: Wildtypes and PAK5/PAK6 double knockouts……..136 - Experiment 12: Wildtypes, single and double knockouts……………….191 Discussion: Experiments 11 and 12………………………………………………………….243 Conclusions and Future Directions……………………………………………………………………..249 References……………………………………………………………………………………………………….252 Curriculum Vitae………………………………………………………………………………………………266 ix
 
-List of figures Figure 1: The acute effects of amphetamine......................................................................20 Figure 2: The acute effects of amphetamine on turnover ratios........................................21 Figure 3: Long-term effects of amphetamine....................................................................27 Figure 4: Long-term effects of amphetamine on turnover ratios.......................................28 Figure 5: The effects of amphetamine on the c57 mouse strain........................................32 Figure 6: The effect of amphetamine on turnover ratios in c57 mice................................33 Figure 7: Amphetamine effects on liver MDA..................................................................37 Figure 8: Effect of amphetamine on striatal MDA levels..................................................41 Figure 9: The effect of ascorbic acid on amphetamine treatment......................................55 Figure 10: The effect of ascorbic acid on turnover ratios..................................................57 Figure 11: Dopamine depletion four weeks post-amphetamine........................................58 Figure 12: Turnover ratios at four weeks post-amphetamine............................................59 Figure 13: The effects of Trolox on amphetamine toxicity...............................................65 Figure 14: The effects of Trolox on turnover ratios..........................................................66 Figure 15: The effect of Trolox on body temperature.......................................................67 Figure 16: The effects of ibuprofen on amphetamine toxicity..........................................73 Figure 17: The effects of ibuprofen on turnover ratios......................................................74 Figure 18: The effect of ibuprofen on body temperature...................................................75 Figure 19: The effects of caffeine, EGCG and diet...........................................................87 Figure 20: The effects of caffeine, EGCG and diet on turnover ratios..............................89 Figure 21: Weight change pre- and post-drug challenge...................................................91 Figure 22: GSTM1 baseline activity................................................................................108 x
+List of figures Figure 1: The acute effects of amphetamine…………………………………………………………….20 Figure 2: The acute effects of amphetamine on turnover ratios………………………………….21 Figure 3: Long-term effects of amphetamine…………………………………………………………..27 Figure 4: Long-term effects of amphetamine on turnover ratios…………………………………28 Figure 5: The effects of amphetamine on the c57 mouse strain………………………………….32 Figure 6: The effect of amphetamine on turnover ratios in c57 mice…………………………..33 Figure 7: Amphetamine effects on liver MDA…………………………………………………………37 Figure 8: Effect of amphetamine on striatal MDA levels…………………………………………..41 Figure 9: The effect of ascorbic acid on amphetamine treatment………………………………..55 Figure 10: The effect of ascorbic acid on turnover ratios…………………………………………..57 Figure 11: Dopamine depletion four weeks post-amphetamine………………………………….58 Figure 12: Turnover ratios at four weeks post-amphetamine……………………………………..59 Figure 13: The effects of Trolox on amphetamine toxicity………………………………………..65 Figure 14: The effects of Trolox on turnover ratios………………………………………………….66 Figure 15: The effect of Trolox on body temperature……………………………………………….67 Figure 16: The effects of ibuprofen on amphetamine toxicity……………………………………73 Figure 17: The effects of ibuprofen on turnover ratios………………………………………………74 Figure 18: The effect of ibuprofen on body temperature……………………………………………75 Figure 19: The effects of caffeine, EGCG and diet…………………………………………………..87 Figure 20: The effects of caffeine, EGCG and diet on turnover ratios…………………………89 Figure 21: Weight change pre- and post-drug challenge……………………………………………91 Figure 22: GSTM1 baseline activity……………………………………………………………………..108 x
 
-Figure 23: GSTM1 elevated plus maze...........................................................................109 Figure 24: GSTM1 rotorod..............................................................................................110 Figure 25: GSTM1 Morris water maze............................................................................111 Figure 26: GSTM1 social interaction..............................................................................112 Figure 27: GSTM1 amphetamine challenge....................................................................113 Figure 28: GSTM1 turnover ratios after amphetamine challenge...................................114 Figure 29: PAK weight over time....................................................................................165 Figure 30: PAK baseline activity.....................................................................................166 Figure 31: PAK elevated plus maze.................................................................................167 Figure 32: PAK rotorod...................................................................................................168 Figure 33: PAK active avoidance: average escape latencies...........................................169 Figure 34: PAK active avoidance: average avoidance latencies.....................................170 Figure 35: PAK active avoidance: percentage of escape responses................................171 Figure 36: PAK active avoidance: percentage of avoidance responses...........................172 Figure 37: PAK passive avoidance: day one...................................................................173 Figure 38: PAK passive avoidance: day two...................................................................174 Figure 39: PAK social interaction....................................................................................175 Figure 40: PAK aggression: latency to first attack..........................................................176 Figure 41: PAK aggression: number of attacks initiated by c57 intruders......................177 Figure 42: PAK aggression: number of attacks initiated by PAK residents....................178 Figure 43: PAK activity after caffeine challenge............................................................179 Figure 44: PAK amphetamine challenge.........................................................................180 Figure 45: PAK turnover ratios after amphetamine challenge........................................181 xi
+Figure 23: GSTM1 elevated plus maze…………………………………………………………………109 Figure 24: GSTM1 rotorod………………………………………………………………………………….110 Figure 25: GSTM1 Morris water maze………………………………………………………………….111 Figure 26: GSTM1 social interaction……………………………………………………………………112 Figure 27: GSTM1 amphetamine challenge…………………………………………………………..113 Figure 28: GSTM1 turnover ratios after amphetamine challenge……………………………..114 Figure 29: PAK weight over time…………………………………………………………………………165 Figure 30: PAK baseline activity………………………………………………………………………….166 Figure 31: PAK elevated plus maze………………………………………………………………………167 Figure 32: PAK rotorod………………………………………………………………………………………168 Figure 33: PAK active avoidance: average escape latencies…………………………………….169 Figure 34: PAK active avoidance: average avoidance latencies……………………………….170 Figure 35: PAK active avoidance: percentage of escape responses…………………………..171 Figure 36: PAK active avoidance: percentage of avoidance responses………………………172 Figure 37: PAK passive avoidance: day one………………………………………………………….173 Figure 38: PAK passive avoidance: day two………………………………………………………….174 Figure 39: PAK social interaction…………………………………………………………………………175 Figure 40: PAK aggression: latency to first attack………………………………………………….176 Figure 41: PAK aggression: number of attacks initiated by c57 intruders………………….177 Figure 42: PAK aggression: number of attacks initiated by PAK residents………………..178 Figure 43: PAK activity after caffeine challenge……………………………………………………179 Figure 44: PAK amphetamine challenge……………………………………………………………….180 Figure 45: PAK turnover ratios after amphetamine challenge………………………………….181 xi
 
-Figure 46: PAK striatum baseline neurochemistry..........................................................182 Figure 47: PAK baseline striatal turnover ratios..............................................................183 Figure 48: PAK frontal cortex baseline neurochemistry.................................................184 Figure 49: PAK baseline frontal cortex turnover ratios...................................................185 Figure 50: PAK hippocampus baseline neurochemistry..................................................186 Figure 51: PAK hypothalamus baseline neurochemistry.................................................187 Figure 52: PAK baseline hypothalamus turnover ratios..................................................188 Figure 53: PAK brain stem baseline neurochemistry......................................................189 Figure 54: PAK baseline brain stem turnover ratios........................................................190 Figure 55: PAK weights over time..................................................................................219 Figure 56: PAK overall change in weight.......................................................................221 Figure 57: PAK baseline activity.....................................................................................222 Figure 58: PAK elevated plus maze.................................................................................223 Figure 59: PAK rotorod...................................................................................................224 Figure 60: PAK active avoidance I: avoidance latency...................................................225 Figure 61: PAK active avoidance I: escape latency.........................................................226 Figure 62: PAK active avoidance I: percentage avoidance.............................................227 Figure 63: PAK active avoidance I: percentage escape...................................................228 Figure 64: PAK active avoidance II: escape latency.......................................................229 Figure 65: PAK active avoidance II: avoidance latency..................................................230 Figure 66: PAK active avoidance II: percentage escape.................................................231 Figure 67: PAK active avoidance II: percentage avoidance............................................232 Figure 68: PAK treadmill active avoidance.....................................................................233 xii
+Figure 46: PAK striatum baseline neurochemistry………………………………………………….182 Figure 47: PAK baseline striatal turnover ratios……………………………………………………..183 Figure 48: PAK frontal cortex baseline neurochemistry………………………………………….184 Figure 49: PAK baseline frontal cortex turnover ratios……………………………………………185 Figure 50: PAK hippocampus baseline neurochemistry…………………………………………..186 Figure 51: PAK hypothalamus baseline neurochemistry………………………………………….187 Figure 52: PAK baseline hypothalamus turnover ratios…………………………………………..188 Figure 53: PAK brain stem baseline neurochemistry………………………………………………189 Figure 54: PAK baseline brain stem turnover ratios………………………………………………..190 Figure 55: PAK weights over time……………………………………………………………………….219 Figure 56: PAK overall change in weight……………………………………………………………..221 Figure 57: PAK baseline activity………………………………………………………………………….222 Figure 58: PAK elevated plus maze………………………………………………………………………223 Figure 59: PAK rotorod………………………………………………………………………………………224 Figure 60: PAK active avoidance I: avoidance latency……………………………………………225 Figure 61: PAK active avoidance I: escape latency…………………………………………………226 Figure 62: PAK active avoidance I: percentage avoidance………………………………………227 Figure 63: PAK active avoidance I: percentage escape……………………………………………228 Figure 64: PAK active avoidance II: escape latency……………………………………………….229 Figure 65: PAK active avoidance II: avoidance latency…………………………………………..230 Figure 66: PAK active avoidance II: percentage escape………………………………………….231 Figure 67: PAK active avoidance II: percentage avoidance……………………………………..232 Figure 68: PAK treadmill active avoidance……………………………………………………………233 xii
 
-Figure 69: PAK social interaction...................................................................................234 Figure 70: PAK aggression: latency to attack..................................................................235 Figure 71: PAK aggression: number of attacks initiated by c57 intruders......................236 Figure 72: PAK aggression: number of attacks initiated by PAK residents....................237 Figure 73: PAK activity after caffeine challenge............................................................238 Figure 74: PAK self injurious behavior after amphetamine challenge............................240 Figure 75: PAK overall effects of amphetamine on activity levels.................................241 Figure 76: PAK amphetamine challenge: striatal neurochemistry..................................242 xiii
+Figure 69: PAK social interaction………………………………………………………………………..234 Figure 70: PAK aggression: latency to attack…………………………………………………………235 Figure 71: PAK aggression: number of attacks initiated by c57 intruders………………….236 Figure 72: PAK aggression: number of attacks initiated by PAK residents………………..237 Figure 73: PAK activity after caffeine challenge……………………………………………………238 Figure 74: PAK self injurious behavior after amphetamine challenge……………………….240 Figure 75: PAK overall effects of amphetamine on activity levels……………………………241 Figure 76: PAK amphetamine challenge: striatal neurochemistry…………………………….242 xiii
 
 1 AMPHETAMINE-INDUCED DOPAMINERGIC TOXICITY: A SINGLE DOSE ANIMAL MODEL OF PARKINSON’S DISEASE Parkinson’s disease affects millions of people worldwide, out of whom most are over the age of 55. It is a disease characterized by loss of the dopaminergic neurons of the nigro-striatal pathway. While many mechanisms that have been postulated to account for the destruction of these cells, no clear cause has been elucidated. Furthermore, Parkinson’s disease reveals itself clinically only after the majority of damage has occurred. Today, there is much research being done to determine therapeutic interventions as well as determine at-risk individuals and detect the onset of Parkinson’s disease before irreversible damage has been done. Oxidative stress is widely believed to be a key pathogenic mechanism in Parkinson’s disease and increased markers of it found peripherally may be able to predict or indicate future or coexisting neurotoxicity. First, the hypothesis that oxidative stress plays an important role in dopamine depletion in human Parkinson’s disease as well as in animal models of Parkinson’s disease will be examined through a novel dose of amphetamine, a dopaminergic toxicant known to act through oxidative stress. While the high dose amphetamine model has been used previously to induce dopamine lesions, there have been no previous studies to characterize the acute dose-response and time course of the neurochemical changes following the single high dose of amphetamine. Furthermore, an attempt will be made to counteract this depletion with known antioxidant or anti-inflammatory treatments. In addition, as part of this first hypothesis, an end product of lipid peroxidation, malondialdehyde, that is formed throughout the body, will be measured in the liver to
 
@@ -106,21 +106,24 @@ The acute effects of amphetamine
 
 12 *
 
-10 8 6
-*
+10 8 6  
+*  
 *
 
-4 2 0
+4 2 0  
 DA saline
-* * * DOPAC
+
+* * * DOPAC  
 HVA
+
 *
-* 5-HT
+
+* 5-HT  
 5-HIAA
 
 15 minutes 30 minutes 60 minutes Figure 1: Concentration of dopamine (DA), dihydroxyphenylacetic acid (DOPAC), homovanillic acid (HVA), 5-hydroxytryptamine (5-HT), and 5-hydroxyindoleacetic acid (5-HIAA) in striatum of male BALB/c mice for saline or amphetamine. * denotes significantly different from saline; p < .05
 
-µ g / g
+µ g / g  
 21
 
 Figure 2
@@ -138,15 +141,16 @@ The acute effects of amphetamine on turnover ratios
 .3 .2
 
 .1 0
-* * * DOPAC/DA
-HVA/DA
+
+* * * DOPAC/DA  
+HVA/DA  
 5-HIAA/5-HT
 
 saline 15 minutes 30 minutes 60 minutes Figure 2: Turnover ratios of DOPAC/DA, HVA/DA and 5-HIAA/5-HT in the striatum of male BALB/c mice for saline or amphetamine. * denotes significantly different from saline; p < .05
 
-turnover ratio
-turnover ratio
-turnover ratio
+turnover ratio  
+turnover ratio  
+turnover ratio  
 22
 
 Experiment 2: The long-term effects of amphetamine on striatal dopamine levels Rationale Determine the long-term effects of a single high dose of amphetamine. Mice were sacrificed one day or more, up to two weeks after amphetamine exposure. Animals Eight week old adult male BALB/c mice (Jackson Laboratories; Bar Harbor, ME) were maintained according to the NIH Guide for the Care and Use of Laboratory Animals. Mice had access to food and water ad libitum for the duration of the study. Mice were housed in a temperature controlled colony room on a 12 hour on/12 hour off light cycle beginning at 8 AM. Animals were housed individually in hanging wire cages (20 cm x 10 cm x 12 cm). Drug treatment Mice received one subcutaneous injection of 50.0 mg/kg amphetamine or saline. Mice were sacrificed one day, three days or two weeks after injections. Four mice were also sacrificed without any injections. Neurochemical Analysis Following sacrifice, brains were quickly removed and bilateral striata were immediately dissected, stored in liquid nitrogen and analyzed as in Experiment 1.
@@ -171,13 +175,15 @@ Figure 3
 
 14 Long-term effects of amphetamine
 
-12 10 8 6 4 2
+12 10 8 6 4 2  
+*  
+*  
+*  
+**  
 *
-*
-*
-**
-*
+
 * *
+
 *
 *
 *
@@ -186,36 +192,36 @@ Figure 3
 
 control one day three days two weeks Figure 3: Concentration of dopamine (DA), dihydroxyphenylacetic acid (DOPAC), homovanillic acid (HVA), 5-hydroxytryptamine (5-HT), and 5-hydroxyindoleacetic acid (5-HIAA) in striatum of male BALB/c mice for saline or amphetamine. * denotes significantly different from saline; p < .05
 
-µ g / g
+µ g / g  
 28
 
 Figure 4
 
 Long-term effects of amphetamine on neurotransmitter turnover
 
-.8 .7
-*
-*
+.8 .7  
+*  
+*  
 *
 
 .6 *
 
-.5 .4
+.5 .4  
 *
 
 .3 *
 
 .2 *
 
-.1 0
-DOPAC/DA
-HVA/DA
+.1 0  
+DOPAC/DA  
+HVA/DA  
 5-HIAA/5-HT
 
 control one day three days two weeks Figure 4: Turnover ratios of DOPAC/DA, HVA/DA and 5-HIAA/5-HT in the striatum of male BALB/c mice for saline or amphetamine. * denotes significantly different from saline; p < .05
 
-turnover ratio
-turnover ratio
+turnover ratio  
+turnover ratio  
 29
 
 Experiment 3: The effects of amphetamine on striatal dopamine in a resistant mouse strain Rationale C57Bl/6J (C57) mice have previously been shown to be more resistant to the effects of amphetamine on striatal dopamine levels (Kita et al., 1998). It is important to compare the effects of amphetamine on both sensitive and resistant strains of mice to fully characterize this lesion, as this strain will serve as the background strain for later genetic studies. Animals Eight week old, adult male C57 mice (Jackson Laboratories; Bar Harbor, ME) were maintained according to the NIH Guide for the Care and Use of Laboratory Animals. Mice had access to food and water ad libitum for the duration of the study. Mice were housed in a temperature controlled colony room on a 12 hour on/12 hour off light cycle beginning at 8 AM. Animals were housed individually in hanging wire cages (20 cm x 10 cm x 12 cm). Drug treatment Mice received one subcutaneous injection of 50 mg/kg amphetamine or saline. Mice were sacrificed one day, three days or two weeks after injections. Four mice were also sacrificed without any injections.
@@ -242,21 +248,22 @@ The effects of amphetamine on the c57 mouse strain
 
 control one day three day two week Figure 5: Concentration of dopamine (DA), dihydroxyphenylacetic acid (DOPAC), homovanillic acid (HVA), 5-hydroxytryptamine (5-HT), and 5-hydroxyindoleacetic acid (5-HIAA) in striatum of male C57Bl6J mice for saline or amphetamine. * denotes significantly different from saline; p < .05
 
-µ g / g
+µ g / g  
 33
 
 Figure 6 The effect of amphetamine on turnover ratios in c57 mice 1 .9 .8
 
-.7 .6 .5 .4 .3 .2 .1 0
-DOPAC/DA
+.7 .6 .5 .4 .3 .2 .1 0  
+DOPAC/DA  
 HVA/DA
+
 * 5-HIAA/5-HT
 
 control one day three day two week Figure 6: Turnover ratios of DOPAC/DA, HVA/DA and 5-HIAA/5-HT in the striatum of male C57Bl6J mice for saline or amphetamine. * denotes significantly different from saline; p < .05
 
-turnover ratio
-turnover ratio
-turnover ratio
+turnover ratio  
+turnover ratio  
+turnover ratio  
 34 Experiment 4: The effects of amphetamine on levels of malondialdehyde, a marker of oxidative stress, in the liver Rationale To determine the effects of amphetamine on levels of oxidative stress in the periphery as measured by levels of malondialdehyde in the liver. Animals Eight week old, adult male BALB/c mice (Jackson Laboratories; Bar Harbor, ME) were maintained according to the NIH Guide for the Care and Use of Laboratory Animals. Mice had access to food and water ad libitum for the duration of the study. Mice were housed in a temperature controlled colony room on a 12 hour on/12 hour off light cycle beginning at 8 AM. Animals were housed individually in hanging wire cages (20 cm x 10 cm x 12 cm). Drug treatment Mice received one subcutaneous injection of 50.0 mg/kg amphetamine or saline. Mice were sacrificed 30 minutes, one hour, two hours, four hours, 24 hours and 72 hours after injection. MDA analysis Following sacrifice, livers were quickly dissected and stored in liquid nitrogen until assay. Approximately 100 mg of tissue was homogenized in 900 ml of .1M phosphate buffer and kept on ice. Then, 0.05 ml of the homogenate was added to 0.1 ml
 
 35
@@ -271,33 +278,33 @@ of 8.1% sodium dodecyl sulfate solution and vortexed. Samples were incubated wit
 
 Figure 7
 
-1200
+1200  
 Amphetamine effects on liver MDA levels *
 
-1000 800 600 400
-*
-*
-*
+1000 800 600 400  
+*  
+*  
+*  
 *
 
 200 0
 
 sac time Figure 7 : Levels of malondialdehyde expressed as percent of control in livers of male BALB/c mice treated with amphetamine * denotes significantly different from saline controls; p < .05
 
-% of control
-30 min
-one hour
-two hour
-four hour
-24 hour
-72 hour
-% of control
-30 min
-one hour
-two hour
-four hour
-24 hour
-72 hour
+% of control  
+30 min  
+one hour  
+two hour  
+four hour  
+24 hour  
+72 hour  
+% of control  
+30 min  
+one hour  
+two hour  
+four hour  
+24 hour  
+72 hour  
 38 Experiment 5: The effects of amphetamine on levels of malondialdehyde, a marker of oxidative stress, in the brain Rationale Malondialdehyde was found to peak in the liver at 24 hours after amphetamine administration in the timecourse completed in Experiement 4. Here, the levels of MDA in the striatum are determined at the same time point, 24 hours. Animals Adult male BALB/c mice (Jackson Laboratories; Bar Harbor, ME) were maintained according to the NIH Guide for the Care and Use of Laboratory Animals. Mice had access to food and water ad libitum for the duration of the study. Mice were housed in a temperature controlled colony room on a 12 hour on/12 hour off light cycle beginning at 8 AM. Animals were housed individually in hanging wire cages (20 cm x 10 cm x 12 cm). Drug treatment Mice received one subcutaneous injection of 50.0 mg/kg amphetamine or saline. Mice were sacrificed 24 hours after injection. MDA analysis Following sacrifice, bilateral striata were quickly dissected and stored in liquid nitrogen until assay. Tissue was pooled for analysis in order to have enough tissue to
 
 39 assay. The striata from three to four animals was combined and homogenized in of .1M phosphate buffer and kept on ice. Samples were then analyzed as in Experiment 4. Statistical Analyses One-way ANOVAs were performed with MDA level as main factor and sacrifice time as between groups factor. Differences between groups were determined using Fisher’s PLSD post-hoc tests. Results One-way ANOVA analysis revealed that MDA levels were significantly higher in amphetamine-treated animals compared to saline-treated controls (F(1,3) = 31.043, p = .0114). See figure 8. Conclusions As in the liver, MDA levels are significantly increased in the striatum at 24 hours post-amphetamine. This increase shows that amphetamine is capable of causing lipid peroxidation in the brain and supports the amphetamine model of Parkinson’s disease, as lipid peroxidation is widely accepted to play a role in neuronal death in Parkinson’s disease patients. Also, this increase of MDA corresponds to increased levels of peripheral MDA. Further studies, including a more extensive time course in both the liver and brain, are needed to determine if peripheral levels of lipid peroxidation and oxidative stress can be correlated to one another and predict later toxicity. Increased levels of lipid peroxidation, specifically MDA, have recently been found in the blood of Parkinson’s patients. It is important to use this information to further characterize animal
@@ -312,7 +319,7 @@ Figure 8
 
 The effect of amphetamine on striatal MDA levels
 
-7 6
+7 6  
 *
 
 5 4 3 2 1 0
@@ -321,7 +328,7 @@ saline amph
 
 Treatment Figure 8 : Levels of malondialdehyde in pooled samples of striata of male BALB/c mice treated with saline or amphetamine * denotes significantly different from saline controls; p < .05
 
-nmol MDA / mg tissue
+nmol MDA / mg tissue  
 42
 
 Discussion: Experiments 1 – 5 A single high dose of amphetamine was sufficient to cause an 84% depletion in dopamine of the striatum that persisted for up to two weeks. This depletion is comparable to the lesion typically observed in the most commonly used amphetamine model of Parkinson’s disease (four injections of high dose of amphetamine) (Halladay et al., 2000; Carlson and Wagner, 2006). Furthermore, this single dose has a much lower rate of mortality than the four-injection regimen. On average, between zero and ten percent of mice died after one injection of 50 mg/kg of amphetamine. This is in contrast to an up to 30% mortality occurring with four injections of 18.5 mg/kg amphetamine. In Parkinson’s disease, there is a loss of dopaminergic cell bodies of the substantia nigra, striatal dopamine depletion, reduced tyrosine hydroxylase activity, depletion of dopamine transporter pumps, as well as increased dopamine turnover. The effects of this amphetamine model are consistent with the primary neurochemical endpoints observed in human Parkinson’s disease. Long-term depletion of striatal dopamine was achieved in levels similar to Parkinson’s disease. Moreover, dopamine turnover ratios were increased which suggests persistent reduced activity of tyrosine hydroxylase. Although effects on substantia nigra cell bodies and striatal transporter pumps were not measured in this dose regimen, they have been observed in the four- injection regimen. The present data are sufficient to draw the conclusion that single, high dose amphetamine administration serves as an effective and relevant mouse model of Parkinson’s disease. This dose of amphetamine was shown to cause an increase in MDA levels in the liver, indicating increased lipid peroxidation consequent to amphetamine-mediated
@@ -391,19 +398,23 @@ Figure 9
 The effect of ascorbic acid on amphetamine treatment
 
 12 10 8
+
 * #
 
-6 4 2 0
+6 4 2 0  
 DA
+
 * # DOPAC
-HVA
+
+HVA  
 ** 5-HT
+
 * * 5-HIAA
 
 control one day one day plus vitC three day three day plus vitC two w k two w k plus vitC four wk four wk plus vitC
 
-µ g / g
-µ g / g
+µ g / g  
+µ g / g  
 56
 
 Figure 9: Concentration of dopamine (DA), dihydroxyphenylacetic acid (DOPAC), homovanillic acid (HVA), 5-hydroxytryptamine (5-HT), and 5-hydroxyindoleacetic acid (5-HIAA) in striatum of male BALB/c for controls and * denotes significantly different from control; p < .05 # denotes significantly different from saline/AMPH at the same time point (3 days post- AMPH); p < .05
@@ -418,23 +429,24 @@ Turnover ratios
 
 .9 *
 
-.8 .7 .6
-*
+.8 .7 .6  
+*  
 *
 
-.5 .4
-*
-*
+.5 .4  
+*  
+*  
 *
 
 .3 .2 .1 0
-* * * * DOPAC/DA control one day one day plus VC three day three day plus VC tw o week tw o week plus VC four week four week plus VC
-HVA/DA
+
+* * * * DOPAC/DA control one day one day plus VC three day three day plus VC tw o week tw o week plus VC four week four week plus VC  
+HVA/DA  
 5-HIAA/5-HT
 
 Figure 10: Turnover ratios of DOPAC/DA, HVA/DA and 5-HIAA/5-HT in striatum of male BALB/c for control, sal/AMPH and VC/AMPH treated groups * denotes significantly different from control; p < .05
 
-turnover ratio
+turnover ratio  
 58
 
 Figure 11
@@ -445,16 +457,17 @@ Dopamine depletion four weeks post-amphetamine
 
 *
 
-6 4 2 0
+6 4 2 0  
 DA control
-* DOPAC
-HVA
-5-HT
+
+* DOPAC  
+HVA  
+5-HT  
 5-HIAA
 
 4 wks post-AMPH Figure 11: Concentration of dopamine (DA), dihydroxyphenylacetic acid (DOPAC), homovanillic acid (HVA), 5-hydroxytryptamine (5-HT), and 5-hydroxyindoleacetic acid (5-HIAA) in striatum of male BALB/c for saline (control) or amphetamine (4 wks post- AMPH) * denotes significantly different from control; p < .05
 
-µ g / g
+µ g / g  
 59
 
 Figure 12
@@ -463,21 +476,22 @@ Turnover ratios at four weeks post-amphetamine
 
 .6
 
-.5 .4
+.5 .4  
 *
 
-.3
+.3  
 control four wk
 
 .2 .1 0
-* DOPAC/DA
-HVA/DA
+
+* DOPAC/DA  
+HVA/DA  
 5-HIAA/5-HT
 
 Figure 12: Turnover ratios of DOPAC/DA, HVA/DA and 5-HIAA/5-HT in striatum of male BALB/c for saline (control) or amphetamine (four wk) * denotes significantly different from control; p < .05
 
-turnover ratio
-turnover ratio
+turnover ratio  
+turnover ratio  
 60
 
 Experiment 7: The effects of Trolox, a water-soluble derivative a vitamin E, on amphetamine toxicity Rationale Vitamin E has been shown to be an effective antioxidant against amphetamine toxicity previously. Trolox is a water-soluble derivative of vitamin E, making it easier to administer, more bioavailable and faster acting than lipid-soluble vitamin E. Animals Adult male BALB/c mice (Jackson Laboratories; Bar Harbor, ME) were maintained according to the NIH Guide for the Care and Use of Laboratory Animals. Mice had access to food and water ad libitum for the duration of the study. Mice were housed in a temperature controlled colony room on a 12 hour on/12 hour off light cycle beginning at 8 AM. Animals were housed individually in hanging wire cages (20 cm x 10 cm x 12 cm). Drug treatment Mice received one subcutaneous injection of 50 mg/kg amphetamine or saline. Mice were also given three subcutaneous injections of 2.5 mg/kg Trolox or vehicle (saline containing 1% ethanol; abbreviated “veh”). Mice were sacrificed 72 hours after injections.
@@ -513,18 +527,21 @@ Figure 13
 The effects of Trolox on amphetamine toxicity
 
 8 7 6 5 4 3
+
 * *
 
-2 1 0
+2 1 0  
 DA
+
 * * DOPAC
-* * HVA
-5-HT
+
+* * HVA  
+5-HT  
 5-HIAA
 
 saline, vehicle saline, trolox AMPH, vehicle AMPH, trolox Figure 13: Concentration of dopamine (DA), dihydroxyphenylacetic acid (DOPAC), homovanillic acid (HVA), 5-hydroxytryptamine (5-HT), and 5-hydroxyindoleacetic acid (5- HIAA) in striatum of male BALB/c for saline/vehicle, saline/Trolox, amphetamine/vehicle (AMPH,vehicle) or amphetamine/Trolox (AMPH,trolox). DA, DOPAC, HVA and 5-HIAA in saline-treated groups (saline/vehicle and saline/Trolox) were significantly different than amphetamine treated groups (AMPH/vehicle and AMPH/Trolox) * denotes significantly different from appropriate control (either saline/vehicle control or saline/Trolox control); p < .05
 
-µ g / g
+µ g / g  
 66
 
 Figure 14
@@ -533,33 +550,33 @@ Turnover ratios
 
 1 .9 .8 .7 .6 .5
 
-.4 .3 .2 .1
-*
+.4 .3 .2 .1  
+*  
 *
 
 0 DOPAC/DA HVA/DA 5-HIAA/5-HT
 
 saline, vehicle saline, trolox AMPH, vehicle AMPH, trolox Figure 14: Turnover ratios of DOPAC/DA, HVA/DA and 5-HIAA/5-HT in striatum of male BALB/c for saline/vehicle, saline/Trolox, amphetamine/vehicle (AMPH,vehicle) or amphetamine/Trolox (AMPH,Trolox). There was a significant effect of drug treatment (saline or amphetamine) on HVA/DA turnover ratio. * denotes significantly different from appropriate control (saline, vehicle or saline, Trolox); p < .05
 
-turnover ratio
-turnover ratio
-turnover ratio
+turnover ratio  
+turnover ratio  
+turnover ratio  
 67
 
 Figure 15
 
 The effect of Trolox on body temperature
 
-45 40 35 30 25 20 15 10 5 0
-BT0
-BT1
-BT2
-BT3
+45 40 35 30 25 20 15 10 5 0  
+BT0  
+BT1  
+BT2  
+BT3  
 BT4
 
 A MPH saline, vehicle saline, trolox AMPH, vehicle AMPH, trolox Figure 15: Body temperature (degrees Celsius) at baseline (BT0) and at 30, 90, 150 and 210 minutes. Amphetamine or saline was administered halfway between BT1 and BT2. Body temperature changed significantly over testing period (p < .0001). There was an overall significant effect of drug treatment (saline or amphetamine; p < .0001) and a significant interaction of body temperature and drug treatment (p < .0001). Treatment with Trolox had no significant effect on body temperature.
 
-body temperature (degrees Celsius)
+body temperature (degrees Celsius)  
 68 Experiment 7: The effects of an anti-inflammatory drug, ibuprofen, on amphetamine- induced dopamine depletion Rationale NSAIDS, including ibuprofen (iso-butyl-propanoic-phenolic acid), have potent anti-inflammatory actions and use of these drugs is related to decreased risk of Parkinson’s disease. Also, ibuprofen has been previously shown to be effective in other animal models of Parkinson’s disease. Ibuprofen is a non-steroidal anti-inflammatory drug that is a COX-1 and COX-2 inhibitor and may reduce the levels of oxidative stress occurring after amphetamine administration, sparing dopamine levels in the striatum. Animals Adult male BALB/c mice (Jackson Laboratories; Bar Harbor, ME) were maintained according to the NIH Guide for the Care and Use of Laboratory Animals. Mice had access to food and water ad libitum for the duration of the study. Mice were housed in a temperature controlled colony room on a 12 hour on/12 hour off light cycle beginning at 8 AM. Animals were housed individually in hanging wire cages (20 cm x 10 cm x 12 cm). Drug treatment Animals received one subcutaneous injection of 50 mg/kg amphetamine and two injections of 20 mg/kg ibuprofen (IBF) or saline: one 30 minutes before the amphetamine injection and one 30 minutes after the amphetamine injection. Both amphetamine and
 
 69 ibuprofen were dissolved in saline. Animal were sacrificed 72 hours post-amphetamine injection. Body Temperature Body temperature was monitored using a rectal probe coupled to a BAT-10 thermometer (Physitemp, Clinton, NJ) at baseline (BT 0 ) and every 30 minutes at all determined time points (BT 1 , BT 2 , BT 3 ). Neurochemical Analysis Following sacrifice, brains were quickly removed and bilateral striata were immediately dissected, stored in liquid nitrogen and assayed as in Experiment 1. Statistical Analyses Two-way ANOVAs were performed with the neurotransmitter concentration or turnover ratios as main factors and NSAID treatment and drug challenge as between groups factors. Analysis of body temperature was performed by repeated measures ANOVA. For all appropriate analyses, differences between groups were determined using Fisher’s PLSD post-hoc tests. Experimental design Mice were divided into two groups: saline/AMPH and IBF/AMPH. Body temperature was recorded at start of experiment (BT 0 ; prior to first injection of IBF or saline), 30 minutes (BT 1 ; just before amphetamine), 60 minutes (BT 2 ; just before second
@@ -588,13 +605,13 @@ only significantly different at BT 1 (F(1,18) = 8.226, p = .0102). Overall, ibup
 
 Figure 16
 
-1.6
+1.6  
 The effects of ibuprofen on amphetamine toxicity *
 
-1.4 1.2 1 .8
+1.4 1.2 1 .8  
 saline ibuprofen
 
-.6 .4 .2
+.6 .4 .2  
 *
 
 0
@@ -603,46 +620,46 @@ DA DOPAC HVA 5-HT 5-HIAA
 
 Figure 16: Concentration of dopamine (DA), dihydroxyphenylacetic acid (DOPAC), homovanillic acid (HVA), 5-hydroxytryptamine (5-HT), and 5-hydroxyindoleacetic acid (5-HIAA) in striatum of male BALB/c treated with amphetamine and either saline or ibuprofen * denotes significantly different from saline; p < .05
 
-µ g / g
+µ g / g  
 74
 
 Figure 17
 
 Turnover ratios
 
-1.2 1 .8 .6
+1.2 1 .8 .6  
 saline ibuprofen
 
-.4 .2 0
-DOPAC/DA
-HVA/DA
+.4 .2 0  
+DOPAC/DA  
+HVA/DA  
 5-HIAA/5-HT
 
 Figure 17: Turnover ratios of DOPAC/DA, HVA/DA and 5-HIAA/5-HT in striatum of male BALB/c treated with amphetamine and either saline or ibuprofen
 
-turnover ratio
-turnover ratio
+turnover ratio  
+turnover ratio  
 75
 
 Figure 18
 
 The effect of ibuprofen on body temperature
 
-40 36 32
+40 36 32  
 *
 
-28 24 20 16
+28 24 20 16  
 saline IBF
 
-12 8 4 0
-BT0
-BT1
-BT2
+12 8 4 0  
+BT0  
+BT1  
+BT2  
 BT3
 
 AMPH Figure 18: Body temperature (degrees Celsius) at baseline (BT0) and at 30, 60 and 90 minutes. Amphetamine was administered just after BT1 was recorded. Body temperature changed significantly over testing period (p < .0001). Treatment with ibuprofen significantly decreased body temperature only at BT1, just before amphetamine administration. Ibuprofen did not significantly affect body temperature after amphetamine administration. * denotes significantly different from saline; p < .05
 
-body temperature (degrees Celsius)
+body temperature (degrees Celsius)  
 76
 
 Experiment 9: The effects of major green tea components, EGCG and caffeine, on amphetamine-induced loss of striatal dopamine Rationale Green tea has been extensively studied and shown to be protective in models of neurodegenerative disease, including Parkinson’s disease. The protective properties of tea are thought to be from their bioactive polyphenols: catechins and catechin derivatives. These have been shown to act as direct radical scavengers and metal chelators and indirectly by activating transcription factors and antioxidant enzymes this enabling them to be protective against oxidative stress (Grinberg et al., 1997; Wiseman et al., 1997; Higdon and Frei, 2003). (-)-Epigallocatechin 3-gallate (EGCG) is the most plentiful polyphenol found in tea and is attributed the protective effects reported in green tea (Jiang and Dusting, 2003). EGCG is well incorporated into the brain as well as in lung, kidney, heart, liver, spleen and pancreas (Suganuma et al., 1998). Interestingly, there is a 5- to 10-fold lower incidence of Parkinson’s disease in China and Japan than in Western countries (Zhang and Roman, 1993; Wang et al., 1996). Green tea is the most popular tea choice in Japan and China, in contrast to black tea that is favored in Western countries (Katiyar et al., 2000). In China, consumption of more than two cups of green tea per day reported to be a protective factor against Parkinson’s disease (Chan et al., 1998). In vitro studies have shown the protective effects of EGCG and tea catechins against oxidative stress. Mercer et al. (2005) investigated the effects of dietary phenols on several injury-inducing compounds and found that catechins attenuated injuries to primary rat mesencephalic cultures exposed to hydrogen peroxide, lipid peroxidation
@@ -691,10 +708,10 @@ Figure 19
 
 The effects of caffeine, EGCG and diet
 
-18 16 14 12 10 8 6 4
-*
-*
-*
+18 16 14 12 10 8 6 4  
+*  
+*  
+*  
 *
 
 2 * *
@@ -707,7 +724,7 @@ DA DOPAC HVA 5-HT 5-HIAA
 
 tap/Purina/saline tap/Purina/AMPH tap/HF/saline tap/HF/AMPH CAF/HF/saline CAF/HF/AMPH tap/EGCG/saline tap/EGCG/AMPH CAF/EGCG/saline CAF/EGCG/AMPH
 
-µ g / g
+µ g / g  
 88
 
 Figure 19: Concentration of dopamine (DA), dihydroxyphenylacetic acid (DOPAC), homovanillic acid (HVA), 5-hydroxytryptamine (5-HT), and 5-hydroxyindoleacetic acid (5-HIAA) in striatum of male BALB/c for tap/Purina/saline (n=3), tap/Purina/AMPH (n=4), tap/HF/saline (n=6), tap/HF/AMPH (n=7), CAF/HF/saline (n=6), CAF/HF/AMPH (n=9), tap/EGCG/saline (n=7), tap/EGCG/AMPH (n=3), CAF/EGCG/saline (n=7), CAF/EGCG/AMPH (n=8) * denotes significantly different from saline treated group with matching fluid/food types; p < .05
@@ -718,14 +735,14 @@ Figure 20
 
 The effects of caffeine, EGCG and diet on turnover ratios
 
-2.0 1.8 1.6 1.4 1.2 1.0
-*
+2.0 1.8 1.6 1.4 1.2 1.0  
+*  
 *
 
-0.8 0.6 0.4 0.2
-*
-*
-*
+0.8 0.6 0.4 0.2  
+*  
+*  
+*  
 *
 
 0.0
@@ -734,7 +751,7 @@ DOPAC/DA HVA/DA 5-HIAA/5-HT
 
 tap/Pur/saline tap/Pur/AMPH tap/HF/saline tap/HF/AMPH CAF/HF/saline CAF/HF/AMPH tap/EGCG/saline tap/EGCG/AMPH CAF/EGCG/saline CAF/EGCG/AMPH
 
-turnover ratio
+turnover ratio  
 90 Figure 18: Turnover ratios of DOPAC/DA, HVA/DA and 5-HIAA/5-HT in striatum of male BALB/c for tap/Purina/saline, tap/Purina/AMPH, tap/HF/saline, tap/HF/AMPH, CAF/HF/saline, CAF/HF/AMPH, tap/EGCG/saline, tap/EGCG/AMPH, CAF/EGCG/saline, CAF/EGCG/AMPH * denotes significantly different from saline treated group with matching fluid/food types; p < .05
 
 91
@@ -745,28 +762,28 @@ Weight change pre-drug challenge and post-drug challenge
 
 8 6 4 2 0 -2 -4 -6
 
-day 0 – 7
-A M P H
+day 0 – 7  
+A M P H  
 day 7 - 10
 
 Figure 21: Average change in body weight in male BALB/c mice for tap/Pur, tap/HF, CAF/HF, tap/EGCG, CAF/EGCG prior to amphetamine or saline injection and for tap/Pur/saline, tap/Pur/AMPH, tap/HF/saline, tap/HF/AMPH, CAF/HF/saline. CAF/HF/AMPH, tap/EGCG/saline, tap/EGCG/AMPH after injection of saline or amphetamine
 
-tap/Pur
-tap/HF
-CAF/HF
-tap/EGCG
-CAF/EGCG
-tap/Pur/saline
-tap/Pur/AMPH
-tap/HF/saline
-tap/HF/AMPH
-CAF/HF/saline
-CAF/HF/AMPH
-tap/EGCG/saline
-tap/EGCG/AMPH
-CAF/EGCG/saline
-CAF/EGCG/AMPH
-weight change (g)
+tap/Pur  
+tap/HF  
+CAF/HF  
+tap/EGCG  
+CAF/EGCG  
+tap/Pur/saline  
+tap/Pur/AMPH  
+tap/HF/saline  
+tap/HF/AMPH  
+CAF/HF/saline  
+CAF/HF/AMPH  
+tap/EGCG/saline  
+tap/EGCG/AMPH  
+CAF/EGCG/saline  
+CAF/EGCG/AMPH  
+weight change (g)  
 92
 
 Discussion: Experiments 6 – 9 A portion of amphetamine’s neurotoxic actions are attributed to increased oxidative stress. This increased oxidative stress can cause increases in neuroinflammation. Here, several therapeutic agents were studied to determine their effectiveness in protecting against amphetamine-induced dopamine depletion of the striatum. Ascorbic acid was able to attenuate amphetamine-induced dopamine depletion in this model. Ascorbic acid works as an antioxidant in the brain, scavenging reactive oxygen species and inhibiting lipid peroxidation and has been shown to be protective previously in animal models of Parkinson’s disease, including a rat methamphetamine model. These data show that it is effective in mediating the neurotoxicity of a single high dose of amphetamine and this protection is a long-lasting outcome. In addition, as an extension of the time course completed in Experiments 1 and 2, animals were sacrificed four weeks after amphetamine treatment. The dopamine depletion observed at earlier time points was shown to persist for up to four weeks post- amphetamine. This suggests that this lesion is a permanent consequence of the single hose dose treatment of amphetamine. Ibuprofen, a known anti-inflammatory agent, also showed modest but significant sparing of striatal dopamine after amphetamine challenge. Neuroinflammation has been found to be increased in the brains of Parkinson’s patients and use of NSAIDs like ibuprofen have been associated with a lower risk of the disease. Neuroinflammation is most likely consequent to increased levels of oxidative stress occurring in these patients and anti-inflammatory agents work to counteract this portion of the cascade of destruction
@@ -819,31 +836,31 @@ Figure 22
 
 Baseline activity
 
-1800 1600 1400 1200 1000 800
+1800 1600 1400 1200 1000 800  
 WT KO
 
-600 400 200 0
-1
-2
-3
-4
-5
+600 400 200 0  
+1  
+2  
+3  
+4  
+5  
 6
 
 time bin Figure 22: Average activity levels in wildtype and GSTM1 knockout mice for 30 minutes. Readings were recorded in five minute time bins. There was a significant difference in activity over the 30 minute period (p < .0001) and a significant interaction of activity over time and genotype (p = .0021). There was no significant difference in activity levels between genotypes.
 
-activity (beam breaks)
+activity (beam breaks)  
 109
 
 Figure 23
 
 GSTM1: Elevated plus maze
 
-16 14 12 10 8
+16 14 12 10 8  
 WT KO
 
-6 4 2 0
-closed arm entries open arm entries
+6 4 2 0  
+closed arm entries open arm entries  
 fecal boli
 
 Figure 23: Performance on the elevated plus maze in wildtype and GSTM1 knockout mice: number of entries into the closed arms of the maze, number of entries into the open arms of the maze, number of fecal boli emitted during trial
@@ -854,8 +871,8 @@ Figure 24
 
 GSTM1: Rotorod
 
-60 50 40 30
-*
+60 50 40 30  
+*  
 WT KO
 
 20 10 0
@@ -864,7 +881,7 @@ trial1 trial2 trial3
 
 Figure 24: Performance on the rotorod by wildtype and GSTM1 knockout mice: average trial latency to fall from the rotorod rotating 12 rev/min. Maximum trial length: 60 seconds. * denotes significant from wildtypes; p < .05
 
-time (sec)
+time (sec)  
 111
 
 Figure 25
@@ -881,37 +898,37 @@ WT DKO
 
 Day (avg over 4 trials per day) Figure 25: Performance in the Morris water maze by wildtype and GSTM1 knockout mice: average latency to find the hidden platform in four trials per day. Mice, regardless of genotype, performed significantly better over the course of testing (p < .0001)
 
-time (sec)
+time (sec)  
 112
 
 Figure 26
 
 GSTM1: Social interaction
 
-100 90 80 70 60 50 40
-*
+100 90 80 70 60 50 40  
+*  
 WT KO
 
-30 20
-*
+30 20  
+*  
 *
 
 10 0 Figure 26: Social interaction in wildtype and GSTM1 knockout mice: average number of contacts with the empty control cup and the target cup containing an unfamiliar mouse * denotes significantly different from wildtype; p < .05
 
-number of contacts
-trial1: control
-trial1: target
-trial2: control
-trial2: target
-trial3: control
-trial3: target
+number of contacts  
+trial1: control  
+trial1: target  
+trial2: control  
+trial2: target  
+trial3: control  
+trial3: target  
 113
 
 Figure 27
 
 GSTM1: Amphetamine challenge
 
-18 16 14 12 10 8 6
+18 16 14 12 10 8 6  
 WT, saline WT, AMPH KO, saline KO, AMPH
 
 4 2 0
@@ -920,14 +937,14 @@ DA DOPAC HVA 5-HT 5-HIAA
 
 Figure 27: Concentration of dopamine (DA), dihydroxyphenylacetic acid (DOPAC), homovanillic acid (HVA), 5-hydroxytryptamine (5-HT), and 5-hydroxyindoleacetic acid (5-HIAA) in striatum of wildtype and GSTM1 knockout mice after treatment with saline or amphetamine
 
-µ g / g
+µ g / g  
 114
 
 Figure 28
 
 GSTM1: Turnover ratios after amphetamine challenge
 
-.9 .8 .7 .6 .5 .4 .3
+.9 .8 .7 .6 .5 .4 .3  
 saline, WT saline, KO AMPH, WT AMPH, KO
 
 .2 .1 0
@@ -936,7 +953,7 @@ DOPAC/DA HVA/DA 5-HIAA/5-HT
 
 Figure 28: Turnover ratios of DOPAC/DA, HVA/DA and 5-HIAA/5-HT in striatum of wildtype and GSTM1 knockout mice after treatment with saline or amphetamine
 
-µ g / g
+µ g / g  
 115
 
 Discussion: Experiment 10 Overall, the GSTM1 knockouts perform similarly to their wildtype counterparts. The only difference in behavior was on the rotorod and in social interactiveness. Knockouts performed worse than wildtypes on each rotorod trial, though this difference was only significant on the first trial. This may be indicative of reduced motor coordination consequent to the gene deletion. If knockouts did have a deficit in motor coordination, it would most likely have affected water maze performance. Knockouts performed similarly to wildtypes on the Morris water maze indicating they do not have deficits in spatial learning and memory and motor coordination is not severely affected or is not affected in all types of testing. In addition, knockouts performed worse than wildtypes in the social interaction test. Knockouts contacted both the empty control cup and the target cup containing a novel mouse less than wildtypes overall. This could indicate higher levels of anxiety if the mice simply did not explore and remained close to the edges of the chamber. However, their performance on the elevated plus maze, a good measure of anxiety, was similar to that of wildtypes. Knockouts did contact the target cup more than control cup overall, as would be expected in normal sociability. Overall, knockouts had lower levels of dopamine compared to wildtypes, though not significantly lower. Interestingly, amphetamine-treated knockouts had slightly higher levels of dopamine compared to saline-treated knockouts. This difference was not significant and likely, not a true effect of amphetamine in these mice. However, if it were determined to be a true consequence to amphetamine-administration, it may indicate that amphetamine’s effects on striatal dopamine release are delayed in GSTM1
@@ -1113,217 +1130,217 @@ week
 
 WT DKO Figure 29: Weight of wildtype and PAK double knockout mice over testing period. Both genotypes gained a significantly amount of weight over testing (p < .0001), but this gain was not significant between genotypes.
 
-weight (g)
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
+weight (g)  
+1  
+2  
+3  
+4  
+5  
+6  
+7  
+8  
+9  
+10  
+11  
+12  
+13  
+14  
+15  
+16  
+17  
+18  
+19  
+20  
+21  
+22  
+23  
+24  
+25  
 166
 
 Figure 30
 
 Baseline activity
 
-3000 2500 2000 1500 1000
-*
-*
-*
-*
-*
-*
+3000 2500 2000 1500 1000  
+*  
+*  
+*  
+*  
+*  
+*  
 WT DKO
 
-500 0
-1
-2
-3
-4
-5
+500 0  
+1  
+2  
+3  
+4  
+5  
 6
 
 time bin Figure 30: Average activity levels in wildtype and PAK double knockout mice for 30 minutes. Readings were recorded in five minute time bins. There was a significant difference in activity over the 30 minute period (p < .0001) and a significant effect of genotype (p < .0001). There was significant difference in activity levels between genotypes for each time bin. * denotes significantly different than wildtype activity during the same time bin; p < .05
 
-activity (beam breaks)
+activity (beam breaks)  
 167
 
 Figure 31
 
 Elevated plus maze
 
-25 22.5 20 17.5 15 12.5 10
-*
+25 22.5 20 17.5 15 12.5 10  
+*  
 WT DKO
 
-7.5 5
-*
+7.5 5  
+*  
 *
 
-2.5 0
-closed arms open arms
-fecal boli
+2.5 0  
+closed arms open arms  
+fecal boli  
 jump offs
 
 Figure 31: Performance on the elevated plus maze in wildtype and PAK double knockout mice: number of entries into the closed arms of the maze, number of entries into the open arms of the maze, number of fecal boli emitted over trial, and number of jump offs the maze * denotes significantly different from wildtype performance on the same measurement; p < .05
 
-number
+number  
 168
 
 Figure 32
 
 Rotorod
 
-60 50
-*
+60 50  
+*  
 *
 
 40 *
 
-30
+30  
 WT DKO
 
-20 10 0
-trial 1
-trial 2
+20 10 0  
+trial 1  
+trial 2  
 trial 3
 
 Figure 32: Performance on the rotorod by wildtype and PAK double knockout mice: average trial latency to fall from the rotorod rotating 12 rev/min. Maximum trial length: 60 seconds. Mice performed significantly better over the trials (p = .0060) and post hoc analysis showed a significant effect of genotype over the trials (p < .001). * denotes significant from wildtype on the same trial; p < .05
 
-time (sec)
-time (sec)
+time (sec)  
+time (sec)  
 169
 
 Figure 33
 
 Active avoidance: average escape latencies
 
-3 2.5 2 1.5
+3 2.5 2 1.5  
 WT DKO
 
 1 .5 0 Figure 33: Latency to escape a 0.8mA foot shock in wildtype and PAK double knockout mice, averaged over ten trials per day. No significant difference in escape latencies.
 
-time (sec)
-day 1
-day 2
-day 3
-day 4
-day 5
-day 6
-day 7
-day 8
+time (sec)  
+day 1  
+day 2  
+day 3  
+day 4  
+day 5  
+day 6  
+day 7  
+day 8  
 170
 
 Figure 34
 
 Active avoidance: average avoidance latencies
 
-6 5 4 3
+6 5 4 3  
 WT DKO
 
 2 1 0 Figure 34: Latency to avoid a 0.8mA foot shock in wildtype and PAK double knockout mice, averaged over ten trials per day. Post hoc analysis showed a significant difference in avoidance latency between genotypes overall (p = .0231)
 
-time (sec)
-day 1
-day 2
-day 3
-day 4
-day 5
-day 6
-day 7
-day 8
+time (sec)  
+day 1  
+day 2  
+day 3  
+day 4  
+day 5  
+day 6  
+day 7  
+day 8  
 171
 
 Figure 35
 
 Active avoidance: percentage of escapes
 
-100 90 80 70 60 50 40 30
-*
-*
-*
-*
-*
+100 90 80 70 60 50 40 30  
+*  
+*  
+*  
+*  
+*  
 WT DK O
 
 20 10 0 Figure 35: Percent escape responses in wildtype and PAK double knockout mice, averaged over ten trials per day. There was a significant difference in escapes between genotypes (p = .0056), total number of escape across days (p < .0001), and a significant interaction between genotype and escapes (p = .0104) * denotes significantly different compared to wildtype; p < .05
 
-% of escapes
-day 1
-day 2
-day 3
-day 4
-day 5
-day 6
-day 7
-day 8
+% of escapes  
+day 1  
+day 2  
+day 3  
+day 4  
+day 5  
+day 6  
+day 7  
+day 8  
 172
 
 Figure 36
 
 Active avoidance: percentage of avoidances
 
-100 90 80 70
-*
-*
-*
+100 90 80 70  
+*  
+*  
+*  
 *
 
-60 50 40
-*
+60 50 40  
+*  
 WT DKO
 
 30 20 10 0 Figure 36: Percent avoidance responses in wildtype and PAK double knockout mice, averaged over ten trials per day. There was a significant difference in avoidances between genotypes (p = .0056), total number of avoidances across days (p < .0001), and a significant interaction between genotype and avoidances (p = .0104) * denotes significantly different from wildtype; p < .05
 
-% of avoidances
-day 1
-day 2
-day 3
-day 4
-day 5
-day 6
-day 7
-day 8
+% of avoidances  
+day 1  
+day 2  
+day 3  
+day 4  
+day 5  
+day 6  
+day 7  
+day 8  
 173
 
 Figure 37
 
 Passive avoidance: day 1
 
-20 18
+20 18  
 *
 
-16 14 12 10 8
+16 14 12 10 8  
 WT DKO
 
-6 4 2 0
-trial 1
-trial 2
+6 4 2 0  
+trial 1  
+trial 2  
 trial 3
 
 Figure 37: Day one average latency to passively avoid a 0.8mA foot shock in wildtype and PAK double knockout mice * denotes significantly different from wildtype; p < .05
 
-latency (sec)
-latency (sec)
+latency (sec)  
+latency (sec)  
 174
 
 Figure 38
@@ -1332,7 +1349,7 @@ Passive avoidance: day 2
 
 20 *
 
-17.5 15 12.5 10
+17.5 15 12.5 10  
 WT DKO
 
 7.5 5 2.5 0
@@ -1341,8 +1358,8 @@ trial 1 trial 2 trial 3
 
 Figure 38: Day two average latency to passively avoid a 0.8mA foot shock in wildtype and PAK double knockout mice * denotes significantly different from wildtype; p < .05
 
-latency (sec)
-latency (sec)
+latency (sec)  
+latency (sec)  
 175
 
 Figure 39
@@ -1350,187 +1367,195 @@ Figure 39
 Social interaction
 
 350 300 250 200
+
 #
+
 WT
 
 150 # DKO
 
-100 50
+100 50  
 *
 
 0 Figure 39: Social interaction in wildtype and PAK double knockout mice: average number of contacts with the empty control cup and the target cup containing an unfamiliar mouse * denotes significantly different from wildtype; p < .05 # denotes significantly different from control cup; p < .05
 
-touches
-day one: control
-day one: target
-day two: control
-day two: target
-day three: control
-day three: target
-touches
-day one: control
-day one: target
-day two: control
-day two: target
-day three: control
-day three: target
+touches  
+day one: control  
+day one: target  
+day two: control  
+day two: target  
+day three: control  
+day three: target  
+touches  
+day one: control  
+day one: target  
+day two: control  
+day two: target  
+day three: control  
+day three: target  
 176
 
 Figure 40
 
 Latency to first attack
 
-35 30
+35 30  
 *
 
-25 20 15
+25 20 15  
 WT DKO
 
-10 5 0
-trial 1
-trial 2
+10 5 0  
+trial 1  
+trial 2  
 trial 3
 
 Figure 41 : Latency to the first attack (regardless of which mouse initiated it) to occur once the intruder mouse was introduced into the home cage of the resident PAK mouse. * denotes significantly different from wildtype; p < .05
 
-latency (min)
-latency (min)
+latency (min)  
+latency (min)  
 177
 
-Figure 41 Number of attacks initiated by the c57 intruder mice 10 9 8 7 6 5 4 3 2 1
+Figure 41 Number of attacks initiated by the c57 intruder mice 10 9 8 7 6 5 4 3 2 1  
 Resident WT DKO
 
 0 trial 1 trial 2 trial 3
 
 Figure 41: The average number of attacks initiated by C57 intruder mice on resident PAK mice in their home cages.
 
-# of attacks
-# of attacks
-# of attacks
+# Of Attacks
+
+# Of Attacks
+
+# Of Attacks
+
 178
 
-Figure 42 Number of attacks initiated by the resident PAK mice 9 8 7 6 5 4 3 2 1 *
+Figure 42 Number of attacks initiated by the resident PAK mice 9 8 7 6 5 4 3 2 1 *  
 Resident WT DKO
 
 0 trial 1 trial 2 trial 3
 
 Figure 42: The average number of attacks initiated by resident PAK mice on C57 intruder mice introduced into the residents’ home cages. * denotes significantly different from wildtype; p < .05
 
-# of attacks
-# of attacks
-# of attacks
+# Of Attacks
+
+# Of Attacks
+
+# Of Attacks
+
 179
 
 Figure 43
 
 Activity: Caffeine challenge
 
-3500 3000
+3500 3000  
 *
 
-2500 2000 1500
+2500 2000 1500  
 WT DKO
 
 1000 500 0
 
 time bin Figure 43: Activity levels in wildtype and double knockout mice after caffeine administration. Readings were recorded in ten minute time bins. Activity in both genotypes decreased significantly over testing (p < .0001) but there was no significant difference between genotypes * denotes significantly different from wildtype; p < .01
 
-activity (beam breaks)
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
+activity (beam breaks)  
+1  
+2  
+3  
+4  
+5  
+6  
+7  
+8  
+9  
+10  
+11  
+12  
+13  
+14  
+15  
+16  
+17  
 180
 
 Figure 44
 
 Amphetamine challenge
 
-30 25 20 15 10 5 0
-DA
-DOPAC
-HVA
-5-HT
+30 25 20 15 10 5 0  
+DA  
+DOPAC  
+HVA  
+5-HT  
 5-HIAA
 
 saline, WT saline, DKO AMPH, WT AMPH, DKO Figure 44: Concentration of dopamine (DA), dihydroxyphenylacetic acid (DOPAC), homovanillic acid (HVA), 5-hydroxytryptamine (5-HT), and 5-hydroxyindoleacetic acid (5-HIAA) in striatum of wildtype and PAK double knockout mice after treatment with saline or amphetamine. No significant difference in neurotransmitters or metabolites was found.
 
-µ g / g
+µ g / g  
 181
 
 Figure 45
 
 The effect of amphetamine on turnover ratios
 
-.9 .8 .7 .6 .5 .4 .3 .2 .1 0
-DOPAC/DA
-HVA/DA
+.9 .8 .7 .6 .5 .4 .3 .2 .1 0  
+DOPAC/DA  
+HVA/DA  
 5-HIAA/5-HT
 
 WT, saline WT, AMPH DKO, saline DKO, AMPH Figure 45: Turnover ratios of DOPAC/DA, HVA/DA and 5-HIAA/5-HT in striatum of wildtype and PAK double knockout mice after treatment with saline or amphetamine . No significant difference in turnover ratios was found.
 
-turnover ratio
+turnover ratio  
 182
 
 Figure 46
 
 Striatum: comparison of baseline neurochemistry
 
-18 16 14 12 10
+18 16 14 12 10  
 *
 
-8 6 4 2 0
-*
-*
+8 6 4 2 0  
+*  
+*  
 *
 
 WT DKO Figure 46: Concentration of dopamine (DA), dihydroxyphenylacetic acid (DOPAC), homovanillic acid (HVA), 5-hydroxytryptamine (5-HT), and 5-hydroxyindoleacetic acid (5-HIAA) in striatum of wildtype and PAK double knockout mice 30, 60 and 120 days old * denotes significantly different from wildtype; p < .05
 
-µ g / g
-DA: 30
-DA: 60
-DA: 120
-DOPAC: 30
-DOPAC: 60
-DOPAC: 120
-HVA: 30
-HVA: 60
-HVA: 120
-5-HT: 30
-5-HT: 60
-5-HT: 120
-5-HIAA: 30
-5-HIAA: 60
-5-HIAA: 120
-µ g / g
-DA: 30
-DA: 60
-DA: 120
-DOPAC: 30
-DOPAC: 60
-DOPAC: 120
-HVA: 30
-HVA: 60
-HVA: 120
-5-HT: 30
-5-HT: 60
-5-HT: 120
-5-HIAA: 30
-5-HIAA: 60
-5-HIAA: 120
+µ g / g  
+DA: 30  
+DA: 60  
+DA: 120  
+DOPAC: 30  
+DOPAC: 60  
+DOPAC: 120  
+HVA: 30  
+HVA: 60  
+HVA: 120  
+5-HT: 30  
+5-HT: 60  
+5-HT: 120  
+5-HIAA: 30  
+5-HIAA: 60  
+5-HIAA: 120  
+µ g / g  
+DA: 30  
+DA: 60  
+DA: 120  
+DOPAC: 30  
+DOPAC: 60  
+DOPAC: 120  
+HVA: 30  
+HVA: 60  
+HVA: 120  
+5-HT: 30  
+5-HT: 60  
+5-HT: 120  
+5-HIAA: 30  
+5-HIAA: 60  
+5-HIAA: 120  
 183
 
 Figure 47
@@ -1539,7 +1564,7 @@ Baseline striatal turnover rates
 
 1.2
 
-1 .8
+1 .8  
 *
 
 WT
@@ -1548,92 +1573,92 @@ WT
 
 .4
 
-.2 0
+.2 0  
 *
 
 Figure 47: Turnover ratios of DOPAC/DA, HVA/DA and 5-HIAA/5-HT in striatum of wildtype and PAK double knockout mice 30, 60, and 120 days old * denotes significantly different from wildtype; p < .05
 
-turnover ratio
-DOPAC/DA: 30
-DOPAC/DA: 60
-DOPAC/DA: 120
-HVA/DA: 30
-HVA/DA: 60
-HVA/DA: 120
-5-HIAA/5-HT: 30
-5-HIAA/5-HT: 60
-5-HIAA/5-HT: 120
-turnover ratio
-DOPAC/DA: 30
-DOPAC/DA: 60
-DOPAC/DA: 120
-HVA/DA: 30
-HVA/DA: 60
-HVA/DA: 120
-5-HIAA/5-HT: 30
-5-HIAA/5-HT: 60
-5-HIAA/5-HT: 120
-turnover ratio
-DOPAC/DA: 30
-DOPAC/DA: 60
-DOPAC/DA: 120
-HVA/DA: 30
-HVA/DA: 60
-HVA/DA: 120
-5-HIAA/5-HT: 30
-5-HIAA/5-HT: 60
-5-HIAA/5-HT: 120
+turnover ratio  
+DOPAC/DA: 30  
+DOPAC/DA: 60  
+DOPAC/DA: 120  
+HVA/DA: 30  
+HVA/DA: 60  
+HVA/DA: 120  
+5-HIAA/5-HT: 30  
+5-HIAA/5-HT: 60  
+5-HIAA/5-HT: 120  
+turnover ratio  
+DOPAC/DA: 30  
+DOPAC/DA: 60  
+DOPAC/DA: 120  
+HVA/DA: 30  
+HVA/DA: 60  
+HVA/DA: 120  
+5-HIAA/5-HT: 30  
+5-HIAA/5-HT: 60  
+5-HIAA/5-HT: 120  
+turnover ratio  
+DOPAC/DA: 30  
+DOPAC/DA: 60  
+DOPAC/DA: 120  
+HVA/DA: 30  
+HVA/DA: 60  
+HVA/DA: 120  
+5-HIAA/5-HT: 30  
+5-HIAA/5-HT: 60  
+5-HIAA/5-HT: 120  
 184
 
 Figure 48 Frontal cortex: comparison of baseline neurochemistry 5 4 3 2
 
-1 0
-*
-*
-*
-*
+1 0  
+*  
+*  
+*  
+*  
 *
 
 WT DKO Figure 48: Concentration of dopamine (DA), dihydroxyphenylacetic acid (DOPAC), homovanillic acid (HVA), 5-hydroxytryptamine (5-HT), and 5-hydroxyindoleacetic acid (5-HIAA) in frontal cortex of wildtype and PAK double knockout mice 30, 60 and 120 days old * denotes significantly different from wildtype; p < .05
 
-µ g / g
-DA: 30
-DA: 60
-DA: 120
-DOPAC: 30
-DOPAC: 60
-DOPAC: 120
-HVA: 30
-HVA: 60
-HVA: 120
-5-HT: 30
-5-HT: 60
-5-HT: 120
-5-HIAA: 30
-5-HIAA: 60
-5-HIAA: 120
+µ g / g  
+DA: 30  
+DA: 60  
+DA: 120  
+DOPAC: 30  
+DOPAC: 60  
+DOPAC: 120  
+HVA: 30  
+HVA: 60  
+HVA: 120  
+5-HT: 30  
+5-HT: 60  
+5-HT: 120  
+5-HIAA: 30  
+5-HIAA: 60  
+5-HIAA: 120  
 185
 
 Figure 49
 
-.45
+.45  
 Baseline turnover ratios in the frontal cortex *
 
-.4 .35 .3 .25 .2
+.4 .35 .3 .25 .2  
 WT DKO
 
 .15 .1 .05 0 Figure 49: Turnover ratios of DOPAC/DA, HVA/DA and 5-HIAA/5-HT in frontal cortex of wildtype and PAK double knockout mice 30, 60, and 120 days old * denotes significantly different from wildtype; p < .05
 
-turnover ratio
-DOPAC/DA: 30
-DOPAC/DA: 60
-DOPAC/DA: 120
-HVA/DA: 30
-HVA/DA: 60
-HVA/DA: 120
-5-HIAA/5-HT: 30
-5-HIAA/5-HT: 60
-5-HIAA/5-HT: 120
+turnover ratio  
+DOPAC/DA: 30  
+DOPAC/DA: 60  
+DOPAC/DA: 120  
+HVA/DA: 30  
+HVA/DA: 60  
+HVA/DA: 120  
+5-HIAA/5-HT: 30  
+5-HIAA/5-HT: 60  
+5-HIAA/5-HT: 120  
 186
 
 Figure 50
@@ -1644,87 +1669,87 @@ Hippocampus: a comparison of baseline neurochemistry
 
 WT DKO Figure 50: Concentration of dopamine (DA), dihydroxyphenylacetic acid (DOPAC), homovanillic acid (HVA), 5-hydroxytryptamine (5-HT), and 5-hydroxyindoleacetic acid (5-HIAA) in hippocampus of wildtype and PAK double knockout mice 30, 60 and 120 days old
 
-µ g / g
-DA: 30
-DA: 60
-DA: 120
-DOPAC: 30
-DOPAC: 60
-DOPAC: 120
-HVA: 30
-HVA: 60
-HVA: 120
-5-HT: 30
-5-HT: 60
-5-HT: 120
-5-HIAA: 30
-5-HIAA: 60
-5-HIAA: 120
+µ g / g  
+DA: 30  
+DA: 60  
+DA: 120  
+DOPAC: 30  
+DOPAC: 60  
+DOPAC: 120  
+HVA: 30  
+HVA: 60  
+HVA: 120  
+5-HT: 30  
+5-HT: 60  
+5-HT: 120  
+5-HIAA: 30  
+5-HIAA: 60  
+5-HIAA: 120  
 187
 
 Figure 51
 
-2
+2  
 Hypothalamus: comparison of baseline neurochemistry *
 
-1.8 1.6
+1.8 1.6  
 *
 
-1.4 1.2 1 .8 .6
+1.4 1.2 1 .8 .6  
 *
 
-.4 .2
-*
-*
-*
+.4 .2  
+*  
+*  
+*  
 *
 
 0
 
 WT DKO Figure 51: Concentration of dopamine (DA), dihydroxyphenylacetic acid (DOPAC), homovanillic acid (HVA), 5-hydroxytryptamine (5-HT), and 5-hydroxyindoleacetic acid (5-HIAA) in hippocampus of wildtype and PAK double knockout mice 30, 60 and 120 days old * denotes significantly different from wildtype; p < .05
 
-µ g / g
-DA: 30
-DA: 60
-DA: 120
-DOPAC: 30
-DOPAC: 60
-DOPAC: 120
-HVA: 30
-HVA: 60
-HVA: 120
-5-HT: 30
-5-HT: 60
-5-HT: 120
-5-HIAA: 30
-5-HIAA: 60
-5-HIAA: 120
+µ g / g  
+DA: 30  
+DA: 60  
+DA: 120  
+DOPAC: 30  
+DOPAC: 60  
+DOPAC: 120  
+HVA: 30  
+HVA: 60  
+HVA: 120  
+5-HT: 30  
+5-HT: 60  
+5-HT: 120  
+5-HIAA: 30  
+5-HIAA: 60  
+5-HIAA: 120  
 188
 
 Figure 52
 
 Baseline turnover ratios in the hypothalamus
 
-.7 .6
+.7 .6  
 *
 
 .5 *
 
-.4 .3
+.4 .3  
 WT DKO
 
 .2 .1 0 Figure 52: Turnover ratios of DOPAC/DA, HVA/DA and 5-HIAA/5-HT in hypothalamus of wildtype and PAK double knockout mice 30, 60, and 120 days old * denotes significantly different from wildtype; p < .05
 
-turnover ratio
-DOPAC/DA: 30
-DOPAC/DA: 60
-DOPAC/DA: 120
-HVA/DA: 30
-HVA/DA: 60
-HVA/DA: 120
-5-HIAA/5-HT: 30
-5-HIAA/5-HT: 60
-5-HIAA/5-HT: 120
+turnover ratio  
+DOPAC/DA: 30  
+DOPAC/DA: 60  
+DOPAC/DA: 120  
+HVA/DA: 30  
+HVA/DA: 60  
+HVA/DA: 120  
+5-HIAA/5-HT: 30  
+5-HIAA/5-HT: 60  
+5-HIAA/5-HT: 120  
 189
 
 Figure 53
@@ -1733,58 +1758,58 @@ Brain stem: comparison of baseline neurochemistry
 
 1.2 1
 
-.8 .6 .4
+.8 .6 .4  
 *
 
-.2 0
-*
-*
-*
-*
+.2 0  
+*  
+*  
+*  
+*  
 *
 
 WT DKO Figure 53: Concentration of dopamine (DA), dihydroxyphenylacetic acid (DOPAC), homovanillic acid (HVA), 5-hydroxytryptamine (5-HT), and 5-hydroxyindoleacetic acid (5-HIAA) in brain stem of wildtype and PAK double knockout mice 30, 60 and 120 days old * denotes significantly different from wildtype; p < .05
 
-µ g / g
-DA: 30
-DA: 60
-DA: 120
-DOPAC: 30
-DOPAC: 60
-DOPAC: 120
-HVA: 30
-HVA: 60
-HVA: 120
-5-HT: 30
-5-HT: 60
-5-HT: 120
-5-HIAA: 30
-5-HIAA: 60
-5-HIAA: 120
+µ g / g  
+DA: 30  
+DA: 60  
+DA: 120  
+DOPAC: 30  
+DOPAC: 60  
+DOPAC: 120  
+HVA: 30  
+HVA: 60  
+HVA: 120  
+5-HT: 30  
+5-HT: 60  
+5-HT: 120  
+5-HIAA: 30  
+5-HIAA: 60  
+5-HIAA: 120  
 190
 
 Figure 54
 
 Baseline turnover ratios in the brain stem
 
-1.4 1.2 1 .8 .6
-*
-*
-*
+1.4 1.2 1 .8 .6  
+*  
+*  
+*  
 WT DKO
 
 .4 .2 0 Figure 54: Turnover ratios of DOPAC/DA, HVA/DA and 5-HIAA/5-HT in brain stem of wildtype and PAK double knockout mice 30, 60, and 120 days old * denotes significantly different from wildtype; p < .05
 
-turnover ratio
-DOPAC/DA: 30
-DOPAC/DA: 60
-DOPAC/DA: 120
-HVA/DA: 30
-HVA/DA: 60
-HVA/DA: 120
-5-HIAA/5-HT: 30
-5-HIAA/5-HT: 60
-5-HIAA/5-HT: 120
+turnover ratio  
+DOPAC/DA: 30  
+DOPAC/DA: 60  
+DOPAC/DA: 120  
+HVA/DA: 30  
+HVA/DA: 60  
+HVA/DA: 120  
+5-HIAA/5-HT: 30  
+5-HIAA/5-HT: 60  
+5-HIAA/5-HT: 120  
 191 Experiment 12: Behavioral characterization and drug sensitivity of single knockouts PAK5 and PAK6 in addition to PAK5/PAK6 double knockout mice Rationale In Experiment 11, double knockouts showed significant hypoactivity compared to wildtypes. They also showed increased anxiety behavior, reduced social interactiveness, poor motor coordination and deficits in learning and memory. Finally, double knockouts showed increased activity in response to caffeine and some depletion in response to amphetamine. To determine if one gene or the other (PAK5 or PAK6) contributed to the behaviors observed in the double knockouts versus the wildtypes in Experiment 11, single knockout mice lacking the PAK5 or PAK6 genes were generated. A battery of behavioral tests and neurochemical analysis was completed on all four genotypes to determine if either or both genes contributed or if there is functional redundancy between these two B family members. Locomotor assessment was completed to determine overall activity levels of the genotypes. The elevated plus maze was used as a measure of anxiety. The rotorod was used as an assessment of motor function and coordination. Learning and memory was assessed in the active avoidance T-maze. Mice were also tested on a forced treadmill test as a second form of active avoidance as activity was forced and constant. Social interactiveness and aggression were also recorded. Sensitivity to caffeine was assessed in the open field to measure activity. Finally, amphetamine was administered to evaluate dopamine depletion in response to amphetamine’s neurotoxic effects. All together, these
 
 192 tests give a broad picture of the behavioral and neurochemical properties as it could relate to a disease phenotype. Animals All mice were on mixed 129/Sv x C57BL/6 genetic background and were generated in the Minden lab at Rutgers University. Five male double knockout mice, five male Pak5 knockout mice, eight male Pak6 knockout and eight male wild type mice were used in this set of tests. All mice were group housed in plastic shoebox cages with free access to food and water before being transferred to individual hanging wire cages (20 cm x 10 cm x 12 cm), also with free access to food and water, one week prior to testing began. Mice were housed in these cages during all tests unless otherwise noted. The mice were housed in a temperature and humidity regulated room with a 12 hr light/dark cycle. All of the experiments were conducted with the experimenter blind to mouse genotypes. Body weight Mice were weighed approximately once a week for the duration of studies. Activity Locomotor activity was assessed for 30 minutes in a novel environment (42 x 22 x 14 cm Plexiglas box) with six infrared sensors placed approximately 7 cm apart and 2.5 cm above the floor. The number of beam breaks was recorded every 5 minutes.
@@ -1871,22 +1896,22 @@ weight (g)
 
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
 
-0
-5
-10
-15
-20
-25
-30
-35
-40
-45
-50
-DKO
-PAK6
-PAK5
-WT
-Weights over time
+0  
+5  
+10  
+15  
+20  
+25  
+30  
+35  
+40  
+45  
+50  
+DKO  
+PAK6  
+PAK5  
+WT  
+Weights over time  
 221
 
 Figure 55: Weight of wildtype, PAK5 knockouts, PAK6 knockouts and PAK double knockout mice over testing period. At arrival, wildtypes and PAK6 knockouts weighed significantly more than PAK5 knockouts and double knockouts. By the end of testing, PAK6 knockouts weighed significantly more than other genotypes
@@ -1895,32 +1920,32 @@ Figure 55: Weight of wildtype, PAK5 knockouts, PAK6 knockouts and PAK double kno
 
 Figure 56
 
-22.5 20
+22.5 20  
 Overall change in weight *
 
-17.5 15 12.5
-*
+17.5 15 12.5  
+*  
 *
 
-10 7.5 5 2.5 0
-WT
-PAK5 KO
-PAK6 KO
+10 7.5 5 2.5 0  
+WT  
+PAK5 KO  
+PAK6 KO  
 DKO
 
 genotype Figure 56: Overall change in weight in wildtype, PAK5 knockouts, PAK6 knockouts and double knockouts. PAK6 knockouts began and ended the study weighing more, but they also gained the most weight. * denotes significantly different from wildtype; p < .05
 
-change in weight (g)
+change in weight (g)  
 223
 
 Figure 57
 
 Baseline activity
 
-2500 2250 2000 1750 1500 1250 1000
-*
-*
-*
+2500 2250 2000 1750 1500 1250 1000  
+*  
+*  
+*  
 WT PAK5 KO PAK6 KO DKO
 
 750 500 250 0
@@ -1929,20 +1954,20 @@ WT PAK5 KO PAK6 KO DKO
 
 time bin Figure 57: Average activity levels in wildtype, PAK5 knockouts, PAK6 knockouts and double knockout mice for 30 minutes. Readings were recorded in five minute time bins. There was a significant difference in activity over the 30 minute period (p = .0004), a significant effect of genotype (p = .0069) and a significant interaction of genotype and overall activity (p = .0179). Overall, double knockout activity was significantly lower compared to each of the other three genotypes (p < .0001) * denotes significantly different than wildtypes; p < .05
 
-activity (beam breaks)
+activity (beam breaks)  
 224
 
 Figure 58
 
 20 * Elevated plus maze
 
-18 16 14 12 10 8 6
-*
-&
+18 16 14 12 10 8 6  
+*  
+&  
 WT PAK5 KO PAK6 KO DKO
 
-4 2
-*
+4 2  
+*  
 &
 
 0 closed arms open arms fecal boli jump offs
@@ -1955,11 +1980,11 @@ Figure 59
 
 Rotorod
 
-50 40 30 20 10
-*
-*
-*
-*
+50 40 30 20 10  
+*  
+*  
+*  
+*  
 *
 
 0
@@ -1976,7 +2001,7 @@ Figure 60
 
 Active avoidance I: avoidance latency
 
-8 7 6 5 4 3
+8 7 6 5 4 3  
 WT PAK5 PAK6 DKO
 
 2 1 0
@@ -1985,30 +2010,30 @@ day 1 day 2 day 3 day 4 day 5
 
 Figure 60: Latency to avoid a 0.8mA foot shock in wildtype, PAK5 knockouts, PAK6 knockouts and double knockout mice, averaged over ten trials per day. Overall, latencies significantly improved over testing days (p = .0001).
 
-Time (sec)
+Time (sec)  
 227
 
 Figure 61
 
 Active avoidance I: esacpe latency
 
-3.5 3 2.5 2 1.5 1 .5 0
-day 1
-day 2
-day 3
-day 4
+3.5 3 2.5 2 1.5 1 .5 0  
+day 1  
+day 2  
+day 3  
+day 4  
 day 5
 
 WT PAK5 PAK6 DKO Figure 61: Latency to escape a 0.8mA foot shock in wildtype, PAK5 knockouts, PAK6 knockouts and double knockout mice, averaged over ten trials per day.
 
-time (sec)
+time (sec)  
 228
 
 Figure 62
 
 Active avoidance I: % avoidance
 
-100 90 80 70 60 50 40
+100 90 80 70 60 50 40  
 WT PAK5 PAK6 DKO
 
 30 20 10 0
@@ -2017,14 +2042,14 @@ day 1 day 2 day 3 day 4 day 5
 
 Figure 62: Percent avoidance responses in wildtype, PAK5 knockouts, PAK6 knockouts and double knockout mice, averaged over ten trials per day. There was a significant difference in total number of avoidances across days (p < .0001), and a significant interaction between genotype and avoidances (p = .0165).
 
-% avoidances in 10 trials/day
+% avoidances in 10 trials/day  
 229
 
 Figure 63
 
 Active avoidance I: % escape
 
-100 90 80 70 60 50 40
+100 90 80 70 60 50 40  
 WT PAK5 PAK6 DKO
 
 30 20 10 0
@@ -2033,47 +2058,47 @@ day 1 day 2 day 3 day 4 day 5
 
 Figure 63: Percent escape responses in wildtype, PAK5 knockouts, PAK6 knockouts and double knockout mice, averaged over ten trials per day. There was a significant difference in total number of avoidances across days (p < .0001), and a significant interaction between genotype and avoidances (p = .0365).
 
-% escape in 10 trials/day
+% escape in 10 trials/day  
 230
 
 Figure 64
 
 Active avoidance II: escape latency
 
-1.2 1 .8 .6 .4
+1.2 1 .8 .6 .4  
 WT PAK5 KO PAK6 KO DKO
 
 .2 0 Figure 64: Latency to escape a 0.8mA foot shock in wildtype, PAK5 knockouts, PAK6 knockouts and double knockout mice, averaged over ten trials per day.
 
-escape latency (sec)
-day 1
-day 2
-day 3
-day 4
-day 5
-day 6
-day 7
-day 8
+escape latency (sec)  
+day 1  
+day 2  
+day 3  
+day 4  
+day 5  
+day 6  
+day 7  
+day 8  
 231
 
 Figure 65
 
 Active avoidance II: avoidance latency
 
-7 6 5 4 3
+7 6 5 4 3  
 WT PAK5 KO PAK6 KO DKO
 
 2 1 0 Figure 65: Latency to avoid a 0.8mA foot shock in wildtype, PAK5 knockouts, PAK6 knockouts and double knockout mice, averaged over ten trials per day, during the second run of active avoidance. Overall, there was a significant interaction of latency and genotype (p = .0455). Double knockouts had significantly higher latencies overall compared to wildtypes, PAK5 knockouts and PAK6 knockouts.
 
-tiem (sec)
-day 1
-day 2
-day 3
-day 4
-day 5
-day 6
-day 7
-day 8
+tiem (sec)  
+day 1  
+day 2  
+day 3  
+day 4  
+day 5  
+day 6  
+day 7  
+day 8  
 232
 
 Figure 66
@@ -2084,47 +2109,47 @@ Active avoidance II: % of escape responses
 
 WT
 
-40 30
+40 30  
 PAK5 KO PAK6 KO DKO
 
 20 10 0 Figure 66: Percent escape responses in wildtype, PAK5 knockouts, PAK6 knockouts and double knockout mice, averaged over ten trials per day, in the second run of active avoidance. There was a significant difference in total number of escapes across days (p = .0222), genotypes (p = .0176) and a significant interaction between genotype and escapes (p = .0038). Overall, double knockouts had significantly higher number of escapes compared to each other genotype and PAK5 knockouts had significantly higher escape responses compared to wildtypes.
 
-% escapes in 10 trials/day
-day 1
-day 2
-day 3
-day 4
-day 5
-day 6
-day 7
-day 8
+% escapes in 10 trials/day  
+day 1  
+day 2  
+day 3  
+day 4  
+day 5  
+day 6  
+day 7  
+day 8  
 233
 
 Figure 67
 
 Active avoidance II: % of avoidance responses
 
-100 90 80 70 60 50 40
+100 90 80 70 60 50 40  
 WT PAK5 KO PAK6 KO DKO
 
 30 20 10 0 Figure 67: Percent avoidance responses in wildtype, PAK5 knockouts, PAK6 knockouts and double knockout mice, averaged over ten trials per day, in the second run of active avoidance. There was a significant difference in total number of avoidances across days (p = .0222), genotypes (p = .0176) and a significant interaction between genotype and avoidances (p = .0038). Overall, double knockouts had significantly lower number of avoidances compared to each other genotype and PAK5 knockouts had significantly lower avoidance responses compared to wildtypes.
 
-% avoidances in 10 trials/day
-day 1
-day 2
-day 3
-day 4
-day 5
-day 6
-day 7
-day 8
+% avoidances in 10 trials/day  
+day 1  
+day 2  
+day 3  
+day 4  
+day 5  
+day 6  
+day 7  
+day 8  
 234
 
 Figure 68
 
 Treadmill active avoidance
 
-14 12 10 8 6
+14 12 10 8 6  
 WT PAK5 PAK6 DKO
 
 4 2 0
@@ -2133,7 +2158,8 @@ WT PAK5 PAK6 DKO
 
 session Figure 68: Average number of shocks received during each session of treadmill active avoidance. There was a significant reduction in number of shocks received over testing (p < .0001). Double knockouts received significantly more shocks compared to each other genotype.
 
-# of shocks received
+# Of Shocks Received
+
 235
 
 Figure 69
@@ -2141,49 +2167,53 @@ Figure 69
 Social interaction
 
 1000 900 800 700 600 500 400 300 200 100 0
+
 * WT
+
 * *
+
 #
 ***
+
 #
 #
 
 PAK5 PAK6 DKO Figure 69: Social interaction in wildtype, PAK5 knockouts, PAK6 knockouts and double knockout mice: average number of contacts with the empty control cup and the target cup containing an unfamiliar mouse. * denotes significantly different from wildtype; p < .05 # denotes significantly different from control cup; p < .05
 
-contacts
-control, day1
-control, day2
-control, day3
-target, day1
-target, day2
-target, day3
+contacts  
+control, day1  
+control, day2  
+control, day3  
+target, day1  
+target, day2  
+target, day3  
 236
 
 Figure 70
 
 Latency to first attack
 
-35 30 25 20 15
+35 30 25 20 15  
 Resident WT PAK5 PAK6 DKO
 
-10 5 0
-trial 1
-trial 2
+10 5 0  
+trial 1  
+trial 2  
 trial 3
 
 Figure 70: The latency for the first attack (regardless of which mouse initiated it) to occur once the intruder mouse was introduced into the home cage of the resident PAK mouse. Overall, there was no significant difference between genotypes or latency to the first attack.
 
-time (min)
+time (min)  
 237
 
 Figure 71
 
 Number of attacks inititated by c57 intruder mice
 
-40 35
+40 35  
 *
 
-30 25 20 15
+30 25 20 15  
 Resident WT PAK5 PAK6 DKO
 
 10 #
@@ -2194,15 +2224,16 @@ Resident WT PAK5 PAK6 DKO
 
 Figure 71 : The average number of attacks initiated by C57 intruder mice on resident PAK mice in their home cages. * denotes significantly different from wildtype; p < .05 # denotes significantly different from double knockout; p < .05
 
-# of attacks
+# Of Attacks
+
 238
 
-Figure 72 Number of attacks initiated by the resident PAK mice 35 30 25 20
+Figure 72 Number of attacks initiated by the resident PAK mice 35 30 25 20  
 Resident WT PAK5
 
-15 10
-*
-*
+15 10  
+*  
+*  
 PAK6 DKO
 
 5 *
@@ -2211,7 +2242,8 @@ PAK6 DKO
 
 Figure 72: The average number of attacks initiated by resident PAK mice on C57 intruder mice introduced into the residents’ home cages. Wildtypes initiated significantly more attacks overall compared to each other genotype. * denotes significantly different from wildtype; p < .05
 
-# of attacks
+# Of Attacks
+
 239
 
 Figure 73
@@ -2220,21 +2252,21 @@ activity (beam breaks)
 
 10 20 30 40 50 60 70 80 90 100 110 120 130 140 150 160 170 180 190
 
-0
-500
-1000
-1500
-2000
-2500
-3000
-3500
-4000
-4500
-DKO
-PAK6
-PAK5
-WT
-Caffeine challenge: activity levels
+0  
+500  
+1000  
+1500  
+2000  
+2500  
+3000  
+3500  
+4000  
+4500  
+DKO  
+PAK6  
+PAK5  
+WT  
+Caffeine challenge: activity levels  
 240 Figure 73: Activity levels in wildtype, PAK5 knockouts, PAK6 knockouts and double knockout mice after caffeine administration. Readings were recorded in ten minute time bins. Activity in both genotypes decreased significantly over testing (p < .0001) but there was no significant difference between genotypes
 
 241
@@ -2245,48 +2277,48 @@ Figure 74 Self-injurious behavior after amphetamine administration 10 9 8 7 6 5 
 
 WT PAK5 KO PAK6 KO DKO Figure 74: Incidence of self injurious behavior in wildtypes, PAK5 knockouts, PAK6 knockouts and double knockouts treated with amphetamine
 
-SIB score
+SIB score  
 242
 
 Figure 75
 
-1000
+1000  
 Overall effect of amphetamine on activity *
 
 800
 
 @
 
-600 400
-@
+600 400  
+@  
 WT PAK5 KO PAK6 KO DKO
 
-200 0
-saline
+200 0  
+saline  
 AMPH
 
 Figure 75: The overall effect of amphetamine on activity levels over 90 minutes after saline or amphetamine injection * denotes significantly different from saline; p < .05 @ denotes significantly different from amphetamine-treated PAK5 and PAK6 knockout activity levels; p < .05
 
-activity (beam breaks)
+activity (beam breaks)  
 243
 
 Figure 76
 
 Amphetamine challenge: striatal neurochemistry
 
-45 40 35 30 25 20 15
+45 40 35 30 25 20 15  
 *
 
-10 5 0
-DA
-DOPAC
-HVA
-5-HT
+10 5 0  
+DA  
+DOPAC  
+HVA  
+5-HT  
 5-HIAA
 
 WT, saline WT, AMPH PAK5 KO, saline PAK5 KO, AMPH PAK6 KO, saline PAK6 KO, AMPH DKO, saline DKO, AMPH Figure 76: Concentration of dopamine (DA), dihydroxyphenylacetic acid (DOPAC), homovanillic acid (HVA), 5-hydroxytryptamine (5-HT), and 5-hydroxyindoleacetic acid (5-HIAA) in striatum of wildtype, PAK5 knockouts, PAK6 knockouts and double knockout mice after treatment with saline or amphetamine.
 
-µ g / g
+µ g / g  
 244
 
 Discussion: Experiments 11 and 12 Overall, there are distinct differences between the genotypes tested in these studies. PAK6 knockouts are significantly heavier than wildtypes, PAK5 knockouts and double knockouts. They had the greatest change in weight as well. This could be due to a number of factors. As PAK6 is normally expressed in the thyroid gland in low levels, PAK6 knockouts may be affected by hypothyroidism, a cause of weight gain in humans. A test of their thyroid function (measuring levels of thyrotropin stimulating hormone, triiodothyronine or levothyroxine) would be useful in determining if this is the cause of significant weight gain in these mice. Individuals with hypothyroidism also tend to have lower basal body temperatures so routine body temperature measurements in these mice compared to controls may also help determine if these mice exhibit hypothyroidism. On the other hand, PAK6 knockouts are not hypoactive compared to the other genotypes and hypoactivity is also generally associated with hypothyroidism. It is also possible that these mice have lower levels of leptin compared to the other genotypes. Leptin is a hormone produced by adipose tissue that is integral to regulating appetite and metabolism. Typically, leptin binds to receptors in the hypothalamus and signals satiety. In individuals with abnormally low levels of leptin, this pathway is disrupted and food craving is increased. Mutations in the leptin gene are not common but are known to be one cause of obesity in humans. If PAK6 plays a role in leptin levels, the PAK6 knockouts may serve as a new model of abnormal leptin- induced obesity. Double knockouts were shown to be deficient in several behavioral tests in Experiment 11. Experiment 12 aimed to determine if one gene, PAK5 or PAK6 played a
@@ -2363,17 +2395,16 @@ Yoritaka A, Hattori N, Uchida K, Tanaka M, Stadtman ER and Mizuno Y (1996) Immun
 
 CURRICULUM VITAE Michelle L. Jobes
 
-EDUCATION Ph.D. in Toxicology
+EDUCATION Ph.D. in Toxicology  
 2008
 
 Joint Graduate Program in Toxicology Rutgers University and UMDNJ New Brunswick, NJ Neurotoxicology track Dissertation: Amphetamine-induced dopaminergic toxicity: a single dose animal model of Parkinson’s disease. Advisor: George C. Wagner
 
 B.A. in Biological Sciences 2002
 
-Rutgers College Rutgers University, New Brunswick, NJ Minor: Psychology TEACHING EXPERIENCE Advisor, Honors and Independent Studies
+Rutgers College Rutgers University, New Brunswick, NJ Minor: Psychology TEACHING EXPERIENCE Advisor, Honors and Independent Studies  
 2003 - 2008
 
 Teaching Assistant 2007 - 2008
 
 PUBLICATIONS Jobes ML, Nekrasova T, Ting JH, Wagner GC, Minden A. (2008) Targeted disruption of the Pak5 and Pak6 Genes in mice leads to deficits in learning and locomotion. Developmental Biology 322(1): 95 – 108.
-

@@ -1,4 +1,4 @@
-# Getting through amphetamine withdrawal a guide fo
+# Getting through Amphetamine Withdrawal a Guide Fo
 
 GETTING THROUGH AMPHETAMINE WITHDRAWAL A guide for people trying to stop amphetamine use Turning Point
 

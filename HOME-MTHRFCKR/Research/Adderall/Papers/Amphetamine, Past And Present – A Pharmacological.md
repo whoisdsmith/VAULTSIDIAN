@@ -1,4 +1,4 @@
-# Amphetamine, past and present–a pharmacological
+# Amphetamine, past and present–a Pharmacological
 
 Journal of Psychopharmacology http7/jop.sageputrcom/ J Amphetamine, past and present - a pharmacological and clinical perspective David J Heal, Sharon L Smith, Jane Gosden and David J Nutt J Psychopharmacol 2013 27: 479 originally published online 28 March 2013 DOI: 10.1177/0269881113482532 The online version of this article can be found at: http://jop.sagepub.eom/content/27/6/479 Published by: ®SAGE http://www.sagepublications.com On behalf of: British Association for Psychopharmacology Additional services and information for Journal of Psychopharmacology can be found at: Open Access: Immediate free access via SAGE Choice Email Alerts: http://jop.sagepub.com/cgi/alerts Subscriptions: http://jop.sagepub.com/subscriptions Reprints: http://www.sagepub.com/journalsReprints.nav Permissions: http://www.sagepub.com/journalsPermissions.nav » Version of Record - May 16, 2013 OnlineFirst Version of Record - May 8, 2013 OnlineFirst Version of Record - Mar 28, 2013 What is This? Downloaded from jop.sagepub.com at GEORGIAN COURT UNIV on November 8, 2014
 

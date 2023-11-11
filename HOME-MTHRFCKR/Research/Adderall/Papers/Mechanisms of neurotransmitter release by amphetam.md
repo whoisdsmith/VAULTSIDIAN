@@ -1,4 +1,4 @@
-# Mechanisms of neurotransmitter release by amphetam
+# Mechanisms of Neurotransmitter Release by Amphetam
 
 progress in Neurobiology
 
