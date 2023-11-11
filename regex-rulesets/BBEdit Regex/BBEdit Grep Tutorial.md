@@ -23,14 +23,14 @@ Grep is perhaps one of the most powerful and least understood features of BBEdit
 ## Characters to Use in Search Patterns
 
 | Character Typed | What it Represents | Example  
- |
-| --- | --- | --- |
+ |  
+| --- | --- | --- |  
 | *any character* | represents the character typed, with the exception of the special characters defined below | a represents a, b represents b, etc.  
- |
+ |  
 | `.` | any character (except line breaks) | will match c, 3, space, etc.  
- |
+ |  
 | `#` | any digit | will match 0, 1, 2, 3, 4, 5, 6, 7, 8, or 9  
- |
+ |  
 | `\d` | any digit | will match 0, 1, 2, 3, 4, 5, 6, 7, 8, or 9 (same as #)
 
 **Note:** Only present in BBEdit Pro 5.1 and Lite 4.6 or greater  
@@ -74,36 +74,36 @@ Grep is perhaps one of the most powerful and least understood features of BBEdit
 ## Representing Multiple Character Patterns in Searches
 
 | Character Typed | What it Represents | Example  
- |
-| --- | --- | --- |
+ |  
+| --- | --- | --- |  
 | `?` | represents 0 or 1 of the previous character | ba?t matches bat or bt, but not baat  
- |
+ |  
 | `*` | represents 0 or more of the previous character | ba\*t matches bt, bat, baat, etc. but not boat  
- |
+ |  
 | `+` | represents 1 or more of the previous character | ba+t matches bat, baat, etc. but not bt  
- |
+ |  
 | *pattern1*`|`*pattern2* | represents either of the patterns specified (or) | ba|t matches ba or t but not bat (it will match ba and then t for two matches instead of one)  
- |
+ |  
 | `(`*pattern*`)`*one of the above special characters* | same as above, but treats the characters within the parenthesis as a group | (ba)\*t will match t, bat, babat, but not bt  
  |
 
 ## Saving Patterns in Searches
 
 | Character Typed | What it Represents | Example  
- |
-| --- | --- | --- |
+ |  
+| --- | --- | --- |  
 | `(`*pattern*`)` | saves the match to the pattern to be used for replacement, in order of the patterns matched. The first pattern is saved in \\1, the second in \\2, etc. These can be used in the replacement to enter the pattern that was matched. | a(b.c) would save whatever b.c matched in \\1 for replacement, so if it were to match bjc, and you use \\1 in the replacement, bjc gets entered in its place  
  |
 
 ## Characters to Use in Replacement Patterns
 
 | Character Typed | What it Represents | Example  
- |
-| --- | --- | --- |
+ |  
+| --- | --- | --- |  
 | `&` | the entire pattern matched in the search | if you search for a@b.c and BBEdit finds, a@bjc then that is what & will represent in the replacement pattern  
- |
+ |  
 | `\`*digit* | the saved pattern for the digit you specified. BBEdit saves patterns in order from \\1 to \\9, then \\0 | if you search for (a@b.)c, then the part matched within the parenthesis is the first saved pattern, and you can use \\1 in the replacement pattern for it  
- |
+ |  
 | `\`*character* | represents a character that is normally a [special character](http://www.anybrowser.org/bbedit/grep.html#star1) | \\\\ means \\, \\& means &, etc.  
  |
 

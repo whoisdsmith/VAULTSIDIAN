@@ -1,4 +1,4 @@
-# Grep Regex: A Complete Guide 
+# Grep Regex: A Complete Guide
 
 ---
 
@@ -325,37 +325,37 @@ The output highlights all instances of **`bashrc`**. Since **`rc`** is optional,
 The grep command offers a few unique backslash expressions for advanced word boundary matching. Below is a table with short examples for each expression type.
 
 | Syntax | Example | Matches  
-(Bold text represents matches) |
-| --- | --- | --- |
+(Bold text represents matches) |  
+| --- | --- | --- |  
 | **`\b`** | '\\band\\b' | **and**  
 "**and**"  
 \\**and**\\  
 <space>**and**  
-<tab>**and** |
+<tab>**and** |  
 | **`\B`** | '\\Band' | \_**and**  
 \_**and**\_  
 s**and**  
-h**and**y |
+h**and**y |  
 | **`\<`** | '\\<and' | **and**  
 "**and**"  
 **and**y  
 **and**\_  
 **<space>and**  
-**<tab>and** |
+**<tab>and** |  
 | **`\>`** | 'and\\>' | **and**  
 **"and"**  
 s**and**  
 \_**and**  
 <space>**and**  
-<tab>**and** |
+<tab>**and** |  
 | **`\w`** | '\\wand' | **\_and**  
 **\_and**\_  
 **hand**y  
-**sand** |
+**sand** |  
 | **`\W`** | '\\Wand' | **"and**"  
-**/and**/ |
+**/and**/ |  
 | **`\s`** | '\\sand' | **<space>and  
-<tab>and** |
+<tab>and** |  
 | **`\S`** | '\\Sand' | **\_and**  
 **"and**"  
 **sand**  

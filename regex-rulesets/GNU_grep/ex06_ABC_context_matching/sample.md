@@ -1,14 +1,16 @@
+# Sample
+
 Hello World!
 
-Good day
+Good day  
 How do you do?
 
-Just do it
+Just do it  
 Believe it!
 
-Today is sunny
-Not a bit funny
+Today is sunny  
+Not a bit funny  
 No doubt you like it too
 
-Much ado about nothing
+Much ado about nothing  
 He he he

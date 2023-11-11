@@ -5,10 +5,15 @@ Instructions and shell script here assumes `bash` shell. Tested on *GNU bash, ve
 <br>
 
 * For example, the first exercise for **GNU_grep**
+
     * directory: `ex01_basic_match`
+
     * question file: `ex01_basic_match.txt`
+
     * solution reference: `.ref_solutions/ex01_basic_match.txt`
+
 * Each exercise contains one or more question to be solved
+
 * The script `solve` will assist in checking solutions
 
 ```bash
@@ -27,8 +32,11 @@ $ find -name 'ex01*'
 <br>
 
 * Solving the questions
+
     * Go to the exercise folder
+
     * Use `ls` to see input file(s)
+
     * To see the problems for that exercise, follow the steps below
 
 ```bash
@@ -57,6 +65,7 @@ $ oq
 <br>
 
 * Submitting solutions one by one
+
     * immediately after executing command that answers a question, call the `solve` script
 
 ```bash
@@ -74,11 +83,17 @@ Reference solution: grep 'day' sample.txt
 <br>
 
 * Submit all at once
+
     * by editing the `../$(basename "$PWD").txt` file directly
+
     * the answer should replace the empty line immediately following the question
+
 * **Note**
+
     * there are different ways to solve the same question
+
     * but for specific exercise like **GNU_grep** try to solve using `grep` only
+
     * also, remember that `eval` is used to check equivalence. So be sure of commands submitted
 
 ```bash
@@ -114,6 +129,7 @@ Reference solution: grep 'do you' sample.txt
 <br>
 
 * Then move on to next exercise directory
+
 * Create aliases for different commands for easy use, after checking that the aliases are available of course
 
 ```bash
@@ -135,7 +151,7 @@ $ pq() { d=$(basename "$PWD"); pd=$(printf "../ex%02d*/" $((${d:2:2}-1))); cd $p
 
 <br>
 
-If wrong solution is submitted, the expected output is shown. This also helps to better understand the question as I found it difficult to convey the intent of question clearly with words alone...
+If wrong solution is submitted, the expected output is shown. This also helps to better understand the question as I found it difficult to convey the intent of question clearly with words alone…
 
 ```bash
 $ source ../solve -q

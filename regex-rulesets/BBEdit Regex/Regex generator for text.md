@@ -161,7 +161,7 @@ Topic: may-4-2019.md
 /^(.*[\r\n]){0,2}.*$/s
 ```
 
-## I Have Multiple Files That Start with the Same 3 Lines:
+## I Have Multiple Files That Start with the Same 3 Lines
 
 Date:  
 Journal:  

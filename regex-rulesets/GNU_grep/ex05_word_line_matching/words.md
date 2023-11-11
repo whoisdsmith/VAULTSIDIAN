@@ -1,6 +1,8 @@
-afar
-far
-carfare
-farce
-faraway
+# Words
+
+afar  
+far  
+carfare  
+farce  
+faraway  
 airfare

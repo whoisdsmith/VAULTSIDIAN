@@ -20,7 +20,6 @@ The regular expression to validate URL without protocol is very similar:
 /^[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b(?:[-a-zA-Z0-9()@:%_\+.~#?&//=]*)$/
 ```
 
-
 PHP (use with [preg_match](https://php.net/manual/en/function.preg-match.php))
 
 ```

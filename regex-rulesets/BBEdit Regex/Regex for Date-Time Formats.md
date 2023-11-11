@@ -1,13 +1,10 @@
-## Regex for Date-Time Formats
-
-
+# Regex for Date-Time Formats
 
 ```
 ^(?:(\d{4})[-/.](\d{2})[-/.](\d{2})|(\d{2})[-/.](\d{2})[-/.](\d{4}))\s(?:([01]?\d|[2][0-3]):([0-5]\d)(?::([0-5]\d))?\s?(?:[aApP][mM])?)
 ```
 
-
-## Regex to Replace Multiple Long Date Format Such As:
+# Regex to Replace Multiple Long Date Format Such As
 
 `Sunday, 28 August 2011 at 02:33 EDT`
 
@@ -27,7 +24,7 @@ to ISO Format such as
 (\b\w+, )(\d{1,2} )(\w+ \d{4} )(at )(\d{2}:\d{2} [A-Z]{3}\b)
 ```
 
-## Regex Generator Timestamps
+# Regex Generator Timestamps
 
 MMM D, YYYY, h:mm AM/PM
 
@@ -39,22 +36,19 @@ MMM D, YYYY, h:mm AM/PM
 ^[A-Z][a-z]{2} \d{1,2}, \d{4}, \d{1,2}:\d{2} (AM|PM)$
 ```
 
-## replace regex to YYYY-MM-DDTHH:mm:ss
-
+# Replace Regex to YYYY-MM-DDTHH:mm:ss
 
 ```
 ^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}$
 ``` 
 
-## regex to find 3 letter month names such as jan feb mar apr
+# Regex to Find 3 Letter Month Names such as Jan Feb Mar Apr
 
 ```
 \b(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)\b
 ```
 
-## Remove all numbers accept dates and times
-
-
+# Remove All Numbers Accept Dates and times
 
 1. Match dates in the format YYYY/MM/DD:
 
@@ -92,14 +86,13 @@ MMM D, YYYY, h:mm AM/PM
 \b\d{2}:\d{2}\b
 ```
 
-## find random misc strings like this cAAAB-j6oETF-NfIPAF4BKzFS4AeN
-
+# Find Random Misc Strings like This cAAAB-j6oETF-NfIPAF4BKzFS4AeN
 
 ```
 \b[A-Z0-9]{5}-[A-Z0-9]{10}-[A-Z0-9]{5}\b
 ```
 
-## To match the pattern DD-MM-YYYY, use the following regular expression:
+# To Match the Pattern DD-MM-YYYY, Use the following Regular Expression
 
 ```
 \d{2}-\d{2}-\d{4}
@@ -111,8 +104,7 @@ To change the format to YYYY-MM-DD, you can use capture groups and backreference
 (\d{2})-(\d{2})-(\d{4})
 ```
 
-
-## i have dates that start on new lines such 
+# I Have Dates that Start on New Lines such
 
 2014-07-26 I want to find all those dates and two hashtags and a space before each date so it would look like this ## 2014-07-26
 
@@ -126,10 +118,9 @@ And replace it with:
 \n## $1
 ```
 
-## I have new lines like this 
+# I Have New Lines like This
 
 \## 2014-08-04 8:57 PM but I only want to keep up until ## 2014-08-04 on those lines
-
 
 ```
 ^(## \d{4}-\d{2}-\d{2})\s+\d{1,2}:\d{2}\s+[AP]M
@@ -140,6 +131,7 @@ And replace it with:
 ```
 $1
 ```
+
 I have new lines like this 
 
 "## 2014-08-04 2446 this is giberish" but I only want to keep up until ## 2014-08-04 on those lines
@@ -154,7 +146,7 @@ And replace it with:
 $1
 ```
 
-## I want to find and remove all strings like 
+# I want to Find and Remove All Strings like
 
 3:48 AM
 
@@ -162,155 +154,131 @@ $1
 \d{1,2}:\d{2}\s+[AP]M
 ```
 
-## find and remove strings like this 
+# Find and Remove Strings like This
 
 12:3 AM
 
 ```
 \d{1,2}:\d{1}\s+[AP]M
 ```
-## Regex for Dates
+
+# Regex for Dates
 
 (?:\d{1,2}[-/]\d{1,2}[-/]\d{2,4}(?:\s(?:0\d|1\d|2[0-3]):[0-5]\d(?::[0-5]\d)?(?:\s?[AP]M)?)?|(?:0\d|1\d|2[0-3]):[0-5]\d(?::[0-5]\d)?(?:\s?[AP]M)?)
 
-## date and time formats
+# Date and time Formats
 
 (?:\d{1,2}[-/]\d{1,2}[-/]\d{2,4}(?:\s(?:0\d|1\d|2[0-3]):[0-5]\d(?::[0-5]\d)?(?:\s?[AP]M)?)?|(?:0\d|1\d|2[0-3]):[0-5]\d(?::[0-5]\d)?(?:\s?[AP]M)?)
 
-## generate a regular expression that matches a string of dates like
+# Generate a Regular Expression that Matches a String of Dates like
 
 Jun 6, 2019, 1:38 PM
-
 
 ```
 \b(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s\d{1,2},\s\d{4},\s\d{1,2}:\d{2}\s(?:AM|PM)\b
 ``` 
 
-## what would be the replace regex to change those dates to iso 8601
-
+# What Would Be the Replace Regex to Change Those Dates to Iso 8601
 
 ```
 $3-$1-$2T$4:$5:00
 ```
 
-
-## MMM D, YYYY, h:mm AM/PM
+# MMM D, YYYY, h:mm AM/PM
 
 Here's an updated replacement regular expression that should work with the original date format "MMM D, YYYY, h:mm AM/PM":
 
 ```
 $3-$1-$2T$4:$5:00
 ```
-## find only 
+
+# Find only
 
 DD-MM-YYYY and replace with YYYY-MM-DD
 
-
 (\d{2})-(\d{2})-(\d{4})
-
 
 that gives me results for DD-MM-YYYY and MM-DD-YYYY I want to only Replace DD-MM-YYYY
 
 (?<=\b)(\d{2})-(\d{2})-(\d{4})(?=\b)
 
-
 using that last expression how would I replace to MM-DD-YYYY
-
-
 
 $2-$1-$3
 
-
-
-## Find Only 
+# Find Only
 
 DD-MM-YYYY without MM-DD-YYYY
 
-
-
 (?<!\d)(\d{2})-(\d{2})-(\d{4})(?!\d)
 
-
-## I have dates in a text file that look like this: 
+# I Have Dates in a Text File that Look like This
 
 `2011-September-16T05:53:00` using sublime text and regex how do I change the names of each month into its double digit numerical value?
-
 
 Find: 
 
 `(\d{4})-(January|February|March|April|May|June|July|August|September|October|November|December)-(\d{2}T\d{2}:\d{2}:\d{2})`  
 
-
 Replace: `$1-01-$3` (for January) or `$1-02-$3` (for February) and so on, up to `$1-12-$3` for December.
 
 Note that this will replace the month name with the corresponding numerical value for each date in your file.
 
-## change February to January in this section of text
+# Change February to January in This Section of Text
 
 -February-2010|-February-2011|-February-2012|-February-2013|-February-2014|-February-2015|-February-2016|-February-2017|-February-2018|-February-2019|-February-2020|-February-2021|-February-2022|-February-2023|-February-2008|-February-2009|
 
+-January-2010|-January-2011|-January-2012|-January-2013|-January-2014|-January-2015|-January-2016|-January-2017|-January-2018|-January-2019|-January-2020|-January-2021|-January-2022|-January-2023|-January-2008|-January-2009|
+
+# Change January to March
 
 -January-2010|-January-2011|-January-2012|-January-2013|-January-2014|-January-2015|-January-2016|-January-2017|-January-2018|-January-2019|-January-2020|-January-2021|-January-2022|-January-2023|-January-2008|-January-2009|
 
-## change January to march 
-
--January-2010|-January-2011|-January-2012|-January-2013|-January-2014|-January-2015|-January-2016|-January-2017|-January-2018|-January-2019|-January-2020|-January-2021|-January-2022|-January-2023|-January-2008|-January-2009|
-
-
 -March-2010|-March-2011|-March-2012|-March-2013|-March-2014|-March-2015|-March-2016|-March-2017|-March-2018|-March-2019|-March-2020|-March-2021|-March-2022|-March-2023|-March-2008|-March-2009|
 
-## change march to april, april to may 
+# Change March to April, April to May
 
 -March-2010|-March-2011|-March-2012|-March-2013|-March-2014|-March-2015|-March-2016|-March-2017|-March-2018|-March-2019|-March-2020|-March-2021|-March-2022|-March-2023|-March-2008|-March-2009|
-
 
 -April-2010|-April-2011|-April-2012|-April-2013|-April-2014|-April-2015|-April-2016|-April-2017|-April-2018|-April-2019|-April-2020|-April-2021|-April-2022|-April-2023|-April-2008|-April-2009|
 
 -April-2010|-April-2011|-April-2012|-April-2013|-April-2014|-April-2015|-April-2016|-April-2017|-April-2018|-April-2019|-April-2020|-April-2021|-April-2022|-April-2023|-April-2008|-April-2009|
 
-## change it to may
+# Change it to May
 
 -May-2010|-May-2011|-May-2012|-May-2013|-May-2014|-May-2015|-May-2016|-May-2017|-May-2018|-May-2019|-May-2020|-May-2021|-May-2022|-May-2023|-May-2008|-May-2009|
- 
--June-2010|-June-2011|-June-2012|-June-2013|-June-2014|-June-2015|-June-2016|-June-2017|-June-2018|-June-2019|-June-2020|-June-2021|-June-2022|-June-2023|-June-2008|-June-2009|
 
+ 
+
+-June-2010|-June-2011|-June-2012|-June-2013|-June-2014|-June-2015|-June-2016|-June-2017|-June-2018|-June-2019|-June-2020|-June-2021|-June-2022|-June-2023|-June-2008|-June-2009|
 
 -July-2010|-July-2011|-July-2012|-July-2013|-July-2014|-July-2015|-July-2016|-July-2017|-July-2018|-July-2019|-July-2020|-July-2021|-July-2022|-July-2023|-July-2008|-July-2009|
 
- 
 -August-2010|-August-2011|-August-2012|-August-2013|-August-2014|-August-2015|-August-2016|-August-2017|-August-2018|-August-2019|-August-2020|-August-2021|-August-2022|-August-2023|-August-2008|-August-2009|
 
- 
 -September-2010|-September-2011|-September-2012|-September-2013|-September-2014|-September-2015|-September-2016|-September-2017|-September-2018|-September-2019|-September-2020|-September-2021|-September-2022|-September-2023|-September-2008|-September-2009|
-
 
 -October-2010|-October-2011|-October-2012|-October-2013|-October-2014|-October-2015|-October-2016|-October-2017|-October-2018|-October-2019|-October-2020|-October-2021|-October-2022|-October-2023|-October-2008|-October-2009|
 
-
 -November-2010|-November-2011|-November-2012|-November-2013|-November-2014|-November-2015|-November-2016|-November-2017|-November-2018|-November-2019|-November-2020|-November-2021|-November-2022|-November-2023|-November-2008|-November-2009|
-
 
 -December-2010|-December-2011|-December-2012|-December-2013|-December-2014|-December-2015|-December-2016|-December-2017|-December-2018|-December-2019|-December-2020|-December-2021|-December-2022|-December-2023|-December-2008|-December-2009|
 
-## Convert Dates to ISO
+# Convert Dates to ISO
 
 Sunday, 28 August 2011 at 02:28 EDT  
-   
 
    `(Sunday|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday),\s+(\d{1,2})\s+(January|February|March|April|May|June|July|August|September|October|November|December)\s+(\d{4})\s+at\s+(\d{1,2}):(\d{2})\s+(\w{2,3})`
 
-
-## using this regex to find dates 
+# Using This Regex to Find Dates
 
 ([A-Za-z]+),\s(\d{1,2})\s([A-Za-z]+)\s(\d{4})\s(?:at)?\s(\d{1,2}):(\d{2})\s([A-Za-z]{2,3}) and this regex $4-$3-$2T$5:$6:00 to replace the dates as ISO format why am I getting this result? 2011-September-16T13:03:00
-
 
 The result you are getting "2011-September-16T13:03:00" is likely due to the fact that the month portion of the original date format is being captured and replaced by the group "([A-Za-z]+)" in the first regex.
 
 To get the desired ISO format, you need to swap the month and day portion in the replacement string to get " $4-$2-$3T$5:$6:00". This will convert the original date format "September 16 2011 13:03 PM" to "2011-16-SeptemberT13:03:00", which can then be further converted to the correct ISO format as "2011-09-16T13:03:00" by replacing the month name with its equivalent numeric value.
 
-## do this using regex in sublime text
-
+# Do This Using Regex in Sublime Text
 
 ```
 ([A-Za-z]+),\s(\d{1,2})\s([A-Za-z]+)\s(\d{4})\s(?:at)?\s(\d{1,2}):(\d{2})\s([A-Za-z]{2,3})
@@ -321,7 +289,8 @@ To get the desired ISO format, you need to swap the month and day portion in the
 ```
 $4-$2-$3T$5:$6:00
 ```
-## what regex would I use to convert the month name to its equivalent numeric value
+
+# What Regex Would I Use to Convert the Month name to Its Equivalent Numeric Value
 
 ```
 \b(January|February|March|April|May|June|July|August|September|October|November|December)\b
@@ -337,10 +306,9 @@ $4-$2-$3T$5:$6:00
 
 (?1:01)(?2:02)(?3:03)(?4:04)(?5:05)(?6:06)(?7:07)(?8:08)(?9:09)(?10:10)(?11:11)(?12:12)
 
-## regex to find this date format string 
+# Regex to Find This Date Format String
 
 Thursday, Jun 11, 2009, 12:00 PM EDT
-
 
 ```
 
@@ -348,7 +316,7 @@ Thursday, Jun 11, 2009, 12:00 PM EDT
 
 ```
 
-Here's a regular expression that could match the date format string you provided: 
+Here's a regular expression that could match the date format string you provided:  
 convert date and time to YYYY-MM-DD HH:MM:SS
 
 ```
@@ -365,10 +333,9 @@ $4-$2-$3 $5
 
 ```
 
-## Regex to find this date pattern 
+# Regex to Find This Date Pattern
 
 `May 09, 2017 at 08:47PM` using sublime text
-
 
 ```
 
@@ -376,12 +343,12 @@ $4-$2-$3 $5
 
 ```
 
-## what would be the replace regex to convert to 
+# What Would Be the Replace Regex to Convert to
 
 YYYY-MM-DDTHH:MM:SS
 
-
 Find Pattern:
+
 ```
 
 \b(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s(\d{2}),\s(\d{4})\sat\s(\d{2}):(\d{2})(AM|PM)\b
@@ -391,6 +358,7 @@ Find Pattern:
 Replace Pattern:
 
 Find Pattern:
+
 ```
 
 \b(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s(\d{2}),\s(\d{4})\sat\s(\d{2}):(\d{2})(AM|PM)\b
@@ -398,6 +366,7 @@ Find Pattern:
 ```
 
 Replace Pattern:
+
 ```
 
 $3-$1-$2T$4:$5:00$6
@@ -406,13 +375,12 @@ $3-$1-$2T$4:$5:00$6
 
 This pattern should match the same date format as before and replace it with the date and time format of `YYYY-MM-DDTHH:MM:SS`. The replacement pattern uses the `$1`, `$2`, and `$3` backreferences to get the month, day, and year respectively, and converts the month to its corresponding number. The `$4` and `$5` backreferences are used to get the hour and minute, and the `00` is added for the seconds component. The `$6` backreference is used to get the AM/PM time of day and is preserved in the result.
 
-
 that output as 2016-May-14T02:11:00PM
-
 
 I apologize for the mistake in my previous answer. The issue with the replacement pattern was due to the fact that I mistakenly reversed the `$1` and `$2` backreferences. Here's the corrected replacement pattern that should work:
 
 Find Pattern:
+
 ```
 
 \b(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s(\d{2}),\s(\d{4})\sat\s(\d{2}):(\d{2})(AM|PM)\b
@@ -420,6 +388,7 @@ Find Pattern:
 ```
 
 Find Pattern:
+
 ```
 
 \b(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s(\d{2}),\s(\d{4})\sat\s(\d{2}):(\d{2})(?:AM|PM)\b
@@ -427,23 +396,23 @@ Find Pattern:
 ```
 
 Replace Pattern:
+
 ```
 
 $3-{{"Jan":"01","Feb":"02","Mar":"03","Apr":"04","May":"05","Jun":"06","Jul":"07","Aug":"08","Sep":"09","Oct":"10","Nov":"11","Dec":"12"}:$1}-$2T$4:$5:00
 
 ```
 
-This pattern should match the same date format as before and replace it with the date and time format of `YYYY-MM-DDTHH:MM:SS`. The replacement pattern uses the `$1`, `$2`, and `$3` backreferences to get the month, day, and year respectively. The `{{...}}` syntax is used to perform a lookup table operation, which maps the month name captured by `$1` to its corresponding two-digit number. The `$4` and `$5` backreferences are used to get the hour and minute, and the `00` is added for the seconds component.
-
+This pattern should match the same date format as before and replace it with the date and time format of `YYYY-MM-DDTHH:MM:SS`. The replacement pattern uses the `$1`, `$2`, and `$3` backreferences to get the month, day, and year respectively. The `{{…}}` syntax is used to perform a lookup table operation, which maps the month name captured by `$1` to its corresponding two-digit number. The `$4` and `$5` backreferences are used to get the hour and minute, and the `00` is added for the seconds component.
 
 that outputs 2016-{{"Jan":"01","Feb":"02","Mar":"03","Apr":"04","May":"05","Jun":"06","Jul":"07","Aug":"08","Sep":"09","Oct":"10","Nov":"11","Dec":"12"}:May}-14T02:12:00|
-
 
 I apologize for the error in my previous response. It looks like the lookup table syntax I provided didn't work correctly in Sublime Text.
 
 To achieve the desired output, you can use Sublime Text's built-in ability to execute Python code in the replacement pattern. Here's an updated replacement pattern that should work:
 
 Find Pattern:
+
 ```
 
 \b(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s(\d{2}),\s(\d{4})\sat\s(\d{2}):(\d{2})(?:AM|PM)\b
@@ -451,17 +420,16 @@ Find Pattern:
 ```
 
 Replace Pattern:
+
 ```
 
 $3-${"Jan":"01","Feb":"02","Mar":"03","Apr":"04","May":"05","Jun":"06","Jul":"07","Aug":"08","Sep":"09","Oct":"10","Nov":"11","Dec":"12"}["$1"]-$2T$4:$5:00
 
 ```
 
-This pattern should match the same date format as before and replace it with the date and time format of `YYYY-MM-DDTHH:MM:SS`. The replacement pattern uses the `$1`, `$2`, and `$3` backreferences to get the month, day, and year respectively. The Python code `${"Jan":"01","Feb":"02",...}` is a dictionary that maps the month names to their corresponding two-digit numbers. The square bracket notation at the end of the dictionary lookup is used to access the value corresponding to the key captured by `$1`. The `$4` and `$5` backreferences are used to get the hour and minute, and the `00` is added for the seconds component.
-
+This pattern should match the same date format as before and replace it with the date and time format of `YYYY-MM-DDTHH:MM:SS`. The replacement pattern uses the `$1`, `$2`, and `$3` backreferences to get the month, day, and year respectively. The Python code `${"Jan":"01","Feb":"02",…}` is a dictionary that maps the month names to their corresponding two-digit numbers. The square bracket notation at the end of the dictionary lookup is used to access the value corresponding to the key captured by `$1`. The `$4` and `$5` backreferences are used to get the hour and minute, and the `00` is added for the seconds component.
 
 how do I use this in pulsar text editor
-
 
 Pulser is a relatively new text editor that's still under development, and it doesn't currently support advanced regex features like lookup tables or Python code in replacement patterns. However, you can still achieve the same result using multiple replacements.
 
@@ -499,14 +467,11 @@ $1:$2:00
 
 ```
 
-## regex to find this date pattern
-
+# Regex to Find This Date Pattern
 
 I'm sorry, but I don't see a date pattern in your message. Could you please provide me with the date pattern you're looking for? Once I have the pattern, I can help you with the corresponding regex.
 
-
 December 12, 2016 at 05:08PM
-
 
 You can use the following regex to find the date pattern "December 12, 2016 at 05:08PM":
 
@@ -520,9 +485,7 @@ This regex uses word boundaries (`\b`) to match the start and end of the date pa
 
 Note that this regex assumes that the date and time are always separated by a single space character. If there are multiple spaces, or if there are other characters (e.g. a comma) between the date and the time, the regex may not match correctly.
 
-
 and the replace regex for YYYY-MM-DDTHH:MM:SS would be?
-
 
 You can use the following replace regex to convert the "December 12, 2016 at 05:08PM" date pattern to "YYYY-MM-DDTHH:MM:SS":
 
@@ -552,9 +515,7 @@ $3-${"January":"01","February":"02","March":"03","April":"04","May":"05","June":
 
 This replace regex uses the `${}` syntax to lookup the month number in the mapping based on the month name captured in group 1. The rest of the replace regex is similar to the previous example.
 
-
 regex to match this date pattern December 14, 2016 and convert to YYYY-MM-DD
-
 
 You can use the following regex to match the date pattern "December 14, 2016" in the format you described:
 
@@ -576,9 +537,7 @@ $3-${"January":"01","February":"02","March":"03","April":"04","May":"05","June":
 
 This replace regex uses capture groups to extract the day, month, and year from the original date pattern, and then reorders and formats them in the desired output format. The `${}` syntax is used to lookup the month number in the mapping based on the month name captured in group 1. The rest of the replace regex is similar to the previous examples.
 
-
 that didnt work
-
 
 I apologize if the previous solution did not work for you. Here's an updated solution:
 
@@ -606,9 +565,7 @@ This replace regex is similar to the one I provided earlier. It uses capture gro
 
 I hope this updated solution works for you! Let me know if you have any further questions or issues.
 
-
 i cant use a replace regex using ${}
-
 
 I apologize for the confusion. The `${}` syntax is specific to the Sublime Text editor and is not a standard part of regular expression syntax. 
 
@@ -626,7 +583,7 @@ Here's how it works:
 
 - `$3-`: This outputs the year captured in group 3, followed by a hyphen.
 
-- `$(case $1 in ... esac)`: This uses a `case` statement in Bash to select the correct two-digit month number based on the month name captured in group 1.
+- `$(case $1 in … esac)`: This uses a `case` statement in Bash to select the correct two-digit month number based on the month name captured in group 1.
 
 - `echo "01"`: This outputs the string "01" if the month name is "January".
 
@@ -636,9 +593,7 @@ Here's how it works:
 
 I hope this updated solution works for you! Let me know if you have any further questions or issues.
 
-
 that regex doesnt work in pulsar text editor I need something that will work with the regex in pulsar
-
 
 I apologize for the confusion. Here's a replace regex that should work in Pulsar Text Editor:
 
@@ -670,7 +625,7 @@ This should produce the desired output in the format of `YYYY-MM-DD`.
 
 I hope this solution works for you! Let me know if you have any further questions or issues.
 
-# Match regex for dates
+# Match Regex for Dates
 
 Generate a regex to match a string of dates such as
 
@@ -700,18 +655,14 @@ Explanation:
 - `[0-5][0-9]` matches the minute, which can have leading zero if it's less than 10 minutes past the hour.
 - `(AM|PM)` matches the AM or PM indicator.
 
-
-
 I want you to act as a regex generator. Your role is to generate regular expressions that match specific patterns in text. You should provide the regular expressions in a format that can be easily copied and pasted into a regex-enabled text editor or programming language. Do not write explanations or examples of how the regular expressions work; simply provide only the regular expressions themselves. The first question is find all dates that are DD-MM-YYYY and Replace with YYYY-MM-DD
-
 
 To find all dates that are in the format DD-MM-YYYY and replace with YYYY-MM-DD, use the following regular expression:
 
-Find: `(\d{2})-(\d{2})-(\d{4})`
+Find: `(\d{2})-(\d{2})-(\d{4})`  
 Replace with: `$3-$2-$1`
 
 This regular expression matches three groups of digits separated by hyphens, where the first group represents the day (DD), the second group represents the month (MM), and the third group represents the year (YYYY). The replace string uses backreferences to the captured groups to reformat the date to the YYYY-MM-DD format.
-
 
 I need some Regex examples for converting this date format: 
 
@@ -725,7 +676,6 @@ I have multiple dates I need converted. Im using sublime text edior for mac.
 
 please generate only regex patterns for accomplishing this. No Details or Explanations.
 
-
 Regex Pattern: 
 
 `([A-Za-z]+),\s(\d{1,2})\s([A-Za-z]+)\s(\d{4})\s(?:at)?\s(\d{1,2}):(\d{2})\s([A-Za-z]{2,3})`
@@ -734,9 +684,7 @@ Regex Replacement:
 
 `$4-$3-$2T$5:$6:00`
 
-
 using the examples you gave, it converted `Tuesday, 30 August 2011 at 09:01 EDT` into `2011-August-30T09:01:00` why?
-
 
 I apologize for the confusion. The regex replacement I provided earlier was incorrect, which resulted in the unexpected output you mentioned. 
 
@@ -752,9 +700,7 @@ Regex Replacement:
 
 The output format uses the ISO standard, which uses the format `YYYY-MM-DDTHH:MM:SS`. The corrected replacement pattern correctly places the year in the first position, followed by the month in the second position and the day in the third position.
 
-
 the last example converted Tuesday, 30 August 2011 at 09:01 EDT to 2011-August-30T09:01:00 why?
-
 
 I apologize for the mistake in my previous response. The regex replacement pattern that I provided earlier was incorrect and caused the output to be formatted as `2011-August-30T09:01:00`.
 
@@ -770,9 +716,7 @@ Regex Replacement:
 
 The output format uses the ISO standard, which uses the format `YYYY-MM-DDTHH:MM:SS`. The corrected replacement pattern correctly places the year in the first position, followed by the month in the second position and the day in the third position.
 
-
 doesnt work, same results
-
 
 I apologize for the continued confusion. It's possible that the regex replacement pattern is not being applied correctly.
 
@@ -790,9 +734,7 @@ Please note that the regex pattern and replacement I provided are case-sensitive
 
 I hope this helps resolve the issue. Please let me know if you have any further questions.
 
-
 this pattern ([A-Za-z]+),\s(\d{1,2})\s([A-Za-z]+)\s(\d{4})\s(?:at)?\s(\d{1,2}):(\d{2})\s([A-Za-z]{2,3}) works correctly to find all dates, however, regex replacement does not work is there another replacement method? 
-
 
 If the regex pattern correctly identifies all the dates in your file, but the regex replacement is not working in Sublime Text, there are a few things you could try:
 
@@ -812,15 +754,11 @@ If the regex pattern correctly identifies all the dates in your file, but the re
 
 I hope this helps. If you have any further questions, please let me know.
 
-
 I want you to act as a regex generator. Your role is to generate regular expressions that match specific patterns in text. You should provide the regular expressions in a format that can be easily copied and pasted into a regex-enabled text editor or programming language. Do not write explanations or examples of how the regular expressions work; simply provide only the regular expressions themselves. The first question is I need to change abbreviated months like Nov 1, Nov 2, Nov 3, and so on to 11-01 11-02 11-03
-
 
 (?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+(\d{1,2})
 
-
 what would the replace text be?
-
 
 My apologies, I misunderstood your request. Here is the regex and the replace text:
 
@@ -862,7 +800,6 @@ Replace:
 \b(?:January|February|March|April|May|June|July|August|September|October|November|December)\b
 
 ```
-
 
 # BBEdit Regex Generator
 
@@ -923,7 +860,7 @@ January(?!\w)
 
 ```
 
-## Match the Days of the Week Followed by a Comma Like Tuesday,
+## Match the Days of the Week Followed by a Comma Like Tuesday
 
 ```
 
@@ -1091,7 +1028,7 @@ Replace:
 
 ```
 
-## Regex to Find Strings Like This 2021-09-05,
+## Regex to Find Strings Like This 2021-09-05
 
 Find:
 
@@ -1110,7 +1047,6 @@ Replace:
 \1
 
 ```
-
 
 ## Regex Generator Task
 
@@ -1199,7 +1135,6 @@ Sure! Here's a regular expression that matches strings in the format of "[H:MM] 
 ```
 
 This regular expression matches one or two digits representing the hour, followed by a colon, two digits representing the minute, a space, the letters "AM" or "PM", another space, the literal string "Flickr Photo:", followed by the year in four digits, a hyphen, the month in two digits, another hyphen, the day in two digits, a space, the hour in two digits, a period, the minute in two digits, another period, and the second in two digits. Note that this regular expression assumes that there is a single space character between each part of the string.
-
 
 # Regex Generator Task2
 

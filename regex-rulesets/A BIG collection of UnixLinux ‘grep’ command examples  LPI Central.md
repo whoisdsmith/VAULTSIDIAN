@@ -1,4 +1,4 @@
-# A BIG collection of Unix/Linux ‘grep’ command examples | LPI Central
+# A BIG Collection of Unix/Linux ‘grep’ Command Examples | LPI Central
 
 ---
 
@@ -26,7 +26,7 @@ this space intentionally left blank because of the long Table of Contents over t
 
 .
 
-### **Abridged grep command examples**
+## **Abridged Grep Command examples**
 
 First up, if you don’t like reading a bunch of text and just want to see a collection of grep commands, this section is for you.
 
@@ -104,7 +104,7 @@ zgrep 'GET /blog' access\_log.gz | more        # same thing, case-insensitiv
 
 That's the short version of the grep examples. The rest of this document describes many of these examples.
 
-### **Searching for a text string in one file**
+## **Searching For a Text String in One file**
 
 This first grep command example searches for all occurrences of the text string 'fred' within the /etc/passwd file. It will find and display all of the lines in this file that contain the text string fred, including lines that contain usernames like "fred", and also other strings like "alfred":
 
@@ -112,7 +112,7 @@ grep 'fred' /etc/passwd
 
 In a simple example like this, the quotes around the string fred aren't necessary, but they are needed if you're searching for a string that contains spaces, and will also be needed when you get into using regular expressions (search patterns).
 
-### **Searching for a string in multiple files**
+## **Searching For a String in Multiple files**
 
 [![Grep Command, LPI Tutorial and Materials, LPI Exam Prep, LPI Certification, LPI Learning](https://1.bp.blogspot.com/-akP70qeL2TM/WhZJ5F9BKBI/AAAAAAAAAFc/86IvdQnV5F0C8mbEG3Q4M7LwAiaS9jPrQCPcBGAYYCw/s320/2.jpg "A BIG collection of Unix/Linux ‘grep’ command examples")](https://1.bp.blogspot.com/-akP70qeL2TM/WhZJ5F9BKBI/AAAAAAAAAFc/86IvdQnV5F0C8mbEG3Q4M7LwAiaS9jPrQCPcBGAYYCw/s1600/2.jpg)
 
@@ -126,7 +126,7 @@ As a quick note, instead of searching all file with the "\*" wildcard, you can a
 
 grep 'joe' \*.txt  
 
-### **Case-insensitive file searching with the Unix grep command**
+## **Case-insensitive File Searching with the Unix Grep command**
 
 To perform a case-insensitive search with the grep command, just add the -i option, like this:
 
@@ -134,13 +134,13 @@ grep -i score gettysburg-address.txt
 
 This grep search example matches the string "score", whether it is uppercase (SCORE), lowercase (score), or any mix of the two (Score, SCore, etc.).
 
-### **Reversing the meaning of a grep search**
+## **Reversing The Meaning of a Grep search**
 
 You can reverse the meaning of a Linux grep search with the -v option. For instance, to show all the lines of my /etc/passwd file that don't contain the string fred, I'd issue this command:
 
 grep -v fred /etc/passwd  
 
-### **Using grep in a Unix/Linux command pipeline**
+## **Using Grep in a Unix/Linux Command pipeline**
 
 The grep command is often used in a Unix/Linux pipeline. For instance, to show all the Apache httpd processes running on my Linux system, I use the grep command in a pipeline with the ps command:
 
@@ -174,7 +174,7 @@ ls -al | grep '^d'
 
 Here I'm using grep to list only those lines where the first character in the line is the letter d.
 
-### **Using the Linux grep command to search for multiple patterns at one time (egrep)**
+## **Using The Linux Grep Command to search for Multiple Patterns at One time (egrep)**
 
 You can use a different version of the grep command to search for multiple patterns at one time. To do this, just use the egrep command instead of grep, like this:
 
@@ -184,7 +184,7 @@ This Unix egrep command searches the file named gettysburg-address.txt for the f
 
 I should also note that "egrep" stands for "extended grep", and as you can see, it lets you do things like searching for multiple patterns at one time.
 
-### **Searching for regular expressions (regex patterns) with grep**
+## **Searching For Regular Expressions (regex patterns) with grep**
 
 Of course the Linux grep command is much more powerful than this, and can handle very powerful regular expressions (regex patterns). In a simple example, suppose you want to search for the strings "Foo" or "Goo" in all files in the current directory. That grep command would be:
 
@@ -200,7 +200,7 @@ grep '^fred' /etc/passwd
 
 Regular expressions can get much, much more complicated (and powerful) than this, so I'll just leave it here for now.
 
-### **Display only filenames with a grep search**
+## **Display Only Filenames with a Grep search**
 
 If you're looking through a lot of files for a pattern, and you just want to find the names of the files that contain your pattern (or "patterns", as shown with egrep) -- but don't want to see each individual grep pattern match -- just add the -l (lowercase letter L) to your grep command, like this:
 
@@ -220,7 +220,7 @@ grep -il startinterval \*.plist
 
 and that would have worked just fine as well, returning the same results as the previous grep command example.
 
-### **Showing matching line numbers with Linux grep**
+## **Showing Matching line Numbers with Linux grep**
 
 To show the line numbers of the files that match your grep command, just add the -n option, like this:
 
@@ -238,7 +238,7 @@ Searching my sample gettysburg-address.txt file, I get the following output from
 43:we take increased devotion to that cause  
 46:that we here highly resolve that these dead
 
-### **grep before/after - Showing lines before or after your grep pattern match**
+## **grep before/after - Showing Lines before or after Your Grep Pattern match**
 
 After a recent comment, I just learned that you can display lines before or after your grep pattern match, which is also very cool. To display five lines before the phrase "the living" in my sample document, use the -B argument, like this:
 
@@ -268,7 +268,7 @@ dedicated to the great task remaining before us -
 
 Of course you can use any number after the -A and -B options, I'm just using the number five here as an example.
 
-### **Power file searching with find and grep**
+## **Power File Searching with Find and grep**
 
 A lot of times I know that the string "foo" exists in a file somewhere in my directory tree, but I can't remember where. In those cases I roll out a power command, a Linux find command that uses grep to search what it finds:
 

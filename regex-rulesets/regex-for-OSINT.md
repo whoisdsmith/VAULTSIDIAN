@@ -20,7 +20,7 @@
 
  <hr>
 
-## Table of contents
+# Table of Contents
 
 - [Best Regex Cheatsheets](#best-regex-cheatsheets)
 - [Regex online courses](#regex-online-courses)
@@ -34,8 +34,11 @@
 - [Examples of OSINT tools with regex support](#examples-of-osint-tools-with-regex-support)
 - [Google Chrome Extensions for searching and extracting data with regex](#google-chrome-extensions-for-searching-and-extracting-data-with-regex)
   
+
 # Theory
+
   
+
 ## Best Regex Cheatsheets
 
 | Link                                    | Description                                                                        |
@@ -44,7 +47,7 @@
 |  [Remram44 Cheatsheet](https://remram44.github.io/regex-cheatsheet/regex.html) | for Perl/PCR, Python's re, POSIX (BRE), POSIX extended (ERE)and Vim regex|
 |  [DaveChild Regex Cheatsheet](https://cheatography.com/davechild/cheat-sheets/regular-expressions/) | Posted on Cheatography cheatsheet with downloadable PDF version. |
 
-## Regex online courses
+## Regex Online Courses
 
 | Link                                    | Description                                                                        |
 | --------------------------------------- | ---------------------------------------------------------------------------------- |
@@ -52,7 +55,7 @@
 |  [Regex One](https://regexone.com/) | 25 lessons with interactive exercises |
 
 ## Regex Lists and Libraries
-  
+
 | Link                                    | Description                                                                        |
 | --------------------------------------- | ---------------------------------------------------------------------------------- |
 |  [UI Bakery Regex Library](https://uibakery.io/regex-library) | A short list of a couple dozen of the most useful and widely used regular expressions.|
@@ -65,9 +68,10 @@
 <b>Important:</b>
 
 If you happen to find some regular expression on the Internet and it doesn't work, check its compatibility with the application or programming language you are using. All the differences between the different types of regular expressions (PCRE, JavaScript, Python, POSIX ERE, etc.) are described in detail [here](https://www.regular-expressions.info/refbasic.html)
+
 </p>
 
-## Regex generators and constructors
+## Regex Generators and Constructors
 
 | Link                                    | Description                                                                        |
 | --------------------------------------- | ---------------------------------------------------------------------------------- |
@@ -77,7 +81,7 @@ If you happen to find some regular expression on the Internet and it doesn't wor
 |  [Regular expression builder](https://drdoane.com/regular-expression-builder/) | Online tool for writing regular expressions by selecting values and parameters from a drop-down list. |
 |  [Strings to regex](https://www.wimpyprogrammer.com/strings-to-regex/) | Generates a regular expression matching a long list of string values. |
 
-## Understanding regex
+## Understanding Regex
 
 | Link                                    | Description                                                                        |
 | --------------------------------------- | ---------------------------------------------------------------------------------- |
@@ -93,7 +97,7 @@ If you happen to find some regular expression on the Internet and it doesn't wor
 
 </p>
 
-## Command line tools for searching and extracting data with regex
+## Command line Tools for Searching and Extracting Data with Regex
 
 | Link                                    | Description                                                                        |
 | --------------------------------------- | ---------------------------------------------------------------------------------- |
@@ -103,7 +107,7 @@ If you happen to find some regular expression on the Internet and it doesn't wor
 |  [VIM](http://vimregex.com/) |The most powerful command line text editor with many functions for working with regular expressions. |
 |  [AWK](https://www.gnu.org/software/gawk/manual/gawk.html) |AWK is a domain-specific language designed for text processing and typically used as a data extraction and reporting tool |
 
-## Text editors with regex support
+## Text Editors with Regex Support
 
 | Link                                    | Description                                                                        |
 | --------------------------------------- | ---------------------------------------------------------------------------------- |
@@ -113,7 +117,7 @@ If you happen to find some regular expression on the Internet and it doesn't wor
 |  [Atom](http://2017.compciv.org/guide/topics/end-user-software/atom/how-to-use-regex-atom.html) | |
 |  [Visual Studio](https://learn.microsoft.com/en-us/visualstudio/ide/using-regular-expressions-in-visual-studio?view=vs-2022) | |
 
-## Search engines with regex support
+## Search Engines with Regex Support
 
 | Link                                    | Description                                                                        |
 | --------------------------------------- | ---------------------------------------------------------------------------------- |
@@ -123,7 +127,7 @@ If you happen to find some regular expression on the Internet and it doesn't wor
 |  [Sourcegraph](https://learn.sourcegraph.com/how-to-search-with-sourcegraph-using-regular-expression-patterns) | Source code search engine |
 |  [Live Grep](https://github.com/livegrep/livegrep) | Search across Github repos |
 
-## Examples of OSINT tools with regex support
+## Examples of OSINT Tools with Regex Support
 
 | Link                                    | Description                                                                        |
 | --------------------------------------- | ---------------------------------------------------------------------------------- |
@@ -133,7 +137,7 @@ If you happen to find some regular expression on the Internet and it doesn't wor
 |  [Rextract](https://github.com/iustin24/rextract) | This extreme simple tool extracts the strings corresponding to a certain #regex  from the html code of the list of URLs. |
 |  [GREP for OSINT](https://github.com/cipher387/grep_for_osint) |Set of very simple shell scripts that will help you quickly analyze a text or a folder with files for data useful for investigation (phone numbers, bank card numbers, URLs, emails and nicknames). |
 
-## Google Chrome Extensions for searching and extracting data with regex
+## Google Chrome Extensions for Searching and Extracting Data with Regex
 
 | Link                                    | Description                                                                        |
 | --------------------------------------- | ---------------------------------------------------------------------------------- |

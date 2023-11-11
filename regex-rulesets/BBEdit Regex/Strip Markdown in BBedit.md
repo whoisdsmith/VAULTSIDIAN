@@ -1,46 +1,46 @@
 # Strip Markdown in BBedit
 
-## Replace Headers:
+## Replace Headers
 
 Find: `^#{1,6}\s*(.+)$`  
 Replace: `\1`
 
-## Replace Bold and Italic Text:
+## Replace Bold and Italic Text
 
 Find: `(\*{1,2}|_{1,2})(.+?)\1`  
 Replace: `\2`
 
-## Replace Inline Code:
+## Replace Inline Code
 
 Find: `` `(.+?)` ``  
 Replace: `\1`
 
-## Replace Strikethrough:
+## Replace Strikethrough
 
 Find: `~~(.+?)~~`  
 Replace: `\1`
 
-## Replace Links:
+## Replace Links
 
 Find: `!\[(.*?)\]\((.*?)\)`  
 Replace: `\1`
 
-## Replace Images:
+## Replace Images
 
 Find: `!\[(.*?)\]\((.*?)\)`  
 Replace: `\1`
 
-## Replace Blockquotes:
+## Replace Blockquotes
 
 Find: `^>\s*(.+)$`  
 Replace: `\1`
 
-## Replace Ordered and Unordered Lists:
+## Replace Ordered and Unordered Lists
 
 Find: `^(\s*[-*+]|(\d+\.))\s+(.+)$`  
 Replace: `\3`
 
-## Replace Horizontal Lines:
+## Replace Horizontal Lines
 
 Find: `^-{3,}$`  
 Replace: `` (empty string)
@@ -59,7 +59,7 @@ Replace: `` (empty string)
 !\[(.+?)\]\((.*?)\)
 ```
 
-## Find a String That Matches Everything After URL: for Example:
+## Find a String That Matches Everything After URL: for Example
 
 URL: Optional("https://www.facebook.com/photo.php?fbid=1293627213652&set=a.1292272819793.2042826.1019447865&type=1")
 

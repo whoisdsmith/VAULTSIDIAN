@@ -1,3 +1,5 @@
+# Regex-cookbook
+
 So the ***Regex Cookbook*** (buy it!) gives a couple of regular-expression replacement scenarios for this:
 
 **Find-what** zone: `(?s)^([^\r\n]*)$(.*?)(?:(?:\r?\n|\r)\1$)+`  

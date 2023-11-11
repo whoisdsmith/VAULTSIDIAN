@@ -447,6 +447,7 @@ Numbers
 ```
 [\d]
 ```
+
 Lowercase and Uppercase Accented Letters
 
 ```
@@ -538,34 +539,29 @@ Regex to Remove Emojis
 [\u{1F600}-\u{1F64F}\u{1F300}-\u{1F5FF}\u{1F680}-\u{1F6FF}\u{2600}-\u{26FF}\u{2700}-\u{27BF}]
 ```
 
-
-
 Regex to Replace Double Spaces
 
 ```
 \s{2,}
 ```
 
-
-
 To find all lines that start with ##, the regular expression would be:
 
 ```
 ^##.*
 ```
+
 ```
 ^##.*\n
 ```
 
 Generate a Regular Expression That Adds to the End of Each Document
 
-
 ```
 $---$
 ```
 
 Add a New Line to End of Document with ---
-
 
 ```
 \n---$

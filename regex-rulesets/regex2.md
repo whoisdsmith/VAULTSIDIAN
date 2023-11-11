@@ -3,34 +3,63 @@
 ## Table of Contents
 
 * [Dates](#dates)
+
   * Match mm/dd/yyyy
+
   * Match mon/dd/yyyy
+
   * Match month names
+
 * [Files](#files)
+
   * Match image filenames
+
 * [Miscellaneous](#miscellaneous)
+
   * Match city, state abbreviation
+
   * Match credit cards
+
   * Match email addresses
+
   * Match US Phone Numbers
+
   * Match valid hexadecimal colors
+
   * Match social security number
+
   * Match ZIP Codes (5 digit and 9 digit)
+
 * [Numbers](#numbers)
+
   * Match dollar signs and comma separators in a number
+
   * Matching leading zeroes
+
 * [Strings](#strings)
+
   * Match new lines
+
   * Match strong passwords (At least one lower case, one upper case, one number, one special character, and 10 characters long)
+
   * Match usernames (alphanumeric string of a certain length)
+
 * [Web](#web)
+
   * Extract URL from an anchor tag
+
   * Match all content within a specific HTML tag
+
   * Match all HTML tags
+
   * Match IPv4 Addresses
+
   * Match Twitter usernames
+
   * Match URLs
+
   * Match URL safe strings
+
   * Match URL slugs
 
 ## Snippets
@@ -145,7 +174,7 @@ Matches ###-##-####
 
 ### Numbers <a name="numbers"></a>
 
-**Match dollar signs and comma separators in a number**:
+**Match dollar signs and comma separators in a number**:  
 This can be used to strip a number string into an actual number.
 
 ```
