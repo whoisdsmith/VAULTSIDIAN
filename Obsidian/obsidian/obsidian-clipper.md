@@ -5,9 +5,10 @@ source: https://github.com/jplattel/obsidian-clipper/blob/main/readme.md
 author: 
 ---
 
-# obsidian-clipper
+# Obsidian-clipper
 
 ---
+
 # Obsidian Chrome Clipper
 
 ## [](https://github.com/jplattel/obsidian-clipper/blob/main/readme.md#screencast)Screencast
@@ -20,7 +21,7 @@ This is an unofficial Chrome/Firefox Extension to quickly clip a selection on a 
 
 ## [](https://github.com/jplattel/obsidian-clipper/blob/main/readme.md#installing-chrome)Installing (Chrome)
 
-### [](https://github.com/jplattel/obsidian-clipper/blob/main/readme.md#from-the-chrome-webstore)From the Chrome Webstore
+### [](https://github.com/jplattel/obsidian-clipper/blob/main/readme.md#from-the-chrome-webstore)From The Chrome Webstore
 
 [https://chrome.google.com/webstore/detail/obsidian-clipper/mphkdfmipddgfobjhphabphmpdckgfhb](https://chrome.google.com/webstore/detail/obsidian-clipper/mphkdfmipddgfobjhphabphmpdckgfhb)
 
@@ -58,21 +59,21 @@ This extenion is only tested on Chrome/Firefox on OS X. I've heard people got it
 
 Once configured, you're now good to go, using it only takes two steps:
 
-1.  Make a selection on a page and click the icon of the extension _(or use a shortcut key!)_.
+1.  Make a selection on a page and click the icon of the extension *(or use a shortcut key!)*.
 2.  Obsidian will try to create or append to the specified note within the vault.
 
 ## [](https://github.com/jplattel/obsidian-clipper/blob/main/readme.md#troubleshooting)Troubleshooting
 
 -   I click the clipper icon and nothing is being clipped
-    -   _You need a selection for the clipper to work, it doesn't clip entire pages_
+    -   *You need a selection for the clipper to work, it doesn't clip entire pages*
 -   A tab opens and closes shortly therafter and Obsidian doens't open
     -   Double check you configuration and test it with the button at the bottom of the page.
-    -   _Manually navigate to `obsidian://` first to see if it's a permission issue_
-    -   _Then try opening: `https://jplattel.github.io/obsidian-clipper/clip.html`_
-    -   _Try specifying the vault name: `https://jplattel.github.io/obsidian-clipper/clip.html?vault=<vaultname>`_
-    -   _If nothing works, please make a note at issue [#14](https://github.com/jplattel/obsidian-clipper/issues/14)_
+    -   *Manually navigate to `obsidian://` first to see if it's a permission issue*
+    -   *Then try opening: `https://jplattel.github.io/obsidian-clipper/clip.html`*
+    -   *Try specifying the vault name: `https://jplattel.github.io/obsidian-clipper/clip.html?vault=<vaultname>`*
+    -   *If nothing works, please make a note at issue [#14](https://github.com/jplattel/obsidian-clipper/issues/14)*
 
-## [](https://github.com/jplattel/obsidian-clipper/blob/main/readme.md#building-further-upon-this-extension)Building further upon this extension
+## [](https://github.com/jplattel/obsidian-clipper/blob/main/readme.md#building-further-upon-this-extension)Building Further upon This Extension
 
 Since Chrome allows you to set a custom shortcut to activate an extenion it should be pretty easy to chain it together with Keyboard Meastro or any other automation technology to both clip & paste the results.
 
@@ -87,7 +88,7 @@ Since Chrome allows you to set a custom shortcut to activate an extenion it shou
 -   In the long term future, maybe even offer the possiblity to search through your notes and append it?
 -   If you have any ideas, please create an issue with the `feature` label on it, thanks! 😁
 
-## [](https://github.com/jplattel/obsidian-clipper/blob/main/readme.md#technical-explanation)Technical explanation
+## [](https://github.com/jplattel/obsidian-clipper/blob/main/readme.md#technical-explanation)Technical Explanation
 
 This clipper is made possible with a work-around, since Chrome Extensions are forbidden to open custom url-schemes directly. The way around this issue is a custom html page that is hosted on Github-pages and also included in the repository: `docs/clip.html`. This little file contains javascript that pulls the data like vault & note out of the url params. With this data, it reconstructs the obsidian url and opens the right note!
 

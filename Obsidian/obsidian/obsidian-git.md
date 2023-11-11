@@ -15,28 +15,28 @@ On advantages of backing up your vault with git I suggest reading this [amazing 
 
 **This plugin does not work on mobile at the moment** See [#57](https://github.com/denolehov/obsidian-git/issues/57) for updates.
 
-### [](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#installation)Installation
+## [](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#installation)Installation
 
 See the [installation guide](https://github.com/denolehov/obsidian-git/wiki/Installation) for further instructions.
 
-### [](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#documentation)Documentation
+## [](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#documentation)Documentation
 
 Requirements, tips and tricks, common issues and more can be found in the [wiki](https://github.com/denolehov/obsidian-git/wiki/)
 
-### [](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#features)Features
+## [](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#features)Features
 
 -   Automatic vault backup every X minutes
 -   Pull changes from remote repository on Obsidian startup
 -   Assign hotkeys for pulling/pushing changes to a remote repository
 -   Manage different repositories via Git submodules
 
-### [](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#sidebar-view)Sidebar view
+## [](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#sidebar-view)Sidebar View
 
 The Source Control View allows you to stage and commit individual files. It can be opened by the `Open Source Control View` command.
 
 [![Source Control View](https://raw.githubusercontent.com/denolehov/obsidian-git/master/images/source-view.png)](https://raw.githubusercontent.com/denolehov/obsidian-git/master/images/source-view.png)
 
-## [](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#available-commands)Available Commands
+# [](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#available-commands)Available Commands
 
 -   `Create Backup`: Commits all changes and pushes them depending on your setting whether to push on backup or not
 -   `Create Backup with specific message`: Same as above, but with a custom message
@@ -49,4 +49,4 @@ The Source Control View allows you to stage and commit individual files. It can 
 -   `Initialize` a new repo`
 -   `Clone an existing remote repo`
 
-### [](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#contact)
+## [](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#contact)

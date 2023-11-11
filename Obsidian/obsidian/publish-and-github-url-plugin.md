@@ -5,9 +5,10 @@ source: chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_backgroun
 author: 
 ---
 
-# Publish and GitHub URL plugin
+# Publish and GitHub URL Plugin
 
 ---
+
 This plugin adds a command which lets you copy the URL of a note for your Obsidian Publish site.
 
 Optionally, as of v0.2.0, you can also enable a file menu entry. Thank you to [@Mara-Li](https://github.com/Mara-Li) for the contribution.
@@ -18,6 +19,6 @@ As of v0.3.0, you can also open the current note on the published site directly 
 
 As of v0.4.0, you can open the current note's Git commit history on GitHub. It is turned off by default. You need to set the repository URL and the branch name for it to work.
 
-### [](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#configuration)Configuration
+## [](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#configuration)Configuration
 
 In the settings, you need to set your Publish `Index` note and also the base path of your Obsidian Publish site.

@@ -2,7 +2,7 @@
 tags: MOCs
 ---
 
-# MOC: obsidian
+# MOC: Obsidian
 
 ---
 

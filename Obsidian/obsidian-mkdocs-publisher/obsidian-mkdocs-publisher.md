@@ -2,7 +2,7 @@
 tags: MOCs
 ---
 
-# MOC: obsidian-mkdocs-publisher
+# MOC: Obsidian-mkdocs-publisher
 
 ---
 

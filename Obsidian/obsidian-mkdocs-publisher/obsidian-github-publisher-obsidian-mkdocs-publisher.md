@@ -8,6 +8,7 @@ author:
 # Obsidian Github Publisher - Obsidian Mkdocs Publisher
 
 ---
+
 [FR 🇫🇷](https://github.com/obsidianPublisher/obsidian-github-publisher/blob/master/docs/README_FR.md)
 
 -   [What the plugin do](https://obsidian-publisher.netlify.app/obsidian%20github%20publisher/#what-the-plugin-do)
@@ -38,7 +39,7 @@ You can use it to send any markdown file, allowing compatibility thought a lot o
 When a shared file is found, it will be sent in a new branch named by `your_vault_name-month-day-year`. A pull request followed by a merge will be done, and if everything is okay, the branch will be deleted after the merge.  
 Thus, you can easily revert commit, and create workflow based on PR, merged PR, specific push…
 
-## What the plugin do[¶](https://obsidian-publisher.netlify.app/obsidian%20github%20publisher/#what-the-plugin-do "Permanent link")
+## What the Plugin do[¶](https://obsidian-publisher.netlify.app/obsidian%20github%20publisher/#what-the-plugin-do "Permanent link")
 
 -   Read the frontmatter to check the value of a configured `share` key.
 -   Send the file (and their embedded image or notes if any) to a GitHub repository
@@ -73,7 +74,7 @@ You can send me or do a pullrequest to add new configuration for any Obsidian **
 
 ## Download configuration[¶](https://obsidian-publisher.netlify.app/obsidian%20github%20publisher/#download-configuration "Permanent link")
 
-### Folder reception settings.[¶](https://obsidian-publisher.netlify.app/obsidian%20github%20publisher/#folder-reception-settings "Permanent link")
+### Folder Reception settings.[¶](https://obsidian-publisher.netlify.app/obsidian%20github%20publisher/#folder-reception-settings "Permanent link")
 
 You have two options :
 
@@ -168,7 +169,7 @@ Finally, to prevent deleting `index` created outside of obsidian, you could use 
 
 These settings won’t change your file’s content in your vault
 
-#### Index & folder note[¶](https://obsidian-publisher.netlify.app/obsidian%20github%20publisher/#index-folder-note "Permanent link")
+#### Index & Folder note[¶](https://obsidian-publisher.netlify.app/obsidian%20github%20publisher/#index-folder-note "Permanent link")
 
 Some publishing solution support folder note, but these note need to be named `index`. In case you use [Folder Note](https://github.com/aidenlx/alx-folder-note) with [the `same name` strategies](https://github.com/aidenlx/alx-folder-note/wiki/folder-note-pref) you will have a problem, no? By chance, I have a solution for you, guys!  
 Now, the plugin will convert these file into `index` if you activate the settings. Here some examples of renaming, using the different parameters from the default folder.  
@@ -200,7 +201,7 @@ Cited file : `docs/XX/YY/my_file.md`
 File to convert : `docs/XX/ZZ/new_file.md`  
 Path created : `../YY/my_file.md`
 
-#### Wikilinks to markdown link[¶](https://obsidian-publisher.netlify.app/obsidian%20github%20publisher/#wikilinks-to-markdown-link "Permanent link")
+#### Wikilinks to Markdown link[¶](https://obsidian-publisher.netlify.app/obsidian%20github%20publisher/#wikilinks-to-markdown-link "Permanent link")
 
 In case you use wikilinks as daily but your obsidian publish solution doesn’t support it, you can use this settings to convert the wiki to md link.
 

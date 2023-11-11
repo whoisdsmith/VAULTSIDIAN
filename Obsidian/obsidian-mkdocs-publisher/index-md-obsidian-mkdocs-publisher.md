@@ -8,6 +8,7 @@ author:
 # Index.md - Obsidian Mkdocs Publisher
 
 ---
+
 The script’s goal is to move an authorized file (or multiple authorized file) from your Obsidian’s vault to your blog’s repository. It will :
 
 -   Move linked image in `docs/assets/img`

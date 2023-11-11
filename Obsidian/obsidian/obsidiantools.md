@@ -5,9 +5,10 @@ source: https://github.com/mfarragher/obsidiantools
 author: 
 ---
 
-# obsidiantools
+# Obsidiantools
 
 ---
+
 [![PyPI version](https://camo.githubusercontent.com/a47557286d0d8590a663e67c314b9f4a675106fbea4cb8e9bb47d3ee514032a7/68747470733a2f2f62616467652e667572792e696f2f70792f6f6273696469616e746f6f6c732e737667)](https://badge.fury.io/py/obsidiantools) [![PyPI version](https://camo.githubusercontent.com/d31a8d48dcccddaa94626f20c8c9ce418f842f34ac6c0837a0e978c67950e392/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f6f6273696469616e746f6f6c732e737667)](https://badge.fury.io/py/obsidiantools) [![Licence](https://camo.githubusercontent.com/8ccf186e7288af6d88a1f6a930c0fcc4e7a8a9936b34e07629d815d1eab4d977/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d425344253230332d2d436c617573652d626c75652e737667)](https://github.com/mfarragher/obsidiantools/blob/main/LICENSE) [![Documentation](https://camo.githubusercontent.com/2d890e4d5b327fe6dd47f4177ac9fccf681cd28af3eaa185af28d7a45b50b360/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f63732d6f6273696469616e746f6f6c732d2d64656d6f2d6f72616e6765)](https://github.com/mfarragher/obsidiantools-demo) [![codecov](https://camo.githubusercontent.com/7f0424912efab08ee169394e868fe6ea1f9cd186892222784194aeb963822afe/68747470733a2f2f636f6465636f762e696f2f67682f6d6661727261676865722f6f6273696469616e746f6f6c732f6272616e63682f6d61696e2f67726170682f62616467652e737667)](https://codecov.io/gh/mfarragher/obsidiantools)
 
 **obsidiantools** is a Python package for getting structured metadata about your [Obsidian.md notes](https://obsidian.md/) and analysing your vault. Complement your Obsidian workflows by getting metrics and detail about all your notes in one place through the widely-used Python data stack.
@@ -29,7 +30,7 @@ See some of the **key features** below - all accessible from the `vault` object 
 
 As this package relies upon note (file)names, it is only recommended for use on vaults where wikilinks are not formatted as paths and where note names are unique. This should cover the vast majority of vaults that people create.
 
-## 💡 Key features
+## 💡 Key Features
 
 This is how **`obsidiantools`** can complement your workflows for note-taking:
 

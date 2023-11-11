@@ -8,7 +8,8 @@ author:
 # Share as Gist
 
 ---
-# "Share as Gist" Obsidian plugin
+
+# "Share As Gist" Obsidian Plugin
 
 This plugin for Obsidian ([https://obsidian.md](https://obsidian.md)) allows you to share your notes as [GitHub Gists](https://gist.github.com/).
 
@@ -30,7 +31,6 @@ Once you've create a gist, if you make changes to your note (for example respond
 4.  Paste your access token into the "GitHub.com access token" box, then close "Settings".
     
 5.  To share a note, open the Command Palette and type "gist". You'll see commands for creating a public and private link. Pick the one you want and hit enter. Your gist will be created, and the URL for sharing will be added to your clipboard.
-    
 
 [![Screenshot 2022-07-21 at 09 12 16](https://user-images.githubusercontent.com/116134/180164154-02817121-e88a-419d-9528-9be58212ed9c.png)](https://user-images.githubusercontent.com/116134/180164154-02817121-e88a-419d-9528-9be58212ed9c.png)
 
@@ -42,7 +42,7 @@ To enable existing gists to be updated, by default, extra YAML front matter is a
 
 By default, any YAML front matter will not be included in your gists when they are shared. You can change that by toggling the "Include front matter in gists" setting.
 
-## [](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#securing-your-github-personal-access-token)Securing your GitHub personal access token
+## [](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#securing-your-github-personal-access-token)Securing Your GitHub Personal Access Token
 
 Your GitHub access token will be stored in Obsidian's `localStorage`.
 

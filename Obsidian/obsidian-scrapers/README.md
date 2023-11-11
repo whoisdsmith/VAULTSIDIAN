@@ -1,4 +1,4 @@
-# Obsidian scrapers
+# Obsidian Scrapers
 
 A collection of [Templater](https://github.com/SilentVoid13/Templater) scripts for [Obsidian](https://obsidian.md/) that can be easily integrated into your templates to get information from different sites with a copied link.
 
@@ -36,7 +36,7 @@ Put it in your templates folder. After this you can simply copy a link to a vide
 
 [See](https://github.com/SilentVoid13/Templater/discussions/846) also Goodreads template example and how to create a meta-template to automatically insert the right template depending on the link domain.
 
-## How to speed up execution time
+## How to Speed up Execution time
 
 Requesting a web page for each function may take a little too much time with some templates but it's possible to request it only once and pass the same `doc` parameter to each function.
 
@@ -76,9 +76,9 @@ let doc = p.parseFromString(page, "text/html")
 -%>
 ```
 
-## Available functions
+## Available Functions
 
-### Any website
+### Any Website
 
 | Function                                   | Description            |
 | ------------------------------------------ | ---------------------- |

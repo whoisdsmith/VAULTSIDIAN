@@ -8,6 +8,7 @@ author:
 # Frontmatter.md - Obsidian Mkdocs Publisher
 
 ---
+
 The script relies on the front matter of the notes you want to publish.
 
 1.  `share: true` allow publishing the file[1](https://obsidian-publisher.netlify.app/python/frontmatter/#fn:1)

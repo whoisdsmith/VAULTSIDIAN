@@ -8,6 +8,7 @@ author:
 # Configuration template.md - Obsidian Mkdocs Publisher
 
 ---
+
 ```
 default: #change the name if you need a new configuration setting  
   configuration:  

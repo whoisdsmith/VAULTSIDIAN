@@ -8,6 +8,7 @@ author:
 # Obsidian shell.md - Obsidian Mkdocs Publisher
 
 ---
+
 You could create :
 
 1.  A command to publish everything : alias `Publish` with `obs2mk --obsidian`

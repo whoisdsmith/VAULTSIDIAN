@@ -3,10 +3,15 @@ title: Obsidian Broken Links Plug-in
 datetimeCreate: 2023-10-04 12:46:15
 datetimeUpdate: 2023-10-04 12:52:25
 ---
+
+# Obsidian Broken Links Plug-in
+
 ## USER
+
 Create a plug-in for obsidian that will check for broken links in a vault
 
 ## ASSISTANT
+
 Creating a plug-in for Obsidian to check for broken links requires writing code in JavaScript, as Obsidian is built on the Electron framework which uses web technologies. Here is a basic outline of how you can create such a plug-in:
 
 1. Set up the plug-in structure:
@@ -14,6 +19,7 @@ Creating a plug-in for Obsidian to check for broken links requires writing code 
    - Inside the folder, create a `main.js` file that will contain the plug-in's code, and a `manifest.json` file to store the plug-in's metadata.
 
 2. Create the `manifest.json` file with the following content:
+
 ```json
 {
   "id": "broken-links-checker",
@@ -27,6 +33,7 @@ Creating a plug-in for Obsidian to check for broken links requires writing code 
 ```
 
 3. Write the code for the plug-in in the `main.js` file:
+
 ```javascript
 const { Plugin } = require('obsidian');
 
@@ -106,9 +113,11 @@ module.exports = BrokenLinksChecker;
 Now you should be able to use the "Check for broken links" command in Obsidian, which will display a notice with the list of broken links found in your vault.
 
 ## USER
+
 Adding to this I would like the plug-in create a new markdown file that lists any broken links
 
 ## ASSISTANT
+
 To modify the plug-in to create a new markdown file that lists the broken links, you can update the `showBrokenLinks` method in the `main.js` file as follows:
 
 ```javascript

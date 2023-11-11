@@ -8,6 +8,7 @@ author:
 # Index - Obsidian Mkdocs Publisher
 
 ---
+
 Mkdocs Obsidian is an association between an Obsidian plugin and a Material mkdocs template to get a personal wiki site based on your Obsidian Vault.
 
 [![](https://img.shields.io/github/license/Mara-Li/YAFPA-python)](https://github.com/Mara-Li/mkdocs_obsidian_publish) [![](https://img.shields.io/badge/Auxiliary%20Tool-Obsidian-blueviolet)](https://obsidian.md/) [![](https://img.shields.io/badge/-Q%26A-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTIgMkM2LjQ4NiAyIDIgNi40ODYgMiAxMnM0LjQ4NiAxMCAxMCAxMCAxMC00LjQ4NiAxMC0xMFMxNy41MTQgMiAxMiAyem0wIDE4Yy00LjQxMSAwLTgtMy41ODktOC04czMuNTg5LTggOC04IDggMy41ODkgOCA4LTMuNTg5IDgtOCA4eiIvPjxwYXRoIGQ9Ik0xMSAxMWgydjZoLTJ6bTAtNGgydjJoLTJ6Ii8+PC9zdmc+)](https://github.com/Mara-Li/mkdocs_obsidian_template/wiki/Q&A/)
@@ -36,7 +37,7 @@ The plugins can be accessed with a github actions and a Obsidian’s plugin.
 
 ___
 
-## Github actions & Obsidian’s plugin[¶](https://obsidian-publisher.netlify.app/#github-actions-obsidians-plugin "Permanent link")
+## Github Actions & Obsidian’s plugin[¶](https://obsidian-publisher.netlify.app/#github-actions-obsidians-plugin "Permanent link")
 
 ### TLDR[¶](https://obsidian-publisher.netlify.app/#tldr "Permanent link")
 
@@ -53,19 +54,18 @@ ___
 
 ___
 
-## Quick blog installation tutorial[¶](https://obsidian-publisher.netlify.app/#quick-blog-installation-tutorial "Permanent link")
+## Quick Blog Installation tutorial[¶](https://obsidian-publisher.netlify.app/#quick-blog-installation-tutorial "Permanent link")
 
 1.  Click on [use this template](https://github.com/obsidianPublisher/obsidian-mkdocs-publisher-template/generate)[1](https://obsidian-publisher.netlify.app/#fn:1)
 2.  Use the name of your choice.
 3.  Click on [code](https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories) → SSH ; Copy the link
 4.  Run (in terminal):  
-    
+
     ```
     git clone [[PASTE THE LINK HERE]] publish_blog
     pip install -r requirements.txt
     
     ```
-    
 
 Also, don’t forget to configure GitHub to allow push! [Check here for information about setting-up Git!](https://docs.github.com/en/get-started/quickstart/set-up-git)
 
