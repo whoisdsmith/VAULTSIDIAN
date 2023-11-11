@@ -10,71 +10,132 @@ For markdown source and links to buy pdf/epub versions, see: https://github.com/
 
 <br> <br> <br>
 
-# <a name="gnu-sed"></a>GNU sed
+# <a name="gnu-sed"></a>GNU Sed
 
 **Table of Contents**
 
 * [Simple search and replace](#simple-search-and-replace)
+
     * [editing stdin](#editing-stdin)
+
     * [editing file input](#editing-file-input)
+
 * [Inplace file editing](#inplace-file-editing)
+
     * [With backup](#with-backup)
+
     * [Without backup](#without-backup)
+
     * [Multiple files](#multiple-files)
+
     * [Prefix backup name](#prefix-backup-name)
+
     * [Place backups in directory](#place-backups-in-directory)
+
 * [Line filtering options](#line-filtering-options)
+
     * [Print command](#print-command)
+
     * [Delete command](#delete-command)
+
     * [Quit commands](#quit-commands)
+
     * [Negating REGEXP address](#negating-regexp-address)
+
     * [Combining multiple REGEXP](#combining-multiple-regexp)
+
     * [Filtering by line number](#filtering-by-line-number)
+
     * [Print only line number](#print-only-line-number)
+
     * [Address range](#address-range)
+
     * [Relative addressing](#relative-addressing)
+
 * [Using different delimiter for REGEXP](#using-different-delimiter-for-regexp)
+
 * [Regular Expressions](#regular-expressions)
+
     * [Line Anchors](#line-anchors)
+
     * [Word Anchors](#word-anchors)
+
     * [Matching the meta characters](#matching-the-meta-characters)
+
     * [Alternation](#alternation)
+
     * [The dot meta character](#the-dot-meta-character)
+
     * [Quantifiers](#quantifiers)
+
     * [Character classes](#character-classes)
+
     * [Escape sequences](#escape-sequences)
+
     * [Grouping](#grouping)
+
     * [Back reference](#back-reference)
+
     * [Changing case](#changing-case)
+
 * [Substitute command modifiers](#substitute-command-modifiers)
+
     * [g modifier](#g-modifier)
+
     * [Replace specific occurrence](#replace-specific-occurrence)
+
     * [Ignoring case](#ignoring-case)
+
     * [p modifier](#p-modifier)
+
     * [w modifier](#w-modifier)
+
     * [e modifier](#e-modifier)
+
     * [m modifier](#m-modifier)
+
 * [Shell substitutions](#shell-substitutions)
+
     * [Variable substitution](#variable-substitution)
+
     * [Command substitution](#command-substitution)
+
 * [z and s command line options](#z-and-s-command-line-options)
+
 * [change command](#change-command)
+
 * [insert command](#insert-command)
+
 * [append command](#append-command)
+
 * [adding contents of file](#adding-contents-of-file)
+
     * [r for entire file](#r-for-entire-file)
+
     * [R for line by line](#r-for-line-by-line)
+
 * [n and N commands](#n-and-n-commands)
+
 * [Control structures](#control-structures)
+
     * [if then else](#if-then-else)
+
     * [replacing in specific column](#replacing-in-specific-column)
+
     * [overlapping substitutions](#overlapping-substitutions)
+
 * [Lines between two REGEXPs](#lines-between-two-regexps)
+
     * [Include or Exclude matching REGEXPs](#include-or-exclude-matching-regexps)
+
     * [First or Last block](#first-or-last-block)
+
     * [Broken blocks](#broken-blocks)
+
 * [sed scripts](#sed-scripts)
+
 * [Gotchas and Tips](#gotchas-and-tips)
+
 * [Further Reading](#further-reading)
 
 <br>
@@ -107,7 +168,7 @@ DESCRIPTION
 
 <br>
 
-## <a name="simple-search-and-replace"></a>Simple search and replace
+## <a name="simple-search-and-replace"></a>Simple Search and Replace
 
 Detailed examples for **substitute** command will be covered in later sections, syntax is
 
@@ -119,7 +180,7 @@ The `/` character is idiomatically used as delimiter character. See also [Using 
 
 <br>
 
-#### <a name="editing-stdin"></a>editing stdin
+### <a name="editing-stdin"></a>editing Stdin
 
 ```bash
 $ # sample command output to be edited
@@ -139,11 +200,14 @@ $ seq 10 | paste -sd, | sed 's/,/ : /g'
 
 <br>
 
-#### <a name="editing-file-input"></a>editing file input
+### <a name="editing-file-input"></a>editing File Input
 
 * By default newline character is the line separator
+
 * See [Regular Expressions](#regular-expressions) section for qualifying search terms, for ex
+
     * word boundaries to distinguish between 'hi', 'this', 'his', 'history', etc
+
     * multiple search terms, specific set of character, etc
 
 ```bash
@@ -170,19 +234,21 @@ HavE a nicE day
 
 <br>
 
-## <a name="inplace-file-editing"></a>Inplace file editing
+## <a name="inplace-file-editing"></a>Inplace File Editing
 
 * In previous section, the output from `sed` was displayed on stdout or saved to another file
+
 * To write the changes back to original file, use `-i` option
 
 **Note**:
 
 * Refer to `man sed` for details of how to use the `-i` option. It varies with different `sed` implementations. As mentioned at start of this chapter, `sed (GNU sed) 4.2.2` is being used here
+
 * See also [unix.stackexchange - working with symlinks](https://unix.stackexchange.com/questions/348693/sed-update-etc-grub-conf-in-spite-this-link-file)
 
 <br>
 
-#### <a name="with-backup"></a>With backup
+### <a name="with-backup"></a>With Backup
 
 * When extension is given, the original input file is preserved with name changed according to extension provided
 
@@ -202,7 +268,7 @@ Have a nice day
 
 <br>
 
-#### <a name="without-backup"></a>Without backup
+### <a name="without-backup"></a>Without Backup
 
 * Use this option with caution, changes made cannot be undone
 
@@ -217,7 +283,7 @@ Have a safe journey
 
 <br>
 
-#### <a name="multiple-files"></a>Multiple files
+### <a name="multiple-files"></a>Multiple Files
 
 * Multiple input files are treated individually and changes are written back to respective files
 
@@ -237,9 +303,10 @@ I bought two bananas and three mangoes
 
 <br>
 
-#### <a name="prefix-backup-name"></a>Prefix backup name
+### <a name="prefix-backup-name"></a>Prefix Backup name
 
 * A `*` in argument given to `-i` will get expanded to input filename
+
 * This way, one can add prefix instead of suffix for backup
 
 ```bash
@@ -262,7 +329,7 @@ baz
 
 <br>
 
-#### <a name="place-backups-in-directory"></a>Place backups in directory
+### <a name="place-backups-in-directory"></a>Place Backups in Directory
 
 * `*` also allows to specify an existing directory to place the backups instead of current working directory
 
@@ -287,20 +354,26 @@ $ # bkp_dir/bkp.*.2017 for both and so on
 
 <br>
 
-## <a name="line-filtering-options"></a>Line filtering options
+## <a name="line-filtering-options"></a>Line Filtering Options
 
 * By default, `sed` acts on entire file. Often, one needs to extract or change only specific lines based on text search, line numbers, lines between two patterns, etc
+
 * This filtering is much like using `grep`, `head` and `tail` commands in many ways and there are even more features
+
     * Use `sed` for inplace editing, the filtered lines to be transformed etc. Not as substitute for those commands
 
 <br>
 
-#### <a name="print-command"></a>Print command
+### <a name="print-command"></a>Print Command
 
 * It is usually used in conjunction with `-n` option
+
 * By default, `sed` prints every input line, including any changes made by commands like substitution
+
     * printing here refers to line being part of `sed` output which may be shown on terminal, redirected to file, etc
+
 * Using `-n` option and `p` command together, only specific lines needed can be filtered
+
 * Examples below use the `/REGEXP/` addressing, other forms will be seen in sections to follow
 
 ```bash
@@ -353,9 +426,10 @@ $ seq 3 | sed 'p'
 
 <br>
 
-#### <a name="delete-command"></a>Delete command
+### <a name="delete-command"></a>Delete Command
 
 * By default, `sed` prints every input line, including any changes like substitution
+
 * Using the `d` command, those specific lines will NOT be printed
 
 ```bash
@@ -372,6 +446,7 @@ $ seq 5 | sed '/3/d'
 ```
 
 * Modifier `I` allows to filter lines in case-insensitive way
+
 * See [Regular Expressions](#regular-expressions) section for more details
 
 ```bash
@@ -384,7 +459,7 @@ And so are you.
 
 <br>
 
-#### <a name="quit-commands"></a>Quit commands
+### <a name="quit-commands"></a>Quit Commands
 
 * Exit `sed` without processing further input
 
@@ -435,11 +510,12 @@ $ seq 50 | tac | sed '/7/Q' | tac
 **Note**
 
 * This way of using quit commands won't work for inplace editing with multiple file input
+
 * See also [unix.stackexchange - applying changes to multiple files](https://unix.stackexchange.com/questions/309514/sed-apply-changes-in-multiple-files)
 
 <br>
 
-#### <a name="negating-regexp-address"></a>Negating REGEXP address
+### <a name="negating-regexp-address"></a>Negating REGEXP Address
 
 * Use `!` to invert the specified address
 
@@ -455,9 +531,10 @@ Sugar is sweet,
 
 <br>
 
-#### <a name="combining-multiple-regexp"></a>Combining multiple REGEXP
+### <a name="combining-multiple-regexp"></a>Combining Multiple REGEXP
 
 * See also [sed manual - Multiple commands syntax](https://www.gnu.org/software/sed/manual/sed.html#Multiple-commands-syntax) for more details
+
 * See also [sed scripts](#sed-scripts) section for an alternate way
 
 ```bash
@@ -528,10 +605,12 @@ Violets are blue,
 
 <br>
 
-#### <a name="filtering-by-line-number"></a>Filtering by line number
+### <a name="filtering-by-line-number"></a>Filtering By line Number
 
 * Exact line number can be specified to be acted upon
+
 * As a special case, `$` indicates last line of file
+
 * See also [sed manual - Multiple commands syntax](https://www.gnu.org/software/sed/manual/sed.html#Multiple-commands-syntax)
 
 ```bash
@@ -562,6 +641,7 @@ And so are you.
 ```
 
 * For large input files, combine `p` with `q` for speedy exit
+
 * `sed` would immediately quit without processing further input lines when `q` is used
 
 ```bash
@@ -600,7 +680,7 @@ $ seq 23 45 | sed '5q'
 
 <br>
 
-#### <a name="print-only-line-number"></a>Print only line number
+### <a name="print-only-line-number"></a>Print Only line Number
 
 ```bash
 $ # gives both line number and matching line
@@ -632,10 +712,12 @@ Violets are blue,
 
 <br>
 
-#### <a name="address-range"></a>Address range
+### <a name="address-range"></a>Address Range
 
 * So far, we've seen how to filter specific line based on *REGEXP* and line numbers
+
 * `sed` also allows to combine them to enable selecting a range of lines
+
 * Consider the sample input file for this section
 
 ```bash
@@ -657,6 +739,7 @@ He he he
 ```
 
 * Range defined by start and end *REGEXP*
+
 * For other cases like getting lines without the line matching start and/or end, unbalanced start/end, when end *REGEXP* doesn't match, etc see [Lines between two REGEXPs](#lines-between-two-regexps) section
 
 ```bash
@@ -749,9 +832,10 @@ Believe it
 
 <br>
 
-#### <a name="relative-addressing"></a>Relative addressing
+### <a name="relative-addressing"></a>Relative Addressing
 
 * Prefixing `+` to a number for second address gives relative filtering
+
 * Similar to using `grep -A<num> --no-group-separator 'REGEXP'` but `grep` merges adjacent groups while `sed` does not
 
 ```bash
@@ -772,6 +856,7 @@ Much ado about nothing
 ```
 
 * The first address could be number too
+
 * Useful when using [Shell substitutions](#shell-substitutions)
 
 ```bash
@@ -784,7 +869,9 @@ Believe it
 ```
 
 * Another relative format is `i~j` which acts on ith line and i+j, i+2j, i+3j, etc
+
     * `1~2` means 1st, 3rd, 5th, 7th, etc (i.e odd numbered lines)
+
     * `5~3` means 5th, 8th, 11th, etc
 
 ```bash
@@ -805,6 +892,7 @@ $ seq 10 | sed -n '2~4p'
 ```
 
 * If `~j` is specified after `,` then meaning changes completely
+
 * After the matching line based on number or *REGEXP* of start address, the closest line number multiple of `j` will mark end address
 
 ```bash
@@ -832,11 +920,14 @@ Not a bit funny
 
 <br>
 
-## <a name="using-different-delimiter-for-regexp"></a>Using different delimiter for REGEXP
+## <a name="using-different-delimiter-for-regexp"></a>Using Different Delimiter for REGEXP
 
 * `/` is idiomatically used as the *REGEXP* delimiter
+
     * See also [a bit of history on why / is commonly used as delimiter](https://www.reddit.com/r/commandline/comments/3lhgwh/why_did_people_standardize_on_using_forward/cvgie7j/)
+
 * But any character other than `\` and newline character can be used instead
+
 * This helps to avoid/reduce use of `\`
 
 ```bash
@@ -865,19 +956,27 @@ $ printf '/foo/bar/1\n/foo/baz/1\n' | sed -n '\;/foo/bar/;p'
 ## <a name="regular-expressions"></a>Regular Expressions
 
 * By default, `sed` treats *REGEXP* as BRE (Basic Regular Expression)
+
 * The `-E` option enables ERE (Extended Regular Expression) which in GNU sed's case only differs in how meta characters are used, no difference in functionalities
+
     * Initially GNU sed only had `-r` option to enable ERE and `man sed` doesn't even mention `-E`
+
     * Other `sed` versions use `-E` and `grep` uses `-E` as well. So `-r` won't be used in examples in this tutorial
+
     * See also [sed manual - BRE-vs-ERE](https://www.gnu.org/software/sed/manual/sed.html#BRE-vs-ERE)
+
 * See [sed manual - Regular Expressions](https://www.gnu.org/software/sed/manual/sed.html#sed-regular-expressions) for more details
 
 <br>
 
-#### <a name="line-anchors"></a>Line Anchors
+### <a name="line-anchors"></a>Line Anchors
 
 * Often, search must match from beginning of line or towards end of line
+
 * For example, an integer variable declaration in `C` will start with optional white-space, the keyword `int`, white-space and then variable(s)
+
     * This way one can avoid matching declarations inside single line comments as well
+
 * Similarly, one might want to match a variable at end of statement
 
 Consider the input file and sample substitution without using any anchoring
@@ -952,12 +1051,16 @@ Have a good day. Cya later
 
 <br>
 
-#### <a name="word-anchors"></a>Word Anchors
+### <a name="word-anchors"></a>Word Anchors
 
 * A **word** character is any alphabet (irrespective of case) or any digit or the underscore character
+
 * The word anchors help in matching or not matching boundaries of a word
+
     * For example, to distinguish between `par`, `spar` and `apparent`
+
 * `\b` matches word boundary
+
     * `\` is meta character and certain combinations like `\b` and `\B` have special meaning
 
 ```bash
@@ -1009,7 +1112,9 @@ that is quite a fabriSSSed tale
 ```
 
 * One can also use these alternatives for `\b`
+
     * `\<` for start of word
+
     * `\>` for end of word
 
 ```bash
@@ -1032,7 +1137,7 @@ hi: foo_baz: 3b:
 
 <br>
 
-#### <a name="matching-the-meta-characters"></a>Matching the meta characters
+### <a name="matching-the-meta-characters"></a>Matching The Meta Characters
 
 * Since meta characters like `^`, `$`, `\` etc have special meaning in *REGEXP*, they have to be escaped using `\` to match them literally
 
@@ -1061,7 +1166,9 @@ $ echo '(a+b)^2 = a^2 + b^2 + 2ab' | sed 's/a^2/A^2/g'
 ```
 
 * Certain characters like `&` and `\` have special meaning in *REPLACEMENT* section of substitute as well. They too have to be escaped using `\`
+
 * And the delimiter character has to be escaped of course
+
 * See [back reference](#back-reference) section for use of `&` in *REPLACEMENT* section
 
 ```bash
@@ -1084,12 +1191,16 @@ $ echo '/foo/bar/baz' | sed 's#/#\\#g'
 
 <br>
 
-#### <a name="alternation"></a>Alternation
+### <a name="alternation"></a>Alternation
 
 * Two or more *REGEXP* can be combined as logical OR using the `|` meta character
+
     * syntax is `\|` for BRE and `|` for ERE
+
 * Each side of `|` is complete regular expression with their own start/end anchors
+
 * How each part of alternation is handled and order of evaluation/output is beyond the scope of this tutorial
+
     * See [this](https://www.regular-expressions.info/alternation.html) for more info on this topic.
 
 ```bash
@@ -1119,7 +1230,7 @@ XYZ and XYZ and XYZ
 
 <br>
 
-#### <a name="the-dot-meta-character"></a>The dot meta character
+### <a name="the-dot-meta-character"></a>The Dot Meta Character
 
 * The `.` meta character matches any character once, including newline
 
@@ -1139,11 +1250,12 @@ coat cuIJKit c#t
 
 <br>
 
-#### <a name="quantifiers"></a>Quantifiers
+### <a name="quantifiers"></a>Quantifiers
 
 All quantifiers in `sed` are greedy, i.e longest match wins as long as overall *REGEXP* is satisfied and precedence is left to right. In this section, we'll cover usage of quantifiers on characters
 
 * `?` will try to match 0 or 1 time
+
 * For BRE, use `\?`
 
 ```bash
@@ -1203,6 +1315,7 @@ that is quite a
 ```
 
 * `+` will try to match 1 or more times
+
 * For BRE, use `\+`
 
 ```bash
@@ -1251,9 +1364,10 @@ abbbbbc
 
 <br>
 
-#### <a name="character-classes"></a>Character classes
+### <a name="character-classes"></a>Character Classes
 
 * The `.` meta character provides a way to match any character
+
 * Character class provides a way to match any character among a specified set of characters enclosed within `[]`
 
 ```bash
@@ -1280,10 +1394,15 @@ $ printf 'cat5\nfoo\n123\n42\n' | sed -nE '/^[0123456789]{3,}$/p'
 Character ranges
 
 * Matching any alphabet, number, hexadecimal number etc becomes cumbersome if every character has to be individually specified
+
 * So, there's a shortcut, using `-` to construct a range (has to be specified in ascending order)
+
 * See [ascii codes table](https://ascii.cl/) for reference
+
     * Note that behavior of range will depend on locale settings
+
     * [arch wiki - locale](https://wiki.archlinux.org/index.php/locale)
+
     * [Linux: Define Locale and Language Settings](https://www.shellhacks.com/linux-define-locale-language-settings/)
 
 ```bash
@@ -1305,6 +1424,7 @@ foo
 ```
 
 * Numeric ranges, easy for certain cases but not suitable always. Use `awk` or `perl` for arithmetic computation
+
 * See also [Matching Numeric Ranges with a Regular Expression](https://www.regular-expressions.info/numericranges.html)
 
 ```bash
@@ -1329,6 +1449,7 @@ $ printf '0501\n035\n154\n12\n26\n98234\n' | sed -nE '/^0*[1-9][0-9]{2,}$/p'
 Negating character class
 
 * Meta characters inside and outside of `[]` are completely different
+
 * For example, `^` as first character inside `[]` matches characters other than those specified inside character class
 
 ```bash
@@ -1350,7 +1471,9 @@ why
 Matching meta characters inside `[]`
 
 * Characters like `^`, `]`, `-`, etc need special attention to be part of list
+
 * Also, sequences like `[.` or `=]` have special meaning within `[]`
+
     * See [sed manual - Character-Classes-and-Bracket-Expressions](https://www.gnu.org/software/sed/manual/sed.html#Character-Classes-and-Bracket-Expressions) for complete list
 
 ```bash
@@ -1378,7 +1501,9 @@ d=f*h+e
 Named character classes
 
 * Equivalent class shown is for C locale and ASCII character encoding
+
     * See [ascii codes table](https://ascii.cl/) for reference
+
 * See [sed manual - Character Classes and Bracket Expressions](https://www.gnu.org/software/sed/manual/sed.html#Character-Classes-and-Bracket-Expressions) for more details
 
 | Character classes | Description |
@@ -1424,7 +1549,9 @@ And so are you
 Backslash character classes
 
 * Equivalent class shown is for C locale and ASCII character encoding
+
     * See [ascii codes table](https://ascii.cl/) for reference
+
 * See [sed manual - regular expression extensions](https://www.gnu.org/software/sed/manual/sed.html#regexp-extensions) for more details
 
 | Character classes | Description |
@@ -1451,12 +1578,16 @@ $ echo 'w=y-x+9*3' | perl -pe 's/[\w=]//g'
 
 <br>
 
-#### <a name="escape-sequences"></a>Escape sequences
+### <a name="escape-sequences"></a>Escape Sequences
 
 * Certain ASCII characters like tab, carriage return, newline, etc have escape sequence to represent them
+
     * Unlike backslash character classes, these can be used within `[]` as well
+
 * Any ASCII character can be also represented using their decimal or octal or hexadecimal value
+
     * See [ascii codes table](https://ascii.cl/) for reference
+
 * See [sed manual - Escapes](https://www.gnu.org/software/sed/manual/sed.html#Escapes) for more details
 
 ```bash
@@ -1489,12 +1620,16 @@ foo: '34'
 
 <br>
 
-#### <a name="grouping"></a>Grouping
+### <a name="grouping"></a>Grouping
 
 * Character classes allow matching against a choice of multiple character list and then quantifier added if needed
+
 * One of the uses of grouping is analogous to character classes for whole regular expressions, instead of just list of characters
+
 * The meta characters `()` are used for grouping
+
     * requires `\(\)` for BRE
+
 * Similar to maths `ab + ac = a(b+c)`, think of regular expression `a(b|c) = ab|ac`
 
 ```bash
@@ -1530,15 +1665,22 @@ sphere
 
 <br>
 
-#### <a name="back-reference"></a>Back reference
+### <a name="back-reference"></a>Back Reference
 
 * The matched string within `()` can also be used to be matched again by back referencing the captured groups
+
 * `\1` denotes the first matched group, `\2` the second one and so on
+
     * Order is leftmost `(` is `\1`, next one is `\2` and so on
+
     * Can be used both in *REGEXP* as well as in *REPLACEMENT* sections
+
 * `&` or `\0` represents entire matched string in *REPLACEMENT* section
+
 * Note that the matched string, not the regular expression itself is referenced
+
     * for ex: if `([0-9][a-f])` matches `3b`, then back referencing will be `3b` not any other valid match of the regular expression like `8f`, `0a` etc
+
 * As `\` and `&` are special characters in *REPLACEMENT* section, use `\\` and `\&` respectively for literal representation
 
 ```bash
@@ -1577,9 +1719,10 @@ Hi. hello world. Have a nice day
 
 <br>
 
-#### <a name="changing-case"></a>Changing case
+### <a name="changing-case"></a>Changing Case
 
 * Applies only to *REPLACEMENT* section, unlike `perl` where these can be used in *REGEXP* portion as well
+
 * See [sed manual - The s Command](https://www.gnu.org/software/sed/manual/sed.html#The-_0022s_0022-Command) for more details and corner cases
 
 ```bash
@@ -1617,7 +1760,7 @@ FOO_bar NEXT_line baz
 
 <br>
 
-## <a name="substitute-command-modifiers"></a>Substitute command modifiers
+## <a name="substitute-command-modifiers"></a>Substitute Command Modifiers
 
 The `s` command syntax:
 
@@ -1626,11 +1769,12 @@ s/REGEXP/REPLACEMENT/FLAGS
 ```
 
 * Modifiers (or FLAGS) like `g`, `p` and `I` have been already seen. For completeness, they will be discussed again along with rest of the modifiers
+
 * See [sed manual - The s Command](https://www.gnu.org/software/sed/manual/sed.html#The-_0022s_0022-Command) for more details and corner cases
 
 <br>
 
-#### <a name="g-modifier"></a>g modifier
+### <a name="g-modifier"></a>g Modifier
 
 By default, substitute command will replace only first occurrence of match. `g` modifier is needed to replace all occurrences
 
@@ -1646,7 +1790,7 @@ foo-123-bar-baz
 
 <br>
 
-#### <a name="replace-specific-occurrence"></a>Replace specific occurrence
+### <a name="replace-specific-occurrence"></a>Replace Specific Occurrence
 
 * A number can be used to specify *N*th match to be replaced
 
@@ -1677,6 +1821,7 @@ $ echo ':123:bar:baz' | sed -E 's/[^:]+/XYZ/2'
 ```
 
 * Replacing *N*th match from end of line when number of matches is unknown
+
 * Makes use of greediness of quantifiers
 
 ```bash
@@ -1740,9 +1885,10 @@ $ echo '456:foo:123:bar:789:baz' | sed 's/:/-/5; s/:/-/3; s/:/-/2'
 
 <br>
 
-#### <a name="ignoring-case"></a>Ignoring case
+### <a name="ignoring-case"></a>Ignoring Case
 
 * Either `i` or `I` can be used for replacing in case-insensitive manner
+
 * Since only `I` can be used for address filtering (for ex: `sed '/rose/Id' poem.txt`), use `I` for substitute command as well for consistency
 
 ```bash
@@ -1755,7 +1901,7 @@ hi hi hi hi
 
 <br>
 
-#### <a name="p-modifier"></a>p modifier
+### <a name="p-modifier"></a>p Modifier
 
 * Usually used in conjunction with `-n` option to output only modified lines
 
@@ -1779,7 +1925,7 @@ And SO are you.
 
 <br>
 
-#### <a name="w-modifier"></a>w modifier
+### <a name="w-modifier"></a>w Modifier
 
 * Allows to write only the changes to specified file name instead of default **stdout**
 
@@ -1811,7 +1957,9 @@ seven
 ```
 
 * There are two predefined filenames
+
     * `/dev/stdout` to write to **stdout**
+
     * `/dev/stderr` to write to **stderr**
 
 ```bash
@@ -1826,9 +1974,10 @@ $ cat 3.txt
 
 <br>
 
-#### <a name="e-modifier"></a>e modifier
+### <a name="e-modifier"></a>e Modifier
 
 * Allows to use shell command output in *REPLACEMENT* section
+
 * Trailing newline from command output is suppressed
 
 ```bash
@@ -1857,11 +2006,14 @@ $ echo 'xyz 5' | sed 's/xyz/seq/e'
 
 <br>
 
-#### <a name="m-modifier"></a>m modifier
+### <a name="m-modifier"></a>m Modifier
 
 * Either `m` or `M` can be used
+
 * So far, we've seen only line based operations (newline character being used to distinguish lines)
+
 * There are various ways (see [sed manual - How sed Works](https://www.gnu.org/software/sed/manual/sed.html#Execution-Cycle)) by which more than one line is there in pattern space and in such cases `m` modifier can be used
+
 * See also [unix.stackexchange - usage of multi-line modifier](https://unix.stackexchange.com/questions/298670/simple-significant-usage-of-m-multi-line-address-suffix) for more examples
 
 Before seeing example with `m` modifier, let's see a simple example to get two lines in pattern space
@@ -1907,18 +2059,23 @@ Sugar is sweet,
 
 <br>
 
-## <a name="shell-substitutions"></a>Shell substitutions
+## <a name="shell-substitutions"></a>Shell Substitutions
 
 * Examples presented works with `bash` shell, might differ for other shells
+
 * See also [stackoverflow - Difference between single and double quotes in Bash](https://stackoverflow.com/questions/6697753/difference-between-single-and-double-quotes-in-bash)
+
 * For robust substitutions taking care of meta characters in *REGEXP* and *REPLACEMENT* sections, see
+
     * [unix.stackexchange - How to ensure that string interpolated into sed substitution escapes all metachars](https://unix.stackexchange.com/questions/129059/how-to-ensure-that-string-interpolated-into-sed-substitution-escapes-all-metac)
+
     * [unix.stackexchange - What characters do I need to escape when using sed in a sh script?](https://unix.stackexchange.com/questions/32907/what-characters-do-i-need-to-escape-when-using-sed-in-a-sh-script)
+
     * [stackoverflow - Is it possible to escape regex metacharacters reliably with sed](https://stackoverflow.com/questions/29613304/is-it-possible-to-escape-regex-metacharacters-reliably-with-sed)
 
 <br>
 
-#### <a name="variable-substitution"></a>Variable substitution
+### <a name="variable-substitution"></a>Variable Substitution
 
 * Entire command in double quotes can be used for simple use cases
 
@@ -1962,7 +2119,7 @@ And so are you.
 
 <br>
 
-#### <a name="command-substitution"></a>Command substitution
+### <a name="command-substitution"></a>Command Substitution
 
 * Much more flexible than using `e` modifier as part of line can be modified as well
 
@@ -1983,10 +2140,12 @@ sed: -e expression #1, char 7: unterminated `s' command
 
 <br>
 
-## <a name="z-and-s-command-line-options"></a>z and s command line options
+## <a name="z-and-s-command-line-options"></a>z And S Command line Options
 
 * We have already seen a few options like `-n`, `-e`, `-i` and `-E`
+
 * This section will cover `-z` and `-s` options
+
 * See [sed manual - Command line options](https://www.gnu.org/software/sed/manual/sed.html#Command_002dLine-Options) for other options and more details
 
 The `-z` option will cause `sed` to separate input based on ASCII NUL character instead of newlines
@@ -2031,7 +2190,7 @@ I bought two bananas and three mangoes
 
 <br>
 
-## <a name="change-command"></a>change command
+## <a name="change-command"></a>change Command
 
 The change command `c` will delete line(s) represented by address or address range and replace it with given string
 
@@ -2070,6 +2229,7 @@ foo
 ```
 
 * `\` is special immediately after `c`, see [sed manual - other commands](https://www.gnu.org/software/sed/manual/sed.html#Other-Commands) for details
+
 * If escape sequence is needed at beginning of replacement string, use an additional `\`
 
 ```bash
@@ -2137,7 +2297,7 @@ sed: -e expression #1, char 5: missing command
 
 <br>
 
-## <a name="insert-command"></a>insert command
+## <a name="insert-command"></a>insert Command
 
 The insert command allows to add string before a line matching given address
 
@@ -2175,6 +2335,7 @@ foo
 ```
 
 * `\` is special immediately after `i`, see [sed manual - other commands](https://www.gnu.org/software/sed/manual/sed.html#Other-Commands) for details
+
 * If escape sequence is needed at beginning of replacement string, use an additional `\`
 
 ```bash
@@ -2250,7 +2411,7 @@ sed: -e expression #1, char 5: missing command
 
 <br>
 
-## <a name="append-command"></a>append command
+## <a name="append-command"></a>append Command
 
 The append command allows to add string after a line matching given address
 
@@ -2288,6 +2449,7 @@ foo
 ```
 
 * `\` is special immediately after `a`, see [sed manual - other commands](https://www.gnu.org/software/sed/manual/sed.html#Other-Commands) for details
+
 * If escape sequence is needed at beginning of replacement string, use an additional `\`
 
 ```bash
@@ -2365,15 +2527,18 @@ sed: -e expression #1, char 5: missing command
 
 <br>
 
-## <a name="adding-contents-of-file"></a>adding contents of file
+## <a name="adding-contents-of-file"></a>adding Contents of File
 
 <br>
 
-#### <a name="r-for-entire-file"></a>r for entire file
+### <a name="r-for-entire-file"></a>r For Entire File
 
 * The `r` command allows to add contents of file after a line matching given address
+
 * It is a robust way to add multiline content or if content can have characters that may be interpreted
+
 * Special name `/dev/stdin` allows to read from **stdin** instead of file input
+
 * First, a simple example to add contents of one file into another at specified address
 
 ```bash
@@ -2418,6 +2583,7 @@ five
 ```
 
 * adding content of variable as it is without any interpretation
+
 * also shows example for using `/dev/stdin`
 
 ```bash
@@ -2455,6 +2621,7 @@ And so are you.
 ```
 
 * replacing a line or range of lines with contents of file
+
 * See also [unix.stackexchange - various ways to replace line M in file1 with line N in file2](https://unix.stackexchange.com/a/396450)
 
 ```bash
@@ -2486,9 +2653,10 @@ And so are you.
 
 <br>
 
-#### <a name="r-for-line-by-line"></a>R for line by line
+### <a name="r-for-line-by-line"></a>R For line by line
 
 * add a line for every address match
+
 * Special name `/dev/stdin` allows to read from **stdin** instead of file input
 
 ```bash
@@ -2542,13 +2710,13 @@ And so are you.
 
 <br>
 
-## <a name="n-and-n-commands"></a>n and N commands
+## <a name="n-and-n-commands"></a>n And N Commands
 
 * These two commands will fetch next line (newline or NUL character separated, depending on options)
 
 Quoting from [sed manual - common commands](https://www.gnu.org/software/sed/manual/sed.html#Common-Commands) for `n` command
 
->If auto-print is not disabled, print the pattern space, then, regardless, replace the pattern space with the next line of input. If there is no more input then sed exits without processing any more commands.
+> If auto-print is not disabled, print the pattern space, then, regardless, replace the pattern space with the next line of input. If there is no more input then sed exits without processing any more commands.
 
 ```bash
 $ # if line contains 'blue', replace 'e' with 'E' only for following line
@@ -2569,9 +2737,9 @@ And so arE you.
 
 Quoting from [sed manual - other commands](https://www.gnu.org/software/sed/manual/sed.html#Other-Commands) for `N` command
 
->Add a newline to the pattern space, then append the next line of input to the pattern space. If there is no more input then sed exits without processing any more commands
+> Add a newline to the pattern space, then append the next line of input to the pattern space. If there is no more input then sed exits without processing any more commands
 
->When -z is used, a zero byte (the ascii ‘NUL’ character) is added between the lines (instead of a new line)
+> When -z is used, a zero byte (the ascii ‘NUL’ character) is added between the lines (instead of a new line)
 
 * See also [stackoverflow - apply substitution every 4 lines but excluding the 4th line](https://stackoverflow.com/questions/40229578/how-to-insert-a-line-feed-into-a-sed-line-concatenation)
 
@@ -2623,18 +2791,22 @@ $ seq 6 | sed 'N;s/\n/ /'
 
 <br>
 
-## <a name="control-structures"></a>Control structures
+## <a name="control-structures"></a>Control Structures
 
 * Using `:label` one can mark a command location to branch to conditionally or unconditionally
+
 * See [sed manual - Commands for sed gurus](https://www.gnu.org/software/sed/manual/sed.html#Programming-Commands) for more details
 
 <br>
 
-#### <a name="if-then-else"></a>if then else
+### <a name="if-then-else"></a>if Then Else
 
 * Simple if-then-else can be simulated using `b` command
+
 * `b` command will unconditionally branch to specified label
+
 * Without label, `b` will skip rest of commands and start next cycle
+
 * See [unix.stackexchange - processing only lines between REGEXPs](https://unix.stackexchange.com/questions/292819/remove-commented-lines-except-one-comment-using-sed) for interesting use case
 
 ```bash
@@ -2665,12 +2837,16 @@ And so ar* you.
 
 <br>
 
-#### <a name="replacing-in-specific-column"></a>replacing in specific column
+### <a name="replacing-in-specific-column"></a>replacing In Specific Column
 
 * `t` command will branch to specified label on successful substitution
+
 * Without label, `t` will skip rest of commands and start next cycle
+
 * More examples
+
     * [stackoverflow - replace data after last delimiter](https://stackoverflow.com/questions/39907133/replace-data-after-last-delimiter-of-every-line-using-sed-or-awk/39908523#39908523)
+
     * [stackoverflow - replace multiple occurrences in specific column](https://stackoverflow.com/questions/42886531/replace-mutliple-occurances-in-delimited-columns/42886919#42886919)
 
 ```bash
@@ -2705,9 +2881,10 @@ And so ar# you.
 
 <br>
 
-#### <a name="overlapping-substitutions"></a>overlapping substitutions
+### <a name="overlapping-substitutions"></a>overlapping Substitutions
 
 * `t` command looping with label comes in handy for overlapping substitutions as well
+
 * Note that in general this method will work recursively, see [stackoverflow - substitute recursively](https://stackoverflow.com/questions/9983646/sed-substitute-recursively) for example
 
 ```bash
@@ -2728,14 +2905,15 @@ foo:0:0:bar:0:baz
 
 <br>
 
-## <a name="lines-between-two-regexps"></a>Lines between two REGEXPs
+## <a name="lines-between-two-regexps"></a>Lines Between Two REGEXPs
 
 * Simple cases were seen in [address range](#address-range) section
+
 * This section will deal with more cases and some corner cases
 
 <br>
 
-#### <a name="include-or-exclude-matching-regexps"></a>Include or Exclude matching REGEXPs
+### <a name="include-or-exclude-matching-regexps"></a>Include Or Exclude Matching REGEXPs
 
 Consider the sample input file, for simplicity the two REGEXPs are **BEGIN** and **END** strings instead of regular expressions
 
@@ -2859,7 +3037,7 @@ baz
 
 <br>
 
-#### <a name="first-or-last-block"></a>First or Last block
+### <a name="first-or-last-block"></a>First Or Last Block
 
 * Getting first block is very simple by using `q` command
 
@@ -2894,13 +3072,15 @@ c
 ```
 
 * To get a specific block, say 3rd one, `awk` or `perl` would be a better choice
+
     * See [Specific blocks](Gnu_Awk.md#specific-blocks) for `awk` examples
 
 <br>
 
-#### <a name="broken-blocks"></a>Broken blocks
+### <a name="broken-blocks"></a>Broken Blocks
 
 * If there are blocks with ending *REGEXP* but without corresponding starting *REGEXP*, `sed -n '/BEGIN/,/END/p'` will suffice
+
 * Consider the modified input file where final starting *REGEXP* doesn't have corresponding ending
 
 ```bash
@@ -2919,8 +3099,11 @@ baz
 ```
 
 * All lines till end of file gets printed with simple use of `sed -n '/BEGIN/,/END/p'`
+
 * The file reversing trick comes in handy here as well
+
 * But if both kinds of broken blocks are present, further processing will be required. Better to use `awk` or `perl` in such cases
+
     * See [Broken blocks](Gnu_Awk.md#broken-blocks) for `awk` examples
 
 ```bash
@@ -2979,10 +3162,12 @@ END
 
 <br>
 
-## <a name="sed-scripts"></a>sed scripts
+## <a name="sed-scripts"></a>sed Scripts
 
 * `sed` commands can be placed in a file and called using `-f` option or directly executed using [shebang](https://en.wikipedia.org/wiki/Shebang_(Unix))
+
 * See [sed manual - Some Sample Scripts](https://www.gnu.org/software/sed/manual/sed.html#Examples) for more examples
+
 * See [sed manual - Often-Used Commands](https://www.gnu.org/software/sed/manual/sed.html#Common-Commands) for more details on using comments
 
 ```bash
@@ -3009,6 +3194,7 @@ foo bar
 ```
 
 * command line options can be specified along with shebang as well as added at time of invocation
+
 * See also [stackoverflow - usage of options along with shebang depends on lot of factors](https://stackoverflow.com/questions/4303128/how-to-use-multiple-arguments-with-a-shebang-i-e)
 
 ```bash
@@ -3039,7 +3225,7 @@ foo bar
 
 <br>
 
-## <a name="gotchas-and-tips"></a>Gotchas and Tips
+## <a name="gotchas-and-tips"></a>Gotchas And Tips
 
 * dos style line endings
 
@@ -3084,6 +3270,7 @@ five$
 ```
 
 * variable/command substitution
+
 * See also [stackoverflow - Is it possible to escape regex metacharacters reliably with sed](https://stackoverflow.com/questions/29613304/is-it-possible-to-escape-regex-metacharacters-reliably-with-sed)
 
 ```bash
@@ -3151,6 +3338,7 @@ get [] and let
 ```
 
 * common regular expression mistakes #3 - using PCRE syntax/features
+
     * especially by trying out solution on online sites like [regex101](https://regex101.com/) and expecting it to work with `sed` as well
 
 ```bash
@@ -3179,12 +3367,18 @@ foo xyz
 123 xyz
 ```
 
-* and many more... see also
+* and many more… see also
+
     * [unix.stackexchange - Why does my regular expression work in X but not in Y?](https://unix.stackexchange.com/questions/119905/why-does-my-regular-expression-work-in-x-but-not-in-y)
+
     * [stackoverflow - Greedy vs. Reluctant vs. Possessive Quantifiers](https://stackoverflow.com/questions/5319840/greedy-vs-reluctant-vs-possessive-quantifiers)
+
     * [stackoverflow - How to replace everything between but only until the first occurrence of the end string?](https://stackoverflow.com/questions/45168607/how-to-replace-everything-between-but-only-until-the-first-occurrence-of-the-end)
+
     * [stackoverflow - How to match a specified pattern with multiple possibilities](https://stackoverflow.com/questions/43650926/how-to-match-a-specified-pattern-with-multiple-possibilities)
+
     * [stackoverflow - mixing different regex syntax](https://stackoverflow.com/questions/45389684/cant-comment-a-line-in-my-cnf/45389833#45389833)
+
     * [sed manual - BRE-vs-ERE](https://www.gnu.org/software/sed/manual/sed.html#BRE-vs-ERE)
 
 * Speed boost for ASCII encoded input
@@ -3216,35 +3410,65 @@ real    0m0.073s
 ## <a name="further-reading"></a>Further Reading
 
 * Manual and related
-    * `man sed` and `info sed` for more details, known issues/limitations as well as options/commands not covered in this tutorial
-    * [GNU sed manual](https://www.gnu.org/software/sed/manual/sed.html) has even more detailed information and examples
-    * [sed FAQ](http://sed.sourceforge.net/sedfaq.html), last modified '10 March 2003'
-    * [stackoverflow - BSD/macOS Sed vs GNU Sed vs the POSIX Sed specification](https://stackoverflow.com/questions/24275070/sed-not-giving-me-correct-substitute-operation-for-newline-with-mac-difference/24276470#24276470)
-    * [unix.stackexchange - Differences between sed on Mac OSX and other standard sed](https://unix.stackexchange.com/questions/13711/differences-between-sed-on-mac-osx-and-other-standard-sed)
-* This chapter has also been [converted to a book](https://github.com/learnbyexample/learn_gnused) with additional description, examples and exercises.
-* Tutorials and Q&A
-    * [sed basics](https://code.snipcademy.com/tutorials/shell-scripting/sed/introduction)
-    * [sed detailed tutorial](https://www.grymoire.com/Unix/Sed.html) - has details on differences between various `sed` versions as well
-    * [sed one-liners explained](https://catonmat.net/sed-one-liners-explained-part-one)
-    * [cheat sheet](https://catonmat.net/ftp/sed.stream.editor.cheat.sheet.txt)
-    * [unix.stackexchange - common search and replace examples](https://unix.stackexchange.com/questions/112023/how-can-i-replace-a-string-in-a-files)
-    * [sed Q&A on unix stackexchange](https://unix.stackexchange.com/questions/tagged/sed?sort=votes&pageSize=15)
-    * [sed Q&A on stackoverflow](https://stackoverflow.com/questions/tagged/sed?sort=votes&pageSize=15)
-* Selected examples - portable solutions, commands not covered in this tutorial, same problem solved using different tools, etc
-    * [unix.stackexchange - replace multiline string](https://unix.stackexchange.com/questions/26284/how-can-i-use-sed-to-replace-a-multi-line-string)
-    * [stackoverflow - deleting empty lines with optional white spaces](https://stackoverflow.com/questions/16414410/delete-empty-lines-using-sed)
-    * [unix.stackexchange - print only line above the matching line](https://unix.stackexchange.com/questions/264489/find-each-line-matching-a-pattern-but-print-only-the-line-above-it)
-    * [stackoverflow - How to select lines between two patterns?](https://stackoverflow.com/questions/38972736/how-to-select-lines-between-two-patterns)
-    * [stackoverflow - get lines between two patterns only if there is third pattern between them](https://stackoverflow.com/questions/39960075/bash-how-to-get-lines-between-patterns-only-if-there-is-pattern2-between-them)
-        * [unix.stackexchange - similar example](https://unix.stackexchange.com/questions/228699/sed-print-lines-matched-by-a-pattern-range-if-one-line-matches-a-condition)
-* Learn Regular Expressions (has information on flavors other than BRE/ERE too)
-    * [Regular Expressions Tutorial](https://www.regular-expressions.info/tutorial.html)
-    * [regexcrossword](https://regexcrossword.com/)
-    * [stackoverflow - What does this regex mean?](https://stackoverflow.com/questions/22937618/reference-what-does-this-regex-mean)
-* Related tools
-    * [rpl](https://unix.stackexchange.com/questions/112023/how-can-i-replace-a-string-in-a-files/251742#251742) - search and replace tool, has interesting options like interactive mode and recursive mode
-    * [sd](https://github.com/chmln/sd) - simple search and replace, implemented in Rust
-    * [sedsed](https://github.com/aureliojargas/sedsed) - Debugger, indenter and HTMLizer for sed scripts
-    * [xo](https://github.com/ezekg/xo) - composes regular expression match groups
-* [unix.stackexchange - When to use grep, sed, awk, perl, etc](https://unix.stackexchange.com/questions/303044/when-to-use-grep-less-awk-sed)
 
+    * `man sed` and `info sed` for more details, known issues/limitations as well as options/commands not covered in this tutorial
+
+    * [GNU sed manual](https://www.gnu.org/software/sed/manual/sed.html) has even more detailed information and examples
+
+    * [sed FAQ](http://sed.sourceforge.net/sedfaq.html), last modified '10 March 2003'
+
+    * [stackoverflow - BSD/macOS Sed vs GNU Sed vs the POSIX Sed specification](https://stackoverflow.com/questions/24275070/sed-not-giving-me-correct-substitute-operation-for-newline-with-mac-difference/24276470#24276470)
+
+    * [unix.stackexchange - Differences between sed on Mac OSX and other standard sed](https://unix.stackexchange.com/questions/13711/differences-between-sed-on-mac-osx-and-other-standard-sed)
+
+* This chapter has also been [converted to a book](https://github.com/learnbyexample/learn_gnused) with additional description, examples and exercises.
+
+* Tutorials and Q&A
+
+    * [sed basics](https://code.snipcademy.com/tutorials/shell-scripting/sed/introduction)
+
+    * [sed detailed tutorial](https://www.grymoire.com/Unix/Sed.html) - has details on differences between various `sed` versions as well
+
+    * [sed one-liners explained](https://catonmat.net/sed-one-liners-explained-part-one)
+
+    * [cheat sheet](https://catonmat.net/ftp/sed.stream.editor.cheat.sheet.txt)
+
+    * [unix.stackexchange - common search and replace examples](https://unix.stackexchange.com/questions/112023/how-can-i-replace-a-string-in-a-files)
+
+    * [sed Q&A on unix stackexchange](https://unix.stackexchange.com/questions/tagged/sed?sort=votes&pageSize=15)
+
+    * [sed Q&A on stackoverflow](https://stackoverflow.com/questions/tagged/sed?sort=votes&pageSize=15)
+
+* Selected examples - portable solutions, commands not covered in this tutorial, same problem solved using different tools, etc
+
+    * [unix.stackexchange - replace multiline string](https://unix.stackexchange.com/questions/26284/how-can-i-use-sed-to-replace-a-multi-line-string)
+
+    * [stackoverflow - deleting empty lines with optional white spaces](https://stackoverflow.com/questions/16414410/delete-empty-lines-using-sed)
+
+    * [unix.stackexchange - print only line above the matching line](https://unix.stackexchange.com/questions/264489/find-each-line-matching-a-pattern-but-print-only-the-line-above-it)
+
+    * [stackoverflow - How to select lines between two patterns?](https://stackoverflow.com/questions/38972736/how-to-select-lines-between-two-patterns)
+
+    * [stackoverflow - get lines between two patterns only if there is third pattern between them](https://stackoverflow.com/questions/39960075/bash-how-to-get-lines-between-patterns-only-if-there-is-pattern2-between-them)
+
+        * [unix.stackexchange - similar example](https://unix.stackexchange.com/questions/228699/sed-print-lines-matched-by-a-pattern-range-if-one-line-matches-a-condition)
+
+* Learn Regular Expressions (has information on flavors other than BRE/ERE too)
+
+    * [Regular Expressions Tutorial](https://www.regular-expressions.info/tutorial.html)
+
+    * [regexcrossword](https://regexcrossword.com/)
+
+    * [stackoverflow - What does this regex mean?](https://stackoverflow.com/questions/22937618/reference-what-does-this-regex-mean)
+
+* Related tools
+
+    * [rpl](https://unix.stackexchange.com/questions/112023/how-can-i-replace-a-string-in-a-files/251742#251742) - search and replace tool, has interesting options like interactive mode and recursive mode
+
+    * [sd](https://github.com/chmln/sd) - simple search and replace, implemented in Rust
+
+    * [sedsed](https://github.com/aureliojargas/sedsed) - Debugger, indenter and HTMLizer for sed scripts
+
+    * [xo](https://github.com/ezekg/xo) - composes regular expression match groups
+
+* [unix.stackexchange - When to use grep, sed, awk, perl, etc](https://unix.stackexchange.com/questions/303044/when-to-use-grep-less-awk-sed)

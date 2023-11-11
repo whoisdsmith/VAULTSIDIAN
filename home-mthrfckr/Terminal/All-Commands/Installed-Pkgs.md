@@ -45,7 +45,7 @@ examining an old, compressed install log
 Notice in the screenshot above, I’m examining a turned over log, not the current one. As this particular install of Mountain Lion was only done on May 3rd, there’s only one turned over log file.  
 
 > **Pro Tip No.2:** You can force the system to turn over all the log files, including **install.log** even if they haven’t reached their maximum size. As it says in the `man` page for `newsyslog`, this can be “useful for diagnosing system problems by providing you with fresh logs that contain only the problems.”
->
+> 
 > To force all log files to be turned over, simply enter `sudo newsyslog -F` into Terminal. Hit ‘return’ and supply your password, as always with the `sudo` command.
 
 ---

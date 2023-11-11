@@ -1,4 +1,4 @@
-# Grep cheatsheet
+# Grep Cheatsheet
 
 ---
 
@@ -6,7 +6,7 @@ The **grep** utility searches any given input files, selecting lines that match 
 
 **grep** is used for simple patterns and basic regular expressions (BREs). Below are the frequent use cases which will be handy for developers in their day to day activity.
 
-### Index
+## Index
 
 -   [Case insensitive Search](https://vishnuch.tech/grep-cheatsheet#case-insensitive-search)
 -   [Get Context](https://vishnuch.tech/grep-cheatsheet#get-context)
@@ -19,7 +19,7 @@ The **grep** utility searches any given input files, selecting lines that match 
 
 ---
 
-## Case insensitive Search
+# Case Insensitive Search
 
 **grep -i** : Output of both commands below will be same as **\-i** option does the case insensitive search.
 
@@ -31,7 +31,7 @@ grep -i hello file.txt
 grep -i HELLO file.txt
 ```
 
-## Get Context
+# Get Context
 
 To get the context of your search use the below commands.
 
@@ -59,7 +59,7 @@ grep -C 3 hello file.txt
 
 This will show 3 lines of context before and after your match i.e *"hello"* word in this case.
 
-## Invert Match
+# Invert Match
 
 **grep -v** : Find all lines that don't match the given pattern.
 
@@ -67,7 +67,7 @@ This will show 3 lines of context before and after your match i.e *"hello"* word
 grep -v hello file.txt
 ```
 
-## Show Filenames
+# Show Filenames
 
 **grep -l** : Show only the filenames of the files that matched
 
@@ -77,7 +77,7 @@ grep -l hello *.txt
 
 Above command lists all *.txt* files which has *"hello"* word in the current directory.
 
-## Recursive Search
+# Recursive Search
 
 **grep -r** : Search all the files in a directory
 
@@ -87,7 +87,7 @@ grep -r hello */*.txt
 
 Above command lists all *.txt* files inside nested directory which has *"hello"* word in it.
 
-## Print Matching Part
+# Print Matching Part
 
 ```
 grep -o hello file.txt
@@ -95,7 +95,7 @@ grep -o hello file.txt
 
 Above command prints only matching part of the line (not the complete line).
 
-## Regular Expressions
+# Regular Expressions
 
 **grep -E** : This option is used for matching Regular Expressions.
 
@@ -111,11 +111,11 @@ grep -E 'hel*|wo*' file.txt
 
 Above command searches for all the lines which have words starting with **hel OR wo**
 
-## Search Binaries
+# Search Binaries
 
 **grep -a** : Treat binary data like its text instead of ignoring it.
 
-Treat all files as ASCII text. Normally grep will simply print \`\`Binary file ... matches'' if files contain binary characters. Use of this option forces **grep** to output lines matching the specified pattern.
+Treat all files as ASCII text. Normally grep will simply print \`\`Binary file … matches'' if files contain binary characters. Use of this option forces **grep** to output lines matching the specified pattern.
 
 ```
 grep -a <pattern> <binary file>
@@ -123,8 +123,8 @@ grep -a <pattern> <binary file>
 
 ---
 
-## Thank you for reading
+# Thank You for Reading
 
-### If you like what you read and want to see more about system design, microservices and other technology-related stuff... You can follow me on [Twitter here](https://twitter.com/vishnuchi).
+## If You like what You Read and want to See More about System Design, Microservices and other Technology-related stuff… You Can Follow Me on [Twitter here](https://twitter.com/vishnuchi)
 
 [![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/vishnuchi)

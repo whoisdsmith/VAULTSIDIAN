@@ -283,7 +283,6 @@ In order of preference, pandoc will look for filters in
 2. `$DATADIR/filters` (executable or non-executable) where `$DATADIR` is the user data directory (see [`--data-dir`](https://pandoc.org/MANUAL.html#option--data-dir), above).
     
 3. `$PATH` (executable only)
-    
 
 Filters, Lua-filters, and citeproc processing are applied in the order specified on the command line.
 
@@ -300,7 +299,6 @@ In order of preference, pandoc will look for Lua filters in
 1. a specified full or relative path
     
 2. `$DATADIR/filters` where `$DATADIR` is the user data directory (see [`--data-dir`](https://pandoc.org/MANUAL.html#option--data-dir), above).
-    
 
 Filters, Lua filters, and citeproc processing are applied in the order specified on the command line.
 
@@ -1344,7 +1342,6 @@ Currently the following pipes are predefined:
 - `right n "leftborder" "rightborder"`: Renders a textual value in a block of width `n`, aligned to the right, and has no effect on other values.
     
 - `center n "leftborder" "rightborder"`: Renders a textual value in a block of width `n`, aligned to the center, and has no effect on other values.
-    
 
 ## Variables
 
@@ -2111,31 +2108,20 @@ The following extensions are described in more detail in their respective sectio
 - [`raw_html`](https://pandoc.org/MANUAL.html#extension-raw_html) allows HTML elements which are not representable in pandoc’s AST to be parsed as raw HTML. By default, this is disabled for HTML input.
     
 - [`raw_tex`](https://pandoc.org/MANUAL.html#extension-raw_tex) allows raw LaTeX, TeX, and ConTeXt to be included in a document. This extension can be enabled/disabled for the following formats (in addition to `markdown`):
-    
 
     input formats
 
-    
-
     `latex`, `textile`, `html` (environments, `\ref`, and `\eqref` only), `ipynb`
-
-    
 
     output formats
 
-    
-
     `textile`, `commonmark`
-
-    
 
     Note: as applied to `ipynb`, `raw_html` and `raw_tex` affect not only raw TeX in markdown cells, but data with mime type `text/html` in output cells. Since the `ipynb` reader attempts to preserve the richest possible outputs when several options are given, you will get best results if you disable `raw_html` and `raw_tex` when converting to formats like `docx` which don’t allow raw `html` or `tex`.
 
-    
 - [`native_divs`](https://pandoc.org/MANUAL.html#extension-native_divs) causes HTML `div` elements to be parsed as native pandoc Div blocks. If you want them to be parsed as raw HTML, use [`-f html-native_divs+raw_html`](https://pandoc.org/MANUAL.html#option--from).
     
 - [`native_spans`](https://pandoc.org/MANUAL.html#extension-native_spans) causes HTML `span` elements to be parsed as native pandoc Span inlines. If you want them to be parsed as raw HTML, use [`-f html-native_spans+raw_html`](https://pandoc.org/MANUAL.html#option--from). If you want to drop all `div`s and `span`s when converting HTML to Markdown, you can use `pandoc -f html-native_divs-native_spans -t markdown`.
-    
 
 ## Literate Haskell Support
 
@@ -2168,7 +2154,6 @@ If you append `+lhs` (or `+literate_haskell`) to one of the formats above, pando
 - In LaTeX output, code blocks with class `haskell` will be rendered inside `code` environments.
     
 - In HTML output, code blocks with class `haskell` will be rendered with class `literatehaskell` and bird tracks.
-    
 
 Examples:
 
@@ -4135,8 +4120,6 @@ If you are using a bibtex or biblatex bibliography, then observe the following r
 
     Though this is not necessary in bibtex/biblatex, it is necessary with citeproc, which stores titles internally in sentence case, and converts to title case in styles that require it. Here we protect “nm” so that it doesn’t get converted to “Nm” at this stage.
 
-    
-
 If you are using a CSL bibliography (either JSON or YAML), then observe the following rules:
 
 - All titles should be in sentence case.
@@ -4357,7 +4340,6 @@ The document is carved up into slides according to the following rules:
 - Headings *above* the slide level in the hierarchy create “title slides,” which just contain the section title and help to break the slide show into sections. Non-slide content under these headings will be included on the title slide (for HTML slide shows) or in a subsequent slide with the same title (for beamer).
     
 - A title page is constructed automatically from the document’s title block, if present. (In the case of beamer, this can be disabled by commenting out some lines in the default template.)
-    
 
 These rules are designed to support many different styles of slide show. If you don’t care about structuring your slides into sections and subsections, you can either just use level-1 headings for all slides (in that case, level 1 will be the slide level) or you can set [`--slide-level=0`](https://pandoc.org/MANUAL.html#option--slide-level).
 
@@ -5076,7 +5058,6 @@ If you use pandoc to convert user-contributed content in a web application, here
 5. Pandoc’s parsers can exhibit pathological performance on some corner cases. It is wise to put any pandoc operations under a timeout, to avoid DOS attacks that exploit these issues. If you are using the pandoc executable, you can add the command line options `+RTS -M512M -RTS` (for example) to limit the heap size to 512MB. Note that the `commonmark` parser (including `commonmark_x` and `gfm`) is much less vulnerable to pathological performance than the `markdown` parser, so it is a better choice when processing untrusted input.
     
 6. The HTML generated by pandoc is not guaranteed to be safe. If `raw_html` is enabled for the Markdown input, users can inject arbitrary HTML. Even if `raw_html` is disabled, users can include dangerous content in URLs and attributes. To be safe, you should run all the generated HTML through an HTML sanitizer.
-    
 
 Copyright 2006–2022 John MacFarlane (jgm@berkeley.edu). Released under the [GPL](https://www.gnu.org/copyleft/gpl.html "GNU General Public License"), version 2 or greater. This software carries no warranty of any kind. (See COPYRIGHT for full copyright and warranty notices.) For a full list of contributors, see the file AUTHORS.md in the pandoc source code.
 
@@ -5089,8 +5070,6 @@ ___
     ```
 
     do not get treated as list items.
-
-    
 
     This rule will not prevent
 

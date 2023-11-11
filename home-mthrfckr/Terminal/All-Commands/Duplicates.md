@@ -1,3 +1,5 @@
+# Duplicates
+
 ## **duplicates:**
 
 * [`duplicates:clear`](#duplicatesclear)

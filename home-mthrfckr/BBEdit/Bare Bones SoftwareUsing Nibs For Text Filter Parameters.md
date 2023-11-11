@@ -1,8 +1,8 @@
-# Bare Bones Software | Using nibs for text filter parameters
+# Bare Bones Software | Using Nibs for Text Filter Parameters
 
 ---
 
-#### Audience Note
+## Audience Note
 
 This document is written with BBEdit package developers in mind; it assumes a working knowledge of Unix scripting and common command-line conventions, as well as a working knowledge of Xcode's nib editor (Xcode 4 or later).
 
@@ -10,7 +10,7 @@ You won't have to write any Cocoa code, but working knowledge of Cocoa bindings 
 
 BBEdit 11.0 introduces the ability to construct simple modal-dialog interfaces for #! scripts, so that the user can decide at runtime how the script is to be invoked. The interface is completely data-driven: no compiled code is used (though if you wish, you can write a compiled executable instead of a #! script and use the information in this document to create a dialog-box interface for it).
 
-### Table of Contents
+# Table of Contents
 
 This document describes the following basics for creating a #! dialog box:
 
@@ -19,13 +19,12 @@ This document describes the following basics for creating a #! dialog box:
 -   [Customizing argument behavior](http://www.barebones.com/support/technotes/filter-dialogs.html#args)
     
 -   [Where things live on disk](http://www.barebones.com/support/technotes/filter-dialogs.html#pkg)
-    
 
-### Constructing the Nib
+# Constructing the Nib
 
 In general, constructing a dialog box for a #! script is pretty straightforward. There are some special considerations, because (in Cocoa terms) the controller class doesn't really exist as far as the nib knows; and from the application side, since the dialog box exists in a vacuum, some specific hints need to exist in order to properly bind the controls to argument values when the user runs the script. Finally, there are some limitations -- specifically, not all Cocoa control types are supported. (Or, put another way, controls which are supported must share a specific behavior.)
 
-#### Setting Up the Window
+## Setting Up the Window
 
 The window should be a basic Cocoa document window. It may be resizeable (or not) as you wish, and its settings should be as illustrated:
 
@@ -35,7 +34,7 @@ The window should have its `delegate` and `window` properties both bound to the 
 
 ![Basic Window Bindings](http://www.barebones.com/support/technotes/WindowBindings.png)
 
-#### Binding Controls to Arguments
+## Binding Controls to Arguments
 
 The controller class that BBEdit uses to run the dialog box contains a dictionary of argument names and values. This dictionary's key path in the controller is `args`; so to bind values from a control to a value in the dictionary, bind the control's value to `File's Owner.self.args.<argument name>`, where "`<argument name>`" is the actual name of the argument passed on the command line. Here's a screen shot to illustrate:
 
@@ -57,7 +56,7 @@ The basic set that have been tested and are explicitly supported are:
 -   Steppers (`NSStepper`)
 -   File paths (`NSPathControl`)
 
-#### A Note about File Paths
+## A Note about File Paths
 
 File Paths (`NSPathControl`) are bound to arguments in the same fashion as other single-value controls. However, a path control by itself isn't terribly useful; you will typically want to provide a button to let the user choose a file. That button in turn needs to be associated somehow with the file path control. We accomplish this by associating the button's sent action with the argument being manipulated, using a simple naming convention: "`chooseFilePath_`" followed by the name of the argument. So in our example, given a path control bound to an argument named `filePathArgument`, the button's sent action is "`chooseFilePath_filePathArgument`":
 
@@ -65,7 +64,7 @@ File Paths (`NSPathControl`) are bound to arguments in the same fashion as other
 
 This action is attached to the first responder; and when the user clicks that button, they'll get a file panel, and when they choose a file, the path control whose value was bound to `filePathArgument` gets updated.
 
-#### Action Buttons
+## Action Buttons
 
 Apart from action buttons for manipulating path controls, only two action buttons are supported: the "do it" (`OK`/`Run`/etc) button, and the Cancel button. There should be one of each type in the dialog box. Rather than binding these buttons to a specific action, BBEdit figures out which is which based on their "Identifier" property in the nib editor:
 
@@ -75,7 +74,7 @@ For the "do it" button, set its identifier to `okButton`. For the "Cancel" butto
 
 [Back to Table of Contents](http://www.barebones.com/support/technotes/filter-dialogs.html#toc)
 
-### Customizing argument behavior
+# Customizing Argument Behavior
 
 Command-line tools and scripts don't follow a unified model for argument passing. By default, BBEdit will pass through arguments using what we refer to as the "standard" syntax: the argument name preceded by a dash, followed by the argument value, e.g. `-stringField foo`. In this form, the `-stringField` and the `foo` appear as two distinct entries in the incoming argument list (`argv` in the nomenclature of Unix command-line tools). If this is all you need, then you are all set -- no further work is required.
 
@@ -144,7 +143,7 @@ To demonstrate the construction of the arguments plist file, here is an example 
 
 [Back to Table of Contents](http://www.barebones.com/support/technotes/filter-dialogs.html#toc)
 
-### Where things live on disk
+# Where Things Live on Disk
 
 As described in chapter 2 of the user manual, scripts (including `#!` scripts and compiled executables) live in `Application Support/BBEdit/Scripts/` or `Application Support/BBEdit/Text Filters/` (and the parent of `Application Support` may either be your `~/Library/` or your main Dropbox folder).
 
@@ -154,7 +153,7 @@ If you have a plist for customized argument behaviors ([see above](http://www.ba
 
 Putting things in the main `Application Support` folder works, and is fine if you're doing something for yourself (or just prototyping). However, if you're planning to release something else for others to use, you must *not* instruct users to place items loose in the main `Application Support` folder. Instead, construct a BBEdit package (see chapter 15 of the user manual) and arrange the items appropriately within the package, with the script(s) in the package's `Contents/Scripts/` or `Contents/Text Filters/` as appropriate, and the nib and (optionally) arguments files in `Contents/Resources/`.
 
-#### A Note about Compiled Nibs
+## A Note about Compiled Nibs
 
 In order for a nib to be usable by an application, it needs to be compiled. Xcode ordinarily does this as part of the build process; but in this case, you aren't building an application, so the nib never gets compiled. In order to ease the development process, BBEdit will compile nibs on the fly as necessary. Since you need Xcode to build the nib in any event, the necessary tools to compile the nib are present on your machine, and this is no problem.
 

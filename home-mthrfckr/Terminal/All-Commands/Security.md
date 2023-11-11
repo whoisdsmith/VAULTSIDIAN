@@ -1,3 +1,5 @@
+# Security
+
 ## **security:**
 
 * [`security:bruteforce:reset`](#securitybruteforcereset)

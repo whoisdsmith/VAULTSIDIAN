@@ -1,4 +1,6 @@
-# Text Processing From the Command Line
+# Text Processing From The Command Line
+
+## Text Processing From the Command Line
 
 ---
 

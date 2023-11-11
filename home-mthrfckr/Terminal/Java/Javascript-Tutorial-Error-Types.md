@@ -1,4 +1,4 @@
-# JavaScript Tutorial => Error types
+# JavaScript Tutorial => Error Types
 
 There are six specific core error constructors in JavaScript:
 
@@ -49,4 +49,4 @@ If you are implementing error handling mechanism you can check which kind of err
 
 ___
 
-# article #errors
+# Article #errors

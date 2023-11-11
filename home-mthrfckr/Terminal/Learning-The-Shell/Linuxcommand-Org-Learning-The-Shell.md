@@ -1,3 +1,5 @@
+# Linuxcommand-Org-Learning-The-Shell
+
 Why do you need to learn the command line anyway? Well, let me tell you a story. Many years ago we had a problem where I worked. There was a shared drive on one of our file servers that kept getting full. I won't mention that this legacy operating system did not support user quotas; that's another story. But the server kept getting full and it stopped people from working. One of our software engineers spent a couple of hours writing a C++ program that would look through all the user's directories and add up the space they were using and make a listing of the results. Since I was forced to use the legacy OS while I was on the job, I installed [a Linux-like command line environment for it.](http://www.cygwin.com/) When I heard about the problem, I realized I could perform this task with this single line:
 
 du -s \* | sort -nr > $HOME/user\_space\_report.txt

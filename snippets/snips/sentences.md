@@ -257,7 +257,7 @@ Date:: 2021-1-5
 Download::  
 <https://github.com/steveyang331/Obsidian-css/>
 
-How to use highlight code syntax:：
+How to use highlight code syntax:：  
     #h/COLOR_name
 
     Highlighted text background , 

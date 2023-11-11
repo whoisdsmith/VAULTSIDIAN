@@ -27,17 +27,17 @@ Alternatively use this [Obsidian forum](https://forum.obsidian.md/t/progress-bar
 Comment by “Cannibalox” (Obsidian forum) on progress bar:
 
 > to inspect elements like this (elements that appear on specific events like hover, timer, etc) : use the PAUSE function of the devtools (f_ or CTRL ) : . open obsdian's devtools with CTRL SHIFT I or F12 . go to the `sources` tab, there is a play/pause icon in the sub-header menu . on obsidian, trigger your event (ie: hover over a link to see the popup or in your previous case, refresh Obsi with `CTRL R` to see the loading bar)
->
+> 
 > while the event is active, hit F8 or CTRL / to pause obsidian (it will 'freeze' obsi until you hit F8 again)
->
+> 
 > now, in devtools, switch to the `elements` tab and inspect the event as you normally would . tweak and copy your modified parameters . once you're done inspecting the css, hit F8 or CTRL \ to un-pause
->
+> 
 > you can google `devtools + pause` for more infos on the process. it's easier to do than to describe really
 
 Comment by PB:
 
 > Klaas:
->
+> 
 > The problem is the next step after finding the element that needs to be addressed is knowing the syntax that achieves what you're after.
 
 Answer from Cannibalox:

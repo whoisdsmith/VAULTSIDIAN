@@ -4,8 +4,6 @@
 
 ![](https://git.herrbischoff.com/awesome-command-line-apps/plain/assets/logo.svg)
 
-
-
 ## [Contents](https://git.herrbischoff.com/awesome-command-line-apps/about/#contents)
 
 - [\*nix/\*nux](https://git.herrbischoff.com/awesome-command-line-apps/about/#nixnux)

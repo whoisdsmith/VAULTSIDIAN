@@ -1,3 +1,5 @@
+# Trashbin
+
 ## **trashbin:**
 
 * [`trashbin:cleanup`](#trashbincleanup)

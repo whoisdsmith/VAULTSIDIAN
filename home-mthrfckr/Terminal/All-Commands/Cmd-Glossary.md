@@ -1,3 +1,5 @@
+# Cmd-Glossary
+
 ```
 algernon	
 	-server
@@ -30,5 +32,3 @@ topgrade
 visidata 
 	-tab editor
 ```
-
-	

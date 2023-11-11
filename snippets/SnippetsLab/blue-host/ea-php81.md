@@ -5,6 +5,6 @@ modified: 2022-07-05T12:44:11Z
 title: /usr/local/bin/ea-php81
 ---
 
-# ea-php81
+# Ea-php81
 
 /usr/local/bin/ea-php81

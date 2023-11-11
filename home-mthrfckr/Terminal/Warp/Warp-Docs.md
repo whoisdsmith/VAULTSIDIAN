@@ -456,6 +456,7 @@ Here's a sample configuration that shows how tabs are structured.
 
 #
 
+
 # This Configuration Has Two Windows
 
 # The First Window Executes Two Commands on Start

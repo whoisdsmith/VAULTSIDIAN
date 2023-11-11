@@ -1,27 +1,47 @@
-# <a name="file-attributes"></a>File attributes
+# <a name="file-attributes"></a>File Attributes
 
 **Table of Contents**
 
 * [wc](#wc)
+
     * [Various counts](#various-counts)
+
     * [subtle differences](#subtle-differences)
+
     * [Further reading for wc](#further-reading-for-wc)
+
 * [du](#du)
+
     * [Default size](#default-size)
+
     * [Various size formats](#various-size-formats)
+
     * [Dereferencing links](#dereferencing-links)
+
     * [Filtering options](#filtering-options)
+
     * [Further reading for du](#further-reading-for-du)
+
 * [df](#df)
+
     * [Examples](#examples)
+
     * [Further reading for df](#further-reading-for-df)
+
 * [touch](#touch)
+
     * [Creating empty file](#creating-empty-file)
+
     * [Updating timestamps](#updating-timestamps)
+
     * [Preserving timestamp](#preserving-timestamp)
+
     * [Further reading for touch](#further-reading-for-touch)
+
 * [file](#file)
+
     * [File type examples](#file-type-examples)
+
     * [Further reading for file](#further-reading-for-file)
 
 <br>
@@ -53,7 +73,7 @@ DESCRIPTION
 
 <br>
 
-#### <a name="various-counts"></a>Various counts
+### <a name="various-counts"></a>Various Counts
 
 ```bash
 $ cat sample.txt
@@ -81,6 +101,7 @@ $ wc -l < sample.txt
 ```
 
 * multiple file input
+
 * automatically displays total at end
 
 ```bash
@@ -122,7 +143,7 @@ $ wc -L *.txt
 
 <br>
 
-#### <a name="subtle-differences"></a>subtle differences
+### <a name="subtle-differences"></a>subtle Differences
 
 * byte count vs character count
 
@@ -190,10 +211,12 @@ $ printf 'foo\0bar\0baz' | awk '{print length()}'
 
 <br>
 
-#### <a name="further-reading-for-wc"></a>Further reading for wc
+### <a name="further-reading-for-wc"></a>Further Reading for Wc
 
 * `man wc` and `info wc` for more options and detailed documentation
+
 * [wc Q&A on unix stackexchange](https://unix.stackexchange.com/questions/tagged/wc?sort=votes&pageSize=15)
+
 * [wc Q&A on stackoverflow](https://stackoverflow.com/questions/tagged/wc?sort=votes&pageSize=15)
 
 <br>
@@ -223,9 +246,10 @@ DESCRIPTION
 
 <br>
 
-#### <a name="default-size"></a>Default size
+### <a name="default-size"></a>Default Size
 
 * By default, size is given in size of **1024 bytes**
+
 * Files are ignored, all directories and sub-directories are recursively reported
 
 ```bash
@@ -240,6 +264,7 @@ $ du
 ```
 
 * use `-a` to recursively show both files and directories
+
 * use `-s` to show total directory size without descending into its sub-directories
 
 ```bash
@@ -276,7 +301,7 @@ $ du -S
 
 <br>
 
-#### <a name="various-size-formats"></a>Various size formats
+### <a name="various-size-formats"></a>Various Size Formats
 
 ```bash
 $ # number of bytes
@@ -350,7 +375,7 @@ $ du --apparent-size -h words.txt
 
 <br>
 
-#### <a name="dereferencing-links"></a>Dereferencing links
+### <a name="dereferencing-links"></a>Dereferencing Links
 
 * See `man` and `info` pages for other related options
 
@@ -370,7 +395,7 @@ $ du -shL
 
 <br>
 
-#### <a name="filtering-options"></a>Filtering options
+### <a name="filtering-options"></a>Filtering Options
 
 * `-d` to specify maximum depth
 
@@ -414,6 +439,7 @@ $ du -ah -t -1M
 ```
 
 * excluding files/directories based on **glob** pattern
+
 * see also `--exclude-from=FILE` and `--files0-from=FILE` options
 
 ```bash
@@ -431,10 +457,12 @@ $ du -ah --exclude='*.'{v,log} projs
 
 <br>
 
-#### <a name="further-reading-for-du"></a>Further reading for du
+### <a name="further-reading-for-du"></a>Further Reading for Du
 
 * `man du` and `info du` for more options and detailed documentation
+
 * [du Q&A on unix stackexchange](https://unix.stackexchange.com/questions/tagged/disk-usage?sort=votes&pageSize=15)
+
 * [du Q&A on stackoverflow](https://stackoverflow.com/questions/tagged/du?sort=votes&pageSize=15)
 
 <br>
@@ -464,7 +492,7 @@ DESCRIPTION
 
 <br>
 
-#### <a name="examples"></a>Examples
+### <a name="examples"></a>Examples
 
 ```bash
 $ # use df without arguments to get information on all currently mounted file systems
@@ -499,11 +527,14 @@ $ df -h --output=pcent,fstype | awk -F'%' 'NR>2 && $1>=40'
 
 <br>
 
-#### <a name="further-reading-for-df"></a>Further reading for df
+### <a name="further-reading-for-df"></a>Further Reading for Df
 
 * `man df` and `info df` for more options and detailed documentation
+
 * [df Q&A on stackoverflow](https://stackoverflow.com/questions/tagged/df?sort=votes&pageSize=15)
+
 * [Parsing df command output with awk](https://unix.stackexchange.com/questions/360865/parsing-df-command-output-with-awk)
+
 * [processing df output](https://www.reddit.com/r/bash/comments/68dbml/using_an_array_variable_in_an_awk_command/)
 
 <br>
@@ -534,7 +565,7 @@ DESCRIPTION
 
 <br>
 
-#### <a name="creating-empty-file"></a>Creating empty file
+### <a name="creating-empty-file"></a>Creating Empty File
 
 ```bash
 $ ls foo.txt
@@ -552,7 +583,7 @@ ls: cannot access 'foo.txt': No such file or directory
 
 <br>
 
-#### <a name="updating-timestamps"></a>Updating timestamps
+### <a name="updating-timestamps"></a>Updating Timestamps
 
 * Updating both access and modification timestamp to current time
 
@@ -606,6 +637,7 @@ $ # add -a or -m options to limit to only access or modification timestamp
 ```
 
 * Using date string to update
+
 * See also `-t` option
 
 ```bash
@@ -618,7 +650,7 @@ $ stat -c $'%x\n%y' report.log
 
 <br>
 
-#### <a name="preserving-timestamp"></a>Preserving timestamp
+### <a name="preserving-timestamp"></a>Preserving Timestamp
 
 * Text processing on files would update the timestamps
 
@@ -656,9 +688,10 @@ $ stat -c $'%x\n%y' story.txt
 
 <br>
 
-#### <a name="further-reading-for-touch"></a>Further reading for touch
+### <a name="further-reading-for-touch"></a>Further Reading for touch
 
 * `man touch` and `info touch` for more options and detailed documentation
+
 * [touch Q&A on unix stackexchange](https://unix.stackexchange.com/questions/tagged/touch?sort=votes&pageSize=15)
 
 <br>
@@ -696,7 +729,7 @@ DESCRIPTION
 
 <br>
 
-#### <a name="file-type-examples"></a>File type examples
+### <a name="file-type-examples"></a>File Type Examples
 
 ```bash
 $ file sample.txt
@@ -749,7 +782,8 @@ $ find -type f -exec file {} + | awk -F: '/\<image data\>/{print $1}'
 
 <br>
 
-#### <a name="further-reading-for-file"></a>Further reading for file
+### <a name="further-reading-for-file"></a>Further Reading for File
 
 * `man file` and `info file` for more options and detailed documentation
+
 * See also `identify` command which `describes the format and characteristics of one or more image files`

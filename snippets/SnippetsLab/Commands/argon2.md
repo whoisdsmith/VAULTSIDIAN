@@ -5,6 +5,6 @@ modified: 2022-07-03T04:55:56Z
 title: argon2
 ---
 
-# argon2
+# Argon2
 
 Password Hasher

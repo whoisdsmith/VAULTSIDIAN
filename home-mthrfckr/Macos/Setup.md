@@ -1,3 +1,5 @@
+# Setup
+
 ## Setup
 
 ### DevMyMac
@@ -21,6 +23,7 @@ Ansible playbook to configure a development and desktop environment from a clean
 ### macOS 10.9 Mavericks Setup
 
 * https://gist.github.com/kevinelliott/3135044
+
 * https://gist.github.com/kimmobrunfeldt/350f4898d1b82cf10bce
 
 ### macOS 10.10 Yosemite Setup

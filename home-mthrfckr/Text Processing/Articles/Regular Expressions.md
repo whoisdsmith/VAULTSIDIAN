@@ -1,4 +1,6 @@
-# Regular Expressions–The Eclectic Light Company
+# Regular Expressions
+
+## Regular Expressions–The Eclectic Light Company
 
 ![](https://eclecticlightdotcom.files.wordpress.com/2015/07/oyster.png?w=973) Oyster is a great way to develop your own collection of regex phrases.  
 *Although most are familiar with some shorthand notation used in searching, Regular Expressions turn this into a programming language. Are they just for Unix wizards?*  

@@ -1,10 +1,10 @@
-# fun-on-terminal
+# Fun-on-terminal
 
 The Linux command line is not only a place for complex and powerful commands but also a fun playground. In this article, I have compiled a list of interesting Linux commands you can have fun with.
 
 ## **1\. cmatrix**
 
-The first in the list has to be cmatrix. Ever wanted the feel of a _“movie-like”_ terminal to show off your Linux skills? This one’s for you!
+The first in the list has to be cmatrix. Ever wanted the feel of a *“movie-like”* terminal to show off your Linux skills? This one’s for you!
 
 **Installation:**
 
@@ -85,7 +85,7 @@ aafire
 ## 5\. Asciiquarium
 
 Okay, so you don’t like fire. How about having your own aquarium in the terminal 🌊 Try the asciiquarium command.  
-_P.S. For the mentioned steps, make sure to have the snap store installed._
+*P.S. For the mentioned steps, make sure to have the snap store installed.*
 
 **Installation:**
 
@@ -145,7 +145,7 @@ asciiview
 
 ## 8\. Yes
 
-Say yes to echo. This command prints the line continuously unless you stop it explicitly. (**_Hint: Try Ctrl+C_**)
+Say yes to echo. This command prints the line continuously unless you stop it explicitly. (***Hint: Try Ctrl+C***)
 
 **Installation:**
 
@@ -166,7 +166,7 @@ yes
 ## 9\. Fortune
 
 Leveraging the power of advanced deep learning and Artificial Intelligence, the command will tell your exact fortune. 🔮  
-(_Just Kidding, it generates a random fortune text_)
+(*Just Kidding, it generates a random fortune text*)
 
 **Installation:**
 

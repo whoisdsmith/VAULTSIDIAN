@@ -10,51 +10,92 @@ For markdown source and links to buy pdf/epub versions, see: https://github.com/
 
 <br> <br> <br>
 
-# <a name="gnu-grep"></a>GNU grep
+# <a name="gnu-grep"></a>GNU Grep
 
 **Table of Contents**
 
 * [Simple string search](#simple-string-search)
+
 * [Case insensitive search](#case-insensitive-search)
+
 * [Invert matching lines](#invert-matching-lines)
+
 * [Line number, count and limiting output lines](#line-number-count-and-limiting-output-lines)
+
 * [Multiple search strings](#multiple-search-strings)
+
 * [File names in output](#file-names-in-output)
+
 * [Match whole word or line](#match-whole-word-or-line)
+
 * [Colored output](#colored-output)
+
 * [Get only matching portion](#get-only-matching-portion)
+
 * [Context matching](#context-matching)
+
 * [Recursive search](#recursive-search)
+
     * [Basic recursive search](#basic-recursive-search)
+
     * [Exclude/Include specific files/directories](#excludeinclude-specific-filesdirectories)
+
     * [Recursive search with bash options](#recursive-search-with-bash-options)
+
     * [Recursive search using find command](#recursive-search-using-find-command)
+
     * [Passing file names to other commands](#passing-file-names-to-other-commands)
+
 * [Search strings from file](#search-strings-from-file)
+
 * [Options for scripting purposes](#options-for-scripting-purposes)
+
 * [Regular Expressions - BRE/ERE](#regular-expressions-breere)
+
     * [Line Anchors](#line-anchors)
+
     * [Word Anchors](#word-anchors)
+
     * [Alternation](#alternation)
+
     * [The dot meta character](#the-dot-meta-character)
+
     * [Quantifiers](#quantifiers)
+
     * [Character classes](#character-classes)
+
     * [Grouping](#grouping)
+
     * [Back reference](#back-reference)
+
 * [Multiline matching](#multiline-matching)
+
 * [Perl Compatible Regular Expressions](#perl-compatible-regular-expressions)
+
     * [Backslash sequences](#backslash-sequences)
+
     * [Non-greedy matching](#non-greedy-matching)
+
     * [Lookarounds](#lookarounds)
+
     * [Ignoring specific matches](#ignoring-specific-matches)
+
     * [Re-using regular expression pattern](#re-using-regular-expression-pattern)
+
 * [Gotchas and Tips](#gotchas-and-tips)
+
 * [Regular Expressions Reference (ERE)](#regular-expressions-reference-ere)
+
     * [Anchors](#anchors)
+
     * [Character Quantifiers](#character-quantifiers)
+
     * [Character classes and backslash sequences](#character-classes-and-backslash-sequences)
+
     * [Pattern groups](#pattern-groups)
+
     * [Basic vs Extended Regular Expressions](#basic-vs-extended-regular-expressions)
+
 * [Further Reading](#further-reading)
 
 <br>
@@ -89,9 +130,10 @@ DESCRIPTION
 
 <br>
 
-## <a name="simple-string-search"></a>Simple string search
+## <a name="simple-string-search"></a>Simple String search
 
 * First specify the search pattern (usually enclosed in single quotes) and then the file input
+
 * More than one file can be specified or input given from stdin
 
 ```bash
@@ -124,7 +166,7 @@ int a[5]
 
 <br>
 
-## <a name="case-insensitive-search"></a>Case insensitive search
+## <a name="case-insensitive-search"></a>Case Insensitive search
 
 ```bash
 $ grep -i 'rose' poem.txt
@@ -136,9 +178,10 @@ And so are you.
 
 <br>
 
-## <a name="invert-matching-lines"></a>Invert matching lines
+## <a name="invert-matching-lines"></a>Invert Matching Lines
 
 * Use the `-v` option to get lines other than those matching the search string
+
 * Tip: Look out for other opposite pairs like `-l -L`, `-h -H`, opposites in regular expression, etc
 
 ```bash
@@ -155,7 +198,7 @@ $ seq 5 | grep -v '3'
 
 <br>
 
-## <a name="line-number-count-and-limiting-output-lines"></a>Line number, count and limiting output lines
+## <a name="line-number-count-and-limiting-output-lines"></a>Line Number, Count and Limiting Output Lines
 
 * Show line number of matching lines
 
@@ -181,7 +224,7 @@ Violets are blue,
 
 <br>
 
-## <a name="multiple-search-strings"></a>Multiple search strings
+## <a name="multiple-search-strings"></a>Multiple Search Strings
 
 * Match any
 
@@ -218,10 +261,12 @@ And so are you.
 
 <br>
 
-## <a name="file-names-in-output"></a>File names in output
+## <a name="file-names-in-output"></a>File Names in Output
 
 * `-l` to get files matching the search
+
 * `-L` to get files not matching the search
+
 * `grep` skips the rest of file once a match is found
 
 ```bash
@@ -233,7 +278,9 @@ search_strings.txt
 ```
 
 * Prefix file name to search results
+
 * `-h` is default for single file input, no file name prefix in output
+
 * `-H` is default for multiple file input, file name prefix in output
 
 ```bash
@@ -253,12 +300,16 @@ sugar
 
 <br>
 
-## <a name="match-whole-word-or-line"></a>Match whole word or line
+## <a name="match-whole-word-or-line"></a>Match Whole Word or line
 
 * Word search using `-w` option
+
     * word constitutes of alphabets, numbers and underscore character
+
 * This will ensure that given patterns are not surrounded by other word characters
+
     * this is slightly different than using word boundaries in regular expressions
+
 * For example, this helps to distinguish `par` from `spar`, `part`, etc
 
 ```bash
@@ -289,13 +340,18 @@ car
 
 <br>
 
-## <a name="colored-output"></a>Colored output
+## <a name="colored-output"></a>Colored Output
 
 * Highlight search strings, line numbers, file name, etc in different colors
+
     * Depends on color support in terminal being used
+
 * options to `--color` are
+
     * `auto` when output is redirected (another command, file, etc) the color information won't be passed
+
     * `always` when output is redirected (another command, file, etc) the color information will also be passed
+
     * `never` explicitly specify no highlighting
 
 ```bash
@@ -328,9 +384,10 @@ And so are you.
 
 <br>
 
-## <a name="get-only-matching-portion"></a>Get only matching portion
+## <a name="get-only-matching-portion"></a>Get Only Matching Portion
 
 * The `-o` option to get only matched portion is more useful with regular expressions
+
 * Comes in handy if overall number of matches is required, instead of only line wise
 
 ```bash
@@ -351,7 +408,7 @@ $ grep -o 'e' poem.txt | wc -l
 
 <br>
 
-## <a name="context-matching"></a>Context matching
+## <a name="context-matching"></a>Context Matching
 
 * The `-A`, `-B` and `-C` options are useful to get lines after/before/around matching line respectively
 
@@ -369,6 +426,7 @@ Sugar is sweet,
 ```
 
 * If there are multiple non-adjacent matching segments, by default `grep` adds a line `--` to separate them
+
     * non-adjacent here implies that segments are separated by at least one line in input data
 
 ```bash
@@ -411,7 +469,7 @@ $ seq 29 | grep --group-separator='*****' -A1 '3'
 
 <br>
 
-## <a name="recursive-search"></a>Recursive search
+## <a name="recursive-search"></a>Recursive Search
 
 First let's create some more test files
 
@@ -439,7 +497,7 @@ From `man grep`
 
 <br>
 
-#### <a name="basic-recursive-search"></a>Basic recursive search
+### <a name="basic-recursive-search"></a>Basic Recursive search
 
 * Note that `-H` option automatically activates for multiple file input
 
@@ -466,16 +524,24 @@ test_files/vibgyor.txt
 
 <br>
 
-#### <a name="excludeinclude-specific-filesdirectories"></a>Exclude/Include specific files/directories
+### <a name="excludeinclude-specific-filesdirectories"></a>Exclude/Include Specific files/directories
 
 * By default, recursive search includes hidden files as well
+
 * They can be excluded by file name or directory name
+
     * [glob](https://github.com/learnbyexample/Linux_command_line/blob/master/Shell.md#wildcards) patterns can be used
+
     * for example: `*.[ch]` to specify all files ending with `.c` or `.h`
+
 * The exclusion options can be used multiple times
+
     * for example: `--exclude='*.txt' --exclude='*.log'` or specified from a file using `--exclude-from=FILE`
+
 * To search only files with specific pattern in their names, use `--include=GLOB`
+
 * **Note:** exclusion/inclusion applies only to basename of file/directory, not the entire path
+
 * To follow all symbolic links (not directly specificied as arguments, but found on recursive search), use `-R` instead of `-r`
 
 ```bash
@@ -501,11 +567,14 @@ $ # grep --exclude-dir='.git' -rl 'search pattern'
 
 <br>
 
-#### <a name="recursive-search-with-bash-options"></a>Recursive search with bash options
+### <a name="recursive-search-with-bash-options"></a>Recursive Search with Bash Options
 
 * Using `bash` options `globstar` (for recursion)
+
     * Other options like `extglob` and `dotglob` come in handy too
+
     * See [glob](https://github.com/learnbyexample/Linux_command_line/blob/master/Shell.md#wildcards) for more info on these options
+
 * The `-d skip` option tells grep to skip directories instead of trying to treat them as text file to be searched
 
 ```bash
@@ -537,9 +606,10 @@ test_files/vibgyor.txt
 
 <br>
 
-#### <a name="recursive-search-using-find-command"></a>Recursive search using find command
+### <a name="recursive-search-using-find-command"></a>Recursive Search Using Find Command
 
 * `find` is obviously more versatile
+
 * See also [this guide](Wheres_My_File.md#find) for more examples/tutorials on using `find`
 
 ```bash
@@ -560,11 +630,14 @@ $ find -type f -not -name '*.txt' -exec grep -in 'you' {} +
 
 <br>
 
-#### <a name="passing-file-names-to-other-commands"></a>Passing file names to other commands
+### <a name="passing-file-names-to-other-commands"></a>Passing File Names to other Commands
 
 * To pass files filtered to another command, see if the receiving command can differentiate file names by ASCII NUL character
+
 * If so, use the `-Z` so that `grep` output is terminated with NUL character and commands like `xargs` have option `-0` to understand it
+
 * This helps when file names can have characters like space, newline, etc
+
 * Typical use case: Search and replace something in all files matching some pattern, for ex: `grep -rlZ 'PAT1' | xargs -0 sed -i 's/PAT2/REPLACE/g'`
 
 ```bash
@@ -639,10 +712,12 @@ test_files/vibgyor.txt
 
 <br>
 
-## <a name="search-strings-from-file"></a>Search strings from file
+## <a name="search-strings-from-file"></a>Search Strings from File
 
 * using file input to specify search terms
+
 * `-F` option will force matching strings literally(no regular expressions)
+
 * See also [stackoverflow - Fastest way to find lines of a text file from another larger text file](https://stackoverflow.com/questions/42239179/fastest-way-to-find-lines-of-a-text-file-from-another-larger-text-file-in-bash) - read all answers
 
 ```bash
@@ -666,10 +741,12 @@ Orange
 
 <br>
 
-## <a name="options-for-scripting-purposes"></a>Options for scripting purposes
+## <a name="options-for-scripting-purposes"></a>Options For Scripting Purposes
 
 * In scripts, often it is needed just to know if a pattern matches or not
+
 * The `-q` option doesn't print anything on stdout and exit status is `0` if match is found
+
     * Check out [this practical script](https://github.com/learnbyexample/command_help/blob/master/ch) using the `-q` option
 
 ```bash
@@ -732,19 +809,27 @@ int a[5]
 ```
 
 * By default, `grep` treats the search pattern as BRE (Basic Regular Expression)
+
     * `-G` option can be used to specify explicitly that BRE is used
+
 * The `-E` option allows to use ERE (Extended Regular Expression) which in GNU grep's case only differs in how meta characters are used, no difference in regular expression functionalities
+
 * If `-F` option is used, the search string is treated literally
+
 * If available, one can also use `-P` which indicates PCRE (Perl Compatible Regular Expression)
 
 <br>
 
-#### <a name="line-anchors"></a>Line Anchors
+### <a name="line-anchors"></a>Line Anchors
 
 * Often, search must match from beginning of line or towards end of line
+
 * For example, an integer variable declaration in `C` will start with optional white-space, the keyword `int`, white-space and then variable(s)
+
     * This way one can avoid matching declarations inside single line comments as well.
+
 * Similarly, one might want to match a variable at end of statement
+
 * The meta characters for line anchoring are `^` for beginning of line and `$` for end of line
 
 ```bash
@@ -769,7 +854,9 @@ My favorite genre is Fantasy
 ```
 
 * As the meta characters have special meaning (assuming `-F` option is not used), they have to be escaped using `\` to match literally
+
 * The `\` itself is meta character, so to match it literally, use `\\`
+
 * The line anchors `^` and `$` have special meaning only when they are present at start/end of regular expression
 
 ```bash
@@ -796,10 +883,12 @@ $ printf 'foo\cbar' | grep -o '\\c'
 
 <br>
 
-#### <a name="word-anchors"></a>Word Anchors
+### <a name="word-anchors"></a>Word Anchors
 
 * The `-w` option works well to match whole words. But what about matching only start or end of words?
+
 * Anchors `\<` and `\>` will match start/end positions of a word
+
 * `\b` can also be used instead of `\<` and `\>` which matches both edges of a word
 
 ```bash
@@ -871,12 +960,16 @@ hi, 2 one
 
 <br>
 
-#### <a name="alternation"></a>Alternation
+### <a name="alternation"></a>Alternation
 
 * The `|` meta character is similar to using multiple `-e` option
+
 * Each side of `|` is complete regular expression with their own start/end anchors
+
 * How each part of alternation is handled and order of evaluation/output is beyond the scope of this tutorial
+
     * See [this](https://www.regular-expressions.info/alternation.html) for more info on this topic.
+
 * `|` is one of meta characters that requires different syntax between BRE/ERE
 
 ```bash
@@ -902,6 +995,7 @@ e
 ```
 
 * A cool usecase of alternation is using `^` or `$` anchors to highlight searched term as well as display rest of unmatched lines
+
     * the line anchors will match every input line, even empty lines as they are position markers
 
 ```bash
@@ -925,11 +1019,12 @@ Screenshot for above example:
 See also
 
 * [stackoverflow - Grep output with multiple Colors](https://stackoverflow.com/questions/17236005/grep-output-with-multiple-colors)
+
 * [unix.stackexchange - Multicolored Grep](https://unix.stackexchange.com/questions/104350/multicolored-grep)
 
 <br>
 
-#### <a name="the-dot-meta-character"></a>The dot meta character
+### <a name="the-dot-meta-character"></a>The Dot Meta Character
 
 The `.` meta character matches is used to match any character
 
@@ -959,11 +1054,12 @@ $ echo '1 & 2' | grep -o '.'
 
 <br>
 
-#### <a name="quantifiers"></a>Greedy Quantifiers
+### <a name="quantifiers"></a>Greedy Quantifiers
 
 Defines how many times a character (simplified for now) should be matched
 
 * `?` will try to match 0 or 1 time
+
 * For BRE, use `\?`
 
 ```bash
@@ -988,8 +1084,11 @@ act
 ```
 
 * `*` will try to match 0 or more times
+
 * There is no upper limit and `*` will try to match as many times as possible
+
     * if matching maximum times results in overall regex failing, then next best count is chosen until overall regex passes
+
     * if there are multiple quantifiers, left-most quantifier gets precedence
 
 ```bash
@@ -1026,6 +1125,7 @@ bat cod map scat dot abacus
 ```
 
 * `+` will try to match 1 or more times
+
 * Another meta character that differs in syntax between BRE/ERE
 
 ```bash
@@ -1044,7 +1144,9 @@ abbc
 ```
 
 * For more precise control on number of times to match, `{}` is useful
+
     * use `\{\}` for BRE
+
 * It can take one of four forms, `{m,n}`, `{,n}`, `{m,}` and `{n}`
 
 ```bash
@@ -1071,10 +1173,12 @@ abbc
 
 <br>
 
-#### <a name="character-classes"></a>Character classes
+### <a name="character-classes"></a>Character Classes
 
 * The meta character pairs `[]` allow to match any of the multiple characters within `[]`
+
 * Meta characters like `^`, `$` have different meaning inside and outside of `[]`
+
 * Simple example first, matching any of the characters within `[]`
 
 ```bash
@@ -1089,6 +1193,7 @@ on
 ```
 
 * Adding a quantifier
+
 * Check out [unix words](https://en.wikipedia.org/wiki/Words_(Unix)) and [sample words file](https://users.cs.duke.edu/~ola/ap/linuxwords)
 
 ```bash
@@ -1106,11 +1211,17 @@ $ printf 'cat\nfoo\n123\nbaz\n42\n' | grep -xE '[0123456789]+'
 ```
 
 * Character ranges
+
 * Matching any alphabet, number, hexadecimal number etc becomes cumbersome if every character has to be individually specified
+
 * So, there's a shortcut, using `-` to construct a range (has to be specified in ascending order)
+
 * See [ascii codes table](https://ascii.cl/) for reference
+
     * Note that behavior of range will differ for other character encodings
+
     * See **Character Classes and Bracket Expressions** as well as **LC_COLLATE under Environment Variables** sections in `info grep` for more detail
+
 * [Matching Numeric Ranges with a Regular Expression](https://www.regular-expressions.info/numericranges.html)
 
 ```bash
@@ -1145,7 +1256,9 @@ $ echo '23 54 12 92' | grep -owE '[12][0-9]'
 ```
 
 * Negating character class
+
 * By using `^` as first character inside `[]`, we get inverted character class
+
     * As pointed out earlier, some meta characters behave differently inside and outside of `[]`
 
 ```bash
@@ -1177,8 +1290,11 @@ $ echo 'I like "mango" and "guava"' | grep -oE '"[^"]+"'
 ```
 
 * Matching meta characters inside `[]`
+
 * Most meta characters like `( ) . + { } | $` don't have special meaning inside `[]` and hence do not require special treatment
+
 * Some combination like `[.` or `=]` cannot be used in this order, as they have special meaning within `[]`
+
     * See **Character Classes and Bracket Expressions** section in `info grep` for more detail
 
 ```bash
@@ -1205,8 +1321,11 @@ b^2
 ```
 
 * Named character classes
+
 * Equivalent class shown is for C locale and ASCII character encoding
+
     * See [ascii codes table](https://ascii.cl/) for reference
+
 * See **Character Classes and Bracket Expressions** section in `info grep` for more detail
 
 | Character classes | Description |
@@ -1268,12 +1387,16 @@ $#
 
 <br>
 
-#### <a name="grouping"></a>Grouping
+### <a name="grouping"></a>Grouping
 
 * Character classes allow matching against a choice of multiple character list and then quantifier added if needed
+
 * One of the uses of grouping is analogous to character classes for whole regular expressions, instead of just list of characters
+
 * The meta characters `()` are used for grouping
+
     * requires `\(\)` for BRE
+
 * Similar to `a(b+c)d = abd+acd` in maths, you get `a(b|c)d = abd|acd` in regular expressions
 
 ```bash
@@ -1307,13 +1430,18 @@ foo:123:bar:baz
 
 <br>
 
-#### <a name="back-reference"></a>Back reference
+### <a name="back-reference"></a>Back Reference
 
 * The matched string within `()` can also be used to be matched again by back referencing the captured groups
+
 * `\1` denotes the first matched group, `\2` the second one and so on
+
     * Order is leftmost `(` is `\1`, next one is `\2` and so on
+
 * Note that the matched string, not the regular expression itself is referenced
+
     * for ex: if `([0-9][a-f])` matches `3b`, then back referencing will be `3b` not any other valid match of the regular expression like `8f`, `0a` etc
+
     * Other regular expressions like PCRE do allow referencing the regular expression itself
 
 ```bash
@@ -1379,11 +1507,14 @@ Appleseed
 
 <br>
 
-## <a name="multiline-matching"></a>Multiline matching
+## <a name="multiline-matching"></a>Multiline Matching
 
 * If input is small enough to meet memory requirements, the `-z` option comes in handy to match across multiple lines
+
 * Instead of newline being line separator, the ASCII NUL character is used
+
     * So, multiline matching depends on whether or not input file itself contains the NUL character
+
     * Usually text files won't have occasion to use the NUL character and presence of it marks it as binary file for `grep`
 
 ```bash
@@ -1410,7 +1541,9 @@ green
 ```
 
 * `\n` is not defined in BRE/ERE
+
     * see [unix.stackexchange - How to specify characters using hexadecimal codes](https://unix.stackexchange.com/questions/19491/how-to-specify-characters-using-hexadecimal-codes-in-grep) for a workaround
+
 * if some characteristics of input is known, `[[:space:]]` can be used as workaround, which matches all white-space characters
 
 ```bash
@@ -1434,23 +1567,33 @@ $ man grep | sed -n '/^\s*-P/,/^$/p'
 ```
 
 * The man page informs that `-P` is *highly experimental*. So far, haven't faced any issues. But do keep this in mind.
+
     * newer versions of `GNU grep` has fixes for some `-P` bugs, see [release notes](https://savannah.gnu.org/news/?group_id=67) for an overview of changes between versions
+
 * Only a few highlights is presented here
+
 * For more info
+
     * `man pcrepattern` or [read it online](https://www.pcre.org/original/doc/html/pcrepattern.html)
+
     * [perldoc - re](https://perldoc.perl.org/perlre.html) - Perl regular expression syntax, also links to other related tutorials
+
     * [stackoverflow - What does this regex mean?](https://stackoverflow.com/questions/22937618/reference-what-does-this-regex-mean)
 
 <br>
 
-#### <a name="backslash-sequences"></a>Backslash sequences
+### <a name="backslash-sequences"></a>Backslash Sequences
 
 Some of the backslash constructs available in PCRE over already seen ones in ERE
 
 * `\d` for `[0-9]`
+
 * `\s` for `[ \t\r\n\f\v]`
+
 * `\h` for `[ \t]`
+
 * `\n` for newline character
+
 * `\D`, `\S`, `\H`, `\N` etc for their opposites
 
 ```bash
@@ -1473,16 +1616,21 @@ Violets are blue,
 ```
 
 * See **INTERNAL OPTION SETTING** in `man pcrepattern` for more info on `(?s)`, `(?m)` etc
+
 * [Specifying Modes Inside The Regular Expression](https://www.regular-expressions.info/modifiers.html) also has some detail on such options
 
 <br>
 
-#### <a name="non-greedy-matching"></a>Non-greedy matching
+### <a name="non-greedy-matching"></a>Non-greedy Matching
 
 * Both BRE/ERE support only greedy matching quantifiers
+
     * match as much as possible
+
 * PCRE supports non-greedy version by adding `?` after quantifiers
+
     * match as minimal as possible
+
 * See [this Python notebook](https://nbviewer.jupyter.org/url/norvig.com/ipython/pal3.ipynb) for an interesting project on palindrome sentences
 
 ```bash
@@ -1510,15 +1658,22 @@ a canal,
 
 <br>
 
-#### <a name="lookarounds"></a>Lookarounds
+### <a name="lookarounds"></a>Lookarounds
 
 * Ability to add conditions to match before/after required pattern
+
 * There are four types
+
     * positive lookahead `(?=`
+
     * negative lookahead `(?!`
+
     * positive lookbehind `(?<=`
+
     * negative lookbehind `(?<!`
+
 * One way to remember is that **behind** uses `<` and **negative** uses `!` instead of `=`
+
 * When used with `-o` option, lookarounds portion won't be part of output
 
 Fixed and variable length *lookbehind*
@@ -1574,10 +1729,12 @@ And so are you.
 
 <br>
 
-#### <a name="ignoring-specific-matches"></a>Ignoring specific matches
+### <a name="ignoring-specific-matches"></a>Ignoring Specific Matches
 
 * A useful construct is `(*SKIP)(*F)` which allows to discard matches not needed
+
 * Simple way to use is that regular expression which should be discarded is written first, `(*SKIP)(*F)` is appended and then whichever is required by added after `|`
+
 * See [Excluding Unwanted Matches](https://www.rexegg.com/backtracking-control-verbs.html#skipfail) for more info
 
 ```bash
@@ -1595,9 +1752,10 @@ and
 
 <br>
 
-#### <a name="re-using-regular-expression-pattern"></a>Re-using regular expression pattern
+### <a name="re-using-regular-expression-pattern"></a>Re-using Regular Expression Pattern
 
 * `\1`, `\2` etc only matches exact string
+
 * `(?1)`, `(?2)` etc re-uses the regular expression itself
 
 ```bash
@@ -1608,7 +1766,7 @@ $ echo '2008-03-24 and 2012-08-12 foo' | grep -oP '(\d{4}-\d{2}-\d{2})\D+(?1)'
 
 <br>
 
-## <a name="gotchas-and-tips"></a>Gotchas and Tips
+## <a name="gotchas-and-tips"></a>Gotchas And Tips
 
 * Always quote the search string (unless you know what you are doing :P)
 
@@ -1638,6 +1796,7 @@ $ echo '*.txt' | grep -F '*.txt'
 ```
 
 * Use double quotes for variable expansion, command substitution, etc (Note: could vary based on shell used)
+
 * See [mywiki.wooledge Quotes](https://mywiki.wooledge.org/Quotes) for detailed discussion of quoting in `bash` shell
 
 ```bash
@@ -1689,6 +1848,7 @@ $ grep 'are' poem.txt -n
 ```
 
 * Speed boost if input file is ASCII
+
 * See also [unix.stackexchange - Counting the number of lines having a number > 100](https://unix.stackexchange.com/questions/312297/counting-the-number-of-lines-having-a-number-greater-than-100/312330#312330) - where `grep` is blazing fast compared to other solutions
 
 ```bash
@@ -1708,6 +1868,7 @@ real    0m0.011s
 ```
 
 * Speed boost by using PCRE for back-references
+
 * might be faster when using quantifiers as well
 
 ```bash
@@ -1743,83 +1904,126 @@ real    0m0.008s
 
 <br>
 
-#### <a name="anchors"></a>Anchors
+### <a name="anchors"></a>Anchors
 
 * `^` match from start of line
+
 * `$` match end of line
+
 * `\<` match beginning of word
+
 * `\>` match end of word
+
 * `\b` match edge of word
+
 * `\B` match other than edge of word
 
 <br>
 
-#### <a name="character-quantifiers"></a>Character Quantifiers
+### <a name="character-quantifiers"></a>Character Quantifiers
 
 * `.` match any single character
+
 * `*` match preceding character/group 0 or more times
+
 * `+` match preceding character/group 1 or more times
+
 * `?` match preceding character/group 0 or 1 times
+
 * `{m,n}` match preceding character/group m to n times, including m and n
+
 * `{m,}` match preceding character/group m or more times
+
 * `{,n}` match preceding character/group 0 to n times
+
 * `{n}` match preceding character/group exactly n times
 
 <br>
 
-#### <a name="character-classes-and-backslash-sequences"></a>Character classes and backslash sequences
+### <a name="character-classes-and-backslash-sequences"></a>Character Classes and Backslash Sequences
 
 * `[aeiou]` match any of these characters
+
 * `[^aeiou]` do not match any of these characters
+
 * `[a-z]` match any lowercase alphabet
+
 * `[0-9]` match any digit character
+
 * `\w` match alphabets, digits and underscore character, short cut for `[a-zA-Z0-9_]`
+
 * `\W` opposite of `\w` , short cut for `[^a-zA-Z0-9_]`
+
 * `\s` match white-space characters: tab, newline, vertical tab, form feed, carriage return, and space
+
 * `\S` match other than white-space characters
 
 <br>
 
-#### <a name="pattern-groups"></a>Pattern groups
+### <a name="pattern-groups"></a>Pattern Groups
 
 * `|` matches either of the given patterns
+
 * `()` patterns within `()` are grouped and treated as one pattern, useful in conjunction with `|`
+
 * `\1` backreference to first grouped pattern within `()`
+
 * `\2` backreference to second grouped pattern within `()` and so on
 
 <br>
 
-#### <a name="basic-vs-extended-regular-expressions"></a>Basic vs Extended Regular Expressions
+### <a name="basic-vs-extended-regular-expressions"></a>Basic Vs Extended Regular Expressions
 
 By default, the pattern passed to `grep` is treated as Basic Regular Expressions(BRE), which can be overridden using options like `-E` for ERE and `-P` for Perl Compatible Regular Expression(PCRE). Paraphrasing from `info grep`
 
->In Basic Regular Expressions the meta-characters `? + { | ( )` lose their special meaning, instead use the backslashed versions `\? \+ \{ \| \( \)`
+> In Basic Regular Expressions the meta-characters `? + { | ( )` lose their special meaning, instead use the backslashed versions `\? \+ \{ \| \( \)`
 
 <br>
 
 ## <a name="further-reading"></a>Further Reading
 
 * `man grep` and `info grep`
-    * At least go through all options ;)
-    * **Usage section** in `info grep` has good examples as well
-* This chapter has also been [converted to a book](https://github.com/learnbyexample/learn_gnugrep_ripgrep) with additional examples, exercises and covers popular alternative `ripgrep`
-* A bit of history
-    * [Brian Kernighan remembers the origins of grep](https://thenewstack.io/brian-kernighan-remembers-the-origins-of-grep/)
-    * [how grep command was born](https://medium.com/@rualthanzauva/grep-was-a-private-command-of-mine-for-quite-a-while-before-i-made-it-public-ken-thompson-a40e24a5ef48)
-    * [why GNU grep is fast](https://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html)
-    * [unix.stackexchange - Difference between grep, egrep and fgrep](https://unix.stackexchange.com/questions/17949/what-is-the-difference-between-grep-egrep-and-fgrep)
-* Q&A on stackoverflow/stackexchange are good source of learning material, good for practice exercises as well
-    * [grep Q&A on stackoverflow](https://stackoverflow.com/questions/tagged/grep?sort=votes&pageSize=15)
-    * [grep Q&A on unix stackexchange](https://unix.stackexchange.com/questions/tagged/grep?sort=votes&pageSize=15)
-* Learn Regular Expressions (has information on flavors other than BRE/ERE/PCRE too)
-    * [Regular Expressions Tutorial](https://www.regular-expressions.info/tutorial.html)
-    * [rexegg](https://www.rexegg.com/) - tutorials, tricks and more
-    * [regexcrossword](https://regexcrossword.com/)
-    * [stackoverflow - What does this regex mean?](https://stackoverflow.com/questions/22937618/reference-what-does-this-regex-mean)
-    * [online regex tester and debugger](https://regex101.com/) - by default `pcre` flavor
-* Alternatives
-    * [ripgrep](https://github.com/BurntSushi/ripgrep)
-    * [pcregrep](https://www.pcre.org/original/doc/html/pcregrep.html)
-    * [ag - silver searcher](https://github.com/ggreer/the_silver_searcher)
-* [unix.stackexchange - When to use grep, sed, awk, perl, etc](https://unix.stackexchange.com/questions/303044/when-to-use-grep-less-awk-sed)
 
+    * At least go through all options ;)
+
+    * **Usage section** in `info grep` has good examples as well
+
+* This chapter has also been [converted to a book](https://github.com/learnbyexample/learn_gnugrep_ripgrep) with additional examples, exercises and covers popular alternative `ripgrep`
+
+* A bit of history
+
+    * [Brian Kernighan remembers the origins of grep](https://thenewstack.io/brian-kernighan-remembers-the-origins-of-grep/)
+
+    * [how grep command was born](https://medium.com/@rualthanzauva/grep-was-a-private-command-of-mine-for-quite-a-while-before-i-made-it-public-ken-thompson-a40e24a5ef48)
+
+    * [why GNU grep is fast](https://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html)
+
+    * [unix.stackexchange - Difference between grep, egrep and fgrep](https://unix.stackexchange.com/questions/17949/what-is-the-difference-between-grep-egrep-and-fgrep)
+
+* Q&A on stackoverflow/stackexchange are good source of learning material, good for practice exercises as well
+
+    * [grep Q&A on stackoverflow](https://stackoverflow.com/questions/tagged/grep?sort=votes&pageSize=15)
+
+    * [grep Q&A on unix stackexchange](https://unix.stackexchange.com/questions/tagged/grep?sort=votes&pageSize=15)
+
+* Learn Regular Expressions (has information on flavors other than BRE/ERE/PCRE too)
+
+    * [Regular Expressions Tutorial](https://www.regular-expressions.info/tutorial.html)
+
+    * [rexegg](https://www.rexegg.com/) - tutorials, tricks and more
+
+    * [regexcrossword](https://regexcrossword.com/)
+
+    * [stackoverflow - What does this regex mean?](https://stackoverflow.com/questions/22937618/reference-what-does-this-regex-mean)
+
+    * [online regex tester and debugger](https://regex101.com/) - by default `pcre` flavor
+
+* Alternatives
+
+    * [ripgrep](https://github.com/BurntSushi/ripgrep)
+
+    * [pcregrep](https://www.pcre.org/original/doc/html/pcregrep.html)
+
+    * [ag - silver searcher](https://github.com/ggreer/the_silver_searcher)
+
+* [unix.stackexchange - When to use grep, sed, awk, perl, etc](https://unix.stackexchange.com/questions/303044/when-to-use-grep-less-awk-sed)

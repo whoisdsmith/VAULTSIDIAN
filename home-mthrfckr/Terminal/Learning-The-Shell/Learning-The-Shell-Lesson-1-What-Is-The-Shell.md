@@ -1,10 +1,12 @@
-Simply put, the shell is a program that takes commands from the keyboard and gives them to the operating system to perform. In the old days, it was the only user interface available on a Unix-like system such as Linux. Nowadays, we have _graphical user interfaces (GUIs)_ in addition to _command line interfaces (CLIs)_ such as the shell.
+# Learning-The-Shell-Lesson-1-What-Is-The-Shell
+
+Simply put, the shell is a program that takes commands from the keyboard and gives them to the operating system to perform. In the old days, it was the only user interface available on a Unix-like system such as Linux. Nowadays, we have *graphical user interfaces (GUIs)* in addition to *command line interfaces (CLIs)* such as the shell.
 
 On most Linux systems a program called `[bash](http://linuxcommand.org/lc3_man_pages/bash1.html)` (which stands for Bourne Again SHell, an enhanced version of the original Unix shell program, `sh`, written by Steve Bourne) acts as the shell program. Besides `bash`, there are other shell programs available for Linux systems. These include: `ksh`, `tcsh` and `zsh`.
 
 ## What's a "Terminal?"
 
-It's a program called a _terminal emulator_. This is a program that opens a window and lets you interact with the shell. There are a bunch of different terminal emulators we can use. Some Linux distributions install several. These might include `gnome-terminal`, `konsole`, `xterm`, `rxvt`, `kvt`, `nxterm`, and `eterm`.
+It's a program called a *terminal emulator*. This is a program that opens a window and lets you interact with the shell. There are a bunch of different terminal emulators we can use. Some Linux distributions install several. These might include `gnome-terminal`, `konsole`, `xterm`, `rxvt`, `kvt`, `nxterm`, and `eterm`.
 
 ## Starting a Terminal
 
@@ -12,7 +14,7 @@ Window managers usually have a way to launch a terminal from the menu. Look thro
 
 ## Testing the Keyboard
 
-OK, let's try some typing. Bring up a terminal window. The first thing we should see is a _shell prompt_ that contains our user name and the name of the machine followed by a dollar sign. Something like this:
+OK, let's try some typing. Bring up a terminal window. The first thing we should see is a *shell prompt* that contains our user name and the name of the machine followed by a dollar sign. Something like this:
 
 \[me@linuxbox me\]$
 
@@ -24,13 +26,13 @@ If all went well, we should have gotten an error message complaining that it can
 
 \[me@linuxbox me\]$ `kdkjflajfks` bash: kdkjflajfks: command not found
 
-Wonderful! Now press the up-arrow key. Watch how our previous command "kdkjflajfks" returns. Yes, we have _command history_. Press the down-arrow and we get the blank line again.
+Wonderful! Now press the up-arrow key. Watch how our previous command "kdkjflajfks" returns. Yes, we have *command history*. Press the down-arrow and we get the blank line again.
 
 Recall the "kdkjflajfks" command using the up-arrow key if needed. Now, try the left and right-arrow keys. We can position the text cursor anywhere in the command line. This allows us to easily correct mistakes.
 
-## You're not operating as root, are you?
+## You're not Operating as Root, Are You?
 
-If the last character of your shell prompt is # rather than $, you are operating as the _superuser_. This means that you have administrative privileges. This can be dangerous, since you are able to delete or overwrite any file on the system. Unless you absolutely need administrative privileges, do not operate as the superuser.
+If the last character of your shell prompt is # rather than $, you are operating as the *superuser*. This means that you have administrative privileges. This can be dangerous, since you are able to delete or overwrite any file on the system. Unless you absolutely need administrative privileges, do not operate as the superuser.
 
 ## Using the Mouse
 

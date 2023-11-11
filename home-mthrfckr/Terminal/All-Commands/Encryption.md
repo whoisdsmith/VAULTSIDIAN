@@ -1,3 +1,5 @@
+# Encryption
+
 ## **encryption:**
 
 * [`encryption:change-key-storage-root`](#encryptionchange-key-storage-root)

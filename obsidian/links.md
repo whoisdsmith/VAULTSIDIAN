@@ -1,4 +1,4 @@
-# Obsidian  Beta Plugins
+# Obsidian Beta Plugins
 
 ---
 

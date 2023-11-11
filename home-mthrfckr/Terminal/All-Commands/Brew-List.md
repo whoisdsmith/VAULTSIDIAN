@@ -1,4 +1,3 @@
-
 # Brews
 
 ---
@@ -36,7 +35,6 @@
 - **curl** -  A command-line tool and library for transferring data with URLs. It supports a wide range of protocols, including HTTP, HTTPS, FTP, and SMTP.
 
 ## D
-
 
 - **docx2txt** -  A command-line tool for converting Microsoft Word documents (.docx) to plain text format.
 - **dotties** -  A command-line tool for managing dotfiles. It allows users to easily manage and synchronize their configuration files across multiple machines.
@@ -173,7 +171,6 @@
 - **screenresolution** -  screenresolution is a tool that allows you to change the resolution of your display from the command line.
 - **sl** -  sl is a fun little command-line tool that displays an ASCII art steam locomotive that runs across your terminal when you mistype the **ls** command.
 - **s-search** -  s-search is a command line tool that provides a fast, convenient way to search for files and directories on your system.
-
 
 ## T
 
@@ -506,5 +503,3 @@
 - **xattred** -  Xattred is a macOS app that allows you to view and edit extended attributes of files and folders, which can be used to store additional metadata and information.
 
 ---
-
-

@@ -1,3 +1,5 @@
+# Gnu_Awk
+
 <br> <br> <br>
 
 ---
@@ -10,51 +12,92 @@ For markdown source and links to buy pdf/epub versions, see: https://github.com/
 
 <br> <br> <br>
 
-## <a name="gnu-awk"></a>GNU awk
+## <a name="gnu-awk"></a>GNU Awk
 
 **Table of Contents**
 
 * [Field processing](#field-processing)
+
     * [Default field separation](#default-field-separation)
+
     * [Specifying different input field separator](#specifying-different-input-field-separator)
+
     * [Specifying different output field separator](#specifying-different-output-field-separator)
+
 * [Filtering](#filtering)
+
     * [Idiomatic print usage](#idiomatic-print-usage)
+
     * [Field comparison](#field-comparison)
+
     * [Regular expressions based filtering](#regular-expressions-based-filtering)
+
     * [Fixed string matching](#fixed-string-matching)
+
     * [Line number based filtering](#line-number-based-filtering)
+
 * [Case Insensitive filtering](#case-insensitive-filtering)
+
 * [Changing record separators](#changing-record-separators)
+
     * [Paragraph mode](#paragraph-mode)
+
     * [Multicharacter RS](#multicharacter-rs)
+
 * [Substitute functions](#substitute-functions)
+
 * [Inplace file editing](#inplace-file-editing)
+
 * [Using shell variables](#using-shell-variables)
+
 * [Multiple file input](#multiple-file-input)
+
 * [Control Structures](#control-structures)
+
     * [if-else and loops](#if-else-and-loops)
+
     * [next and nextfile](#next-and-nextfile)
+
 * [Multiline processing](#multiline-processing)
+
 * [Two file processing](#two-file-processing)
+
     * [Comparing whole lines](#comparing-whole-lines)
+
     * [Comparing specific fields](#comparing-specific-fields)
+
     * [getline](#getline)
+
 * [Creating new fields](#creating-new-fields)
+
 * [Dealing with duplicates](#dealing-with-duplicates)
+
 * [Lines between two REGEXPs](#lines-between-two-regexps)
+
     * [All unbroken blocks](#all-unbroken-blocks)
+
     * [Specific blocks](#specific-blocks)
+
     * [Broken blocks](#broken-blocks)
+
 * [Arrays](#arrays)
+
 * [awk scripts](#awk-scripts)
+
 * [Miscellaneous](#miscellaneous)
+
     * [FPAT and FIELDWIDTHS](#fpat-and-fieldwidths)
+
     * [String functions](#string-functions)
+
     * [Executing external commands](#executing-external-commands)
+
     * [printf formatting](#printf-formatting)
+
     * [Redirecting print output](#redirecting-print-output)
+
 * [Gotchas and Tips](#gotchas-and-tips)
+
 * [Further Reading](#further-reading)
 
 <br>
@@ -86,29 +129,43 @@ DESCRIPTION
 **Prerequisites and notes**
 
 * familiarity with programming concepts like variables, printing, control structures, arrays, etc
+
 * familiarity with regular expressions
+
     * if not, check out **ERE** portion of [GNU sed regular expressions](Gnu_Sed.md#regular-expressions) which is close enough to features available in `gawk`
+
 * this tutorial is primarily focussed on short programs that are easily usable from command line, similar to using `grep`, `sed`, etc
+
 * see [Gawk: Effective AWK Programming](https://www.gnu.org/software/gawk/manual/) manual for complete reference, has information on other `awk` versions as well as notes on POSIX standard
 
 <br>
 
-## <a name="field-processing"></a>Field processing
+## <a name="field-processing"></a>Field Processing
 
 <br>
 
-#### <a name="default-field-separation"></a>Default field separation
+### <a name="default-field-separation"></a>Default Field Separation
 
 * `$0` contains the entire input record
+
     * default input record separator is newline character
+
 * `$1` contains the first field text
+
     * default input field separator is one or more of continuous space, tab or newline characters
+
 * `$2` contains the second field text and so on
+
 * `$(2+3)` result of expressions can be used, this one evaluates to `$5` and hence gives fifth field
+
     * similarly if variable `i` has value `2`, then `$(i+3)` will give fifth field
+
     * See also [gawk manual - Expressions](https://www.gnu.org/software/gawk/manual/html_node/Expressions.html)
+
 * `NF` is a built-in variable which contains number of fields in the current record
+
     * so, `$NF` will give last field
+
     * `$(NF-1)` will give second last field and so on
 
 ```bash
@@ -138,10 +195,12 @@ qty
 
 <br>
 
-#### <a name="specifying-different-input-field-separator"></a>Specifying different input field separator
+### <a name="specifying-different-input-field-separator"></a>Specifying Different Input Field Separator
 
 * by using `-F` command line option
+
 * by setting `FS` variable
+
 * See [FPAT and FIELDWIDTHS](#fpat-and-fieldwidths) section for other ways of defining input fields
 
 ```bash
@@ -183,7 +242,9 @@ bar
 ```
 
 * default input field separator is one or more of continuous space, tab or newline characters (will be termed as whitespace here on)
+
     * exact same behavior if `FS` is assigned single space character
+
 * in addition, leading and trailing whitespaces won't be considered when splitting the input record
 
 ```bash
@@ -207,6 +268,7 @@ $ printf ' a    ate b\tc   \n' | awk -F'[ \t]+' '{print NF}'
 ```
 
 * assigning empty string to FS will split the input record character wise
+
 * note the use of command line option `-v` to set FS
 
 ```bash
@@ -225,17 +287,23 @@ $ printf 'hi👍 how are you?' | awk -v FS= '{print $3}'
 **Further Reading**
 
 * [gawk manual - Field Splitting Summary](https://www.gnu.org/software/gawk/manual/html_node/Field-Splitting-Summary.html#Field-Splitting-Summary)
+
 * [stackoverflow - explanation on default FS](https://stackoverflow.com/questions/30405694/default-field-separator-for-awk)
+
 * [unix.stackexchange - filter lines if it contains a particular character only once](https://unix.stackexchange.com/questions/362550/how-to-remove-line-if-it-contains-a-character-exactly-once)
+
 * [stackoverflow - Processing 2 files with different field separators](https://stackoverflow.com/questions/24516141/awk-processing-2-files-with-different-field-separators)
 
 <br>
 
-#### <a name="specifying-different-output-field-separator"></a>Specifying different output field separator
+### <a name="specifying-different-output-field-separator"></a>Specifying Different Output Field Separator
 
 * by setting `OFS` variable
+
 * also gets added between every argument to `print` statement
+
     * use [printf](#printf-formatting) to avoid this
+
 * default is single space
 
 ```bash
@@ -270,10 +338,12 @@ Sample string with numbers
 
 <br>
 
-#### <a name="idiomatic-print-usage"></a>Idiomatic print usage
+### <a name="idiomatic-print-usage"></a>Idiomatic Print Usage
 
 * `print` statement with no arguments will print contents of `$0`
+
 * if condition is specified without corresponding statements, contents of `$0` is printed if condition evaluates to true
+
 * `1` is typically used to represent always true condition and thus print contents of `$0`
 
 ```bash
@@ -294,9 +364,10 @@ And so are you.
 
 <br>
 
-#### <a name="field-comparison"></a>Field comparison
+### <a name="field-comparison"></a>Field Comparison
 
 * Each block of statements within `{}` can be prefixed by an optional condition so that those statements will execute only if condition evaluates to true
+
 * Condition specified without corresponding statements will lead to printing contents of `$0` if condition evaluates to true
 
 ```bash
@@ -319,11 +390,17 @@ guava   6
 ```
 
 * If the above examples are too confusing, think of it as syntactical sugar
+
 * Statements are grouped within `{}`
+
     * inside `{}`, we have a `if` control structure
+
     * Like `C` language, braces not needed for single statements within `if`, but consider that `{}` is used for clarity
+
     * From this explicit syntax, remove the outer `{}`, `if` and `()` used for `if`
+
 * As we'll see later, this allows to mash up few lines of program compactly on command line itself
+
     * Of course, for medium to large programs, it is better to put the code in separate file. See [awk scripts](#awk-scripts) section
 
 ```bash
@@ -349,14 +426,17 @@ guava   6
 **Further Reading**
 
 * [gawk manual - Truth Values and Conditions](https://www.gnu.org/software/gawk/manual/html_node/Truth-Values-and-Conditions.html)
+
 * [gawk manual - Operator Precedence](https://www.gnu.org/software/gawk/manual/html_node/Precedence.html)
+
 * [unix.stackexchange - filtering columns by header name](https://unix.stackexchange.com/questions/359697/print-columns-in-awk-by-header-name)
 
 <br>
 
-#### <a name="regular-expressions-based-filtering"></a>Regular expressions based filtering
+### <a name="regular-expressions-based-filtering"></a>Regular Expressions Based Filtering
 
 * the *REGEXP* is specified within `//` and by default acts upon `$0`
+
 * See also [stackoverflow - lines around matching regexp](https://stackoverflow.com/questions/17908555/printing-with-sed-or-awk-a-line-following-a-matching-pattern)
 
 ```bash
@@ -389,7 +469,9 @@ you.
 ```
 
 * strings can be used as well, which will be interpreted as *REGEXP* if necessary
+
 * Allows [using shell variables](#using-shell-variables) instead of hardcoded *REGEXP*
+
     * that section also notes difference between using `//` and string
 
 ```bash
@@ -432,10 +514,12 @@ fig     90
 
 <br>
 
-#### <a name="fixed-string-matching"></a>Fixed string matching
+### <a name="fixed-string-matching"></a>Fixed String Matching
 
 * to search a string literally, `index` function can be used instead of *REGEXP*
+
     * similar to `grep -F`
+
 * the function returns the starting position and `0` if no match found
 
 ```bash
@@ -464,6 +548,7 @@ a+b,pi=3.14,5e12
 ```
 
 * return value is useful to match at specific position
+
 * for ex: at start/end of line
 
 ```bash
@@ -482,9 +567,10 @@ i*(t+9-g)/8,4-a+b
 
 <br>
 
-#### <a name="line-number-based-filtering"></a>Line number based filtering
+### <a name="line-number-based-filtering"></a>Line Number Based Filtering
 
 * Built-in variable `NR` contains total records read so far
+
 * Use `FNR` if you need line numbers separately for [multiple file processing](#multiple-file-processing)
 
 ```bash
@@ -531,7 +617,7 @@ sys     0m0.092s
 
 <br>
 
-## <a name="case-insensitive-filtering"></a>Case Insensitive filtering
+## <a name="case-insensitive-filtering"></a>Case Insensitive Filtering
 
 ```bash
 $ # same as: grep -i 'rose' poem.txt
@@ -549,9 +635,10 @@ Roses are red,
 
 <br>
 
-## <a name="changing-record-separators"></a>Changing record separators
+## <a name="changing-record-separators"></a>Changing Record Separators
 
 * `RS` to change input record separator
+
 * default is newline character
 
 ```bash
@@ -572,8 +659,11 @@ sample
 ```
 
 * `ORS` to change output record separator
+
 * gets added to every `print` statement
+
     * use [printf](#printf-formatting) to avoid this
+
 * default is newline character
 
 ```bash
@@ -603,16 +693,17 @@ $ seq 6 | awk '{ORS = NR%3 ? "-" : "\n"} 1'
 
 <br>
 
-#### <a name="paragraph-mode"></a>Paragraph mode
+### <a name="paragraph-mode"></a>Paragraph Mode
 
 * When `RS` is set to empty string, one or more consecutive empty lines is used as input record separator
+
 * Can also use regular expression `RS=\n\n+` but there are subtle differences, see [gawk manual - multiline records](https://www.gnu.org/software/gawk/manual/html_node/Multiple-Line.html). Important points from that link quoted below
 
->However, there is an important difference between ‘RS = ""’ and ‘RS = "\n\n+"’. In the first case, leading newlines in the input data file are ignored, and if a file ends without extra blank lines after the last record, the final newline is removed from the record. In the second case, this special processing is not done
+> However, there is an important difference between ‘RS = ""’ and ‘RS = "\n\n+"’. In the first case, leading newlines in the input data file are ignored, and if a file ends without extra blank lines after the last record, the final newline is removed from the record. In the second case, this special processing is not done
 
->Now that the input is separated into records, the second step is to separate the fields in the records. One way to do this is to divide each of the lines into fields in the normal manner. This happens by default as the result of a special feature. When RS is set to the empty string and FS is set to a single character, the newline character always acts as a field separator. This is in addition to whatever field separations result from FS
+> Now that the input is separated into records, the second step is to separate the fields in the records. One way to do this is to divide each of the lines into fields in the normal manner. This happens by default as the result of a special feature. When RS is set to the empty string and FS is set to a single character, the newline character always acts as a field separator. This is in addition to whatever field separations result from FS
 
->When FS is the null string ("") or a regexp, this special feature of RS does not apply. It does apply to the default field separator of a single space: ‘FS = " "’
+> When FS is the null string ("") or a regexp, this special feature of RS does not apply. It does apply to the default field separator of a single space: ‘FS = " "’
 
 Consider the below sample file
 
@@ -691,11 +782,12 @@ Much ado about nothing. He he he
 **Further Reading**
 
 * [unix.stackexchange - filtering line surrounded by empty lines](https://unix.stackexchange.com/questions/359717/select-line-with-empty-line-above-and-under)
+
 * [stackoverflow - excellent example and explanation of RS and FS](https://stackoverflow.com/questions/46142118/converting-regex-to-sed-or-grep-regex)
 
 <br>
 
-#### <a name="multicharacter-rs"></a>Multicharacter RS
+### <a name="multicharacter-rs"></a>Multicharacter RS
 
 * Some marker like `Error` or `Warning` etc
 
@@ -733,7 +825,9 @@ blah blah blah
 ```
 
 * Regular expression based `RS`
+
     * the `RT` variable will contain string matched by `RS`
+
 * Note that entire input is treated as single string, so `^` and `$` anchors will apply only once - not every line
 
 ```bash
@@ -800,15 +894,19 @@ bar
 **Further Reading**
 
 * [gawk manual - Records](https://www.gnu.org/software/gawk/manual/html_node/Records.html#Records)
+
 * [unix.stackexchange - Slurp-mode in awk](https://unix.stackexchange.com/questions/304457/slurp-mode-in-awk)
+
 * [stackoverflow - using RS to count number of occurrences of a given string](https://stackoverflow.com/questions/45102651/how-to-grep-double-quote-followed-by-a-string-at-same-time/45102962#45102962)
 
 <br>
 
-## <a name="substitute-functions"></a>Substitute functions
+## <a name="substitute-functions"></a>Substitute Functions
 
 * Use `sub` string function for replacing first occurrence
+
 * Use `gsub` for replacing all occurrences
+
 * By default, `$0` which contains input record is modified, can specify any other field or variable as needed
 
 ```bash
@@ -835,7 +933,9 @@ one two thrEE four
 ```
 
 * Use `gensub` to return the modified string unlike `sub` or `gsub` which modifies inplace
+
 * it also supports back-references and ability to modify specific match
+
 * acts upon `$0` if target is not specified
 
 ```bash
@@ -864,8 +964,11 @@ fob:123:bar:baz
 ```
 
 * back-reference examples
+
 * use `\"` within double-quotes to represent `"` character in replacement string
+
 * use `\\1` to represent `\1` - the first captured group and so on
+
 * `&` or `\0` will back-reference entire matched string
 
 ```bash
@@ -904,11 +1007,12 @@ $ echo 'foo:123:bar:baz' | awk -v dq='"' '{$0=gensub(/[^:]+/, dq"&"dq, "g")} 1'
 **Further Reading**
 
 * [gawk manual - String-Manipulation Functions](https://www.gnu.org/software/gawk/manual/html_node/String-Functions.html)
+
 * [gawk manual - escape processing](https://www.gnu.org/software/gawk/manual/html_node/Gory-Details.html)
 
 <br>
 
-## <a name="inplace-file-editing"></a>Inplace file editing
+## <a name="inplace-file-editing"></a>Inplace File Editing
 
 * Use this option with caution, preferably after testing that the `awk` code is working as intended
 
@@ -939,6 +1043,7 @@ I bought two bananas and three mangoes
 ```
 
 * to create backups of original file, set `INPLACE_SUFFIX` variable
+
 * **Note** that in newer versions, you have to use `inplace::suffix` instead of `INPLACE_SUFFIX`
 
 ```bash
@@ -953,12 +1058,16 @@ I ate three apples
 
 <br>
 
-## <a name="using-shell-variables"></a>Using shell variables
+## <a name="using-shell-variables"></a>Using Shell Variables
 
 * when `awk` code is part of shell program and shell variable needs to be passed as input to `awk` code
+
 * for example:
+
     * command line argument passed to shell script, which is in turn passed on to `awk`
+
     * control structures in shell script calling `awk` with different search strings
+
 * See also [stackoverflow - How do I use shell variables in an awk script?](https://stackoverflow.com/questions/19075671/how-do-i-use-shell-variables-in-an-awk-script)
 
 ```bash
@@ -1002,6 +1111,7 @@ a
 ```
 
 * passing *REGEXP*
+
 * See also [gawk manual - Using Dynamic Regexps](https://www.gnu.org/software/gawk/manual/html_node/Computed-Regexps.html)
 
 ```bash
@@ -1035,7 +1145,7 @@ foo and bar XYZ baz land good
 
 <br>
 
-## <a name="multiple-file-input"></a>Multiple file input
+## <a name="multiple-file-input"></a>Multiple File Input
 
 * Example to show difference between `NR` and `FNR`
 
@@ -1052,8 +1162,11 @@ Hi thErE
 ```
 
 * Constructs to do some processing before starting each file as well as at the end
+
 * `BEGINFILE` - to add code to be executed before start of each input file
+
 * `ENDFILE` - to add code to be executed after processing each input file
+
 * `FILENAME` - file name of current input file being processed
 
 ```bash
@@ -1095,8 +1208,11 @@ Total input files: 2
 **Further Reading**
 
 * [gawk manual - Using ARGC and ARGV](https://www.gnu.org/software/gawk/manual/html_node/ARGC-and-ARGV.html)
+
 * [gawk manual - ARGIND](https://www.gnu.org/software/gawk/manual/html_node/Auto_002dset.html#index-ARGIND-variable)
+
 * [gawk manual - ERRNO](https://www.gnu.org/software/gawk/manual/html_node/Auto_002dset.html#index-ERRNO-variable)
+
 * [stackoverflow - Finding common value across multiple files](https://stackoverflow.com/a/43473385/4082052)
 
 <br>
@@ -1104,6 +1220,7 @@ Total input files: 2
 ## <a name="control-structures"></a>Control Structures
 
 * Syntax is similar to `C` language and single statements inside control structures don't require to be grouped within `{}`
+
 * See [gawk manual - Control Statements](https://www.gnu.org/software/gawk/manual/html_node/Statements.html) for details
 
 Remember that by default there is a loop that goes over all input records and constructs like `BEGIN` and `END` fall outside that loop
@@ -1132,9 +1249,10 @@ $ awk '{sum += $1} END{print sum+0}' /dev/null
 
 <br>
 
-#### <a name="if-else-and-loops"></a>if-else and loops
+### <a name="if-else-and-loops"></a>if-else And Loops
 
 * We have already seen simple `if` examples in [Filtering](#filtering) section
+
 * See also [gawk manual - Switch](https://www.gnu.org/software/gawk/manual/html_node/Switch-Statement.html)
 
 ```bash
@@ -1156,6 +1274,7 @@ fruit   qty
 ```
 
 * ternary operator
+
 * See also [stackoverflow - finding min and max value of a column](https://stackoverflow.com/a/29784278/4082052)
 
 ```bash
@@ -1178,7 +1297,9 @@ $ # can also use: awk '!sub(/^-/,""){sub(/^/,"-")} 1' nums.txt
 ```
 
 * for loop
+
 * similar to `C` language, `break` and `continue` statements are also available
+
 * See also [stackoverflow - find missing numbers from sequential list](https://stackoverflow.com/questions/38491676/how-can-i-find-the-missing-integers-in-a-unique-and-sequential-list-one-per-lin)
 
 ```bash
@@ -1199,6 +1320,7 @@ scat:CAT:no cat:abdicate:cater
 ```
 
 * while loop
+
 * do-while is also available
 
 ```bash
@@ -1218,11 +1340,14 @@ ate
 
 <br>
 
-#### <a name="next-and-nextfile"></a>next and nextfile
+### <a name="next-and-nextfile"></a>next And Nextfile
 
 * `next` will skip rest of statements and start processing next line of current file being processed
+
     * there is a loop by default which goes over all input records, `next` is applicable for that
+
     * it is similar to `continue` statement within loops
+
 * it is often used in [Two file processing](#two-file-processing)
 
 ```bash
@@ -1265,7 +1390,7 @@ colors_2.txt
 
 <br>
 
-## <a name="multiline-processing"></a>Multiline processing
+## <a name="multiline-processing"></a>Multiline Processing
 
 * Processing consecutive lines
 
@@ -1315,13 +1440,20 @@ baz
 ```
 
 * extracting lines around matching line
+
 * See also [stackoverflow - lines around matching regexp](https://stackoverflow.com/questions/17908555/printing-with-sed-or-awk-a-line-following-a-matching-pattern)
+
 * how `n && n--` works:
+
     * need to note that right hand side of `&&` is processed only if left hand side is `true`
+
     * so for example, if initially `n=2`, then we get
+
         * `2 && 2; n=1` - evaluates to `true`
+
         * `1 && 1; n=0` - evaluates to `true`
-        * `0 && ` - evaluates to `false` ... no decrementing `n` and hence will be `false` until `n` is re-assigned non-zero value
+
+        * `0 && ` - evaluates to `false` … no decrementing `n` and hence will be `false` until `n` is re-assigned non-zero value
 
 ```bash
 $ # similar to: grep --no-group-separator -A1 'BEGIN' range.txt
@@ -1357,6 +1489,7 @@ a
 ```
 
 * Checking if multiple strings are present at least once in entire input file
+
 * If there are lots of strings to check, use arrays
 
 ```bash
@@ -1372,21 +1505,26 @@ paths.txt
 **Further Reading**
 
 * [stackoverflow - delete line based on content of previous/next lines](https://stackoverflow.com/questions/49112877/delete-line-if-line-matches-foo-line-above-matches-bar-and-line-below-match)
+
 * [softwareengineering - FSM examples](https://softwareengineering.stackexchange.com/questions/47806/examples-of-finite-state-machines)
+
 * [wikipedia - FSM](https://en.wikipedia.org/wiki/Finite-state_machine)
 
 <br>
 
-## <a name="two-file-processing"></a>Two file processing
+## <a name="two-file-processing"></a>Two File Processing
 
 * We'll use awk's associative arrays (key-value pairs) here
+
     * key can be number or string
+
     * See also [gawk manual - Arrays](https://www.gnu.org/software/gawk/manual/html_node/Arrays.html)
+
 * Unlike [comm](Sorting_Stuff.md#comm) the input files need not be sorted and comparison can be done based on certain field(s) as well
 
 <br>
 
-#### <a name="comparing-whole-lines"></a>Comparing whole lines
+### <a name="comparing-whole-lines"></a>Comparing Whole Lines
 
 Consider the following test files
 
@@ -1408,10 +1546,15 @@ White
 ```
 
 * common lines and lines unique to one of the files
+
 * For two files as input, `NR==FNR` will be true only when first file is being processed
+
 * Using `next` will skip rest of code when first file is processed
+
 * `a[$0]` will create unique keys (here entire line content is used as key) in array `a`
+
     * just referencing a key will create it if it doesn't already exist, with value as empty string (will also act as zero in numeric context)
+
 * `$0 in a` will be true if key already exists in array `a`
 
 ```bash
@@ -1439,7 +1582,7 @@ Yellow
 
 <br>
 
-#### <a name="comparing-specific-fields"></a>Comparing specific fields
+### <a name="comparing-specific-fields"></a>Comparing Specific Fields
 
 Consider the sample input file
 
@@ -1456,6 +1599,7 @@ CSE     Amy     67
 ```
 
 * single field
+
 * For ex: only first field comparison by using `$1` instead of `$0` as key
 
 ```bash
@@ -1482,10 +1626,15 @@ CSE     Amy     67
 ```
 
 * multiple fields
+
 * create a string by adding some character between the fields to act as key
+
     * for ex: to avoid matching two field values `abc` and `123` to match with two other field values `ab` and `c123`
+
     * by adding character, say `_`, the key would be `abc_123` for first case and `ab_c123` for second case
+
     * this can still lead to false match if input data has `_`
+
     * there is also a built-in way to do this using [gawk manual - Multidimensional Arrays](https://www.gnu.org/software/gawk/manual/html_node/Multidimensional.html#Multidimensional)
 
 ```bash
@@ -1525,13 +1674,18 @@ ECE     Om      92
 
 <br>
 
-#### <a name="getline"></a>getline
+### <a name="getline"></a>getline
 
 * `getline` is an alternative way to read from a file and could be faster than `NR==FNR` method for some cases
+
 * But use it with caution
+
     * [gawk manual - getline](https://www.gnu.org/software/gawk/manual/html_node/Getline.html) for details, especially about corner cases, errors, etc
+
     * [getline caveats](https://web.archive.org/web/20170524214527/http://awk.freeshell.org/AllAboutGetline)
+
     * [gawk manual - Closing Input and Output Redirections](https://www.gnu.org/software/gawk/manual/html_node/Close-Files-And-Pipes.html) if you have to start from beginning of file again
+
 * `getline` return value: `1` if record is found, `0` if end of file, `-1` for errors such as file not found (use `ERRNO` variable to get details)
 
 ```bash
@@ -1587,14 +1741,18 @@ xyz.txt: No such file or directory
 **Further Reading**
 
 * [stackoverflow - Fastest way to find lines of a text file from another larger text file](https://stackoverflow.com/questions/42239179/fastest-way-to-find-lines-of-a-text-file-from-another-larger-text-file-in-bash)
+
 * [unix.stackexchange - filter lines based on line numbers specified in another file](https://unix.stackexchange.com/questions/320651/read-numbers-from-control-file-and-extract-matching-line-numbers-from-the-data-f)
+
 * [stackoverflow - three file processing to extract a matrix subset](https://stackoverflow.com/questions/45036019/how-to-filter-the-values-from-selected-columns-and-rows)
+
 * [unix.stackexchange - column wise merging](https://unix.stackexchange.com/questions/294145/merging-two-files-one-column-at-a-time)
+
 * [stackoverflow - extract specific rows from a text file using an index file](https://stackoverflow.com/questions/40595990/print-many-specific-rows-from-a-text-file-using-an-index-file)
 
 <br>
 
-## <a name="creating-new-fields"></a>Creating new fields
+## <a name="creating-new-fields"></a>Creating New Fields
 
 * Number of fields in input record can be changed by simply manipulating `NF`
 
@@ -1654,9 +1812,10 @@ CSE     Amy     67      sports_rep
 
 <br>
 
-## <a name="dealing-with-duplicates"></a>Dealing with duplicates
+## <a name="dealing-with-duplicates"></a>Dealing With Duplicates
 
 * default value of uninitialized variable is `0` in numeric context and empty string in text context
+
     * and evaluates to `false` when used conditionally
 
 *Illustration to show default numeric value and array in action*
@@ -1683,7 +1842,9 @@ dam
 ```
 
 * first, examples that retain only first copy of duplicates
+
 * See also [iridakos: remove duplicates](https://iridakos.com/how-to/2019/05/16/remove-duplicate-lines-preserving-order-linux.html) for a detailed explanation
+
 * See also [stackoverflow - add a letter to duplicate entries](https://stackoverflow.com/questions/47774779/add-letter-to-second-third-fourth-occurrence-of-a-string)
 
 ```bash
@@ -1712,6 +1873,7 @@ $ awk '!seen[$2]++{c++} END{print +c}' duplicates.txt
 ```
 
 * if input is so large that integer numbers can overflow
+
 * See also [gawk manual - Arbitrary-Precision Integer Arithmetic](https://www.gnu.org/software/gawk/manual/html_node/Arbitrary-Precision-Integers.html)
 
 ```bash
@@ -1726,7 +1888,9 @@ $ awk -M '!($2 in seen){c++} {seen[$2]} END{print +c}' duplicates.txt
 ```
 
 * For multiple fields, separate them using `,` or form a string with some character in between
+
     * choose a character unlikely to appear in input data, else there can be false matches
+
     * `FS` is a good choice as fields wouldn't contain separator character(s)
 
 ```bash
@@ -1766,7 +1930,9 @@ good toy ****
 ```
 
 * filtering based on duplicate count
+
 * allows to emulate [uniq](Sorting_Stuff.md#uniq) command for specific fields
+
 * See also [unix.stackexchange - retain only parent directory paths](https://unix.stackexchange.com/questions/362571/filter-out-paths-from-a-text-file-that-are-deeper-than-their-immediate-predecces)
 
 ```bash
@@ -1794,14 +1960,15 @@ test toy 123
 
 <br>
 
-## <a name="lines-between-two-regexps"></a>Lines between two REGEXPs
+## <a name="lines-between-two-regexps"></a>Lines Between Two REGEXPs
 
 * This section deals with filtering lines bound by two *REGEXP*s (referred to as blocks)
+
 * For simplicity the two *REGEXP*s usually used in below examples are the strings **BEGIN** and **END**
 
 <br>
 
-#### <a name="all-unbroken-blocks"></a>All unbroken blocks
+### <a name="all-unbroken-blocks"></a>All Unbroken Blocks
 
 Consider the below sample input file, which doesn't have any unbroken blocks (i.e **BEGIN** and **END** are always present in pairs)
 
@@ -1889,7 +2056,7 @@ $ awk '/BEGIN/{f=1} /END/{f=0} !f' range.txt
 
 <br>
 
-#### <a name="specific-blocks"></a>Specific blocks
+### <a name="specific-blocks"></a>Specific Blocks
 
 * Getting first block
 
@@ -1972,9 +2139,10 @@ $ seq 30 | awk -v b=2 '/4/{f=1; c++} f && c!=b; /6/{f=0}'
 
 <br>
 
-#### <a name="broken-blocks"></a>Broken blocks
+### <a name="broken-blocks"></a>Broken Blocks
 
 * If there are blocks with ending *REGEXP* but without corresponding start, `awk '/BEGIN/{f=1} f; /END/{f=0}'` will suffice
+
 * Consider the modified input file where starting *REGEXP* doesn't have corresponding ending
 
 ```bash
@@ -2035,9 +2203,13 @@ END
 **Further Reading**
 
 * [stackoverflow - select lines between two regexps](https://stackoverflow.com/questions/38972736/how-to-select-lines-between-two-patterns)
+
 * [unix.stackexchange - print only blocks with lines > n](https://unix.stackexchange.com/questions/295600/deleting-lines-between-rows-in-a-text-file-using-awk-or-sed)
+
 * [unix.stackexchange - print a block only if it contains matching string](https://unix.stackexchange.com/a/335523/109046)
+
 * [unix.stackexchange - print a block matching two different strings](https://unix.stackexchange.com/questions/347368/grep-with-range-and-pass-three-filters)
+
 * [unix.stackexchange - extract block up to 2nd occurrence of ending REGEXP](https://unix.stackexchange.com/questions/404175/using-awk-to-print-lines-from-one-match-through-a-second-instance-of-a-separate)
 
 <br>
@@ -2057,6 +2229,7 @@ CSE 74
 ```
 
 * Sorting
+
 * See [gawk manual - Predefined Array Scanning Orders](https://www.gnu.org/software/gawk/manual/html_node/Controlling-Scanning.html#Controlling-Scanning) for more details
 
 ```bash
@@ -2107,6 +2280,7 @@ EEE     Jai     69
 ```
 
 * true multidimensional arrays
+
 * length of sub-arrays need not be same. See [gawk manual - Arrays of Arrays](https://www.gnu.org/software/gawk/manual/html_node/Arrays-of-Arrays.html#Arrays-of-Arrays) for details
 
 ```bash
@@ -2123,15 +2297,19 @@ Amy 67
 **Further Reading**
 
 * [gawk manual - all array topics](https://www.gnu.org/software/gawk/manual/html_node/Arrays.html)
+
 * [unix.stackexchange - count words based on length](https://unix.stackexchange.com/questions/396855/is-there-an-easy-way-to-count-characters-in-words-in-file-from-terminal)
+
 * [unix.stackexchange - filtering specific lines](https://unix.stackexchange.com/a/326215/109046)
 
 <br>
 
-## <a name="awk-scripts"></a>awk scripts
+## <a name="awk-scripts"></a>awk Scripts
 
 * For larger programs, save the code in a file and use `-f` command line option
+
 * `;` is not needed to terminate a statement
+
 * See also [gawk manual - Command-Line Options](https://www.gnu.org/software/gawk/manual/html_node/Options.html#Options) for other related options
 
 ```bash
@@ -2226,10 +2404,12 @@ $ # for ex: awk -v OFS='\t' -f awkprof.out list4 marks.txt
 
 <br>
 
-#### <a name="fpat-and-fieldwidths"></a>FPAT and FIELDWIDTHS
+### <a name="fpat-and-fieldwidths"></a>FPAT And FIELDWIDTHS
 
 * `FS` allows to define field separator
+
 * In contrast, `FPAT` allows to define what should the fields be made up of
+
 * See also [gawk manual - Defining Fields by Content](https://www.gnu.org/software/gawk/manual/html_node/Splitting-By-Content.html)
 
 ```bash
@@ -2243,7 +2423,9 @@ Sample string with numbers
 ```
 
 * For simpler **csv** input having quoted strings if fields themselves have `,` in them, using `FPAT` is reasonable approach
+
 * Use a proper parser if input can have other cases like newlines in fields
+
     * See [unix.stackexchange - using csv parser](https://unix.stackexchange.com/a/238192) for a sample program in `perl`
 
 ```bash
@@ -2276,14 +2458,18 @@ guava   6
 **Further Reading**
 
 * [gawk manual - Processing Fixed-Width Data](https://www.gnu.org/software/gawk/manual/html_node/Fixed-width-data.html)
+
 * [unix.stackexchange - Modify records in fixed-width files](https://unix.stackexchange.com/questions/368574/modify-records-in-fixed-width-files)
+
 * [unix.stackexchange - detecting empty fields in fixed width files](https://unix.stackexchange.com/questions/321559/extracting-data-with-awk-when-some-lines-have-empty-missing-values)
+
 * [stackoverflow - count number of times value is repeated each line](https://stackoverflow.com/questions/37450880/how-do-i-filter-tab-separated-input-by-the-count-of-fields-with-a-given-value)
+
 * [stackoverflow - skip characters with FIELDWIDTHS in GNU Awk 4.2](https://stackoverflow.com/questions/46932189/how-do-you-skip-characters-with-fieldwidths-in-gnu-awk-4-2)
 
 <br>
 
-#### <a name="string-functions"></a>String functions
+### <a name="string-functions"></a>String Functions
 
 * `length` function - returns length of string, by default acts on `$0`
 
@@ -2308,8 +2494,11 @@ $ printf 'hi👍' | awk -b '{print length()}'
 ```
 
 * `split` function - similar to `FS` splitting input record into fields
+
 * use `patsplit` function to get results similar to `FPAT`
+
 * See also [gawk manual - Split function](https://www.gnu.org/software/gawk/manual/gawk.html#index-split_0028_0029-function)
+
 * See also [unix.stackexchange - delimit second column](https://unix.stackexchange.com/questions/372253/awk-command-to-delimit-the-second-column)
 
 ```bash
@@ -2343,7 +2532,9 @@ foo baz 3
 ```
 
 * `substr` function allows to extract specified number of characters from given string
+
     * indexing starts with `1`
+
 * See [gawk manual - substr function](https://www.gnu.org/software/gawk/manual/gawk.html#index-substr_0028_0029-function) for corner cases and details
 
 ```bash
@@ -2370,10 +2561,12 @@ c e
 
 <br>
 
-#### <a name="executing-external-commands"></a>Executing external commands
+### <a name="executing-external-commands"></a>Executing External Commands
 
 * External commands can be issued using `system` function
+
 * Output would be as usual on `stdout` unless redirected while calling the command
+
 * Return value of `system` depends on `exit` status of executed command, see [gawk manual - Input/Output Functions](https://www.gnu.org/software/gawk/manual/html_node/I_002fO-Functions.html) for details
 
 ```bash
@@ -2405,10 +2598,12 @@ I bought two bananas and three mangoes
 
 <br>
 
-#### <a name="printf-formatting"></a>printf formatting
+### <a name="printf-formatting"></a>printf Formatting
 
 * Similar to `printf` function in `C` and shell built-in command
+
 * use `sprintf` function to save result in variable instead of printing
+
 * See also [gawk manual - printf](https://www.gnu.org/software/gawk/manual/html_node/Printf.html)
 
 ```bash
@@ -2483,12 +2678,16 @@ solve: 5 % x = 1
 
 <br>
 
-#### <a name="redirecting-print-output"></a>Redirecting print output
+### <a name="redirecting-print-output"></a>Redirecting Print Output
 
 * redirecting to file instead of stdout using `>`
+
 * similar to behavior in shell, if file already exists it is overwritten
+
     * use `>>` to append to an existing file without deleting content
+
 * however, unlike shell, subsequent redirections to same file will append to it
+
 * See also [gawk manual - Closing Input and Output Redirections](https://www.gnu.org/software/gawk/manual/html_node/Close-Files-And-Pipes.html) if you have too many redirections
 
 ```bash
@@ -2517,7 +2716,9 @@ $ cat qty.txt
 ```
 
 * redirecting to shell command
+
 * this is useful if you have different things to redirect to different commands, otherwise it can be done as usual in shell acting on `awk`'s output
+
 * all redirections to same command gets combined as single input to that command
 
 ```bash
@@ -2539,17 +2740,23 @@ $ echo 'foo good 123' | awk '{printf $2 | "wc -c"; printf $3 | "wc -c"}'
 **Further Reading**
 
 * [gawk manual - Input/Output Functions](https://www.gnu.org/software/gawk/manual/html_node/I_002fO-Functions.html)
+
 * [gawk manual - Redirecting Output of print and printf](https://www.gnu.org/software/gawk/manual/html_node/Redirection.html)
+
 * [gawk manual - Two-Way Communications with Another Process](https://www.gnu.org/software/gawk/manual/html_node/Two_002dway-I_002fO.html)
+
 * [unix.stackexchange - inplace editing as well as stdout](https://unix.stackexchange.com/questions/321679/gawk-inplace-and-stdout)
+
 * [stackoverflow - redirect blocks to separate files](https://stackoverflow.com/questions/45098279/write-blocks-in-a-text-file-to-multiple-new-files)
 
 <br>
 
-## <a name="gotchas-and-tips"></a>Gotchas and Tips
+## <a name="gotchas-and-tips"></a>Gotchas And Tips
 
 * using `$` for variables
+
 * only input record `$0` and field contents `$1`, `$2` etc need `$`
+
 * See also [unix.stackexchange - Why does awk print the whole line when I want it to print a variable?](https://unix.stackexchange.com/questions/291126/why-does-awk-print-the-whole-line-when-i-want-it-to-print-a-variable)
 
 ```bash
@@ -2562,6 +2769,7 @@ apple   42
 ```
 
 * dos style line endings
+
 * See also [unix.stackexchange - filtering when last column has \r](https://unix.stackexchange.com/questions/399560/using-awk-to-select-rows-with-specific-value-in-specific-column)
 
 ```bash
@@ -2656,7 +2864,9 @@ b
 ```
 
 * If input is ASCII alone, simple trick to improve speed
+
 * For simple non-regex based column filtering, using [cut](home-mthrfckr/Text%20Processing/Command-Line-Text-Processing/Miscellaneous.md#cut) command might give faster results
+
     * See [stackoverflow - how to split columns faster](https://stackoverflow.com/questions/46882557/how-to-split-columns-faster-in-python/46883120#46883120) for example
 
 ```bash
@@ -2677,39 +2887,75 @@ real    0m0.045s
 ## <a name="further-reading"></a>Further Reading
 
 * Manual and related
+
     * `man awk` and `info awk` for quick reference from command line
+
     * [gawk manual](https://www.gnu.org/software/gawk/manual/gawk.html#SEC_Contents) for complete reference, extensions and more
+
     * [awk FAQ](http://www.faqs.org/faqs/computer-lang/awk/faq/) - from 2002, but plenty of information, especially about all the various `awk` implementations
+
 * this tutorial has also been [converted to an ebook](https://github.com/learnbyexample/learn_gnuawk) with additional descriptions, examples, a chapter on regular expressions, etc.
+
 * What's up with different `awk` versions?
+
     * [unix.stackexchange - brief explanation](https://unix.stackexchange.com/questions/29576/difference-between-gawk-vs-awk)
+
     * [Differences between gawk, nawk, mawk, and POSIX awk](https://archive.is/btGky)
+
     * [cheat sheet for awk/nawk/gawk](https://catonmat.net/ftp/awk.cheat.sheet.txt)
+
 * Tutorials and Q&A
+
     * [code.snipcademy - gentle intro](https://code.snipcademy.com/tutorials/shell-scripting/awk/introduction)
+
     * [funtoo - using examples](https://www.funtoo.org/Awk_by_Example,_Part_1)
+
     * [grymoire - detailed tutorial](https://www.grymoire.com/Unix/Awk.html) - covers information about different `awk` versions as well
+
     * [catonmat - one liners explained](https://catonmat.net/awk-one-liners-explained-part-one)
+
     * [Why Learn AWK?](https://blog.jpalardy.com/posts/why-learn-awk/)
+
     * [awk Q&A on stackoverflow](https://stackoverflow.com/questions/tagged/awk?sort=votes&pageSize=15)
+
     * [awk Q&A on unix.stackexchange](https://unix.stackexchange.com/questions/tagged/awk?sort=votes&pageSize=15)
+
 * Alternatives
+
     * [GNU datamash](https://www.gnu.org/software/datamash/alternatives/)
+
     * [bioawk](https://github.com/lh3/bioawk)
+
     * [hawk](https://github.com/gelisam/hawk/blob/master/doc/README.md) - based on Haskell
+
     * [miller](https://github.com/johnkerl/miller) - similar to awk/sed/cut/join/sort for name-indexed data such as CSV, TSV, and tabular JSON
+
         * See this [ycombinator news](https://news.ycombinator.com/item?id=10066742) for other tools like this
+
 * miscellaneous
+
     * [unix.stackexchange - When to use grep, sed, awk, perl, etc](https://unix.stackexchange.com/questions/303044/when-to-use-grep-less-awk-sed)
+
     * [awk-libs](https://github.com/e36freak/awk-libs) - lots of useful functions
+
     * [awkaster](https://github.com/TheMozg/awk-raycaster) - Pseudo-3D shooter written completely in awk using raycasting technique
+
     * [awk REPL](https://awk.js.org/) - live editor on browser
+
 * examples for some of the stuff not covered in this tutorial
+
     * [unix.stackexchange - rand/srand](https://unix.stackexchange.com/questions/372816/awk-get-random-lines-of-file-satisfying-a-condition)
+
     * [unix.stackexchange - strftime](https://unix.stackexchange.com/questions/224969/current-date-in-awk)
+
     * [unix.stackexchange - ARGC and ARGV](https://unix.stackexchange.com/questions/222146/awk-does-not-end/222150#222150)
+
     * [stackoverflow - arbitrary precision integer extension](https://stackoverflow.com/questions/46904447/strange-output-while-comparing-engineering-numbers-in-awk)
+
     * [stackoverflow - recognizing hexadecimal numbers](https://stackoverflow.com/questions/3683110/how-to-make-calculations-on-hexadecimal-numbers-with-awk)
+
     * [unix.stackexchange - sprintf and close](https://unix.stackexchange.com/questions/223727/splitting-file-for-every-10000-numbers-not-lines/223739#223739)
+
     * [unix.stackexchange - user defined functions and array passing](https://unix.stackexchange.com/questions/72469/gawk-passing-arrays-to-functions)
+
     * [unix.stackexchange - rename csv files based on number of fields in header row](https://unix.stackexchange.com/questions/408742/count-number-of-columns-in-csv-files-and-rename-if-less-than-11-columns)

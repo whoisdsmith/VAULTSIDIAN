@@ -4,15 +4,15 @@
 
 Beginning with BBEdit 11.1, support for [EditorConfig](http://www.editorconfig.org/) is built in to BBEdit. This document does not attempt to educate about EditorConfig basics; those are thoroughly covered on the EditorConfig web site. However, there are some variances from the core in BBEdit's support, and those are documented here.
 
-### Relationship of EditorConfig to application settings and document state
+## Relationship of EditorConfig to Application Settings and Document State
 
 EditorConfig settings, if present, will *always* override any application settings (including language-specific settings) or document state. This is as it should be, since the goal of EditorConfig is to help ensure consistency of document settings within a project.
 
-### Core property support
+## Core Property Support
 
 BBEdit supports most of the core EditorConfig properties [listed here](https://github.com/editorconfig/editorconfig/wiki/EditorConfig-Properties). The `end_of_line` property is not supported; nor is `max_line_length`.
 
-### Emacs-derived properties
+## Emacs-derived Properties
 
 In addition to the core EditorConfig properties, there are some BBEdit-specific additions. First, BBEdit supports the following keys originating in Emacs:
 
@@ -23,9 +23,8 @@ In addition to the core EditorConfig properties, there are some BBEdit-specific 
 -   `make-backup-files`: set to `1` or `0`, determines whether BBEdit makes a backup of the file when saving.
     
 -   `backup-inhibited`: if present and set to `1`, will explicitly suppress the creation of backup files when saving.
-    
 
-### BBEdit-specific properties
+## BBEdit-specific Properties
 
 Finally, there are some keys which are explicitly BBEdit-specific. All of these keys have names that begin with `x-` in order to prevent collisions with any future core keys. These correspond directly to individual document settings. As noted above, any of these keys will override the global preferences or document state.
 

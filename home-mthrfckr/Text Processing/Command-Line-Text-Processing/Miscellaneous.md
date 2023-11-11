@@ -3,25 +3,45 @@
 **Table of Contents**
 
 * [cut](#cut)
+
     * [select specific fields](#select-specific-fields)
+
     * [suppressing lines without delimiter](#suppressing-lines-without-delimiter)
+
     * [specifying delimiters](#specifying-delimiters)
+
     * [complement](#complement)
+
     * [select specific characters](#select-specific-characters)
+
     * [Further reading for cut](#further-reading-for-cut)
+
 * [tr](#tr)
+
     * [translation](#translation)
+
     * [escape sequences and character classes](#escape-sequences-and-character-classes)
+
     * [deletion](#deletion)
+
     * [squeeze](#squeeze)
+
     * [Further reading for tr](#further-reading-for-tr)
+
 * [basename](#basename)
+
 * [dirname](#dirname)
+
 * [xargs](#xargs)
+
 * [seq](#seq)
+
     * [integer sequences](#integer-sequences)
+
     * [specifying separator](#specifying-separator)
+
     * [floating point sequences](#floating-point-sequences)
+
     * [Further reading for seq](#further-reading-for-seq)
 
 <br>
@@ -50,9 +70,10 @@ DESCRIPTION
 
 <br>
 
-#### <a name="select-specific-fields"></a>select specific fields
+### <a name="select-specific-fields"></a>select Specific Fields
 
 * Default delimiter is **tab** character
+
 * `-f` option allows to print specific field(s) from each input line
 
 ```bash
@@ -81,7 +102,7 @@ $ printf 'foo\tbar\t123\tbaz\n' | cut -f3-
 
 <br>
 
-#### <a name="suppressing-lines-without-delimiter"></a>suppressing lines without delimiter
+### <a name="suppressing-lines-without-delimiter"></a>suppressing Lines without Delimiter
 
 ```bash
 $ cat marks.txt
@@ -105,9 +126,10 @@ $ cut -s -f2- marks.txt
 
 <br>
 
-#### <a name="specifying-delimiters"></a>specifying delimiters
+### <a name="specifying-delimiters"></a>specifying Delimiters
 
 * use `-d` option to specify input delimiter other than default **tab** character
+
 * only single character can be used, for multi-character/regex based delimiter use `awk` or `perl`
 
 ```bash
@@ -128,7 +150,9 @@ three
 ```
 
 * use `--output-delimiter` option to specify different output delimiter
+
 * since this option accepts a string, more than one character can be specified
+
 * See also [using $ prefixed string](https://unix.stackexchange.com/questions/48106/what-does-it-mean-to-have-a-dollarsign-prefixed-string-in-a-script)
 
 ```bash
@@ -148,7 +172,7 @@ one - three - four
 
 <br>
 
-#### <a name="complement"></a>complement
+### <a name="complement"></a>complement
 
 ```bash
 $ echo 'one;two;three;four' | cut -d';' -f1,3-
@@ -161,9 +185,10 @@ one;three;four
 
 <br>
 
-#### <a name="select-specific-characters"></a>select specific characters
+### <a name="select-specific-characters"></a>select Specific Characters
 
 * similar to `-f` for field selection, use `-c` for character selection
+
 * See manual for what defines a character and differences between `-b` and `-c`
 
 ```bash
@@ -194,9 +219,10 @@ foo
 
 <br>
 
-#### <a name="further-reading-for-cut"></a>Further reading for cut
+### <a name="further-reading-for-cut"></a>Further Reading for Cut
 
 * `man cut` and `info cut` for more options and detailed documentation
+
 * [cut Q&A on unix stackexchange](https://unix.stackexchange.com/questions/tagged/cut?sort=votes&pageSize=15)
 
 <br>
@@ -224,9 +250,10 @@ DESCRIPTION
 
 <br>
 
-#### <a name="translation"></a>translation
+### <a name="translation"></a>translation
 
 * one-to-one mapping of characters, all occurrences are translated
+
 * as good practice, enclose the arguments in single quotes to avoid issues due to shell interpretation
 
 ```bash
@@ -299,10 +326,12 @@ foo 21r 31t 21z
 
 <br>
 
-#### <a name="escape-sequences-and-character-classes"></a>escape sequences and character classes
+### <a name="escape-sequences-and-character-classes"></a>escape Sequences and Character Classes
 
 * Certain characters like newline, tab, etc can be represented using escape sequences or octal representation
+
 * Certain commonly useful groups of characters like alphabets, digits, punctuations etc have character class as shortcuts
+
 * See [gnu tr manual](http://www.gnu.org/software/coreutils/manual/html_node/Character-sets.html#Character-sets) for all escape sequences and character classes
 
 ```bash
@@ -324,8 +353,11 @@ FOO BAR CAT BAZ
 ```
 
 * since `-` is used for character ranges, place it at the end to represent it literally
+
     * cannot be used at start of argument as it would get treated as option
+
     * or use `--` to indicate end of option processing
+
 * similarly, to represent `\` literally, use `\\`
 
 ```bash
@@ -345,9 +377,10 @@ $ echo '/foo-bar/baz/report' | tr '/-' '\\_'
 
 <br>
 
-#### <a name="deletion"></a>deletion
+### <a name="deletion"></a>deletion
 
 * use `-d` option to specify characters to be deleted
+
 * add complement option `-c` if it is easier to define which characters are to be retained
 
 ```bash
@@ -376,7 +409,7 @@ Foo,Bar,Baz
 
 <br>
 
-#### <a name="squeeze"></a>squeeze
+### <a name="squeeze"></a>squeeze
 
 * to change consecutive repeated characters to single copy of that character
 
@@ -406,9 +439,10 @@ foo bar 123 baz
 
 <br>
 
-#### <a name="further-reading-for-tr"></a>Further reading for tr
+### <a name="further-reading-for-tr"></a>Further Reading for Tr
 
 * `man tr` and `info tr` for more options and detailed documentation
+
 * [tr Q&A on unix stackexchange](http://unix.stackexchange.com/questions/tagged/tr?sort=votes&pageSize=15)
 
 <br>
@@ -463,6 +497,7 @@ power
 ```
 
 * Can also use [Parameter expansion](http://mywiki.wooledge.org/BashFAQ/073) if working on file paths saved in variables
+
     * assumes `bash` shell and similar that support this feature
 
 ```bash
@@ -544,6 +579,7 @@ proj adder
 ```
 
 * Can also use [Parameter expansion](http://mywiki.wooledge.org/BashFAQ/073) if working on file paths saved in variables
+
     * assumes `bash` shell and similar that support this feature
 
 ```bash
@@ -675,9 +711,10 @@ DESCRIPTION
 
 <br>
 
-#### <a name="integer-sequences"></a>integer sequences
+### <a name="integer-sequences"></a>integer Sequences
 
 * see `info seq` for details of how large numbers are handled
+
     * for ex: `seq 50000000000000000000 2 50000000000000000004` may not work
 
 ```bash
@@ -713,6 +750,7 @@ $ seq 10 -5 -7
 ```
 
 * use `-w` option for leading zeros
+
 * largest length of start/end value is used to determine padding
 
 ```bash
@@ -735,10 +773,12 @@ $ seq -w 0003
 
 <br>
 
-#### <a name="specifying-separator"></a>specifying separator
+### <a name="specifying-separator"></a>specifying Separator
 
 * As seen already, default is newline separator between numbers
+
 * `-s` option allows to use custom string between numbers
+
 * A newline is always added at end
 
 ```bash
@@ -754,7 +794,7 @@ $ seq -s' - ' 4
 
 <br>
 
-#### <a name="floating-point-sequences"></a>floating point sequences
+### <a name="floating-point-sequences"></a>floating Point Sequences
 
 ```bash
 $ # default increment=1
@@ -787,7 +827,8 @@ $ seq -f'%.3e' 1.2e2 1.22e2
 
 <br>
 
-#### <a name="further-reading-for-seq"></a>Further reading for seq
+### <a name="further-reading-for-seq"></a>Further Reading for Seq
 
 * `man seq` and `info seq` for more options, corner cases and detailed documentation
+
 * [seq Q&A on unix stackexchange](https://unix.stackexchange.com/questions/tagged/seq?sort=votes&pageSize=15)

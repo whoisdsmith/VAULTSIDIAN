@@ -4,6 +4,7 @@
 > Check out our 15 basic cat commands with examples. Create files, add content and merge multiple files with the powerful cat command!
 
 ---
+
 Introduction
 
 If you have worked in Linux, you surely have seen a code snippet that uses the **`cat`** command. Cat is short for concatenate. This command displays the contents of one or more files without having to open the file for editing.
@@ -17,7 +18,7 @@ Prerequisites
 -   A system running Linux
 -   Access to a terminal window / command line
 
-## cat Command Syntax
+## Cat Command Syntax
 
 To use the **`cat`** command, follow the format:
 

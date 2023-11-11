@@ -205,7 +205,7 @@ A simple way to search for all empty directories and delete them.
 find . -type d -empty -delete
 ```
 
-## 18\. Copy the Permissions of file1 the Same as file2
+## 18\. Copy the Permissions of File1 the Same as File2
 
 A simple way to copy permissions from file2 to file1
 

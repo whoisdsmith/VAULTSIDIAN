@@ -1,26 +1,45 @@
-# <a name="restructure-text"></a>Restructure text
+# <a name="restructure-text"></a>Restructure Text
 
 **Table of Contents**
 
 * [paste](#paste)
+
     * [Concatenating files column wise](#concatenating-files-column-wise)
+
     * [Interleaving lines](#interleaving-lines)
+
     * [Lines to multiple columns](#lines-to-multiple-columns)
+
     * [Different delimiters between columns](#different-delimiters-between-columns)
+
     * [Multiple lines to single row](#multiple-lines-to-single-row)
+
     * [Further reading for paste](#further-reading-for-paste)
+
 * [column](#column)
+
     * [Pretty printing tables](#pretty-printing-tables)
+
     * [Specifying different input delimiter](#specifying-different-input-delimiter)
+
     * [Further reading for column](#further-reading-for-column)
+
 * [pr](#pr)
+
     * [Converting lines to columns](#converting-lines-to-columns)
+
     * [Changing PAGE_WIDTH](#changing-page_width)
+
     * [Combining multiple input files](#combining-multiple-input-files)
+
     * [Transposing a table](#transposing-a-table)
+
     * [Further reading for pr](#further-reading-for-pr)
+
 * [fold](#fold)
+
     * [Examples](#examples)
+
     * [Further reading for fold](#further-reading-for-fold)
 
 <br>
@@ -50,7 +69,7 @@ DESCRIPTION
 
 <br>
 
-#### <a name="concatenating-files-column-wise"></a>Concatenating files column wise
+### <a name="concatenating-files-column-wise"></a>Concatenating Files Column Wise
 
 * By default, `paste` adds a TAB between corresponding lines of input files
 
@@ -64,7 +83,9 @@ Teal    White
 ```
 
 * Specifying a different delimiter using `-d`
+
 * The `<()` syntax is [Process Substitution](http://mywiki.wooledge.org/ProcessSubstitution)
+
     * to put it simply - allows output of command to be passed as input file to another command without needing to manually create a temporary file
 
 ```bash
@@ -85,7 +106,9 @@ $ paste -d'|' <(seq 3) <(seq 4 6) <(seq 7 10)
 ```
 
 * to paste without any character in between, use `\0` as delimiter
+
     * note that `\0` here doesn't mean the ASCII NUL character
+
     * can also use `-d ''` with `GNU paste`
 
 ```bash
@@ -97,7 +120,7 @@ $ paste -d'\0' <(seq 3) <(seq 6 8)
 
 <br>
 
-#### <a name="interleaving-lines"></a>Interleaving lines
+### <a name="interleaving-lines"></a>Interleaving Lines
 
 * Interleave lines by using newline as delimiter
 
@@ -113,9 +136,10 @@ $ paste -d'\n' <(seq 11 13) <(seq 101 103)
 
 <br>
 
-#### <a name="lines-to-multiple-columns"></a>Lines to multiple columns
+### <a name="lines-to-multiple-columns"></a>Lines To Multiple Columns
 
 * Number of `-` specified determines number of output columns
+
 * Input lines can be passed only as stdin
 
 ```bash
@@ -153,7 +177,7 @@ $ seq 10 | paste -d, $(printf -- "- %.s" {1..5})
 
 <br>
 
-#### <a name="different-delimiters-between-columns"></a>Different delimiters between columns
+### <a name="different-delimiters-between-columns"></a>Different Delimiters between Columns
 
 * For more than 2 columns, different delimiter character can be specified - passed as list to `-d` option
 
@@ -183,6 +207,7 @@ $ paste -d, <(seq 3) <(seq 4 6) <(seq 7 9) <(seq 10 12)
 ```
 
 * combination of `-d` and `/dev/null` (empty file) can give multi-character separation between columns
+
 * If this is too confusing to use, consider [pr](#pr) instead
 
 ```bash
@@ -226,7 +251,7 @@ $ paste -d' :  - ' <(seq 3) e e <(seq 4 6) e e <(seq 7 9)
 
 <br>
 
-#### <a name="multiple-lines-to-single-row"></a>Multiple lines to single row
+### <a name="multiple-lines-to-single-row"></a>Multiple Lines to Single Row
 
 ```bash
 $ paste -sd, colors_1.txt
@@ -267,9 +292,10 @@ $ seq 10 | perl -pe 's/\n/ : / if(!eof)'
 
 <br>
 
-#### <a name="further-reading-for-paste"></a>Further reading for paste
+### <a name="further-reading-for-paste"></a>Further Reading for Paste
 
 * `man paste` and `info paste` for more options and detailed documentation
+
 * [paste Q&A on unix stackexchange](https://unix.stackexchange.com/questions/tagged/paste?sort=votes&pageSize=15)
 
 <br>
@@ -295,7 +321,7 @@ DESCRIPTION
 
 <br>
 
-#### <a name="pretty-printing-tables"></a>Pretty printing tables
+### <a name="pretty-printing-tables"></a>Pretty Printing Tables
 
 * by default whitespace is input delimiter
 
@@ -335,10 +361,12 @@ pomegranate  280
 
 <br>
 
-#### <a name="specifying-different-input-delimiter"></a>Specifying different input delimiter
+### <a name="specifying-different-input-delimiter"></a>Specifying Different Input Delimiter
 
 * Use `-s` to specify input delimiter
+
 * Use `-n` to prevent merging empty cells
+
     * From `man column` "This option is a Debian GNU/Linux extension"
 
 ```bash
@@ -366,10 +394,12 @@ $ paste -d, <(seq 3) <(seq 5 9) <(seq 11 13) | column -s, -nt
 
 <br>
 
-#### <a name="further-reading-for-column"></a>Further reading for column
+### <a name="further-reading-for-column"></a>Further Reading for Column
 
 * `man column` for more options and detailed documentation
+
 * [column Q&A on unix stackexchange](https://unix.stackexchange.com/questions/tagged/columns?sort=votes&pageSize=15)
+
 * More examples [here](http://www.commandlinefu.com/commands/using/column/sort-by-votes)
 
 <br>
@@ -397,6 +427,7 @@ DESCRIPTION
 ```
 
 * `Paginate` is not covered, examples related only to `columnate`
+
 * For example, default invocation on a file would add a header, etc
 
 ```bash
@@ -420,11 +451,14 @@ pomegranate
 
 <br>
 
-#### <a name="converting-lines-to-columns"></a>Converting lines to columns
+### <a name="converting-lines-to-columns"></a>Converting Lines to Columns
 
 * With [paste](#lines-to-multiple-columns), changing input file rows to column(s) is possible only with consecutive lines
+
 * `pr` can do that as well as split entire file itself according to number of columns needed
+
 * And `-s` option in `pr` allows multi-character output delimiter
+
 * As usual, examples to better show the functionalities
 
 ```bash
@@ -494,10 +528,12 @@ $ seq 22 | paste -d, - - - - -
 
 <br>
 
-#### <a name="changing-page_width"></a>Changing PAGE_WIDTH
+### <a name="changing-page_width"></a>Changing PAGE_WIDTH
 
 * The default PAGE_WIDTH is 72
+
 * The formula `(col-1)*len(delimiter) + col` seems to work in determining minimum PAGE_WIDTH required for multiple column output
+
     * `col` is number of columns required
 
 ```bash
@@ -512,6 +548,7 @@ pr: page width too narrow
 ```
 
 * Use `-w` to specify a different PAGE_WIDTH
+
 * The `-J` option turns off truncation
 
 ```bash
@@ -535,7 +572,7 @@ $ seq 6 | pr -J -w500 -3ats'::::'
 
 <br>
 
-#### <a name="combining-multiple-input-files"></a>Combining multiple input files
+### <a name="combining-multiple-input-files"></a>Combining Multiple Input Files
 
 * Use `-m` option to combine multiple files in parallel, similar to `paste`
 
@@ -586,7 +623,7 @@ pomegranate
 
 <br>
 
-#### <a name="transposing-a-table"></a>Transposing a table
+### <a name="transposing-a-table"></a>Transposing A Table
 
 ```bash
 $ # delimiter is single character, so easy to use tr to change it to newline
@@ -621,9 +658,10 @@ poha       sevai         vadapav  shondesh
 
 <br>
 
-#### <a name="further-reading-for-pr"></a>Further reading for pr
+### <a name="further-reading-for-pr"></a>Further Reading for Pr
 
 * `man pr` and `info pr` for more options and detailed documentation
+
 * More examples [here](http://docstore.mik.ua/orelly/unix3/upt/ch21_15.htm)
 
 <br>
@@ -652,7 +690,7 @@ DESCRIPTION
 
 <br>
 
-#### <a name="examples"></a>Examples
+### <a name="examples"></a>Examples
 
 ```bash
 $ nl story.txt
@@ -697,7 +735,6 @@ train harder
 
 <br>
 
-#### <a name="further-reading-for-fold"></a>Further reading for fold
+### <a name="further-reading-for-fold"></a>Further Reading for Fold
 
 * `man fold` and `info fold` for more options and detailed documentation
-

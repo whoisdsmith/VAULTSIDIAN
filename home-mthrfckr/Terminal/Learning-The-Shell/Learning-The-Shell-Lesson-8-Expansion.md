@@ -1,4 +1,6 @@
-Each time we type a command line and press the enter key, bash performs several processes upon the text before it carries out our command. We have seen a couple of cases of how a simple character sequence, for example “\*”, can have a lot of meaning to the shell. The process that makes this happen is called _expansion_. With expansion, we type something and it is expanded into something else before the shell acts upon it. To demonstrate what we mean by this, let's take a look at the `[echo](http://linuxcommand.org/lc3_man_pages/echoh.html)` command. `echo` is a shell builtin that performs a very simple task. It prints out its text arguments on standard output:
+# Learning-The-Shell-Lesson-8-Expansion
+
+Each time we type a command line and press the enter key, bash performs several processes upon the text before it carries out our command. We have seen a couple of cases of how a simple character sequence, for example “\*”, can have a lot of meaning to the shell. The process that makes this happen is called *expansion*. With expansion, we type something and it is expanded into something else before the shell acts upon it. To demonstrate what we mean by this, let's take a look at the `[echo](http://linuxcommand.org/lc3_man_pages/echoh.html)` command. `echo` is a shell builtin that performs a very simple task. It prints out its text arguments on standard output:
 
 \[me@linuxbox me\]$ `echo this is a test` this is a test
 
@@ -10,7 +12,7 @@ So what just happened? Why didn't `echo` print “\*”? As we recall from our w
 
 ## Pathname Expansion
 
-The mechanism by which wildcards work is called _pathname expansion_. If we try some of the techniques that we employed in our earlier lessons, we will see that they are really expansions. Given a home directory that looks like this:
+The mechanism by which wildcards work is called *pathname expansion*. If we try some of the techniques that we employed in our earlier lessons, we will see that they are really expansions. Given a home directory that looks like this:
 
 \[me@linuxbox me\]$ `ls` Desktop ls-output.txt Documents Music Pictures Public Templates Videos
 
@@ -68,11 +70,11 @@ Here is an example using the division and remainder operators. Notice the effect
 
 ## Brace Expansion
 
-Perhaps the strangest expansion is called _brace expansion_. With it, we can create multiple text strings from a pattern containing braces. Here's an example:
+Perhaps the strangest expansion is called *brace expansion*. With it, we can create multiple text strings from a pattern containing braces. Here's an example:
 
 \[me@linuxbox me\]$ `echo Front-{A,B,C}-Back` Front-A-Back Front-B-Back Front-C-Back
 
-Patterns to be brace expanded may contain a leading portion called a _preamble_ and a trailing portion called a _postscript_. The brace expression itself may contain either a comma-separated list of strings, or a range of integers or single characters. The pattern may not contain embedded whitespace. Here is an example using a range of integers:
+Patterns to be brace expanded may contain a leading portion called a *preamble* and a trailing portion called a *postscript*. The brace expression itself may contain either a comma-separated list of strings, or a range of integers or single characters. The pattern may not contain embedded whitespace. Here is an example using a range of integers:
 
 \[me@linuxbox me\]$ `echo Number_{1..5}` Number\_1 Number\_2 Number\_3 Number\_4 Number\_5
 
@@ -92,7 +94,7 @@ Pretty slick!
 
 ## Parameter Expansion
 
-We're only going to touch briefly on _parameter expansion_ in this lesson, but we'll be covering it more later. It's a feature that is more useful in shell scripts than directly on the command line. Many of its capabilities have to do with the system's ability to store small chunks of data and to give each chunk a name. Many such chunks, more properly called _variables_, are available for our examination. For example, the variable named “USER” contains our user name. To invoke parameter expansion and reveal the contents of USER we would do this:
+We're only going to touch briefly on *parameter expansion* in this lesson, but we'll be covering it more later. It's a feature that is more useful in shell scripts than directly on the command line. Many of its capabilities have to do with the system's ability to store small chunks of data and to give each chunk a name. Many such chunks, more properly called *variables*, are available for our examination. For example, the variable named “USER” contains our user name. To invoke parameter expansion and reveal the contents of USER we would do this:
 
 \[me@linuxbox me\]$ `echo $USER` me
 
@@ -106,7 +108,7 @@ With other types of expansion, if we mistype a pattern, the expansion will not t
 
 ## Command Substitution
 
-_Command substitution_ allows us to use the output of a command as an expansion:
+*Command substitution* allows us to use the output of a command as an expansion:
 
 \[me@linuxbox me\]$ `echo $(ls)` Desktop Documents ls-output.txt Music Pictures Public Templates Videos
 
@@ -132,7 +134,7 @@ or:
 
 \[me@linuxbox me\]$ `[me@linuxbox ~]$ echo The total is $100.00` The total is 00.00
 
-In the first example, word-splitting by the shell removed extra whitespace from the echo command's list of arguments. In the second example, parameter expansion substituted an empty string for the value of “$1” because it was an undefined variable. The shell provides a mechanism called _quoting_ to selectively suppress unwanted expansions.
+In the first example, word-splitting by the shell removed extra whitespace from the echo command's list of arguments. In the second example, parameter expansion substituted an empty string for the value of “$1” because it was an undefined variable. The shell provides a mechanism called *quoting* to selectively suppress unwanted expansions.
 
 ## Double Quotes
 
@@ -172,7 +174,7 @@ As we can see, with each succeeding level of quoting, more and more of the expan
 
 ## Escaping Characters
 
-Sometimes we only want to quote a single character. To do this, we can precede a character with a backslash, which in this context is called the _escape character_. Often this is done inside double quotes to selectively prevent an expansion:
+Sometimes we only want to quote a single character. To do this, we can precede a character with a backslash, which in this context is called the *escape character*. Often this is done inside double quotes to selectively prevent an expansion:
 
 \[me@linuxbox me\]$ `echo "The balance for user $USER is: \$5.00"` The balance for user me is: $5.00
 
@@ -194,7 +196,7 @@ As we might suspect, using the long form options can make a single command line 
 
 ls -l \\ --reverse \\ --human-readable \\ --full-time
 
-Using the backslash in this way allows us to embed newlines in our command. Note that for this trick to work, the newline must be typed immediately after the backslash. If we put a space after the backslash, the space will be ignored, not the newline. Backslashes are also used to insert special characters into our text. These are called _backslash escape characters_. Here are the common ones:
+Using the backslash in this way allows us to embed newlines in our command. Note that for this trick to work, the newline must be typed immediately after the backslash. If we put a space after the backslash, the space will be ignored, not the newline. Backslashes are also used to insert special characters into our text. These are called *backslash escape characters*. Here are the common ones:
 
 **Escape Character**
 

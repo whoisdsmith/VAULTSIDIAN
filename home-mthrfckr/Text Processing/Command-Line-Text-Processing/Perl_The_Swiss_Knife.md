@@ -10,57 +10,104 @@ For markdown source and links to buy pdf/epub versions, see: https://github.com/
 
 <br> <br> <br>
 
-# <a name="perl-one-liners"></a>Perl one liners
+# <a name="perl-one-liners"></a>Perl One Liners
 
 **Table of Contents**
 
 * [Executing Perl code](#executing-perl-code)
+
 * [Simple search and replace](#simple-search-and-replace)
+
     * [inplace editing](#inplace-editing)
+
 * [Line filtering](#line-filtering)
+
     * [Regular expressions based filtering](#regular-expressions-based-filtering)
+
     * [Fixed string matching](#fixed-string-matching)
+
     * [Line number based filtering](#line-number-based-filtering)
+
 * [Field processing](#field-processing)
+
     * [Field comparison](#field-comparison)
+
     * [Specifying different input field separator](#specifying-different-input-field-separator)
+
     * [Specifying different output field separator](#specifying-different-output-field-separator)
+
 * [Changing record separators](#changing-record-separators)
+
     * [Input record separator](#input-record-separator)
+
     * [Output record separator](#output-record-separator)
+
 * [Multiline processing](#multiline-processing)
+
 * [Perl regular expressions](#perl-regular-expressions)
+
     * [sed vs perl subtle differences](#sed-vs-perl-subtle-differences)
+
     * [Backslash sequences](#backslash-sequences)
+
     * [Non-greedy quantifier](#non-greedy-quantifier)
+
     * [Lookarounds](#lookarounds)
+
     * [Ignoring specific matches](#ignoring-specific-matches)
+
     * [Special capture groups](#special-capture-groups)
+
     * [Modifiers](#modifiers)
+
     * [Quoting metacharacters](#quoting-metacharacters)
+
     * [Matching position](#matching-position)
+
 * [Using modules](#using-modules)
+
 * [Two file processing](#two-file-processing)
+
     * [Comparing whole lines](#comparing-whole-lines)
+
     * [Comparing specific fields](#comparing-specific-fields)
+
     * [Line number matching](#line-number-matching)
+
 * [Creating new fields](#creating-new-fields)
+
 * [Multiple file input](#multiple-file-input)
+
 * [Dealing with duplicates](#dealing-with-duplicates)
+
 * [Lines between two REGEXPs](#lines-between-two-regexps)
+
     * [All unbroken blocks](#all-unbroken-blocks)
+
     * [Specific blocks](#specific-blocks)
+
     * [Broken blocks](#broken-blocks)
+
 * [Array operations](#array-operations)
+
     * [Iteration and filtering](#iteration-and-filtering)
+
     * [Sorting](#sorting)
+
     * [Transforming](#transforming)
+
 * [Miscellaneous](#miscellaneous)
+
     * [split](#split)
+
     * [Fixed width processing](#fixed-width-processing)
+
     * [String and file replication](#string-and-file-replication)
+
     * [transliteration](#transliteration)
+
     * [Executing external commands](#executing-external-commands)
+
 * [Further Reading](#further-reading)
 
 <br>
@@ -91,22 +138,33 @@ SYNOPSIS
 **Prerequisites and notes**
 
 * familiarity with programming concepts like variables, printing, control structures, arrays, etc
+
 * Perl borrows syntax/features from **C, shell scripting, awk, sed** etc. Prior experience working with them would help a lot
+
 * familiarity with regular expression basics
+
     * if not, check out **ERE** portion of [GNU sed regular expressions](Gnu_Sed.md#regular-expressions)
+
     * examples for non-greedy, lookarounds, etc will be covered here
+
 * this tutorial is primarily focussed on short programs that are easily usable from command line, similar to using `grep`, `sed`, `awk` etc
+
     * do NOT use style/syntax presented here when writing full fledged Perl programs which should use **strict, warnings** etc
+
     * see [perldoc - perlintro](https://perldoc.perl.org/perlintro.html) and [learnxinyminutes - perl](https://learnxinyminutes.com/docs/perl/) for quick intro to using Perl for full fledged programs
+
 * links to Perl documentation will be added as necessary
+
 * unless otherwise specified, consider input as ASCII encoded text only
+
     * see also [stackoverflow - why UTF-8 is not default](https://stackoverflow.com/questions/6162484/why-does-modern-perl-avoid-utf-8-by-default)
 
 <br>
 
-## <a name="executing-perl-code"></a>Executing Perl code
+## <a name="executing-perl-code"></a>Executing Perl Code
 
 * One way is to put code in a file and use `perl` command with filename as argument
+
 * Another is to use [shebang](https://en.wikipedia.org/wiki/Shebang_(Unix)) at beginning of script, make the file executable and directly run it
 
 ```bash
@@ -123,7 +181,9 @@ Hello Bash
 ```
 
 * For short programs, one can use `-e` commandline option to provide code from command line itself
+
     * Use `-E` option to use newer features like `say`. See [perldoc - new features](https://perldoc.perl.org/feature.html)
+
 * This entire chapter is about using `perl` this way from commandline
 
 ```bash
@@ -145,6 +205,7 @@ $ perl -le '$x=25; $y=12; print $x**$y'
 ```
 
 * Perl is (in)famous for being able to things more than one way
+
 * examples in this chapter will mostly try to use the syntax that avoids `(){}`
 
 ```bash
@@ -173,26 +234,41 @@ ab $x 123
 **Further Reading**
 
 * `perl -h` for summary of options
+
 * [perldoc - Command Switches](https://perldoc.perl.org/perlrun.html#Command-Switches)
+
 * [perldoc - Perl operators and precedence](https://perldoc.perl.org/perlop.html)
+
 * [explainshell](https://explainshell.com/explain?cmd=perl+-F+-l+-anpeE+-i+-0+-M) - to quickly get information without having to traverse through the docs
+
 * See [Changing record separators](#changing-record-separators) section for more details on `-l` option
 
 <br>
 
-## <a name="simple-search-and-replace"></a>Simple search and replace
+## <a name="simple-search-and-replace"></a>Simple Search and Replace
 
 * **substitution** command syntax is very similar to `sed` for search and replace
+
     * syntax is `variable =~ s/REGEXP/REPLACEMENT/FLAGS` and by default acts on `$_` if variable is not specified
+
     * see [perldoc - SPECIAL VARIABLES](https://perldoc.perl.org/perlvar.html#SPECIAL-VARIABLES) for explanation on `$_` and other such special variables
+
     * more detailed examples will be covered in later sections
+
 * Just like other text processing commands, `perl` will automatically loop over input line by line when `-n` or `-p` option is used
+
     * like `sed`, the `-n` option won't print the record
+
     * `-p` will print the record, including any changes made
+
     * newline character being default record separator
+
     * `$_` will contain the input record content, including the record separator (unlike `sed` and `awk`)
+
     * any directory name appearing in file arguments passed will be automatically ignored
+
 * and similar to other commands, `perl` will work with both stdin and file input
+
     * See other chapters for examples of [seq](home-mthrfckr/Text%20Processing/Command-Line-Text-Processing/Miscellaneous.md#seq), [paste](Restructure_Text.md#paste), etc
 
 ```bash
@@ -221,9 +297,10 @@ Have a safe journey
 
 <br>
 
-#### <a name="inplace-editing"></a>inplace editing
+### <a name="inplace-editing"></a>inplace Editing
 
 * similar to [GNU sed - using * with inplace option](Gnu_Sed.md#prefix-backup-name), one can also use `*` to either prefix the backup name or place the backup files in another existing directory
+
 * See also [effectiveperlprogramming - caveats of using -i option](https://www.effectiveperlprogramming.com/2017/12/in-place-editing-gets-safer-in-v5-28/)
 
 ```bash
@@ -260,16 +337,20 @@ I bought two bananas and three mangoes
 
 <br>
 
-## <a name="line-filtering"></a>Line filtering
+## <a name="line-filtering"></a>Line Filtering
 
 <br>
 
-#### <a name="regular-expressions-based-filtering"></a>Regular expressions based filtering
+### <a name="regular-expressions-based-filtering"></a>Regular Expressions Based Filtering
 
 * syntax is `variable =~ m/REGEXP/FLAGS` to check for a match
+
     * `variable !~ m/REGEXP/FLAGS` for negated match
+
     * by default acts on `$_` if variable is not specified
+
 * as we need to print only selective lines, use `-n` option
+
     * by default, contents of `$_` will be printed if no argument is passed to `print`
 
 ```bash
@@ -301,6 +382,7 @@ Violets are blue,
 ```
 
 * using different delimiter
+
 * quoting from [perldoc - Regexp Quote-Like Operators](https://perldoc.perl.org/perlop.html#Regexp-Quote-Like-Operators)
 
 > With the m you can use any pair of non-alphanumeric, non-whitespace characters as delimiters
@@ -324,12 +406,16 @@ $ perl -ne 'print if !m#/foo/a/#' paths.txt
 
 <br>
 
-#### <a name="fixed-string-matching"></a>Fixed string matching
+### <a name="fixed-string-matching"></a>Fixed String Matching
 
 * similar to `grep -F` and `awk index`
+
 * See also
+
     * [perldoc - index function](https://perldoc.perl.org/functions/index.html)
+
     * [perldoc - Quote and Quote-like Operators](https://perldoc.perl.org/5.8.8/perlop.html#Quote-and-Quote-like-Operators)
+
     * [Quoting metacharacters](#quoting-metacharacters) section
 
 ```bash
@@ -357,6 +443,7 @@ a#$%d
 ```
 
 * return value is useful to match at specific position
+
 * for ex: at start/end of line
 
 ```bash
@@ -379,10 +466,12 @@ i*(t+9-g)/8,4-a+b
 
 <br>
 
-#### <a name="line-number-based-filtering"></a>Line number based filtering
+### <a name="line-number-based-filtering"></a>Line Number Based Filtering
 
 * special variable `$.` contains total records read so far, similar to `NR` in `awk`
+
     * But no equivalent of awk's `FNR`, [see this stackoverflow Q&A for workaround](https://stackoverflow.com/questions/12384692/line-number-of-a-file-in-perl)
+
 * See also [perldoc - eof](https://perldoc.perl.org/perlfunc.html#eof)
 
 ```bash
@@ -429,6 +518,7 @@ $ seq 14 25 | perl -pe 'exit if $.==3'
 ```
 
 * selecting range of lines
+
 * `..` is [perldoc - range operator](https://perldoc.perl.org/perlop.html#Range-Operators)
 
 ```bash
@@ -449,12 +539,16 @@ $ seq 14 25 | perl -ne 'print if $.>=10'
 
 <br>
 
-## <a name="field-processing"></a>Field processing
+## <a name="field-processing"></a>Field Processing
 
 * `-a` option will auto-split each input record based on one or more continuous white-space, similar to default behavior in `awk`
+
     * See also [split](#split) section
+
 * Special variable array `@F` will contain all the elements, indexing starts from 0
+
     * negative indexing is also supported, `-1` gives last element, `-2` gives last-but-one and so on
+
     * see [Array operations](#array-operations) section for examples on array usage
 
 ```bash
@@ -485,6 +579,7 @@ qty
 ```
 
 * by default, leading and trailing whitespaces won't be considered when splitting the input record
+
     * mimicking `awk`'s default behavior
 
 ```bash
@@ -507,9 +602,10 @@ $ echo '1 a 7' | perl -lane 'print scalar @F'
 
 <br>
 
-#### <a name="field-comparison"></a>Field comparison
+### <a name="field-comparison"></a>Field Comparison
 
 * for numeric context, Perl automatically tries to convert the string to number, ignoring white-space
+
 * for string comparison, use `eq` for `==`, `ne` for `!=` and so on
 
 ```bash
@@ -540,9 +636,10 @@ fig     90
 
 <br>
 
-#### <a name="specifying-different-input-field-separator"></a>Specifying different input field separator
+### <a name="specifying-different-input-field-separator"></a>Specifying Different Input Field Separator
 
 * by using `-F` command line option
+
     * See also [split](#split) section, which covers details about trailing empty fields
 
 ```bash
@@ -605,9 +702,10 @@ $ printf 'hi👍 how are you?' | perl -CS -F -lane 'print $F[2]'
 
 <br>
 
-#### <a name="specifying-different-output-field-separator"></a>Specifying different output field separator
+### <a name="specifying-different-output-field-separator"></a>Specifying Different Output Field Separator
 
 * Method 1: use `$,` to change separator between `print` arguments
+
     * could be remembered easily by noting that `,` is used to separate `print` arguments
 
 ```bash
@@ -642,6 +740,7 @@ foo - 123 - bar - 789
 ```
 
 * Method 3: use `$"` to change separator when array is interpolated, default is space character
+
     * could be remembered easily by noting that interpolation happens within double quotes
 
 ```bash
@@ -657,6 +756,7 @@ foo,123,bar,789
 ```
 
 * use `BEGIN` if same separator is to be used for all lines
+
     * statements inside `BEGIN` are executed before processing any input text
 
 ```bash
@@ -669,9 +769,10 @@ fig,90
 guava,6
 ```
 
-## <a name="changing-record-separators"></a>Changing record separators
+## <a name="changing-record-separators"></a>Changing Record Separators
 
 * Before seeing examples for changing record separators, let's cover a detail about contents of input record and use of `-l` option
+
 * See also [perldoc - chomp](https://perldoc.perl.org/functions/chomp.html)
 
 ```bash
@@ -699,15 +800,22 @@ guava
 
 <br>
 
-#### <a name="input-record-separator"></a>Input record separator
+### <a name="input-record-separator"></a>Input Record Separator
 
 * by default, newline character is used as input record separator
+
 * use `$/` to specify a different input record separator
+
     * unlike `awk`, only string can be used, no regular expressions
+
 * for single character separator, can also use `-0` command line option which accepts octal/hexadecimal value as argument
+
 * if `-l` option is also used
+
     * input record separator will be chomped from input record
+
     * in addition, if argument is not passed to `-l`, output record separator will get whatever is current value of input record separator
+
     * so, order of `-l`, `-0` and/or `$/` usage becomes important
 
 ```bash
@@ -748,6 +856,7 @@ $ # but dont use `-l0` as `0` will be treated as argument to `-l`
 ```
 
 * values `-0400` to `-0777` will cause entire file to be slurped
+
     * idiomatically, `-0777` is used
 
 ```bash
@@ -783,7 +892,9 @@ He he he
 ```
 
 * again, input record will have the separator too and using `-l` will chomp it
+
 * however, if more than two consecutive newline characters separate the paragraphs, only two newlines will be preserved and the rest discarded
+
     * use `$/="\n\n"` to avoid this behavior
 
 ```bash
@@ -877,9 +988,10 @@ and pleasant journey.
 
 <br>
 
-#### <a name="output-record-separator"></a>Output record separator
+### <a name="output-record-separator"></a>Output Record Separator
 
 * one way is to use `$\` to specify a different output record separator
+
     * by default it doesn't have a value
 
 ```bash
@@ -943,7 +1055,7 @@ $ seq 8 | perl -l054 -ne 'print if /[24]/; END{printf "\n"}'
 
 <br>
 
-## <a name="multiline-processing"></a>Multiline processing
+## <a name="multiline-processing"></a>Multiline Processing
 
 * Processing consecutive lines
 
@@ -989,12 +1101,18 @@ baz
 ```
 
 * extracting lines around matching line
+
 * how `$n && $n--` works:
+
     * need to note that right hand side of `&&` is processed only if left hand side is `true`
+
     * so for example, if initially `$n=2`, then we get
+
         * `2 && 2; $n=1` - evaluates to `true`
+
         * `1 && 1; $n=0` - evaluates to `true`
-        * `0 && ` - evaluates to `false` ... no decrementing `$n` and hence will be `false` until `$n` is re-assigned non-zero value
+
+        * `0 && ` - evaluates to `false` … no decrementing `$n` and hence will be `false` until `$n` is re-assigned non-zero value
 
 ```bash
 $ # similar to: grep --no-group-separator -A1 'BEGIN' range.txt
@@ -1031,23 +1149,30 @@ a
 **Further Reading**
 
 * [stackoverflow - multiline find and replace](https://stackoverflow.com/questions/39884112/perl-multiline-find-and-replace-with-regex)
+
 * [stackoverflow - delete line based on content of previous/next lines](https://stackoverflow.com/questions/49112877/delete-line-if-line-matches-foo-line-above-matches-bar-and-line-below-match)
+
 * [softwareengineering - FSM examples](https://softwareengineering.stackexchange.com/questions/47806/examples-of-finite-state-machines)
+
 * [wikipedia - FSM](https://en.wikipedia.org/wiki/Finite-state_machine)
 
 <br>
 
-## <a name="perl-regular-expressions"></a>Perl regular expressions
+## <a name="perl-regular-expressions"></a>Perl Regular Expressions
 
 * examples to showcase some of the features not present in ERE and modifiers not available in `sed`'s substitute command
+
 * many features of Perl regular expressions will NOT be covered, but external links will be provided wherever relevant
+
     * See [perldoc - perlre](https://perldoc.perl.org/perlre.html) for complete reference
+
     * and [perldoc - regular expressions FAQ](https://perldoc.perl.org/perlfaq.html#the-perlfaq6-manpage%3a-Regular-Expressions)
+
 * examples/descriptions based only on ASCII encoding
 
 <br>
 
-#### <a name="sed-vs-perl-subtle-differences"></a>sed vs perl subtle differences
+### <a name="sed-vs-perl-subtle-differences"></a>sed Vs Perl Subtle Differences
 
 * input record separator being part of input record
 
@@ -1104,6 +1229,7 @@ $ echo 'w=y-x+9*3' | perl -pe 's/[\w=]//g'
 ```
 
 * replacing specific occurrence
+
 * See [stackoverflow - substitute the nth occurrence of a match in a Perl regex](https://stackoverflow.com/questions/2555662/how-can-i-substitute-the-nth-occurrence-of-a-match-in-a-perl-regex) for workarounds
 
 ```bash
@@ -1132,6 +1258,7 @@ x:y:z-a-v-xc-gf
 ```
 
 * variable interpolation when `$` or `@` is used
+
 * See also [perldoc - Quote and Quote-like Operators](https://perldoc.perl.org/5.8.8/perlop.html#Quote-and-Quote-like-Operators)
 
 ```bash
@@ -1158,6 +1285,7 @@ $ seq 2 | perl -p sub_sq.pl
 ```
 
 * back reference
+
 * See also [perldoc - Warning on \1 Instead of $1](https://perldoc.perl.org/perlre.html#Warning-on-%5c1-Instead-of-%241)
 
 ```bash
@@ -1177,13 +1305,18 @@ a walking for a cause
 
 <br>
 
-#### <a name="backslash-sequences"></a>Backslash sequences
+### <a name="backslash-sequences"></a>Backslash Sequences
 
 * `\d` for `[0-9]`
+
 * `\s` for `[ \t\r\n\f\v]`
+
 * `\h` for `[ \t]`
+
 * `\n` for newline character
+
 * `\D`, `\S`, `\H`, `\N` respectively for their opposites
+
 * See [perldoc - perlrecharclass](https://perldoc.perl.org/perlrecharclass.html#Backslash-sequences) for full list and details
 
 ```bash
@@ -1203,10 +1336,12 @@ a b c
 
 <br>
 
-#### <a name="non-greedy-quantifier"></a>Non-greedy quantifier
+### <a name="non-greedy-quantifier"></a>Non-greedy Quantifier
 
 * adding a `?` to `?` or `*` or `+` or `{}` quantifiers will change matching from greedy to non-greedy. In other words, to match as minimally as possible
+
     * also known as lazy quantifier
+
 * See also [regular-expressions.info - Possessive Quantifiers](https://www.regular-expressions.info/possessive.html)
 
 ```bash
@@ -1237,14 +1372,20 @@ $ echo '123:42:789:good:5:bad' | perl -pe 's/:.*:[a-z]/:/'
 
 <br>
 
-#### <a name="lookarounds"></a>Lookarounds
+### <a name="lookarounds"></a>Lookarounds
 
 * Ability to add if conditions to match before/after required pattern
+
 * There are four types
+
     * positive lookahead `(?=`
+
     * negative lookahead `(?!`
+
     * positive lookbehind `(?<=`
+
     * negative lookbehind `(?<!`
+
 * One way to remember is that **behind** uses `<` and **negative** uses `!` instead of `=`
 
 The string matched by lookarounds are like word boundaries and anchors, do not constitute as part of matched string. They are termed as **zero-width patterns**
@@ -1321,6 +1462,7 @@ Much ado about nothing. He he he
 ```
 
 * `\K` helps as a workaround for some of the variable-length lookbehind cases
+
 * See also [stackoverflow - Variable-length lookbehind-assertion alternatives](https://stackoverflow.com/questions/11640447/variable-length-lookbehind-assertion-alternatives-for-regular-expressions)
 
 ```bash
@@ -1362,13 +1504,15 @@ b c d e
 **Further Reading**
 
 * [stackoverflow - reverse four letter words](https://stackoverflow.com/questions/46870285/reverse-four-length-of-letters-with-sed-in-unix)
+
 * [stackoverflow - lookarounds and possessive quantifier](https://stackoverflow.com/questions/42437747/pcre-negative-lookahead-gives-unexpected-match)
 
 <br>
 
-#### <a name="ignoring-specific-matches"></a>Ignoring specific matches
+### <a name="ignoring-specific-matches"></a>Ignoring Specific Matches
 
 * A useful construct is `(*SKIP)(*F)` which allows to discard matches not needed
+
     * regular expression which should be discarded is written first, `(*SKIP)(*F)` is appended and then required regular expression is added after `|`
 
 ```bash
@@ -1413,13 +1557,15 @@ $ perl -pe '/^-/ ? s/// : s/^/-/' nums.txt
 **Further Reading**
 
 * [perldoc - Special Backtracking Control Verbs](https://perldoc.perl.org/perlre.html#Special-Backtracking-Control-Verbs)
+
 * [rexegg - Excluding Unwanted Matches](https://www.rexegg.com/backtracking-control-verbs.html#skipfail)
 
 <br>
 
-#### <a name="special-capture-groups"></a>Special capture groups
+### <a name="special-capture-groups"></a>Special Capture Groups
 
 * `\1`, `\2` etc only matches exact string
+
 * `(?1)`, `(?2)` etc re-uses the regular expression itself
 
 ```bash
@@ -1434,8 +1580,11 @@ baz 2008-03-24 and 2012-08-12 foo 2016-03-25
 ```
 
 * use `(?:` to group regular expressions without capturing it, so this won't be counted for backreference
+
 * See also
+
     * [stackoverflow - what is non-capturing group](https://stackoverflow.com/questions/3512471/what-is-a-non-capturing-group-what-does-do)
+
     * [stackoverflow - extract specific fields and key-value pairs](https://stackoverflow.com/questions/46632397/parse-vcf-files-info-field)
 
 ```bash
@@ -1455,7 +1604,9 @@ co1d fo_obar
 ```
 
 * named capture groups `(?<name>`
+
     * for backreference, use `\k<name>`
+
     * accessible via `%+` hash in replacement section
 
 ```bash
@@ -1481,14 +1632,17 @@ foo,bar|123|x,y,z|42
 **Further Reading**
 
 * [perldoc - Extended Patterns](https://perldoc.perl.org/perlre.html#Extended-Patterns)
+
 * [rexegg - all the (? usages](https://www.rexegg.com/regex-disambiguation.html)
+
 * [regular-expressions - recursion](https://www.regular-expressions.info/recurse.html#balanced)
 
 <br>
 
-#### <a name="modifiers"></a>Modifiers
+### <a name="modifiers"></a>Modifiers
 
 * some are already seen, like the `g` (global match) and `i` (case insensitive matching)
+
 * first up, the `r` modifier which returns the substitution result instead of modifying the variable it is acting upon
 
 ```bash
@@ -1503,6 +1657,7 @@ y=FOOD
 ```
 
 * `e` modifier allows to use Perl code in replacement section instead of string
+
 * use `ee` if you need to construct a string and then apply evaluation
 
 ```bash
@@ -1555,17 +1710,23 @@ He he he
 **Further Reading**
 
 * [perldoc - perlre Modifiers](https://perldoc.perl.org/perlre.html#Modifiers)
+
 * [stackoverflow - replacement within matched string](https://stackoverflow.com/questions/40458639/replacement-within-the-matched-string-with-sed)
 
 <br>
 
-#### <a name="quoting-metacharacters"></a>Quoting metacharacters
+### <a name="quoting-metacharacters"></a>Quoting Metacharacters
 
 * part of regular expression can be surrounded within `\Q` and `\E` to prevent matching meta characters within that portion
+
     * however, `$` and `@` would still be interpolated as long as delimiter isn't single quotes
+
     * `\E` is optional if applying `\Q` till end of search expression
+
 * typical use case is string to be protected is already present in a variable, for ex: user input or result of another command
+
 * quotemeta will add a backslash to all characters other than `\w` characters
+
 * See also [perldoc - Quoting metacharacters](https://perldoc.perl.org/perlre.html#Quoting-metacharacters)
 
 ```bash
@@ -1589,7 +1750,9 @@ i*(t+9-g)/8,4-a+b
 ```
 
 * use `q` operator for replacement section
+
 * it would treat contents as if they were placed inside single quotes and hence no interpolation
+
 * See also [perldoc - Quote and Quote-like Operators](https://perldoc.perl.org/5.8.8/perlop.html#Quote-and-Quote-like-Operators)
 
 ```bash
@@ -1617,13 +1780,13 @@ a 123
 
 <br>
 
-#### <a name="matching-position"></a>Matching position
+### <a name="matching-position"></a>Matching Position
 
 * From [perldoc - perlvar](https://perldoc.perl.org/perlvar.html#SPECIAL-VARIABLES)
 
->$-[0] is the offset of the start of the last successful match
+> $-[0] is the offset of the start of the last successful match
 
->$+[0] is the offset into the string of the end of the entire match
+> $+[0] is the offset into the string of the end of the entire match
 
 ```bash
 $ cat poem.txt
@@ -1663,10 +1826,12 @@ $ perl -lne 'print "$.:$&:$-[0]" while /is|so|are/g' poem.txt
 
 <br>
 
-## <a name="using-modules"></a>Using modules
+## <a name="using-modules"></a>Using Modules
 
 * There are many standard modules available that come with Perl installation
+
 * and many more available from **Comprehensive Perl Archive Network** (CPAN)
+
     * [stackoverflow - easiest way to install a missing module](https://stackoverflow.com/questions/65865/whats-the-easiest-way-to-install-a-missing-perl-module)
 
 ```bash
@@ -1697,6 +1862,7 @@ foo 123 baz
 ```
 
 * a cool module [O](https://perldoc.perl.org/O.html) helps to convert one-liners to full fledged programs
+
     * similar to `-o` option for GNU awk
 
 ```bash
@@ -1723,16 +1889,22 @@ LINE: while (defined($_ = <ARGV>)) {
 **Further Reading**
 
 * [perldoc - perlmodlib](https://perldoc.perl.org/perlmodlib.html)
+
 * [perldoc - Core modules](https://perldoc.perl.org/index-modules-L.html)
+
 * [unix.stackexchange - example for Algorithm::Combinatorics](https://unix.stackexchange.com/questions/310840/better-solution-for-finding-id-groups-permutations-combinations)
+
 * [unix.stackexchange - example for Text::ParseWords](https://unix.stackexchange.com/questions/319301/excluding-enclosed-delimiters-with-cut)
+
 * [stackoverflow - regular expression modules](https://stackoverflow.com/questions/3258847/what-are-good-perl-pattern-matching-regex-modules)
+
 * [metacpan - String::Approx](https://metacpan.org/pod/String::Approx) - Perl extension for approximate matching (fuzzy matching)
+
 * [metacpan - Tie::IxHash](https://metacpan.org/pod/Tie::IxHash) - ordered associative arrays for Perl
 
 <br>
 
-## <a name="two-file-processing"></a>Two file processing
+## <a name="two-file-processing"></a>Two File Processing
 
 First, a bit about `$#ARGV` and hash variables
 
@@ -1760,7 +1932,7 @@ key:1 present
 
 <br>
 
-#### <a name="comparing-whole-lines"></a>Comparing whole lines
+### <a name="comparing-whole-lines"></a>Comparing Whole Lines
 
 Consider the following test files
 
@@ -1782,7 +1954,9 @@ White
 ```
 
 * For two files as input, `$#ARGV` will be `0` only when first file is being processed
+
 * Using `next` will skip rest of code
+
 * entire line is used as key
 
 ```bash
@@ -1807,10 +1981,15 @@ White
 ```
 
 * alternative constructs
+
 * `<FILEHANDLE>` reads line(s) from the specified file
+
     * defaults to current file argument(includes stdin as well), so `<>` can be used as shortcut
+
     * `<STDIN>` will read only from stdin, there are also predefined handles for stdout/stderr
+
     * in list context, all the lines would be read
+
     * See [perldoc - I/O Operators](https://perldoc.perl.org/perlop.html#I%2fO-Operators) for details
 
 ```bash
@@ -1843,7 +2022,7 @@ Red
 
 <br>
 
-#### <a name="comparing-specific-fields"></a>Comparing specific fields
+### <a name="comparing-specific-fields"></a>Comparing Specific Fields
 
 Consider the sample input file
 
@@ -1860,6 +2039,7 @@ CSE     Amy     67
 ```
 
 * single field
+
 * For ex: only first field comparison instead of entire line as key
 
 ```bash
@@ -1936,7 +2116,7 @@ ECE     Om      92
 
 <br>
 
-#### <a name="line-number-matching"></a>Line number matching
+### <a name="line-number-matching"></a>Line Number Matching
 
 ```bash
 $ # replace mth line in poem.txt with nth line from nums.txt
@@ -1959,7 +2139,7 @@ banana  31
 
 <br>
 
-## <a name="creating-new-fields"></a>Creating new fields
+## <a name="creating-new-fields"></a>Creating New Fields
 
 * Number of fields in input record can be changed by simply manipulating `$#F`
 
@@ -1983,6 +2163,7 @@ foo,bar,123,baz,,,42
 ```
 
 * adding a field based on existing fields
+
     * See also [split](#split) and [Array operations](#array-operations) sections
 
 ```bash
@@ -2030,7 +2211,7 @@ CSE     Amy     67      sports_rep
 
 <br>
 
-## <a name="multiple-file-input"></a>Multiple file input
+## <a name="multiple-file-input"></a>Multiple File Input
 
 * there is no gawk's `FNR/BEGINFILE/ENDFILE` equivalent in perl, but it can be worked around
 
@@ -2053,6 +2234,7 @@ Have a safe journey
 ```
 
 * workaround for gawk's `nextfile`
+
 * to skip remaining lines from current file being processed and move on to next file
 
 ```bash
@@ -2070,7 +2252,7 @@ colors_2.txt
 
 <br>
 
-## <a name="dealing-with-duplicates"></a>Dealing with duplicates
+## <a name="dealing-with-duplicates"></a>Dealing With Duplicates
 
 * retain only first copy of duplicates
 
@@ -2100,6 +2282,7 @@ $ perl -lane '$c++ if !$seen{$F[1]}++; END{print $c+0}' duplicates.txt
 ```
 
 * if input is so large that integer numbers can overflow
+
 * See also [perldoc - bignum](https://perldoc.perl.org/bignum.html)
 
 ```bash
@@ -2123,6 +2306,7 @@ $ perl -Mbignum -lane '$c++ if !$seen{$F[1]}; $seen{$F[1]}=1;
 ```
 
 * multiple fields
+
 * See also [unix.stackexchange - based on same fields that could be in different order](https://unix.stackexchange.com/questions/325619/delete-lines-that-contain-the-same-information-but-in-different-order)
 
 ```bash
@@ -2163,6 +2347,7 @@ good toy ****
 ```
 
 * filtering based on duplicate count
+
 * allows to emulate [uniq](Sorting_Stuff.md#uniq) command for specific fields
 
 ```bash
@@ -2190,14 +2375,15 @@ test toy 123
 
 <br>
 
-## <a name="lines-between-two-regexps"></a>Lines between two REGEXPs
+## <a name="lines-between-two-regexps"></a>Lines Between Two REGEXPs
 
 * This section deals with filtering lines bound by two *REGEXP*s (referred to as blocks)
+
 * For simplicity the two *REGEXP*s usually used in below examples are the strings **BEGIN** and **END**
 
 <br>
 
-#### <a name="all-unbroken-blocks"></a>All unbroken blocks
+### <a name="all-unbroken-blocks"></a>All Unbroken Blocks
 
 Consider the below sample input file, which doesn't have any unbroken blocks (i.e **BEGIN** and **END** are always present in pairs)
 
@@ -2272,7 +2458,7 @@ $ perl -ne '$f=1 if /BEGIN/; $f=0 if /END/; print if !$f' range.txt
 
 <br>
 
-#### <a name="specific-blocks"></a>Specific blocks
+### <a name="specific-blocks"></a>Specific Blocks
 
 * Getting first block
 
@@ -2373,9 +2559,10 @@ $ seq 30 | perl -ne 'if(/4/){$f=1; $m=0; $b=""}; $m=1 if $f && /^(5|25)$/;
 
 <br>
 
-#### <a name="broken-blocks"></a>Broken blocks
+### <a name="broken-blocks"></a>Broken Blocks
 
 * If there are blocks with ending *REGEXP* but without corresponding start, earlier techniques used will suffice
+
 * Consider the modified input file where starting *REGEXP* doesn't have corresponding ending
 
 ```bash
@@ -2446,7 +2633,7 @@ $ # 'undef $b' can also be used here instead of $b=""
 
 <br>
 
-## <a name="array-operations"></a>Array operations
+## <a name="array-operations"></a>Array Operations
 
 * initialization
 
@@ -2475,6 +2662,7 @@ baz 1)foo
 ```
 
 * accessing individual elements
+
 * See also [perldoc - functions for arrays](https://perldoc.perl.org/index-functions-by-cat.html#Functions-for-real-@ARRAYs) for push,pop,shift,unshift functions
 
 ```bash
@@ -2499,6 +2687,7 @@ $ perl -le '@nums = (4, "foo", 2, "x"); print scalar @nums'
 ```
 
 * array slices
+
 * See also [perldoc - Range Operators](https://perldoc.perl.org/perlop.html#Range-Operators)
 
 ```bash
@@ -2537,7 +2726,7 @@ l m n o p q r s t u v w x y z aa ab ac ad
 
 <br>
 
-#### <a name="iteration-and-filtering"></a>Iteration and filtering
+### <a name="iteration-and-filtering"></a>Iteration And Filtering
 
 * See also [stackoverflow - extracting multiline text and performing substitution](https://stackoverflow.com/questions/47653826/awk-extracting-a-data-which-is-on-several-lines/47654406#47654406)
 
@@ -2565,6 +2754,7 @@ c
 ```
 
 * use `grep` for filtering array elements based on a condition
+
 * See also [unix.stackexchange - extract specific fields and use corresponding header text](https://unix.stackexchange.com/questions/397498/create-lists-of-words-according-to-binary-numbers/397504#397504)
 
 ```bash
@@ -2633,9 +2823,10 @@ $ # which then gets converted to int index
 
 <br>
 
-#### <a name="sorting"></a>Sorting
+### <a name="sorting"></a>Sorting
 
 * See [perldoc - sort](https://perldoc.perl.org/functions/sort.html) for details
+
 * `$a` and `$b` are special variables used for sorting, avoid using them as user defined variables
 
 ```bash
@@ -2731,13 +2922,16 @@ Amy     67      CSE
 **Further Reading**
 
 * [perldoc - How do I sort a hash (optionally by value instead of key)?](https://perldoc.perl.org/perlfaq4.html#How-do-I-sort-a-hash-(optionally-by-value-instead-of-key)%3f)
+
 * [stackoverflow - sort the keys of a hash by value](https://stackoverflow.com/questions/10901084/how-to-sort-perl-hash-on-values-and-order-the-keys-correspondingly-in-two-array)
+
 * [stackoverflow - sort only from 2nd field, ignore header](https://stackoverflow.com/questions/48920626/sort-rows-in-csv-file-without-header-first-column)
+
 * [stackoverflow - sort based on group of lines](https://stackoverflow.com/questions/48925359/sorting-groups-of-lines)
 
 <br>
 
-#### <a name="transforming"></a>Transforming
+### <a name="transforming"></a>Transforming
 
 * shuffling list elements
 
@@ -2794,7 +2988,7 @@ $ echo "$s" | perl -MList::Util=shuffle -lane '$,=" ";
 tshi si a mleasp ncstneee
 ```
 
-* fun little unreadable script...
+* fun little unreadable script…
 
 ```bash
 $ cat para.txt
@@ -2817,6 +3011,7 @@ Hpoe I can wkae toshe daemrs all over aiagn.
 ```
 
 * reverse array
+
 * See also [stackoverflow - apply tr and reverse to particular column](https://stackoverflow.com/questions/45571828/execute-bash-command-inside-awk-and-print-command-output/45572038#45572038)
 
 ```bash
@@ -2839,12 +3034,16 @@ raboof
 
 <br>
 
-#### <a name="split"></a>split
+### <a name="split"></a>split
 
 * the `-a` command line option uses `split` and automatically saves the results in `@F` array
+
 * default separator is `\s+`
+
 * by default acts on `$_`
+
 * and by default all splits are performed
+
 * See also [perldoc - split function](https://perldoc.perl.org/functions/split.html)
 
 ```bash
@@ -2869,6 +3068,7 @@ a:1 b 2 c:
 ```
 
 * by default, trailing empty fields are stripped
+
 * specify a negative value to preserve trailing empty fields
 
 ```bash
@@ -2936,7 +3136,7 @@ $ echo 'a 1 b 2 c' | perl -lne '@x=split /b[ ]/; print $x[1]'
 
 <br>
 
-#### <a name="fixed-width-processing"></a>Fixed width processing
+### <a name="fixed-width-processing"></a>Fixed Width Processing
 
 ```bash
 $ # here 'a' indicates arbitrary binary data
@@ -2965,14 +3165,18 @@ b gleam good
 **Further Reading**
 
 * [perldoc - tutorial on pack and unpack](https://perldoc.perl.org/perlpacktut.html)
+
 * [perldoc - substr](https://perldoc.perl.org/functions/substr.html)
+
 * [stackoverflow - extract columns from a fixed-width format](https://stackoverflow.com/questions/1494611/how-can-i-extract-columns-from-a-fixed-width-format-in-perl)
+
 * [stackoverflow - build fixed-width template from header](https://stackoverflow.com/questions/4911044/parse-fixed-width-files)
+
 * [stackoverflow - convert fixed-width to delimited format](https://stackoverflow.com/questions/43734981/display-column-from-empty-column-delimited-space-in-bash)
 
 <br>
 
-#### <a name="string-and-file-replication"></a>String and file replication
+### <a name="string-and-file-replication"></a>String And File Replication
 
 ```bash
 $ # replicate each line
@@ -3019,11 +3223,14 @@ $ perl -le '@x=glob "{1,3}" x 3; print "@x"'
 
 <br>
 
-#### <a name="transliteration"></a>transliteration
+### <a name="transliteration"></a>transliteration
 
 * See `tr` under [perldoc - Quote-Like Operators](https://perldoc.perl.org/perlop.html#Quote-Like-Operators) section for details
+
 * similar to substitution, by default `tr` acts on `$_` variable and modifies it unless `r` modifier is specified
+
 * however, characters `$` and `@` are treated as literals - i.e no interpolation
+
 * similar to `sed`, one can also use `y` instead of `tr`
 
 ```bash
@@ -3078,6 +3285,7 @@ y=FOOD
 ```
 
 * since `-` is used for character ranges, place it at the start/end to represent it literally
+
 * similarly, to represent `\` literally, use `\\`
 
 ```bash
@@ -3110,9 +3318,10 @@ $ echo 'How are you?' | perl -Mopen=locale -Mutf8 -pe 'tr/a-zA-Z/𝗮-𝘇𝗔-�
 
 <br>
 
-#### <a name="executing-external-commands"></a>Executing external commands
+### <a name="executing-external-commands"></a>Executing External Commands
 
 * External commands can be issued using `system` function
+
 * Output would be as usual on `stdout` unless redirected while calling the command
 
 ```bash
@@ -3136,6 +3345,7 @@ I bought two bananas and three mangoes
 ```
 
 * return value of `system` will have exit status information or `$?` can be used
+
 * see [perldoc - system](https://perldoc.perl.org/functions/system.html) for details
 
 ```bash
@@ -3152,6 +3362,7 @@ exit status: 512
 ```
 
 * to save result of external command, use backticks or `qx` operator
+
 * newline gets saved too, use `chomp` if needed
 
 ```bash
@@ -3170,20 +3381,35 @@ $ perl -e '$nums = qx/seq 3/; print $nums'
 ## <a name="further-reading"></a>Further Reading
 
 * Manual and related
-    * [perldoc - overview](https://perldoc.perl.org/index-overview.html)
-    * [perldoc - faqs](https://perldoc.perl.org/index-faq.html)
-    * [perldoc - tutorials](https://perldoc.perl.org/index-tutorials.html)
-    * [perldoc - functions](https://perldoc.perl.org/index-functions.html)
-    * [perldoc - special variables](https://perldoc.perl.org/perlvar.html)
-    * [perldoc - perlretut](https://perldoc.perl.org/perlretut.html)
-* Tutorials and Q&A
-    * [Perl one-liners explained](http://www.catonmat.net/series/perl-one-liners-explained)
-    * [perl Q&A on stackoverflow](https://stackoverflow.com/questions/tagged/perl?sort=votes&pageSize=15)
-    * [regex FAQ on SO](https://stackoverflow.com/questions/22937618/reference-what-does-this-regex-mean)
-    * [regexone](https://regexone.com/) - interative tutorial
-    * [regexcrossword](https://regexcrossword.com/) - practice by solving crosswords, read 'How to play' section before you start
-* Alternatives
-    * [bioperl](http://bioperl.org/howtos/index.html)
-    * [ruby](https://www.ruby-lang.org/en/)
-    * [unix.stackexchange - When to use grep, sed, awk, perl, etc](https://unix.stackexchange.com/questions/303044/when-to-use-grep-less-awk-sed)
 
+    * [perldoc - overview](https://perldoc.perl.org/index-overview.html)
+
+    * [perldoc - faqs](https://perldoc.perl.org/index-faq.html)
+
+    * [perldoc - tutorials](https://perldoc.perl.org/index-tutorials.html)
+
+    * [perldoc - functions](https://perldoc.perl.org/index-functions.html)
+
+    * [perldoc - special variables](https://perldoc.perl.org/perlvar.html)
+
+    * [perldoc - perlretut](https://perldoc.perl.org/perlretut.html)
+
+* Tutorials and Q&A
+
+    * [Perl one-liners explained](http://www.catonmat.net/series/perl-one-liners-explained)
+
+    * [perl Q&A on stackoverflow](https://stackoverflow.com/questions/tagged/perl?sort=votes&pageSize=15)
+
+    * [regex FAQ on SO](https://stackoverflow.com/questions/22937618/reference-what-does-this-regex-mean)
+
+    * [regexone](https://regexone.com/) - interative tutorial
+
+    * [regexcrossword](https://regexcrossword.com/) - practice by solving crosswords, read 'How to play' section before you start
+
+* Alternatives
+
+    * [bioperl](http://bioperl.org/howtos/index.html)
+
+    * [ruby](https://www.ruby-lang.org/en/)
+
+    * [unix.stackexchange - When to use grep, sed, awk, perl, etc](https://unix.stackexchange.com/questions/303044/when-to-use-grep-less-awk-sed)

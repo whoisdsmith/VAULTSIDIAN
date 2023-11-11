@@ -1,10 +1,12 @@
-# Fun Working with Files Using Awk and Sed
+# Fun Working With Files Using Awk And Sed
+
+## Fun Working with Files Using Awk and Sed
 
 ---
 
 There are two awesome Linux commands providing a great flexibility in manipulating with text files: awk and sed. These commands sadly are not so popular and widely highlighted as another Linux commands. Let’s see what we can do with these commands.
 
-## Awk
+### Awk
 
 Print all line containing string
 
@@ -36,7 +38,7 @@ Interesting trick: compare output of two commands awk using command diff
 awk '{print $3}' f1.txt | sort -u > out1awk '{print $2}' f2.txt | sort -u > out2diff out1 out2
 ```
 
-## Sed
+### Sed
 
 Print lines in range numbers in file
 

@@ -1,4 +1,6 @@
-# Quickly Identify and Remove Illegal Characters in Your Large Text Files
+# Quickly Identify And Remove Illegal Characters In Your Large Text Files
+
+## Quickly Identify and Remove Illegal Characters in Your Large Text Files
 
 ---
 

@@ -1,3 +1,5 @@
+# Learning-The-Shell-Lesson-6-Working-With-Commands
+
 Up until now, we have seen a number of commands and their mysterious options and arguments. In this lesson, we will try to remove some of that mystery. We will introduce the following commands.
 
 -   `[type](http://linuxcommand.org/lc3_man_pages/typeh.html)` - Display information about command type
@@ -5,24 +7,24 @@ Up until now, we have seen a number of commands and their mysterious options and
 -   `[help](http://linuxcommand.org/lc3_man_pages/helph.html)` - Display reference page for shell builtin
 -   `[man](http://linuxcommand.org/lc3_man_pages/man1.html)` - Display an on-line command reference
 
-## What are "Commands?"
+## What Are "Commands?"
 
 Commands can be one of 4 different kinds:
 
-1.  **An executable program** like all those files we saw in /usr/bin. Within this category, programs can be _compiled binaries_ such as programs written in C and C++, or programs written in _scripting languages_ such as the shell, Perl, Python, Ruby, etc.
-2.  **A command built into the shell itself.** bash provides a number of commands internally called _shell builtins_. The `cd` command, for example, is a shell builtin.
-3.  **A shell function.** These are miniature shell scripts incorporated into the _environment_. We will cover configuring the environment and writing shell functions in later lessons, but for now, just be aware that they exist.
+1.  **An executable program** like all those files we saw in /usr/bin. Within this category, programs can be *compiled binaries* such as programs written in C and C++, or programs written in *scripting languages* such as the shell, Perl, Python, Ruby, etc.
+2.  **A command built into the shell itself.** bash provides a number of commands internally called *shell builtins*. The `cd` command, for example, is a shell builtin.
+3.  **A shell function.** These are miniature shell scripts incorporated into the *environment*. We will cover configuring the environment and writing shell functions in later lessons, but for now, just be aware that they exist.
 4.  **An alias.** Commands that we can define ourselves, built from other commands. This will be covered in a later lesson.
 
 ## Identifying Commands
 
 It is often useful to know exactly which of the four kinds of commands is being used and Linux provides a couple of ways to find out.
 
-### type
+### Type
 
 The `type` command is a shell builtin that displays the kind of command the shell will execute, given a particular command name. It works like this:
 
-type _command_
+type *command*
 
 where “command” is the name of the command we want to examine. Here are some examples:
 
@@ -30,7 +32,7 @@ where “command” is the name of the command we want to examine. Here are some
 
 Here we see the results for three different commands. Notice that the one for `ls` and how the ls command is actually an alias for the `ls` command with the “-- color=auto” option added. Now we know why the output from `ls` is displayed in color!
 
-### which
+### Which
 
 Sometimes there is more than one version of an executable program installed on a system. While this is not very common on desktop systems, it's not unusual on large servers. To determine the exact location of a given executable, the `which` command is used:
 
@@ -42,7 +44,7 @@ Sometimes there is more than one version of an executable program installed on a
 
 With this knowledge of what a command is, we can now search for the documentation available for each kind of command.
 
-### help
+### Help
 
 `bash` has a built-in help facility available for each of the shell builtins. To use it, type “help” followed by the name of the shell builtin. Optionally, we can add the -m option to change the format of the output. For example:
 
@@ -58,15 +60,15 @@ This notation says that the command `cd` may be followed optionally by either a 
 
 Many executable programs support a “--help” option that displays a description of the command's supported syntax and options. For example:
 
-\[me@linuxbox me\]$ `mkdir --help` Usage: mkdir \[OPTION\] DIRECTORY... Create the DIRECTORY(ies), if they do not already exist. Mandatory arguments to long options are mandatory for short options too. -Z, --context=CONTEXT (SELinux) set security context to CONTEXT -m, --mode=MODE set file mode (as in chmod), not a=rwx – umask -p, --parents no error if existing, make parent directories as needed -v, --verbose print a message for each created directory --help display this help and exit --version output version information and exit
+\[me@linuxbox me\]$ `mkdir --help` Usage: mkdir \[OPTION\] DIRECTORY… Create the DIRECTORY(ies), if they do not already exist. Mandatory arguments to long options are mandatory for short options too. -Z, --context=CONTEXT (SELinux) set security context to CONTEXT -m, --mode=MODE set file mode (as in chmod), not a=rwx – umask -p, --parents no error if existing, make parent directories as needed -v, --verbose print a message for each created directory --help display this help and exit --version output version information and exit
 
 Some programs don't support the “--help” option, but try it anyway. Often it results in an error message that will reveal similar usage information.
 
-### man
+### Man
 
-Most executable programs intended for command line use provide a formal piece of documentation called a _manual_ or _man page_. A special paging program called `man` is used to view them. It is used like this:
+Most executable programs intended for command line use provide a formal piece of documentation called a *manual* or *man page*. A special paging program called `man` is used to view them. It is used like this:
 
-man _program_
+man *program*
 
 where “program” is the name of the command to view. Man pages vary somewhat in format but generally contain a title, a synopsis of the command's syntax, a description of the command's purpose, and a listing and description of each of the command's options. Man pages, however, do not usually include examples, and are intended as a reference, not a tutorial. Let's try viewing the man page for the `ls` command:
 

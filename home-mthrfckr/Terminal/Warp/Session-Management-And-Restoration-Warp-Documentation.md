@@ -11,4 +11,5 @@ author:
 > When Warp opens, it restores your session history, specifically windows, tabs, panes, and also the last few Blocks in each pane.
 
 ---
+
 When Warp opens, it restores your session history, specifically windows, tabs, panes, and also the last few Blocks in each pane.

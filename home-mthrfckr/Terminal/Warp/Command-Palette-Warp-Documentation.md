@@ -11,6 +11,7 @@ author:
 > Command Palette allows you to search for keyboard shortcuts on how to complete various tasks within Warp.
 
 ---
+
 Command Palette allows you to search for keyboard shortcuts on how to complete various tasks within Warp.
 
 To access, press `**CMD-P**`.
@@ -21,15 +22,11 @@ Getting Started - Previous
 
 Learn More
 
-
-
 ](https://docs.warp.dev/getting-started/learn-more)[
 
 Next - Features
 
 Blocks
-
-
 
 ](https://docs.warp.dev/features/blocks)
 

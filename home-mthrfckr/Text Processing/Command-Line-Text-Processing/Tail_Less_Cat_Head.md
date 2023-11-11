@@ -3,29 +3,53 @@
 **Table of Contents**
 
 * [cat](#cat)
+
     * [Concatenate files](#concatenate-files)
+
     * [Accepting input from stdin](#accepting-input-from-stdin)
+
     * [Squeeze consecutive empty lines](#squeeze-consecutive-empty-lines)
+
     * [Prefix line numbers](#prefix-line-numbers)
+
     * [Viewing special characters](#viewing-special-characters)
+
     * [Writing text to file](#writing-text-to-file)
+
     * [tac](#tac)
+
     * [Useless use of cat](#useless-use-of-cat)
+
     * [Further Reading for cat](#further-reading-for-cat)
+
 * [less](#less)
+
     * [Navigation commands](#navigation-commands)
+
     * [Further Reading for less](#further-reading-for-less)
+
 * [tail](#tail)
+
     * [linewise tail](#linewise-tail)
+
     * [characterwise tail](#characterwise-tail)
+
     * [multiple file input for tail](#multiple-file-input-for-tail)
+
     * [Further Reading for tail](#further-reading-for-tail)
+
 * [head](#head)
+
     * [linewise head](#linewise-head)
+
     * [characterwise head](#characterwise-head)
+
     * [multiple file input for head](#multiple-file-input-for-head)
+
     * [combining head and tail](#combining-head-and-tail)
+
     * [Further Reading for head](#further-reading-for-head)
+
 * [Text Editors](#text-editors)
 
 <br>
@@ -53,13 +77,15 @@ DESCRIPTION
 ```
 
 * For below examples, `marks_201*` files contain 3 fields delimited by TAB
+
 * To avoid formatting issues, TAB has been converted to spaces using `col -x` while pasting the output here
 
 <br>
 
-#### <a name="concatenate-files"></a>Concatenate files
+### <a name="concatenate-files"></a>Concatenate Files
 
 * One or more files can be given as input and hence a lot of times, `cat` is used to quickly see contents of small single file on terminal
+
 * To save the output of concatenation, just redirect stdout
 
 ```bash
@@ -83,7 +109,7 @@ $ cat marks_201* > all_marks.txt
 
 <br>
 
-#### <a name="accepting-input-from-stdin"></a>Accepting input from stdin
+### <a name="accepting-input-from-stdin"></a>Accepting Input from Stdin
 
 ```bash
 $ # combining input from stdin and other files
@@ -107,7 +133,7 @@ bak     71      65
 
 <br>
 
-#### <a name="squeeze-consecutive-empty-lines"></a>Squeeze consecutive empty lines
+### <a name="squeeze-consecutive-empty-lines"></a>Squeeze Consecutive Empty Lines
 
 ```bash
 $ printf 'hello\n\n\nworld\n\nhave a nice day\n'
@@ -127,7 +153,7 @@ have a nice day
 
 <br>
 
-#### <a name="prefix-line-numbers"></a>Prefix line numbers
+### <a name="prefix-line-numbers"></a>Prefix Line Numbers
 
 ```bash
 $ # number all lines
@@ -160,9 +186,10 @@ nl (1)               - number lines of files
 
 <br>
 
-#### <a name="viewing-special-characters"></a>Viewing special characters
+### <a name="viewing-special-characters"></a>Viewing Special Characters
 
 * End of line identified by `$`
+
 * Useful for example to see trailing spaces
 
 ```bash
@@ -182,6 +209,7 @@ bar^I87^I85
 ```
 
 * Non-printing characters
+
 * See [Show Non-Printing Characters](http://docstore.mik.ua/orelly/unix/upt/ch25_07.htm) for more detailed info
 
 ```bash
@@ -198,12 +226,14 @@ Hello World!
 ```
 
 * the `-A` option is equivalent to `-vET`
+
 * the `-e` option is equivalent to `-vE`
+
 * If `dos2unix` and `unix2dos` are not available, see [How to convert DOS/Windows newline (CRLF) to Unix newline (\n)](https://stackoverflow.com/questions/2613800/how-to-convert-dos-windows-newline-crlf-to-unix-newline-n-in-a-bash-script)
 
 <br>
 
-#### <a name="writing-text-to-file"></a>Writing text to file
+### <a name="writing-text-to-file"></a>Writing Text to File
 
 ```bash
 $ cat > sample.txt
@@ -216,12 +246,14 @@ Press Ctrl+d on a newline to save and quit.
 ```
 
 * See also how to use [heredoc](http://mywiki.wooledge.org/HereDocument)
+
     * [How can I write a here doc to a file](https://stackoverflow.com/questions/2953081/how-can-i-write-a-here-doc-to-a-file-in-bash-script)
+
 * See also [difference between Ctrl+c and Ctrl+d to signal end of stdin input in bash](https://unix.stackexchange.com/questions/16333/how-to-signal-the-end-of-stdin-input-in-bash)
 
 <br>
 
-#### <a name="tac"></a>tac
+### <a name="tac"></a>tac
 
 ```bash
 $ whatis tac
@@ -241,7 +273,9 @@ Name    Maths   Science
 ```
 
 * Useful in cases where logic is easier to write when working on reversed file
+
 * Consider this made up log file, many **Warning** lines but need to extract only from last such **Warning** upto **Error** line
+
     * See [GNU sed chapter](Gnu_Sed.md#lines-between-two-regexps) for details on the `sed` command used below
 
 ```bash
@@ -272,10 +306,12 @@ rev (1)              - reverse lines characterwise
 
 <br>
 
-#### <a name="useless-use-of-cat"></a>Useless use of cat
+### <a name="useless-use-of-cat"></a>Useless Use of Cat
 
 * `cat` is used so frequently to view contents of a file that somehow users think other commands cannot handle file input
+
 * [UUOC](https://en.wikipedia.org/wiki/Cat_(Unix)#Useless_use_of_cat)
+
 * [Useless Use of Cat Award](http://porkmail.org/era/unix/award.html)
 
 ```bash
@@ -317,9 +353,10 @@ $ cat marks_201* | grep -c 'foo'
 
 <br>
 
-#### <a name="further-reading-for-cat"></a>Further Reading for cat
+### <a name="further-reading-for-cat"></a>Further Reading for Cat
 
 * [cat Q&A on unix stackexchange](https://unix.stackexchange.com/questions/tagged/cat?sort=votes&pageSize=15)
+
 * [cat Q&A on stackoverflow](https://stackoverflow.com/questions/tagged/cat?sort=votes&pageSize=15)
 
 <br>
@@ -345,33 +382,47 @@ Files /usr/bin/pager and /usr/bin/less are identical
 ```
 
 * `cat` command is NOT suitable for viewing contents of large files on the Terminal
+
 * `less` displays contents of a file, automatically fits to size of Terminal, allows scrolling in either direction and other options for effective viewing
+
 * Usually, `man` command uses `less` command to display the help page
+
 * The navigation commands are similar to `vi` editor
 
 <br>
 
-#### <a name="navigation-commands"></a>Navigation commands
+### <a name="navigation-commands"></a>Navigation Commands
 
 Commonly used commands are given below, press `h` for summary of options
 
 * `g` go to start of file
+
 * `G` go to end of file
+
 * `q` quit
+
 * `/pattern` search for the given pattern in forward direction
+
 * `?pattern` search for the given pattern in backward direction
+
 * `n` go to next pattern
+
 * `N` go to previous pattern
 
 <br>
 
-#### <a name="further-reading-for-less"></a>Further Reading for less
+### <a name="further-reading-for-less"></a>Further Reading for less
 
 * See `man less` for detailed info on commands and options. For example:
+
     * `-s` option to squeeze consecutive blank lines
+
     * `-N` option to prefix line number
+
 * `less` command is an [improved version](https://unix.stackexchange.com/questions/604/isnt-less-just-more) of `more` command
+
 * [differences between most, more and less](https://unix.stackexchange.com/questions/81129/what-are-the-differences-between-most-more-and-less)
+
 * [less Q&A on unix stackexchange](https://unix.stackexchange.com/questions/tagged/less?sort=votes&pageSize=15)
 
 <br>
@@ -401,7 +452,7 @@ DESCRIPTION
 
 <br>
 
-#### <a name="linewise-tail"></a>linewise tail
+### <a name="linewise-tail"></a>linewise Tail
 
 Consider this sample file, with line numbers prefixed
 
@@ -476,7 +527,7 @@ $ seq 13 17 | tail -n +3
 
 <br>
 
-#### <a name="characterwise-tail"></a>characterwise tail
+### <a name="characterwise-tail"></a>characterwise Tail
 
 * Note that this works byte wise and not suitable for multi-byte character encodings
 
@@ -492,7 +543,7 @@ i there!
 
 <br>
 
-#### <a name="multiple-file-input-for-tail"></a>multiple file input for tail
+### <a name="multiple-file-input-for-tail"></a>multiple File Input for Tail
 
 ```bash
 $ tail -n2 report.log sample.txt
@@ -514,13 +565,18 @@ blah blah blah
 
 <br>
 
-#### <a name="further-reading-for-tail"></a>Further Reading for tail
+### <a name="further-reading-for-tail"></a>Further Reading for Tail
 
 * `tail -f` and related options are beyond the scope of this tutorial. Below links might be useful
+
     * [look out for buffering](http://mywiki.wooledge.org/BashFAQ/009)
+
     * [Piping tail -f output though grep twice](https://stackoverflow.com/questions/13858912/piping-tail-output-though-grep-twice)
+
     * [tail and less](https://unix.stackexchange.com/questions/196168/does-less-have-a-feature-like-tail-follow-name-f)
+
 * [tail Q&A on unix stackexchange](https://unix.stackexchange.com/questions/tagged/tail?sort=votes&pageSize=15)
+
 * [tail Q&A on stackoverflow](https://stackoverflow.com/questions/tagged/tail?sort=votes&pageSize=15)
 
 <br>
@@ -550,7 +606,7 @@ DESCRIPTION
 
 <br>
 
-#### <a name="linewise-head"></a>linewise head
+### <a name="linewise-head"></a>linewise Head
 
 * default behavior - display starting 10 lines
 
@@ -605,7 +661,7 @@ $ seq 13 17 | head -n -2
 
 <br>
 
-#### <a name="characterwise-head"></a>characterwise head
+### <a name="characterwise-head"></a>characterwise Head
 
 * Note that this works byte wise and not suitable for multi-byte character encodings
 
@@ -624,7 +680,7 @@ Hi the
 
 <br>
 
-#### <a name="multiple-file-input-for-head"></a>multiple file input for head
+### <a name="multiple-file-input-for-head"></a>multiple File Input for Head
 
 ```bash
 $ head -n3 report.log sample.txt
@@ -650,7 +706,7 @@ more blah
 
 <br>
 
-#### <a name="combining-head-and-tail"></a>combining head and tail
+### <a name="combining-head-and-tail"></a>combining Head and Tail
 
 * Despite involving two commands, often this combination is faster than equivalent sed/awk versions
 
@@ -667,7 +723,7 @@ $ tail sample.txt | head -n2
 
 <br>
 
-#### <a name="further-reading-for-head"></a>Further Reading for head
+### <a name="further-reading-for-head"></a>Further Reading for Head
 
 * [head Q&A on unix stackexchange](https://unix.stackexchange.com/questions/tagged/head?sort=votes&pageSize=15)
 
@@ -680,15 +736,21 @@ For editing text files, the following applications can be used. Of these, `gedit
 Easy to use
 
 * [gedit](https://wiki.gnome.org/Apps/Gedit)
+
 * [geany](http://www.geany.org/)
+
 * [nano](http://nano-editor.org/)
 
 Powerful text editors
 
 * [vim](https://github.com/vim/vim)
+
     * [vim learning resources](https://github.com/learnbyexample/scripting_course/blob/master/Vim_curated_resources.md) and [vim reference](https://github.com/learnbyexample/vim_reference) for further info
+
 * [emacs](https://www.gnu.org/software/emacs/)
+
 * [atom](https://atom.io/)
+
 * [sublime](https://www.sublimetext.com/)
 
 Check out [this analysis](https://github.com/jhallen/joes-sandbox/tree/master/editor-perf) for some performance/feature comparisons of various text editors

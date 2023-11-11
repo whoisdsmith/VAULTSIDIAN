@@ -1023,7 +1023,6 @@ Quantifiers specify the number of characters that should be matched.
 - The question mark (?) means zero or one occurrence of the previous pattern. For example, a?b matches "b" or "ab".
     
 - Curly braces ({}) can specify a specific range of occurrences. For example, a{2,4}b matches "aab", "aaab", or "aaaab".
-    
 
 #### Wildcards
 
@@ -1094,7 +1093,6 @@ To create an alias, you need to modify your `.bashrc` or `.bash_profile` file. H
 - **Git status**: `alias gs='git status'` This will create an alias for the `git status` command.
     
 - **Navigation**: `alias ..='cd ..'` and `alias …='cd ../../../'` These aliases will make it easier to navigate up the directory tree.
-    
 
 ### Conclusion
 
@@ -1147,7 +1145,6 @@ To customize your prompt, you need to modify the PS1 environment variable. Here 
 - **Git Prompt**: `PS1='\u@\h \[\033[32m\]\w$(__git_ps1 " (%s)")\[\033[00m\]\$ '` This will show your username, computer name, current directory, and Git branch if you are in a Git repository.
     
 - **Time Prompt**: `PS1='\u@\h \t \w\$ '` This will show your username, computer name, current time, and current directory.
-    
 
 ## Shell Scripting
 
@@ -1389,6 +1386,5 @@ Some useful examples of command line usage could include:
 - Checking available disk space: `$ df -h`
     
 - Finding processes by name or ID: `$ ps -ef | grep "process_name"` or `$ ps ax | grep "PID"`
-    
 
 The command line interface is a valuable tool for any Mac user, whether they are a beginner or an experienced power user. It is an essential part of the Mac operating system, and mastering it can open up a whole new world of possibilities for users in terms of productivity and efficiency.

@@ -1,10 +1,12 @@
+# Learning-The-Shell-Lesson-3-Looking-Around
+
 Now that we know how to move from working directory to working directory, we're going to take a tour of our Linux system and, along the way, learn some things about what makes it tick. But before we begin, we have to learn about some tools that will come in handy during our journey. These are:
 
 -   `[ls](http://linuxcommand.org/lc3_man_pages/ls1.html)` (list files and directories)
 -   `[less](http://linuxcommand.org/lc3_man_pages/less1.html)` (view text files)
 -   `[file](http://linuxcommand.org/lc3_man_pages/file1.html)` (classify a file's contents)
 
-## ls
+## Ls
 
 The `ls` command is used to list the contents of a directory. It is probably the most commonly used Linux command. It can be used in a number of different ways. Here are some examples:
 
@@ -36,9 +38,9 @@ List all files (even ones with names beginning with a period character, which ar
 
 These examples also point out an important concept about commands. Most commands operate like this:
 
-_command -options arguments_
+*command -options arguments*
 
-where _command_ is the name of the command, _\-options_ is one or more adjustments to the command's behavior, and _arguments_ is one or more "things" upon which the command operates.
+where *command* is the name of the command, *\-options* is one or more adjustments to the command's behavior, and *arguments* is one or more "things" upon which the command operates.
 
 In the case of `ls`, we see that `ls` is the name of the command, and that it can have one or more options, such as `-a` and `-l`, and it can operate on one or more files or directories.
 
@@ -96,13 +98,13 @@ The name of the user who owns the file.
 
 A representation of the file's access permissions. The first character is the type of file. A "-" indicates a regular (ordinary) file. A "d" indicates a directory. The second set of three characters represent the read, write, and execution rights of the file's owner. The next three represent the rights of the file's group, and the final three represent the rights granted to everybody else. We'll discuss this in more detail in a later lesson.
 
-## less
+## Less
 
 `less` is a program that lets us view text files. This is very handy since many of the files used to control and configure Linux are human readable.
 
 The `less` program is invoked by simply typing:
 
-less _text\_file_
+less *text\_file*
 
 This will display the file.
 
@@ -132,9 +134,9 @@ Go to the end of the text file
 
 Go to the beginning of the text file
 
-/_characters_
+/*characters*
 
-Search forward in the text file for an occurrence of the specified _characters_
+Search forward in the text file for an occurrence of the specified *characters*
 
 n
 
@@ -148,7 +150,7 @@ q
 
 Quit
 
-## file
+## File
 
 As we wander around our Linux system, it is helpful to determine what kind of data a file contains before we try to view it. This is where the `file` command comes in. `file` will examine a file and tell us what kind of file it is.
 

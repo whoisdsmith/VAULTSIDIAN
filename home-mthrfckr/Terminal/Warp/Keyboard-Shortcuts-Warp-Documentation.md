@@ -11,13 +11,14 @@ author:
 > Warp opens with a shortcut screen showing some of the most commonly used keyboard shortcuts. Hide the shortcut screen by clicking the menu button below it.
 
 ---
+
 Warp opens with a shortcut screen showing some of the most commonly used keyboard shortcuts. Hide the shortcut screen by clicking the menu button below it.
 
 Set custom or change current keyboard shortcuts by navigating to Settings > Keyboard Shortcuts. Search through the remappable actions using the search bar.
 
 ![](https://848020679-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbqIgTw17KQvq_DQuRr%2Fuploads%2Fgit-blob-6b752ad9cf695f50fe6824f84ceb0a072a4aa272%2Fkeyboard-custom.gif?alt=media)
 
-## 
+##
 
 Input Editor Shortcuts
 
@@ -63,7 +64,7 @@ Select the entire editor buffer
 
 Select all occurrences of the word(s) that has a cursor in it
 
-## 
+##
 
 Block Shortcuts
 
@@ -87,7 +88,7 @@ Typing `clear` into the editor
 
 Inserts an empty block that spans the length of the terminal window
 
-## 
+##
 
 Terminal Shortcuts
 

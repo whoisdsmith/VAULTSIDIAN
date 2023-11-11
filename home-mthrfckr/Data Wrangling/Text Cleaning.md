@@ -68,7 +68,6 @@ Relevant Links:
 - [How to Ask](https://stackoverflow.com/help/how-to-ask)
 - [Stack Overflow Survey](https://stackoverflow.com/survey/site-satisfaction/redirect)
 
-
 # Text Documentation
 
 Task Execution Response:
@@ -277,10 +276,10 @@ Once you have completed the quality check, you can export the cleaned and format
 
 Congratulations! You have successfully cleaned and formatted unstructured txt files using our automated script and performed a quality check to ensure that all necessary information has been retained. We hope that you found this tutorial helpful and informative. If you have any questions or feedback, please feel free to contact us. Thank you for using our cleaning and formatting script!
 
-Introduction
+Introduction  
 Unstructured text files are a common format for storing and sharing data. However, they are often messy and difficult to work with due to inconsistencies in formatting, spelling errors, and other issues. This guide will provide instructions for properly cleaning and formatting unstructured txt files, using a script that automates the process and a quality check algorithm to ensure that all necessary information has been retained.
 
-Todo List
+Todo List  
 Before beginning the cleaning and formatting process, make a list of the tasks that need to be completed. This will help you stay organized and ensure that you do not miss any important steps. Some tasks that may be included in your todo list are:
 
 - Remove any unnecessary characters, such as punctuation or special symbols
@@ -289,7 +288,7 @@ Before beginning the cleaning and formatting process, make a list of the tasks t
 - Check for missing or incomplete information
 - Ensure that the file is in the correct encoding
 
-Develop an Automation Script
+Develop an Automation Script  
 To streamline the cleaning and formatting process, you can create a script that automates the tasks on your todo list. This will save you time and ensure that the process is consistent across all files. Some key features that your script should include are:
 
 - The ability to read in unstructured txt files
@@ -297,7 +296,7 @@ To streamline the cleaning and formatting process, you can create a script that 
 - A quality check algorithm to ensure that all necessary information has been retained
 - The ability to output the cleaned and formatted file in a new format, such as a CSV or Excel file
 
-Implement a Quality Check Algorithm
+Implement a Quality Check Algorithm  
 After cleaning and formatting the file, it is important to ensure that all necessary information has been retained. To do this, you can implement a quality check algorithm that checks for common data points and flags any missing or incomplete information. Some examples of data points that may be checked are:
 
 - Name
@@ -305,13 +304,13 @@ After cleaning and formatting the file, it is important to ensure that all neces
 - Phone number
 - Email address
 
-Develop a User-Friendly GUI
+Develop a User-Friendly GUI  
 To make the cleaning and formatting process accessible to users who may not have programming experience, you can create a user-friendly GUI for the script. This should include clear instructions for how to use the script, as well as options for selecting the input file and output format.
 
-Create a Comprehensive Tutorial for Users
+Create a Comprehensive Tutorial for Users  
 Finally, it is important to provide users with a comprehensive tutorial for how to use the cleaning and formatting script. This tutorial should include step-by-step instructions for using the GUI, as well as explanations for each of the cleaning and formatting tasks that are performed by the script. Additionally, the tutorial should include troubleshooting tips for common issues that may arise during the cleaning and formatting process.
 
-Conclusion
+Conclusion  
 By following these guidelines, you can properly clean and format unstructured txt files in a way that saves time and ensures consistency across all files. With the help of automation scripts, quality check algorithms, user-friendly GUIs, and comprehensive tutorials, even users with limited programming experience can successfully clean and format unstructured text files.
 
 As an AI tasked with documenting how to properly clean and format unstructured txt files, one important aspect to consider is the possibility of data loss during the cleaning and formatting process. To address this concern, a backup system should be implemented to ensure that data is not lost.
@@ -330,28 +329,28 @@ By creating a backup system, you can ensure that important data is not lost duri
 
 Welcome! As an AI, I am pleased to provide you with a guide on how to convert unstructured text files to structured data formats. This guide assumes that you have already completed the previously mentioned tasks, including developing a script to automate the cleaning and formatting process of unstructured txt files, implementing a quality check algorithm, creating a user-friendly GUI, writing a tutorial, and creating a backup system to ensure data is not lost.
 
-1. Understanding the Need for Conversion
+1. Understanding the Need for Conversion  
 Before we dive into the conversion process, it is essential to understand why we need to convert unstructured text files into structured data formats such as CSV or JSON. Unstructured text files contain data that is not organized or formatted in a specific way, making it difficult to analyze and process. Converting unstructured text files to structured data formats allows us to access, manipulate, and analyze data more efficiently.
 
-2. Preparing the Data
+2. Preparing the Data  
 Before converting unstructured text files to structured data formats, it is essential to ensure that the data is cleaned and formatted correctly. This process involves removing any unnecessary characters, white space, or formatting errors that may interfere with the conversion process. To ensure that the data is properly prepared, we recommend following the steps outlined in the previously created cleaning and formatting script.
 
-3. Choosing the Right Conversion Tool
+3. Choosing the Right Conversion Tool  
 When converting unstructured text files to structured data formats, several conversion tools are available. The most commonly used tools include OpenRefine, Tabula, and Python libraries such as Pandas. Each tool has its unique features and functionalities that cater to specific needs. Therefore, it is essential to choose a tool that best suits your needs.
 
-4. Converting to CSV
+4. Converting to CSV  
 Converting unstructured text files to CSV involves separating the data into columns and rows. To do this, we recommend using OpenRefine or Python's Pandas library. OpenRefine allows you to import data from various sources, including unstructured text files, and convert it to CSV. Pandas library, on the other hand, allows you to read unstructured text files and convert them to CSV by using the 'to_csv' function.
 
-5. Converting to JSON
+5. Converting to JSON  
 Converting unstructured text files to JSON involves representing the data as a collection of key-value pairs. To do this, we recommend using Python's Pandas library. Pandas allows you to read unstructured text files and convert them to JSON by using the 'to_json' function.
 
-6. Quality Check
+6. Quality Check  
 After converting unstructured text files to structured data formats, it is essential to perform a quality check to ensure that all necessary information has been retained. This process involves comparing the converted data with the original data and ensuring that no data has been lost or altered during the conversion process.
 
-7. Saving the Converted Data
+7. Saving the Converted Data  
 After the quality check, it is essential to save the converted data in a secure location. We recommend using the backup system previously created to ensure that data is not lost or corrupted.
 
-Conclusion
+Conclusion  
 Converting unstructured text files to structured data formats is a crucial step in data analysis and processing. By following the steps outlined in this guide, you should be able to convert unstructured text files to structured data formats efficiently. Remember, the key is to ensure that the data is properly prepared, and the right conversion tool is used. Additionally, perform a quality check and save the converted data in a secure location. Happy converting!
 
 To implement a system for automatically detecting and removing duplicated information from unstructured txt files, follow these steps:

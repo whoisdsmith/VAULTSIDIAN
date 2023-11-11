@@ -83,7 +83,7 @@ SpiderFoot's 200+ modules feed each other in a publisher/subscriber model to ens
 - Dark web searches
 - [Port scanning and banner grabbing](https://asciinema.org/a/295939)
 - [Data breach searches](https://asciinema.org/a/296145)
-- So much more...
+- So much more…
 
 ## INSTALLING & RUNNING
 

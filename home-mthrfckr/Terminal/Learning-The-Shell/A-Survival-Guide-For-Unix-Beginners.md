@@ -172,7 +172,6 @@ A common way to take a glance at a text file is with the `cat` command:
   $ cat README.txt  
   \* A README file for my home directory.
 
-  
     Documents contains my files.
 
   $ \_

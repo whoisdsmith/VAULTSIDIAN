@@ -24,13 +24,9 @@ Last command’s parameters (`vim !*`)
 
 `!^`
 
- 
-
 Last command’s first parameter
 
 `!$`
-
- 
 
 Last command’s last parameter
 
@@ -42,8 +38,6 @@ Command and params of last `ls` command
 
 `!?ls?:*` `<tab>`
 
- 
-
 Params of last `ls` command
 
 `*(m0)`
@@ -53,8 +47,6 @@ Params of last `ls` command
 Last modified today
 
 `*(m-4)`
-
- 
 
 Last modified <4 days ago
 

@@ -11,11 +11,12 @@ author:
 > Our mission is to make Warp the most accessible terminal for all developers. It includes fixing the UI, making it easier to use for both experts and new engineers who are just starting to use the command line tools. We also recognize the need to improve the experience for those visually impaiared, as - to our best knowledge - other terminal emulator apps didn't really do a good job in this area. This doc summarizes what we've done so far, how does Warp work with Voice Over and outlines the main changes from the typical workflow. For the features documentation and its keyboard shortcuts, please go to the feature-specific page in the documentation.
 
 ---
+
 Our mission is to make Warp the most accessible terminal for all developers. It includes fixing the UI, making it easier to use for both experts and new engineers who are just starting to use the command line tools. We also recognize the need to improve the experience for those visually impaiared, as - to our best knowledge - other terminal emulator apps didn't really do a good job in this area. This doc summarizes what we've done so far, how does Warp work with Voice Over and outlines the main changes from the typical workflow. For the features documentation and its keyboard shortcuts, please go to the feature-specific page in the documentation.
 
 **Keep in mind that this is a work-in-progress and the current state is not a final state of accessibility in Warp**.
 
-## 
+##
 
 How to use Warp with Voice Over?
 
@@ -33,7 +34,7 @@ The main terminal window is not that different from other terminals - there's a 
 
 A main entry point for discovering new features and actions is our Command Palette, which you can access by executing the cmd-p shortcut.
 
-## 
+##
 
 Differences from the regular Voice Over workflow
 
@@ -41,13 +42,13 @@ As you may notice, typical Voice Over navigation keys or settings do not current
 
 Instead, whenever you perform an action and/or something happens in the background, Warp announces it to you, letting you know what's going on and what are possible actions you can take. Since it's a terminal, we care about all user actions being keyboard accessible from the start, so pretty much all our features have the assigned keybindings already. You can adjust the default keybindings following the guide from this github repository: [https://github.com/warpdotdev/keysets](https://github.com/warpdotdev/keysets). You can also always fallback to using cmd-p to check the keybinding or execute the specific action.
 
-## 
+##
 
 A11y specific actions
 
 Some a11y-specific settings are available through the command palette. For example, you can adjust the verbosity level of messages. Simply enter the command palette (cmd-p) and type "a11y" to discover related options and their keybindings.
 
-## 
+##
 
 Future work
 

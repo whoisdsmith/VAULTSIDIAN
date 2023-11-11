@@ -1,4 +1,4 @@
-# essential-linux-commands
+# Essential-linux-commands
 
 ## To Anyone Getting Started with Linux, Check Out These Commands and Make Your Life Easier
 
@@ -42,7 +42,7 @@ mkdir newfolder
 
 ## Copy a File (cp)
 
-Copy files _from-here_ _to-there_ with the `cp` command. Here's an example to copy from file1.txt to file2.txt:
+Copy files *from-here* *to-there* with the `cp` command. Here's an example to copy from file1.txt to file2.txt:
 
 ```
 cp file1.txt file2.txt
@@ -58,7 +58,7 @@ touch newfile.txt
 
 ## Escalate Privileges (sudo)
 
-The `sudo` (or _super user do_) command comes in when you require super user permissions (root) while administering your system. When you're trying to do something and your computer alerts you that only an administrator (or root) user can do, stating Permission denied, just preface it with the command `sudo`:
+The `sudo` (or *super user do*) command comes in when you require super user permissions (root) while administering your system. When you're trying to do something and your computer alerts you that only an administrator (or root) user can do, stating Permission denied, just preface it with the command `sudo`:
 
 ```
 touch /etc/os-release && echo "Success"touch: cannot touch '/etc/os-release': Permission denied$ sudo touch /etc/os-release && echo "Success"Success

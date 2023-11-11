@@ -4,7 +4,6 @@
 
 ## ![Awesome macOS Command Line](https://git.herrbischoff.com/awesome-macos-command-line/plain/assets/logo.svg)
 
-
 ## [A Personal Note](https://git.herrbischoff.com/awesome-macos-command-line/about/#a-personal-note)
 
 Not all information contained in this list is always up-to-date with the latest OS releases. Apple does support devices for an extended time frame but they're also costly to purchase. Currently, I don't have the ability to replace my Mid-2014 15" MacBook Pro and it doesn't run Monterey or above. On one hand, the fact that this machine is still running mostly intact is a testament to its hardware and build quality. On the other, the fact that my older OS release will very soon not receive any security updates and bug fixes is a bit unsettling. And well, it directly affects my ability to provide timely updates.
@@ -16,7 +15,6 @@ Furthermore, looking at almost 26k GitHub stars for this repository, if only abo
 On top of everything, I'm currently out of a job, have little prospects, am very short on money and am going through a tough time. To help me out, the easiest way is to sponsor me via GitHub, either recurring or as a one-time donation. Every little bit helps. Thank you for considering it.
 
 [https://github.com/herrbischoff](https://github.com/herrbischoff)
-
 
 ## [Foreword](https://git.herrbischoff.com/awesome-macos-command-line/about/#foreword)
 
@@ -1848,9 +1846,9 @@ traceroute herrbischoff.com
 #### [Permanently Add Private Key Passphrase to SSH Agent](https://git.herrbischoff.com/awesome-macos-command-line/about/#permanently-add-private-key-passphrase-to-ssh-agent)
 
 > Prior to macOS 10.12 (Sierra), ssh would present a dialog asking for your passphrase and would offer the option to store it into the keychain. This UI was deprecated some time ago and has been removed.
->
+> 
 > Instead, a new UseKeychain option was introduced in macOS 10.12 (Sierra) allowing users to specify whether they would like for the passphrase to be stored in the keychain. This option was enabled by default on macOS 10.12 (Sierra), which caused all passphrases to be stored in the keychain.
->
+> 
 > This was not the intended default behavior, so this has been changed in macOS 10.12.2. ([Source](https://developer.apple.com/library/archive/technotes/tn2449/_index.html))
 
 ```

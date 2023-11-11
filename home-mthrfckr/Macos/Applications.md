@@ -1,3 +1,5 @@
+# Applications
+
 ## Applications
 
 ### Audio
@@ -59,6 +61,7 @@
 - <b><code>&nbsp;&nbsp;1039⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;242🍴</code></b> [shallow-backup](https://github.com/alichtman/shallow-backup)) - Easily create lightweight documentation of installed applications, dotfiles, and more.  ![python_icon] 
 
 ### Browser
+
 - <b><code>&nbsp;&nbsp;6715⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;587🍴</code></b> [Beaker Browser](https://github.com/beakerbrowser/beaker)) - Beaker is an experimental peer-to-peer Web browser.   ![javascript_icon] 
 - <b><code>&nbsp;15117⭐</code></b> <b><code>&nbsp;&nbsp;1830🍴</code></b> [Brave Browser](https://github.com/brave/brave-browser)) - Brave browser for Desktop and Laptop computers running Windows, macOS, and Linux.  ![javascript_icon] 
 - 🌎 [Chromium](chromium.googlesource.com/chromium/src/) - Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web. ![javascript_icon] ![cpp_icon] ![c_icon] 
@@ -74,6 +77,7 @@
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;81⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;36🍴</code></b> [seb-mac](https://github.com/SafeExamBrowser/seb-mac)) - Safe Exam Browser for macOS and iOS.  ![c_icon] 
 
 ### Chat
+
 - <b><code>&nbsp;&nbsp;&nbsp;226⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;24🍴</code></b> [Adium](https://github.com/adium/adium)) - Instant messaging application that can connect to XMPP (Jabber), IRC and more. ![c_icon] 
 - <b><code>&nbsp;&nbsp;&nbsp;161⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;23🍴</code></b> [Beagle IM](https://github.com/tigase/beagle-im)) - Powerful XMPP client with support for file transfer, VoIP and end-to-end encryption. ![swift_icon] 
 - <b><code>&nbsp;&nbsp;1917⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;196🍴</code></b> [ChitChat](https://github.com/stonesam92/ChitChat)) - Native Mac app wrapper for WhatsApp Web.  ![objective_c_icon] 
@@ -101,6 +105,7 @@
 - 🌎 [Textual](www.codeux.com/textual/) - An Internet Relay Chat (IRC) client. [![Open-Source Software][OSS Icon]](https://github.com/Codeux-Software/Textual)
 
 ### Cryptocurrency
+
 - <b><code>&nbsp;&nbsp;&nbsp;286⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;39🍴</code></b> [Balance Open](https://github.com/balance-io/balance-open)) - App for all the world’s currencies.  ![swift_icon] 
 - <b><code>&nbsp;&nbsp;&nbsp;115⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;17🍴</code></b> [CoinBar](https://github.com/adamwaite/CoinBar)) - macOS menu bar application for tracking crypto coin prices.  ![swift_icon] 
 - <b><code>&nbsp;&nbsp;&nbsp;143⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;57🍴</code></b> [Copay](https://github.com/bitpay/copay)) - A secure bitcoin wallet platform for both desktop and mobile devices.  ![typescript_icon] 
@@ -108,6 +113,7 @@
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;10⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7🍴</code></b> [Float coin](https://github.com/kaunteya/FloatCoin)) - Native menu bar app with floating window and support for many Exchanges.  ![swift_icon] 
 
 ### Database
+
 - <b><code>&nbsp;&nbsp;1447⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;111🍴</code></b> [Bdash](https://github.com/bdash-app/bdash)) - Simple SQL Client for lightweight data analysis. ![javascript_icon] 
 - <b><code>&nbsp;12828⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;799🍴</code></b> [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)) - SQL editor and manager with support for SQLite, MySQL, MariaDB, Postgres, CockroachDB, SQL Server, and Amazon Redshift. ![javascript_icon] 
 - <b><code>&nbsp;18020⭐</code></b> <b><code>&nbsp;&nbsp;1973🍴</code></b> [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser)) - SQLite database management GUI.  ![cpp_icon] 
@@ -189,6 +195,7 @@
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?🍴</code></b> [utmapp](https://github.com/utmapp/)) - Virtualization for other operating systems. ![swift_icon] ![objective_c_icon] 
 
 #### Git
+
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5🍴</code></b> [Cashew](https://github.com/dhennessy/OpenCashew)) - Cashew macOS Github Issue Tracker. ![objective_c_icon] ![c_icon] 
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;14⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2🍴</code></b> [GPM](https://github.com/mtgto/GPM)) - macOS application for easily operating GitHub Projects.  ![swift_icon] 
 - <b><code>&nbsp;&nbsp;1261⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;42🍴</code></b> [Git Interactive Rebase Tool](https://github.com/MitMaro/git-interactive-rebase-tool)) - Full feature terminal based sequence editor for interactive rebase. ![rust_icon] 
@@ -210,6 +217,7 @@
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;29⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1🍴</code></b> [osagitfilter](https://github.com/doekman/osagitfilter)) - Filter to put OSA languages (AppleScript, JavaScript) into git, as if they where plain text-files. ![shell_icon] ![applescript_icon] 
 
 #### iOS / macOS
+
 - <b><code>&nbsp;&nbsp;&nbsp;337⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;29🍴</code></b> [AVXCAssets Generator](https://github.com/angelvasa/AVXCAssets-Generator)) - Takes path for your assets images and creates appiconset and imageset for you in just one click.  ![swift_icon] 
 - <b><code>&nbsp;&nbsp;&nbsp;573⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;108🍴</code></b> [AppBox](https://github.com/getappbox/AppBox-iOSAppsWirelessInstallation)) - Tool for iOS developers to build and deploy Development, Ad-Hoc and In-house (Enterprise) applications directly to the devices from your Dropbox account.  ![objective_c_icon] 
 - <b><code>&nbsp;&nbsp;&nbsp;243⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;19🍴</code></b> [AppIcons](https://github.com/kuyawa/AppIcons)) - Tool for generating icons in all sizes as required by macOS and iOS apps.  ![swift_icon] 
@@ -253,12 +261,14 @@
 - <b><code>&nbsp;&nbsp;&nbsp;131⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;16🍴</code></b> [xib2Storyboard](https://github.com/novemberfiveco/xib2Storyboard)) - Tool to convert Xcode .xib to .storyboard files.  ![objective_c_icon] 
 
 #### JSON Parsing
+
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;24⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2🍴</code></b> [JSON Mapper](https://github.com/AppCraft-LLC/json-mapper)) - Simple macOS app to generate Swift Object Mapper classes from JSON.  ![swift_icon] 
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;80⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;13🍴</code></b> [JSON to Model class](https://github.com/chanonly123/Json-Model-Generator)) - Template based highly customizable macOS app to generate classes from JSON string, supports many languages.  ![swift_icon] 
 - <b><code>&nbsp;&nbsp;4744⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;793🍴</code></b> [JSONExport](https://github.com/Ahmed-Ali/JSONExport)) - Desktop application for macOS which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language.  ![swift_icon] 
 - <b><code>&nbsp;&nbsp;&nbsp;226⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;14🍴</code></b> [j2s](https://github.com/zadr/j2s)) - macOS app to convert JSON objects into Swift structs (currently targets Swift 4 and Codable).  ![swift_icon] 
 
 #### Other Development
+
 - <b><code>&nbsp;&nbsp;3245⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;306🍴</code></b> [Boop](https://github.com/IvanMathy/Boop)) - A scriptable scratchpad for developers. ![swift_icon] ![javascript_icon] 
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1🍴</code></b> [ChefInspector](https://github.com/Yasumoto/ChefInspector)) - Node and Attribute viewer for Chef  ![swift_icon] 
 - <b><code>&nbsp;&nbsp;2607⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;341🍴</code></b> [MQTTX](https://github.com/emqx/MQTTX)) - An elegant Cross-platform MQTT 5.0 desktop client. ![javascript_icon] ![typescript_icon] 
@@ -266,6 +276,7 @@
 - <b><code>&nbsp;&nbsp;&nbsp;195⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;27🍴</code></b> [vegvisir](https://github.com/ant4g0nist/vegvisir)) - Browser based GUI for **LLDB** Debugger.  ![javascript_icon] 
 
 #### Web Development
+
 - <b><code>&nbsp;&nbsp;&nbsp;391⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;41🍴</code></b> [CoreOS VM](https://github.com/TheNewNormal/coreos-osx)) - CoreOS VM is macOS status bar app which allows in an easy way to control CoreOS VM on your Mac.  ![objective_c_icon] 
 - <b><code>&nbsp;&nbsp;&nbsp;166⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;16🍴</code></b> [Corectl App for macOS](https://github.com/TheNewNormal/corectl.app)) - Corectl App is a macOS Status bar App which works like a wrapper around the corectl command line tool corectld to control the server runtime process.  ![swift_icon] 
 - <b><code>&nbsp;&nbsp;&nbsp;486⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;66🍴</code></b> [HTTP Toolkit](https://github.com/httptoolkit/httptoolkit-desktop)) - HTTP Toolkit is a cross-platform tool to intercept, debug & mock HTTP.  ![typescript_icon] 
@@ -282,6 +293,7 @@
 - <b><code>&nbsp;&nbsp;&nbsp;478⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;60🍴</code></b> [stts](https://github.com/inket/stts)) - macOS app for monitoring the status of cloud services.  ![swift_icon] 
 
 ### Downloader
+
 - <b><code>&nbsp;&nbsp;&nbsp;263⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;17🍴</code></b> [App Downloader](https://github.com/yep/app-downloader)) - Easily search and download macOS apps from the huge `homebrew cask` app catalog.  ![swift_icon] 
 - <b><code>&nbsp;&nbsp;5128⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;988🍴</code></b> [Extream Download Manager](https://github.com/subhra74/xdm)) - a powerful tool to increase download speeds up to 500% ![java_icon] 
 - <b><code>&nbsp;&nbsp;&nbsp;559⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;39🍴</code></b> [Get It](https://github.com/Kevin-De-Koninck/Get-It)) - Native macOS video/audio downloader. Think of it as a youtube downloader that works on many sites.  ![swift_icon] 
@@ -308,13 +320,16 @@
 - <b><code>&nbsp;17170⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;819🍴</code></b> [CodeEdit](https://github.com/CodeEditApp/CodeEdit)) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. ![swift_icon] 
 
 #### CSV
+
 - <b><code>&nbsp;&nbsp;1212⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;89🍴</code></b> [TableTool](https://github.com/jakob/TableTool)) - simple CSV editor for the macOS.  ![objective_c_icon] 
 
 #### JSON
+
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;54⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3🍴</code></b> [JSON Editor](https://github.com/fand/json-editor-app)) - Dead simple JSON editor using josdejong/jsoneditor ![typescript_icon] 
 - <b><code>&nbsp;&nbsp;1846⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;75🍴</code></b> [JSON-Splora](https://github.com/wellsjo/JSON-Splora)) - GUI for editing, visualizing, and manipulating JSON data.  ![javascript_icon] 
 
 #### Markdown
+
 - <b><code>&nbsp;&nbsp;&nbsp;309⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;41🍴</code></b> [Gingko](https://github.com/gingko/client)) - Tree-structured markdown editor for macOS, Windows, and Linux.  ![elm_icon] 
 - <b><code>&nbsp;&nbsp;9223⭐</code></b> <b><code>&nbsp;&nbsp;1093🍴</code></b> [MacDown](https://github.com/MacDownApp/macdown)) - Markdown editor for macOS.  ![objective_c_icon] 
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?🍴</code></b> [Mark Text](https://github.com/marktext/marktext/)) - Realtime preview markdown editor for macOS Windows and Linux.  ![javascript_icon] 
@@ -326,9 +341,11 @@
 - <b><code>&nbsp;&nbsp;&nbsp;688⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;52🍴</code></b> [linked](https://github.com/lostdesign/linked)) - 🧾 Your daily journal app, diary or anything else to unclutter your mind. Let linked help you get focused by writing down what is in your mind on a daily basis.  ![javascript_icon] ![vue_icon] ![css_icon] 
 
 #### TeX
+
 - <b><code>&nbsp;&nbsp;&nbsp;413⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;23🍴</code></b> [Qilin Editor](https://github.com/qilin-editor/qilin-app)) - Text editor for exact sciences with built-in KaTeX/AsciiMath support.  ![javascript_icon] 
 
 #### Text
+
 - <b><code>&nbsp;&nbsp;&nbsp;686⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;39🍴</code></b> [AuroraEditor](https://github.com/AuroraEditor/AuroraEditor)) - Lightweight Code Editor (IDE) for macOS.  ![swift_icon] 
 - <b><code>&nbsp;&nbsp;5388⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;398🍴</code></b> [CotEditor](https://github.com/coteditor/CotEditor)) - Lightweight Plain-Text Editor for macOS.  ![swift_icon] 
 - <b><code>&nbsp;&nbsp;7208⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;673🍴</code></b> [MacVim](https://github.com/macvim-dev/macvim)) - Text editor for macOS.  ![c_icon] 
@@ -347,6 +364,7 @@
 - 🌎 [Mailplane](mailplaneapp.com/) - A tightly integreted client for Google Mail, Inbox, Calender, and Contacts.
 
 ### Extensions
+
 - <b><code>&nbsp;&nbsp;&nbsp;862⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;56🍴</code></b> [AdGuard for Safari](https://github.com/adguardteam/adguardforsafari)) - The most advanced ad blocking extension for Safari ![javascript_icon] 
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;84⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7🍴</code></b> [BetterPiP](https://github.com/Capevace/BetterPiP)) - Use native picture-in-picture with browsers such as Google Chrome for HTML5 videos.  ![swift_icon] 
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;11⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1🍴</code></b> [Is It Private?](https://github.com/ffittschen/IsItPrivate)) - A Safari Extension providing a toolbar icon that changes its visual appearance if Private Browsing is enabled. ![swift_icon] 
@@ -414,6 +432,7 @@
 - <b><code>&nbsp;&nbsp;1019⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;68🍴</code></b> [macSVG](https://github.com/dsward2/macSVG)) - macOS application for designing HTML5 SVG (Scalable Vector Graphics) art and animation with a WebKit web view.  ![objective_c_icon] 
 
 ### IDE
+
 - <b><code>&nbsp;&nbsp;2258⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;763🍴</code></b> [Apache Netbeans](https://github.com/apache/netbeans)) - Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more. ![java_icon] 
 - <b><code>&nbsp;59310⭐</code></b> <b><code>&nbsp;18342🍴</code></b> [Atom](https://github.com/atom/atom)) - The hackable text editor.  ![javascript_icon] 
 - <b><code>&nbsp;&nbsp;&nbsp;686⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;39🍴</code></b> [AuroraEditor](https://github.com/AuroraEditor/AuroraEditor)) - Lightweight Code Editor (IDE) for macOS.  ![swift_icon] 
@@ -427,6 +446,7 @@
 - <b><code>&nbsp;&nbsp;2456⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;514🍴</code></b> [ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio)) - ZeroBrane Studio is a lightweight cross-platform Lua IDE with code completion, syntax highlighting, remote debugger, code analyzer, live coding, and debugging support for various Lua engines.  ![lua_icon] 
 
 ### Images
+
 - <b><code>&nbsp;&nbsp;&nbsp;277⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;24🍴</code></b> [APNGb](https://github.com/shgodoroja/APNGb)) - macOS app which assembles and disassembles animated png files.  ![swift_icon] 
 - <b><code>&nbsp;&nbsp;3251⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;140🍴</code></b> [Crunch](https://github.com/chrissimpkins/Crunch)) - Insane(ly slow but wicked good) PNG image optimization.  ![python_icon] 
 - <b><code>&nbsp;&nbsp;1212⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;99🍴</code></b> [ExifCleaner](https://github.com/szTheory/exifcleaner)) - Remove image metadata with drag and drop, multi-core batch processing, and dark mode. ![javascript_icon] 
@@ -446,6 +466,7 @@
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0🍴</code></b> [WebPonize](https://github.com/1000ch/WebPonize)) - WebPonize is a macOS App for converting PNG, JPEG, animated (or not) GIF images into WebP. ![swift_icon] ![c_icon] 
 
 ### Keyboard
+
 - <b><code>&nbsp;&nbsp;&nbsp;131⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;10🍴</code></b> [AnnePro-mac](https://github.com/msvisser/AnnePro-mac)) - macOS application for controlling AnnePro keyboard over bluetooth.  ![swift_icon] 
 - <b><code>&nbsp;&nbsp;1711⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;106🍴</code></b> [Fluor](https://github.com/Pyroh/Fluor)) - Handy tool for macOS allowing you to switch Fn keys' mode based on active application.  ![swift_icon] 
 - <b><code>&nbsp;&nbsp;&nbsp;890⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;120🍴</code></b> [GokuRakuJoudo](https://github.com/yqrashawn/GokuRakuJoudo)) - Karabiner-Elements configuration manager, rescue to bloated karabiner.json  ![clojure_icon] 
@@ -457,6 +478,7 @@
 - <b><code>&nbsp;&nbsp;2895⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;108🍴</code></b> [Unshaky](https://github.com/aahung/Unshaky)) - A software attempt to address the "double key press" issue on Apple's butterfly keyboard  ![swift_icon] 
 
 ### Mail
+
 - <b><code>&nbsp;&nbsp;&nbsp;141⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;25🍴</code></b> [Correo](https://github.com/amitmerchant1990/correo)) - Menubar/taskbar Gmail App for Windows and macOS.  ![javascript_icon] 
 - <b><code>&nbsp;&nbsp;1331⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;93🍴</code></b> [ElectronMail](https://github.com/vladimiry/ElectronMail)) - Unofficial desktop app for ProtonMail and Tutanota end-to-end encrypted email providers. ![typescript_icon] 
 - <b><code>&nbsp;14024⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;872🍴</code></b> [Mailspring](https://github.com/Foundry376/Mailspring)) - 💌 A beautiful, fast and maintained fork of @nylas Mail by one of the original authors ![javascript_icon] 
@@ -466,9 +488,11 @@
 - <b><code>&nbsp;&nbsp;&nbsp;619⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;44🍴</code></b> [dejalu](https://github.com/dinhvh/dejalu)) - Fast and Simple Email Client. ![cpp_icon] ![objective_c_icon] 
 
 ### Medical
+
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?🍴</code></b> [InVesalius](https://github.com/invesalius/invesalius3/)) - 3D medical imaging reconstruction software ![python_icon] 
 
 ### Menubar
+
 - <b><code>&nbsp;&nbsp;&nbsp;438⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9🍴</code></b> [Airpass](https://github.com/alvesjtiago/airpass)) - Status bar Mac application to overcome time constrained WiFi networks.  ![javascript_icon] 
 - <b><code>&nbsp;&nbsp;&nbsp;601⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;24🍴</code></b> [Akku](https://github.com/jariz/Akku)) - The missing macOS bluetooth headset battery indicator app. ![swift_icon] ![python_icon] ![ruby_icon] 
 - <b><code>&nbsp;&nbsp;5785⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;169🍴</code></b> [AnyBar](https://github.com/tonsky/AnyBar)) - macOS menubar status indicator.  ![objective_c_icon] 
@@ -508,6 +532,7 @@
 - <b><code>&nbsp;16735⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;650🍴</code></b> [xbar](https://github.com/matryer/xbar)) - Put the output from any script or program into your macOS Menu Bar.  ![objective_c_icon] 
 
 ### Music
+
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;62⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5🍴</code></b> [Carol](https://github.com/AnaghSharma/Carol)) - A minimal and beautiful lyrics app that stays in the menu bar of macOS.  ![c_sharp_icon] 
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;74⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3🍴</code></b> [ChordDetector](https://github.com/cemolcay/ChordDetector)) - Tiny menu bar app that listens iTunes and Spotify to detect chords of songs!  ![swift_icon] 
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;47⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;14🍴</code></b> [DeezPlayer](https://github.com/imanel/deezplayer)) - Deezer Desktop app for Windows, Linux and macOS.  ![coffee_script_icon] 
@@ -525,6 +550,7 @@
 - <b><code>&nbsp;14089⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;617🍴</code></b> [spicetify-cli](https://github.com/spicetify/spicetify-cli)) - Command-line tool to customize the official Spotify client. Supports Windows, MacOS and Linux. ![javascript_icon] 
 
 ### News
+
 - <b><code>&nbsp;&nbsp;&nbsp;100⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5🍴</code></b> [Diurna](https://github.com/ngquerol/Diurna)) - Basic/Classic Hacker News app, used as a Cocoa & Swift learning platform.  ![swift_icon] 
 - <b><code>&nbsp;&nbsp;6756⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;453🍴</code></b> [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire)) - Feed reader for macOS.  ![swift_icon] 
 - <b><code>&nbsp;&nbsp;1703⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;226🍴</code></b> [Vienna](https://github.com/ViennaRSS/vienna-rss)) - Vienna is a RSS/Atom newsreader for macOS.  ![objective_c_icon] 
@@ -539,6 +565,7 @@
 - [Vienna](http://viennarss.github.io/) - RSS/Atom newsreader. [![Open-Source Software][OSS Icon]](https://github.com/ViennaRSS/vienna-rss) ![Freeware][Freeware Icon]
 
 ### Notes
+
 - <b><code>&nbsp;17185⭐</code></b> <b><code>&nbsp;&nbsp;1546🍴</code></b> [Boostnote](https://github.com/BoostIO/BoostNote-Legacy)) - Note-taking application made for programmers just like you.  ![javascript_icon] 
 - <b><code>&nbsp;&nbsp;2488⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;107🍴</code></b> [Dnote](https://github.com/dnote/dnote)) - A simple command line notebook with multi-device sync and web interface. ![go_icon] ![typescript_icon] 
 - <b><code>&nbsp;&nbsp;5449⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;389🍴</code></b> [FSNotes](https://github.com/glushchenko/fsnotes)) - Notes manager for macOS/iOS: modern notational velocity (nvALT) on steroids.  ![swift_icon] 
@@ -557,6 +584,7 @@
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;86⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;14🍴</code></b> [tmpNote](https://github.com/buddax2/tmpNote)) - Very simple macOS app to make temporary notes.  ![swift_icon] 
 
 ### Other
+
 - <b><code>&nbsp;&nbsp;1936⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;767🍴</code></b> [Betaflight Configurator](https://github.com/betaflight/betaflight-configurator)) - Cross platform configuration tool for the Betaflight firmware. ![javascript_icon] 
 - <b><code>&nbsp;&nbsp;4494⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;254🍴</code></b> [Cakebrew](https://github.com/brunophilipe/Cakebrew)) - Manage your Homebrew formulas with style using Cakebrew.  ![objective_c_icon] 
 - <b><code>&nbsp;&nbsp;&nbsp;409⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;32🍴</code></b> [ChipMunk](https://github.com/esrlabs/chipmunk)) - Log analysis tool.  ![typescript_icon] ![rust_icon] 
@@ -589,6 +617,7 @@
 - 🌎 [Transmit](panic.com/transmit/) - A FTP client.
 
 ### Player
+
 - <b><code>&nbsp;33083⭐</code></b> <b><code>&nbsp;&nbsp;2402🍴</code></b> [IINA](https://github.com/iina/iina)) - The modern video player for macOS.  ![swift_icon] 
 - <b><code>&nbsp;22152⭐</code></b> <b><code>&nbsp;&nbsp;2588🍴</code></b> [MPV](https://github.com/mpv-player/mpv)) - Lightweight, highly configurable media player. ![c_icon] 
 - <b><code>&nbsp;&nbsp;1040⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;277🍴</code></b> [MPlayerX](https://github.com/niltsh/MPlayerX)) - Media player on macOS.  ![objective_c_icon] 
@@ -597,6 +626,7 @@
 - <b><code>&nbsp;&nbsp;&nbsp;179⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6🍴</code></b> [Plug](https://github.com/wulkano/Plug)) - Discover and listen to music from Hype Machine. ![swift_icon] 
 
 ### Podcast
+
 - <b><code>&nbsp;&nbsp;&nbsp;715⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;74🍴</code></b> [Cumulonimbus](https://github.com/z-------------/CPod)) - Simple, beautiful podcast app.  ![javascript_icon] 
 - <b><code>&nbsp;&nbsp;&nbsp;156⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;12🍴</code></b> [Doughnut](https://github.com/dyerc/Doughnut)) - Podcast player and library for mac ![swift_icon] 
 - <b><code>&nbsp;&nbsp;1271⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;66🍴</code></b> [PodcastMenu](https://github.com/insidegui/PodcastMenu)) - PodcastMenu is a simple app which puts 🌎 [Overcast](overcast.fm/) on your Mac's menu bar so you can listen to your favorite podcasts while you work.  ![swift_icon] 
@@ -650,7 +680,7 @@
 - <b><code>&nbsp;&nbsp;&nbsp;514⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;45🍴</code></b> [Clocker](https://github.com/n0shake/Clocker)) - macOS app to plan and organize through timezones.  ![objective_c_icon] 
 - <b><code>&nbsp;&nbsp;&nbsp;356⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;15🍴</code></b> [Condution](https://github.com/Shabang-Systems/Condution)) - Create tasks, manage due dates, and filter with powerful perspectives. ![javascript_icon] 
 - <b><code>&nbsp;&nbsp;1731⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;186🍴</code></b> [ControlPlane](https://github.com/dustinrue/ControlPlane)) - Automate running tasks based on where you are or what you do.  ![objective_c_icon] 
-- <b><code>&nbsp;&nbsp;3769⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;182🍴</code></b> [DevUtils.app](https://github.com/DevUtilsApp/DevUtils-app)) - Developer Utilities for macOS, helps you with your tiny daily tasks with just a single click! i.e., JSON Formatter, UUID Generator... ![swift_icon] 
+- <b><code>&nbsp;&nbsp;3769⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;182🍴</code></b> [DevUtils.app](https://github.com/DevUtilsApp/DevUtils-app)) - Developer Utilities for macOS, helps you with your tiny daily tasks with just a single click! i.e., JSON Formatter, UUID Generator… ![swift_icon] 
 - <b><code>&nbsp;&nbsp;&nbsp;498⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;38🍴</code></b> [DropPoint](https://github.com/GameGodS3/DropPoint)) - Make drag-and-drop easier using DropPoint. Helps to drag content without having to open side-by-side windows. ![javascript_icon] 
 - <b><code>&nbsp;&nbsp;2223⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;189🍴</code></b> [Flycut](https://github.com/TermiT/flycut)) - Clean and simple clipboard manager for developers.  ![objective_c_icon] 
 - <b><code>&nbsp;&nbsp;2699⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;204🍴</code></b> [Itsycal](https://github.com/sfsam/Itsycal)) - A tiny calendar for that lives in the Mac menu bar. ![objective_c_icon] 
@@ -699,6 +729,7 @@
 - <b><code>&nbsp;&nbsp;3833⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;403🍴</code></b> [stretchly](https://github.com/hovancik/stretchly)) - Cross-platform electron app that reminds you to take breaks when working with computer.  ![javascript_icon] 
 
 ### Screensaver
+
 - <b><code>&nbsp;20447⭐</code></b> <b><code>&nbsp;&nbsp;1043🍴</code></b> [Aerial](https://github.com/JohnCoates/Aerial)) - Apple TV Aerial Screensaver for macOS.  ![swift_icon] 
 - <b><code>&nbsp;&nbsp;5379⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;252🍴</code></b> [Brooklyn](https://github.com/pedrommcarrasco/Brooklyn)) - Screensaver inspired by Apple's Event on October 30, 2018.  ![swift_icon] 
 - <b><code>&nbsp;&nbsp;&nbsp;203⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;20🍴</code></b> [Epoch Flip Clock Screensaver](https://github.com/chrstphrknwtn/epoch-flip-clock-screensaver)) - Unix epoch timestamp flip clock screensaver. ![objective_c_icon] 
@@ -711,6 +742,7 @@
 - <b><code>&nbsp;&nbsp;&nbsp;538⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;306🍴</code></b> [The GitHub Matrix Screensaver](https://github.com/winterbe/github-matrix-screensaver)) - The GitHub Matrix Screensaver for macOS.  ![javascript_icon] 
 
 ### Security
+
 - <b><code>&nbsp;&nbsp;&nbsp;371⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;38🍴</code></b> [Cloaker](https://github.com/spieglt/cloaker)) - simple drag-and-drop, password-based file encryption. ![rust_icon] 
 - <b><code>&nbsp;&nbsp;9213⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;740🍴</code></b> [Cryptomator](https://github.com/cryptomator/cryptomator)) - Multi-platform transparent client-side encryption of your files in the cloud. ![java_icon] 
 - <b><code>&nbsp;&nbsp;7899⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;405🍴</code></b> [LuLu](https://github.com/objective-see/LuLu)) - LuLu is macOS firewall application that aims to block unauthorized (outgoing) network traffic.  ![objective_c_icon] 
@@ -740,6 +772,7 @@
 - <b><code>&nbsp;19988⭐</code></b> <b><code>&nbsp;&nbsp;3351🍴</code></b> [qBittorrent](https://github.com/qbittorrent/qBittorrent)) - BitTorrent client in Qt.  ![cpp_icon] 
 
 ### Social Networking
+
 - <b><code>&nbsp;&nbsp;6631⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;578🍴</code></b> [Caprine](https://github.com/sindresorhus/caprine#features)) - Elegant Facebook Messenger desktop app. ![javascript_icon] ![css_icon] 
 - <b><code>&nbsp;&nbsp;&nbsp;973⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;119🍴</code></b> [Goofy](https://github.com/danielbuechele/goofy)) - Unofficial Facebook Messenger client.  ![javascript_icon] 
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;36⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5🍴</code></b> [Leviathan](https://github.com/Swiftodon/Leviathan)) - Leviathan is a iOS and macOS client application for the Mastodon social network.  ![swift_icon] 
@@ -751,14 +784,16 @@
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;38⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2🍴</code></b> [Simpo](https://github.com/KeliCheng/Simpo)) - macOS menubar app to post status quickly.  ![swift_icon] 
 
 ### Streaming
+
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;38⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1🍴</code></b> [Galeri](https://github.com/michealparks/galeri)) - Perpetual artwork streaming app.  ![javascript_icon] 
 - <b><code>&nbsp;47148⭐</code></b> <b><code>&nbsp;&nbsp;6812🍴</code></b> [OBS Studio](https://github.com/obsproject/obs-studio)) - Free and open source software for live streaming and screen recording.  ![cpp_icon] 
 - <b><code>&nbsp;&nbsp;&nbsp;179⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6🍴</code></b> [Plug](https://github.com/wulkano/Plug)) - Discover and listen to music from Hype Machine. ![swift_icon] 
 
 ### System
+
 - <b><code>&nbsp;&nbsp;&nbsp;987⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;91🍴</code></b> [AppPolice](https://github.com/AppPolice/AppPolice)) - App for macOS with a minimalistic UI which lets you quickly throttle down the CPU usage of any running process.  ![objective_c_icon] 
 - <b><code>&nbsp;&nbsp;&nbsp;484⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;33🍴</code></b> [Apple Juice](https://github.com/raphaelhanneken/apple-juice)) - Advanced battery gauge for macOS.  ![swift_icon] 
-- <b><code>&nbsp;&nbsp;1693⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;95🍴</code></b> [Clean-Me](https://github.com/Kevin-De-Koninck/Clean-Me)) - Small macOS app that acts as a system cleaner (logs, cache, ...).  ![swift_icon] 
+- <b><code>&nbsp;&nbsp;1693⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;95🍴</code></b> [Clean-Me](https://github.com/Kevin-De-Koninck/Clean-Me)) - Small macOS app that acts as a system cleaner (logs, cache, …).  ![swift_icon] 
 - <b><code>&nbsp;&nbsp;&nbsp;172⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;14🍴</code></b> [Diagnostics](https://github.com/macmade/Diagnostics)) - Diagnostics is an application displaying the diagnostic reports from applications on macOS.  ![swift_icon] 
 - <b><code>&nbsp;&nbsp;1335⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;147🍴</code></b> [DisableMonitor](https://github.com/Eun/DisableMonitor)) - Easily disable or enable a monitor on your Mac.  ![objective_c_icon] 
 - <b><code>&nbsp;&nbsp;1204⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;92🍴</code></b> [Fanny](https://github.com/DanielStormApps/Fanny)) - Monitor your Mac's fan speed and CPU temperature from your Notification Center.  ![objective_c_icon] 
@@ -781,6 +816,7 @@
 - <b><code>&nbsp;&nbsp;&nbsp;226⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;19🍴</code></b> [macOSLucidaGrande](https://github.com/LumingYin/macOSLucidaGrande)) - A small utility to set Lucida Grande as your Mac's system UI font. ![objective_c_icon] 
 
 ### Touch Bar
+
 - <b><code>&nbsp;&nbsp;&nbsp;632⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;40🍴</code></b> [Muse](https://github.com/xzzz9097/Muse)) - Spotify controller with TouchBar support.  ![swift_icon] 
 - <b><code>&nbsp;&nbsp;3968⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;207🍴</code></b> [MyTouchbarMyRules](https://github.com/toxblh/MTMR)) - App to customize your Touch Bar as you want.  ![swift_icon] 
 - <b><code>&nbsp;&nbsp;9965⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;375🍴</code></b> [Pock](https://github.com/pock/pock)) - Display macOS Dock in Touch Bar. ![swift_icon] 
@@ -877,7 +913,7 @@
 - <b><code>&nbsp;&nbsp;&nbsp;193⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;28🍴</code></b> [CoreLocationCLI](https://github.com/fulldecent/corelocationcli)) - Get the physical location of your device and prints it to standard output ![swift_icon] 
 - <b><code>&nbsp;&nbsp;&nbsp;230⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;26🍴</code></b> [CornerCal](https://github.com/ekreutz/CornerCal)) - Simple, clean calendar and clock app for macOS.  ![swift_icon] 
 - <b><code>&nbsp;&nbsp;&nbsp;449⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;73🍴</code></b> [Crypter](https://github.com/HR/Crypter)) - Crypter is an innovative, convenient and secure cross-platform crypto app that simplifies secure password generation and management by requiring you to only remember one bit, the MasterPass.  ![javascript_icon] 
-- <b><code>&nbsp;&nbsp;3769⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;182🍴</code></b> [DevUtils.app](https://github.com/DevUtilsApp/DevUtils-app)) - Developer Utilities for macOS, helps you with your tiny daily tasks with just a single click! i.e., JSON Formatter, UUID Generator... ![swift_icon] 
+- <b><code>&nbsp;&nbsp;3769⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;182🍴</code></b> [DevUtils.app](https://github.com/DevUtilsApp/DevUtils-app)) - Developer Utilities for macOS, helps you with your tiny daily tasks with just a single click! i.e., JSON Formatter, UUID Generator… ![swift_icon] 
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;99⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5🍴</code></b> [Duplicate Finder](https://github.com/powerwolf543/DuplicateFinder)) - It's a useful tool that would help you to find all duplicate files which have the same names in the specific folder. ![swift_icon] 
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1🍴</code></b> [ECheck](https://github.com/josejuanqm/ECheck)) - Small tool to validate epub files for macOS.  ![swift_icon] 
 - <b><code>&nbsp;&nbsp;1018⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;46🍴</code></b> [Flying Carpet](https://github.com/spieglt/flyingcarpet)) - cross-platform file transfer over ad-hoc wifi, like AirDrop but for Mac/Windows/Linux. ![go_icon] 
@@ -971,6 +1007,7 @@
 - <b><code>&nbsp;&nbsp;&nbsp;414⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;62🍴</code></b> [Yoda](https://github.com/whoisandy/yoda)) - Nifty macOS application which enables you to browse and download videos from YouTube.  ![javascript_icon] 
 
 ### VPN & Proxy
+
 - <b><code>&nbsp;31381⭐</code></b> <b><code>&nbsp;&nbsp;7990🍴</code></b> [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG)) - Next Generation of ShadowsocksX.  ![swift_icon] 
 - <b><code>&nbsp;&nbsp;&nbsp;818⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;155🍴</code></b> [Specht](https://github.com/zhuhaow/Specht)) - Rule-based proxy app built with Network Extension for macOS.  ![swift_icon] 
 - <b><code>&nbsp;&nbsp;2954⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;387🍴</code></b> [SpechtLite](https://github.com/zhuhaow/SpechtLite)) - Rule-based proxy app for macOS.  ![swift_icon] 
@@ -979,6 +1016,7 @@
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;15⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4🍴</code></b> [rvc-mac](https://github.com/riboseinc/cryptode-mac)) - Ribose VPN Client macOS Menu App.  ![swift_icon] 
 
 ### Wallpaper
+
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;20⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1🍴</code></b> [500-mac-wallpaper](https://github.com/markcheeky/500-mac-wallpaper)) - Simple macOS app for the status bar to automatically download photos from 500px.com to a local folder that can be set as a source of wallpapers.  ![swift_icon] 
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;23⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3🍴</code></b> [ArtWall](https://github.com/JustinFincher/ASWP-for-macOS)) - ArtStation set as wallpapers from artwork.rss ![objective_c_icon] 
 - <b><code>&nbsp;&nbsp;&nbsp;158⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7🍴</code></b> [Artify](https://github.com/NghiaTranUIT/artify-macos)) - A macOS application for bringing dedicatedly 18th century Arts to everyone  ![swift_icon] 

@@ -17,17 +17,17 @@ In this article, we'll go in depth on the `ls` command and some of the most impo
 -   Basic knowledge of navigating around the CLI
 -   A smile on your face :)
 
-## The Linux ls Command
+## The Linux Ls Command
 
 The `ls` command is used to list files or directories in Linux and other Unix-based operating systems.
 
-Just like you navigate in your _File explorer_ or _Finder_ with a GUI, the `ls` command allows you to list all files or directories in the current directory by default, and further interact with them via the command line.
+Just like you navigate in your *File explorer* or *Finder* with a GUI, the `ls` command allows you to list all files or directories in the current directory by default, and further interact with them via the command line.
 
 Launch your terminal and type `ls` to see this in action:
 
 ![](https://www.freecodecamp.org/news/content/images/2020/08/Screenshot-2020-08-20-at-9.40.29-PM.png)
 
-## How to list Files in a Directory with Options
+## How to List Files in a Directory with Options
 
 The `ls` command also accepts some flags (also known as options) which are additional information that changes how files or directories are listed in your terminal.
 
@@ -39,37 +39,37 @@ In other words, flags change how the `ls` command works:
 
 > PS: The word **contents** used in throughout the article refers to the **files and directories** being listed, not the actual contents of the files/directories ?
 
-### List files in the current working directory
+### List Files in the Current Working Directory
 
 Type the `ls` command to list the contents of the current working directory:
 
 ![](https://www.freecodecamp.org/news/content/images/2020/08/Screenshot-2020-08-20-at-9.40.29-PM.png)
 
-### List files in another directory
+### List Files in Another Directory
 
 Type the `ls [directory path here]` command to list the contents of another directory:
 
 ![](https://www.freecodecamp.org/news/content/images/2020/08/Screenshot-2020-08-20-at-10.32.52-PM.png)
 
-### List files in the root directory
+### List Files in the Root Directory
 
 Type the `ls /` command to list the contents of the root directory:
 
 ![](https://www.freecodecamp.org/news/content/images/2020/08/Screenshot-2020-08-20-at-10.46.10-PM.png)
 
-### List files in the parent directory
+### List Files in the Parent Directory
 
 Type the `ls ..` command to list the contents of the parent directory one level above. Use `ls ../..` for contents two levels above:
 
 ![](https://www.freecodecamp.org/news/content/images/2020/08/Screenshot-2020-08-20-at-10.48.22-PM.png)
 
-### List files in the user's home directory (/home/user)
+### List Files in the User's home Directory (/home/user)
 
 Type the `ls ~` command to list the contents in the users's home directory:
 
 ![](https://www.freecodecamp.org/news/content/images/2020/08/Screenshot-2020-08-20-at-10.51.19-PM.png)
 
-### List only directories
+### List only Directories
 
 Type the `ls -d */` command to list only directories:
 
@@ -79,7 +79,7 @@ Type the `ls *` command to list the contents of the directory with it's subdirec
 
 ![](https://www.freecodecamp.org/news/content/images/2020/08/Screenshot-2020-08-21-at-1.07.54-PM.png)
 
-### List files recursively
+### List Files Recursively
 
 Type the `ls -R` command to list all files and directories with their corresponding subdirectories down to the last file:
 
@@ -87,13 +87,13 @@ Type the `ls -R` command to list all files and directories with their correspond
 
 > If you have a lot of files, this can take a very long time to complete as every single file in each directory will be printed out. You can instead specify a directory to run this command in, like so: `ls Downloads -R`
 
-### List files with their sizes
+### List Files with Their Sizes
 
 Type the `ls -s` command (the **s** is lowercase) to list files or directories with their sizes:
 
 ![](https://www.freecodecamp.org/news/content/images/2020/08/Screenshot-2020-08-21-at-12.30.19-PM.png)
 
-### List files in long format
+### List Files in long Format
 
 Type the `ls -l` command to list the contents of the directory in a table format with columns including:
 
@@ -107,7 +107,7 @@ Type the `ls -l` command to list the contents of the directory in a table format
 
 ![](https://www.freecodecamp.org/news/content/images/2020/08/Screenshot-2020-08-20-at-10.52.37-PM.png)
 
-### List files in long format with readable file sizes
+### List Files in long Format with Readable File Sizes
 
 Type the `ls -lh` command to list the files or directories in the same table format above, but with another column representing the size of each file/directory:
 
@@ -119,7 +119,7 @@ Type the `ls -a` command to list files or directories including hidden files or 
 
 ![](https://www.freecodecamp.org/news/content/images/2020/08/Screenshot-2020-08-21-at-11.12.26-AM.png)
 
-### List files in long format including hidden files
+### List Files in long Format including Hidden Files
 
 Type the `ls -l -a` or `ls -a -l` or `ls -la` or `ls -al` command to list files or directories in a table format with extra information including hidden files or directories:
 
@@ -131,7 +131,7 @@ You can also add a `-r` flag to reverse the sorting order like so: `ls -tr`:
 
 ![](https://www.freecodecamp.org/news/content/images/2020/08/Screenshot-2020-08-21-at-12.20.09-PM.png)
 
-### List files and sort by file size
+### List Files and Sort by File Size
 
 Type the `ls -S` (the **S** is uppercase) command to list files or directories and sort by size in descending order (biggest to smallest).
 
@@ -139,7 +139,7 @@ You can also add a `-r` flag to reverse the sorting order like so: `ls -Sr`:
 
 ![](https://www.freecodecamp.org/news/content/images/2020/08/Screenshot-2020-08-21-at-12.20.38-PM.png)
 
-### List files and output the result to a file
+### List Files and Output the Result to a File
 
 Type the `ls > output.txt` command to print the output of the preceding command into an `output.txt` file. You can use any of the flags discussed before like `-la` — the key point here is that the result will be outputted into a file and not logged to the command line.
 

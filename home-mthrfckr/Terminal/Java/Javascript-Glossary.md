@@ -3,8 +3,11 @@
 *Update: Cheat Sheets BETA is here!*
 
 * Introduction to JavaScript: [Introduction](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/reference)
+
 * Introduction to JavaScript: [Conditionals](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-control-flow/reference)
+
 * Introduction to JavaScript: [Functions](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-functions/reference)
+
 * Introduction to JavaScript: [Scope](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-scope/reference)
 
 # Arrays

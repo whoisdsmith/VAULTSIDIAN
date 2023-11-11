@@ -1,6 +1,6 @@
-# mastering-your-command-line
+# Mastering-your-command-line
 
-_Hacks & tricks for developers working with the command line._
+*Hacks & tricks for developers working with the command line.*
 
 Whether you spend 99% of your time in your IDE, or you are an old school exclusive-vim-user that cringes at the thought of ever using a mouse in general, let alone to click a button in a memory hungry PyCharm IDE, all developers rely on using the command line to some extent.
 
@@ -14,7 +14,7 @@ Let’s get started. First, I’ll introduce what my `~/.zshrc` file looks like.
 
 ![](https://miro.medium.com/max/700/1*44I0xPF5PPFIx_MHaJcaFQ.png)
 
-It’s only got the one line. My `harbaugh.zshrc` file is what contains my _actual_ startup script. What’s the benefit of putting the script somewhere else? Version control! This script actually lives in a GitHub repository ([my tkutcher home repo](https://github.com/tkutcher/tkutcher)), which I have cloned locally to `~/tk/lib/`.
+It’s only got the one line. My `harbaugh.zshrc` file is what contains my *actual* startup script. What’s the benefit of putting the script somewhere else? Version control! This script actually lives in a GitHub repository ([my tkutcher home repo](https://github.com/tkutcher/tkutcher)), which I have cloned locally to `~/tk/lib/`.
 
 Side note: yes, all of my devices and machines are named after Baltimore Ravens players and Coaches.
 

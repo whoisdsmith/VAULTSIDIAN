@@ -1,3 +1,5 @@
+# Log
+
 ## **log:**
 
 * [`log:file`](#logfile)

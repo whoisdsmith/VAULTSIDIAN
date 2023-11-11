@@ -8,10 +8,10 @@
 - **abi:** A command-line tool to inspect the Application Binary Interface (ABI) of shared libraries on macOS.
 - **agent-cli:** A command-line interface (CLI) for interacting with HashiCorp's Vault and Consul services.
 - **algernon:** A small, self-contained web server with Lua, Markdown, and HTTP/2 support.
-- **alifix:** A tool for fixing filenames in bulk that contain special characters or are too long.
+- **alifix:** A tool for fixing filenames in bulk that contain special characters or are too long.  
 #filenames
 - **anaconda:** A distribution of the Python and R programming languages for scientific computing, including many popular data science packages.
-- **antigen:** A plugin manager for Zsh, inspired by oh-my-zsh and vundle.
+- **antigen:** A plugin manager for Zsh, inspired by oh-my-zsh and vundle.  
 #pluginmanager #zsh
 - **antiword:** A free MS Word reader that converts binary files to plain text or PostScript.
 - **aom:** AOMedia Video 1 (AV1), an open, royalty-free video coding format.
@@ -23,11 +23,11 @@
 - **aribb24:** A command-line tool for extracting and converting ARIB-B24 subtitles.
 - **ascii2binary:** A command-line tool for converting ASCII text to binary.
 - **ascii:** A utility for converting text to ASCII art.
-- **asciidoc:** A text document format for writing notes, documentation, articles, books, ebooks, slideshows, web pages, man pages, and blogs.
+- **asciidoc:** A text document format for writing notes, documentation, articles, books, ebooks, slideshows, web pages, man pages, and blogs.  
 #text 
-- **asciinema:** A command-line tool for recording terminal sessions and sharing them on the web.
+- **asciinema:** A command-line tool for recording terminal sessions and sharing them on the web.  
 #clirecorder
-- **aspell:** A spell checker designed to eventually replace Ispell.
+- **aspell:** A spell checker designed to eventually replace Ispell.  
 #text #spellcheck
 - **autoconf-archive:** A collection of over 500 reusable Autoconf macros.
 - **autoconf:** A tool for producing configure scripts for building, installing, and packaging software on computer systems where a Bourne shell is available.
@@ -37,21 +37,21 @@
 ## B
 
 - **bash:** The GNU Bourne-Again SHell, a Unix shell and command-line interpreter.
-- **bat:** A cat clone with syntax highlighting and Git integration.
+- **bat:** A cat clone with syntax highlighting and Git integration.  
 #Text 
 - **bdw-gc:** A garbage collection library for C and C++.
 - **berkeley-db:** A family of embedded key-value database libraries providing scalable high-performance data management services to applications.
-- **bmon:** A real-time bandwidth monitor and rate estimator.
+- **bmon:** A real-time bandwidth monitor and rate estimator.  
 #bandwithmonitor
 - **boost:** A set of libraries providing support for tasks and structures such as linear algebra, pseudorandom number generation, multithreading, image processing, regular expressions, and unit testing.
-- **bottom:** A command-line tool for monitoring system resources, including CPU, memory, and disk usage.
+- **bottom:** A command-line tool for monitoring system resources, including CPU, memory, and disk usage.  
 #systemmonitor
 - **boxes:** A utility for drawing various styles of boxes and frames around text.
 - **bpython:** A fancy interface to the Python interpreter, providing syntax highlighting, autocompletion, and more.
 - **brew-cask-completion:** A shell completion script for the brew cask command, which is used to install macOS applications.
 - **brew-gem:** A tool for managing Ruby gems installed via Homebrew.
 - **brew-pip:** A tool for managing Python packages installed via Homebrew.
-- **broot:** A new way to see and navigate directory trees in the terminal.
+- **broot:** A new way to see and navigate directory trees in the terminal.  
 #filetree
 - **brotli:** A generic-purpose lossless compression algorithm that compresses data using a combination of a modern variant of the LZ77 algorithm, Huffman coding, and 2nd order context modeling.
 - **bulk_extractor:** A tool for searching disk images and file systems for specific types of information, such as email addresses, credit card numbers, and other personal data.
@@ -62,7 +62,7 @@
 - **ca-certificates:** A bundle of SSL/TLS root certificates that can be used to verify the authenticity of secure websites.
 - **cairo:** A 2D graphics library with support for multiple output devices.
 - **c-ares:** A C library for asynchronous DNS requests, including name resolves.
-- **cheat:** A command-line tool for searching and displaying cheat sheets for various programming languages and tools.
+- **cheat:** A command-line tool for searching and displaying cheat sheets for various programming languages and tools.  
 #manpages
 - **chkrootkit:** A tool to locally check for signs of a rootkit infection.
 - **cjson:** A fast JSON parser and serializer for the C programming language.
@@ -70,13 +70,13 @@
 - **cmatrix:** A program that simulates the display from "The Matrix" in your terminal.
 - **cmocka:** A unit testing framework for C that can be used to test embedded systems and low-level code.
 - **confuse:** A configuration file parser and writer for the C programming language.
-- **coreutils:** GNU core utilities, providing basic file, shell, and text manipulation utilities.
+- **coreutils:** GNU core utilities, providing basic file, shell, and text manipulation utilities.  
 #text
 - **cowsay:** A program that generates ASCII pictures of a cow with a message.
 - **cscope:** A source code navigation tool for C, C++, and other languages.
-- **ctop:** A command-line tool for container metrics and management.
+- **ctop:** A command-line tool for container metrics and management.  
 #systemmonitor 
-- **curl:** A command-line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, and more.
+- **curl:** A command-line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, and more.  
 #urltools
 
 ## D
@@ -87,12 +87,12 @@
 - **dnsmasq:** A lightweight, easy-to-configure DNS forwarder, DHCP server, and TFTP server.
 - **docbook:** A semantic markup language for technical documentation, particularly large, complex, multi-part documents.
 - **docker:** A platform for developing, shipping, and running applications in containers.
-- **docx2txt:** A command-line tool for converting Microsoft Word documents to plain text.
+- **docx2txt:** A command-line tool for converting Microsoft Word documents to plain text.  
 #text 
 - **dotties:** A collection of command-line tools and scripts for macOS that help automate common tasks.
-- **duf:** A user-friendly version of the classic disk usage analyzer, df.
+- **duf:** A user-friendly version of the classic disk usage analyzer, df.  
 #diskusage
-- **dust:** A command-line tool for visualizing disk usage in a directory tree.
+- **dust:** A command-line tool for visualizing disk usage in a directory tree.  
 #diskusage 
 - **dystextia:** A command-line tool for simulating dyslexia by scrambling the letters in text.
 
@@ -103,26 +103,26 @@
 - **emacs:** An extensible, customizable, self-documenting real-time display editor.
 - **erlang:** A programming language for concurrent, distributed systems.
 - **espanso:** A cross-platform text expander that can be used to automate repetitive typing tasks.
-- **exa:** A modern replacement for 'ls' with more features and better defaults.
+- **exa:** A modern replacement for 'ls' with more features and better defaults.  
 #files 
 - **expat:** A stream-oriented XML parser library written in C.
-- **extract_url:** A command-line tool for extracting URLs from text files.
+- **extract_url:** A command-line tool for extracting URLs from text files.  
 #urltools #text 
 
 ## F
 
 - **faad2:** An open-source MPEG-4 and MPEG-2 Advanced Audio Coding (AAC) decoder.
-- **fasttext:** A library for efficient learning of word representations and performing various NLP tasks.
+- **fasttext:** A library for efficient learning of word representations and performing various NLP tasks.  
 #text
 - **fetch:** A command-line tool for downloading files from the internet.
-- **fex:** A command-line tool for finding and extracting files from disk images.
+- **fex:** A command-line tool for finding and extracting files from disk images.  
 #files #text 
 - **ffmpeg:** A complete, cross-platform solution to record, convert, and stream audio and video.
 - **fftw:** A library for computing fast Fourier transforms (FFTs) in C.
 - **fig:** A command-line tool for creating and managing Docker containers.
 - **figlet:** A program for making large letters out of ordinary text.
 - **finicky:** A macOS application that allows users to configure which browser to use for specific websites.
-- **fintch:** A command-line tool for finding and deleting duplicate files on a system.
+- **fintch:** A command-line tool for finding and deleting duplicate files on a system.  
 #files #duplicates 
 - **fish:** fish is a smart and user-friendly command line shell for macOS, Linux, and the rest of the family. fish includes features like syntax highlighting, autosuggest-as-you-type, and fancy tab completions that just work, with no configuration required.
 - **flac:** A free lossless audio codec.
@@ -136,9 +136,9 @@
 - **freetype:** A software library to render fonts.
 - **frei0r:** A collection of video effects plugins that can be used with various video editing software.
 - **fribidi:** A library for bidirectional text support in Unicode strings, particularly useful for rendering right-to-left languages such as Arabic and Hebrew.
-- **fswatch:** A tool for monitoring changes in a directory or file and executing commands when changes are detected.
+- **fswatch:** A tool for monitoring changes in a directory or file and executing commands when changes are detected.  
 #files #monitor 
-- **fzf:** A general-purpose command-line fuzzy finder for searching and executing commands.
+- **fzf:** A general-purpose command-line fuzzy finder for searching and executing commands.  
 #file #search 
 
 ## G
@@ -153,11 +153,11 @@
 - **giflib:** A library for reading and writing gif images.
 - **git:** A distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 - **github-markdown-toc:** A command-line tool for generating a table of contents for markdown files in GitHub.
-- **glances:** A system monitoring tool that provides information about CPU, memory, disk usage, and more.
+- **glances:** A system monitoring tool that provides information about CPU, memory, disk usage, and more.  
 #systemmonitor 
 - **glib:** A core utility library for C, providing data structure handling, I/O, and more.
 - **global:** A source code tagging system that allows you to jump quickly to functions and variables in your code.
-- **glow:** A markdown reader that allows you to render markdown files with syntax highlighting and other features.
+- **glow:** A markdown reader that allows you to render markdown files with syntax highlighting and other features.  
 #markdown 
 - **gmp:** A free library for arbitrary precision arithmetic, operating on signed integers, rational numbers, and floating-point numbers.
 - **gnupg:** A complete implementation of the OpenPGP standard, used for encryption and signing of data and communication.
@@ -167,7 +167,7 @@
 - **goaccess:** A web log analyzer that provides real-time data and detailed reports on website traffic.
 - **go:** An open-source programming language that makes it easy to build simple, reliable, and efficient software.
 - **gobject-introspection:** A library that allows developers to generate bindings for GObject-based libraries for various programming languages.
-- **gotop:** A terminal-based system monitor that provides information on CPU, memory, disk usage, and more.
+- **gotop:** A terminal-based system monitor that provides information on CPU, memory, disk usage, and more.  
 #systemmonitor 
 - **gpgme:** A library that provides a high-level interface for interacting with the GnuPG encryption system.
 - **gradle:** An open-source build automation system that builds upon the concepts of Apache Ant and Apache Maven and introduces a Groovy-based domain-specific language (DSL) instead of the XML form used by Apache Maven for declaring the project configuration.
@@ -182,13 +182,13 @@
 ## H
 
 - **harfbuzz:** A text shaping library that provides support for complex scripts and languages.
-- **has:** A command-line tool that allows you to store and retrieve snippets of text and code.
+- **has:** A command-line tool that allows you to store and retrieve snippets of text and code.  
 #textsnippets 
 - **hexedit:** A hex editor that allows you to view and edit binary files.
 - **highway:** A fast and portable hash function.
-- **html2text:** A command-line tool that allows you to convert HTML files to plain text.
+- **html2text:** A command-line tool that allows you to convert HTML files to plain text.  
 #text 
-- **htop:** An interactive process viewer for Unix systems, providing a real-time, top-like view of the processes running on a system.
+- **htop:** An interactive process viewer for Unix systems, providing a real-time, top-like view of the processes running on a system.  
 #systemmonitor 
 - **httpie:** A user-friendly command-line HTTP client for the API era.
 - **httrack:** A website copier that allows you to download entire websites for offline viewing.
@@ -209,18 +209,18 @@
 
 - **jansson:** A C library for encoding, decoding, and manipulating JSON data.
 - **jasper:** A library for reading and writing JPEG-2000 image files.
-- **jdupes:** A command-line tool that allows you to find and remove duplicate files.
+- **jdupes:** A command-line tool that allows you to find and remove duplicate files.  
 #files #duplicates 
-- **jedit:** A Java-based text editor that provides syntax highlighting and other features.
+- **jedit:** A Java-based text editor that provides syntax highlighting and other features.  
 #texteditor 
 - **jenv:** A command-line tool that allows you to manage multiple Java versions on your system.
 - **jetbrains-toolbox:** A tool to manage JetBrains tools and keep them up to date.
-- **jnettop:** A console-based network traffic visualizer.
+- **jnettop:** A console-based network traffic visualizer.  
 #networkmonitor
 
 ## K
 
-- **kakoune:** A modal text editor that provides a more modern and intuitive interface than traditional text editors.
+- **kakoune:** A modal text editor that provides a more modern and intuitive interface than traditional text editors.  
 #texteditor 
 - **kotlin:** A statically typed programming language for modern multiplatform applications, fully interoperable with Java and the JVM.
 - **krb5:** A suite of security software that provides authentication and encryption services for networked systems.
@@ -229,7 +229,7 @@
 
 - **lame:** A command-line tool for encoding and decoding MP3 audio files.
 - **leptonica:** A library for image processing and analysis.
-- **lf:** A terminal file manager that allows you to browse and manipulate files and directories.
+- **lf:** A terminal file manager that allows you to browse and manipulate files and directories.  
 #files 
 - **libao:** A cross-platform audio library.
 - **libarchive:** A multi-format archive and compression library, supporting various archive and compression formats.
@@ -294,13 +294,13 @@
 - **libxslt:** A library for parsing and transforming XML documents using the XSLT language, offering a C and a C++ API, as well as Python and Perl bindings.
 - **libyaml:** A C library for parsing and emitting YAML.
 - **libzip:** A library for reading, creating, and modifying ZIP archives.
-- **links:** A text-based web browser.
+- **links:** A text-based web browser.  
 #text #browser 
 - **little-cms2:** A library for color management tasks, such as color space conversion and ICC profile manipulation.
 - **lockrattler:** A tool for checking security settings on a Mac.
-- **lolcat:** A program for coloring and formatting text output.
+- **lolcat:** A program for coloring and formatting text output.  
 #cli 
-- **lsd:** A program for displaying the contents of directories in a colorful and customizable way.
+- **lsd:** A program for displaying the contents of directories in a colorful and customizable way.  
 #files 
 - **lua:** A powerful, efficient, lightweight, embeddable scripting language, designed as a scripting engine for extending applications.
 - **luv:** A library for working with LuaJIT and libuv.
@@ -314,24 +314,24 @@
 - **macchina:** A platform for building and managing IoT (Internet of Things) edge devices.
 - **macfuse:** A library for creating user-space file systems on macOS.
 - **macvim:** A version of the Vim text editor that is compatible with macOS and includes Mac-specific features.
-- **markdown:** A text-to-HTML conversion tool for web writers.
+- **markdown:** A text-to-HTML conversion tool for web writers.  
 #text #markdown #html 
 - **markdownlint-cli2:** A newer version of markdownlint-cli with additional features and improved performance.
-- **markdownlint-cli:** A command-line tool for checking Markdown files for syntax and style issues.
+- **markdownlint-cli:** A command-line tool for checking Markdown files for syntax and style issues.  
 #markdown #lint 
-- **markdown-toc:** A command-line tool for generating a table of contents for Markdown files.
+- **markdown-toc:** A command-line tool for generating a table of contents for Markdown files.  
 #markdown 
 - **marked:** A JavaScript library for parsing and rendering Markdown.
 - **maven:** A build automation tool used primarily for Java projects, based on the concept of a project object model (POM) and using an XML file to describe the software project being built, its dependencies, and the build order.
 - **mbedtls:** A lightweight, modular, and efficient library for cryptographic and SSL/TLS processing, designed for use in embedded systems.
-- **mcfly:** A shell history manager that allows for fast searching and navigation of command history.
+- **mcfly:** A shell history manager that allows for fast searching and navigation of command history.  
 #shellhistory
 - **metamer:** A tool for testing web applications across multiple browsers and devices.
-- **micro:** A terminal-based text editor with features such as multiple cursors and syntax highlighting.
+- **micro:** A terminal-based text editor with features such as multiple cursors and syntax highlighting.  
 #texteditor 
-- **midnight-commander:** A text-based file manager with two panels for easy file manipulation.
+- **midnight-commander:** A text-based file manager with two panels for easy file manipulation.  
 #files 
-- **monika:** A tool for monitoring websites and web applications for availability and performance.
+- **monika:** A tool for monitoring websites and web applications for availability and performance.  
 #webmonitor 
 - **moreutils:** A collection of utilities that extend the functionality of common Unix command-line tools.
 - **mpd:** A music player daemon that allows for remote control of a music player over a network.
@@ -349,13 +349,13 @@
 ## N
 
 - **nalaprop:** A command-line tool for measuring the complexity of natural language text.
-- **navi:** A command-line tool for searching through and navigating complex CLI commands and configuration files.
+- **navi:** A command-line tool for searching through and navigating complex CLI commands and configuration files.  
 #files 
 - **nb:** A command-line tool for quickly creating and managing Jupyter notebooks.
 - **ncmpcpp:** A client for the MPD music player daemon that provides a user-friendly interface for browsing and playing music.
-- **ncurses:** A library for creating text-based user interfaces in a terminal-independent manner, providing functions to manage windows, colors, and input devices.
+- **ncurses:** A library for creating text-based user interfaces in a terminal-independent manner, providing functions to manage windows, colors, and input devices.  
 #files #text 
-- **neofetch:** A command-line tool for displaying system information in a visually appealing way.
+- **neofetch:** A command-line tool for displaying system information in a visually appealing way.  
 #systeminfo 
 - **neovim:** A project that seeks to aggressively refactor Vim in order to simplify maintenance, enable the implementation of new/modern user interfaces without any modifications to the core source, and improve extensibility with a new plugin architecture.
 - **netpbm:** A suite of tools for manipulating and converting various image file formats.
@@ -365,7 +365,7 @@
 - **nginx:** A web server and reverse proxy server for HTTP, SMTP, POP3, and IMAP protocols, as well as a load balancer, HTTP cache, and a web application accelerator (reverse proxy).
 - **ninvaders:** A command-line game inspired by the classic arcade game Space Invaders.
 - **nmap:** A security scanner, used to discover hosts and services on a computer network.
-- **nnn:** A terminal-based file manager with support for multiple panels, keybindings, and plugins.
+- **nnn:** A terminal-based file manager with support for multiple panels, keybindings, and plugins.  
 #files 
 - **node:** An open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside of a web browser, allowing developers to use JavaScript to write command-line tools and server-side scripts.
 - **notunes:** A command-line tool for controlling iTunes playback and performing other iTunes-related tasks.
@@ -389,7 +389,7 @@
 - **openssl:** A robust, commercial-grade, full-featured toolkit for the Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols, also containing a general-purpose cryptographic library.
 - **opus:** A lossy audio compression format that is designed for speech and music.
 - **ossp-uuid:** A library for generating and manipulating UUIDs (Universally Unique Identifiers).
-- **overt:** A command-line tool for managing and manipulating text files with regular expressions and templates.
+- **overt:** A command-line tool for managing and manipulating text files with regular expressions and templates.  
 #text 
 
 ## P
@@ -399,7 +399,7 @@
 - **pango:** A library for laying out and rendering text, with an emphasis on internationalization, supporting different writing systems, and providing advanced typographic features.
 - **pcre:** A library that implements Perl-compatible regular expressions.
 - **perl:** A high-level, general-purpose, interpreted, dynamic programming language, known for its flexibility and adaptability, particularly in text processing and system administration tasks.
-- **pfetch:** A system information tool that displays various information about the system such as kernel version, CPU type and usage, memory usage, etc.
+- **pfetch:** A system information tool that displays various information about the system such as kernel version, CPU type and usage, memory usage, etc.  
 #systemmonitor 
 - **php:** A server-side scripting language used to build dynamic websites and web applications.
 - **pillow:** A Python Imaging Library (PIL) fork, that adds support for opening, manipulating, and saving many different image file formats.
@@ -422,13 +422,13 @@
 
 - **rav1e:** A fast and efficient AV1 encoder written in Rust.
 - **readline:** A library that provides command-line editing and history capabilities.
-- **recutils:** A set of tools for working with human-editable, plain text databases.
+- **recutils:** A set of tools for working with human-editable, plain text databases.  
 #text 
 - **redis:** An in-memory data structure store, used as a database, cache, and message broker, supporting various data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, and geospatial indexes with radius queries.
 - **repairhomepermissions:** A script used to fix permissions and ownership issues in the home directory.
 - **revisionist:** A command-line tool for versioning files and directories.
 - **rich-cli:** A Python library for creating rich command-line interfaces.
-- **ripgrep:** A line-oriented search tool that combines the usability of The Silver Searcher with the raw performance of grep.
+- **ripgrep:** A line-oriented search tool that combines the usability of The Silver Searcher with the raw performance of grep.  
 #search 
 - **rlwrap:** A wrapper that provides readline-like editing and history capabilities for command-line interfaces.
 - **rosettavert:** A tool used to convert between different character encodings.
@@ -440,7 +440,7 @@
 
 ## S
 
-- **sandstrip:** A tool used to remove whitespace from text files.
+- **sandstrip:** A tool used to remove whitespace from text files.  
 #text 
 - **screen:** A full-screen window manager that multiplexes a physical terminal between several processes.
 - **screenfetch:** A command-line tool to display system information alongside an ASCII version of the OS logo.
@@ -465,32 +465,32 @@
 - **subversion:** An open-source version control system.
 - **svt-av1:** A fast and efficient AV1 encoder developed by the Alliance for Open Media.
 - **swig:** A tool used to generate bindings for C and C++ libraries to be used in other programming languages such as Python, Java, and Ruby.
-- **systhist:** A command-line tool for displaying a system's process history.
+- **systhist:** A command-line tool for displaying a system's process history.  
 #processmonitor
 
 ## T
 
-- **t2m2:** A command-line tool for converting text files to Markdown format.
+- **t2m2:** A command-line tool for converting text files to Markdown format.  
 #text #markdown 
 - **taglib:** A library used for reading and editing metadata in audio files.
 - **tal:** A command-line tool for creating and managing virtual environments in Python.
 - **tcl-tk:** A scripting language and graphical user interface toolkit used to build cross-platform desktop applications.
-- **tea:** A simple, text-based editor with basic editing features and syntax highlighting for various programming languages.
+- **tea:** A simple, text-based editor with basic editing features and syntax highlighting for various programming languages.  
 #texteditor 
 - **telegraf:** A plugin-driven server agent for collecting and reporting metrics and data from various sources.
 - **telnet:** A command-line tool that allows users to communicate with remote computers using the Telnet protocol.
 - **temurin:** A distribution of the OpenJDK Java development kit with long-term support.
 - **tesseract:** An Optical Character Recognition (OCR) engine, used to convert images of text into machine-readable text.
-- **texinfo:** A documentation system for producing both on-screen and printed output from a single source file.
+- **texinfo:** A documentation system for producing both on-screen and printed output from a single source file.  
 #text 
-- **textract:** A command-line tool for extracting text from various document formats such as PDF, Microsoft Office, and OpenOffice.
+- **textract:** A command-line tool for extracting text from various document formats such as PDF, Microsoft Office, and OpenOffice.  
 #text 
 - **thefuck:** A tool that corrects previous command line mistakes by running the correct command automatically.
 - **theora:** A free and open video compression format designed for streaming content over the internet.
-- **the_silver_searcher:** A code-searching tool similar to ack, with a focus on speed.
+- **the_silver_searcher:** A code-searching tool similar to ack, with a focus on speed.  
 #search 
 - **thonny:** An IDE for Python programming with simple and intuitive interface.
-- **tidy-html5:** A tool to clean up and fix HTML, XHTML, and XML documents.
+- **tidy-html5:** A tool to clean up and fix HTML, XHTML, and XML documents.  
 #html 
 - **tig:** A command-line interface for Git that provides a visual representation of the repository's commit history and changes.
 - **tmux:** A terminal multiplexer, allowing users to switch easily between several programs in one terminal, detach them, and reattach them to a different terminal.
@@ -499,16 +499,15 @@
 - **tomcat:** An open-source implementation of the Java Servlet and JavaServer Pages technologies.
 - **topgrade:** A tool that helps keep your system up-to-date by automatically updating all installed packages.
 - **tor:** A free and open-source software that provides anonymous communication and web browsing capabilities through a network of relays.
-- **tree:** A recursive directory listing command that produces a depth-indented listing of files.
+- **tree:** A recursive directory listing command that produces a depth-indented listing of files.  
 #files 
-- **tree-sitter:** A parsing library for creating efficient and modular parsers for programming languages and other structured documents.
+- **tree-sitter:** A parsing library for creating efficient and modular parsers for programming languages and other structured documents.  
 #files 
 - **ttyd:** A simple command-line tool that allows users to share a terminal session over the web in real-time.
-- **tuc:** You want to `cut` on more than just a character, perhaps using negative indexes or format the selected fields as you want... Maybe you want to cut on lines (ever needed to drop or keep first and last line?)... That's where `tuc` can help.
+- **tuc:** You want to `cut` on more than just a character, perhaps using negative indexes or format the selected fields as you want… Maybe you want to cut on lines (ever needed to drop or keep first and last line?)… That's where `tuc` can help.  
 #text 
-- **txt2tags:** Txt2tags is a document generator created by Aurelio Jargas in 2001. It reads a text file with minimal markup such as `**bold**` and `//italic//` and converts it to many formats.
+- **txt2tags:** Txt2tags is a document generator created by Aurelio Jargas in 2001. It reads a text file with minimal markup such as `**bold**` and `//italic//` and converts it to many formats.  
 #text 
-
 
 ## U
 
@@ -518,18 +517,18 @@
 - **universal-ctags:** An extended version of the ctags program that supports additional programming languages and features.
 - **unixodbc:** A driver manager that provides a standardized interface for connecting to various types of databases from Unix-like systems.
 - **unrtf:** A command-line utility for converting RTF documents to various output formats such as HTML, LaTeX, and plain text.
-- **urlview:** A command-line utility that extracts URLs from text and displays them in a menu for easy access.
+- **urlview:** A command-line utility that extracts URLs from text and displays them in a menu for easy access.  
 #urltools #text 
 - **utf8proc:** A library for processing Unicode data, providing Unicode normalization, case-folding, and more.
 - **utiutility:** A utility for managing Uniform Type Identifiers (UTIs) on macOS.
 
 ## V
 
-- **vhs:** - Your CLI home video recorder.
+- **vhs:** - Your CLI home video recorder.  
 #clirecorder 
-- **vilistextum:** A tool for converting HTML documents into plain text format.
+- **vilistextum:** A tool for converting HTML documents into plain text format.  
 #html #text 
-- **visidata:** A command-line tool for working with tabular data in various formats such as CSV, TSV, and Excel.
+- **visidata:** A command-line tool for working with tabular data in various formats such as CSV, TSV, and Excel.  
 #data #csv 
 - **vscodium:** A free and open-source version of the Visual Studio Code editor without the proprietary telemetry features.
 
@@ -557,7 +556,7 @@
 - **zimg:** A library for performing high-quality image scaling and resizing with various filtering algorithms.
 - **zlib:** A general-purpose lossless data-compression library.
 - **zoxide:** A faster alternative to cd, which keeps track of the directories you visit, and allows you to navigate to them quickly.
-- **zplug:** A next-generation plugin manager for Zsh.
+- **zplug:** A next-generation plugin manager for Zsh.  
 #pluginmanager 
 - **zsh:** A Unix shell with features like command-line completion, command history, and advanced scripting capabilities.
 - **zsh-lovers:** A collection of tips, tricks, and shortcuts for using the Zsh shell more efficiently.

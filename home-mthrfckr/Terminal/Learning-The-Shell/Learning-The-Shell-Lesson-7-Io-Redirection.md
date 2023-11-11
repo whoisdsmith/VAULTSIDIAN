@@ -1,14 +1,16 @@
-In this lesson, we will explore a powerful feature used by command line programs called _input/output redirection_. As we have seen, many commands such as `ls` print their output on the display. This does not have to be the case, however. By using some special notations we can _redirect_ the output of many commands to files, devices, and even to the input of other commands.
+# Learning-The-Shell-Lesson-7-Io-Redirection
+
+In this lesson, we will explore a powerful feature used by command line programs called *input/output redirection*. As we have seen, many commands such as `ls` print their output on the display. This does not have to be the case, however. By using some special notations we can *redirect* the output of many commands to files, devices, and even to the input of other commands.
 
 ## Standard Output
 
-Most command line programs that display their results do so by sending their results to a facility called _standard output_. By default, standard output directs its contents to the display. To redirect standard output to a file, the ">" character is used like this:
+Most command line programs that display their results do so by sending their results to a facility called *standard output*. By default, standard output directs its contents to the display. To redirect standard output to a file, the ">" character is used like this:
 
 \[me@linuxbox me\]$ `ls > file_list.txt`
 
 In this example, the `ls` command is executed and the results are written in a file named `file_list.txt`. Since the output of `ls` was redirected to the file, no results appear on the display.
 
-Each time the command above is repeated, `file_list.txt` is overwritten from the beginning with the output of the command `ls`. To have the new results _appended_ to the file instead, we use ">>" like this:
+Each time the command above is repeated, `file_list.txt` is overwritten from the beginning with the output of the command `ls`. To have the new results *appended* to the file instead, we use ">>" like this:
 
 \[me@linuxbox me\]$`ls >> file_list.txt`
 
@@ -16,7 +18,7 @@ When the results are appended, the new results are added to the end of the file,
 
 ## Standard Input
 
-Many commands can accept input from a facility called _standard input_. By default, standard input gets its contents from the keyboard, but like standard output, it can be redirected. To redirect standard input from a file instead of the keyboard, the "<" character is used like this:
+Many commands can accept input from a facility called *standard input*. By default, standard input gets its contents from the keyboard, but like standard output, it can be redirected. To redirect standard input from a file instead of the keyboard, the "<" character is used like this:
 
 \[me@linuxbox me\]$ `sort < file_list.txt`
 
@@ -28,7 +30,7 @@ As we can see, a command can have both its input and output redirected. Be aware
 
 ## Pipelines
 
-The most useful and powerful thing we can do with I/O redirection is to connect multiple commands together to form what are called _pipelines_. With pipelines, the standard output of one command is fed into the standard input of another. Here is a very useful example:
+The most useful and powerful thing we can do with I/O redirection is to connect multiple commands together to form what are called *pipelines*. With pipelines, the standard output of one command is fed into the standard input of another. Here is a very useful example:
 
 \[me@linuxbox me\]$ `ls -l | less`
 
@@ -56,7 +58,7 @@ Displays the total number of files in the current working directory and all of i
 
 ## Filters
 
-One kind of program frequently used in pipelines is called a _filter_. Filters take standard input and perform an operation upon it and send the results to standard output. In this way, they can be combined to process information in powerful ways. Here are some of the common programs that can act as filters:
+One kind of program frequently used in pipelines is called a *filter*. Filters take standard input and perform an operation upon it and send the results to standard output. In this way, they can be combined to process information in powerful ways. Here are some of the common programs that can act as filters:
 
 Common filter commands
 
@@ -104,10 +106,8 @@ Stream editor. Can perform more sophisticated text translations than `tr`.
 
 An entire programming language designed for constructing filters. Extremely powerful.
 
-  
-
 ## Further Reading
 
 -   Chapter 6 of [_The Linux Command Line_](http://linuxcommand.org/tlcl.php) covers this topic in more detail.
--   Chapters 19 through 21 of _The Linux Command Line_ provide an in-depth look at the text processing tools available in Linux.
+-   Chapters 19 through 21 of *The Linux Command Line* provide an in-depth look at the text processing tools available in Linux.
 -   To learn more about the AWK programming language, consider the [AWK adventure](http://linuxcommand.org/lc3_adv_awk.php).

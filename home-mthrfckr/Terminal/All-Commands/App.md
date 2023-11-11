@@ -1,5 +1,6 @@
-## **app:**
+# App
 
+## **app:**
 
 **[`app:check-code`](appcheck-code)**
 

@@ -11,4 +11,5 @@ author:
 > Full-screen apps like Emacs and Vim work as usual in Warp.
 
 ---
+
 Full-screen apps like Emacs and Vim work as usual in Warp.

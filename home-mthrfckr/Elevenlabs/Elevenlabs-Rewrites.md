@@ -4,8 +4,6 @@
 
 # Love Is Living Tissue
 
-​
-
 Love Is A Four Letter Word That Is Somehow Connected To The Heart, How This Is Possible I Have No Clue Because Words Are Just Letters That Form A Language & How That Language Gets Transferred Into Your Body, Your Blood Stream & To Your Heart Is The Greatest Mystery Rocket All Time… I Am Not God, Nor A Rocket Scientist, Nor A Professor, Nor Do I Know Everything. I Am Merely An Over Grown Man Child Who Has His Beliefs. These Are Merely My Thoughts & Opinions, So You Can Choose To See Them However You Want. Love Has A Mind Of Its Own, It Tells You What It Wants, Whether You Agree With It Or Not! It's Funny, I Don't Believe There Are Any Other Words That Can Control Your Body. Maybe Love Is Many Things, I Suppose. There's Love That You Have For Family & Friends And There's Love That Makes You Grasp For Air & Fills Your Mid-Half With "Butterflies" That Same Love Fills Your Head Up With Wonder & Joy & Belonging… Love For The Most Part Is A Healthy Organism, Or Maybe Just A Vitamin Filled With Nutrients That Don't Taste Like Shitty Flintstones Tablets. Love Can Also Be A Foreign Object, Something Your Body Resects. This Love Is Not Good Love, It Is Brutal & Sometimes Deadly… Symptoms Include Heavy Nausea, Insomnia, It Makes Lakes Out Of Your Eyes & Mudslides Out Of Your Nose… It Finds Every Good Cell & Infects Them With Its Negative Toxins… At One Point In Life, I Believe We All Have Suffered From This Betrayal. Love Is An Addiction & When You Feed Into It Every Day, It's A Gamble You Cannot Stop. When I Was Young I Thought I Knew What Love Was. I Thought That If I Had Strong Feelings For Someone & They Had Them Too, Then I'd Be Happy Forever. Trouble Was, I Kept Having That Feeling For Multiple People. I Think What Happened Was I Fell Asleep In English Class & Woke Up Disoriented & Confused When A Lecture About "Love + Lust" Was Going On And I Got The Two Words Confused. Whoops My Bad!
 
 ​---
@@ -68,43 +66,23 @@ Remember To Let Shit Go And Don't Do Drugs. Unless You're Walter Bishop
 
 I Have Made Countless Mistakes & Bad Decisions..
 
-​
-
 I Learned The Hard Way About Most Of Them.
-
-​
 
 I've Been To The Top Of The World In Utter Joy & I Have Been To The Deepest Shit Holes In Hell.
 
-​
-
 These Words Can't Express How Much You Mean To Me, Or How Much I Love You.
-
-​
 
 One Day When You Have A Child Of Your Own You Will Understand.
 
-​
-
 My Hope Is That You Grow Up To Be A Better Man Than Me..
-
-​
 
 That You Choose Love Over Money & Hoes..
 
-​
-
 That You Learn To Control That Inner Anger That You Get From Me And Use It To Create Something Positive From It.
-
-​
 
 I Am Proud Of Who You Are, And I Have Faith That You Will Continue To Grow Into A Great Man..
 
-​
-
 I Don't Tell You That I Love You As Much As I Should. I Hope One Day You Understand Why I'm Not In Your Life Every Day.
-
-​
 
 I Love You, Son
 
@@ -112,19 +90,15 @@ I Love You, Son
 
 # Spelling
 
-​
-
 6-29-13
 
 I Don't Think It Really Matters What I Write Down Because Two Things Are Going To Happen…
 
 - One Will Be That I'm Going To Forget What I Want To Say
-    
 
 And
 
 - Two Will Be That I Never Finish What I Start.
-    
 
 So, What's The Point To This Diary Of Madness?
 
@@ -207,6 +181,5 @@ One day, I hope you come to understand your own chapters and why they ended, and
 ---
 
 # Time
-
 
 Time, There’s always too much of it, when we don't want it and never enough when we do. I often wonder what I would say to my younger self If I had the chance. I think I would tell me to stop living like tomorrow never comes and start living to build a future. To slow down and live in the moment and stop chasing the people who moved on from my life. All my life I’ve heard that “time heals everything” and it surely does indeed. Eventually. There is no quick solution to pain, loss, humility, etc, you heal when your heart and your soul finally come to agreement with each other. Stop wasting time on people who make excuses or ignore you. Stop feeling sorry for yourself. Stop wasting time on things that don’t matter, especially when the things that do matter are right in front of you. Your friends, your lover, your children, all of the people who want nothing but your attention. The more you ignore and neglect those people, the less they will want anything from you. Losing and failing doesn't make you a failure. Quitting does. Hold yourself accountable and take responsibility for your actions. Understand who you are, what you want and what you believe in, before you try to understand anyone else. You can’t fix people, you can only try and guide them. Some people are on a sinking ship when you meet them. Don’t sink to the abyss with them, their baggage and trauma are not yours to carry. All you can be is who you are. Nothing more, nothing less.

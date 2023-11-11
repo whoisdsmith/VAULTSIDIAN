@@ -2,29 +2,6 @@
 
 ---
 
-- [Introduction](https://learngpt.art/topics/9ab7b4b1-7c7b-42c9-9775-553878acf411/chapters/030725dc-9f37-4163-affd-215a3e75c8a6)
-- [Getting Started](https://learngpt.art/topics/9ab7b4b1-7c7b-42c9-9775-553878acf411/chapters/d2336878-e40e-4a65-a067-1565974cfbe9)
-- [HTML Basics](https://learngpt.art/topics/9ab7b4b1-7c7b-42c9-9775-553878acf411/chapters/1ca9890f-b8af-4dc0-941c-be21f20d7fff)
-- [CSS Basics](https://learngpt.art/topics/9ab7b4b1-7c7b-42c9-9775-553878acf411/chapters/5be0debb-f0fd-4620-99f1-adce37545d3d)
-- [Selectors](https://learngpt.art/topics/9ab7b4b1-7c7b-42c9-9775-553878acf411/chapters/0f1717e5-576b-43a2-a9b3-1959d4da6e0a)
-- [Box Model](https://learngpt.art/topics/9ab7b4b1-7c7b-42c9-9775-553878acf411/chapters/5c456ed6-a701-4e34-b34d-334460cbe2f5)
-- [Layout](https://learngpt.art/topics/9ab7b4b1-7c7b-42c9-9775-553878acf411/chapters/993a359f-19fd-479c-82cd-db9db3027d71)
-- [Responsive Design](https://learngpt.art/topics/9ab7b4b1-7c7b-42c9-9775-553878acf411/chapters/9a75c455-8793-427c-8bea-2ee11d4bcf23)
-- [Typography](https://learngpt.art/topics/9ab7b4b1-7c7b-42c9-9775-553878acf411/chapters/86315019-7533-4719-95d4-9c6fd7a66e44)
-- [Images](https://learngpt.art/topics/9ab7b4b1-7c7b-42c9-9775-553878acf411/chapters/2f9429f9-2024-409c-b044-4b232de63efc)
-- [Forms](https://learngpt.art/topics/9ab7b4b1-7c7b-42c9-9775-553878acf411/chapters/061fcf34-50b9-4bd2-887d-af340aedab16)
-- [Lists](https://learngpt.art/topics/9ab7b4b1-7c7b-42c9-9775-553878acf411/chapters/1a2e55f8-2e9d-49cc-b06e-12309d5ef21f)
-- [Tables](https://learngpt.art/topics/9ab7b4b1-7c7b-42c9-9775-553878acf411/chapters/3bbcf476-1936-4bdb-a1f9-f53eee1f2e94)
-- [Video and Audio](https://learngpt.art/topics/9ab7b4b1-7c7b-42c9-9775-553878acf411/chapters/9105e779-eae3-470b-aff2-a5079fca895c)
-- [Transitions and Animations](https://learngpt.art/topics/9ab7b4b1-7c7b-42c9-9775-553878acf411/chapters/7e375dc0-7767-43f5-82a0-2a566c87132b)
-- [Flexbox](https://learngpt.art/topics/9ab7b4b1-7c7b-42c9-9775-553878acf411/chapters/1ccca913-e78b-4f69-a351-3717e9d95476)
-- [Grid](https://learngpt.art/topics/9ab7b4b1-7c7b-42c9-9775-553878acf411/chapters/1adeacca-ddb9-4802-a861-f2bed2df591a)
-- [Bootstrap](https://learngpt.art/topics/9ab7b4b1-7c7b-42c9-9775-553878acf411/chapters/717c915f-76c5-4573-87b2-a7680b6d6282)
-- [Accessibility](https://learngpt.art/topics/9ab7b4b1-7c7b-42c9-9775-553878acf411/chapters/d1895206-f031-49e1-94ec-379ada534ccc)
-- [Conclusion](https://learngpt.art/topics/9ab7b4b1-7c7b-42c9-9775-553878acf411/chapters/652dd297-0397-4e7d-99cd-f5bcf7b3cbf5)
-
----
-
 HTML, or Hypertext Markup Language, is the backbone of the internet. It is the standard language used to create web pages and applications. HTML is used to define the structure and content of a web page, while CSS is used to add style and design to the page.
 
 HTML code is made up of tags, which define the various elements of a web page. Tags are enclosed in angle brackets. For example, the tag defines the beginning and end of an HTML document, while the tag defines the title of the document.
@@ -489,7 +466,6 @@ Positioning refers to how an element is placed on a webpage. There are several d
 - **Absolute**: Positions an element in a specific location, relative to its closest ancestor element with a position other than static.
     
 - **Fixed**: Similar to absolute positioning, but the element remains fixed in one place within the viewport, even when the user scrolls.
-    
 
 ### Display
 
@@ -500,7 +476,6 @@ The display property determines how an element is displayed on a webpage. There 
 - **Inline**: Displays an element as inline, allowing it to flow within the text and not forcing any other elements to a new line.
     
 - **None**: Hides an element from view entirely.
-    
 
 ### Flexbox
 
@@ -639,7 +614,6 @@ There are three primary file formats that are used for web images:
 2. PNG (Portable Network Graphics): This format is suitable for simpler images with fewer colors and details. It provides a transparent background option, which is useful in creating logos and icons.
     
 3. GIF (Graphics Interchange Format): This format is suitable for creating animations or small videos. However, it has a lower image quality compared to the other formats.
-    
 
 ### Image Size
 
@@ -1214,24 +1188,16 @@ Adding transitions and animations to your website can create a more dynamic and 
 
 ## Flexbox
 
-    
-
 Open user menu
 
 - Go deeper
-    
 
     Sure, let's dive a bit deeper into the different properties and concepts of Flexbox.
 
-    
-
 ### Flex Container Properties
-
-    
 
 #### Display
 
-    
     The `display` property is used to create a flex container. Its value must be either `flex` or `inline-flex`.
     
     ```css
@@ -1247,7 +1213,6 @@ Open user menu
 
 #### Flex-direction
 
-    
     The `flex-direction` property specifies the direction of the flex container's main axis. By default, its value is `row`, which means the items are positioned from left to right. Other possible values are `column`, `row-reverse`, and `column-reverse`.
     
     ```css
@@ -1263,7 +1228,6 @@ Open user menu
 
 #### Justify-content
 
-    
     The `justify-content` property is used to align the items along the main axis of the flex container. Possible values are `flex-start`, `flex-end`, `center`, `space-between`, and `space-around`.
     
     ```css
@@ -1279,7 +1243,6 @@ Open user menu
 
 #### Align-items
 
-    
     The `align-items` property is used to align the items along the cross axis of the flex container. Possible values are `flex-start`, `flex-end`, `center`, `baseline`, and `stretch`.
     
     ```css
@@ -1295,7 +1258,6 @@ Open user menu
 
 #### Align-content
 
-    
     The `align-content` property is only used when the items wrap into multiple lines. It aligns the lines along the cross axis of the flex container. Possible values are the same as `justify-content`.
     
     ```css
@@ -1311,7 +1273,6 @@ Open user menu
 
 #### Flex-wrap
 
-    
     The `flex-wrap` property is used to control whether the items should wrap into multiple lines or not. Its possible values are `nowrap`, `wrap`, and `wrap-reverse`.
     
     ```css
@@ -1323,7 +1284,6 @@ Open user menu
 
 #### Flex-flow
 
-    
     The `flex-flow` property is a shorthand property for `flex-direction` and `flex-wrap`.
     
     ```css
@@ -1335,11 +1295,8 @@ Open user menu
 
 ### Flex Item Properties
 
-    
-
 #### Order
 
-    
     The `order` property specifies the order in which the flex items appear in the flex container. Its default value is `0`, which means items are displayed in the order they appear in the HTML source.
     
     ```css
@@ -1351,7 +1308,6 @@ Open user menu
 
 #### Flex-grow
 
-    
     The `flex-grow` property specifies how much the flex item should grow relative to the other flex items in the same container. Its default value is `0`.
     
     ```css
@@ -1363,7 +1319,6 @@ Open user menu
 
 #### Flex-shrink
 
-    
     The `flex-shrink` property specifies how much the flex item should shrink relative to the other flex items in the same container. Its default value is `1`.
     
     ```css
@@ -1375,7 +1330,6 @@ Open user menu
 
 #### Flex-basis
 
-    
     The `flex-basis` property specifies the initial size of the flex item before any remaining space is distributed. Its default value is `auto`.
     
     ```css
@@ -1387,7 +1341,6 @@ Open user menu
 
 #### Flex
 
-    
     The `flex` property is a shorthand for `flex-grow`, `flex-shrink`, and `flex-basis`.
     
     ```css
@@ -1399,7 +1352,6 @@ Open user menu
 
 #### Align-self
 
-    
     The `align-self` property overrides the `align-items` property of the flex container for the specific flex item. Its possible values are the same as `align-items`.
     
     ```css
@@ -1411,19 +1363,14 @@ Open user menu
 
 ### Conclusion
 
-    
     Flexbox is a powerful layout tool in CSS that allows you to create flexible and responsive layouts with minimal code. By understanding all of its properties and concepts, you can create complex layouts that were once difficult to achieve with CSS alone.
     
 - # Flexbox
-    
 
     Flexbox is a newer layout model in CSS that allows you to easily align and distribute items within a container. Using Flexbox, you can create complex layouts with little to no CSS code.
 
-    
-
 ## The Flex Container
 
-    
     The container element becomes a flex container by setting the display property to flex or inline-flex. Here's an example of how to create a flex container:
     
     ```
@@ -1435,11 +1382,8 @@ Open user menu
 
 ## Flexbox Properties
 
-    
-
 ### Justify-content
 
-    
     The `justify-content` property aligns items horizontally within the container. There are several different values you can use:
     
     -   `flex-start`: Aligns items to the left of the container.
@@ -1458,7 +1402,6 @@ Open user menu
 
 ### Align-items
 
-    
     The `align-items` property aligns items vertically within the container. There are several different values you can use:
     
     -   `flex-start`: Aligns items at the top of the container.
@@ -1477,7 +1420,6 @@ Open user menu
 
 ### Flex-direction
 
-    
     The `flex-direction` property specifies the direction of the flex container's main axis. There are four different values you can use:
     
     -   `row`: Items are positioned from left to right.
@@ -1495,7 +1437,6 @@ Open user menu
 
 ### Flex-wrap
 
-    
     The `flex-wrap` property specifies whether the flex items should wrap or not when they exceed the container's width. There are three different values you can use:
     
     -   `nowrap`: Items are not wrapped.
@@ -1512,7 +1453,6 @@ Open user menu
 
 ### Flex-flow
 
-    
     The `flex-flow` property is a shorthand for the `flex-direction` and `flex-wrap` properties. Here's an example of how to use `flex-flow` to set both properties at once:
     
     ```
@@ -1525,7 +1465,6 @@ Open user menu
 
 ### Align-content
 
-    
     The `align-content` property aligns the flex lines within the flex container when there is extra space on the cross-axis. There are several different values you can use:
     
     -   `flex-start`: Aligns the lines at the start of the container.
@@ -1545,7 +1484,6 @@ Open user menu
 
 ### Order
 
-    
     The `order` property specifies the order in which the flex items appear within the container. By default, items are displayed in the order they appear in the HTML.
     
     ```
@@ -1557,7 +1495,6 @@ Open user menu
 
 ### Flex-grow
 
-    
     The `flex-grow` property specifies how much an item should grow relative to the other items in the container. By default, items have a `flex-grow` value of 0.
     
     ```
@@ -1569,7 +1506,6 @@ Open user menu
 
 ### Flex-shrink
 
-    
     The `flex-shrink` property specifies how much an item should shrink relative to the other items in the container. By default, items have a `flex-shrink` value of 1.
     
     ```
@@ -1581,7 +1517,6 @@ Open user menu
 
 ### Flex-basis
 
-    
     The `flex-basis` property specifies the initial size of an item before any remaining space is distributed. By default, items have a `flex-basis` value of `auto`.
     
     ```
@@ -1593,7 +1528,6 @@ Open user menu
 
 ### Flex
 
-    
     The `flex` property is a shorthand for the `flex-grow`, `flex-shrink`, and `flex-basis` properties. Here's an example of how to use `flex` to set all three properties at once:
     
     ```
@@ -1605,7 +1539,6 @@ Open user menu
 
 ## Flexbox Example
 
-    
     Here's an example of using Flexbox to create a three-column layout:
     
     ```
@@ -1623,23 +1556,16 @@ Open user menu
     
     In this example, we're setting the container to be a flex container and wrapping the items when they exceed the container's width. We're also justifying the content with space between to create even spacing between each column. Then we're setting the `flex-basis` of each item to be 33.33% of the container minus 16 pixels for the margin, creating three evenly sized columns. Finally, we're adding a margin to the bottom of each item for spacing.
 
-
 ---
 
 - Go deeper
-    
 
     Sure, let's dive a bit deeper into the different properties and concepts of Flexbox.
 
-    
-
 ### Flex Container Properties
-
-    
 
 #### Display
 
-    
     The `display` property is used to create a flex container. Its value must be either `flex` or `inline-flex`.
     
     ```
@@ -1655,7 +1581,6 @@ Open user menu
 
 #### Flex-direction
 
-    
     The `flex-direction` property specifies the direction of the flex container's main axis. By default, its value is `row`, which means the items are positioned from left to right. Other possible values are `column`, `row-reverse`, and `column-reverse`.
     
     ```
@@ -1671,7 +1596,6 @@ Open user menu
 
 #### Justify-content
 
-    
     The `justify-content` property is used to align the items along the main axis of the flex container. Possible values are `flex-start`, `flex-end`, `center`, `space-between`, and `space-around`.
     
     ```
@@ -1687,7 +1611,6 @@ Open user menu
 
 #### Align-items
 
-    
     The `align-items` property is used to align the items along the cross axis of the flex container. Possible values are `flex-start`, `flex-end`, `center`, `baseline`, and `stretch`.
     
     ```
@@ -1703,7 +1626,6 @@ Open user menu
 
 #### Align-content
 
-    
     The `align-content` property is only used when the items wrap into multiple lines. It aligns the lines along the cross axis of the flex container. Possible values are the same as `justify-content`.
     
     ```
@@ -1719,7 +1641,6 @@ Open user menu
 
 #### Flex-wrap
 
-    
     The `flex-wrap` property is used to control whether the items should wrap into multiple lines or not. Its possible values are `nowrap`, `wrap`, and `wrap-reverse`.
     
     ```
@@ -1731,7 +1652,6 @@ Open user menu
 
 #### Flex-flow
 
-    
     The `flex-flow` property is a shorthand property for `flex-direction` and `flex-wrap`.
     
     ```
@@ -1743,11 +1663,8 @@ Open user menu
 
 ### Flex Item Properties
 
-    
-
 #### Order
 
-    
     The `order` property specifies the order in which the flex items appear in the flex container. Its default value is `0`, which means items are displayed in the order they appear in the HTML source.
     
     ```
@@ -1759,7 +1676,6 @@ Open user menu
 
 #### Flex-grow
 
-    
     The `flex-grow` property specifies how much the flex item should grow relative to the other flex items in the same container. Its default value is `0`.
     
     ```
@@ -1771,7 +1687,6 @@ Open user menu
 
 #### Flex-shrink
 
-    
     The `flex-shrink` property specifies how much the flex item should shrink relative to the other flex items in the same container. Its default value is `1`.
     
     ```
@@ -1783,7 +1698,6 @@ Open user menu
 
 #### Flex-basis
 
-    
     The `flex-basis` property specifies the initial size of the flex item before any remaining space is distributed. Its default value is `auto`.
     
     ```
@@ -1795,7 +1709,6 @@ Open user menu
 
 #### Flex
 
-    
     The `flex` property is a shorthand for `flex-grow`, `flex-shrink`, and `flex-basis`.
     
     ```
@@ -1807,7 +1720,6 @@ Open user menu
 
 #### Align-self
 
-    
     The `align-self` property overrides the `align-items` property of the flex container for the specific flex item. Its possible values are the same as `align-items`.
     
     ```
@@ -1819,19 +1731,14 @@ Open user menu
 
 ### Conclusion
 
-    
     Flexbox is a powerful layout tool in CSS that allows you to create flexible and responsive layouts with minimal code. By understanding all of its properties and concepts, you can create complex layouts that were once difficult to achieve with CSS alone.
     
 - ## Flexbox
-    
 
     Flexbox is a newer layout model in CSS that allows you to easily align and distribute items within a container. Using Flexbox, you can create complex layouts with little to no CSS code.
 
-    
-
 ## The Flex Container
 
-    
     The container element becomes a flex container by setting the display property to flex or inline-flex. Here's an example of how to create a flex container:
     
     ```
@@ -1843,11 +1750,8 @@ Open user menu
 
 ## Flexbox Properties
 
-    
-
 ### Justify-content
 
-    
     The `justify-content` property aligns items horizontally within the container. There are several different values you can use:
     
     -   `flex-start`: Aligns items to the left of the container.
@@ -1866,7 +1770,6 @@ Open user menu
 
 ### Align-items
 
-    
     The `align-items` property aligns items vertically within the container. There are several different values you can use:
     
     -   `flex-start`: Aligns items at the top of the container.
@@ -1885,7 +1788,6 @@ Open user menu
 
 ### Flex-direction
 
-    
     The `flex-direction` property specifies the direction of the flex container's main axis. There are four different values you can use:
     
     -   `row`: Items are positioned from left to right.
@@ -1903,7 +1805,6 @@ Open user menu
 
 ### Flex-wrap
 
-    
     The `flex-wrap` property specifies whether the flex items should wrap or not when they exceed the container's width. There are three different values you can use:
     
     -   `nowrap`: Items are not wrapped.
@@ -1920,7 +1821,6 @@ Open user menu
 
 ### Flex-flow
 
-    
     The `flex-flow` property is a shorthand for the `flex-direction` and `flex-wrap` properties. Here's an example of how to use `flex-flow` to set both properties at once:
     
     ```
@@ -1933,7 +1833,6 @@ Open user menu
 
 ### Align-content
 
-    
     The `align-content` property aligns the flex lines within the flex container when there is extra space on the cross-axis. There are several different values you can use:
     
     -   `flex-start`: Aligns the lines at the start of the container.
@@ -1953,7 +1852,6 @@ Open user menu
 
 ### Order
 
-    
     The `order` property specifies the order in which the flex items appear within the container. By default, items are displayed in the order they appear in the HTML.
     
     ```
@@ -1965,7 +1863,6 @@ Open user menu
 
 ### Flex-grow
 
-    
     The `flex-grow` property specifies how much an item should grow relative to the other items in the container. By default, items have a `flex-grow` value of 0.
     
     ```
@@ -1977,7 +1874,6 @@ Open user menu
 
 ### Flex-shrink
 
-    
     The `flex-shrink` property specifies how much an item should shrink relative to the other items in the container. By default, items have a `flex-shrink` value of 1.
     
     ```
@@ -1989,7 +1885,6 @@ Open user menu
 
 ### Flex-basis
 
-    
     The `flex-basis` property specifies the initial size of an item before any remaining space is distributed. By default, items have a `flex-basis` value of `auto`.
     
     ```
@@ -2001,7 +1896,6 @@ Open user menu
 
 ### Flex
 
-    
     The `flex` property is a shorthand for the `flex-grow`, `flex-shrink`, and `flex-basis` properties. Here's an example of how to use `flex` to set all three properties at once:
     
     ```
@@ -2013,7 +1907,6 @@ Open user menu
 
 ## Flexbox Example
 
-    
     Here's an example of using Flexbox to create a three-column layout:
     
     ```
@@ -2201,7 +2094,6 @@ Bootstrap is a popular choice for web developers because it offers a lot of bene
 - **Consistency**: Bootstrap provides a common CSS and JavaScript library that allows web developers to design websites with consistency across multiple devices and web browsers.
     
 - **Customizable**: Bootstrap comes with numerous customization options. Developers can modify its color schemes, typography, and many other properties to create a unique look and feel.
-    
 
 ### Bootstrap’s Basic Structure
 
@@ -2228,7 +2120,6 @@ Bootstrap has several features, including:
 4. **Pre-designed Components**–Bootstrap provides a collection of pre-designed CSS classes and JavaScript components, making it easy to create complex web layouts quickly.
     
 5. **Browser Compatibility** - Bootstrap components are tested and verified to work across a range of browsers and platforms. This saves time and ensures consistency across different browsers.
-    
 
 ### Example
 
@@ -2494,7 +2385,6 @@ A website that is designed responsively has several benefits, including the foll
 4. Lower Development Costs and Maintenance - Creating a single website to address all users' needs reduces the development costs and maintenance associated with multiple versions of the site.
     
 5. Faster Loading Speed - Responsive design helps in reducing website loading time and ensures that visitors stay on the site.
-    
 
 ### Examples of Responsive Websites
 
@@ -2507,7 +2397,6 @@ Here are some examples of websites that have implemented responsive design effec
 3. [Boston Globe](https://www.bostonglobe.com/) - the website adapts its layout and content, including advertisements, to fit the device being used to view the site.
     
 4. [BBC News](https://www.bbc.com/news) - the homepage header adjusts depending on the screen size, and the website's content is distributed to ensure ease of navigation.
-    
 
 In conclusion, responsive design is essential in ensuring that websites are accessible across different devices and provide an optimal viewing experience for users. Its ability to increase website traffic, improve user engagement, and positively affect search engine rankings make it a crucial factor in website development. Several examples of websites implementing responsive design effectively validate its effectiveness.
 
@@ -2842,7 +2731,6 @@ One of the most effective ways to improve performance is to minimize the size of
 - Compressing images: Large image files can significantly slow down a website's loading time. Compressing images using tools like *ImageOptim* or *Kraken.io* can reduce file sizes without sacrificing image quality.
     
 - Minimizing CSS and JavaScript files: Removing whitespace, comments, and unnecessary code can go a long way in reducing file sizes. Tools like *Minify* or *Uglify* can automate this process.
-    
 
 ### Caching
 

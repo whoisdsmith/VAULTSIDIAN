@@ -273,8 +273,6 @@ You can also access the contents of an environment variable in a shell by prefix
   $ echo $PATH  
   /usr/bin:/bin:/usr/sbin:/sbin
 
-  
-
   $ \_
 
 In Bourne-compatible shells, the assignment operator `=` sets environment variables:
@@ -283,8 +281,6 @@ In Bourne-compatible shells, the assignment operator `=` sets environment variab
 
   $ echo $foo  
   3
-
-  
 
   $ \_
 
@@ -310,8 +306,6 @@ For example, in the following, the child bash process cannot see `$foo` from the
   $ echo $foo  
   3
 
-  
-
   $ bash
 
   $ echo $foo
@@ -329,8 +323,6 @@ To export a variable under Bourne-compatible shells, use `export`:
 
   $ echo $foo  
   3
-
-  
 
   $ bash
 

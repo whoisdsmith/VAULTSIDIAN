@@ -5,24 +5,43 @@
 **Table of Contents**
 
 * paste
+
 * Concatenating files column wise
+
 * Interleaving lines
+
 * Lines to multiple columns
+
 * Different delimiters between columns
+
 * Multiple lines to single row
+
 * Further reading for paste
+
 * column
+
 * Pretty printing tables
+
 * Specifying different input delimiter
+
 * Further reading for column
+
 * pr
+
 * Converting lines to columns
+
 * Changing PAGE_WIDTH
+
 * Combining multiple input files
+
 * Transposing a table
+
 * Further reading for pr
+
 * fold
+
 * Examples
+
 * Further reading for fold
 
 ## Paste
@@ -61,7 +80,9 @@ Teal White
 ```
 
 * Specifying a different delimiter using -d
+
 * The <() syntax is [Process Substitution](http://mywiki.wooledge.org/ProcessSubstitution)
+
 * to put it simply - allows output of command to be passed as input file to another command without needing to manually create a temporary file
 
 ```
@@ -82,7 +103,9 @@ $ paste -d'|' <(seq 3) <(seq 4 6) <(seq 7 10)
 ```
 
 * to paste without any character in between, use \0 as delimiter
+
 * note that \0 here doesn't mean the ASCII NUL character
+
 * can also use -d '' with GNU paste
 
 ```
@@ -109,6 +132,7 @@ $ paste -d'\n' <(seq 11 13) <(seq 101 103)
 ### Lines to Multiple Columns
 
 * Number of - specified determines number of output columns
+
 * Input lines can be passed only as stdin
 
 ```
@@ -172,6 +196,7 @@ $ paste -d, <(seq 3) <(seq 4 6) <(seq 7 9) <(seq 10 12)
 ```
 
 * combination of -d and /dev/null (empty file) can give multi-character separation between columns
+
 * If this is too confusing to use, consider pr instead
 
 ```
@@ -255,6 +280,7 @@ $ seq 10 | perl -pe 's/\n/ : / if(!eof)'
 ### Further Reading for Paste
 
 * man paste and info paste for more options and detailed documentation
+
 * [paste Q&A on unix stackexchange](https://unix.stackexchange.com/questions/tagged/paste?sort=votes&pageSize=15)
 
 ## Column
@@ -318,7 +344,9 @@ pomegranate 280
 ### Specifying Different Input Delimiter
 
 * Use -s to specify input delimiter
+
 * Use -n to prevent merging empty cells
+
 * From man column "This option is a Debian GNU/Linux extension"
 
 ```
@@ -347,7 +375,9 @@ $ paste -d, <(seq 3) <(seq 5 9) <(seq 11 13) | column -s, -nt
 ### Further Reading for Column
 
 * man column for more options and detailed documentation
+
 * [column Q&A on unix stackexchange](https://unix.stackexchange.com/questions/tagged/columns?sort=votes&pageSize=15)
+
 * More examples [here](http://www.commandlinefu.com/commands/using/column/sort-by-votes)
 
 ## Pr
@@ -372,6 +402,7 @@ With no FILE, or when FILE is -, read standard input.
 ```
 
 * Paginate is not covered, examples related only to columnate
+
 * For example, default invocation on a file would add a header, etc
 
 ```
@@ -393,8 +424,11 @@ pomegranate
 ### Converting Lines to Columns
 
 * With paste, changing input file rows to column(s) is possible only with consecutive lines
+
 * pr can do that as well as split entire file itself according to number of columns needed
+
 * And -s option in pr allows multi-character output delimiter
+
 * As usual, examples to better show the functionalities
 
 ```
@@ -465,7 +499,9 @@ $ seq 22 | paste -d, - - - - -
 ### Changing PAGE_WIDTH
 
 * The default PAGE_WIDTH is 72
+
 * The formula (col-1)*len(delimiter) + col seems to work in determining minimum PAGE_WIDTH required for multiple column output
+
 * col is number of columns required
 
 ```
@@ -480,6 +516,7 @@ pr: page width too narrow
 ```
 
 * Use -w to specify a different PAGE_WIDTH
+
 * The -J option turns off truncation
 
 ```
@@ -586,6 +623,7 @@ poha sevai vadapav shondesh
 ### Further Reading for Pr
 
 * man pr and info pr for more options and detailed documentation
+
 * More examples [here](http://docstore.mik.ua/orelly/unix3/upt/ch21_15.htm)
 
 ## Fold

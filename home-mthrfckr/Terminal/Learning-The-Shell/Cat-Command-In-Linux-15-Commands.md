@@ -15,7 +15,7 @@ Prerequisites
 -   A system running Linux
 -   Access to a terminal window / command line
 
-## cat Command Syntax
+## Cat Command Syntax
 
 To use the **`cat`** command, follow the format:
 

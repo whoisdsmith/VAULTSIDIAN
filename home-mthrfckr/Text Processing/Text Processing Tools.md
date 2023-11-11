@@ -1,7 +1,8 @@
-# Text Processing Tools 
+# Text Processing Tools
+
 ---
 
-### Overview
+## Overview
 
 -   [Tools for Extracting Text](https://miteshshah.github.io/linux/basics/text-processing-tools/#tools-for-extracting-text)
     -   [1\. Viewing File Contents](https://miteshshah.github.io/linux/basics/text-processing-tools/#1-viewing-file-contents)
@@ -27,9 +28,9 @@
 3.  Extract by Keyword: `grep`
 4.  Extract by Column or Field: `cut`
 
-#### 1\. Viewing File Contents
+### 1\. Viewing File Contents
 
-##### cat command
+#### Cat Command
 
 -   `cat` - Dump one or more file to STDOUT
 -   `cat` command is most useful for viewing the short files
@@ -44,7 +45,7 @@
 **NOTE!:** If you dump the content of a binary file with cat to a terminal, you will make it unusable. You can use reset command to clean up your garbled terminal and go on with it.  
 When you type `reset`, it won’t be correctly echo-ed.
 
-##### less command
+#### Less Command
 
 -   `less` View file or STDIN one page at a time.
 -   `less` command is more useful for viewing the larger files.
@@ -67,9 +68,9 @@ When you type `reset`, it won’t be correctly echo-ed.
 -   `v` Opens the file in (vi by default)
 -   `q` quits
 
-#### 2\. Viewing File Excerpts
+### 2\. Viewing File Excerpts
 
-##### head command
+#### Head Command
 
 -   `head`: Display the first 10 lines of a file
 -   `-n`: Specify the number of lines to display
@@ -94,7 +95,7 @@ root:x:0:0:root:/root:/bin/bash
 bin:x:1:1:bin:/bin:/sbin/nologin
 ```
 
-##### tail command
+#### Tail Command
 
 -   `tail`: Display the last 10 lines of a file
 -   `-n`: Specify the number of lines to display
@@ -110,7 +111,7 @@ bin:x:1:1:bin:/bin:/sbin/nologin
 [root@Matrix ~]# tail -f /var/log/messages
 ```
 
-#### 3\. Extracting Text by Keyword - grep command
+### 3\. Extracting Text by Keyword - Grep Command
 
 -   `grep`: Prints lines of files or STDIN where the pattern is matched
 -   The patterns contain regular expression metacharacters and so it is considered good practice to always quote your regular expressions.
@@ -149,7 +150,7 @@ Cat
 [mitesh@Matrix ~]$ date --help | grep 'year'
 ```
 
-#### 4\. Extract by Column or Field - cut command
+### 4\. Extract by Column or Field - Cut Command
 
 -   `cut`: Display specific columns of file or STDIN
 
@@ -186,14 +187,14 @@ bin
 127.0.0.1
 ```
 
-### Tools for Analyzing Text
+## Tools for Analyzing Text
 
 1.  Text Stats: `wc`
 2.  Sorting Text: `sort`
 3.  Comparing Files: `diff` and `patch`
 4.  Spell Check: `aspell`
 
-#### wc command
+### Wc Command
 
 -   `wc` command counts the Number of Lines, Words, Bytes and/or Characters in a File or STDIN.
 -   On traditional UNIX system every character in a text file took up exactly 1 byte.
@@ -223,7 +224,7 @@ bin
 18
 ```
 
-#### sort command
+### Sort Command
 
 -   `sort` - Sorts Text to STDOUT - Original File Unchanged
 
@@ -260,7 +261,6 @@ mitesh:x:501:501:mitesh:/home/mitesh:/bin/bash
 **NOTE!:** The argument to the `-k` option can be two numbers separated by a dot. In this case, The number before the dot is the field number  
 The number after the dot is the character within that field with which to begin sort
 
-  
 **Eliminating Duplicate Lines**
 
 -   `sort-u`: Removes duplicate lines from input
@@ -290,7 +290,7 @@ The number after the dot is the character within that field with which to begin 
 1 /sbin/shutdown
 ```
 
-#### diff command
+### Diff Command
 
 -   `diff`: Compare two files for difference.
 -   Use `gvimdiff` for graphical diff - Provided by vim-X11 package.
@@ -380,7 +380,7 @@ Setting3 = C
 [mitesh@Matrix ~]$ patch -b file.conf-station1 file.conf.patch
 ```
 
-#### aspell command
+### Aspell Command
 
 -   `aspell`: A aspell is an interactive spell checker.
 -   It offers suggestions for corrections via a simple menu-driven interface.
@@ -418,9 +418,9 @@ exercising
 ...output truncated...
 ```
 
-### Tools for Manipulating Text
+## Tools for Manipulating Text
 
-#### tr command
+### Tr Command
 
 -   `tr`: Translate (Alter) Characters.
 -   Only reads data from STDIN.
@@ -435,7 +435,7 @@ read answer
 answer="$(echo $answer | tr 'A-Z' 'a-z')"
 ```
 
-#### sed command
+### Sed Command
 
 -   `sed`: Stream Editor
 -   Performs search/replace operations on a stream of data
@@ -493,7 +493,7 @@ sed -f myedits pets
 [mitesh@Matrix ~]$ sed '$ c\\t\include /etc/nginx/common/*.conf;\n}' file.txt
 ```
 
-#### regex command
+### Regex Command
 
 -   `regex`: Regular Expressions
 -   For more details see `man 7 regex`
@@ -522,9 +522,7 @@ operator:x:11:0:operator:/root:/sbin/nologin
 root:x:0:0:root:/root:/bin/bash
 ```
 
-  
-
-### Post Navigation
+## Post Navigation
 
 [Standard IO & Pipes](https://miteshshah.github.io/linux/basics/standard-io-and-pipes/) [VIM - an Advance Text Editor](https://miteshshah.github.io/linux/basics/vim-an-advance-text-editor/)
 

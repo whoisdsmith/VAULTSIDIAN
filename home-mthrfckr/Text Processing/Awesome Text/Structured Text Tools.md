@@ -5,22 +5,39 @@ The following is a list of text-based file formats and command line tools for ma
 ## Contents
 
 * [Awk-like](#awk-like)
+
   * [Awk](#awk)
+
   * [POSIX commands](#posix-commands)
+
   * [SQL-based tools](#sql-based-tools)
+
   * [Other tools](#other-tools)
+
 * [CSV](#csv)
+
 * [JSON](#json)
+
 * [XML, HTML](#xml-html)
+
 * [YAML, TOML](#yaml-toml)
+
 * [Configuration files](#configuration-files)
+
   * [/etc/hosts](#etchosts)
+
   * [INI](#ini)
+
   * [Multiple formats](#multiple-formats)
+
 * [Log files](#log-files)
+
 * [Templating for structured text](#templating-for-structured-text)
+
 * [Bonus round: CLIs for single-file databases](#bonus-round-clis-for-single-file-databases)
+
 * [License](#license)
+
 * [Disclosure](#disclosure)
 
 ## Awk-like
@@ -32,9 +49,13 @@ Tools that work with lines of fields separated by delimiters but do not necessar
 Awk is a POSIX-standard command line tool and programming language. If you use Linux, macOS, or a BSD, you almost certainly have it installed. See below for Windows.
 
 * If you already know how to program, the nawk [man page](https://www.freebsd.org/cgi/man.cgi?query=nawk&sektion=1) is a great way to learn Awk quickly. What you learn from it will apply to other implementations on different platforms. Read it first if you feel overwhelmed by the sheer size of the [GNU Awk manual](https://www.gnu.org/software/gawk/manual/gawk.html).
+
 * [Awk.info archive](https://web.archive.org/web/20160505033644/http://awk.info/)—an extensive resource on Awk.
+
 * [AWK Vs NAWK Vs GAWK](https://www.thegeekstuff.com/2011/06/awk-nawk-gawk/)—a comparison of features present in different implementations.
+
 * [busybox-w32](https://frippery.org/busybox/) includes a full implementation of POSIX Awk and other tools like `sed` in a single Windows executable.
+
 * [GNU Awk 5 binaries for Windows](https://sourceforge.net/projects/ezwinports/files/) by [EZWinPorts](https://www.gnu.org/software/emacs/manual/html_node/efaq-w32/EZWinPorts.html).
 
 ### POSIX Commands
@@ -95,17 +116,29 @@ CSV, TSV, and other delimiter-separated value formats. Tools belong on this list
 See the [big comparison table](sql-based.md). It covers
 
 * AlaSQL CLI
+
 * csvq
+
 * csvsql
+
 * fsql
+
 * q
+
 * RBQL
+
 * rows
+
 * Sqawk (dbohdan)
+
 * sqawk (tjunier)
+
 * Squawk
+
 * termsql
+
 * trdsql
+
 * textql
 
 ## JSON

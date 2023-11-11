@@ -31,7 +31,7 @@
 "It - is - getting late."
 ```
 
-> Ellipsis (...) also work to add a pause between words but usually, for me at least, also adds some "hesitation" or "nervousness" to the voice that might not always fit.
+> Ellipsis (…) also work to add a pause between words but usually, for me at least, also adds some "hesitation" or "nervousness" to the voice that might not always fit.
 
 ```
 ""I... yeah, I guess so...""

@@ -1,9 +1,8 @@
-
 # Advanced macOS Command-Line Tools
 
 macOS is fortunate to have access to the huge arsenal of standard Unix tools. There are also a good number of macOS-specific command-line utilities that provide unique macOS functionality. To view the full documentation for any of these commands, run `man <command>`.
 
-## `caffeinate` - set Mac sleep behavior
+## `caffeinate` - Set Mac Sleep Behavior
 
 Running `caffeinate` with no flags or arguments prevents your Mac from going to sleep as long as the command continues to run.
 
@@ -15,7 +14,7 @@ Specifying an existing process with `-w <pid>` automatically exits the caffeinat
 
 Passing a command with `caffeinate <command>` starts the given command in a new process and will prevent sleep until that process exits.
 
-## `textutil` - document file converter
+## `textutil` - Document File Converter
 
 `textutil` can convert files to and from Microsoft Word, plain text, rich text, and HTML formats.
 
@@ -31,13 +30,13 @@ The possible values for `-convert` are: `txt`, `html`, `rtf`, `rtfd`, `doc`, `do
 
 The `-onlyin <dir>` flag restricts the search to the given directory.
 
-## `networkQuality` - measure Internet speed
+## `networkQuality` - Measure Internet Speed
 
 Run `networkQuality` to run an Internet speed test from your Mac.
 
 Add the `-v` flag to view more detailed information.
 
-## `screencapture` - take screenshots
+## `screencapture` - Take Screenshots
 
 `screencapture -c` takes a screenshot and copies it to the clipboard.
 
@@ -45,19 +44,19 @@ Add the `-v` flag to view more detailed information.
 
 Add the `-T <seconds>` flag to take the screenshot after the given delay in seconds.
 
-## `pbcopy`, `pbpaste` - interact with system clipboard
+## `pbcopy`, `pbpaste` - Interact with System Clipboard
 
 `<command> | pbcopy` copies the output of the command to the clipboard.
 
 `pbpaste` outputs the contents of the clipboard to stdout.
 
-## `say` - text-to-speech engine
+## `say` - Text-to-speech Engine
 
 `say <message>` announces the given message.
 
 `say -f input.txt -o output.aiff` will create an audiobook from the given text file.
 
-## `sips` - image manipulation
+## `sips` - Image Manipulation
 
 `sips -z <height> <width> <image>` resizes the specified image, ignoring the previous aspect ratio.
 
@@ -65,13 +64,13 @@ Add the `-T <seconds>` flag to take the screenshot after the given delay in seco
 
 `sips -r <degrees> <image>` rotate the image by the specified degrees.
 
-## `open` - open files and applications
+## `open` - Open Files and Applications
 
 `open -a <app> <file>` opens the given file with the specified application.
 
 `open .` opens the current directory in a new Finder window.
 
-## `pmset` - configure power management
+## `pmset` - Configure Power Management
 
 `pmset -g` prints all available power configuration information.
 
@@ -83,7 +82,7 @@ Add the `-T <seconds>` flag to take the screenshot after the given delay in seco
 
 `pmset sleepnow` immediately puts the entire system to sleep.
 
-## `softwareupdate` - manage OS updates
+## `softwareupdate` - Manage OS Updates
 
 `softwareupdate --list` prints out available software updates.
 

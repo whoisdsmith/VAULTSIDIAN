@@ -1,10 +1,13 @@
-# <a name="whats-the-difference"></a>What's the difference
+# <a name="whats-the-difference"></a>What's The Difference
 
 **Table of Contents**
 
 * [cmp](#cmp)
+
 * [diff](#diff)
+
     * [Comparing Directories](#comparing-directories)
+
     * [colordiff](#colordiff)
 
 <br>
@@ -33,6 +36,7 @@ DESCRIPTION
 ```
 
 * As the comparison is byte by byte, it doesn't matter if file is human readable or not
+
 * A typical use case is to check if two executables are same or not
 
 ```bash
@@ -62,6 +66,7 @@ $ echo $?
 ```
 
 * Comparison stops immediately at the first difference found
+
 * If verbose option `-l` is used, comparison would stop at whichever input reaches end of file first
 
 ```bash
@@ -79,7 +84,6 @@ cmp: EOF on f1
 **Further Reading**
 
 * `man cmp` and `info cmp` for more options and detailed documentation
-
 
 <br>
 
@@ -104,8 +108,11 @@ DESCRIPTION
 ```
 
 * `diff` output shows lines from first file input starting with `<`
+
 * lines from second file input starts with `>`
+
 * between the two file contents, `---` is used as separator
+
 * each difference is prefixed by a command that indicates the differences (see links at end of section for more details)
 
 ```bash
@@ -192,6 +199,7 @@ $ diff -W 20 --left-column -y <(seq 4) <(seq 5)
 ```
 
 * by default, there is no output if input files are same. Use `-s` option to additionally indicate files are same
+
 * by default, all differences are shown. Use `-q` option to indicate only that files differ
 
 ```bash
@@ -217,7 +225,7 @@ Files i1 and i2 differ
 
 <br>
 
-#### <a name="comparing-directories"></a>Comparing Directories
+### <a name="comparing-directories"></a>Comparing Directories
 
 * when comparing two files of same name from different directories, specifying the filename is optional for one of the directories
 
@@ -298,7 +306,7 @@ diff -r dir1/subdir/f1 dir2/subdir/f1
 
 <br>
 
-#### <a name="colordiff"></a>colordiff
+### <a name="colordiff"></a>colordiff
 
 ```bash
 $ whatis colordiff 
@@ -323,10 +331,15 @@ wdiff (1)            - display word differences between text files
 **Further Reading**
 
 * `man diff` and `info diff` for more options and detailed documentation
-    * [GNU diffutils manual](https://www.gnu.org/software/diffutils/manual/diffutils.html) for a better documentation
-* `man -k diff` to get list of all commands related to `diff`
-* [diff Q&A on unix stackexchange](https://unix.stackexchange.com/questions/tagged/diff?sort=votes&pageSize=15)
-* [unix.stackexchange - GUI diff and merge tools](https://unix.stackexchange.com/questions/4573/which-gui-diff-viewer-would-you-recommend-with-copy-to-left-right-functionality)
-* [unix.stackexchange - Understanding diff output](https://unix.stackexchange.com/questions/81998/understanding-of-diff-output)
-* [stackoverflow - Using output of diff to create patch](https://stackoverflow.com/questions/437219/using-the-output-of-diff-to-create-the-patch)
 
+    * [GNU diffutils manual](https://www.gnu.org/software/diffutils/manual/diffutils.html) for a better documentation
+
+* `man -k diff` to get list of all commands related to `diff`
+
+* [diff Q&A on unix stackexchange](https://unix.stackexchange.com/questions/tagged/diff?sort=votes&pageSize=15)
+
+* [unix.stackexchange - GUI diff and merge tools](https://unix.stackexchange.com/questions/4573/which-gui-diff-viewer-would-you-recommend-with-copy-to-left-right-functionality)
+
+* [unix.stackexchange - Understanding diff output](https://unix.stackexchange.com/questions/81998/understanding-of-diff-output)
+
+* [stackoverflow - Using output of diff to create patch](https://stackoverflow.com/questions/437219/using-the-output-of-diff-to-create-the-patch)

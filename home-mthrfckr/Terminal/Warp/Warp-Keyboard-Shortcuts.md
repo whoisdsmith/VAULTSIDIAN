@@ -12,9 +12,11 @@ Remap the keyboard shortcuts using a file (`~./.warp/keybindings.yaml`). See our
 
 ### Warp Essentials
 
-| --- | --- | --- |
+| --- | --- | --- |  
 |
+
   
+
 `CMD-D`
 
  |
@@ -108,9 +110,11 @@ Description
 Action
 
  |  
-| --- | --- | --- |
+| --- | --- | --- |  
 |
+
   
+
 `ALT-DOWN`
 
  |
@@ -321,9 +325,11 @@ Description
 Action
 
  |  
-| --- | --- | --- |
+| --- | --- | --- |  
 |
+
   
+
 `ALT-BACKSPACE`
 
  |
@@ -937,9 +943,11 @@ Description
 Action
 
  |  
-| --- | --- | --- |
+| --- | --- | --- |  
 |
+
   
+
 `ALT-CMD-DOWN`
 
  |
@@ -1254,9 +1262,11 @@ Description
 Action
 
  |  
-| --- | --- | --- |
+| --- | --- | --- |  
 |
+
   
+
 `CMD--`
 
  |

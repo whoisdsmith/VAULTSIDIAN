@@ -39,10 +39,6 @@
     - [Linux Subsystem for Windows](http://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/)
 - [Shell, choosing shell and changing default shells](https://wiki.ubuntu.com/ChangingShells)
 
-
-
- 
-
 # [Shell Customization](https://learnbyexample.gitbooks.io/linux-command-line/content/Shell_Customization.html)
 
 - [Variables](https://learnbyexample.gitbooks.io/linux-command-line/content/Shell_Customization.html#variables)

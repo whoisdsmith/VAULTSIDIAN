@@ -5,6 +5,6 @@ modified: 2022-07-05T12:44:52Z
 title: cron
 ---
 
-# cron2
+# Cron2
 
 /usr/local/bin/ea-php81 /home2/elnulqmy/public_html/cloud9-ctrlaltback-space/cron.php

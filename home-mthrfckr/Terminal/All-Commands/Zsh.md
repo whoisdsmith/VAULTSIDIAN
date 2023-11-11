@@ -1,4 +1,5 @@
 # Zsh
+
 ```
 _zsh
 _zsh_autosuggest_accept

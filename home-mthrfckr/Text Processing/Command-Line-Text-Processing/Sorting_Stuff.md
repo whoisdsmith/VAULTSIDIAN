@@ -1,33 +1,59 @@
-# <a name="sorting-stuff"></a>Sorting stuff
+# <a name="sorting-stuff"></a>Sorting Stuff
 
 **Table of Contents**
 
 * [sort](#sort)
+
     * [Default sort](#default-sort)
+
     * [Reverse sort](#reverse-sort)
+
     * [Various number sorting](#various-number-sorting)
+
     * [Random sort](#random-sort)
+
     * [Specifying output file](#specifying-output-file)
+
     * [Unique sort](#unique-sort)
+
     * [Column based sorting](#column-based-sorting)
+
     * [Further reading for sort](#further-reading-for-sort)
+
 * [uniq](#uniq)
+
     * [Default uniq](#default-uniq)
+
     * [Only duplicates](#only-duplicates)
+
     * [Only unique](#only-unique)
+
     * [Prefix count](#prefix-count)
+
     * [Ignoring case](#ignoring-case)
+
     * [Combining multiple files](#combining-multiple-files)
+
     * [Column options](#column-options)
+
     * [Further reading for uniq](#further-reading-for-uniq)
+
 * [comm](#comm)
+
     * [Default three column output](#default-three-column-output)
+
     * [Suppressing columns](#suppressing-columns)
+
     * [Files with duplicates](#files-with-duplicates)
+
     * [Further reading for comm](#further-reading-for-comm)
+
 * [shuf](#shuf)
+
     * [Random lines](#random-lines)
+
     * [Random integer numbers](#random-integer-numbers)
+
     * [Further reading for shuf](#further-reading-for-shuf)
 
 <br>
@@ -57,10 +83,9 @@ DESCRIPTION
 
 **Note**: All examples shown here assumes ASCII encoded input file
 
-
 <br>
 
-#### <a name="default-sort"></a>Default sort
+### <a name="default-sort"></a>Default Sort
 
 ```bash
 $ cat poem.txt
@@ -77,8 +102,11 @@ Violets are blue,
 ```
 
 * Well, that was easy. The lines were sorted alphabetically (ascending order by default) and it so happened that first letter alone was enough to decide the order
+
 * For next example, let's extract all the words and sort them
+
     * also allows to showcase `sort` accepting stdin
+
     * See [GNU grep](Gnu_Grep.md)hapter if the `grep` command used below looks alien
 
 ```bash
@@ -101,8 +129,11 @@ you
 ```
 
 * heed hereunto
+
 * See also
+
     * [arch wiki - locale](https://wiki.archlinux.org/index.php/locale)
+
     * [Linux: Define Locale and Language Settings](https://www.shellhacks.com/linux-define-locale-language-settings/)
 
 ```bash
@@ -140,7 +171,7 @@ you
 
 <br>
 
-#### <a name="reverse-sort"></a>Reverse sort
+### <a name="reverse-sort"></a>Reverse Sort
 
 * This is simply reversing from default ascending order to descending order
 
@@ -154,7 +185,7 @@ And so are you.
 
 <br>
 
-#### <a name="various-number-sorting"></a>Various number sorting
+### <a name="various-number-sorting"></a>Various Number Sorting
 
 ```bash
 $ cat numbers.txt
@@ -171,7 +202,9 @@ $ sort numbers.txt
 ```
 
 * Whoops, what happened there? `sort` won't know to treat them as numbers unless specified
+
 * Depending on format of numbers, different options have to be used
+
 * First up is `-n` option, which sorts based on numerical value
 
 ```bash
@@ -189,8 +222,11 @@ $ sort -nr numbers.txt
 ```
 
 * The `-n` option can handle negative numbers
+
 * As well as thousands separator and decimal point (depends on locale)
+
 * The `<()` syntax is [Process Substitution](http://mywiki.wooledge.org/ProcessSubstitution)
+
     * to put it simply - allows output of command to be passed as input file to another command without needing to manually create a temporary file
 
 ```bash
@@ -234,6 +270,7 @@ $ sort -g generic_numbers.txt
 ```
 
 * Commands like `du` have options to display numbers in human readable formats
+
 * `sort` supports sorting such numbers using the `-h` option
 
 ```bash
@@ -262,6 +299,7 @@ $ du -s --si * | sort -h
 ```
 
 * Version sort - dealing with numbers mixed with other characters
+
 * If this sorting is needed simply while displaying directory contents, use `ls -v` instead of piping to `sort -V`
 
 ```bash
@@ -320,11 +358,14 @@ $ sort -V rubik_time.txt
 
 <br>
 
-#### <a name="random-sort"></a>Random sort
+### <a name="random-sort"></a>Random Sort
 
 * Note that duplicate lines will always end up next to each other
+
     * might be useful as a feature for some cases ;)
+
     * Use `shuf` if this is not desirable
+
 * See also [How can I shuffle the lines of a text file on the Unix command line or in a shell script?](https://stackoverflow.com/questions/2153882/how-can-i-shuffle-the-lines-of-a-text-file-on-the-unix-command-line-or-in-a-shel)
 
 ```bash
@@ -357,9 +398,10 @@ $ shuf nums.txt
 
 <br>
 
-#### <a name="specifying-output-file"></a>Specifying output file
+### <a name="specifying-output-file"></a>Specifying Output File
 
 * The `-o` option can be used to specify output file
+
 * Useful for in place editing
 
 ```bash
@@ -383,6 +425,7 @@ $ cat nums.txt
 ```
 
 * Use shell script looping if there multiple files to be sorted in place
+
 * Below snippet is for `bash` shell
 
 ```bash
@@ -397,7 +440,7 @@ $ for f in *.txt; do sort -V "$f" -o "$f"; done
 
 <br>
 
-#### <a name="unique-sort"></a>Unique sort
+### <a name="unique-sort"></a>Unique Sort
 
 * Keep only first copy of lines that are deemed to be same according to `sort` option used
 
@@ -418,7 +461,9 @@ foo
 ```
 
 * According to option used, definition of duplicate will vary
+
 * For example, when `-n` is used, matching numbers are deemed same even if rest of line differs
+
     * Pipe the output to `uniq` if this is not desirable
 
 ```bash
@@ -464,7 +509,7 @@ foot
 
 <br>
 
-#### <a name="column-based-sorting"></a>Column based sorting
+### <a name="column-based-sorting"></a>Column Based Sorting
 
 From `info sort`
 
@@ -511,6 +556,7 @@ fig     90
 ```
 
 * Using a different field separator
+
 * Consider the following sample input file having fields separated by `:`
 
 ```bash
@@ -527,6 +573,7 @@ boss:dog:10
 ```
 
 * Sorting based on particular column or column to end of line
+
 * In case of multiple entries, by default `sort` would use content of remaining parts of line to resolve
 
 ```bash
@@ -555,6 +602,7 @@ temp_var:squirrel:4
 ```
 
 * Multiple keys can be specified to resolve ties
+
 * Note that if there are still multiple entries with specified keys, remaining parts of lines would be used
 
 ```bash
@@ -615,6 +663,7 @@ boss:dog:10
 ```
 
 * Sometimes, the input has to be sorted first and then `-u` used on the sorted output
+
 * See also [remove duplicates based on the value of another column](https://unix.stackexchange.com/questions/379835/remove-duplicates-based-on-the-value-of-another-column)
 
 ```bash
@@ -639,6 +688,7 @@ temp_var:squirrel:4
 ```
 
 * Specifying particular characters within fields
+
 * If character position is not specified, defaults to `1` for starting column and `0` (last character) for ending column
 
 ```bash
@@ -688,14 +738,20 @@ guava   6
 
 <br>
 
-#### <a name="further-reading-for-sort"></a>Further reading for sort
+### <a name="further-reading-for-sort"></a>Further Reading for Sort
 
 * There are many other options apart from handful presented above. See `man sort` and `info sort` for detailed documentation and more examples
+
 * [sort like a master](http://www.skorks.com/2010/05/sort-files-like-a-master-with-the-linux-sort-command-bash/)
+
 * [When -b to ignore leading blanks is needed](https://unix.stackexchange.com/a/104527/109046)
+
 * [sort Q&A on unix stackexchange](https://unix.stackexchange.com/questions/tagged/sort?sort=votes&pageSize=15)
+
 * [sort on multiple columns using -k option](https://unix.stackexchange.com/questions/249452/unix-multiple-column-sort-issue)
+
 * [sort a string character wise](https://stackoverflow.com/questions/2373874/how-to-sort-characters-in-a-string)
+
 * [Scalability of 'sort -u' for gigantic files](https://unix.stackexchange.com/questions/279096/scalability-of-sort-u-for-gigantic-files)
 
 <br>
@@ -725,7 +781,7 @@ DESCRIPTION
 
 <br>
 
-#### <a name="default-uniq"></a>Default uniq
+### <a name="default-uniq"></a>Default Uniq
 
 ```bash
 $ cat word_list.txt
@@ -761,7 +817,7 @@ to
 
 <br>
 
-#### <a name="only-duplicates"></a>Only duplicates
+### <a name="only-duplicates"></a>Only Duplicates
 
 ```bash
 $ # duplicates adjacent to each other
@@ -818,7 +874,7 @@ good
 
 <br>
 
-#### <a name="only-unique"></a>Only unique
+### <a name="only-unique"></a>Only Unique
 
 ```bash
 $ # lines with no adjacent duplicates
@@ -836,7 +892,7 @@ to
 
 <br>
 
-#### <a name="prefix-count"></a>Prefix count
+### <a name="prefix-count"></a>Prefix Count
 
 ```bash
 $ # adjacent lines
@@ -936,7 +992,7 @@ $ grep -oP '(^| +\| +)\K[^ ]+' "$HISTFILE" | sort | uniq -c | sort -nr | head
 
 <br>
 
-#### <a name="ignoring-case"></a>Ignoring case
+### <a name="ignoring-case"></a>Ignoring Case
 
 ```bash
 $ cat another_list.txt
@@ -962,7 +1018,7 @@ Food
 
 <br>
 
-#### <a name="combining-multiple-files"></a>Combining multiple files
+### <a name="combining-multiple-files"></a>Combining Multiple Files
 
 ```bash
 $ sort -f word_list.txt another_list.txt | uniq -i
@@ -1007,12 +1063,16 @@ food
 
 <br>
 
-#### <a name="column-options"></a>Column options
+### <a name="column-options"></a>Column Options
 
 * `uniq` has few options dealing with column manipulations. Not extensive as `sort -k` but handy for some cases
+
 * First up, skipping fields
+
     * No option to specify different delimiter
+
     * From `info uniq`: Fields are sequences of non-space non-tab characters that are separated from each other by at least one space or tab
+
     * Number of spaces/tabs between fields should be same
 
 ```bash
@@ -1079,6 +1139,7 @@ st uck
 ```
 
 * Combining `-s` and `-w`
+
 * Can be combined with `-f` as well
 
 ```bash
@@ -1088,13 +1149,14 @@ glue
 black
 ```
 
-
 <br>
 
-#### <a name="further-reading-for-uniq"></a>Further reading for uniq
+### <a name="further-reading-for-uniq"></a>Further Reading for Uniq
 
 * Do check out `man uniq` and `info uniq` for other options and more detailed documentation
+
 * [uniq Q&A on unix stackexchange](http://unix.stackexchange.com/questions/tagged/uniq?sort=votes&pageSize=15)
+
 * [process duplicate lines only based on certain fields](https://unix.stackexchange.com/questions/387590/print-the-duplicate-lines-only-on-fields-1-2-from-csv-file)
 
 <br>
@@ -1127,7 +1189,7 @@ DESCRIPTION
 
 <br>
 
-#### <a name="default-three-column-output"></a>Default three column output
+### <a name="default-three-column-output"></a>Default Three Column Output
 
 Consider below sample input files
 
@@ -1143,8 +1205,11 @@ Yellow
 ```
 
 * Without any option, `comm` gives 3 column output
+
     * lines unique to first file
+
     * lines unique to second file
+
     * lines common to both files
 
 ```bash
@@ -1162,10 +1227,12 @@ Yellow
 
 <br>
 
-#### <a name="suppressing-columns"></a>Suppressing columns
+### <a name="suppressing-columns"></a>Suppressing Columns
 
 * `-1` suppress lines unique to first file
+
 * `-2` suppress lines unique to second file
+
 * `-3` suppress lines common to both files
 
 ```bash
@@ -1181,6 +1248,7 @@ Yellow
 ```
 
 * Combining options gives three distinct and useful constructs
+
 * First, getting only common lines to both files
 
 ```bash
@@ -1229,11 +1297,14 @@ $ comm --nocheck-order -23 <(sort -n numbers.txt) <(sort -n nums.txt)
 
 <br>
 
-#### <a name="files-with-duplicates"></a>Files with duplicates
+### <a name="files-with-duplicates"></a>Files With Duplicates
 
 * As many duplicate lines match in both files, they'll be considered as common
+
 * Rest will be unique to respective files
+
 * This is useful for cases like finding lines present in first but not in second taking in to consideration count of duplicates as well
+
     * This solution won't be possible with `grep`
 
 ```bash
@@ -1263,9 +1334,10 @@ b
 
 <br>
 
-#### <a name="further-reading-for-comm"></a>Further reading for comm
+### <a name="further-reading-for-comm"></a>Further Reading for Comm
 
 * `man comm` and `info comm` for more options and detailed documentation
+
 * [comm Q&A on unix stackexchange](http://unix.stackexchange.com/questions/tagged/comm?sort=votes&pageSize=15)
 
 <br>
@@ -1296,7 +1368,7 @@ DESCRIPTION
 
 <br>
 
-#### <a name="random-lines"></a>Random lines
+### <a name="random-lines"></a>Random Lines
 
 * Without repeating input lines
 
@@ -1326,6 +1398,7 @@ $ shuf -n2 nums.txt
 ```
 
 * Use `-o` option to specify output file name instead of displaying on stdout
+
 * Helpful for inplace editing
 
 ```bash
@@ -1385,7 +1458,7 @@ foo
 
 <br>
 
-#### <a name="random-integer-numbers"></a>Random integer numbers
+### <a name="random-integer-numbers"></a>Random Integer Numbers
 
 * The `-i` option accepts integer range as input to be shuffled
 
@@ -1437,16 +1510,20 @@ $ seq 0.3 0.1 0.7 | shuf -n3
 0.7
 ```
 
-
 <br>
 
-#### <a name="further-reading-for-shuf"></a>Further reading for shuf
+### <a name="further-reading-for-shuf"></a>Further Reading for Shuf
 
 * `man shuf` and `info shuf` for more options and detailed documentation
-* [Generate random numbers in specific range](https://unix.stackexchange.com/questions/140750/generate-random-numbers-in-specific-range)
-* [Variable - randomly choose among three numbers](https://unix.stackexchange.com/questions/330689/variable-randomly-chosen-among-three-numbers-10-100-and-1000)
-* Related to 'random' stuff:
-    * [How to generate a random string?](https://unix.stackexchange.com/questions/230673/how-to-generate-a-random-string)
-    * [How can I populate a file with random data?](https://unix.stackexchange.com/questions/33629/how-can-i-populate-a-file-with-random-data)
-    * [Run commands at random](https://unix.stackexchange.com/questions/81566/run-commands-at-random)
 
+* [Generate random numbers in specific range](https://unix.stackexchange.com/questions/140750/generate-random-numbers-in-specific-range)
+
+* [Variable - randomly choose among three numbers](https://unix.stackexchange.com/questions/330689/variable-randomly-chosen-among-three-numbers-10-100-and-1000)
+
+* Related to 'random' stuff:
+
+    * [How to generate a random string?](https://unix.stackexchange.com/questions/230673/how-to-generate-a-random-string)
+
+    * [How can I populate a file with random data?](https://unix.stackexchange.com/questions/33629/how-can-i-populate-a-file-with-random-data)
+
+    * [Run commands at random](https://unix.stackexchange.com/questions/81566/run-commands-at-random)

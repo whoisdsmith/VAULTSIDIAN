@@ -4,14 +4,9 @@
 
 ## Synopsis
 
-
-
 `**fex** *selector …*`
 
-
-
 ## Description
-
 
 fex helps you split things by field. Common tasks you might do with awk or cut are much simpler in fex, and there are things in fex you can't do nearly as easily in awk or cut.
 
@@ -127,7 +122,6 @@ Pull the IP address (first field by space) and the path requested (2nd field in 
     65.57.245.11 /icons/folder.gif
 ```
 
-
 ## See Also
 
 Project site: [http://www.semicomplete.com/projects/fex](http://www.semicomplete.com/projects/fex)
@@ -137,4 +131,3 @@ Source Code: [https://github.com/jordansissel/fex](https://github.com/jordansiss
 Alternately, if you prefer email, feel free to file bugs by email.  Whatever works for you :)
 
 Patches, ideas, and other contributions by many, nice folks. See the CHANGELIST file for who provided what.
-

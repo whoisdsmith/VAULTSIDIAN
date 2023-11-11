@@ -16,7 +16,6 @@
 - [column]()
 - [pr]()
 
-
 *****************************
 
 ## Sort
@@ -350,7 +349,6 @@ some-url-that-I-have
 - /pattern/,+x line matching pattern and x lines after
 - /pattern1/,/pattern2/ line matching pattern1 to line matching pattern2
 - /pattern/I lines matching pattern, pattern is case insensitive
-    
 
 ### Examples for Selective deletion(d)
 
@@ -394,7 +392,7 @@ some-url-that-I-have
     - Any character other than backslash or newline can be used as delimiter, for example | # ^ see this link for more info
     - \0 back-reference contains entire matched string
 
-### More Sources:
+### More Sources
 
 - [Sed basics](http://code.snipcademy.com/tutorials/shell-scripting/sed/introduction)
 - [Sed detailed tutorial](http://www.grymoire.com/Unix/Sed.html)
@@ -625,6 +623,5 @@ $ pr -mts', ' <(seq 3) <(seq 4 6) <(seq 7 9)
 - [awk examples](http://www.thegeekstuff.com/tag/unix-awk-examples/)
 - [awk Q&A on unix stackexchange](https://unix.stackexchange.com/questions/tagged/awk?sort=votes&pageSize=15)
 - [awk Q&A on stackoverflow](https://stackoverflow.com/questions/tagged/awk?sort=votes&pageSize=15)
-
 
 ---

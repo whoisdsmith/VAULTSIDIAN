@@ -1,4 +1,6 @@
-# My Favorite Command Line Tools for Searching & Editing Text
+# My Favorite Command Line Tools For Searching & Editing Text
+
+## My Favorite Command Line Tools for Searching & Editing Text
 
 ---
 
@@ -6,7 +8,7 @@ I spend more time working with text than anything else. The multi-monitor, high-
 
 In this post I’ll show you the most powerful command line tools I’ve found for searching and editing text.
 
-## Regex: Grep, Ack, & Silver Searcher
+### Regex: Grep, Ack, & Silver Searcher
 
 The 1973 Unix search command, grep, is still a popular and powerful tool for searching text. It uses regular expressions (also called regex) to find lines that match a pattern. Once you get good with grep, that experience will carry over to many other tools and text editors. This simple command searches all the files in the current directory:
 
@@ -39,7 +41,7 @@ All three commands support a few options I use all the time:
 - `-l` only show the filenames containing a match
 - `-v` invert the match–show lines not matching
 
-## Perl & Ruby
+### Perl & Ruby
 
 Occasionally, a regex search doesn’t work well because the search is too complex or requires more than simple matching. Awk and Perl are both useful for these searches. Here’s an example of Perl searching text for numbers greater than 100:
 
@@ -55,7 +57,7 @@ ruby -n -e 'puts $_ if ($_ =~ /(\d{3,})/ && $1.to_i > 100)' *
 
 ```
 
-# Finding Changes In Text
+## Finding Changes In Text
 
 Often when I’m searching text, I’m not looking at the text—I’m looking at the changes. That requires history. The original Unix diff command figures out changes by comparing an old file and new file. Unlike grep, I rarely use diff because I rarely have an old copy of a file—version control has replaced all the manual backups that I used to do. Learning diff is still useful though, because it introduced the unified output format that is still popular today:
 
@@ -83,7 +85,7 @@ git diff -U10 . | grep -C10 'PATTERN'
 
 ```
 
-# Finding Files
+## Finding Files
 
 Our file organization systems haven’t changed much, and the original Unix find command is still really useful. It will find all files with a given name or attribute in a directory:
 
@@ -136,7 +138,7 @@ ag -l -0 'PATTERN' | xargs -0 COMMAND
 
 ```
 
-# Changing Text with Batch Edits
+## Changing Text with Batch Edits
 
 Software is usually well-factored and easy to change by hand—some people get by with Notepad after all. Eventually though we all run into a big tedious change. Naming convention changes in particular can be impossible for an IDE and mind-numbing for a human. Learning how to write editor macros can help; learning a batch editor can help even more. Sed and Awk are the classic Unix batch editors, but in my experience Perl has more powerful one-liners: its reputation as a swiss army chainsaw is well deserved.
 
@@ -172,7 +174,7 @@ find . -name '*.java' -print0 | xargs -0 \
 
 ```
 
-# Making Changes Quickly and Safely
+## Making Changes Quickly and Safely
 
 The Perl commands for editing multiple files, especially when combined with a find command, can make huge changes very quickly. When you make a mistake, that mistake can easily wipe out your entire project. To protect yourself against that, you absolutely must use version control.
 

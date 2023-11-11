@@ -1,3 +1,5 @@
+# Learning-The-Shell-Lesson-10-Job-Control
+
 In the previous lesson, we looked at some of the implications of Linux being a multi-user operating system. In this lesson, we will examine the multitasking nature of Linux, and how it is controlled with the command line interface.
 
 As with any multitasking operating system, Linux executes multiple, simultaneous processes. Well, they appear simultaneous, anyway. Actually, a single processor core can only execute one process at a time but the Linux kernel manages to give each process its turn at the processor and each appears to be running at the same time.
@@ -38,13 +40,13 @@ Now that we have a process in the background, it would be helpful to display a l
 
 ## Killing a Process
 
-Suppose that we have a program that becomes unresponsive; how do we get rid of it? We use the `kill` command, of course. Let's try this out on `xload`. First, we need to identify the process we want to kill. We can use either `jobs` or `ps`, to do this. If we use `jobs` we will get back a job number. With `ps`, we are given a _process id_ (PID). We will do it both ways:
+Suppose that we have a program that becomes unresponsive; how do we get rid of it? We use the `kill` command, of course. Let's try this out on `xload`. First, we need to identify the process we want to kill. We can use either `jobs` or `ps`, to do this. If we use `jobs` we will get back a job number. With `ps`, we are given a *process id* (PID). We will do it both ways:
 
 \[me@linuxbox me\]$ `xload &` \[1\] 1292 \[me@linuxbox me\]$ `jobs` \[1\]+ Running xload& \[me@linuxbox me\]$ `kill %1` \[me@linuxbox me\]$ `xload &` \[2\] 1293 \[1\] Terminated xload \[me@linuxbox me\]$ `ps` PID TTY TIME CMD 1280 pts/5 00:00:00 bash 1293 pts/5 00:00:00 xload 1294 pts/5 00:00:00 ps \[me@linuxbox me\]$ `kill 1293` \[2\]+ Terminated xload \[me@linuxbox me\]$
 
-## A Little More About kill
+## A Little More About Kill
 
-While the `kill` command is used to "kill" processes, its real purpose is to send _signals_ to processes. Most of the time the signal is intended to tell the process to go away, but there is more to it than that. Programs (if they are properly written) listen for signals from the operating system and respond to them, most often to allow some graceful method of terminating. For example, a text editor might listen for any signal that indicates that the user is logging off, or that the computer is shutting down. When it receives this signal, it could save the work in progress before it exits. The `kill` command can send a variety of signals to processes. Typing:
+While the `kill` command is used to "kill" processes, its real purpose is to send *signals* to processes. Most of the time the signal is intended to tell the process to go away, but there is more to it than that. Programs (if they are properly written) listen for signals from the operating system and respond to them, most often to allow some graceful method of terminating. For example, a text editor might listen for any signal that indicates that the user is logging off, or that the computer is shutting down. When it receives this signal, it could save the work in progress before it exits. The `kill` command can send a variety of signals to processes. Typing:
 
 kill -l
 
@@ -96,7 +98,7 @@ Then, if the process does not terminate, force it with the SIGKILL signal:
 
 \[me@linuxbox me\]$ `kill -9 2931`
 
-## That's It!
+## That's It
 
 This concludes the "Learning the Shell" series of lessons. In the next series, "Writing Shell Scripts," we will look at how to automate tasks with the shell.
 

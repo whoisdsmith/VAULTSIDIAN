@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0726a14ab0a81c7a",
+        "id": "50d89dc79e1ad415",
         "type": "tabs",
         "children": [
           {
-            "id": "89ca2f02ce14b7b8",
+            "id": "ecdafc30a7a99cc9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "HOME-MTHRFCKR/documentation/Node.js/Awesome-nodejs Delightful Node.js packages and resources.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HOME-MTHRFCKR/documentation/Node.js/Awesome-nodejs Delightful Node.js packages and resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HOME-MTHRFCKR/documentation/Node.js/Awesome-nodejs Delightful Node.js packages and resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HOME-MTHRFCKR/documentation/Node.js/Awesome-nodejs Delightful Node.js packages and resources.md"
+              }
             }
           }
         ]
@@ -134,7 +142,7 @@
       "bulk-exporter:Bulk Exporter Preview": false
     }
   },
-  "active": "89ca2f02ce14b7b8",
+  "active": "ecdafc30a7a99cc9",
   "lastOpenFiles": [
     "README.md",
     "HOME-MTHRFCKR/documentation/ios/ios-torrenting.md",

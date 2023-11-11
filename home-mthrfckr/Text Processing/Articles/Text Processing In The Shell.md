@@ -1,4 +1,6 @@
-# Text Processing in the Shell
+# Text Processing In The Shell
+
+## Text Processing in the Shell
 
 ---
 
@@ -6,7 +8,7 @@ This article is part of a self-published book project by Balthazar Rouberol and 
 
 If you are interested in the project, we invite you to join the [mailing list](https://balthazar-rouberol.us4.list-manage.com/subscribe?u=1f6080d496af07a836270ff1d&id=81ebd36adb)!
 
-## Table of Contents
+### Table of Contents
 
 - [`cat`](https://blog.balthazar-rouberol.com/text-processing-in-the-shell#cat)
 - [`head`](https://blog.balthazar-rouberol.com/text-processing-in-the-shell#head)
@@ -26,7 +28,7 @@ If you are interested in the project, we invite you to join the [mailing list](h
 - [Summary](https://blog.balthazar-rouberol.com/text-processing-in-the-shell#summary)
 - [Going further](https://blog.balthazar-rouberol.com/text-processing-in-the-shell#going-further)
 
-## Text Processing in the Shell
+### Text Processing in the Shell
 
 One of the things that makes the shell an invaluable tool is the amount of available text processing commands, and the ability to easily pipe them into each other to build complex text processing workflows. These commands can make it trivial to perform text and data analysis, convert data between different formats, filter lines, etc.
 
@@ -40,7 +42,7 @@ We will go over some of the most common and useful text processing commands the 
 
 The example CSV (comma-separated values) file is available online.<sup id="fnref:2"><a href="https://blog.balthazar-rouberol.com/text-processing-in-the-shell#fn:2">2</a></sup> Feel free to download it yourself to test these commands.
 
-## `cat`
+### `cat`
 
 As seen in the previous chapter, `cat` is used to concatenate a list of one or more files and displays their content on screen.
 
@@ -61,7 +63,7 @@ They're just fast at making dumb things.
 
 ```
 
-## `head`
+### `head`
 
 `head` prints the first n lines in a file. It can be very useful to peek into a file of unknown structure and format without burying your shell under a wall of text.
 
@@ -74,7 +76,7 @@ mysql.galera.wsrep_cluster_size,gauge,,node,,The current number of nodes in the 
 
 If `-n` is unspecified, `head` will print the first 10 lines in its argument file or input stream.
 
-## `tail`
+### `tail`
 
 `tail` is `head`’s counterpart. It prints the last n lines in a file.
 
@@ -99,7 +101,7 @@ If `-n` is unspecified, `tail` will print the last 10 lines in its argument file
 
 `tail -f` or `tail --follow` displays the last lines in a file and displays each new line as the file is being written to. It is very useful to see real time activity that is written to a log file, for example a web server log file, etc.
 
-## `wc`
+### `wc`
 
 `wc` (for *word count*) prints either the number of characters (when using `-c`), words (when using `-w`) or lines (when using `-l`) in its argument files or input stream.
 
@@ -133,7 +135,7 @@ $ wc -w < metadata.csv
 
 ```
 
-## `grep`
+### `grep`
 
 `grep` is the Swiss Army knife of line filtering. It allows you to filter lines matching a given pattern.
 
@@ -209,7 +211,7 @@ $
 
 ```
 
-## `cut`
+### `cut`
 
 `cut` cuts out a portion of a file (or, as always, its input stream). `cut` works by defining a field delimited (what separates two columns) with the `-d` option, and what column(s) should be extracted, with the `-f` option.
 
@@ -239,7 +241,7 @@ mysql.performance.queries,gauge
 
 ```
 
-## `paste`
+### `paste`
 
 `paste` can merge together two different files into one multi-column file.
 
@@ -289,7 +291,7 @@ eggs,milk,butter,tomatoes
 
 ```
 
-## `sort`
+### `sort`
 
 `sort`, well, sorts argument files or input.
 
@@ -345,7 +347,7 @@ $ sort -n numbers
 
 ```
 
-## `uniq`
+### `uniq`
 
 `uniq` detects or filters out adjacent identical lines in its argument file or input stream.
 
@@ -396,7 +398,7 @@ and one, two, three
 
 `uniq` is particularly useful used in conjunction with `sort`, as `| sort | uniq` allows you to remove any duplicate line in a file or a stream.
 
-## `awk`
+### `awk`
 
 `awk` is a little more than a text processing tool: it’s actually a whole programming language of its own<sup id="fnref:3"><a href="https://blog.balthazar-rouberol.com/text-processing-in-the-shell#fn:3">3</a></sup>. One thing `awk` is *really* good at is splitting files into columns, and it especially shines when these files contain a mix and match of spaces and tabs.
 
@@ -434,7 +436,7 @@ There is so much more we can do with `awk`, however, printing columns probably a
 
 `{ print $NF }` prints the last column in the line.
 
-## `tr`
+### `tr`
 
 `tr` stands for *translate*, and it replaces characters into others. It either works on characters or character *classes*, such as lowercase, printable, spaces, alphanumeric, etc.
 
@@ -510,7 +512,7 @@ Computers are fast
 
 ```
 
-## `fold`
+### `fold`
 
 `fold` wraps each input line to fit in a specified width. It can be useful to make sure an argument text fits in a small display size for example. `fold -w n` folds the lines at `n` characters.
 
@@ -536,7 +538,7 @@ far!
 
 ```
 
-## `sed`
+### `sed`
 
 `sed` is a non-interactive stream editor, used to perform text transformation on its input stream, on a line-per-line basis. It can take its output from a file our its `stdin` and will output its result either in a file or its `stdout`.
 
@@ -549,7 +551,7 @@ It works by taking one or many optional *addresses*, a *function* and *parameter
 
 While `sed` can perform many functions, we will cover only substitution, as it is probably `sed`’s most common use.
 
-### Substituting Text
+#### Substituting Text
 
 A `sed` substitution command looks like this:
 
@@ -637,9 +639,9 @@ hi
 
 On Linux, only `-i` needs to be specified. However, due to the fact that `sed`’s behavior on macOS is slightly different, the `''` needs to be added right after `-i`.
 
-## Real-life Examples
+### Real-life Examples
 
-### Filtering a CSV Using `grep` and `awk`
+#### Filtering a CSV Using `grep` and `awk`
 
 ```
 $ grep -w gauge metadata.csv | awk -F, '{ if ($4 == "query") { print $1, "per", $5 } }'
@@ -659,7 +661,7 @@ mysql.performance.queries per second
 
 This example filters the lines containing the word `gauge` in our `metadata.csv` file using `grep`, then the filters the lines with the string `query` as their 4th column, and displays the metric name (1st column) with its associated `per_unit_name` value (5th column).
 
-### Printing the IPv4 Address Associated with a Network Interface
+#### Printing the IPv4 Address Associated with a Network Interface
 
 ```
 $ ifconfig en0 | grep inet | grep -v inet6 | awk '{ print $2 }'
@@ -715,7 +717,7 @@ $ ifconfig en0 | awk ' $1 == "inet" { print $2 }'
 
 It is shorter and specifically targets IPv4 using the `$1 == "inet"` condition.
 
-### Extracting a Value From a Config File
+#### Extracting a Value From a Config File
 
 ```
 $ grep 'editor =' ~/.gitconfig  | cut -d = -f2 | sed 's/ //g'
@@ -735,7 +737,7 @@ $ grep 'editor =' ~/.gitconfig  | cut -d'=' -f2 | sed 's/ //'
 
 ```
 
-### Extracting IP Addresses From a Log File
+#### Extracting IP Addresses From a Log File
 
 The following real life example looks for the message `Too many connections from` in a database log file (which is followed by an IP address) and displays the 10 biggest offenders.
 
@@ -831,7 +833,7 @@ $ grep 'Too many connections from' db.log | \
 
 ```
 
-### Renaming a Function in a Source File
+#### Renaming a Function in a Source File
 
 Let’s imagine that we are working a code project, and we would like to rename rename a poorly named function (or class, variable, etc) in a code file. We can do this by using `sed -i`, which performs an in-place replacement in a file.
 
@@ -858,7 +860,7 @@ Use `sed -i ''` instead of `sed -i` on macOs, as the `sed` version behaves sligh
 
 We’ve however only renamed this function in the file it was defined in. Any other file we import `bool_from_str` will now be broken, as this function is not defined anymore. We’d need a way to rename `bool_from_str` everywhere it is found in our project. We can achieve just that by using `grep`, `sed`, and either `for` loops or `xargs`.
 
-## Going Further: `for` Loops and `xargs`
+### Going Further: `for` Loops and `xargs`
 
 To replace all occurrences of `bool_from_str` in our project, we first need to recursively find them using `grep -r`.
 
@@ -979,7 +981,7 @@ $ sed -i 's/bool_from_str/is_affirmative/' ./izk/prompt.py
 
 I tend to find the for loop syntax clearer than `xargs`’s. `xargs` can however execute the commands in parallel using its `-P n` options, where `n` is the maximum number of parallel commands to be executed at a time, which can be a performance win if your command takes time to run.
 
-## Summary
+### Summary
 
 All these tools open up a world of possibilities, as they allow you to extract data and transform its format, to make it possible to build entire workflows of commands that were possibly never intended to work together. Each of these commands accomplishes has a relatively small function (`sort` sorts, `cat` concatenates, `grep` filters, `sed` edits, `cut` cuts, etc).
 
@@ -997,7 +999,7 @@ As there is a plethora of text processing tools, either available by default or 
 
 The examples in this article were contrived, but I suggest you read the amazing article “Command-line Tools can be 235x Faster than your Hadoop Cluster”<sup id="fnref:4"><a href="https://blog.balthazar-rouberol.com/text-processing-in-the-shell#fn:4">4</a></sup> to get a sense of how useful and powerful these text processing commands really are, and what real-life problems they can solve.
 
-## Going Further
+### Going Further
 
 **2.1**: Count the number of files and directories located in your home directory.
 
@@ -1007,7 +1009,7 @@ The examples in this article were contrived, but I suggest you read the amazing 
 
 **2.4**: Count the number of vowels present in a file. Display the result from the most common to the least.
 
-# The Shell's Building Blocks
+## The Shell's Building Blocks
 
 ---
 
@@ -1017,7 +1019,7 @@ This article is part of a self-published book project by Balthazar Rouberol and 
 
 If you are interested in the project, we invite you to join the [mailing list](https://balthazar-rouberol.us4.list-manage.com/subscribe?u=1f6080d496af07a836270ff1d&id=81ebd36adb)!
 
-## Table of Contents
+### Table of Contents
 
 - [Environment variables](https://blog.balthazar-rouberol.com/the-shells-building-blocks#environment-variables)
 - [Aliases](https://blog.balthazar-rouberol.com/the-shells-building-blocks#aliases)
@@ -1026,7 +1028,7 @@ If you are interested in the project, we invite you to join the [mailing list](h
 - [Summary](https://blog.balthazar-rouberol.com/the-shells-building-blocks#summary)
 - [Going further](https://blog.balthazar-rouberol.com/the-shells-building-blocks#going-further)
 
-## The Shell's Building Blocks
+### The Shell's Building Blocks
 
 As we have seen in the [previous chapters](https://blog.balthazar-rouberol.com/discovering-the-terminal), the shell is a program allowing you to run other programs. It is an invaluable tool in the life of a software engineer, as it provides you with a simple text-based interface to control your computer and any program you might install or write.
 
@@ -1034,7 +1036,7 @@ Something I still find striking after years of using a shell almost daily is how
 
 [Chapter 1](https://blog.balthazar-rouberol.com/discovering-the-terminal) covered commands, I/O streams and pipes. This chapter will cover environment variables, aliases and functions.
 
-## Environment Variables
+### Environment Variables
 
 Environment variables are key/value pairs that affect how running programs behave. Another way to say that would be that environment variables can allow you to tweak and personalize how certain programs, amongst which your shell, work. They can also define what programs will be called to perform a certain task.
 
@@ -1044,7 +1046,7 @@ Here are a few examples:
 - `HOME` defines where your home directory is located
 - `EDITOR` defines what text editor program should be used to edit text within your terminal (eg `nano`, `vim`, `emacs`, etc)
 
-### Displaying an Environment Variable's Value
+#### Displaying an Environment Variable's Value
 
 To display the value of given environment variable, you can use the `echo` command, followed by a dollar sign and the name of the variable:
 
@@ -1072,7 +1074,7 @@ For the sake of brevity, I've only displayed a subset of the environment variabl
 - I am currently located in my home directory
 - my default pager program is `less`
 
-### Changing an Environment Variable
+#### Changing an Environment Variable
 
 What is interesting about these environment variables is that they can be changed, and with them, the behavior of other programs.
 
@@ -1092,7 +1094,7 @@ Another example is `PAGER`. We saw that my environment had `PAGER=less` defined 
 
 There is a difference between `SHELL` and `$SHELL`. The first one is the name of an environment variable, and the latter represents its value. Consequently, when we executed `echo $SHELL`, we told our shell to lookup what value was associated with the `SHELL` environment variable, and then display it to the screen via the `echo` command. `$` is what we call a *dereference operator* in that context.
 
-### Defining New Variables
+#### Defining New Variables
 
 Not only can you change an existing environment variable, but you can also define a new one. If a non-existing variable is `echo`\-ed, it will simply be replaced by an empty string.
 
@@ -1142,7 +1144,7 @@ This can very useful if you write programs: some parameters can have a sane defa
 
 > `GREP_OPTIONS` May be used to specify default options that will be placed at the beginning of the argument list.
 
-### Removing Environment Variables
+#### Removing Environment Variables
 
 You can remove an environment variable by using the `unset` keyword:
 
@@ -1156,7 +1158,7 @@ $
 
 ```
 
-### The Case of `PATH`
+#### The Case of `PATH`
 
 Until that point, we've executed commands in the shell, and things happened. It was a simple world and it was nice. You might wonder *what would happen if I gave the shell a non-existent command though?*. Well, I'm glad you asked. Ten points for Gryffindor.
 
@@ -1224,7 +1226,7 @@ ls: aliased to ls -G
 
 Wait. What? What's an alias?
 
-## Aliases
+### Aliases
 
 An *alias* allows you to define custom commands. In the previous example, running `ls` would actually run `ls -G`, which enables colorized output.
 
@@ -1263,7 +1265,7 @@ where you can just type
 
 An alias can't really help here, because we are talking about aliasing two commands with a single alias, which does not work. Enter *functions*.
 
-## Functions
+### Functions
 
 According to the `bash` `man` page:
 
@@ -1308,11 +1310,11 @@ mkcd () {
 
 ```
 
-## Real Life Examples
+### Real Life Examples
 
 These are some of the environment variables, aliases and functions I have defined for myself.
 
-### Shorter Navigation Aliases
+#### Shorter Navigation Aliases
 
 ```
 alias ..='cd ..'
@@ -1320,7 +1322,7 @@ alias ...='cd ../..'
 
 ```
 
-### Colorize Commands Output
+#### Colorize Commands Output
 
 ```
 alias ls='ls --color=auto'
@@ -1329,7 +1331,7 @@ alias ip='ip --color'
 
 ```
 
-### Alias Commands I Never Remember
+#### Alias Commands I Never Remember
 
 ```
 # https://xkcd.com/1168/
@@ -1337,7 +1339,7 @@ alias untar='tar -zxvf'
 
 ```
 
-### Have `$HOME/bin` Be Part of `PATH`
+#### Have `$HOME/bin` Be Part of `PATH`
 
 ```
 export PATH=$PATH:$HOME/bin
@@ -1346,7 +1348,7 @@ export PATH=$PATH:$HOME/bin
 
 By extending my `PATH` this way, I can then put every single tool I create into `$HOME/bin` and have it be usable right-away.
 
-### A Backup Function
+#### A Backup Function
 
 ```
 function bak {
@@ -1357,7 +1359,7 @@ function bak {
 
 This function can be used to backup a file or directory. I regularly use this when I'm about to edit a critical file and I want to make sure I can revert my changes if needed.
 
-### Password Generation Function
+#### Password Generation Function
 
 This function generate a password composed of alphanumeric characters, of default length 32.
 
@@ -1374,7 +1376,7 @@ WkeQ14E8FIQZN7XlN7yPkYK4yhMOvpAuNzZivKwODNkskh0uq0
 
 ```
 
-### The Weather in Your Terminal
+#### The Weather in Your Terminal
 
 ```
 function weather {
@@ -1428,7 +1430,7 @@ Location: Lyon, Métropole de Lyon, Circonscription départementale du Rhône, A
 
 ```
 
-## Summary
+### Summary
 
 Environment variables, aliases and functions are simple yet powerful to change the shell's behavior into something that feels more intuitive. You feel like `nano` is not shiny enough and prefer using `vim` instead? Sure. Define `EDITOR=vim`. Any command interacting with an editor would then use `vim` instead of `nano`.
 
@@ -1436,7 +1438,7 @@ Aliases are a great way to reduce mental friction in the shell by hiding away co
 
 Everything we have seen so far however had an ephemeral effect, as changes you made would disappear when you close your shell session. In the next chapter, we will go dive into how to persistently configure your shell to improve your day-to-day experience and productivity.
 
-## Going Further
+### Going Further
 
 **3.1**: Write a `cat` alias that displays `meow` on screen.
 
@@ -1444,7 +1446,7 @@ Everything we have seen so far however had an ephemeral effect, as changes you m
 
 **3.3**: Unset the `PATH` environment variable and then export it back so that you can use `ls` again.
 
-# Customizing Your Shell
+## Customizing Your Shell
 
 ---
 
@@ -1454,7 +1456,7 @@ This article is part of a self-published book project by Balthazar Rouberol and 
 
 If you are interested in the project, we invite you to join the [mailing list](https://balthazar-rouberol.us4.list-manage.com/subscribe?u=1f6080d496af07a836270ff1d&id=81ebd36adb)!
 
-## Table of Contents
+### Table of Contents
 
 - [Which terminal should I use?](https://blog.balthazar-rouberol.com/customizing-your-shell#which-terminal-should-i-use)
 - [What font should I use?](https://blog.balthazar-rouberol.com/customizing-your-shell#what-font-should-i-use)
@@ -1465,7 +1467,7 @@ If you are interested in the project, we invite you to join the [mailing list](h
 - [Summary](https://blog.balthazar-rouberol.com/customizing-your-shell#summary)
 - [Going further](https://blog.balthazar-rouberol.com/customizing-your-shell#going-further)
 
-## Customizing Your Shell
+### Customizing Your Shell
 
 It is very common for programmers to tweak and customize their terminal and shell for hours, add or write new plug-ins, all in pursuit of the “perfect environment” and an increase of productivity. Others, on the contrary, avoid tweaking their shell altogether in order to always get the same experience on every machine.
 
@@ -1473,7 +1475,7 @@ On a personal note, I tend to favor having a personalized shell as much as possi
 
 In that chapter, we will learn more about the shell and how to configure your terminal environment to make it work *for* you. Please note that some of the recommendations come from personal taste, and might not work for you nor suit you. We encourage you to explore and find what feels right, but we hope to at least nudge you in the right direction.
 
-## Which Terminal Should I Use?
+### Which Terminal Should I Use?
 
 First off, if you are new to using the terminal, you might not have realized that it exists *multiple* terminal applications. MacOS comes with Terminal pre-installed, and most Linux distributions come with either xterm, Gnome-terminal or Konsole pre-installed, and there is a vast number of available alternatives.
 
@@ -1481,7 +1483,7 @@ I don't think there is a good, absolute and definitive answer when it comes to p
 
 Whatever terminal you end up using, I think that it is really important you configure it to your liking and preferences. As a programmer, you will probably spend a great deal of time in your terminal, and for you to feel productive and empowered, it needs to work *for* you.
 
-### Terminator
+#### Terminator
 
 If you are running Linux, I personally favor Terminator<sup id="fnref:1"><a href="https://blog.balthazar-rouberol.com/customizing-your-shell#fn:1">1</a></sup> over the default choices. It has several features I find useful:
 
@@ -1504,7 +1506,7 @@ Here are the terminator keyboard shortcuts I find the most useful:
 | Ctrl - Shift - \- | zoom out |
 | Ctrl - D | close the current terminal |
 
-### iTerm2
+#### iTerm2
 
 As far as macOS is concerned, I find the default terminal (plainly named Terminal) to be hard to use. The terminal that seems to be widely accepted by the macOS programming community is iTerm2<sup id="fnref:2"><a href="https://blog.balthazar-rouberol.com/customizing-your-shell#fn:2">2</a></sup>. It has all of the features cited above, and many (many) more!
 
@@ -1524,13 +1526,13 @@ The iTerm2 keyboard shortcuts I find the most useful are:
 
 The following sections go over some non-default iTerm2 settings that I find convenient. Again, these are my preference and are in no way prescriptive. Feel free to discard them if you want.
 
-#### Open File Shortcut
+##### Open File Shortcut
 
 One of the iTerm2 features I enjoy is the ability of using Cmd + mouse click on a file path or an URL, to open the resource with the default associated program. For example, it will open an URL in your browser, a path to a local PDF file with Preview, a text file with your preferred text editor, etc.
 
 ![By enabling this feature, you will be able to open a file using a graphical application from your terminal](https://balthazar-rouberol-blog.s3.eu-west-3.amazonaws.com/customize-shell/iterm2-pointer-pref.png) By enabling this feature, you will be able to open a file using a graphical application from your terminal
 
-#### Intuitive Location for New Terminals
+##### Intuitive Location for New Terminals
 
 Another tweak I've done to iTerm2 was changing the working directory new terminals will open into by default. What I wanted was
 
@@ -1542,7 +1544,7 @@ I did this because I oftentimes found myself splitting the current tab when I wa
 
 ![I reduced the time I spent cd-ing into project directories with these settings. Preferences > Profiles > General > Working Directory > Advanced Configuration > Edit](https://balthazar-rouberol-blog.s3.eu-west-3.amazonaws.com/customize-shell/iterm2-advanced-pref.png) I reduced the time I spent `cd`\-ing into project directories with these settings. Preferences > Profiles > General > Working Directory > Advanced Configuration > Edit
 
-## What Font Should I Use?
+### What Font Should I Use?
 
 Using a font you enjoy is paramount. If you spend a lot of time reading and writing in your terminal, you might as well do it using a font that feels right to you.
 
@@ -1554,7 +1556,7 @@ Note that not all terminals support fonts with ligatures. For example, iTerm2 do
 
 While Fira Code has my preference, there are other well-designed fonts including ligatures, such as JetBrains Mono.<sup id="fnref:4"><a href="https://blog.balthazar-rouberol.com/customizing-your-shell#fn:4">4</a></sup>
 
-## What Shell Should I Use?
+### What Shell Should I Use?
 
 We have hinted at it until now: `bash` is not the only shell out there. You are free to use other shells if you want, such as `zsh`, `fish`, `nushell`, … As it was the case with terminals, the “good” terminal really depends on your definition of “good”. If you deeply care about using the same shell on every machine you work on, then `bash` is possibly for you. It has been around since 1989, is stable, mature and is the default shell on almost<sup id="fnref:5"><a href="https://blog.balthazar-rouberol.com/customizing-your-shell#fn:5">5</a></sup> every UNIX system out there.
 
@@ -1566,7 +1568,7 @@ The `fish`<sup id="fnref:6"><a href="https://blog.balthazar-rouberol.com/customi
 
 If you are getting started with using the shell, my personal recommendation is to stick to `bash` or `zsh` and experiment with other shells to see what value they bring once you feel more confident.
 
-### Changing Your Default Shell
+#### Changing Your Default Shell
 
 The `chsh` (standing for *change shell*) command allows you to change your default shell.
 
@@ -1586,7 +1588,7 @@ $ chsh -s /bin/zsh
 
 Once you have run `chsh`, any new terminal window you open will run your new default shell.
 
-## Configuring Your Shell
+### Configuring Your Shell
 
 Up until now, every example we have seen have defined environment variables, aliases and functions directly in the shell. However, if we closed that shell, all of these changes would be undone and we would have to start again the next time we open a new one. Fortunately, all of these settings can be persisted in a *configuration file*. Adding aliases, environment variables and functions to that file will make sure they get imported every time you open a new shell.
 
@@ -1617,7 +1619,7 @@ If you can never remember a given command's options, or if you always find yours
 
 The previous chapter ended with some real-life examples of alias and functions. Feel free to add them to your shell configuration file.
 
-## Configuring Your Prompt
+### Configuring Your Prompt
 
 Configuring your prompt is a very good way to make the shell work for you as much as possible, by providing you with useful context, such as the time of day, whether the last command was successful, your current working directory… While they can provide context and information to you, they will carry that context to anyone you copy and paste a command and associated output to.
 
@@ -1631,7 +1633,7 @@ MY COOL PROMPT $
 
 I think we can agree that `MY COOL PROMPT` is not as informative as it could, so let's change it to put our prompt to work. As the prompt configuration work slightly different between `bash` and `zsh`, we will address both cases in two different sections.
 
-### Configuring Your Bash Prompt
+#### Configuring Your Bash Prompt
 
 The `PS1` environment variable can be defined by using a mix and match of both regular and special characters. The regular characters are just displayed as-is, whereas the backslash-escaped special characters are interpreted by bash at the time `PS1` is displayed and replaced by the associated value. The most useful special characters are defined as follows.
 
@@ -1673,7 +1675,7 @@ You can use online tools such as ezprompt<sup id="fnref:7"><a href="https://blog
 
 Whatever `PS1` value you settle with should be persisted and exported in your `.bashrc` configuration file.
 
-### Configuring Your Zsh Prompt
+#### Configuring Your Zsh Prompt
 
 `zsh` exposes a bit more options than `bash` when it comes to prompt configuration. Both `PS1` and `PROMPT` environment variable can be set to the same effect, if you find `PROMPT` more explicit.
 
@@ -1734,11 +1736,11 @@ $ export PROMPT='%~ $ '; export RPROMPT='%*'
 
 To make sure your changes are persisted, `PROMPT` and `RPROMPT` should be exported in your `.zshrc` configuration file.
 
-### Adding Colors
+#### Adding Colors
 
 Adding color is a good way to spice up your prompt as well as providing some visual context. You can use color to indicate whether you are running with super-user privileges, if the last command succeeded or failed, or simply colorized each individual part of your prompt (username, hostname, etc) in a different way to make it even simpler to parse.
 
-#### Adding Color to Your Bash Prompt
+##### Adding Color to Your Bash Prompt
 
 Bash allows you to style elements of your prompt by using 3-bit ANSI<sup id="fnref:9"><a href="https://blog.balthazar-rouberol.com/customizing-your-shell#fn:9">9</a></sup> codes defining a zone associated with a potential effect, foreground color and background color.
 
@@ -1816,7 +1818,7 @@ $ export PS1='\e[31m\u\e[m@\e[32m\h\e[m \e[36m\W\e[m $ '
 
 ![The username is in red, the hostname in green and the path is in cyan. ](https://balthazar-rouberol-blog.s3.eu-west-3.amazonaws.com/customize-shell/bash-colors-prompt.png) The username is in red, the hostname in green and the path is in cyan.
 
-##### Color Palettes
+###### Color Palettes
 
 Notice how an ANSI code only maps to a color name? That's because it is up to your *terminal* to interpret and render that color name into an actual color, meaning that the same prompt configuration could be rendered differently on two different terminals.
 
@@ -1836,7 +1838,7 @@ As you can see, these both look quite different from the prompt displayed in the
 
 I recommend you to have a look at the `mbadolato/iTerm2-Color-Schemes`<sup id="fnref:10"><a href="https://blog.balthazar-rouberol.com/customizing-your-shell#fn:10">10</a></sup> project, showcasing popular color palettes and providing you with the configuration files allowing you to used them in many terminal applications (and not just iTerm2 contrary to what its name suggests).
 
-##### Up to 256 Colors
+###### Up to 256 Colors
 
 As computers eventually started to have 256 colors graphics card, a 8 bit ANSI code scheme was introduced, allowing the user to render 256 colors in their terminal, instead of 16.
 
@@ -1867,7 +1869,7 @@ Contrary to the 3-bit ANSI codes, the 8-bit codes are insensitive to color schem
 
 ![The colors remain unchanged](https://balthazar-rouberol-blog.s3.eu-west-3.amazonaws.com/customize-shell/color-scheme-pastel-dark-256.png) The colors remain unchanged
 
-#### Adding Color to Your Zsh Prompt
+##### Adding Color to Your Zsh Prompt
 
 Everything we've explained in the previous section is still valid for `zsh`: you can use 3 or 8 bit ANSI color codes just fine. However, `zsh` also provides you with a much easier and readable color system:
 
@@ -1881,13 +1883,13 @@ Everything we've explained in the previous section is still valid for `zsh`: you
 
 ![The current working directory in blue and the dollar sign in bold pink](https://balthazar-rouberol-blog.s3.eu-west-3.amazonaws.com/customize-shell/zsh-colors-prompt.png) The current working directory in blue and the dollar sign in bold pink
 
-### Displaying Dynamic Data in the Prompt
+#### Displaying Dynamic Data in the Prompt
 
 We can make our prompt display dynamic context to make it even more informative. To do this, we can execute a function as part of our `PS1` environment variable. The shell will call that function every time it renders the prompt.
 
 The idea is to be able to have as much information as possible in your prompt at the ready, but *only when necessary*.
 
-#### Displaying Dynamic Data in Bash
+##### Displaying Dynamic Data in Bash
 
 Let's say that we want to colorize the `$` of our prompt in green if the last command was successful, and in red if it failed. We can wrap that logic into the following `colorized_prompt` bash function, and have it called every time `PS1` is rendered by including `$(colorized_prompt)` in the environment variable.
 
@@ -1925,7 +1927,7 @@ The syntax `if (($?)); then` thus translates to “if the last command executed 
 
 ![The prompt is green after a successful command and red after a failed one](https://balthazar-rouberol-blog.s3.eu-west-3.amazonaws.com/customize-shell/red-green-prompt.png) The prompt is green after a successful command and red after a failed one
 
-#### Displaying Dynamic Data in Zsh
+##### Displaying Dynamic Data in Zsh
 
 Dynamic data can be injected in your prompt the same way than in bash, by executing functions at rendering time. `zsh` however provides you with *ternary conditionals*, that is to say expressions that either evaluate to one value or the other depending on a condition, to reach the same goal. A ternary conditional has the following syntax
 
@@ -1965,7 +1967,7 @@ $ export PROMPT='%* %1~ %(!.#.$) '
 
 The full list of ternary conditionals is available in the zsh documentation<sup id="fnref:12"><a href="https://blog.balthazar-rouberol.com/customizing-your-shell#fn:12">12</a></sup>.
 
-### Adding Emoji to Your Prompt
+#### Adding Emoji to Your Prompt
 
 Modern terminal support non-ASCII characters, such as emoji. Like colors, they can be convenient to convey information in a very space-efficient fashion.
 
@@ -1973,7 +1975,7 @@ For example, during the process of writing that book, I displayed the associated
 
 ![](https://balthazar-rouberol-blog.s3.eu-west-3.amazonaws.com/customize-shell/word-count-emoji.png)
 
-## Shell Configuration Frameworks
+### Shell Configuration Frameworks
 
 Up until now, we have seen how to tailor your prompt by adding colors, context, dynamic information computed on-the-fly. While you can certainly spend hours customizing up to “perfection” (trust me, I have been there…), you can also take another route and benefit from other people's work, using a shell configuration framework.
 
@@ -1987,7 +1989,7 @@ We will introduce you to the concepts behind Oh My Zsh, but it will then be up t
 
 `bash` has a similar framework, inspired by Oh My Zsh, called `bash-it`.<sup id="fnref:16"><a href="https://blog.balthazar-rouberol.com/customizing-your-shell#fn:16">16</a></sup> We won't cover it in details but we encourage you to look at it if don't feel like using `zsh` but still want to use a configuration framework.
 
-### Oh My Zsh
+#### Oh My Zsh
 
 Quoting the official website,
 
@@ -2029,7 +2031,7 @@ ZSH_VERSION=5.7.1
 
 ```
 
-#### Picking a Theme
+##### Picking a Theme
 
 We can see that the default theme is `robbyrussell` (Robby Russell<sup id="fnref:17"><a href="https://blog.balthazar-rouberol.com/customizing-your-shell#fn:17">17</a></sup> is the creator of Oh My Zsh). The full list of available themes is available online<sup id="fnref:18"><a href="https://blog.balthazar-rouberol.com/customizing-your-shell#fn:18">18</a></sup>, along with screenshots.
 
@@ -2061,11 +2063,11 @@ $ cp $ZSH/themes/$ZSH_THEME.zsh-theme $ZSH/custom/themes/$ZSH_THEME-custom.zsh-t
 
 Then add `ZSH_THEME=<old zsh theme>-custom` to your `~/.zshrc`.
 
-#### Useful Configuration Options
+##### Useful Configuration Options
 
 Oh My Zsh has a couple of options you can enable or disable by editing `~/.zshrc`. I suggest you take a look at them and choose what to activate. Here are some personal recommendations.
 
-##### Automatic Command Correction
+###### Automatic Command Correction
 
 zsh can suggest a command correction if it detects a mistyped command. To enable the automatic command correction, add `ENABLE_AUTO_CORRECTION='true'` to `~/.zshrc`.
 
@@ -2091,14 +2093,14 @@ alias git status='nocorrect git status'
 
 ```
 
-##### Automatic Oh My Zsh Updates
+###### Automatic Oh My Zsh Updates
 
 To make sure you regularly get new plug-ins and bug fixes, Oh My Zsh can automatically and regularly update itself. To do so, set the following options in `~/.zshrc`:
 
 - `DISABLE_UPDATE_PROMPT=true`: update Oh My Zsh without asking for confirmation
 - `UPDATE_ZSH_DAYS=30`: update Oh My Zsh every 30 days
 
-#### Add Plug-ins
+##### Add Plug-ins
 
 Oh My Zsh comes with more than 250 plug-ins, each of them either defining aliases or improved auto-completion for a given set of commands. Refer to the Oh My Zsh wiki page<sup id="fnref:21"><a href="https://blog.balthazar-rouberol.com/customizing-your-shell#fn:21">21</a></sup> to see the full list of available plug-ins. To enable a given plug-in, add its name to the `plugins` list in `~/.zshrc`, then run `source ~/.zshrc`.
 
@@ -2133,11 +2135,11 @@ The following plug-ins are not provided by default, I find them so useful that I
 
 ![cmdnotfound is not](https://balthazar-rouberol-blog.s3.eu-west-3.amazonaws.com/customize-shell/zsh-syntax-highlight-prompt-cmd-red.png) `cmdnotfound` is not
 
-#### Uninstalling Oh My Zsh
+##### Uninstalling Oh My Zsh
 
 If you find that Oh My Zsh isn't for you, you can uninstall it by running the `uninstall_oh_my_zsh` function. Your previous configuration will be restored.
 
-## Summary
+### Summary
 
 I strongly believe that learning how to configure and personalize your own shell is an important part of becoming a developer. I'd even go as far as calling it a ritual. On a personal level, it helped me overcome the almost mystic reputation of the terminal by making it my own.
 
@@ -2145,7 +2147,7 @@ Configuring your shell might never really be fully completed. Do you find yourse
 
 Making your own tools and customizing your shell is an investment, but it is also an inherent part of being a software developer, which will allow you to do more, faster, and will help you feel more at home in your shell. It's also quite a bit of fun!
 
-## Going Further
+### Going Further
 
 **4.1**: Look into your terminal's preferences and try to change the color scheme, or remap ANSI colors to different RGB colors.
 
@@ -2155,7 +2157,7 @@ Making your own tools and customizing your shell is an investment, but it is als
 
 **4.4**: Try to change the colors of the different sections of your prompt
 
-# Shell Productivity Tips and Tricks
+## Shell Productivity Tips and Tricks
 
 ---
 
@@ -2165,7 +2167,7 @@ This article is part of a self-published book project by Balthazar Rouberol and 
 
 If you are interested in the project, we invite you to join the [mailing list](https://balthazar-rouberol.us4.list-manage.com/subscribe?u=1f6080d496af07a836270ff1d&id=81ebd36adb)!
 
-## Table of Contents
+### Table of Contents
 
 - [Tab completion](https://blog.balthazar-rouberol.com/shell-productivity-tips-and-tricks#tab-completion)
 - [Keyboard shortcuts](https://blog.balthazar-rouberol.com/shell-productivity-tips-and-tricks#keyboard-shortcuts)
@@ -2175,7 +2177,7 @@ If you are interested in the project, we invite you to join the [mailing list](h
 - [Summary](https://blog.balthazar-rouberol.com/shell-productivity-tips-and-tricks#summary)
 - [Going further](https://blog.balthazar-rouberol.com/shell-productivity-tips-and-tricks#going-further)
 
-## Shell Productivity Tips
+### Shell Productivity Tips
 
 I estimate that I spend around 50% of my day working in my text editor and my terminal. Any way I can get more productive in these environments has a direct and measurable impact on my daily productivity as a whole.
 
@@ -2187,7 +2189,7 @@ In the immortal words of Kimberly “Sweet Brown” Wilkins:
 
 > Ain't nobody got time for that.
 
-## Tab Completion
+### Tab Completion
 
 When you are typing in your shell, I suggest you treat the Tab key as a superpower. Indeed, the same way your phone keyboard can autocomplete words for you, so can your shell. It can suggest completions of command names and even command arguments or options! This works by pressing Tab (twice for `bash` and once for `zsh`).
 
@@ -2216,7 +2218,7 @@ I suggest you get used to using auto-completion as much as possible. It can save
 
 Pro-tip: if you are using bash, you can get install the `bash-completion`<sup id="fnref:1"><a href="https://blog.balthazar-rouberol.com/shell-productivity-tips-and-tricks#fn:1">1</a></sup> package (using your system package-manager) in order to enable auto-completion for a wide variety of commands that do not support it out-of-the-box.
 
-## Keyboard Shortcuts
+### Keyboard Shortcuts
 
 The shell uses a library called `readline`<sup id="fnref:2"><a href="https://blog.balthazar-rouberol.com/shell-productivity-tips-and-tricks#fn:2">2</a></sup> to provide you with many keyboard shortcuts to navigate, edit, cut, paste, search, etc, in the command line. Mastering these will help to dramatically increase your efficiency, instead of copying and pasting with your mouse, and navigating the command with the ↑ and ↓ arrow keys.
 
@@ -2224,7 +2226,7 @@ The default shortcuts are inspired by the `emacs`<sup id="fnref:3"><a href="http
 
 The advantage of using the same navigation logic and shortcuts in your text editor and your terminal is that is blurs the line between both, and brings consistency to your terminal environment. If you have no clue how `emacs` or `vi` work though, I would probably suggest you don't worry about all this for now and experiment with the default terminal shortcuts.
 
-### Navigating the Current Line
+#### Navigating the Current Line
 
 The following navigation shortcuts allow you to move quickly your cursor in the current command saving you from relying solely on the → and ← arrows.
 
@@ -2248,7 +2250,7 @@ If you however prefer using the `vi` navigation system, you will first need to t
 
 You can go back to editing your command line by hitting the `i` key.
 
-### Deleting and Editing Text
+#### Deleting and Editing Text
 
 These shortcuts allow you to quickly edit the current command more efficiently than by just using the Delete key.
 
@@ -2271,7 +2273,7 @@ The equivalent `vi`\-style shortcuts are:
 | Edit the current command in your text editor | v |
 | Undo previous action(s) | u |
 
-### Cutting and Pasting
+#### Cutting and Pasting
 
 The shell provides you with shortcuts to cut and paste commands quickly without using your mouse.
 
@@ -2291,7 +2293,7 @@ The equivalent `vi`\-style shortcuts are:
 | Cut from cursor to start of line | d - ^ |
 | Paste the cut buffer at current position | p |
 
-### Controlling the Terminal
+#### Controlling the Terminal
 
 Finally, these shortcuts will let you interact with the terminal itself.
 
@@ -2303,7 +2305,7 @@ Finally, these shortcuts will let you interact with the terminal itself.
 
 Even mastering *some* of these shortcuts should make you immensely more productive at typing commands and navigating command-line interfaces. I suggest you take time to experiment until you feel more accustomed with them. I can guarantee that you will feel the productivity boost!
 
-### A Unified Command-line Editing Experience
+#### A Unified Command-line Editing Experience
 
 These shortcuts do not just work in your shell, but in any application using the `readline` library to allow the user to type and edit commands. Learning these shortcuts will thus make you productive in all types of command lines that you might encounter in your career, such as `python`, `irb`, `sqlite3`, etc.
 
@@ -2315,13 +2317,13 @@ set editing-mode vi  # or emacs
 
 ```
 
-## Navigating Through History
+### Navigating Through History
 
 If you find yourself typing a certain command times and times again, you should probably be aware of how to navigate and search your shell history, in order to save time and keystrokes.
 
 While the obvious way to re-execute a previous command might seem to just bash on the ↑ key until you find the command you want, there are faster and smarter ways to accomplish this.
 
-### Searching the History
+#### Searching the History
 
 A very useful and time-saving trick is searching for a command into your shell history instead of re-typing it from scratch. You can search your command history by typing Ctrl - R which opens a `reverse-i-search` (backwards search) prompt, in which you can search for previously executed command containing a given search pattern.
 
@@ -2341,7 +2343,7 @@ History search works by looking into the shell history file (`~/.bash_history` f
 
 The location of your shell history file can be configured by setting the `HISTFILE` environment variable.
 
-### Rewriting History
+#### Rewriting History
 
 If you want to remove a sensitive command from your history, you can simply edit your `$HISTFILE` history file and remove it.
 
@@ -2383,7 +2385,7 @@ $ history | tail -n 7
 
 This only works with `bash`, not `zsh`.
 
-### Avoiding History
+#### Avoiding History
 
 There is a trick you can use if you want to fly under the radar and never have a command recorded in history in the first place. Simply prefix your command by a space.
 
@@ -2397,7 +2399,7 @@ $ history | tail -n 2
 
 ```
 
-## Shell Expansions
+### Shell Expansions
 
 The shell can perform expansions, meaning it can replace portions of the command before executing it. Relying on expansions allows you to type less and rely on the shell itself to do the heavy lifting. While there are multiple types of expansions, we will only cover 5:
 
@@ -2411,15 +2413,15 @@ Expansions are extremely powerful. When used right, an expansion can literally s
 
 As we only over what we think are the most useful expansions and shortcuts, feel free to refer to the `bash` manual, section `EXPANSION` if you want to see the full list.
 
-### History Expansion
+#### History Expansion
 
 Your shell has multiple tricks up its sleeve to allow you to quickly reference previous commands or arguments in history with a minimum of keystrokes. While this section only provides you with what we feel are the most useful of them, feel free to go to the `HISTORY EXPANSION` section of the `bash` manual.
 
-#### Event Designators
+##### Event Designators
 
 An *Event designator* is a reference to a command line entry in the history list. It allows you to quickly refer to a previous command without having to re-type it.
 
-##### `!-n`
+###### `!-n`
 
 `!-n` refers to the nth latest command: `!-1` refers to the latest command, `!-2` to the command before that, etc.
 
@@ -2454,7 +2456,7 @@ $ sudo vim /etc/myfile
 
 ```
 
-##### `^string1^string2`
+###### `^string1^string2`
 
 `^string1^string2` is used to repeat the previous command in which `string1` is replaced by `string2`.
 
@@ -2468,11 +2470,11 @@ $ rm ./myfile
 
 I personally use and abuse of this technique when I'm about to irremediably delete some resources (files, folders, containers, etc), and I want to make sure I'm about to delete the *right* things by listing these resources first. If you are familiar with SQL queries, it is the equivalent of executing a `SELECT` query before changing the `SELECT` to `DELETE` to make sure you're not going to delete more than you wanted to.
 
-#### Word Designators
+##### Word Designators
 
 Word designators are used to select desired words from a previous command (by default, the latest). They can be very useful when you want to type a new command that uses arguments previously typed in a previous command.
 
-##### `!^`
+###### `!^`
 
 `!^` maps to the first argument of your latest command.
 
@@ -2483,7 +2485,7 @@ $ vim first.txt
 
 ```
 
-##### `!$`
+###### `!$`
 
 `!$` maps to the last argument of your latest command.
 
@@ -2494,7 +2496,7 @@ $ vim last.txt
 
 ```
 
-##### Combining Event and Word Designators
+###### Combining Event and Word Designators
 
 You can even combine event and word designators in more complex shapes by using the following syntax
 
@@ -2512,7 +2514,7 @@ $ vim second.txt
 
 ```
 
-### Tilde Expansion
+#### Tilde Expansion
 
 For each unquoted word starting with `~` in the command, all characters preceding a forward slash (`/`) will be considered a *tilde prefix*. Depending on its actual value, the tilde prefix can be expanded several ways, although the simple `~` is probably its most common use.
 
@@ -2541,11 +2543,11 @@ $ pwd
 
 ```
 
-### Pathname Expansion
+#### Pathname Expansion
 
 Pathname expansions allow you to write an short path pattern and have it expanded in a list of files and directories, saving you from tedious copy-pastes or a possibly long (and error-prone) command writing.
 
-#### `*`
+##### `*`
 
 The *glob*, or *wildcard* `*` character matches any string. It allows you to give a *pattern* to the shell, that it will then expand to all files and directories matching the pattern. The wildcard can be prefixed or suffixed, which will further specify our pattern. For example, `*.jpg` matches all files ending with the `.jpg` extension, and `README.*` matches all files named `README` whatever their extension.
 
@@ -2612,7 +2614,7 @@ pics/pic2.jpg   pics/pic4.jpg   pics/pic6.jpg
 
 ```
 
-#### `**`
+##### `**`
 
 `**` is expanded to all files and directories in the children directories, with a depth limit of 1.
 
@@ -2650,7 +2652,7 @@ lyrics     sounds.mp3
 
 `ls **` was expanded into `ls README.txt pics/ sounds/`, which does not include the content of `sounds/lyrics` because of the depth limit of 1.
 
-#### `**/`
+##### `**/`
 
 `**/` is expanded into all directories and subdirectories with a depth limit of 1 starting from our first directory.
 
@@ -2687,7 +2689,7 @@ sound1.txt
 
 `ls **/` was expanded into `ls sounds/ sounds/lyrics pics/`. It thus listed all files located in our subdirectories.
 
-### Brace Expansion
+#### Brace Expansion
 
 A brace expansion is a mechanism by which the shell can generate multiple strings based on a sequence of tokens defined within curly braces. The brace expansion pattern can be preceded by an optional *preamble* and followed by an optional *postscript*.
 
@@ -2725,7 +2727,7 @@ pic1.jpg pic3.jpg pic5.jpg pic7.jpg pic9.jpg
 
 ```
 
-### Command Expansion
+#### Command Expansion
 
 Your shell can replace a command surrounded by `$()` with its output.
 
@@ -2742,9 +2744,9 @@ and I live in /home/br
 
 ```
 
-## Real-life Examples
+### Real-life Examples
 
-### Moving a Pattern of Files Contained in Directories and Subdirectories
+#### Moving a Pattern of Files Contained in Directories and Subdirectories
 
 What is really powerful with these expansions is that, like almost everything in the shell, they can be combined. The following example combines a pathname expansion, a brace expansion and a tilde expansion.
 
@@ -2778,7 +2780,7 @@ pic1.jpg   pic2.jpg   pic3.jpg   pic4.jpg   pic5.jpg   pic6.jpg   pic7.jpg   sou
 
 Using these expansions, we were able to move all `jpg` and `mp3` files located in directories and subdirectories to the `assets` directory located in your home directory, in exactly 27 characters!
 
-### Renaming Multiple Directories
+#### Renaming Multiple Directories
 
 We could use a `for` loop, pathname expansion and a command expansion to rename all directories contained in the current directory to their uppercase equivalent.
 
@@ -2800,13 +2802,13 @@ Let's decompose that command into its different steps:
 
 Iterating over paths with a `for` loop is brittle as it breaks if a path contains a space. We will later see how to properly do it using the `find` command.
 
-## Summary
+### Summary
 
 Your shell has so many productivity tricks and shortcuts up its sleeve it can be a little bit daunting. I suggest you don't try to learn them all at once, but really just experiment with them and see what feels natural. Even mastering some of them will make you more productive!
 
 What if there is an action you find useful but you just don't like the keyboard shortcut? Luckily for you, the next chapter will dive into how to personalize and customize your shell.
 
-## Going Further
+### Going Further
 
 **5.1**: Create a directory. Use a bash expansion to move into that directory without typing its name a second time.
 
