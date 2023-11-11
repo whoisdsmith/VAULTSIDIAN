@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "09330f8b79b24174",
+        "id": "0982cc944d8506fc",
         "type": "tabs",
         "children": [
           {
-            "id": "b3ffadf276e8aeb1",
+            "id": "081758aacd55eb35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "HOME-MTHRFCKR/Text Processing/Text Research.md",
                 "mode": "preview",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "HOME-MTHRFCKR/Text Processing/Text Research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "HOME-MTHRFCKR/Text Processing/Text Research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "HOME-MTHRFCKR/Text Processing/Text Research.md"
               }
             }
           }
@@ -144,32 +144,35 @@
   },
   "active": "4cac731b001463d4",
   "lastOpenFiles": [
-    "HOME-MTHRFCKR/Please redirect your DNS.md",
+    "HOME-MTHRFCKR/Text Processing/Text Processing Tools.md",
+    "HOME-MTHRFCKR/Text Processing/Articles/Fun Working With Files Using Awk And Sed.md",
+    "HOME-MTHRFCKR/Text Processing/Awesome Text/Advanced Grep Topics.md",
+    "HOME-MTHRFCKR/Text Processing/Command-Line-Text-Processing/Cli_Text_Processing.pdf",
+    "HOME-MTHRFCKR/Text Processing/Pdf/Cheat_Sheet_Gnuawk_V3.pdf",
+    "HOME-MTHRFCKR/Text Processing/Pdf/Bbeditgrepquickreference.pdf",
+    "HOME-MTHRFCKR/Text Processing/Text Research.md",
+    "HOME-MTHRFCKR/URLs/help-google-choose-the-right-canonical-url-for-your-duplicate-pages.md",
+    "HOME-MTHRFCKR/URLs/html-bookmark-how-to.md",
+    "HOME-MTHRFCKR/URLs/html-uniform-resource-locators.md",
+    "HOME-MTHRFCKR/URLs/in-search-of-the-perfect-url-validation-regex.md",
+    "HOME-MTHRFCKR/URLs/learn-urls.md",
+    "HOME-MTHRFCKR/URLs/parsing-url-query-string.md",
+    "HOME-MTHRFCKR/URLs/parsing-urls.md",
+    "HOME-MTHRFCKR/URLs/uniform-resource-identifier-(uri)-schemes.md",
+    "HOME-MTHRFCKR/URLs/rfc2336.md",
+    "HOME-MTHRFCKR/URLs/uniform-resource-locators.md",
+    "HOME-MTHRFCKR/URLs/url-dedoupe-tools.md",
+    "HOME-MTHRFCKR/URLs/url-standard.md",
+    "HOME-MTHRFCKR/Markdown Books/HTML and CSS.md",
+    "HOME-MTHRFCKR/URLs/URLs.md",
+    "HOME-MTHRFCKR/URLs/test.md",
+    "HOME-MTHRFCKR/Markdown Books/Mac CLI.md",
+    "HOME-MTHRFCKR/Markdown Books/LLMs.md",
     "README.md",
+    "HOME-MTHRFCKR/Please redirect your DNS.md",
     "HOME-MTHRFCKR/HOME-MTHRFCKR.md",
     "HOME-MTHRFCKR/BOOKMRKS-MTHRFCKR/AIMARX/AI Unsorted.md",
     "HOME-MTHRFCKR/A!-And-Machine-Learning/AlteredFuture/Website Names.md",
-    "HOME-MTHRFCKR/A!-And-Machine-Learning/AlteredFuture/AlteredFuture.md",
-    "HOME-MTHRFCKR/A!-And-Machine-Learning/AlteredFuture/11-5-1-Interactive Ripple Effect..md",
-    "HOME-MTHRFCKR/A!-And-Machine-Learning/AlteredFuture/10-59-7-AlteredFuture Art Prompts.md",
-    "Obsidian/Obsidian Broken Links Plug-in.md",
-    "Obsidian/links.md",
-    "Obsidian/obsidian.md",
-    "Obsidian/obsidian-scrapers/README.md",
-    "Obsidian/obsidian/share-as-gist.md",
-    "Obsidian/obsidian-scrapers/obsidian-scrapers.md",
-    "Obsidian/obsidian/publish-and-github-url-plugin.md",
-    "Obsidian/obsidian/obsidiantools.md",
-    "Obsidian/obsidian/obsidian-git.md",
-    "Obsidian/obsidian/obsidian-clipper.md",
-    "Obsidian/obsidian/obsidian.md",
-    "Attachments/link-previews/2022-11-14-cakeresume-dustin_smith__cakeresume.png",
-    "Obsidian/obsidian/main-vault.md",
-    "HOME-MTHRFCKR/NOTES/run-simulation.md",
-    "HOME-MTHRFCKR/Data/Datasets.md",
-    "HOME-MTHRFCKR/NOTES/Publii.md",
-    "HOME-MTHRFCKR/Data/Databreach.md",
-    "HOME-MTHRFCKR/Data/Databases.md",
-    "HOME-MTHRFCKR/Data/data.md"
+    "Attachments/link-previews/2022-11-14-cakeresume-dustin_smith__cakeresume.png"
   ]
 }

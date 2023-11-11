@@ -3,5 +3,6 @@
   "alwaysUpdateLinks": true,
   "propertiesInDocument": "hidden",
   "newFileLocation": "current",
-  "attachmentFolderPath": "Attachments"
+  "attachmentFolderPath": "Attachments",
+  "showInlineTitle": false
 }

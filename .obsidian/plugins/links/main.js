@@ -2340,7 +2340,11 @@ var DEFAULT_SETTINGS = {
     embedUnembedLink: true,
     deleteLink: true,
     createLink: true,
-    createLinkFromClipboard: true
+    createLinkFromClipboard: true,
+    convertAllLinksToMdLinks: false,
+    convertWikilinkToMdLinks: false,
+    convertUrlsToMdlinks: false,
+    convertAutolinksToMdlinks: false
   }
 };
 
@@ -2450,6 +2454,44 @@ var ObsidianLinksSettingTab = class extends import_obsidian5.PluginSettingTab {
         await this.plugin.saveSettings();
       });
     });
+    const convertAllToMdLinksSettings = new import_obsidian5.Setting(containerEl).setName("Convert all links to Markdown links").setDesc("").addToggle((toggle) => {
+      toggle.setValue(this.plugin.settings.contexMenu.convertAllLinksToMdLinks).onChange(async (value) => {
+        this.plugin.settings.contexMenu.convertAllLinksToMdLinks = value;
+        await this.plugin.saveSettings();
+      });
+    });
+    const convertWikilinksToMdLinksSettings = new import_obsidian5.Setting(containerEl).setName("Convert Wikilinks to Markdown links").setDesc("").addToggle((toggle) => {
+      toggle.setValue(this.plugin.settings.contexMenu.convertWikilinkToMdLinks).onChange(async (value) => {
+        this.plugin.settings.contexMenu.convertWikilinkToMdLinks = value;
+        await this.plugin.saveSettings();
+      });
+    });
+    const convertUrlsToMdLinksSettings = new import_obsidian5.Setting(containerEl).setName("Convert URLs to Markdown links").setDesc("").addToggle((toggle) => {
+      toggle.setValue(this.plugin.settings.contexMenu.convertUrlsToMdlinks).onChange(async (value) => {
+        this.plugin.settings.contexMenu.convertUrlsToMdlinks = value;
+        await this.plugin.saveSettings();
+      });
+    });
+    const convertAutolinksToMdLinksSettings = new import_obsidian5.Setting(containerEl).setName("Convert Autolinks to Markdown links").setDesc("").addToggle((toggle) => {
+      toggle.setValue(this.plugin.settings.contexMenu.convertAutolinksToMdlinks).onChange(async (value) => {
+        this.plugin.settings.contexMenu.convertAutolinksToMdlinks = value;
+        await this.plugin.saveSettings();
+      });
+    });
+    const toggleMultipleLinksConversions = (enabled) => {
+      if (enabled) {
+        convertAllToMdLinksSettings.settingEl.show();
+        convertWikilinksToMdLinksSettings.settingEl.show();
+        convertUrlsToMdLinksSettings.settingEl.show();
+        convertAutolinksToMdLinksSettings.settingEl.show();
+      } else {
+        convertAllToMdLinksSettings.settingEl.hide();
+        convertWikilinksToMdLinksSettings.settingEl.hide();
+        convertUrlsToMdLinksSettings.settingEl.hide();
+        convertAutolinksToMdLinksSettings.settingEl.hide();
+      }
+    };
+    toggleMultipleLinksConversions(this.plugin.settings.ffMultipleLinkConversion);
     containerEl.createEl("h3", { text: "Early access features" });
     const earlyAccessDescription = containerEl.createEl("p");
     earlyAccessDescription.createEl("span", {
@@ -2478,6 +2520,7 @@ var ObsidianLinksSettingTab = class extends import_obsidian5.PluginSettingTab {
       toggle.setValue(this.plugin.settings.ffMultipleLinkConversion).onChange(async (value) => {
         this.plugin.settings.ffMultipleLinkConversion = value;
         await this.plugin.saveSettings();
+        toggleMultipleLinksConversions(this.plugin.settings.ffMultipleLinkConversion);
       });
     });
     const feature2SettingDesc = containerEl.querySelector(".setting-item--insider-feature2 .setting-item-description");
@@ -3163,6 +3206,8 @@ var UnembedLinkCommand = class extends CommandBase {
 var ConvertAllLinksToMdlinksCommand = class extends ConvertToMdlinkCommandBase {
   constructor(obsidianProxy, isPresentInContextMenu = () => true, isEnabled = () => true, callback = void 0) {
     super(obsidianProxy, isPresentInContextMenu, isEnabled);
+    this.isEnabled = () => this.obsidianProxy.settings.ffMultipleLinkConversion;
+    this.isPresentInContextMenu = () => this.obsidianProxy.settings.contexMenu.convertAllLinksToMdLinks;
     this.id = "editor-convert-all-links-to-mdlinks";
     this.displayNameCommand = "Convert all links to Markdown links";
     this.displayNameContextMenu = "Convert all links to Markdown links";
@@ -3202,6 +3247,8 @@ var ConvertAllLinksToMdlinksCommand = class extends ConvertToMdlinkCommandBase {
 var ConvertWikilinksToMdlinksCommand = class extends ConvertToMdlinkCommandBase {
   constructor(obsidianProxy, isPresentInContextMenu = () => true, isEnabled = () => true, callback = void 0) {
     super(obsidianProxy, isPresentInContextMenu, isEnabled);
+    this.isEnabled = () => this.obsidianProxy.settings.ffMultipleLinkConversion;
+    this.isPresentInContextMenu = () => this.obsidianProxy.settings.contexMenu.convertWikilinkToMdLinks;
     this.id = "editor-convert-wikilinks-to-mdlinks";
     this.displayNameCommand = "Convert Wikilinks to Markdown links";
     this.displayNameContextMenu = "Convert Wikilinks to Markdown links";
@@ -3241,6 +3288,8 @@ var ConvertWikilinksToMdlinksCommand = class extends ConvertToMdlinkCommandBase 
 var ConvertAutolinksToMdlinksCommand = class extends ConvertToMdlinkCommandBase {
   constructor(obsidianProxy, isPresentInContextMenu = () => true, isEnabled = () => true, callback = void 0) {
     super(obsidianProxy, isPresentInContextMenu, isEnabled);
+    this.isEnabled = () => this.obsidianProxy.settings.ffMultipleLinkConversion;
+    this.isPresentInContextMenu = () => this.obsidianProxy.settings.contexMenu.convertAutolinksToMdlinks;
     this.id = "editor-convert-autolinks-to-mdlinks";
     this.displayNameCommand = "Convert Autolinks to Markdown links";
     this.displayNameContextMenu = "Convert Autolinks to Markdown links";
@@ -3262,6 +3311,47 @@ var ConvertAutolinksToMdlinksCommand = class extends ConvertToMdlinkCommandBase 
     (async () => {
       for (let i = autolinks.length - 1; i >= 0; i--) {
         const link = autolinks[i];
+        await this.convertLinkToMarkdownLink(link, editor, false, selectionOffset);
+      }
+    })().then(() => {
+      if (this.callback) {
+        this.callback(null, void 0);
+      }
+    }).catch((err) => {
+      if (this.callback) {
+        this.callback(err, void 0);
+      }
+    });
+  }
+};
+
+// commands/ConvertUrlsToMdlinksCommand.ts
+var ConvertUrlsToMdlinksCommand = class extends ConvertToMdlinkCommandBase {
+  constructor(obsidianProxy, isPresentInContextMenu = () => true, isEnabled = () => true, callback = void 0) {
+    super(obsidianProxy, isPresentInContextMenu, isEnabled);
+    this.isEnabled = () => this.obsidianProxy.settings.ffMultipleLinkConversion;
+    this.isPresentInContextMenu = () => this.obsidianProxy.settings.contexMenu.convertUrlsToMdlinks;
+    this.id = "editor-convert-urls-to-mdlinks";
+    this.displayNameCommand = "Convert URLs to Markdown links";
+    this.displayNameContextMenu = "Convert URLs to Markdown links";
+    this.icon = "rotate-cw";
+    this.callback = callback;
+  }
+  handler(editor, checking) {
+    if (checking && !this.isEnabled()) {
+      return false;
+    }
+    const selection = editor.getSelection();
+    const text = selection || editor.getValue();
+    const links = findLinks(text);
+    const urls = links ? links.filter((x) => x.type == 16 /* PlainUrl */) : [];
+    if (checking) {
+      return this.obsidianProxy.settings.ffMultipleLinkConversion && urls.length > 0;
+    }
+    const selectionOffset = selection ? editor.posToOffset(editor.getCursor("from")) : 0;
+    (async () => {
+      for (let i = urls.length - 1; i >= 0; i--) {
+        const link = urls[i];
         await this.convertLinkToMarkdownLink(link, editor, false, selectionOffset);
       }
     })().then(() => {
@@ -3304,30 +3394,10 @@ function createCommands(obsidianProxy, settings) {
   commands.set(CreateLinkFromClipboardCommand.name, new CreateLinkFromClipboardCommand(obsidianProxy, () => settings.contexMenu.createLinkFromClipboard));
   commands.set(EmbedLinkCommand.name, new EmbedLinkCommand(() => settings.contexMenu.embedUnembedLink));
   commands.set(UnembedLinkCommand.name, new UnembedLinkCommand(() => settings.contexMenu.embedUnembedLink));
-  commands.set(
-    ConvertAllLinksToMdlinksCommand.name,
-    new ConvertAllLinksToMdlinksCommand(
-      obsidianProxy,
-      () => false,
-      () => settings.ffMultipleLinkConversion
-    )
-  );
-  commands.set(
-    ConvertWikilinksToMdlinksCommand.name,
-    new ConvertWikilinksToMdlinksCommand(
-      obsidianProxy,
-      () => false,
-      () => settings.ffMultipleLinkConversion
-    )
-  );
-  commands.set(
-    ConvertAutolinksToMdlinksCommand.name,
-    new ConvertAutolinksToMdlinksCommand(
-      obsidianProxy,
-      () => false,
-      () => settings.ffMultipleLinkConversion
-    )
-  );
+  commands.set(ConvertAllLinksToMdlinksCommand.name, new ConvertAllLinksToMdlinksCommand(obsidianProxy));
+  commands.set(ConvertWikilinksToMdlinksCommand.name, new ConvertWikilinksToMdlinksCommand(obsidianProxy));
+  commands.set(ConvertUrlsToMdlinksCommand.name, new ConvertUrlsToMdlinksCommand(obsidianProxy));
+  commands.set(ConvertAutolinksToMdlinksCommand.name, new ConvertAutolinksToMdlinksCommand(obsidianProxy));
 }
 function getPaletteCommands(obsidianProxy, settings) {
   createCommands(obsidianProxy, settings);
@@ -3352,7 +3422,12 @@ function getContextMenuCommands(obsidianProxy, settings) {
     DeleteLinkCommand.name,
     null,
     CreateLinkFromSelectionCommand.name,
-    CreateLinkFromClipboardCommand.name
+    CreateLinkFromClipboardCommand.name,
+    null,
+    ConvertAllLinksToMdlinksCommand.name,
+    ConvertWikilinksToMdlinksCommand.name,
+    ConvertUrlsToMdlinksCommand.name,
+    ConvertAutolinksToMdlinksCommand.name
   ];
   let contextMenuCommands = [];
   for (const cmdName of commandNames) {
