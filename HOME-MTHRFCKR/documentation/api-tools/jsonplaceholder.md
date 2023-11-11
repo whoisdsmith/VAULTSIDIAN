@@ -1,4 +1,5 @@
-# JSONPlaceholder 
+# JSONPlaceholder
+
 ---
 
 ```cardlink
@@ -6,6 +7,7 @@ url: https://jsonplaceholder.typicode.com/
 title: "JSONPlaceholder - Free Fake REST API"
 host: jsonplaceholder.typicode.com
 ```
+
 # [JSONPlaceholder](/)
 
 -   [Guide](/guide)
@@ -15,7 +17,7 @@ host: jsonplaceholder.typicode.com
 
 {JSON} Placeholder
 
-# Free fake API for testing and prototyping.
+# Free Fake API for Testing and Prototyping
 
 Powered by [JSON Server](https://github.com/typicode/json-server) + [LowDB](https://github.com/typicode/lowdb). Tested with [XV](https://github.com/typicode/xv).
 

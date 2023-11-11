@@ -1,4 +1,5 @@
-# Meilisearch 
+# Meilisearch
+
 --–
 
 ```cardlink
@@ -9,7 +10,7 @@ host: meilisearch.com
 favicon: /favicon-32x32.png
 ```
 
-# Shape a **delightful** **search** experience in a snap
+# Shape a **delightful** **search** Experience in a Snap
 
 An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow.
 
@@ -19,15 +20,15 @@ Trusted by amazing companies
 
 Why Meilisearch?
 
-## The next generation of search
+## The next Generation of search
 
 Meilisearch is a flexible and powerful user-focused search engine that can be added to any website or application.
 
-### Lightning fast
+### Lightning Fast
 
 Search-as-you-type returns answers in less than 50 milliseconds. That's faster than the blink of an eye!
 
-### Plug ‘n play
+### Plug ‘n Play
 
 Deploy in a matter of minutes. Smart presets let you start searching through your data with zero configuration.
 
@@ -35,7 +36,7 @@ Deploy in a matter of minutes. Smart presets let you start searching through you
 
 Send data to Meilisearch however you want—no need to match a schema or convert your dataset to a compatible format.
 
-### Typo tolerant
+### Typo Tolerant
 
 Everyone makes mistakes! If typos break your search experience, many users will leave thinking what they were looking for just wasn't there.
 
@@ -43,7 +44,7 @@ Everyone makes mistakes! If typos break your search experience, many users will 
 
 Open source
 
-## Nothing **good** is built alone
+## Nothing **good** is Built Alone
 
 Join our welcoming and fast growing community.[Browse on GitHub](https://github.com/meilisearch/meilisearch)
 
@@ -87,7 +88,7 @@ Enhance your user's search experience with custom filters and build a faceted se
 
 Search in the real world. No need for a PhD, we've got you covered.
 
-### Language detection
+### Language Detection
 
 Meilisearch supports all languages and detects them automatically.
 
@@ -95,11 +96,11 @@ Meilisearch supports all languages and detects them automatically.
 
 Sort results based on price, date, or pretty much anything else your users need.
 
-### Custom relevancy
+### Custom Relevancy
 
 Let's break the rules. Use our default ranking rules or create your own.
 
-### API keys
+### API Keys
 
 Secure your data with API keys that allow fine-grained permissions management.
 
@@ -116,11 +117,15 @@ Step 3[Step 3](/#Deploy)
 ### Open Source
 
 Did we tell you that everything we do is completely public? Start using Meilisearch now by downloading our open source version.  
+
   
+
 You can also deploy Meilisearch on any cloud provider such as AWS, GCP or DigitalOcean with our integrations. Use Meilisearch however you want: it's all up to you.[Get Started](https://docs.meilisearch.com/learn/getting_started/quick_start.html)
 
 ### Cloud
 
 Need to go fast? Meilisearch Cloud takes care of everything so you just have to focus on the most important thing: making sure your users have a great search experience.  
+
   
+
 Enter the waiting list for our Cloud beta by completing the form linked below.[Apply for the beta](https://meilisearch.typeform.com/to/VI2cI2rv)

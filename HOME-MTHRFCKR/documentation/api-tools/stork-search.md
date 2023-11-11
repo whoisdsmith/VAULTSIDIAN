@@ -1,4 +1,5 @@
-# Stork Search 
+# Stork Search
+
 ---
 
 ```cardlink
@@ -9,6 +10,7 @@ host: stork-search.net
 favicon: /favicon.ico
 image: /og-banner.png
 ```
+
 # Stork
 
 Impossibly fast web search, made for static sites.

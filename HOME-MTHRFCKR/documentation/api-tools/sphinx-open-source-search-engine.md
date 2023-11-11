@@ -1,4 +1,5 @@
-# Sphinx - Open Source Search Engine 
+# Sphinx - Open Source Search Engine
+
 ---
 
 ```cardlink
@@ -7,6 +8,7 @@ title: "Sphinx | Open Source Search Engine"
 description: "Sphinx is an open source full text search server, designed with performance, relevance (search quality),and integration simplicity in mind. Sphinx lets you either batch index and search data stored in files, an SQL database, NoSQL storage --or index and search data on the fly, working with Sphinx pretty much as with a database server."
 host: sphinxsearch.com
 ```
+
 [Open Source Search Server 
 
 [Email Us](/about/contact/#contacts) [Chat on Skype](skype:sphinxsearch?chat "Chat via Skype")  
@@ -15,7 +17,6 @@ host: sphinxsearch.com
 -   [Twitter](http://twitter.com/sphinxsearch "Twitter")
 -   [LinkedIn](http://www.linkedin.com/companies/sphinx-technologies "LinkedIn")
 -   [VKontakte](http://vkontakte.ru/club20032698 "Vkontakte")
-
 
 -   [Downloads](/downloads/)
     -   [Current](/downloads/current/)
@@ -45,13 +46,13 @@ host: sphinxsearch.com
     -   [Company](/about/company/)
     -   [Contact](/about/contact/)
 
-##### News
+## News
 
 -   [Blog](/blog/)
 -   [Mailing list](/news/maillist/)
 -   [Rss](/blog/feed/rss/)
 
-##### Downloads
+## Downloads
 
 -   [Release](/downloads/release/)
 -   [Beta](/downloads/beta/)
@@ -59,7 +60,7 @@ host: sphinxsearch.com
 -   [Dictionaries](/downloads/dicts)
 -   [Archive](/downloads/archive/)
 
-##### Services
+## Services
 
 -   [Enterprise Support](/services/support/)
 -   [Package Matrix](/services/packages/)
@@ -69,7 +70,7 @@ host: sphinxsearch.com
 -   [Training](/services/training/)
 -   [Sphinx Tools](https://tools.sphinxsearch.com)
 
-##### Community
+## Community
 
 -   [Forum](/forum/)
 -   [Wiki](/wiki/)
@@ -77,7 +78,7 @@ host: sphinxsearch.com
 -   [Open Projects](/community/projects/)
 -   [Plugins](/wiki/doku.php?id=third_party)
 
-##### Resources
+## Resources
 
 -   [Documentation](/docs/)
 -   [Case-Studies](/info/studies/)
@@ -85,7 +86,7 @@ host: sphinxsearch.com
 -   [Blog](/blog/)
 -   [Newsletter](/news/newsletter/)
 
-##### About
+## About
 
 -   [Sphinx](/about/sphinx/)
 -   [Company](/about/company/)

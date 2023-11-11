@@ -1,4 +1,5 @@
-# Perspective API 
+# Perspective API
+
 ---
 
 ```cardlink
@@ -8,9 +9,9 @@ description: "Combatting toxicity online."
 host: www.perspectiveapi.com
 ```
 
-# Using machine learning to reduce toxicity online
+# Using Machine Learning to Reduce Toxicity Online
 
-## Perspective API can help mitigate toxicity and ensure healthy dialogue online.
+## Perspective API Can Help Mitigate Toxicity and Ensure Healthy Dialogue Online
 
 [How it works](/how-it-works/ "How it works")
 

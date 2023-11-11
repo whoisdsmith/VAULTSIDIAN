@@ -1,5 +1,7 @@
-# Stein HQ 
+# Stein HQ
+
 ---
+
 ```cardlink
 url: https://github.com/SteinHQ
 title: "Stein HQ"

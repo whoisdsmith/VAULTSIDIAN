@@ -1,4 +1,5 @@
 # Shizuku
+
 ---
 
 ```cardlink
@@ -9,24 +10,23 @@ host: shizuku.rikka.app
 favicon: /icon/android-icon-192x192.png
 ```
 
-
 Let your app use system APIs directly
 
 [Learn more](/introduction.html)
 
-## Use system APIs elegantly
+## Use System APIs Elegantly
 
 Forget about root shell, you can use APIs with higher privileges "directly". Also, Shizuku is significantly faster than shell.
 
-## Supports adb usage
+## Supports Adb Usage
 
 If your "root required app" only needs adb permission, you can easily expand the audience by using Shizuku.
 
-## Save your time
+## Save Your time
 
 Shizuku has detailed documentation to guide users. Only you need to do is to let the users install Shizuku.
 
-### [#](#as-easy-as-you-are-a-system-app) As Easy as you are a system app
+### [#](#as-easy-as-you-are-a-system-app) As Easy as You Are a System App
 
 ```
 private static final IPackageManager PACKAGE_MANAGER = IPackageManager.Stub.asInterface(

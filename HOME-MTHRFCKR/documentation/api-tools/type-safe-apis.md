@@ -1,4 +1,5 @@
 # Type Safe APIs
+
 ---
 
 ```cardlink
@@ -10,7 +11,7 @@ favicon: /img/favicon.ico
 image: https://assets.trpc.io/www/trpc-open-graph.png
 ```
 
-# tRPC - Move Fast and Break Nothing.
+# tRPC - Move Fast and Break Nothing
 
 End-to-end typesafe APIs made easy. 
 

@@ -1,3 +1,5 @@
+# Applescript-parsing-html
+
 ## Parsing HTML
 
 The process of reading an HTML file is no different than the process of reading a standard text file—see [Reading a File](https://developer.apple.com/library/archive/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/ParseHTML.html#//apple_ref/doc/uid/TP40016239-CH50-SW1ReadandWriteFiles.html#//apple_ref/doc/uid/TP40016239-CH58-SW2) to learn how to do it. However, it’s often necessary to extract specific bits of information from HTML files, such as links, images, and table data, for further processing.

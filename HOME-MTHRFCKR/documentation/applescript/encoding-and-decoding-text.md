@@ -1,3 +1,5 @@
+# Encoding-and-decoding-text
+
 ## Encoding and Decoding Text
 
 A standard practice when creating URL's is to encode spaces and special characters (high-level ASCII) to hexadecimal equivalents. For example, spaces in URL's are routinely converted to `%20`. The process of encoding and decoding URLs and other text in this manner can be accomplished through scripting.

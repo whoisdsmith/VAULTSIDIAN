@@ -1,4 +1,5 @@
-# Insomnia 
+# Insomnia
+
 ---
 
 ```cardlink
@@ -8,7 +9,8 @@ description: "Leading Open Source API Client, and Collaborative API Design Platf
 host: insomnia.rest
 image: /images/card-promo.png
 ```
-# Build APIs that work.
+
+# Build APIs that Work
 
 Deliver high quality APIs through standards and collaboration with the Insomnia API design platform.
 
@@ -30,7 +32,7 @@ There is a reason developers love Insomnia. With our streamlined API client, you
 
 ![Design APIs using OpenAPI](https://images.prismic.io/cms-react-testing/5b071966-8273-4906-9af7-c0ed58f175eb_openapi-design.png?auto=compress,format)
 
-## Design APIs using OpenAPI
+## Design APIs Using OpenAPI
 
 Accelerate your teams through spec-driven design-first API development. Catch issues earlier, centralize standards, and adopt an API workflow that works with your existing tools.
 

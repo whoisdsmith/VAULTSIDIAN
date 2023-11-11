@@ -1,3 +1,5 @@
+# Removing-html-markup-from-text
+
 ## Removing HTML Markup from Text
 
 When parsing HTML content, it’s often necessary to remove markup entirely. The handler in Listing 34-1 removes all HTML tags from the text provided, returning only the remaining text—the contents of the tags.

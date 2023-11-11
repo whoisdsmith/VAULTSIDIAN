@@ -1,10 +1,6 @@
 https://apilist.fun/
 
-                    
-
 API list is proudly brought to you by [apilayer](http://apilayer.com/?utm_source=apilistfun&utm_medium=OwnedSites&utm_content=banner), a leader in B2B APIs including [weatherstack](http://weatherstack.com/?utm_source=apilistfun&utm_medium=OwnedSites&utm_content=banner), [mediastack](http://mediastack.com?utm_source=apilistfun&utm_medium=OwnedSites&utm_content=banner), [currencylayer](http://currencylayer.com?utm_source=apilistfun&utm_medium=OwnedSites&utm_content=banner), and many [more](http://apilayer.com?utm_source=apilistfun&utm_medium=OwnedSites&utm_content=banner)!
-
-
 
 -   [Add API](/new)
 -   [Interviews](/interviews)
@@ -19,9 +15,7 @@ API list is proudly brought to you by [apilayer](http://apilayer.com/?utm_source
 -   [Sponsor Us](/sponsor)
 -   [Login](/login)
 
-# A collective list of APIs. Build.
-
- 
+# A Collective List of APIs. Build
 
 Explore Apis
 
@@ -141,7 +135,6 @@ API Categories
 -   [Voice](/category/voice)
 -   [Webhooks](/category/webhooks)
 -   [eCommerce](/category/ecommerce)
-
 
 [Database](/category/database)
 

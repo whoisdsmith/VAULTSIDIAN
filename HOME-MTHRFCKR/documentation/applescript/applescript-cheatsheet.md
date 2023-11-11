@@ -5,7 +5,7 @@ source: https://devhints.io/applescript
 author: 
 ---
 
-# AppleScript cheatsheet
+# AppleScript Cheatsheet
 
 > ## Excerpt
 
@@ -13,9 +13,9 @@ author:
 
 ---
 
-# AppleScript _cheatsheet_
+# AppleScript *cheatsheet*
 
-### Running
+## Running
 
 ```applescript
 osascript -e "..."
@@ -25,7 +25,7 @@ osascript -e "..."
 display notification "X" with title "Y"
 ```
 
-### Comments
+## Comments
 
 ```applescript
 -- This is a single line comment
@@ -43,7 +43,7 @@ line comment
 *)
 ```
 
-### Say
+## Say
 
 ```applescript
 -- default voice
@@ -55,7 +55,7 @@ say "Hi I am a Mac"
 say "Hi I am a Mac" using "Zarvox"
 ```
 
-### Beep
+## Beep
 
 ```applescript
 -- beep once
@@ -67,7 +67,7 @@ beep
 beep 10
 ```
 
-### Delay
+## Delay
 
 ```applescript
 -- delay for 5 seconds

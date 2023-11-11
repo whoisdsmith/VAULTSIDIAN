@@ -1,4 +1,5 @@
-# Strapi - Open source Node-js Headless CMS
+# Strapi - Open Source Node-js Headless CMS
+
 ---
 
 ```cardlink
@@ -9,4 +10,5 @@ host: strapi.io
 favicon: /assets/favicon-16x16.png
 image: https://assets.strapi.io/uploads/HP_meta_b32f546a40.png
 ```
+
 ---

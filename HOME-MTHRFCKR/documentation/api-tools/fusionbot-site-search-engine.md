@@ -1,5 +1,4 @@
-# Fusionbot 
-
+# Fusionbot
 
 ```cardlink
 url: https://www.fusionbot.com/
@@ -10,7 +9,7 @@ favicon: /favicon.ico
 image: //cdn.fusionbot.com/images/molecule_512_twitter.png
 ```
 
-## Harness the power of seamless site search engine solutions.
+## Harness the Power of Seamless Site search Engine Solutions
 
 Pioneers in hosted website & e-Commerce search
 
@@ -38,7 +37,7 @@ Packages start at $0.00 / month (that's right, [FREE](/packages.html?act=A)), fo
 
 Pioneers of hosted site search technology, since the year 2000, FusionBot is built from the ground-up with our own in-house technology. Nearly 100K customers (and growing) have put their trust in FusionBot to power their site's search functionality.
 
-## The Right Search Results, Right Away.
+## The Right Search Results, Right Away
 
 Powerful ranking algorithms. Pinpoint precision. Millisecond response times.
 
@@ -62,6 +61,6 @@ Create a custom list of similar keywords visitors may use to search the same con
 
 Promote or demote default ordering of particular matches in your search results.
 
-## Real time search analytics
+## Real time search Analytics
 
 Provides invaluable insight into your visitors search behavior.

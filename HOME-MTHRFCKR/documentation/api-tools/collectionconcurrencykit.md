@@ -1,4 +1,5 @@
-# CollectionConcurrencyKit 
+# CollectionConcurrencyKit
+
 ---
 
 ```cardlink

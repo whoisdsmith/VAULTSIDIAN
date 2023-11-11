@@ -1,4 +1,5 @@
-# RapidAPI 
+# RapidAPI
+
 ---
 
 ```cardlink
@@ -38,14 +39,16 @@ Improve the developer experience with integrated tools for design, testing, moni
 
 [Learn More](/products/api-testing)
 
-## Get Started with RapidAPI  
+## Get Started with RapidAPI
+
 Enterprise Hub
 
 Your development teams, partners and customers can discover and connect to your APIs — all from a single, next-generation API Platform. RapidAPI’s Enterprise Hub can be customized to match your company’s brand, integrates seamlessly with internal systems and tooling, supports all of your APIs, and can be deployed as a cloud-based service, on premises, and across multi-cloud environments.
 
 [Learn More](/products/enterprise-hub/)
 
-## The World’s Largest  
+## The World’s Largest
+
 API Hub
 
 Millions of developers make the RapidAPI Hub their number one destination for finding and connecting to thousands of public APIs — using a single SDK, API key, and dashboard.
@@ -55,11 +58,12 @@ Millions of developers make the RapidAPI Hub their number one destination for fi
 ## A Unified Development Experience
 
 As digital transformation efforts have accelerated over the last year, developers require modern API tooling to build digital applications and services.  
+
   
+
 RapidAPI provides a unified experience across the API development lifecycle from developing APIs with RapidAPI Client to testing and monitoring them with RapidAPI Testing.  
 
 [Learn More](/products/api-design)
-
 
 ## Sun Life Financial Creates a One-stop Shop for APIs with RapidAPI
 
@@ -77,15 +81,11 @@ RapidAPI has millions of developers using the RapidAPI Hub for both their work a
 
 **Twilio** Communication APIs
 
-
-
 ](https://rapidapi.com/search/Twilio)[
 
 ![](https://rapidapi.com/wp-content/uploads/2020/10/Telesign.jpg)
 
 **TeleSign** APIs for SMS and Voice
-
-
 
 ](https://rapidapi.com/search/Telesign)[
 
@@ -93,59 +93,57 @@ RapidAPI has millions of developers using the RapidAPI Hub for both their work a
 
 **Aeris** Advanced Weather APIs
 
-
-
 ](https://rapidapi.com/search/Aeris)
 
 ## Support for Multiple API Types and Advanced Capabilities
 
 **API Types** **Advanced Capabilities**
 
-#### GraphQL
+### GraphQL
 
 Use of aggregating multiple data sources into one API. Popular APIs supported: GitHub, GitLab, Yelp, AniList, Shopify, and more
 
-#### REST
+### REST
 
 Use this popular API Type for web applications and projects that are flexible, scalable, and fast
 
-#### Kafka
+### Kafka
 
 Use to handle and process data streams and ingest/move large amounts of data quickly (coming soon)
 
-#### RapidQL
+### RapidQL
 
 Use to fetch, combine, and aggregate data from multiple APIs and databases in a single call
 
-#### SOAP
+### SOAP
 
 Use for transactions that involve multiple calls or applications
 
-#### Discovery
+### Discovery
 
 Search for APIs, test APIs, and compare them based on latency, uptime, and popularity
 
-#### Security
+### Security
 
 Mitigates/Significantly reduces the OWASP Top 10 Security Risks
 
-#### Publishing
+### Publishing
 
 Support for all standards and API types (OAS, GraphQL, etc.)
 
-#### Governance
+### Governance
 
 Understand/Manage how your organization uses internal & external APIs
 
-#### Permissioning
+### Permissioning
 
 Grant authorization to only those users/team members you want to access your APIs
 
-#### Testing
+### Testing
 
 View documentation and test APIs easily
 
-#### Customization
+### Customization
 
 Brand with your company’s logo, colors, messaging, login, etc
 

@@ -1,4 +1,5 @@
-# Mocklab 
+# Mocklab
+
 ---
 
 ```cardlink
@@ -8,4 +9,4 @@ description: "MockLab helps teams ship better apps faster by mocking APIs that a
 host: get.mocklab.io
 ```
 
-## The fast and simple API simulator built on WireMock
+## The Fast and Simple API Simulator Built on WireMock
