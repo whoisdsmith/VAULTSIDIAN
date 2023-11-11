@@ -1,3 +1,5 @@
+# My-life-bits
+
 ## Jim Gemmell, Gordon Bell, Roger Lueder, Steven Drucker and Curtis Wong
 
 ### Microsoft Research
@@ -17,13 +19,13 @@ It is built on four principles: (1) collections and search must
 replace hierarchy for organization (2) many visualizations should  
 be supported (3) annotations are critical to non-text media and
 
-## must be made easy, and (4) authoring should be via transclusion
+## Must Be Made Easy, and (4) Authoring Should Be via Transclusion
 
 ## Categories and Subject Descriptors
 
 H.3.0 \[ **Information Storage and Retrieval** \]: General  
 H.5.4 \[ **Information Interfaces and Presentation** \]: Hypertext/  
-Hypermedia – _Architectures, Navigation, User issues_
+Hypermedia – *Architectures, Navigation, User issues*
 
 ## General Terms
 
@@ -107,8 +109,8 @@ not made or distributed for profit or commercial advantage and that
 copies bear this notice and the full citation on the first page. To copy  
 otherwise, or republish, to post on servers or to redistribute to lists,  
 requires prior specific permission and/or a fee.  
-_ACM Multimedia ’02_ , December 1-6, 2002, Juan Les Pins, France.  
-Copyright 2002 ACM 1-58113-000-0/00/0000...$5.00.
+*ACM Multimedia ’02* , December 1-6, 2002, Juan Les Pins, France.  
+Copyright 2002 ACM 1-58113-000-0/00/0000…$5.00.
 
 visualizations of their life bits are desirable to help understand  
 what they are looking at. Third, that the value of non-text media is  
@@ -454,7 +456,7 @@ Systems with User-Specific Active Properties, ACM TOIS,
 18(2), 2000, pp. 140-170.
 ```
 
-### \[5\] Freeman, Eric, Gelernter., David. LifeStreams: A storage
+### \[5\] Freeman, Eric, Gelernter., David. LifeStreams: A Storage
 
 ```
 model for personal data, ACM SIGMOD Bulletin 25, 1,

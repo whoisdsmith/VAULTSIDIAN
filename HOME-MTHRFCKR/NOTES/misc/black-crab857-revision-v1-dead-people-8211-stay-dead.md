@@ -8,6 +8,8 @@ guid: 'https://whoisdsmith.ctrlaltback.space/?p=861'
 permalink: '/?p=861'
 ---
 
+# black-crab857-revision-v1-dead-people-8211-stay-dead
+
 <div class="video-container">[![Black Crab](https://live.staticflickr.com/65535/51964279863_4ee4d5bc27_z.jpg)](https://flic.kr/p/2naUvZH)</div>Last night we watched the movie “Black Crab” on Netflix. Overall I give it 3 out of 5 Stars. Great cinematic visuals with great acting by Rooney Mara (Prometheus) Movie wise I felt like it was another country’s Version of “Red Dawn”
 
 But this isn’t about the movie, it’s about it’s soundtrack.

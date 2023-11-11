@@ -1,3 +1,5 @@
+# Lifelogging
+
 ## Pei-Wei Kao^1 ,An-Zi Yen^1 , Hen-Hsen Huang^2 ;^3 and Hsin-Hsi Chen^1 ;^3
 
 (^1) Department of Computer Science and Information Engineering,
@@ -7,7 +9,7 @@
 (^2) Institute of Information Science, Academia Sinica  
 (^3) MOST Joint Research Center for AI Technology and All Vista Healthcare, Taipei, Taiwan
 
-## fpwgao, azyen, hhhuangg@nlg.csie.ntu.edu.tw, hhchen@ntu.edu.tw
+## Fpwgao, Azyen, hhhuangg@nlg.csie.ntu.edu.tw, hhchen@ntu.edu.tw
 
 ## Abstract
 

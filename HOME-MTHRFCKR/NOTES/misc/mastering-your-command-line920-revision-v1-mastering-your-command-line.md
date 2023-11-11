@@ -8,6 +8,8 @@ guid: 'https://whoisdsmith.ctrlaltback.space/?p=921'
 permalink: '/?p=921'
 ---
 
+# mastering-your-command-line920-revision-v1-mastering-your-command-line
+
 *Hacks &amp; tricks for developers working with the command line.*
 
 Whether you spend 99% of your time in your IDE, or you are an old school exclusive-vim-user that cringes at the thought of ever using a mouse in general, let alone to click a button in a memory hungry PyCharm IDE, all developers rely on using the command line to some extent.
@@ -16,7 +18,7 @@ I recently went about upgrading to the new M1 MacBook Pro, and in setting up my 
 
 First, I want to note that much of my approach is heavily inspired from [Jeffrey Paul’s Stupid Unix Tricks Article](https://sneak.berlin/20191011/stupid-unix-tricks/), which is a great read. I have put a few of my own tweaks on top of it which I’ve included in this writeup.
 
-## Getting Started — Manage Your Shell Startup rc Files
+## Getting Started — Manage Your Shell Startup Rc Files
 
 Let’s get started. First, I’ll introduce what my `~/.zshrc` file looks like. On your machine, your equivalent might be a `~/.bashrc` or something of the like, but I am talking about the run-command configuration file that executes on shell startup. Typically we take care of things like configuring command line software, adding aliases, setting some environment variables, etc. Often there can wind up being lots to do and these files can become a little bit involved and hard to navigate. Here’s mine:
 
@@ -40,7 +42,7 @@ So, visually, it looks something like this:
 
 And updating is a simple `git pull` command! Let’s say I write a new function `mkcd` which combines a `mkdir` and a `cd` in to the new dir, and I add it to that `funs.sh` above. In all of the machines I work on, I just have to do a `git pull` in my cloned tkutcher repository and now I have the `mkcd` command available everywhere. No copy-paste!
 
-## Building your own Command Line Tools with Python
+## Building Your Own Command Line Tools with Python
 
 Next, I wanted to share how I go about making my own command line tools available, specifically with Python. Meaning I want to be able to write command-line apps in Python unique to my needs, and run them from anywhere.
 

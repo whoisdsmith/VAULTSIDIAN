@@ -12,6 +12,7 @@ author:
 > ownCloud Server Tuning
 
 ---
+
 # ownCloud Server Tuning
 
 Table of Contents
@@ -83,7 +84,6 @@ If so, unfortunately, when a Linux kernel has [Transparent Huge Pages](https://w
 2.  In a busy instance, a few event loops cause commands to target a few thousand pages, causing the copy-on-write of almost the entire process memory.
     
 3.  Big latency and memory usage result.
-    
 
 As a result, make sure to disable Transparent Huge Pages using the following command:
 
@@ -112,7 +112,6 @@ A comprehensive guide to tuning MySQL and MariaDB is outside the scope of the ow
 -   [Percona Tools for MySQL](https://tools.percona.com/wizard)
     
 -   [Optimizing and Tuning MariaDB](https://mariadb.com/kb/en/optimization-and-tuning/)
-    
 
 ### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/oc_server_tuning.html#tune-postgresql)Tune PostgreSQL
 
@@ -121,7 +120,6 @@ A comprehensive guide to tuning PostgreSQL is outside the scope of the ownCloud 
 -   [Five Steps to PostgreSQL Performance](http://de.slideshare.net/PGExperts/five-steps-perform2013)
     
 -   [Tuning the autovacuum process for tables with huge update workloads (oc\_filecache)](https://grokbase.com/t/postgresql/pgsql-admin/103qcpdrpf/tuning-auto-vacuum-for-highly-active-tables#20100323hfs3jtjuaywwufukoqtexkpjti)
-    
 
 ## [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/oc_server_tuning.html#ssl-encryption-app)SSL / Encryption App
 
@@ -138,7 +136,6 @@ Here are some examples how to check if your CPU / environment supports the AES-N
 -   If your processor supports AES-NI but it does not show up e.g. via grep or coreinfo, it is maybe disabled in the BIOS.
     
 -   If your environment runs virtualized, check the virtualization vendor for support.
-    
 
 ## [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/oc_server_tuning.html#webserver-tuning)Webserver Tuning
 
@@ -173,6 +170,6 @@ cat /etc/httpd/conf/httpd.conf
 HostnameLookups off
 ```
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/oc_server_tuning.html#log-files)Log files
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/oc_server_tuning.html#log-files)Log Files
 
 Log files should be switched off for maximum performance. To do that, comment out the [CustomLog](https://httpd.apache.org/docs/current/mod/mod_log_config.html#customlog) directive. However, keep [ErrorLog](https://httpd.apache.org/docs/2.4/logs.html#errorlog) set, so errors can be tracked down.

@@ -425,7 +425,7 @@ Disables site isolation (SitePerProcess, IsolateOrigins, etc). Intended for diag
 
                  Disabled                 Enabled
 
-## Site Isolation for webview Tags
+## Site Isolation for Webview Tags
 
 Enables site isolation for content rendered inside `<webview>` tags. This increases security for Chrome Apps and WebUI pages that use `<webview>`. – Mac, Windows, Linux, ChromeOS, Fuchsia, Lacros
 

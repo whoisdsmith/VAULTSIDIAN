@@ -8,6 +8,8 @@ guid: 'https://whoisdsmith.ctrlaltback.space/?p=876'
 permalink: '/?p=876'
 ---
 
+# computer-related558-revision-v1-computer-related
+
 ## Hard Drives
 
 [Www.data-medics.com](https://www.data-medics.com/recovery/wp-content/uploads/2016/03/Data-Recovery-Procedure.png)

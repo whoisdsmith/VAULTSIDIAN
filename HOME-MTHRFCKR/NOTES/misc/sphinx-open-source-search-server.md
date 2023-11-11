@@ -1,3 +1,5 @@
+# Sphinx-open-source-search-server
+
 -   [Sphinx 3](http://sphinxsearch.com/docs/sphinx3.html#sphinx-3)
     -   [Features overview](http://sphinxsearch.com/docs/sphinx3.html#features-overview)
     -   [Features cheat sheet](http://sphinxsearch.com/docs/sphinx3.html#features-cheat-sheet)
@@ -99,9 +101,9 @@ Sphinx is a free, dual-licensed search server. Sphinx is written in C++, and foc
 
 The primary client API is currently SphinxQL, a dialect of SQL. Almost any MySQL connector should work. Additionally, basic HTTP/JSON API and native APIs for a number of languages (PHP, Python, Ruby, C, Java) are provided.
 
-This document is an effort to build a better documentation for Sphinx v.3.x and up. Think of it as a book or a tutorial which you could actually _read_; think of the previous “reference manual” as of a “dictionary” where you look up specific syntax features. The two might (and should) eventually converge.
+This document is an effort to build a better documentation for Sphinx v.3.x and up. Think of it as a book or a tutorial which you could actually *read*; think of the previous “reference manual” as of a “dictionary” where you look up specific syntax features. The two might (and should) eventually converge.
 
-## Features overview
+## Features Overview
 
 Top level picture, what does Sphinx offer?
 
@@ -131,11 +133,11 @@ And, of course, there is always stuff that we know we currently lack!
 -   Index replication
 -   …
 
-## Features cheat sheet
+## Features Cheat Sheet
 
 This section is supposed to provide a bit more detail on all the available features; to cover them more or less fully; and give you some further pointers into the specific reference sections (on the related config directives and SphinxQL statements).
 
--   Full-text search queries, see `SELECT ... WHERE MATCH('this')` SphinxQL statement
+-   Full-text search queries, see `SELECT … WHERE MATCH('this')` SphinxQL statement
     -   Boolean matching operators (implicit AND, explicit OR, NOT, and brackets), as in `(one two) | (three !four)`
     -   Boolean matching optimizations, see `OPTION boolean_simplify=1` in `SELECT` statement
     -   Advanced text matching operators
@@ -160,9 +162,9 @@ This section is supposed to provide a bit more detail on all the available featu
 
 TODO: describe more, add links!
 
-## Getting started
+## Getting Started
 
-That should now be rather simple. No magic installation required! On any platform, the _sufficient_ thing to do is:
+That should now be rather simple. No magic installation required! On any platform, the *sufficient* thing to do is:
 
 1.  Get the binaries.
 2.  Run `searchd`
@@ -180,13 +182,13 @@ Or alternatively, you can ETL your data offline, using the `indexer` tool:
 5.  Run queries.
 6.  Run `indexer --all --rotate` regularly, to update the indexes.
 
-Note that instead of inserting the data into indexes online, the `indexer` tool instead creates a shadow copy of the specified index(es) offline, and then sends a signal to `searchd` to pick up that copy. So you should _never_ get a partially populated index with `indexer`; it’s always all-or-nothing.
+Note that instead of inserting the data into indexes online, the `indexer` tool instead creates a shadow copy of the specified index(es) offline, and then sends a signal to `searchd` to pick up that copy. So you should *never* get a partially populated index with `indexer`; it’s always all-or-nothing.
 
 More details on running with configs are also below, refer to the [“Writing your first config”](http://sphinxsearch.com/docs/sphinx3.html#writing-your-first-config) section.
 
-### Getting started on Linux (and MacOS)
+### Getting Started on Linux (and MacOS)
 
-Versions and file names _will_ vary, and you most likely _will_ want to configure Sphinx at least a little, but for an immediate quickstart:
+Versions and file names *will* vary, and you most likely *will* want to configure Sphinx at least a little, but for an immediate quickstart:
 
 ```
 $ wget -q http://sphinxsearch.com/files/sphinx-3.0.2-2592786-linux-amd64.tar.gz
@@ -205,7 +207,7 @@ $
 
 That’s it; the daemon should now be running and accepting connections on port 9306. And you can connect to it using MySQL CLI (see below for more details, or just try `mysql -P9306` right away).
 
-### Getting started on Windows
+### Getting Started on Windows
 
 Pretty much the same story, except that on Windows `searchd` will not automatically go into background:
 
@@ -219,7 +221,7 @@ prereaded 0 indexes in 0.000 sec
 
 This is alright. Do not kill it. Just switch to a separate session and start querying.
 
-### Running queries via MySQL shell
+### Running Queries via MySQL Shell
 
 Run the MySQL CLI and point it to a port 9306. For example on Windows:
 
@@ -274,7 +276,7 @@ Empty set (0.00 sec)
 
 SphinxQL is our own SQL dialect, described in more detail in the respective [SphinxQL Reference](http://sphinxsearch.com/docs/sphinx3.html#sphinxql-reference) section.
 
-### Writing your first config
+### Writing Your First Config
 
 All those easy examples above were utilizing a config-less mode, where `searchd` stores and manages all the data and settings `./sphinxdata` data folder, and you have to manage everything via `searchd` itself.
 
@@ -330,7 +332,7 @@ mysql> select * from mydocs where match('hello');
 1 row in set (0.00 sec)
 ```
 
-### Running queries from PHP, Python, etc
+### Running Queries from PHP, Python, Etc
 
 ```
 <?php
@@ -346,11 +348,11 @@ while ($row = mysqli_fetch_row($res))
 
 TODO: examples
 
-### Running queries via HTTP
+### Running Queries via HTTP
 
 TODO: examples
 
-### Installing `indexer` SQL drivers on Linux
+### Installing `indexer` SQL Drivers on Linux
 
 This only affects `indexer` ETL tool only. If you never bulk load data from SQL sources using it (of course CSV and XML sources are still fine), you can safely skip this section. (And on Windows all the drivers come with the package.)
 
@@ -365,9 +367,9 @@ centos$ yum install mariadb-devel postgresql-devel unixODBC-devel
 
 Why might these be needed, and how they work?
 
-`indexer` natively supports MySQL (or MariaDB), PostgreSQL, and UnixODBC drivers. Meaning it can natively connect to those databases, run SQL queries, extract results, and create full-text indexes from that. Binaries now always come with that _support_ enabled.
+`indexer` natively supports MySQL (or MariaDB), PostgreSQL, and UnixODBC drivers. Meaning it can natively connect to those databases, run SQL queries, extract results, and create full-text indexes from that. Binaries now always come with that *support* enabled.
 
-However, you still need to have a specific driver _library_ installed on your system, so that `indexer` could dynamically load it, and access the database. Depending on the specific database and OS you use, the package names might be different, but here go a few common pointers.
+However, you still need to have a specific driver *library* installed on your system, so that `indexer` could dynamically load it, and access the database. Depending on the specific database and OS you use, the package names might be different, but here go a few common pointers.
 
 The driver libraries are loaded by name. The following names are attempted:
 
@@ -377,9 +379,9 @@ The driver libraries are loaded by name. The following names are attempted:
 
 To support MacOS, `.dylib` extension (in addition to `.so`) is also tried.
 
-## Main concepts
+## Main Concepts
 
-Alas, many projects tend to reinvent their own dictionary, and Sphinx is no exception. Sometimes that probably creates confusion for no apparent reason. For one, what SQL guys call “tables” (or even “relations” if they are old enough to remember Edgar Codd), and MongoDB guys call “collections”, we the text search guys tend to call “indexes”, and not really out of mischief and malice either, but just because for us, those things _are_ primarily FT (full-text) indexes. Thankfully, most of the concepts are close enough, so our personal little Sphinx dictionary is tiny. Let’s see.
+Alas, many projects tend to reinvent their own dictionary, and Sphinx is no exception. Sometimes that probably creates confusion for no apparent reason. For one, what SQL guys call “tables” (or even “relations” if they are old enough to remember Edgar Codd), and MongoDB guys call “collections”, we the text search guys tend to call “indexes”, and not really out of mischief and malice either, but just because for us, those things *are* primarily FT (full-text) indexes. Thankfully, most of the concepts are close enough, so our personal little Sphinx dictionary is tiny. Let’s see.
 
 Short cheat sheet!
 
@@ -401,11 +403,11 @@ Column and/or a FULLTEXT index
 
 Indexed field
 
-_Just_ a FULLTEXT index on a text column
+*Just* a FULLTEXT index on a text column
 
 Stored field
 
-Text column _and_ a FULLTEXT index on it
+Text column *and* a FULLTEXT index on it
 
 Attribute
 
@@ -435,11 +437,11 @@ And now for a little more elaborate explanation.
 
 ### Indexes
 
-Sphinx indexes are semi-structured collections of documents. They may seem closer to SQL tables than to Mongo collections, but in their core, they really are neither. The primary, foundational data structure here is a _full-text index_. It is a special structure that lets us respond very quickly to a query like “give me the (internal) identifiers of all the documents that mention This or That keyword”. And everything else (any extra attributes, or document storage, or even the SQL or HTTP querying dialects, and so on) that Sphinx provides is essentially some kind of an addition on top of that base data structure. Well, hence the “index” name.
+Sphinx indexes are semi-structured collections of documents. They may seem closer to SQL tables than to Mongo collections, but in their core, they really are neither. The primary, foundational data structure here is a *full-text index*. It is a special structure that lets us respond very quickly to a query like “give me the (internal) identifiers of all the documents that mention This or That keyword”. And everything else (any extra attributes, or document storage, or even the SQL or HTTP querying dialects, and so on) that Sphinx provides is essentially some kind of an addition on top of that base data structure. Well, hence the “index” name.
 
 Schema-wise, Sphinx indexes try to combine the best of schemaful and schemaless worlds. For “columns” where you know the type upfront, you can use the statically typed attributes, and get the absolute efficiency. For more dynamic data, you can put it all into a JSON attribute, and still get quite decent performance.
 
-So in a sense, Sphinx indexes == SQL tables, except (a) full-text searches are fast and come with a lot of full-text-search specific tweaking options; (b) JSON “columns” (attributes) are quite natively supported, so you can go schemaless; and (c) for full-text indexed fields, you can choose to store _just_ the full-text index and ditch the original values.
+So in a sense, Sphinx indexes == SQL tables, except (a) full-text searches are fast and come with a lot of full-text-search specific tweaking options; (b) JSON “columns” (attributes) are quite natively supported, so you can go schemaless; and (c) for full-text indexed fields, you can choose to store *just* the full-text index and ditch the original values.
 
 ### Documents
 
@@ -449,7 +451,7 @@ As of v.3.0.1, Sphinx still requires a unique `id` attribute, and implicitly inj
 
 ### Fields
 
-Fields are the texts that Sphinx indexes and makes keyword-searchable. They always are _indexed_, as in full-text indexed. Their original, unindexed contents can also be _stored_ into the index for later retrieval. By default, they are not, and Sphinx is going to return attributes only, and _not_ the contents. However, if you explicitly mark them as stored (either with a `stored` flag in `CREATE TABLE` or in the ETL config file using `stored_fields` directive), you can also fetch the fields back:
+Fields are the texts that Sphinx indexes and makes keyword-searchable. They always are *indexed*, as in full-text indexed. Their original, unindexed contents can also be *stored* into the index for later retrieval. By default, they are not, and Sphinx is going to return attributes only, and *not* the contents. However, if you explicitly mark them as stored (either with a `stored` flag in `CREATE TABLE` or in the ETL config file using `stored_fields` directive), you can also fetch the fields back:
 
 ```
 mysql> CREATE TABLE test1 (title field);
@@ -491,7 +493,7 @@ Sphinx supports the following attribute types:
 All of these should be pretty straightforward. However, there are a couple Sphinx specific JSON performance tricks worth mentioning:
 
 -   All scalar values (integers, floats, doubles) are converted and internally stored natively.
--   All scalar value _arrays_ are detected and also internally stored natively.
+-   All scalar value *arrays* are detected and also internally stored natively.
 -   You can use `123.45f` syntax extension to mark 32-bit floats (by default all floating point values in JSON are 64-bit doubles).
 
 For example, when the following document is stored into a JSON column in Sphinx:
@@ -500,11 +502,11 @@ For example, when the following document is stored into a JSON column in Sphinx:
 {"title":"test", "year":2017, "tags":[13,8,5,1,2,3]}
 ```
 
-Sphinx detects that the “tags” array consists of integers only, and stores the array data using 24 bytes exactly, using just 4 bytes per each of the 6 values. Of course, there still are the overheads of storing the JSON keys, and the general document structure, so the _entire_ document will take more than that. Still, when it comes to storing bulk data into Sphinx index for later use, just provide a consistently typed JSON array, and that data will be stored - and processed! - with maximum efficiency.
+Sphinx detects that the “tags” array consists of integers only, and stores the array data using 24 bytes exactly, using just 4 bytes per each of the 6 values. Of course, there still are the overheads of storing the JSON keys, and the general document structure, so the *entire* document will take more than that. Still, when it comes to storing bulk data into Sphinx index for later use, just provide a consistently typed JSON array, and that data will be stored - and processed! - with maximum efficiency.
 
 Attributes are supposed to fit into RAM, and Sphinx is optimized towards that case. Ideally, of course, all your index data should fit into RAM, while being backed by a fast enough SSD for persistence.
 
-Now, there are _fixed-width_ and _variable-width_ attributes among the supported types. Naturally, scalars like INTEGER and FLOAT will always occupy exactly 4 bytes each, while STRING and JSON types can be as short as, well, empty; or as long as several megabytes. How does that work internally? Or in other words, why don’t I just save everything as JSON?
+Now, there are *fixed-width* and *variable-width* attributes among the supported types. Naturally, scalars like INTEGER and FLOAT will always occupy exactly 4 bytes each, while STRING and JSON types can be as short as, well, empty; or as long as several megabytes. How does that work internally? Or in other words, why don’t I just save everything as JSON?
 
 The answer is performance. Internally, Sphinx has two separate storages for those row parts. Fixed-width attributes, including hidden system ones, are essentially stored in big static NxM matrix, where N is the number of rows, and M is the number of fixed-width attributes. Any accesses to those are very quick. All the variable-width attributes for a single row are grouped together, and stored in a separate storage. A single offset into that second storage (or “vrow” storage, short for “variable-width row part” storage) is stored as hidden fixed-width attribute. Thus, as you see, accessing a string or a JSON or an MVA value, let alone a JSON key, is somewhat more complicated. For example, to access that `year` JSON key from the example just above, Sphinx would need to:
 
@@ -515,7 +517,7 @@ The answer is performance. Internally, Sphinx has two separate storages for thos
 -   check the key type, just in case it needs conversion to integer
 -   finally, read the `year` value
 
-Of course, optimizations are done on every step here, but still, if you access a _lot_ of those values (for sorting or filtering the query results), there will be a performance impact. Also, the deeper the key is buried into that JSON, the worse. For example, using a tiny test with 1,000,000 rows and just 4 integer attributes plus exactly the same 4 values stored in a JSON, computing a sum yields the following:
+Of course, optimizations are done on every step here, but still, if you access a *lot* of those values (for sorting or filtering the query results), there will be a performance impact. Also, the deeper the key is buried into that JSON, the worse. For example, using a tiny test with 1,000,000 rows and just 4 integer attributes plus exactly the same 4 values stored in a JSON, computing a sum yields the following:
 
 Attribute
 
@@ -555,7 +557,7 @@ Any INT
 
 And with more attributes it would eventually slowdown even worse than 2x times, especially if we also throw in more complicated attributes, like strings or nested objects.
 
-So bottom line, why not JSON everything? As long as your queries only touch a handful of rows each, that is fine, actually! However, if you have a _lot_ of data, you should try to identify some of the “busiest” columns for your queries, and store them as “regular” typed columns, that somewhat improves performance.
+So bottom line, why not JSON everything? As long as your queries only touch a handful of rows each, that is fine, actually! However, if you have a *lot* of data, you should try to identify some of the “busiest” columns for your queries, and store them as “regular” typed columns, that somewhat improves performance.
 
 ## Using DocStore
 
@@ -611,9 +613,9 @@ Yay, original document contents! Not a huge step generally, not for a database a
 
 So DocStore can effectively replace the existing `rt_attr_string` directive. What are the differences, and when to use each?
 
-`rt_attr_string` creates an _attribute_, uncompressed, and stored in RAM. Attributes are supposed to be small, and suitable for filtering (WHERE), sorting (ORDER BY), and other operations like that, by the millions. So if you really need to run queries like … WHERE title=‘abc’, or in case you want to update those strings on the fly, you will still need attributes.
+`rt_attr_string` creates an *attribute*, uncompressed, and stored in RAM. Attributes are supposed to be small, and suitable for filtering (WHERE), sorting (ORDER BY), and other operations like that, by the millions. So if you really need to run queries like … WHERE title=‘abc’, or in case you want to update those strings on the fly, you will still need attributes.
 
-But complete original document contents are rather rarely accessed in _that_ way! Instead, you usually need just a handful of those, in the order of 10s to 100s, to have them displayed in the final search results, and/or create snippets. DocStore is designed exactly for that. It compresses all the data it receives (by default), and tries to keep most of the resulting “archive” on disk, only fetching a few documents at a time, in the very end.
+But complete original document contents are rather rarely accessed in *that* way! Instead, you usually need just a handful of those, in the order of 10s to 100s, to have them displayed in the final search results, and/or create snippets. DocStore is designed exactly for that. It compresses all the data it receives (by default), and tries to keep most of the resulting “archive” on disk, only fetching a few documents at a time, in the very end.
 
 Snippets become pretty interesting with DocStore. You can generate snippets from either specific stored fields, or the entire document, or a subdocument, respectively:
 
@@ -623,7 +625,7 @@ SELECT id, SNIPPET(DOCUMENT(), QUERY()) FROM mytest WHERE MATCH('hello')
 SELECT id, SNIPPET(DOCUMENT({title}), QUERY()) FROM mytest WHERE MATCH('hello')
 ```
 
-Using `hl_fields` can accelerate highlighting where possible, sometimes making snippets _times_ faster. If your documents are big enough (as in, a little bigger than tweets), try it! Without `hl_fields`, SNIPPET() function will have to reparse the document contents every time. With it, the parsed representation is compressed and stored into the index upfront, trading off a not-insignificant amount of CPU work for more disk space, and a few extra disk reads.
+Using `hl_fields` can accelerate highlighting where possible, sometimes making snippets *times* faster. If your documents are big enough (as in, a little bigger than tweets), try it! Without `hl_fields`, SNIPPET() function will have to reparse the document contents every time. With it, the parsed representation is compressed and stored into the index upfront, trading off a not-insignificant amount of CPU work for more disk space, and a few extra disk reads.
 
 And speaking of disk space vs CPU tradeoff, these tweaking knobs let you fine-tune DocStore for specific indexes:
 
@@ -634,9 +636,9 @@ And speaking of disk space vs CPU tradeoff, these tweaking knobs let you fine-tu
 -   `docstore_comp = lz4` uses LZ4 algorithm: worse compression, but faster
 -   `docstore_comp = none` disables compression
 
-## Using attribute indexes
+## Using Attribute Indexes
 
-Quick kickoff: we now have `CREATE INDEX` statement, and sometimes it _does_ make your queries faster!
+Quick kickoff: we now have `CREATE INDEX` statement, and sometimes it *does* make your queries faster!
 
 ```
 CREATE INDEX i1 ON mytest(group_id)
@@ -647,7 +649,7 @@ SELECT * FROM mytest WHERE MATCH('hello world') AND group_id=23
 DROP INDEX i1 ON mytest
 ```
 
-Point reads, range reads, and intersections between `MATCH()` and index reads are all intended to work. Moreover, `GEODIST()` can also automatically use indexes (see more below). One of the goals is to completely eliminate the need to insert “fake keywords” into your index. (Also, it’s possible to _update_ attribute indexes on the fly, as opposed to indexed text.)
+Point reads, range reads, and intersections between `MATCH()` and index reads are all intended to work. Moreover, `GEODIST()` can also automatically use indexes (see more below). One of the goals is to completely eliminate the need to insert “fake keywords” into your index. (Also, it’s possible to *update* attribute indexes on the fly, as opposed to indexed text.)
 
 Indexes on JSON keys should also work, but you might need to cast them to a specific type when creating the index:
 
@@ -657,7 +659,7 @@ CREATE INDEX j2 ON mytest(INTEGER(j.year))
 CREATE INDEX j3 ON mytest(FLOAT(j.latitude))
 ```
 
-As of v.3.0, attribute indexes can only be created on RT indexes. However, you can (almost) _instantly_ convert your plain indexes to RT by using `ATTACH ... WITH TRUNCATE`, and run `CREATE INDEX` after that, as follows:
+As of v.3.0, attribute indexes can only be created on RT indexes. However, you can (almost) *instantly* convert your plain indexes to RT by using `ATTACH … WITH TRUNCATE`, and run `CREATE INDEX` after that, as follows:
 
 ```
 ATTACH INDEX myplain TO myrt WITH TRUNCATE
@@ -668,7 +670,7 @@ Geosearches with `GEODIST()` can also benefit quite a lot from attribute indexes
 
 TODO: describe more!
 
-### Query optimizer, and index hints
+### Query Optimizer, and Index Hints
 
 Query optimizer is the mechanism that decides, on a per-query basis, whether to use or to ignore specific indexes to compute the current query.
 
@@ -700,22 +702,22 @@ Now, `lat` and `lon` frequently are somewhat correlated. Meaning that X, Y, and 
 
 And that’s exactly how the optimizer works. Basically, it checks multiple possible index combinations, tries to estimate the associated query costs, and then picks the best one it finds.
 
-However, the number of possible combinations grows explosively with the attribute index count. Consider a rather crazy (but possible) case with as many as 20 applicable indexes. That means more than 1 million possible “on/off” combinations. Even quick estimates for _all_ of them would take too much time. There are internal limits in the optimizer to prevent that. Which in turn means that eventually some “ideal” index set might not get selected. (But, of course, that is a rare situation. Normally there are just a few applicable indexes, say from 1 to 10, so the optimizer can afford “brute forcing” upto 1024 possible index combinations, and does so.)
+However, the number of possible combinations grows explosively with the attribute index count. Consider a rather crazy (but possible) case with as many as 20 applicable indexes. That means more than 1 million possible “on/off” combinations. Even quick estimates for *all* of them would take too much time. There are internal limits in the optimizer to prevent that. Which in turn means that eventually some “ideal” index set might not get selected. (But, of course, that is a rare situation. Normally there are just a few applicable indexes, say from 1 to 10, so the optimizer can afford “brute forcing” upto 1024 possible index combinations, and does so.)
 
 Now, perhaps even worse, both the count and cost estimates are just that, ie. only estimates. They might be slightly off, or way off. The actual query costs might be somewhat different than estimated when we execute the query.
 
 For those reasons, optimizer might occasionally pick a suboptimal query plan. In that event, or perhaps just for testing purposes, you can tweak its behavior with `SELECT` hints, and make it forcibly use or ignore specific attribute indexes. For a reference on the exact syntax and behavior, refer to [“Index hints clause”](http://sphinxsearch.com/docs/sphinx3.html#index-hints-clause).
 
-## Using k-batches
+## Using K-batches
 
 K-batches (“kill batches”) let you bulk delete older versions of the documents (rows) when bulk loading new data into Sphinx, for example, adding a new delta index on top of an older main archive index.
 
 K-batches in Sphinx v.3.x replace k-lists (“kill lists”) from v.2.x and before. The major differences are that:
 
-1.  They are _not_ anonymous anymore.
+1.  They are *not* anonymous anymore.
 2.  They are now only applied once on loading. (As oppposed to every search, yuck).
 
-“Not anonymous” means that when loading a new index with an associated k-batch into `searchd`, **you now have to explicitly specify target indexes** that it should delete the rows from. In other words, “deltas” now _must_ explicitly specify all the “main” indexes that they want to erase old documents from, at index-time.
+“Not anonymous” means that when loading a new index with an associated k-batch into `searchd`, **you now have to explicitly specify target indexes** that it should delete the rows from. In other words, “deltas” now *must* explicitly specify all the “main” indexes that they want to erase old documents from, at index-time.
 
 The effect of applying a k-batch is equivalent to running (just once) a bunch of `DELETE FROM X WHERE id=Y` queries, for every index X listed in `kbatch` directive, and every document id Y stored in the k-batch. With the index format updates this is now both possible, **even in “plain” indexes**, and quite efficient too.
 
@@ -747,7 +749,7 @@ All these operations are pretty fast, because deletions are now internally imple
 
 Last but not least, you can also use `kbatch_source` to avoid explicitly storing all newly added document ids into a k-batch, instead, you can use `kbatch_source = kl, id` or just `kbatch_source = id`; this will automatically add all the document ids from the index to its k-batch. The default value is `kbatch_source = kl`, that is, to use explicitly provided docids only.
 
-## Doing bulk data loads
+## Doing Bulk Data Loads
 
 TODO: describe rotations (legacy), RELOAD, ATTACH, etc.
 
@@ -802,13 +804,12 @@ However, sometimes that is not quite enough (mostly for performance reasons), an
 -   `0.0f` syntax extension for 32-bit float values
     
 -   `int8[]` and `float[]` syntax extensions for 8-bit integer and 32-bit float arrays, respectively
-    
 
-**Optimized storage** means that _usually_ Sphinx auto-detects the actual value types, both for standalone values and for arrays, and then uses the smallest storage type that works.
+**Optimized storage** means that *usually* Sphinx auto-detects the actual value types, both for standalone values and for arrays, and then uses the smallest storage type that works.
 
 So when a 32-bit (4-byte) integer is enough for a numeric value, Sphinx would automatically store just that. If that overflows, no need to worry, Sphinx would just automatically switch to 8-byte integer values, or even `double` values (still 8-byte).
 
-Ditto for arrays. When your arrays contain a mix of actual types, Sphinx handles that just fine, and stores a generic array, where every element has a different type attached to it. However, when your array only actually contains one very specific type (for example, regular 32-bit integers only), Sphinx auto-detects that fact, and stores _that_ array in an optimized manner, using just 4 bytes per value, and skipping the repeated types. All the builtin functions support all such optimized array types, and have a special fast codepath to handle them, in a transparent fashion.
+Ditto for arrays. When your arrays contain a mix of actual types, Sphinx handles that just fine, and stores a generic array, where every element has a different type attached to it. However, when your array only actually contains one very specific type (for example, regular 32-bit integers only), Sphinx auto-detects that fact, and stores *that* array in an optimized manner, using just 4 bytes per value, and skipping the repeated types. All the builtin functions support all such optimized array types, and have a special fast codepath to handle them, in a transparent fashion.
 
 As of v.3.2, array value types that might get optimized that way are `int8`, `int32`, `int64`, `float`, `double`, and `string`. This covers pretty much all the usual numeric types, and therefore all you have to do to ensure that the optimizations kick in is, well, to only use one actual type in your data.
 
@@ -820,11 +821,11 @@ So the regular `{"scale":1.23}` syntax would have Sphinx store an 8-byte `double
 
 Unfortunately, at the moment there is no standard way to specify that, and so Sphinx offers a custom extension: attach `f` suffix to your value, ie. use `{"scale":1.23f}` syntax instead. That works in Sphinx, and that lets it know that a `float` type is enough.
 
-**Second, `int8` arrays must be explicit.** Even though Sphinx can auto-detect the fact that all your array values are integers in the -128 to 127 range, and can be stored efficiently using just 1 byte per value, it does _not_ just make that assumption, and uses `int32` type instead.
+**Second, `int8` arrays must be explicit.** Even though Sphinx can auto-detect the fact that all your array values are integers in the -128 to 127 range, and can be stored efficiently using just 1 byte per value, it does *not* just make that assumption, and uses `int32` type instead.
 
-And this happens because there is no way for Sphinx to tell by looking at _just_ those values whether you realy wanted an optimized `int8` vector, or the intent was to just have a placeholder (filled with either `0`, or `-1`, or what have you) `int32` vector for future updates. Given that JSON updates are currently in-place, at this decision point Sphinx chooses to go with the more conservative but flexible route, and store an `int32` vector even for something that could be store more efficiently like `[0, 0, 0, 0]`.
+And this happens because there is no way for Sphinx to tell by looking at *just* those values whether you realy wanted an optimized `int8` vector, or the intent was to just have a placeholder (filled with either `0`, or `-1`, or what have you) `int32` vector for future updates. Given that JSON updates are currently in-place, at this decision point Sphinx chooses to go with the more conservative but flexible route, and store an `int32` vector even for something that could be store more efficiently like `[0, 0, 0, 0]`.
 
-To force that vector into super-slim 1-byte values, you _have_ to use a syntax extension, and use `int8[0, 0, 0, 0]` as your value.
+To force that vector into super-slim 1-byte values, you *have* to use a syntax extension, and use `int8[0, 0, 0, 0]` as your value.
 
 **Third, watch out for integer vs float mixes.** The auto-detection happens on a per-value basis. Meaning that an array value like `[1, 2, 3.0]` will be marked as mixing two different types, `int32` and `double`. So neither the `int32` nor (worse) `double` array storage optimization can kick in for this particular array.
 
@@ -842,30 +843,38 @@ Or, **packed JSON keys** feature alleviates that automatically. It keeps track o
 
 Beware and benchmark, though, that currently there can occasionally be some associated performance impact here (even though not huge), both at indexing and at search time. (Otherwise, the packing would just be always on!)
 
-### JSON comparison quirks
+### JSON Comparison Quirks
 
 Comparisons with JSON can be a little tricky when it comes to value types. Especially the numeric ones, because of all the `integer` vs `float` vs `double` jazz. (And, mind you, by default the floating-point values will be stored as `double`.) Briefly, beware that:
 
 1.  String comparisons are strict, and require the string type.
     
-    Meaning that `WHERE j.str1='abc'` check must only pass when _all_ the following conditions are true: 1) `str1` key exists; 2) `str1` value type is exactly `string`; 3) the value matches.
+
+    Meaning that `WHERE j.str1='abc'` check must only pass when *all* the following conditions are true: 1) `str1` key exists; 2) `str1` value type is exactly `string`; 3) the value matches.
+
     
-    Therefore, for a sudden _integer_ value compared against a string constant, for example, `{"str1":123}` value against a `WHERE j.str1='123'` condition, the check will fail. As it should, there are no implicit conversions here.
+
+    Therefore, for a sudden *integer* value compared against a string constant, for example, `{"str1":123}` value against a `WHERE j.str1='123'` condition, the check will fail. As it should, there are no implicit conversions here.
+
     
 2.  Numeric comparisons against integers match any numeric type, not just integers.
     
+
     Meaning that both `{"key1":123}` and `{"key1":123.0}` values must pass the `WHERE j.key1=123` check. Again, as expected.
+
     
-3.  Numeric comparisons against floats _forcibly_ convert double values to (single-precision) floats, and roundoff issues may arise.
+3.  Numeric comparisons against floats *forcibly* convert double values to (single-precision) floats, and roundoff issues may arise.
     
-    Meaning that when you store something like `{"key1":123.0000001}` into your index, then the `WHERE j.key1=123.0` check will pass, because roundoff to `float` looses that fractional part. However, at the same time `WHERE j.key1=123` check will _not_ pass, because _that_ check will use the original double value and compare it against the integer constant.
+
+    Meaning that when you store something like `{"key1":123.0000001}` into your index, then the `WHERE j.key1=123.0` check will pass, because roundoff to `float` looses that fractional part. However, at the same time `WHERE j.key1=123` check will *not* pass, because *that* check will use the original double value and compare it against the integer constant.
+
     
-    This might be a bit confusing, but otherwise (without roundoff) the situation would be arguably worse: in an even more counter-intuitive fashion, `{"key1":2.22}` does _not_ pass the `WHERE j.key1>=2.22` check, because the reference constant here is `float(2.22)`, and then because of rounding, `double(2.22) < float(2.22)`!
-    
+
+    This might be a bit confusing, but otherwise (without roundoff) the situation would be arguably worse: in an even more counter-intuitive fashion, `{"key1":2.22}` does *not* pass the `WHERE j.key1>=2.22` check, because the reference constant here is `float(2.22)`, and then because of rounding, `double(2.22) < float(2.22)`!
 
 TODO: describe limits, json\_xxx settings, our syntax extensions, etc.
 
-## Using array attributes
+## Using Array Attributes
 
 Array attributes let you save a fixed amount of integer or float values into your index. The supported types are:
 
@@ -943,7 +952,7 @@ mysql> SELECT id, DOT(vec1,FVEC(1,2,3,4,5)) d FROM rt;
 2 rows in set (0.00 sec)
 ```
 
-## Using wordforms
+## Using Wordforms
 
 Sphinx supports several different keyword remapping types (usually applied both when indexing and when searching), all currently called wordforms. The principal types are as follows.
 
@@ -977,19 +986,19 @@ Comments are marked with `#`, and everything from `#` to the end of a line is co
 
 Briefly, all these different types work as follows.
 
-**Morphology-replacing wordforms** effectively are the top-priority morphology alternative. They engage before any morphology, and the _fully_ substitute any other morphology processing. So use them with extreme care (or better yet, avoid using them at all) when you have any other morphology processing enabled.
+**Morphology-replacing wordforms** effectively are the top-priority morphology alternative. They engage before any morphology, and the *fully* substitute any other morphology processing. So use them with extreme care (or better yet, avoid using them at all) when you have any other morphology processing enabled.
 
-For instance, that `geese => goose` example above is utterly _wrong_ when you use `morphology = stem_en`. No, it does properly normalize that plural `geese` to singular `goose`, so that part is correct. Problem is, Porter stemmer does not normalize `goose` to itself, it will emit `goos` stem instead. So in order to fixup Porter stemmer specifically you would have to map to that _stem_, ie. use a `geese => goos` wordform. Extreme care.
+For instance, that `geese => goose` example above is utterly *wrong* when you use `morphology = stem_en`. No, it does properly normalize that plural `geese` to singular `goose`, so that part is correct. Problem is, Porter stemmer does not normalize `goose` to itself, it will emit `goos` stem instead. So in order to fixup Porter stemmer specifically you would have to map to that *stem*, ie. use a `geese => goos` wordform. Extreme care.
 
-**Pre-morphology wordforms** remap the source keywords before morphology, and then the destination keywords are additionally passed through the morphology. So, for example, `six geese => 6 goose` would _not_ be subject to `stem_en` issue above, as both `6` and `goose` would also be stemmed.
+**Pre-morphology wordforms** remap the source keywords before morphology, and then the destination keywords are additionally passed through the morphology. So, for example, `six geese => 6 goose` would *not* be subject to `stem_en` issue above, as both `6` and `goose` would also be stemmed.
 
 At the moment only the M:N wordforms can be pre-morphology, not 1:1, so you have to have either multiple source keywords, or multiple destination keywords.
 
-**Post-morphology wordforms** remap the source keywords after morphology. Note that at the moment (and rather counter-intuitively) the destination keywords will _not_ be passed through morphology one more time, so the `stem_en` issue arises once again.
+**Post-morphology wordforms** remap the source keywords after morphology. Note that at the moment (and rather counter-intuitively) the destination keywords will *not* be passed through morphology one more time, so the `stem_en` issue arises once again.
 
 **Document-only wordforms** are only applied at indexing time, and never at query time. This is pretty useful for indexing time expansions, and that’s why that example with `grrm` maps it to itself too, and not just `george martin`.
 
-In the “expansion” usecase, they are more efficient when _searching_, compared to similar regular wordforms.
+In the “expansion” usecase, they are more efficient when *searching*, compared to similar regular wordforms.
 
 Indeed, when searching for a source mapping, regular wordforms would expand to all keywords (in our example, to all 3 keywords, `grrm george martin`), fetch and intersect them, and do all that work for… nothing! Because we can obtain exactly the same result much more efficiently by simply fetching just the source keywords (just `grrm` in our example). And that’s exactly how document-only wordforms work, they would just skip the expansion altogether.
 
@@ -999,7 +1008,7 @@ Bottom line, use document-only wordforms when you’re doing expansions, in orde
 
 ## Using UDFs
 
-### UDFs overview
+### UDFs Overview
 
 Sphinx supports User Defined Functions (or UDFs for short) that let you extend its expression engine:
 
@@ -1039,7 +1048,7 @@ Aggregation functions are not supported just yet. In other words, your UDFs will
 
 UDFs are local. In order to use them on a cluster, you have to put the same library on all its nodes and run proper `CREATE FUNCTION` statements on all the nodes too. This might change in the future versions.
 
-### UDF programming introduction
+### UDF Programming Introduction
 
 The UDF interface is plain C. So you would usually write your UDF in C or C++. (Even though in theory it might be possible to use other languages.)
 
@@ -1110,13 +1119,13 @@ or with a bunch of subexpressions as its arguments, like this:
 SELECT id, testfunc('abc', 1000*id+gid, WEIGHT()) ...
 ```
 
-or anyhow else, it will receive the very same `SPH_UDF_ARGS` structure, in **all** of these cases. However, the _data_ passed in the args structure can be a little different.
+or anyhow else, it will receive the very same `SPH_UDF_ARGS` structure, in **all** of these cases. However, the *data* passed in the args structure can be a little different.
 
 In the `testfunc(1)` call example `args->arg_count` will be set to 1, because, naturally we have just one argument. In the second example, `arg_count` will be equal to 3. Also `args->arg_types` array will contain different type data for these two calls. And so on.
 
-Finally, the third argument, `char * error_message` serves both as error flag, and a method to report a human-readable message (if any). UDFs should only raise that flag/message to indicate _unrecoverable_ internal errors; ones that would prevent any subsequent attempts to evaluate that instance of the UDF call from continuing.
+Finally, the third argument, `char * error_message` serves both as error flag, and a method to report a human-readable message (if any). UDFs should only raise that flag/message to indicate *unrecoverable* internal errors; ones that would prevent any subsequent attempts to evaluate that instance of the UDF call from continuing.
 
-You must _not_ use this flag for argument type checks, or for any other error reporting that is likely to happen during “normal” use. This flag is designed to report sudden critical runtime errors only, such as running out of memory.
+You must *not* use this flag for argument type checks, or for any other error reporting that is likely to happen during “normal” use. This flag is designed to report sudden critical runtime errors only, such as running out of memory.
 
 If we need to, say, allocate temporary storage for our function to use, or check upfront whether the arguments are of the supported types, then we need to add two more functions, with UDF initialization and deinitialization, respectively.
 
@@ -1139,9 +1148,9 @@ void testfunc_deinit(SPH_UDF_INIT * init)
 }
 ```
 
-Note how `testfunc_init()` also receives the call arguments structure. At that point in time we do not yet have any actual per-row _values_ though, so the `args->arg_values` will be `NULL`. But the argument names and types are already known, and will be passed. You can check them in the initialization function and return an error if they are of an unsupported type.
+Note how `testfunc_init()` also receives the call arguments structure. At that point in time we do not yet have any actual per-row *values* though, so the `args->arg_values` will be `NULL`. But the argument names and types are already known, and will be passed. You can check them in the initialization function and return an error if they are of an unsupported type.
 
-### UDF argument and return types
+### UDF Argument and return Types
 
 UDFs can receive arguments of pretty much any valid internal Sphinx type. When in doubt, refer to `sphinx_udf_argtype` enum in `sphinxudf.h` for a full list. For convenience, here’s a short reference table:
 
@@ -1247,9 +1256,9 @@ We still define our own `sphinx_int64_t` type in `sphinxudf.h` for clarity and c
 
 Also note that for `STRING` types you **must** use `args->fn_malloc` function to allocate the returned values.
 
-Note how _internally_ in your UDF you can use whatever allocator you want, so the `testfunc_init()` example above is correct even though it uses `malloc()` directly. You manage that pointer yourself, it gets freed up using a matching `free()` call, and all is well. However, the _returned_ strings values will be managed by Sphinx, and we have our own allocator. So for the return values specifically, you need to use it too.
+Note how *internally* in your UDF you can use whatever allocator you want, so the `testfunc_init()` example above is correct even though it uses `malloc()` directly. You manage that pointer yourself, it gets freed up using a matching `free()` call, and all is well. However, the *returned* strings values will be managed by Sphinx, and we have our own allocator. So for the return values specifically, you need to use it too.
 
-### UDF call batching
+### UDF Call Batching
 
 Since v.3.3 Sphinx supports two types of the “main” UDF call with a numeric return type:
 
@@ -1276,7 +1285,7 @@ Batched calls are needed for performance. For instance, processing multiple docu
 
 As mentioned a little earlier, return types for batched calls differ from regular ones, again for performance reasons. So yes, the types in the example above are correct. Regular, single-row `foo()` call must use `sphinx_int64_t` for its return type either when the function was created with `RETURNS INTEGER` or `RETURNS BIGINT`, for simplicity. However the batched multi-row `foo_batch()` call **must** use an output buffer typed as `int *` when created with `RETURNS INTEGER`; or a buffer typed as `sphinx_int64_t *` when created with `RETURNS BIGINT`; just as mentioned in that types table earlier.
 
-Current target batch size is 128, but that size may change in either direction in the future. Assume little about `batch_size`, and very definitely do _not_ hardcode the current limit anywhere. (Say, it is reasonably safe to assume that batches will always be in 1 to 65536 range, though.)
+Current target batch size is 128, but that size may change in either direction in the future. Assume little about `batch_size`, and very definitely do *not* hardcode the current limit anywhere. (Say, it is reasonably safe to assume that batches will always be in 1 to 65536 range, though.)
 
 Engine should accumulate matches upto the target size, so that most UDF calls receive complete batches. However, trailing batches will be sized arbitrarily. For example, for 397 matches there should be 4 calls to `foo_batch()`, with 128, 128, 128, and 13 matches per batch respectively.
 
@@ -1333,7 +1342,7 @@ return result;
 
 However, this access simplicity has an obvious drawback. It will cause several memory allocations per each processed document (made by `init()` and `unpack()` and later freed by `deinit()` respectively), which might be slow.
 
-So there is another interface to access `FACTORS()` that consists of a bunch of `sphinx_get_YYY_factor()` functions. It is more verbose, but it accesses the blob data directly, and it _guarantees_ zero allocations and zero copying. So for top-notch ranking UDF performance, you want that one. Here goes the matching example code that also accesses just 1 signal from just 1 field:
+So there is another interface to access `FACTORS()` that consists of a bunch of `sphinx_get_YYY_factor()` functions. It is more verbose, but it accesses the blob data directly, and it *guarantees* zero allocations and zero copying. So for top-notch ranking UDF performance, you want that one. Here goes the matching example code that also accesses just 1 signal from just 1 field:
 
 ```
 // init!
@@ -1348,7 +1357,7 @@ int result = sphinx_get_field_factor_int(field3, SPH_FIELDF_HIT_COUNT);
 return result;
 ```
 
-### UDF calls sequences
+### UDF Calls Sequences
 
 Depending on how your UDFs are used in the query, the main function call (`testfunc()` in our running example) might get called in a rather different volume and order. Specifically,
 
@@ -1356,8 +1365,7 @@ Depending on how your UDFs are used in the query, the main function call (`testf
     
 -   without subselects, UDFs that can be evaluated at the very last stage over the final result set will be evaluated that way, but before applying the `LIMIT` clause. They will be called in the **result set order**.
     
--   with subselects, such UDFs will also be evaluated _after_ applying the inner `LIMIT` clause.
-    
+-   with subselects, such UDFs will also be evaluated *after* applying the inner `LIMIT` clause.
 
 The calling sequence of the other functions is fixed, though. Namely,
 
@@ -1368,13 +1376,12 @@ The calling sequence of the other functions is fixed, though. Namely,
 -   After getting a non-zero `error_message` from the main UDF call, the engine guarantees to stop calling that UDF call for subsequent rows for the rest of the query. A default return value of 0 for numerics and an empty string for strings will be used instead. Sphinx might or might not choose to terminate such queries early, neither behavior is currently guaranteed.
     
 -   `testfunc_deinit()` is called once when the query processing (in a given index shard) ends. It must get called even if the main call reported an unrecoverable error earlier.
-    
 
-## Indexing: CSV and TSV files
+## Indexing: CSV and TSV Files
 
 `indexer` supports indexing data in both CSV and TSV formats, via the `csvpipe` and `tsvpipe` source types, respectively. Here’s a brief cheat sheet on the respective source directives.
 
--   `csvpipe_command = ...` specifies a command to run (for instance, `csvpipe_command = cat mydata.csv` in the simplest case).
+-   `csvpipe_command = …` specifies a command to run (for instance, `csvpipe_command = cat mydata.csv` in the simplest case).
 -   `csvpipe_header = 1` tells the `indexer` to pick the column list from the first row (otherwise, by default, the column list has to be specified in the config file).
 -   `csvpipe_attr_XXX` (where `XXX` is an attribute type, i.e. one of `bigint`, `bool`, `float`, `json`, `multi`, `multi_64`, `string`, `timestamp`, or `uint`) specifies an attribute type for a given column.
 -   `csvpipe_field` and `csvpipe_field_string` specify a regular full-text field and a full-text field that should also be stored as a `string` attribute, respectively.
@@ -1388,7 +1395,7 @@ The first row can either be treated as a named list of columns (when `csvpipe_he
 
 `csvpipe_header` affects how CSV input columns are matched to Sphinx attributes and fields.
 
-With `csvpipe_header = 0` the input file only contains data, so the order of columns is taken from the config file. Thus, the order of `csvpipe_attr_XXX` and `csvpipe_field` directives is very important in this case. You will have to explicitly declare _all_ the fields and attributes (except the leading `id`), and in _exactly_ the same order they appear in the CSV file. `indexer` will warn if there were unmatched or extraneous columns.
+With `csvpipe_header = 0` the input file only contains data, so the order of columns is taken from the config file. Thus, the order of `csvpipe_attr_XXX` and `csvpipe_field` directives is very important in this case. You will have to explicitly declare *all* the fields and attributes (except the leading `id`), and in *exactly* the same order they appear in the CSV file. `indexer` will warn if there were unmatched or extraneous columns.
 
 With `csvpipe_header = 1` the input file starts with the column names list, so the declarations from the config file are only used to adjust the types. So in this case, the order of `csvpipe_attr_XXX` and `csvpipe_field` directives does not matter any more. Also, by default all the input CSV columns will be considered as fields, so you only need to explicitly configure attributes, not fields. For example, the following should work nicely, and index `title` and `content` as fields automatically:
 
@@ -1410,7 +1417,7 @@ source csv1
 }
 ```
 
-## Indexing: special chars, blended tokens, and mixed codes
+## Indexing: Special Chars, Blended Tokens, and Mixed Codes
 
 Sphinx provides tools to help you better index (and then later search):
 
@@ -1429,7 +1436,7 @@ So in the examples just above Sphinx can:
 -   index special tokens, such as `@rihanna`;
 -   index parts of mixed-codes tokens, such as `ue 53` and `ue53`.
 
-### Blended tokens (with special characters)
+### Blended Tokens (with Special characters)
 
 To index **blended tokens**, i.e. tokens with special characters in them, you should:
 
@@ -1437,13 +1444,13 @@ To index **blended tokens**, i.e. tokens with special characters in them, you s
 -   configure several processing modes for the extra tokens (optionally) using the `blend_mode` directive;
 -   rebuild your index.
 
-Blended characters are going to be indexed both as separators, and _at the same time_ as valid characters. They are considered separators when generating the base tokenization (or “base split” for short). But in addition they also are processed as valid characters when generating extra tokens.
+Blended characters are going to be indexed both as separators, and *at the same time* as valid characters. They are considered separators when generating the base tokenization (or “base split” for short). But in addition they also are processed as valid characters when generating extra tokens.
 
 For instance, when you set `blend_chars = @, &, .` and index the text `@Rihanna Procter&Gamble U.S.A`, the base split stores the following six tokens into the final index: `rihanna`, `procter`, `gamble`, `u`, `s`, and `a`. Exactly like it would without the `blend_chars`, based on just the `charset_table`.
 
-And because of `blend_chars` settings, the following three _extra_ tokens get stored: `@rihanna`, `procter&gamble`, and `u.s.a`. Regular characters are still case-folded according to `charset_table`, but those special blended characters are now preserved. As opposed to being treated as whitespace, like they were in the base split. So far so good.
+And because of `blend_chars` settings, the following three *extra* tokens get stored: `@rihanna`, `procter&gamble`, and `u.s.a`. Regular characters are still case-folded according to `charset_table`, but those special blended characters are now preserved. As opposed to being treated as whitespace, like they were in the base split. So far so good.
 
-But why not just add `@, &, .` to `charset_table` then? Because that way we would completely lose the base split. _Only_ the three “magic” tokens like `@rihanna` would be stored. And then searching for their “parts” (for example, for just `rihanna` or just `gamble`) would not work. Meh.
+But why not just add `@, &, .` to `charset_table` then? Because that way we would completely lose the base split. *Only* the three “magic” tokens like `@rihanna` would be stored. And then searching for their “parts” (for example, for just `rihanna` or just `gamble`) would not work. Meh.
 
 Last but not least, the in-field token positions are adjusted accordingly, and shared between the base and extra tokens:
 
@@ -1456,11 +1463,11 @@ Last but not least, the in-field token positions are adjusted accordingly, and s
 
 Bottom line, `blend_chars` lets you enrich the index and store extra tokens with special characters in those. That might be a handy addition to your regular tokenization based on `charset_table`.
 
-### Mixed codes (with letters and digits)
+### Mixed Codes (with Letters and digits)
 
 To index **mixed codes**, i.e. terms that mix letters and digits, you need to enable `blend_mixed_codes = 1` setting (and reindex).
 
-That way Sphinx adds extra spaces on _letter-digit boundaries_ when making the base split, but still stores the full original token as an extra. For example, `UE53N5740AU` gets broken down to as much as 5 parts:
+That way Sphinx adds extra spaces on *letter-digit boundaries* when making the base split, but still stores the full original token as an extra. For example, `UE53N5740AU` gets broken down to as much as 5 parts:
 
 -   pos 1, `ue` and `ue53n5740au`
 -   pos 2, `53`
@@ -1470,7 +1477,7 @@ That way Sphinx adds extra spaces on _letter-digit boundaries_ when making the b
 
 Besides the “full” split and the “original” code, it is also possible to store prefixes and suffixes. See `blend_mode` discussion just below.
 
-Also note that on certain input data mixed codes indexing can generate a lot of undesired noise tokens. So when you have a number of fields with special terms that do _not_ need to be processed as mixed codes (consider either terms like `_category1234`, or just long URLs), you can use the `mixed_codes_fields` directive and limit mixed codes indexing to human-readable text fields only. For instance:
+Also note that on certain input data mixed codes indexing can generate a lot of undesired noise tokens. So when you have a number of fields with special terms that do *not* need to be processed as mixed codes (consider either terms like `_category1234`, or just long URLs), you can use the `mixed_codes_fields` directive and limit mixed codes indexing to human-readable text fields only. For instance:
 
 ```
 blend_mixed_codes = 1
@@ -1479,7 +1486,7 @@ mixed_codes_fields = title, content
 
 That could save you a noticeable amount of both index size and indexing time.
 
-### Blending modes
+### Blending Modes
 
 There’s somewhat more than one way to generate extra tokens. So there is a directive to control that. It’s called `blend_mode` and it lets you list all the different processing variants that you require:
 
@@ -1487,7 +1494,7 @@ There’s somewhat more than one way to generate extra tokens. So there is a dir
 -   `trim_head`, store a token with heading blended characters trimmed;
 -   `trim_tail`, store a token with trailing blended characters trimmed;
 -   `trim_both`, store a token with both heading and trailing blended characters trimmed;
--   `skip_pure`, do _not_ store tokens that only contain blended characters;
+-   `skip_pure`, do *not* store tokens that only contain blended characters;
 -   `prefix_tokens`, store all possible prefix tokens;
 -   `suffix_tokens`, store all possible suffix tokens.
 
@@ -1528,27 +1535,27 @@ And with `blend_mode = suffix_tokens` respectively:
 -   pos 4, `5740` and `5740au`
 -   pos 5, `au`
 
-Of course, there still can be missing combinations. For instance, `ue 53n` query will still not match any of that. However, for now we intentionally decided to avoid indexing _all_ the possible base token subsequences, as that seemed to produce way too much noise.
+Of course, there still can be missing combinations. For instance, `ue 53n` query will still not match any of that. However, for now we intentionally decided to avoid indexing *all* the possible base token subsequences, as that seemed to produce way too much noise.
 
-### Searching vs blended tokens and mixed codes
+### Searching Vs Blended Tokens and Mixed Codes
 
 The rule of thumb is quite simple. All the extra tokens are **indexing-only**. And in queries, all tokens are treated “as is”.
 
-**Blended characters** are going to be handled as valid characters in the queries, and _require_ matching.
+**Blended characters** are going to be handled as valid characters in the queries, and *require* matching.
 
-For example, querying for `"@rihanna"` will _not_ match `Robyn Rihanna Fenty is a Barbadian-born singer` document. However, querying for just `rihanna` will match both that document, and `@rihanna doesn't tweet all that much` document.
+For example, querying for `"@rihanna"` will *not* match `Robyn Rihanna Fenty is a Barbadian-born singer` document. However, querying for just `rihanna` will match both that document, and `@rihanna doesn't tweet all that much` document.
 
-**Mixed codes** are _not_ going to be automatically “sliced” in the queries.
+**Mixed codes** are *not* going to be automatically “sliced” in the queries.
 
-For example, querying for `UE53` will _not_ automatically match neither `UE 53` nor `UE 37 53` documents. You need to manually add extra whitespace into your query term for that.
+For example, querying for `UE53` will *not* automatically match neither `UE 53` nor `UE 37 53` documents. You need to manually add extra whitespace into your query term for that.
 
-## Searching: query syntax
+## Searching: Query Syntax
 
 By default, full-text queries in Sphinx are treated as simple “bags of words”, and all keywords are required in a document to match. In other words, by default we perform a strict boolean AND over all keywords.
 
 However, text queries are much more flexible than just that, and Sphinx has its own full-text query language to expose that flexibility.
 
-You essentially use that language _within_ the `MATCH()` clause in your `SELECT` statements. So in this section, when we refer to just the `hello world` (text) query for brevity, the actual complete SphinxQL statement that you would run is something like `SELECT *, WEIGHT() FROM myindex WHERE MATCH('hello world')`.
+You essentially use that language *within* the `MATCH()` clause in your `SELECT` statements. So in this section, when we refer to just the `hello world` (text) query for brevity, the actual complete SphinxQL statement that you would run is something like `SELECT *, WEIGHT() FROM myindex WHERE MATCH('hello world')`.
 
 That said, let’s begin with a couple key concepts, and a cheat sheet.
 
@@ -1568,7 +1575,7 @@ Modifiers are attached to individual keywords, and they must work at all times, 
 
 A couple examples would be the exact form modifier or the field start modifier, `=exact ^start`. They limit matching of “their” keyword to either its exact morphological form, or at the very start of (any) field, respectively.
 
-### Cheat sheet
+### Cheat Sheet
 
 As of v.3.2, there are just 4 per-keyword modifiers.
 
@@ -1603,8 +1610,6 @@ IDF boost
 Multply keyword IDF by a given value when ranking
 
 The operators are a bit more interesting!
-
-  
 
 Operator
 
@@ -1752,7 +1757,7 @@ Match in contiguous spans only; needs `index_zones`
 
 Now let’s discuss all these modifiers and operators in a bit more detail.
 
-### Keyword modifiers
+### Keyword Modifiers
 
 **Exact form** modifier is only applicable when morphology (ie. either stemming or lemmatizaion) is enabled. With morphology on, Sphinx searches for normalized keywords by default. This modifier lets you search for an exact original form. It requires `index_exact_words` setting to be enabled.
 
@@ -1808,7 +1813,7 @@ The syntax is `^` followed by a scale constant.
 boostme^1.23
 ```
 
-### Boolean operators (brackets, AND, OR, NOT)
+### Boolean Operators (brackets, AND, OR, NOT)
 
 These let you implement grouping (with brackets) and classic boolean logic. The respective formal syntax is as follows:
 
@@ -1829,7 +1834,7 @@ Nothing too exciting to see here. But still there are a few quirks worth a quick
 
 **OR operator precedence is higher than AND.**
 
-In other words, ORs take priority, they are evaluated first, ANDs are then evaluated on top of ORs. Thus, `looking for cat | dog | mouse` query is equivalent to `looking for (cat | dog | mouse)`, and _not_ `(looking for cat) | dog | mouse`.
+In other words, ORs take priority, they are evaluated first, ANDs are then evaluated on top of ORs. Thus, `looking for cat | dog | mouse` query is equivalent to `looking for (cat | dog | mouse)`, and *not* `(looking for cat) | dog | mouse`.
 
 **ANDs are implicit.**
 
@@ -1847,7 +1852,7 @@ Meaning that `@title` limit in a `@title hello world` query applies to all keywo
 
 **Brackets push and pop field and zone limits.**
 
-For example, `(@title hello) world` query requires `hello` to be matched in `title` only. But that limit ends on a closing bracket, and `world` can then match anywhere in the document again. Therefore _this_ query is equivalent to something like `(@title hello) (@* world)`.
+For example, `(@title hello) world` query requires `hello` to be matched in `title` only. But that limit ends on a closing bracket, and `world` can then match anywhere in the document again. Therefore *this* query is equivalent to something like `(@title hello) (@* world)`.
 
 Even more curiously, but quite predictably, `@body (@title hello) world` query would in turn be equivalent to `(@title hello) (@body world)`. The first `@body` limit gets pushed on an opening bracket, and then restored on a closing one.
 
@@ -1855,7 +1860,7 @@ Sames rules apply to zones, see `ZONE` and `ZONESPAN` operators below.
 
 **In-query positions in boolean operators are sequential.**
 
-And while those do not affect _matching_ (aka text based filtering), they do noticeably affect _ranking_. For example, even if you splice a phrase with ORs, a rather important “phrase match degree” ranking factor (the one called ‘lcs’) does not change at all, even though matching changes quite a lot:
+And while those do not affect *matching* (aka text based filtering), they do noticeably affect *ranking*. For example, even if you splice a phrase with ORs, a rather important “phrase match degree” ranking factor (the one called ‘lcs’) does not change at all, even though matching changes quite a lot:
 
 ```
 mysql> select id, weight(), title from test1
@@ -1881,7 +1886,7 @@ So in a sense, everything you construct using brackets and operators still looks
 
 **Operator NOT is really operator ANDNOT.**
 
-While a query like `-something` technically can be computed, more often than not such a query is just a programming error. And a potentially expensive one at that, because an implicit list of _all_ the documents in the index could be quite big. Here go a few examples.
+While a query like `-something` technically can be computed, more often than not such a query is just a programming error. And a potentially expensive one at that, because an implicit list of *all* the documents in the index could be quite big. Here go a few examples.
 
 ```
 // correct query, computable at every level
@@ -1894,7 +1899,7 @@ aaa | -bbb
 
 (On a side note, that might also raise the philosophical question of ranking documents that contain zero matched keywords; thankfully, from an engineering perspective it would be extremely easy to brutally cut that Gordian knot by merely setting the weight to zero, too.)
 
-For that reason, NOT operator requires something computable to its left. An isolated NOT will raise a query error. In case that you _absolutely_ must, you can append some special magic keyword (something like `__allmydocs`, to your taste) to all your documents when indexing. Two example non-computable queries just above would then become:
+For that reason, NOT operator requires something computable to its left. An isolated NOT will raise a query error. In case that you *absolutely* must, you can append some special magic keyword (something like `__allmydocs`, to your taste) to all your documents when indexing. Two example non-computable queries just above would then become:
 
 ```
 (__allmydocs -aaa)
@@ -1905,7 +1910,7 @@ aaa | (__allmydocs -bbb)
 
 In order to trigger, it must be preceded with a whitespace, or a bracket, or other clear keyword boundary. For instance, `cat-dog` is by default actually equivalent to merely `cat dog`, while `cat -dog` with a space does apply the operator NOT to `dog`.
 
-### Phrase operator
+### Phrase Operator
 
 Phrase operator uses the de-facto standard double quotes syntax and basically lets you search for an exact phrase, ie. several keywords in this exact order, without any gaps between them. For example.
 
@@ -1941,7 +1946,7 @@ Assume that `in` and `the` are our only stopwords. What documents would be match
 
 Query #1 only matches document #1, no big surprise there. However, as we just discussed, query #2 is in fact equivalent to `"microsoft * * office"`, because of stopwords. And so it matches both documents #2 and #3.
 
-### MAYBE operator
+### MAYBE Operator
 
 Operator MAYBE is occasionally needed for ranking. It takes two arbitrary expressions, and only requires the first one to match, but uses the (optional) matches of the second expression for ranking.
 
@@ -1957,11 +1962,11 @@ Arbitrary expressions are supported, so this is also valid:
 rick MAYBE morty MAYBE (season (one || two || three) -four')
 ```
 
-### Term-OR operator
+### Term-OR Operator
 
 Term-OR operator (double pipe) essentially lets you specify “properly ranked” per-keyword synonyms at query time.
 
-Matching-wise, it just does regular boolean OR over several keywords, but ranking-wise (and unlike the regular OR operator), it does _not_ increment their in-query positions. That keeps any positional ranking factors intact.
+Matching-wise, it just does regular boolean OR over several keywords, but ranking-wise (and unlike the regular OR operator), it does *not* increment their in-query positions. That keeps any positional ranking factors intact.
 
 Naturally, it only accepts individual keywords, you can not term-OR a keyword and a phrase or any other expression. Also, term-OR is currently not supported within phrase or proximity operators, though that is an interesting possibility.
 
@@ -2019,7 +2024,7 @@ Good, ranking is back to expected. Both the original exact match `"little black 
 
 Note that while all the examples above revolved around a single positional factor `lcs` (which is used in the default ranker), there are more positional factors than just that. See the section on [Ranking factors](http://sphinxsearch.com/docs/sphinx3.html#ranking-factors) for more details.
 
-### Field and position limit operator
+### Field and Position Limit Operator
 
 Field limit operator limits matching of the subsequent expressions to a given field, or a set of fields. Field names must exist in the index, otherwise the query will fail with an error.
 
@@ -2027,12 +2032,11 @@ There are several syntax forms available.
 
 1.  `@field` limits matching to a single given field. This is the simplest form. `@(field)` is also valid.
     
-2.  `@(f1,f2,f3)` limits matching to multiple given fields. Note that the match might happen just partially in one of the fields. For example, `@(title,body) hello world` does _not_ require that both keywords match in the very same field! Document like `{"id":123, "title":"hello", "body":"world"}` (pardon my JSON) does match this query.
+2.  `@(f1,f2,f3)` limits matching to multiple given fields. Note that the match might happen just partially in one of the fields. For example, `@(title,body) hello world` does *not* require that both keywords match in the very same field! Document like `{"id":123, "title":"hello", "body":"world"}` (pardon my JSON) does match this query.
     
-3.  `@!(f1,f2,f3)` limits matching to all the fields _except_ given ones. This can be useful to avoid matching end-user queries against some internal system fields, for one. `@!f1` is also valid syntax in case you want to skip just the one field.
+3.  `@!(f1,f2,f3)` limits matching to all the fields *except* given ones. This can be useful to avoid matching end-user queries against some internal system fields, for one. `@!f1` is also valid syntax in case you want to skip just the one field.
     
 4.  `@*` syntax resets any previous limits, and re-enables matching all fields.
-    
 
 In addition, all forms except `@*` can be followed by an optional `[N]` clause, which limits the matching to `N` first tokens (keywords) within a field. All of the examples below are valid:
 
@@ -2060,7 +2064,7 @@ Variable: transformed_tree
 
 We can see that `@title` limit was only applied to `hello`, and reset back to matching all fields (and positions) on a closing bracket, as expected.
 
-### Proximity and NEAR operators
+### Proximity and NEAR Operators
 
 **Proximity operator** matches all the specified keywords, in any order, and allows for a number of gaps between those keywords. The formal syntax is as follows:
 
@@ -2070,7 +2074,7 @@ We can see that `@title` limit was only applied to `hello`, and reset back to ma
 
 Where `N` has a little weird meaning. It is the allowed number of gaps (other keywords) that can occur between those `M` specified keywords, but additionally incremented by 1.
 
-For example, consider a document that reads `"Mary had a little lamb whose fleece was white as snow"`, and consider two queries: `"lamb fleece mary"~4`, and `"lamb fleece mary"~5`. We have exactly 4 extra words between `mary`, `lamb`, and `fleece`, namely those 4 are `had`, `a`, `little`, and `whose`. This means that the first query with `N = 4` will _not_ match, because with `N = 4` the proximity operator actually allows for 3 gaps only, not 4. And thus the second example query will match, as with `N = 5` it allows for 4 gaps (plus 1 permutation).
+For example, consider a document that reads `"Mary had a little lamb whose fleece was white as snow"`, and consider two queries: `"lamb fleece mary"~4`, and `"lamb fleece mary"~5`. We have exactly 4 extra words between `mary`, `lamb`, and `fleece`, namely those 4 are `had`, `a`, `little`, and `whose`. This means that the first query with `N = 4` will *not* match, because with `N = 4` the proximity operator actually allows for 3 gaps only, not 4. And thus the second example query will match, as with `N = 5` it allows for 4 gaps (plus 1 permutation).
 
 **NEAR operator** is a generalized version of proximity operator. Its syntax is:
 
@@ -2091,15 +2095,15 @@ Left and right expressions can still match in any order. For example, a query `p
 
 NEAR is left associative, meaning that `arg1 NEAR/X arg2 NEAR/Y arg3` will be evaluated as `(arg1 NEAR/X arg2) NEAR/Y arg3`. It has the same (lowest) precedence as BEFORE.
 
-Note that while with just 2 keywords proximity and NEAR operators are identical (eg. `"one two"~N` and `one NEAR/N two` should behave exactly the same), with more keywords that is _not_ the case.
+Note that while with just 2 keywords proximity and NEAR operators are identical (eg. `"one two"~N` and `one NEAR/N two` should behave exactly the same), with more keywords that is *not* the case.
 
-Because when you stack multiple keywords with NEAR, then upto `N - 1` gaps are allowed per _each_ keyword in the stack. Consider this example with two stacked NEAR operators: `one NEAR/3 two NEAR/3 three`. It allows for upto 2 gaps between `one` and `two`, and then for 2 more gaps between `two` and three. That’s less restrictive than the proximity operator with the same N (`"one two three"~3`), as the proximity operator will only allow 2 gaps total. So a document with `one aaa two bbb ccc three` text will match the NEAR query, but _not_ the proximity query.
+Because when you stack multiple keywords with NEAR, then upto `N - 1` gaps are allowed per *each* keyword in the stack. Consider this example with two stacked NEAR operators: `one NEAR/3 two NEAR/3 three`. It allows for upto 2 gaps between `one` and `two`, and then for 2 more gaps between `two` and three. That’s less restrictive than the proximity operator with the same N (`"one two three"~3`), as the proximity operator will only allow 2 gaps total. So a document with `one aaa two bbb ccc three` text will match the NEAR query, but *not* the proximity query.
 
 And vice versa, what if we bump the limit in proximity to match the total limit allowed by all NEARs? We get `"one two three"~5` (4 gaps allowed, plus that magic 1), so that anything that matches the NEARs variant would also match the proximity variant. But now a document `one two aaa bbb ccc ddd three` ceases to match the NEARs, because the gap between `two` and `three` is too big. And now the proximity operator becomes less restrictive.
 
-Bottom line is, the proximity operator and a stack of NEARs are _not_ really interchangeable, they match a bit different things.
+Bottom line is, the proximity operator and a stack of NEARs are *not* really interchangeable, they match a bit different things.
 
-### Quorum operator
+### Quorum Operator
 
 Quorum matching operator essentially lets you perform fuzzy matching. It’s less strict than matching all the argument keywords. It will match all documents with at least N keywords present out of M total specified. Just like with proximity (or with AND), those N can occur in any order.
 
@@ -2127,7 +2131,7 @@ Fractional threshold is rounded up. So with 3 keywords and a fraction of 0.5 we 
 
 When the quorum threshold is too restrictive (ie. when N is greater than M), the operator gets automatically replaced with an AND operator. The same fallback happens when there are more than 256 keywords.
 
-### Strict order operator (BEFORE)
+### Strict order Operator (BEFORE)
 
 This operator enforces a strict “left to right” order (ie. the query order) on its arguments. The arguments can be arbitrary expressions. The syntax is `<<`, and there is no all-caps version.
 
@@ -2135,7 +2139,7 @@ This operator enforces a strict “left to right” order (ie. the query order) 
 expr1 << expr2
 ```
 
-For instance, `black << cat` query will match a `black and white cat` document but _not_ a `that cat was black` document.
+For instance, `black << cat` query will match a `black and white cat` document but *not* a `that cat was black` document.
 
 Strict order operator has the lowest priority, same as NEAR operator.
 
@@ -2145,7 +2149,7 @@ It can be applied both to just keywords and more complex expressions, so the fol
 (bag of words) << "exact phrase" << red|green|blue
 ```
 
-### SENTENCE and PARAGRAPH operators
+### SENTENCE and PARAGRAPH Operators
 
 These operators match the document when both their arguments are within the same sentence or the same paragraph of text, respectively. The arguments can be either keywords, or phrases, or the instances of the same operator. (That is, you can stack several SENTENCE operators or PARAGRAPH operators. Mixing them is however not supported.) Here are a few examples:
 
@@ -2159,7 +2163,7 @@ The order of the arguments within the sentence or paragraph does not matter.
 
 These operators require indexes built with [`index_sp`](http://sphinxsearch.com/docs/sphinx2.html#conf-index-sp) setting (sentence and paragraph indexing feature) enabled, and revert to a mere AND otherwise. You can refer to documentation on `index_sp` for additional details on what’s considered a sentence or a paragraph.
 
-### ZONE and ZONESPAN operators
+### ZONE and ZONESPAN Operators
 
 Zone limit operator is a bit similar to field limit operator, but restricts matching to a given in-field zone (or a list of zones). The following syntax variants are supported:
 
@@ -2172,13 +2176,13 @@ ZONESPAN:(h2,h3) test
 
 Zones are named regions within a field. Essentially they map to HTML (or XML) markup. Everything between `<h1>` and `</h1>` is in a zone called `h1` and could be matched by that `ZONE:h1 test` query.
 
-Note that ZONE and ZONESPAN limits will get reset not only on a closing bracket, or on the next zone limit operator, but on a next _field_ limit operator too! So make sure to specify zones explicitly for every field. Also, this makes operator `@*` a _full_ reset, ie. it should reset both field and zone limits.
+Note that ZONE and ZONESPAN limits will get reset not only on a closing bracket, or on the next zone limit operator, but on a next *field* limit operator too! So make sure to specify zones explicitly for every field. Also, this makes operator `@*` a *full* reset, ie. it should reset both field and zone limits.
 
 Zone limits require indexes built with zones support (see documentation on [`index_zones`](http://sphinxsearch.com/docs/sphinx2.html#conf-index-zones) for a bit more details).
 
 The difference between ZONE and ZONESPAN limit is that the former allows its arguments to match in multiple disconnected spans of the same zone, and the latter requires that all matching occurs within a single contiguous span.
 
-For instance, `(ZONE:th hello world)` query _will_ match this example document.
+For instance, `(ZONE:th hello world)` query *will* match this example document.
 
 ```
 <th>Table 1. Local awareness of Hello Kitty brand.</th>
@@ -2188,9 +2192,9 @@ For instance, `(ZONE:th hello world)` query _will_ match this example document.
 
 In this example we have 2 spans of `th` zone, `hello` will match in the first one, and `world` in the second one. So in a sense ZONE works on a concatenation of all the zone spans.
 
-And if you need to further limit matching to any of the individual contiguous spans, you should use the ZONESPAN operator. `(ZONESPAN:th hello world)` query does _not_ match the document above. `(ZONESPAN:th hello kitty)` however does!
+And if you need to further limit matching to any of the individual contiguous spans, you should use the ZONESPAN operator. `(ZONESPAN:th hello world)` query does *not* match the document above. `(ZONESPAN:th hello kitty)` however does!
 
-## Searching: geosearches
+## Searching: Geosearches
 
 Efficient geosearches are possible with Sphinx, and the related features are:
 
@@ -2232,7 +2236,7 @@ SELECT *, GEODIST(lat,lon,55.7540,37.6206,{in=deg,out=km}) AS dist
   FROM myindex WHERE dist<=100
 ```
 
-Case #2 handles multi-anchor search, ie. “give me documents that are either close enough to point number 1, or to point number 2, etc”. The base approach is exactly the same, but _multiple_ boundboxes are generated, multiple index reads are performed, and their results are all merged together.
+Case #2 handles multi-anchor search, ie. “give me documents that are either close enough to point number 1, or to point number 2, etc”. The base approach is exactly the same, but *multiple* boundboxes are generated, multiple index reads are performed, and their results are all merged together.
 
 Here’s another example:
 
@@ -2245,7 +2249,7 @@ SELECT id,
 FROM myindex WHERE ok=1
 ```
 
-Note that if we reformulate the queries a little, and the optimizer does not recognize the eligible cases any more, the optimization will _not_ trigger. For example:
+Note that if we reformulate the queries a little, and the optimizer does not recognize the eligible cases any more, the optimization will *not* trigger. For example:
 
 ```
 SELECT *, 2*GEODIST(lat,lon,55.7540,37.6206,{in=deg,out=km})<=100 AS flag
@@ -2256,13 +2260,13 @@ Obviously, “the boundbox optimization” is actually still feasible in this ca
 
 To ensure whether these optimizations are working for you, use `EXPLAIN` on your query. Also, make sure the radius small enough when doing those checks.
 
-Another interesting bit is that sometimes optimizer can quite _properly_ choose to only use one index instead of two, or avoid using the indexes at all.
+Another interesting bit is that sometimes optimizer can quite *properly* choose to only use one index instead of two, or avoid using the indexes at all.
 
 Say, what if our radius covers the entire country? All our documents will be within the boundbox anyway, and simple full scan will indeed be faster. That’s why you should use some “small enough” test radius with `EXPLAIN`.
 
 Or say, what if we have another, super-selective `AND id=1234` condition in our query? Doing index reads will be just as extraneous, the optimizer will choose to perform a lookup by `id` instead.
 
-## Searching: vector searches
+## Searching: Vector Searches
 
 You can implement vector searches with Sphinx and there are several different features intended for that, namely:
 
@@ -2279,20 +2283,20 @@ Let’s see how all these parts connect together.
 -   JSON arrays with implicit types, ie. regular `[1,2,3,4]` values in JSON
 -   JSON arrays with explicit types, ie. `int8[1,2,3,4]` or `float[1,2,3,4]` syntax extensions
 
-Fixed arrays are the fastest to access, but not flexible at all. Also, they require some RAM per every document. For instance, a fixed array with 32 floats (`rt_attr_float_array = test1[32]`) will consume 128 bytes per _every_ row, whether or not it contains any actual data (and arrays without any explicit data will be filled with zeroes).
+Fixed arrays are the fastest to access, but not flexible at all. Also, they require some RAM per every document. For instance, a fixed array with 32 floats (`rt_attr_float_array = test1[32]`) will consume 128 bytes per *every* row, whether or not it contains any actual data (and arrays without any explicit data will be filled with zeroes).
 
-JSON arrays are slower to access, and consume a bit more memory per row, but that memory is only consumed per _used_ row. Meaning that when your vectors are defined sparsely (for, say, just 1M documents out of the entire 10M collection), then it might make sense to use JSON anyway to save some RAM.
+JSON arrays are slower to access, and consume a bit more memory per row, but that memory is only consumed per *used* row. Meaning that when your vectors are defined sparsely (for, say, just 1M documents out of the entire 10M collection), then it might make sense to use JSON anyway to save some RAM.
 
-JSON arrays are also “mixed” by default, that is, can contain values with arbitrary different types. With vector searches however you would normally want to use optimized arrays, with a single type attached to _all_ values. Sphinx can auto-detect integer arrays in JSON, with values that fit into either int32 or int64 range, and store and later process them efficiently. However, to enforce either int8 or float type on a JSON array, you have to _explicitly_ use our JSON syntax extensions.
+JSON arrays are also “mixed” by default, that is, can contain values with arbitrary different types. With vector searches however you would normally want to use optimized arrays, with a single type attached to *all* values. Sphinx can auto-detect integer arrays in JSON, with values that fit into either int32 or int64 range, and store and later process them efficiently. However, to enforce either int8 or float type on a JSON array, you have to *explicitly* use our JSON syntax extensions.
 
 To store an array of `float` values in JSON, you have to:
 
 -   either specify `float` type in each value with `1.234f` syntax (because by default `1.234` gets a `double` type in JSON), eg: `[1.0f, 2.0f, 3.0f]`
--   or specify array type with `float[...]` syntax, eg: `float[1,2,3]`
+-   or specify array type with `float[…]` syntax, eg: `float[1,2,3]`
 
 To store an array of `int8` values (ie. from -128 to 127 inclusive) in JSON, the only option is to:
 
--   specify array type with `int8[...]` syntax, eg: `int8[1,2,3]`
+-   specify array type with `int8[…]` syntax, eg: `int8[1,2,3]`
 
 In both these cases, we require an explicit type to differentiate between the two possible options (`float` vs `double`, or `int8` vs `int` case), and by default, we choose to use higher precision rather than save space.
 
@@ -2321,7 +2325,7 @@ mysql> SELECT id, DOT(vec1, FVEC(1.0,2,3,4,...)) d
 
 In this example, `vec1` is an integer array, and we `DOT()` it against either an integer constant vector, or a float constant vector. Obviously, int-by-int vs int-by-float multiplications are a bit different, and hence the performance difference.
 
-## Ranking: factors
+## Ranking: Factors
 
 Sphinx lets you specify custom ranking formulas for `weight()` calculations, and tailor text-based relevance ranking for your needs. For instance:
 
@@ -2337,8 +2341,8 @@ This mechanism is called the **expression ranker** and its ranking formulas (exp
 There are three types (or levels) of factors, that determine when exactly some given factor can and will be computed:
 
 -   **query factors**: values that only depend on the search query, but not the document, like `query_word_count`;
--   **document factors**: values that depend on both the query _and_ the matched document, like `doc_word_count` or `bm15`;
--   **field factors**: values that depend on both the query _and_ the matched full-text field, like `word_count` or `lcs`.
+-   **document factors**: values that depend on both the query *and* the matched document, like `doc_word_count` or `bm15`;
+-   **field factors**: values that depend on both the query *and* the matched full-text field, like `word_count` or `lcs`.
 
 **Query factors** are naturally computed just once at the query start, and from there they stay constant. Those are usually simple things, like a number of unique keywords in the query. You can use them anywhere in the ranking formula.
 
@@ -2349,8 +2353,6 @@ Finally, **field factors** are even more granular, they get computed for every s
 And before we discuss every specific factor in a bit more details, here goes the obligatory **factors cheat sheet**.
 
 -   **Hits** in Sphinx == postings in IR == formally “a number of (a certain type of) matching keyword occurrences in the current field”
-
-  
 
 Name
 
@@ -2640,7 +2642,7 @@ int
 
 number of unique keyword matched in this field
 
-### Factor aggregation functions
+### Factor Aggregation Functions
 
 Formally, a (field) factor aggregation function is a single argument function that takes an expression with field-level factors, iterates it over all the matched fields, and computes the final result over the individual per-field values.
 
@@ -2651,15 +2653,15 @@ Currently supported aggregation functions are:
 
 Naturally, these are only needed over expressions with field-level factors, query-level and document-level factors can be used in the formulas “as is”.
 
-### Keyword flags
+### Keyword Flags
 
 When searching and ranking, Sphinx classifies every query keyword with regards to a few classes of interest. That is, it flags a keyword with a “noun” class when the keyword is a (known) noun, or flags it with a “number” class when it is an integer, etc.
 
 At the moment we identify 4 keyword classes and assign the respective flags. Those 4 flags in turn generate 8 ranking factors, 4 query-level per-flag keyword counts, and 4 field-level per-class hit counts. The flags are described in a bit more detail just below.
 
-It’s important to understand that all the flags are essentially assigned at _query_ parsing time, without looking into any actual index _data_ (as opposed to tokenization and morphology settings). Also, query processing rules apply. Meaning that the valid keyword modifiers are effectively stripped before assigning the flags.
+It’s important to understand that all the flags are essentially assigned at *query* parsing time, without looking into any actual index *data* (as opposed to tokenization and morphology settings). Also, query processing rules apply. Meaning that the valid keyword modifiers are effectively stripped before assigning the flags.
 
-#### `has_digit` flag
+#### `has_digit` Flag
 
 Keyword is flagged as `has_digit` when there is at least one digit character, ie. from `[0-9]` range, in that keyword.
 
@@ -2667,17 +2669,17 @@ Other characters are allowed, meaning that `l33t` is a `has_digit` keyword.
 
 But they are not required, and thus, any `is_number` keyword is by definition a `has_digit` keyword.
 
-#### `is_latin` flag
+#### `is_latin` Flag
 
 Keyword is flagged as `is_latin` when it completely consists of Latin letters, ie. any of the `[a-zA-Z]` characters. No other characters are allowed.
 
-For instance, `hello` is flagged as `is_latin`, but `l33t` is _not_, because of the digits.
+For instance, `hello` is flagged as `is_latin`, but `l33t` is *not*, because of the digits.
 
-Also note that wildcards like `abc*` are _not_ flagged as `is_latin`, even if all the actual expansions are latin-only. Technically, query keyword flagging only looks at the query itself, and not the index data, and can not know anything about the actual expansions yet. (And even if it did, then inserting a new row with a new expansion could suddenly break the `is_latin` property.)
+Also note that wildcards like `abc*` are *not* flagged as `is_latin`, even if all the actual expansions are latin-only. Technically, query keyword flagging only looks at the query itself, and not the index data, and can not know anything about the actual expansions yet. (And even if it did, then inserting a new row with a new expansion could suddenly break the `is_latin` property.)
 
-At the same time, as query keyword modifiers like `^abc` or `=abc` still get properly processed, these keywords _are_ flagged as `is_latin` alright.
+At the same time, as query keyword modifiers like `^abc` or `=abc` still get properly processed, these keywords *are* flagged as `is_latin` alright.
 
-#### `is_noun` flag
+#### `is_noun` Flag
 
 Keyword is flagged as `is_noun` when (a) there is at least one lemmatizer enabled for the index, and (b) that lemmatizer classifies that standalone keyword as a noun.
 
@@ -2697,7 +2699,7 @@ mysql> CALL KEYWORDS('deadly mortal sin', 'en', 1 AS stats);
 
 However, as you can see from this very example, `is_noun` POS tagging is not completely precise.
 
-For now it works on individual words rather than contexts. So even though in _this_ particular query context we could technically guess that “mortal” is not a noun, in general it sometimes is. Hence the `is_noun` flags in this example are 0/1/1, though ideally they would be 0/0/1 respectively.
+For now it works on individual words rather than contexts. So even though in *this* particular query context we could technically guess that “mortal” is not a noun, in general it sometimes is. Hence the `is_noun` flags in this example are 0/1/1, though ideally they would be 0/0/1 respectively.
 
 Also, at the moment the tagger prefers to overtag. That is, when “in doubt”, ie. when the lemmatizer reports that a given wordform can either be a noun or not, we do not (yet) analyze the probabilities, and just always set the flag.
 
@@ -2705,15 +2707,15 @@ Another tricky bit is the handling of non-dictionary forms. As of v.3.2 the lemm
 
 So use with care; this can be a noisy signal.
 
-#### `is_number` flag
+#### `is_number` Flag
 
-Keyword is flagged as `is_number` when _all_ its characters are digits from the `[0-9]` range. Other characters are not allowed.
+Keyword is flagged as `is_number` when *all* its characters are digits from the `[0-9]` range. Other characters are not allowed.
 
 So, for example, `123` will be flagged `is_number`, but neither `0.123` nor `0x123` will be flagged.
 
-To nitpick on this particular example a bit more, note that `.` does not even get parsed as a character by default. So with the default `charset_table` that query text will not even produce a single keyword. Instead, by default it gets tokenized as two tokens (keywords), `0` and `123`, and _those_ tokens in turn _are_ flagged `is_number`.
+To nitpick on this particular example a bit more, note that `.` does not even get parsed as a character by default. So with the default `charset_table` that query text will not even produce a single keyword. Instead, by default it gets tokenized as two tokens (keywords), `0` and `123`, and *those* tokens in turn *are* flagged `is_number`.
 
-### Query-level ranking factors
+### Query-level Ranking Factors
 
 These are perhaps the simplest factors. They are entirely independent from the documents being ranked; they only describe the query. So they only get computed once, at the very start of query processing.
 
@@ -2735,23 +2737,23 @@ Query-level, a number of unique `is_number` keywords in the query. Duplicates sh
 
 #### max\_lcs
 
-Query-level, maximum possible value that the `sum(lcs*user_weight)` expression can take. This can be useful for weight boost scaling. For instance, (legacy) `MATCHANY` ranker formula uses this factor to _guarantee_ that a full phrase match in _any_ individual field ranks higher than any combination of partial matches in all fields.
+Query-level, maximum possible value that the `sum(lcs*user_weight)` expression can take. This can be useful for weight boost scaling. For instance, (legacy) `MATCHANY` ranker formula uses this factor to *guarantee* that a full phrase match in *any* individual field ranks higher than any combination of partial matches in all fields.
 
 #### query\_word\_count
 
 Query-level, a number of unique and inclusive keywords in a query. “Inclusive” means that it’s additionally adjusted for a number of excluded keywords. For example, both `one one one one` and `(one !two)` queries should assign a value of 1 to this factor, because there is just one unique non-excluded keyword.
 
-### Document-level ranking factors
+### Document-level Ranking Factors
 
 These are a few factors that “look” at both the query and the (entire) matching document being ranked. The most useful among these are several variants of the classic BM-family factors (as in Okapi BM25).
 
-#### bm15
+#### Bm15
 
 Document-level, a quick estimate of a classic `BM15(1.2)` value. It is computed without keyword occurrence filtering (ie. over all the term postings rather than just the matched ones). Also, it ignores the document and fields lengths.
 
-For example, if you search for an exact phrase like `"foo bar"`, and both `foo` and `bar` keywords occur 10 times each in the document, but the _phrase_ only occurs once, then this `bm15` estimate will still use 10 as TF (Term Frequency) values for both these keywords, ie. account all the term occurrences (postings), instead of “accounting” just 1 actual matching posting.
+For example, if you search for an exact phrase like `"foo bar"`, and both `foo` and `bar` keywords occur 10 times each in the document, but the *phrase* only occurs once, then this `bm15` estimate will still use 10 as TF (Term Frequency) values for both these keywords, ie. account all the term occurrences (postings), instead of “accounting” just 1 actual matching posting.
 
-So `bm15` uses pre-computed document TFs, rather that computing actual matched TFs on the fly. By design, that makes zero difference all when running a simple bag-of-words query against the entire document. However, once you start using pretty much _any_ query syntax, the differences become obvious.
+So `bm15` uses pre-computed document TFs, rather that computing actual matched TFs on the fly. By design, that makes zero difference all when running a simple bag-of-words query against the entire document. However, once you start using pretty much *any* query syntax, the differences become obvious.
 
 To discuss one, what if you limit all your searches to a single field with, and the query is `@title foo bar`? Should the weights really depend on contents of any other fields, as we clearly intended to limit our searches to titles? They should not. However, with the `bm15` approximation they will. But this really is just a performance vs quality tradeoff.
 
@@ -2765,7 +2767,7 @@ Document-level, parametrized, computes a value of classic `BM25(k1,b)` function 
 SELECT ... OPTION ranker=expr('10000*bm25a(2.0, 0.7)')
 ```
 
-Unlike `bm15`, this factor only account the _matching_ occurrences (postings) when computing TFs. It also requires `index_field_lengths = 1` setting to be on, in order to compute the current and average document lengths (which is in turn required by BM25 function with non-zero `b` parameters).
+Unlike `bm15`, this factor only account the *matching* occurrences (postings) when computing TFs. It also requires `index_field_lengths = 1` setting to be on, in order to compute the current and average document lengths (which is in turn required by BM25 function with non-zero `b` parameters).
 
 It is called `bm25a` only because `bm25` was initially taken (mistakenly) by that `BM25(1.2, 0)` value estimate that we now (properly) call `bm15`; no other hidden meaning in that `a` suffix.
 
@@ -2777,7 +2779,7 @@ Document-level, parametrized, computes a value of an extended `BM25F(k1,b)` func
 SELECT ... OPTION ranker=expr('10000*bm25f(2.0, 0.7, {title = 3})')
 ```
 
-Unlike `bm15`, this factor only account the _matching_ occurrences (postings) when computing TFs. It also requires `index_field_lengths = 1` setting to be on.
+Unlike `bm15`, this factor only account the *matching* occurrences (postings) when computing TFs. It also requires `index_field_lengths = 1` setting to be on.
 
 BM25F extension lets you assign bigger weights to certain fields. Internally those weights will simply pre-scale the TFs before plugging them into the original BM25 formula. For an original TR, see [Zaragoza et al (1994), “Microsoft Cambridge at TREC-13: Web and HARD tracks”](https://trec.nist.gov/pubs/trec13/papers/microsoft-cambridge.web.hard.pdf) paper.
 
@@ -2789,7 +2791,7 @@ Document-level, a number of unique keywords matched in the entire document.
 
 Document-level, a 32-bit mask of matched fields. Fields with numbers 33 and up are ignored in this mask.
 
-### Field-level ranking factors
+### Field-level Ranking Factors
 
 Generally, a field-level factor is just some numeric value computed by the ranking engine for every matched in-document text field, with regards to the current query, describing this or this aspect of the actual match.
 
@@ -2812,13 +2814,13 @@ OPTION ranker=expr('sum(lcs) + top(max_idf) * 1000');
 
 Now let’s discuss the individual factors in a bit more detail.
 
-#### atc
+#### Atc
 
 Field-level, Aggregate Term Closeness. This is a proximity based measure that grows higher when the document contains more groups of more closely located and more important (rare) query keywords.
 
 **WARNING:** you should use ATC with `OPTION idf='plain,tfidf_unnormalized'`; otherwise you could get rather unexpected results.
 
-ATC basically works as follows. For every keyword _occurrence_ in the document, we compute the so called _term closeness_. For that, we examine all the other closest occurrences of all the query keywords (keyword itself included too), both to the left and to the right of the subject occurrence. We then compute a distance dampening coefficient as `k = pow(distance, -1.75)` for all those occurrences, and sum the dampened IDFs. Thus for every occurrence of every keyword, we get a “closeness” value that describes the “neighbors” of that occurrence. We then multiply those per-occurrence closenesses by their respective subject keyword IDF, sum them all, and finally, compute a logarithm of that sum.
+ATC basically works as follows. For every keyword *occurrence* in the document, we compute the so called *term closeness*. For that, we examine all the other closest occurrences of all the query keywords (keyword itself included too), both to the left and to the right of the subject occurrence. We then compute a distance dampening coefficient as `k = pow(distance, -1.75)` for all those occurrences, and sum the dampened IDFs. Thus for every occurrence of every keyword, we get a “closeness” value that describes the “neighbors” of that occurrence. We then multiply those per-occurrence closenesses by their respective subject keyword IDF, sum them all, and finally, compute a logarithm of that sum.
 
 Or in other words, we process the best (closest) matched keyword pairs in the document, and compute pairwise “closenesses” as the product of their IDFs scaled by the distance coefficient:
 
@@ -2834,13 +2836,13 @@ atc = log(1 + sum(pair_tc))
 
 Note that this final dampening logarithm is exactly the reason you should use `OPTION idf=plain`, because without it, the expression inside the `log()` could be negative.
 
-Having closer keyword occurrences actually contributes _much_ more to ATC than having more frequent keywords. Indeed, when the keywords are right next to each other, we get `distance = 1` and `k = 1`; and when there is only one extra word between them, we get `distance = 2` and `k = 0.297`; and with two extra words in-between, we get `distance = 3` and `k = 0.146`, and so on.
+Having closer keyword occurrences actually contributes *much* more to ATC than having more frequent keywords. Indeed, when the keywords are right next to each other, we get `distance = 1` and `k = 1`; and when there is only one extra word between them, we get `distance = 2` and `k = 0.297`; and with two extra words in-between, we get `distance = 3` and `k = 0.146`, and so on.
 
 At the same time IDF attenuates somewhat slower. For example, in a 1 million document collection, the IDF values for 3 example keywords that are found in 10, 100, and 1000 documents would be 0.833, 0.667, and 0.500, respectively.
 
 So a keyword pair with two rather rare keywords that occur in just 10 documents each but with 2 other words in between would yield `pair_tc = 0.101` and thus just barely outweigh a pair with a 100-doc and a 1000-doc keyword with 1 other word between them and `pair_tc = 0.099`.
 
-Moreover, a pair of two _unique_, 1-document keywords with ideal IDFs, and with just 3 words between them would fetch a `pair_tc = 0.088` and lose to a pair of two 1000-doc keywords located right next to each other, with a `pair_tc = 0.25`.
+Moreover, a pair of two *unique*, 1-document keywords with ideal IDFs, and with just 3 words between them would fetch a `pair_tc = 0.088` and lose to a pair of two 1000-doc keywords located right next to each other, with a `pair_tc = 0.25`.
 
 So, basically, while ATC does combine both keyword frequency and proximity, it is still heavily favoring the proximity.
 
@@ -2850,15 +2852,15 @@ Field-level, boolean, whether the current field was (seemingly) fully covered by
 
 This flag should be set when the field is basically either “equal” to the entire query, or equal to a query with a few terms thrown away. Note that term order matters, and it must match, too.
 
-For example, if our query is `one two three`, then either `one two three`, or just `one three`, or `two three` should all have `exact_field_hit = 1`, because in these examples all the _field_ keywords are matched by the query, and they are in the right order. However, `three one` should get `exact_field_hit = 0`, because of the wrong (non-query) term order. And then if we throw in any extra terms, `one four three` field should also get `exact_field_hit = 0`, because `four` was not matched by the query, ie. this field is not covered fully.
+For example, if our query is `one two three`, then either `one two three`, or just `one three`, or `two three` should all have `exact_field_hit = 1`, because in these examples all the *field* keywords are matched by the query, and they are in the right order. However, `three one` should get `exact_field_hit = 0`, because of the wrong (non-query) term order. And then if we throw in any extra terms, `one four three` field should also get `exact_field_hit = 0`, because `four` was not matched by the query, ie. this field is not covered fully.
 
 Also, beware that stopwords and other text processing tools might “break” this factor.
 
 For example, when the field is `one stop three`, where `stop` is a stopword, we would still get 0 instead of 1, even though intuitively it should be ignored, and the field should be kinda equal to `one three`, and we get a 1 for that. How come?
 
-This is because stopwords are _not_ really ignored completely. They do still affect _positions_ (and that’s intentional, so that matching operators and other ranking factors would work as expected, just in some other example cases).
+This is because stopwords are *not* really ignored completely. They do still affect *positions* (and that’s intentional, so that matching operators and other ranking factors would work as expected, just in some other example cases).
 
-Therefore, this field gets indexed as `one * three`, where star marks a skipped position. So when matching the `one two three` query, the engine knows that positions number 1 and 3 were matched alright. But there is no (efficient) way for it to tell what exactly was in that missed position 2 in the original field; ie. was there a stopword, or was there any _regular_ word that the query simply did not mention (like in the `one four three` example). So when computing this factor, we see that there was an unmatched position, therefore we assume that the field was not covered fully (by the query terms), and set the factor to 0.
+Therefore, this field gets indexed as `one * three`, where star marks a skipped position. So when matching the `one two three` query, the engine knows that positions number 1 and 3 were matched alright. But there is no (efficient) way for it to tell what exactly was in that missed position 2 in the original field; ie. was there a stopword, or was there any *regular* word that the query simply did not mention (like in the `one four three` example). So when computing this factor, we see that there was an unmatched position, therefore we assume that the field was not covered fully (by the query terms), and set the factor to 0.
 
 #### exact\_hit
 
@@ -2876,7 +2878,7 @@ However, the very same query in a field with `(Our office is Microsoft free.)` t
 
 Field-level, boolean, whether the current field was (seemingly) fully covered by the query.
 
-This flag should be set when all the _field_ keywords are matched by the query, in whatever order. In other words, this factor requires “full coverage” of the field by the query, and “allows” to reorder the words.
+This flag should be set when all the *field* keywords are matched by the query, in whatever order. In other words, this factor requires “full coverage” of the field by the query, and “allows” to reorder the words.
 
 For example, a field `three one` should get `full_field_hit = 1` against a query `one two three`. Both keywords were “covered” (matched), and the order does not matter.
 
@@ -2906,25 +2908,25 @@ Field-level, total matched field hits count over just the `is_latin` keywords.
 
 Field-level, total matched field hits count over just the `is_number` keywords.
 
-#### lccs
+#### Lccs
 
 Field-level, Longest Common Contiguous Subsequence. A length of the longest contiguous subphrase between the query and the document, computed in keywords.
 
-LCCS factor is rather similar to LCS but, in a sense, more restrictive. While LCS could be greater than 1 even though no two query words are matched right next to each other, LCCS would only get greater than 1 if there are _exact_, contiguous query subphrases in the document.
+LCCS factor is rather similar to LCS but, in a sense, more restrictive. While LCS could be greater than 1 even though no two query words are matched right next to each other, LCCS would only get greater than 1 if there are *exact*, contiguous query subphrases in the document.
 
 For example, `one two three four five` query vs `one hundred three hundred five hundred` document would yield `lcs = 3`, but `lccs = 1`, because even though mutual dispositions of 3 matched keywords (`one`, `three`, and `five`) do match between the query and the document, none of the occurences are actually next to each other.
 
 Note that LCCS still does not differentiate between the frequent and rare keywords; for that, see WLCCS factor.
 
-#### lcs
+#### Lcs
 
 Field-level, Longest Common Subsequence. This is the length of a maximum “verbatim” match between the document and the query, counted in words.
 
 By construction, it takes a minimum value of 1 when only “stray” keywords were matched in a field, and a maximum value of a query length (in keywords) when the entire query was matched in a field “as is”, in the exact query order.
 
-For example, if the query is `hello world` and the field contains these two words as a subphrase anywhere in the field, `lcs` will be 2. Another example, this works on _subsets_ of the query too, ie. with `hello world program` query the field that only contains `hello world` subphrase also a gets an `lcs` value of 2.
+For example, if the query is `hello world` and the field contains these two words as a subphrase anywhere in the field, `lcs` will be 2. Another example, this works on *subsets* of the query too, ie. with `hello world program` query the field that only contains `hello world` subphrase also a gets an `lcs` value of 2.
 
-Note that any _non-contiguous_ subset of the query keyword works here, not just a subset of adjacent keywords. For example, with `hello world program` query and `hello (test program)` field contents, `lcs` will be 2 just as well, because both `hello` and `program` matched in the same respective positions as they were in the query. In other words, both the query and field match a non-contiguous 2-keyword subset `hello * program` here, hence the value of 2 of `lcs`.
+Note that any *non-contiguous* subset of the query keyword works here, not just a subset of adjacent keywords. For example, with `hello world program` query and `hello (test program)` field contents, `lcs` will be 2 just as well, because both `hello` and `program` matched in the same respective positions as they were in the query. In other words, both the query and field match a non-contiguous 2-keyword subset `hello * program` here, hence the value of 2 of `lcs`.
 
 However, if we keep the `hello world program` query but our field changes to `hello (test computer program)`, then the longest matching subset is now only 1-keyword long (two subsets match here actually, either `hello` or `program`), and `lcs` is therefore 1.
 
@@ -2966,9 +2968,9 @@ Note how for the single keyword queries `min_best_span_pos` must always equal `m
 
 Field-level, the minimum number of positional gaps between (just) the keywords matched in field. Always 0 when less than 2 keywords match; always greater or equal than 0 otherwise.
 
-For example, with the same `big wolf` query, `big bad wolf` field would yield `min_gaps = 1`; `big bad hairy wolf` field would yield `min_gaps = 2`; `the wolf was scary and big` field would yield `min_gaps = 3`; etc. However, a field like `i heard a wolf howl` would yield `min_gaps = 0`, because only one keyword would be matching in that field, and, naturally, there would be no gaps _matched_ keywords.
+For example, with the same `big wolf` query, `big bad wolf` field would yield `min_gaps = 1`; `big bad hairy wolf` field would yield `min_gaps = 2`; `the wolf was scary and big` field would yield `min_gaps = 3`; etc. However, a field like `i heard a wolf howl` would yield `min_gaps = 0`, because only one keyword would be matching in that field, and, naturally, there would be no gaps *matched* keywords.
 
-Therefore, this is a rather low-level, “raw” factor that you would most likely want to _adjust_ before actually using for ranking.
+Therefore, this is a rather low-level, “raw” factor that you would most likely want to *adjust* before actually using for ranking.
 
 Specific adjustments depend heavily on your data and the resulting formula, but here are a few ideas you can start with:
 
@@ -3000,13 +3002,13 @@ For the record, `TF` is the Term Frequency, aka the number of (matched) keyword 
 
 And `IDF` is the Inverse Document Frequency, a floating point value between 0 and 1 that describes how frequent this keyword is in the index.
 
-Basically, frequent (and therefore _not_ really interesting) words get lower IDFs, hitting the minimum value of 0 when the keyword is present in all of the indexed documents. And vice versa, rare, unique, and therefore interesting words get higher IDFs, maxing out at 1 for unique keywords that occur in just a single document.
+Basically, frequent (and therefore *not* really interesting) words get lower IDFs, hitting the minimum value of 0 when the keyword is present in all of the indexed documents. And vice versa, rare, unique, and therefore interesting words get higher IDFs, maxing out at 1 for unique keywords that occur in just a single document.
 
 #### user\_weight
 
 Field-level, a user specified per-field weight (for a bit more details on how to set those, refer to [`OPTION field_weights`](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-select) section). By default all these weights are set to 1.
 
-#### wlccs
+#### Wlccs
 
 Field-level, Weighted Longest Common Contiguous Subsequence. A sum of IDFs over the keywords of the longest contiguous subphrase between the current query and the field.
 
@@ -3016,13 +3018,11 @@ WLCCS is computed very similarly to LCCS, but every “suitable” keyword occur
 
 Field-level, the number of unique keywords matched in the field. For example, if both `hello` and `world` occur in the current field, `word_count` will be 2, irregardless of how many times do both keywords occur.
 
-## Ranking: builtin ranker formulas
+## Ranking: Builtin Ranker Formulas
 
 All of the built-in Sphinx rankers can be emulated with the expression based ranker. You just need to pass a proper formula using the `OPTION ranker` clause.
 
 Such emulation is, of course, going to be slower than using the built-in, pre-compiled rankers. But it still might be of interest if you want to start fine-tuning your ranking formula from an existing built-in baselines ranker. (Also, these formulas kinda define the nitty gritty built-in ranker details in a nicely readable fashion.)
-
-  
 
 Ranker
 
@@ -3068,12 +3068,12 @@ WHERE MATCH('hello world')
 OPTION ranker=expr('sum(lcs*user_weight)*1000 + bm25')
 ```
 
-## Ranking: IDF magics
+## Ranking: IDF Magics
 
 Sphinx supports several different IDF (Inverse Document Frequency) calculation options. Those can affect your relevance ranking (aka scoring) when you are:
 
--   _either_ sharding your data, even with built-in rankers;
--   _or_ doing any custom ranking work, even on a single shard.
+-   *either* sharding your data, even with built-in rankers;
+-   *or* doing any custom ranking work, even on a single shard.
 
 By default, term IDFs are (a) per-shard, and (b) computed online. So they might fluctuate significantly when ranking. And several other ranking factors rely on them, so the entire rank might change a lot in a seeimingly random fashion. The reasons are twofold.
 
@@ -3086,7 +3086,7 @@ To help alleviate these quirks (if they affect your use case), Sphinx offers two
 1.  `local_df` option to aggregate sharded IDFs.
 2.  `global_idf` feature to enforce prebuilt static IDFs.
 
-`local_df` syntax is `SELECT ... OPTION local_df=1` and enabling that option tells the query to compute IDFs (more) precisely, i.e. over the entire index rather than individual shards. The default value is 0 (off) for performance reasons.
+`local_df` syntax is `SELECT … OPTION local_df=1` and enabling that option tells the query to compute IDFs (more) precisely, i.e. over the entire index rather than individual shards. The default value is 0 (off) for performance reasons.
 
 `global_idf` feature is more complicated and includes several components:
 
@@ -3109,7 +3109,7 @@ To avoid overflows, `N` is adjusted up for the actual corpus size. Meaning that,
 
 To keep the `global_idf` file reasonably compact, you can use the additional `--skip-uniq` switch when doing the `--buildidf` stage. That switch will filter out all terms that only occur once. That usually reduces the `.idf` file size greatly, while still yielding exact or almost-exact results.
 
-### How Sphinx computes IDF
+### How Sphinx Computes IDF
 
 Starting with v.3.3 we removed several legacy IDF calculation methods, and now Sphinx always uses the following formula to compute IDF from `n` (the document frequency) and `N` (the corpus size).
 
@@ -3117,11 +3117,11 @@ Starting with v.3.3 we removed several legacy IDF calculation methods, and now S
 
 So we start with de-facto standard `raw_idf = log(N/n)`; then we normalize that for the corpus size; and further compress the `idf` into `[0.0, 0.5)` range.
 
-Then we apply per-term user boosts from the query, if any. `term_idf_boost` defaults to `1.0` but can be arbitrarily changed for individual query terms by using the respective modifier, eg. `... WHERE MATCH('cat^1.2 dog')`.
+Then we apply per-term user boosts from the query, if any. `term_idf_boost` defaults to `1.0` but can be arbitrarily changed for individual query terms by using the respective modifier, eg. `… WHERE MATCH('cat^1.2 dog')`.
 
 For the record, both this IDF normalization itself and the specific `[0,0.5)` range are now mostly historical. The normalization is considered for removal.
 
-## Ranking: picking fields with `rank_fields`
+## Ranking: Picking Fields with `rank_fields`
 
 When your indexes and queries contain any special “fake” keywords (usually used to speedup matching), it makes sense to exclude those from ranking. That can be achieved by putting such keywords into special fields, and then using `OPTION rank_fields` clause in the `SELECT` statement to pick the fields with actual text for ranking. For example:
 
@@ -3133,15 +3133,15 @@ OPTION rank_fields='title content'
 
 `rank_fields` is designed to work as follows. Only the keyword occurrences in the ranked fields get processed when computing ranking factors. Any other occurrences are ignored (by ranking, that is).
 
-Note a slight caveat here: for _query-level_ factors, only the _query_ itself can be analyzed, not the index data.
+Note a slight caveat here: for *query-level* factors, only the *query* itself can be analyzed, not the index data.
 
-This means that when you do not explicitly specify the fields in the query, the query parser _must_ assume that the keyword can actually occur anywhere in the document. And, for example, `MATCH('hello world _category1234')` will compute `query_word_count=3` for that reason. This query does indeed have 3 keywords, even if `_category1234` never _actually_ occurs anywhere except `sys` field.
+This means that when you do not explicitly specify the fields in the query, the query parser *must* assume that the keyword can actually occur anywhere in the document. And, for example, `MATCH('hello world _category1234')` will compute `query_word_count=3` for that reason. This query does indeed have 3 keywords, even if `_category1234` never *actually* occurs anywhere except `sys` field.
 
-Other than that, `rank_fields` is pretty straightforward. _Matching_ will still work as usual. But for _ranking_ purposes, any occurrences (hits) from the “system” fields can be ignored and hidden.
+Other than that, `rank_fields` is pretty straightforward. *Matching* will still work as usual. But for *ranking* purposes, any occurrences (hits) from the “system” fields can be ignored and hidden.
 
-## Operations: “siege mode”, temporary global query limits
+## Operations: “siege mode”, Temporary Global Query Limits
 
-Sphinx `searchd` now has a so-called “siege mode” that temporarily imposes server-wide limits on _all_ the incoming `SELECT` queries, for a given amount of time. This is useful when some client is flooding `searchd` with heavy requests and, for whatever reason, stopping those requests at other levels is complicated.
+Sphinx `searchd` now has a so-called “siege mode” that temporarily imposes server-wide limits on *all* the incoming `SELECT` queries, for a given amount of time. This is useful when some client is flooding `searchd` with heavy requests and, for whatever reason, stopping those requests at other levels is complicated.
 
 Siege mode is controlled via a few global server variables. The example just below will introduce a siege mode for 15 seconds, and impose limits of at most 1000 processed documents and at most 0.3 seconds (wall clock) per query:
 
@@ -3159,7 +3159,7 @@ There also are intentionally hardcoded limits you can’t change, namely:
 -   upper limit for `siege_max_fetched_docs` is 1,000,000 documents
 -   upper limit for `siege_max_query_msec` is 1 second, i.e. 1000 msec
 
-Note that **current siege limits are reset when the siege stops.** So in the example above, if you start another siege in 20 seconds, then that next siege will be restarted with 1M docs and 1000 msec limits, and _not_ the 1000 docs and 300 msec limits from the previous one.
+Note that **current siege limits are reset when the siege stops.** So in the example above, if you start another siege in 20 seconds, then that next siege will be restarted with 1M docs and 1000 msec limits, and *not* the 1000 docs and 300 msec limits from the previous one.
 
 Siege mode can be turned off at any moment by zeroing out the timeout:
 
@@ -3187,15 +3187,15 @@ If you’re really curious, let’s discuss those bits in more detail.
 
 The non-term search case is rather easy. All the actually stored rows (whether coming either from a full scan or an attribute index reads) will be first checked for liveness, then accounted in the `fetched_docs` counter, then either further processed (with extra calculations, filters, etc). Bottom line, a query limited this way will run “hard” calculations, filter checks, etc on at most N rows. So best case scenario (if all `WHERE` filters pass), the query will return N rows, and never even a single row more.
 
-Now, the term search case is more interesting. The lowest-level term readers will also emit individual rows, but as opposed to the “scan” case, either the terms or the rows might be duplicated. The `fetched_docs` counter merely counts those emitted rows, as it needs to limit the total amount of work done. So, for example, with a 2-term query like `(foo bar)` the processing will stop when _both_ terms fetch N documents total from the full-text index… even if not a single document was _matched_ just yet! If a term is duplicated, for example, like in a `(foo foo)` query, then _both_ the occurrences will contribute to the counter. Thus, for a query with M required terms all AND-ed together, the upper limit on the _matched_ documents should be roughly equal to N/M, because every matched document will be counted as “processed” M times in every term reader. So either `(foo bar)` or `(foo foo)` example queries with a limit of 1000 should result in roughly 500 matches tops.
+Now, the term search case is more interesting. The lowest-level term readers will also emit individual rows, but as opposed to the “scan” case, either the terms or the rows might be duplicated. The `fetched_docs` counter merely counts those emitted rows, as it needs to limit the total amount of work done. So, for example, with a 2-term query like `(foo bar)` the processing will stop when *both* terms fetch N documents total from the full-text index… even if not a single document was *matched* just yet! If a term is duplicated, for example, like in a `(foo foo)` query, then *both* the occurrences will contribute to the counter. Thus, for a query with M required terms all AND-ed together, the upper limit on the *matched* documents should be roughly equal to N/M, because every matched document will be counted as “processed” M times in every term reader. So either `(foo bar)` or `(foo foo)` example queries with a limit of 1000 should result in roughly 500 matches tops.
 
 That “roughly” just above means that, occasionally, there might be slightly more matches. As for performance reasons the term readers work in batches, the actual `fetched_docs` counter might get slightly bigger than the imposed limit, by the batch size at the most. But that must be insignificant as processing just a single small batch is very quick.
 
 And as for splitting the limit between the indexes, it’s simply pro-rata, based on the per-index document count. For example, assume that `siege_max_fetched_docs` is set to 1000, and that you have 2 local indexes in your query, one with 1400K docs and one with 600K docs respectively. (It does not matter whether those are referenced directly or via a distributed index.) Then the per-index limits will be set to 700 and 300 documents respectively. Easy.
 
-Last but not least, beware that the entire point of the “siege mode” is to **intentionally degrade the search results for too complex searches**! Use with extreme care; essentially only use it to stomp out cluster fires that can not be quickly alleviated any other way; and at this point we recommend to only _ever_ use it manually.
+Last but not least, beware that the entire point of the “siege mode” is to **intentionally degrade the search results for too complex searches**! Use with extreme care; essentially only use it to stomp out cluster fires that can not be quickly alleviated any other way; and at this point we recommend to only *ever* use it manually.
 
-## SphinxQL reference
+## SphinxQL Reference
 
 This section should eventually contain the complete SphinxQL reference. If the statement you’re looking for is not yet documented here, please refer to legacy [SphinxQL v.2.x reference](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-reference) document.
 
@@ -3250,7 +3250,7 @@ Here’s a complete list of SphinxQL statements.
 -   [TRUNCATE RTINDEX syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-truncate-rtindex)
 -   [UPDATE syntax](http://sphinxsearch.com/docs/sphinx2.html#sphinxql-update)
 
-### BULK UPDATE syntax
+### BULK UPDATE Syntax
 
 ```
 BULK UPDATE ftindex (id, col1 [, col2 [, col3 ...]]) VALUES
@@ -3278,15 +3278,15 @@ BULK UPDATE test2 (id, json.price) VALUES (1, 100.00), (2, 123.45), (3, 299.99)
 
 All value types (numerics, strings, JSON, MVA) are supported.
 
-Bulk updates of existing values _must_ keep the type. This is a natural restriction for regular attributes, but it also applies to JSON values. For example, if you update an integer JSON value with a float, then that float will get converted (truncated) to the current integer type.
+Bulk updates of existing values *must* keep the type. This is a natural restriction for regular attributes, but it also applies to JSON values. For example, if you update an integer JSON value with a float, then that float will get converted (truncated) to the current integer type.
 
 Compatible value type conversions will happen. Truncations are allowed.
 
-Incompatible conversions will fail. For example, strings will _not_ be auto-converted to numeric values.
+Incompatible conversions will fail. For example, strings will *not* be auto-converted to numeric values.
 
 Attempts to update non-existent JSON keys will fail.
 
-### KILL syntax
+### KILL Syntax
 
 ```
 KILL <thread_id>
@@ -3332,9 +3332,9 @@ Query OK, 3 row affected (0.00 sec)
 
 Threads already marked will not be marked again and reported this way.
 
-There are no limits on the `<min_msec>` parameter for the second version, and therefore, `KILL SLOW 0 MSEC` is perfectly legal syntax. That specific statement is going to kill _all_ the currently running queries. So please use with a pinch of care.
+There are no limits on the `<min_msec>` parameter for the second version, and therefore, `KILL SLOW 0 MSEC` is perfectly legal syntax. That specific statement is going to kill *all* the currently running queries. So please use with a pinch of care.
 
-### SELECT syntax
+### SELECT Syntax
 
 ```
 SELECT <expr> [[AS] <alias>] [, ...]
@@ -3373,9 +3373,9 @@ The most notable differences from regular SQL are these:
 -   `LIMIT` is always present, default is `LIMIT 0,20`
 -   `GROUP BY` always picks a specific “best” row to represent the group
 
-#### Index hints clause
+#### Index Hints Clause
 
-Index hints can be used to tweak query optimizer behavior and attribute index usage, for either performance or debugging reasons. Note that usually you should _not_ have to use them.
+Index hints can be used to tweak query optimizer behavior and attribute index usage, for either performance or debugging reasons. Note that usually you should *not* have to use them.
 
 Multiple hints can be used, and multiple attribute indexes can be listed, in any order. For example, the following syntax is legal:
 
@@ -3399,7 +3399,7 @@ Summarily, hints work this way:
 -   `IGNORE INDEX` strictly forbids given indexes from being used;
 -   `FORCE INDEX` strictly forces the given indexes to be used.
 
-`USE INDEX` tells the optimizer that it must only consider the given indexes, rather than _all_ the applicable ones. In other words, in the absence of the `USE` clause, all indexes are fair game. In its presence, only those that were mentioned in the `USE` list are. The optimizer still decides whether to actually to use or ignore any specific index. In the example above it still might choose to use `idx_lat` only, but it must never use `idx_time`, on the grounds that it was not mentioned explicitly.
+`USE INDEX` tells the optimizer that it must only consider the given indexes, rather than *all* the applicable ones. In other words, in the absence of the `USE` clause, all indexes are fair game. In its presence, only those that were mentioned in the `USE` list are. The optimizer still decides whether to actually to use or ignore any specific index. In the example above it still might choose to use `idx_lat` only, but it must never use `idx_time`, on the grounds that it was not mentioned explicitly.
 
 `IGNORE INDEX` completely forbids the optimizer from using the given indexes. Ignores take priority, they override both `USE INDEX` and `FORCE INDEX`. Thus, while it is legal to `USE INDEX (foo, bar) IGNORE INDEX (bar)`, it is way too verbose. Simple `USE INDEX (foo)` achieves exactly the same result.
 
@@ -3407,7 +3407,7 @@ Summarily, hints work this way:
 
 For more discussion and details on attributes indexes and hints, refer to [“Using attribute indexes”](http://sphinxsearch.com/docs/sphinx3.html#using-attribute-indexes).
 
-### SHOW INDEX AGENT STATUS syntax
+### SHOW INDEX AGENT STATUS Syntax
 
 ```
 SHOW INDEX <distindex> AGENT STATUS [LIKE '...']
@@ -3447,7 +3447,7 @@ mysql> DESC dist1
 
 In this case (ie. without mirrors) the mapping is straightforward, we can see that we only have two agents, `agent1` on port 7013 and `agent2` on port 7015, and we now know what statistics are associated with which agent exactly. Easy.
 
-### SHOW VARIABLES syntax
+### SHOW VARIABLES Syntax
 
 ```
 SHOW [{GLOBAL | SESSION}] VARIABLES
@@ -3464,7 +3464,7 @@ Compatibility mode is required to support connections from certain MySQL clients
 
 Optional `GLOBAL` or `SESSION` scope condition is for compatibility only at the moment, and the scope is ignored. All variables, both global and per-session, are always displayed.
 
-`WHERE variable_name ...` condition is also for compatibility only, and also ignored.
+`WHERE variable_name …` condition is also for compatibility only, and also ignored.
 
 `LIKE '<varmask>'` condition is supported and functional, for instance:
 
@@ -3513,7 +3513,7 @@ For instance, `log_level` is mutable; `max_allowed_packet` is read-only (you can
 
 Specific per-variable documentation can be found in the [“Server variables reference”](http://sphinxsearch.com/docs/sphinx3.html#server-variables-reference) section.
 
-## Functions reference
+## Functions Reference
 
 This section should eventually contain the complete reference on functions that are supported in `SELECT` and other applicable places. If the function you’re looking for is not yet documented here, please refer to legacy [Sphinx v.2.x expressions reference](http://sphinxsearch.com/docs/sphinx2.html#expressions) document.
 
@@ -3595,7 +3595,7 @@ Here’s a complete list of builtin Sphinx functions.
 -   [YEARMONTHDAY](http://sphinxsearch.com/docs/sphinx2.html#expr-func-yearmonthday)
 -   [ZONESPANLIST](http://sphinxsearch.com/docs/sphinx2.html#expr-func-zonespanlist)
 
-### `DOT()` function
+### `DOT()` Function
 
 ```
 DOT(vector1, vector2)
@@ -3608,13 +3608,13 @@ Vectors can be taken either from JSON, or from array attributes, or specified as
 
 The result type is always `float` for consistency and simplicity. (According to our benchmarks, performance gain from using `integer` or `bigint` for the result type, where applicable, is pretty much nonexistent anyway.)
 
-Note that _internal_ calculations are optimized for specific input argument types anyway. For instance, `int8` vs `int8` vectors should be quite noticeably faster than `float` by `double` vectors containing the same data, both because integer multiplication is less expensive, and because `int8` would utilize 6x less memory.
+Note that *internal* calculations are optimized for specific input argument types anyway. For instance, `int8` vs `int8` vectors should be quite noticeably faster than `float` by `double` vectors containing the same data, both because integer multiplication is less expensive, and because `int8` would utilize 6x less memory.
 
 So as a rule of thumb, use the narrowest possible type, that yields both better RAM use and better performance.
 
 When one of the arguments is either NULL, or not a numeric vector (that can very well happen with JSON), or when both arguments are vectors of different sizes, `DOT()` returns 0.
 
-### `FVEC()` function
+### `FVEC()` Function
 
 ```
 FVEC(const1 [, const2, ...])
@@ -3628,13 +3628,13 @@ FVEC(json.key)
 
 **Constant vector form.**
 
-In the first form, the arguments are a list of numeric constants. And note that there _can_ be a difference whether we use integers or floats here!
+In the first form, the arguments are a list of numeric constants. And note that there *can* be a difference whether we use integers or floats here!
 
 When both arguments to `DOT()` are integer vectors, `DOT()` can use an optimized integer implementation, and to define such a vector using `FVEC()`, you should only use integers.
 
 The rule of thumb with vectors generally is: just use the narrowest possible type. Because that way, extra optimizations just might kick in. And the other way, they very definitely will not.
 
-For instance, the optimizer is allowed to widen `FVEC(1,2,3,4)` from integers to floats alright, no surprise there. Now, in _this_ case it is also allowed to narrow the resulting `float` vector back to integers where applicable, because we can know that all the _original_ values were integers before widening.
+For instance, the optimizer is allowed to widen `FVEC(1,2,3,4)` from integers to floats alright, no surprise there. Now, in *this* case it is also allowed to narrow the resulting `float` vector back to integers where applicable, because we can know that all the *original* values were integers before widening.
 
 And narrowing down from the floating point form like `FVEC(1.0, 2.0, 3.0, 4.0)` to integers is strictly prohibited. So even though the values actually are the same, in the first case additional integer-only optimization can be engaged, and in the second case they can’t.
 
@@ -3644,9 +3644,9 @@ In the second form, the only argument must be a JSON key, and the output is only
 
 Note that this case is intentionally designed as a fast accessor for UDFs that just passes `float` vectors to them, and avoids any data copying and conversion.
 
-So if you attempt to wrap and pass anything else, null vector will be passed to the UDF. Could be a generic mixed vector with numeric values of differnt types, could be an optimized `int8` vector, could be a `double` vector - but in all these cases, despite the fact that they are compatible and _could_ technically be converted to some temporary `float` vector and then passed down, that kind of a conversion just does not happen. Intentionally, for performance reasons.
+So if you attempt to wrap and pass anything else, null vector will be passed to the UDF. Could be a generic mixed vector with numeric values of differnt types, could be an optimized `int8` vector, could be a `double` vector - but in all these cases, despite the fact that they are compatible and *could* technically be converted to some temporary `float` vector and then passed down, that kind of a conversion just does not happen. Intentionally, for performance reasons.
 
-### `PP()` function
+### `PP()` Function
 
 ```
 PP(FACTORS())
@@ -3699,7 +3699,7 @@ pp(factors()): {
 1 row in set (0.00 sec)
 ```
 
-### Slice functions
+### Slice Functions
 
 ```
 SLICEAVG(json.key, min_index, sup_index)
@@ -3729,7 +3729,7 @@ The returned value is `float`, even when all the input values are actually integ
 
 Non-arrays and slices with non-numeric items will return a value of `0.0` (subject to change to `NULL` eventually).
 
-### `STRPOS()` function
+### `STRPOS()` Function
 
 ```
 STRPOS(haystack, const_needle)
@@ -3741,7 +3741,7 @@ The index is counted in bytes (rather that Unicode codepoints).
 
 At the moment, needle must be a constant string. If needle is an empty string, then 0 will be returned.
 
-## Server variables reference
+## Server Variables Reference
 
 `searchd` has a number of server variables that can be changed on the fly using the `SET GLOBAL var = value` statement. This section provides a reference on all those variables.
 
@@ -3759,7 +3759,7 @@ At the moment, needle must be a constant string. If needle is an empty string, t
 -   [`sql_fail_filter`](http://sphinxsearch.com/docs/sphinx3.html#sql_fail_filter-variable)
 -   [`sql_log_file`](http://sphinxsearch.com/docs/sphinx3.html#sql_log_file-variable)
 
-### `attrindex_thresh` variable
+### `attrindex_thresh` Variable
 
 ```
 SET GLOBAL attrindex_thresh = 256
@@ -3771,7 +3771,7 @@ Sphinx will only create attribute indexes for “large enough” segments (be th
 
 At the moment, this setting seem useful for testing and debugging only, and normally you must not need to tweak it in production.
 
-### `log_debug_filter` variable
+### `log_debug_filter` Variable
 
 ```
 SET GLOBAL log_debug_filter = 'ReadLock'
@@ -3783,7 +3783,7 @@ This makes `searchd` less chatty at `debug` and higher `log_level` levels.
 
 At the moment, this setting seem useful for testing and debugging only, and normally you must not need to tweak it in production.
 
-### `log_level` variable
+### `log_level` Variable
 
 ```
 SET GLOBAL log_level = {info | debug | debugv | debugvv}'
@@ -3795,7 +3795,7 @@ This variable is useful to temporarily enable debug logging in `searchd`, with t
 
 At the moment, this setting seem useful for testing and debugging only, and normally you must not need to tweak it in production.
 
-### `net_spin_msec` variable
+### `net_spin_msec` Variable
 
 ```
 SET GLOBAL net_spin_msec = 30
@@ -3809,7 +3809,7 @@ Therefore, if a heavily loaded network thread calls `epoll_wait()` with even a s
 
 Therefore, by default we choose to call `epoll_wait()` with zero timeouts for the duration of `net_spin_msec`, so that our “actual” slice for network thread is closer to those 10 msec, just in case we get a lot of incoming queries.
 
-### `query_log_format` variable
+### `query_log_format` Variable
 
 ```
 SET GLOBAL query_log_format = {plain | sphinxql}
@@ -3817,7 +3817,7 @@ SET GLOBAL query_log_format = {plain | sphinxql}
 
 Changes the search query logging format on the fly. Default is `plain`, and the other option is `sphinxql`.
 
-### `query_log_min_msec` variable
+### `query_log_min_msec` Variable
 
 ```
 SET GLOBAL query_log_min_msec = 1000
@@ -3825,7 +3825,7 @@ SET GLOBAL query_log_min_msec = 1000
 
 Changes the minimum elapsed time threshold for the search queries to get logged. Default is 0 msec, ie. log all queries.
 
-### `sql_fail_filter` variable
+### `sql_fail_filter` Variable
 
 ```
 SET GLOBAL sql_fail_filter = 'insert'
@@ -3843,7 +3843,7 @@ To remove the filter, set the value to an empty string.
 SET GLOBAL sql_fail_filter = ''
 ```
 
-### `sql_log_file` variable
+### `sql_log_file` Variable
 
 ```
 SET GLOBAL sql_log_file = '/tmp/sphinxlog.sql'
@@ -3851,9 +3851,9 @@ SET GLOBAL sql_log_file = '/tmp/sphinxlog.sql'
 
 SQL log lets you (temporarily) enable logging all the incoming SphinxQL queries, in (almost) raw form. Compared to `query_log` directive, this logger:
 
--   logs _all_ SphinxQL queries, not just searches;
--   does _not_ log any SphinxAPI calls;
--   does _not_ have any noticeable performance impact;
+-   logs *all* SphinxQL queries, not just searches;
+-   does *not* log any SphinxAPI calls;
+-   does *not* have any noticeable performance impact;
 -   is stopped by default.
 
 Queries are stored as received. A hardcoded `; /* EOQ */` separator and then a newline are stored after every query, for parsing convenience. It’s useful to capture and later replay a stream of all client SphinxQL queries.
@@ -3866,11 +3866,11 @@ To stop SQL logging (and close and flush the log file), set the value to an empt
 SET GLOBAL sql_log_file = ''
 ```
 
-We do _not_ recommend keeping SQL logging on for prolonged periods on loaded systems, as it might use a lot of disk space.
+We do *not* recommend keeping SQL logging on for prolonged periods on loaded systems, as it might use a lot of disk space.
 
 ## Changes in 3.x
 
-### Version 3.3.1, 06 jul 2020
+### Version 3.3.1, 06 Jul 2020
 
 New features:
 
@@ -3915,7 +3915,7 @@ Fixes:
 -   fixed that `INSERT` only checked RAM segments for duplicate docids
 -   fixed an internal error on `COUNT(*)` vs empty RT
 
-### Version 3.2.1, 31 jan 2020
+### Version 3.2.1, 31 Jan 2020
 
 New features:
 
@@ -3939,7 +3939,7 @@ Minor new additions:
 
 -   added hash-comment support to `exceptions` files
 -   added `--dummy <arg>` switch to `searchd` (useful to quickly identify specific instances in the process list)
--   added IDF info, term flags, and JSON format output to `CALL KEYWORDS` (for JSON output, call it with `CALL KEYWORDS(..., 1 AS json)`
+-   added IDF info, term flags, and JSON format output to `CALL KEYWORDS` (for JSON output, call it with `CALL KEYWORDS(…, 1 AS json)`
 -   added `IS NULL` and `IS NOT NULL` checks to `ALL()` and `ANY()` JSON iterators
 -   added `last_good_id` to TSV indexing error reporting
 -   added `ram_segments` counter to `SHOW INDEX STATUS`, and renamed two counters (`ram_chunk` to `ram_segments_bytes`, `disk_chunks` to `disk_segments`)
@@ -3981,7 +3981,7 @@ Fixes:
 -   fixed occasional crashes on distributed searches on some CPU and glibc combos (double release)
 -   fixed incorrect `SHOW META` after index-less `SELECT`
 -   fixed `ALL()` and `ANY()` vs optimized JSON vectors, and fixed optimized int64 JSON vector accessor
--   fixed that `SHOW THREADS ... OPTION columns=X` limit permanently clipped the thread descriptions
+-   fixed that `SHOW THREADS … OPTION columns=X` limit permanently clipped the thread descriptions
 -   fixed `/searchd` HTTP endpoint error format
 -   fixed per-index query stats vs RT indexes
 -   fixed that query parser could occasionally fail on high ASCII codes
@@ -3996,7 +3996,7 @@ Fixes:
 -   fixed schema attributes order for XML/TSV/CSV sources
 -   fixed sticky `regexp_filter` vs `ATTACH`
 
-### Version 3.1.1, 17 oct 2018
+### Version 3.1.1, 17 Oct 2018
 
 -   added `indexer --dump-rows-tsv` switch, and renamed `--dump-rows` to `--dump-rows-sql`
 -   added initial `COALESCE()` function support for JSONs (beware that it will compute everything in floats!)
@@ -4012,12 +4012,12 @@ Fixes:
 -   added a hard limit for `max_matches` (must be under 100M)
 -   optimized Postgres indexing CPU and RAM use quite significantly
 -   optimized `FACET` queries with expressions and simple by-attribute (no aliases!) facets; multi-sort optmization now works in that case
--   optimized `id` lookups (queries like `UPDATE ... WHERE id=123` should now be much faster)
+-   optimized `id` lookups (queries like `UPDATE … WHERE id=123` should now be much faster)
 -   optimized result set aggregation vs nested sharded selects
 -   optimized `PACKEDFACTORS()` storage a lot (upto 60x speedup with `max_matches=50000`)
 -   improved UDF error handling, the error argument is now a message buffer instead of just a 1-char flag
--   improved the nested sharded select reordering, less confusing now (by default, does _not_ scale the inner `LIMIT` anymore)
--   improved `searchd --listen` switch, multiple `--listen` instances are now allowed, and `--console` is _not_ required anymore
+-   improved the nested sharded select reordering, less confusing now (by default, does *not* scale the inner `LIMIT` anymore)
+-   improved `searchd --listen` switch, multiple `--listen` instances are now allowed, and `--console` is *not* required anymore
 -   improved failed allocation reporting, and added huge allocation tracking
 -   removed legacy `@count`, `@weight`, `@expr`, `@geodist` syntax support
 -   removed legacy `SetWeights()`, `SetMatchMode()`, `SetOverride()`, `SetGeoAnchor()` calls, `SPH_MATCH_xxx` constants, and `SPH_SORT_EXPR` sorting mode from APIs
@@ -4049,7 +4049,7 @@ Other fixes:
 -   fixed occasional rotation-related deadlock
 -   fixed a few memory leaks
 
-### Version 3.0.3, 30 mar 2018
+### Version 3.0.3, 30 Mar 2018
 
 -   added `BITCOUNT()` function and bitwise-NOT operator, eg `SELECT BITCOUNT(~3)`
 -   made `searchd` config section completely optional
@@ -4062,7 +4062,7 @@ Other fixes:
 -   fixed `uptime` counter in `SHOW STATUS`
 -   fixed query cache vs `PACKEDFACTORS()`
 
-### Version 3.0.2, 25 feb 2018
+### Version 3.0.2, 25 Feb 2018
 
 -   added `full_field_hit` ranking factor
 -   added `bm15` ranking factor name (legacy `bm25` name misleading, to be removed)
@@ -4079,27 +4079,27 @@ Other fixes:
 -   fixed junk data writes (seemingly harmless but anyway) in certain cases
 -   fixed rare occasional `searchd` startup failures (threading related)
 
-### Version 3.0.1, 18 dec 2017
+### Version 3.0.1, 18 Dec 2017
 
 -   first public release of 3.x branch
 
 ## Changes since v.2.x
 
-> WIP: the biggest change to rule them all is yet to come. The all new, fully RT index format is still in progress, and not yet available. Do not worry, ETL via `indexer` will _not_ be going anywhere. Moreover, despite being fully and truly RT, the new format is actually already _faster_ at batch indexing.
+> WIP: the biggest change to rule them all is yet to come. The all new, fully RT index format is still in progress, and not yet available. Do not worry, ETL via `indexer` will *not* be going anywhere. Moreover, despite being fully and truly RT, the new format is actually already *faster* at batch indexing.
 
 The biggest changes since Sphinx v.2.x are:
 
 -   added DocStore, document storage
     -   original document contents can now be stored into the index
     -   disk based storage, RAM footprint should be minimal
-    -   goodbye, _having_ to query Another Database to fetch data
+    -   goodbye, *having* to query Another Database to fetch data
 -   added new attributes storage format
     -   arbitrary updates support (including MVA and JSON)
     -   goodbye, sudden size limits
 -   added attribute indexes, with JSON support
     -   … `WHERE gid=123` queries can now utilize A-indexes
     -   … `WHERE MATCH('hello') AND gid=123` queries can now efficiently intersect FT-indexes and A-indexes
-    -   goodbye, _having_ to use fake keywords
+    -   goodbye, *having* to use fake keywords
 -   added compressed JSON keys
 -   switched to rowids internally, and forced all docids to 64 bits
 
@@ -4137,7 +4137,7 @@ And last but not least, the new config directives to play with are:
 
 Quick update caveats:
 
--   if you were using `sql_query_killlist` then you now _must_ explicitly specify `kbatch` and list all the indexes that the k-batch should be applied to:
+-   if you were using `sql_query_killlist` then you now *must* explicitly specify `kbatch` and list all the indexes that the k-batch should be applied to:
 
 ```
 sql_query_killlist = SELECT deleted_id FROM my_deletes_log

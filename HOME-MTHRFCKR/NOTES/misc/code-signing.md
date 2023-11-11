@@ -1,4 +1,6 @@
-## Code signing
+# Code-signing
+
+## Code Signing
 
 - [Laszlo Pusztai](http://www.laszlopusztai.net/2012/12/05/hdiutil-requires-sudo-for-readwrite/) - (2012) hdiutil Requires sudo for Read/Write
 - [Apple Developer Docs](https://developer.apple.com/library/content/documentation/Security/Conceptual/CodeSigningGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40005929-CH1-SW1) - About Code Signing
@@ -25,7 +27,7 @@
 - [Rotten Tomatoes](https://www.rottentomatoes.com/) - quality measurement for movies & tv, by creating a score based on top critics
 - [Metacritic](http://www.metacritic.com/) - similar to Rotten Tomatoes. Aggregates reviews and provides a metascore for movies, tv, games and music
 - [IMDB (Internet Movie Database)](http://www.imdb.com/) - aka IMDb, the biggest online database of info related to films and tv
-- [TasteKid](https://tastedive.com/) - get recommendations for music but also tv shows, films, games, books...
+- [TasteKid](https://tastedive.com/) - get recommendations for music but also tv shows, films, games, books…
 - [**Tunefind**](https://www.tunefind.com/browse/tv) - Music from all popular tv shows
 - [**Tunefind**](https://www.tunefind.com/browse/tv-movie) - Music from all popular tv shows and movies
 - [My 90's TV](http://www.my90stv.com/) - Go back to the 1990's via this nostalgic TV simulator and relive the original ads, music videos, movie trailers, shows and more!
@@ -66,12 +68,12 @@
 - [What the Hell Should I Watch on Netflix?](http://whatthehellshouldiwatchonnetflix.com/) - Your First World problems are over.
 
 - [Rate Your Music](https://rateyourmusic.com/) - one of the most complete music database for cataloging, tagging and reviewing your music collection
-- [TasteKid](https://tastedive.com/) - get recommendations for music but also tv shows, films, games, books...
+- [TasteKid](https://tastedive.com/) - get recommendations for music but also tv shows, films, games, books…
 - [16Personalities](https://www.16personalities.com/articles/music-preferences-by-personality-type) - Music Preferences by Personality Type
 - [jamb0ss/awesome-ambient-noises](https://github.com/jamb0ss/awesome-ambient-noises) - A curated list of awesome ambient noises for listening while programming
 - [DΛTΛSSETTE](http://www.musicforprogramming.net/) - music for programming
 - [MorganGeek](https://gist.github.com/MorganGeek/66c9c8524e446550757d92c527c28c93) - work / programming playlists selection
-- [Tellement Nomade](http://www.tellementnomade.org/forum/) - \[FR\] 🇫🇷 forum for reviews, advices from audiophiles and discussions about music material (headphones, music players...)
+- [Tellement Nomade](http://www.tellementnomade.org/forum/) - \[FR\] 🇫🇷 forum for reviews, advices from audiophiles and discussions about music material (headphones, music players…)
 - [**Tunefind**](https://www.tunefind.com/browse/tv) - Music from all popular tv shows
 - [**Tunefind**](https://www.tunefind.com/browse/tv-movie) - Music from all popular tv shows and movies
 - [Ranker](http://www.ranker.com/list/songs-based-on-game-of-thrones/ranker-of-thrones) - Some of the Best Songs Based on Game of Thrones
@@ -167,7 +169,7 @@
 - ⭐ [**Y Combinator**](https://news.ycombinator.com/newest) - Hacker News : social news aggregator focusing on computer science and entrepreneurship. Related : [Additional news lists](https://news.ycombinator.com/lists)
 - [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. **Related** : ⭐ [**Newest Show HN**](https://news.ycombinator.com/shownew) and [A List of Hacker News's Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented)
 - ⭐ [**DEVURLS**](https://devurls.com/) - a developer news aggregator.
-- ⭐ [**Product Hunt**](https://www.producthunt.com/) - discover new products (apps, websites, services, ...)
+- ⭐ [**Product Hunt**](https://www.producthunt.com/) - discover new products (apps, websites, services, …)
 - [TechCrunch](https://techcrunch.com/) - latest technology news and information on startups
 - ⭐ [**Le Gorafi**](http://www.legorafi.fr/) - \[FR\] 🇫🇷 news satire
 - [Summaread](http://www.summaread.com/) - Millions of articles summarized daily
@@ -336,7 +338,7 @@ See also [Monitoring](https://github.com/MorganGeek/bookmarks#monitoring)
 - [Michael Cote](http://www.theregister.co.uk/2018/02/06/devops_no_ops_less_ops/) - (2018) The many-faced god of operational excellence, DevOps and now 'site reliability engineering'
 - [Jamie Andrews](https://sysadvent.blogspot.be/2017/12/day-16-inspec-gives-insight.html) - (2017) Inspec gives insight
 - [Alice Goldfuss](https://sysadvent.blogspot.be/2016/12/day-6-no-more-on-call-martyrs.html) - (2016) No More On-Call Martyrs
-- ⭐ [**Rob Kinyon**](https://sysadvent.blogspot.be/2016/12/day-10-what-does-operations-do.html) - (2016) What does Operations _do_?
+- ⭐ [**Rob Kinyon**](https://sysadvent.blogspot.be/2016/12/day-10-what-does-operations-do.html) - (2016) What does Operations *do*?
 - [Anna Kennedy](https://sysadvent.blogspot.be/2017/12/day-22-building-secure-bastion-host-or.html) - (2017) Building a secure bastion host, or, 50 ways to kill your server. **Bonus** : [Slides](https://www.slideshare.net/AnnaKennedy11/building-a-secure-bastion-or-50-ways-to-kill-your-server-81551575)
 - [Patrick Cable](https://sysadvent.blogspot.be/2017/12/day-4-this-christmas-build-your-own-pki.html) - (2017) This Christmas, build your own PKI
 - [Robert Treat](https://sysadvent.blogspot.be/2017/12/day-6-sysadmins-evolution-of-role.html) - (2017) sysadmins - the evolution of a role amidst revolutionary hype.

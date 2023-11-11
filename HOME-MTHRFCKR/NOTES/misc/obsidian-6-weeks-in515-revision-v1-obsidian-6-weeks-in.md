@@ -8,6 +8,8 @@ guid: 'https://whoisdsmith.ctrlaltback.space/?p=615'
 permalink: '/?p=615'
 ---
 
+# obsidian-6-weeks-in515-revision-v1-obsidian-6-weeks-in
+
 Just posting a little update on my vault. I’m up to 748 notes, mostly consisting of personal automation documentation and bookmarks.
 
 Lots of work and a lot of headaches at certain times but over all, Obsidian has been a game changer

@@ -1,8 +1,10 @@
+# Getting-contrarian-with-text-structured-data
+
 (^)
 
 ## DataWords: Getting Contrarian with Text, Structured Data
 
-## and Explanations
+## And Explanations
 
 ### Stephen I. Gallant Mirza Nasir Hossain
 
@@ -34,7 +36,7 @@ inferences in terms of both free text and structured data.
 Keywords: machine learning, classification, text, structured data, explanations, ICD medical
 ```
 
-### codes, Computer Assisted Coding, extraction, named entity recognition
+### Codes, Computer Assisted Coding, Extraction, Named Entity Recognition
 
 ### 1 Introduction
 
@@ -64,7 +66,7 @@ claim state-of-the-art performance on any standard tests; it gives a simple new 
 building models from a combination of free-text and structured data. We saw improved results in  
 our tests predicting ICD codes.
 
-### 2 Structured data is harder to model than free text
+### 2 Structured Data is Harder to Model than Free Text
 
 Structured data is usually considered easier to model than modeling free-text, because we can employ  
 traditional statistical approaches such as regression, as well as neural network/deep learning  
@@ -77,7 +79,7 @@ data requires much effort prior to applying statistical or machine learning algo
     variables to include in modeling. Using all – thousands – of variables from the Electronic  
     Health Record is not practical. For applications that involve thousands of models, such as  
     ICD-10 Computer-Assisted Coding (CAC), variable selection becomes problematic, because  
-    different models (diabetes, flu, ...) would benefit from their own different subsets of  
+    different models (diabetes, flu, …) would benefit from their own different subsets of  
     variables.
 - Database field identification: A particular variable might reside in many similarly-named  
     EHR database fields, requiring help from experts in the current EHR architecture to determine  
@@ -85,7 +87,7 @@ data requires much effort prior to applying statistical or machine learning algo
 - Missing data: Always requires attention and effort with traditional structured data modeling.
 - Data preparation: There is not a single blood pressure measurement – there may be dozens  
     entered at various times. This requires appropriate rolling up of the numerical data (mean,  
-    median, max, min, temporal changes, ...).
+    median, max, min, temporal changes, …).
 
 These are just some of the difficulties involved with modeling structured data from the EHR.
 
@@ -109,7 +111,7 @@ modeling methods use “good enough” structured data algorithms at their core 
 do not overwhelm them.
 
 Perhaps the most widespread approach to unstructured text involves creating rules, such as: “if the  
-_text includes ‘diagnose cancer’ then add ‘cancer’ to the list of diagnoses_ ”. A problem with rules-  
+*text includes ‘diagnose cancer’ then add ‘cancer’ to the list of diagnoses* ”. A problem with rules-  
 based approaches is that they can require an enormous number of manually-created rules which  
 interact with each other. For example, with Computer-Assisted Medical Coding software for ICD- 10  
 codes, some commercial rules-based approaches require over 500,000 manually-coded rules! Rule  
@@ -157,7 +159,7 @@ also be a drawback if it brings in irrelevant values, i.e. noise. It may also re
 selection step, to produce an appropriate subset of variables for different patient encounters. We  
 further examine these tradeoffs in experiments below.
 
-### 3 Directly combining free-text and structured data models
+### 3 Directly Combining Free-text and Structured Data Models
 
 Assume we are given both free-text and structured-data models for predicting the same target, where  
 the target might be ICD-10 code “Q24.6” (Congenital heart block). It is certainly straightforward to  
@@ -175,7 +177,7 @@ modeling.
 
 We propose a different approach.
 
-### 4 Modeling structured data by treating it as text
+### 4 Modeling Structured Data by Treating it as Text
 
 For this work, our starting point is the ability to model and make predictions from unstructured text.  
 This is currently done in our software product, referred to as “NoNLP” because it avoids rules-based  
@@ -220,9 +222,9 @@ machine learning recognize cases where temperature might be either high or very-
 
 Similarly, DataWords sentences can be created for low and very low temperatures.
 
-In general, a single DataWord has a data name part, e.g. “_Temp_”, and a data value part, e.g.  
-“_high\_range_”. The data value part can also consist of textual values, e.g. “_negative_”, when  
-associated with tests, such as “_lime\_disease\_test_”.
+In general, a single DataWord has a data name part, e.g. “*Temp*”, and a data value part, e.g.  
+“*high\_range*”. The data value part can also consist of textual values, e.g. “*negative*”, when  
+associated with tests, such as “*lime\_disease\_test*”.
 
 As mentioned, a key objective with DataWords transformations is to turn similar structured data  
 values into the same DataWords, thereby helping the modeling learn more quickly and produce more  
@@ -292,7 +294,7 @@ following processing steps:
 
 ### 8 Case Studies
 
-### 8.1 Using extraction
+### 8.1 Using Extraction
 
 As noted, we can obtain structured data either from using extraction software on the original text, or  
 by accessing a database that is associated with the text. We have experimented with the following  
@@ -360,21 +362,21 @@ delimited terms in the texts were 21,792 and 43,554 respectively. MIMIC texts ar
 progress notes, and are full of abbreviations, misspellings, local usages, etc. Extracts were quite  
 noisy. Modeling targets were ICD-9 codes in MIMIC.
 
-### All tests are 4-fold CV
+### All Tests Are 4-fold CV
 
 ### 1\. Proprietary “S” Dataset
 
-### \# encounters: 748
+### \# Encounters: 748
 
-### \# documents: 2107
+### \# Documents: 2107
 
-### \# codes: 32829
+### \# Codes: 32829
 
-### \# Unique ICD- 10 codes: 1901
+### \# Unique ICD- 10 Codes: 1901
 
-### Avg Codes per document: 15
+### Avg Codes per Document: 15
 
-### Dataset DataWords NER F1 Precision Recall Time per fold
+### Dataset DataWords NER F1 Precision Recall Time per Fold
 
 ### (mins)
 
@@ -386,11 +388,11 @@ noisy. Modeling targets were ICD-9 codes in MIMIC.
 
 ### 2\. Proprietary “P” Dataset
 
-### \# encounters: 966
+### \# Encounters: 966
 
-### \# documents: 966
+### \# Documents: 966
 
-### \# Unique ICD- 10 codes: 1749
+### \# Unique ICD- 10 Codes: 1749
 
 ### Dataset DataWords NER F1 Precision Recall
 
@@ -400,15 +402,15 @@ noisy. Modeling targets were ICD-9 codes in MIMIC.
 
 ### 3\. Mimic-III (ICD-9) (subset)
 
-### \# encounters: 1148
+### \# Encounters: 1148
 
-### \# documents: 1148
+### \# Documents: 1148
 
-### \# codes: 9867
+### \# Codes: 9867
 
-### \# Unique codes: 1571
+### \# Unique Codes: 1571
 
-### Avg Codes per document: 8
+### Avg Codes per Document: 8
 
 ```
 DataWords NER F1 Precision Recall Time per fold (mins)
@@ -434,7 +436,7 @@ Yes CliNER 0.345 0.508 0.325 ~
 Yes cTAKES 0.365 0.495 0.351 ~
 ```
 
-### 4\. Mimic-III (ICD-9) (different subset with shorter text lengths)
+### 4\. Mimic-III (ICD-9) (different Subset with Shorter Text lengths)
 
 ```
 DataWords NER F1 Precision Recall Comment^
@@ -465,7 +467,7 @@ For modeling, we used proprietary Textician software, which constructs a fixed-l
 representation for each document, employs a type of regression to model each code, and a final  
 threshold fitting step. Software is very fast for model-building and for scoring.
 
-### 8.2 Using structured database values
+### 8.2 Using Structured Database Values
 
 We also experimented with using structured data values taken directly from the MIMIC database. For  
 this experiment we used a different MIMIC subsample consisting of 2000 clinical notes, sampled  

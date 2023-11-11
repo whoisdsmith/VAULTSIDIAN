@@ -1,14 +1,14 @@
-# Indoor Information Retrieval using Lifelog Data
+# Indoor Information Retrieval Using Lifelog Data
 
-### Deepanwita Datta
+## Deepanwita Datta
 
 ```
 Indian Institute of Technology (BHU), Varanasi, India
 ```
 
-### September 10, 2018
+## September 10, 2018
 
-## 1 Summary
+# 1 Summary
 
 Studying human behaviour through lifelogging has seen an increase in attention from researchers  
 over the past decade. The opportunities that lifelogging offers are based on the fact that a lifelog,  
@@ -24,7 +24,7 @@ of lifelog data coupled with Information Retrieval is not only a promising resea
 the possibility of its indoor application especially for healthcare, lost-item tracking would be  
 an innovative research idea to the best of our knowledge.
 
-## 2 Introduction
+# 2 Introduction
 
 The rapid growth of personal devices, such as smartphones, video cameras as well as different  
 wearable devices makes available a massive volume of personal data, i.e., Lifelog data, by  
@@ -158,7 +158,7 @@ Of course that would need a real-time response system, which would be our focus 
 the standard system is in place.
 ```
 
-## 3 Background
+# 3 Background
 
 Lifelogging represents a phenomenon whereby people can digitally record their own daily lives  
 in varying amounts of detail, for a variety of purposes. Capturing a human’s life activities,  
@@ -229,7 +229,7 @@ video retrieval \[9\], recorded audio retrieval \[20\], image retrieval \[5\] an
 collection for lifelog research was published by NTCIR that is designed to index and retrieve  
 multimodal lifelog data \[7\].
 
-## 4 Experimental requirements
+# 4 Experimental Requirements
 
 In this section, we list the possible requirements in terms of hardware and software. The  
 specifications are only indicative and may increase or decrease as per the requirement of the  
@@ -272,7 +272,7 @@ cies associated with comparing and computing similarities between representation
 is used as a programming language, libraries such as tensorflow, numpy, scipy, scikitLearn,  
 pickle might be required.
 
-### 4.1 Dataset
+## 4.1 Dataset
 
 A prime requirement towards successful implementation of the project hinges on the data over  
 which the experiment is carried out. While the data may be collected and aggregated from  
@@ -343,7 +343,7 @@ Table 1: Statistics of Lifelog Dataset
 
 alone is a part that can be designated as a separate subtask under the project.
 
-## 5 Work Plan
+# 5 Work Plan
 
 ```
 I. Preparing a dataset: Once we consider Cross-Lingual Retrieval as a part of our project,
@@ -432,7 +432,7 @@ low latency and should produce the retrieval results with minimum errors. Again,
 sourcing could be a potential tool in this cause.
 ```
 
-## 6 Dissemination Plan
+# 6 Dissemination Plan
 
 The dissemination encompasses the publishing of scientific and technical articles, papers, posters  
 and oral presentations at relevant international conferences, journals, symposiums, and work-  
@@ -493,7 +493,7 @@ xi. IEEE International Conference on Mobile Data Management (MDM)
 xii. International Conference on Very Large Data Bases (VLDB)
 ```
 
-## References
+# References
 
 ```
 [1] Seyed Ali Bahrainian and Fabio Crestani. Augmentation of human memory: Anticipating

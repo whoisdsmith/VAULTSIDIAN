@@ -1,9 +1,11 @@
+# The-assessment-tools-used-in-memex
+
 ```
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 870743.
 The views and opinions expressed in this document are the sole responsibility of the author and do not necessarily reflect the views of the European Commission.
 ```
 
-## The assessment tools used in MEMEX
+## The Assessment Tools Used in MEMEX
 
 The MEMEX project promotes social cohesion through collaborative and heritage-related  
 tools that provide inclusive access to tangible and intangible cultural heritage and, at the  
@@ -94,7 +96,7 @@ These recommendations are aiming to increase the awareness of policy makers on k
 specific topics and to advocate for the reinforcement of their support from local to  
 European level as key tools for assessing socio-cultural projects.
 
-## Key Messages to policy makers
+## Key Messages to Policy Makers
 
 - **Analytical and flexible application**  
     Existing tools, such as SRLs, can prove useful and applicable to different contexts,  
@@ -117,24 +119,24 @@ European level as key tools for assessing socio-cultural projects.
 Copyright @MEMEX project
 ```
 
-### Read more about the MEMEX project: <https://memexproject.eu/en>
+### Read More about the MEMEX Project: <https://memexproject.eu/en>
 
 ### Contact: alessio.delbue@iit.it, contact@memexproject.eu
 
-### Grant agreement ID: 870743
+### Grant Agreement ID: 870743
 
-### Start date: 1 December 2019
+### Start Date: 1 December 2019
 
-### End date: 30 November 2022
+### End Date: 30 November 2022
 
-### Funded under topic: H2020-DT-TRANSFORMATIONS- 11 - 2019
+### Funded under Topic: H2020-DT-TRANSFORMATIONS- 11 - 2019
 
-### Collaborative approaches to cultural heritage for social cohesion
+### Collaborative Approaches to Cultural Heritage for Social Cohesion
 
-### Overall budget: € 3 995 036
+### Overall Budget: € 3 995 036
 
-### EU contribution: € 3 995 036
+### EU Contribution: € 3 995 036
 
-### Coordinated by Fondazione Istituto Italiano di Tecnologia (IIT), Italy
+### Coordinated by Fondazione Istituto Italiano Di Tecnologia (IIT), Italy
 
-### Cordis page: <https://cordis.europa.eu/project/id/>
+### Cordis Page: <https://cordis.europa.eu/project/id/>

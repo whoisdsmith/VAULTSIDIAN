@@ -8,3 +8,4 @@ guid: 'https://whoisdsmith.ctrlaltback.space/?p=700'
 permalink: '/?p=700'
 ---
 
+# journal695-revision-v1-journal

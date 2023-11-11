@@ -8,6 +8,8 @@ guid: 'https://whoisdsmith.ctrlaltback.space/?p=911'
 permalink: '/?p=911'
 ---
 
+# life-is-a-simulation910-revision-v1-life-is-a-simulation
+
 - - - - - -
 
 I know what depression is, what it feels like. What it does to you, what it makes you do to others.
@@ -41,4 +43,5 @@ I don’t feel suicidal in any way, I don’t have the effort or ambition to end
 An infinite loop, which repeats indefinitely, is often created when a programmer writes a loop in which the expression tested never becomes false.
 
 ```
+
 ```

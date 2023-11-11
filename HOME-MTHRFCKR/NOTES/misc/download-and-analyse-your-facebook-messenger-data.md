@@ -8,7 +8,7 @@ With over 2 billions user, Facebook is the most popular platform today. Most of 
 
 Today, I am going to show you how to download your Facebook message data and how to analyse it.
 
-## Download your Facebook Data
+## Download Your Facebook Data
 
 - Open your Facebook and go into **Settings & Privacy** > **Settings**
 - Go to **Your Facebook Information** > **Download Your Information**
@@ -18,7 +18,7 @@ Today, I am going to show you how to download your Facebook message data and how
 
 Facebook will create a zip file on their server and notify you when the file is ready to download. It took me around one day to get the zip file.
 
-## Pre-process your Facebook Message Data
+## Pre-process Your Facebook Message Data
 
 Before working on any analysis, the first thing that we have to do is pre-process the data. These are the folder inside the message data after we unzip the downloaded file.
 
@@ -58,7 +58,7 @@ output.csv
 "2016-03-20 13:48:01",Matthew,We are at ....
 ```
 
-## Analyse my Facebook Message Behaviour
+## Analyse My Facebook Message Behaviour
 
 My Facebook Messenger Activity Trend
 

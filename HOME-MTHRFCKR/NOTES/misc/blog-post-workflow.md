@@ -262,6 +262,7 @@ Make sure that you follow [CODE_OF_CONDUCT.md](/CODE_OF_CONDUCT.md) while contri
 ### ToDo
 
 * [ ] Add more sources
+
 * [ ] Fix bugs if any
 
 ## Bugs
@@ -271,11 +272,17 @@ If you are experiencing any bugs, don’t forget to open a [new issue](https://g
 ## Thanks to
 
 * All the **5.7K+✨** [users](https://github.com/search?l=YAML&o=desc&q=gautamkrishnar%2Fblog-post-workflow&s=indexed&type=Code) of this workflow
+
 * Everyone for making this project the top 20 most installed / starred action in the [GitHub Marketplace](https://github.com/marketplace?category=&query=sort%3Apopularity-desc&type=actions&verification=)
+
 * All the [contributors](https://github.com/gautamkrishnar/blog-post-workflow/graphs/contributors)
+
 * [@codeSTACKr](https://github.com/codeSTACKr) for [this](https://www.youtube.com/watch?v=ECuqb5Tv9qI) amazing video
+
 * [CodeCov](https://about.codecov.io/) for this blog: [Discovering the Most Popular and Most Used GitHub Actions](https://about.codecov.io/blog/discovering-the-most-popular-and-most-used-github-actions/)
+
 * [the byte podcast](https://podcast.thebyte.io/episodes/learn-how-to-pimp-out-your-github-profile)
+
 * **JetBrains** for sponsoring the Open Source License to my favourite IDE WebStorm:
 
  <a href="https://www.jetbrains.com/?from=SOCLI" target="_blank">

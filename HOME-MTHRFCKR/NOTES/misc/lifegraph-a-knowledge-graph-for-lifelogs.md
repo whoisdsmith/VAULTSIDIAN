@@ -1,82 +1,82 @@
 # LifeGraph: a Knowledge Graph for Lifelogs
 
-#### Rossetto, Luca ; Baumgartner, Matthias ; Ashena, Narges ; Ruosch, Florian ; Pernisch, Romana
+## Rossetto, Luca ; Baumgartner, Matthias ; Ashena, Narges ; Ruosch, Florian ; Pernisch, Romana
 
-#### Bernstein, Abraham
+## Bernstein, Abraham
 
-#### Abstract: The data produced by efforts such as life logging is commonly multi modal and can have
+## Abstract: The Data Produced by Efforts such as Life Logging is Commonly Multi Modal and Can Have
 
-#### manifold interrelations with itself as well as external information. Representing this data in such a way
+## Manifold Interrelations with Itself as well as External Information. Representing This Data in such a way
 
-#### that these rich relations as well as all the different sources can be leveraged is a non-trivial undertaking
+## That These Rich Relations as well as All the Different Sources Can Be Leveraged is a Non-trivial Undertaking
 
-#### In this paper, we present the first iteration of LifeGraph, a Knowledge Graph for lifelogging data. Life-
+## In This Paper, We Present the First Iteration of LifeGraph, a Knowledge Graph for Lifelogging Data. Life-
 
-#### Graph aims at not only capturing all aspects of the data contained in a lifelog but also linking them to
+## Graph Aims at not only Capturing All Aspects of the Data Contained in a Lifelog but also Linking Them to
 
-#### external, static knowledge bases in order to put the log as a whole as well as its individual entries into a
+## External, Static Knowledge Bases in order to Put the Log as a Whole as well as Its Individual Entries into a
 
-#### broader context. In the Lifelog Search Challenge 2020, we show a first proof-of-concept implementation
+## Broader Context. In the Lifelog Search Challenge 2020, We Show a First Proof-of-concept Implementation
 
-#### of LifeGraph as well as a retrieval system prototype which utilizes it to search the log for specific events
+## Of LifeGraph as well as a Retrieval System Prototype Which Utilizes it to search the Log for Specific Events
 
-#### DOI: <https://doi.org/10.1145/3379172>
+## DOI: <https://doi.org/10.1145/3379172>
 
-#### Posted at the Zurich Open Repository and Archive, University of Zurich
+## Posted at the Zurich Open Repository and Archive, University of Zurich
 
-#### ZORA URL: <https://doi.org/10.5167/uzh>-
+## ZORA URL: <https://doi.org/10.5167/uzh>-
 
-#### Conference or Workshop Item
+## Conference or Workshop Item
 
-#### Published Version
+## Published Version
 
-#### Originally published at
+## Originally Published at
 
-#### Rossetto, Luca; Baumgartner, Matthias; Ashena, Narges; Ruosch, Florian; Pernisch, Romana; Bernstein
+## Rossetto, Luca; Baumgartner, Matthias; Ashena, Narges; Ruosch, Florian; Pernisch, Romana; Bernstein
 
-#### Abraham (2020). LifeGraph: a Knowledge Graph for Lifelogs. In: Third Annual Workshop on the Lifelog
+## Abraham (2020). LifeGraph: a Knowledge Graph for Lifelogs. In: Third Annual Workshop on the Lifelog
 
-#### Search Challenge, Dublin, Ireland, 9 June 2020, ACM
+## Search Challenge, Dublin, Ireland, 9 June 2020, ACM
 
-#### DOI: <https://doi.org/10.1145/3379172>
+## DOI: <https://doi.org/10.1145/3379172>
 
-## Luca Rossetto
+# Luca Rossetto
 
-#### University of Zurich
+## University of Zurich
 
-#### rossetto@ifi.uzh.ch
+## rossetto@ifi.uzh.ch
 
-## Matthias Baumgartner
+# Matthias Baumgartner
 
-#### University of Zurich
+## University of Zurich
 
-#### baumgartner@ifi.uzh.ch
+## baumgartner@ifi.uzh.ch
 
-## Narges Ashena
+# Narges Ashena
 
-#### University of Zurich
+## University of Zurich
 
-#### ashena@ifi.uzh.ch
+## ashena@ifi.uzh.ch
 
-## Florian Ruosch
+# Florian Ruosch
 
-#### University of Zurich
+## University of Zurich
 
-#### ruosch@ifi.uzh.ch
+## ruosch@ifi.uzh.ch
 
-## Romana Pernischová
+# Romana Pernischová
 
-#### University of Zurich
+## University of Zurich
 
-#### pernischova@ifi.uzh.ch
+## pernischova@ifi.uzh.ch
 
-## Abraham Bernstein
+# Abraham Bernstein
 
-#### University of Zurich
+## University of Zurich
 
-#### bernstein@ifi.uzh.ch
+## bernstein@ifi.uzh.ch
 
-### ABSTRACT
+# ABSTRACT
 
 ```
 The data produced by efforts such as life logging is commonly multi
@@ -94,7 +94,7 @@ retrieval system prototype which utilizes it to search the log for
 specific events.
 ```
 
-### CCS CONCEPTS
+# CCS CONCEPTS
 
 ```
 ·Information systems→Ontologies;Users and interactive re-
@@ -102,7 +102,7 @@ trieval;Specialized information retrieval; Content analysis and fea-
 ture selection.
 ```
 
-### KEYWORDS
+# KEYWORDS
 
 ```
 Lifelogging, Lifelog Search Challenge, Knowledge Graphs, Graph-
@@ -115,7 +115,7 @@ Lifelog Search Challenge (LSC ’20), June 9, 2020, Dublin, Ireland.ACM, New
 York, NY, USA, 5 pages. https://doi.org/10.1145/3379172.
 ```
 
-### 1 INTRODUCTION
+# 1 INTRODUCTION
 
 With the increase in both capability and availability of mobile  
 computation and sensing technologies, the means for capturing  
@@ -132,7 +132,7 @@ republish, to post on servers or to redistribute to lists, requires prior specif
 and/or a fee. Request permissions from permissions@acm.org.  
 LSC ’20, June 9, 2020, Dublin, Ireland  
 © 2020 Copyright held by the owner/author(s). Publication rights licensed to ACM.  
-ACM ISBN 978-1-4503-7136-0/20/06...$15.  
+ACM ISBN 978-1-4503-7136-0/20/06…$15.  
 <https://doi.org/10.1145/3379172>.
 
 ```
@@ -173,7 +173,7 @@ Section 5 then provides some details on the system prototype which
 is used in the Lifelog Search Challenge before Section 6 concludes.
 ```
 
-### 2 RELATED WORK
+# 2 RELATED WORK
 
 ```
 In the comparatively short time the Lifelog Search Challenge offers
@@ -225,7 +225,7 @@ info boxes \[ 15 \]. The capability to access information in a KG is
 provided by the SPARQL query language which allows to define  
 graph patterns that are matched against \[9\].
 
-### 3 KNOWLEDGE-GRAPH CONSTRUCTION
+# 3 KNOWLEDGE-GRAPH CONSTRUCTION
 
 This section outlines the construction procedure of the LifeGraph  
 as well as the data sources and annotation methods used.  
@@ -241,7 +241,7 @@ individuals or population as defined in the TBox. Therefore, the
 TBox corresponds to a database schema, whereas the ABox can be  
 compared to the tables within the same database.
 
-### 3.1 Data Sources
+# 3.1 Data Sources
 
 ```
 In order to maximize intelligence, we fuse information from mul-
@@ -273,7 +273,7 @@ Britannica Online) it enables enriching keywords with additional
 semantic information.
 ```
 
-### 3.2 Graph Schema
+# 3.2 Graph Schema
 
 ```
 Meta-data and detectables.For defining a graph structure, we
@@ -330,7 +330,7 @@ The connection between the meta-data and COEL will inherently
 happen though the images.
 ```
 
-### 3.3 Linking
+# 3.3 Linking
 
 We extend COEL by linking it to Wikidata entities in two ways.  
 First, we create a mapping between COEL concepts and Wikidata  
@@ -366,7 +366,7 @@ COEL tree map to the same Wikidata entity if they have the same
 label. For example, Hair is mapped to the same entity whether it is  
 part of COEL:Personalcare or COEL:Childcare.
 
-### 3.4 Image annotation
+# 3.4 Image Annotation
 
 In addition to some freely available pretrained object localizers \[ 20 ,  
 21 \] we construct an array of binary classifiers to detect the presence  
@@ -378,7 +378,7 @@ their training, we use a combination of several image datasets \[ 14 ,
 which can be meaningfully linked to other nodes in the graph  
 structure.
 
-### 3.5 Temporal Interpolation
+# 3.5 Temporal Interpolation
 
 ```
 Since the temporal aspects of the data might contain gaps due to
@@ -397,14 +397,14 @@ scribed in Section 3.4 but also to the meta-data which was provided
 with the competition dataset.
 ```
 
-### 4 RETRIEVAL
+# 4 RETRIEVAL
 
 ```
 This section provides some details on how retrieval is performed
 in the LifeGraph.
 ```
 
-### 4.1 Query formulation and expansion
+# 4.1 Query Formulation and Expansion
 
 ```
 To specify a query, a user can select an arbitrary number of tags
@@ -418,7 +418,7 @@ predominantly instances ofdetectableobjects or concepts extracted
 from the visual part of the lifelog dataset.
 ```
 
-### 4.2 SPARQL Queries and Templates
+# 4.2 SPARQL Queries and Templates
 
 ```
 SPARQL [ 19 ] is a graph based query language for retrieval of parts
@@ -567,7 +567,7 @@ last example, Query 4, is the most expressive and allows for a wider
 range of applications and also number of tags.
 ```
 
-### 4.3 Filtering
+# 4.3 Filtering
 
 ```
 Once an initial set of images has been found, ranked, and returned
@@ -578,7 +578,7 @@ Filtering over the meta-data but also over the previously queried
 tags is possible.
 ```
 
-### 5 IMPLEMENTATION
+# 5 IMPLEMENTATION
 
 ```
 Our retrieval system prototype consists of several components. A
@@ -595,7 +595,7 @@ is served by a local web server. The entire system stack is illustrated
 in Figure 1.
 ```
 
-### 6 CONCLUSION
+# 6 CONCLUSION
 
 ```
 In this paper, we introduced LifeGraph, a first attempt to represent
@@ -640,7 +640,7 @@ ual lifelog entries and their interrelations but also their context.
 Assuming the support of the growing life logging community such  
 data could enrich future lifelog data-based applications.
 
-### ACKNOWLEDGMENTS
+# ACKNOWLEDGMENTS
 
 The authors would like to thank the anonymous referees for helpful  
 feedback and suggestions. The authors would also like to thank  
@@ -649,7 +649,7 @@ partial support under grant numbers 184994 and 167177 (http://
 [http://www.nfp75.ch).](http://www.nfp75.ch/).) We would also like to thank the Swiss Re Institute  
 financial support.
 
-### REFERENCES
+# REFERENCES
 
 ```
 [1]Grigoris Antoniou and Frank Van Harmelen. 2004.A semantic web primer. MIT

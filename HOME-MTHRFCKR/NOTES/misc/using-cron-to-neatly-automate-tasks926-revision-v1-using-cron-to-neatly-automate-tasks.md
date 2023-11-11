@@ -8,7 +8,9 @@ guid: 'https://whoisdsmith.ctrlaltback.space/?p=927'
 permalink: '/?p=927'
 ---
 
-## Simple task automation with shell scripts (on macOS)
+# using-cron-to-neatly-automate-tasks926-revision-v1-using-cron-to-neatly-automate-tasks
+
+## Simple Task Automation with Shell Scripts (on macOS)
 
 ![Introduction Image containing a clock and some code](https://miro.medium.com/max/700/1*MfQnV8HAIQBjYDyRaLo_mw.jpeg)
 
@@ -26,7 +28,7 @@ Looking into the manual pages of `cron` it states “daemon to execute scheduled
 
 In the world of system administration this could include updating installed software, backing up databases to another system or whatever you may seem reasonable.
 
-## How is `cron` doing that?
+## How is `cron` Doing That?
 
 The magic to describe when a `cron job` runs and what it has to do is described in so called `cron tab` file which is short for “`cron table`” – at least slightly shorter. There are two different variants of crontab file available: system-wide and user-specific. Both of them behave similar but obviously for different scopes.
 
@@ -39,7 +41,7 @@ Instead let us take a look on how a user crontab is structured. Every line in th
 
 ```
 
-## The `cron` expression
+## The `cron` Expression
 
 Combing the asterisks above, they’ll create a `cron` expression. In such an expression each asterisk translates to a specific category of time, ranging from minutes to months.
 
@@ -81,7 +83,7 @@ Example of the [Crontab Guru Website](http://crontab.guru/)
 
 ```
 
-## Environmental circumstances
+## Environmental Circumstances
 
 Whenever the script (or command) behind the `cron` expression is executed, there are some implications which must be clear to the user creating the script. All of those are related to environment variables for the `cron` execution.
 
@@ -112,7 +114,7 @@ While it would be possible to look up your crontab file and edit it with your ed
 
 In case you want to edit another users `crontab` it is possible to specify him with the `-u` argument, but as long as that argument is involved you’ll need to make it `sudo` to make it work.
 
-## A real life example
+## A Real Life Example
 
 So all that theory around `cron` and `crontab` is fine and helpful. But let’s say server administration is not your cup of tea – what could other suitable choices of `cron` jobs?
 
@@ -120,7 +122,7 @@ From time to time my job requires me to make screenshots. Sometimes load of them
 
 The outcome of this scenario was a screenshots directory housing more than 600 screenshots in all sizes and resolutions. And with that information we can go full circle to the beginning of this article: I had need for a repeatable task which deletes screenshots.
 
-## Scripting a solution
+## Scripting a Solution
 
 After thinking about what I can do with the amount of screenshots, I came up with the plan to do a daily check for files older than 30 days and then simply send them into void where they can enjoy the eternity.
 

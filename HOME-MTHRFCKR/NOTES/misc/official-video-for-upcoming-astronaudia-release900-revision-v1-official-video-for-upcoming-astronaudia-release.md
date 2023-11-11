@@ -8,6 +8,8 @@ guid: 'https://whoisdsmith.ctrlaltback.space/?p=904'
 permalink: '/?p=904'
 ---
 
+# official-video-for-upcoming-astronaudia-release900-revision-v1-official-video-for-upcoming-astronaudia-release
+
 Back in 2020 I watched a TED Talk by Kelly Holley-Bockelmann called “The Spacetime Symphony of Gravitational Waves”
 
 It inspired me to write an album about it (I guess it’s more of a soundtrack really) anyways, this was the first song I wrote.

@@ -6,13 +6,14 @@ source: https://doc.owncloud.com/server/next/admin_manual/configuration/server/o
 author: 
 ---
 
-# Using the occ Command :: ownCloud Documentation
+# Using the Occ Command :: ownCloud Documentation
 
 > ## Excerpt
 > Using the occ Command
 
 ---
-# Using the occ Command
+
+# Using the Occ Command
 
 ownCloud’s `occ` command (ownCloud console) is ownCloud’s command-line interface. You can perform many common server operations with `occ`, such as installing and upgrading ownCloud, managing users and groups, encryption, passwords, app settings, and more.
 
@@ -77,9 +78,9 @@ Table of Contents
     -   [Two-Factor TOTP](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#two-factor-totp)
     -   [Windows Network Drive (WND)](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#windows-network-drive-wnd)
 
-## [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#running-occ)Running occ
+## [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#running-occ)Running Occ
 
-### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#check-if-occ-is-set-to-executable)Check if occ Is Set to Executable
+### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#check-if-occ-is-set-to-executable)Check If Occ Is Set to Executable
 
 Note that this step is not necessary when using a docker installation.
 
@@ -114,7 +115,6 @@ On a regular ownCloud installation, `occ` is in the `owncloud/` directory, this 
 -   The HTTP user and group in Arch Linux is `http`.
     
 -   The HTTP user in openSUSE is `wwwrun`, and the HTTP group is `www`.
-    
 
 <table><tbody><tr><td class="icon"><i class="fa icon-tip" title="Tip"></i></td><td class="content"><div class="paragraph"><p>Use the following command to find your HTTP user:</p></div><div class="listingblock"><div class="content"><pre class="highlightjs highlight"><code class="language-bash hljs" data-lang="bash">ps -ef | egrep <span class="hljs-string">'(apache|apache2)'</span> | <span class="hljs-built_in">grep</span> -v `<span class="hljs-built_in">whoami</span>` | <span class="hljs-built_in">grep</span> -v root | <span class="hljs-built_in">head</span> -n1 | awk <span class="hljs-string">'{print $1}'</span></code><div class="source-toolbox"><span class="source-lang">bash</span><button class="copy-button" title="Copy to clipboard"><img src="https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html../../../../../assets/img/octicons-16.svg#view-clippy" alt="copy icon" class="copy-icon"><span class="copy-toast">Copied!</span></button></div></pre></div></div></td></tr></tbody></table>
 
@@ -127,14 +127,13 @@ sudo -u apache /opt/rh/php74/root/usr/bin/php /var/www/html/owncloud/occ
 
 ### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#occ-command-structure)occ Command Structure
 
-The `occ` command has _options_, _commands_, and _arguments_.
+The `occ` command has *options*, *commands*, and *arguments*.
 
 1.  Options are optional.
     
 2.  Commands are required.
     
-3.  Arguments can be required _or_ optional.
-    
+3.  Arguments can be required *or* optional.
 
 The generic syntax is:
 
@@ -150,7 +149,7 @@ sudo -u www-data /var/www/owncloud/occ
 
 If your web server is configured to use a different PHP version than the default (/usr/bin/php), the `occ` command should be run with the same version.
 
-### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#with-a-docker-container)With a Docker Container
+### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#with-a-docker-container)With A Docker Container
 
 If your ownCloud instance is set up in a docker container, you need a user in the group `docker` to perform `occ` commands. An example command looks like this:
 
@@ -160,14 +159,13 @@ docker exec --user www-data <owncloud-container-name> occ <your-command>
 
 For more information on docker, refer to section [Installing with Docker](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html../../installation/docker/index.html).
 
-### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#with-the-owncloud-appliance)With the ownCloud Appliance
+### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#with-the-owncloud-appliance)With The ownCloud Appliance
 
 The ownCloud Appliance offers two possibilities to perform `occ` commands:
 
 1.  Log in to the ownCloud instance as root user with the command `univention-app shell owncloud`. Then use `occ` commands without a preceding `sudo -u www-data`.
     
 2.  Alternatively, you can use `occ` on the host system with the command `univention-app shell owncloud occ` followed by the desired options, commands and arguments.
-    
 
 If you want to find out more about the Appliance, click [here](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html../../appliance/index.html).
 
@@ -303,7 +301,7 @@ sudo -u www-data occ app:list [--] [<search-pattern>]
 
 <table class="tableblock frame-all grid-all stretch"><colgroup><col style="width: 22.2222%;"> <col style="width: 77.7778%;"></colgroup><tbody><tr><td class="tableblock halign-left valign-top"><p class="tableblock"><code>--enabled</code></p></td><td class="tableblock halign-left valign-top"><p class="tableblock">Only display enabled apps. When used, the output will contain the app’s version number as well</p></td></tr><tr><td class="tableblock halign-left valign-top"><p class="tableblock"><code>--disabled</code></p></td><td class="tableblock halign-left valign-top"><p class="tableblock">Only display disabled apps. If the app was previously enabled, the app version is also displayed. When used, the output will contain the app’s version number as well, <em>if</em> it was previously enabled</p></td></tr><tr><td class="tableblock halign-left valign-top"><p class="tableblock"><code>--shipped=&lt;SHIPPED&gt;</code></p></td><td class="tableblock halign-left valign-top"><p class="tableblock">If <code>SHIPPED</code> is set to <code>true</code>, only shipped apps will be listed. If <code>SHIPPED</code> is set to <code>false</code>, only non-shipped apps will be listed</p></td></tr><tr><td class="tableblock halign-left valign-top"><p class="tableblock"><code>-m</code><br><code>--minimal</code></p></td><td class="tableblock halign-left valign-top"><p class="tableblock">Minimal view - only display apps with version When used, the output will contain the app’s version number as well.</p></td></tr><tr><td class="tableblock halign-left valign-top"><p class="tableblock">--output[=OUTPUT]</p></td><td class="tableblock halign-left valign-top"><p class="tableblock">The output format to use (<code>plain</code>, <code>json</code> or <code>json_pretty</code>). [default: "plain"]</p></td></tr></tbody></table>
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#enable-an-app)Enable an App
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#enable-an-app)Enable An App
 
 Enable an app, for example the Market app.
 
@@ -312,7 +310,7 @@ sudo -u www-data occ app:enable market
 market enabled
 ```
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#disable-an-app)Disable an App
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#disable-an-app)Disable An App
 
 ```bash
 sudo -u www-data occ app:disable market
@@ -328,7 +326,6 @@ market disabled
 -   It checks if an app uses ownCloud’s public API (`OCP`) or private API (`OC_`),
     
 -   It also checks for deprecated methods and the validity of the `info.xml` file.
-    
 
 By default all checks are enabled. The Activity app is an example of a correctly-formatted app.
 
@@ -349,7 +346,7 @@ Analysing /var/www/owncloud/apps/files/foo_app.php
    line   49: OC_Util - Static method of private class must not be called
 ```
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#get-the-app-installation-path)Get the App Installation Path
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#get-the-app-installation-path)Get The App Installation Path
 
 You can get the full file path to an app.
 
@@ -429,7 +426,6 @@ Standard
 -   [OpenID Connect (OIDC)](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html../user/oidc/oidc.html)
     
 -   [UI Configuration](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.htmlui-configuration.html)
-    
 
 Enterprise
 
@@ -438,7 +434,6 @@ Enterprise
 -   [Auditing](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html../../enterprise/logging/admin_audit.html)
     
 -   [File Lifecycle Management](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html../../enterprise/file_management/files_lifecycle.html)
-    
 
 occ Commands
 
@@ -459,7 +454,6 @@ occ Commands
 -   [occ Full Text Search](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#full-text-search)
     
 -   [occ LDAP Integration](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#ldap-integration)
-    
 
 #### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#configsystem-references)config:system References
 
@@ -470,17 +464,14 @@ Standard
 -   [Quick Install on Ubuntu 20.04](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html../../installation/quick_guides/ubuntu_20_04.html)
     
 -   [Quick Install on Ubuntu 22.04](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html../../installation/quick_guides/ubuntu_22_04.html)
-    
 
 occ Commands
 
 -   [occ Metrics](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#metrics)
-    
 
 Enterprise
 
 -   [Metrics](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html../../enterprise/reporting/metrics.html)
-    
 
 #### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#config-app-commands)Config App Commands
 
@@ -500,7 +491,7 @@ sudo -u www-data occ config:app:delete [options] [--] <app> <name>
 
 <table class="tableblock frame-all grid-all stretch"><colgroup><col style="width: 22.2222%;"> <col style="width: 77.7778%;"></colgroup><tbody><tr><td class="tableblock halign-left valign-top"><p class="tableblock"><code>--error-if-not-exists</code></p></td><td class="tableblock halign-left valign-top"><p class="tableblock">Checks whether the config exists before deleting it.</p></td></tr><tr><td class="tableblock halign-left valign-top"><p class="tableblock"><code>--output=[OUTPUT]</code></p></td><td class="tableblock halign-left valign-top"><p class="tableblock">The output format to use (<code>plain</code>, <code>json</code> or <code>json_pretty</code>, default is <code>plain</code>).</p></td></tr></tbody></table>
 
-##### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#examples-2)Examples:
+##### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#examples-2)Examples
 
 ```bash
 sudo -u www-data occ config:app:delete myappname provisioning_api
@@ -794,7 +785,7 @@ sudo -u www-data occ config:system:delete [options] [--] <name> (<name>)...
 
 <table class="tableblock frame-all grid-all stretch"><colgroup><col style="width: 22.2222%;"> <col style="width: 77.7778%;"></colgroup><tbody><tr><td class="tableblock halign-left valign-top"><p class="tableblock"><code>--error-if-not-exists</code></p></td><td class="tableblock halign-left valign-top"><p class="tableblock">Checks whether the config exists before deleting it.</p></td></tr><tr><td class="tableblock halign-left valign-top"><p class="tableblock"><code>--output=[OUTPUT]</code></p></td><td class="tableblock halign-left valign-top"><p class="tableblock">The output format to use (<code>plain</code>, <code>json</code> or <code>json_pretty</code>, default is <code>plain</code>).</p></td></tr></tbody></table>
 
-##### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#examples-5)Examples:
+##### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#examples-5)Examples
 
 ```bash
 sudo -u www-data occ config:system:delete maintenance:mode
@@ -815,7 +806,7 @@ sudo -u www-data occ config:system:get [options] [--] <name> (<name>)...
 
 <table class="tableblock frame-all grid-all stretch"><colgroup><col style="width: 32.0388%;"> <col style="width: 67.9612%;"></colgroup><tbody><tr><td class="tableblock halign-left valign-top"><p class="tableblock"><code>--default-value[=DEFAULT-VALUE]</code></p></td><td class="tableblock halign-left valign-top"><p class="tableblock">If no default value is set and the config does not exist, the command will exit with 1.</p></td></tr><tr><td class="tableblock halign-left valign-top"><p class="tableblock"><code>--output=[OUTPUT]</code></p></td><td class="tableblock halign-left valign-top"><p class="tableblock">The output format to use (<code>plain</code>, <code>json</code> or <code>json_pretty</code>, default is <code>plain</code>).</p></td></tr></tbody></table>
 
-##### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#examples-6)Examples:
+##### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#examples-6)Examples
 
 ```bash
 sudo -u www-data occ config:system:get version
@@ -1191,7 +1182,7 @@ sudo -u www-data occ dav:sync-system-addressbook
 
 #### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#database-conversion-commands)Database Conversion Commands
 
-##### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#convert-the-database-type)Convert the Database Type
+##### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#convert-the-database-type)Convert The Database Type
 
 The SQLite database is good for testing, and for ownCloud servers with small single-user workloads that do not use sync clients, but production servers with multiple users should use MariaDB, MySQL, or PostgreSQL. You can use `occ` to convert from SQLite to one of these other databases.
 
@@ -1207,7 +1198,6 @@ You need:
 -   The login and password of a database admin user.
     
 -   The database port number, if it is a non-standard port.
-    
 
 This is example converts SQLite to MySQL/MariaDB:
 
@@ -1217,7 +1207,7 @@ sudo -u www-data occ db:convert-type mysql oc_dbuser 127.0.0.1 oc_database
 
 <table><tbody><tr><td class="icon"><i class="fa icon-tip" title="Tip"></i></td><td class="content">For a more detailed explanation see <a href="https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html../database/db_conversion.html" class="page">converting database types</a>.</td></tr></tbody></table>
 
-##### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#convert-the-mysql-charset)Convert the MySQL Charset
+##### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#convert-the-mysql-charset)Convert The MySQL Charset
 
 Convert charset of MySQL/MariaDB to use utf8mb4. If you are using an older ownCloud installation, the database may not be setup to use the 4-byte unicode charset. This command changes the database charset to use `utf8mb4`. Check your database charset before you use this command.
 
@@ -1225,7 +1215,7 @@ Convert charset of MySQL/MariaDB to use utf8mb4. If you are using an older ownCl
 sudo -u www-data occ db:convert-mysql-charset
 ```
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#restore-the-table-format)Restore the Table Format
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#restore-the-table-format)Restore The Table Format
 
 This command sets the default row format of MySQL/MariaDB tables. This is only necessary once before you are going to e.g. install MariaDB 10.6 or higher because the COMPRESSED row format is now read-only by default. As a prerequisite, ownCloud 10.9 needs to be installed first. See the [Database Upgrade](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html../../maintenance/upgrading/database_upgrade.html) guide for details.
 
@@ -1281,7 +1271,7 @@ sudo -u www-data occ encryption:status
  - defaultModule: OC_DEFAULT_MODULE
 ```
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#encrypt-the-users-home-storage)Encrypt the Users Home Storage
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#encrypt-the-users-home-storage)Encrypt The Users Home Storage
 
 Server-side encryption for local storage like the users home and remote storages like Google Drive can operate independently of each other. By doing so, you can encrypt a remote storage without also having to encrypt the users home storage on your ownCloud server. Possible values are `0` and `1`
 
@@ -1332,11 +1322,11 @@ Users must have enabled recovery keys on their Personal pages. You must first pu
 
 ##### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#method-descriptions)Method Descriptions
 
-###### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#recovery-method)Recovery method
+###### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#recovery-method)Recovery Method
 
 This method reads the value from the environment variable `OC_RECOVERY_PASSWORD`. This variable bounds the value of recovery password set in the encryption page. If this variable is not set the recovery process will be halted. This has to be used for decrypting all users. While opting recovery method user should not forget to set `OC_RECOVERY_PASSWORD` in the shell.
 
-###### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#password-method)Password method
+###### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#password-method)Password Method
 
 This method reads the value from the environment variable `OC_PASSWORD`. This variable bounds the value of user password. The password which user uses to login to oC account. When password method is opted the user needs to set this variable in the shell.
 
@@ -1370,7 +1360,7 @@ Background: the `oc_filecache` database table contains the integer columns "vers
 
 #### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#hsm-related-commands)HSM Related Commands
 
-##### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#export-or-import-the-masterkey)Export or Import the Masterkey
+##### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#export-or-import-the-masterkey)Export Or Import the Masterkey
 
 ```bash
 sudo -u www-data occ encryption:hsmdaemon [options]
@@ -1384,7 +1374,7 @@ sudo -u www-data occ encryption:hsmdaemon [options]
 
 The private key file in the directory may be named like `master_08ea43b7.privateKey`.
 
-##### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#test-to-decrypt-a-string)Test to Decrypt a String
+##### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#test-to-decrypt-a-string)Test To Decrypt a String
 
 Allows to test the `hsmdaemon` setup by providing an encrypted string to ownCloud and test if it can be decrypted.
 
@@ -1400,7 +1390,7 @@ sudo -u www-data occ encryption:hsmdaemon:decrypt [options] [--] <decrypt>
 
 <table class="tableblock frame-all grid-all stretch"><colgroup><col style="width: 30%;"> <col style="width: 70%;"></colgroup><tbody><tr><td class="tableblock halign-left valign-top"><p class="tableblock"><code>--username[=USERNAME]</code></p></td><td class="tableblock halign-left valign-top"><p class="tableblock">The name of the user who is able to decrypt the provided string</p></td></tr><tr><td class="tableblock halign-left valign-top"><p class="tableblock"><code>--keyId[=KEYID]</code></p></td><td class="tableblock halign-left valign-top"><p class="tableblock">The keyId which was used to encrypt the provided string</p></td></tr></tbody></table>
 
-##### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#set-the-hsm-url)Set the HSM URL
+##### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#set-the-hsm-url)Set The HSM URL
 
 Set the url on which the `hsmdaemon` REST-API is reachable.
 
@@ -1408,7 +1398,7 @@ Set the url on which the `hsmdaemon` REST-API is reachable.
 sudo -u www-data occ config:app:set encryption hsm.url --value 'http://127.0.0.1:8513'
 ```
 
-##### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#set-the-json-web-token-secret)Set the JSON Web Token Secret
+##### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#set-the-json-web-token-secret)Set The JSON Web Token Secret
 
 To access the `hsmdaemon` API, ownCloud must authenticate with a JWT (JSON Web Token). The given secret is shared between the `hsdmdaemon` (see the hsmdaemon.toml configuration file) and ownCloud to sign the JWT. See the [HSM documentation](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.htmlsecurity/hsmdaemon/index.html) for an example how to generate a secret.
 
@@ -1416,7 +1406,7 @@ To access the `hsmdaemon` API, ownCloud must authenticate with a JWT (JSON Web T
 sudo -u www-data occ config:app:set encryption hsm.jwt.secret --value '7a7d1826-b514-4d9f-afc7-a7485084e8de'
 ```
 
-##### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#set-the-jwt-clockskew)Set the JWT Clockskew
+##### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#set-the-jwt-clockskew)Set The JWT Clockskew
 
 The JWT described above has an expiry timestamp. In case the time clocks on ownCloud and hsmdaemon system drift or skew apart, additional time is added to the expiry time to counteract this situation. Set or change the clockskew only if ownCloud advises to do so. Defaults to 120, value is in seconds.
 
@@ -1456,7 +1446,7 @@ files
 
 <table><tbody><tr><td class="icon"><i class="fa icon-important" title="Important"></i></td><td class="content">These commands are not available in <a href="https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#maintenance-commands">single-user (maintenance) mode</a>.</td></tr></tbody></table>
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#the-filescheck-cache-command)The files:check-cache command
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#the-filescheck-cache-command)The files:check-cache Command
 
 The main purpose of this command is to clear the cache for objectstores (`objectstore` and `files_primary_S3` apps) as primary storage, but it is not limited to this type of storage. It can be used for any other type as long it is the primary storage.
 
@@ -1492,7 +1482,7 @@ sudo -u www-data occ files:check-cache maria maria@smbhome/myfile.txt
 Ignoring maria@smbhome/myfile.txt because it is shared or not inside the primary storage
 ```
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#the-fileschecksumsverify-command)The files:checksums:verify command
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#the-fileschecksumsverify-command)The files:checksums:verify Command
 
 ownCloud supports file integrity checking, by computing and matching checksums. Doing so ensures that transferred files arrive at their target in the exact state as they left their origin.
 
@@ -1520,11 +1510,11 @@ Mismatch for thumbnails/9/2048-2048-max.png:
 
 <table class="tableblock frame-all grid-all stretch"><colgroup><col style="width: 22.2222%;"> <col style="width: 77.7778%;"></colgroup><tbody><tr><td class="tableblock halign-left valign-top"><p class="tableblock"><code>-r, --repair</code></p></td><td class="tableblock halign-left valign-top"><p class="tableblock">Repair filecache-entry with mismatched checksums.</p></td></tr><tr><td class="tableblock halign-left valign-top"><p class="tableblock"><code>-u, --user=USER</code></p></td><td class="tableblock halign-left valign-top"><p class="tableblock">Specific user to check.</p></td></tr><tr><td class="tableblock halign-left valign-top"><p class="tableblock"><code>-p, --path=PATH</code></p></td><td class="tableblock halign-left valign-top"><p class="tableblock">Path to check relative to user folder. [default: ""]. For example, if the user’s id was "john" and the <code>--path</code> value was "tree/apple", the command would check the ownCloud directory <code>/john/files/tree/apple</code>.</p></td></tr></tbody></table>
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#the-filescleanup-command)The files:cleanup command
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#the-filescleanup-command)The files:cleanup Command
 
 `files:cleanup` tidies up the server’s file cache by deleting all file entries that have no matching entries in the storage table.
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#the-filesscan-command)The files:scan command
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#the-filesscan-command)The files:scan Command
 
 The `files:scan` command
 
@@ -1535,7 +1525,6 @@ The `files:scan` command
 -   Repairs file cache holes.
     
 -   Updates the file cache.
-    
 
 File scans can be performed per-user, for a space-delimited list of users, for groups of users, and for all users.
 
@@ -1587,10 +1576,9 @@ The `--path`, `--all`, `--group`, `--groups` and `[user_id]` parameters are excl
 
 As noted above, repairs can be performed for individual users, groups of users, and for all users in an ownCloud installation. What’s more, repair scans can be run even if no files are known to need repairing and if one or more files are known to be in need of repair. Two examples of when files need repairing are:
 
--   If folders have the same entry twice in the web UI (known as a '_ghost folder_'), this can also lead to strange error messages in the desktop client.
+-   If folders have the same entry twice in the web UI (known as a '*ghost folder*'), this can also lead to strange error messages in the desktop client.
     
 -   If entering a folder doesn’t seem to lead into that folder.
-    
 
 <table><tbody><tr><td class="icon"><i class="fa icon-caution" title="Caution"></i></td><td class="content">We strongly suggest that you backup the database before running this command.</td></tr></tbody></table>
 
@@ -1599,7 +1587,6 @@ The `--repair` option can be run within two different scenarios:
 -   Requiring a downtime when used on all affected storages at once.
     
 -   Without downtime, filtering by a specified User Id.
-    
 
 The following commands show how to enable single user mode, run a repair file scan in bulk on all storages, and then disable single user mode. This way is much faster than running the command for every user separately, but it requires single user mode.
 
@@ -1617,7 +1604,7 @@ sudo -u www-data occ files:scan USERID --repair
 
 <table><tbody><tr><td class="icon"><i class="fa icon-tip" title="Tip"></i></td><td class="content">If many users are affected, it could be convenient to create a shell script, which iterates over a list of User ID’s.</td></tr></tbody></table>
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#the-filestransfer-ownership-command)The files:transfer-ownership command
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#the-filestransfer-ownership-command)The files:transfer-ownership Command
 
 You may transfer all files and **outgoing** shares from one user to another.
 
@@ -1674,9 +1661,8 @@ Please keep the following in mind when using this command:
 2.  The directory and its contents won’t be moved as-is between the users. It will be moved into the destination user’s `files` directory, into a directory name which follows the format: `transferred from <source-user> on <timestamp>`. Using the example above, it will be stored under: `data/<destination-user>/files/transferred from <source-user> on 20170426_124510/`
     
 3.  Currently file versions can’t be transferred. Only the latest version of moved files will appear in the destination user’s account.
-    
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#the-filestroubleshoot-transfer-ownership-command)The files:troubleshoot-transfer-ownership command
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#the-filestroubleshoot-transfer-ownership-command)The files:troubleshoot-transfer-ownership Command
 
 This command is used to scan for problems, that might have occurred during a run of ownership transfer using the above command `files:transfer-ownership`. It can also be used to automatically attempt to fix problems. For example, transferred shares that may now have an invalid share owner.
 
@@ -1863,17 +1849,17 @@ files_external:create [options]
 
 ##### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#storage-backend-details)Storage Backend Details
 
- 
 | Storage Backend | Identifier |
 | --- | --- |
-| 
+|   
+
 Windows Network Drive
 
  | 
 
 `windows_network_drive`
 
- |
+ |  
 | 
 
 WebDav
@@ -1882,7 +1868,7 @@ WebDav
 
 `dav`
 
- |
+ |  
 | 
 
 Local
@@ -1891,7 +1877,7 @@ Local
 
 `local`
 
- |
+ |  
 | 
 
 ownCloud
@@ -1900,7 +1886,7 @@ ownCloud
 
 `owncloud`
 
- |
+ |  
 | 
 
 SFTP
@@ -1909,7 +1895,7 @@ SFTP
 
 `sftp`
 
- |
+ |  
 | 
 
 Amazon S3
@@ -1918,7 +1904,7 @@ Amazon S3
 
 `amazons3`
 
- |
+ |  
 | 
 
 Dropbox
@@ -1927,7 +1913,7 @@ Dropbox
 
 `dropbox`
 
- |
+ |  
 | 
 
 Google Drive
@@ -1936,7 +1922,7 @@ Google Drive
 
 `googledrive`
 
- |
+ |  
 | 
 
 SMB / CIFS
@@ -1949,17 +1935,17 @@ SMB / CIFS
 
 ##### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#authentication-details)Authentication Details
 
- 
 | Authentication method | Identifier, name, configuration |
 | --- | --- |
-| 
+|   
+
 Log-in credentials, save in session
 
  | 
 
 `password::sessioncredentials`
 
- |
+ |  
 | 
 
 Log-in credentials, save in database
@@ -1968,7 +1954,7 @@ Log-in credentials, save in database
 
 `password::logincredentials`
 
- |
+ |  
 | 
 
 User entered, store in database
@@ -1977,7 +1963,7 @@ User entered, store in database
 
 `password::userprovided` (\*)
 
- |
+ |  
 | 
 
 Global Credentials
@@ -1986,7 +1972,7 @@ Global Credentials
 
 `password::global`
 
- |
+ |  
 | 
 
 None
@@ -1995,7 +1981,7 @@ None
 
 `null::null`
 
- |
+ |  
 | 
 
 Builtin
@@ -2004,7 +1990,7 @@ Builtin
 
 `builtin::builtin`
 
- |
+ |  
 | 
 
 Username and password
@@ -2013,7 +1999,7 @@ Username and password
 
 `password::password`
 
- |
+ |  
 | 
 
 OAuth1
@@ -2022,7 +2008,7 @@ OAuth1
 
 `oauth1::oauth1` (\*)
 
- |
+ |  
 | 
 
 OAuth2
@@ -2031,7 +2017,7 @@ OAuth2
 
 `oauth2::oauth2` (\*)
 
- |
+ |  
 | 
 
 RSA public key
@@ -2040,7 +2026,7 @@ RSA public key
 
 `publickey::rsa` (\*)
 
- |
+ |  
 | 
 
 OpenStack
@@ -2049,7 +2035,7 @@ OpenStack
 
 `openstack::openstack` (\*)
 
- |
+ |  
 | 
 
 Rackspace
@@ -2058,7 +2044,7 @@ Rackspace
 
 `openstack::rackspace` (\*)
 
- |
+ |  
 | 
 
 Access key (Amazon S3)
@@ -2303,7 +2289,7 @@ sudo -u www-data occ group:remove-member --member aaron --member fred Finance
   Member "fred" removed from group "Finance"
 ```
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#deleting-a-group)Deleting a Group
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#deleting-a-group)Deleting A Group
 
 To delete a group, you use the `group:delete` command, as in the example below:
 
@@ -2360,7 +2346,6 @@ The command takes two parameters; these are:
 -   `app`: the name of the application.
     
 -   `lang`: the output language of the translation files; more than one can be supplied.
-    
 
 To create the two translation files, the command reads translation data from a source PHP translation file.
 
@@ -2448,7 +2433,7 @@ background:queue
  background:queue:status     List queue status
 ```
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#deleting-a-background-job)Deleting a Background Job
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#deleting-a-background-job)Deleting A Background Job
 
 The command `background:queue:delete` deletes a queued background job. It requires the job id of the job to be deleted.
 
@@ -2470,7 +2455,7 @@ sudo -u www-data occ background:queue:delete 12
 Job has been deleted.
 ```
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#executing-a-background-job)Executing a Background Job
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#executing-a-background-job)Executing A Background Job
 
 The command `background:queue:execute` executes a queued background job. It requires the job id of the job to be executed.
 
@@ -2547,7 +2532,7 @@ maintenance
  maintenance:update:htaccess         Updates the .htaccess file
 ```
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#update-the-systems-data-fingerprint)Update the Systems Data-Fingerprint
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#update-the-systems-data-fingerprint)Update The Systems Data-Fingerprint
 
 When a backup has been restored, the ETag information, which is necessary when accessing ownCloud with clients, has been changed. Run the following command to tell desktop and mobile clients that a server backup has been restored.
 
@@ -2571,10 +2556,10 @@ sudo -u www-data occ maintenance:install [options]
 
 The `maintenance:install` command supports the following options:
 
- 
 | Option | Description |
 | --- | --- |
-| 
+|   
+
 `--database`\=DATABASE
 
  | 
@@ -2583,7 +2568,7 @@ Supported database type. \[default: `sqlite`\]
 Possible values: `sqlite` ,`mysql`, `pgsql`, `oci`  
 Note that `oci` (Oracle) is only available with the Enterprise license.
 
- |
+ |  
 | 
 
 `--database-connection-string`\=DATABASE-CONNECTION-STRING
@@ -2592,7 +2577,7 @@ Note that `oci` (Oracle) is only available with the Enterprise license.
 
 Oracle specific connection string. As soon as this parameter is provided, other parameters like database-host and database-name are not used and do not need to be provided.
 
- |
+ |  
 | 
 
 `--database-name`\=DATABASE-NAME
@@ -2601,7 +2586,7 @@ Oracle specific connection string. As soon as this parameter is provided, other 
 
 Name of the database.
 
- |
+ |  
 | 
 
 `--database-host`\=DATABASE-HOST
@@ -2610,7 +2595,7 @@ Name of the database.
 
 Hostname of the database. \[default: "localhost"\]
 
- |
+ |  
 | 
 
 `--database-user`\=DATABASE-USER
@@ -2619,7 +2604,7 @@ Hostname of the database. \[default: "localhost"\]
 
 User name to connect to the database.
 
- |
+ |  
 | 
 
 `--database-pass`\=DATABASE-PASS
@@ -2628,7 +2613,7 @@ User name to connect to the database.
 
 Password of the database user.
 
- |
+ |  
 | 
 
 `--database-table-prefix`\=DATABASE-TABLE-PREFIX
@@ -2637,7 +2622,7 @@ Password of the database user.
 
 Prefix for all tables (default: oc\_).
 
- |
+ |  
 | 
 
 `--admin-user`\=ADMIN-USER
@@ -2646,7 +2631,7 @@ Prefix for all tables (default: oc\_).
 
 User name of the admin account. \[default: "admin"\]
 
- |
+ |  
 | 
 
 `--admin-pass`\=ADMIN-PASS
@@ -2655,7 +2640,7 @@ User name of the admin account. \[default: "admin"\]
 
 Password of the admin account.
 
- |
+ |  
 | 
 
 `--data-dir`\=DATA-DIR
@@ -2678,10 +2663,10 @@ sudo -u www-data occ maintenance:mimetype:update-db [options]
 
 The `maintenance:mimetype:update-db` command supports the following options:
 
- 
 | Option | Description |
 | --- | --- |
-| 
+|   
+
 `--repair-filecache`
 
  | 
@@ -2690,7 +2675,7 @@ Repair the file cache for all mimetypes, not just the new ones.
 
  |
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#update-the-mimetypelist-js-file)Update the mimetypelist.js File
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#update-the-mimetypelist-js-file)Update The mimetypelist.js File
 
 This command updates the `mimetypelist.js` file.
 
@@ -2700,7 +2685,7 @@ Usage:
 sudo -u www-data occ maintenance:update-js
 ```
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#enable-or-disable-maintenance-mode)Enable or Disable Maintenance Mode
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#enable-or-disable-maintenance-mode)Enable Or Disable Maintenance Mode
 
 `maintenance:mode` command locks the sessions of all logged-in users, including administrators, and displays a status screen warning that the server is in maintenance mode. Users who are not already logged in cannot log in until maintenance mode is turned off. Once you take the server out of maintenance mode, logged-in users must refresh their Web browsers to continue working.
 
@@ -2712,17 +2697,17 @@ sudo -u www-data occ maintenance:mode [options]
 
 The `maintenance:repair` command supports the following options:
 
- 
 | Option | Description |
 | --- | --- |
-| 
+|   
+
 `--on`
 
  | 
 
 Enable maintenance mode.
 
- |
+ |  
 | 
 
 `--off`
@@ -2761,17 +2746,17 @@ sudo -u www-data occ maintenance:repair [options]
 
 The `maintenance:repair` command supports the following options:
 
- 
 | Option | Description |
 | --- | --- |
-| 
+|   
+
 `--list`
 
  | 
 
 Lists all possible repair steps.
 
- |
+ |  
 | 
 
 `-s` `--single=SINGLE`
@@ -2780,7 +2765,7 @@ Lists all possible repair steps.
 
 Run just one repair step given its class name.
 
- |
+ |  
 | 
 
 `--include-expensive`
@@ -2822,7 +2807,7 @@ OC\Repair\OldGroupMembershipShares -> Remove shares of old group memberships
 OCA\DAV\Repair\RemoveInvalidShares -> Remove invalid calendar and addressbook shares
 ```
 
-##### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#running-a-single-repair-step)Running a Single Repair Step
+##### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#running-a-single-repair-step)Running A Single Repair Step
 
 To run a single repair step, use either the `-s` or `--single` options, as in the following example.
 
@@ -2851,7 +2836,7 @@ Turn it off when you’re finished:
 sudo -u www-data occ maintenance:singleuser --off
 ```
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#update-the-htaccess-file)Update the .htaccess File
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#update-the-htaccess-file)Update The .htaccess File
 
 This command updates the `.htaccess` file.
 
@@ -2900,7 +2885,7 @@ notifications
 sudo -u www-data occ notifications:generate [-u|--user USER] [-g|--group GROUP] [-l|--link <linktext>] [--] <subject> [<message>]
 ```
 
-##### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#arguments-34)Arguments:
+##### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#arguments-34)Arguments
 
 <table class="tableblock frame-all grid-all stretch"><colgroup><col style="width: 22.2222%;"> <col style="width: 77.7778%;"></colgroup><tbody><tr><td class="tableblock halign-left valign-top"><p class="tableblock"><code>subject</code></p></td><td class="tableblock halign-left valign-top"><p class="tableblock">The notification subject - maximum 255 characters.</p></td></tr><tr><td class="tableblock halign-left valign-top"><p class="tableblock"><code>message</code></p></td><td class="tableblock halign-left valign-top"><p class="tableblock">A more extended message - maximum 4000 characters.</p></td></tr><tr><td class="tableblock halign-left valign-top"><p class="tableblock"><code>linktext</code></p></td><td class="tableblock halign-left valign-top"><p class="tableblock">A link to an HTML page.</p></td></tr></tbody></table>
 
@@ -3067,7 +3052,7 @@ If neither of these arguments is provided, no output will be displayed by the co
 
 <table><tbody><tr><td class="icon"><i class="fa icon-note" title="Note"></i></td><td class="content">Displaying progress information is useful when you want visual confirmation that background jobs have been executed. However, in a non-interactive environment, such as crontab, it should not be used.</td></tr></tbody></table>
 
-##### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#updating-an-existing-system-cron-configuration)Updating an Existing System Cron Configuration
+##### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#updating-an-existing-system-cron-configuration)Updating An Existing System Cron Configuration
 
 <table><tbody><tr><td class="icon"><i class="fa icon-note" title="Note"></i></td><td class="content"><div class="paragraph"><p>If you have already automated background jobs via Cron, you must update the relevant <code>crontab</code> entry using the example below as a guide.</p></div><div class="paragraph"><p>Instead of the following configuration</p></div><div class="listingblock"><div class="content"><pre class="highlightjs highlight"><code class="language-console hljs language-shell" data-lang="console">/usr/bin/php -f /path/to/your/owncloud/cron.php</code><div class="source-toolbox"><span class="source-lang">console</span><button class="copy-button" title="Copy to clipboard"><img src="https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html../../../../../assets/img/octicons-16.svg#view-clippy" alt="copy icon" class="copy-icon"><span class="copy-toast">Copied!</span></button></div></pre></div></div><div class="paragraph"><p>Use the following one instead</p></div><div class="listingblock"><div class="content"><pre class="highlightjs highlight"><code class="language-bash hljs" data-lang="bash"><span class="hljs-built_in">sudo</span> -u www-data <span class="hljs-built_in">occ</span> system:cron</code><div class="source-toolbox"><span class="source-lang">bash</span><button class="copy-button" title="Copy to clipboard"><img src="https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html../../../../../assets/img/octicons-16.svg#view-clippy" alt="copy icon" class="copy-icon"><span class="copy-toast">Copied!</span></button></div></pre></div></div></td></tr></tbody></table>
 
@@ -3288,7 +3273,7 @@ sudo -u www-data occ user:home:list-dirs
   - /var/www/owncloud/data
 ```
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#list-all-users-for-a-given-home-directory)List all Users For a Given Home Directory
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#list-all-users-for-a-given-home-directory)List All Users For a Given Home Directory
 
 List all users that have their home in a given path. For details see [Moving the User Home](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html../user/user_management.html#moving-the-user-home) documentation.
 
@@ -3379,7 +3364,7 @@ Using the output option `json_pretty` will render the output formatted as follow
 ]
 ```
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#finding-the-users-last-login)Finding the User’s Last Login
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#finding-the-users-last-login)Finding The User’s Last Login
 
 To view a user’s most recent login, use the `user:lastseen` command:
 
@@ -3494,7 +3479,7 @@ sudo -u www-data occ user:modify carla email foobar@foo.com
 
 The email address of `carla` is updated to `foobar@foo.com`.
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#move-a-users-home-folder)Move a Users Home Folder
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#move-a-users-home-folder)Move A Users Home Folder
 
 This command moves a user’s home folder to a new location. For details see [Moving the User Home](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html../user/user_management.html#moving-the-user-home) documentation. Note that moving a users home is only possible for POSIX file systems. Also see the `user:home` commands for additional support.
 
@@ -3516,7 +3501,7 @@ sudo -u www-data occ user:move-home lisa /mnt/newhome_1
 
 This command moves the home directory of user `lisa` to the new location `/mnt/newhome_1`
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#generating-a-user-count-report)Generating a User Count Report
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#generating-a-user-count-report)Generating A User Count Report
 
 Generate a simple report that counts all users including users on external user authentication servers such as LDAP, and guest users which are created by the guests app.
 
@@ -3544,7 +3529,7 @@ sudo -u www-data occ user:report
 
 <table><tbody><tr><td class="icon"><i class="fa icon-note" title="Note"></i></td><td class="content">A user directory is created, when a local user has logged on the first time after creation. Therefore the difference between <code>OC\User\Database</code> and <code>user directories</code> equals all users which have been created locally, but have not logged on at least once.</td></tr></tbody></table>
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#setting-a-users-password)Setting a User’s Password
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#setting-a-users-password)Setting A User’s Password
 
 Resets the password of the named user.
 
@@ -3627,7 +3612,6 @@ To manage application settings for a user, use the `user:setting` command. This 
 -   Set a setting value
     
 -   Delete a setting
-    
 
 ```bash
 sudo -u www-data occ user:setting [options] [--] <uid> [[<app> [<key>]]
@@ -3643,17 +3627,17 @@ sudo -u www-data occ user:setting [options] [--] <uid> [[<app> [<key>]]
 
 The descriptions for the `app` and `key` arguments may not be completely transparent. Here’s a description of both.
 
- 
 | Argument | Description |
 | --- | --- |
-| 
+|   
+
 `app`
 
  | 
 
 When a value is supplied, `user:setting` limits the settings displayed to those for that specific application - assuming that the application is installed and that there are settings available for it. Some example applications are `core`, `files_trashbin`, and `user_ldap`. A complete list cannot be supplied as it is impossible to know the entire list of applications a user could potentially install.
 
- |
+ |  
 | 
 
 `key`
@@ -3679,7 +3663,7 @@ sudo -u www-data occ user:setting <uid> [<app>] [<key>]
 **Examples:**
 
 1.  Retrieve all settings set for a given user:
-    
+
     ```bash
     sudo -u www-data occ user:setting layla
       - core:
@@ -3689,29 +3673,30 @@ sudo -u www-data occ user:setting <uid> [<app>] [<key>]
       - settings:
         - email: layla@example.tld
     ```
-    
+
     Here we see that the user has settings for the application `core`, when they last logged in, and what their email address is.
+
     
 2.  Retrieve all settings set restricted to application `core` for a given user:
-    
+
     ```bash
     sudo -u www-data occ user:setting layla core
      - core:
         - lang: en
     ```
-    
+
     In the output, you can see that one setting is in effect, `lang`, which is set to `en`.
+
     
 3.  Retrieve all settings set restricted to application `core`, key `lang` for a given user
-    
+
     ```bash
     sudo -u www-data occ user:setting layla core lang
     ```
-    
-    This will display the value for that setting, such as `en`.
-    
 
-##### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#setting-and-deleting-a-setting)Setting and Deleting a Setting
+    This will display the value for that setting, such as `en`.
+
+##### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#setting-and-deleting-a-setting)Setting And Deleting a Setting
 
 ```bash
 sudo -u www-data occ user:setting [options] [--] <uid> [<app>] [<key>]
@@ -3733,7 +3718,7 @@ sudo -u www-data occ user:setting layla core lang --delete
 
 #### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#syncing-user-accounts)Syncing User Accounts
 
-This command syncs users stored in external backend services, such as _LDAP_, _Shibboleth_, and _Samba_, with ownCloud’s, internal user database. However, it’s not essential to run it regularly, unless you have a large number of users whose account properties have changed in a backend outside of ownCloud. When run, it will pick up changes from alternative user backends, such as LDAP, where properties like `cn` or `display name` have changed, and sync them with ownCloud’s user database. If accounts are found that no longer exist in the external backend, you are given the choice of either removing or disabling the accounts.
+This command syncs users stored in external backend services, such as *LDAP*, *Shibboleth*, and *Samba*, with ownCloud’s, internal user database. However, it’s not essential to run it regularly, unless you have a large number of users whose account properties have changed in a backend outside of ownCloud. When run, it will pick up changes from alternative user backends, such as LDAP, where properties like `cn` or `display name` have changed, and sync them with ownCloud’s user database. If accounts are found that no longer exist in the external backend, you are given the choice of either removing or disabling the accounts.
 
 <table><tbody><tr><td class="icon"><i class="fa icon-note" title="Note"></i></td><td class="content">It’s also <a href="https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.htmlbackground_jobs_configuration.html#available-background-jobs" class="page">one of the commands</a> that you should run on a regular basis to ensure that your ownCloud installation is running optimally.</td></tr></tbody></table>
 
@@ -3747,7 +3732,7 @@ user:sync [options] [--] [<backend-class>]
 
 Synchronize users from a given backend to the accounts table.
 
-##### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#arguments-50)Arguments:
+##### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#arguments-50)Arguments
 
 <table class="tableblock frame-all grid-all" style="width: 90%;"><colgroup><col style="width: 38.4615%;"> <col style="width: 61.5385%;"></colgroup><tbody><tr><td class="tableblock halign-left valign-top"><p class="tableblock"><code>backend-class</code></p></td><td class="tableblock halign-left valign-top"><p class="tableblock">The quoted PHP class name for the backend, e.g.,<br>- LDAP: <code>"OCA\User_LDAP\User_Proxy"</code><br>- Samba: <code>"OCA\User\SMB"</code><br>- Shibboleth: <code>"OCA\User_Shibboleth\UserBackend"</code><br></p></td></tr></tbody></table>
 
@@ -3755,7 +3740,7 @@ Synchronize users from a given backend to the accounts table.
 
 <table class="tableblock frame-all grid-all" style="width: 90%;"><colgroup><col style="width: 38.4615%;"> <col style="width: 61.5385%;"></colgroup><tbody><tr><td class="tableblock halign-left valign-top"><p class="tableblock"><code>-l</code><br><code>--list</code></p></td><td class="tableblock halign-left valign-top"><p class="tableblock">List all enabled backend classes.</p></td></tr><tr><td class="tableblock halign-left valign-top"><p class="tableblock"><code>-u [UID]</code><br><code>--uid=[UID]</code></p></td><td class="tableblock halign-left valign-top"><p class="tableblock">Sync only the user with the given user id.</p></td></tr><tr><td class="tableblock halign-left valign-top"><p class="tableblock"><code>-s</code><br><code>--seenOnly</code></p></td><td class="tableblock halign-left valign-top"><p class="tableblock">Sync only seen users.</p></td></tr><tr><td class="tableblock halign-left valign-top"><p class="tableblock"><code>-c</code><br><code>--showCount</code></p></td><td class="tableblock halign-left valign-top"><p class="tableblock">Calculate user count before syncing.</p></td></tr><tr><td class="tableblock halign-left valign-top"><p class="tableblock"><code>-m [MISSING-ACCOUNT-ACTION]</code><br><code>--missing-account-action[=MISSING-ACCOUNT-ACTION]</code></p></td><td class="tableblock halign-left valign-top"><p class="tableblock">Action to take if the account isn’t connected to a backend any longer.<br>Options are <code>disable</code> and <code>remove</code>.<br>Note that removing the account will also remove the stored data and files for that account</p></td></tr><tr><td class="tableblock halign-left valign-top"><p class="tableblock"><code>-r</code><br><code>--re-enable</code></p></td><td class="tableblock halign-left valign-top"><p class="tableblock">When syncing multiple accounts re-enable accounts that are disabled in ownCloud but available in the synced backend.</p></td></tr></tbody></table>
 
-Below are examples of how to use the command with an _LDAP_, _Samba_, and _Shibboleth_ backend.
+Below are examples of how to use the command with an *LDAP*, *Samba*, and *Shibboleth* backend.
 
 ##### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#ldap)LDAP
 
@@ -3859,7 +3844,7 @@ If unknown users are found, what do you want to do with their accounts? (removin
 [2] ask later
 ```
 
-##### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#syncing-via-cron-job)Syncing via cron job
+##### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#syncing-via-cron-job)Syncing Via Cron Job
 
 Here is an example for syncing with LDAP four times a day on Ubuntu:
 
@@ -3971,13 +3956,13 @@ Marketplace URL: [Anti-Virus](https://marketplace.owncloud.com/apps/files_antivi
 
 Use these commands to configure the Anti-Virus app. Parametrisation must be done with the `occ config` command set.
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#list-the-current-settings)List the Current Settings
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#list-the-current-settings)List The Current Settings
 
 ```bash
 sudo -u www-data occ config:list files_antivirus
 ```
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#set-the-setting)Set the Setting
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#set-the-setting)Set The Setting
 
 To set a new value, use the command below and replace `<Key>` and value `<Value>` accordingly.
 
@@ -4053,7 +4038,7 @@ Tracks various activities and actions of your users and admins. For details, ple
 
 Ignore all CLI triggered events.
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#set-or-change-ignore-cli-events)Set or Change Ignore CLI Events
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#set-or-change-ignore-cli-events)Set Or Change Ignore CLI Events
 
 To ignore all CLI triggered events, you can set the following option, defaults to track cli events:
 
@@ -4089,13 +4074,13 @@ Marketplace URL: [Brute-Force Protection](https://marketplace.owncloud.com/apps/
 
 Use these commands to configure the Brute Force Protection app. Parametrisation must be done with the `occ config` command set. The combination of `uid` and `IP address` is used to trigger the ban.
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#list-the-current-settings-2)List the Current Settings
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#list-the-current-settings-2)List The Current Settings
 
 ```bash
 sudo -u www-data occ config:list brute_force_protection
 ```
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#set-the-setting-2)Set the Setting
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#set-the-setting-2)Set The Setting
 
 To set a new value, use the command below and replace `<Key>` and value `<Value>` accordingly.
 
@@ -4141,7 +4126,7 @@ Use these commands to configure the Custom Groups app.
 
 Parameterization should be done with the `occ config` command set, though some but not all settings result in an entry in config.php which also can be set manually.
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#get-a-current-setting)Get a Current Setting
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#get-a-current-setting)Get A Current Setting
 
 You can get the value of a current setting. For details how to do so see the [Config Command Set](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#config-commands).
 
@@ -4365,7 +4350,7 @@ sudo -u www-data occ lifecycle:set-upload-time [options] [--] <date>
 
 All policy configurations are set and queried with the `config:app` command set. The examples below set a value. To query a value use `config:app:get` and the corresponding key without any options or attributes.
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#set-the-archive-period)Set the Archive Period
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#set-the-archive-period)Set The Archive Period
 
 The number of days since upload (or restore) after which files will be archived.
 
@@ -4375,7 +4360,7 @@ The following example command sets the time passed since upload (or restore) for
 sudo -u www-data occ config:app:set files_lifecycle archive_period --value='90'
 ```
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#set-the-expire-period)Set the Expire Period
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#set-the-expire-period)Set The Expire Period
 
 The number of days since archiving after which files will be permanently deleted.
 
@@ -4385,7 +4370,7 @@ The following example command sets the time passed to delete files to 180 days.
 sudo -u www-data occ config:app:set files_lifecycle expire_period --value='180'
 ```
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#set-groups-to-be-excluded)Set Groups to be Excluded
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#set-groups-to-be-excluded)Set Groups to Be Excluded
 
 Define groups of users that are exempt from the lifecycle policies (comma-separated group ids).
 
@@ -4441,7 +4426,7 @@ search
 
 In addition to the settings provided by the Full Text Search app, you can set/read additional options via the `occ config:app` commands. These are [Set App Modes](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#set-app-modes), [Index Metadata Only](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#index-metadata-only) and [Limit Metadata Search for Groups](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#limit-metadata-search-for-groups).
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#create-the-full-text-search-index)Create the Full Text Search Index
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#create-the-full-text-search-index)Create The Full Text Search Index
 
 The command `search:index:create` creates the initial full text search index for one or all users.
 
@@ -4478,7 +4463,7 @@ Indexing user admin
 Indexing user testuser
 ```
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#rebuild-the-full-text-search-index)Rebuild the Full Text Search Index
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#rebuild-the-full-text-search-index)Rebuild The Full Text Search Index
 
 Rebuild the search index for a given user.  
 If you want to rebuild the whole index, run `search:index:reset` and then `search:index:create --all`.
@@ -4530,7 +4515,7 @@ Rebuilding Search Index for admin
 Rebuilding Search Index for testuser
 ```
 
-##### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#rebuild-the-entire-index)Rebuild the Entire Index
+##### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#rebuild-the-entire-index)Rebuild The Entire Index
 
 The entire index can be rebuilt by running the following two commands:
 
@@ -4539,7 +4524,7 @@ sudo -u www-data occ search:index:reset
 sudo -u www-data occ search:index:create --all
 ```
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#reset-the-full-text-search-index)Reset the Full Text Search Index
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#reset-the-full-text-search-index)Reset The Full Text Search Index
 
 The command `search:index:reset` resets (recreates and clears) the full text search index for all users.
 
@@ -4562,7 +4547,7 @@ This will delete the whole search index! Do you want to proceed?
 Search index has been reset.
 ```
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#update-the-full-text-search-index)Update the Full Text Search Index
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#update-the-full-text-search-index)Update The Full Text Search Index
 
 Updates to the search index due to changed content or changed metadata are happening via background jobs that are added to a queue. These background jobs are normally run by the ownCloud cronjob. The command `search:index:update` updates the full text search index by running all pending background jobs.
 
@@ -4642,7 +4627,7 @@ ldap
  ldap:test-config              Tests an LDAP configuration
 ```
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#search-for-a-user)Search for a User
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#search-for-a-user)Search For a User
 
 Search for an LDAP user, using this syntax:
 
@@ -4666,54 +4651,65 @@ Search attributes are configurable in the LDAP wizard (**Settings**  **Admin**�
 
 General rule
 
-1.  If User/Group _Search Attributes_ are **NOT** defined (empty), the entry defined in the User/Group _Display Name Field_ is used as the search attribute, for details see below.
+1.  If User/Group *Search Attributes* are **NOT** defined (empty), the entry defined in the User/Group *Display Name Field* is used as the search attribute, for details see below.
     
 2.  Important when having multiple search attributes, results are unique as long hits correspond to a unique user or group entry.
-    
 
 Rules for users
 
 1.  If **User Search Attributes** are defined (not empty) in:
     
+
     **Settings**  **Admin**  **User Authentication**  **LDAP**  **Advanced**  **User Search Attributes**
+
     
+
     `ldapAttributesForUserSearch`
+
     
     1.  Example
         
+
         If your search attributes would be `givenName` and `sn` you can find users by first name + last name very quickly. You will find "Terri Hanson" by searching for `te ha`. Trailing whitespace is ignored.
-        
-    
+
 2.  Else use the **User Display Name Field** which usually defaults to the default displayname attribute "displayname"
     
+
     **Settings**  **Admin**  **User Authentication**  **LDAP**  **Advanced**  **User Display Name Field**
+
     
+
     `ldapUserDisplayName`
-    
 
 Rules for groups
 
 1.  If **Group Search Attributes** are defined (not empty) in:
     
+
     **Settings**  **Admin**  **User Authentication**  **LDAP**  **Advanced**  **Group Search Attributes**
+
     
+
     `ldapAttributesForGroupSearch`
+
     
 2.  Else use the **Group Display Name Field** which usually defaults to the default displayname attribute "cn"
     
+
     **Settings**  **Admin**  **User Authentication**  **LDAP**  **Advanced**  **Group Display Name Field**
+
     
+
     `ldapGroupDisplayName`
-    
 
 Offset and Limit
 
 The best way understanding `offset` and `limit` is the following table when using `occ ldap:search '' [options]`
 
- 
 | Options | Result Set |
 | --- | --- |
-| 
+|   
+
 `--offset 0`  
 `--limit 5`
 
@@ -4721,7 +4717,7 @@ The best way understanding `offset` and `limit` is the following table when usin
 
 "A", "B", "C", "D" and "E"
 
- |
+ |  
 | 
 
 `--offset 5`  
@@ -4731,7 +4727,7 @@ The best way understanding `offset` and `limit` is the following table when usin
 
 "F", "G", "H", "I" and "J"
 
- |
+ |  
 | 
 
 `--offset 1`  
@@ -4781,7 +4777,7 @@ Rekha Cox (Rekha.Cox)
 Rekha Craft (Rekha.Craft)
 ```
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#check-if-an-ldap-user-exists)Check if an LDAP User Exists
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#check-if-an-ldap-user-exists)Check If an LDAP User Exists
 
 This only works if the ownCloud server is connected to an LDAP server.
 
@@ -4809,7 +4805,7 @@ sudo -u www-data occ ldap:check-user robert
 sudo -u www-data occ ldap:check-user --force robert
 ```
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#create-an-empty-ldap-configuration)Create an Empty LDAP Configuration
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#create-an-empty-ldap-configuration)Create An Empty LDAP Configuration
 
 Create an empty LDAP configuration.
 
@@ -4828,7 +4824,7 @@ sudo -u www-data occ ldap:create-empty-config
    Created new configuration with configID 's01'
 ```
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#list-and-view-your-configurations)List and View Your Configurations
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#list-and-view-your-configurations)List And View Your Configurations
 
 You can list and view your configurations:
 
@@ -4858,7 +4854,7 @@ View the configuration for a single `configID`:
 sudo -u www-data occ ldap:show-config s01
 ```
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#delete-an-existing-ldap-configuration)Delete an Existing LDAP Configuration
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#delete-an-existing-ldap-configuration)Delete An Existing LDAP Configuration
 
 Deletes an existing LDAP configuration.
 
@@ -4905,23 +4901,23 @@ sudo -u www-data occ ldap:set-config s01 ldapAttributesForUserSearch "cn;givenna
 
 Available keys, along with default values for configValue, are listed in the table below.
 
- 
 | Configuration | Setting |
 | --- | --- |
-| 
+|   
+
 hasMemberOfFilterSupport
 
- |  |
+ |  |  
 | 
 
 hasPagedResultSupport
 
- |  |
+ |  |  
 | 
 
 homeFolderNamingRule
 
- |  |
+ |  |  
 | 
 
 lastJpegPhotoLookup
@@ -4930,7 +4926,7 @@ lastJpegPhotoLookup
 
 0
 
- |
+ |  
 | 
 
 ldapAgentName
@@ -4939,36 +4935,36 @@ ldapAgentName
 
 cn=admin,dc=owncloudqa,dc=com
 
- |
+ |  
 | 
 
 ldapAgentPassword
 
  | 
 
-_\*_
+*\**
 
- |
+ |  
 | 
 
 ldapAttributesForGroupSearch
 
- |  |
+ |  |  
 | 
 
 ldapAttributesForUserSearch
 
- |  |
+ |  |  
 | 
 
 ldapBackupHost
 
- |  |
+ |  |  
 | 
 
 ldapBackupPort
 
- |  |
+ |  |  
 | 
 
 ldapBase
@@ -4977,7 +4973,7 @@ ldapBase
 
 dc=owncloudqa,dc=com
 
- |
+ |  
 | 
 
 ldapBaseGroups
@@ -4986,7 +4982,7 @@ ldapBaseGroups
 
 dc=owncloudqa,dc=com
 
- |
+ |  
 | 
 
 ldapBaseUsers
@@ -4995,7 +4991,7 @@ ldapBaseUsers
 
 dc=owncloudqa,dc=com
 
- |
+ |  
 | 
 
 ldapCacheTTL
@@ -5004,7 +5000,7 @@ ldapCacheTTL
 
 600
 
- |
+ |  
 | 
 
 ldapConfigurationActive
@@ -5013,17 +5009,17 @@ ldapConfigurationActive
 
 1
 
- |
+ |  
 | 
 
 ldapDynamicGroupMemberURL
 
- |  |
+ |  |  
 | 
 
 ldapEmailAttribute
 
- |  |
+ |  |  
 | 
 
 ldapExperiencedAdmin
@@ -5032,22 +5028,22 @@ ldapExperiencedAdmin
 
 0
 
- |
+ |  
 | 
 
 ldapExpertUUIDGroupAttr
 
- |  |
+ |  |  
 | 
 
 ldapExpertUUIDUserAttr
 
- |  |
+ |  |  
 | 
 
 ldapExpertUsernameAttr
 
- |  |
+ |  |  
 | 
 
 ldapGroupDisplayName
@@ -5056,12 +5052,12 @@ ldapGroupDisplayName
 
 cn
 
- |
+ |  
 | 
 
 ldapGroupFilter
 
- |  |
+ |  |  
 | 
 
 ldapGroupFilterMode
@@ -5070,12 +5066,12 @@ ldapGroupFilterMode
 
 0
 
- |
+ |  
 | 
 
 ldapGroupFilterObjectclass
 
- |  |
+ |  |  
 | 
 
 ldapGroupMemberAssocAttr
@@ -5084,7 +5080,7 @@ ldapGroupMemberAssocAttr
 
 uniqueMember
 
- |
+ |  
 | 
 
 ldapHost
@@ -5093,12 +5089,12 @@ ldapHost
 
 ldap://host
 
- |
+ |  
 | 
 
 ldapIgnoreNamingRules
 
- |  |
+ |  |  
 | 
 
 ldapLoginFilter
@@ -5107,12 +5103,12 @@ ldapLoginFilter
 
 (&objectclass=inetOrgPerson(uid=%uid))
 
- |
+ |  
 | 
 
 ldapLoginFilterAttributes
 
- |  |
+ |  |  
 | 
 
 ldapLoginFilterEmail
@@ -5121,7 +5117,7 @@ ldapLoginFilterEmail
 
 0
 
- |
+ |  
 | 
 
 ldapLoginFilterMode
@@ -5130,7 +5126,7 @@ ldapLoginFilterMode
 
 0
 
- |
+ |  
 | 
 
 ldapLoginFilterUsername
@@ -5139,7 +5135,7 @@ ldapLoginFilterUsername
 
 1
 
- |
+ |  
 | 
 
 ldapNestedGroups
@@ -5148,12 +5144,12 @@ ldapNestedGroups
 
 0
 
- |
+ |  
 | 
 
 ldapOverrideMainServer
 
- |  |
+ |  |  
 | 
 
 ldapPagingSize
@@ -5162,7 +5158,7 @@ ldapPagingSize
 
 500
 
- |
+ |  
 | 
 
 ldapPort
@@ -5171,17 +5167,17 @@ ldapPort
 
 389
 
- |
+ |  
 | 
 
 ldapQuotaAttribute
 
- |  |
+ |  |  
 | 
 
 ldapQuotaDefault
 
- |  |
+ |  |  
 | 
 
 ldapTLS
@@ -5190,7 +5186,7 @@ ldapTLS
 
 0
 
- |
+ |  
 | 
 
 ldapUserDisplayName
@@ -5199,12 +5195,12 @@ ldapUserDisplayName
 
 displayName
 
- |
+ |  
 | 
 
 ldapUserDisplayName2
 
- |  |
+ |  |  
 | 
 
 ldapUserFilter
@@ -5213,12 +5209,12 @@ ldapUserFilter
 
 objectclass=inetOrgPerson
 
- |
+ |  
 | 
 
 ldapUserFilterGroups
 
- |  |
+ |  |  
 | 
 
 ldapUserFilterMode
@@ -5227,7 +5223,7 @@ ldapUserFilterMode
 
 0
 
- |
+ |  
 | 
 
 ldapUserFilterObjectclass
@@ -5236,7 +5232,7 @@ ldapUserFilterObjectclass
 
 inetOrgPerson
 
- |
+ |  
 | 
 
 ldapUuidGroupAttribute
@@ -5245,7 +5241,7 @@ ldapUuidGroupAttribute
 
 auto
 
- |
+ |  
 | 
 
 ldapUuidUserAttribute
@@ -5254,7 +5250,7 @@ ldapUuidUserAttribute
 
 auto
 
- |
+ |  
 | 
 
 turnOffCertCheck
@@ -5263,7 +5259,7 @@ turnOffCertCheck
 
 0
 
- |
+ |  
 | 
 
 useMemberOfToDetectMembership
@@ -5293,7 +5289,7 @@ sudo -u www-data occ ldap:test-config s01
 The configuration is valid and the connection could be established!
 ```
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#set-and-unset-ldap-app-configurations)Set and Unset LDAP App Configurations
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#set-and-unset-ldap-app-configurations)Set And Unset LDAP App Configurations
 
 ```bash
 sudo -u www-data occ config:app:set user_ldap updateAttributesInterval --value=7200
@@ -5326,7 +5322,6 @@ This functionality is valuable for several reasons; these are:
 -   It handles the situation of when admins mistakenly delete one or more user mappings, and subsequent logins then create new accounts.
     
 -   It allows auto-provisioned users with Shibboleth to be moved over to an LDAP server, but be able to continue using ownCloud.
-    
 
 <table><tbody><tr><td class="icon"><i class="fa icon-important" title="Important"></i></td><td class="content"><div class="paragraph"><p>This functionality will not work in the following situations:</p></div><div class="olist arabic"><ol class="arabic"><li><p>No user or group account exists with the supplied username.</p></li><li><p>A user or group account exists, but it uses a different backend.</p></li></ol></div></td></tr></tbody></table>
 
@@ -5334,7 +5329,7 @@ This functionality is valuable for several reasons; these are:
 
 Marketplace URL: [Market](https://marketplace.owncloud.com/apps/market)
 
-The `market` commands _install_, _uninstall_, _list_, and _upgrade_ applications from the ownCloud Marketplace.
+The `market` commands *install*, *uninstall*, *list*, and *upgrade* applications from the ownCloud Marketplace.
 
 ```plaintext
 market
@@ -5351,13 +5346,13 @@ market
 
 These commands are not available in single-user (maintenance) mode. For more details please see the Maintenance Commands section in the occ core command set.
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#install-an-application)Install an Application
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#install-an-application)Install An Application
 
 Applications can be installed both from [the ownCloud Marketplace](https://marketplace.owncloud.com/) and from a local file archive.
 
 #### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#install-apps-from-the-marketplace)Install Apps From The Marketplace
 
-To install an application from the Marketplace, you need to supply the app’s id, which can be found in the app’s Marketplace URL. For example, the URL for _Two factor backup codes_ is [https://marketplace.owncloud.com/apps/twofactor\_backup\_codes](https://marketplace.owncloud.com/apps/twofactor_backup_codes). So its app id is `twofactor_backup_codes`.
+To install an application from the Marketplace, you need to supply the app’s id, which can be found in the app’s Marketplace URL. For example, the URL for *Two factor backup codes* is [https://marketplace.owncloud.com/apps/twofactor\_backup\_codes](https://marketplace.owncloud.com/apps/twofactor_backup_codes). So its app id is `twofactor_backup_codes`.
 
 ```bash
 sudo -u www-data occ market:install <ids> [option]
@@ -5387,7 +5382,7 @@ sudo -u www-data occ market:install -l /mnt/data/richdocuments-2.0.0.tar.gz
 
 <table><tbody><tr><td class="icon"><i class="fa icon-note" title="Note"></i></td><td class="content">The target directory has to be <strong>accessible to the webserver user</strong> and you have to <strong>enable</strong> the app afterwards with the <code>occ app:enable</code> command.</td></tr></tbody></table>
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#uninstall-an-application)Uninstall an Application
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#uninstall-an-application)Uninstall An Application
 
 To uninstall an application use the following commands:
 
@@ -5407,7 +5402,7 @@ This command lists apps available on the marketplace. It returns the ids of the 
 sudo -u www-data occ market:list
 ```
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#upgrade-an-application)Upgrade an Application
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#upgrade-an-application)Upgrade An Application
 
 Install new app versions if available on the marketplace by using following commands:
 
@@ -5437,7 +5432,7 @@ In case you want to generate a random secret, use the following example command:
 echo $(tr -dc 'a-z0-9' < /dev/urandom | head -c 20)
 ```
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#set-or-change-the-secret)Set or change the Secret
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#set-or-change-the-secret)Set Or Change the Secret
 
 Writes the key `metrics_shared_secret` and the secret to config.php. The name must not be changed and be exactly as written.
 
@@ -5455,7 +5450,7 @@ The above command adds the following at the end of `config.php`:
 'metrics_shared_secret' => 'your-metrics-secret',
 ```
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#get-the-secret)Get the Secret
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#get-the-secret)Get The Secret
 
 This command reads the value of the `metrics_shared_secret` key from config.php:
 
@@ -5467,7 +5462,7 @@ sudo -u www-data occ config:system:get "metrics_shared_secret"
 your-metrics-secret
 ```
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#delete-the-secret)Delete the Secret
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#delete-the-secret)Delete The Secret
 
 This command completely removes the key and the value from config.php:
 
@@ -5534,7 +5529,6 @@ Please be aware of the following implications of enabling or changing the passwo
 -   Passwords changed for the first time, will expire based on the **active** password policy. If the policy is later changed, it will not update the password’s expiry date to reflect the new setting.
     
 -   Password expiration dates of users where the administrator has run the `occ user:expire-password` command **won’t** automatically update to reflect the policy change. In these cases, Administrators need to run the `occ user:expire-password` command again and supply a new expiry date.
-    
 
 ### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#ransomware-protection-enterprise-edition-only)Ransomware Protection (Enterprise Edition only)
 
@@ -5598,7 +5592,7 @@ Collabora Online allows you to work with all kinds of collabora office documents
 
 All app configurations are set and queried with the `config:app` command set. The examples below set a value. To query a value use `config:app:get` and the corresponding key without any options or attributes. Note that values have to be set in single quotes.
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#define-the-wopi-server-url)Define the WOPI Server URL
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#define-the-wopi-server-url)Define The WOPI Server URL
 
 WOPI Server URL
 
@@ -5612,7 +5606,6 @@ This command sets the WOPI Server to `[IP/URL]:port`
 -   `[https://rd.yourdomain.com](https://rd.yourdomain.com)`
     
 -   …
-    
 
 Adding the port is only necessary when not using standard ports.
 
@@ -5630,7 +5623,7 @@ The following example command enables secure view globally on the system:
 sudo -u www-data occ config:app:set richdocuments secure_view_option --value='true'
 ```
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#define-the-watermark-pattern-displayed)Define the Watermark Pattern Displayed
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#define-the-watermark-pattern-displayed)Define The Watermark Pattern Displayed
 
 A watermark pattern is displayed in the document when it is viewed. It can be an arbitrary string. The keyword {viewer-email} will be replaced with the current user’s email address in the document watermark. If an email address is not set, then the user’s display name will be used.
 
@@ -5650,7 +5643,7 @@ The following example command makes documents open in the same tab:
 sudo -u www-data occ config:app:set richdocuments open_in_new_tab --value='false'
 ```
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#define-the-print-and-exporting-option)Define the Print and Exporting Option
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#define-the-print-and-exporting-option)Define The Print and Exporting Option
 
 Enable documents in secure view mode to be printed and exported (possible values: true/false, default: false).
 
@@ -5670,7 +5663,7 @@ The following example command enables the option to globally enforce displaying 
 sudo -u www-data occ config:app:set richdocuments secure_view_open_action_default --value='true'
 ```
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#delete-a-key-or-change-a-key)Delete a Key or Change a Key
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#delete-a-key-or-change-a-key)Delete A Key or Change a Key
 
 You can delete a key with the following example command:
 
@@ -5698,7 +5691,7 @@ oauth2
   oauth2:modify-client  Modify OAuth2 client details
 ```
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#add-a-client)Add a Client
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#add-a-client)Add A Client
 
 ##### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#usage-12)Usage
 
@@ -5760,7 +5753,7 @@ oauth2:modify-client <name> <key> <value>
 
 <table class="tableblock frame-all grid-all stretch"><colgroup><col style="width: 22.2222%;"> <col style="width: 77.7778%;"></colgroup><tbody><tr><td class="tableblock halign-left valign-top"><p class="tableblock"><code>name</code></p></td><td class="tableblock halign-left valign-top"><p class="tableblock">Name of client</p></td></tr><tr><td class="tableblock halign-left valign-top"><p class="tableblock"><code>key</code></p></td><td class="tableblock halign-left valign-top"><p class="tableblock">Key to be changed. Valid keys are:<br><code>name</code>, <code>client-id</code>, <code>client-secret</code>, <code>redirect-url</code>, <code>allow-sub-domains</code>, <code>trusted</code></p></td></tr><tr><td class="tableblock halign-left valign-top"><p class="tableblock"><code>value</code></p></td><td class="tableblock halign-left valign-top"><p class="tableblock">The new value of the key.</p></td></tr></tbody></table>
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#remove-a-client)Remove a Client
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#remove-a-client)Remove A Client
 
 ##### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#usage-15)Usage
 
@@ -5778,7 +5771,7 @@ Commands to configure Amazon S3 compatible object storages as the primary ownClo
 
 Marketplace URL: [S3 Primary Object Storage](https://marketplace.owncloud.com/apps/files_primary_s3)
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#list-objects-buckets-or-versions-of-an-object)List objects, buckets or versions of an object
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#list-objects-buckets-or-versions-of-an-object)List Objects, Buckets or Versions of an Object
 
 ```bash
 sudo -u www-data occ s3:list
@@ -5788,7 +5781,7 @@ sudo -u www-data occ s3:list
 
 <table class="tableblock frame-all grid-all" style="width: 80%;"><colgroup><col style="width: 30%;"> <col style="width: 70%;"></colgroup><tbody><tr><td class="tableblock halign-left valign-top"><p class="tableblock"><code>bucket</code></p></td><td class="tableblock halign-left valign-top"><p class="tableblock">Name of the bucket; it`s objects will be listed.</p></td></tr><tr><td class="tableblock halign-left valign-top"><p class="tableblock"><code>object</code></p></td><td class="tableblock halign-left valign-top"><p class="tableblock">Key of the object; it`s versions will be listed.</p></td></tr></tbody></table>
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#create-a-bucket-as-necessary-to-be-used)Create a bucket as necessary to be used
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#create-a-bucket-as-necessary-to-be-used)Create A Bucket as Necessary to Be Used
 
 ```bash
 sudo -u www-data occ s3:create-bucket
@@ -5816,7 +5809,7 @@ sudo -u www-data occ shibboleth:mode [mode]
 
 Marketplace URL: [2-Factor Authentication](https://marketplace.owncloud.com/apps/twofactor_totp)
 
-The following commands manage the _2-Factor Authentication App_. TOTP stands for _time-based one-time password_. There is also a core component independent of the _2-Factor Authentication App_ with which a particular user can be enabled or disabled for the two-factor authentication. For details see section [Two-Factor Authentication](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#two-factor-authentication).
+The following commands manage the *2-Factor Authentication App*. TOTP stands for *time-based one-time password*. There is also a core component independent of the *2-Factor Authentication App* with which a particular user can be enabled or disabled for the two-factor authentication. For details see section [Two-Factor Authentication](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#two-factor-authentication).
 
 The following commands are available for the 2-Factor Authentication app:
 
@@ -5867,7 +5860,7 @@ wnd
 
 Please see the [Windows Network Drive Notifications](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html../../enterprise/external_storage/windows-network-drive_configuration.html#wnd-notifications) for how to properly setup `wnd:listen` and `wnd:process-queue`.
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#configure-the-listener)Configure the Listener
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#configure-the-listener)Configure The Listener
 
 Listen to smb changes and store notifications for later processing in the database
 
@@ -5901,7 +5894,7 @@ sudo -u www-data occ wnd:process-queue [options] [--] <host> <share>
 
 <table class="tableblock frame-all grid-all" style="width: 90%;"><colgroup><col style="width: 33.3333%;"> <col style="width: 66.6667%;"></colgroup><tbody><tr><td class="tableblock halign-left valign-top"><p class="tableblock"><code>--output[=OUTPUT]</code></p></td><td class="tableblock halign-left valign-top"><p class="tableblock">The output format to use (plain, json or json_pretty). [default: "plain"]</p></td></tr></tbody></table>
 
-#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#set-the-service-account)Set the Service Account
+#### [](https://doc.owncloud.com/server/next/admin_manual/configuration/server/occ_command.html#set-the-service-account)Set The Service Account
 
 <table><tbody><tr><td class="icon"><i class="fa icon-note" title="Note"></i></td><td class="content">This command is deprecated starting with ownCloud 10.8. All mount options marked as <em>password</em> are now encrypted by default. Existing old settings are migrated automatically.</td></tr></tbody></table>
 

@@ -1,7 +1,8 @@
 ---
 tags:: notes
 ---
-# prometheus-nextcloud-exporter
+
+# Prometheus-nextcloud-exporter
 
 Monitoring of a Nextcloud instance using the servinfo plugin
 
@@ -23,7 +24,7 @@ This program is configured through a JSON configuration file.
 
 To run, just `prometheus-nextcloud-exporter config.json`
 
-## Examples of configuration file
+## Examples of Configuration File
 
 This configuration shows:
 

@@ -8,6 +8,8 @@ guid: 'https://whoisdsmith.ctrlaltback.space/?p=619'
 permalink: '/?p=619'
 ---
 
+# into-the-unknown-of-the-cosmos481-revision-v1-into-the-unknown-of-the-cosmos
+
 Next Friday (February 4th) I’m Releasing my second Full-Length Album “Into The Unknown of The Cosmos”
 
 <div aria-hidden="true" class="wp-block-spacer" style="height:50px;"></div><figure class="wp-block-image size-large">![](https://c0debl0ck.files.wordpress.com/2022/01/into-the-unknown-of-the-cosmos.jpg?w=1024)</figure>## Tracklist

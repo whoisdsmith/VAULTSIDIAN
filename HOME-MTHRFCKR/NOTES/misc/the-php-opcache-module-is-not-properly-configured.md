@@ -6,11 +6,10 @@ source: https://help.nextcloud.com/t/the-php-opcache-module-is-not-properly-conf
 author: 
 ---
 
-# The PHP OPcache module is not properly configured
-
-
+# The PHP OPcache Module is not Properly Configured
 
 ---
+
 Hello,
 
 I have these warning in my Nexcloud :
@@ -62,9 +61,7 @@ opcache.revalidate_freq=1
 opcache.save_comments=1
 ```
 
-
 When I set your values, I have the same warning…
-
 
 Did you restart the php-fpm service?
 

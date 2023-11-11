@@ -110,7 +110,7 @@ who we are, both on an individual and on a societal level. The sheer knowledge t
 could access our private data can influence our behaviour.^15 If lifelogging were to become a com-  
 mon practice, this could influence our reasonable expectations of privacy, as well as the potential  
 for trust between people. As it is challenging for us to imagine what issues might arise in a society  
-of lifeloggers, I will now turn to an artistic representation of such a society: the _Black Mirror_ epi-  
+of lifeloggers, I will now turn to an artistic representation of such a society: the *Black Mirror* epi-  
 sode ‘The Entire History of You’.
 
 ‘The Entire History of You’  
@@ -247,12 +247,12 @@ Empowerment with Memories for Life. Identity in the Information Society, 1:1,
 ‘The Entire History of You.’ Black Mirror, season 1, episode 3, Endemol UK, 18 December
 ```
 
-2011. Netflix, available at: _[http://www.netflix.com/watch/70264856?trackId=13752289&tctx](http://www.netflix.com/watch/70264856?trackId=13752289&tctx)  
-    \=0%2C0-%2Ce23663bc-b998-4913-9170-1feb1c097d6a-6631378._  
+2011. Netflix, available at: *[http://www.netflix.com/watch/70264856?trackId=13752289&tctx](http://www.netflix.com/watch/70264856?trackId=13752289&tctx)  
+    \=0%2C0-%2Ce23663bc-b998-4913-9170-1feb1c097d6a-6631378.*  
     Van Bree, T. 2016. ‘Digital Hyperthymesia: On the Consequences of Living with Perfect  
-    Memory.’ _The Art of Ethics in the Information Society – Mind You,_  
+    Memory.’ *The Art of Ethics in the Information Society – Mind You,*  
     Janssens, L. (Ed.), Amsterdam University Press, 28-33.  
-    _Quantified Self._ Quantified Self Labs, 2015, quantifiedself.com. Website accessed 9  
+    *Quantified Self.* Quantified Self Labs, 2015, quantifiedself.com. Website accessed 9  
     August 2016.
 
 ## 120

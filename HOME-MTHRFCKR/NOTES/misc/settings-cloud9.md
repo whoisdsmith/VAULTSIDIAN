@@ -11,7 +11,8 @@ author:
 > It's important for the security and performance of your instance that everything is configured correctly. To help you with that we are doing some automatic checks. Please see the linked documentation for more information.
 
 ---
-## Security & setup warnings
+
+## Security & Setup Warnings
 
 [](https://docs.nextcloud.com/server/24/go.php?to=admin-warnings "Open documentation")
 

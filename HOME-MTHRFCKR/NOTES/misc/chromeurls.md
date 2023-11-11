@@ -1,4 +1,6 @@
-###### Chrome hidden commands
+# Chromeurls
+
+## Chrome Hidden Commands
 
 - `chrome://chrome-urls` - list of all commands
 - `chrome://flags` - enable experiments and development features
@@ -9,5 +11,5 @@
 - `chrome://safe-browsing` - safe browsing options
 - `chrome://user-actions` - record all user actions
 - `chrome://restart` - restart chrome
-- `chrome://dino` - ERR\_INTERNET\_DISCONNECTED...
+- `chrome://dino` - ERR\_INTERNET\_DISCONNECTED…
 - `cache:<website-address>` - view the cached version of the web page

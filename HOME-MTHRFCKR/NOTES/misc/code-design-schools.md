@@ -1,1 +1,3 @@
-## Code / Design schools
+# Code-design-schools
+
+## Code / Design Schools

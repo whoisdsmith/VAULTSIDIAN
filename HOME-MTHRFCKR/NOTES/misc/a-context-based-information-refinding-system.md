@@ -17,10 +17,10 @@ This survey paper gives the different techniques for context
 based information refinding systems with intent to give the  
 direction of the my project work with improved context based  
 information refinding system.  
-_Keywords: information refinding, context cue, refinding  
-queries._
+*Keywords: information refinding, context cue, refinding  
+queries.*
 
-#### I. Introduction
+### I. Introduction
 
 he World Wide has been dramatically increased  
 due to the usage of internet. The web acts as a  
@@ -50,8 +50,8 @@ information retrieval is a challenging task. Refinding is a
 common task is difficult when previously viewed  
 information is modified, moved or removed. How
 
-_Author α σ ρ: CMR Institute of Technology Hyderabad  
-e-mail: riyazsidd@yahoo.co.in._
+*Author α σ ρ: CMR Institute of Technology Hyderabad  
+e-mail: riyazsidd@yahoo.co.in.*
 
 ```
 information refinding is different from information
@@ -104,7 +104,7 @@ suggested a effective method for refinding the
 information fro m the web, they could not remember the
 ```
 
-##### Global Journal of Computer Science and Technology Volume XIV Issue IV Version I
+#### Global Journal of Computer Science and Technology Volume XIV Issue IV Version I
 
 (^)  
 1  
@@ -112,17 +112,18 @@ Year
 2014  
 (^) (DDDDDDDD
 
-##### )
+#### )
 
 ```
 G
 ```
 
-##### Divya α,M.Janga Reddy σ^ &M.Riyajoddinρ
+#### Divya α,M.Janga Reddy σ^ &M.Riyajoddinρ
 
-#### II. Relatedwork
+### II. Relatedwork
 
 ######
+
 
 ```
 key word and their related information after a couple of
@@ -228,7 +229,7 @@ lower scores on the comprehension test.
 A Context-b ased Information Refinding System-A Review
 ```
 
-###### 2
+#### 2
 
 ```
 Year
@@ -238,13 +239,13 @@ Year
 2014
 ```
 
-##### Global Journal of Computer Science and Technology Volume XIV Issue IV Version I
+### Global Journal of Computer Science and Technology Volume XIV Issue IV Version I
 
-##### (
+### (
 
-##### DDDDDDDD
+### DDDDDDDD
 
-##### )
+### )
 
 ```
 G
@@ -553,7 +554,7 @@ collections
 A Context-b ased Information Refinding System-A Review
 ```
 
-##### Global Journal of Computer Science and Technology Volume XIV Issue IV Version I
+### Global Journal of Computer Science and Technology Volume XIV Issue IV Version I
 
 (^)  
 3  
@@ -561,13 +562,13 @@ Year
 2014  
 (^) (DDDDDDDD
 
-##### )
+### )
 
 ```
 G
 ```
 
-#### III. Conclusion
+### III. Conclusion
 
 ```
 We have studied the comparison of various
@@ -578,7 +579,7 @@ information could be improved by contextual cues
 shown in above table.
 ```
 
-#### References Références Referencias
+### References Références Referencias
 
 1. A.P. Nivethith, D. Kerana Hanirex, K.P. Kaliyamurthie  
     “ A Comparative Study of Context-Based  
@@ -626,10 +627,10 @@ shown in above table.
 11. J. Teevan, “The Re: Search Engine: Simultaneous  
     Support for Finding and Re-Finding,” Proc. 20th  
     Ann. ACM Symp. User Interface Software and  
-    Technology (UIST), 2007.
+    Technology (UIST), 2007.  
     12.  S.K. Tyler and J. Teevan, “Large Scale Query Log  
         Analysis of Re-Finding,” Proc. Third ACM Int’l Conf.  
-        Web Search and Data Mining(WSDM), 2010.
+        Web Search and Data Mining(WSDM), 2010.  
     13.  Google Web History, [http://www.google.com/](http://www.google.com/)  
         history,
 
@@ -637,7 +638,7 @@ shown in above table.
 A Context-b ased Information Refinding System-A Review
 ```
 
-###### 4
+#### 4
 
 ```
 Year
@@ -647,13 +648,13 @@ Year
 2014
 ```
 
-##### Global Journal of Computer Science and Technology Volume XIV Issue IV Version I
+### Global Journal of Computer Science and Technology Volume XIV Issue IV Version I
 
-##### (
+### (
 
-##### DDDDDDDD
+### DDDDDDDD
 
-##### )
+### )
 
 ```
 G

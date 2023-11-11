@@ -8,6 +8,8 @@ guid: 'https://whoisdsmith.ctrlaltback.space/?p=923'
 permalink: '/?p=923'
 ---
 
+# oh-my-zsh-and-themes922-revision-v1-oh-my-zsh-and-themes
+
 One reason I like using Oh-My-Zsh it that it makes theming easy. Looking at a “stock” terminal can be pretty horrible.
 
 Zsh can be downloaded in your favorite repo or from its [official site](https://ohmyz.sh/).

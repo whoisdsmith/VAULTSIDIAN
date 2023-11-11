@@ -4,13 +4,13 @@
 David Alan Grier, Djaghe, LLC
 ```
 
-### Here we introduce a new column that explores
+## Here We Introduce a New Column that Explores
 
-### Computer’s contribution to the computing
+## Computer’s Contribution to the Computing
 
-### literature and how it is laying the foundation for
+## Literature and how it is Laying the Foundation for
 
-### the future of computer science and engineering
+## The Future of Computer Science and Engineering
 
 ```
 Digital Object Identif ier 10.1109/MC.2019.
@@ -21,7 +21,7 @@ Date of current version: 15 Januar y 2020
 JANUARY 2020 79
 ```
 
-##### EDITOR DAVID ALAN GRIER
+### EDITOR DAVID ALAN GRIER
 
 ```
 Djaghe, LLC; grier@gwu.edu
@@ -186,7 +186,7 @@ duced Nuclear Fusion of Deuterium.”^5
 
 **80 COMPUTER** WWW.COMPUTER.ORG/COMPUTER
 
-#### BODY OF KNOWLEDGE
+## BODY OF KNOWLEDGE
 
 That paper claimed to demonstrate  
 that hydrogen atoms could be fused  

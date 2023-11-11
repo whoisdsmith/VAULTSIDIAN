@@ -14,7 +14,7 @@ WalesFulbrightScholar(1957-58)andisamemberoftheAAAS,ACM,IEEE,andtheNationalAcade
 ofEngineering(1977)andSciences(2007).Awardsinclude:ACM-IEEEEckert-MauchlyAward,theIEEE’s  
 ComputerPioneerandIEEEMcDowellAwards,andtheIEEEVonNeumannMedal(1992),andThe 1991  
 NationalMedalofTechnologyforhiscontinuingintellectualandindustrialachievementsinthefieldof  
-computerdesign;andforhisleadingroleinestablishing...computersthatserveasasignificanttoolfor  
+computerdesign;andforhisleadingroleinestablishing…computersthatserveasasignificanttoolfor  
 engineering,science,andindustry.
 
 ```

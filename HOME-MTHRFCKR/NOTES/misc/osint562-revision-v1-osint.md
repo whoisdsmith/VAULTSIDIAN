@@ -8,6 +8,8 @@ guid: 'https://whoisdsmith.ctrlaltback.space/?p=872'
 permalink: '/?p=872'
 ---
 
+# osint562-revision-v1-osint
+
 ## OSINT Toolbox
 
 [Vedbex: DNS Resolver](https://www.vedbex.com/tools/home)

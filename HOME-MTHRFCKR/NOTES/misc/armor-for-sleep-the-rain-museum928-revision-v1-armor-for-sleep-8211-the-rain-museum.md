@@ -8,7 +8,7 @@ guid: 'https://whoisdsmith.ctrlaltback.space/?p=930'
 permalink: '/?p=930'
 ---
 
-# Armor For Sleep announce first album in 15 years (new single &amp; behind-the-scenes video)
+# Armor For Sleep Announce First Album in 15 Years (new Single &amp; Behind-the-scenes video)
 
 ![Armor For Sleep announce first album in 15 years \(new single & behind-the-scenes video\)](https://townsquare.media/site/838/files/2022/07/attachment-armor-for-sleep-2022.jpeg?w=980&q=75)
 

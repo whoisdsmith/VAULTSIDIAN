@@ -9,9 +9,10 @@ author:
 # howto:nextcloud [NethServer Wiki]
 
 > ## Excerpt
-> Information applies to: NethServer 7.x, Nextcloud >=21.x  (for previous versions check old revisions of this document)
+> Information applies to: NethServer 7.x, Nextcloud > =21.x  (for previous versions check old revisions of this document)
 
 ---
+
 # Nextcloud
 
 **Information applies to:** NethServer 7.x, Nextcloud >=21.x (for previous versions check old revisions of this document)  
@@ -22,8 +23,6 @@ author:
 **Note:** With the release of Nextcloud 18.0.4 we switched from PHP 7.2 to PHP 7.3  
 **Note:** With the release of Nextcloud 21.0.2 we switched from default mariadb-5.5 database server to rh-mariadb105  
 
-  
-
 ## FAQ
 
 **Where is Nextcloud installation located?**  
@@ -33,12 +32,12 @@ author:
 -   Nextcloud config file is located at `/usr/share/nextcloud/config/config.php`.
     
 -   User data is under `/var/lib/nethserver/nextcloud` directory.
-    
 
-  
 **Can I upgrade Nextcloud via its built-in updater?**  
 It is not recommended. NethServer manages updates through RPM packages.  
+
   
+
 **How can I run Nextcloud's`occ` command?**  
 `occ` command should be run as the HTTP user (apache) and with the same php version used by your Nextcloud instance. One method to call `occ` command is:
 
@@ -52,20 +51,16 @@ An easier way is to make use of the occ wrapper (`/usr/local/sbin/occ`) provided
 occ
 ```
 
-  
 **After updating/upgrading Nextcloud, the apps are disabled**  
-Nextcloud update/upgrade procedure disables 3rd. party apps to avoid incompatibility problems. Server logs keep track of which apps were disabled. After a successful update/upgrade procedure you can use the _Applications_ page to update and re-enable the apps. Apps can also be enabled from the command line:
+Nextcloud update/upgrade procedure disables 3rd. party apps to avoid incompatibility problems. Server logs keep track of which apps were disabled. After a successful update/upgrade procedure you can use the *Applications* page to update and re-enable the apps. Apps can also be enabled from the command line:
 
 ```
 # example: enabling calendar app
 occ app:enable calendar
 ```
 
-  
 **Logged in as admin but don't have access to administration features**  
-At first install, NethServer's Nextcloud instance has an internal `admin` account with a default password of `Nethesis,1234` (that _should_ be changed). When an account provider is installed (nethserver-directory: openLDAP; nethserver-dc: Active Directory) users can authenticate into Nextcloud with their LDAP credentials. This can pose some inconvenience, as the account provider might have an account named `admin` as well, and trip you when login in to Nextcloud. This can be alleviated by setting a different password for Nextcloud's admin account.  
-
-  
+At first install, NethServer's Nextcloud instance has an internal `admin` account with a default password of `Nethesis,1234` (that *should* be changed). When an account provider is installed (nethserver-directory: openLDAP; nethserver-dc: Active Directory) users can authenticate into Nextcloud with their LDAP credentials. This can pose some inconvenience, as the account provider might have an account named `admin` as well, and trip you when login in to Nextcloud. This can be alleviated by setting a different password for Nextcloud's admin account.  
 
 ## Troubleshooting
 
@@ -87,25 +82,19 @@ Check the status of mysqld/mariadb and rh-php73-php-fpm services:
 systemctl -l status rh-php73-php-fpm rh-mariadb105-mariadb@nextcloud.service  # mysqld on Nextcloud < 21.x
 ```
 
-  
-
-### How to reset Nextcloud's admin password
+### How to Reset Nextcloud's Admin Password
 
 ```
 occ user:resetpassword admin
 ```
 
-  
-
-### Nextcloud remains in maintenance mode after an upgrade
+### Nextcloud Remains in Maintenance Mode after an Upgrade
 
 ```
 occ maintenance:mode --off
 ```
 
-  
-
-### "Nextcloud will be updated to version xx.x.x" message is shown after an upgrade
+### "Nextcloud Will Be Updated to Version xx.x.x" Message is Shown after an Upgrade
 
 This could be due to a partial upgrade done by the rpm packages. The specific issue might have been reflected on server logs. By running `occ upgrade` command you'll either finish the upgrade process or get some errors showing the problem:  
 
@@ -113,9 +102,7 @@ This could be due to a partial upgrade done by the rpm packages. The specific is
 occ upgrade
 ```
 
-  
-
-### Warning: "There were problems with the code integrity check"
+### Warning: "There Were Problems with the Code Integrity check"
 
 Some files have not passed the integrity check. These could be custom files, or leftovers from a previous update or installation.
 
@@ -126,17 +113,12 @@ Some files have not passed the integrity check. These could be custom files, or 
 -   Act accordingly to the self-explanatory issue type and the solutions provided in the Nextcloud documentation
     
 -   Trigger a “Rescan…” to verify the issues have been solved
-    
 
-  
-
-### Background jobs: Last job execution ran X weeks/months ago. Something seems wrong
+### Background Jobs: Last Job Execution Ran X weeks/months Ago. Something Seems Wrong
 
 If cron is the selected job scheduler for Nextcloud, make sure a cron job for `/usr/share/nextcloud/cron.php` is in place, and it is called by `apache` user using the right php version. Since Nextcloud 14.0.3 release, NethServer takes care of this.  
 
-  
-
-### Your installation has no default phone region set
+### Your Installation Has no Default Phone Region Set
 
 > Your installation has no default phone region set. This is required to validate phone numbers in the profile settings without a country code. To allow numbers without a country code, please add “default\_phone\_region” with the respective ISO 3166-1 code ↗ of the region to your config file.
 
@@ -146,9 +128,7 @@ This advice is not important. If you want to, you can follow as advised, editing
   'default_phone_region' => 'IT',
 ```
 
-  
-
-### Warning: "The database is missing some optional columns"
+### Warning: "The Database is Missing Some Optional columns"
 
 > The database is missing some optional columns. Due to the fact that adding columns on big tables could take some time they were not added automatically when they can be optional. By running “occ db:add-missing-columns” those missing columns could be added manually while the instance keeps running. Once the columns are added some features might improve responsiveness or usability.
 
@@ -158,9 +138,7 @@ Fix it as instructed by the warning message:
   occ db:add-missing-columns
 ```
 
-  
-
-### Warning: "The database is missing some primary keys"
+### Warning: "The Database is Missing Some Primary keys"
 
 > The database is missing some primary keys. Due to the fact that adding primary keys on big tables could take some time they were not added automatically. By running “occ db:add-missing-primary-keys” those missing primary keys could be added manually while the instance keeps running.
 
@@ -170,9 +148,7 @@ Fix it as instructed by the warning message:
   occ db:add-missing-primary-keys
 ```
 
-  
-
-### "File is locked"
+### "File Is locked"
 
 Nextcloud implements a file locking mechanism to avoid file corruption. By default, Nextcloud uses the database locking backend.
 
@@ -191,13 +167,10 @@ Under some circumstances, a file could remain inaccessible due to an unreleased 
 
 If it does not work, a user reported that a temporary workaround was to disable file locking (\`'filelocking.enabled' ⇒ false,\`) from the config.php file. Consult Nextcloud's documentation.
 
-  
-
-### Nextcloud stuck at "update in process" after using the built-in updater
+### Nextcloud Stuck at "update in process" after Using the Built-in Updater
 
 Please, avoid using the built-in updater. Stick to the update methods supported by your GNU/Linux distribution. If you need a newer version ask to the package maintainer.
 
-  
 To revert the changes:
 
 ```
@@ -206,14 +179,12 @@ To revert the changes:
   cp -aR /usr/share/nextcloud /usr/share/nextcloud.bad  # optional (as a backup)
 ```
 
-  
 Restore Nextcloud's config.php file form a backup. If no backup present, edit Nextcloud's config file (e.g. `/usr/share/nextcloud/config/config.php`) removing the lines referring to `maintenance` and `updater.secret`.
 
 ```
   yum reinstall nethserver-nextcloud
 ```
 
-  
 Check Nextcloud is working as expected. If all is good you can get rid of the backup files:
 
 ```
@@ -221,9 +192,7 @@ Check Nextcloud is working as expected. If all is good you can get rid of the ba
   rm -r /usr/share/nextcloud.bad/    # use -rf to force removal without confirmation
 ```
 
-  
-
-### Exception: Updates between multiple major versions are unsupported
+### Exception: Updates between Multiple Major Versions Are Unsupported
 
 Problem arises if some major release update was skipped. Nextcloud manual says:
 
@@ -257,19 +226,17 @@ ID     | Action(s)      | Package
 [root@server ~]# yum --showduplicates list *nextcloud
 ```
 
-3\. Downgrade _\*nextcloud_ packages to the latest next major release that follows to the previously installed release (in this example, the previously installed major release was nextcloud-12 so the next major release that follows is nextcloud-13):  
+3\. Downgrade *\*nextcloud* packages to the latest next major release that follows to the previously installed release (in this example, the previously installed major release was nextcloud-12 so the next major release that follows is nextcloud-13):  
 
 ```
 [root@server ~]# yum downgrade nethserver-nextcloud-1.2.4-1.ns7 nextcloud-13.0.6-1.el7
 ```
 
-4\. Keep updating _\*nextcloud_ packages to the latest next major release until reaching the current release (if there is any other major release in-between, do the update specifying the packages' version):  
+4\. Keep updating *\*nextcloud* packages to the latest next major release until reaching the current release (if there is any other major release in-between, do the update specifying the packages' version):  
 
 ```
 [root@server ~]# yum update \*nextcloud
 ```
-
-  
 
 **b)** Migration scripts to latest version (experimental procedure):  
 Get installed version:
@@ -313,9 +280,7 @@ occ maintenance:mode --off
 
 Check Nextcloud's `config.php` file to make sure the upgrade set the current (and correct) version.
 
-  
-
-## Apps and 3rd. party integrations
+## Apps and 3rd. Party Integrations
 
 -   [Collabora CODE](https://wiki.nethserver.org/doku.php?id=collabora "collabora")
     
@@ -328,7 +293,6 @@ Check Nextcloud's `config.php` file to make sure the upgrade set the current (an
 -   Bookmarks app
     
     -   If Bookmarks app fails to install due to gmp library not being available, install the library for the php version being used:
-        
 
 ```
 yum install rh-php73-php-gmp

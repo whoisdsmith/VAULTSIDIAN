@@ -1,3 +1,5 @@
+# Code-time
+
 ## [Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode)
 
 > Automatic time reports by project and other programming metrics right in VS Code.

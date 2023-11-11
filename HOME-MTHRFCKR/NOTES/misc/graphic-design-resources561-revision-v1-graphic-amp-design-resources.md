@@ -8,6 +8,8 @@ guid: 'https://whoisdsmith.ctrlaltback.space/?p=879'
 permalink: '/?p=879'
 ---
 
+# graphic-design-resources561-revision-v1-graphic-amp-design-resources
+
 ## Design
 
 [Stock Photo and Image Portfolio by Andrew Derr](https://www.shutterstock.com/g/hirohideki)
@@ -1406,7 +1408,7 @@ Create storyboards with our free storyboard software! Filmmakers, teachers, stud
 
 Free shotlisting and storyboard software for video creatives, filmmakers, photographers, agencies, creative directors. StudioBinder shotlisting app support full shot spec customization and online sharing. Get started shotlisting your short film, feature or TV show for FREE.
 
-#### Lighting and Equipment resources
+#### Lighting and Equipment Resources
 
 [10 Best Video Equipment Rental Options for Filmmakers](https://www.studiobinder.com/blog/video-equipment-rental)
 
@@ -1428,7 +1430,7 @@ When your documentary is self-funded, your resources are tight and you can’t a
 
 PRG Gear maintains the largest inventory of production equipment for rent in the world. Our inventory is curated and supported by a team of creators, inventors, engineers and experts in every product category. PRG Gear supplies the most advanced technology to a broad array of clients in the production industry. Working with PRG Gear means having access to unmatched expertise in Audio, Video, Lighting, LED, Cameras, Rigging, Media Servers, Fiber, and more, along with the confidence of impeccable maintenance, thoughtful kitting and 24/7 support. We’ve grown in the past 35 years to offer equipment in 72 locations worldwide, but our commitment to service hasn’t wavered.
 
-#### Royalty Free Video and Images and music
+#### Royalty Free Video and Images and Music
 
 [Reddit.com/r/NatureStockVideos](https://www.reddit.com/r/NatureStockVideos)
 

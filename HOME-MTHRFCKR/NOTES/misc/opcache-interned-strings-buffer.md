@@ -6,14 +6,13 @@ source: https://help.nextcloud.com/t/nextcloud-23-02-opcache-interned-strings-bu
 author: 
 ---
 
-# Nextcloud 23.02 OPcache interned strings buffer - ℹ️ Support - Nextcloud community
+# Nextcloud 23.02 OPcache Interned Strings Buffer - ℹ️ Support - Nextcloud Community
 
-
-Hello,  I just updated from 23.0 to 23.02 and starting getting this warning:  The OPcache interned strings buffer is nearly full. To assure that repeating strings can be effectively cached, it is recommended to apply opcache.interned_strings_buffer to your PHP configuration with a value higher than `8’  I saw in the 10-opcache.ini file that the line was commented out so I guess 8 is the default. I uncommented the line and set the value to 16. After restarting php-fpm, the warning message went aw...
+Hello,  I just updated from 23.0 to 23.02 and starting getting this warning:  The OPcache interned strings buffer is nearly full. To assure that repeating strings can be effectively cached, it is recommended to apply opcache.interned_strings_buffer to your PHP configuration with a value higher than `8’  I saw in the 10-opcache.ini file that the line was commented out so I guess 8 is the default. I uncommented the line and set the value to 16. After restarting php-fpm, the warning message went aw…
 
 ---
-# [Nextcloud 23.02 OPcache interned strings buffer](https://help.nextcloud.com/t/nextcloud-23-02-opcache-interned-strings-buffer/134007)
 
+# [Nextcloud 23.02 OPcache interned strings buffer](https://help.nextcloud.com/t/nextcloud-23-02-opcache-interned-strings-buffer/134007)
 
 Hello,
 
@@ -33,7 +32,6 @@ But I think an answer in the nextcloud docs would be good too.
 Best, Bernd
 
 ---
-
 
 Thanks. I will try that out.
 
@@ -64,7 +62,7 @@ While this new behaviour allows to reduce OPcache limits to what Nextcloud actua
 
 Indeed, like all warnings on the admin panel, those are not mandatory to follow, but recommendations based on what Nextcloud is able to measure. Not following these won’t break your Nextcloud, OPcache is a pure performance buffer. There are other warnings you can safely ignore, like `imagick` PHP module, `bcmath` and `gmp` modules if you do not use WebAuthn based passwordless authentication anyway, the `X-Download-Options` header warning if none of your users access Nextcloud via Internet Explorer, and more.
 
-Since more than 16 MiB are a bit unexpected to be ever used, if Nextcloud is the only web application served by your webserver/PHP instance, and the admin panel shows a recommendation to apply >16 MiB, it would be interesting to see your apps list. Probably we can find similarities or identify the app which allocates that much interned strings. Maybe there is indeed an issue with cache eviction in one of these apps, or it simply contains a large number of strings/text shown in its interfaces.
+Since more than 16 MiB are a bit unexpected to be ever used, if Nextcloud is the only web application served by your webserver/PHP instance, and the admin panel shows a recommendation to apply >16 MiB, it would be interesting to see your apps list. Probably we can find similarities or identify the app which allocates that much interned strings. Maybe there is indeed an issue with cache eviction in one of these apps, or it simply contains a large number of strings/text shown in its interfaces.  
 MichaIng:
 
 > it would be interesting to see your apps list
@@ -190,7 +188,7 @@ If you find time, could you try to find the interned strings buffer size at whic
 <?php echo '<pre>'; print_r(opcache_get_status(false)); echo '</pre>';
 ```
 
-_Using `(true)` would add the full list of all cached scripts._
+*Using `(true)` would add the full list of all cached scripts.*
 
 There is also a [CLI tool 9](https://github.com/gordalina/cachetool) but it is more difficult to use correctly, when one wants to check the PHP OPcache instance Nextcloud runs on, instead of a new instance created by the CLI tool itself ![:wink:](https://help.nextcloud.com/images/emoji/twitter/wink.png?v=12 ":wink:").
 
@@ -209,4 +207,3 @@ docker exec -i -t next_your_domain_app_1 bash -l
 sed -i "s/opcache.interned_strings_buffer=8/opcache.interned_strings_buffer=16/g" /usr/local/etc/php/conf.d/opcache-recommended.ini |grep opcache.interned_strings_buffer /usr/local/etc/php/conf.d/opcache-recommended.ini
 apache2ctl graceful
 ```
-

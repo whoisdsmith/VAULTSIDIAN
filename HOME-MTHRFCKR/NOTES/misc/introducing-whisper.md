@@ -1,4 +1,3 @@
-
 # Introducing Whisper
 
 We’ve trained and are open-sourcing a neural net called Whisper that approaches human level robustness and accuracy on English speech recognition.
@@ -17,7 +16,7 @@ September 21, 2022
 
 [View Model Card](https://github.com/openai/whisper/blob/main/model-card.md)
 
-### Whisper examples:
+## Whisper Examples
 
 Speed talkingK-PopFrenchAccent
 

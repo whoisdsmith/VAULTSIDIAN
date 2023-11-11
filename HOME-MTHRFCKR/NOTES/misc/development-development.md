@@ -7,7 +7,9 @@ layout: page
 guid: 'https://c0debl0ck.wordpress.com/development/'
 ---
 
-### APIs
+# Development-development
+
+## APIs
 
 [DevDocs](https://devdocs.io/)
 
@@ -89,7 +91,7 @@ View our API Directory, the largest Application Programming Interface repository
 
 Find all the APIs you need to build your successful projects. APIs.io is the first search engine for APIs.
 
-### Create Blog
+## Create Blog
 
 [Write.as Pro](https://write.as/pro)
 
@@ -153,7 +155,7 @@ Svelte demo app
 
 Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live.
 
-### Github
+## Github
 
 [GitExplorer](https://gitexplorer.com/)
 
@@ -3463,7 +3465,7 @@ heedy,heedy | An aggregator for personal metrics, and an extensible analysis eng
 
 Apple Pattern of Life Lazy Output’er. Contribute to mac4n6/APOLLO development by creating an account on GitHub.
 
-### AWESOME
+## AWESOME
 
 [Awesome Search](https://awesomelists.top/#/)
 
@@ -3561,7 +3563,7 @@ List of telegram groups . Contribute to stkw0/awesome-telegram-groups developmen
 
 Curated list of awesome LEGO resources. Contribute to ad-si/awesome-lego development by creating an account on GitHub.
 
-### Podcasts
+## Podcasts
 
 [Free Podcast Hosting &amp; Podcast Websites | No Editing Skills Needed](https://soundbran.ch)
 
@@ -3569,7 +3571,7 @@ Curated list of awesome LEGO resources. Contribute to ad-si/awesome-lego develop
 
 Listenbox provides an easy way to play YouTube in the background using any podcast app
 
-## Programming
+# Programming
 
 [CodeSandbox: Online Code Editor and IDE for Rapid Web Development](https://codesandbox.io/)
 
@@ -3661,7 +3663,7 @@ I’ve found a really nice looking vertical timeline based upon the jQuery Isoto
 
 Overview of the best linters, formatters, quality checkers for JS, Go, Rust, C, Ruby, Python, PHP and more. Compare 594 tools to improve code quality for you and your team in 2021.
 
-### Code Editors
+## Code Editors
 
 [A modern, open source code editor that understands web design](https://brackets.io/)
 
@@ -3705,13 +3707,13 @@ An Effortless PKM System.
 
 A hackable text editor for the 21st Century
 
-### Database
+## Database
 
 [Tour – Topincs](https://www.topincs.com/tour)
 
 We create tailored online databases and applications in our modern and powerful 4GL-System.
 
-### Developer
+## Developer
 
 [NotABug.org: Free code hosting](https://notabug.org/)
 
@@ -3759,7 +3761,7 @@ A search engine for developers to find Github Repos, youtube tutorials, online c
 
 [My Custom Developer Search](https://cse.google.com/cse?cx=e3f7d4c4dfde9f16a)
 
-### JSON
+## JSON
 
 [JSONPlaceholder – Free Fake REST API](https://jsonplaceholder.typicode.com/)
 
@@ -3769,7 +3771,7 @@ JSONPlaceholder – Free Fake REST API
 
 JSONBin.io is a free JSON Storage &amp; a JSON Hosting service which is ideal for Web and Mobile apps, and also for JSON Mocking.
 
-### Markdown
+## Markdown
 
 [dyrobooks](https://dyrobooks.com/blog/2018/04/03/using-markdown)
 
@@ -3857,7 +3859,7 @@ Udacity Full Stack Web Developer Nanodegree program (FSND) course materials – 
 
 Applications and components that support Markdown.
 
-### Python
+## Python
 
 [Nuitka the Python Compiler](https://nuitka.net)
 
@@ -3867,7 +3869,7 @@ With the Python compiler Nuitka you create protected binaries out of your Python
 
 Taking advantage of the data Spotify keeps on its library, and using this for our machine learning projects
 
-### Regex
+## Regex
 
 [Regulex：JavaScript Regular Expression Visualizer](https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24)
 
@@ -3885,7 +3887,7 @@ Ruby-based regular expression editor/tester
 
 RegexBuddy is your perfect companion for working with regular expressions. Learning, creating, understanding, testing, using and saving regular expressions has never been easier.
 
-### Terminal
+## Terminal
 
 [GoAccess – Visual Web Log Analyzer](https://goaccess.io/)
 
@@ -4015,7 +4017,7 @@ A repository for the most elegant and useful UNIX commands. Great commands can b
 
 An A-Z Index of Windows CMD commands.
 
-## Resources
+# Resources
 
 [React DevTools tutorial](https://react-devtools-tutorial.vercel.app/)
 
@@ -4185,7 +4187,7 @@ Node.js uses markdown-it to batch convert md content to html, Programmer All, we
 
 [GitHub – sunilkumarvalmiki/Anonymous-Developemnt-Resources: this Repo contain’s A list of useful development resources . . . .](https://github.com/sunilkumarvalmiki/Anonymous-Developemnt-Resources)
 
-this Repo contain’s A list of useful development resources . . . . – GitHub – sunilkumarvalmiki/Anonymous-Developemnt-Resources: this Repo contain’s A list of useful development res…
+this Repo contain’s A list of useful development resources … . – GitHub – sunilkumarvalmiki/Anonymous-Developemnt-Resources: this Repo contain’s A list of useful development res…
 
 [dyrobooks](https://dyrobooks.com/)
 
@@ -4197,7 +4199,7 @@ this Repo contain’s A list of useful development resources . . . . – GitHub 
 
 Join thousands of engineers in subscribing to a weekly roundup of the latest in open-source software, curated by an Amazon engineer.Click to read Console, by Jackson Kelley, a Substack publication with thousands of readers.
 
-### How-To’s and Continious Learning
+## How-To’s And Continious Learning
 
 [The Modern JavaScript Tutorial](https://javascript.info/)
 
@@ -4361,7 +4363,7 @@ If you are a developer and you want to get started with Git and GitHub, then thi
 
 I am a scripting beginner. What i am trying to do. I have a text file that looks like this (example): hello hi there apple I am trying to make a script that saves every line as a separate new file
 
-### Cheetsheet
+## Cheetsheet
 
 [OverAPI.com | Collecting all the cheat sheets](https://overapi.com/)
 
@@ -4391,11 +4393,11 @@ A ridiculous collection of web development cheatsheets · One-page guide to
 
 A ridiculous collection of web development cheatsheets · One-page guide to
 
-### Git
+## Git
 
 [Git – Downloading Package](https://git-scm.com/download/mac)
 
-## RSS
+# RSS
 
 [XML RSS](https://www.w3schools.com/xml/xml_rss.asp)
 
@@ -4457,7 +4459,7 @@ Create a feed from a web page. Generate RSS and JSON feeds from a set of links o
 
 [Feed me up, Scotty! | Feed me up, Scotty!](https://feed-me-up-scotty.vincenttunru.com)
 
-## Self-Hosted
+# Self-Hosted
 
 [Firefiles](https://firefiles.vercel.app/?ref=producthunt)
 
@@ -4499,7 +4501,7 @@ Complete solution for running apps on your own server
 
 Real-time collaborative web productivity suite behind the firewall.
 
-### Dashboards
+## Dashboards
 
 [Stacer – Linux System Optimizer &amp; Monitoring](https://oguzhaninan.github.io/Stacer-Web/)
 
@@ -4533,7 +4535,7 @@ Another web application bookmark dashboard, with fun features. – rmountjoy92/D
 
 :bar\_chart: a nice and simple dashboard / landing page. – phntxx/dashboard: a nice and simple dashboard / landing page.
 
-## Website
+# Website
 
 [AWSM – One Page CV / Resume &amp; Personal Portfolio WordPress Theme](https://themeforest.net/item/awsm-simple-personal-portfolio-wordpress-theme/4641441?ref=webdesigndev)
 
@@ -4743,7 +4745,7 @@ Create professional, custom websites in a completely visual canvas with no code.
 
 Try this awesome website maker. 4500+ templates. Free, easy &amp; fast – No coding! Drag and drop website design software.
 
-### Host-Domains
+## Host-Domains
 
 [Free Unlimited Web Hosting with PHP, MySQL, FTP – ProFreeHost](https://profreehost.com/)
 
@@ -4861,7 +4863,7 @@ AwardSpace is a free web hosting provider with NO ADS, paid web hosting, VPS hos
 
 Absolutely free web hosting with cPanel, PHP &amp; MySQL for a stunning blogging start. Get free website hosting together with a free domain name at no cost at all!
 
-### HTML &amp; CSS
+## HTML &amp; CSS
 
 [Web developer tools](https://mothereff.in/)
 
@@ -4935,7 +4937,7 @@ Today’s resource is an easy to customize, responsive timeline. We used some CS
 
 Let’s learn how to build a responsive vertical timeline from scratch. First, we’ll create the basic structure, then, we’ll use some JavaScript to add some transitional effects to our timeline.
 
-### Server
+## Server
 
 [OmniOS Community Edition](https://omnios.org/)
 
@@ -4977,7 +4979,7 @@ Linux control panel
 
 FREE SERVER CONTROL PANEL
 
-### Web Animation
+## Web Animation
 
 [homage to Mr Robot &amp; Watch Dogs](https://codepen.io/cssgrid/pen/dppoNd)
 
@@ -5041,7 +5043,7 @@ SVG Artista is a free tool that helps you easily create amazing SVG drawing anim
 
 Animista is a CSS animation library and a place where you can play with a collection of ready-made CSS animations and download only those you will use.
 
-### Inspiration
+## Inspiration
 
 [Silhouette Dead Mans Skull Day Dead Stock Illustration 1840789102](https://www.shutterstock.com/image-illustration/silhouette-dead-mans-skull-day-dia-1840789102)
 

@@ -3,6 +3,7 @@
 ---
 
 %% Begin Waypoint %%
+
 - **[misc](../../../..//home-mthrfckr/Notes/Misc/Misc.md)**
 	- [18-selected-super-useful-linux-one-liners914-revision-v1-18-selected-super-useful-linux-one-liners](18-Selected-Super-Useful-Linux-One-Liners914-Revision-V1-18-Selected-Super-Useful-Linux-One-Liners.md)
 	- [a-context-based-information-refinding-system](A-Context-Based-Information-Refinding-System.md)
@@ -119,4 +120,3 @@
 	- [visualizing-years-of-messaging-on-facebook](Visualizing-Years-Of-Messaging-On-Facebook.md)
 
 %% End Waypoint %%
-

@@ -2,7 +2,7 @@
 
 ---
 
-## Custom text ℹ️
+## Custom Text ℹ️
 
 For the title, as well as the front- and back-matter custom text, you can use the following text replacement values. Please note that not all websites will provide all values
 
@@ -22,7 +22,7 @@ URL information:
 
 - `{baseURI}` - The url of the article
 - `{origin}` - The origin of the URL, that is its scheme, its domain and its port.
-- `{host}` - The domain (that is the _hostname_) followed by (if a port was specified) a `':'` and the _port_ of the URL.
+- `{host}` - The domain (that is the *hostname*) followed by (if a port was specified) a `':'` and the *port* of the URL.
 - `{hostname}` - The domain of the URL.
 - `{port}` - The port number of the URL.
 - `{protocol}` - The protocol scheme of the URL, including the final `':'`.

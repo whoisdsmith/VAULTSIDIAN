@@ -1,4 +1,4 @@
-# Nextcloud Cheatsheet / occ
+# Nextcloud Cheatsheet / Occ
 
 News: <https://nextcloud.com/blog/category/release/>
 
@@ -10,32 +10,44 @@ Reset Admin Password
 
   * sudo -u www-data php /var/www/nextcloud/occ user:resetpassword admin
 
-## Scan files
+## Scan Files
 
   * sudo -u www-data php /var/www/nextcloud/occ files:scan -v --all
+
   * sudo -u www-data php /var/www/nextcloud/occ files:scan -v myusername
+
   * sudo -u www-data php /var/www/nextcloud/occ files:scan -v --path="/myusername/files/myfolder/mysubfolder" myusername
+
   * For external storage one has to use a user, e.g. admin 
+
     * sudo -u www-data /usr/bin/php /var/www/nextcloud/occ files:scan -v --path="/admin/files/name_of_external_storage"
 
-#### Error while scanning: "Entry path/to/file will not be accessible due to incompatible encoding"
+### Error while Scanning: "Entry path/to/file Will not Be Accessible due to Incompatible encoding"
 
   * German Umlauts with different encoding (OS X normalization form D for UTF-8)
+
   * Solution: 
+
     * apt install convmv
+
     * convmv -f utf-8 -t utf-8 --nfc -r /srv/nextcloud/
+
     * check, then with --notest
+
     * convmv -f utf-8 -t utf-8 --nfc -r --notest /srv/nextcloud/
+
     * \+ rescan with occ
 
 ## Upgrade
 
   * sudo -u www-data php /var/www/nextcloud/updater/updater.phar --no-interaction
+
   * sudo -u www-data php /var/www/nextcloud/occ upgrade
 
 Turn maintenance mode on/off
 
   * sudo -u www-data php /var/www/nextcloud/occ maintenance:mode --on
+
   * sudo -u www-data php /var/www/nextcloud/occ maintenance:mode --off
 
 Add missing indices
@@ -58,12 +70,14 @@ Fix interupted upgrades
 
   * sudo -u www-data php /var/www/nextcloud/occ maintenance:repair
 
-## Install apps from the command line
+## Install Apps from the Command line
 
 <https://docs.nextcloud.com/server/20/admin_manual/configuration_server/occ_command.html#apps-commands-label>
 
   * sudo -u www-data php /var/www/nextcloud/occ app:list
+
   * sudo -u www-data php /var/www/nextcloud/occ app:install files_external
+
   * sudo -u www-data php /var/www/nextcloud/occ app:enable files_external
 
 Configure
@@ -77,7 +91,9 @@ Configure
 #### Integration with Nautilus
 
   * sudo apt install nautilus-nextcloud
+
     * old: python-nautilus nextcloud-client-nautilus
+
   * Log off / Log in again
 
 ## Issues
@@ -89,11 +105,16 @@ Configure
 CSS fix for V16 / V1.7.0
 
   * Menu -> Apps -> Add/Enable "Custom CSS" app
+
   * Menu -> Settings -> Administration -> Theming
+
   * Add custom CSS and save: 
+
     *         /* Fix mobile right sidebar issues (create, update buttons hidden) */
         
+
          @media only screen and (max-height: 760px) {
+
         
           #app-sidebar {
             height: auto; /* there are problems with the height calculation */
@@ -104,40 +125,31 @@ CSS fix for V16 / V1.7.0
           .modal-content #app-sidebar {
             position: relative;      /* do not fix sidebar to right side */
           }
+
         }
+
         
+
         /* OTHER TWEAKS */
+
         
-        /* bold time */
-        .fc-day-grid-event .fc-time {
-            opacity: 1;
-            font-size: 90%;
-            font-weight: bold;
+
+        /* bold time */  
+        .fc-day-grid-event .fc-time {  
+            opacity: 1;  
+            font-size: 90%;  
+            font-weight: bold;  
         }
+
         
-        /* show event name in mobile */
-        .fc-day-grid-event .fc-content {
-            white-space: normal;
+
+        /* show event name in mobile */  
+        .fc-day-grid-event .fc-content {  
+            white-space: normal;  
         }
-        
-        
-        		
-        
-        	
-    	
-    
-    
-    
-    
-    
-    ## Install OnlyOffice in Nextcloud 18
-    
-    
-    
-    
-    
-    
-    	
+
+## Install OnlyOffice in Nextcloud 18
+
       * Apps -> Office -> Install and enable OnlyOffice Connector
     
     	
@@ -255,20 +267,11 @@ CSS fix for V16 / V1.7.0
     
     
     
-    ##  
-    
-    
-    
-    
-    
-    ## Update to PHP7.4 on Ubuntu 18.04
-    
-    
-    
-    
-    
-    
-    	
+
+##
+
+## Update to PHP7.4 on Ubuntu 18.04
+
       * apt --yes remove 'php*'
     
     	
@@ -312,7 +315,9 @@ CSS fix for V16 / V1.7.0
             * 
         		
         
-        # Enable http2  
+
+# Enable Http2
+
         
         		Protocols h2 h2c http/1.1  
         
@@ -468,7 +473,6 @@ CSS fix for V16 / V1.7.0
     
     
     
-
 
 ___
 

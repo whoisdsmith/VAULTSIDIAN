@@ -8,6 +8,8 @@ guid: 'https://whoisdsmith.ctrlaltback.space/?p=622'
 permalink: '/?p=622'
 ---
 
+# dad458-revision-v1-dad
+
 **I Miss You Every Day.**
 
 I wish you I could hear your laugh and voice one more time. I miss your humor, your wisdom and the way you made light out of all the darkness.

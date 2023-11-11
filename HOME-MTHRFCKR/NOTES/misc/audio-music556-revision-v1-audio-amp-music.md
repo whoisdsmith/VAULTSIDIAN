@@ -8,6 +8,8 @@ guid: 'https://whoisdsmith.ctrlaltback.space/?p=874'
 permalink: '/?p=874'
 ---
 
+# audio-music556-revision-v1-audio-amp-music
+
 ## Pro Audio
 
 [MP3 Quack – Search and download your favorite music songs](https://mp3quack.app/)
@@ -404,7 +406,7 @@ Fossies – The Fresh Open Source Software archive with special browsing feature
 
 [Open Hub, the open source network](https://www.openhub.net)
 
-### Software repacks
+### Software Repacks
 
 [Piratedhub.com](https://piratedhub.com)
 

@@ -350,7 +350,7 @@ We assumed that each life event is a data entity or record in
 the dataset. The Life-log dataset of a person P is represented
 ```
 
-byL(P)andL(P) ={E 1 , E 2 , ...En}. The life-log data entity  
+byL(P)andL(P) ={E 1 , E 2 , …En}. The life-log data entity  
 Eis a 3-tuple< D, T, S >, whereTis the timestamp, which  
 can be continuous or discrete; if continuous, it will be the start  
 timestamp and the end timestamp.Dis the information object  
@@ -367,7 +367,7 @@ should be defined for that data object.Frienddefines users who
 can access this information object. The user can define which  
 user(s) or group of users from the social domain can access  
 this object andEmust be defined for access expiration date.  
-In this caseA={P 1 , P 2 , ...Pn}, which is a finite set of users  
+In this caseA={P 1 , P 2 , …Pn}, which is a finite set of users  
 or group of users who can access the subject’s information  
 objects. How to extract the friend list is not within the scope  
 of this paper. Developers or end users can define it based on  

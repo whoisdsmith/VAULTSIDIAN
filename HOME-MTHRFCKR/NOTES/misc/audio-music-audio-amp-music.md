@@ -7,6 +7,8 @@ layout: page
 guid: 'https://c0debl0ck.wordpress.com/audio-music/'
 ---
 
+# Audio-music-audio-amp-music
+
 ## Pro Audio
 
 [MP3 Quack – Search and download your favorite music songs](https://mp3quack.app/)
@@ -403,7 +405,7 @@ Fossies – The Fresh Open Source Software archive with special browsing feature
 
 [Open Hub, the open source network](https://www.openhub.net)
 
-### Software repacks
+### Software Repacks
 
 [Piratedhub.com](https://piratedhub.com)
 

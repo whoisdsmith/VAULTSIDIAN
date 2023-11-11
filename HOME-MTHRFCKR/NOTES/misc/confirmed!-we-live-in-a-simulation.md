@@ -27,8 +27,11 @@ Within the abstract world of programmed mathematics, the processing speed of ope
 If we live in a simulation, then our universe should also have such an artifact. We can now begin to articulate some properties of this artifact that would help us in our search for such an artifact in our universe.
 
 * The artifact is as an additional component of every operation that is unaffected by the magnitude of the variables being operated upon and is irrelevant within the simulated reality until a maximum variable size is observed.
+
 * The artifact presents itself in the simulated world as an upper limit.
+
 * The artifact cannot be explained by underlying mechanistic laws of the simulated universe. It has to be accepted as an assumption or “given” within the operating laws of the simulated universe.
+
 * The effect of the artifact or the anomaly is absolute. No exceptions.
 
 Now that we have some defining features of the artifact, of course it becomes clear what the artifact manifests itself as within our universe. The artifact is manifested as the speed of light.
@@ -75,4 +78,4 @@ Here, on earth. In this life.
 
 ___
 
-# article
+# Article

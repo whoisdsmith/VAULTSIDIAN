@@ -3,6 +3,7 @@
 ---
 
 %% Begin Waypoint %%
+
 - **[notes](../../../..//home-mthrfckr/Notes/Misc/Notes.md)**
 	- [13-years-of-adderall-and-how-i-feel-about-it-now489-revision-v1-13-years-of-adderall-and-how-i-feel-about-it-now](../../Research/Adderall/Articles/13-Years-Of-Adderall-And-How-I-Feel-About-It-Now489-Revision-V1-13-Years-Of-Adderall-And-How-I-Feel-About-It-Now.md)
 	- [18-selected-super-useful-linux-one-liners914-revision-v1-18-selected-super-useful-linux-one-liners](18-Selected-Super-Useful-Linux-One-Liners914-Revision-V1-18-Selected-Super-Useful-Linux-One-Liners.md)

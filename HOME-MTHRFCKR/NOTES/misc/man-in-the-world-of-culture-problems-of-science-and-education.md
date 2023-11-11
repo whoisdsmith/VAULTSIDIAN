@@ -1,18 +1,20 @@
+# Man-in-the-world-of-culture-problems-of-science-and-education
+
 ```
 International scientific conference ”Man in the world of culture:
 problems of science and education”
 Volume 2020
 ```
 
-### Conference Paper
+## Conference Paper
 
-### Stepanchuk Yu
+## Stepanchuk Yu
 
 ```
 PhD of Filosophy, Ass. Prof., Ural Federal University, Yekaterinburg, Russia
 ```
 
-### Abstract
+## Abstract
 
 ```
 Computer-brain analogies are ubiquitous in contemporary culture. They also have a
@@ -25,13 +27,13 @@ often underpin relationships between human and technology that are disempowering
 and increasingly problematic.
 ```
 
-### Keywords: human-machine symbiosis, augmented reality, memex, hypertext, ideology
+## Keywords: Human-machine Symbiosis, Augmented Reality, Memex, Hypertext, Ideology
 
 ```
 Web 2.0, platform capitalism
 ```
 
-## 1\. Introduction
+# 1\. Introduction
 
 ```
 “Human as a machine” and “machine as human” analogies have a long and rich
@@ -75,7 +77,7 @@ the responsibility of the Man in
 the world of culture Conference  
 Committee.
 
-## 2\. A Brain-mimicking Machine
+# 2\. A Brain-mimicking Machine
 
 For obvious reasons, the development of “human–computer” analogy very early on  
 became focused on the “brain–computer” association. Unlike the 19th-century mechan-  
@@ -159,7 +161,7 @@ The “computer–brain” analogy proved its adaptability to different contexts
 between the idea of augmentation, i.e. adding something that did not exist before, and  
 an expression of “what is already there”.
 
-## 3\. From an Idea to an Ideology
+# 3\. From an Idea to an Ideology
 
 Both Engelbart’s and Nelson’s projects, despite their differences, were bound to a  
 vision of a human-computer symbiosis that was supposed to augment human cognition,  
@@ -219,7 +221,7 @@ intellect, current digital interfaces and algorithms actually dumb us down, are 
 found everywhere
 ```
 
-## 4\. Conclusion
+# 4\. Conclusion
 
 ```
 Over the course of several decades, “brain-computer” analogy emerged as one of
@@ -234,7 +236,7 @@ can become ideologically-laden constructs that obscure and mystify the workings 
 technology and of the socio-economic forces that govern our world.
 ```
 
-## References
+# References
 
 ```
 [1]Barnet B. Memory machines: The evolution of hypertext. London, Anthem Press,

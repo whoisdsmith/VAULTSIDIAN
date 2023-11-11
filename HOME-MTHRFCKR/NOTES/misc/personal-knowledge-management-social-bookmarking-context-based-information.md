@@ -166,7 +166,7 @@ the activity does not reflect current user activity but is an arbitrary list of 
 categorization. Still the greatest caveat could be that users must manually insert all context  
 information, which was found to be cumbersome in user study \[27\].
 
-## 3 Problem statement
+## 3 Problem Statement
 
 Re-finding the right information can be painstakingly difficult as the sheer amount of  
 information constantly increases. A research group at University of Washington in  
@@ -220,7 +220,7 @@ basis of Graphic User Interface design is that “see and choose is easier than 
     personalized (folksonomy and annotation-driven) and formal (ontology-driven) approaches,  
     under the umbrella of user context.
 
-## 4 Proposed solution
+## 4 Proposed Solution
 
 The proposed solution harnesses positive benefits both from existing approaches  
 (annotation, ontology and tags) and adds on contextual cues to index each bookmarked web  
@@ -267,7 +267,7 @@ any fragment of context, tags or annotations appended to the target page. Additi
 create a personalized ontological diagram that allows users to view, browse and discern his  
 or her domain-based dynamics of saved knowledge resources.
 
-## 5\. Conclusion and expected contribution
+## 5\. Conclusion and Expected Contribution
 
 The new approach put forward in this paper is based on ontology, annotation and context. It  
 not only embraces the advantages of existing ontology and personalization-based approaches  
