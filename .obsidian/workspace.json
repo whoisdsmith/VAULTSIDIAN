@@ -133,10 +133,16 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "open-vscode:VSCode": false,
+      "obsidian-regex-pipeline:Regex Rulesets": false,
+      "bulk-exporter:Bulk Exporter Preview": false
     }
   },
-  "active": "b3ffadf276e8aeb1",
+  "active": "4cac731b001463d4",
   "lastOpenFiles": [
     "HOME-MTHRFCKR/Please redirect your DNS.md",
     "README.md",
