@@ -6,7 +6,7 @@
 
 ---
 
-# Spacemacs _cheatsheet_
+# Spacemacs *cheatsheet*
 
 This page is a work in progress. You can help by [suggesting edits](https://github.com/rstacruz/cheatsheets/blob/master/spacemacs.md)!
 

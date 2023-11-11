@@ -6,7 +6,7 @@
 
 ---
 
-# Org Mode _cheatsheet_
+# Org Mode *cheatsheet*
 
 This page is a work in progress. You can help by [suggesting edits](https://github.com/rstacruz/cheatsheets/blob/master/org-mode.md)!
 

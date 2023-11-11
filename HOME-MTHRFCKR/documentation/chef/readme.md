@@ -1,4 +1,4 @@
-# Chef 
+# Chef
 
 - Chef is a particularly popular IaC tool among CI/CD practitioners. The fact that Chef uses Ruby-based DSL is certainly a huge plus too. It supports "cookbook" versioning from the beginning and allows you to maintain a consistent configuration—even when the infrastructure needs to keep up with the rapid growth of the app it hosts.
 

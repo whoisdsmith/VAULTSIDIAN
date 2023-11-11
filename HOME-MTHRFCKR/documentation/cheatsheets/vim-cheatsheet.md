@@ -6,7 +6,7 @@
 
 ---
 
-# Vim _cheatsheet_
+# Vim *cheatsheet*
 
 [Vim](https://www.vim.org/) is a very efficient text editor. This reference was made for Vim 8.0.  
 For shortcut notation, see `:help key-notation`.
@@ -31,7 +31,7 @@ Close all files, abandon changes
 
 Save
 
-`:wq` _/_ `:x`
+`:wq` */* `:x`
 
 Save and close file
 
@@ -61,11 +61,11 @@ Description
 
 Arrow keys
 
-`<C-U>` _/_ `<C-D>`
+`<C-U>` */* `<C-D>`
 
 Half-page up/down
 
-`<C-B>` _/_ `<C-F>`
+`<C-B>` */* `<C-F>`
 
 Page up/down
 
@@ -75,11 +75,11 @@ Shortcut
 
 Description
 
-`b` _/_ `w`
+`b` */* `w`
 
 Previous/next word
 
-`ge` _/_ `e`
+`ge` */* `e`
 
 Previous/next end of word
 
@@ -89,13 +89,13 @@ Shortcut
 
 Description
 
-`0` _(zero)_
+`0` *(zero)*
 
 Start of line
 
 `^`
 
-Start of line _(after whitespace)_
+Start of line *(after whitespace)*
 
 `$`
 
@@ -283,7 +283,7 @@ Shortcut
 
 Description
 
-`Esc` _/_ `<C-[>`
+`Esc` */* `<C-[>`
 
 Exit insert mode
 
@@ -303,11 +303,11 @@ Delete character
 
 `dd`
 
-Delete line _(Cut)_
+Delete line *(Cut)*
 
 `yy`
 
-Yank line _(Copy)_
+Yank line *(Copy)*
 
 `p`
 
@@ -317,11 +317,11 @@ Paste
 
 Paste before
 
-`"*p` _/_ `"+p`
+`"*p` */* `"+p`
 
 Paste from system clipboard
 
-`"*y` _/_ `"+y`
+`"*y` */* `"+y`
 
 Paste to system clipboard
 
@@ -349,7 +349,7 @@ Shortcut
 
 Description
 
-`d` _/_ `x`
+`d` */* `x`
 
 Delete selection
 
@@ -359,7 +359,7 @@ Replace selection
 
 `y`
 
-Yank selection _(Copy)_
+Yank selection *(Copy)*
 
 See [Operators](https://devhints.io/vim#operators) for other things you can do.
 
@@ -367,7 +367,7 @@ See [Operators](https://devhints.io/vim#operators) for other things you can do.
 
 ### Usage
 
-Operators let you operate in a range of text (defined by _motion_). These are performed in normal mode.
+Operators let you operate in a range of text (defined by *motion*). These are performed in normal mode.
 
 `d`
 
@@ -389,11 +389,11 @@ Delete
 
 `y`
 
-Yank _(copy)_
+Yank *(copy)*
 
 `c`
 
-Change _(delete then insert)_
+Change *(delete then insert)*
 
 `>`
 
@@ -427,33 +427,33 @@ See `:help operator`
 
 ### Examples
 
-Combine operators with _motions_ to use them.
+Combine operators with *motions* to use them.
 
 Shortcut
 
 Description
 
-`d`_d_
+`d`*d*
 
-_(repeat the letter)_ Delete current line
+*(repeat the letter)* Delete current line
 
-`d`_w_
+`d`*w*
 
 Delete to next word
 
-`d`_b_
+`d`*b*
 
 Delete to beginning of word
 
-_2_`dd`
+*2*`dd`
 
 Delete 2 lines
 
-`d`_ip_
+`d`*ip*
 
-Delete a text object _(inside paragraph)_
+Delete a text object *(inside paragraph)*
 
-_(in visual mode)_ `d`
+*(in visual mode)* `d`
 
 Delete selection
 
@@ -463,7 +463,7 @@ See: `:help motion.txt`
 
 ### Usage
 
-Text objects let you operate (with an _operator_) in or around text blocks (_objects_).
+Text objects let you operate (with an *operator*) in or around text blocks (*objects*).
 
 `v`
 
@@ -565,15 +565,15 @@ Shortcut
 
 Description
 
-`zo` _/_ `zO`
+`zo` */* `zO`
 
 Open
 
-`zc` _/_ `zC`
+`zc` */* `zC`
 
 Close
 
-`za` _/_ `zA`
+`za` */* `zA`
 
 Toggle
 
@@ -591,11 +591,11 @@ Open all
 
 `zm`
 
-Fold more _(foldlevel += 1)_
+Fold more *(foldlevel += 1)*
 
 `zr`
 
-Fold less _(foldlevel -= 1)_
+Fold less *(foldlevel -= 1)*
 
 `zx`
 

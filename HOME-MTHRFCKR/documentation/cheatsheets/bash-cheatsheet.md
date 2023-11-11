@@ -13,7 +13,7 @@ author:
 
 ---
 
-# Bash Scripting _cheatsheet_
+# Bash Scripting *cheatsheet*
 
 ## [#](https://devhints.io/bash#getting-started)Getting Started
 
@@ -21,8 +21,8 @@ author:
 
 This is a quick reference to getting started with Bash scripting.
 
-- [Learn bash in y minutes](https://learnxinyminutes.com/docs/bash/) _(learnxinyminutes.com)_
-- [Bash Guide](http://mywiki.wooledge.org/BashGuide) _(mywiki.wooledge.org)_
+- [Learn bash in y minutes](https://learnxinyminutes.com/docs/bash/) *(learnxinyminutes.com)*
+- [Bash Guide](http://mywiki.wooledge.org/BashGuide) *(mywiki.wooledge.org)*
 
 ### Example
 
@@ -234,7 +234,7 @@ Description
 
 `${FOO:0:3}`
 
-Substring _(position, length)_
+Substring *(position, length)*
 
 `${FOO:(-3):3}`
 
@@ -993,8 +993,8 @@ fi
 
 ## [#](https://devhints.io/bash#also-see)Also See
 
-- [Bash-hackers wiki](http://wiki.bash-hackers.org/) _(bash-hackers.org)_
-- [Shell vars](http://wiki.bash-hackers.org/syntax/shellvars) _(bash-hackers.org)_
-- [Learn bash in y minutes](https://learnxinyminutes.com/docs/bash/) _(learnxinyminutes.com)_
-- [Bash Guide](http://mywiki.wooledge.org/BashGuide) _(mywiki.wooledge.org)_
-- [ShellCheck](https://www.shellcheck.net/) _(shellcheck.net)_
+- [Bash-hackers wiki](http://wiki.bash-hackers.org/) *(bash-hackers.org)*
+- [Shell vars](http://wiki.bash-hackers.org/syntax/shellvars) *(bash-hackers.org)*
+- [Learn bash in y minutes](https://learnxinyminutes.com/docs/bash/) *(learnxinyminutes.com)*
+- [Bash Guide](http://mywiki.wooledge.org/BashGuide) *(mywiki.wooledge.org)*
+- [ShellCheck](https://www.shellcheck.net/) *(shellcheck.net)*

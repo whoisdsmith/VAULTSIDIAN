@@ -50,7 +50,7 @@ The options must come before the command (**new**). For example:
 
 ———
 
-**_\-p, --photos:_**
+***\-p, --photos:***
 
 Path to one or more photo file(s). If desired you can use \[{photo}\] in entry text to position photo. Multiple photos are supported with the Plus account status (up to 10) and Premium account status (up to 30).
 
@@ -64,7 +64,7 @@ Example:
 
 ———
 
-**_\-z, --time-zone:_**
+***\-z, --time-zone:***
 
 Time zone to use, for a list see /usr/share/zoneinfo. The name is expected to be a name from the IANA Time Zone Database. (see [http://www.iana.org/time-zones](http://www.iana.org/time-zones) or /usr/share/zoneinfo) Alternatively, you can specify the name as a GMT offset.
 
@@ -84,7 +84,7 @@ Examples:
 
 ———
 
-**_\-s, --starred:_**
+***\-s, --starred:***
 
 Star entry if flag is present.
 
@@ -96,7 +96,7 @@ Example:
 
 ———
 
-**_\-d, --date:_**
+***\-d, --date:***
 
 Date to use, otherwise will use today/now. Example Format (time/seconds are optional):
 
@@ -114,7 +114,7 @@ Example Use:
 
 ———
 
-**_\--coordinate:_**
+***\--coordinate:***
 
 Coordinate of entry location, must provide two numbers with the first a latitude, and the second a longitude.
 
@@ -126,7 +126,7 @@ Example:
 
 ———
 
-**_\--isoDate:_**
+***\--isoDate:***
 
 Date to use in ISO 8601 format. Format:
 
@@ -144,13 +144,13 @@ Example:
 
 ———
 
-**_\-j, --journal:_**
+***\-j, --journal:***
 
 Name of journal for entry. Journal must already exist. If not specified then the default journal will be used.
 
 ———
 
-**_\-t, --tags:_**
+***\-t, --tags:***
 
 One or more tags for entry.
 

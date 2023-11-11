@@ -99,7 +99,7 @@ Here is a Go source file before adding `?ts=4`:
 
 ![Before, tab space example](http://i.imgur.com/GIT1Fr0.png)
 
-...and this is after adding `?ts=4`:
+…and this is after adding `?ts=4`:
 
 ![After, tab space example](http://i.imgur.com/70FL4H9.png)
 
@@ -135,7 +135,7 @@ If you go to the repo's [Branches](https://github.com/tiimgreen/github-cheat-she
 https://github.com/{user}/{repo}/branches
 ```
 
-... you would see a list of all branches which are not merged into the main branch.
+… you would see a list of all branches which are not merged into the main branch.
 
 From here you can access the compare page or delete a branch with a click of a button.
 
@@ -149,7 +149,7 @@ To use GitHub to compare branches, change the URL to look like this:
 https://github.com/{user}/{repo}/compare/{range}
 ```
 
-where `{range} = master...4-1-stable`
+where `{range} = master…4-1-stable`
 
 For example:
 
@@ -1027,7 +1027,7 @@ To add an alias, either navigate to `~/.gitconfig` and fill it out in the follow
   remotes = remote -v
 ```
 
-...or type in the command-line:
+…or type in the command-line:
 
 ```bash
 git config --global alias.new_alias git_function
@@ -1058,7 +1058,7 @@ Some useful aliases include:
 | `git cleanup` | `git branch --merged \| grep -v '*' \| xargs git branch -d` | `git config --global alias.cleanup "!git branch --merged \| grep -v '*' \| xargs git branch -d"` |
 | `git remotes` | `git remote -v` | `git config --global alias.remotes 'remote -v'` |
 | `git lg` | `git log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --` | `git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --"` |
-  
+
 *Some Aliases are taken from [@mathiasbynens](https://github.com/mathiasbynens) dotfiles: <https://github.com/mathiasbynens/dotfiles/blob/master/.gitconfig>*
 
 #### Auto-Correct

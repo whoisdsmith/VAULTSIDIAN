@@ -1,5 +1,5 @@
-# cloud-storage
+# Cloud-storage
 
 ## Cloud Storage
 
-_I recommend using online storage with Mac clients_
+*I recommend using online storage with Mac clients*

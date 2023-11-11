@@ -1,4 +1,4 @@
-# git-cheatsheet
+# Git-cheatsheet
 
 ![Cover image for GIT CHEATSHEET](https://res.cloudinary.com/practicaldev/image/fetch/s--koMw51J7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sfoahn4fqdfslzx84n2j.jpg)
 

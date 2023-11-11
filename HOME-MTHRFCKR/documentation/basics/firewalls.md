@@ -29,13 +29,13 @@ IPTables is a rule based firewall and comes pre-installed on most Linux distribu
 
 However if you want to install it or update it yourself
 
-For apt based distributions
+For apt based distributions  
 `$ sudo apt install iptables`
 
-For dnf based distributions
+For dnf based distributions  
 `$ sudo dnf install iptables`
 
-For pacman based distributions
+For pacman based distributions  
 `$ sudo pacman -Syu iptables`
 
 IPTables services and protocols
@@ -51,6 +51,7 @@ IPTables main config files
   - `/sbin/iptables` - the IPTables binary
 
 IPTables chains
+
   
   - **Input**: Used to control the behavior of input traffic. For example if you want to match an incoming SSH IP and port to a rule in the input chain.
   - **Forward**: Used for incoming connections that aren't being delivered locally. `$ iptables -L -v` can be used to check this. For example in router data is always sent to it but rarely is destined for the router itself; the data is just forwarded to the target.
@@ -63,6 +64,7 @@ Connection Specific Response
   - **Reject**: Don't allow the connection but send back an error. Best if you want don't want the source to connect to your system, but don't want them to learn that a firewall blocked their request.
 
 Allowing or Blocking specific connections
+
   
   - Connections from single IP Source
 
@@ -150,7 +152,7 @@ A fundamental ufw command may look like `ufw [--dry-run] [option] [rule syntax]`
 
 ---
 
-##### Resources used to write this
+#### Resources Used to Write This
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Firewall_(computing))
 - [Cisco](https://www.cisco.com/c/en/us/products/security/firewalls/what-is-a-firewall.html)

@@ -1,4 +1,4 @@
-# cloud-services
+# Cloud-services
 
 ## Cloud Services
 
@@ -39,7 +39,7 @@
 
 ## Cloud Services
 
-_For self-hosted services, check out [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) on GitHub._
+*For self-hosted services, check out [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) on GitHub.*
 
 ### Math and Programming Online
 

@@ -6,7 +6,7 @@
 
 ---
 
-# OS X _cheatsheet_
+# OS X *cheatsheet*
 
 ## Locations of Startup Items
 

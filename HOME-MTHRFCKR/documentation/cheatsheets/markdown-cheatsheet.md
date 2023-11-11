@@ -6,7 +6,7 @@
 
 ---
 
-# Markdown _cheatsheet_
+# Markdown *cheatsheet*
 
 ## [#](https://devhints.io/markdown#reference)Reference
 

@@ -1,4 +1,4 @@
-# google-cloud-platform-a-cheat-sheet-techrepublic
+# Google-cloud-platform-a-cheat-sheet-techrepublic
 
  [![Image of TechRepublic Staff](https://secure.gravatar.com/avatar/2cba7e5bf1824938f2b865e29d6884bf?s=96&d=mm&r=g)](https://www.techrepublic.com/meet-the-team/us/techrepublic-staff/)
 

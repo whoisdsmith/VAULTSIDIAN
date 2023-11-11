@@ -1,4 +1,4 @@
-# Proxy server
+# Proxy Server
 
 A Proxy server is like an app or a software that makes a specific or pre-defined request on behalf a client or server. It can be configured to handle incoming or outgoing requests on behalf of a client or server before they are transmitted over the Internet. The Proxy server also hides the IP addresses before performing transmitting over the Internet. 
 
@@ -27,6 +27,7 @@ Reverse proxy server is a type of server that requests network resources on beha
 For example - Imagine if an organisation wants to stream data to the outside world, they can configure the reverse proxy server to handle the requests from clients. 
 
 **Advantages of a Reverse Proxy**
+
  - Caching - Can be used when multiple requests come for a same file.
  - Canary Deployments - Can be used when releasing data to a small subset of users.
  - Ingress - Filter all incoming requests and send them to appropriate destinations

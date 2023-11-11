@@ -13,7 +13,7 @@ author:
 
 ---
 
-# AppleScript _cheatsheet_
+# AppleScript *cheatsheet*
 
 ## Running
 

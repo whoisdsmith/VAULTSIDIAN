@@ -11,12 +11,14 @@ A proxy server handles the flow of requests on the server. The Cache server is i
 **Example** Imagine if a company sell their products via the offical website for customers globally, having their server in one physical location might take have long waiting times for the requests and responses to flow through. In this situation to bring the website up to speed, the company will spin up multiple servers spread across multiple geographic locations. Each of these servers would display the same contents. This setup is made easily available with the help of Caching servers. 
 
 ## Advantages
+
  - Better user experience
  - Reduced Bandwidth cost
  - Reliable content delivery
  - Fast access 
 
 ## Types of Cache
+
  
  - Content Delivery Network (CDN) Cache
  - Database cache 

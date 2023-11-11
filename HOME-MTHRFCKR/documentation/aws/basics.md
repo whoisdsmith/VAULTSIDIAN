@@ -1,4 +1,6 @@
-## AWS 
+# Basics
+
+## AWS
 
 - [AWS ARN](https://docs.aws.amazon.com/general/latest/gr/aws-arns-and-namespaces.html)
 
@@ -7,7 +9,7 @@
 - ARN
 - Amazon Resource Names (ARNs) uniquely identify AWS resources. We require an ARN when you need to specify a resource unambiguously across all of AWS, such as in IAM policies, Amazon Relational Database Service (Amazon RDS) tags, and API calls. 
 
-- get contexts
+- get contexts  
 ``` kubectl config get-contexts ```
 
 - use contexts

@@ -1,4 +1,4 @@
-# your-complete-guide-to-free-google-services
+# Your-complete-guide-to-free-google-services
 
 ![Guide to free google services](https://www.coolheadtech.com/hubfs/Stock%20images/Free%20Stuff%20card%20with%20sky%20background.jpeg)
 
