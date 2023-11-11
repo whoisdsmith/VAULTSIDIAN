@@ -10,7 +10,7 @@ The syntax of a full Web address is the following:
 scheme://prefix.domain:port/path/filename
 ```
 
-### Explanation
+## Explanation
 
 <table class="table table-bordered table-striped table-header small-font"><tbody><tr><td>scheme</td><td>Specifies the type of Internet service. http/https is the most common.</td></tr><tr><td>prefix</td><td>Specifies a domain prefix. www is the default for http.</td></tr><tr><td>domain</td><td>Specifies the name of the Internet domain.</td></tr><tr><td>port</td><td>Specifies the port number at the host. 80 is the default for http.</td></tr><tr><td>path</td><td>Specifies a path at the server. If it is omitted, the resource will be located at the root directory.</td></tr><tr><td>filename</td><td>Specifies the name of a resource or document.</td></tr></tbody></table>
 
@@ -25,7 +25,7 @@ The following table lists some common schemes:
 | ftp (File Transfer Protocol) | Downloading or uploading files. |
 | file | A file on your computer. |
 
-## URL Encoding
+# URL Encoding
 
 URLs can be transmitted over the Internet only using the [ASCII character set.](https://www.w3docs.com/learn-html/html-ascii.html) If a URL has characters outside the ASCII set, the URL must be converted.
 

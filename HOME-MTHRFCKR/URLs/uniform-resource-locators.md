@@ -4,7 +4,7 @@
 
 This section provides additional information about what URLs are and how URL Manager Pro handles them.  
 
-## **Syntax of URLs**
+## **Syntax Of URLs**
 
 ---
 
@@ -70,7 +70,7 @@ URLs were originally intended for internal use by Internet programs, not to be s
 
 ---
 
-## **Types of URLs**
+## **Types Of URLs**
 
 ---
 

@@ -103,7 +103,7 @@ Replace "bookmark\_url" with the URL of the bookmark, and "Bookmark Title" with 
 
 ---
 
-### To add a bookmark with a favicon in HTML, you can use the following code  
+### To Add a Bookmark with a Favicon in HTML, You Can Use the following Code
 
 `<a href="http://www.example.com" rel="bookmark" title="Example Website">  
   <img src="http://www.example.com/favicon.ico" alt="Example Favicon" />  
@@ -114,7 +114,7 @@ The `rel="bookmark"` attribute indicates that this link is a bookmark, and the `
 
 ---
 
-### To add a bookmark with a favicon in HTML,  you can use the following code  
+### To Add a Bookmark with a Favicon in HTML, You Can Use the following Code
 
 <a href="https://www.yourwebsite.com" rel="bookmark" title="Bookmark this page"><img src="https://www.yourwebsite.com/favicon.ico" alt="Your Website Favicon" /></a>
 

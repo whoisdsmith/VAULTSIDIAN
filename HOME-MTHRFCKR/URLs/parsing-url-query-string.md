@@ -32,7 +32,7 @@ For this process, there are 2 methods available in the Browser’s API:
 - `encodeURI()`
 - `encodeURIComponent()`
 
-# `encodeURI` vs `encodeURIComponent`
+# `encodeURI` Vs `encodeURIComponent`
 
 Both methods encodes a URI by replacing the some especial chars with its UTF-8 representation.
 

@@ -1,4 +1,4 @@
-# Help Google choose the right canonical URL for your duplicate pages
+# Help Google Choose the Right Canonical URL for Your Duplicate Pages
 
 bookmark_border Stay organized with collections Save and categorize content based on your preferences.
 
@@ -6,13 +6,13 @@ If you have a single page that's accessible by multiple URLs, or different pages
 
 If you don't explicitly tell Google which URL is canonical, Google will make the choice for you, or might consider them both of equal weight, which might lead to unwanted behavior, as explained in [Reasons to choose a canonical URL](https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls#why-it-matters).
 
-## What is a canonical URL?
+## What is a Canonical URL?
 
 A *canonical URL* is the URL of the page that Google thinks is most representative from a set of duplicate pages on your site. For example, if you have URLs for the same page (`example.com?dress=1234` and `example.com/dresses/1234`), Google chooses one as canonical.
 
 The pages don't need to be absolutely identical; minor changes in sorting or filtering of list pages don't make the page unique (for example, sorting by price or filtering by item color). The canonical URL can be in a different domain than a duplicate URL.
 
-## How Google indexes and chooses the canonical URL
+## How Google Indexes and Chooses the Canonical URL
 
 <iframe frameborder="0" allowfullscreen="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" title="Canonical URLs: How Does Google Pick the One? #AskGoogleWebmasters" width="640" height="360" src="https://www.youtube.com/embed/8j_hxBw5B4E?origin=https%3A%2F%2Fdevelopers.google.com&amp;video-id=8j_hxBw5B4E&amp;enablejsapi=1&amp;widgetid=1" sandbox="allow-same-origin allow-scripts allow-forms allow-popups allow-popups-to-escape-sandbox" id="widget2"></iframe>
 
@@ -24,7 +24,7 @@ Different language versions of a single page are considered duplicates only if t
 
 Google uses the canonical pages as the main sources to evaluate content and quality. A Google Search result usually points to the canonical page, unless one of the duplicates is explicitly better suited for a user. For example, the search result will probably point to the mobile page if the user is on a mobile device, even if the desktop page is marked as canonical.
 
-## Reasons for having similar or duplicate pages
+## Reasons for Having Similar or Duplicate Pages
 
 There are valid reasons why your site might have different URLs that point to the same page, or have duplicate or very similar pages at different URLs. Here are the most common reasons:
 
@@ -64,7 +64,7 @@ There are valid reasons why your site might have different URLs that point to th
 - If content you provide on a blog for **syndication** to other sites is replicated in part or in full on those domains:  
     `https://news.example.com/green-dresses-for-every-day-155672.html` (syndicated post) `https://blog.example.com/dresses/green-dresses-are-awesome/3245/` (original post)
 
-## Reasons to choose a canonical URL
+## Reasons to Choose a Canonical URL
 
 <iframe frameborder="0" allowfullscreen="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" title="Canonicalization: SEO Mythbusting" width="640" height="360" src="https://www.youtube.com/embed/gEWkYTPSEjs?origin=https%3A%2F%2Fdevelopers.google.com&amp;video-id=gEWkYTPSEjs&amp;enablejsapi=1&amp;widgetid=3" sandbox="allow-same-origin allow-scripts allow-forms allow-popups allow-popups-to-escape-sandbox" id="widget4"></iframe>
 
@@ -76,11 +76,11 @@ There are a number of reasons why you would want to explicitly choose a canonica
 - **To manage syndicated content.** If you syndicate your content for publication on other domains, you want to ensure that your preferred URL appears in search results.
 - **To avoid spending crawling time on duplicate pages**. You want Googlebot to get the most out of your site, so it's better for it to spend time crawling new (or updated) pages on your site, rather than crawling the desktop and mobile versions of the same pages.
 
-## Learn which page Google considers canonical
+## Learn Which Page Google Considers Canonical
 
 Use the [URL Inspection tool](https://support.google.com/webmasters/answer/9012289#google-selected-canonical) to learn which page Google considers canonical. Even if you explicitly designate a canonical page, Google might choose a different canonical for various reasons, such as performance or content.
 
-## Specify a canonical page
+## Specify a Canonical Page
 
 To specify a canonical URL for duplicate URLs or similar pages, choose one of the following methods. While we encourage you to use any of these methods, none of them are required. If you don't indicate a canonical URL, we'll identify what we think is the best version or URL. Be sure to follow the [general guidelines](https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls#best-practices).
 
@@ -88,30 +88,31 @@ To specify a canonical URL for duplicate URLs or similar pages, choose one of th
 
 | Method and description |
 | --- |
-| [`rel=canonical <link>` tag](https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls#rel-canonical-link-method) |
+| [`rel=canonical <link>` tag](https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls#rel-canonical-link-method) |  
+
 Add a `<link>` tag in the code for all duplicate pages, pointing to the canonical page.
 
 <table><tbody><tr><td width="50%"><span class="compare-yes" aria-hidden="true"></span><b>Pros:</b><ul><li>Can map an infinite number of duplicate pages.</li></ul></td><td width="50%"><p><span class="compare-no" aria-hidden="true"></span><b>Cons:</b></p><ul><li>Can add to the size of the page.</li><li>Can be complex to maintain the mapping on larger sites, or sites where the URLs change often.</li><li>Only works for HTML pages, not for files such as PDF. In such cases, you can use the <code translate="no" dir="ltr">rel=canonical</code> HTTP header.</li></ul></td></tr></tbody></table>
 
- |
+ |  
 | [`rel=canonical` HTTP header](https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls#rel-canonical-header-method) |
 
 Send a `rel=canonical` header in your page response.
 
 <table><tbody><tr><td width="50%"><p><span class="compare-yes" aria-hidden="true"></span><b>Pros:</b></p><ul><li>Doesn't increase page size.</li><li>Can map an infinite number of duplicate pages.</li></ul></td><td width="50%"><p><span class="compare-no" aria-hidden="true"></span><b>Cons:</b></p><ul><li>Can be complex to maintain the mapping on larger sites, or sites where the URLs change often.</li></ul></td></tr></tbody></table>
 
- |
+ |  
 | [Sitemap](https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls#sitemap-method) |
 
 Specify your canonical pages in a sitemap.
 
 <table><tbody><tr><td width="50%"><p><span class="compare-yes" aria-hidden="true"></span><b>Pros:</b></p><ul><li>Easy to do and maintain, especially on large sites.</li></ul></td><td width="50%"><p><span class="compare-no" aria-hidden="true"></span><b>Cons:</b></p><ul><li>Google must still determine the associated duplicate for any canonicals that you declare in the sitemap.</li><li>Less powerful signal to Google than the <code translate="no" dir="ltr">rel=canonical</code> mapping technique.</li></ul></td></tr></tbody></table>
 
- |
-| [`301` redirect](https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls#redirects-method) | Use `301` redirects to tell Googlebot that a redirected URL is a better version than a given URL. Use this only when deprecating a duplicate page. |
+ |  
+| [`301` redirect](https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls#redirects-method) | Use `301` redirects to tell Googlebot that a redirected URL is a better version than a given URL. Use this only when deprecating a duplicate page. |  
 | [AMP variant](https://developers.google.com/search/docs/crawling-indexing/amp) | If one of your variants is an AMP page, follow the AMP guidelines to indicate the canonical page and AMP variant. |
 
-### General guidelines
+### General Guidelines
 
 For all canonicalization methods, follow these general guidelines:
 
@@ -123,7 +124,7 @@ For all canonicalization methods, follow these general guidelines:
 
 - Link to the canonical URL rather than a duplicate URL, when linking within your site. Linking consistently to the URL that you consider to be canonical helps Google understand your preference.
 
-#### Prefer HTTPS over HTTP for canonical URLs
+#### Prefer HTTPS over HTTP for Canonical URLs
 
 Google prefers HTTPS pages over equivalent HTTP pages as canonical, except when there are issues or conflicting signals such as the following:
 
@@ -144,7 +145,7 @@ To prevent Google from incorrectly making the HTTP page canonical, **avoid** the
 - Avoid including the HTTP page in your sitemap or [hreflang entries](https://developers.google.com/search/docs/specialty/international/localized-versions) rather than the HTTPS version.
 - Avoid implementing your SSL/TLS certificate for the wrong host-variant. For example, example.com serving the certificate for www.example.com. The certificate must match your complete site URL, or be a wildcard certificate that can be used for multiple subdomains on a domain.
 
-### Use a `rel="canonical"` `link` tag
+### Use a `rel="canonical"` `link` Tag
 
 To indicate when a page is a duplicate of another page, you can use a `<link>` tag in the `head` section of your HTML.
 
@@ -174,7 +175,7 @@ Use absolute paths rather than relative paths with the `rel="canonical"` `link` 
 
 If you use JavaScript to add the `rel="canonical"` link tag, make sure to [inject the canonical link tag properly](https://developers.google.com/search/docs/crawling-indexing/javascript/javascript-seo-basics#properly-inject-canonical-links).
 
-### Use a `rel="canonical"` HTTP header
+### Use a `rel="canonical"` HTTP Header
 
 If you can configure your server, you can use a `rel="canonical"` [HTTP header](https://en.wikipedia.org/wiki/List_of_HTTP_header_fields) (rather than an HTML tag) to indicate the canonical URL for a document supported by Search, including non-HTML documents such as PDF files.
 
@@ -188,7 +189,7 @@ Link: <https://www.example.com/downloads/white-paper.pdf>; rel="canonical"
 
 The recommendations for the `rel="canonical"` HTTP header are the same as `rel="canonical"` `link` tag. As per [RFC2616](https://www.rfc-editor.org/rfc/rfc2616.html), use only double quotes in the `rel="canonical"` HTTP header.
 
-### Use a sitemap
+### Use a Sitemap
 
 Pick a canonical URL for each of your pages and submit them in a [sitemap](https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview). All pages listed in a sitemap are suggested as canonicals; Google will decide which pages (if any) pages are duplicates, based on similarity of content.
 
@@ -196,7 +197,7 @@ We don't *guarantee* that we'll consider the sitemap URLs to be canonical, but i
 
 **Don't** include non-canonical pages in a sitemap. If you're using a sitemap, specify only canonical URLs in the sitemap.
 
-### Use `301` redirects for retired URLs
+### Use `301` Redirects for Retired URLs
 
 Use this method when you want to get rid of existing duplicate pages, but need to ensure a smooth transition before you retire the old URLs.
 

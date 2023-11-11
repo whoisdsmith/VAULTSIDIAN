@@ -1610,7 +1610,7 @@ This does indeed mean that these [URLs](https://url.spec.whatwg.org//#concept-ur
 
 A [URL](https://url.spec.whatwg.org//#concept-url) should be rendered in its [serialized](https://url.spec.whatwg.org//#concept-url-serializer) form, with modifications described below, when the primary purpose of displaying a URL is to have the user make a security or trust decision. For example, users are expected to make trust decisions based on a URL rendered in the browser address bar.
 
-#### 4.8.1. Simplify non-human-readable or irrelevant components[](https://url.spec.whatwg.org//#url-rendering-simplification)
+#### 4.8.1. Simplify Non-human-readable or Irrelevant components[](https://url.spec.whatwg.org//#url-rendering-simplification)
 
 Remove components that can provide opportunities for spoofing or distract from security-relevant information:
 
@@ -1624,11 +1624,11 @@ Remove components that can provide opportunities for spoofing or distract from s
 
 In a space-constrained display, URLs should be elided carefully to avoid misleading the user when making a security decision:
 
-- Browsers should ensure that at least the [registrable domain](https://url.spec.whatwg.org//#host-registrable-domain) can be shown when the URL is rendered (to avoid showing, e.g., `...examplecorp.com` when loading `https://not-really-examplecorp.com/`).
+- Browsers should ensure that at least the [registrable domain](https://url.spec.whatwg.org//#host-registrable-domain) can be shown when the URL is rendered (to avoid showing, e.g., `…examplecorp.com` when loading `https://not-really-examplecorp.com/`).
 
-- When the full [host](https://url.spec.whatwg.org//#concept-url-host) cannot be rendered, browsers should elide domain labels starting from the lowest-level domain label. For example, `examplecorp.com.evil.com` should be elided as `...com.evil.com`, not `examplecorp.com...`. (Note that bidirectional text means that the lowest-level domain label may not appear on the left.)
+- When the full [host](https://url.spec.whatwg.org//#concept-url-host) cannot be rendered, browsers should elide domain labels starting from the lowest-level domain label. For example, `examplecorp.com.evil.com` should be elided as `…com.evil.com`, not `examplecorp.com…`. (Note that bidirectional text means that the lowest-level domain label may not appear on the left.)
 
-#### 4.8.3. Internationalization and special characters[](https://url.spec.whatwg.org//#url-rendering-i18n)
+#### 4.8.3. Internationalization and Special characters[](https://url.spec.whatwg.org//#url-rendering-i18n)
 
 Internationalized domain names (IDNs), special characters, and bidirectional text should be handled with care to prevent spoofing:
 
@@ -2708,7 +2708,7 @@ With that, many thanks to 100の人, Adam Barth, Addison Phillips, Albert Wiersc
 
 This standard is written by [Anne van Kesteren](https://annevankesteren.nl/) ([Apple](https://www.apple.com/), [annevk@annevk.nl](mailto:annevk@annevk.nl)).
 
-## Intellectual property rights[](https://url.spec.whatwg.org//#ipr)
+## Intellectual Property rights[](https://url.spec.whatwg.org//#ipr)
 
 Copyright © WHATWG (Apple, Google, Mozilla, Microsoft). This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). To the extent portions of it are incorporated into source code, such portions in the source code are licensed under the [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause) instead.
 
@@ -2718,7 +2718,7 @@ This is the Living Standard. Those interested in the patent-review version shoul
 
 ## Index[](https://url.spec.whatwg.org//#index)
 
-### Terms defined by this specification[](https://url.spec.whatwg.org//#index-defined-here)
+### Terms Defined by This specification[](https://url.spec.whatwg.org//#index-defined-here)
 
 - [absolute-URL string](https://url.spec.whatwg.org//#absolute-url-string), in § 4.3
 - [absolute-URL-with-fragment string](https://url.spec.whatwg.org//#absolute-url-with-fragment-string), in § 4.3
@@ -3319,7 +3319,7 @@ This is the Living Standard. Those interested in the patent-review version shoul
 
 - [6.2. URLSearchParams class](https://url.spec.whatwg.org//#ref-for-dfn-value-pairs-to-iterate-over)
 
-### Terms defined by reference[](https://url.spec.whatwg.org//#index-defined-elsewhere)
+### Terms Defined by reference[](https://url.spec.whatwg.org//#index-defined-elsewhere)
 
 - [ECMA-262] defines the following terms:
   - "encodeURIComponent() [sic]"

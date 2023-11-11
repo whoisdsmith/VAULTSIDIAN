@@ -1,3 +1,5 @@
+# In-search-of-the-perfect-url-validation-regex
+
 To clarify, I’m looking for a decent regular expression to validate URLs that were entered as user input with. I have no interest in parsing a list of URLs from a given string of text (even though some of the regexes on this page are capable of doing that). I also don’t want to allow every possible technically valid URL — quite the opposite.
 
 See [the URL Standard](http://url.spec.whatwg.org/#parsing) if you’re looking to parse URLs in the same way that browsers do.
@@ -115,7 +117,7 @@ _(^|[\s.:;?\-\]<\(])(https?://[-\w;/?:@&=+$\|\_.!~*\|'()\[\]%#,☺]+[\w/#](\(\))
 #\b(([\w-]+://?|www[.])[^\s()<>]+(?:\([\w\d]+\)|([^[:punct:]\s]|/)))#iS
 ```
 
-## @gruber v2 (218 chars)
+## @gruber V2 (218 chars)
 
 ```
 #(?i)\b((?:[a-z][\w-]+:(?:/{1,3}|[a-z0-9%])|www\d{0,3}[.]|[a-z0-9.\-]+[.][a-z]{2,4}/)(?:[^\s()<>]+|\(([^\s()<>]+|(\([^\s()<>]+\)))*\))+(?:\(([^\s()<>]+|(\([^\s()<>]+\)))*\)|[^\s`!()\[\]{};:'".,<>?«»“”‘’]))#iS
