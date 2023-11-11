@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME-MTHRFCKR/OSINT/SpiderFoot/spiderfoot-readme.md",
+                "file": "HOME-MTHRFCKR/OSINT/Social-Analyzer.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME-MTHRFCKR/OSINT/SpiderFoot/spiderfoot-readme.md",
+                "file": "HOME-MTHRFCKR/OSINT/Social-Analyzer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOME-MTHRFCKR/OSINT/SpiderFoot/spiderfoot-readme.md",
+                "file": "HOME-MTHRFCKR/OSINT/Social-Analyzer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME-MTHRFCKR/OSINT/SpiderFoot/spiderfoot-readme.md"
+                "file": "HOME-MTHRFCKR/OSINT/Social-Analyzer.md"
               }
             }
           }
@@ -144,6 +144,11 @@
   },
   "active": "4cac731b001463d4",
   "lastOpenFiles": [
+    "HOME-MTHRFCKR/OSINT/OSINT_Inception-links.md",
+    "HOME-MTHRFCKR/OSINT/OSINT.md",
+    "HOME-MTHRFCKR/OSINT/GoogleDorks.md",
+    "HOME-MTHRFCKR/OSINT/2022-11-27.md",
+    "HOME-MTHRFCKR/OSINT/SpiderFoot/spiderfoot-readme.md",
     "HOME-MTHRFCKR/OSINT/SpiderFoot/spiderfoot-neo4j-tools.md",
     "HOME-MTHRFCKR/OSINT/SpiderFoot/spiderfoot-docs.md",
     "HOME-MTHRFCKR/OSINT/SpiderFoot/SpiderFoot.md",
@@ -165,14 +170,9 @@
     "HOME-MTHRFCKR/A!-And-Machine-Learning/Ai-And-Machine-Learning.md",
     "HOME-MTHRFCKR/Data/data.md",
     "HOME-MTHRFCKR/Data/Databases.md",
-    "HOME-MTHRFCKR/Text Processing/Text Research.md",
-    "HOME-MTHRFCKR/Text Processing/Text Processing Tools.md",
-    "HOME-MTHRFCKR/Text Processing/Articles/Fun Working With Files Using Awk And Sed.md",
-    "HOME-MTHRFCKR/Text Processing/Awesome Text/Advanced Grep Topics.md",
     "HOME-MTHRFCKR/Text Processing/Command-Line-Text-Processing/Cli_Text_Processing.pdf",
     "HOME-MTHRFCKR/Text Processing/Pdf/Cheat_Sheet_Gnuawk_V3.pdf",
     "HOME-MTHRFCKR/Text Processing/Pdf/Bbeditgrepquickreference.pdf",
-    "HOME-MTHRFCKR/URLs/help-google-choose-the-right-canonical-url-for-your-duplicate-pages.md",
     "Attachments/link-previews/2022-11-14-cakeresume-dustin_smith__cakeresume.png"
   ]
 }

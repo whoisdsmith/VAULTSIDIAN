@@ -1,11 +1,12 @@
 # Quitting Adderall
 
 ---
+
 # [Doctor Jekyll’s Hangover](http://quittingadderall.com/dr-jekylls-hangover/ "Permanent Link to Doctor Jekyll’s Hangover")
 
 June 27th, 2012 by **Mike**
 
-In the famous tale of _Dr. Jekyll and Mr. Hyde_, Doctor Jekyll invents a potion that he thinks will give him super-human powers. After ingesting the potion, Dr. Jekyll discovers to his horror that the potion transforms him into a murderous monster named Hyde. Each night, the potion’s effects kick in, and the terrible Hyde rampages around the streets of London murdering innocent people and wreaking havoc.
+In the famous tale of *Dr. Jekyll and Mr. Hyde*, Doctor Jekyll invents a potion that he thinks will give him super-human powers. After ingesting the potion, Dr. Jekyll discovers to his horror that the potion transforms him into a murderous monster named Hyde. Each night, the potion’s effects kick in, and the terrible Hyde rampages around the streets of London murdering innocent people and wreaking havoc.
 
 The next morning, poor Dr. Jekyll (now himself again) wakes up in a strange location, his clothes torn to shreds, his hands covered in blood, and his mind flooded with memories of the destruction he has wrought the previous night as Hyde. These memories torture Dr. Jekyll, a noble man who would never commit the acts that the potion has caused him (as Hyde) to commit.
 
@@ -17,7 +18,7 @@ This is a problem I’ve come to refer to as “Doctor Jekyll’s Hangover.”
 
 ## The 3 Phases of Dr. Jeckyll’s Hangover
 
-### Phase 1: Blissful Ignorance
+### Phase 1: Blissful Ignorance
 
 When you first quit Adderall, you’re so exhausted and barren of any definable sense of motivation or direction that you don’t really think about the past or the future. You’re only thinking about right now, and how much you’d rather be in bed.
 
@@ -56,7 +57,7 @@ But there is hope. As terrible and inescapable as they feel, hangovers do end.
 2. I can see now how I should have handled my last relationship, but I’ve already ruined it.  
 3. If I was cultivating my gifts instead of ignoring them all these years, I’d be amazing by now, instead of back where I started.
 
-## The Five Steps to Curing your Dr. Jekyll’s Hangover
+## The Five Steps to Curing Your Dr. Jekyll’s Hangover
 
 ### 1. Atonement
 
@@ -66,7 +67,7 @@ But of course, the real pain of Dr. Jekyll’s Hangover is caused by the mistake
 
 ### 2. Separation
 
-When it comes to Adderall, there is more truth to the Dr. Jekyll/Mr. Hyde analogy than you might realize. You don’t just _feel_ like a different person on Adderall, you _are_ a different person in many quantifiable ways.
+When it comes to Adderall, there is more truth to the Dr. Jekyll/Mr. Hyde analogy than you might realize. You don’t just *feel* like a different person on Adderall, you *are* a different person in many quantifiable ways.
 
 Imagine that you have created two clones of yourself. One clone is you on Adderall, and the other clone is you before you ever took Adderall. You’re sitting across the table from these two versions of yourself, and you start asking them questions: What do you want to do with your life? What is important to you right now? Where do you spend most of your time? What would your perfect man/woman be like?
 
@@ -104,7 +105,7 @@ Maybe you even get it moving a little bit, and then you slip off and bust your a
 
 Because one day you’ll get it moving for a full rotation, and after that, if you keep pushing at it, the wheel will start building momentum.
 
-#### A practical example
+#### A Practical Example
 
 Let’s say you’ve decided after quitting Adderall that you want to be an artist (like, a painter). When you’re staring at a blank canvas for the first time in years, brush in hand, completely blocked up and feeling like you want to cry — that’s you staring at the giant stone wheel, wondering how you’re ever going to get it moving. When you make a few strokes with the brush, that’s you tugging at the wheel.
 
@@ -115,87 +116,146 @@ When you’re half way done with your Masters in Art History, you’ve found a r
 And then one day you look back, and you can’t believe how far you’ve come. Your past mistakes don’t bother you as much anymore, because you’re so busy with your present successes. With each passing day, others see you (and you see yourself) for who you truly are, and always have been: The noble Dr. Jekyll, wisened by his mistakes, and more brilliant than ever.
 
 ---
+
 ## 33 Responses to “Doctor Jekyll’s Hangover”
 
 1.  ![](http://0.gravatar.com/avatar/?s=32&d=mm&r=g) Erin says:
     
+
     [June 28, 2012 at 10:35 pm](http://quittingadderall.com/dr-jekylls-hangover/#comment-128182)
+
     
+
     Mike,
+
     
+
     This is EXACTLY what I needed tonight! What a truly awesome article you’ve written here. This is great. I am inspired. Finally!!
+
     
+
     I recently completed Ironman Texas. I’ve been in a bit of a slump ever since. I don’t know what to do with myself. Everyone keeps asking me about my next event and yet I feel like I’m done with that wheel. My ADD mind pushes me to the extreme limits of whatever it is I decide to do and then suddenly I am done with that project and on to the next.
+
     
+
     My issue right now is I don’t know what’s next. I feel as if nothing can ever come close to what I just did. How can I top that victory I keep asking myself.
+
     
+
     But after reading your article just now….I feel excited! I think I am ready for a new wheel. A new pursuit. A new challenge….
+
     
+
     I will keep you posted.
+
     
+
     Keep up the great work, my friend! I LOVE seeing how much progress you’ve made here since 4 years ago. 🙂
+
     
+
     Sincerely,
+
     
+
     Erin
+
     
 2.  ![](http://2.gravatar.com/avatar/?s=32&d=mm&r=g) InRecovery says:
     
+
     [June 29, 2012 at 7:54 pm](http://quittingadderall.com/dr-jekylls-hangover/#comment-128535)
+
     
+
     Mike that was an awesome article. Keep up the great work! There is so much here to comment on. I never thought about the personality differences. Off adderall. more emotional and warmer. Much food for thought. Thanks for the inspiration.
+
     
 3.  ![](http://0.gravatar.com/avatar/?s=32&d=mm&r=g) Ashley6 says:
     
+
     [July 3, 2012 at 4:54 pm](http://quittingadderall.com/dr-jekylls-hangover/#comment-129768)
+
     
+
     Mike,  
     This article is spot on. I remember taking a personality type assessment online while strung out on adderall, and I had a hard time answering the questions, because in the back of my mind I thought, “is this asking about the real me or the adderall me?” I think it was a turning point for me when I saw I couldn’t even take my own personality assessment.  
     I have a feeling I’ll be reading this article quite a few times….keep up the amazing work you do…thanks!  
     -Ashley
+
     
 4.  ![](http://0.gravatar.com/avatar/6a1961afd45edfbb5df0884e4d8c4e0f?s=32&d=mm&r=g) [Mike](http://quittingadderall.com) says:
     
+
     [July 10, 2012 at 12:02 am](http://quittingadderall.com/dr-jekylls-hangover/#comment-131945)
+
     
+
     @Erin, InRecovery, and Ashley6 – Thanks guys! I’m really glad you liked it. I know I may not post very frequently anymore, but I try to make it a good one when I do post haha.
+
     
+
     Hope you’re all doing well!
+
     
 5.  ![](http://1.gravatar.com/avatar/?s=32&d=mm&r=g) Tom Hastings says:
     
+
     [July 25, 2012 at 1:38 pm](http://quittingadderall.com/dr-jekylls-hangover/#comment-136420)
+
     
+
     Author of this Article,
+
     
+
     Thank you. Im 31, 4 kids, married. Spent the last two years on adderall. At first I thought I found all of life’s answers. I cleared 80k in a sales job and was doing great, but I kept taking more and more. I always abused it, but my body couldn’t handle it any more. My wife was/is ready to leave me. When I tried quitting six months ago, I was so dysfunctional that I was fired from my job. I have nothing now. I live at my mom’s the past 31 days and have been clean the whole time, but I’m failing at a new job, I feel like a COMPLETE idiot because my brain works so damn slowly. I have no confidence and am overwhelmed wi four children under the age of six. I was taking about 100mgs a day for three weeks a month, and spent the fourth week of very month crying, hiding, yelling, and sleeping. Insane depression.
+
     
+
     Ive spent a lot of time looking on the Internet for information on how to quit, the length of time for real recovery, success stories, etc. but everything fell short of what I needed to hear. I am so grateful to have found this article. A very realistic article. You’ve done a kind thing in putting this together. I still feel intellectually and emotionally blind – but am going to push on in abstinence – hoping that with steady effort and an eager heart – things will somehow get better. You’ve given me hope. Thank you bro
+
     
 6.  ![](http://2.gravatar.com/avatar/?s=32&d=mm&r=g) Cameron says:
     
+
     [July 28, 2012 at 7:38 pm](http://quittingadderall.com/dr-jekylls-hangover/#comment-137518)
+
     
+
     One of the most accurate, best articles I’ve ever read on Adderall issues. Well done.
+
     
 7.  ![](http://2.gravatar.com/avatar/?s=32&d=mm&r=g) [Quit-Once](http://quittingadderall,com) says:
     
+
     [August 20, 2012 at 6:27 am](http://quittingadderall.com/dr-jekylls-hangover/#comment-140144)
+
     
+
     “…and found yourself in a wasteland of your own making.” At different levels, my entire surroundings are leftovers from the last three years of adderall addiction + recovery and I am STILL digging out from this mess. I have piles of clutter in my home, my garage, my yard my office and even in my car. If I couldn’t or didn’t want to deal with it, it just got set aside and became even more clutter. Every time I get to the bottom of a pile it points back to the year 2008, which is when I began to loose cognitive functionality. Fuck, I could have qualified for my own segment on the TV show “Hoarders”. And I am not even a hoarder. Of course at the time I thought all things were made better by adderall. I can now see how I was blinded by drug and the addiction. But I don’t have any remorse for my addiction. It was the right drug for me at a very challenging time of my life and it helped me get through some tough situations. However, I will always wonder if it might have been easier without the addiction monkey and those emotional highs and lows that come along with adderall addiction.  
     The momentum part of this article is very accurate and I feel like that giant stone wheel is starting to roll along at a nice steady clip for me right now, and it has been 15 months since I quit. But it is gonna take at least another year to dig my way out of all the piles and things I set aside because I didn’t want to deal with it while taking adderall. The good thing is that I have noticed the clutter does not return now because I feel like dealing with all of these things when they need to be dealt with.
+
     
 8.  ![](http://2.gravatar.com/avatar/?s=32&d=mm&r=g) Epiphany says:
     
+
     [September 28, 2012 at 4:22 am](http://quittingadderall.com/dr-jekylls-hangover/#comment-154526)
+
     
+
     WHOA! this article could not possibly be more accurate. I started taking it here and there last year and then back in May I went to a Dr. and had it prescribed. I can not believe that these fucking crazy pills are dispensed so easily. It is damn right scary. I AM NOT THE SAME PERSON. I have always been very physically active, concerned about my shape and pretty vain so the added bonus of weight loss made this drug even more attractive. I felt like I was superwoman! I could workout for hours and feel this great surge of energy, bike forever and it allowed my surf sessions to last twice as long or more. Surfing is the greatest passion in my life and I felt like it gave me an edge, like I could paddle forever and not get tired and I was HOOKED. The first week I was on it I hit my highest week in sales at my job. I have not done that since. Now I am just an absolute mess. I can’t friggin focus on one task at a time I have to do 100 at a time I jump form one thing to the next one thought to the other and never really accomplish shit. I obsess about the dumbest stuff. I am a beautiful attractive physically fit woman, yet I have no self esteem and my insecurities have grown tenfold. I became a wretched mean, inpatient bitch and a god awful mother. The things you think and say on this stuff are downright EVIL! Who is that horrible, emotional, crazy, cold hearted bitch that I have become? I have absolutely zero patience and the mixture of adderall with estrogen fluctuation for a woman once a month before her cycle is an absolute nightmare. That is a cocktail for disaster! I have managed to push away everyone in my life. I married to a man for many years and quite unhappy due to his addiction problems to pain medications and finally left him. I started my life all over, I had lost my job of over 15 years, my home everything yet I strong willed and survived. Six months later I took that little pill that changed everything. I went from an independent, strong, confident woman to an insecure emotional bitch! I met the man of my dreams 9 months ago, we have been dating up until I lost my mind on him about a month and a half ago. I am sure he wondered WTF happened to that awesome woman I met. It was long distance due to his work but we still got to see each other quite often. My obsessions and insecurities grew stronger and stronger and the took control of my mind. I completely blew up on him, accused him of cheating on me for no reason and showed him HYDE. I literally freaked the fuck out and I BLEW IT! Nothing about our relationship could’ve been better, I was treated like queen,he was generous, loving, fun, we had a blast and the intimacy was incredible! So why in the world would I be insecure? I was the one acting like a freak and getting attention from other men. He did nothing wrong! Right before I freaked out on him, I went through a horrible depression stage where I would cry day and night uncontrollably , this went on for two weeks the ups and downs were insane. I became even meaner with my teenager, and even though he really needs to work on getting his shit together, his father or I certainly have not led by example. I did for 13 years, I was the mother, father, breadwinner I had my shit together because my husband was a too fucked up so I held it all together and I suppose now it is my turn to fall apart? I feel like part of all of this is Karma for being so judgemental of his addiction. Now look at me, I thought this was the answer to my focusing problems when in reality I am burnt the fuck out on the business that I am in but I am too afraid to make a change and take that leap. I don;t need adderall I just need a career change! But I am a single mom working two jobs because we don’t get child support. I have managed to loose the man of my dreams and pushed away my son. I don’t even know where to go from here and I am so afraid of the withdrawals. The lack of energy without adderall is very hard to handle.
+
     
 9.  ![](http://0.gravatar.com/avatar/?s=32&d=mm&r=g) Loved One says:
     
+
     [November 13, 2012 at 9:21 am](http://quittingadderall.com/dr-jekylls-hangover/#comment-181165)
+
     
+
     First and foremost, I love this site. I am not addicted to Adderall but I am in love with someone who is. I fell in love with Dr Jekyll but I have become very familiar with Mr Hyde. I am a nurse and knew that he was taking the meds and that he took more than his prescribed amount. I voiced my concerns at times but never pushed him to stop taking them. He has been on Adderall 30mg for 9 years. He takes 60-90 mg per day, every day, and has never been more than 4 days without them. Every symptom, feeling and issue voiced on this site I have witnessed over the past 10 months. He is flying high, confident and can achieve the world and then hours later has no self esteem, is irritated, angry, and so paranoid that it is frightening. I have lived with the constant ups and downs. More than once I have said to him that I feel like I live on an emotional roller coaster, not knowing whether I want to laugh, cry, or throw up. He has very difficult relationships with family members also. I finally threw in the towel a few weeks ago and ended the relationship. After the longest 22 days of my life and zero contact with him, I received an email that sounded like it was from someone completely new. He had admitted his addiction to his family, has decreased his dose to 15mg when he wakes up and 15mg mid morning, and has set a quit date for next week. He has taken time from work and I have volunteered to be his primary support system. I love this man with everything that I have. I want to be strong for him. I want him to do this not for me, but for himself. I want his heart and mind at peace and to see his real smile. He found this site and I have poured over it for 2 days. I have learned so much. Thank you all for sharing your stories. I would love to hear suggestions about what people could have done for you or what you felt you needed during your time of coming off of the meds. I have looked for possibly a site or area here for support people, but have not found one. I know that patience and understanding are a must during this time. I have gained the patience of Job over the past 10 months. This will be a difficult road for us but he is determined and excited. And that excites me. Please, please leave suggestions of things I can do to make this easier for him. Thank you!
+
     
 10.  ![](http://1.gravatar.com/avatar/?s=32&d=mm&r=g) amber says:
     
@@ -370,6 +430,6 @@ And then one day you look back, and you can’t believe how far you’ve come. Y
     
     I have been adderall free for 40 days and I’ll NEVER go back. I was taking about 30mg a day for 5 years and can only see now how much it changed me. Slowly, all my passion and energy was drained. I’m a very social person who began to favor time alone in my hyperfocused psychosis. I always had big plans but never the will to carry them out. I would sleep 4 hours a day. My life was in a state of suspension and finally I had enough. I slept a LOT for the first couple weeks. And allowed myself to. I think addictive personalities are a trait. And likewise the key to stopping one addiction is to find something positive that becomes your new object of focus. Mine has been the gym. Hiking, walking, jogging, exploring, traveling, road trips. I have boundless energy once again and have found outlets for it rather than being drugged. I have unplugged from social media, and the Internet. I spend a fraction of the time I used to when I could sit and read nonsense until 4am. I’m a morning person now. Who would’ve thought? I’m cheerful again and that happy go lucky positive person that was always there is back. A way I cope with some of the shame I feel for wasting so much time is this: I find boundless joy in normalcy now. Going to bed at a normal time, sleeping, feeling rested, following through on things, being social, being out and about vs locked in some isolated room tired and string out like a zombie. In short, I appreciate the SIMPLE things in life that a lot of those around me don’t and I too would not if I hadn’t let myself spiral into a prison of my own creation for far too long. I’m free now. Despite everything, I would change nothing. Sometimes we must become what we are not in order to appreciate who we really are.
 
-
 ***
+
 #Forum #Adderall #Post #Comments 

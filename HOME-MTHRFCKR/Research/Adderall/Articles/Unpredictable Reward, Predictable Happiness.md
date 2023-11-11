@@ -1,7 +1,8 @@
 # Unpredictable Reward, Predictable Happiness
 
 ---
-_[Epistemic status: very conjectural. I am not a neuroscientist and they should feel free to tell me if any of this is totally wrong.]_
+
+*[Epistemic status: very conjectural. I am not a neuroscientist and they should feel free to tell me if any of this is totally wrong.]*
 
 **I.**
 
@@ -45,7 +46,7 @@ Here it seems like there’s an extra kind of sadness associated with prediction
 
 **III.**
 
-My old psych 101 textbook said that romantic love lasts between a few months and a few years. Jonathan Haidt [apparently has](https://www.bbc.com/news/magazine-35535424) this graph in his book _Happiness Hypothesis_, though I don’t have the book and can’t evaluate the source:
+My old psych 101 textbook said that romantic love lasts between a few months and a few years. Jonathan Haidt [apparently has](https://www.bbc.com/news/magazine-35535424) this graph in his book *Happiness Hypothesis*, though I don’t have the book and can’t evaluate the source:
 
 [
 
@@ -55,11 +56,11 @@ My old psych 101 textbook said that romantic love lasts between a few months and
 
 Some more modern studies have [challenged this](https://www.researchgate.net/profile/Bianca-Acevedo/publication/228632966_Does_a_Long-Term_Relationship_Kill_Romantic_Love/links/5beac5f192851c6b27ba996b/Does-a-Long-Term-Relationship-Kill-Romantic-Love.pdf); as far as I can tell they are nitpicking different types of love. Every study agrees there is a quick-burning type of love that lasts a few months to a few years, and a slow-burning one that hopefully grows over time.
 
-Although I don’t always trust psych studies, my experiences with the polyamory community strongly confirm this. Poly people talk about “[new relationship energy](https://en.wikipedia.org/wiki/New_relationship_energy)” - if you start a relationship with a new person, you will be passionately into them for a few months, usually at the expense of all your other relationships, before settling back down again. Most poly advice books will give you tips for managing it, which mostly boil down to _for God’s sake, don’t take your feelings seriously and deprioritize all your other relationships because this new one is so much better._
+Although I don’t always trust psych studies, my experiences with the polyamory community strongly confirm this. Poly people talk about “[new relationship energy](https://en.wikipedia.org/wiki/New_relationship_energy)” - if you start a relationship with a new person, you will be passionately into them for a few months, usually at the expense of all your other relationships, before settling back down again. Most poly advice books will give you tips for managing it, which mostly boil down to *for God’s sake, don’t take your feelings seriously and deprioritize all your other relationships because this new one is so much better.*
 
 New relationship energy seems like a good match for bereavement. Both last a few months to a few years. Both seem to involve updating on your life taking a surprising turn. Until you’ve fully updated, you feel unusually good/bad. After that…
 
-…I know many people who have been married for decades and still have great relationships. The typical retort is that they are doing something called “companionate love” which is totally different. But I know some people who have been married for decades and still have great _sex_ (sometimes even with each other!)
+…I know many people who have been married for decades and still have great relationships. The typical retort is that they are doing something called “companionate love” which is totally different. But I know some people who have been married for decades and still have great *sex* (sometimes even with each other!)
 
 This sort of tracks with Part I and II. There seems to be an extra-sparkly type of happiness associated with new relationships (relationships you haven’t adjusted to yet, that aren’t baked into your predictions, that haven’t already been hedonic-treadmilled away). This lasts a few months or years while you slowly update your predictions. Then hopefully you end up with a more stable type of happiness associated with good long-term relationships.
 
@@ -73,11 +74,11 @@ He described his girlfriend in a way that made it clear she was abusive, emotion
 
 I’m disappointed the gender randomization landed on male here; we usually associate “person who keeps dating abusive partner after abusive partner for incomprehensible reasons” with women. This pattern [has always confused me](https://slatestarcodex.com/2017/10/02/different-worlds/), and I never know what advice to give people who find themselves falling into it.
 
-I thought about this recently when watching a great couple who loved each other very much. The wife said some kind of extremely mushy compliment to the husband about how much she loved him, and the husband joked something like “Oh, you always say that.” He maybe mildly appreciated the compliment, but they really _were_ always saying incredibly nice things about how much they appreciated each other, to the point where it kind of started to sound kind of like background noise.
+I thought about this recently when watching a great couple who loved each other very much. The wife said some kind of extremely mushy compliment to the husband about how much she loved him, and the husband joked something like “Oh, you always say that.” He maybe mildly appreciated the compliment, but they really *were* always saying incredibly nice things about how much they appreciated each other, to the point where it kind of started to sound kind of like background noise.
 
-Suppose you reached the point where it sounded _exactly_ like background noise. Your spouse could give you a dozen red roses and a sonnet about your many excellent qualities every day, and it wouldn’t update you at all. At that point, you either need to have the mysterious “companionate love” thing in place - something that isn’t based on reward prediction error - or you are doomed to never feel another positive emotion from your relationship at all.
+Suppose you reached the point where it sounded *exactly* like background noise. Your spouse could give you a dozen red roses and a sonnet about your many excellent qualities every day, and it wouldn’t update you at all. At that point, you either need to have the mysterious “companionate love” thing in place - something that isn’t based on reward prediction error - or you are doomed to never feel another positive emotion from your relationship at all.
 
-What if for some reason you can’t do companionate love? I wonder if you would end up like my patient - addicted to someone who had a 50-50 chance of being adoring or terrible at any given time, just because half the time you get positive prediction error out of it, and you’re able to feel anything at all. Of course, half the time you get _negative_ prediction error. But as gambling addictions show, the positive and negative errors don’t necessarily have to add up above 0 in order for something to be compelling. Everyone has some weird function that doesn’t correspond to normal addition, and maybe for some people dating a person who gives good vs. bad signals exactly 50% of the time is the only way to get that function in the black.
+What if for some reason you can’t do companionate love? I wonder if you would end up like my patient - addicted to someone who had a 50-50 chance of being adoring or terrible at any given time, just because half the time you get positive prediction error out of it, and you’re able to feel anything at all. Of course, half the time you get *negative* prediction error. But as gambling addictions show, the positive and negative errors don’t necessarily have to add up above 0 in order for something to be compelling. Everyone has some weird function that doesn’t correspond to normal addition, and maybe for some people dating a person who gives good vs. bad signals exactly 50% of the time is the only way to get that function in the black.
 
 This also reminds me of the bane of relationship counselors everywhere: the wife (yes, it’s usually the wife) who complains that the husband never gets her flowers. Then the husband gets her flowers, and the wife says “it doesn’t count, you should have known without me telling you”. To this couple, gestures of affection are meaningless unless unpredictable. If the husband had gotten the wife flowers before she had asked, she would have been delighted. If he’d tried the same thing a second time, it wouldn’t have counted; she would have already predicted it and factored it in.
 
@@ -95,11 +96,11 @@ It points out that AIs are not, technically, “trying to get reward”. You can
 
 This is an important distinction! One big concern in AI alignment is that AIs will learn to hack their own reward systems (ie wirehead), and devote their energy to implementing such hacks (which produce super-high reward) instead of doing their assigned tasks (which only produce normal levels of reward). TurnTrout argues this won’t happen, at least for the current paradigm of AIs. If they didn’t learn to hack their reward system in training, they’re not going to want to do it in deployment, even if they are smart enough to know that it would work.
 
-This makes sense to me from a human perspective. I know there are ways to hack my reward system - eg heroin and electrodes wired directly into the reward center of my brain. I know that if I used them, I would feel really rewarded. But I have no desire to use them. In fact, I’m pretty against using them. They would prevent me from doing all the things I like - _ie the things that have rewarded me in the past_.
+This makes sense to me from a human perspective. I know there are ways to hack my reward system - eg heroin and electrodes wired directly into the reward center of my brain. I know that if I used them, I would feel really rewarded. But I have no desire to use them. In fact, I’m pretty against using them. They would prevent me from doing all the things I like - *ie the things that have rewarded me in the past*.
 
 What would it mean if reward wasn’t my optimization target? One way I imagine this is eg the alcoholic who drinks compulsively but doesn’t really enjoy it any longer. At some point in the past, drinking gave positive reward. Now that reward has all been predicted away, but the behavior remains. If drinking ever stopped being reinforcing (eg the bar owner secretly substituted non-alcoholic beer), then there would be negative prediction error and the behavior would eventually stop. But as it is, the system is stable: the alcohol drinks, it’s exactly as good as predicted, and he will keep drinking at the same rate.
 
-(is this just the [Sinclair Method](https://www.lesswrong.com/posts/tEHJXNhw6t87foqJL/antagonizing-opioid-receptors-for-prevention-of-fun-and)? Then how come drinking on the Sinclair Method is usually neutral rather than aversive, given that the drinker must be getting less reward than predicted? Is it because we’re blocking opioids rather than dopamine? Why _are_ we doing that?)
+(is this just the [Sinclair Method](https://www.lesswrong.com/posts/tEHJXNhw6t87foqJL/antagonizing-opioid-receptors-for-prevention-of-fun-and)? Then how come drinking on the Sinclair Method is usually neutral rather than aversive, given that the drinker must be getting less reward than predicted? Is it because we’re blocking opioids rather than dopamine? Why *are* we doing that?)
 
 I think the main thing I get from this article is a renewed determination to think of reward as “that thing which changes behavioral programs” rather than as some sort of fuzzy concept of “the target” or “good things that I like”. This softens the blow of the original question - eating cake on my birthday might not produce behavior change, but it might still be enjoyable.
 
@@ -117,4 +118,4 @@ I got a chance to talk to Andres from [Qualia Research](https://qri.org/) about 
 
 So I would amend the original post on the subreddit to “You seek unpredicted reward, but by definition you can never get this consistently; luckily predicted reward can be pretty good too.” I still don’t feel like I understand exactly how this is implemented.
 
-_[image credit [this video](https://www.youtube.com/watch?v=oj49j1OtrHA)]_
+*[image credit [this video](https://www.youtube.com/watch?v=oj49j1OtrHA)]*

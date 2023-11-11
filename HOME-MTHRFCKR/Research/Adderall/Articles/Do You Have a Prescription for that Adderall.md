@@ -6,7 +6,7 @@
 
 # Do You Have a Prescription for That Adderall?
 
-## The Truth About This Popular ADHD Pill; Legal Stimulant.
+## The Truth About This Popular ADHD Pill; Legal Stimulant
 
 ![](https://miro.medium.com/max/1400/1*JEhqjzkBhdElv-jaj2_MYw.jpeg)
 

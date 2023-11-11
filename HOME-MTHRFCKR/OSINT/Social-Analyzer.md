@@ -275,39 +275,40 @@ type : Internet
 metadata 0 : content : %7B%22coffeeOptions%22%3A%7B%22blueprints%22%3Afalse%7D%2C%22emblemOptions%22%3A%7B%22blueprints%22%3Afalse%7D%2C%22modulePrefix%22%3A%22countable%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22routerScroll%22%3A%7B%22delayScrollTop%22%3Atrue%7D%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22_JQUERY_INTEGRATION%22%3Atrue%7D%2C%22APP%22%3A%7B%22FINGERPRINT%22%3A%221669060096%22%2C%22ANALYTICS_ENABLED%22%3Atrue%2C%22GOOGLE_ANALYTICS_ID%22%3A%22UA-41960852-1%22%2C%22GOOGLE_ANALYTICS_WHITELABEL_ID%22%3A%22UA-41960852-24%22%2C%22GOOGLE_ANALYTICS_ANDROID_ID%22%3A%22UA-41960852-5%22%2C%22GOOGLE_ANALYTICS_OPTIONS%22%3A%7B%22cookieDomain%22%3A%22countable.us%22%2C%22allowLinker%22%3Atrue%7D%2C%22CHROME_PUSH_PUBLIC_KEY%22%3A%22BOGlyy_oYIQosb1fIkgwkStGfTV-JGZsEK1x-t7UcMtvOHDUs3KsB44Roeg25d4n5t4CHx0NGibOz5i3W8wCrHQ%3D%22%2C%22COUNTABLE_PARTNER_ID%22%3A%22f2f8313e-7faa-4ea1-8628-1a14da928e02%22%2C%22SAFARI_PUSH_ID%22%3A%22web.us.countable.www%22%2C%22SNOWPLOW_COLLECTOR_URI%22%3A%22collector-web.countable.us%22%2C%22WIDGETS%22%3A%7B%22ADVOCACY_SCRIPT_SRC_URL%22%3A%22https%3A%2F%2Fwww.countable.us%2Fwidgets%2Fmessage-your-lawmaker%2Fcountable-message-lawmaker.js%22%2C%22ADVOCACY_IFRAME_SRC_URL%22%3A%22https%3A%2F%2Fwww.countable.us%2Ftools%2Fadvocacy-widget%22%2C%22ADVOCACY_APP_URL%22%3A%22http%3A%2F%2Flocalhost%3A4300%2Fwidgets%2Fmessage-your-lawmaker%22%2C%22GALLERY_SCRIPT_SRC_URL%22%3A%22https%3A%2F%2Fwww.countable.us%2Fwidgets%2Fsocial-video%2Fplugin.js%22%2C%22GALLERY_IFRAME_SRC_URL%22%3A%22https%3A%2F%2Fwww.countable.us%2Ftools%2Fgallery-widget%22%2C%22GALLERY_APP_URL%22%3A%22https%3A%2F%2Fwww.countable.us%2Fwidgets%2Fsocial-video%2Findex.html%22%7D%2C%22GOOGLE_RECAPTCHA_SITE_KEY%22%3A%226Lfm_i0fAAAAADJIBQZZk_YEQvD4lHedq9OWxFZz%22%2C%22name%22%3A%22countable%22%2C%22version%22%3A%220.0.0%2Bb6627887%22%7D%2C%22fastboot%22%3A%7B%22hostWhitelist%22%3A%5B%22%2F%5E.*%24%2F%22%5D%7D%2C%22sentry%22%3A%7B%22development%22%3Afalse%7D%2C%22moment%22%3A%7B%22includeTimezone%22%3A%22all%22%7D%2C%22ember-body-class%22%3A%7B%22includeRouteName%22%3Afalse%7D%2C%22tinyMCE%22%3A%7B%22apiKey%22%3A%22smeg%22%2C%22load%22%3Afalse%2C%22version%22%3A5.5%7D%2C%22minify%22%3Atrue%2C%22sourcemaps%22%3Afalse%2C%22%40sentry%2Fember%22%3A%7B%22sentry%22%3A%7B%22dsn%22%3A%22https%3A%2F%2Fbd7bf22c6d6f41d19911f2544f510736%40o44589.ingest.sentry.io%2F1415886%22%2C%22tracesSampleRate%22%3A0.2%2C%22release%22%3A%22b662788757f7e7b72dca4397c1106d9da9b569e5%22%2C%22environment%22%3A%22production%22%7D%7D%2C%22newRelic%22%3A%7B%22applicationId%22%3A%22303862835%22%2C%22licenseKey%22%3A%2234f337ecb5%22%7D%2C%22contentSecurityPolicyHeader%22%3A%22Content-Security-Policy-Report-Only%22%2C%22contentSecurityPolicy%22%3A%7B%22default-src%22%3A%5B%22'none'%22%5D%2C%22script-src%22%3A%5B%22'self'%22%5D%2C%22font-src%22%3A%5B%22'self'%22%5D%2C%22connect-src%22%3A%5B%22'self'%22%5D%2C%22img-src%22%3A%5B%22'self'%22%5D%2C%22style-src%22%3A%5B%22'self'%22%5D%2C%22media-src%22%3A%5B%22'self'%22%5D%7D%2C%22ember-component-css%22%3A%7B%22terseClassNames%22%3Atrue%7D%2C%22exportApplicationGlobal%22%3Afalse%7D name : countable/config/environment
 
 -----------------------
-found : 3
-link : <https://dev.to/whoisdsmith>
-rate : %100.0
-status : good
-title : Dustin Smith - DEV Community 👩‍💻👨‍💻
-language : English
-country : India
-rank : 4501
-text : Dustin Smith - DEV Community 👩\u200d💻👨\u200d💻 Skip to content Navigation menu Search Log in Create account DEV Community 👩\u200d💻👨\u200d💻 Close DEV Community 👩\u200d💻👨\u200d💻 is a community of 963,200 amazing developers "Were a place where coders share, stay up-to-date and grow their careers." Home Listings Podcasts Videos Tags FAQ Forem Shop Sponsors About Contact Guides image/svg+xml Software comparisons Other Code of Conduct Privacy Policy Terms of use Twitter Facebook Github Instagram Twitch Follow User actions Dustin Smith My life is a constant 404 Location Hell, Michigan Joined Joined on Dec 19, 2021 Personal website <https://github.com/whoisdsmith> github website twitter website More info about @whoisdsmith GitHub Repositories BOOKMRKS-MTHRFCKR "The Internets Biggest and Best Collection of Bookmarks, Resources, Hidden Gems and Everything Else, MTHRFCKR!" HTML • 8 stars project-knowbase My development notes JavaScript 2 stars mthrfkr SCSS Post 0 posts published Comment 0 comments written Tag 35 tags followed loading…—A constructive and inclusive social network for software developers. With you every step of your journey. Built on Forem—the open source software that powers DEV and other inclusive communities. Made with love and Ruby on Rails . DEV Community 👩\u200d💻👨\u200d💻 © 2016 - 2022. Forem logo
-type : Computers Electronics and Technology > Programming and Developer Software
-metadata 0 : content : 2022-11-25 03:25:05 UTC name : last-updated
-metadata 1 : content : false name : user-signed-in
-metadata 2 : content : 1669346705 name : head-cached-at
-metadata 3 : content : $ilp.uphold.com/24HhrUGG7ekn name : monetization
-metadata 4 : content : production name : environment
-metadata 5 : content : My life is a constant 404 name : description
-metadata 6 : content : software development, engineering, rails, javascript, ruby name : keywords
-metadata 7 : property : og:type content : website
-metadata 8 : property : og:url content : <https://dev.to/whoisdsmith>
-metadata 9 : property : og:title content : Dustin Smith—DEV Community 👩‍💻👨‍💻 Profile
-metadata 10 : property : og:image content : <https://thepracticaldev.s3.amazonaws.com/i/6hqmcjaxbgbon8ydw93z.png>
-metadata 11 : property : og:description content : My life is a constant 404
-metadata 12 : property : og:site_name content : DEV Community 👩‍💻👨‍💻
-metadata 13 : content : summary_large_image name : twitter:card
-metadata 14 : content : @thepracticaldev name : twitter:site
-metadata 15 : content : @Wh0isdsmith name : twitter:creator
-metadata 16 : content : Dustin Smith—DEV Community 👩‍💻👨‍💻 Profile name : twitter:title
-metadata 17 : content : My life is a constant 404 name : twitter:description
-metadata 18 : content : <https://thepracticaldev.s3.amazonaws.com/i/6hqmcjaxbgbon8ydw93z.png> name : twitter:image:src
-metadata 19 : content : dev.to name : apple-mobile-web-app-title
-metadata 20 : content : dev.to name : application-name
-metadata 21 : property : forem:name content : DEV Community 👩‍💻👨‍💻
-metadata 22 : property : forem:logo content : <https://res.cloudinary.com/practicaldev/image/fetch/s--PFPhV65b--/c_limit,f_png,fl_progressive,q_80,w_512/https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png>
+
+found : 3  
+link : <https://dev.to/whoisdsmith>  
+rate : %100.0  
+status : good  
+title : Dustin Smith - DEV Community 👩‍💻👨‍💻  
+language : English  
+country : India  
+rank : 4501  
+text : Dustin Smith - DEV Community 👩\u200d💻👨\u200d💻 Skip to content Navigation menu Search Log in Create account DEV Community 👩\u200d💻👨\u200d💻 Close DEV Community 👩\u200d💻👨\u200d💻 is a community of 963,200 amazing developers "Were a place where coders share, stay up-to-date and grow their careers." Home Listings Podcasts Videos Tags FAQ Forem Shop Sponsors About Contact Guides image/svg+xml Software comparisons Other Code of Conduct Privacy Policy Terms of use Twitter Facebook Github Instagram Twitch Follow User actions Dustin Smith My life is a constant 404 Location Hell, Michigan Joined Joined on Dec 19, 2021 Personal website <https://github.com/whoisdsmith> github website twitter website More info about @whoisdsmith GitHub Repositories BOOKMRKS-MTHRFCKR "The Internets Biggest and Best Collection of Bookmarks, Resources, Hidden Gems and Everything Else, MTHRFCKR!" HTML • 8 stars project-knowbase My development notes JavaScript 2 stars mthrfkr SCSS Post 0 posts published Comment 0 comments written Tag 35 tags followed loading…—A constructive and inclusive social network for software developers. With you every step of your journey. Built on Forem—the open source software that powers DEV and other inclusive communities. Made with love and Ruby on Rails . DEV Community 👩\u200d💻👨\u200d💻 © 2016 - 2022. Forem logo  
+type : Computers Electronics and Technology > Programming and Developer Software  
+metadata 0 : content : 2022-11-25 03:25:05 UTC name : last-updated  
+metadata 1 : content : false name : user-signed-in  
+metadata 2 : content : 1669346705 name : head-cached-at  
+metadata 3 : content : $ilp.uphold.com/24HhrUGG7ekn name : monetization  
+metadata 4 : content : production name : environment  
+metadata 5 : content : My life is a constant 404 name : description  
+metadata 6 : content : software development, engineering, rails, javascript, ruby name : keywords  
+metadata 7 : property : og:type content : website  
+metadata 8 : property : og:url content : <https://dev.to/whoisdsmith>  
+metadata 9 : property : og:title content : Dustin Smith—DEV Community 👩‍💻👨‍💻 Profile  
+metadata 10 : property : og:image content : <https://thepracticaldev.s3.amazonaws.com/i/6hqmcjaxbgbon8ydw93z.png>  
+metadata 11 : property : og:description content : My life is a constant 404  
+metadata 12 : property : og:site_name content : DEV Community 👩‍💻👨‍💻  
+metadata 13 : content : summary_large_image name : twitter:card  
+metadata 14 : content : @thepracticaldev name : twitter:site  
+metadata 15 : content : @Wh0isdsmith name : twitter:creator  
+metadata 16 : content : Dustin Smith—DEV Community 👩‍💻👨‍💻 Profile name : twitter:title  
+metadata 17 : content : My life is a constant 404 name : twitter:description  
+metadata 18 : content : <https://thepracticaldev.s3.amazonaws.com/i/6hqmcjaxbgbon8ydw93z.png> name : twitter:image:src  
+metadata 19 : content : dev.to name : apple-mobile-web-app-title  
+metadata 20 : content : dev.to name : application-name  
+metadata 21 : property : forem:name content : DEV Community 👩‍💻👨‍💻  
+metadata 22 : property : forem:logo content : <https://res.cloudinary.com/practicaldev/image/fetch/s--PFPhV65b--/c_limit,f_png,fl_progressive,q_80,w_512/https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png>  
 metadata 23 : property : forem:domain content : dev.to
 
 -----------------------
@@ -947,16 +948,16 @@ metadata 10 : content : black-translucent name : apple-mobile-web-app-status-bar
 metadata 11 : content : <https://www.rrmiran.com/media/2018/12/cropped-logo-150x150-1-270x270.png> name : msapplication-TileImage
 -----------------------
 
-found : 3
-link : <https://sourceforge.net/u/whoisdsmith>
-rate : %100.0
-status : good
-title : filtered
-language : English
-country : United States
-rank : 493
-text : filtered
-type : Computers Electronics and Technology > Programming and Developer Software
+found : 3  
+link : <https://sourceforge.net/u/whoisdsmith>  
+rate : %100.0  
+status : good  
+title : filtered  
+language : English  
+country : United States  
+rank : 493  
+text : filtered  
+type : Computers Electronics and Technology > Programming and Developer Software  
 metadata 0 : content : Dustin Smith itemprop : name
 
 -----------------------

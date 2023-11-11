@@ -1,6 +1,9 @@
+# A Letter to Adderall from the Asylum
+
 A Letter to Adderall from the Asylum
 
 ---
+
 [A Letter to Adderall from the Asylum](https://humanparts.medium.com/a-letter-to-adderall-from-the-asylum-bf6a51a4f0c8)  - Original Post
 
 ![1*mZNhAY1VErPJBuU_w8tpJw.jpeg](https://www.inoreader.com/camo/sUpX_AYgg4CFjN15Z1XvJ3RH5Qru0wMhpflC8ILBH-9g,b64/aHR0cHM6Ly9taXJvLm1lZGl1bS5jb20vbWF4LzEwMjQvMSptWk5oQVkxVkVyUEpCdVVfdzh0cEp3LmpwZWc)
@@ -64,9 +67,10 @@ Sometimes I think that whatever I might have achieved without you would have lef
 
 And in that sense, part of me never ceases to thank you, even though I never want to see you again. Let’s agree to call the past a wash. To pretend that it could not have been any way other than this. Knowing for sure would require a time machine, after all, and ruminating on it only makes me sad — and like I said, or tried to say over the course of this letter: I am trying hard to be okay.
 
-_If you like what you just read, please hit the green ‘Recommend’ button below so that others might stumble upon this essay. For more essays like this, scroll down and follow the Human Parts collection._
+*If you like what you just read, please hit the green ‘Recommend’ button below so that others might stumble upon this essay. For more essays like this, scroll down and follow the Human Parts collection.*
 
-_Human Parts on_ [_Facebook_](https://www.facebook.com/pages/Human-Parts/622961867767663?ref=br_tf) _and_ [_Twitter_](https://twitter.com/human_parts)
+*Human Parts on* [_Facebook_](https://www.facebook.com/pages/Human-Parts/622961867767663?ref=br_tf) *and* [_Twitter_](https://twitter.com/human_parts)
 
 ***
+
 #Article #Adderall

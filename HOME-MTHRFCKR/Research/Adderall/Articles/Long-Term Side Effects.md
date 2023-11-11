@@ -39,6 +39,7 @@ If you believe you or someone you love may be struggling with addiction, let us 
 There are a variety of confidential, free, and no obligation ways to get in contact with us to learn more about treatment.
 
   * Call us at or [get a text](/not-ready-to-talk) for information on various treatment options. There, you can talk to one of our admissions advisors where we can answer any questions you might have about treatment or insurance coverage for you or a loved one.
+
   * Fill in our online insurance verification form below to find out if your insurance provider may be able to cover the cost of treatment. Our admissions advisors may contact you thereafter to discuss your options.
 
 Check to see if your insurance is in-network at an American Addiction Centers location
@@ -76,17 +77,29 @@ Adderall can cause damage to the heart and cardiovascular system when used for a
 Other side effects of abusing Adderall long-term include:
 
   * Heart disease
+
   * Dizziness
+
   * Abdominal pain
+
   * Weight loss
+
   * Insomnia
+
   * Dry mouth
+
   * Heart palpitations
+
   * Headaches
+
   * Tremors
+
   * Trouble breathing
+
   * Constipation
+
   * Hyperactivity
+
   * Feeling jittery or “on edge”
 
 > Using Adderall heavily for a long period of time increases all the risk factors and potential long-term side effects, which may get progressively worse.

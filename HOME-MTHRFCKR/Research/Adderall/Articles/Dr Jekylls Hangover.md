@@ -1,11 +1,12 @@
 # Quitting Adderall
 
 ---
+
 # [Doctor Jekyll’s Hangover](http://quittingadderall.com/dr-jekylls-hangover/ "Permanent Link to Doctor Jekyll’s Hangover")
 
 June 27th, 2012 by **Mike**
 
-In the famous tale of _Dr. Jekyll and Mr. Hyde_, Doctor Jekyll invents a potion that he thinks will give him super-human powers. After ingesting the potion, Dr. Jekyll discovers to his horror that the potion transforms him into a murderous monster named Hyde. Each night, the potion’s effects kick in, and the terrible Hyde rampages around the streets of London murdering innocent people and wreaking havoc.
+In the famous tale of *Dr. Jekyll and Mr. Hyde*, Doctor Jekyll invents a potion that he thinks will give him super-human powers. After ingesting the potion, Dr. Jekyll discovers to his horror that the potion transforms him into a murderous monster named Hyde. Each night, the potion’s effects kick in, and the terrible Hyde rampages around the streets of London murdering innocent people and wreaking havoc.
 
 The next morning, poor Dr. Jekyll (now himself again) wakes up in a strange location, his clothes torn to shreds, his hands covered in blood, and his mind flooded with memories of the destruction he has wrought the previous night as Hyde. These memories torture Dr. Jekyll, a noble man who would never commit the acts that the potion has caused him (as Hyde) to commit.
 
@@ -17,7 +18,7 @@ This is a problem I’ve come to refer to as “Doctor Jekyll’s Hangover.”
 
 ## The 3 Phases of Dr. Jeckyll’s Hangover
 
-### Phase 1: Blissful Ignorance
+### Phase 1: Blissful Ignorance
 
 When you first quit Adderall, you’re so exhausted and barren of any definable sense of motivation or direction that you don’t really think about the past or the future. You’re only thinking about right now, and how much you’d rather be in bed.
 
@@ -56,7 +57,7 @@ But there is hope. As terrible and inescapable as they feel, hangovers do end.
 2. I can see now how I should have handled my last relationship, but I’ve already ruined it.  
 3. If I was cultivating my gifts instead of ignoring them all these years, I’d be amazing by now, instead of back where I started.
 
-## The Five Steps to Curing your Dr. Jekyll’s Hangover
+## The Five Steps to Curing Your Dr. Jekyll’s Hangover
 
 ### 1. Atonement
 
@@ -66,7 +67,7 @@ But of course, the real pain of Dr. Jekyll’s Hangover is caused by the mistake
 
 ### 2. Separation
 
-When it comes to Adderall, there is more truth to the Dr. Jekyll/Mr. Hyde analogy than you might realize. You don’t just _feel_ like a different person on Adderall, you _are_ a different person in many quantifiable ways.
+When it comes to Adderall, there is more truth to the Dr. Jekyll/Mr. Hyde analogy than you might realize. You don’t just *feel* like a different person on Adderall, you *are* a different person in many quantifiable ways.
 
 Imagine that you have created two clones of yourself. One clone is you on Adderall, and the other clone is you before you ever took Adderall. You’re sitting across the table from these two versions of yourself, and you start asking them questions: What do you want to do with your life? What is important to you right now? Where do you spend most of your time? What would your perfect man/woman be like?
 
@@ -104,7 +105,7 @@ Maybe you even get it moving a little bit, and then you slip off and bust your a
 
 Because one day you’ll get it moving for a full rotation, and after that, if you keep pushing at it, the wheel will start building momentum.
 
-#### A practical example
+#### A Practical Example
 
 Let’s say you’ve decided after quitting Adderall that you want to be an artist (like, a painter). When you’re staring at a blank canvas for the first time in years, brush in hand, completely blocked up and feeling like you want to cry — that’s you staring at the giant stone wheel, wondering how you’re ever going to get it moving. When you make a few strokes with the brush, that’s you tugging at the wheel.
 
@@ -114,6 +115,6 @@ When you’re half way done with your Masters in Art History, you’ve found a r
 
 And then one day you look back, and you can’t believe how far you’ve come. Your past mistakes don’t bother you as much anymore, because you’re so busy with your present successes. With each passing day, others see you (and you see yourself) for who you truly are, and always have been: The noble Dr. Jekyll, wisened by his mistakes, and more brilliant than ever.
 
-
 ***
+
 #Forum #Adderall #Post #DrJekyll

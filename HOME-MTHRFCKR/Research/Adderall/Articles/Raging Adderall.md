@@ -1,9 +1,10 @@
+# Raging Adderall
 
 [Raging Adderall](https://healthcareinamerica.us/raging-adderall-b28a90747074?gi=6374912f2d63) - Original Post
 
 ![1*Tz7T0LY_3shotk6kZAzpDg.jpeg](https://www.inoreader.com/camo/svJ79keypI5oZoX42CbZohk7Cefxs0wZ-eNlRPJUy608,b64/aHR0cHM6Ly9taXJvLm1lZGl1bS5jb20vbWF4LzEyMDAvMSpUejdUMExZXzNzaG90azZrWkF6cERnLmpwZWc)
 
-_My Night Out With Prescription Amphetamines_
+*My Night Out With Prescription Amphetamines*
 
 **Bret** has just returned from an aerobics class when I arrive at his apartment in lower Manhattan. Despite the high-intensity, one-hour workout (that came with a DJ), he is far from winded. Bret is a 27-year-old manager at a start-up based in Chicago. Fit, handsome, and clean-cut, he has an intense, bursting-at-the-seams, conquer-the-world approach to life that is infectious. Whenever I see him, I’m half convinced we’re about to climb Mt. Kilimanjaro, or getting ready to ski black diamonds, while being chased by a gang of James Bond villains. While I suspect Bret is naturally energetic, I also wonder if the 20 milligrams of extended-release [[../../../Bookmrks-Mthrfckr/Reference/Adderall.md]] he takes Monday through Friday amps it up.
 
@@ -33,7 +34,7 @@ He says it takes a responsible person to use it appropriately. Once tasked with 
 
 Kyle strikes me as a no-nonsense, goal-oriented type of guy. While friendly, he is level-headed and to the point, and it’s immediately clear that he values his time. He started taking Ritalin at age 10 twice a day when he was diagnosed as borderline [[ADHD]]. He recently switched from 20 milligrams of extended-release [[../../../Bookmrks-Mthrfckr/Reference/Adderall.md]] to Vyvanse at about an equivalent dosage, which he takes once a day with a prescription. He takes it now for work — specifically for focus, organization, and planning. “If I don’t take it, I feel like a noodle.”
 
-Kyle says the [[stimulant]] definitely makes him short-fused, more temperamental, and less understanding. “I get into this mindset of ‘I don’t understand why others don’t understand what I understand.’” He has no plans to stop using, though he may when he starts a family as he’s concerned about losing his temper with his future children. He says the [[stimulant]] environment is probably not a good one for kids, adding, “I don’t want to be _that_ Dad.”
+Kyle says the [[stimulant]] definitely makes him short-fused, more temperamental, and less understanding. “I get into this mindset of ‘I don’t understand why others don’t understand what I understand.’” He has no plans to stop using, though he may when he starts a family as he’s concerned about losing his temper with his future children. He says the [[stimulant]] environment is probably not a good one for kids, adding, “I don’t want to be *that* Dad.”
 
 Like Bret and Jesse, he also sleeps remarkably few hours per night: 4 to 6. He also knew plenty of people in college who used [[../../../Bookmrks-Mthrfckr/Reference/Adderall.md]] recreationally. It was either [[../../../Bookmrks-Mthrfckr/Reference/Adderall.md]] or cocaine. “If you look at the chemical breakdown between Ritalin and cocaine, they’re very similar drugs.”
 
@@ -57,6 +58,6 @@ I sit in the ensuing silence, remembering that most of what beckons from my elec
 
 Curious how [[../../../Bookmrks-Mthrfckr/Reference/Adderall.md]] might make you feel? [Check out your brain on Adderall](http://www.shape.com/lifestyle/mind-and-body/your-brain-adderall).
 
-
 ***
+
 #Article #Adderall 

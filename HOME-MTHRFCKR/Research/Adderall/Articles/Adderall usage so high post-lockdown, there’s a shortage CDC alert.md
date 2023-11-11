@@ -13,15 +13,25 @@ author: Brooke Kato
 ---
 
 As the US Adderall shortage continues, the Centers for Disease Control and Prevention released a report Thursday that noted a boom in prescriptions for the stimulant between 2020 and 2021.  
+
   
+
 [The CDC found](https://www.cdc.gov/mmwr/volumes/72/wr/mm7213a1.htm?s_cid=mm7213a1_w) that prescriptions for stimulants like Adderall–a drug made from amphetamine salts, used to treat attention-deficit hyperactivity disorder–increased among American adults by over 10% during the pandemic.  
+
   
+
 Using market data, the CDC analyzed claims from unidentifiable patients enrolled in employer-sponsored insurance to look at the number of people taking stimulants.  
+
   
+
 Specifically, they found that women ages 20 to 24 saw a nearly 20% spike in prescriptions between 2020 and 2021, while the percentage of men in the same age group only jumped about 4%.  
+
   
+
 The results coincide with a startling trend of women who are [self-diagnosing ADHD](https://nypost.com/2022/08/19/startling-number-of-women-using-tiktok-to-self-diagnose-adhd/), as others continue to share their symptoms online. Meanwhile, medical professionals have warned not to rely on social media to receive a diagnosis and urged people to seek a clinician’s advice.  
+
   
+
 [![adderall bottles on shelf](https://nypost.com/wp-content/uploads/sites/2/2023/03/NYPICHPDPICT000008998034.jpg?w=1024)](https://nypost.com/wp-content/uploads/sites/2/2023/03/NYPICHPDPICT000008998034.jpg)
 
 The CDC reported an uptick of adults receiving stimulant prescriptions during the pandemic.

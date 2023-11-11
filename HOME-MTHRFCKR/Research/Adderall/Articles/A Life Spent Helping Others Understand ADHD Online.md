@@ -1,6 +1,9 @@
+# A Life Spent Helping Others Understand ADHD Online
+
 Hello, Brains! A Life Spent Helping Others Understand A.D.H.D. Online (Published 2021)
 
 ---
+
 [Hello, Brains! A Life Spent Helping Others Understand A.D.H.D. Online (Published 2021)](https://www.nytimes.com/2021/02/22/style/self-care/adhd-youtube.html?searchResultPosition=37)
 
 ![16YOUTUBE-ADHD-2-facebookJumbo.jpg?year=](https://www.inoreader.com/camo/sHQyIxUCcOQdyoDkJ0QUqQ7XXVm6s0mztcRYqOVr3ENI,b64/aHR0cHM6Ly9zdGF0aWMwMS5ueXQuY29tL2ltYWdlcy8yMDIxLzAyLzE2L2Zhc2hpb24vMTZZT1VUVUJFLUFESEQtMi8xNllPVVRVQkUtQURIRC0yLWZhY2Vib29rSnVtYm8uanBnP3llYXI9MjAyMSZoPTU1MCZ3PTEwNTAmcz1jMzRlYzUwM2VkNDdiYWE5OTc0OGM1NzFlOWVjNzhmNzZkZTAzN2E2MTRlN2I5NzZjNGQ4ZDZmZGNlMzllNWU1Jms9WlFKQktxWjBWTg)
@@ -8,13 +11,12 @@ Hello, Brains! A Life Spent Helping Others Understand A.D.H.D. Online (Published
 [Continue reading the main story](https://www.nytimes.com/2021/02/22/style/self-care/adhd-youtube.html?searchResultPosition=37#after-top)
 
 Jessica McCabe used YouTube to teach herself about A.D.H.D. Her videos taught others. Then she built a business.
-  
 
 ![Jessica McCabe has a YouTube channel on A.D.H.D.](https://www.inoreader.com/camo/s5gCiFxR4skXuRyZNxPk_htEBmemT1o2eCKgAbLb8u2A,b64/aHR0cHM6Ly9zdGF0aWMwMS5ueXQuY29tL2ltYWdlcy8yMDIxLzAyLzIyL2Zhc2hpb24vMjJZT1VUVUJFLUFESEQtMS1TVUIvMjJZT1VUVUJFLUFESEQtMS1TVUItYXJ0aWNsZUxhcmdlLmpwZz9xdWFsaXR5PTc1JmF1dG89d2VicCZkaXNhYmxlPXVwc2NhbGU)
 
-Jessica McCabe has a YouTube channel on A.D.H.D.Credit...Jovelle Tamayo for The New York Times
+Jessica McCabe has a YouTube channel on A.D.H.D.Credit…Jovelle Tamayo for The New York Times
 
-Published Feb. 22, 2021
+Published Feb. 22, 2021  
 Updated May 10, 2021
 
 Jessica McCabe, creator of the YouTube channel “[How to A.D.H.D](https://www.youtube.com/c/HowtoADHD/videos?view=0&sort=p&flow=grid).,” is not a doctor or medical professional. At 38, she’s had a variety of professions including stand-up comedian, actor and restaurant server.
@@ -33,7 +35,7 @@ Rachelle LeDuc-Cairns, a registered nurse in Canada, offered to teach her how to
 
 “She has done a fine job popularizing the scientific findings in A.D.H.D. and bringing more attention to the condition, destigmatizing it and even motivating others with the condition and their families to obtain further information about it,” said [Russell Barkley](http://russellbarkley.org/), a clinical professor of psychiatry at the Virginia Commonwealth University Medical Center.
 
-Ms. McCabe with her service dog-in-training, Chloe, in Seattle. Credit...Jovelle Tamayo for The New York Times
+Ms. McCabe with her service dog-in-training, Chloe, in Seattle. Credit…Jovelle Tamayo for The New York Times
 
 The average age of her subscribers is between 18 and 34, she said; many of the videos focus on themes relevant to young adults. One of Ms. McCabe’s main intentions is to address the stigma of taking medication for this group and about giving it to children.
 
@@ -47,7 +49,7 @@ It’s adults who are often overlooked. There are twice as many research studies
 
 To that end, in [one of her most popular videos](https://www.youtube.com/watch?v=XbyN8REIhMk), she talks about relationships and how people with A.D.H.D. may experience situations like becoming bored with a partner: “Getting involved with the nearest available human of the desired gender because they’re there and you’re bored? I’m pretty sure this is how Tinder works.”
 
-Chloe fetching Ms. McCabe her medicine.Credit...Jovelle Tamayo for The New York Times
+Chloe fetching Ms. McCabe her medicine.Credit…Jovelle Tamayo for The New York Times
 
 Ms. McCabe thinks a lot about communication and word choice. Most of her videos open with the greeting “Hello, Brains.”
 
@@ -63,6 +65,6 @@ But her first donation came from Scot Melville, an engineer in San Francisco, wh
 
 Now instead of donating money, Mr. Melville donates his time as the technology consultant on Ms. McCabe’s team.
 
-
 ***
+
 #Article #Adderall 

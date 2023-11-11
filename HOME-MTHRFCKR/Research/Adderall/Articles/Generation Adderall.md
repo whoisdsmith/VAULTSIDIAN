@@ -1,6 +1,9 @@
+# Generation Adderall
+
 Generation Adderall (Published 2016)
 
 ---
+
 Originally Posted Here [Generation Adderall (Published 2016)](https://www.nytimes.com/2016/10/16/magazine/generation-adderall-addiction.html) 
 
 ![16adderall1-facebookJumbo.jpg?year=2016&](https://www.inoreader.com/camo/sHfWxoyu74bYVBBO08hQ7VMHbArdTo1yc7Ue4AjbghS4,b64/aHR0cHM6Ly9zdGF0aWMwMS5ueXQuY29tL2ltYWdlcy8yMDE2LzEwLzE2L21hZ2F6aW5lLzE2YWRkZXJhbGwxLWNvcHkvMTZhZGRlcmFsbDEtZmFjZWJvb2tKdW1iby5qcGc_eWVhcj0yMDE2Jmg9NTQ5Jnc9MTA1MCZzPTJiYWIwNDk3NjM0ZTFjMDViYzY4OWEzMjc5MzkyODkyZWVlN2Q2ZGIzYzY1MDgxZDU0MzU4YmIzNzYwYWIyOWEmaz1aUUpCS3FaMFZO)
@@ -33,7 +36,7 @@ Could there be a more enticing description? My friend pulled two blue pills out 
 
 I would experience this same sensation again and again over the next two years, whenever I could get my hands on Adderall on campus, which was frequently, but not, I began to feel, frequently enough. My Adderall hours became the most precious hours of my life, far too precious for the Absolute Quiet Room. I now needed to locate the most remote desk in the darkest, most neglected corner of the upper-level stacks, tucked farthest from the humming campus life going on outside. That life was no longer the life that interested me. Instead, what mattered, what compelled, were the hours I spent in isolation, poring over, for instance, Immanuel Kant’s thoughts on “the sublime.”
 
-It was fitting: _This_ was sublime, these afternoons I spent in untrammeled focus, absorbing the complicated ideas in the texts in front of me, mastering them, covering their every surface with my razor-like comprehension, devouring them, making them a part of myself. Or rather, of what I now thought of as my self, which is to say, the steely, undistractable person whom I vastly preferred to the lazier, glitchier person I knew my actual self to be, the one who was subject to fits of lassitude and a tendency to eat too many Swedish Fish.
+It was fitting: *This* was sublime, these afternoons I spent in untrammeled focus, absorbing the complicated ideas in the texts in front of me, mastering them, covering their every surface with my razor-like comprehension, devouring them, making them a part of myself. Or rather, of what I now thought of as my self, which is to say, the steely, undistractable person whom I vastly preferred to the lazier, glitchier person I knew my actual self to be, the one who was subject to fits of lassitude and a tendency to eat too many Swedish Fish.
 
 Adderall wiped away the question of willpower. Now I could study all night, then run 10 miles, then breeze through that week’s New Yorker, all without pausing to consider whether I might prefer to chat with classmates or go to the movies. It was fantastic. I lost weight. That was nice, too. Though I did snap at friends, abruptly accessing huge depths of fury I wouldn’t have thought I possessed. When a roommate went home one weekend and forgot to turn off her alarm clock so that it beeped behind her locked door for 48 hours, I entirely lost control, calling her in New York to berate her. I didn’t know how long it had been since I’d slept more than five hours. Why bother?
 
@@ -47,7 +50,7 @@ My pill-free period didn’t last very long. I turned in my incomplete school wo
 
 Image![16mag-16adderall-t_CA1-articleLarge.jpg?](https://www.inoreader.com/camo/sehXCSJecf3LEpe_UfBLoYB2cy-kQ-Xu1syUhGwulCAw,b64/aHR0cHM6Ly9zdGF0aWMwMS5ueXQuY29tL2ltYWdlcy8yMDE2LzEwLzE2L21hZ2F6aW5lLzE2YWRkZXJhbGwyLzE2bWFnLTE2YWRkZXJhbGwtdF9DQTEtYXJ0aWNsZUxhcmdlLmpwZz9xdWFsaXR5PTc1JmF1dG89d2VicCZkaXNhYmxlPXVwc2NhbGU)
 
-Credit...Illustration by Chad Wys. Source image from the Getty’s Open Content Program. “Portrait of Louise de Keroualle, Duchess of Portsmouth,” by Peter Lely.
+Credit…Illustration by Chad Wys. Source image from the Getty’s Open Content Program. “Portrait of Louise de Keroualle, Duchess of Portsmouth,” by Peter Lely.
 
 It took me exactly one year from the time of college graduation to come to the decision that would, to a great extent, shape the next phase of my life. It hit me like a revelation: It might be possible to declare my independence from the various A.D.H.D. kids who sold me their prescription pills at exorbitant markups and get a prescription all my own. The idea occurred to me as I walked among the palm trees on the campus of U.C.L.A. By then, I was living in Los Angeles, working as a private tutor for high-school kids, many of whom were themselves on Adderall, and taking summer-school classes in psychology and neuroscience in order to be able to apply for graduate school. I had decided I wanted to be a psychologist — infinitely more manageable than my secret ambition of being a writer, I thought. Infinitely more realistic. Like many 20-somethings, my decisions were informed by panic and haste, but also, of course, by whatever short-lived supply of the pills I happened to be in possession of.
 
@@ -71,7 +74,7 @@ Occasionally, I would try to get off the drug. Each attempt began the same way. 
 
 Over the years, I’ve been told by various experts on the subject that it should not have been so hard to get off Adderall. The drug is supposed to be relatively quick and painless to relinquish. I’ve often wondered whether my inability to give it up was my deepest failing. I’ve found some comfort in seeing my own experience mirrored back to me in the dozens and dozens of disembodied voices on the internet, filling the message boards of the websites devoted to giving up this drug. One post, in particular, has stayed with me, a mother writing on QuittingAdderall.com:
 
-_I started taking Adderall in OCT 2010. And my story isn’t much different than most. ... The honeymoon period, then all downhill. I feel like I cannot remember who I was, or how it felt, to go one minute of the day not on Adderall. I look back at pictures of myself from before this began and I wonder how I was ever_ “_happy_” _without it because now I am a nervous wreck if I even come close to not having my pills for the day. There have been nights I have cried laying my daughter down to sleep because I was so ashamed that the time she spent with her mommy that day wasn’t real._
+*I started taking Adderall in OCT 2010. And my story isn’t much different than most…. The honeymoon period, then all downhill. I feel like I cannot remember who I was, or how it felt, to go one minute of the day not on Adderall. I look back at pictures of myself from before this began and I wonder how I was ever* “*happy*” *without it because now I am a nervous wreck if I even come close to not having my pills for the day. There have been nights I have cried laying my daughter down to sleep because I was so ashamed that the time she spent with her mommy that day wasn’t real.*
 
 “Nobody starts off by saying, I’m going to go develop a drug problem,” said Jeanette Friedman, a social worker with a specialty in addiction, when I met her in August at her Upper East Side office. “No one means to get addicted. But there’s such a casual use of something like Adderall nowadays — because it’s seen as benign, or a help to becoming more productive. And in our culture, to be productive is kind of everything. There’s a tremendous pressure not just to do well but to excel.”
 
@@ -79,7 +82,7 @@ When she is face to face with an addicted patient, Friedman explains, what is at
 
 I remember that fear, in school and, later, at work, and it’s palpable in those message-board pleas:
 
-_The way I feel now is way worse than my A.D.D. ever was before I went on this stuff. I no longer feel, at this present time, able to get a Ph.D. I don’t feel able to do coursework, I don’t feel interested and passionate about the things I loved. I need to know from you, dear readers, that this will be temporary._
+*The way I feel now is way worse than my A.D.D. ever was before I went on this stuff. I no longer feel, at this present time, able to get a Ph.D. I don’t feel able to do coursework, I don’t feel interested and passionate about the things I loved. I need to know from you, dear readers, that this will be temporary.*
 
 Harris Stratyner, a psychologist and addiction specialist at the Caron Treatment Center in Manhattan, told me that each year he’s in practice, he sees more people desperate to get off Adderall. Stratyner estimates that he has treated more than 50 patients trying to stop using the drug; currently, they range in age from 24 to 40. His Adderall patients are overwhelmingly creative people who wanted to work in the arts — yet, he says, many have chosen other paths, safer paths, resigning themselves before they’ve even really tried to achieve what they hoped for. “They often give in to practicality,” he says. “Then they feel they missed out. And when they take Adderall, it makes them feel good, so they don’t focus on the fact that they feel like they sold out.” Many people are using Adderall to mask a sense of disappointment in themselves, Stratyner says, because it narrows their focus down to simply getting through each day, instead of the larger context of what they’re trying to build with their lives. “It becomes extremely psychologically and physiologically addictive,” he says. “It’s really a tough drug to get off of.” The side effects of Adderall withdrawal that his patients report include nausea, chills, diarrhea, body aches and pains, even seizures. Occasionally, it is necessary for him to hospitalize his patients as they come down off Adderall.  
 
@@ -91,6 +94,6 @@ Even in those first faltering weeks, there were consolations. Simple pleasures w
 
 On one of those earliest days of being off the drug, I was moving slowly, more than a little daunted, trying to walk the few miles to an appointment I had in Midtown Manhattan. It was a glorious summer evening, the sun just going down. As I approached Bryant Park, I heard live music and wandered in to see. A rock band was performing onstage. I hovered at the back of the crowd. The singer, muscular and bearded, gripped the microphone in front of him with two hands, pouring his heart into every word that left his mouth. His voice soared into that summer night. Suddenly, tears were streaming down my face. I was embarrassed, but I couldn’t stop. It was as if I hadn’t heard music in years.
 
-
 ***
+
 #Article #Adderall #CaseySchwartz

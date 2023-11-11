@@ -1,9 +1,10 @@
+# One Year of Taking Adderall to Help with Writing & Focus
+
 One Year of Taking [[../../../Bookmrks-Mthrfckr/Reference/Adderall.md]] to Help with Writing & Focus
 
 ---
+
 [One Year of Taking Adderall to Help with Writing & Focus](https://chrisguillebeau.com/adderall)
-
-
 
 [[../../../Bookmrks-Mthrfckr/Reference/Adderall.md]]
 
@@ -11,7 +12,7 @@ One Year of Taking [[../../../Bookmrks-Mthrfckr/Reference/Adderall.md]] to Help 
 
 Last year I shared the story of [why I got a prescription for Adderall](https://chrisguillebeau.com/writing-with-adderall), the brand name of the psychostimulant drug that can help you better manage your attention and focus.
 
-[[../../../Bookmrks-Mthrfckr/Reference/Adderall.md]] is a controlled substance in the U.S. and most other western countries. It’s known for being abused by college students—you know, when you _really need to study_—but it’s also one of the most frequently prescribed treatments for both children and adults with [[ADHD]].
+[[../../../Bookmrks-Mthrfckr/Reference/Adderall.md]] is a controlled substance in the U.S. and most other western countries. It’s known for being abused by college students—you know, when you *really need to study*—but it’s also one of the most frequently prescribed treatments for both children and adults with [[ADHD]].
 
 I was diagnosed with [[ADHD]] as a kid (whoa, look at that spaceship!) and was medicated for a while with Ritalin and other drugs, but until last year at the old age of 36, I hadn’t taken anything since I was 12 or so.
 
@@ -25,23 +26,23 @@ More interestingly, I heard from a lot of people who were experiencing a similar
 
 Anyway, I thought it was a worthwhile experiment, and taking the prescription certainly helped in the beginning. As I wrote at the time:
 
-_The next day I went to work. I set up my MacBook, poured coffee and sparkling water, and took my first low-dose (5mg) pill. Would I even notice anything? Maybe the doc was messing with me and prescribing such a low dose that it would trigger a placebo effect._
+*The next day I went to work. I set up my MacBook, poured coffee and sparkling water, and took my first low-dose (5mg) pill. Would I even notice anything? Maybe the doc was messing with me and prescribing such a low dose that it would trigger a placebo effect.*
 
-_Well… I definitely noticed. It wasn’t a placebo effect; it was pretty incredible. Twenty minutes after taking it, I was fully immersed in the tasks at hand._
+*Well… I definitely noticed. It wasn’t a placebo effect; it was pretty incredible. Twenty minutes after taking it, I was fully immersed in the tasks at hand.*
 
-_Replies to emails I had ignored (sorry, everyone) were suddenly flying out of my inbox. Draft posts filled up my Evernote and WordPress screens. That new book I hoped to outline? All of a sudden, I knew what to do. The clutter of emails and half-finished sentences made sense, or at least I knew how to make them make sense, which is the essential struggle of most writers and plenty of other creative people._
+*Replies to emails I had ignored (sorry, everyone) were suddenly flying out of my inbox. Draft posts filled up my Evernote and WordPress screens. That new book I hoped to outline? All of a sudden, I knew what to do. The clutter of emails and half-finished sentences made sense, or at least I knew how to make them make sense, which is the essential struggle of most writers and plenty of other creative people.*
 
-_By the way, those last few sentences were written in passive tense, but that’s what it felt like. I’m just the channel! This is working!_
+*By the way, those last few sentences were written in passive tense, but that’s what it felt like. I’m just the channel! This is working!*
 
 Fast forward a year or so. It hasn’t been quite 365 days of being medicated, but I’ve been prescribed [[../../../Bookmrks-Mthrfckr/Reference/Adderall.md]] for the whole time, and I’ve taken it fairly regularly.
 
 **One Year Later: So What About Now?**
 
-As I said in the beginning, my worry was that the “high” (probably not the best word in this case) would end and the medication would stop being effective, at least at the low dose I was taking. And then if that happened, I’d face the issue of what to do. Would I increase the dosage? What about the _next_ time it happened?
+As I said in the beginning, my worry was that the “high” (probably not the best word in this case) would end and the medication would stop being effective, at least at the low dose I was taking. And then if that happened, I’d face the issue of what to do. Would I increase the dosage? What about the *next* time it happened?
 
-Poking around on various [[ADHD]] forums, I noticed that that many adults are taking much, much higher doses than the 5-10mg a day I was prescribed. Apparently the maximum FDA-approved amount is something like 120mg a day, which sounds _huge_ compared to what I’m taking. Those kinds of large doses don’t seem healthy to me, but then again I’m not these people, nor am I their doctor. I just knew that for me, I preferred to stick to a lower dosage if at all possible.
+Poking around on various [[ADHD]] forums, I noticed that that many adults are taking much, much higher doses than the 5-10mg a day I was prescribed. Apparently the maximum FDA-approved amount is something like 120mg a day, which sounds *huge* compared to what I’m taking. Those kinds of large doses don’t seem healthy to me, but then again I’m not these people, nor am I their doctor. I just knew that for me, I preferred to stick to a lower dosage if at all possible.
 
-And… there’s good news in that department. I’ve continued taking the drug on a regular basis, not every day but most days of the week. I usually refrain from taking it one weekend day each week, and also on days that I’m traveling and don’t expect to be highly productive. About four months in, I increased the dosage _slightly_, but not much—and I haven’t done so since then.
+And… there’s good news in that department. I’ve continued taking the drug on a regular basis, not every day but most days of the week. I usually refrain from taking it one weekend day each week, and also on days that I’m traveling and don’t expect to be highly productive. About four months in, I increased the dosage *slightly*, but not much—and I haven’t done so since then.
 
 My other concern about it remains essentially the same as when I started. If it works so well, why would I ever stop?
 
@@ -71,7 +72,7 @@ As I mentioned in the original post, I did notice some side affects of taking th
 
 It turns out there’s an easy way to solve the first problem: just eat! For me at least, it’s not that I’m never hungry when I’ve taken my pill, it’s that I don’t really feel the need to start eating. But when I do start eating, I realize that I’m about as hungry as normal and I enjoy the food.
 
-To mitigate this concern, I almost always take the medication either with food or immediately after eating. I suppose it could be more effective if I didn’t, but then again I could just take _more_ if that’s what I wanted—and that’s not what I want.
+To mitigate this concern, I almost always take the medication either with food or immediately after eating. I suppose it could be more effective if I didn’t, but then again I could just take *more* if that’s what I wanted—and that’s not what I want.
 
 Sleeplessness is the bigger concern. When I take 10mg instead of 5mg, with the second dose coming later in the day, I do sometimes have a hard time falling asleep. Interestingly, I’m not usually tired the next morning, which is strange.
 
@@ -79,6 +80,6 @@ So in short, I haven’t completely got the insomnia figured out, but that’s t
 
 I share this experience for anyone who struggles with creative work. If the usual advice—“just turn off the wifi and put down your phone”—doesn’t work for you, maybe you should consider seeing an M.D. or naturopath or whoever you trust with your health, and maybe you should ask them about [[../../../Bookmrks-Mthrfckr/Reference/Adderall.md]] or similar options.
 
-
 ***
+
 #Article #Adderall 

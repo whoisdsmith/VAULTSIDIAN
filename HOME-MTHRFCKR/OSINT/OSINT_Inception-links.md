@@ -1,8 +1,10 @@
+# OSINT_Inception-links
+
 <img src="https://img.shields.io/github/stars/C3n7ral051nt4g3ncy/OSINT_Inception-links?label=Repo%20stars&style=social"> <img src="https://img.shields.io/github/last-commit/C3n7ral051nt4g3ncy/OSINT_Inception-links?style=social">
 
 ## OSINT Inception | Links 🔎
 
-### Current (working) links for Start.me pages that are listed on the [OSINT Inception Project](https://start.me/p/Pwy0X4/osint-inception)
+### Current (working) Links for Start.me Pages that Are Listed on the [OSINT Inception Project](https://start.me/p/Pwy0X4/osint-inception)
 
 <br>
 

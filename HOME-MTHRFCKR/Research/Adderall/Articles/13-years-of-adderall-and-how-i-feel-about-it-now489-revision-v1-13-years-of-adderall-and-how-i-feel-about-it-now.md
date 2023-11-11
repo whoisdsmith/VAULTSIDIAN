@@ -8,20 +8,22 @@ guid: 'https://whoisdsmith.ctrlaltback.space/?p=618'
 permalink: '/?p=618'
 ---
 
+# 13-years-of-adderall-and-how-i-feel-about-it-now489-revision-v1-13-years-of-adderall-and-how-i-feel-about-it-now
+
 - - - - - -
 
 <figure class="wp-block-image size-large">![](https://c0debl0ck.files.wordpress.com/2022/02/21040d42-b98a-4aa5-97b3-f0f2a3cb9449.jpg?w=1024)</figure><div aria-hidden="true" class="wp-block-spacer" style="height:100px;"></div>**A Revision To Dr. Jekyll’s Hangover**
 
-• Two pills a day to completely change everything.  
-• For better and for worse.  
-• Remapping neurons and elevating heart-rate.  
-• Pushing you to move in a single focused direction.  
-• Not always the direction you should be focusing on.  
-• Going from normal to all time highs.  
-• Ending in all time lows until it’s time for another dose.  
-• Day in. Day out.  
-• It’s never enough.  
-• Begin. End. Repeat.
+- Two pills a day to completely change everything.  
+- For better and for worse.  
+- Remapping neurons and elevating heart-rate.  
+- Pushing you to move in a single focused direction.  
+- Not always the direction you should be focusing on.  
+- Going from normal to all time highs.  
+- Ending in all time lows until it’s time for another dose.  
+- Day in. Day out.  
+- It’s never enough.  
+- Begin. End. Repeat.
 
 - - - - - -
 

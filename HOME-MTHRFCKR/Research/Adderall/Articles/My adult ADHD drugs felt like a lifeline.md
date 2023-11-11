@@ -1,6 +1,7 @@
-# My adult [[ADHD]] drugs felt like a lifeline. Then came the scary side-effects … | Health & wellbeing | The Guardian
+# My Adult [[ADHD]] Drugs Felt like a Lifeline. Then Came the Scary Side-effects … | Health & Wellbeing | The Guardian
 
 ---
+
 At first being diagnosed with [[ADHD]] came as a relief. I cried in the psychiatrist’s office: maybe I wasn’t lazy after all. He gave me pills that, within days, offered me a glimpse of what I thought a neurotypical person’s brain might feel like: focused and smooth, like a game of leisurely tennis rather than a ball machine going berserk.
 
 [[Dexamphetamine]] felt like a silver bullet. Suddenly I could plan ahead, follow entire meetings, and pack a bag without having a nervous breakdown. Gone was the constantly harried feeling that had bullied me into perpetual motion for most of my 34 years. There seemed to be more time in each second to listen, absorb and think. I no longer wanted to punch people in the back of the head when they were blocking my way in the supermarket.

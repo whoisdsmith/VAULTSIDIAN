@@ -1,40 +1,36 @@
-
 # A Splintered Mind: ADHD: Brain Fog Is No Laughing Matter. Well, Maybe Just a Little
 
 ---
-  
 
-### ADHD: Brain Fog Is No Laughing Matter. Well, Maybe Just a Little
+## ADHD: Brain Fog Is No Laughing Matter. Well, Maybe Just a Little
 
-_Call it brain fog, absentmindedness, or a senior moment, but sometimes when your ADHD brain goes on the fritz, you’ve just got to laugh._
+*Call it brain fog, absentmindedness, or a senior moment, but sometimes when your ADHD brain goes on the fritz, you’ve just got to laugh.*
 
 ![Brain Fog](http://www.cootey.com/pix/2022/brainfog.png "Brain Fog")
 
-I am here today to tell you that playing Sudoku daily **_will not improve brain fog_**. I know. I’ve tried multiple Sudoku books & apps, Sudoku with words, and there’s a Sudoku game out there for the Nintendo Switch that would let me play with fluffy blobs of cats, but I’m not entirely convinced that will work either. [Adults with ADHD](http://douglascootey.com/search/label/ADHD "Read some more tips on managing ADHD") deal with brain fog on a general basis, so over the years I figured doing mental activities to improve my concentration and presence of mind couldn’t hurt.
+I am here today to tell you that playing Sudoku daily ***will not improve brain fog***. I know. I’ve tried multiple Sudoku books & apps, Sudoku with words, and there’s a Sudoku game out there for the Nintendo Switch that would let me play with fluffy blobs of cats, but I’m not entirely convinced that will work either. [Adults with ADHD](http://douglascootey.com/search/label/ADHD "Read some more tips on managing ADHD") deal with brain fog on a general basis, so over the years I figured doing mental activities to improve my concentration and presence of mind couldn’t hurt.
 
 Who says that Sudoku improves concentration? The same people who used to swear by crossword puzzles, usually. [Certainly, not me.](http://douglascootey.com/search?q=sudoku) No, I kid. I love playing Sudoku and feel more focused after solving a few puzzles, but after the week I’ve just had, I can tell you that it’s clearly not working as a prevention.
 
-There was that moment where I was distracted cleaning up my Nintendo Friend List. Who were all these people? Clearly, all that meditation I had been doing under mountain waterfalls had failed to sharpen my wits. There was this one entry labeled “April” with a bulbous Kirby as her avatar. _Hey! I know an April!_ But is it the same April? Moments before bringing an impulse to life via text, I stopped myself, iPhone in hand, and thought hard for the first time in days. _You can’t just ask somebody out of the blue if their gaming avatar is Kirby, Douglas. Does she even game? Waitaminute…how long has it been since you reached out to her anyway? Crud! Has it been months‽_
+There was that moment where I was distracted cleaning up my Nintendo Friend List. Who were all these people? Clearly, all that meditation I had been doing under mountain waterfalls had failed to sharpen my wits. There was this one entry labeled “April” with a bulbous Kirby as her avatar. *Hey! I know an April!* But is it the same April? Moments before bringing an impulse to life via text, I stopped myself, iPhone in hand, and thought hard for the first time in days. *You can’t just ask somebody out of the blue if their gaming avatar is Kirby, Douglas. Does she even game? Waitaminute…how long has it been since you reached out to her anyway? Crud! Has it been months‽*
 
 In fact, it had been so long since I last texted her that the conversation had been automatically deleted. For all I knew, I had left her on “Read” since last year. Suddenly, I realized again that the dream I had about [forgetting that I was dating somebody](http://douglascootey.com/2022/05/adhd-i-forgot-that-i-was-dating-somebody.html) wasn’t so far from reality.
 
-Last weekend, I was talking with a friend about the latest Spider-man movie that was rereleased into theaters. He couldn’t believe that I hadn’t seen it yet. He stared at me like I had three heads. I had insisted that he watch the first two movies last Fall (that **_HE_** hadn’t seen) so that he could catch up in order to see the movie in theaters with me. Then I got sick.
+Last weekend, I was talking with a friend about the latest Spider-man movie that was rereleased into theaters. He couldn’t believe that I hadn’t seen it yet. He stared at me like I had three heads. I had insisted that he watch the first two movies last Fall (that ***HE*** hadn’t seen) so that he could catch up in order to see the movie in theaters with me. Then I got sick.
 
-Later I found out that he went and saw it with family instead while I was sick in bed. Why are we still friends? How could my friend not know how sick I’ve been? But never mind that. Why do we say _“three heads”_? Wouldn’t two heads be weird enough? Were two heads a normal thing ages ago, thus making three heads something outside of the norm? Perhaps there’s something more to the “two-faced” idiom. 🤔
+Later I found out that he went and saw it with family instead while I was sick in bed. Why are we still friends? How could my friend not know how sick I’ve been? But never mind that. Why do we say *“three heads”*? Wouldn’t two heads be weird enough? Were two heads a normal thing ages ago, thus making three heads something outside of the norm? Perhaps there’s something more to the “two-faced” idiom. 🤔
 
 At any rate, he was right that I was adamant about him getting caught up. I wanted the shared cinematic experience. I realize I was bedridden for much of the winter, but it’s strange that I never bought the movie, or streamed it online. It couldn’t be that I forgot about it. One of my daughters loved the movie so much, she rented out a seat and lived in the theater during its first run. It’s all she texted about for weeks.
 
-I think this is more like that ADHD joke, _“Oooh! Shiny!”_, but on a larger scale. For me it’s a Tourettes episode that lasts for more than a few days or an illness that lasts for a week. I lose track of my current goal if I go too many days without working on it. I’m running forward headlong towards a goal when something happens, then POOF! What goal?
+I think this is more like that ADHD joke, *“Oooh! Shiny!”*, but on a larger scale. For me it’s a Tourettes episode that lasts for more than a few days or an illness that lasts for a week. I lose track of my current goal if I go too many days without working on it. I’m running forward headlong towards a goal when something happens, then POOF! What goal?
 
 I compensate for this, usually, but having a ton of reminders and to do lists. I’m pretty good about keeping track of most of it. It’s how I’ve written two books, blogged professionally for years, and raised kids. However, every once in a while something slips through the cracks. This time it was responding to a text and seeing a movie I had planned on. The brain fog from Long COVID (or chronic fatigue syndrome—whatever they’re going to call it), only makes my [ADHD absentmindedness](http://douglascootey.com/search/label/ADHD "Read some more tips on managing ADHD") worse. It can be frustrating. Whenever this forgetfulness interferes with my life, I try to have a good laugh, but not laugh it off. It’s important to acknowledge some of these quirks are funny. It’s better than hating myself as I used to do decades ago. However, a healthy sense of humor is the only thing that seems to be healthy about me lately.
 
-Maybe I just need to play even **_more_** Sudoku. I’m sure that’ll fix things.
+Maybe I just need to play even ***more*** Sudoku. I’m sure that’ll fix things.
 
 ~Dˢ
 
- 
-
-### ADHD Fixation: The Dark Side of Hyperfocus
+## ADHD Fixation: The Dark Side of Hyperfocus
 
 A lot is made of ADHD’s super power of hyperfocus. I’ve written about it on [several](http://douglascootey.com/2013/09/adhd-three-ways-to-engage-hyperfocus-at.html) [occasions](http://douglascootey.com/2006/03/adhd-dealing-with-distractibility.html) over the years as well. I’ve even created a [ToDo List technique](http://douglascootey.com/2013/02/better-than-todos-i-calling-them-3dos.html) to simulate it!
 
@@ -42,7 +38,7 @@ Should we really label hyperfocus as a superpower, though? I have always been pa
 
 Normally, [adults with adhd](http://douglascootey.com/search/label/ADHD "Read some more tips on managing ADHD") might as well be hamsters on a wheel, furiously running, but not getting anywhere. Suddenly, hyperfocus grants us clarity of vision and purpose, opening the road in front of us into a straight line towards success. When your days are spent fighting against your own brain to get something done, hyperfocus is a big deal.
 
-### So, what’s so bad about hyperfocus?
+## So, what’s so Bad about Hyperfocus?
 
 Hyperfocus without limits is a form of tunnel vision. I like to say that character flaws are talents gone awry. If hyperfocus is a talent, then its flipside is fixation. This ADHD fixation occurs when hyperfocus has no endgame. There is only the project and the drive to complete the project. Everything else is ignored while we relentlessly pursue our goal.
 
@@ -52,7 +48,7 @@ It seems that way, doesn’t it? Hyperfocus is wonderful when the project moves 
 
 I recall a time when a college friend and I were working on an import Japanese goods startup business. We ran into software issues which affected the catalog layout. Instead of stepping away to research the issue, I continued struggling against the software for hours while my friend grew more and more frustrated. I didn’t listen to a darn thing he said. He pleaded with me to find another solution, but I continued. “I’m almost done. Just one more sec.” I never did resolve the issue, so what did all that intense hyperfocus accomplish? Over the last three decades, I have trained myself to not become so fixated when other people were waiting in the wings. However, I still inconvenience myself if I don’t watch for it.
 
-### How do I stop myself from slipping into hyperfocus?
+## How Do I Stop Myself from Slipping into Hyperfocus?
 
 Life is filled with moments where we have to park our hyperfocus in order to function with those around us. While raising children, I had to put the brakes on hyperfocus so that my children wouldn’t have to wait for me to finish a project before, oh, feeding them perhaps? Even last night, I put off writing this article until my adult autistic daughter was put to bed.
 
@@ -64,15 +60,13 @@ When I find myself out in the weeds filled with glorious purpose, I use these ti
 4.  **Stop when you should.** This is the hardest skill of all when hyperfocus whips us forward in a euphoria of clarity. You don’t have to wait until you’ve made a wreckage of your life before learning this skill.
 5.  **Reassess your project and be flexible enough to change course if necessary.** Hyperfocus will have you endlessly working the wrong approach to completion. Our first ideas aren’t always the wisest, even if they are compelling.
 
-### Get it right with practice.
+## Get it Right with Practice
 
 I love hyperfocus; I despise ADHD fixation. Nothing good ever comes of being fixated. I become inflexible, obsessed, and out of touch with the world around me. Years ago, [I melted more than a few pans on the stovetop](http://douglascootey.com/2006/03/adhd-dealing-with-distractibility.html) before learning not to work on a project while also cooking. It is true that sometimes “brilliant” ideas are lost when I prevent myself from getting hyperfocused, but I’d rather be reactive and bored than brilliantly hyperfocused while the world burns around me.
 
 ~Dˢ
 
-  
-
-### That Time ADHD Helped Me Win a Couple of Auctions
+## That Time ADHD Helped Me Win a Couple of Auctions
 
 ![My budget can't handle being sick with ADHD](http://cootey.com/pix/2022/FlyingMoney.gif "My budget can't handle being sick with ADHD")
 
@@ -105,11 +99,9 @@ Illness and ADHD are a terrible combo for me. There are many things I will not a
 
 Coping Strategy: Never bid on auctions when you're sick or tired while experiencing a case of chronic ADHD.
 
-  
+## ADHD – I Forgot that I Was Dating Somebody?
 
-### ADHD – I Forgot that I Was Dating Somebody?
-
-_Can you be so forgetful that you’d forget that you were dating somebody? For a few groggy moments, I was convinced that I had._
+*Can you be so forgetful that you’d forget that you were dating somebody? For a few groggy moments, I was convinced that I had.*
 
 ![A Real Sensitive Guy](http://www.cootey.com/pix/2022/philosodator.jpg "A Real Sensitive Guy")
 
@@ -119,7 +111,7 @@ Oh, everybody forgets things! It’s perfectly normal. For example, my mother ro
 
 [People with ADHD](http://douglascootey.com/search/label/ADHD "Read more tips on managing ADHD") are just like that, except with trips to another room, a few phone calls, and a sudden urge to reorganize their closet in between each name. Perfectly normal! That’s why you probably won’t be surprised to hear that I’ve forgotten quite a bit over the past half year.
 
-My Fall was more hectic than usual. I started with a car accident in August, surgery in September, COVID–19 in October, RSV in November, then an attempt to catch every virus in Utah before the merry-go-round came to a stop last month. I’m surprised I didn’t end up with Hanta Virus somehow, as well as Chicken Pox for a third time. My life was such a wreck, I was lucky I remembered my **_own_** name!
+My Fall was more hectic than usual. I started with a car accident in August, surgery in September, COVID–19 in October, RSV in November, then an attempt to catch every virus in Utah before the merry-go-round came to a stop last month. I’m surprised I didn’t end up with Hanta Virus somehow, as well as Chicken Pox for a third time. My life was such a wreck, I was lucky I remembered my ***own*** name!
 
 Some [interruptions derail the ADHD train](http://douglascootey.com/search?q=adhd+interruption) so completely that when we finally get our caboose back up on the tracks, we often head off in a new direction. It’s not unusual for me to suddenly realize two months after getting over a death match with the Black Plague that I accidentally started a new project instead of resuming an old one. But there go I introducing a new metaphor. You’d think I had enough archeological material to work with considering how much my bedroom resembles a dig.
 
@@ -133,11 +125,9 @@ Probably.
 
 I'm still surprised that I am so used to being forgetful that I could honestly believe such a dream-addled fiction, even for a moment. To my credit, I’m not so forgetful that I would space off a relationship, but if I ever do get a girlfriend and forget her name, you’ll know I’ll be buried with the dinosaurs if I’m tempted to dig through the layers of my memory and start rattling off past girlfriends’ names until I finally arrive at the right one.
 
-  
+## Blind as an ADHD Bat
 
-### Blind as an ADHD Bat
-
-_Ever been so ADHD that you can’t see what you’re looking for, even when it’s right in front of your face?_
+*Ever been so ADHD that you can’t see what you’re looking for, even when it’s right in front of your face?*
 
 ![I’m over here! (iPhone hiding in plain sight)](http://www.cootey.com/pix/2022/InPlainSight.jpg "I’m over here! (iPhone hiding in plain sight)")
 
@@ -158,7 +148,7 @@ Unfortunately, there is no cure for this particular myopia. For me, it’s as mu
 > “Hey, Siri! Where are you?”[¹](http://douglascootey.com/2022/09/adhd-brain-fog-is-no-laughing-matter.html#fn:1 "see footnote")  
 > “Right in front of you, stupid.”  
 > “Hey! Siri, you’re getting kinda cheeky lately.”  
-> “Stop _“losing”_ me then.”  
+> “Stop *“losing”* me then.”  
 
 To avoid imagined fights with Siri and other AI assistants in the future, I have come up with some tips that help me minimize the times I turn a blind ADHD eye to my belongings:
 
@@ -172,11 +162,9 @@ Developing these habits will help you become more mindful of where your possessi
 
 ~Dˢ
 
-  
+## ADHD: Here Are Five Steps I Use to Rein In My Focus
 
-### ADHD: Here Are Five Steps I Use to Rein In My Focus
-
-_A lack of focus is the one common trait that all adults with ADHD seem to have, but focus isn’t as elusive as you might fear._
+*A lack of focus is the one common trait that all adults with ADHD seem to have, but focus isn’t as elusive as you might fear.*
 
 ![Using timed reminders is one tool I use to maintain focus.](http://www.cootey.com/pix/2022/maintain.focus.png "Using timed reminders is one tool I use to maintain focus.")
 
@@ -186,7 +174,7 @@ Finding focus is a complicated issue for [adults with ADHD](http://douglascootey
 
 The key to focus is understanding that [ADHD minds have an aversion to boredom](http://douglascootey.com/search?q=boredom). Scolding somebody to not be bored motivates somebody about as well as a gun to the head. There may be some short term benefits, but in the long run, it will create self-esteem issues and other psychological hangups. Instead, accept that boredom is part of the problem and address it with targeted coping strategies.
 
-## Here are five steps I use to rein in my focus:
+# Here Are Five Steps I Use to Rein in My Focus
 
 1.  **Simplify your tasks:** I break projects down into three steps at a time, usually in the form of a checklist, and memorize those steps. I call them my [ThreeDos](http://douglascootey.com/2013/09/adhd-three-ways-to-engage-hyperfocus-at.html), instead of ToDos. I find I can simulate ADHD hyperfocus by doing this, but without the downside of being totally immersed in my own world and deaf to the one around me.
 2.  **Drown out distractions:** I like playing [EDM](https://en.wikipedia.org/wiki/Electronic_dance_music) to pump up my energy levels, but any music that excites you will do. Dance music causes me to tap my feet, which has the same focusing effect as exercise. It’s important to not play any music with lyrics if you haven’t heard the songs before. The purpose is to prevent distractions, not add to them! If EDM doesn’t work because I’m working with others or I need to stay attentive to outside interruptions, I will play white noise (often mixed with brown and pink noise).
@@ -198,11 +186,9 @@ When my productivity drops and time sails out the window, I know I haven’t bee
 
 ~Dˢ
 
-  
+## When Does [[../../Research.md]] Become a Fixation?
 
-### When Does [[../../Research.md]] Become a Fixation?
-
-_I pull back the curtain a bit today, revealing a deep, dark secret about myself—a secret so dank, surely I’ll lose the last three readers I have._
+*I pull back the curtain a bit today, revealing a deep, dark secret about myself—a secret so dank, surely I’ll lose the last three readers I have.*
 
 ![Pandoras Box from an unknown artist at Pixiv](http://www.cootey.com/pix/2022/Pixiv.Pandoras.Box.jpg "Pandora's Box from an unknown artist at Pixiv")
 
@@ -214,7 +200,7 @@ In 2019, I had noticed that many of my favorite anime that season had origins as
 
 The best way to describe a light novel is as if pulp fiction and anime had a baby. Most stories are told in the first person. Most are written in a rush, with rapid output outweighing literary craft as the number one priority. The emphasis is on story and entertainment, not languid, literary explorations of contemporary themes. That’s where light novels are similar to pulp fiction, but where they differ is that the stories share more in common with comics with overpowered characters, romance being secondary to adventure, and so many portals open to fantasy worlds, it’s surprising Japan has any population left. In fact, many read like visual scripts to anime—as if the authors already have the licensing goals in mind. At worst, they can be fannish, derivative tales where they don’t milk tropes as much as they stick a spicket in and drain them by the bucketful.
 
-Light Novels are not all bad. Otherwise, I wouldn’t spend so much time enjoying them. I’ve found my favorites. The intricate settings of **_Ascendance of a Bookworm_** are inspiring, as is the characterization and complicated plot. So much detail and research went into that series that I’m a little bit in awe of it. **_Unnamed Memory_** is gorgeously written. Earlier volumes are more sumptuous than later volumes, but over all I find the strong world and character building very engaging. The story reads like a fairytale whodunnit. The marathon-named **_Banished from the Hero’s Party, I Decided to Live a Quiet Life in the Countryside_** is a LitRPG, traditional high fantasy story that slowly reveals deep explorations on the meaning of free will while it subverts the proverbial hero role. Like **_Unnamed Memory_**, the story bucks the Light Novel trend and features romance in a warm and healthy way. Also, the **_Rascal Does Not Dream of…_** series is notable for its rapid-fire and funny dialog. Imagine a Young Adult **_X-files_** crossed with **_Moonlighting_** situated in Japan. The story is funny, but the author makes me care about the characters. The last volume was a bit cruel with my heartstrings.
+Light Novels are not all bad. Otherwise, I wouldn’t spend so much time enjoying them. I’ve found my favorites. The intricate settings of ***Ascendance of a Bookworm*** are inspiring, as is the characterization and complicated plot. So much detail and research went into that series that I’m a little bit in awe of it. ***Unnamed Memory*** is gorgeously written. Earlier volumes are more sumptuous than later volumes, but over all I find the strong world and character building very engaging. The story reads like a fairytale whodunnit. The marathon-named ***Banished from the Hero’s Party, I Decided to Live a Quiet Life in the Countryside*** is a LitRPG, traditional high fantasy story that slowly reveals deep explorations on the meaning of free will while it subverts the proverbial hero role. Like ***Unnamed Memory***, the story bucks the Light Novel trend and features romance in a warm and healthy way. Also, the ***Rascal Does Not Dream of…*** series is notable for its rapid-fire and funny dialog. Imagine a Young Adult ***X-files*** crossed with ***Moonlighting*** situated in Japan. The story is funny, but the author makes me care about the characters. The last volume was a bit cruel with my heartstrings.
 
 Reading for research is one thing, but light novels have replaced vegging out in front of the boob tube. That’s an improvement, right⸮ They’ve replaced gaming, too. The downside is now that I read for fun, I’m no longer studying the craft, the pacing, the compromises, or the output of the authors involved.
 
@@ -222,15 +208,13 @@ I blame [j-novel.club](https://j-novel.club/) (JNC). I paid for a subscription t
 
 I’m not complaining. Light novels and Kindle Vella gave me the kick in the butt I needed to write more. Serializing daily? Do you realize how much work that is? Even if the output is a tropey lark with no originality, I am still impressed with the dedication and output. On top of my Tourette’s and other issues, the pandemic, along with family drama, snuffed out my writing flame. I felt like a podling from Dark Crystal, drained and lifeless as I moved from day to day. Now I’m anxiously engaged in a good cause in my own way instead of letting depression win.
 
-If only I could cut back on reading and do more writing. _(Serialized daily! I’m exhausted just thinking about it.)_
+If only I could cut back on reading and do more writing. *(Serialized daily! I’m exhausted just thinking about it.)*
 
 ~Dˢ
 
-  
+## Doomsday in December?
 
-### Doomsday in December?
-
-_I’m run down and sick, so I’m posting something positive every day this week until I lift my spirits._
+*I’m run down and sick, so I’m posting something positive every day this week until I lift my spirits.*
 
 ![Hipstamatic Photo. Looking Fine!](http://www.cootey.com/pix/2021/HipstamaticPhoto-LookingFine.jpg "Hipstamatic Photo. Looking Fine!")
 
@@ -261,17 +245,15 @@ With that said, I’m being grateful and posting a blog today. I even took a sel
 
 ~Dˢ
 
-  
+## Feeling Down, So It’s Time To Be Grateful
 
-### Feeling Down, So It’s Time To Be Grateful
-
-_Sometimes life gets me down. So what am I going to do about it?_
+*Sometimes life gets me down. So what am I going to do about it?*
 
 ![Moody Sunset Looking West](http://www.cootey.com/pix/2021/MoodySunset.jpeg "Moody Sunset Looking West") I’ve been way too sick to blog lately or post here. I mostly lay in bed and cough. It’s a party! But I did get some [book writing](http://douglascootey.com/2016/11/books-by-douglas-cootey.html "My growing list of published books. A new one by the end of 2021!") in. One more chapter, and I’ll be ready to post it on Kindle Vella. Now I just need to design a fetching avatar for the book.
 
 I started feeling better yesterday…marginally. I had energy enough to remotely log into my four computers and setup SSH key pairs, moved some doge into a dedicated hot wallet, listed items on eBay, updated my dynamic DNS account to make sure my web and ebook servers were working, downgraded Calibre and DeDRM to fix the Mac glitch with Kindle 1.31.0 where the DRM keys weren’t passed to the new install, then upgraded them so I can make DRM-free backups of my purchases again, ignored the crypto-markets because they were [depressing](http://douglascootey.com/search/label/Depression "Read more about coping with Depression"), worked on the impossible family jigsaw puzzle that will be the death of me before sickness ever takes me out, read a lot of books, and laid down inbetween each task to recouperate.
 
-What’s funny is that what I **_want_** to do is vastly different from that list I just shared with you, but I simply can’t exercise or do PT yet. I can’t write as long as I can tinker. I run out of stamina. Same problem with studying Japanese. Or blogging. I wonder why tinkering on my computers is easy, but working on them is hard?
+What’s funny is that what I ***want*** to do is vastly different from that list I just shared with you, but I simply can’t exercise or do PT yet. I can’t write as long as I can tinker. I run out of stamina. Same problem with studying Japanese. Or blogging. I wonder why tinkering on my computers is easy, but working on them is hard?
 
 I believe the reason is that I forget to take breaks when I work, but tinkering is intellectual pudding, effortless for me to do, and I take frequent breaks in between tasks. You’d think I’d set a timer and work in small blocks when working. You know? The Pomodoro method? Ten minute increments? I’ve been so exhausted from these oxygen-depleting coughing attacks that come up from the bottom of my toes, I’ve forgotten most of my coping strategies.
 
@@ -293,11 +275,9 @@ There! That was better, don’t you think? What are you grateful for?
 
 ~Dˢ
 
-  
+## Good Grief! Where Have I Been All This Time‽
 
-### Good Grief! Where Have I Been All This Time‽
-
-_My life was briefly put on hold, thanks to a certain virus, but now I’m back, more cheeky & cynical than ever!_
+*My life was briefly put on hold, thanks to a certain virus, but now I’m back, more cheeky & cynical than ever!*
 
 ![Orange-tinted Sunset](http://www.cootey.com/pix/2021/Orange-tintedSunset.jpg "Orange-tinted Sunset")
 
@@ -329,11 +309,9 @@ Weather:    46°F Mostly Cloudy
 Location:   Sandy, Utah, United States
 ```
 
-  
+## What Gets You Down?
 
-### What Gets You Down?
-
-_Sometimes external forces can induce depression. They can induce panic. They can control how you see the world if you let them._
+*Sometimes external forces can induce depression. They can induce panic. They can control how you see the world if you let them.*
 
 ![](http://www.cootey.com/pix/2021/cryptocrash.jpg "The crypto market-all red-all going down")
 
@@ -343,7 +321,7 @@ I decided to get into crypto last Spring—two days before China cracked down on
 
 I laughed. There I was. Mr. Moneybags. The Crypto Guru. All because I was so entertained just twenty-four hours earlier when my $10 had gained 50¢ in value.
 
-The main character of my book made and lost a fortune in crypto, so I wanted to understand that world better before writing about it. He lost his business. He lost his girl. He lost his charm, optimism, and self-respect. He was destroyed in a week. It wasn’t my goal to lose my $10 bucks. I don’t need to write **_that_** authoritatively! However, I did feel that some background knowledge would make me write a more realistic character.
+The main character of my book made and lost a fortune in crypto, so I wanted to understand that world better before writing about it. He lost his business. He lost his girl. He lost his charm, optimism, and self-respect. He was destroyed in a week. It wasn’t my goal to lose my $10 bucks. I don’t need to write ***that*** authoritatively! However, I did feel that some background knowledge would make me write a more realistic character.
 
 They say that the cryptocurrency market is volatile. Saying that is like saying the sun is somewhat warm. Since Spring I have seen the crypto market crash three times. It’s doing so again right now. It will probably be up again sometime after my surgery, but for the moment it is leaving a trail of blood all the way to the floor. The common internet advice is to “buy the dip”, which means buy during the crash. I’m not in a position to do that. I’m better off focusing on paying off my medical bills. Besides, sometimes dips have dips, too.
 
@@ -365,11 +343,9 @@ My entire [book on fighting suicide](http://douglascootey.com/2016/01/saying-no-
 > Weather: 61°F Sunny  
 > Location: Sandy, Utah, United States
 
-  
+## Finding the Beauty in Chaos
 
-### Finding the Beauty in Chaos
-
-_A new beginning that looks an awful lot like the old one._
+*A new beginning that looks an awful lot like the old one.*
 
 ![](http://www.cootey.com/pix/2021/IMG_1643.PNG "Beauty in Chaos. Bronze fractal filaments over a blue background")
 
@@ -405,15 +381,13 @@ I hope you won’t mind coming along for the ride. There are some beautiful sigh
 > Weather: 76°F Sunny  
 > Location: Sandy, Utah, United States
 
-  
-
-### Feedburner Is Dying. I'm Moving Email Subscriptions to Follow.it
+## Feedburner Is Dying. I'm Moving Email Subscriptions to Follow.it
 
 ![(cc) Douglas Cootey](http://www.cootey.com/weblog/pix/2006/2006-03-07_BrainFree.jpg "(cc) Douglas Cootey")
 
 Feedburner is being put to pasture by Google, so I have moved my Feedblitz email subscribers over to [follow.it](https://follow.it/asplinteredmind?action=followPub). Thank you for understanding. 
 
-My original RSS URL is sixteen years old, back from when I called this blog **_THE_** Splintered Mind, long before I discovered that early blog indexers alphabetized their listings without ignoring determiners like "a" or "the". So _**A**_ Splintered Mind was born, and suddenly I was at the top of the lists. Yep, I was sneaky. 
+My original RSS URL is sixteen years old, back from when I called this blog ***THE*** Splintered Mind, long before I discovered that early blog indexers alphabetized their listings without ignoring determiners like "a" or "the". So ***A*** Splintered Mind was born, and suddenly I was at the top of the lists. Yep, I was sneaky. 
 
 Then I discovered Feedburner which allowed me to track stats and such on the people who subscribed. Feedburner took the old RSS feed and gave you a new one to share with readers that made their magic work. Now Google's shelving the magic. Bad news for me, but not bad news for you.
 
@@ -423,9 +397,7 @@ It's also time for me to move this blog to another platform, so I'll be planning
 
 ~Dˢ
 
-  
-
-### Patience for Those Who Grieve
+## Patience for Those Who Grieve
 
 ![Anger, Grief & Pain © Douglas Cootey](http://www.cootey.com/pix/2021/anger-grief-pain.gif "Anger, Grief & Pain © Douglas Cootey")
 
@@ -452,15 +424,13 @@ I’m not sure what I can do to help the family in my neighborhood. I’m not ex
 
 I wrote a book a few years back that has advice on how to deal with suicide. [You might find it helpful.](http://douglascootey.com/2016/01/saying-no-to-suicide-by-douglas-r-cootey.html "Saying NO to Suicide")
 
-  
+## Depression: Five Throw-Away Journal Ideas You Write in Secret
 
-### Depression: Five Throw-Away Journal Ideas You Write in Secret
-
-_Sometimes the best kind of journal is the one that you shred, light on fire, then cast its ashes to the wind._
+*Sometimes the best kind of journal is the one that you shred, light on fire, then cast its ashes to the wind.*
 
 ![Throw-Away iPad](http://www.cootey.com/pix/2021/Throw-Away-iPad.jpg "Throw-Away iPad")
 
-Last January, I woke up severely depressed one morning. At first, I didn’t realize what was happening. I just knew that I had no will to move, no will to eat, no will to do anything. **_I felt interred with heavy, suffocating sadness._**
+Last January, I woke up severely depressed one morning. At first, I didn’t realize what was happening. I just knew that I had no will to move, no will to eat, no will to do anything. ***I felt interred with heavy, suffocating sadness.***
 
 Mmm, that sounds rather dramatic, doesn’t it?
 
@@ -476,7 +446,7 @@ The abandoned journal entry did serve a therapeutic purpose, however. It was so 
 
 The temporary, throw-away journal is a fantastic coping strategy for when you need to purge your feelings but don’t necessarily want to share them with anybody. One of the worst things you can do for yourself when you’re depressed is to bottle up your emotions. Those dark and toxic feelings tend to bounce around in our head, building up momentum and importance. When I am emotionally agitated, keeping ideas to myself is the quickest way towards blowing things out of proportion.
 
-Although I’ve talked before about [the importance of support networks](http://douglascootey.com/2020/05/give-yourself-fighting-chance-put.html), sometimes I don’t want to share these dark feelings with anybody. They’re too personal and often a wee bit self-indulgent. Long ago, I decided that burdening a family member or friend with that potent prose was a bad idea. Instead, I express myself into a journal I have no intention of keeping. I can be as **_turgidly maudlin_** as I want. Sometimes, the temporary journal helps me vent the worst of my feelings so that I don’t overburden my support network when I reach out to them afterwards.
+Although I’ve talked before about [the importance of support networks](http://douglascootey.com/2020/05/give-yourself-fighting-chance-put.html), sometimes I don’t want to share these dark feelings with anybody. They’re too personal and often a wee bit self-indulgent. Long ago, I decided that burdening a family member or friend with that potent prose was a bad idea. Instead, I express myself into a journal I have no intention of keeping. I can be as ***turgidly maudlin*** as I want. Sometimes, the temporary journal helps me vent the worst of my feelings so that I don’t overburden my support network when I reach out to them afterwards.
 
 Here are five temporary journal ideas for when you need to vent or work through your feelings before talking to somebody:.
 
@@ -488,11 +458,9 @@ Here are five temporary journal ideas for when you need to vent or work through 
 
 Although my depression did not magically go away that morning, I was able to lighten the depth of it, which allowed me to get out of bed, eat, get myself dressed, and move on with my day. I didn’t take to social media and embarrass myself with a self-pitying plea for sympathy or post that purple pile on my blog. I love journal writing, and I have a dozen or so volumes tucked away in boxes, but I don’t want every moment to be preserved for posterity. Sometimes, I just need to vent—maybe even wallow—until I’m ready to let it go. Those moments are private. That’s why I like to delete them. Hopefully, you’ll find these suggestions helpful when you have a bad day of your own.
 
-  
+## Depression – Breaking Out of the Cocoon and Thinking You've Failed
 
-### Depression – Breaking Out of the Cocoon and Thinking You've Failed
-
-_Sometimes we can be so fixated upon the finish line that we miss how far we’ve already come._
+*Sometimes we can be so fixated upon the finish line that we miss how far we’ve already come.*
 
 [![Backlit cocoon of an emperor moth](https://www.cootey.com/pix/2021/backlitcocoon.jpg "Backlit cocoon of an emperor moth")](https://alanwatsonfeatherstone.com/a-day-in-inchvuilt-wood/)  
 © Alan Watson Featherstone
@@ -501,7 +469,7 @@ Ah, if I hear another commercial on the radio with a smooth-talking announcer ea
 
 So I’m not going to talk to you as if you just woke up next to Rip Van Winkle and need me to explain what COVID–19 is. I’m just going to write from my heart about how this pandemic has affected me, and maybe you’ll be able to relate:
 
-### I feel like my life has been sealed in a cocoon.
+## I Feel like My Life Has Been Sealed in a Cocoon
 
 This is a funny thing to write because I’ve never before been so productive in my life. No, the **BIG** goals like publishing my new books haven’t been accomplished yet, but I’m paying off debts, I successfully swam through oceans of paperwork and petitioned for guardianship of my disabled daughter, I’m the fittest I’ve ever been in my adult life, I’m dating again (which means I occasionally leave my home), people pay me to write for some reason, and I have raised four lovely daughters.
 
@@ -509,11 +477,11 @@ But life feels like it’s on hold. Some of that is the pandemic’s fault. Afte
 
 Consider this. I’ve just had the healthiest Winter in forever. I cannot recall a year in decades where I didn’t spend weeks sick in bed during the Winter. However, this time I only experienced four colds at most, and each one was over within a day. Talk about unprecedented times! I’m never this healthy. The diagnosis of asthma, the meds to treat it, and the new coping strategies I employ to keep myself healthy have all turned my world around. This was thanks to my consistent, proactive efforts to solve my health issues despite being sick.
 
-But do I focus on that in my head? Why would I? I haven’t published my new book yet. I haven’t lost ALL my weight yet. I’m not married. Loser! _Wait, what?_
+But do I focus on that in my head? Why would I? I haven’t published my new book yet. I haven’t lost ALL my weight yet. I’m not married. Loser! *Wait, what?*
 
-I should be ecstatic. I should be happier than those models you see in bank advertisements who are **_so excited_** to be in debt, their smiles wrap fully around their heads. The reality is that my life isn’t so bad, even without a 360ª smile. I’m incredibly blessed. What’s to be depressed about‽
+I should be ecstatic. I should be happier than those models you see in bank advertisements who are ***so excited*** to be in debt, their smiles wrap fully around their heads. The reality is that my life isn’t so bad, even without a 360ª smile. I’m incredibly blessed. What’s to be depressed about‽
 
-Yet each one of the complaints I fixated on sat upon my chest like an elephant of disappointment. I could barely move. While I lay there focusing on my burdensome list of failures, I wasn’t focusing on the good that I had accomplished, nor was I benefiting from the rewards. I was disavowing them instead because _“I haven’t done enough”_. I understand that depression doesn’t need a reason to lay waste to happiness, but my errors in thought weren’t helping.
+Yet each one of the complaints I fixated on sat upon my chest like an elephant of disappointment. I could barely move. While I lay there focusing on my burdensome list of failures, I wasn’t focusing on the good that I had accomplished, nor was I benefiting from the rewards. I was disavowing them instead because *“I haven’t done enough”*. I understand that depression doesn’t need a reason to lay waste to happiness, but my errors in thought weren’t helping.
 
 How thankful I am that Spring came early for a spell. I got outside finally. I jumped on my longboard as often as I could and cruised around in the sun, talked with strangers, smiled a little, and felt good about myself. When Spring snubbed Summer and passed the baton on to Fall, however, my mood began to sink. That’s when I noticed what I was doing to myself. Was I really allowing the weather to determine my mood? Well, it’s more complicated than that. I have [major depression disorder](http://douglascootey.com/search/label/Depression "Read more about coping with Depression") and [persistent depression disorder](http://douglascootey.com/search/label/Depression "Read more about coping with Depression"). I don’t need an overcast day with chilly rain to get me depressed. However, I certainly was allowing weather to dictate my coping strategies.
 
@@ -523,9 +491,7 @@ As you start to come out of your pandemic cocoons, keep in mind your coping stra
 
 ~Dˢ
 
- 
-
-### Is Suicide Preventable? (Short Answer: YES)
+## Is Suicide Preventable? (Short Answer: YES)
 
 As I wind up my latest book project, I thought it might be a good time to share an interview of sorts I did a few months ago. I was asked to answer the question “Is suicide preventable?” in three sentences. Can such a question be answered in three sentences‽ Actually, it can be answered with one word: Yes. I elaborated on that word with three sentences that I hope are helpful to somebody.
 
@@ -537,9 +503,7 @@ I know a former bishop of mine who will ask me how I’m doing when we bump into
 
 ~Dˢ
 
-  
-
-### Top Mental Health Blogs for 2020—the Bestest Year EVER!
+## Top Mental Health Blogs for 2020—the Bestest Year EVER
 
 [![](https://www.cootey.com/pix/2020/twinkl2020.png "A great list of mental health blogs")](https://www.twinkl.com/blog/top-mental-health-blogs-2020?fbclid=IwAR1HrXZnmvQ8h8aXUqcbrAaOy_RYto6B2FXGo-y4-rT1OPf0zcBLxvOOaSI)All was not terrible in 2020. 
 
@@ -553,15 +517,13 @@ British education site Twinkl reached out to me with the good news in September�
 
 If your Fall was filled with sickness, quarantines, family members with COVID-19, and false alarms like mine, you might enjoy having something new to read. Here is a list of fresh mental health blogs with unique points of view. You might find a new kindred spirit or a new valued resource. Hurry on over to [Top Mental Health Blog 2020](https://www.twinkl.com/blog/top-mental-health-blogs-2020?fbclid=IwAR1HrXZnmvQ8h8aXUqcbrAaOy_RYto6B2FXGo-y4-rT1OPf0zcBLxvOOaSI). 
 
-  
-
-### ADHD: ToDo Tabs Done Right
+## ADHD: ToDo Tabs Done Right
 
 ![ToDo Tabs Mania](https://www.cootey.com/pix/2020/ToDoTabsMania.png "ToDo Tabs Mania")
 
 Sometimes I wonder if there’s a support group out there for adults with ADHD who have an open tabs addiction.[¹](http://douglascootey.com/2022/09/adhd-brain-fog-is-no-laughing-matter.html#fn:1 "see footnote")
 
-_Hello, my name is Douglas Cootey, and I’m a hard core tabs junkie._
+*Hello, my name is Douglas Cootey, and I’m a hard core tabs junkie.*
 
 Maybe this seems like a first world problem. Maybe you’re asking yourself, “What’s the big deal with several hundred open tabs?” If that’s how you think, you might need to join me at that meeting.
 
@@ -569,7 +531,7 @@ In theory there’s nothing wrong with lots of open browser tabs. I did things t
 
 Just as ToDo lists can get long and unmanageable, ToDo tabs multiply until they become noise—no longer useful as resources or reminders. Yes, you’ve got web pages open for that funny self-surgery with tweezers, fifty things to do with a used toilet paper roll, and The Astounding Link Between Lizard People and the Founding Fathers, but where are they?
 
-Productivity takes a hit when our ADHD tendencies aren’t reined in for a simple reason: chaos means extra work. I once had so many tabs up, I kept researching the same material over and over again. I had forgotten the very same research was already available in two identical tabs. Other times, when I do manage to remember I saved something as a ToDo tab, I have to dig through dozens upon dozens of tabs to find where the web pages I want are hiding. Worst still, I might be distracted by an old tab while making my search. Open tabs can weigh on the mind. Many of them represent unfinished projects waiting to snare my attention. This is what happens when you keep _“31 Pumpkin Spice Recipes that Will Win Her Back”_ lurking in the background. Instead of writing, I’m suddenly in the kitchen making pumpkin spice sushi rice.
+Productivity takes a hit when our ADHD tendencies aren’t reined in for a simple reason: chaos means extra work. I once had so many tabs up, I kept researching the same material over and over again. I had forgotten the very same research was already available in two identical tabs. Other times, when I do manage to remember I saved something as a ToDo tab, I have to dig through dozens upon dozens of tabs to find where the web pages I want are hiding. Worst still, I might be distracted by an old tab while making my search. Open tabs can weigh on the mind. Many of them represent unfinished projects waiting to snare my attention. This is what happens when you keep *“31 Pumpkin Spice Recipes that Will Win Her Back”* lurking in the background. Instead of writing, I’m suddenly in the kitchen making pumpkin spice sushi rice.
 
 What turned me around was when my learning disabled daughter hopped onto my open Mac and somehow reset all my tabs. I had three windows open with 20–30 tabs in each window. Yes, some of the tabs were a kind of wishlist on how I wanted to spend my time or money, but the majority were important research for my first book. I literally sounded like Luke Skywalker when he met a certain long-lost relative. All my research! Gone!
 
@@ -584,6 +546,6 @@ Fortunately, my hourly data backup allowed me to restore what was removed, but s
 
 My old ToDo tabs system was terribly inefficient, risky, and a drain on productivity, but now ToDo tabs have become a powerful tool at my fingertips. I have to admit that every once in a while I need a reminder lesson. About once a quarter I prune my ToDo tabs to make them easy to access, visually accessible, and useful again. My ToDo tabs and bookmarks are much more useful when I take time to prune and organize them. Since open tabs represent ToDo list items to me, each tab needs to be important and deserving of my time. Now that I manage them, I don’t need intervention or a support group anymore.
 
-
 ***
+
 #Blog #Adderall

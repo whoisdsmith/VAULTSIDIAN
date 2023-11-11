@@ -5,7 +5,7 @@ source: https://nymag.com/intelligencer/2023/03/wheres-the-urgency-on-the-addera
 author: Benjamin Hart
 ---
 
-# Where’s the Urgency on the Adderall Shortage?
+# Where’s The Urgency on the Adderall Shortage?
 
 > ## Excerpt
 > Speaking with ADHD expert Dr. David Goodman about the severe shortage of adderall and similar medications around the country, which has wreaked havoc on the lives of ADHD sufferers.
@@ -25,7 +25,7 @@ While we can explain what happened in the fall, the question now is, Why is it p
 **There seems to be a lot of frustration about how authorities have communicated these issues to patients. Have you felt a certain lack of urgency?**  
 I think there’s a certain lack of urgency in Congress to call for oversight investigations. There are only [two members of Congress](https://spanberger.house.gov/posts/spanberger-urges-fda-dea-to-address-prescription-adderall-shortage) who have raised this issue with the DEA. My question is, Where’s the political will to try to get answers for the general public? My concern is that, given what we went through in the opioid crisis, people are gun shy about standing up and trying to support the prescriptions of yet another controlled drug. And yet this medicine is critical to those people with ADHD.
 
-**Do you think the muted response has to do with the image of Adderall in the public consciousness? It may be associated with, say, a college student taking it for an all-nighter and not thought of as a life-saving medication.**   
+**Do you think the muted response has to do with the image of Adderall in the public consciousness? It may be associated with, say, a college student taking it for an all-nighter and not thought of as a life-saving medication.**  
 People who don’t experience ADHD, don’t have family members with it, don’t understand it, fail to realize that this is more than just an inattention problem. The negative consequences of untreated ADHD are increased risk of cigarette smoking, substance abuse, alcohol abuse, pregnancy, divorce, underachievement academically, criminal activity, impulsive risky behavior.
 
 If you look at the emerging literature in the last five years, it’s very clear that treating ADHD reduces a lot of those risky negative consequences. So while everyone wants to yell and scream about the overprescription of stimulants, we don’t focus on the fact that these untreated people suffer terrible consequences in their life.

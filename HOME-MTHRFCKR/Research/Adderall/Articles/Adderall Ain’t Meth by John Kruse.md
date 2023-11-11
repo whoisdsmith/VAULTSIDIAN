@@ -1,11 +1,12 @@
-# Adderall Ain’t Meth. 
+# Adderall Ain’t Meth
 
 | by John Kruse | Invisible Illness | Medium
 
 ---
+
 # Adderall Ain’t Meth
 
-## With a surging stimulant epidemic, the difference matters.
+## With a Surging Stimulant Epidemic, the Difference Matters
 
 ![](https://miro.medium.com/max/1400/1*uJUEMIdmZ6NqnmIQuLjFwg.jpeg)
 
@@ -17,7 +18,7 @@ Even if you don’t have ADHD, or aren’t taking stimulants for other medicinal
 
 I don’t even drink coffee, yet meth abuse intruded into my life last month. Two years of meth binges rendered my schizophrenic neighbor even less in touch with reality, and [he shot and killed his seventy year old father](https://thebolditalic.com/a-killer-on-the-loose-seventy-miles-from-san-francisco-4a58bd3184e1). We’re likely to be hearing more stories like this as meth addiction proliferates.
 
-## **Meh, what’s meth anyway?**
+## **Meh, what’s Meth anyway?**
 
 If you feel confused in sorting out the stimulants, you’re not alone. That “meth-“ prefix can lead people astray. Several [rehab websites](https://wellnessretreatrecovery.com/speed-limit-similarities-adderall-use-meth-use/) that purport to explain how meth differs from amphetamine (Adderall, Vyvanse, and others) make basic errors in distinguishing between methamphetamine, amphetamine, and methylphenidate (Ritalin, Concerta and others). Cocaine, another stimulant, is even more chemically distinct from this triad.
 
@@ -31,7 +32,7 @@ Psychoactive drugs interact with complex three-dimensional receptor molecules, s
 
 Methamphetamine also exists in stereoisomeric D- and L- forms as well; meth consists of a mixture of equal amounts of D- and L-methamphetamine. In the next section, we will see how that added methyl group changes the action of meth compared to amphetamine.
 
-## **Meth in the Brain**
+## **Meth In the Brain**
 
 Stimulants primarily affect three systems that regulate the flow of monoamine neurotransmitters (dopamine, norepinephrine and serotonin) within and between neurons: the trace amine-associated receptor (TAAR), dopamine transporter (DT), and the vesicular monoamine transporter (VMAT).
 
@@ -57,7 +58,7 @@ Binging, or consuming large quantities over the span of several days, remains th
 
 The common social and psychological environments for meth use also differ from that of amphetamine use. Those consuming amphetamines are more likely to take their drug in the presence of social supports who can help regulate drug intake, address any adverse effects, and encourage healthy patterns of self-care. When using meth alone or in the company of other impaired individuals, one loses these safeguards and positive reinforcements.
 
-## **Are stimulants mething up society?**
+## **Are Stimulants Mething up society?**
 
 In pre-WWII Germany, meth [was widely available](https://www.sciencedirect.com/science/article/abs/pii/S1522864911500162?via%3Dihub) without a prescription, and the military encouraged soldiers to utilize the drug to stay alert and keep fighting. Only when meth withdrawal crashes and acts of meth-induced violence became too frequent and disruptive did officials curtail its use. By 1941 the government made it only available by prescription.
 
@@ -75,6 +76,6 @@ We must learn from the opioid crisis, and increase our efforts to educate the pu
 
 It’s okay to get angry and alarmed about people abusing speed. But there should be meth(od) to our madness. We need to crystalize our focus on meth abuse and take steps to ensure that we do not eliminate beneficial medications for those who are responsibly using stimulants to mitigate their ADHD, narcolepsy, or other conditions.
 
-
 ***
+
 #Article #Adderall
